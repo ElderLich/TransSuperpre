@@ -1,5 +1,29 @@
 [
   {
+    "name": "Espectro Moissa",
+    "desc": "Sólo puedes usar el efecto ② de \"Espectro Moissa\" una vez por turno.\r\n①: El nombre de esta carta se convierte en \"Sirviente de la Calavera\" mientras esté en el Cementerio.\r\n②: Si esta carta es Invocada de Modo Normal o Especial: puedes añadir a tu mano 1 \"Sirviente de la Calavera\" o 1 carta que la mencione desde tu Deck, excepto \"Moissa Wight\", además no puedes realizar una Invocación Especial por el resto de este turno, excepto monstruos Zombie.\r\n③: Durante tu Main Phase, puedes Invocar de Modo Normal 1 monstruo Zombie de Nivel 4 o menor además de tu Invocación Normal/Colocación. (Sólo puedes obtener este efecto una vez por turno.)",
+    "overallString": "[Monster|Effect] Zombie/Dark  [★1] 300/200",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208029.jpg?version=9.10"
+  },
+  {
+    "name": "Maestro de los Espectros",
+    "desc": "①: Si tu \"Rey de los Sirvientes de la Calavera\" ataca a un monstruo en Posición de Defensa, inflige daño de batalla de perforación a tu adversario.\r\n②: Una vez por turno: puedes seleccionar 1 \"Sirviente de la Calavera\" o \"Rey de los Sirvientes de la Calavera\" en tu Cementerio; manda al Cementerio 1 \"Sirviente de la Calavera\" o 1 monstruo que lo mencione desde tu Deck y, si lo haces, Invoca de Modo Especial ese objetivo, pero no puedes realizar Invocaciones de Modo Especial por el resto de este turno, excepto monstruos Zombie.",
+    "overallString": "[Spell|Continuous]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208065.jpg?version=9.10"
+  },
+  {
+    "name": "Dragoncella Stern",
+    "desc": "Sólo puedes usar cada efecto ① y ③ de \"Dragoncella Stern\" una vez por turno.\r\n①: Puedes descartar esta carta; Invoca de Modo Especial, desde tu Cementerio o destierro, 1 monstruo \"Dragoncella\", excepto \"Dragoncella Stern\".\r\n②: Los Monstruos de Fusión Dragón que controles no pueden ser destruidos por efectos de cartas de tu adversario.\r\n③: Al final de la Battle Phase: puedes regresar esta carta a la mano y, si lo haces, Invoca de Modo Especial, desde tu mano, 1 monstruo \"Dragoncella\" de Nivel 4 o menor.",
+    "overallString": "[Monster|Effect] Dragon/Dark  [★9] 2800/1800",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100229001.jpg?version=9.10"
+  },
+  {
+    "name": "Doncella Dragoncella",
+    "desc": "【Material(es)】: 2 monstruos \"Dragoncella\" con el mismo Atributo pero diferentes Niveles\r\nPrimero debe ser Invocado de Modo Especial (desde tu Deck Extra) desterrando 1 de cada una de las cartas anteriores desde tu Campo y Cementerio. Sólo puedes usar los efectos ① y ② de \"Doncella Dragoncella\" una vez por turno.\r\n①: Si esta carta es Invocada de Modo Especial: puedes Invocar de Modo Especial, desde tu Deck, 1 monstruo \"Dragoncella\" de Nivel 4 o menor.\r\n②: Durante la Standby Phase: puedes Invocar por Fusión, desde tu Deck Extra, 1 Monstruo de Fusión Dragón, barajando sus materiales desde tu Campo y/o desterrándolos al Deck.",
+    "overallString": "[Monster|Effect|Fusion] Dragon/Light  [★8] 2000/3000",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100229002.jpg?version=9.10"
+  },
+  {
     "name": "Endimión, la Media Luna de Magistus",
     "desc": "【Material(es)】: 2 monstruos, incluido un monstruo Lanzador de Conjuros de Nivel 4\r\nSólo puedes usar los efectos ① y ② de \"Endimión, la Media Luna de Magistus\" una vez por turno, y solo una vez ese turno.\r\n①：Si esta carta es Invocada por Enlace: puedes seleccionar 1 monstruo \"Magistus\" que controles; equípale 1 monstruo Lanzador de Conjuros desde tu Cementerio o que esté desterrado.\r\n②: Durante la Main Phase (Efecto Rápido): puedes seleccionar 1 monstruo Lanzador de Conjuros en tu Zona de Magia/Trampas tratado como una carta Mágica de Equipo; devuélvelo a la mano.",
     "overallString": "[Monster|Effect|Link] Spellcaster/Light  [LINK-2] 1850/-  [←][↘]",
@@ -216,36 +240,6 @@
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100229020.jpg?version=9.10"
   },
   {
-    "name": "Avance, Espadachín de los Necroz",
-    "desc": "Sólo puedes usar el efecto ③ de \"Avance, Espadachín de los Necroz\" una vez por Duelo.\r\n①: Cuando esta carta es Invocada de Modo Normal: puedes Invocar de Modo Especial, desde tu Deck, 1 monstruo \"Necroz\", excepto \"Avance, Espadachín de los Necroz\".\r\n②: Si Invocas por Ritual exactamente 1 Monstruo de Ritual \"Necroz\" con un efecto de carta que requiera el uso de monstruos, esta carta que controlas puede ser usada como todo el requerimiento.\r\n③: Si esta carta es Sacrificada por efecto de carta: puedes añadir a tu mano cualquier cantidad de tus cartas \"Necroz\" desterradas con nombres diferentes.",
-    "overallString": "[Monster|Effect] Spellcaster/Water  [★4] 1500/800",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100227072.jpg?version=9.10"
-  },
-  {
-    "name": "Emilia, Sacerdotisa de la Danza de los Necroz",
-    "desc": "Sólo puedes usar cada efecto ① y ② de \"Emilia, Sacerdotisa de la Danza de los Necroz\" una vez por turno.\r\n①: Si tienes un monstruo Guerrero \"Necroz\" en tu Campo o en tu Cementerio: puedes Invocar esta carta de Modo Especial desde tu mano.\r\n②: Si esta carta es Invocada de Modo Normal o Especial: puedes añadir a tu mano 1 Monstruo de Ritual \"Necroz\" o 1 Mágica \"Necroz\" desde tu Deck.\r\n③: Si Invocas por Ritual exactamente 1 Monstruo de Ritual \"Necroz\" con un efecto de carta que requiera el uso de monstruos, esta carta puede ser usada como ese requisito.",
-    "overallString": "[Monster|Effect] Spellcaster/Water  [★4] 1600/800",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100227073.jpg?version=9.10"
-  },
-  {
-    "name": "Necroz de Metaltron",
-    "desc": "←◊5 Escala 5◊→\r\n【Efecto de Péndulo】\r\nSólo puedes usar el Efecto de Péndulo \"Necroz de Metaltron\" una vez por turno.\r\n①: Si tu(s) carta(s) \"Necroz\" se destierra(n) boca arriba: puedes seleccionar 1 Mágica/Trampa en el Campo; destiérrala.\r\n----------------------------------------\r\n【Efecto de Monstruo】\r\nPuedes Invocar esta carta por Ritual con cualquier Mágica de Ritual \"Necroz\".\r\nDebe ser Invocada por Ritual, sin usar ningún monstruo de Nivel 9.\r\nSolo puedes usar el Efecto de Monstruo ① de \"Necroz de Metaltron\" una vez por turno.\r\n①: Durante la Main Phase (Efecto Rápido): puedes seleccionar 1 monstruo boca arriba que controle tu adversario; destierra esta carta (hasta la End Phase) y, si lo haces, destierra ese objetivo.\r\n②: Cualquier monstruo destruido en batalla con tu monstruo \"Necroz\" es desterrado.",
-    "overallString": "[Monster|Effect|Ritual|Pendulum] Wyrm/Light  [★9] 2500/3000  5/5",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100227074.jpg?version=9.10"
-  },
-  {
-    "name": "Espejodivino Necroz",
-    "desc": "Sólo puedes usar cada efecto ① y ② de \"Espejodivino Necroz\" una vez por turno.\r\n①: Durante la Main Phase: Invoca por Ritual 1 Monstruo de Ritual \"Necroz\" desde tu mano o destierro, Sacrificando monstruos desde tu mano y/o Campo, y/o mandando monstruos \"Necroz\" desde tu Deck Extra al Cementerio, cuyos Niveles totales sean iguales o superiores a su Nivel.\r\n②: Durante tu Main Phase: puedes desterrar esta carta y 1 monstruo \"Necroz\" desde tu Cementerio; añade a tu mano 1 carta Mágica \"Necroz\" desde tu Deck.",
-    "overallString": "[Spell|Quick-Play]",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100227075.jpg?version=9.10"
-  },
-  {
-    "name": "Carnovorus Bicornio del Entierro",
-    "desc": "【Material(es)】: 1 Cantante + 1+ monstruos que no sean Cantantes\r\nSólo puedes usar cada efecto ① y ② de \"Carnovorus Bicornio del Entierro\" una vez por turno.\r\n①: Una vez por Cadena, durante la Main Phase o Battle Phase, puedes (Efecto Rápido): Inmediatamente después de que se resuelva este efecto, Invocar por Sincronía 1 monstruo Dinosaurio usando esta carta que controles.\r\n②: Cuando un monstruo declara un ataque: puedes Invocar de Modo Especial, desde tu mano, 1 monstruo Dinosaurio, ignorando sus condiciones de Invocación, y además no puedes Invocar de Modo Especial por el resto de este turno, excepto monstruos Dinosaurio.\r\n",
-    "overallString": "[Monster|Effect|Tuner|Synchro] Dinosaur/Fire  [★6] 2000/200",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100200263.jpg?version=9.10"
-  },
-  {
     "name": "Caballero de Vapor - BULLauncher",
     "desc": "\"BULLauncher\" es una máquina de apoyo especializada en bombardeo y combate diurno que no solo tiene las constantemente refinadas \"Coc-OS\" y \"BFS ARmor\", sino que también tiene 3 \"Foil-Packer\" instaladas en su interior bajo las órdenes de \"Madera\" después de repetidos ensayos y errores. Al instalar un \"Beef-Rifle\" u otros armamentos, puede usarse como apoyo de mediano y largo alcance para los \"Caballeros de Vapor\" y sus operaciones. Además, \"BULLauncher\" puede combinarse con \"WINGear\", que se especializa en combate aéreo de alta velocidad, y con \"BOARms\", que se especializa en combate cuerpo a cuerpo y de asalto, para hacer que el \"Steam Jushin - BW\" de altas calorías descienda sobre este mundo.",
     "overallString": "[Monster|Normal] Beast-Warrior/Fire  [★4] 1800/200",
@@ -262,77 +256,5 @@
     "desc": "【Material(es)】: 2 o más monstruos incluyendo un Monstruo de Enlace \"Orcust\"\r\nSólo puedes usar cada efecto ① y ② de \"Mekk-Caballero Orcust Enligirsu\" una vez por turno.\r\n①: Puedes seleccionar 1 de tus cartas \"Orcust\" o \"Legado Mundial\" desterradas; añádela a tu mano, luego baraja 1 carta de tu mano al Deck y, si lo haces, toma el control de 1 monstruo boca arriba que controle tu adversario.\r\n②: Si esta carta está en tu Cementerio porque fue enviada ahí desde la Zona de Monstruos Extra este turno: puedes desterrarla; envía al Cementerio 1 carta en el Campo.",
     "overallString": "[Monster|Effect|Link] Machine/Dark  [LINK-4] 2600/-  [↗][←][→][↙]",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100229034.jpg?version=9.10"
-  },
-  {
-    "name": "Caballero-Gema Maestro Dispersión de Diamante",
-    "desc": "【Material(es)】: 3 Monstruos \"Gema-\"\r\nSólo puedes usar cada efecto ① y ② de \"Caballero-Gema Maestro Dispersión de Diamante\" una vez por turno.\r\n①: Durante la Main Phase (Efecto Rápido): puedes enviar esta carta al Cementerio; Invoca de Modo Especial desde tu Deck Extra y/o Cementerio hasta 3 monstruos \"Gema-\" que no sean Roca con nombres diferentes, ignorando sus condiciones de Invocación. Además, no puedes Invocar de Modo Especial desde el Deck Extra por el resto de este turno, excepto Monstruos de Fusión.\r\n②: Cuando tu Monstruo de Fusión \"Caballero-Gema\" es destruido en batalla mientras esta carta está en tu Cementerio: puedes Invocar esta carta de Modo Especial.",
-    "overallString": "[Monster|Effect|Fusion] Rock/Earth  [★9] 3000/2600",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100227042.jpg?version=9.10"
-  },
-  {
-    "name": "Caballero-Gema Nepyrim",
-    "desc": "Sólo puedes usar cada efecto ①, ② y ③ de \"Caballero-Gema Nepyrim\" una vez por turno.\r\n①: Si esta carta es Invocada de Modo Normal o Especial: puedes añadir a tu mano 1 carta \"Caballero-Gema\" desde tu Deck, excepto \"Caballero-Gema Nepyrim\", además, cualquier daño por efecto que reciba tu adversario durante el resto de esta Main Phase se reduce a la mitad.\r\n②: Durante tu Main Phase, puedes: Inmediatamente después de que se resuelva el efecto ①, Invocar de Modo Normal 1 monstruo \"Caballero-Gema\".\r\n③: Si esta carta es enviada al Cementerio desde la mano o el Deck: puedes enviar al Cementerio 1 carta desde tu mano y, si lo haces, Invocar esta carta de Modo Especial.",
-    "overallString": "[Monster|Effect] Fairy/Light  [★4] 1550/1600",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100227043.jpg?version=9.10"
-  },
-  {
-    "name": "Caballero-Gema Hollowcore",
-    "desc": "Sólo puedes usar cada efecto ① y ② de \"Caballero-Gema Hollowcore\" una vez por turno.\r\n①: Puedes enviar al Cementerio 1 Monstruo Normal \"Caballero-Gema\" o \"Fusión de Caballero-Gema\" desde tu Deck; Invoca de Modo Especial esta carta desde tu mano en Posición de Defensa.\r\n②: Cuando tu adversario activa una carta o efecto y tú controlas un Monstruo de Fusión \"Caballero-Gema\" (Efecto Rápido): puedes desterrar 3 cartas \"Caballero-Gema\" en tu Cementerio, incluyendo esta carta; niega ese efecto, y después todos los monstruos \"Caballero-Gema\" que controles en este momento ganan 1000 ATK.",
-    "overallString": "[Monster|Effect] Fiend/Dark  [★7] 1950/2450",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100227044.jpg?version=9.10"
-  },
-  {
-    "name": "Dispersión de Caballero-Gema",
-    "desc": "①: Activa 1 de estos efectos (pero solo puedes usar cada efecto del nombre de esta carta una vez por turno);\r\n● Invoca por Fusión 1 Monstruo de Fusión \"Caballero-Gema\" desde tu Deck Extra, usando monstruos de tu mano o Campo como material. Si tienes \"Fusión de Caballero-Gema\" en tu Cementerio, también puedes usar hasta 2 monstruos \"Caballero-Gema\" que no sean Roca desde tu Deck o Deck Extra.\r\n● Añade 1 monstruo \"Caballero-Gema\" desde tu Deck o destierro a tu mano, además cualquier daño de efecto que reciba tu adversario durante la Main Phase por el resto de este turno se reduce a la mitad.",
-    "overallString": "[Spell]",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100227045.jpg?version=9.10"
-  },
-  {
-    "name": "El Fabuloso Behillmoth",
-    "desc": "Sólo puedes usar cada efecto ① y ② de \"El Fabuloso Behillmoth\" una vez por turno.\r\n①: Si esta carta está en tu mano: puedes descartar 2 o más monstruos \"Fabuloso\", incluyendo esta carta, y si lo haces, Invoca de Modo Especial, desde tu Deck Extra, 1 Monstruo de Sincronía \"Fabuloso\" cuyo Nivel sea igual al total de Niveles originales de los monstruos descartados. (Esto se considera una Invocación por Sincronía.)\r\n②: Si una o más cartas son enviadas desde tu mano al Cementerio mientras esta carta está en tu Cementerio: puedes desterrar esta carta; Invoca de Modo Especial, desde tu mano, 1 monstruo \"Fabuloso\".",
-    "overallString": "[Monster|Effect|Tuner] Beast/Light  [★2] 1000/600",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100227001.jpg?version=9.10"
-  },
-  {
-    "name": "Fabuloso Gamygyn",
-    "desc": "【Material(es)】: 1 monstruo Cantante \"Fabuloso\" + 1+ monstruos que no sean Cantantes\r\nSólo puedes usar cada uno de los efectos ② y ③ de \"Fabuloso Gamygyn\" una vez por turno.\r\n①: Tu adversario no puede seleccionar otros Monstruos de Sincronía \"Fabuloso\" que controles con efectos de cartas.\r\n②: Si esta carta es Invocada por Sincronía: puedes Invocar de Modo Especial, desde tu mano o Deck, 1 monstruo \"Fabuloso\".\r\n③: Si esta carta es enviada al Cementerio: puedes robar cartas iguales a la cantidad de Monstruos de Sincronía \"Fabuloso\" que controles, y después descartar 1 carta.",
-    "overallString": "[Monster|Effect|Tuner|Synchro] Fiend/Light  [★4] 2000/0",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100227002.jpg?version=9.10"
-  },
-  {
-    "name": "Fabujambre Leberzebul",
-    "desc": "【Material(es)】: 1 monstruo Cantante + 1+ monstruos que no sean Cantantes\r\nSólo puedes usar el efecto ② de \"Fabujambre Leberzebul\" una vez por turno.\r\n①: Una vez por turno, durante la Main Phase (Efecto Rápido): puedes Sacrificar cualquier cantidad de monstruos \"Fabuloso\" y, si lo haces, toma el control de esa misma cantidad de monstruos boca arriba que controle tu adversario, pero sus efectos son negados.\r\n②: Si esta carta está en tu Cementerio: puedes seleccionar otra carta \"Fabuloso\" en tu Cementerio; regresa esta carta al Deck Extra y, si lo haces, añade ese objetivo a tu mano.",
-    "overallString": "[Monster|Effect|Synchro] Fiend/Light  [★10] 3050/1950",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100227003.jpg?version=9.10"
-  },
-  {
-    "name": "Resurrección del Reino Fabuloso",
-    "desc": "Sólo puedes activar 1 \"Resurrección del Reino Fabuloso\" por turno.\r\n①: Cuando esta carta se resuelve, puedes Colocar 1 Mágica/Trampa \"Fabuloso\" en tu Deck, excepto \"Resurrección del Reino Fabuloso\".\r\n②: Tu adversario no puede activar cartas o efectos cuando tu monstruo \"Fabuloso\" es Invocado por Sincronía.\r\n③: Una vez por turno: puedes descartar 1 carta \"Fabuloso\", y después activar 1 de estos efectos:\r\n● Roba 1 carta.\r\n● Invoca de Modo Especial, desde tu Cementerio o destierro, 1 monstruo \"Fabuloso\".",
-    "overallString": "[Spell|Continuous]",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100227004.jpg?version=9.10"
-  },
-  {
-    "name": "Jurrac Megalo",
-    "desc": "Sólo puedes usar cada efecto ①, ② y ③ de \"Jurrac Megalo\" una vez por turno.\r\n①: Si controlas un monstruo Dinosaurio: puedes Invocar esta carta de Modo Especial desde tu mano.\r\n②: Durante tu Main Phase: puedes descartar 2 cartas, incluyendo una carta \"Jurrac\", y después robar 2 cartas.\r\n③: Si esta carta es destruida en batalla o por efecto de una carta: puedes enviar al Cementerio, desde tu Deck o Deck Extra, 1 monstruo \"Jurrac\", excepto \"Jurrac Megalo\".",
-    "overallString": "[Monster|Effect|Tuner] Dinosaur/Fire  [★1] 500/1300",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100227027.jpg?version=9.10"
-  },
-  {
-    "name": "Jurrac Stigo",
-    "desc": "Sólo puedes usar el efecto ① de \"Jurrac Stigo\" una vez por turno. \r\n①: Durante tu Main Phase: puedes destruir 1 carta que controles y, si lo haces, envía al Cementerio 1 monstruo Dinosaurio desde tu Deck. Después, puedes Invocar de Modo Especial cualquier número de monstruos \"Jurrac\" desde tu mano y/o Deck cuyos Niveles totales sean iguales al Nivel del monstruo enviado, ignorando sus condiciones de Invocación, excepto \"Jurrac Stigo\". Además, no puedes realizar Invocaciones Especiales por el resto de este turno, excepto monstruos Dinosaurio.\r\n②: Cuando esta carta es destruida en batalla: puedes regresar a la mano 1 carta en el Campo.",
-    "overallString": "[Monster|Effect] Dinosaur/Fire  [★4] 1700/900",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100227028.jpg?version=9.10"
-  },
-  {
-    "name": "Jurrac Astero",
-    "desc": "【Material(es)】: 1 monstruo Dinosaurio Cantante + 1+ monstruos Dinosaurio que no sean Cantantes\r\n①: Si esta carta es Invocada por Sincronía: puedes Colocar 1 Mágica/Trampa \"Jurrac\" desde tu Deck o Cementerio.\r\n②: Una vez por turno, si tu adversario fuera a Invocar de Modo Especial uno o más monstruos (Efecto Rápido): puedes desterrar 2 monstruos Dinosaurio desde tu Cementerio; niega la Invocación y, si lo haces, destruye ese(esos) monstruo(s).\r\n③: Durante el turno de tu adversario (Efecto Rápido): puedes desterrar 2 monstruos \"Jurrac\" desde tu Cementerio, incluyendo a esta carta; Invoca de Modo Especial 1 \"Jurrac Meteoro\" desde tu Deck Extra. (Esto se considera una Invocación por Sincronía).",
-    "overallString": "[Monster|Effect|Synchro] Dinosaur/Fire  [★10] 2500/2300",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100227029.jpg?version=9.10"
-  },
-  {
-    "name": "Volcán Jurrac",
-    "desc": "Sólo puedes usar cada efecto ①, ② y ③ de \"Volcán Jurrac\" una vez por turno.\r\n①: Durante tu Main Phase: puedes destruir 1 monstruo Dinosaurio que controles y, si lo haces, Invoca de Modo Especial, desde tu Deck, 1 monstruo \"Jurrac\".\r\n②: Si tu adversario Invoca de Modo Especial uno o más monstruos durante el turno en el que activaron efectos de monstruos 4 o más veces: puedes Invocar de Modo Especial, desde tu Deck Extra, 1 \"Meteoro Jurrac\". (Esto se considera una Invocación por Sincronía).\r\n③: Si uno o más monstruos \"Jurrac\" que controles fueran a ser destruidos por efecto de una carta, puedes desterrar en su lugar 1 monstruo Dinosaurio de tu Cementerio.",
-    "overallString": "[Spell|Field]",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100227030.jpg?version=9.10"
   }
 ]
