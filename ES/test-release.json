@@ -1,5 +1,35 @@
 [
   {
+    "name": "Bestia Heráldica Grifo",
+    "desc": "Sólo puedes usar cada efecto ① y ② de \"Bestia Heráldica Grifo\" una vez por turno.\r\n①: Puedes mandar al Cementerio 1 monstruo \"Bestia Heráldica\" desde tu Deck, excepto \"Bestia Heráldica Grifo\"; Invoca de Modo Especial esta carta desde tu mano, además no puedes Invocar de Modo Especial desde el Deck Extra por el resto de este turno, excepto mediante una Invocación Xyz usando sólo monstruos con \"Bestia Heráldica\" y/o \"Número\" en sus nombres originales como material.\r\n②: Esta carta puede ser tratada como 2 materiales para la Invocación Xyz de un Monstruo Xyz \"Número\" que requiera 3 o más materiales.",
+    "overallString": "[Monster|Effect] Winged Beast/Wind  [★4] 1600/1000",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208009.jpg?version=9.10"
+  },
+  {
+    "name": "Bestia Heráldica Ballena Estadística",
+    "desc": "Sólo puedes usar cada efecto ① y ② de \"Bestia Heráldica Ballena Estadística\" una vez por turno.\r\n①: Si esta carta es Invocada de Modo Normal o Especial: puedes descartar 1 carta; Añade 2 Mágicas/Trampas \"Heráldica\" desde tu Deck a tu mano.\r\n②: Puedes desterrar esta carta desde tu Cementerio, y después seleccionar 2 monstruos \"Bestia Heráldica\" con el mismo nombre en tu Cementerio; Invócalos de Modo Especial en Posición de Defensa, además no puedes Invocar de Modo Especial desde el Deck Extra por el resto de este turno, excepto mediante una Invocación Xyz usando sólo monstruos con \"Bestia Heráldica\" y/o \"Número\" en sus nombres originales como material.",
+    "overallString": "[Monster|Effect] Fish/Water  [★4] 900/1900",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208010.jpg?version=9.10"
+  },
+  {
+    "name": "Número 69: Cresta Heráldica – Corriente Destrozada",
+    "desc": "【Material(es)】: 4 monstruos de Nivel 4\r\nTambién puedes Invocar Xyz esta carta usando como material 1 monstruo que controles cuyo nombre original sea \"Número 69: Cresta Heráldica\". (Transfiere sus materiales a esta carta). Sólo puedes usar el siguiente efecto de \"Número 69: Cresta Heráldica – Corriente Destrozada\" una vez por turno.\r\n①: Cuando se activa el efecto de un monstruo en el Campo de tu adversario, o un monstruo de tu adversario declara un ataque (Efecto Rápido): puedes Invocar de Modo Especial, desde tu Deck Extra, 1 \"Número 69: Blasón Heráldico – Demolición de Materia Oscura\", usando esta carta que controlas como material, y después destruye ese monstruo de tu adversario. (Esto se considera una Invocación Xyz. Transfiere sus materiales al monstruo Invocado).",
+    "overallString": "[Monster|Effect|Xyz] Psychic/Light  [☆4] 2800/1600",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208045.jpg?version=9.10"
+  },
+  {
+    "name": "Número 69: Blasón Heráldico – Demolición de Materia Oscura",
+    "desc": "【Material(es)】: 5 monstruos de Nivel 4\r\n①: No puede ser destruido en batalla o por efectos de cartas.\r\n②: Una vez por turno (Efecto Rápido): puedes desacoplar 1 material de esta carta, y después seleccionar 1 monstruo boca arriba que controle tu adversario; su nombre se considera \"Desconocido\".\r\n③: Cuando se resuelve el efecto de un monstruo activado por tu adversario, si el nombre de ese monstruo es \"Desconocido\", niega ese efecto activado.",
+    "overallString": "[Monster|Effect|Xyz] Psychic/Light  [☆4] 3100/1900",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208046.jpg?version=9.10"
+  },
+  {
+    "name": "Destello Heráldico",
+    "desc": "Sólo puedes usar el efecto ② de \"Destello Heráldico\" una vez por turno.\r\n①: Selecciona cualquier número de monstruos boca arriba que controle tu adversario; sus nombres se tratan como \"Desconocido\".\r\n②: Durante tu End Phase, si esta carta está en tu Cementerio y controlas un Monstruo Xyz Psíquico: puedes Colocar esta carta, pero destiérrala cuando deje el Campo.",
+    "overallString": "[Spell|Quick-Play]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208056.jpg?version=9.10"
+  },
+  {
     "name": "Spector, Señor Dragón de los Rayos",
     "desc": "Sólo puedes usar 1 de los efectos ① y ② de \"Spector, Señor Dragón de los Rayos\" por turno, y sólo una vez ese turno.\r\n①: Puedes descartar esta carta y 1 monstruo de LUZ o Dragón; añade a tu mano 2 monstruos \"Señor Dragón\" en tu Deck, excepto \"Spector, Señor Dragón de los Rayos\".\r\n②: Puedes desterrar esta carta y 1 monstruo de LUZ o Dragón en tu Cementerio, y después seleccionar 1 \"Chasmatis, Señor Dragón de las Auroras\" en tu Cementerio; Invócalo de Modo Especial.",
     "overallString": "[Monster|Effect] Dragon/Light  [★2] 600/1000",
@@ -280,6 +310,12 @@
     "desc": "\"BULLauncher\" es una máquina de apoyo especializada en bombardeo y combate diurno que no solo tiene las constantemente refinadas \"Coc-OS\" y \"BFS ARmor\", sino que también tiene 3 \"Foil-Packer\" instaladas en su interior bajo las órdenes de \"Madera\" después de repetidos ensayos y errores. Al instalar un \"Beef-Rifle\" u otros armamentos, puede usarse como apoyo de mediano y largo alcance para los \"Caballeros de Vapor\" y sus operaciones. Además, \"BULLauncher\" puede combinarse con \"WINGear\", que se especializa en combate aéreo de alta velocidad, y con \"BOARms\", que se especializa en combate cuerpo a cuerpo y de asalto, para hacer que el \"Steam Jushin - BW\" de altas calorías descienda sobre este mundo.",
     "overallString": "[Monster|Normal] Beast-Warrior/Fire  [★4] 1800/200",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100231002.jpg?version=9.10"
+  },
+  {
+    "name": "龙兽鲨",
+    "desc": "这个卡名的①②的效果1回合各能使用1次。\r\n①：这张卡用抽卡以外的方法加入手卡的场合才能发动。这张卡特殊召唤。\r\n②：以怪兽3只以上为素材的水属性超量怪兽超量召唤的场合，这张卡可以作为2只数量的超量素材。\r\n③：持有这张卡作为素材中的「鲨龙兽」超量怪兽得到以下效果。\r\n●1回合1次，把这张卡2个超量素材取除，以场上1张魔法·陷阱卡为对象才能发动。那张卡作为这张卡的超量素材。",
+    "overallString": "[Monster|Effect] Fish/Water  [★4] 1400/1050",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/81096431.jpg?version=9.10"
   },
   {
     "name": "Galatea I, el Orcust Autómata",
