@@ -1,5 +1,47 @@
 [
   {
+    "name": "Mitsurugi no Mikoto, Kusanagi",
+    "desc": "You can only use each effect of \"Mitsurugi no Mikoto, Kusanagi\" once per turn.\r\n①：If this card is Normal or Special Summoned, or if this card is Tributed: You can target 1 \"Mitsurugi\" card in your GY or banishment, except \"Mitsurugi no Mikoto, Kusanagi\"; add it to the hand.\r\n②：If another Reptile monster(s) you control would be destroyed by battle or card effect, you can Tribute this card instead. \r\n",
+    "overallString": "[Monster|Effect] Reptile/Dark  [★4] 1600/400",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101207090.jpg?version=9.10"
+  },
+  {
+    "name": "Mitsurugi no Mikoto, Saji",
+    "desc": "You can only use each effect of \"Mitsurugi no Mikoto, Saji\" once per turn.\r\n①：If this card is Normal or Special Summoned, or if this card is Tributed: You can add 1 \"Mitsurugi\" Spell/Trap from your Deck to your hand. \r\n②：If another Reptile monster(s) you control would be destroyed by battle or card effect, you can Tribute this card instead. \r\n",
+    "overallString": "[Monster|Effect] Reptile/Dark  [★4] 1000/1700",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101207091.jpg?version=9.10"
+  },
+  {
+    "name": "Ame no Murakumo no Mitsurugi",
+    "desc": "You can Ritual Summon this card with \"Mitsurugi Ritual\". \r\nYou can only use each effect of \"Ame no Murakumo no Mitsurugi\" once per turn.\r\n①：If this card is Special Summoned: You can destroy all monsters your opponent controls. \r\n②：When your opponent activates a card or effect (Quick Effect): You can activate this effect; your opponent can discard 1 card, or that effect is negated. \r\n③：If this card is Tributed: You can add 1 \"Mitsurugi\" card from your Deck to your hand, except \"Ame no Murakumo no Mitsurugi\", then you can Special Summon this card. \r\n",
+    "overallString": "[Monster|Effect|Ritual] Reptile/Dark  [★8] 3200/800",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101207092.jpg?version=9.10"
+  },
+  {
+    "name": "Futsu no Mitama no Mitsurugi",
+    "desc": "You can Ritual Summon this card with \"Mitsurugi Ritual\". \r\nYou can only activate ① effect of \"Futsu no Mitama no Mitsurugi\" once per Chain. \r\nYou can only use ② effect of \"Futsu no Mitama no Mitsurugi\" once per turn.\r\n①：If your opponent Special Summons a monster(s) (except during the Damage Step): You can target 1 Reptile monster in your GY, except \"Futsu no Mitama no Mitsurugi\"; Special Summon it. \r\n②：If this card is Tributed: You can add 1 \"Mitsurugi\" card from your Deck to your hand, except \"Futsu no Mitama no Mitsurugi\", then you can Special Summon this card. \r\n",
+    "overallString": "[Monster|Effect|Ritual] Reptile/Dark  [★8] 2000/3400",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101207093.jpg?version=9.10"
+  },
+  {
+    "name": "Mitsurugi Prayers",
+    "desc": "When you activate this card, you can also Tribute 1 Reptile monster in your hand or field; apply 1 of these effects, or if you Tributed a monster at activation, you can apply both effects in sequence.\r\n• Add 1 \"Mitsurugi\" monster from your Deck to your hand.\r\n• Take 800 damage, then you can Special Summon 1 \"Mitsurugi\" monster from your hand or GY, but it cannot attack directly.\r\nYou can only activate 1 \"Mitsurugi Prayers\" per turn.",
+    "overallString": "[Spell|Quick-Play]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101207094.jpg?version=9.10"
+  },
+  {
+    "name": "Mitsurugi Ritual",
+    "desc": "This card can be used to Ritual Summon any Reptile Ritual Monster. Activate 1 of these effects (but you can only use each effect of Mitsurugi Ritual\" once per turn);\r\n• Ritual Summon 1 Reptile Ritual monster from your Deck, by Tributing Reptile monsters from your hand or field whose total Levels equal the Level of the Ritual Monster.\r\n• RItual Summon 1 Reptile Ritual Monster from your hand, by Tributing up to 2 Reptile monsters from your hand, Deck, or field, whose total Levels equal the Level of the Ritual Monster.",
+    "overallString": "[Spell|Ritual]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101207095.jpg?version=9.10"
+  },
+  {
+    "name": "Mitsurugi Great Purification",
+    "desc": "You can only use 1 \"Mitsurugi Great Purification\" effect per turn, and only once that turn.\r\n①：When your opponent activates a card or effect: Tribute 1 Level 5 or higher Reptile monster; negate that effect, and if you do, destroy that card. \r\n②：You can banish this card from your GY, then target 1 Reptile monster in your GY; Special Summon it, and if you do, Tribute 1 other monster you control. \r\n",
+    "overallString": "[Trap]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101207096.jpg?version=9.10"
+  },
+  {
     "name": "Heraldic Beast Gryphon",
     "desc": "You can only use ① and ② effect of this card's name each once per turn.\r\n①：You can send 1 \"Heraldic Beast\" monster from your Deck to the GY, except \"Heraldic Beast Gryphon\"; Special Summon this card from your hand, also you cannot Special Summon from the Extra Deck for the rest of this turn, except by Xyz Summon using only monsters with \"Heraldic Beast\" and/or \"Number\" in their original names as material.\r\n②：This card can be treated as 2 materials for the Xyz Summon of a \"Number\" Xyz Monster that requires 3 or more materials.",
     "overallString": "[Monster|Effect] Winged Beast/Wind  [★4] 1600/1000",
