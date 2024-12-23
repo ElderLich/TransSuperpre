@@ -1,332 +1,446 @@
 [
   {
+    "name": "Señor Maestro Dragón",
+    "desc": "【Material(es)】: 2 monstruos de Nivel 12\r\n①: Si esta carta fue Invocada Xyz, no puede ser destruida por el efecto de una carta de tu adversario, y tu adversario no puede seleccionarla como objetivo con efectos de cartas.\r\n②: Si esta carta ataca a un monstruo en Posición de Defensa mientras hay 25 o más cartas en tu Cementerio, inflige el doble de daño de batalla perforante a tu adversario.\r\n③: Una vez por turno, si tu adversario tiene 25 o más cartas en su Cementerio: puedes desacoplar 1 material de esta carta; Invoca de Modo Especial, desde tu Deck, Deck Extra o Cementerio, 1 monstruo.",
+    "overallString": "[Monstruo|Effecto|Xyz] Dragón/OSCURIDAD  [☆12] 5000/5000",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208000.jpg?version=9.10"
+  },
+  {
+    "name": "Regulus la Bestia Hada",
+    "desc": "Sólo puedes usar cada efecto ①, ② y ③  de \"Regulus la Bestia Hada\" una vez por turno.\r\n①: Si esta carta es Invocada de Modo Normal o Especial: puedes añadir a tu mano, desde tu Deck, 1 Mágica/Trampa que mencione a \"Dragón Hada Antiguo\".\r\n②: Durante tu Main Phase: puedes Invocar de Modo Especial, desde tu mano, 1 monstruo Bestia/Planta/Hada de LUZ de Nivel 4 o menor en Posición de Defensa.\r\n③: Puedes desterrar esta carta de tu Cementerio, y después seleccionar 1 Mágica de Campo en tu Cementerio; ponla en el fondo del Deck, y luego, roba 1 carta.",
+    "overallString": "[Monstruo|Effecto] Bestia/LUZ  [★4] 1700/1000",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208006.jpg?version=9.10"
+  },
+  {
+    "name": "Espora la Célula de Hadas",
+    "desc": "Sólo puedes usar el efecto ② de \"Espora la Célula de Hadas\" una vez por turno.\r\n①. Si esta carta es Invocada de Modo Especial: puedes hacer que esta carta gane Niveles hasta la cantidad de monstruos que controlas.\r\n②: Si esta carta está en tu Cementerio y controlas a \"Dragón Hada Antiguo\" o un monstruo Bestia/Planta/Hada de LUZ: puedes Invocar esta carta de Modo Especial, pero además no puedes Invocar de Modo Especial desde el Deck Extra por el resto de este turno, excepto Monstruos de Sincronía.",
+    "overallString": "[Monstruo|Effecto|Cantante] Planta/LUZ  [★1] 400/800",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208007.jpg?version=9.10"
+  },
+  {
+    "name": "Kuribbon el Espíritu de las Hadas",
+    "desc": "Sólo puedes usar cada efecto ① y ②  de \"Kuribbon el Espíritu de las Hadas\" una vez por turno.\r\n①: Si controlas \"Dragón Hada Antiguo\" o un monstruo Bestia/Planta/Hada de LUZ: puedes Invocar de Modo Especial esta carta desde tu mano. Si lo haces, se trata como un Cantante.\r\n②: Si otro monstruo que controlas es \"Dragón Hada Antiguo\" o menciona que sería destruido por efecto de una carta, puedes regresar esta carta a la mano en su lugar.",
+    "overallString": "[Monstruo|Effecto] Hada/LUZ  [★1] 300/200",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208008.jpg?version=9.10"
+  },
+  {
+    "name": "Ciber Jormungandr",
+    "desc": "No puede ser Invocada de Modo Normal/Colocada. Debe ser Invocada de Modo Especial por el efecto de una carta. Sólo puedes usar cada efecto ① y ② de \"Ciber Jormungandr\" una vez por turno.\r\n①: Si tu adversario controla un monstruo: puedes Invocar de Modo Especial esta carta desde tu mano, y después tomar 1 \"Ciber Dragón\" desde tu Deck, e Invocarlo de Modo Especial o equiparlo a esta carta, y además no puedes Invocar de Modo Especial por el resto de este turno, excepto monstruos Máquina.\r\n②: Puedes regresar 1 \"Ciber Dragón\" que controles a la mano; añade 1 \"Polimerización\" desde tu Deck o Cementerio a tu mano.",
+    "overallString": "[Monstruo|Effecto|Invocación Especial] Máquina/LUZ  [★5] 1000/2100",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208026.jpg?version=9.10"
+  },
+  {
+    "name": "Gusano Ciberoscuro",
+    "desc": "Sólo puedes usar el efecto ② de \"Gusano Ciberoscuro\" una vez por Duelo.\r\n①: El nombre de esta carta se convierte en \"Ciber Dragón\" mientras esté en el Campo o en el Cementerio.\r\n②: Si esta carta está en tu mano o Cementerio y hay otro monstruo Máquina \"Ciber\" en tu Campo o en tu Cementerio: puedes mandar al Cementerio, en tu mano o Deck, 1 monstruo \"Ciber Dragón\"; Invoca esta carta de Modo Especial, y después, puedes añadir a tu mano 1 Mágica/Trampa \"Ciber\" en tu Cementerio.",
+    "overallString": "[Monstruo|Effecto] Máquina/OSCURIDAD  [★5] 800/2100",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208027.jpg?version=9.10"
+  },
+  {
+    "name": "El Mundo de los Espíritus",
+    "desc": "Sólo puedes activar 1 \"El Mundo de los Espíritus\" por turno. Sólo puedes activar los efectos ② y ③ de \"El Mundo de los Espíritus\" si controlas un Monstruo de Sincronía Dragón de LUZ de Nivel 7 o mayor.\r\n①: Cuando esta carta se resuelve, puedes añadir a tu mano, desde tu Deck, 1 monstruo que mencione \"Dragón Hada Antiguo\".\r\n②: Cada vez que un(os) monstruo(s) es(son) Invocado(s) de Modo Especial en Posición de Ataque: cambia ese(os) monstruo(s) a Posición de Defensa.\r\n③: Una vez por turno, durante la End Phase: destruye todos los monstruos en Posición de Ataque que controle el jugador de turno.",
+    "overallString": "[Mágica|Campo]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208055.jpg?version=9.10"
+  },
+  {
+    "name": "Sol Eterno",
+    "desc": "Sólo puedes usar el efecto ② de \"Sol Eterno\" una cantidad de veces por turno, hasta la cantidad de \"Dragón Hada Antiguo\" y monstruos que lo mencionen que controles.\r\n①: Los monstruos que controlas obtienen 500 DEF por cada \"Dragón Hada Antiguo\" y monstruos que lo mencionen que controles.\r\n②: Una vez por Cadena: puedes seleccionar 1 monstruo boca arriba que controle tu adversario; hasta el final de este turno, reduce a la mitad el ATK/DEF de ese monstruo y niega sus efectos.",
+    "overallString": "[Trampa|Continua]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208071.jpg?version=9.10"
+  },
+  {
+    "name": "Live☆Gemela Lil-la Sweet",
+    "desc": "Sólo puedes usar cada efecto ① y ② de \"Live☆Gemela Lil-la Sweet\" una vez por turno.\r\n①: Cuando tu adversario activa una carta o efecto en respuesta a la activación de tu carta o efecto \"Live☆Gemela\" (Efecto Rápido): puedes descartar esta carta; niega ese efecto.\r\n②: Si esta carta está en tu Cementerio y controlas un monstruo \"Ki-sikil\": puedes Invocar esta carta de Modo Especial, pero mientras esta carta Invocada de Modo Especial de esta forma esté en la Zona de Monstruos, no puedes Invocar de Modo Especial desde el Deck Extra, excepto monstruos Demonio.",
+    "overallString": "[Monstruo|Effecto] Lanzador de Conjuros/OSCURIDAD  [★2] 500/0",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208028.jpg?version=9.10"
+  },
+  {
+    "name": "Anhelcaido de la Tierra Dorada",
+    "desc": "【Material(es)】: \"Arcalich el Señor Dorado\" + 1 monstruo Zombie\r\nSólo puedes Invocar por Fusión o Invocar de Modo Especial a \"Anhelcaido de la Tierra Dorada\" de la siguiente manera una vez por turno.\r\n● Puedes Invocar de Modo Especial esta carta desde tu Deck Extra Sacrificando 1 monstruo Zombie de LUZ mientras \"Arcalich el Señor Dorado\" esté en tu Campo o en tu Cementerio.\r\nSólo puedes usar el efecto de \"Anhelcaido de la Tierra Dorada\" una vez por turno.\r\n①: Si esta carta es mandada del Campo al Cementerio: puedes Invocar de Modo Especial, desde tu Deck, Deck Extra o Cementerio, 1 monstruo \"Arcalich\".",
+    "overallString": "[Monstruo|Effecto|Fusión] Zombi/OSCURIDAD  [★10] 1800/2500",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208036.jpg?version=9.10"
+  },
+  {
+    "name": "Live☆Gemela Ki-sikil Acuerdo",
+    "desc": "【Material(es)】: 1 monstruo \"Ki-sikil\"\r\nSólo puedes Invocar por Enlace \"Live☆Gemela Ki-sikil Acuerdo\" una vez por turno. Sólo puedes usar el efecto de \"Live☆Gemela Ki-sikil Acuerdo\" una vez por turno.\r\n①: Puedes mandar 1 monstruo \"Lil-la\" desde tu Deck o Deck Extra al Cementerio; aplica este efecto por el resto de este turno.\r\n● Cada vez que tu adversario active una carta o efecto en respuesta a la activación del efecto de tu monstruo \"Ki-sikil\" o \"Lil-la\", roba 1 carta.",
+    "overallString": "[Monstruo|Effecto|Enlace] Demonio/LUZ  [LINK-1] 100/-  [→]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208052.jpg?version=9.10"
+  },
+  {
+    "name": "Arcalixir de la Tierra Dorada Exaltada",
+    "desc": "Sólo puedes usar el efecto de \"Arcalixir de la Tierra Dorada Exaltada\" una vez por turno.\r\n①: Paga 800 LP; activa 1 de estos efectos.\r\n● Invoca de Modo Especial esta carta a tu Zona de Monstruos como un Monstruo Normal (Zombie/LUZ/Nivel 10/ATK 1500/DEF 2800). (Esta carta aún se considera una carta de Trampa.) Luego, si controlas a \"Arcalich el Señor Dorado\", puedes regresar a la mano 1 monstruo en el Campo.\r\n● Coloca 1 Mágica/Trampa \"Tierra Dorada\" o 1 Mágica/Trampa \"Arcalixir\" desde tu destierro a tu Campo.",
+    "overallString": "[Trampa|Continua]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208077.jpg?version=9.10"
+  },
+  {
+    "name": "Mitsurugi no Mikoto, Kusanagi",
+    "desc": "Sólo puedes usar cada efecto ① y ② de \"Mitsurugi no Mikoto, Kusanagi\" una vez por turno.\r\n①: Si esta carta es Invocada de Modo Normal o Especial, o si esta carta es Sacrificada: puedes seleccionar 1 carta \"Mitsurugi\" en tu Cementerio o en tu Destierro, excepto \"Mitsurugi no Mikoto, Kusanagi\"; añádela a tu mano.\r\n②: Si otro(s) monstruo(s) Reptil que controles fueran a ser destruidos en batalla o por efecto de una carta, puedes Sacrificar esta carta en su lugar.",
+    "overallString": "[Monstruo|Effecto] Reptil/OSCURIDAD  [★4] 1600/400",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101207090.jpg?version=9.10"
+  },
+  {
+    "name": "Mitsurugi no Mikoto, Saji",
+    "desc": "Sólo puedes usar cada efecto ① y ② de \"Mitsurugi no Mikoto, Saji\" una vez por turno.\r\n①: Si esta carta es Invocada de Modo Normal o Especial, o si esta carta es Sacrificada: puedes añadir a tu mano, desde tu Deck, 1 Mágica/Trampa \"Mitsurugi\".\r\n②: Si otro(s) monstruo(s) Reptil que controles fueran a ser destruidos en batalla o por efecto de una carta, puedes Sacrificar esta carta en su lugar.",
+    "overallString": "[Monstruo|Effecto] Reptil/OSCURIDAD  [★4] 1000/1700",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101207091.jpg?version=9.10"
+  },
+  {
+    "name": "Ame no Murakumo no Mitsurugi",
+    "desc": "Puedes Invocar esta carta mediante Ritual con \"Ritual Mitsurugi\". Sólo puedes usar cada efecto ①, ② y ③ de \"Ame no Murakumo no Mitsurugi\" una vez por turno.\r\n①: Si esta carta es Invocada de Modo Especial: puedes destruir todos los monstruos que controle tu adversario.\r\n②: Cuando tu adversario activa una carta o efecto (Efecto Rápido): puedes activar este efecto; tu adversario puede descartar 1 carta, o ese efecto es negado.\r\n③: Si esta carta es Sacrificada: puedes añadir a tu mano, desde tu Deck, 1 carta \"Mitsurugi\", excepto \"Ame no Murakumo no Mitsurugi\", y después puedes Invocar esta carta de Modo Especial.",
+    "overallString": "[Monstruo|Effecto|Ritual] Reptil/OSCURIDAD  [★8] 3200/800",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101207092.jpg?version=9.10"
+  },
+  {
+    "name": "Futsu no Mitama no Mitsurugi",
+    "desc": "Puedes Invocar esta carta mediante Ritual con \"Ritual Mitsurugi\". Sólo puedes activar el efecto ① de \"Futsu no Mitama no Mitsurugi\" una vez por Cadena y usar el efecto ② una vez por turno.\r\n①: Si tu adversario Invoca de Modo Especial uno o más monstruos (excepto durante el Damage Step): puedes seleccionar 1 monstruo Reptil en tu Cementerio, excepto \"Futsu no Mitama no Mitsurugi\"; Invócalo de Modo Especial.\r\n②: Si esta carta es Sacrificada: puedes añadir a tu mano, en tu Deck, 1 carta \"Mitsurugi\", excepto \"Futsu no Mitama no Mitsurugi\", y después puedes Invocar esta carta de Modo Especial.",
+    "overallString": "[Monstruo|Effecto|Ritual] Reptil/OSCURIDAD  [★8] 2000/3400",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101207093.jpg?version=9.10"
+  },
+  {
+    "name": "Oraciones Mitsurugi",
+    "desc": "Sólo puedes activar 1 \"Oraciones Mitsurugi\" por turno.\r\n①: Cuando activas esta carta, también puedes Sacrificar 1 monstruo Reptil en tu mano o Campo; aplica 1 de estos efectos, o si Sacrificaste un monstruo en la activación, puedes aplicar ambos efectos en secuencia.\r\n● Añade 1 monstruo \"Mitsurugi\" desde tu Deck a tu mano.\r\n● Recibe 800 puntos de daño y luego puedes Invocar de Modo Especial, desde tu mano o Cementerio, 1 monstruo \"Mitsurugi\", pero no puede atacar directamente.",
+    "overallString": "[Mágica|Juego Rápido]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101207094.jpg?version=9.10"
+  },
+  {
+    "name": "Ritual Mitsurugi",
+    "desc": "①: Esta carta puede usarse para Invocar por Ritual a cualquier Monstruo de Ritual Reptil.\r\n②: Activa 1 de estos efectos (pero sólo puedes usar cada efecto de \"Ritual Mitsurugi\" una vez por turno);\r\n● Invoca por Ritual 1 Monstruo Ritual Reptil desde tu Deck, Sacrificando monstruos Reptil desde tu mano o Campo cuyos Niveles totales sean iguales al Nivel del Monstruo Ritual.\r\n● Invoca por Ritual 1 Monstruo Ritual Reptil desde tu mano, Sacrificando hasta 2 monstruos Reptil desde tu mano, Deck o Campo, cuyos Niveles totales sean iguales al Nivel del Monstruo Ritual.",
+    "overallString": "[Mágica|Ritual]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101207095.jpg?version=9.10"
+  },
+  {
+    "name": "Gran Purificación Mitsurugi",
+    "desc": "Sólo puedes usar 1 de los efectos  ① y ② de \"Gran Purificación Mitsurugi\" por turno y sólo una vez ese turno.\r\n①: Cuando tu adversario activa una carta o efecto: Sacrifica 1 monstruo Reptil de Nivel 5 o mayor; niega ese efecto y, si lo haces, destruye esa carta.\r\n②: Puedes desterrar esta carta en tu Cementerio, y después seleccionar 1 monstruo Reptil en tu Cementerio; Invócalo de Modo Especial y, si lo haces, Sacrifica otro monstruo que controles.",
+    "overallString": "[Trampa]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101207096.jpg?version=9.10"
+  },
+  {
     "name": "Bestia Heráldica Grifo",
     "desc": "Sólo puedes usar cada efecto ① y ② de \"Bestia Heráldica Grifo\" una vez por turno.\r\n①: Puedes mandar al Cementerio 1 monstruo \"Bestia Heráldica\" desde tu Deck, excepto \"Bestia Heráldica Grifo\"; Invoca de Modo Especial esta carta desde tu mano, además no puedes Invocar de Modo Especial desde el Deck Extra por el resto de este turno, excepto mediante una Invocación Xyz usando sólo monstruos con \"Bestia Heráldica\" y/o \"Número\" en sus nombres originales como material.\r\n②: Esta carta puede ser tratada como 2 materiales para la Invocación Xyz de un Monstruo Xyz \"Número\" que requiera 3 o más materiales.",
-    "overallString": "[Monster|Effect] Winged Beast/Wind  [★4] 1600/1000",
+    "overallString": "[Monstruo|Effecto] Bestia Alada/VIENTO  [★4] 1600/1000",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208009.jpg?version=9.10"
   },
   {
     "name": "Bestia Heráldica Ballena Estadística",
-    "desc": "Sólo puedes usar cada efecto ① y ② de \"Bestia Heráldica Ballena Estadística\" una vez por turno.\r\n①: Si esta carta es Invocada de Modo Normal o Especial: puedes descartar 1 carta; Añade 2 Mágicas/Trampas \"Heráldica\" desde tu Deck a tu mano.\r\n②: Puedes desterrar esta carta desde tu Cementerio, y después seleccionar 2 monstruos \"Bestia Heráldica\" con el mismo nombre en tu Cementerio; Invócalos de Modo Especial en Posición de Defensa, además no puedes Invocar de Modo Especial desde el Deck Extra por el resto de este turno, excepto mediante una Invocación Xyz usando sólo monstruos con \"Bestia Heráldica\" y/o \"Número\" en sus nombres originales como material.",
-    "overallString": "[Monster|Effect] Fish/Water  [★4] 900/1900",
+    "desc": "Sólo puedes usar cada efecto ① y ② de \"Bestia Heráldica Ballena Estadística\" una vez por turno.\r\n①: Si esta carta es Invocada de Modo Normal o Especial: puedes descartar 1 carta; añade 2 Mágicas/Trampas \"Heráldica\" desde tu Deck a tu mano.\r\n②: Puedes desterrar esta carta desde tu Cementerio, y después seleccionar 2 monstruos \"Bestia Heráldica\" con el mismo nombre en tu Cementerio; Invócalos de Modo Especial en Posición de Defensa, además no puedes Invocar de Modo Especial desde el Deck Extra por el resto de este turno, excepto mediante una Invocación Xyz usando sólo monstruos con \"Bestia Heráldica\" y/o \"Número\" en sus nombres originales como material.",
+    "overallString": "[Monstruo|Effecto] Pez/AGUA  [★4] 900/1900",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208010.jpg?version=9.10"
   },
   {
     "name": "Número 69: Cresta Heráldica – Corriente Destrozada",
     "desc": "【Material(es)】: 4 monstruos de Nivel 4\r\nTambién puedes Invocar Xyz esta carta usando como material 1 monstruo que controles cuyo nombre original sea \"Número 69: Cresta Heráldica\". (Transfiere sus materiales a esta carta). Sólo puedes usar el siguiente efecto de \"Número 69: Cresta Heráldica – Corriente Destrozada\" una vez por turno.\r\n①: Cuando se activa el efecto de un monstruo en el Campo de tu adversario, o un monstruo de tu adversario declara un ataque (Efecto Rápido): puedes Invocar de Modo Especial, desde tu Deck Extra, 1 \"Número 69: Blasón Heráldico – Demolición de Materia Oscura\", usando esta carta que controlas como material, y después destruye ese monstruo de tu adversario. (Esto se considera una Invocación Xyz. Transfiere sus materiales al monstruo Invocado).",
-    "overallString": "[Monster|Effect|Xyz] Psychic/Light  [☆4] 2800/1600",
+    "overallString": "[Monstruo|Effecto|Xyz] Psíquico/LUZ  [☆4] 2800/1600",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208045.jpg?version=9.10"
   },
   {
     "name": "Número 69: Blasón Heráldico – Demolición de Materia Oscura",
     "desc": "【Material(es)】: 5 monstruos de Nivel 4\r\n①: No puede ser destruido en batalla o por efectos de cartas.\r\n②: Una vez por turno (Efecto Rápido): puedes desacoplar 1 material de esta carta, y después seleccionar 1 monstruo boca arriba que controle tu adversario; su nombre se considera \"Desconocido\".\r\n③: Cuando se resuelve el efecto de un monstruo activado por tu adversario, si el nombre de ese monstruo es \"Desconocido\", niega ese efecto activado.",
-    "overallString": "[Monster|Effect|Xyz] Psychic/Light  [☆4] 3100/1900",
+    "overallString": "[Monstruo|Effecto|Xyz] Psíquico/LUZ  [☆4] 3100/1900",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208046.jpg?version=9.10"
   },
   {
     "name": "Destello Heráldico",
     "desc": "Sólo puedes usar el efecto ② de \"Destello Heráldico\" una vez por turno.\r\n①: Selecciona cualquier número de monstruos boca arriba que controle tu adversario; sus nombres se tratan como \"Desconocido\".\r\n②: Durante tu End Phase, si esta carta está en tu Cementerio y controlas un Monstruo Xyz Psíquico: puedes Colocar esta carta, pero destiérrala cuando deje el Campo.",
-    "overallString": "[Spell|Quick-Play]",
+    "overallString": "[Mágica|Juego Rápido]",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208056.jpg?version=9.10"
   },
   {
     "name": "Spector, Señor Dragón de los Rayos",
     "desc": "Sólo puedes usar 1 de los efectos ① y ② de \"Spector, Señor Dragón de los Rayos\" por turno, y sólo una vez ese turno.\r\n①: Puedes descartar esta carta y 1 monstruo de LUZ o Dragón; añade a tu mano 2 monstruos \"Señor Dragón\" en tu Deck, excepto \"Spector, Señor Dragón de los Rayos\".\r\n②: Puedes desterrar esta carta y 1 monstruo de LUZ o Dragón en tu Cementerio, y después seleccionar 1 \"Chasmatis, Señor Dragón de las Auroras\" en tu Cementerio; Invócalo de Modo Especial.",
-    "overallString": "[Monster|Effect] Dragon/Light  [★2] 600/1000",
+    "overallString": "[Monstruo|Effecto] Dragón/LUZ  [★2] 600/1000",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208018.jpg?version=9.10"
   },
   {
     "name": "Nebulous, Señor Dragón de las Sombras",
     "desc": "Sólo puedes usar 1 de los efectos ① y ② de \"Nebulous, Señor Dragón de las Sombras\" por turno, y sólo una vez ese turno.\r\n①: Puedes descartar esta carta y otro monstruo de OSCURIDAD o Dragón, y después seleccionar 2 de tus monstruos \"Señor Dragón\" desterrados con diferentes Atributos, excepto \"Nebulous, Señor Dragón de las Sombras\"; Invócalos de Modo Especial, pero no pueden atacar este turno.\r\n②: Puedes desterrar esta carta y otro monstruo de OSCURIDAD o Dragón en tu Cementerio, y después seleccionar 1 \"Eclipses, Señor Dragón de las Aflicciones\" en tu Cementerio; Invócalo de Modo Especial.",
-    "overallString": "[Monster|Effect] Dragon/Dark  [★2] 1000/600",
+    "overallString": "[Monstruo|Effecto] Dragón/OSCURIDAD  [★2] 1000/600",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208019.jpg?version=9.10"
   },
   {
     "name": "Chasmatis, Señor Dragón de las Auroras",
     "desc": "【Material(es)】: 2 monstruos Dragón de Nivel 7\r\nSólo puedes usar cada efecto ① y ② de \"Chasmatis, Señor Dragón de las Auroras\" una vez por turno.\r\n①: (Efecto Rápido): puedes mandar al Cementerio 1 monstruo \"Señor Dragón\" de Nivel 7 y desacoplar 1 material de esta carta; este efecto se convierte en el efecto de ese monstruo enviado que se activa al descartarse a sí mismo.\r\n②: Si esta carta es destruida en batalla, o esta carta en posesión de su dueño es destruida por el efecto de una carta del adversario: puedes Invocar de Modo Especial, desde tu Cementerio o destierro, 1 \"Señor Dragón\" de Nivel 7.",
-    "overallString": "[Monster|Effect|Xyz] Dragon/Light  [☆7] 3000/1600",
+    "overallString": "[Monstruo|Effecto|Xyz] Dragón/LUZ  [☆7] 3000/1600",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208047.jpg?version=9.10"
   },
   {
     "name": "Eclipses, Señor Dragón de las Aflicciones",
     "desc": "【Material(es)】: 2 monstruos Dragón de Nivel 7\r\nSólo puedes usar cada efecto ① y ② de \"Eclipses, Señor Dragón de las Aflicciones\" una vez por turno.\r\n①: Si esta carta es Invocada Xyz: puedes seleccionar 1 monstruo \"Señor Dragón\" de Nivel 4 o menor en tu Cementerio o destierro; Invoca de Modo Especial, desde tu Deck o destierro, 1 monstruo \"Señor Dragón\" de Nivel/Rango 7 mencionado en él, después baraja ese objetivo al Deck.\r\n②: Cuando tu adversario activa una Carta Mágica/de Trampa o un efecto (Efecto Rápido): puedes desacoplar 2 materiales de esta carta; niega la activación y, si lo haces, destierra esa carta.",
-    "overallString": "[Monster|Effect|Xyz] Dragon/Dark  [☆7] 2700/1900",
+    "overallString": "[Monstruo|Effecto|Xyz] Dragón/OSCURIDAD  [☆7] 2700/1900",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208048.jpg?version=9.10"
   },
   {
     "name": "Desastre, Señor Dragón de las Paranormalidades",
     "desc": "【Material(es)】: 2 monstruos de Rango 7\r\nSólo puedes usar el efecto ① de \"Desastre, Señor Dragón de las Paranormalidades\" una vez por turno.\r\n①: Si esta carta es Invocada Xyz: puedes seleccionar hasta 4 monstruos \"Señor Dragón\" de Nivel 7 en tu Cementerio y/o en tu destierro; acóplalos a esta carta como materiales Xyz, y después puedes desterrar todos los monstruos que controle tu adversario y en su Cementerio con los mismos Atributos que los monstruos acoplados a esta carta.\r\n②: Si esta carta tiene monstruos \"Señor Dragón\" de LUZ, OSCURIDAD, TIERRA, AGUA, FUEGO y VIENTO como materiales Xyz, gana 4600 ATK/DEF, y además no se ve afectada por los efectos de otras cartas.",
-    "overallString": "[Monster|Effect|Xyz] Dragon/Light  [☆7] 0/0",
+    "overallString": "[Monstruo|Effecto|Xyz] Dragón/LUZ  [☆7] 0/0",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208049.jpg?version=9.10"
   },
   {
     "name": "Dragocalamidad",
     "desc": "Sólo puedes usar 1 de los efectos ① y ② de \"Dragocalamidad\" por turno y sólo una vez ese turno.\r\n①: Invoca de Modo Especial, desde tu mano, Cementerio o destierro, 1 monstruo \"Señor Dragón\" y, después, inmediatamente después de que se resuelva este efecto, puedes Invocar Xyz 1 monstruo \"Señor Dragón\" usando sólo monstruos \"Señor Dragón\" que controles como material.\r\n②: Durante tu Main Phase: puedes desterrar esta carta en tu Cementerio y después seleccionar cualquier número de tus monstruos \"Señor Dragón\" desterrados con diferentes Atributos; regrésalos al Cementerio.",
-    "overallString": "[Spell|Quick-Play]",
+    "overallString": "[Mágica|Juego Rápido]",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208061.jpg?version=9.10"
   },
   {
     "name": "Espectro Moissa",
     "desc": "Sólo puedes usar el efecto ② de \"Espectro Moissa\" una vez por turno.\r\n①: El nombre de esta carta se convierte en \"Sirviente de la Calavera\" mientras esté en el Cementerio.\r\n②: Si esta carta es Invocada de Modo Normal o Especial: puedes añadir a tu mano 1 \"Sirviente de la Calavera\" o 1 carta que la mencione desde tu Deck, excepto \"Moissa Wight\", además no puedes realizar una Invocación Especial por el resto de este turno, excepto monstruos Zombie.\r\n③: Durante tu Main Phase, puedes Invocar de Modo Normal 1 monstruo Zombie de Nivel 4 o menor además de tu Invocación Normal/Colocación. (Sólo puedes obtener este efecto una vez por turno.)",
-    "overallString": "[Monster|Effect] Zombie/Dark  [★1] 300/200",
+    "overallString": "[Monstruo|Effecto] Zombi/OSCURIDAD  [★1] 300/200",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208029.jpg?version=9.10"
   },
   {
     "name": "Maestro de los Espectros",
     "desc": "①: Si tu \"Rey de los Sirvientes de la Calavera\" ataca a un monstruo en Posición de Defensa, inflige daño de batalla de perforación a tu adversario.\r\n②: Una vez por turno: puedes seleccionar 1 \"Sirviente de la Calavera\" o \"Rey de los Sirvientes de la Calavera\" en tu Cementerio; manda al Cementerio 1 \"Sirviente de la Calavera\" o 1 monstruo que lo mencione desde tu Deck y, si lo haces, Invoca de Modo Especial ese objetivo, pero no puedes realizar Invocaciones de Modo Especial por el resto de este turno, excepto monstruos Zombie.",
-    "overallString": "[Spell|Continuous]",
+    "overallString": "[Mágica|Continua]",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208065.jpg?version=9.10"
   },
   {
     "name": "Dragoncella Stern",
     "desc": "Sólo puedes usar cada efecto ① y ③ de \"Dragoncella Stern\" una vez por turno.\r\n①: Puedes descartar esta carta; Invoca de Modo Especial, desde tu Cementerio o destierro, 1 monstruo \"Dragoncella\", excepto \"Dragoncella Stern\".\r\n②: Los Monstruos de Fusión Dragón que controles no pueden ser destruidos por efectos de cartas de tu adversario.\r\n③: Al final de la Battle Phase: puedes regresar esta carta a la mano y, si lo haces, Invoca de Modo Especial, desde tu mano, 1 monstruo \"Dragoncella\" de Nivel 4 o menor.",
-    "overallString": "[Monster|Effect] Dragon/Dark  [★9] 2800/1800",
+    "overallString": "[Monstruo|Effecto] Dragón/OSCURIDAD  [★9] 2800/1800",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100229001.jpg?version=9.10"
   },
   {
     "name": "Doncella Dragoncella",
     "desc": "【Material(es)】: 2 monstruos \"Dragoncella\" con el mismo Atributo pero diferentes Niveles\r\nPrimero debe ser Invocado de Modo Especial (desde tu Deck Extra) desterrando 1 de cada una de las cartas anteriores desde tu Campo y Cementerio. Sólo puedes usar los efectos ① y ② de \"Doncella Dragoncella\" una vez por turno.\r\n①: Si esta carta es Invocada de Modo Especial: puedes Invocar de Modo Especial, desde tu Deck, 1 monstruo \"Dragoncella\" de Nivel 4 o menor.\r\n②: Durante la Standby Phase: puedes Invocar por Fusión, desde tu Deck Extra, 1 Monstruo de Fusión Dragón, barajando sus materiales desde tu Campo y/o destierro al Deck.",
-    "overallString": "[Monster|Effect|Fusion] Dragon/Light  [★8] 2000/3000",
+    "overallString": "[Monstruo|Effecto|Fusión] Dragón/LUZ  [★8] 2000/3000",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100229002.jpg?version=9.10"
   },
   {
     "name": "Endimión, la Media Luna de Magistus",
     "desc": "【Material(es)】: 2 monstruos, incluido un monstruo Lanzador de Conjuros de Nivel 4\r\nSólo puedes usar los efectos ① y ② de \"Endimión, la Media Luna de Magistus\" una vez por turno, y solo una vez ese turno.\r\n①: Si esta carta es Invocada por Enlace: puedes seleccionar 1 monstruo \"Magistus\" que controles; equípale 1 monstruo Lanzador de Conjuros desde tu Cementerio o que esté desterrado.\r\n②: Durante la Main Phase (Efecto Rápido): puedes seleccionar 1 monstruo Lanzador de Conjuros en tu Zona de Magia/Trampas tratado como una carta Mágica de Equipo; devuélvelo a la mano.",
-    "overallString": "[Monster|Effect|Link] Spellcaster/Light  [LINK-2] 1850/-  [←][↘]",
+    "overallString": "[Monstruo|Effecto|Enlace] Lanzador de Conjuros/LUZ  [LINK-2] 1850/-  [←][↘]",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100200264.jpg?version=9.10"
+  },
+  {
+    "name": "Dragón de la Vida de las Hadas Antiguas",
+    "desc": "【Material(es)】: 1 Cantante + 1+ monstruos que no sean Cantantes\r\nSólo puedes usar el efecto ① de \"Dragón de la Vida de las Hadas Antiguas\" una vez por turno.\r\n①: Si esta carta es Invocada por Sincronía: puedes robar 1 carta. Si \"El Mundo de los Espíritus\" está en el Campo, puedes añadir a tu mano en su lugar 1 monstruo Bestia/Planta/Hada de LUZ o 1 \"Sol Eterno\" desde tu Deck.\r\n②: \"Dragón Hada Antiguo\" y los monstruos que lo mencionen y que controles pueden atacar mientras estén en Posición de Defensa. (Aplica su DEF como ATK durante el cálculo de daño).",
+    "overallString": "[Monstruo|Effecto|Sincronía] Dragón/LUZ  [★8] 2500/3300",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208039.jpg?version=9.10"
   },
   {
     "name": "Trabajo de Reparación Dos por Uno",
     "desc": "Sólo puedes usar 1 de los efectos ① y ② de \"Trabajo de Reparación Dos por Uno\" por turno, y sólo una vez ese turno.\r\n①: Destierra 1 monstruo Máquina de OSCURIDAD en tu Cementerio; Invoca de Modo Especial 1 monstruo de tu mano, Deck o Cementerio que mencione \"Ficha Motor\".\r\n②: Si uno o más monstruos Máquina de OSCURIDAD boca arriba que controlas son mandados al Cementerio mientras esta carta está en tu Cementerio, excepto en batalla: puedes desterrar esta carta; Invoca de Modo Especial 1 \"Ficha Motor\" (Máquina/TIERRA/Nivel 1/ATK 200/DEF 200) en Posición de Ataque.",
-    "overallString": "[Spell]",
+    "overallString": "[Mágica]",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100233002.jpg?version=9.10"
   },
   {
     "name": "Garaje de Chatarra",
     "desc": "Sólo puedes usar cada efecto ① y ② de \"Garaje de Chatarra\" una vez por turno.\r\n①: Si uno o más monstruos Máquina boca arriba que controlas son destruidos en batalla o por efecto: selecciona hasta 3 monstruos Máquina de OSCURIDAD en tu Cementerio; Invócalos de Modo Especial, pero cambia su ATK/DEF a 0.\r\n②: Puedes desterrar esta carta en tu Cementerio, y después seleccionar 1 monstruo Máquina que controles; destrúyelo.",
-    "overallString": "[Trap]",
+    "overallString": "[Trampa]",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100233003.jpg?version=9.10"
   },
   {
     "name": "Muñeco de Hielo",
     "desc": "Sólo puedes usar cada efecto ①, ② y ③ de \"Muñeco de Hielo\" una vez por turno.\r\nNo puedes realizar una Invocación Especial durante el turno en el que activas cualquiera de los efectos de esta carta, excepto monstruos de AGUA.\r\n①: Puedes descartar otro monstruo de AGUA; Invoca esta carta de Modo Especial desde tu mano.\r\n②: Si esta carta es Invocada de Modo Normal o Especial: puedes añadir a tu mano 1 monstruo Lanzador de Conjuros de AGUA desde tu Deck.\r\n③: Si esta carta es mandada del Campo al Cementerio: puedes añadir 1 \"Espejo de Muñeco de Hielo\" desde tu Deck a tu mano.\r\n",
-    "overallString": "[Monster|Effect] Spellcaster/Water  [★2] 800/1000",
+    "overallString": "[Monstruo|Effecto] Lanzador de Conjuros/AGUA  [★2] 800/1000",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100233004.jpg?version=9.10"
   },
   {
     "name": "Pilares Gemelos de Hielo",
     "desc": "Sólo puedes usar cada efecto ① y ② de \"Pilares Gemelos de Hielo\" una vez por turno.\r\n①: Invoca de Modo Especial 2 \"Fichas Pilares de Hielo\" (Aqua/AGUA/Nivel 4/ATK 900/DEF 1200) en Posición de Defensa. Por el resto del turno después de que esta carta se resuelva, no puedes Invocar de Modo Especial desde el Deck Extra.\r\n②: Puedes desterrar esta carta desde tu Cementerio; inmediatamente después de que este efecto se resuelva, Invoca de Modo Normal 1 monstruo de AGUA.",
-    "overallString": "[Spell|Quick-Play]",
+    "overallString": "[Mágica|Juego Rápido]",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100233005.jpg?version=9.10"
   },
   {
     "name": "Espejo de Muñeco de Hielo",
     "desc": "Sólo puedes usar cada efecto ① y ② de \"Espejo de Muñeco de Hielo\" una vez por turno.\r\n①: Envía 1 monstruo de AGUA desde tu mano o Campo boca arriba al Cementerio; Invoca de Modo Especial, desde tu mano o Deck, 1 monstruo con el mismo nombre que un monstruo de AGUA que controles. Por el resto del turno, después de que esta carta se resuelva, no puedes Invocar monstruos de Modo Especial, excepto monstruos de AGUA.\r\n②: Puedes desterrar esta carta desde tu Cementerio; añade a tu mano 1 \"Muñeco de Hielo\" desde tu Deck o Cementerio.",
-    "overallString": "[Spell]",
+    "overallString": "[Mágica]",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100233006.jpg?version=9.10"
   },
   {
     "name": "Murciélago, el Ninja del Bosque",
     "desc": "Sólo puedes Invocar de Modo Especial a \"Murciélago, el Ninja del Bosque\" con el efecto ① una vez por turno. Sólo puedes usar el efecto ② de \"Murciélago, el Ninja del Bosque\" una vez por turno.\r\n①: Puedes Invocar de Modo Especial esta carta (desde tu mano) si hay una carta boca arriba en una Zona de Campo.\r\n②: Si esta carta es Invocada de Modo Normal o Especial y \"Prólogo del Cuento de Hadas: El Amanecer del Viaje\" está en tu Campo o en tu Cementerio: puedes añadir a tu mano 1 monstruo Bestia de LUZ desde tu Deck.\r\n",
-    "overallString": "[Monster|Effect|Tuner] Beast/Light  [★3] 800/800",
+    "overallString": "[Monstruo|Effecto|Cantante] Bestia/LUZ  [★3] 800/800",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100233007.jpg?version=9.10"
   },
   {
     "name": "Wonko, Noble Caballero del Bosque",
     "desc": "Sólo puedes usar el efecto ① de \"Wonko, Noble Caballero del Bosque\" una vez por turno.\r\n①: Si esta carta es Invocada de Modo Normal o Especial: puedes añadir a tu mano 1 \"Prólogo del Cuento de Hadas: El Amanecer del Viaje\" desde tu Deck. Si \"Prólogo del Cuento de Hadas: El Amanecer del Viaje\" está en tu Campo o en tu Cementerio, puedes robar 1 carta en su lugar.\r\n②: Los monstruos de tu adversario sólo pueden seleccionar esta carta como objetivo de ataque si hay una carta en una Zona de Campo.\r\n③: Cuando esta carta es destruida en batalla: puedes hacer que el monstruo que la destruyó pierda 500 ATK.",
-    "overallString": "[Monster|Effect] Beast/Light  [★4] 1100/1600",
+    "overallString": "[Monstruo|Effecto] Bestia/LUZ  [★4] 1100/1600",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100233008.jpg?version=9.10"
   },
   {
     "name": "Prólogo del Cuento de Hadas: El Amanecer del Viaje",
     "desc": "Sólo puedes usar el efecto ② de \"Prólogo del Cuento de Hadas: El Amanecer del Viaje\" una vez por turno.\r\n①: Reduce a la mitad todo el daño de batalla que recibe cada jugador.\r\n②: Si controlas un monstruo Bestia de LUZ o un Monstruo de Sincronía Dragón de Nivel 7 u 8: puedes robar 1 carta.\r\n③: Una vez por turno, durante tu Standby Phase: puedes mandar esta carta desde la Zona de Campo al Cementerio; coloca 1 carta Mágica de Campo de tu mano o Deck boca arriba en tu Zona de Campo, excepto \"Prólogo del Cuento de Hadas: El Amanecer del Viaje\".",
-    "overallString": "[Spell|Field]",
+    "overallString": "[Mágica|Campo]",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100233009.jpg?version=9.10"
   },
   {
     "name": "D/D Extra Topógrafo",
     "desc": "←◊4 Escala 4◊→\r\n【Efecto de Péndulo】\r\nSólo puedes usar el Efecto de Péndulo de \"D/D Extra Topógrafo\" una vez por turno.\r\n①: Si una o más Cartas de Monstruo boca arriba que controla tu adversario son destruidas en batalla o por efecto: puedes seleccionar 1 monstruo \"D/D/D\" que controles; destierra 2 cartas de tu Zona de Péndulo y, si lo haces, ese objetivo puede realizar un segundo ataque durante cada Battle Phase de este turno.\r\n----------------------------------------\r\n【Efecto de Monstruo】\r\nSólo puedes usar cada Efecto de Monstruo ① y ② de \"D/D Extra Topógrafo\" una vez por turno.\r\n①: Puedes descartar esta carta; añade a tu mano 1 Monstruo de Péndulo \"D/D\" boca arriba desde tu Deck Extra, excepto \"D/D Extra Topógrafo\".\r\n②: Si esta carta es desterrada: puedes desterrar cartas desde la parte superior del Deck de tu adversario en una cantidad igual a la cantidad de Monstruos de Péndulo boca arriba en su Deck Extra, y después puedes hacer que 1 monstruo \"D/D\" que controles gane 200 ATK por cada carta desterrada por este efecto.",
-    "overallString": "[Monster|Effect|Pendulum] Fiend/Dark  [★5] 1000/0  4/4",
+    "overallString": "[Monstruo|Effecto|Péndulo] Demonio/OSCURIDAD  [★5] 1000/0  4/4",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100233016.jpg?version=9.10"
   },
   {
     "name": "Zoroa, el Magistus Victorioso Verethragna",
     "desc": "【Material(es)】: 1 monstruo \"Magistus\" + 1 Monstruo de Fusión, Sincronía, Xyz o Enlace\r\nSólo puedes usar cada efecto ① y ② de \"Zoroa, el Magistus Victorioso Verethragna\" una vez por turno.\r\n①: Puedes seleccionar 1 Monstruo de Efecto que controle tu adversario o en tu Cementerio; equípalo a esta carta.\r\n②: Cuando se activa el efecto de un monstruo (Efecto Rápido): puedes mandar al Cementerio 1 Carta de Monstruo \"Magistus\" boca arriba que controles; niega ese efecto, después puedes destruir 1 carta que controle tu adversario.",
-    "overallString": "[Monster|Effect|Fusion] Spellcaster/Fire  [★8] 2900/2900",
+    "overallString": "[Monstruo|Effecto|Fusión] Lanzador de Conjuros/FUEGO  [★8] 2900/2900",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100233018.jpg?version=9.10"
   },
   {
     "name": "Magia Mágica – Martillo de Thor",
     "desc": "(Esta carta siempre se considera una carta \"Magistus\" y \"Endimión\").\r\n①: Envía al Cementerio otra carta \"Magistus\" boca arriba que controles, O remueve 2 Contadores Mágicos de tu Campo, para activar 1 de estos efectos (pero sólo puedes usar cada efecto de \"Magia Mágica – Martillo de Thor\" una vez por turno).\r\n● Invoca de Modo Especial, desde tu mano, Deck Extra boca arriba o Cementerio, 1 monstruo Lanzador de Conjuros.\r\n● Destierra otra carta en el Campo.",
-    "overallString": "[Spell]",
+    "overallString": "[Mágica]",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100233020.jpg?version=9.10"
   },
   {
     "name": "Número S37: Tiburón Araña",
     "desc": "【Material(es)】: 3 monstruos de AGUA de Nivel 5\r\nTambién puedes Invocar Xyz esta carta usando un \"Número 37: Tiburón Araña\" que controles como material. (Transfiere sus materiales a esta carta.)\r\n①: Una vez por turno: puedes desacoplar 1 material de esta carta, y después seleccionar 1 monstruo que controle tu adversario; destierra ese monstruo hasta la próxima Standby Phase de tu adversario y, si lo haces y si tu adversario controla un monstruo, todos los monstruos que controle pierden 1000 ATK hasta el final de este turno.\r\n②: Durante la End Phase de un turno en el que esta carta Invocada Xyz fue destruida y mandada al Cementerio: puedes Invocar esta carta de Modo Especial.",
-    "overallString": "[Monster|Effect|Xyz] Sea Serpent/Water  [☆5] 2600/2100",
+    "overallString": "[Monstruo|Effecto|Xyz] Serpiente Marina/AGUA  [☆5] 2600/2100",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100233010.jpg?version=9.10"
   },
   {
     "name": "Número S38: Galaxia Titanic",
     "desc": "【Material(es)】: 3 monstruos de LUZ de Nivel 9\r\nTambién puedes Invocar esta carta Xyz usando un \"Número 38: Galaxia Titanic\" que controles como material. (Transfiere sus materiales a esta carta.)\r\n①: Gana 200 ATK por cada material que tenga.\r\n②: Una vez por turno: puedes seleccionar hasta 2 cartas Mágicas/Trampas que controle tu adversario (las cartas seleccionadas no pueden activar sus efectos en respuesta a esta activación); acóplalas a esta carta como material Xyz.\r\n③: Puedes desacoplar 1 material de esta carta; por el resto de este turno, el ATK original de esta carta se convierte en 1500 y puede atacar directamente.",
-    "overallString": "[Monster|Effect|Xyz] Dragon/Light  [☆9] 3000/2500",
+    "overallString": "[Monstruo|Effecto|Xyz] Dragón/LUZ  [☆9] 3000/2500",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100233011.jpg?version=9.10"
   },
   {
     "name": "Revelación de la Esperanza",
     "desc": "Sólo puedes activar 1 \"Revelación de la Esperanza\" por turno.\r\n①: Envía al Cementerio 1 monstruo Dragón de Nivel 8 boca arriba desde tu Campo; Invoca de Modo Especial, desde tu Deck Extra, 1 Monstruo Xyz Dragón de Rango 8 (esto se considera una Invocación Xyz).",
-    "overallString": "[Spell]",
+    "overallString": "[Mágica]",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100233012.jpg?version=9.10"
   },
   {
     "name": "Viaje a la Galaxia",
     "desc": "Sólo puedes usar cada efecto ① y ② de \"Viaje a la Galaxia\" una vez por turno.\r\n①: Invoca de Modo Especial 1 de tus monstruos de LUZ u OSCURIDAD desterrados.\r\n②: Si uno o más Monstruos Xyz boca arriba que controlas son desterrados y esta carta está en tu Cementerio: puedes desterrar esta carta en tu Cementerio, y después seleccionar 1 de esos monstruos; Invócalo de Modo Especial",
-    "overallString": "[Spell|Quick-Play]",
+    "overallString": "[Mágica|Juego Rápido]",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100233013.jpg?version=9.10"
   },
   {
     "name": "Verre Magic – Lacrima de Luz",
     "desc": "(Esta carta siempre se trata como una carta \"Magistus\" y \"Artibrujo\").\r\n①: Activa 1 de estos efectos (pero sólo puedes usar cada efecto de \"Verre Magic – Lacrima de Luz\" una vez por turno).\r\n● Si controlas un monstruo \"Magistus\" o \"Artibrujo\": manda al Cementerio 1 monstruo Lanzador de Conjuros o 1 carta Mágica desde tu Deck.\r\n● Cuando tu adversario activa una carta o efecto: Invoca de Modo Especial, desde tu mano o Deck, 1 monstruo \"Magistus\" o \"Artibrujo\".",
-    "overallString": "[Spell|Quick-Play]",
+    "overallString": "[Mágica|Juego Rápido]",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100233019.jpg?version=9.10"
   },
   {
     "name": "Motor Kaiser",
     "desc": "Sólo puedes usar cada efecto ① y ② de \"Motor Kaiser\" una vez por turno.\r\n①: Puedes mostrar esta carta en tu mano; inmediatamente después de que se resuelva este efecto, Invoca de Modo Normal 1 monstruo Máquina de OSCURIDAD.\r\n②: Puedes seleccionar 1 monstruo que controles; destrúyelo, después puedes Invocar de Modo Especial 1 \"Ficha Motor\" (Máquina/TIERRA/Nivel 1/ATK 200/DEF 200) en Posición de Ataque.",
-    "overallString": "[Monster|Effect] Machine/Dark  [★5] 2000/1400",
+    "overallString": "[Monstruo|Effecto] Máquina/OSCURIDAD  [★5] 2000/1400",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100233001.jpg?version=9.10"
   },
   {
     "name": "D/D Contar Topógrafo",
     "desc": "←◊1 Escala 1◊→\r\n【Efecto de Péndulo】\r\n①: Una vez por turno, si Invocas por Péndulo uno o más monstruos \"D/D/D\": puedes seleccionar 3 monstruos que controle tu adversario con el mismo Tipo o Atributo que cada uno de ellos; Sacrifica 2 de esos monstruos boca arriba y, si lo haces, el otro gana ATK/DEF igual al ATK/DEF total que los monstruos Sacrificados tenían en el Campo.\r\n----------------------------------------\r\n【Efecto de Monstruo】\r\nSólo puedes usar cada efecto ① y ② \"D/D Contar Topógrafo\" una vez por turno.\r\n①: Puedes descartar otro monstruo \"D/D\"; Invoca esta carta de Modo Especial desde tu mano.\r\n②: Si esta carta es Invocada de Modo Normal o Especial: puedes añadir a tu mano 1 monstruo \"D/D\" con 0 ATK o DEF desde tu Deck.",
-    "overallString": "[Monster|Effect|Pendulum] Fiend/Dark  [★8] 2000/2000  1/1",
+    "overallString": "[Monstruo|Effecto|Péndulo] Demonio/OSCURIDAD  [★8] 2000/2000  1/1",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100233014.jpg?version=9.10"
   },
   {
     "name": "D/D Escala Topógrafo",
     "desc": "←◊9 Escala 9◊→\r\n【Efecto de Péndulo】\r\nSólo puedes usar el Efecto de Péndulo de \"D/D Escala Topógrafo\" una vez por turno.\r\n①: Durante la Standby Phase: puedes seleccionar hasta 2 cartas en la Zona de Péndulo; sus Escalas de Péndulo se vuelven 0 hasta el final de este turno.\r\n----------------------------------------\r\n【Efecto de Monstruo】\r\nSólo puedes usar cada Efecto de Monstruo ①, ② y ③ de \"D/D Escala Topógrafo\" una vez por turno.\r\n①: Si controlas una Carta de Monstruo de Péndulo \"D/D\": puedes Invocar esta carta de Modo Especial desde tu mano.\r\n②: Si esta carta es Invocada de Modo Normal o Especial: puedes hacer que su Nivel sea 4.\r\n③: Si esta carta es enviada al Cementerio o añadida al Deck Extra boca arriba: puedes seleccionar 1 Carta de Monstruo de Péndulo \"D/D\" que controles; devuélvela a la mano.",
-    "overallString": "[Monster|Effect|Pendulum] Fiend/Dark  [★2] 0/1000  9/9",
+    "overallString": "[Monstruo|Effecto|Péndulo] Demonio/OSCURIDAD  [★2] 0/1000  9/9",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100233015.jpg?version=9.10"
   },
   {
     "name": "Crowley, el Dotado de Magistus",
     "desc": "Solo puedes usar cada efecto ① y ② de \"Crowley, el Dotado de Magistus\" una vez por turno.\r\n①: Si esta carta es añadida a tu mano, excepto robándola: puedes Invocarla de Modo Especial.\r\n②: Si esta carta es Invocada de Modo Normal o Especial: puedes Invocar por Fusión 1 \"Magistus\" o Monstruo de Fusión \"Invokado/a\" desde tu Deck Extra, usando monstruos de tu mano o Campo como material.\r\n③: Si esta carta boca arriba es usada como Material de Fusión, puede ser tratada como \"Aleister, el que Invoka\".",
-    "overallString": "[Monster|Effect] Spellcaster/Dark  [★4] 1800/1000",
+    "overallString": "[Monstruo|Effecto] Lanzador de Conjuros/OSCURIDAD  [★4] 1800/1000",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100233201.jpg?version=9.10"
   },
   {
     "name": "Festibalón",
     "desc": "Sólo puedes usar el efecto ③ de \"Festibalón\" una vez por turno.\r\n①: Si esta carta batalla con un monstruo, ninguno puede ser destruido en esa batalla.\r\n②: Cada vez que un monstruo declara un ataque, esta carta gana 1000 ATK.\r\n③: Durante tu Main Phase: puedes hacer que esta carta pierda exactamente 5000 ATK y, si lo haces, destruye todas las otras cartas en el Campo.",
-    "overallString": "[Monster|Effect] 幻想魔/Light  [★8] 0/0",
+    "overallString": "[Monstruo|Effecto] Ilusión/LUZ  [★8] 0/0",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100232001.jpg?version=9.10"
   },
   {
     "name": "Ardilla Descuidada de Escondite Secreto",
     "desc": "Sólo puedes usar cada efecto  ① y ② de \"Ardilla Descuidada de Escondite Secreto\" una vez por turno.\r\n①: Durante la Main Phase (Efecto Rápido): puedes seleccionar hasta 3 cartas Mágicas/Trampas en tu Cementerio; destiérralas y, si lo haces, barájalas al Deck durante la End Phase del siguiente turno.\r\n②: Durante tu Standby Phase: puedes seleccionar 1 de tus cartas Mágicas/Trampas desterradas; Colócala.\r\n",
-    "overallString": "[Monster|Effect] Beast/Earth  [★1] 200/100",
+    "overallString": "[Monstruo|Effecto] Bestia/TIERRA  [★1] 200/100",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100232002.jpg?version=9.10"
   },
   {
     "name": "Bazoo, la Bestia Devoradora de Almas",
     "desc": "【Material(es)】: 3 monstruos de Nivel 4\r\n①: Cualquier Material Xyz desacoplado es desterrado.\r\n②: Una vez por Cadena, si una o más Cartas de Monstruo son mandadas al Cementerio: puedes desacoplar 1 material de esta carta.\r\n③: Si el último material es desacoplado de esta carta: puedes seleccionar hasta 3 cartas en el Cementerio; acóplalas a esta carta como material.",
-    "overallString": "[Monster|Effect|Xyz] Beast/Earth  [☆4] 2500/900",
+    "overallString": "[Monstruo|Effecto|Xyz] Bestia/TIERRA  [☆4] 2500/900",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100232003.jpg?version=9.10"
   },
   {
     "name": "Shateki",
     "desc": "①: Puedes descartar 1 carta, y después seleccionar 1 monstruo que controle tu adversario que tenga un Nivel; tira un dado de seis caras y aplica este efecto en base al resultado.\r\n● Nivel superior al de ese monstruo: destruye ese objetivo, luego puedes agregar 1 monstruo con el mismo Nivel original desde tu Deck a tu mano, además no puedes activar el efecto ① de \"Shateki\" por el resto de este turno.\r\n● Nivel igual o menor que el de ese monstruo: Reduce el Nivel de ese objetivo en 1.",
-    "overallString": "[Spell|Continuous]",
+    "overallString": "[Mágica|Continua]",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100232004.jpg?version=9.10"
   },
   {
     "name": "Problema de las Sombras",
     "desc": "①: Selecciona 1 carta boca arriba que controle tu adversario; aplica este efecto según el número de cartas con ese nombre en el Cementerio de tu adversario.\r\n● 1: Destrúyelo.\r\n● 2: Destiérralo.\r\n● 3+: Destiérralo, y también todas las cartas con ese nombre, del Campo y Cementerio de tu adversario boca abajo.",
-    "overallString": "[Trap]",
+    "overallString": "[Trampa]",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100232005.jpg?version=9.10"
   },
   {
     "name": "Mago @Ignister",
     "desc": "Sólo puedes usar cada efecto ① y ② de \"Mago @Ignister\" una vez por turno.\r\n①: Si controlas un monstruo Ciberso Invocado de Modo Especial desde el Deck Extra: puedes seleccionar 1 monstruo Ciberso de OSCURIDAD en tu Cementerio; Invoca de Modo Especial tanto esta carta desde tu mano como ese monstruo en Posición de Defensa, además no puedes Invocar de Modo Especial por el resto de este turno, excepto monstruos Ciberso.\r\n②: Puedes desterrar esta carta desde tu Campo o Cementerio, y después seleccionar 1 monstruo que controle tu adversario; cambia su posición de batalla.",
-    "overallString": "[Monster|Effect] Cyberse/Dark  [★4] 1800/800",
+    "overallString": "[Monstruo|Effecto] Cyberse/OSCURIDAD  [★4] 1800/800",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208201.jpg?version=9.10"
   },
   {
     "name": "Respaldo @Ignister",
     "desc": "Sólo puedes usar cada efecto ① y ② de \"Respaldo @Ignister\" una vez por turno.\r\n①: Si controlas un monstruo Ciberso Invocado de Modo Especial desde el Deck Extra: puedes Invocar esta carta de Modo Especial desde tu mano.\r\n②: Si esta carta es Invocada de Modo Normal o Especial: puedes añadir a tu mano 1 monstruo Ciberso de OSCURIDAD desde tu Deck, excepto \"Respaldo @Ignister\", y después descartar 1 carta.",
-    "overallString": "[Monster|Effect|Tuner] Cyberse/Dark  [★3] 1200/800",
+    "overallString": "[Monstruo|Effecto|Cantante] Cyberse/OSCURIDAD  [★3] 1200/800",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208202.jpg?version=9.10"
   },
   {
     "name": "Kurikulenlace @Ignister",
     "desc": "Sólo puedes usar cada efecto ① y ② de \"Kurikulenlace @Ignister\" una vez por turno.\r\n①: (Efecto Rápido): puedes Sacrificar 1 monstruo \"@Ignister\"; Invoca esta carta de Modo Especial desde tu mano o Cementerio, pero destiérrala cuando deje el Campo.\r\n②: Cuando se activa una carta o efecto que selecciona a uno o más monstruos Ciberso que controlas y controlas un monstruo Ciberso Invocado de Modo Especial desde el Deck Extra (Efecto Rápido): puedes Sacrificar esta carta; niega ese efecto.",
-    "overallString": "[Monster|Effect] Cyberse/Dark  [★1] 300/200",
+    "overallString": "[Monstruo|Effecto] Cyberse/OSCURIDAD  [★1] 300/200",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208203.jpg?version=9.10"
   },
   {
     "name": "Dragón Sable Cortafuego",
     "desc": "【Material(es)】: 1 Cantante + 1+ monstruos que no sean Cantantes\r\nSólo puedes usar cada efecto ①, ② y ③ de \"Dragón Sable Cortafuego\" una vez por turno.\r\n①: Si esta carta es Invocada por Sincronía: puedes seleccionar 1 monstruo Ciberso en tu Cementerio o que esté desterrado; añádelo a tu mano.\r\n②: Puedes seleccionar otro monstruo Ciberso que controles que tenga un Nivel; el Nivel de esta carta se convierte en el de ese monstruo.\r\n③: Si esta carta es mandada al Cementerio como Material de Enlace: puedes añadir a tu mano 1 carta Mágica \"I.A.\" en tu Deck.\r\n",
-    "overallString": "[Monster|Effect|Synchro] Cyberse/Dark  [★7] 2300/2000",
+    "overallString": "[Monstruo|Effecto|Sincronía] Cyberse/OSCURIDAD  [★7] 2300/2000",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208204.jpg?version=9.10"
   },
   {
     "name": "Encendedor de Códigos",
     "desc": "【Material(es)】: 2 monstruos de Nivel 4\r\nSólo puedes usar cada efecto ①, ② y ③ de \"Encendedor de Códigos\" una vez por turno.\r\n①: Si esta carta es Invocada Xyz: puedes añadir 1 Monstruo de Ritual Ciberso desde tu Deck a tu mano.\r\n②: Puedes desacoplar 1 material de esta carta; Invoca por Ritual 1 Monstruo de Ritual desde tu mano, Sacrificando monstruos de tu mano y/o Campo cuyos Niveles totales sean iguales o superiores a su Nivel.\r\n③: Si esta carta es enviada al Cementerio como Material de Enlace: puedes añadir 1 carta Trampa \"I.A.\" desde tu Deck a tu mano.",
-    "overallString": "[Monster|Effect|Xyz] Cyberse/Dark  [☆4] 2300/2000",
+    "overallString": "[Monstruo|Effecto|Xyz] Cyberse/OSCURIDAD  [☆4] 2300/2000",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208205.jpg?version=9.10"
   },
   {
     "name": "Accode Hablador @Ignister",
     "desc": "【Material(es)】: 3+ Monstruos de Efecto\r\nSólo puedes usar el efecto ② de \"Accode Hablador @Ignister\" una vez por turno.\r\n①: Si esta carta es Invocada por Enlace: puedes activar este efecto; no puedes Invocar de Modo Especial otros monstruos por el resto de este turno, además Invoca de Modo Especial tantos monstruos Ciberso con 2300 ATK como sea posible desde tu Cementerio a tus zonas a las que apunte esta carta, y si lo haces, esta carta gana 500 ATK por cada uno.\r\n②: Cuando tu adversario activa una carta o efecto (Efecto Rápido): puedes Sacrificar 1 Monstruo de Enlace al que apunte esta carta; niega la activación, y si lo haces, destierra esa carta.\r\n",
-    "overallString": "[Monster|Effect|Link] Cyberse/Dark  [LINK-5] 2300/-  [←][→][↙][↓][↘]",
+    "overallString": "[Monstruo|Effecto|Enlace] Cyberse/OSCURIDAD  [LINK-5] 2300/-  [←][→][↙][↓][↘]",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208206.jpg?version=9.10"
   },
   {
     "name": "TA.I.es",
     "desc": "Sólo puedes activar 1 \"TA.I.es\" por turno.\r\n①: Muestra 1 monstruo Ciberso en tu mano; aplica este efecto basado en su Atributo, además no puedes Invocar de Modo Especial por el resto de este turno después de que esta carta se resuelva, excepto monstruos Ciberso.\r\n● OSCURIDAD: Invoca de Modo Especial al monstruo revelado, y si lo haces, añade a tu mano 1 monstruo Ciberso de Nivel 4 o menor que no sea de OSCURIDAD desde tu Deck.\r\n● No OSCURIDAD: Baraja el monstruo revelado en tu Deck y, si lo haces, añade a tu mano 1 monstruo \"@Ignister\" con un Atributo diferente de tu Deck.",
-    "overallString": "[Spell]",
+    "overallString": "[Mágica]",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208207.jpg?version=9.10"
   },
   {
     "name": "PA.I.rtners",
     "desc": "Sólo puedes usar cada efecto ① y ② de \"PA.I.rtners\" una vez por turno.\r\n①: Selecciona cartas boca arriba que controle tu adversario igual a la cantidad de monstruos Ciberso que controlas con 2300 ATK originales; niega sus efectos hasta el final de este turno.\r\n②: Puedes desterrar esta carta en tu Cementerio, y después seleccionar 1 de tus monstruos Ciberso desterrados; Invócalo de Modo Especial.",
-    "overallString": "[Trap]",
+    "overallString": "[Trampa]",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208208.jpg?version=9.10"
   },
   {
     "name": "Noh-P.U.N.K. Escama Ascendente",
     "desc": "Sólo puedes usar cada efecto ①, ② y ③ de \"Noh-P.U.N.K. Escama Ascendente\" una vez por turno.\r\n①: Puedes desterrar otra carta \"P.U.N.K.\" desde tu mano o Cementerio; Invoca de Modo Especial esta carta desde tu mano.\r\n②: Si esta carta es Invocada de Modo Especial: puedes pagar 600 LP; toma 1 monstruo \"P.U.N.K.\" de tu Deck o Cementerio, excepto un monstruo de Nivel 8, y añádelo a tu mano o Invócalo de Modo Especial.\r\n③: Cuando un monstruo que controla tu adversario con 2500 ATK o más activa su efecto (Efecto Rápido): puedes cambiarlo a Posición de Defensa boca abajo.",
-    "overallString": "[Monster|Effect] Sea Serpent/Water  [★8] 2400/2400",
+    "overallString": "[Monstruo|Effecto] Serpiente Marina/AGUA  [★8] 2400/2400",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100229019.jpg?version=9.10"
   },
   {
     "name": "¡P.U.N.K. JAM FIEBRE!",
     "desc": "【Material(es)】: 2 monstruos de Nivel 8\r\nUna vez por turno, puedes Invocar por Xyz a \"¡P.U.N.K. JAM FIEBRE!\" usando 1 Monstruo de Fusión o Sincronía \"P.U.N.K.\" que controles como material.\r\nSólo puedes usar cada efecto ① y ② de \"¡P.U.N.K. JAM FIEBRE!\" una vez por turno.\r\n①: Puedes pagar 600 LP y desacoplar 1 material de esta carta; roba 1 carta.\r\n②: Cuando se activa el efecto de otro monstruo y tienes un monstruo Psíquico de Nivel 3 en tu Cementerio (Efecto Rápido): puedes desacoplar 1 material de esta carta; niega la activación y, si lo haces, destruye ese monstruo.\r\n",
-    "overallString": "[Monster|Effect|Xyz] Psychic/Light  [☆8] 2800/600",
+    "overallString": "[Monstruo|Effecto|Xyz] Psíquico/LUZ  [☆8] 2800/600",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100229020.jpg?version=9.10"
   },
   {
     "name": "Caballero de Vapor - BULLauncher",
     "desc": "\"BULLauncher\" es una máquina de apoyo especializada en bombardeo y combate diurno que no solo tiene las constantemente refinadas \"Coc-OS\" y \"BFS ARmor\", sino que también tiene 3 \"Foil-Packer\" instaladas en su interior bajo las órdenes de \"Madera\" después de repetidos ensayos y errores. Al instalar un \"Beef-Rifle\" u otros armamentos, puede usarse como apoyo de mediano y largo alcance para los \"Caballeros de Vapor\" y sus operaciones. Además, \"BULLauncher\" puede combinarse con \"WINGear\", que se especializa en combate aéreo de alta velocidad, y con \"BOARms\", que se especializa en combate cuerpo a cuerpo y de asalto, para hacer que el \"Steam Jushin - BW\" de altas calorías descienda sobre este mundo.",
-    "overallString": "[Monster|Normal] Beast-Warrior/Fire  [★4] 1800/200",
+    "overallString": "[Monstruo|Normal] Gerrero Bestia/FUEGO  [★4] 1800/200",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100231002.jpg?version=9.10"
-  },
-  {
-    "name": "龙兽鲨",
-    "desc": "这个卡名的①②的效果1回合各能使用1次。\r\n①：这张卡用抽卡以外的方法加入手卡的场合才能发动。这张卡特殊召唤。\r\n②：以怪兽3只以上为素材的水属性超量怪兽超量召唤的场合，这张卡可以作为2只数量的超量素材。\r\n③：持有这张卡作为素材中的「鲨龙兽」超量怪兽得到以下效果。\r\n●1回合1次，把这张卡2个超量素材取除，以场上1张魔法·陷阱卡为对象才能发动。那张卡作为这张卡的超量素材。",
-    "overallString": "[Monster|Effect] Fish/Water  [★4] 1400/1050",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/81096431.jpg?version=9.10"
   },
   {
     "name": "Galatea I, el Orcust Autómata",
     "desc": "【Material(es)】: 1 monstruo \"Orcust\" o \"Legado Mundial\"\r\nSólo puedes Invocar de Modo Especial a \"Galatea I, el Orcust Autómata\" una vez por turno. No puede usarse como Material Xyz. Sólo puedes usar cada uno de los efectos ① y ② de \"Galatea I, el Orcust Autómata\" una vez por turno.\r\n①: Puedes enviar al Cementerio 1 carta desde tu mano; añade a tu mano 1 monstruo \"Legado Mundial\" o \"Babel Orcustrado\" desde tu Deck o Cementerio.\r\n②: Si esta carta está en tu Cementerio: puedes desterrar 1 carta \"Orcust\" desde tu Cementerio; Invoca esta carta de Modo Especial.",
-    "overallString": "[Monster|Effect|Link] Machine/Dark  [LINK-1] 0/-  [↙]",
+    "overallString": "[Monstruo|Effecto|Enlace] Máquina/OSCURIDAD  [LINK-1] 0/-  [↙]",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100229033.jpg?version=9.10"
   },
   {
     "name": "Mekk-Caballero Orcust Enligirsu",
     "desc": "【Material(es)】: 2 o más monstruos incluyendo un Monstruo de Enlace \"Orcust\"\r\nSólo puedes usar cada efecto ① y ② de \"Mekk-Caballero Orcust Enligirsu\" una vez por turno.\r\n①: Puedes seleccionar 1 de tus cartas \"Orcust\" o \"Legado Mundial\" desterradas; añádela a tu mano, luego baraja 1 carta de tu mano al Deck y, si lo haces, toma el control de 1 monstruo boca arriba que controle tu adversario.\r\n②: Si esta carta está en tu Cementerio porque fue enviada ahí desde la Zona de Monstruos Extra este turno: puedes desterrarla; envía al Cementerio 1 carta en el Campo.",
-    "overallString": "[Monster|Effect|Link] Machine/Dark  [LINK-4] 2600/-  [↗][←][→][↙]",
+    "overallString": "[Monstruo|Effecto|Enlace] Máquina/OSCURIDAD  [LINK-4] 2600/-  [↗][←][→][↙]",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100229034.jpg?version=9.10"
   }
 ]
