@@ -1,5 +1,59 @@
 [
   {
+    "name": "Witches of the White Forest",
+    "desc": "You can only activate 1 card with this card's name per turn. \r\nYou can only use ③ effect of this card's name once per turn.\r\n①：When this card resolves, you can add 1 \"White Forest\" monster from your Deck to the hand, and if you do, you cannot Special Summon DARK monsters from the Extra Deck for the rest of this turn.\r\n②：The first time each of your \"White Forest\" monsters would be destroyed by battle each turn, it is not destroyed.\r\n③：You can target 1 \"White Forest\" monster you control; it is treated as a Tuner this turn.",
+    "overallString": "[Spell|Field]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208058.jpg?version=9.10"
+  },
+  {
+    "name": "Diabellstar the Sin Adjudicator",
+    "desc": "(This card is always treated as a \"Sinful Spoils\" card.)\r\nYou can only use ① and ② effect of this card's name each once per turn.\r\n①：You can banish 1 Spell and 1 Trap from your hand and/or GY; Special Summon this card from your hand or GY.\r\n②：(Quick Effect): You can pay half your LP, then target 1 card your opponent controls; destroy it, then, if another \"Diabell\" Monster Card is on the field, you can Special Summon 1 Illusion or Spellcaster Tuner Synchro Monster from your Extra Deck.",
+    "overallString": "[Monster|Effect] Fiend/Dark  [★8] 2500/2100",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208011.jpg?version=9.10"
+  },
+  {
+    "name": "Diabellze the White Witch",
+    "desc": "(This card is always treated as a \"White Forest\" card.)\r\nYou can only use ① and ② effect of this card's name each once per turn.\r\n①：You can send 1 Spell/Trap from your hand or field to the GY; Special Summon this card from your hand.\r\n②：If this card is Normal or Special Summoned: You can send 1 \"Sinful Spoils\" or \"Diabell\" card from your Deck to the GY.\r\n③：Monsters you control cannot be destroyed by your opponent's card effects while you control 2 or more \"Diabell\" monsters.",
+    "overallString": "[Monster|Effect] Illusion/Light  [★8] 2500/2100",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208012.jpg?version=9.10"
+  },
+  {
+    "name": "Azamina",
+    "desc": "\"Queen of the Azamina\" + 1 Fusion or Synchro Monster\r\nMust first be either Fusion Summoned, or Special Summoned (from your Extra Deck) by Tributing 1 \"St. Azamina\" you control and 1 face-up monster your opponent controls.\r\n①：Cannot be destroyed by card effects.\r\n②：Each time your opponent activates a card or effect, all monsters your opponent controls lose 500 ATK when it resolves.\r\n③：Your opponent cannot activate the effects of monsters with 0 ATK.",
+    "overallString": "[Monster|Effect|Fusion] Illusion/Light  [★12] 4000/4000",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208035.jpg?version=9.10"
+  },
+  {
+    "name": "Snake-Eyes Execute Dragon",
+    "desc": "1 Tuner + 1+ non-Tuner monsters\r\nYou can only use ① and ② effect of this card's name each once per turn.\r\n①：During the Main Phase (Quick Effect): You can target 1 face-up monster on the field or in the GY; place it face-up in its owner's Spell & Trap Zone as a Continuous Spell, also this card cannot use this effect next turn.\r\n②：During the Battle Phase (Quick Effect): You can target 2 cards on the field (1 monster and 1 Continuous Spell); destroy them.",
+    "overallString": "[Monster|Effect|Synchro] Dragon/Fire  [★12] 3000/2500",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208040.jpg?version=9.10"
+  },
+  {
+    "name": "Mystic Mystery of the White Forest",
+    "desc": "1 Tuner + 1+ non-Tuner monsters\r\nYou can only use ① and ② effect of this card's name each once per turn.\r\n①：If this card is Special Summoned: You can target 2 \"White Forest\" monsters in your GY; place them face-up in their owners' Spell & Trap Zone as Continuous Spells.\r\n②：During your opponent's Main Phase (Quick Effect): You can activate this effect; immediately after it resolves, Synchro Summon using this card you control.",
+    "overallString": "[Monster|Effect|Tuner|Synchro] Illusion/Light  [★4] 700/2000",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208041.jpg?version=9.10"
+  },
+  {
+    "name": "Philias Diabell",
+    "desc": "You can only use ① and ② effect of this card's name each once per turn.\r\n①：Add 1 Level 8 or higher \"Diabell\" monster from your Deck to your hand, or, if only your opponent controls a monster, you can Special Summon it instead.\r\n②：If this card becomes banished: You can make all \"Diabell\" monsters you currently control gain 500 ATK.",
+    "overallString": "[Spell]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208057.jpg?version=9.10"
+  },
+  {
+    "name": "Curse of Diabell",
+    "desc": "You can only use ① and ② effect of this card's name each once per turn.\r\n①：If you control 2 or more \"Diabell\" monsters: Send 1 monster you control to the GY; destroy all face-up cards your opponent controls.\r\n②：If this card is sent to the GY, or banished, from the hand or Deck: You can add 1 \"Diabell\" Spell/Trap from your Deck to your hand, except \"Curse of Diabell\".\r\n",
+    "overallString": "[Trap]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208072.jpg?version=9.10"
+  },
+  {
+    "name": "Sinless Sinful Spoils",
+    "desc": "You can only use ① effect of this card's name once per turn.\r\n①：You can activate 1 of these effects;\r\n● Target 1 \"Diabell\" monster in your GY or banishment; discard 1 card, and if you do, Special Summon that monster.\r\n● Target 1 face-up Monster Card in your Spell & Trap Zone; Special Summon it.",
+    "overallString": "[Trap|Continuous]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208073.jpg?version=9.10"
+  },
+  {
     "name": "Prima Materiactor",
     "desc": "Pendulum Scale = 1\r\n[ Pendulum Effect ]\r\nYou can only use ② Pendulum Effect of this card's name once per turn.\r\n①：Xyz Monsters you control gain ATK equal to the number of Xyz Materials attached to monsters on the field x 100.\r\n②：You can target 1 \"Materiactor\" Xyz Monster you control; attach this card to it as material, then draw 1 card.\r\n----------------------------------------\r\n[ Flavor Text ]\r\nAn alien lifeform that suddenly crash-landed from the heavens far above. \r\nAlthough many researchers have tried to determine why it came, the combination of its luminous glow and the miasma that surrounds it have long shrouded its existence in complete mystery. \r\nAs a result, trying to grasp the whole picture has been extremely difficult. \r\nHowever, in recent years, thanks to the efforts of up-and-coming researchers, many new species have been discovered. The day will soon come when the full extent of their existence will be revealed.",
     "overallString": "[Monster|Normal|Pendulum] Dragon/Light  [★3] 0/0  1/1",
@@ -31,7 +85,7 @@
   },
   {
     "name": "Regenesis Archfiend Bemidbar",
-    "desc": "You can only Special Summon with the ① effect of this card's name once per turn. \r\nYou can only use ② and ③ effect of this card's name each once per turn.\r\n①：You can Special Summon this card (from your hand) by revealing 1 monster in your hand with 2500 ATK or DEF.\r\n②：If this card is Normal or Special Summoned: You can add 1 \"Regenesis\" card from your Deck or banishment to your hand, except \"Regenesis Archfiend Bemidbar\".\r\n③：During your opponent's End Phase, if this card is in your GY because it was sent there this turn: You can add it to your hand.",
+    "desc": "You can only Special Summon with the ① effect of this card's name once per turn. \r\nYou can only use ② and ③ effect of this card's name each once per turn.\r\n①：You can Special Summon this card (from your hand) by revealing 1 other monster in your hand with 2500 ATK or DEF.\r\n②：If this card is Normal or Special Summoned: You can add 1 \"Regenesis\" card from your Deck or banishment to your hand, except \"Regenesis Archfiend Bemidbar\".\r\n③：During your opponent's End Phase, if this card is in your GY because it was sent there this turn: You can add it to your hand.",
     "overallString": "[Monster|Effect] Fiend/Earth  [★8] 2500/2500",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208016.jpg?version=9.10"
   },
