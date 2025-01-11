@@ -1,5 +1,53 @@
 [
   {
+    "name": "Legendary Lord Six Samurai – Kizan",
+    "desc": "You can only use ② and ③ effect of this card's name each once per turn.\r\n①：\"Six Samurai\" monsters you control gain 600 ATK/DEF during the Battle Phase only.\r\n②：During your opponent's Main Phase (Quick Effect): You can banish 1 \"Six Strike\" card from your GY, then target 1 card on the field; destroy it.\r\n③：If you control 2 or more \"Six Samurai\" monsters: You can Special Summon this card from your GY.",
+    "overallString": "[Monster|Effect|Synchro] Warrior/Earth  [★6] 1800/800",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208042.jpg?version=9.10"
+  },
+  {
+    "name": "Vulcarrion the Rotting Phoenix",
+    "desc": "You can only use ① and ② effect of \"Vulcarrion the Rotting Phoenix\" once per turn.\r\n①：If you control a Zombie monster: You can Special Summon this card from your hand. \r\n②：During your Main Phase: You can return this card from the field to the hand, then you can Special Summon 1 Zombie monster from your hand. ",
+    "overallString": "[Monster|Effect|Tuner] Zombie/Dark  [★4] 1600/0",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101207082.jpg?version=9.10"
+  },
+  {
+    "name": "Minimalian",
+    "desc": "You can only use ① and ② effect of \"Minimalian\" once per turn.\r\n①：You can banish 1 other card from your hand; Special Summon this card from your hand. \r\n②：You can banish 1 face-up Level 4 or lower monster you control; Special Summon 1 monster from your Deck with the same original Type and Attribute that the banished monster had, but 1 or 2 Levels lower than its original Level. ",
+    "overallString": "[Monster|Effect] Psychic/Water  [★4] 100/100",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101207084.jpg?version=9.10"
+  },
+  {
+    "name": "Shadow Severing Strike",
+    "desc": "You can only use ① and ② effect of \"Shadow Severing Strike\" once per turn.\r\n①：If a card(s) is banished from the hand and/or field to activate a monster effect (except during the Damage Step): You can apply 1 of the following effects based on 1 of the card types banished:\r\n●Monster: Negate the effects of 1 face-up Spell/Trap on the field until the end of this turn. \r\n●Spell: Draw 2 cards. \r\n●Trap: Banish 1 monster on the field.\r\n②：If this card is banished to activate a monster effect: You can add 1 of your other banished cards to your hand. ",
+    "overallString": "[Spell|Continuous]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101207085.jpg?version=9.10"
+  },
+  {
+    "name": "D.D. Post",
+    "desc": "You can only use ③ effect of \"D.D. Post\" once per turn.\r\n①：Monsters you control gain 300 ATK for each card type (Monster, Spell, or Trap) among your banished cards. \r\n②：Once per turn, during the Main Phase: You can banish 1 card from your hand or GY, then you can shuffle 1 of your banished cards into the Deck. \r\n③：If this card is banished: You can place it face-up on your field. ",
+    "overallString": "[Trap|Continuous]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101207086.jpg?version=9.10"
+  },
+  {
+    "name": "Beast of Talwar – The Sword Summit",
+    "desc": "(This card is always treated as an \"Archfiend\" card.)\r\n①：If you control no monsters, you can Special Summon this card (from your hand). \r\n②：The first time this card would be destroyed by an opponent's card effect each turn, it is not destroyed. \r\n③：Neither player can target other monsters with Equip Spell Cards or effects.",
+    "overallString": "[Monster|Effect] Fiend/Dark  [★7] 2400/2150",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101207087.jpg?version=9.10"
+  },
+  {
+    "name": "Ripple Bird",
+    "desc": "2 Level 1 monsters\r\n①：You can detach 1 material from this card, then target 1 monster on the field; change its battle position. \r\n②：While all monsters you control are in Attack Position, they gain 500 ATK. \r\n③：While all monsters you control are in Defense Position, your opponent cannot declare an attack.",
+    "overallString": "[Monster|Effect|Xyz] Winged Beast/Wind  [☆1] 1000/0",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101207088.jpg?version=9.10"
+  },
+  {
+    "name": "The Toil of the Normal",
+    "desc": "You can only activate 1 \"The Toil of the Normal\" per turn.\r\nApply these effects in sequence, based on the number of Normal Monsters with different names in your GY (skip over any that do not apply):\r\n● 1+ This turn, Normal Monsters you control gain 800 ATK.\r\n● 2+ Negate the effects of 1 Effect Monster on the field, until the end of this turn.\r\n● 3+ This turn, Normal Monsters you control cannot be destroyed by card effects.\r\n● 4+ Shuffle 1 Effect Monster on the field into the Deck.\r\n● 5+ Add 1 \"The Toil of the Normal\" from your Deck to your hand.",
+    "overallString": "[Trap]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101207089.jpg?version=9.10"
+  },
+  {
     "name": "Witches of the White Forest",
     "desc": "You can only activate 1 card with this card's name per turn. \r\nYou can only use ③ effect of this card's name once per turn.\r\n①：When this card resolves, you can add 1 \"White Forest\" monster from your Deck to the hand, and if you do, you cannot Special Summon DARK monsters from the Extra Deck for the rest of this turn.\r\n②：The first time each of your \"White Forest\" monsters would be destroyed by battle each turn, it is not destroyed.\r\n③：You can target 1 \"White Forest\" monster you control; it is treated as a Tuner this turn.",
     "overallString": "[Spell|Field]",
