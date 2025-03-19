@@ -1,5 +1,23 @@
 [
   {
+    "name": "Mago Lunar",
+    "desc": "Sólo puedes Invocar de Modo Especial a \"Mago Lunar\" usando el efecto ① una vez por turno. Sólo puedes usar el ② efecto de \"Mago Lunar\" una vez por turno.\r\n①: Si tu adversario controla un Monstruo Xyz, puedes Invocar de Modo Especial esta carta (desde tu mano).\r\n②: Si esta carta es Invocada de Modo Normal o Especial: puedes seleccionar 1 monstruo de LUZ de Nivel 4 en tu Cementerio, excepto \"Mago Lunar\"; Invócalo de Modo Especial, pero sus efectos son negados.",
+    "overallString": "[Monstruo|Effecto] Lanzador de Conjuros/LUZ  [★4] 1800/1500",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100200267.jpg?version=11.20"
+  },
+  {
+    "name": "Gardna Lunar",
+    "desc": "Sólo puedes Invocar de modo Especial a \"Gardna Lunar\" usando el efecto ① una vez por turno. Sólo puedes usar el efecto ② de \"Gardna Lunar\" una vez por turno.\r\n①: Si tu adversario controla 2 o más monstruos, puedes Invocar esta carta de Modo Especial (desde tu mano).\r\n②: Si esta carta es Invocada de Modo Normal o Especial y tu adversario controla un monstruo: puedes seleccionar 1 monstruo de LUZ de Nivel 4 en tu Cementerio, excepto \"Gardna Lunar\"; añádelo a tu mano.",
+    "overallString": "[Monstruo|Effecto] Lanzador de Conjuros/LUZ  [★4] 100/2000",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100200268.jpg?version=11.20"
+  },
+  {
+    "name": "Plano de Ajuste de Nave Espacial",
+    "desc": "Sólo puedes usar el efecto de \"Plano de Ajuste de Nave Espacial\" una vez por turno.\r\n①: Puedes seleccionar otro monstruo Máquina que controles que tenga un Nivel; hasta el final de este turno, los Niveles de ese monstruo y de esta carta se convierten en sus Niveles actuales combinados, además no puedes Invocar de Modo Especial desde el Deck Extra, excepto Monstruos Xyz Máquina.",
+    "overallString": "[Monstruo|Effecto] Máquina/VIENTO  [★3] 500/1100",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100200269.jpg?version=11.20"
+  },
+  {
     "name": "Zetan, Hada Súper Cuantal",
     "desc": "Sólo puedes usar cada efecto ① y ② de \"Zetan, Hada Súper Cuantal\" una vez por turno.\r\n①: Si esta carta está en tu mano y controlas un monstruo \"Súper Cuant\" que no sea \"Zetan, Hada Súper Cuantal\": Puedes Invocar esta carta de Modo Especial y luego hacer que su Nivel sea el de 1 monstruo \"Súper Cuant\" que controles.\r\n②: Puedes Sacrificar esta carta y mandar al Cementerio 1 carta \"Súper Cuant\" desde tu Deck, excepto un monstruo de OSCURIDAD; Invoca de Modo Especial 1 monstruo \"Súper Cuant\" desde tu Deck, excepto \"Zetan, Hada Súper Cuantal\".",
     "overallString": "[Monstruo|Effecto] Zombi/OSCURIDAD  [★1] 0/0",
@@ -192,66 +210,6 @@
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100236005.jpg?version=11.20"
   },
   {
-    "name": "El Hombre con la Marca",
-    "desc": "Sólo puedes usar el efecto ① de \"El Hombre con la Marca\" una vez por turno.\r\n①: Si esta carta es Invocada de Modo Normal o Especial: puedes tomar 1 \"Templo de los Reyes\" o 1 Mágica/Trampa que lo mencione, desde tu Deck y añadirlo a tu mano o mandarlo al Cementerio.\r\n②: Mientras controles \"Templo de los Reyes\", esta carta y los monstruos \"Apophis\" que controles no pueden ser destruidos en batalla o por efectos de cartas.\r\n③: \"Templo de los Reyes\" que controles no puede ser destruido por efectos de cartas.",
-    "overallString": "[Monstruo|Effecto] Lanzador de Conjuros/TIERRA  [★4] 1000/1000",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100237001.jpg?version=11.20"
-  },
-  {
-    "name": "Escorpión Despiadado de Serket",
-    "desc": "No puede ser Invocada de Modo Normal ni Colocada. Primero debe ser Invocada de Modo Especial (desde tu mano) desterrando 1 monstruo de Nivel 10 o mayor desde tu mano o Deck, mientras controles \"Templo de los Reyes\". Sólo puedes Invocar de Modo Especial a \"Escorpión Despiadado de Serket\" una vez por turno de esta manera.\r\n①: Una vez por turno, durante tu Main Phase: puedes añadir a tu mano 1 \"Templo de los Reyes\" o 1 Mágica que lo mencione, desde tu Deck.\r\n②: Al comienzo del Damage Step, si esta carta batalla con un monstruo del adversario: puedes destruir ese monstruo del adversario y, si lo haces, esta carta gana ATK igual a la mitad del ATK original del monstruo destruido.",
-    "overallString": "[Monstruo|Effecto|Invocación Especial] Hada/TIERRA  [★6] 2500/2000",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100237002.jpg?version=11.20"
-  },
-  {
-    "name": "Anubis el Último Juez",
-    "desc": "No puede ser Invocada de Modo Normal ni Colocada. Debe ser Invocada de Modo Especial (desde tu mano o Cementerio) mientras tengas 3 o más cartas en tu Cementerio con nombres diferentes que sean \"Templo de los Reyes\" y/o Trampas, colocando 2 de ellas en el fondo del Deck en cualquier orden. Sólo puedes usar cada efecto ① y ② de \"Anubis el Último Juez\" una vez por turno.\r\n①: Puedes mandar esta carta desde tu mano al Cementerio; añade 1 \"El Hombre con la Marca\" desde tu Deck a tu mano.\r\n②: Si una Mágica o Trampa que controlas es destruida por efectos de cartas: puedes seleccionar 1 carta que controle tu adversario; destrúyela.",
-    "overallString": "[Monstruo|Effecto|Invocación Especial] Demonio/TIERRA  [★10] 3000/0",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100237003.jpg?version=11.20"
-  },
-  {
-    "name": "Serpiente Divina Apophis",
-    "desc": "【Material(es)】: 2 monstruos que mencionen \"Templo de los Reyes\"\r\nDeben ser Invocados por Fusión o por Invocación Especial Sacrificando 2 monstruos \"Apophis\".\r\n①: Una vez por turno: puedes seleccionar hasta 3 Trampas \"Apophis\" con nombres diferentes en tu Cementerio; Colócalas.\r\n②: Una vez por turno, si una Carta de Trampa es activada (excepto durante el Damage Step): puedes seleccionar 1 carta que controle tu adversario; destrúyela.",
-    "overallString": "[Monstruo|Effecto|Fusión] Reptil/TIERRA  [★6] 2800/2600",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100237004.jpg?version=11.20"
-  },
-  {
-    "name": "Bestia Escorpión Divino de Serket",
-    "desc": "【Material(es)】: 1 monstruo \"Serket\" + 1 monstruo con 2500 ATK o menos\r\nSólo puedes usar el efecto ① de \"Bestia Escorpión Divino de Serket\" una vez por turno.\r\n①: Si esta carta es Invocada de Modo Especial, o al inicio del Damage Step si esta carta batalla con un monstruo del adversario: puedes seleccionar 1 monstruo boca arriba que controle tu adversario o en su Cementerio; destiérralo y, si lo haces, esta carta gana ATK igual a la mitad del ATK original del monstruo desterrado.\r\n②: Puede realizar un segundo ataque durante cada Battle Phase, mientras un monstruo de Nivel 10 o mayor esté desterrado.\r\n",
-    "overallString": "[Monstruo|Effecto|Fusión] Hada/TIERRA  [★6] 3000/2000",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100237005.jpg?version=11.20"
-  },
-  {
-    "name": "Tesoro de los Reyes",
-    "desc": "Sólo puedes activar 1 \"Tesoro de los Reyes\" por turno.\r\n①: Cuando esta carta es activada: puedes Colocar 1 Trampa \"Apophis\" desde tu Deck.\r\n②: El nombre de esta carta es tratado como \"Templo de los Reyes\" mientras esté en la Zona de Campo.\r\n③: Una vez por turno, si tienes 2 o más cartas Colocadas en el Campo, o una Trampa en tu Cementerio: Puedes añadir 1 monstruo que mencione \"Templo de los Reyes\" de tu Deck a tu mano.",
-    "overallString": "[Mágica|Campo]",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100237006.jpg?version=11.20"
-  },
-  {
-    "name": "Defensa del Templo",
-    "desc": "Sólo puedes usar el efecto ② de \"Defensa del Templo\" una vez por turno.\r\n①: Invoca por Fusión, desde tu Deck Extra, 1 Monstruo de Fusión de TIERRA, usando monstruos de tu mano o Campo. Si usas un monstruo que controles que mencione \"Templo de los Reyes\", también puedes usar monstruos boca arriba que controle tu adversario como material.\r\n②: Si controlas \"Templo de los Reyes\": puedes desterrar esta carta desde tu Cementerio; añade a tu mano 1 \"Peligros de lo Divino\" desde tu Deck.",
-    "overallString": "[Mágica]",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100237007.jpg?version=11.20"
-  },
-  {
-    "name": "Peligros de lo Divino",
-    "desc": "Sólo puedes usar cada efecto ① y ② de \"Peligros de lo Divino\" una vez por turno.\r\n①: Paga la mitad de tus LP, luego Sacrifica 1 monstruo; Invoca de Modo Especial, desde tu mano o destierro, 1 \"El Dragón Alado de Ra\", ignorando sus condiciones de Invocación y haz que su ATK/DEF sea 4000, pero no puede atacar; además, durante la End Phase del siguiente turno, regrésalo a la mano.\r\n②: Si esta carta es mandada del Campo al Cementerio: elige 1 \"El Dragón Alado de Ra\" en tu Zona de Monstruos y manda al Cementerio todos los demás monstruos en el Campo.",
-    "overallString": "[Mágica|Juego Rápido]",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100237008.jpg?version=11.20"
-  },
-  {
-    "name": "Veredicto de Anubis",
-    "desc": "Sólo puedes activar 1 \"Veredicto de Anubis\" por turno.\r\n①: Cuando tu adversario activa una Carta Mágica o de Trampa mientras tú controlas 3 o más Cartas Mágicas o de Trampa: niega la activación y, si lo haces, destruye esa carta. Después, si controlas \"Templo de los Reyes\", puedes destruir tantos monstruos que controle tu adversario como puedas y después infligir daño a tu adversario igual a la mitad del ATK total de esos monstruos destruidos.",
-    "overallString": "[Trampa|Contraefecto]",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100237009.jpg?version=11.20"
-  },
-  {
-    "name": "La Serpiente Apophis",
-    "desc": "Sólo puedes usar cada efecto ① y ② de \"La Serpiente Apophis\" una vez por turno.\r\n①: Invoca de Modo Especial esta carta como un Monstruo Normal (Reptil/TIERRA/Nivel 4/ATK 1600/DEF 1800) (esta carta también sigue siendo una Trampa), y después puedes Colocar 1 Trampa \"Apophis\" en tu Deck, excepto \"La Serpiente Apophis\". Esta puede ser activada este turno.\r\n②: Si esta carta es mandada al Cementerio: puedes añadir a tu mano, desde tu Deck, 1 \"Encarnación de Apophis\".",
-    "overallString": "[Trampa|Continua]",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100237010.jpg?version=11.20"
-  },
-  {
     "name": "Caballero Zubababa",
     "desc": "Sólo puedes usar cada efecto ① y ② de \"Caballero Zubababa\" una vez por turno.\r\n①: Si esta carta es Invocada de Modo Normal o Especial: puedes activar 1 de estos efectos:\r\n● Añade a tu mano 1 monstruo \"Zubaba\" desde tu Deck, excepto \"Caballero Zubababa\", y, si lo haces, el Nivel de esta carta se convierte en el de ese monstruo.\r\n● Destruye 1 monstruo en Posición de Defensa de Nivel 4 o menor del adversario.\r\n②: Si esta carta es desacoplada para activar el efecto de un Monstruo Xyz: puedes añadir a tu mano 1 monstruo \"Gagaga\" desde tu Deck.",
     "overallString": "[Monstruo|Effecto] Guerrero/TIERRA  [★3] 1600/900",
@@ -424,12 +382,6 @@
     "desc": "Sólo puedes activar 1 \"Llama Coladragón\" por turno.\r\n①: Selecciona 1 carta Mágica boca arriba en el Campo; niega sus efectos (hasta el final de este turno), luego puedes Colocar 1 carta \"Coladragón\" de tu Cementerio o destierro en el fondo del Deck, excepto \"Llama Coladragón\", luego roba 1 carta.\r\n",
     "overallString": "[Trampa]",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100236011.jpg?version=11.20"
-  },
-  {
-    "name": "Cristal Soulcer",
-    "desc": "Sólo puedes usar cada uno de los efectos ② y ③ de \"Cristal Soulcer\" una vez por turno.\r\n①: No puede ser destruido por efectos de cartas.\r\n②: Si tu adversario controla 2 o más mostruos que tú: puedes Invocar esta carta de Modo Especial desde tu mano.\r\n③: Puedes seleccionar 1 Monstruo de Efecto que controle tu adversario; niega sus efectos.",
-    "overallString": "[Monstruo|Effecto] Aqua/LUZ  [★6] 300/1900",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100200266.jpg?version=11.20"
   },
   {
     "name": "Alma de Gaia, el Caballero Feroz",
