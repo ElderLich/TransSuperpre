@@ -1,5 +1,17 @@
 [
   {
+    "name": "Primavera",
+    "desc": "①: Una vez por turno: Puedes elegir cualquier número de tus Zonas de Monstruos Principales sin usar y, si lo haces, coloca esa cantidad de Contadores de Temporada sobre esta carta. Además, esas zonas no pueden usarse mientras esta carta esté en el Campo.\r\n②: Los monstruos que controlas ganan 400 ATK por cada Contador de Temporada sobre esta carta.\r\n③: Una vez por turno, durante la End Phase de tu adversario: Puedes tomar 1 Mágica de Campo de tu Deck sobre la que puedas colocar un Contador de Temporada y colocarla boca arriba en tu Campo (pero ningún jugador puede activar sus efectos este turno). Si lo haces, coloca todos los Contadores de Temporada de esta carta sobre esa carta.",
+    "overallString": "[Mágica|Campo]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301073.jpg?version=11.20"
+  },
+  {
+    "name": "Otroverso Stradios",
+    "desc": "Un dios de la guerra de otro universo que ha superado innumerables guerras. Si este prestigio es tu deseo, ven y trata de conseguirlo.",
+    "overallString": "[Monstruo|Normal] Guerrero/TIERRA  [★8] 2500/2000",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100239001.jpg?version=11.20"
+  },
+  {
     "name": "Mago Leo, el Mago Oscuro",
     "desc": "Sólo puedes usar el efecto ③ de \"Mago Leo, el Mago Oscuro\" una vez por turno.\r\n①: Los monstruos cuyo Nivel original sea 4 o menor con más de 1350 ATK y/o DEF requieren 1 Sacrificio para la Invocación Normal desde la mano.\r\n②: Al comienzo del Damage Step, si esta carta batalla con un monstruo de LUZ: puedes destruirlo.\r\n③: Si esta carta es destruida en batalla o por efecto de una carta: puedes añadir a tu mano 1 monstruo con 1350 ATK desde tu Deck.",
     "overallString": "[Monstruo|Effecto] Lanzador de Conjuros/OSCURIDAD  [★4] 1350/1200",
@@ -18,30 +30,6 @@
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301069.jpg?version=11.20"
   },
   {
-    "name": "Caso de K9",
-    "desc": "Sólo puedes activar 1 \"Caso de K9\" por turno. Sólo puedes usar el efecto ③ de \"Caso de K9\" una vez por turno.\r\n①: Cuando esta carta se resuelve, puedes añadir 1 monstruo \"K9\" de tu Deck a tu mano.\r\n②: Los monstruos \"K9\" que controlas ganan 900 ATK el turno en que tu adversario activó un efecto de monstruo en la mano o el Cementerio.\r\n③: Si esta carta en la Zona de Magias y Trampas es destruida por un efecto de carta: puedes Colocar 1 Mágica de Juego Rápido \"K9\" de tu Deck o Cementerio. ",
-    "overallString": "[Mágica|Continua]",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100236040.jpg?version=11.20"
-  },
-  {
-    "name": "Mago Lunar",
-    "desc": "Sólo puedes Invocar de Modo Especial a \"Mago Lunar\" usando el efecto ① una vez por turno. Sólo puedes usar el ② efecto de \"Mago Lunar\" una vez por turno.\r\n①: Si tu adversario controla un Monstruo Xyz, puedes Invocar de Modo Especial esta carta (desde tu mano).\r\n②: Si esta carta es Invocada de Modo Normal o Especial: puedes seleccionar 1 monstruo de LUZ de Nivel 4 en tu Cementerio, excepto \"Mago Lunar\"; Invócalo de Modo Especial, pero sus efectos son negados.",
-    "overallString": "[Monstruo|Effecto] Lanzador de Conjuros/LUZ  [★4] 1800/1500",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100200267.jpg?version=11.20"
-  },
-  {
-    "name": "Defensor Lunar",
-    "desc": "Sólo puedes Invocar de modo Especial a \"Defensor Lunar\" usando el efecto ① una vez por turno. Sólo puedes usar el efecto ② de \"Gardna Lunar\" una vez por turno.\r\n①: Si tu adversario controla 2 o más monstruos, puedes Invocar esta carta de Modo Especial (desde tu mano).\r\n②: Si esta carta es Invocada de Modo Normal o Especial y tu adversario controla un monstruo: puedes seleccionar 1 monstruo de LUZ de Nivel 4 en tu Cementerio, excepto \"Defensor Lunar\"; añádelo a tu mano.",
-    "overallString": "[Monstruo|Effecto] Lanzador de Conjuros/LUZ  [★4] 100/2000",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100200268.jpg?version=11.20"
-  },
-  {
-    "name": "Ajustador de Naves Estelares",
-    "desc": "Sólo puedes usar el efecto de \"Ajustador de Naves Estelares\" una vez por turno.\r\n①: Puedes seleccionar otro monstruo Máquina que controles que tenga un Nivel; hasta el final de este turno, los Niveles de ese monstruo y de esta carta se convierten en sus Niveles actuales combinados, además no puedes Invocar de Modo Especial desde el Deck Extra, excepto Monstruos Xyz Máquina.",
-    "overallString": "[Monstruo|Effecto] Máquina/VIENTO  [★3] 500/1100",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100200269.jpg?version=11.20"
-  },
-  {
     "name": "Zetan, Hada Súper Cuantal",
     "desc": "Sólo puedes usar cada efecto ① y ② de \"Zetan, Hada Súper Cuantal\" una vez por turno.\r\n①: Si esta carta está en tu mano y controlas un monstruo \"Súper Cuant\" que no sea \"Zetan, Hada Súper Cuantal\": Puedes Invocar esta carta de Modo Especial y luego hacer que su Nivel sea el de 1 monstruo \"Súper Cuant\" que controles.\r\n②: Puedes Sacrificar esta carta y mandar al Cementerio 1 carta \"Súper Cuant\" desde tu Deck, excepto un monstruo de OSCURIDAD; Invoca de Modo Especial 1 monstruo \"Súper Cuant\" desde tu Deck, excepto \"Zetan, Hada Súper Cuantal\".",
     "overallString": "[Monstruo|Effecto] Zombi/OSCURIDAD  [★1] 0/0",
@@ -58,12 +46,6 @@
     "desc": "①: Activa uno de estos efectos (pero sólo puedes usar cada efecto de esta carta una vez por turno);\r\n● Selecciona 1 monstruo en Posición de Ataque; cámbialo a Posición de Defensa.\r\n● Si controlas un monstruo \"Súper Cuant\": Invoca de Modo Especial, desde tu Deck, 1 monstruo \"Súper Cuant\" en Posición de Defensa, con un Atributo original diferente al de los monstruos que controlas.\r\n● Coloca 1 Trampa \"Súper Cuant\" desde tu Deck. Puede activarse este turno.",
     "overallString": "[Mágica|Juego Rápido]",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301068.jpg?version=11.20"
-  },
-  {
-    "name": "Sorpresa☆Deliciosa",
-    "desc": "①: Activa uno de estos efectos (pero sólo puedes usar cada efecto de esta carta una vez por turno);\r\n● Selecciona 2 monstruos Bestia de LUZ que controles y 2 cartas que controle tu adversario; regrésalos a la mano.\r\n● Invoca de Modo Especial, desde tu mano o Cementerio, un monstruo \"Delicioso/a\", pero no puede atacar directamente este turno.\r\n● Regresa a la mano una Mágica de Campo de tu Campo boca arriba o Cementerio; después, puedes colocar una Mágica de Campo \"Delicioso/a\" de tu mano a tu Campo boca arriba.",
-    "overallString": "[Mágica|Juego Rápido]",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100236025.jpg?version=11.20"
   },
   {
     "name": "Chica Psíquica Serena",
@@ -156,82 +138,10 @@
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301076.jpg?version=11.20"
   },
   {
-    "name": "K9 - #17 Izuna",
-    "desc": "Sólo puedes usar cada uno de los efectos ② y ③ de \"K9 - #17 Izuna\" una vez por turno.\r\n①: Si tu adversario tiene 2 o más cartas en su mano, puedes Invocar esta carta de Modo Normal sin Sacrificar. \r\n②: Durante la Main Phase, si tu adversario activó el efecto de un monstruo en la mano o el Cementerio este turno (Efecto Rápido): puedes Invocar esta carta de Modo Especial desde tu mano.\r\n③: Si esta carta es Invocada de Modo Normal o Especial: puedes mandar al Cementerio 1 carta \"K9\" en tu Deck, excepto \"K9 - #17 Izuna\".",
-    "overallString": "[Monstruo|Effecto] Guerrero/TIERRA  [★5] 2100/1600",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100236031.jpg?version=11.20"
-  },
-  {
-    "name": "K9 - #66a Jökull",
-    "desc": "Sólo puedes usar cada uno de los efectos ② y ③ de \"K9 - #66a Jökull\" una vez por turno.\r\n①: Si tu adversario tiene 2 o más cartas en su mano, puedes Invocar esta carta de Modo Normal sin Sacrificar.\r\n②: Puedes mostrar esta carta y 1 monstruo más de Nivel 5 en tu mano; Invocar ambos de Modo Especial, pero no pueden usarse como material para la Invocación Xyz de un monstruo de LUZ.\r\n③: Durante tu Main Phase: puedes añadir a tu mano, desde tu Deck, 1 monstruo \"K9\" que no sea Aqua.",
-    "overallString": "[Monstruo|Effecto] Aqua/OSCURIDAD  [★5] 2000/1900",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100236032.jpg?version=11.20"
-  },
-  {
-    "name": "K9 - #66b Linterna",
-    "desc": "Sólo puedes usar cada uno de los efectos ② y ③ de \"K9 - #66b Linterna\" una vez por turno.\r\n①: Si tu adversario tiene 2 o más cartas en su mano, puedes Invocar esta carta de Modo Normal sin Sacrificar.\r\n②: Si esta carta está en tu mano: puedes seleccionar 1 monstruo \"K9\" de Nivel 5 que no sea Pyro en tu Cementerio; Invócalo de Modo Especial junto con esta carta, pero no pueden usarse como material para la Invocación Xyz de un monstruo de LUZ.\r\n③: Durante tu Main Phase: puedes añadir a tu mano 1 Mágica/Trampa \"K9\" desde tu Deck.",
-    "overallString": "[Monstruo|Effecto] Piro/OSCURIDAD  [★5] 2000/1900",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100236033.jpg?version=11.20"
-  },
-  {
-    "name": "K9 - #ØØ Lupus",
-    "desc": "Sólo puedes usar cada uno de los efectos ② y ③ de \"K9 - #ØØ Lupus\" una vez por turno.\r\n①: Un Monstruo Xyz que tenga esta carta como material gana este efecto.\r\n● Tu adversario no puede seleccionar esta carta con efectos de cartas.\r\n②: Durante la Main Phase, si tu adversario activó el efecto de un monstruo en la mano o Cementerio este turno (Efecto Rápido): puedes Invocar de Modo Especial esta carta desde tu mano o Cementerio, pero destiérrala cuando deje el Campo.\r\n③: Durante el turno de tu adversario, puedes (Efecto Rápido): Inmediatamente después de que se resuelva este efecto, realiza una Invocación Xyz usando esta carta que controlas.",
-    "overallString": "[Monstruo|Effecto] Gerrero Bestia/TIERRA  [★5] 2300/200",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100236034.jpg?version=11.20"
-  },
-  {
-    "name": "K9 - #17 \"Destripadora\"",
-    "desc": "【Material(es)】: 2 monstruos de Nivel 5\r\nSólo puedes usar cada efecto ① y ② de \"K9 - #17 \"Destripadora\"\" una vez por turno.\r\n①: Puedes desacoplar 1 material de esta carta; añade a tu mano 1 carta \"K9\" desde tu Deck, y después, si tu adversario activó el efecto de un monstruo este turno, puedes Colocar 1 Mágica de Juego Rápido \"K9\" desde tu Deck o Cementerio.\r\n②: Cuando tu adversario activa el efecto de un monstruo en la mano o en el Cementerio (Efecto Rápido): puedes desacoplar 1 material de esta carta; niega ese efecto.",
-    "overallString": "[Monstruo|Effecto|Xyz] Guerrero/VIENTO  [☆5] 2300/1800",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100236035.jpg?version=11.20"
-  },
-  {
-    "name": "K9 - #ØØ \"Sabueso\"",
-    "desc": "【Material(es)】: 2 monstruos de Nivel 5\r\n①: No puede ser destruido por batalla o por efectos de cartas de tu adversario en el turno en que es Invocado de Modo Especial.\r\n②: Cada vez que tu adversario activa un efecto de monstruo, esta carta gana 500 ATK cuando ese efecto se resuelve.\r\n③: Una vez por turno, durante la Standby Phase: puedes desacoplar 1 material de esta carta, y después seleccionar 1 carta en el Campo; destiérrala.",
-    "overallString": "[Monstruo|Effecto|Xyz] Gerrero Bestia/LUZ  [☆5] 2500/2500",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100236036.jpg?version=11.20"
-  },
-  {
-    "name": "K9 - EX \"Hombre-lobo\"",
-    "desc": "【Material(es)】: 2 monstruos de Nivel 9\r\nSólo puedes usar el efecto ② de \"K9 - EX \"Hombre-lobo\"\" una vez por turno.\r\n①: Mientras esta carta tenga material, puede atacar una cantidad de veces en cada Battle Phase, hasta la cantidad de materiales acoplados a ella.\r\n②: Cuando tu adversario activa una carta o efecto (Efecto Rápido): puedes desacoplar 1 material de esta carta, y después activar este efecto según el turno de quién sea;\r\n● Tu turno: Destierra 1 carta que controle tu adversario y/o 1 carta de su Cementerio.\r\n● Turno del adversario: Mira la mano de tu adversario y destierra 1 carta de ella boca arriba hasta la End Phase.",
-    "overallString": "[Monstruo|Effecto|Xyz] Gerrero Bestia/LUZ  [☆9] 3300/2500",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100236037.jpg?version=11.20"
-  },
-  {
-    "name": "K9 - LC Liberación",
-    "desc": "Sólo puedes usar cada efecto ① y ② de \"K9 - LC Liberación\" una vez por turno.\r\n①: Selecciona 1 Monstruo Xyz \"K9\" o un Monstruo Xyz de Rango 5 que controles; Invoca de Modo Especial, desde tu Deck Extra, 1 Monstruo Xyz \"K9\" con un nombre diferente, usando ese monstruo que controlas como material. (Esto se considera una Invocación Xyz;  transfiere sus materiales al monstruo Invocado).\r\n②: Al final de la Battle Phase, si tu monstruo \"K9\" batalló este turno: puedes Colocar esta carta desde tu Cementerio.",
-    "overallString": "[Mágica|Juego Rápido]",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100236038.jpg?version=11.20"
-  },
-  {
-    "name": "K9 - EX Liberación Forzada",
-    "desc": "Sólo puedes usar cada efecto ① y ② de \"K9 - EX Liberación Forzada\" una vez por turno.\r\n①: Durante la Main Phase: Selecciona 1 Monstruo Xyz \"K9\" que controles; Invoca de Modo Especial, desde tu Deck Extra, 1 Monstruo Xyz \"K9\" con un nombre diferente, usando ese monstruo que controlas como material (Esto se considera una Invocación Xyz; transfiere sus materiales al monstruo Invocado), y después puedes destruir 1 carta que controle tu adversario.\r\n②: Al final de la Battle Phase, si tu monstruo \"K9\" batalló este turno: puedes Colocar esta carta desde tu Cementerio.",
-    "overallString": "[Mágica|Juego Rápido]",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100236039.jpg?version=11.20"
-  },
-  {
-    "name": "K9 - EW Liberación Experimental",
-    "desc": "Sólo puedes usar cada efecto ① y ② de \"K9 - EW Liberación Experimental\" una vez por turno.\r\n①: Invoca de Modo Especial, desde tu mano o Cementerio, 1 monstruo \"K9\", después puedes Invocar de Modo Especial, desde tu Deck Extra, 1 Monstruo Xyz \"K9\", usando el primer monstruo como material (la segunda Invocación Especial se considera una Invocación Xyz), pero destruye el segundo monstruo durante la End Phase del siguiente turno.\r\n②: Durante la End Phase: puedes desterrar esta carta en tu Cementerio, y después seleccionar 1 Mágica de Juego Rápido \"K9\" en tu Cementerio; Colócala.",
-    "overallString": "[Trampa]",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100236041.jpg?version=11.20"
-  },
-  {
-    "name": "Kuribohoscuro",
-    "desc": "Sólo puedes usar cada efecto ① y ② de \"Kuribohoscuro\" una vez por turno.\r\n①: Cuando se activa una carta o efecto que selecciona como objetivo a un Demonio y/o Monstruo(s) de Fusión que controlas, o cuando tu Demonio o Monstruo de Fusión es seleccionado para un ataque (Efecto Rápido): puedes descartar esta carta, y después seleccionar 1 de ellos; hasta el final de este turno, no puede ser destruida en batalla o por efectos de cartas, y además sus efectos activados en el Campo no pueden ser negados.\r\n②: Si esta carta es mandada de la mano al Cementerio por efecto de una carta: puedes añadir a la mano 1 \"Polimerización\" desde tu Deck o Cementerio.",
-    "overallString": "[Monstruo|Effecto] Demonio/OSCURIDAD  [★1] 300/200",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100200270.jpg?version=11.20"
-  },
-  {
     "name": "Magistus Omega Invokado",
     "desc": "【Material(es)】: \"Aleister, el que Invoka\" + 1 Monstruo de Fusión, Sincronía, Xyz o Enlace\r\nSólo puedes usar cada efecto ① y ② de \"Magistus Omega Invokado\" una vez por turno.\r\n①: Si esta carta es Invocada de Modo Especial: puedes seleccionar 1 Monstruo de Fusión, Sincronía, Xyz o Enlace en tu Cementerio y 1 monstruo en el Campo; destiérralos.\r\n②: Si esta carta Invocada por Fusión es destruida en batalla o por efecto de una carta: puedes Invocar de Modo Especial, desde tu Deck, 1 monstruo Lanzador de Conjuros de Nivel 4 y después puedes equiparle esta carta como una Mágica de Equipo que le otorga 1000 ATK.",
     "overallString": "[Monstruo|Effecto|Fusión] Bestia/OSCURIDAD  [★8] 2800/2000",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100228002.jpg?version=11.20"
-  },
-  {
-    "name": "Coladragón Mulr",
-    "desc": "Sólo puedes usar cada efecto ① y ② de \"Coladragón Mulr\" una vez por turno.\r\n①: Durante la Main Phase (Efecto Rápido): puedes Invocar por Fusión, desde tu Deck Extra, 1 Monstruo de Fusión \"Coladragón\", usando monstruos de tu mano o Campo como materiales, además no puedes Invocar de Modo Especial desde el Deck Extra por el resto de este turno, excepto Monstruos de Fusión.\r\n②: Si esta carta es mandada al Cementerio como material para una Invocación por Fusión: puedes Colocar 1 Mágica/Trampa \"Coladragón\" desde tu Deck, y después puedes negar los efectos de 1 monstruo boca arriba que controle tu adversario.",
-    "overallString": "[Monstruo|Effecto] Dragón/OSCURIDAD  [★3] 1100/1500",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100236005.jpg?version=11.20"
   },
   {
     "name": "Caballero Zubababa",
@@ -286,138 +196,6 @@
     "desc": "Sólo puedes usar cada efecto ① y ② de \"Barrera Inquebrantable\" una vez por turno.\r\n①: Cuando una Carta Mágica o de Trampa, o el efecto de un monstruo, es activado y controlas un Monstruo Xyz: niega la activación, después puedes desacoplar 2 materiales de tus monstruos, luego destruye 1 carta en el Campo.\r\n②: Puedes desterrar esta carta en tu Cementerio, después seleccionar 1 Monstruo Xyz que controles; acopla a ella 1 Monstruo Xyz de LUZ \"Utopía\" o \"Utópico\" desde tu Cementerio como material.",
     "overallString": "[Trampa|Contraefecto]",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301074.jpg?version=11.20"
-  },
-  {
-    "name": "Cupsie☆Delicioso",
-    "desc": "Sólo puedes Invocar de Modo Especial a \"Cupsie☆Delicioso\" usando el efecto ① una vez por turno. Sólo puedes usar el efecto ② de \"Cupsie☆Delicioso\" una vez por turno.\r\n①: Si controlas un monstruo de Enlace-1 o un Monstruo de Sincronía de Nivel 2, puedes Invocar esta carta de Modo Especial (desde tu mano).\r\n②: Si esta carta es Invocada de Modo Normal o Especial: puedes añadir a tu mano 1 carta \"Delicioso/a\" desde tu Deck, excepto \"Cupsie☆Delicioso\", o, si fue Invocada de Modo Especial por el efecto de un Monstruo de Sincronía, puedes robar 1 carta en su lugar.",
-    "overallString": "[Monstruo|Effecto] Bestia/LUZ  [★1] 0/1600",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100236016.jpg?version=11.20"
-  },
-  {
-    "name": "Cooky☆Delicioso",
-    "desc": "Sólo puedes Invocar de Modo Especial a \"Cooky☆Delicioso\" usando el efecto ① una vez por turno. Sólo puedes usar el efecto ② de \"Cooky☆Delicioso\" una vez por turno.\r\n①: Si controlas un monstruo de Enlace-1 o un Monstruo de Sincronía de Nivel 2, puedes Invocar esta carta de Modo Especial (desde tu mano).\r\n②: Si esta carta es Invocada de Modo Normal o Especial: puedes seleccionar 1 monstruo boca arriba que controle tu adversario; éste pierde 1000 ATK o, si esta carta fue Invocada de Modo Especial por el efecto de un Monstruo de Sincronía, puedes destruir ese monstruo en su lugar.",
-    "overallString": "[Monstruo|Effecto] Bestia/LUZ  [★1] 1000/0",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100236017.jpg?version=11.20"
-  },
-  {
-    "name": "Lollipop☆Delicioso",
-    "desc": "Sólo puedes Invocar de Modo Especial \"Lollipop☆Delicioso\" usando el efecto ① una vez por turno de esta forma. Sólo puedes usar el efecto ② de \"Lollipop☆Delicioso\" una vez por turno.\r\n①: Si controlas un monstruo de Enlace-1 o un Monstruo de Sincronía de Nivel 2, puedes Invocar esta carta de Modo Especial (desde tu mano).\r\n②: Si esta carta es Invocada de Modo Normal o Especial: puedes seleccionar 1 carta en el Cementerio de tu adversario; barájala al Deck o, si esta carta fue Invocada de Modo Especial por el efecto de un Monstruo de Sincronía, puedes desterrar esa carta en su lugar.",
-    "overallString": "[Monstruo|Effecto] Bestia/LUZ  [★1] 600/1200",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100236018.jpg?version=11.20"
-  },
-  {
-    "name": "Delicioso★Snatchy",
-    "desc": "【Material(es)】: 1 monstruo Bestia de LUZ de Nivel 4 o menor\r\nSólo puedes usar el efecto ① de \"Delicioso★Snatchy\" una vez por turno.\r\n①: Si esta carta es Invocada de Modo Especial: puedes colocar en tu Campo 1 Mágica de Campo \"Delicioso/a\" boca arriba desde tu mano o Deck, y además no puedes Invocar por Enlace Monstruos de Enlace de Nivel 3 o mayor por el resto de este turno.\r\n②: Una vez por Cadena, durante la Main Phase o la Battle Phase de tu adversario (Efecto Rápido): puedes pagar 100 LP; inmediatamente después de que se resuelva este efecto, realiza una Invocación por Sincronía usando un monstruo \"Delicioso/a\" que controles.",
-    "overallString": "[Monstruo|Effecto|Enlace] Bestia/LUZ  [LINK-1] 600/-  [↓]",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100236022.jpg?version=11.20"
-  },
-  {
-    "name": "Deliciosa★Minion",
-    "desc": "Sólo puedes usar cada uno de los efectos ② y ③ de \"Deliciosa★Minion\" una vez por turno. \r\n①: Los monstruos \"Delicioso/a\" que controles ganan 500 ATK por cada monstruo Bestia de LUZ en el Campo.\r\n②: Si controlas un monstruo de Enlace-1: puedes seleccionar 1 monstruo \"Delicioso/a\" de Nivel 1 en tu Cementerio; Invócalo de Modo Especial.\r\n③: Si esta carta está en tu Cementerio: puedes seleccionar 2 monstruos \"Delicioso/a\" en tu Cementerio y/o destierro; colócalos junto con esta carta en el fondo del Deck en cualquier orden.",
-    "overallString": "[Mágica|Campo]",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100236023.jpg?version=11.20"
-  },
-  {
-    "name": "Deliciosa★Acrockie",
-    "desc": "Sólo puedes usar cada efecto ①, ② y ③ de \"Deliciosa★Acrockie\" una vez por turno.\r\n①: Si Invocas por Sincronía un Monstruo de Sincronía Bestia de LUZ: puedes seleccionar 1 carta que controle tu adversario; destrúyela.\r\n②: Si uno o más monstruos boca arriba que controlas dejan tu Campo por efecto de una carta del adversario: puedes Invocar de Modo Especial, desde tu Deck, 1 monstruo \"Delicioso/a\".\r\n③: Si esta carta está en tu Cementerio: puedes seleccionar 2 monstruos \"Delicioso/a\" en tu Cementerio y/o destierro; colócalos junto con esta carta en el fondo del Deck en cualquier orden.",
-    "overallString": "[Mágica|Campo]",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100236024.jpg?version=11.20"
-  },
-  {
-    "name": "Delisiosa★Redemption",
-    "desc": "Sólo puedes usar el efecto ③ de \"Deliciosa★Redemption\" una vez por turno.\r\n①: Los monstruos que controla tu adversario pierden 200 ATK por cada monstruo Bestia de LUZ que controles y que esté en tu Cementerio.\r\n②: Una vez por Cadena, si Invocas por Sincronía un Monstruo de Sincronía Bestia de LUZ: puedes robar 1 carta, y después colocar 1 carta de tu mano en el fondo del Deck.\r\n③: Puedes desterrar esta carta en tu Cementerio, y después seleccionar 1 monstruo \"Delicioso/a\" que controles y 1 monstruo que controle tu adversario; intercambia el control de ambos.",
-    "overallString": "[Trampa|Continua]",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100236026.jpg?version=11.20"
-  },
-  {
-    "name": "Cupsie★Estilo Delicioso",
-    "desc": "【Material(es)】: 1 monstruo Cantante + 1 monstruo que no sea Cantante\r\nSólo puedes usar cada uno de los efectos ② y ③ de \"Cupsie★Estilo Delicioso\" una vez por turno.\r\n①: Para la Invocación por Sincronía de esta carta, puedes tratar a 1 monstruo de Enlace-1 que controles como un Cantante de Nivel 1.\r\n②: Si esta carta es Invocada por Sincronía: puedes añadir 2 monstruos \"Delicioso/a\" desde tu Deck a tu mano, y después descartar 1 carta.\r\n③: Cuando tu adversario activa una carta o efecto (Efecto Rápido): puedes regresar esta carta al Deck Extra; Invoca de Modo Especial hasta 2 monstruos \"Delicioso/a\" desde tu Cementerio.",
-    "overallString": "[Monstruo|Effecto|Cantante|Sincronía] Bestia/LUZ  [★2] 0/2200",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100236019.jpg?version=11.20"
-  },
-  {
-    "name": "Cooky★Estilo Delicioso",
-    "desc": "【Material(es)】: 1 monstruo Cantante + 1 monstruo que no sea Cantante\r\nSólo puedes usar cada uno de los efectos ② y ③ de \"Cooky★Estilo Delicioso\" una vez por turno.\r\n①: Para la Invocación por Sincronía de esta carta, puedes tratar a 1 monstruo de Enlace-1 que controles como un Cantante de Nivel 1.\r\n②: Si esta carta es Invocada por Sincronía: puedes seleccionar hasta 2 monstruos boca arriba en el Campo; cámbialos a Posición de Defensa boca abajo.\r\n③: Cuando tu adversario activa una carta o efecto (Efecto Rápido): puedes regresar esta carta al Deck Extra; Invoca de Modo Especial hasta 2 monstruos \"Delicioso/a\" desde tu Cementerio.",
-    "overallString": "[Monstruo|Effecto|Cantante|Sincronía] Bestia/LUZ  [★2] 1600/0",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100236020.jpg?version=11.20"
-  },
-  {
-    "name": "Lollipop★Estilo Delicioso",
-    "desc": "【Material(es)】: 1 monstruo Cantante + 1 monstruo que no sea Cantante\r\nSólo puedes usar cada uno de los efectos ② y ③ de \"Lollipop★Estilo Delicioso\" una vez por turno.\r\n①: Para la Invocación por Sincronía de esta carta, puedes tratar a 1 monstruo de Enlace-1 que controles como un Cantante de Nivel 1.\r\n②: Si esta carta es Invocada por Sincronía: puedes Invocar de Modo Especial, desde tu Cementerio, 2 monstruos \"Delicioso/a\", pero sus efectos son negados.\r\n③: Cuando tu adversario activa una carta o efecto (Efecto Rápido): puedes regresar esta carta al Deck Extra; Invoca de Modo Especial hasta 2 monstruos \"Delicioso/a\" desde tu Cementerio.",
-    "overallString": "[Monstruo|Effecto|Cantante|Sincronía] Bestia/LUZ  [★2] 1200/1200",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100236021.jpg?version=11.20"
-  },
-  {
-    "name": "Coladragón Lucias",
-    "desc": "Sólo puedes usar cada efecto ① y ② de \"Coladragón Lucias\" una vez por turno.\r\n①: Si esta carta es Invocada de Modo Normal o Especial: puedes añadir a tu mano 1 monstruo \"Coladragón\" desde tu Deck, excepto \"Coladragón Lucias\".\r\n②: Si esta carta es mandada al Cementerio como material para una Invocación de Fusión: puedes Colocar en tu Campo 1 Mágica/Trampa \"Coladragón\" desde tu Deck.",
-    "overallString": "[Monstruo|Effecto] Lanzador de Conjuros/TIERRA  [★4] 1800/700",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100236001.jpg?version=11.20"
-  },
-  {
-    "name": "Coladragón Fymena",
-    "desc": "Sólo puedes usar cada efecto ① y ② de \"Coladragón Fymena\" una vez por turno.\r\n①: Durante la Main Phase (Efecto Rápido): puedes descartar esta carta; Invoca por Fusión, desde tu Deck Extra, 1 Monstruo de Fusión Dragón o Lanzador de Conjuros, usando monstruos en tu mano o Campo como material.\r\n②: Si esta carta es mandada al Cementerio como material para una Invocación por Fusión: puedes Colocar en tu Campo 1 Mágica/Trampa \"Coladragón\" desde tu Deck.",
-    "overallString": "[Monstruo|Effecto] Lanzador de Conjuros/AGUA  [★5] 1300/2500",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100236002.jpg?version=11.20"
-  },
-  {
-    "name": "Coladragón Pan",
-    "desc": "Sólo puedes usar cada efecto ① y ② de \"Coladragón Pan\" una vez por turno.\r\n①: Si esta carta es mandada al Cementerio como material para una Invocación de Fusión: puedes Colocar 1 Mágica/Trampa \"Coladragón\" en tu Campo, y después, puedes destruir 1 monstruo en el Campo.\r\n②: Si tu Monstruo de Fusión boca arriba es destruido por el efecto de una carta de tu adversario mientras esta carta está en el Cementerio: puedes Colocar esta carta en el fondo de tu Deck, y después Invocar de Modo Especial, desde tu Cementerio, 1 monstruo \"Coladragón\", excepto un Monstruo de Fusión.",
-    "overallString": "[Monstruo|Effecto] Dragón/VIENTO  [★7] 2700/1700",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100236003.jpg?version=11.20"
-  },
-  {
-    "name": "Coladragón Urgula",
-    "desc": "Sólo puedes usar cada efecto ① y ② de \"Coladragón Urgula\" una vez por turno.\r\n①: Si esta carta es mandada al Cementerio como material para una Invocación de Fusión: puedes Colocar 1 Mágica/Trampa \"Coladragón\" de tu Deck a tu Campo, y después, puedes destruir 1 Mágica/Trampa en el Campo.\r\n②: Si esta carta está en tu Cementerio: puedes seleccionar 1 monstruo Lanzador de Conjuros \"Coladragón\" en tu Cementerio; Coloca esta carta en el fondo de tu Deck, y después Invoca de Modo Especial al monstruo seleccionado.",
-    "overallString": "[Monstruo|Effecto] Dragón/FUEGO  [★6] 2400/1000",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100236004.jpg?version=11.20"
-  },
-  {
-    "name": "Coladragón Altharion",
-    "desc": "【Material(es)】: 1 monstruo \"Coladragón\" + 1+ monstruos en la mano\r\nSólo puedes usar los efectos ① y ② de \"Coladragón Altharion\" una vez por turno.\r\n①: Si esta carta es Invocada por Fusión: puedes seleccionar monstruos en el Campo y/o en cualquiera de los Cementerios hasta la cantidad de monstruos usados como material de la mano; devuélvelos a la mano.\r\n②: Cuando 2 o más monstruos son enviados al Cementerio al mismo tiempo mientras esta carta está en tu Cementerio: puedes Invocar de Modo Especial esta carta, pero destiérrala cuando deje el Campo.",
-    "overallString": "[Monstruo|Effecto|Fusión] Dragón/TIERRA  [★8] 3000/2500",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100236006.jpg?version=11.20"
-  },
-  {
-    "name": "Coladragón Gramel",
-    "desc": "【Material(es)】: 1 monstruo \"Coladragón\" + 1 monstruo en la mano\r\nSólo puedes usar los efectos ① y ② de \"Coladragón Gramel\" una vez por turno.\r\n①: Cuando activas una carta o efecto \"Coladragón\" (Efecto Rápido): puedes seleccionar 1 carta que controle tu adversario; destrúyela.\r\n②: Cuando 2 o más monstruos son enviados al Cementerio al mismo tiempo mientras esta carta está en tu Cementerio: puedes Invocar de Modo Especial esta carta, pero destiérrala cuando deje el Campo.",
-    "overallString": "[Monstruo|Effecto|Fusión] Lanzador de Conjuros/AGUA  [★7] 2800/2300",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100236007.jpg?version=11.20"
-  },
-  {
-    "name": "Coladragón Ketu",
-    "desc": "Sólo puedes activar 1 \"Coladragón Ketu\" por turno.\r\n①: Añade 1 monstruo \"Coladragón\" desde tu Deck a tu mano, después, si tu adversario controla un monstruo, puedes Invocar por Fusión 1 monstruo Dragón o Lanzador de Conjuros desde tu Deck Extra, usando monstruos de tu mano o Campo como materiales.",
-    "overallString": "[Mágica]",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100236008.jpg?version=11.20"
-  },
-  {
-    "name": "Coladragón Rahu",
-    "desc": "Sólo puedes activar 1 \"Coladragón Rahu\" por turno.\r\n①: Invoca por Fusión, desde tu Deck Extra, 1 Monstruo de Fusión \"Coladragón\", usando monstruos en tu mano, Deck y/o Campo como material. Además, no puedes realizar una Invocación Especial desde tu Deck Extra por el resto de este turno después de que esta carta se resuelva, excepto Monstruos de Fusión.",
-    "overallString": "[Mágica]",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100236009.jpg?version=11.20"
-  },
-  {
-    "name": "Cuerno Coladragón",
-    "desc": "Sólo puedes activar 1 \"Cuerno Coladragón\" por turno.\r\n①: Selecciona 1 monstruo en Posición de Ataque; devuélvelo a la mano/Deck Extra, después puedes Colocar 1 carta \"Coladragón\" de tu Cementerio o destierro en el fondo del Deck, excepto \"Cuerno Coladragón\", después roba 1 carta.",
-    "overallString": "[Trampa]",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100236010.jpg?version=11.20"
-  },
-  {
-    "name": "Llama Coladragón",
-    "desc": "Sólo puedes activar 1 \"Llama Coladragón\" por turno.\r\n①: Selecciona 1 carta Mágica boca arriba en el Campo; niega sus efectos (hasta el final de este turno), luego puedes Colocar 1 carta \"Coladragón\" de tu Cementerio o destierro en el fondo del Deck, excepto \"Llama Coladragón\", luego roba 1 carta.\r\n",
-    "overallString": "[Trampa]",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100236011.jpg?version=11.20"
-  },
-  {
-    "name": "Alma de Gaia, el Caballero Feroz",
-    "desc": "(Esta carta se trata siempre como una carta \"Milenario/a\").\r\nSólo puedes usar el efecto ③ de \"Alma de Gaia, el Caballero Feroz\" una vez por turno.\r\n①: Si hay un monstruo de Nivel 5 o mayor en el Campo, esta carta puede ser Invocada de Modo Normal sin un Sacrificio.\r\n②: Los monstruos que tu adversario Invoca de Modo Normal o Especial tienen su Nivel incrementado en 7.\r\n③: Cuando tu adversario activa el efecto de un monstruo: puedes mandar al Cementerio otra Carta de Monstruo de Nivel 5 o mayor boca arriba que controles; niega esa activación y, si lo haces, destruye esa carta.",
-    "overallString": "[Monstruo|Effecto] Guerrero/TIERRA  [★6] 2300/2100",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100235001.jpg?version=11.20"
-  },
-  {
-    "name": "Tiburón Veiss",
-    "desc": "Sólo puedes usar el efecto ① de \"Tiburón Veiss\" una vez por turno.\r\n①: Si esta carta es Invocada de Modo Normal o Especial: puedes Sacrificar 1 monstruo Pez que controles; Invoca de Modo Especial, desde tu Deck, 1 monstruo Pez \"Tiburón\", pero por el resto de este turno, no puedes Invocar de Modo Especial monstruos, excepto monstruos de AGUA.\r\n②: Un Monstruo Xyz \"Draco Tiburón\" que tenga esta carta como material gana el siguiente efecto;\r\n● Una vez por turno, cuando se activa el efecto de una Mágica/Trampa: puedes desacoplar 2 materiales de esta carta; niega ese efecto y, si lo haces, destruye esa carta.",
-    "overallString": "[Monstruo|Effecto] Pez/AGUA  [★4] 1800/1100",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100235002.jpg?version=11.20"
   },
   {
     "name": "Saiba, el Herrero de Espadas Luchador",
