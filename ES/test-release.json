@@ -1,5 +1,53 @@
 [
   {
+    "name": "Mitsurugi no Mikoto, Aramasa",
+    "desc": "Sólo puedes usar cada efecto ① y ② de \"Mitsurugi no Mikoto, Aramasa\" una vez por turno.\r\n①: Si esta carta es Invocada de Modo Normal o Especial, o si es Sacrificada: puedes añadir a tu mano 1 monstruo \"Mitsurugi\" desde tu Deck, excepto \"Mitsurugi no Mikoto, Aramasa\".\r\n②: Si otro monstruo Reptil que controles fuera a ser destruido en batalla o por efecto de una carta, puedes Sacrificar esta carta en su lugar.",
+    "overallString": "[Monstruo|Effecto] Reptil/OSCURIDAD  [★4] 1200/900",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208090.jpg?version=11.20"
+  },
+  {
+    "name": "Mitsurugi no Miko, Wousu",
+    "desc": "Sólo puedes Invocar de Modo Especial \"Mitsurugi no Miko, Wousu\" usando el efecto ① una vez por turno. Sólo puedes usar el efecto ② de \"Mitsurugi no Miko, Wousu\" una vez por turno.\r\n①: Puedes Invocar esta carta de Modo Especial (desde tu mano) Sacrificando otro monstruo Reptil desde tu mano y 1 monstruo que controle tu adversario, pero no puedes Invocar de Modo Especial ni activar efectos de monstruos por el resto de este turno, excepto monstruos Reptil.\r\n②: Si esta carta es Sacrificada: puedes descartar 1 carta y, si lo haces, añadir esta carta a tu mano.",
+    "overallString": "[Monstruo|Effecto] Reptil/OSCURIDAD  [★8] 2000/2000",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208091.jpg?version=11.20"
+  },
+  {
+    "name": "Ame no Habakiri no Mitsurugi",
+    "desc": "Puedes Invocar esta carta por Ritual con \"Ritual Mitsurugi\". Sólo puedes usar el efecto ② de \"Ame no Habakiri no Mitsurugi\" una vez por Duelo y el efecto ③ una vez por turno.\r\n①: Los monstruos que controle tu adversario pierden 800 ATK.\r\n②: Puedes mostrar esta carta en tu mano; Invoca de Modo Especial, desde tu Deck, 1 monstruo \"Mitsurugi\" y Sacrifica 1 monstruo que controles.\r\n③: Si esta carta es Sacrificada: puedes añadir a tu mano 1 carta \"Mitsurugi\" desde tu Deck, excepto \"Ame no Habakiri no Mitsurugi\", en cuyo caso puedes Invocar esta carta de Modo Especial.",
+    "overallString": "[Monstruo|Effecto|Ritual] Reptil/OSCURIDAD  [★8] 2400/1800",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208092.jpg?version=11.20"
+  },
+  {
+    "name": "Espejo Mitsurugi",
+    "desc": "Sólo puedes usar cada efecto ① y ② de \"Espejo Mitsurugi\" una vez por turno.\r\n①: Esta carta puede usarse para Invocar por Ritual cualquier Monstruo de Ritual Reptil desde tu mano o Cementerio. También debes Sacrificar monstruos Reptil de tu mano o Campo cuyos Niveles igualen o superen el Nivel del Monstruo de Ritual.\r\n②: Si \"Ame no Murakumo no Mitsurugi\", \"Futsu no Mitama no Mitsurugi\" o \"Ame no Habakiri no Mitsurugi\" que controlas es Sacrificado mientras esta carta esté en tu Cementerio: puedes barajar esta carta al Deck.",
+    "overallString": "[Mágica|Ritual]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208093.jpg?version=11.20"
+  },
+  {
+    "name": "Mitsurugi Magatama",
+    "desc": "Sólo puedes activar 1 \"Mitsurugi Magatama\" por turno.\r\n①: Durante la Main Phase: activa 1 de estos efectos;\r\n● Sacrifica 1 monstruo Reptil y selecciona 1 carta boca arriba que controle tu adversario; destrúyela.\r\n● Invoca por Ritual 1 Monstruo de Ritual \"Mitsurugi\" desde tu mano, Sacrificando monstruos que controlas cuyos Niveles totales igualen o superen su Nivel.",
+    "overallString": "[Mágica|Juego Rápido]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208094.jpg?version=11.20"
+  },
+  {
+    "name": "Límite Sagrado Mitsurugi",
+    "desc": "Sólo puedes usar el efecto ② de \"Límite Sagrado Mitsurugi\" una vez por turno.\r\n①: Tu adversario no puede seleccionar Monstruos de Ritual \"Mitsurugi\" que controles con efectos de monstruos que fueron Invocados de Modo Especial desde el Deck Extra.\r\n②: Puedes seleccionar 4 cartas \"Mitsurugi\" en tu Cementerio, excepto \"Límite Sagrado Mitsurugi\"; barájalas al Deck y, si tu adversario controla un monstruo, haz que Sacrifique 1 monstruo que controle (a su elección).",
+    "overallString": "[Mágica|Continua]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208095.jpg?version=11.20"
+  },
+  {
+    "name": "Tempestad Mitsurugi",
+    "desc": "Sólo puedes activar 1 \"Tempestad de Mitsurugi\" por turno.\r\n①: Si tienes una Mágica de Ritual \"Mitsurugi\" en tu Cementerio: Sacrifica 3 monstruos cuyos nombres originales sean \"Ame no Murakumo no Mitsurugi\", \"Futsu no Mitama no Mitsurugi\" y \"Ame no Habakiri no Mitsurugi\"; haz que tu adversario destierre exactamente 8 cartas de su mano, Deck Extra, Campo y/o Cementerio.",
+    "overallString": "[Trampa]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208096.jpg?version=11.20"
+  },
+  {
+    "name": "El Regreso del Duelista",
+    "desc": "Sólo puedes activar 1 \"El Regreso del Duelista\" por turno.\r\n①: Si hay un Monstruo Xyz en el Campo o en el Cementerio: añade 1 Mágica de Equipo de tu Deck o Cementerio a tu mano.",
+    "overallString": "[Mágica]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301071.jpg?version=11.20"
+  },
+  {
     "name": "Argostars - Arión Valiente",
     "desc": "【Material(es)】: 2 monstruos de Nivel 4\r\nUna vez por turno, también puedes Invocar Xyz a \"Argostars - Arión Valiente\" usando 1 monstruo \"Argostars\" que controles (transfiere sus materiales a esta carta). Sólo puedes usar cada efecto ① y ② de \"Argostars - Arión Valiente\" una vez por turno.\r\n①: Si esta carta es Invocada Xyz: puedes añadir 1 Mágica \"Argostars\" de tu Deck a tu mano.\r\n②: Durante la Standby Phase: puedes desacoplar 2 materiales de esta carta; coloca hasta 3 Trampas Continuas \"Argostars\" de tu Cementerio, boca arriba en tu Zona de Mágicas y Trampas.",
     "overallString": "[Monstruo|Effecto|Xyz] Guerrero/OSCURIDAD  [☆4] 2200/2200",
