@@ -1,5 +1,131 @@
 [
   {
+    "name": "Kambi Ángel del Amanecer",
+    "desc": "Sólo puedes usar cada efecto ① y ② de \"Kambi Ángel del Amanecer\" una vez por turno.\r\n①: Si no controlas monstruos, o todos los monstruos que controlas son monstruos Hada: puedes Invocar esta carta de Modo Especial desde tu mano.\r\n②: Puedes Sacrificar cualquier cantidad de monstruos Hada, incluyendo esta carta; Invoca de Modo Especial, desde tu Deck, 1 monstruo Hada cuyo Nivel sea igual a la suma de los Niveles que esos monstruos tenían en el Campo. No puedes Invocar de Modo Especial el turno en que activas este efecto, excepto monstruos Hada.",
+    "overallString": "[Monstruo|Effecto] Hada/LUZ  [★1] 500/1800",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208081.jpg?version=11.20"
+  },
+  {
+    "name": "Hrimnir, el Seguidor Divino",
+    "desc": "Sólo puedes usar cada efecto ① y ② de \"Hrimnir, el Seguidor Divino\" una vez por turno.\r\n①: Puedes Sacrificar 3 monstruos Hada desde tu mano y/o Campo; Coloca 1 Mágica Continua desde tu Deck, pero mándala al Cementerio durante la End Phase de tu adversario.\r\n②: Si esta carta es mandada al Cementerio por efecto de carta: puedes Invocar esta carta de Modo Especial, pero destiérrala cuando deje el Campo.",
+    "overallString": "[Monstruo|Effecto] Hada/LUZ  [★9] 2200/2200",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208082.jpg?version=11.20"
+  },
+  {
+    "name": "Bendición de Vingolf",
+    "desc": "Sólo puedes activar 1 \"Bendición de Vingolf\" por turno. Sólo puedes usar el efecto ③ de \"Bendición de Vingolf\" una vez por turno.\r\n①: Cuando esta carta es activada: puedes mandar al Cementerio 1 monstruo Hada de LUZ desde tu Deck.\r\n②: Los monstruos Hada que controles ganan 100 ATK por cada monstruo Hada en tu Campo y Cementerio.\r\n③: Si esta carta es mandada al Cementerio: puedes seleccionar 1 monstruo Hada de Nivel 4 o menor en tu Cementerio; Invócalo de Modo Especial.",
+    "overallString": "[Mágica|Continua]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208083.jpg?version=11.20"
+  },
+  {
+    "name": "Aspishcool",
+    "desc": "Sólo puedes usar el efecto ② de \"Aspishcool\" una vez por turno.\r\n①: Cuando esta carta es Invocada de Modo Normal: puedes Invocar de Modo Especial, desde tu mano, 1 monstruo Pez de Nivel 6 o menor en Posición de defensa, pero destiérralo cuando deje el Campo.\r\n②: Si esta carta es desterrada: puedes Invocar de modo Especial esta carta en Posición de Defensa.",
+    "overallString": "[Monstruo|Effecto] Pez/AGUA  [★4] 300/300",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208084.jpg?version=11.20"
+  },
+  {
+    "name": "Pez Cofre Tóxico",
+    "desc": "【Material(es)】: 1 Cantante + 1 o más monstruos que no sean Cantantes\r\nSólo puedes usar cada efecto ① y ② de \"Pez Cofre Tóxico\" una vez por turno.\r\n①: Si esta carta es Invocada por Sincronía: puedes seleccionar 1 carta en cualquier Cementerio; destiérrala.\r\n②: Si esta carta es desterrada: puedes seleccionar 1 carta boca arriba que controle tu adversario; niega sus efectos hasta el final de este turno.",
+    "overallString": "[Monstruo|Effecto|Sincronía] Pez/AGUA  [★4] 1800/800",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208085.jpg?version=11.20"
+  },
+  {
+    "name": "Peces y Ofertas",
+    "desc": "①: Al comienzo de tu Main Phase 1: destierra 1 carta de tu mano; tu adversario puede desterrar 2 cartas de su mano; si no lo hace, aplicas este efecto. (Además, no puedes Invocar de Modo Especial por el resto de este turno, excepto monstruos Pez).\r\n● Toma 2 monstruos Pez de tu Deck y destiérralos o mándalos al Cementerio.",
+    "overallString": "[Mágica]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208086.jpg?version=11.20"
+  },
+  {
+    "name": "Replicado LAD",
+    "desc": "Sólo puedes usar cada efecto ① y ② de \"Replicado LAD\" una vez por turno.\r\n①: Puedes desterrar otro monstruo de Nivel 7 o mayor de tu mano; Invoca esta carta de Modo Especial desde tu mano.\r\n②: Puedes seleccionar 1 monstruo boca arriba que controles; Invoca de Modo Especial, desde tu Deck, 1 monstruo con un nombre diferente que tenga 2 o más del mismo Nivel, ATK y/o DEF, pero no puede activar sus efectos este turno.",
+    "overallString": "[Monstruo|Effecto] Cyberse/OSCURIDAD  [★7] 2500/2500",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208087.jpg?version=11.20"
+  },
+  {
+    "name": "Sakra Vendirage",
+    "desc": "【Material(es)】: 2 Monstruos de Nivel 4\r\nSólo puedes usar cada efecto ① y ② de \"Sakra Vendirage\" una vez por turno.\r\n①: Puedes desacoplar 1 material de esta carta y luego seleccionar 1 monstruo Psíquico de Nivel/Rango 4 en tu Cementerio, excepto \"Sakra Vendirage\"; Invócalo de Modo Especial.\r\n②: Si un monstruo es Invocado de Modo Especial mientras esta carta está en tu Zona de Monstruos (excepto durante el Damage Step): puedes seleccionar otro monstruo boca arriba en el Campo; el nombre de ese monstruo se convierte en \"Sakra Vendirage\" hasta la End Phase.",
+    "overallString": "[Monstruo|Effecto|Xyz] Psíquico/OSCURIDAD  [☆4] 2000/2500",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208088.jpg?version=11.20"
+  },
+  {
+    "name": "Tiki de Paz",
+    "desc": "\r\nSólo puedes usar el efecto de \"Tiki de Paz\" una vez por turno.\r\n①: Invoca esta carta de Modo Especial como un Monstruo de Efecto (Roca/TIERRA/Nivel 4/ATK 1800/DEF 1800) con el siguiente efecto (esta carta también sigue siendo una Trampa).\r\n● (Efecto Rápido): Puedes pagar 800 LP; Invoca de Modo Especial 1 Trampa Continua, excepto \"Tiki de Paz\", desde tu Cementerio o destiérrala como un Monstruo Normal (Roca/TIERRA/Nivel 4/ATK 1000/DEF 1000) y su nombre se convierte en \"Tiki de Paz\" (incluso boca abajo) (esa carta NO se considera una Trampa).",
+    "overallString": "[Trampa|Continua]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208089.jpg?version=11.20"
+  },
+  {
+    "name": "Unión de Almas",
+    "desc": "Sólo puedes activar 1 \"Unión de Almas\" por turno.\r\n①: Selecciona 1 monstruo boca arriba en el Campo y 1 monstruo \"HÉROE Elemental\" en tu Cementerio; ese monstruo en el Campo gana ATK igual al ATK del otro monstruo (hasta el final de este turno).\r\n②: Si tienes un Monstruo Normal \"HÉROE Elemental\" en tu Campo o en tu Cementerio, puedes Invocar por Fusión 1 Monstruo de Fusión \"HÉROE Elemental\" desde tu Deck Extra, desterrando su material de tu Cementerio.",
+    "overallString": "[Trampa]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100240010.jpg?version=11.20"
+  },
+  {
+    "name": "Leona Dorada de la Lunaluz",
+    "desc": "Sólo puedes usar cada efecto ① y ② de \"Leona Dorada de la Lunaluz\" una vez por turno.\r\n①: Si esta carta es Invocada de Modo Normal o Especial: puedes añadir 1 monstruo \"Lunaluz\" de tu Deck a tu mano, excepto \"Leona Dorada de la Lunaluz\", y después descartar 1 carta.\r\n②: Si uno o más monstruos \"Lunaluz\" son mandados a tu Cementerio mientras este monstruo está en el Campo (incluso durante el Damage Step): puedes seleccionar uno de ellos; añádelo a tu mano.",
+    "overallString": "[Monstruo|Effecto] Gerrero Bestia/OSCURIDAD  [★4] 600/1600",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301005.jpg?version=11.20"
+  },
+  {
+    "name": "Sabueso Plateado de la Lunaluz",
+    "desc": "Sólo puedes usar cada efecto ① y ② de \"Sabueso Plateado de la Lunaluz\" una vez por turno.\r\n①: Si esta carta es mandada al Cementerio por efecto de una carta: puedes Invocar de Modo Especial 1 monstruo \"Lunaluz\" desde tu Deck, excepto \"Sabueso Plateado de la Lunaluz\", y si lo haces, no puedes Invocar de Modo Especial desde el Deck Extra mientras controles ese monstruo boca arriba, excepto monstruos \"Lunaluz\".\r\n②: Cuando una Mágica/Trampa o un efecto se activa en el Campo (Efecto Rápido): puedes desterrar esta carta y 1 Monstruo de Fusión \"Lunaluz\" de tu Cementerio; niega la activación.",
+    "overallString": "[Monstruo|Effecto] Gerrero Bestia/OSCURIDAD  [★3] 1400/400",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301006.jpg?version=11.20"
+  },
+  {
+    "name": "Bailarina Ligre de la Lunaluz",
+    "desc": "【Material(es)】: \"Leona Bailarina de la Lunaluz\" + 3 Monstruos \"Lunaluz\"\r\nDebe ser Invocada por Fusión con los Materiales de Fusión listados arriba.\r\n①: No le afectan los efectos de cartas que no sean \"Lunaluz\".\r\n②: Puede realizar un segundo ataque durante cada Battle Phase.\r\n③: Una vez por turno (Efecto Rápido): puedes mandar al Cementerio 1 monstruo \"Lunaluz\" desde tu Deck Extra; destruye todos los monstruos Invocados de Modo Especial del adversario.",
+    "overallString": "[Monstruo|Effecto|Fusión] Gerrero Bestia/OSCURIDAD  [★12] 3800/3500",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301030.jpg?version=11.20"
+  },
+  {
+    "name": "Bailarina Perfumada de la Lunaluz",
+    "desc": "【Material(es)】: 2 Monstruos \"Lunaluz\"\r\nSólo puedes usar cada efecto ①, ② y ③ de \"Bailarina Perfumada de la Lunaluz\" una vez por turno.\r\n①: Si esta carta es Invocada por Fusión: puedes añadir a tu mano 1 \"Perfume Luna Luz\" desde tu Deck.\r\n②: Puedes seleccionar otra carta \"Lunaluz\" que controles; devuélvela a la mano/Deck Extra, y luego puedes Invocar de Modo Especial 1 monstruo \"Lunaluz\" desde tu mano.\r\n③: Puedes desterrar esta carta desde tu Cementerio. Este turno, los monstruos que controle tu adversario perderán ATK igual a su propia DEF original.",
+    "overallString": "[Monstruo|Effecto|Fusión] Gerrero Bestia/OSCURIDAD  [★6] 2000/1500",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301031.jpg?version=11.20"
+  },
+  {
+    "name": "Mascarada de la Lunaluz",
+    "desc": "Sólo puedes usar cada efecto ① y ② de \"Mascarada de la Lunaluz\" una vez por turno.\r\n①: Durante tu Main Phase, si esta carta fue activada este turno: puedes mandar al Cementerio 1 monstruo \"Lunaluz\" desde tu Deck.\r\n②: Si Invocas por Fusión un monstruo \"Lunaluz\": puedes añadir 1 \"Polimerización\" desde tu Cementerio o desterrada a tu mano, y luego puedes descartar 1 carta. Si lo haces, una vez este turno, si Invocas por Fusión un monstruo \"Lunaluz\", también puedes usar monstruos en tu Cementerio desterrándolos.",
+    "overallString": "[Mágica|Continua]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301053.jpg?version=11.20"
+  },
+  {
+    "name": "Derrota Almas Santa Sue",
+    "desc": "Sólo puedes usar cada efecto ① y ② de \"Derrota Almas Santa Sue\" una vez por turno y no puedes activar más de uno en la misma Cadena.\r\n①: Durante la Main Phase (Efecto Rápido): puedes mostrar otro monstruo \"Derrota Almas\" en tu mano; Invoca esta carta de Modo Especial desde tu mano.\r\n②: (Efecto Rápido): puedes activar uno de estos efectos revelando uno o más monstruos en tu mano con el/los Atributo(s) indicado(s).\r\n● TIERRA & OSCURIDAD: Toma el control de un monstruo que controle tu adversario con el ATK más bajo (a tu elección, en caso de empate) hasta la End Phase.\r\n● FUEGO & OSCURIDAD: Invoca de Modo Especial, desde tu Deck, un monstruo \"Derrota Almas\" que no sea Psíquico.",
+    "overallString": "[Monstruo|Effecto] Psíquico/TIERRA  [★5] 500/2200",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301022.jpg?version=11.20"
+  },
+  {
+    "name": "Chef de Nouvelles",
+    "desc": "←◊0 Escala 0◊→\r\n【Efecto de Péndulo】\r\nSólo puedes usar cada Efecto de Péndulo ① y ② de \"Chef de Nouvelles\" una vez por turno.\r\n①: Durante tu Main Phase, si esta carta fue activada este turno: puedes añadir 1 carta \"Nouvelles\" desde tu Deck a tu mano, excepto un Monstruo de Péndulo.\r\n②: Si un monstruo es Invocado de Modo Especial al Campo de tu adversario (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial.\r\n━━━━━━━━━━━━━━━━━━━━━━━━━━\r\n【Efecto de Monstruo】\r\nNo puedes activar los Efectos de Monstruo ② y ③ de \"Chef de Nouvelles\" en la misma Cadena.\r\n①: Si esta carta en el Campo es Sacrificada y añadida boca arriba al Deck Extra: puedes Colocar esta carta en tu Zona de Péndulo.\r\n②: Una vez por turno (Efecto Rápido): puedes seleccionar 1 Monstruo de Efecto en el Campo; aumenta su Nivel hasta en 3.\r\n③: Una vez por turno, si tu adversario Invoca de Modo Especial uno o más monstruos (excepto durante el Damage Step): puedes desterrar 1 Mágica de Ritual \"Receta\" de tu mano, Deck o Cementerio; aplica el efecto de activación de esa carta que Invoca por Ritual un monstruo.",
+    "overallString": "[Monstruo|Effecto|Péndulo] Demonio/LUZ  [★3] 1000/1850  0/0",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301023.jpg?version=11.20"
+  },
+  {
+    "name": "Hamburguesa Enojada",
+    "desc": "(Esta carta siempre se trata como una carta \"Hamburguesa Hambrienta\").\r\nPuedes Invocar esta carta por Ritual con una carta \"Receta\". Sólo puedes usar cada efecto ① y ③ de \"Hamburguesa Enojada\" una vez por turno.\r\n①: Puedes mostrar esta carta en tu mano; añade a tu mano 1 monstruo \"Nouvelles\" desde tu Deck y, si lo haces, baraja esta carta al Deck.\r\n②: Los monstruos que controle tu adversario que puedan atacar deben atacar esta carta.\r\n③: (Efecto Rápido): Puedes Sacrificar 1 monstruo en Posición de Ataque en cualquier Campo y, si lo haces, Invoca de Modo Especial 1 \"Hamburguesa Hambrienta\" con 2000 ATK desde tu mano o Deck.",
+    "overallString": "[Monstruo|Effecto|Ritual] Guerrero/OSCURIDAD  [★6] 2800/1850",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301029.jpg?version=11.20"
+  },
+  {
+    "name": "Derrota Almas Rocas",
+    "desc": "【Material(es)】: 2 o más Monstruos \"Derrota Almas\" de Nivel 4\r\n①: Una vez por turno, si un monstruo \"Derrota Almas\" batalló este turno, también puedes Invocar Xyz a \"Derrota Almas Rocas\" usando 1 monstruo \"Derrota Almas\" o 1 \"Piedra del Derrotador\" que controles (transfiere sus materiales a esta carta).\r\n②: Gana los siguientes efectos, según los Atributos de sus materiales acoplados.\r\n● OSCURIDAD: Todos los monstruos que controla tu adversario pierden 800 ATK.\r\n● FUEGO: Los monstruos \"Derrota Almas\" que controlas ganan 1000 ATK.\r\n● TIERRA: Puedes desacoplar 1 material de esta carta; destruye 1 carta que controle tu adversario.",
+    "overallString": "[Monstruo|Effecto|Xyz] Piro/OSCURIDAD  [☆4] 2000/2500",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301046.jpg?version=11.20"
+  },
+  {
+    "name": "Derrota Almas, ¡Comienza!",
+    "desc": "Sólo puedes usar cada efecto ①, ② y ③ de \"Derrota Almas, ¡Comienza!\" una vez por turno.\r\n①: Puedes seleccionar 1 monstruo \"Derrota Almas\" que controles; añade a tu mano 1 monstruo \"Derrota Almas\" con un Atributo diferente desde tu Deck.\r\n②: Si uno o más monstruos \"Derrota Almas\" que controles fueran a ser destruidos en batalla o por el efecto de una carta, puedes mostrar 1 monstruo \"Derrota Almas\" en tu mano en su lugar.\r\n③: Durante tu End Phase, si controlas 2 o más monstruos \"Derrota Almas\": puedes Colocar 1 Trampa \"Derrota Almas\" desde tu Deck.",
+    "overallString": "[Mágica|Campo]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301066.jpg?version=11.20"
+  },
+  {
+    "name": "Recettes de Nouvellez (Libro de Recetas de Nouvelles)",
+    "desc": "Sólo puedes activar 1 \"Recettes de Nouvellez Libro de Recetas de Nouvelles)\" por turno.\r\n①: Mientras controles una Carta de Monstruo \"Nouvelles\", todos los monstruos boca arriba que controle tu adversario cambian a Posición de Ataque.\r\n②: Cada vez que un monstruo es Sacrificado por el efecto de un Monstruo de Ritual, tu adversario paga 850 LP.\r\n③: Una vez por turno, si Invocas de Modo Especial uno o más Monstruos de Ritual (excepto durante el Damage Step): puedes seleccionar uno de ellos; añade a tu mano 1 carta \"Receta\" o \"Nouvelles\" desde tu Deck, excepto una Mágica Continua, y si lo haces, aumenta el Nivel de ese monstruo en 1.",
+    "overallString": "[Mágica|Continua]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301067.jpg?version=11.20"
+  },
+  {
     "name": "Cazador de Enlaces @Ignister",
     "desc": "Sólo puedes usar cada efecto ① y ② de \"Cazador de Enlaces @Ignister\" una vez por turno.\r\n①: Si un monstruo Ciberso que controlas fuera a usarse como Material de Enlace para un Monstruo de Enlace \"@Ignister\", esta carta en tu mano también puede usarse como material.\r\n②: Si esta carta es enviada al Cementerio como Material de Enlace: puedes descartar 1 carta y luego seleccionar 1 Mágica/Trampa en el Campo, o puedes seleccionar 2 si esta carta en el Campo fue usada como material; destruye esa(s) carta(s).",
     "overallString": "[Monstruo|Effecto] Cyberse/OSCURIDAD  [★5] 2000/600",
@@ -106,6 +232,18 @@
     "desc": "Sólo puedes usar el efecto ② de \"Ritual del Matador\" una vez por turno.\r\n①: Invoca por Ritual 1 \"Archidemonio Matador\" desde tu mano, Sacrificando monstruos de tu mano y/o Campo cuyos Niveles totales sean 6 o más.\r\n②: Puedes desterrar esta carta de tu Cementerio; Invoca de Modo Especial, desde tu mano, 1 monstruo \"Archidemonio\" que no sea de Ritual.",
     "overallString": "[Mágica|Ritual]",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100240205.jpg?version=11.20"
+  },
+  {
+    "name": "Doncella Enamorada",
+    "desc": "①: Los monstruos del adversario que puedan atacar a esta carta deben atacarla.\r\n②: No puede ser destruida en batalla.\r\n③: Si esta carta batalla contra un monstruo del adversario, al final del Damage Step: puedes activar 1 de estos efectos:\r\n● Coloca 1 Contador de Doncella sobre 1 monstruo boca arriba que controle tu adversario.\r\n● Toma el control de 1 monstruo del adversario con un Contador de Doncella.",
+    "overallString": "[Monstruo|Effecto] Lanzador de Conjuros/LUZ  [★2] 400/300",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100240001.jpg?version=11.20"
+  },
+  {
+    "name": "Topo de Eucalipto",
+    "desc": "Sólo puedes usar cada efecto ①, ② y ③ de \"Topo de Eucalipto\" una vez por turno.\r\n①: Si esta carta es Invocada de Modo Normal o Especial: puedes Invocar de Modo Especial 1 monstruo Bestia de Nivel 4 o menor desde tu Deck en Posición de Defensa boca arriba.\r\n②: Si esta carta está en Posición de Ataque, cámbiala a Posición de Defensa.\r\n③: Si esta carta es destruida: puedes Invocar de Modo Especial, desde tu Deck, 1 monstruo \"Koala\" o 1 \"Nutria Arborícola\" y, si lo haces, aplica este efecto hasta el final del siguiente turno.\r\n● Los monstruos Bestia sin Efecto que controlas ganan ATK igual a su DEF original.",
+    "overallString": "[Monstruo|Effecto] Planta/TIERRA  [★3] 300/1300",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100240003.jpg?version=11.20"
   },
   {
     "name": "Morgana, la Bruja de los Ojos",
