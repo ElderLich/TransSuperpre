@@ -1,5 +1,179 @@
 [
   {
+    "name": "Kambi l'Ange de l'Aube",
+    "desc": "Si vous ne contrôlez aucun monstre, ou si tous les monstres que vous contrôlez sont des monstres Elfe : vous pouvez invoquer spécialement cette carte depuis votre main.\r\nVous pouvez sacrifier des monstres Elfe, y compris cette carte ; invoquez spécialement 1 monstre Elfe depuis votre Deck dont le Niveau est égal au total des Niveaux de ces monstres sur le Terrain.\r\nVous ne pouvez pas invoquer spécialement le tour où vous activez cet effet, sauf des monstres Elfe.\r\nVous ne pouvez utiliser chaque effet de « Kambi l'Ange de l'Aube » qu'une fois par tour.",
+    "overallString": "[Monstre|Effet] Elfe/Lumiére  [★1] 500/1800",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208081.jpg?version=11.20"
+  },
+  {
+    "name": "Hrimnir la Disciple Divine",
+    "desc": "Vous pouvez sacrifier 3 monstres Elfe depuis votre main et/ou votre Terrain ; posez 1 Magie Continue depuis votre Deck, mais envoyez-la au Cimetière pendant la End Phase de votre adversaire.\r\nSi cette carte est envoyée au Cimetière par un effet de carte : vous pouvez invoquer spécialement cette carte, mais bannissez-la lorsqu'elle quitte le Terrain.\r\nVous ne pouvez utiliser chaque effet de « Hrimnir la Disciple Divine » qu'une fois par tour.",
+    "overallString": "[Monstre|Effet] Elfe/Lumiére  [★9] 2200/2200",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208082.jpg?version=11.20"
+  },
+  {
+    "name": "Bénédiction de Vingolf",
+    "desc": "Lorsque cette carte est activée : vous pouvez envoyer 1 monstre Elfe LUMIÈRE depuis votre Deck au Cimetière. \r\nLes monstres Elfe que vous contrôlez gagnent 100 ATK pour chaque monstre Elfe sur votre Terrain et dans votre Cimetière.\r\nSi cette carte est envoyée au Cimetière : vous pouvez cibler 1 monstre Elfe de Niveau 4 ou moins dans votre Cimetière ; Invoquez-le Spécialement. \r\nVous ne pouvez utiliser cet effet de « Bénédiction de Vingolf » qu'une fois par tour.\r\nVous ne pouvez activer qu'1 « Bénédiction de Vingolf » par tour.",
+    "overallString": "[Magie|Continu]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208083.jpg?version=11.20"
+  },
+  {
+    "name": "Banc de poissons blindés",
+    "desc": "Lorsque cette carte est invoquée normalement : vous pouvez invoquer spécialement 1 monstre Poisson de niveau 6 ou moins depuis votre main en position de défense, mais bannissez-le lorsqu'il quitte le terrain.\r\nSi cette carte est bannie : vous pouvez invoquer spécialement cette carte en position de défense.\r\nVous ne pouvez utiliser cet effet de « Banc de poissons blindés » qu'une fois par tour.",
+    "overallString": "[Monstre|Effet] Poisson/Eau  [★4] 300/300",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208084.jpg?version=11.20"
+  },
+  {
+    "name": "Poisson-marin toxique",
+    "desc": "1 Syntoniseur + 1 monstre non-Syntoniseur ou plus\r\nSi cette carte est Invoquée par Synchronisation : vous pouvez cibler 1 carte dans chaque Cimetière ; bannissez-la.\r\nSi cette carte est bannie : vous pouvez cibler 1 carte face recto contrôlée par votre adversaire ; annulez ses effets jusqu'à la fin de ce tour.\r\nVous ne pouvez utiliser chaque effet de « Poisson-marin toxique » qu'une fois par tour.",
+    "overallString": "[Monstre|Effet|Synchro] Poisson/Eau  [★4] 1800/800",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208085.jpg?version=11.20"
+  },
+  {
+    "name": "Poissons et enchères",
+    "desc": "Au début de votre Main Phase 1 : bannissez 1 carte de votre main ; votre adversaire peut bannir 2 cartes de sa main. S'il ne le fait pas, vous appliquez cet effet.\r\n● Prenez 2 monstres Poisson depuis votre Deck et bannissez-les tous les deux ou envoyez-les tous les deux au Cimetière, vous ne pouvez pas Invoquer Spécialement pour le reste de ce tour, excepté les monstres Poisson.",
+    "overallString": "[Magie]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208086.jpg?version=11.20"
+  },
+  {
+    "name": "LAD Replicarte",
+    "desc": "Vous pouvez bannir 1 autre monstre de Niveau 7 ou plus depuis votre main ; invoquez spécialement cette carte depuis votre main.\r\nVous pouvez cibler 1 monstre face recto que vous contrôlez ; invoquez spécialement 1 monstre de nom différent depuis votre Deck avec 2 monstres ou plus de même Niveau, ATK et/ou DEF, mais il ne peut pas activer ses effets ce tour-ci.\r\nVous ne pouvez utiliser chaque effet de « Réplicard LAD » qu'une fois par tour.",
+    "overallString": "[Monstre|Effet] Cyberse/Ténébres  [★7] 2500/2500",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208087.jpg?version=11.20"
+  },
+  {
+    "name": "Sakra Vendirage",
+    "desc": "2 monstres de Niveau 4\r\nVous pouvez détacher 1 Matériel de cette carte, puis ciblez 1 monstre Psy de Niveau/Rang 4 dans votre Cimetière (sauf « Sakra Vendirage ») ; Invoquez-le Spécialement.\r\nSi un ou plusieurs monstres sont Invoqués Spécialement, tant que cette carte est dans votre Zone Monstre (sauf durant la Damage Step) : vous pouvez cibler 1 autre monstre face recto sur le Terrain ; son nom devient « Sakra Vendirage » jusqu'à la End Phase.\r\nVous ne pouvez utiliser chaque effet de « Sakra Vendirage » qu'une fois par tour.",
+    "overallString": "[Monstre|Effet|Xyz] Psychique/Ténébres  [☆4] 2000/2500",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208088.jpg?version=11.20"
+  },
+  {
+    "name": "Paix Tiki",
+    "desc": "Invoquez Spécialement cette carte comme un Monstre à Effet (Rocher/TERRE/Niveau 4/ATK 1800/DEF 1800) avec l'effet suivant (cette carte est également toujours un Piège).\r\n●(Effet Rapide) : Vous pouvez payer 800 LP ; Invoquez Spécialement 1 Piège Continu, excepté « Paix Tiki », depuis votre Cimetière ou votre Bannissement comme un Monstre Normal (Rocher/TERRE/Niveau 4/ATK 1000/DEF 1000) et son nom devient « Paix Tiki » (même face cachée) (cette carte n'est PAS traitée comme un Piège). \r\nVous ne pouvez utiliser cet effet de « Paix Tiki » qu'une fois par tour.",
+    "overallString": "[Piège|Continu]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208089.jpg?version=11.20"
+  },
+  {
+    "name": "Union des Âmes",
+    "desc": "①：Ciblez 1 monstre face recto sur le Terrain et 1 monstre \"HÉROS Élémentaire\" dans votre Cimetière ; le monstre sur le Terrain gagne une ATK égale à l'ATK de l'autre monstre (jusqu'à la fin de ce tour),\r\npuis si un Monstre Normal \"HÉROS Élémentaire\" est sur votre Terrain ou Cimetière ,\r\n● Vous pouvez Invoquer par Fusion 1 Monstre Fusion \"HÉROS Élémentaire\" depuis votre Extra Deck, en bannissant ses Matériels depuis votre Cimetière.\r\n\r\nVous ne pouvez activer qu'1 \"Union des Âmes\" par tour.",
+    "overallString": "[Piège]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100240010.jpg?version=11.20"
+  },
+  {
+    "name": "Lion d'Or Clair de Lune",
+    "desc": "①：Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez ajouter 1 monstre \"Clair de Lune\" (\"Lion d'Or Clair de Lune\" exclu) depuis votre Deck à votre main, puis défaussez 1 carte.\r\n②：Si un ou plusieurs monstres \"Clair de Lune\" sont envoyés à votre Cimetière tant que cette carte est dans la Zone Monstre, même durant la Damage Step : vous pouvez en cibler 1 ; ajoutez-le à votre main.\r\nVous ne pouvez utiliser chaque effet de \"Lion d'Or Clair de Lune\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet] Bête-Guerrier/Ténébres  [★4] 600/1600",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301005.jpg?version=11.20"
+  },
+  {
+    "name": "Chien de Chasse d'Argent Clair de Lune",
+    "desc": "①：Si cette carte est envoyée au Cimetière par un effet de carte : vous pouvez Invoquer Spécialement 1 monstre \"Clair de Lune\" (\"Chien de Chasse d'Argent Clair de Lune\" exclu) depuis votre Deck, et si vous le faites, vous ne pouvez pas Invoquer Spécialement (monstres \"Clair de Lune\" exclus) depuis l'Extra Deck tant que vous contrôlez le monstre face recto.\r\n②：Lorsqu'une Carte Magie/Piège ou effet de Magie/Piège est activé sur le Terrain (Effet Rapide) : vous pouvez bannir depuis votre Cimetière, cette carte et 1 Monstre Fusion \"Clair de Lune\" ; annulez l'activation.\r\nVous ne pouvez utiliser chaque effet de \"Chien de Chasse d'Argent Clair de Lune\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet] Bête-Guerrier/Ténébres  [★3] 1400/400",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301006.jpg?version=11.20"
+  },
+  {
+    "name": "Ligre Danseur Clair de Lune",
+    "desc": "\"Lion Danseur Clair de Lune\" + 3 monstres \"Clair de Lune\"\r\nUniquement Invocable par Fusion avec les Matériels Fusion ci-dessus.\r\n①：Non affectée par des effets de carte (cartes \"Clair de Lune\" exclues)\r\n②：Peut faire une seconde attaque durant chaque Battle Phase.\r\n③：Une fois par tour (Effet Rapide) : vous pouvez envoyer 1 monstre \"Clair de Lune\" depuis votre Extra Deck au Cimetière ; détruisez tous les monstres Invoqués Spécialement de l'adversaire.",
+    "overallString": "[Monstre|Effet|Fusion] Bête-Guerrier/Ténébres  [★12] 3800/3500",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301030.jpg?version=11.20"
+  },
+  {
+    "name": "Danseuse au Parfum Clair de Lune",
+    "desc": "2 monstres \"Clair de Lune\"\r\n①：Si cette carte est Invoquée par Fusion : vous pouvez ajouter 1 \"Parfum de Clair-de-Lune\" depuis votre Deck à votre main.\r\n②：Vous pouvez cibler 1 autre carte \"Clair de Lune\" que vous contrôlez ; renvoyez-la à la main/Extra Deck, puis vous pouvez Invoquer Spécialement 1 monstre \"Clair de Lune\" depuis votre main.\r\n③：Vous pouvez bannir cette carte depuis votre Cimetière ; ce tour, les monstres contrôlés par votre adversaire perdent une ATK égale à leur propre DEF d'origine.\r\nVous ne pouvez utiliser les effets ①②③ de \"Danseuse au Parfum Clair de Lune\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet|Fusion] Bête-Guerrier/Ténébres  [★6] 2000/1500",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301031.jpg?version=11.20"
+  },
+  {
+    "name": "Mascarade Clair de Lune",
+    "desc": "(Remarque : temporairement indisponible)\r\n\r\n①：Durant votre Main Phase, si cette carte a été activée ce tour : vous pouvez envoyer 1 monstre \"Clair de Lune\" depuis votre Deck au Cimetière.\r\n②：Si vous Invoquez par Fusion un monstre \"Clair de Lune\" : vous pouvez ajouter 1 \"Polymérisation\" depuis votre Cimetière ou bannissement à votre main, puis vous pouvez défausser 1 carte, et si vous le faites, une fois ce tour, si vous Invoquez par Fusion un monstre \"Clair de Lune\", vous pouvez aussi bannir des monstres dans votre Cimetière comme Matériel.\r\nVous ne pouvez utiliser chaque effet de \"Mascarade Clair de Lune\" qu'une fois par tour.",
+    "overallString": "[Magie|Continu]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301053.jpg?version=11.20"
+  },
+  {
+    "name": "Âme du Vainqueur Sainte Sue",
+    "desc": "①：Durant la Main Phase (Effet Rapide) : vous pouvez révéler 1 autre monstre \"Âme du Vainqueur\" dans votre main ; Invoquez Spécialement cette carte depuis votre main.\r\n②：(Effet Rapide) : vous pouvez activer 1 de ces effets, en révélant des monstres dans votre main avec les Attributs listés ;\r\n● TERRE et TÉNÈBRES : Prenez le contrôle d'1 monstre contrôlé par votre adversaire avec la plus faible ATK (en cas d'égalité, vous choisissez) jusqu'à la End Phase.\r\n● FEU et TÉNÈBRES : Invoquez Spécialement 1 monstre \"Âme du Vainqueur\" non-Psychique depuis votre Deck.\r\nVous ne pouvez utiliser chaque effet de \"Âme du Vainqueur Sainte Sue\" qu'une fois par tour, et ne pouvez en activer que max. 1 dans la même Chaîne.",
+    "overallString": "[Monstre|Effet] Psychique/Terre  [★5] 500/2200",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301022.jpg?version=11.20"
+  },
+  {
+    "name": "Chef de Nouvelles",
+    "desc": "←0 【Effet Pendule】 0→\r\n①：Durant votre Main Phase, si cette carte a été activée ce tour : vous pouvez ajouter 1 carte \"Nouvelles\" (Monstres Pendule exclus) depuis votre Deck à votre main.\r\n②：Si un ou plusieurs monstres sont Invoqués Spécialement sur le Terrain de votre adversaire (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte.\r\nVous ne pouvez utiliser les effets ①② de \"Chef de Nouvelles\" qu'une fois par tour.\r\n【Effet de Monstre】\r\nVous ne pouvez pas activer les effets ①② de \"Chef de Nouvelles\" dans la même Chaîne.\r\n①：Une fois par tour (Effet Rapide) : vous pouvez cibler 1 Monstre à Effet sur le Terrain ; augmentez son Niveau de max. 3.\r\n②：Une fois par tour, si votre adversaire Invoque Spécialement un ou plusieurs monstres (sauf durant la Damage Step) : vous pouvez bannir 1 Magie Rituelle \"Recette\" depuis votre main, Deck, ou Cimetière ; appliquez l'effet d'activation de la carte qui Invoque Rituellement un monstre.\r\n③：Si cette carte sur le Terrain est Sacrifiée et ajoutée à l'Extra Deck face recto : vous pouvez placer cette carte dans votre Zone Pendule.",
+    "overallString": "[Monstre|Effet|Pendule] Démon/Lumiére  [★3] 1000/1850  0/0",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301023.jpg?version=11.20"
+  },
+  {
+    "name": "Burger Furieux",
+    "desc": "(Cette carte est toujours traitée comme \"Burger Affamé\".)\r\nVous pouvez Invoquer Rituellement cette carte avec une carte \"Recette\".\r\n①：Vous pouvez révéler cette carte dans votre main ; ajoutez 1 monstre \"Nouvelles\" depuis votre Deck à votre main, et si vous le faites, mélangez cette carte dans le Deck.\r\n②：Les monstres contrôlés par votre adversaire qui peuvent attaquer doivent attaquer cette carte.\r\n③：(Effet Rapide) : vous pouvez Sacrifier 1 monstre en Position d'Attaque sur l'un des Terrains, et si vous le faites, Invoquez Spécialement 1 \"Burger Affamé\" avec 2000 ATK depuis votre main ou Deck.\r\nVous ne pouvez utiliser les effets ①③ de \"Burger Furieux\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet|Rituel] Guerrier/Ténébres  [★6] 2800/1850",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301029.jpg?version=11.20"
+  },
+  {
+    "name": "Âme du Vainqueur Rochers",
+    "desc": "2+ monstres \"Âme du Vainqueur\" de Niveau 4\r\nUne fois par tour, si un monstre \"Âme du Vainqueur\" a combattu ce tour, vous pouvez aussi Invoquer par Xyz \"Âme du Vainqueur Rochers\" en utilisant 1 \"Rocher du Vainqueur\" ou 1 monstre \"Âme du Vainqueur\" que vous contrôlez (transférez ses Matériels à cette carte).\r\nGagne les effets suivants, selon les Attributs de ses Matériels attachés.\r\n● TÉNÈBRES : Tous les monstres contrôlés par votre adversaire perdent 800 ATK.\r\n● FEU : Les monstres \"Âme du Vainqueur\" que vous contrôlez gagnent 1000 ATK.\r\n● TERRE : vous pouvez détacher 1 Matériel de cette carte ; détruisez 1 carte contrôlée par votre adversaire.",
+    "overallString": "[Monstre|Effet|Xyz] Pyro/Ténébres  [☆4] 2000/2500",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301046.jpg?version=11.20"
+  },
+  {
+    "name": "Âme du Vainqueur, C'est Parti !",
+    "desc": "①：Vous pouvez cibler 1 monstre \"Âme du Vainqueur\" que vous contrôlez ; ajoutez 1 monstre \"Âme du Vainqueur\" avec un Attribut différent depuis votre Deck à votre main.\r\n②：Si un ou plusieurs monstres \"Âme du Vainqueur\" que vous contrôlez vont être détruits au combat ou par un effet de carte, vous pouvez révéler 1 monstre \"Âme du Vainqueur\" dans votre main à la place.\r\n③：Durant votre End Phase, si vous contrôlez min. 2 monstres \"Âme du Vainqueur\" : vous pouvez Poser 1 Piège \"Âme du Vainqueur\" depuis votre Deck.\r\nVous ne pouvez utiliser les effets ①②③ de \"Âme du Vainqueur, C'est Parti !\" qu'une fois par tour.",
+    "overallString": "[Magie|Terrain]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301066.jpg?version=11.20"
+  },
+  {
+    "name": "Livre de Recettes de Nouvelles \"Recettes de Nouvellez\"",
+    "desc": "①：Tant que vous contrôlez une Carte Monstre \"Nouvelles\", tous les monstres face recto contrôlés par votre adversaire sont changés en Position d'Attaque.\r\n②：Chaque fois qu'un ou plusieurs monstres sont Sacrifiés par l'effet d'un Monstre Rituel, votre adversaire paie 850 LP.\r\n③：Une fois par tour, si vous Invoquez Spécialement un ou plusieurs Monstres Rituels (sauf durant la Damage Step) : vous pouvez en cibler 1 ; ajoutez 1 carte \"Recette\" ou \"Nouvelles\" (Magies Continues exclues) depuis votre Deck à votre main, et si vous le faites, augmentez le Niveau du monstre de 1.\r\nVous ne pouvez activer qu'1 \"Livre de Recettes de Nouvelles \"Recettes de Nouvellez\"\" par tour.",
+    "overallString": "[Magie|Continu]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301067.jpg?version=11.20"
+  },
+  {
+    "name": "Lienassassin @Ignister",
+    "desc": "①：Si un monstre Cyberse que vous contrôlez va être utilisé comme Matériel Lien pour un Monstre Lien \"@Ignister\", cette carte dans votre main peut aussi être utilisée comme Matériel.\r\n②：Si cette carte est envoyée au Cimetière comme Matériel Lien : vous pouvez défausser 1 carte, puis ciblez 1 Magie/Piège sur le Terrain, ou vous pouvez en cibler 2 si cette carte sur le Terrain a été utilisée comme Matériel ; détruisez les cartes.\r\nVous ne pouvez utiliser chaque effet de \"Lienassassin @Ignister\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet] Cyberse/Ténébres  [★5] 2000/600",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301007.jpg?version=11.20"
+  },
+  {
+    "name": "Mitsurugi no Mikoto, Aramasa",
+    "desc": "Si cette carte est Invoquée Normalement ou Spécialement, ou si elle est Sacrifiée : vous pouvez ajouter 1 monstre « Mitsurugi » depuis votre Deck à votre main, excepté « Mitsurugi no Mikoto, Aramasa ».\r\nSi un ou plusieurs autres monstres Reptiles que vous contrôlez sont détruits au combat ou par un effet de carte, vous pouvez Sacrifier cette carte à la place.\r\nVous ne pouvez utiliser chaque effet de « Mitsurugi no Mikoto, Aramasa » qu'une fois par tour.",
+    "overallString": "[Monstre|Effet] Reptile/Ténébres  [★4] 1200/900",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208090.jpg?version=11.20"
+  },
+  {
+    "name": "Mitsurugi no Miko, Wousu",
+    "desc": "Vous pouvez Invoquer Spécialement cette carte (depuis votre main) en Sacrifiant 1 autre monstre Reptile depuis votre main et 1 monstre contrôlé par votre adversaire, mais vous ne pouvez pas Invoquer Spécialement ni activer d'effets de monstres jusqu'à la fin de ce tour, excepté les monstres Reptiles.\r\nVous ne pouvez Invoquer Spécialement « Mitsurugi no Miko, Wousu » qu'une fois par tour de cette façon.\r\nSi cette carte est Sacrifiée : vous pouvez défausser 1 carte, et si vous le faites, ajoutez cette carte à votre main.\r\nVous ne pouvez utiliser cet effet de « Mitsurugi no Miko, Wousu » qu'une fois par tour.",
+    "overallString": "[Monstre|Effet] Reptile/Ténébres  [★8] 2000/2000",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208091.jpg?version=11.20"
+  },
+  {
+    "name": "Ame no Habakiri no Mitsurugi",
+    "desc": "Vous pouvez invoquer rituellement cette carte avec « Rituel Mitsurugi ». \r\nLes monstres contrôlés par votre adversaire perdent 800 points d'ATK.\r\nVous pouvez révéler cette carte de votre main ; invoquez spécialement 1 monstre « Mitsurugi » depuis votre deck, puis sacrifiez 1 monstre que vous contrôlez.\r\nVous ne pouvez utiliser cet effet de « Ame no Habakiri no Mitsurugi » qu'une fois par duel. Si cette carte est sacrifiée : vous pouvez ajouter 1 carte « Mitsurugi » depuis votre deck à votre main (sauf « Ame no Habakiri no Mitsurugi »), puis vous pouvez invoquer spécialement cette carte.\r\nVous ne pouvez utiliser cet effet de « Ame no Habakiri no Mitsurugi » qu'une fois par tour.",
+    "overallString": "[Monstre|Effet|Rituel] Reptile/Ténébres  [★8] 2400/1800",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208092.jpg?version=11.20"
+  },
+  {
+    "name": "Miroir Mitsurugi",
+    "desc": "Cette carte peut être utilisée pour invoquer rituellement n'importe quel monstre rituel Reptile depuis votre main ou votre cimetière.\r\nVous devez également sacrifier les monstres Reptiles depuis votre main ou votre terrain dont le total des niveaux est égal ou supérieur au niveau du monstre rituel.\r\nSi « Ame no Murakumo no Mitsurugi », « Futsu no Mitama no Mitsurugi » ou « Ame no Habakiri no Mitsurugi » que vous contrôlez est sacrifié, tant que cette carte est dans votre cimetière : vous pouvez mélanger cette carte dans le deck.\r\nVous ne pouvez utiliser chaque effet de « Miroir Mitsurugi » qu'une fois par tour.",
+    "overallString": "[Magie|Rituel]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208093.jpg?version=11.20"
+  },
+  {
+    "name": "Magatama Mitsurugi",
+    "desc": "Durant la Main Phase : activez 1 de ces effets ;\r\n● Sacrifiez 1 monstre Reptile, puis ciblez 1 carte face recto contrôlée par votre adversaire ; détruisez-la.\r\n● Invoquez rituellement 1 monstre rituel « Mitsurugi » depuis votre main en sacrifiant des monstres que vous contrôlez dont le total des Niveaux est égal ou supérieur à son Niveau.\r\nVous ne pouvez activer qu'1 « Mitsurugi Magatama » par tour.",
+    "overallString": "[Magie|Jeu-Rapide]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208094.jpg?version=11.20"
+  },
+  {
+    "name": "Frontière Sacrée de Mitsurugi",
+    "desc": "Votre adversaire ne peut pas cibler les Monstres Rituels « Mitsurugi » que vous contrôlez avec les effets de monstres Invoqués Spécialement depuis l'Extra Deck.\r\nVous pouvez cibler 4 cartes « Mitsurugi » dans votre Cimetière, excepté « Frontière Sacrée de Mitsurugi » ; mélangez-les dans le Deck, puis si votre adversaire contrôle un monstre, il sacrifie 1 monstre qu'il contrôle (de son choix).\r\nVous ne pouvez utiliser cet effet de « Limite Sacrée Mitsurugi » qu'une fois par tour.",
+    "overallString": "[Magie|Continu]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208095.jpg?version=11.20"
+  },
+  {
+    "name": "Tempête Mitsurugi",
+    "desc": "Si vous avez une Magie Rituelle « Mitsurugi » dans votre Cimetière : sacrifiez 3 monstres dont les noms originaux sont « Ame no Murakumo no Mitsurugi », « Futsu no Mitama no Mitsurugi » et « Ame no Habakiri no Mitsurugi » ; faites bannir exactement 8 cartes à votre adversaire depuis sa main, son Extra Deck, son Terrain et/ou son Cimetière.\r\nVous ne pouvez activer qu'une seule « Tempête Mitsurugi » par tour.",
+    "overallString": "[Piège]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101208096.jpg?version=11.20"
+  },
+  {
     "name": "Le Retour du Duelliste",
     "desc": "Si un Monstre Xyz est sur le Terrain ou dans l'un des Cimetières : ajoutez 1 Magie d'Équipement depuis votre Deck ou Cimetière à votre main.\r\nVous ne pouvez activer qu'1 \"Le Retour du Duelliste\" par tour.",
     "overallString": "[Magie]",
@@ -58,6 +232,18 @@
     "desc": "Cette carte est utilisée pour Invoquer Rituellement \"Archdémon Matador\". Vous devez aussi Sacrifier des monstres depuis votre main ou Terrain dont le Niveau total est égal à min. 6.\r\nVous pouvez bannir cette carte depuis votre Cimetière ; Invoquez Spécialement 1 monstre non-Rituel \"Archdémon\" depuis votre main. Vous ne pouvez utiliser cet effet de \"Rituel du Matador\" qu'une fois par tour.",
     "overallString": "[Magie|Rituel]",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100240205.jpg?version=11.20"
+  },
+  {
+    "name": "Jeune Fille Amoureuse",
+    "desc": "①：Les monstres contrôlés par votre adversaire qui peuvent attaquer doivent attaquer cette carte.\r\n②：Non destructible au combat.\r\n③：À la fin de la Damage Step, si cette carte a combattu un monstre de l'adversaire : vous pouvez activer 1 de ces effets ;\r\n● Placez 1 Compteur Jeune Fille sur 1 monstre face recto contrôlé par votre adversaire.\r\n● Prenez le contrôle d'1 monstre de l'adversaire avec un Compteur Jeune Fille.",
+    "overallString": "[Monstre|Effet] Magicien/Lumiére  [★2] 400/300",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100240001.jpg?version=11.20"
+  },
+  {
+    "name": "Taupe Eucalyptus",
+    "desc": "①：Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez Invoquer Spécialement 1 monstre Bête de max. Niveau 4 depuis votre Deck en Position de Défense face verso, puis si cette carte est en Position d'Attaque, changez-la en Position de Défense.\r\n②：Si cette carte est détruite : vous pouvez Invoquer Spécialement 1 monstre \"Koala\" ou 1 \"Loutre des Arbres\" depuis votre Deck, et si vous le faites, appliquez cet effet jusqu'à la fin du prochain tour.\r\n● Les monstres Bête que vous contrôlez (Monstres à Effet exclus) gagnent une ATK égale à leur propre DEF d'origine.\r\nVous ne pouvez utiliser chaque effet de \"Taupe Eucalyptus\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet] Plante/Terre  [★3] 300/1300",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100240003.jpg?version=11.20"
   },
   {
     "name": "Morgana la Sorcière des Yeux",
