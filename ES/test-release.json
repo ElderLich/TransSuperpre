@@ -1,5 +1,35 @@
 [
   {
+    "name": "¡COPA DESPIERTA! Mocha",
+    "desc": "Sólo puedes usar cada uno de los efectos ② y ③ de \"¡COPA DESPIERTA! Mocha\" una vez por turno.\r\n①: Una vez por turno, durante tu End Phase: puedes cambiar esta carta a Posición de Defensa boca abajo.\r\n②: Puedes seleccionar 1 monstruo boca abajo en Posición de Defensa en el Campo; Invoca esta carta de Modo Especial desde tu mano y, si lo haces, cambia ese monstruo a Posición de Ataque.\r\n③: Si esta carta está boca arriba: Puedes seleccionar 1 monstruo boca arriba en el Campo; gana 1000 ATK, pero mándalo al Cementerio durante la End Phase.",
+    "overallString": "[Monstruo|Efecto|VOLTEO] Aqua/VIENTO  [★3] 1000/100",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301028.jpg?version=11.20"
+  },
+  {
+    "name": "El Hamster Estelar",
+    "desc": "【Materiales】: 1 Cantante + 1 o más monstruos que no sean Cantantes\r\nSólo puedes usar cada efecto ① y ② de \"El Hamster Estelar\" una vez por turno.\r\n①: Si esta carta es Invocada por Sincronía: puedes descartar 1 carta; Invoca de Modo Especial desde tu Cementerio 1 monstruo que se usó como material para la Invocación por Sincronía de esta carta y, si lo haces, se considera un Cantante.\r\n②: Si esta carta está en tu Cementerio: puedes descartar 2 cartas; Invoca esta carta de Modo Especial, pero destiérrala cuando deje el Campo.",
+    "overallString": "[Monstruo|Efecto|Sincronía] Bestia/LUZ  [★3] 1000/1200",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301041.jpg?version=11.20"
+  },
+  {
+    "name": "Pantano Atronador Súbito",
+    "desc": "Sólo puedes activar 1 \"Pantano Atronador Súbito\" por turno. Sólo puedes usar el efecto ② de \"Pantano Atronador Súbito\" una vez por turno.\r\n①: Cuando esta carta se activa: puedes descartar 1 carta y, si lo haces, Coloca 1 Trampa Continua de tu Deck o Cementerio, con un efecto que se Invoca de Modo Especial como un monstruo, excepto la carta descartada.\r\n②: Si una o más cartas que controlas son destruidas en batalla o por efecto de una carta, y mandadas al Cementerio o desterradas boca arriba: puedes seleccionar una de ellas; añade a tu mano 1 carta con el mismo nombre de tu Deck.",
+    "overallString": "[Mágica|Continua]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301072.jpg?version=11.20"
+  },
+  {
+    "name": "Error de Envío",
+    "desc": "①: Cuando se activa una carta o efecto que incluye un efecto que añade una o más cartas del Deck a la mano: El efecto activado se convierte en:\r\n\"Tu adversario toma 1 carta de su Deck para que la añadas a tu mano, y debes mantenerla revelada. Durante la Fase Final de este turno, barájala al Deck y, si lo haces, roba 1 carta\".",
+    "overallString": "[Trampa]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301079.jpg?version=11.20"
+  },
+  {
+    "name": "Cazador de Espíritus",
+    "desc": "①: Una vez por turno, durante la Stanby Phase de tu adversario: puedes activar 1 de estos efectos:\r\n● Coloca 1 monstruo de tu Deck en tu Zona de Magias y Trampas como una Mágica Continua boca arriba.\r\n● Tu adversario puede Invocar de Modo Especial, desde tu Zona de Magias y Trampas a su Campo, 1 Carta de Monstruo con menos ATK original que sus LP; después, paga LP iguales a su ATK original.\r\n②: Si un Monstruo de Efecto de tu propiedad es Invocado de Modo Especial al Campo de tu adversario: puedes mandar esta carta boca arriba desde la Zona de Magias y Trampas al Cementerio. Invoca de Modo Especial, desde tu Deck, 1 monstruo de Nivel 4 o menor.",
+    "overallString": "[Trampa|Continua]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301080.jpg?version=11.20"
+  },
+  {
     "name": "Gorgona Zilofthonia",
     "desc": "【Materiales】: 2+ Monstruos de Efecto\r\nNo puedes Invocar/Colocar monstruos en una zona a la que apunta esta carta.\r\n①: Los monstruos a los que apunta esta carta no pueden atacar; además, sus efectos activados son negados.\r\n②: Gana ATK igual al ATK original total de los monstruos a los que apunta.\r\n③: No puede ser destruida en batalla ni por efectos de monstruos mientras no apunte a ningún monstruo.",
     "overallString": "[Monstruo|Efecto|Enlace] Reptil/OSCURIDAD  [LINK-3] 100/-  [↖][↑][↗]",
