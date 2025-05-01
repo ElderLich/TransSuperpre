@@ -37,7 +37,7 @@
   },
   {
     "name": "Piègeolique",
-    "desc": "Ciblez 1 Magie/Piège que vous contrôlez ; détruisez-le, et si vous le faites, Posez 1 Piège Normal (\"Piègeolique\" exclu) depuis votre Deck. Il peut être activé ce tour tant que vous avez min. 3 Pièges dans votre Cimetière.\r\n\r\nVous ne pouvez activer qu'1 \"Piègeolique\" par tour.",
+    "desc": "Ciblez 1 Magie/Piège que vous contrôlez ; détruisez-le, et si vous le faites, Posez 1 Piège Normal (\"Piègeolique\" exclu) depuis votre Deck. Il peut être activé ce tour tant que vous avez min. 3 Pièges dans votre Cimetière.\r\nVous ne pouvez activer qu'1 \"Piègeolique\" par tour.",
     "overallString": "[Piège]",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301078.jpg?version=11.20"
   },
@@ -49,7 +49,7 @@
   },
   {
     "name": "Commandements de la Regenèse",
-    "desc": "Appliquez ces effets à toutes les cartes contrôlées par votre adversaire dans la même colonne que vos monstres \"Regenèse\".\r\n● Cartes face recto : Annulez leurs effets.\r\n● Monstres face verso : Ne peuvent pas changer leur position de combat.\r\n● Magies/Pièges face verso : Ne peuvent pas être activés jusqu'à la fin du prochain tour.\r\n\r\nVous ne pouvez activer qu'1 \"Commandements de la Regenèse\" par tour.",
+    "desc": "Appliquez ces effets à toutes les cartes contrôlées par votre adversaire dans la même colonne que vos monstres \"Regenèse\".\r\n● Cartes face recto : Annulez leurs effets.\r\n● Monstres face verso : Ne peuvent pas changer leur position de combat.\r\n● Magies/Pièges face verso : Ne peuvent pas être activés jusqu'à la fin du prochain tour.\r\nVous ne pouvez activer qu'1 \"Commandements de la Regenèse\" par tour.",
     "overallString": "[Piège]",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301077.jpg?version=11.20"
   },
@@ -133,49 +133,49 @@
   },
   {
     "name": "Lion d'Or Clair de Lune",
-    "desc": "①：Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez ajouter 1 monstre \"Clair de Lune\" (\"Lion d'Or Clair de Lune\" exclu) depuis votre Deck à votre main, puis défaussez 1 carte.\r\n②：Si un ou plusieurs monstres \"Clair de Lune\" sont envoyés à votre Cimetière tant que cette carte est dans la Zone Monstre, même durant la Damage Step : vous pouvez en cibler 1 ; ajoutez-le à votre main.\r\nVous ne pouvez utiliser chaque effet de \"Lion d'Or Clair de Lune\" qu'une fois par tour.",
+    "desc": "Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez ajouter 1 monstre \"Clair de Lune\" (\"Lion d'Or Clair de Lune\" exclu) depuis votre Deck à votre main, puis défaussez 1 carte.\r\nSi un ou plusieurs monstres \"Clair de Lune\" sont envoyés à votre Cimetière tant que cette carte est dans la Zone Monstre, même durant la Damage Step : vous pouvez en cibler 1 ; ajoutez-le à votre main.\r\nVous ne pouvez utiliser chaque effet de \"Lion d'Or Clair de Lune\" qu'une fois par tour.",
     "overallString": "[Monstre|Effet] Bête-Guerrier/Ténébres  [★4] 600/1600",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301005.jpg?version=11.20"
   },
   {
     "name": "Chien de Chasse d'Argent Clair de Lune",
-    "desc": "①：Si cette carte est envoyée au Cimetière par un effet de carte : vous pouvez Invoquer Spécialement 1 monstre \"Clair de Lune\" (\"Chien de Chasse d'Argent Clair de Lune\" exclu) depuis votre Deck, et si vous le faites, vous ne pouvez pas Invoquer Spécialement (monstres \"Clair de Lune\" exclus) depuis l'Extra Deck tant que vous contrôlez le monstre face recto.\r\n②：Lorsqu'une Carte Magie/Piège ou effet de Magie/Piège est activé sur le Terrain (Effet Rapide) : vous pouvez bannir depuis votre Cimetière, cette carte et 1 Monstre Fusion \"Clair de Lune\" ; annulez l'activation.\r\nVous ne pouvez utiliser chaque effet de \"Chien de Chasse d'Argent Clair de Lune\" qu'une fois par tour.",
+    "desc": "Si cette carte est envoyée au Cimetière par un effet de carte : vous pouvez Invoquer Spécialement 1 monstre \"Clair de Lune\" (\"Chien de Chasse d'Argent Clair de Lune\" exclu) depuis votre Deck, et si vous le faites, vous ne pouvez pas Invoquer Spécialement (monstres \"Clair de Lune\" exclus) depuis l'Extra Deck tant que vous contrôlez le monstre face recto.\r\nLorsqu'une Carte Magie/Piège ou effet de Magie/Piège est activé sur le Terrain (Effet Rapide) : vous pouvez bannir depuis votre Cimetière, cette carte et 1 Monstre Fusion \"Clair de Lune\" ; annulez l'activation.\r\nVous ne pouvez utiliser chaque effet de \"Chien de Chasse d'Argent Clair de Lune\" qu'une fois par tour.",
     "overallString": "[Monstre|Effet] Bête-Guerrier/Ténébres  [★3] 1400/400",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301006.jpg?version=11.20"
   },
   {
     "name": "Ligre Danseur Clair de Lune",
-    "desc": "\"Lion Danseur Clair de Lune\" + 3 monstres \"Clair de Lune\"\r\nUniquement Invocable par Fusion avec les Matériels Fusion ci-dessus.\r\n①：Non affectée par des effets de carte (cartes \"Clair de Lune\" exclues)\r\n②：Peut faire une seconde attaque durant chaque Battle Phase.\r\n③：Une fois par tour (Effet Rapide) : vous pouvez envoyer 1 monstre \"Clair de Lune\" depuis votre Extra Deck au Cimetière ; détruisez tous les monstres Invoqués Spécialement de l'adversaire.",
+    "desc": "\"Lion Danseur Clair de Lune\" + 3 monstres \"Clair de Lune\"\r\nUniquement Invocable par Fusion avec les Matériels Fusion ci-dessus.\r\nNon affectée par des effets de carte (cartes \"Clair de Lune\" exclues)\r\nPeut faire une seconde attaque durant chaque Battle Phase.\r\nUne fois par tour (Effet Rapide) : vous pouvez envoyer 1 monstre \"Clair de Lune\" depuis votre Extra Deck au Cimetière ; détruisez tous les monstres Invoqués Spécialement de l'adversaire.",
     "overallString": "[Monstre|Effet|Fusion] Bête-Guerrier/Ténébres  [★12] 3800/3500",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301030.jpg?version=11.20"
   },
   {
     "name": "Danseuse au Parfum Clair de Lune",
-    "desc": "2 monstres \"Clair de Lune\"\r\n①：Si cette carte est Invoquée par Fusion : vous pouvez ajouter 1 \"Parfum de Clair-de-Lune\" depuis votre Deck à votre main.\r\n②：Vous pouvez cibler 1 autre carte \"Clair de Lune\" que vous contrôlez ; renvoyez-la à la main/Extra Deck, puis vous pouvez Invoquer Spécialement 1 monstre \"Clair de Lune\" depuis votre main.\r\n③：Vous pouvez bannir cette carte depuis votre Cimetière ; ce tour, les monstres contrôlés par votre adversaire perdent une ATK égale à leur propre DEF d'origine.\r\nVous ne pouvez utiliser les effets ①②③ de \"Danseuse au Parfum Clair de Lune\" qu'une fois par tour.",
+    "desc": "2 monstres \"Clair de Lune\"\r\nSi cette carte est Invoquée par Fusion : vous pouvez ajouter 1 \"Parfum de Clair-de-Lune\" depuis votre Deck à votre main.\r\nVous pouvez cibler 1 autre carte \"Clair de Lune\" que vous contrôlez ; renvoyez-la à la main/Extra Deck, puis vous pouvez Invoquer Spécialement 1 monstre \"Clair de Lune\" depuis votre main.\r\nVous pouvez bannir cette carte depuis votre Cimetière ; ce tour, les monstres contrôlés par votre adversaire perdent une ATK égale à leur propre DEF d'origine.\r\nVous ne pouvez utiliser chaque effet de \"Danseuse au Parfum Clair de Lune\" qu'une fois par tour.",
     "overallString": "[Monstre|Effet|Fusion] Bête-Guerrier/Ténébres  [★6] 2000/1500",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301031.jpg?version=11.20"
   },
   {
     "name": "Mascarade Clair de Lune",
-    "desc": "(Remarque : temporairement indisponible)\r\n\r\n①：Durant votre Main Phase, si cette carte a été activée ce tour : vous pouvez envoyer 1 monstre \"Clair de Lune\" depuis votre Deck au Cimetière.\r\n②：Si vous Invoquez par Fusion un monstre \"Clair de Lune\" : vous pouvez ajouter 1 \"Polymérisation\" depuis votre Cimetière ou bannissement à votre main, puis vous pouvez défausser 1 carte, et si vous le faites, une fois ce tour, si vous Invoquez par Fusion un monstre \"Clair de Lune\", vous pouvez aussi bannir des monstres dans votre Cimetière comme Matériel.\r\nVous ne pouvez utiliser chaque effet de \"Mascarade Clair de Lune\" qu'une fois par tour.",
+    "desc": "Durant votre Main Phase, si cette carte a été activée ce tour : vous pouvez envoyer 1 monstre \"Clair de Lune\" depuis votre Deck au Cimetière.\r\nSi vous Invoquez par Fusion un monstre \"Clair de Lune\" : vous pouvez ajouter 1 \"Polymérisation\" depuis votre Cimetière ou bannissement à votre main, puis vous pouvez défausser 1 carte, et si vous le faites, une fois ce tour, si vous Invoquez par Fusion un monstre \"Clair de Lune\", vous pouvez aussi bannir des monstres dans votre Cimetière comme Matériel.\r\nVous ne pouvez utiliser chaque effet de \"Mascarade Clair de Lune\" qu'une fois par tour.",
     "overallString": "[Magie|Continu]",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301053.jpg?version=11.20"
   },
   {
     "name": "Âme du Vainqueur Sainte Sue",
-    "desc": "①：Durant la Main Phase (Effet Rapide) : vous pouvez révéler 1 autre monstre \"Âme du Vainqueur\" dans votre main ; Invoquez Spécialement cette carte depuis votre main.\r\n②：(Effet Rapide) : vous pouvez activer 1 de ces effets, en révélant des monstres dans votre main avec les Attributs listés ;\r\n● TERRE et TÉNÈBRES : Prenez le contrôle d'1 monstre contrôlé par votre adversaire avec la plus faible ATK (en cas d'égalité, vous choisissez) jusqu'à la End Phase.\r\n● FEU et TÉNÈBRES : Invoquez Spécialement 1 monstre \"Âme du Vainqueur\" non-Psychique depuis votre Deck.\r\nVous ne pouvez utiliser chaque effet de \"Âme du Vainqueur Sainte Sue\" qu'une fois par tour, et ne pouvez en activer que max. 1 dans la même Chaîne.",
+    "desc": "Durant la Main Phase (Effet Rapide) : vous pouvez révéler 1 autre monstre \"Âme du Vainqueur\" dans votre main ; Invoquez Spécialement cette carte depuis votre main.\r\n(Effet Rapide) : vous pouvez activer 1 de ces effets, en révélant des monstres dans votre main avec les Attributs listés ;\r\n● TERRE et TÉNÈBRES : Prenez le contrôle d'1 monstre contrôlé par votre adversaire avec la plus faible ATK (en cas d'égalité, vous choisissez) jusqu'à la End Phase.\r\n● FEU et TÉNÈBRES : Invoquez Spécialement 1 monstre \"Âme du Vainqueur\" non-Psychique depuis votre Deck.\r\nVous ne pouvez utiliser chaque effet de \"Âme du Vainqueur Sainte Sue\" qu'une fois par tour, et ne pouvez en activer que max. 1 dans la même Chaîne.",
     "overallString": "[Monstre|Effet] Psychique/Terre  [★5] 500/2200",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301022.jpg?version=11.20"
   },
   {
     "name": "Chef de Nouvelles",
-    "desc": "←0 【Effet Pendule】 0→\r\n①：Durant votre Main Phase, si cette carte a été activée ce tour : vous pouvez ajouter 1 carte \"Nouvelles\" (Monstres Pendule exclus) depuis votre Deck à votre main.\r\n②：Si un ou plusieurs monstres sont Invoqués Spécialement sur le Terrain de votre adversaire (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte.\r\nVous ne pouvez utiliser les effets ①② de \"Chef de Nouvelles\" qu'une fois par tour.\r\n【Effet de Monstre】\r\nVous ne pouvez pas activer les effets ①② de \"Chef de Nouvelles\" dans la même Chaîne.\r\n①：Une fois par tour (Effet Rapide) : vous pouvez cibler 1 Monstre à Effet sur le Terrain ; augmentez son Niveau de max. 3.\r\n②：Une fois par tour, si votre adversaire Invoque Spécialement un ou plusieurs monstres (sauf durant la Damage Step) : vous pouvez bannir 1 Magie Rituelle \"Recette\" depuis votre main, Deck, ou Cimetière ; appliquez l'effet d'activation de la carte qui Invoque Rituellement un monstre.\r\n③：Si cette carte sur le Terrain est Sacrifiée et ajoutée à l'Extra Deck face recto : vous pouvez placer cette carte dans votre Zone Pendule.",
+    "desc": "Échelle Pendule = 0\r\nDurant votre Main Phase, si cette carte a été activée ce tour : vous pouvez ajouter 1 carte \"Nouvelles\" (Monstres Pendule exclus) depuis votre Deck à votre main.\r\nSi un ou plusieurs monstres sont Invoqués Spécialement sur le Terrain de votre adversaire (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte.\r\nVous ne pouvez utiliser chaque effet de \"Chef de Nouvelles\" qu'une fois par tour.\r\n----------------------------------------\r\n[Effet de Monstre]\r\nSi cette carte sur le Terrain est Sacrifiée et ajoutée à l'Extra Deck face recto : vous pouvez placer cette carte dans votre Zone Pendule.\r\nVous ne pouvez pas activer les effets suivants de \"Chef de Nouvelles\" dans la même Chaîne.\r\nUne fois par tour (Effet Rapide) : vous pouvez cibler 1 Monstre à Effet sur le Terrain ; augmentez son Niveau de max. 3.\r\nUne fois par tour, si votre adversaire Invoque Spécialement un ou plusieurs monstres (sauf durant la Damage Step) : vous pouvez bannir 1 Magie Rituelle \"Recette\" depuis votre main, Deck, ou Cimetière ; appliquez l'effet d'activation de la carte qui Invoque Rituellement un monstre.",
     "overallString": "[Monstre|Effet|Pendule] Démon/Lumiére  [★3] 1000/1850  0/0",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301023.jpg?version=11.20"
   },
   {
     "name": "Burger Furieux",
-    "desc": "(Cette carte est toujours traitée comme \"Burger Affamé\".)\r\nVous pouvez Invoquer Rituellement cette carte avec une carte \"Recette\".\r\n①：Vous pouvez révéler cette carte dans votre main ; ajoutez 1 monstre \"Nouvelles\" depuis votre Deck à votre main, et si vous le faites, mélangez cette carte dans le Deck.\r\n②：Les monstres contrôlés par votre adversaire qui peuvent attaquer doivent attaquer cette carte.\r\n③：(Effet Rapide) : vous pouvez Sacrifier 1 monstre en Position d'Attaque sur l'un des Terrains, et si vous le faites, Invoquez Spécialement 1 \"Burger Affamé\" avec 2000 ATK depuis votre main ou Deck.\r\nVous ne pouvez utiliser les effets ①③ de \"Burger Furieux\" qu'une fois par tour.",
+    "desc": "(Cette carte est toujours traitée comme \"Burger Affamé\".)\r\nVous pouvez Invoquer Rituellement cette carte avec une carte \"Recette\".\r\nLes monstres contrôlés par votre adversaire qui peuvent attaquer doivent attaquer cette carte.\r\nVous ne pouvez utiliser chacun des effets suivants de \"Burger Furieux\" qu'une fois par tour.\r\nVous pouvez révéler cette carte dans votre main ; ajoutez 1 monstre \"Nouvelles\" depuis votre Deck à votre main, et si vous le faites, mélangez cette carte dans le Deck.\r\n(Effet Rapide) : vous pouvez Sacrifier 1 monstre en Position d'Attaque sur l'un des Terrains, et si vous le faites, Invoquez Spécialement 1 \"Burger Affamé\" avec 2000 ATK depuis votre main ou Deck.",
     "overallString": "[Monstre|Effet|Rituel] Guerrier/Ténébres  [★6] 2800/1850",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301029.jpg?version=11.20"
   },
@@ -187,19 +187,19 @@
   },
   {
     "name": "Âme du Vainqueur, C'est Parti !",
-    "desc": "①：Vous pouvez cibler 1 monstre \"Âme du Vainqueur\" que vous contrôlez ; ajoutez 1 monstre \"Âme du Vainqueur\" avec un Attribut différent depuis votre Deck à votre main.\r\n②：Si un ou plusieurs monstres \"Âme du Vainqueur\" que vous contrôlez vont être détruits au combat ou par un effet de carte, vous pouvez révéler 1 monstre \"Âme du Vainqueur\" dans votre main à la place.\r\n③：Durant votre End Phase, si vous contrôlez min. 2 monstres \"Âme du Vainqueur\" : vous pouvez Poser 1 Piège \"Âme du Vainqueur\" depuis votre Deck.\r\nVous ne pouvez utiliser les effets ①②③ de \"Âme du Vainqueur, C'est Parti !\" qu'une fois par tour.",
+    "desc": "Vous pouvez cibler 1 monstre \"Âme du Vainqueur\" que vous contrôlez ; ajoutez 1 monstre \"Âme du Vainqueur\" avec un Attribut différent depuis votre Deck à votre main.\r\nSi un ou plusieurs monstres \"Âme du Vainqueur\" que vous contrôlez vont être détruits au combat ou par un effet de carte, vous pouvez révéler 1 monstre \"Âme du Vainqueur\" dans votre main à la place.\r\nDurant votre End Phase, si vous contrôlez min. 2 monstres \"Âme du Vainqueur\" : vous pouvez Poser 1 Piège \"Âme du Vainqueur\" depuis votre Deck.\r\nVous ne pouvez utiliser chaque effet de \"Âme du Vainqueur, C'est Parti !\" qu'une fois par tour.",
     "overallString": "[Magie|Terrain]",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301066.jpg?version=11.20"
   },
   {
     "name": "Livre de Recettes de Nouvelles \"Recettes de Nouvellez\"",
-    "desc": "①：Tant que vous contrôlez une Carte Monstre \"Nouvelles\", tous les monstres face recto contrôlés par votre adversaire sont changés en Position d'Attaque.\r\n②：Chaque fois qu'un ou plusieurs monstres sont Sacrifiés par l'effet d'un Monstre Rituel, votre adversaire paie 850 LP.\r\n③：Une fois par tour, si vous Invoquez Spécialement un ou plusieurs Monstres Rituels (sauf durant la Damage Step) : vous pouvez en cibler 1 ; ajoutez 1 carte \"Recette\" ou \"Nouvelles\" (Magies Continues exclues) depuis votre Deck à votre main, et si vous le faites, augmentez le Niveau du monstre de 1.\r\nVous ne pouvez activer qu'1 \"Livre de Recettes de Nouvelles \"Recettes de Nouvellez\"\" par tour.",
+    "desc": "Tant que vous contrôlez une Carte Monstre \"Nouvelles\", tous les monstres face recto contrôlés par votre adversaire sont changés en Position d'Attaque.\r\nChaque fois qu'un ou plusieurs monstres sont Sacrifiés par l'effet d'un Monstre Rituel, votre adversaire paie 850 LP.\r\nUne fois par tour, si vous Invoquez Spécialement un ou plusieurs Monstres Rituels (sauf durant la Damage Step) : vous pouvez en cibler 1 ; ajoutez 1 carte \"Recette\" ou \"Nouvelles\" (Magies Continues exclues) depuis votre Deck à votre main, et si vous le faites, augmentez le Niveau du monstre de 1.\r\nVous ne pouvez activer qu'1 \"Livre de Recettes de Nouvelles \"Recettes de Nouvellez\"\" par tour.",
     "overallString": "[Magie|Continu]",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301067.jpg?version=11.20"
   },
   {
     "name": "Lienassassin @Ignister",
-    "desc": "①：Si un monstre Cyberse que vous contrôlez va être utilisé comme Matériel Lien pour un Monstre Lien \"@Ignister\", cette carte dans votre main peut aussi être utilisée comme Matériel.\r\n②：Si cette carte est envoyée au Cimetière comme Matériel Lien : vous pouvez défausser 1 carte, puis ciblez 1 Magie/Piège sur le Terrain, ou vous pouvez en cibler 2 si cette carte sur le Terrain a été utilisée comme Matériel ; détruisez les cartes.\r\nVous ne pouvez utiliser chaque effet de \"Lienassassin @Ignister\" qu'une fois par tour.",
+    "desc": "Si un monstre Cyberse que vous contrôlez va être utilisé comme Matériel Lien pour un Monstre Lien \"@Ignister\", cette carte dans votre main peut aussi être utilisée comme Matériel.\r\nSi cette carte est envoyée au Cimetière comme Matériel Lien : vous pouvez défausser 1 carte, puis ciblez 1 Magie/Piège sur le Terrain, ou vous pouvez en cibler 2 si cette carte sur le Terrain a été utilisée comme Matériel ; détruisez les cartes.\r\nVous ne pouvez utiliser chaque effet de \"Lienassassin @Ignister\" qu'une fois par tour.",
     "overallString": "[Monstre|Effet] Cyberse/Ténébres  [★5] 2000/600",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301007.jpg?version=11.20"
   },
@@ -316,6 +316,12 @@
     "desc": "①：Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez Invoquer Spécialement 1 monstre Bête de max. Niveau 4 depuis votre Deck en Position de Défense face verso, puis si cette carte est en Position d'Attaque, changez-la en Position de Défense.\r\n②：Si cette carte est détruite : vous pouvez Invoquer Spécialement 1 monstre \"Koala\" ou 1 \"Loutre des Arbres\" depuis votre Deck, et si vous le faites, appliquez cet effet jusqu'à la fin du prochain tour.\r\n● Les monstres Bête que vous contrôlez (Monstres à Effet exclus) gagnent une ATK égale à leur propre DEF d'origine.\r\nVous ne pouvez utiliser chaque effet de \"Taupe Eucalyptus\" qu'une fois par tour.",
     "overallString": "[Monstre|Effet] Plante/Terre  [★3] 300/1300",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100240003.jpg?version=11.20"
+  },
+  {
+    "name": "Porte des Illusions",
+    "desc": "Payez la moitié de vos LP ; détruisez autant de monstres contrôlés par votre adversaire que possible, puis vous pouvez Invoquer Spécialement 1 monstre depuis le Cimetière de votre adversaire sur votre Terrain, en ignorant ses conditions d'Invocation. Vous ne pouvez appliquer cet effet de \"Porte des Illusions\" qu'une fois par Duel.",
+    "overallString": "[Magie]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100240005.jpg?version=11.20"
   },
   {
     "name": "Morgana la Sorcière des Yeux",
