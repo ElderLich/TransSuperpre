@@ -1,5 +1,29 @@
 [
   {
+    "name": "Pan de Molde",
+    "desc": "Sólo puedes activar 1 \"Pan de Molde\" por turno.\r\n①: Si tienes un monstruo en tu Cementerio: Paga 200 LP; roba 1 carta y muéstrala. Si es un monstruo, aplica este efecto según su Atributo.\r\n● Diferente a los monstruos en tu Cementerio: Roba 1 carta.\r\n● Igual que un monstruo en tu Cementerio: Descarta 1 carta.",
+    "overallString": "[Mágica]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100200272.jpg?version=11.20"
+  },
+  {
+    "name": "HÉROE Elemental Gigante del Trueno - Trueno Voltico",
+    "desc": "【Materiales】:  2 monstruos \"HÉROE Elemental\" con diferentes Atributos\r\nDebe ser Invocada por Fusión. Sólo puedes usar cada efecto ① y ② de \"HÉROE Elemental Gigante del Trueno - Trueno Voltico\" una vez por turno.\r\n①: Si esta carta es Invocada de Modo Especial y tu adversario controla más cartas que tú: puedes destruir todas las demás cartas en el Campo.\r\n②: Puedes Sacrificar esta carta Invocada por Fusión usando un Monstruo Normal como material y luego seleccionar 1 monstruo \"HÉROE Elemental\" en tu Cementerio; Invócalo de Modo Especial.",
+    "overallString": "[Monstruo|Efecto|Fusión] Guerrero/LUZ  [★6] 2400/1500",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100241001.jpg?version=11.20"
+  },
+  {
+    "name": "Dragón Armado con Taladro",
+    "desc": "Sólo puedes usar cada efecto ① y ② de \"Dragón Armado con Taladro\" una vez por turno.\r\n①: Puedes mandar esta carta y otro monstruo de VIENTO de tu mano al Cementerio; por el resto de este turno, todos los monstruos Dragón de VIENTO que controles ganarán 300 ATK.\r\n②: Puedes desterrar cualquier cantidad de monstruos Dragón de Nivel 7 o superior y/o VIENTO de tu Cementerio; añade a tu mano 1 monstruo Dragón de tu Deck con un Nivel igual al número de desterrados, excepto \"Dragón Armado con Taladro\".",
+    "overallString": "[Monstruo|Efecto] Dragón/VIENTO  [★3] 1100/400",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100241002.jpg?version=11.20"
+  },
+  {
+    "name": "Dragón de Agua Ligero",
+    "desc": "(El nombre de esta carta siempre se trata como \"Dragón de Agua\").\r\nSólo puedes usar el efecto de \"Dragón de Agua Ligero\" una vez por turno.\r\n①: Puedes desterrar esta carta que controlas; Invoca de Modo Especial, desde tu Deck en Posición de Defensa, 3 monstruos Dinosaurio de AGUA y/o VIENTO de Nivel 5 o menor, pero sus efectos son negados. Además, no puedes Invocar de Modo Especial desde el Deck Extra por el resto del turno, excepto monstruos Dinosaurio y Serpiente Marina.",
+    "overallString": "[Monstruo|Efecto] Serpiente Marina/AGUA  [★4] 1400/1300",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100241003.jpg?version=11.20"
+  },
+  {
     "name": "¡COPA DESPIERTA! Mocha",
     "desc": "Sólo puedes usar cada uno de los efectos ② y ③ de \"¡COPA DESPIERTA! Mocha\" una vez por turno.\r\n①: Una vez por turno, durante tu End Phase: puedes cambiar esta carta a Posición de Defensa boca abajo.\r\n②: Puedes seleccionar 1 monstruo boca abajo en Posición de Defensa en el Campo; Invoca esta carta de Modo Especial desde tu mano y, si lo haces, cambia ese monstruo a Posición de Ataque.\r\n③: Si esta carta está boca arriba: Puedes seleccionar 1 monstruo boca arriba en el Campo; gana 1000 ATK, pero mándalo al Cementerio durante la End Phase.",
     "overallString": "[Monstruo|Efecto|VOLTEO] Aqua/VIENTO  [★3] 1000/100",
@@ -318,6 +342,12 @@
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100240003.jpg?version=11.20"
   },
   {
+    "name": "Puerta de Ilusión",
+    "desc": "Sólo puedes aplicar el efecto de \"Puerta de Ilusión\" una vez por Duelo.\r\n①: Paga la mitad de tus LP; destruye tantos monstruos que controle tu adversario como puedas. Después, puedes Invocar de Modo Especial un monstruo desde su Cementerio a tu Campo, ignorando sus condiciones de Invocación.",
+    "overallString": "[Mágica]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100240005.jpg?version=11.20"
+  },
+  {
     "name": "Morgana, la Bruja de los Ojos",
     "desc": "(Esta carta siempre se considera una carta \"Morganita\").\r\nSólo puedes usar cada uno de los efectos ② y ③ de \"Morgana, la Bruja de los Ojos\" una vez por turno.\r\n①: Cuando un monstruo del adversario declara un ataque: puedes desterrar 1 Mágica \"Morganita\" de tu Cementerio; niega ese ataque.\r\n②: Si esta carta es Invocada de Modo Normal o Especial: puedes añadir 1 Mágica \"Morganita\" de tu Deck a tu mano.\r\n③: Si tienes 3 o más Mágicas \"Morganita\" con nombres diferentes en tu Cementerio y/o destierro: puedes reducir a 0 el ATK de todos los monstruos boca arriba que controle tu adversario.",
     "overallString": "[Monstruo|Efecto] Lanzador de Conjuros/OSCURIDAD  [★4] 1500/2100",
@@ -427,7 +457,7 @@
   },
   {
     "name": "Caza del Cielo As - Prototipo Amatsu",
-    "desc": "【Material】: 1 Monstruo \"Caza del Cielo As\"\r\nSólo puedes Invocar de Modo Especial a \"Caza del Cielo As - Prototipo Amatsu\" una vez por turno. Sólo puedes usar cada efecto de \"Caza del Cielo As - Prototipo Amatsu\" una vez por turno.\r\n①: Cuando un monstruo de tu adversario con 2000 ATK o más activa su efecto (Efecto Rápidodo): puedes convertir ese efecto en \"Destruye 1 Monstruo de Enlace \"Caza del Cielo As\" que controle tu adversario\".\r\n②: Cuando se declara un ataque que involucra a esta carta y a un monstruo del adversario: puedes seleccionar 1 monstruo \"Caza del Cielo As\" que controles y 1 carta que controle tu adversario; destrúyelos.",
+    "desc": "【Material】: 1 Monstruo \"Caza del Cielo As\"\r\nSólo puedes Invocar de Modo Especial a \"Caza del Cielo As - Prototipo Amatsu\" una vez por turno. Sólo puedes usar cada efecto de \"Caza del Cielo As - Prototipo Amatsu\" una vez por turno.\r\n①: Cuando un monstruo de tu adversario con 2000 ATK o más activa su efecto (Efecto Rápido): puedes convertir ese efecto en \"Destruye 1 Monstruo de Enlace \"Caza del Cielo As\" que controle tu adversario\".\r\n②: Cuando se declara un ataque que involucra a esta carta y a un monstruo del adversario: puedes seleccionar 1 monstruo \"Caza del Cielo As\" que controles y 1 carta que controle tu adversario; destrúyelos.",
     "overallString": "[Monstruo|Efecto|Enlace] Máquina/OSCURIDAD  [LINK-1] 1500/-  [↓]",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100200271.jpg?version=11.20"
   },
