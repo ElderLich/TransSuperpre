@@ -15,7 +15,7 @@ Make sure to install the following before starting:
 
 ## 🌐 Translation Resources
 
- **Primary Source (Chinese):** [SuperPre](https://mycard.world/ygopro/arena/index.html#/superpre)
+- **Primary Source (Chinese):** [SuperPre](https://mycard.world/ygopro/arena/index.html#/superpre)
 - **Primary Source (English):** [YGOrganization](https://ygorganization.com/)
 - **French Source:** [YugiNews](https://yuginews.fr/)
   
