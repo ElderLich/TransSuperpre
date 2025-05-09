@@ -1,5 +1,41 @@
 [
   {
+    "name": "Corbeau du Crépuscule, HÉROS Masqué",
+    "desc": "Si cette carte est dans votre main : vous pouvez bannir 1 monstre \"HÉROS\" depuis votre Cimetière ; Invoquez Spécialement cette carte.\r\nSi cette carte est Invoquée Normalement ou Spécialement : vous pouvez ajouter 1 monstre \"HÉROS Masqué\" (\"Corbeau du Crépuscule, HÉROS Masqué\" exclu) depuis votre Deck ou Cimetière à votre main.\r\nVous ne pouvez utiliser chaque effet de \"Corbeau du Crépuscule, HÉROS Masqué\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet] Guerrier/Ténébres  [★4] 1200/1000",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100242024.jpg?version=11.20"
+  },
+  {
+    "name": "Fournaise, HÉROS Masqué",
+    "desc": "Vous pouvez révéler cette carte dans votre main ; ajoutez 1 \"Changement de Masque\" ou \"Polymérisation\" depuis votre Deck à votre main, puis défaussez 1 carte. Vous ne pouvez pas Invoquer Spécialement (monstres \"HÉROS\" exclus) depuis l'Extra Deck le tour où vous activez cet effet.\r\nSi vous Invoquez Spécialement un ou plusieurs Monstre Fusion \"HÉROS\" non-FEU : vous pouvez Invoquer Spécialement cette carte depuis votre Cimetière (si elle y était lorsque l'Invocation est résolue) ou main (même si elle n'y était pas), mais bannissez-la lorsqu'elle quitte le Terrain.\r\nVous ne pouvez utiliser chaque effet de \"Fournaise, HÉROS Masqué\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet] Guerrier/Feu  [★7] 2200/1000",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100242025.jpg?version=11.20"
+  },
+  {
+    "name": "Atomique, HÉROS Masqué",
+    "desc": "Uniquement Invocable Spécialement avec \"Changement de Masque\".\r\nLa première fois que cette carte va être détruite au combat ou par un effet de carte chaque tour, elle n'est pas détruite.\r\nVous ne pouvez utiliser chacun des effets suivants de \"Atomique, HÉROS Masqué\" qu'une fois par tour.\r\nSi cette carte est Invoquée Spécialement : vous pouvez cibler 1 monstre \"HÉROS Masqué\" non-FEU dans votre Cimetière ou bannissement ; Invoquez-le Spécialement en Position de Défense, en ignorant ses conditions d'Invocation.\r\nDurant votre End Phase : vous pouvez cibler 1 Magie Jeu-Rapide \"Changement\" dans votre Cimetière ; Posez-la.",
+    "overallString": "[Monstre|Effet|Fusion] Guerrier/Feu  [★8] 2600/2000",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100242026.jpg?version=11.20"
+  },
+  {
+    "name": "Magicien Sombre de la Destruction",
+    "desc": "\"Magicien Sombre\" + 1 monstre LUMIÈRE ou TÉNÈBRES\r\nUniquement soit Invocable par Fusion soit Invocable Spécialement (depuis votre Extra Deck) en bannissant 1 monstre TÉNÈBRES Magicien de min. Niveau 6 que vous contrôlez durant le tour où une Carte Magie ou effet de Magie a été activé. Vous ne pouvez Invoquer Spécialement \"Magicien Sombre de la Destruction\" qu'une fois par tour de cette façon, peu importe la méthode que vous utilisez.\r\nSi cette carte est Invoquée Spécialement : vous pouvez ajouter 1 \"Magicien Sombre\" ou 1 carte qui le mentionne depuis votre Deck à votre main.\r\nLe nom de cette carte devient \"Magicien Sombre\" tant qu'elle est sur le Terrain ou dans le Cimetière.",
+    "overallString": "[Monstre|Effet|Fusion] Magicien/Ténébres  [★8] 2800/2600",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100242001.jpg?version=11.20"
+  },
+  {
+    "name": "Timée le Magidragon Uni",
+    "desc": "\"Magicien Sombre\" ou \"Magicienne des Ténèbres\" + 1 monstre Dragon ou Magicien\r\nAprès que cette carte est Invoquée Spécialement, jusqu'à la fin de votre prochain tour, elle n'est pas affectée par les effets d'autres cartes.\r\nVous ne pouvez utiliser chacun des effets suivants de \"Timée le Magidragon Uni\" qu'une fois par tour.\r\nSi cette carte combat, durant le calcul des dommages : vous pouvez faire gagner 100 ATK à cette carte pour chaque Magie dans les Cimetières et bannissements.\r\nDurant le tour de votre adversaire (Effet Rapide) : vous pouvez cibler 1 Magie/Piège sur le Terrain ; détruisez-le.",
+    "overallString": "[Monstre|Effet|Fusion] Dragon/Lumiére  [★10] 2800/1800",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100242002.jpg?version=11.20"
+  },
+  {
+    "name": "Le Regard de Timée",
+    "desc": "Ciblez 1 \"Magicien Sombre\" ou \"Magicienne des Ténèbres\" que vous contrôlez ou dans votre Cimetière ; Invoquez par Fusion 1 Monstre Fusion qui le mentionne comme Matériel depuis votre Extra Deck, en mélangeant le monstre dans le Deck, mais bannissez-le durant la End Phase du prochain tour. (Ceci est traité comme une Invocation Spéciale avec \"L'Œil de Timée\".)\r\nVous ne pouvez activer qu'1 \"Le Regard de Timée\" par tour.",
+    "overallString": "[Magie|Jeu-Rapide]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100242003.jpg?version=11.20"
+  },
+  {
     "name": "Pain de Pioche",
     "desc": "Si vous avez un monstre dans votre Cimetière : payez 200 LP ; piochez 1 carte et montrez-la, puis si c'est un monstre, appliquez cet effet selon son Attribut.\r\n● Différent des monstres dans votre Cimetière : Piochez 1 carte.\r\n● Le même qu'un monstre dans votre Cimetière : Défaussez 1 carte.\r\nVous ne pouvez activer qu'1 \"Pain de Pioche\" par tour.",
     "overallString": "[Magie]",

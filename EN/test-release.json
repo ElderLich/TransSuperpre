@@ -1,5 +1,41 @@
 [
   {
+    "name": "Masked HERO Dusk Crow",
+    "desc": "You can only use the ① and ② effect of this card's name each once per turn.\r\n①：If this card is in your hand: You can banish 1 \"HERO\" monster from your GY; Special Summon this card.\r\n②：If this card is Normal or Special Summoned: You can add 1 \"Masked HERO\" monster from your Deck or GY to your hand, except \"Masked HERO Dusk Crow\".",
+    "overallString": "[Monster|Effect] Warrior/Dark  [★4] 1200/1000",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100242024.jpg?version=11.20"
+  },
+  {
+    "name": "Masked HERO Furnace",
+    "desc": "You can only use the ① and ② effect of this card's name each once per turn.\r\n①：You can reveal this card in your hand; add 1 \"Mask Change\" or \"Polymerization\" from your Deck to your hand, then discard 1 card. You cannot Special Summon from the Extra Deck the turn you activate this effect, except \"HERO\" monsters.\r\n②：If you Special Summon a non-FIRE \"HERO\" Fusion Monster(s): You can Special Summon this card from your GY (if it was there when the monster was Summoned) or hand (even if not), but banish it when it leaves the field.",
+    "overallString": "[Monster|Effect] Warrior/Fire  [★7] 2200/1000",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100242025.jpg?version=11.20"
+  },
+  {
+    "name": "Masked HERO Atomic",
+    "desc": "Must be Special Summoned with \"Mask Change\". You can only use the ① and ③ effect of this card's name each once per turn.\r\n①：If this card is Special Summoned: You can target 1 non-FIRE \"Masked HERO\" monster in your GY or banishment; Special Summon it in Defense Position, ignoring its Summoning conditions.\r\n②：The first time this card would be destroyed by battle or card effect each turn, it is not destroyed.\r\n③：During your End Phase: You can target 1 \"Change\" Quick-Play Spell in your GY; Set it.",
+    "overallString": "[Monster|Effect|Fusion] Warrior/Fire  [★8] 2600/2000",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100242026.jpg?version=11.20"
+  },
+  {
+    "name": "Dark Magician of Destruction",
+    "desc": "\"Dark Magician\" + 1 LIGHT or DARK monster\r\nMust be either Fusion Summoned, or Special Summoned (from your Extra Deck) by banishing 1 Level 6 or higher DARK Spellcaster monster you control during the turn a Spell Card or effect was previously activated. You can only Special Summon \"Dark Magician of Destruction\" once per turn this way, no matter which method you use.\r\n①：This card's name becomes \"Dark Magician\" while face-up on the field or in the GY.\r\n②：If this card is Special Summoned: You can add 1 \"Dark Magician\" or 1 card that mentions it from your Deck to your hand.",
+    "overallString": "[Monster|Effect|Fusion] Spellcaster/Dark  [★8] 2800/2600",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100242001.jpg?version=11.20"
+  },
+  {
+    "name": "Timaeus the United Magidragon",
+    "desc": "\"Dark Magician\" or \"Dark Magician Girl\" + 1 Dragon or Spellcaster monster\r\nYou can only use the ② and ③ effect of this card's name each once per turn.\r\n①：After this card is Special Summoned, until the end of your next turn, it is unaffected by other cards' effects.\r\n②：If this card battles, during damage calculation: You can make it gain 100 ATK for each Spell in the GYs and banishment.\r\n③：During your opponent's turn (Quick Effect): You can target 1 Spell/Trap on the field; destroy it.",
+    "overallString": "[Monster|Effect|Fusion] Dragon/Light  [★10] 2800/1800",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100242002.jpg?version=11.20"
+  },
+  {
+    "name": "The Gaze of Timaeus",
+    "desc": "You can only activate 1 card with this card's name per turn.\r\n①：Target 1 \"Dark Magician\" or \"Dark Magician Girl\" you control or in your GY; Fusion Summon 1 Fusion Monster from your Extra Deck that mentions it as material, by shuffling that monster into the Deck, but banish it during the End Phase of the next turn. (This is treated as a Special Summon with \"The Eye of Timaeus\".)",
+    "overallString": "[Spell|Quick-Play]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100242003.jpg?version=11.20"
+  },
+  {
     "name": "Drawbread",
     "desc": "You can only activate 1 card with this card's name per turn.\r\n①：If you have a monster in your GY: Pay 200 LP; draw 1 card and reveal it, then, if it is a monster, apply this effect based on its Attribute.\r\n● Different from the monsters in your GY: Draw 1 card.\r\n● Same as a monster in your GY: Discard 1 card.",
     "overallString": "[Spell]",
