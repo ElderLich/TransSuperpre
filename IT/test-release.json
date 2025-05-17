@@ -91,25 +91,25 @@
   },
   {
     "name": "Panpescato",
-    "desc": "Se hai un mostro nel tuo Cimitero: paga 200 LP; pesca 1 carta e rivelala, poi, se è un mostro, applica questo effetto in base al suo Attributo.\r\n● Diverso dai mostri nel tuo Cimitero: pesca 1 carta.\r\n● Uguale a un mostro nel tuo Cimitero: scarta 1 carta.\r\nPuoi attivare \"Panpescato\" una sola volta per turno.",
+    "desc": "Se hai un mostro nel tuo Cimitero: paga 200 LP; pesca 1 carta e rivelala, poi, se è un mostro, applica questo effetto in base al suo Attributo.\r\n● Diverso dai mostri nel tuo Cimitero: pesca 1 carta.\r\n● Uguale a un mostro nel tuo Cimitero: scarta 1 carta.\r\nPuoi attivare solo 1 \"Panpescato\" per turno.",
     "overallString": "[Magia]",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100200272.jpg?version=11.20"
   },
   {
     "name": "Gigante del Tuono EROE Elementale –  Fulmine Voltico",
-    "desc": "2 mostri \"Elemental HERO\" con Attributi diversi\r\nDeve essere Evocato tramite Fusione.\r\nPuoi utilizzare solo 1 dei seguenti effetti di \"Gigante del Tuono EROE Elementale –  Fulmine Voltico\" per turno, e solo una volta in quel turno.\r\nSe questa carta viene Evocata Specialmente e il tuo avversario controlla più carte di te: puoi distruggere tutte le altre carte sul Terreno.\r\nPuoi offrire come Tributo questa carta Evocata tramite Fusione utilizzando un Mostro Normale come Materiale, poi scegliere come bersaglio 1 mostro \"Eroe Elementale\" nel tuo Cimitero; Evocalo Specialmente.",
+    "desc": "2 mostri \"Elemental HERO\" con Attributi diversi\r\nDeve essere Evocato tramite Fusione.\r\nSe questa carta viene Evocata Specialmente e il tuo avversario controlla più carte di te: puoi distruggere tutte le altre carte sul Terreno.\r\nPuoi offrire come Tributo questa carta Evocata tramite Fusione utilizzando un Mostro Normale come Materiale, poi scegliere come bersaglio 1 mostro \"Eroe Elementale\" nel tuo Cimitero; Evocalo Specialmente.\r\nPuoi utilizzare ogni effetto di \"Gigante del Tuono EROE Elementale –  Fulmine Voltico\" una sola volta per turno.",
     "overallString": "[Mostro|Effetto|Fusione] Guerriero/Luce  [★6] 2400/1500",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100241001.jpg?version=11.20"
   },
   {
     "name": "Drago Armato Trapano",
-    "desc": "Puoi mandare questa carta e 1 altro mostro VENTO dalla tua mano al Cimitero; per il resto di questo turno, tutti i mostri Drago VENTO che controlli guadagnano 300 ATK.\r\nPuoi bandire un qualsiasi numero di mostri Drago che sono di Livello 7 o superiore e/o VENTO dal tuo Cimitero; aggiungi 1 mostro Drago dal tuo Deck alla tua mano con Livello pari al numero di carte bandite, eccetto \"Drago Armato Trapano\".\r\nPuoi utilizzare ciascun effetto di \"Drago Armato Trapano\" una sola volta per turno.",
+    "desc": "Puoi mandare questa carta e 1 altro mostro VENTO dalla tua mano al Cimitero; per il resto di questo turno, tutti i mostri Drago VENTO che controlli guadagnano 300 ATK.\r\nPuoi bandire un qualsiasi numero di mostri Drago dal tuo cimitero, che sono di Livello 7 o superiore e/o VENTO; aggiungi 1 mostro Drago dal tuo Deck alla tua mano con Livello pari al numero di carte bandite, eccetto \"Drago Armato Trapano\".\r\nPuoi utilizzare ciascun effetto di \"Drago Armato Trapano\" una sola volta per turno.",
     "overallString": "[Mostro|Effetto] Drago/Vento  [★3] 1100/400",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100241002.jpg?version=11.20"
   },
   {
     "name": "Drago Acquatico Luminoso",
-    "desc": "(Questa carta viene sempre considerata come \"Drago Acquatico\".)\r\nPuoi bandire questa carta che controlli; Evoca Specialmente 3 mostri Dinosauro e/o Serpente Marino ACQUA e/o VENTO di Livello 5 o inferiore dal tuo Deck in Posizione di Difesa, ma i loro effetti sono annullati, inoltre non puoi Evocare Specialmente dall'Extra Deck per il resto di questo turno, eccetto mostri Dinosauro e Serpente Marino.\r\nPuoi utilizzare questo effetto di \"Drago Acquatico Luminoso\" una sola volta per turno.",
+    "desc": "(Questa carta viene sempre considerata come \"Drago Acquatico\".)\r\nPuoi bandire questa carta che controlli; Evoca Specialmente 3 mostri ACQUA e/o VENTO, Dinosauro di Livello 5 o inferiore dal tuo Deck in Posizione di Difesa, ma i loro effetti sono annullati, inoltre non puoi Evocare Specialmente dall'Extra Deck per il resto di questo turno, eccetto mostri Dinosauro e Serpente Marino.\r\nPuoi utilizzare questo effetto di \"Drago Acquatico Luminoso\" una sola volta per turno.",
     "overallString": "[Mostro|Effetto] Serpente Marino/Acqua  [★4] 1400/1300",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100241003.jpg?version=11.20"
   },
@@ -241,7 +241,7 @@
   },
   {
     "name": "Unione dell'Anima",
-    "desc": "Scegli come bersaglio 1 mostro scoperto sul Terreno e 1 mostro \"EROE Elementale\" nel tuo Cimitero; quel mostro sul Terreno guadagna ATK pari all'ATK dell'altro mostro (fino alla fine di questo turno), poi, se hai un mostro Normale \"EROE Elementale\" sul tuo Terreno e/o nel tuo Cimitero, puoi Evocare tramite Fusione 1 Mostro Fusione \"EROE Elementale\" dal tuo Extra Deck, bandendo i suoi Materiali dal tuo Cimitero.\r\nPuoi attivare solo 1 \"Unione dell'Anima\" per turno. ",
+    "desc": "Scegli come bersaglio 1 mostro scoperto sul Terreno e 1 mostro \"EROE Elementale\" nel tuo Cimitero; quel mostro sul Terreno guadagna ATK pari all'ATK dell'altro mostro nel cimitero (fino alla fine di questo turno), poi, se hai un mostro Normale \"EROE Elementale\" sul tuo Terreno e/o nel tuo Cimitero, puoi Evocare tramite Fusione 1 Mostro Fusione \"EROE Elementale\" dal tuo Extra Deck, bandendo i suoi Materiali dal tuo Cimitero.\r\nPuoi attivare solo 1 \"Unione dell'Anima\" per turno. ",
     "overallString": "[Trappola]",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100240010.jpg?version=11.20"
   },
@@ -373,7 +373,7 @@
   },
   {
     "name": "Luce Prima",
-    "desc": "Puoi utilizzare solo 1 dei seguenti effetti di \"Luce Prima\" per turno, e solo una volta in quel turno.\r\nAttiva 1 di questi effetti:\r\n● Offri come Tributo 1 mostro Guerriero TERRA, poi Evoca Specialmente 1 mostro Guerriero LUCE dalla tua mano o dal tuo Deck. \r\n● Durante la tua Main Phase: immediatamente dopo la risoluzione di questo effetto, Evoca Normalmente 1 mostro Guerriero dalla tua mano.\r\nDurante la tua Main Phase: puoi bandire questa carta dal tuo Cimitero; aggiungi 1 mostro Guerriero o Fata \"Cyber\" dal tuo Deck alla tua mano.",
+    "desc": "Attiva 1 di questi effetti:\r\n● Offri come Tributo 1 mostro Guerriero TERRA, e, se lo fai, Evoca Specialmente 1 mostro Guerriero LUCE dalla tua mano o dal tuo Deck. \r\n● Durante la tua Main Phase: immediatamente dopo la risoluzione di questo effetto, Evoca Normalmente 1 mostro Guerriero dalla tua mano.\r\nDurante la tua Main Phase: puoi bandire questa carta dal tuo Cimitero; aggiungi 1 mostro \"Cyber\" Guerriero o Fata dal tuo Deck alla tua mano.\r\nPuoi utilizzare un solo effetto di \"Luce Prima\" per turno, e solo una volta in quel turno.",
     "overallString": "[Magia|Rapida]",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100240007.jpg?version=11.20"
   },
@@ -391,13 +391,13 @@
   },
   {
     "name": "Guerriero della Conduzione Magnum Lineare ±",
-    "desc": "Non può essere Evocato Normalmente/Posizionato. Deve prima essere Evocato Specialmente (dalla tua mano) mandando 2 mostri \"Guerriero Magnetico\" il cui Livello originale è 4 o inferiore dalla tua mano, Deck e/o Terreno scoperto al Cimitero. Puoi Evocare Specialmente \"Guerriero della Conduzione Magnum Lineare ±\" solo una volta per turno in questo modo. Puoi utilizzare solo 1 dei seguenti effetti di \"Guerriero della Conduzione Magnum Lineare ±\" per turno, e solo una volta in quel turno.\r\nPuoi scegliere come bersaglio 1 altro mostro TERRA sul Terreno; questa carta guadagna ATK pari alla metà di quello del mostro bersaglio fino alla fine di questo turno.\r\nSe questa carta viene distrutta e mandata al Cimitero: aggiungila alla tua mano.",
+    "desc": "Non può essere Evocato Normalmente/Posizionato. Deve prima essere Evocato Specialmente (dalla tua mano) mandando 2 mostri \"Guerriero Magnetico\" il cui Livello originale è 4 o inferiore dalla tua mano, Deck e/o Terreno scoperto al Cimitero. Puoi Evocare Specialmente \"Guerriero della Conduzione Magnum Lineare ±\" solo una volta per turno in questo modo.\r\nPuoi scegliere come bersaglio 1 altro mostro TERRA sul Terreno; questa carta guadagna ATK pari alla metà di quello del mostro bersaglio fino alla fine di questo turno.\r\nSe questa carta viene distrutta e mandata al Cimitero: aggiungila alla tua mano.\r\nPuoi utilizzare ogni effetto di \"Guerriero della Conduzione Magnum Lineare ±\" una sola volta per turno.",
     "overallString": "[Mostro|Effetto|Evocazione Speciale] Roccia/Terra  [★7] 2700/1300",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100240201.jpg?version=11.20"
   },
   {
     "name": "Distillato del Chaos",
-    "desc": "You can only use the ② effect of this card's name once per turn.\r\nQualsiasi carta mandata al Cimitero viene invece bandita.\r\nPuoi attivare 1 dei seguenti effetti:\r\n● Aggiungi 1 \"Macro Cosmo\", o 1 carta che lo menziona, dal tuo Deck alla tua mano, eccetto \"Distillato del Chaos\".\r\n● Se \"Macro Cosmo\" è sul Terreno: bandisci questa carta scoperta dalla tua Zona Magie & Trappole; aggiungi 1 mostro LUCE con ? ATK dal tuo Deck alla tua mano.\r\nPuoi utilizzare questo effetto di \"Distillato del Chaos\" una sola volta per turno",
+    "desc": "Qualsiasi carta mandata al Cimitero viene invece bandita.\r\nPuoi attivare 1 dei seguenti effetti:\r\n● Aggiungi 1 \"Macro Cosmo\", o 1 carta che lo menziona, dal tuo Deck alla tua mano, eccetto \"Distillato del Chaos\".\r\n● Se \"Macro Cosmo\" è sul Terreno: bandisci questa carta scoperta dalla tua Zona Magie & Trappole; aggiungi 1 mostro LUCE con ? ATK dal tuo Deck alla tua mano.\r\nPuoi utilizzare questo effetto di \"Distillato del Chaos\" una sola volta per turno",
     "overallString": "[Magia|Continua]",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100240202.jpg?version=11.20"
   },
@@ -427,13 +427,13 @@
   },
   {
     "name": "Talpa Eucalyptus",
-    "desc": "Puoi utilizzare solo 1 dei seguenti effetti di \"Talpa Eucalyptus\" per turno, e solo una volta in quel turno.\r\nSe questa carta viene Evocata Normalmente o Specialmente: puoi Evocare Specialmente 1 mostro Bestia di Livello 4 o inferiore dal tuo Deck in Posizione di Difesa coperto, poi, se questa carta è in Posizione di Attacco, mettila in Posizione di Difesa.\r\nSe questa carta viene distrutta: puoi Evocare Specialmente 1 mostro \"Koala\" o 1 \"Lontra degli Alberi\" dal tuo Deck, e se lo fai, applica questo effetto fino alla fine del prossimo turno.\r\n● I mostri Bestia non-Effetto che controlli guadagnano ATK pari al loro DEF originale.",
+    "desc": "Se questa carta viene Evocata Normalmente o Specialmente: puoi Evocare Specialmente 1 mostro Bestia di Livello 4 o inferiore dal tuo Deck in Posizione di Difesa coperto, poi, se questa carta è in Posizione di Attacco, mettila in Posizione di Difesa.\r\nSe questa carta viene distrutta: puoi Evocare Specialmente 1 mostro \"Koala\" o 1 \"Lontra degli Alberi\" dal tuo Deck, e se lo fai, applica questo effetto fino alla fine del prossimo turno.\r\n● I mostri Bestia non-Effetto che controlli guadagnano ATK pari al loro DEF originale.\r\nPuoi utilizzare ogni effetto di \"Talpa Eucalyptus\" una sola volta per turno.",
     "overallString": "[Mostro|Effetto] Pianta/Terra  [★3] 300/1300",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100240003.jpg?version=11.20"
   },
   {
     "name": "Cancello dell'Illusione",
-    "desc": "Paga la metà dei tuoi LP; distruggi il maggior numero possibile di mostri controllati dal tuo avversario, poi puoi Evocare Specialmente 1 mostro dal suo Cimitero sul tuo Terreno, ignorando le sue condizioni di Evocazione.\r\nPuoi utilizzare l'effetto di \"Cancello dell'Illusione\" una sola volta per Duello.",
+    "desc": "Paga la metà dei tuoi LP; distruggi il maggior numero possibile di mostri controllati dal tuo avversario, poi puoi Evocare Specialmente 1 mostro dal suo Cimitero sul tuo Terreno, ignorando le sue condizioni di Evocazione.\r\nPuoi applicare l'effetto di \"Cancello dell'Illusione\" una sola volta per Duello.",
     "overallString": "[Magia]",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100240005.jpg?version=11.20"
   },
@@ -576,8 +576,8 @@
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301073.jpg?version=11.20"
   },
   {
-    "name": "Altroverso Stradios",
-    "desc": "Un dio della guerra venuto da un altro universo e che ha superato innumerevoli battaglie.\r\nSe questo prestigio è di tuo desiderio, vieni e prova a conquistarlo.",
+    "name": "Altroverso Stratios",
+    "desc": "Questo dio della guerra dell'altro mondo ha calpestato innumerevoli campi di battaglia sotto i suoi piedi corazzati. Se vuoi la sua gloria, vieni a prenderla!",
     "overallString": "[Mostro|Normale] Guerriero/Terra  [★8] 2500/2000",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100239001.jpg?version=11.20"
   },
@@ -709,7 +709,7 @@
   },
   {
     "name": "Invokato Magistus Omega",
-    "desc": "\"Aleister l'Invocatore\" + 1 Mostro Fusione, Synchro, Xyz o Link\r\nSe questa carta viene Evocata Specialmente: Puoi scegliere come bersaglio 1 Mostro Fusione, Synchro, Xyz o Link nel tuo Cimitero e 1 mostro sul Terreno; bandiscili.\r\nSe questa carta Evocata tramite Fusione viene distrutta in battaglia o dall'effetto di una carta: Puoi Evocare Specialmente 1 mostro Incantatore di Livello 4 dal tuo Deck, poi puoi equipaggiare questa carta a esso come una Carta Magia Equipaggiamento che gli fornisce 1000 ATK.\r\nPuoi utilizzare ciascun effetto di \"Invokato Magistus Omega\" una sola volta per turno.",
+    "desc": "\"Aleister l'Invocatore\" + 1 Mostro Fusione, Synchro, Xyz o Link\r\nSe questa carta viene Evocata Specialmente: Puoi scegliere come bersaglio 1 Mostro Fusione, Synchro, Xyz o Link nel tuo Cimitero e 1 mostro sul Terreno; bandiscili.\r\nSe questa carta Evocata tramite Fusione viene distrutta in battaglia o dall'effetto di una carta: Puoi Evocare Specialmente 1 mostro Incantatore di Livello 4 dal tuo Deck, poi puoi equipaggiare questa carta a esso come una Magia Equipaggiamento, che gli fornisce 1000 ATK.\r\nPuoi utilizzare ciascun effetto di \"Invokato Magistus Omega\" una sola volta per turno.",
     "overallString": "[Mostro|Effetto|Fusione] Bestia/Oscurità  [★8] 2800/2000",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100228002.jpg?version=11.20"
   },
