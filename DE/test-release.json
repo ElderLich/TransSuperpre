@@ -1,5 +1,23 @@
 [
   {
+    "name": "Megalith Phuloch",
+    "desc": "Du kannst diese Karte mit jeder „Megalith“-Karte als Ritualbeschwörung beschwören.\nFalls diese Karte als Ritualbeschwörung beschworen wird: Du kannst deiner Hand 1 „Megalith“-Karte von deinem Friedhof hinzufügen.\nWährend der Main Phase (Schnelleffekt): Du kannst 1 „Megalith“-Ritualmonster als Ritualbeschwörung von deinem Friedhof beschwören, außer „Megalith Phuloch“, indem du Monster von deiner Hand oder Spielfeldseite als Tribut anbietest, darunter diese Karte auf deiner Spielfeldseite, deren gemeinsame Stufe größer oder gleich der Stufe des Ritualmonsters ist.\nDu kannst diesen Effekt von „Megalith Phaleg“ nur einmal pro Spielzug verwenden und du kannst nicht beide Effekte von „Megalith Phuloch“ in derselben Kette aktivieren.",
+    "overallString": "[Monster|Effekt|Ritual] Fels/Erde  [★4] 2000/300",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302033.jpg?version=11.20"
+  },
+  {
+    "name": "Megalith Nortra Phulra",
+    "desc": "Du kannst diese Karte mit jeder „Megalith“-Karte als Ritualbeschwörung beschwören.\nMuss als Ritualbeschwörung beschworen werden, verwende dafür nur Ritualmonster.\nDu kannst diese Karte in deiner Hand vorzeigen; in diesem Spielzug kann dein Gegner als Reaktion auf die Aktivierung deiner „Megalith“-Ritualmonster-Effekte weder Karten noch Effekte aktivieren.\nWenn dein Gegner eine Karte oder einen Effekt aktiviert (Schnelleffekt): Du kannst die Aktivierung annullieren und falls du dies tust, zerstöre die Karte, dann, falls dieser Effekt eine oder mehr Karten auf dem Spielfeld gewählt hatte, kannst du 1 Monster, das dein Gegner kontrolliert, als Tribut anbieten.\nDu kannst jeden Effekt von „Megalith Nortra Phulra“ nur einmal pro Spielzug verwenden.",
+    "overallString": "[Monster|Effekt|Ritual] Fels/Erde  [★12] 3700/2700",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302034.jpg?version=11.20"
+  },
+  {
+    "name": "Megalith Anastasis",
+    "desc": "Du kannst 1 Karte abwerfen; füge deiner Hand 1 „Megalith“-Monster der Stufe 4 oder niedriger und 1 „Megalith“-Monster der Stufe 8 oder höher von deinem Deck hinzu.\nDu kannst diesen Effekt von „Megalith Anastasis“ nur einmal pro Spielzug verwenden.\nEinmal pro Spielzug, falls du ein „Megalith“-Monster als Ritualbeschwörung beschwörst: Du kannst 1 dieser Effekte aktivieren (aber du kannst jeden Effekt von „Megalith Anastasis“ nur einmal pro Spielzug verwenden);\n● Ziehe 2 Karten, dann wirf 1 Karte ab.\n● Biete ein Monster das dein Gegner kontrolliert als Tribut an.",
+    "overallString": "[Zauber|Permanente]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302066.jpg?version=11.20"
+  },
+  {
     "name": "Prunkstürmische Megala",
     "desc": "Falls du „Mystischer Raum-Taifun“ in deinem Friedhof hast oder dein Gegner keine Zauber/Fallen kontrolliert, kannst du diese Karte als Spezialbeschwörung (von deiner Hand) beschwören.\nDu kannst „Prunkstürmisch Megala“ nur einmal pro Spielzug auf diese Art als Spezialbeschwörung beschwören.\nFalls eine „Prunksturm“-/„Prunkstürmisch“-Schnellzauberkarte oder „Mystischer Raum-Taifun“ aktiviert wird: Du kannst 1 „Prunksturm“-/„Prunkstürmisch“-Monster mit einem unterschiedlichen Namen als die Monster, die du kontrollierst als Spezialbeschwörung von deinem Deck beschwören, zusätzlich kannst du für den Rest dieses Spielzugs keine Spezialbeschwörungen durchführen, außer von WIND Monstern.\nDu kannst diesen Effekt von „Prunkstürmisch Megala“ nur einmal pro Spielzug verwenden.",
     "overallString": "[Monster|Effekt] Fee/Wind  [★3] 500/1500",
@@ -109,25 +127,25 @@
   },
   {
     "name": "Nurikabe",
-    "desc": "Falls sich diese Karte in deinem Friedhof befindet, außer im Spielzug, in dem sie dorthin gelegt wurde: Du kannst 1000 LP zahlen und dann 1 anderes Zombie-Monster in deinem Friedhof wählen; beschwöre sowohl es als auch diese Karte als Spezialbeschwörung, aber ihre Effekte werden annulliert, zusätzlich verbanne sie, wenn sie das Spielfeld verlassen.\nDu kannst diesen Effekt von „Nurikabe“ nur einmal pro Spielzug verwenden.",
+    "desc": "Falls sich diese Karte in deinem Friedhof befindet, außer im Spielzug, in dem sie dorthin gelegt wurde: Du kannst 1000 LP zahlen und dann 1 anderes Zombie-Monster in deinem Friedhof wählen; beschwöre sowohl es als auch diese Karte als Spezialbeschwörung, aber ihre Effekte werden annulliert, zusätzlich verbanne sie, wenn sie das Spielfeld verlassen.\nDu kannst den Effekt von „Nurikabe“ nur einmal pro Spielzug verwenden.",
     "overallString": "[Monster|Effekt] Zombie/Erde  [★4] 900/2000",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100200276.jpg?version=11.20"
   },
   {
-    "name": "Amulett der Dunklen Magie",
-    "desc": "Du kannst diese Karte in dem Spielzug aktivieren, in dem sie gesetzt wurde, indem du 1 Hexer-Monster in deiner Hand vorzeigst.\nWenn ein Monstereffekt als Reaktion auf die Aktivierung einer Karte, die \"Dunkler Magier\" erwähnt, oder auf deren Effekt aktiviert wird: Du kannst jenen Effekt annullieren und falls du dies tust, werden für den Rest dieses Spielzugs die aktivierten Effekte von Monstern mit demselben ursprünglichen Namen annulliert.\nFalls du \"Dunkler Magier\" als Spezialbeschwörung beschwörst, solange sich diese Karte in deinem Friedhof befindet: Du kannst 2500 LP zahlen; setze diese Karte.",
+    "name": "Dunkles magisches Amulett",
+    "desc": "Du kannst diese Karte in dem Spielzug aktivieren, in dem sie gesetzt wurde, indem du 1 Hexer-Monster in deiner Hand vorzeigst.\nWenn ein Monstereffekt als Reaktion auf die Aktivierung einer Karte, die „Dunkler Magier“ erwähnt, oder auf deren Effekt aktiviert wird: Du kannst jenen Effekt annullieren und falls du dies tust, werden für den Rest dieses Spielzugs die aktivierten Effekte von Monstern mit demselben Grund-Namen annulliert.\nFalls du „Dunkler Magier“ als Spezialbeschwörung beschwörst, solange sich diese Karte in deinem Friedhof befindet: Du kannst 2500 LP zahlen; setze diese Karte.",
     "overallString": "[Falle]",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100200273.jpg?version=11.20"
   },
   {
-    "name": "Drachischer Krieger",
-    "desc": "Du kannst 1 Karte abwerfen; beschwöre 1 Drache-Monster der Stufe 4 oder niedriger als Spezialbeschwörung von deiner Hand oder deinem Deck, außer „Drachischer Krieger“, aber seine Effekte werden annulliert. Du kannst diesen Effekt von „Drachischer Krieger“ nur einmal pro Spielzug verwenden.",
+    "name": "Drachenkrieger",
+    "desc": "Du kannst 1 Karte abwerfen; beschwöre 1 Drache-Monster der Stufe 4 oder niedriger als Spezialbeschwörung von deiner Hand oder deinem Deck, außer „Drachenkrieger“, aber seine Effekte werden annulliert.\nDu kannst den Effekt von „Drachenkrieger“ nur einmal pro Spielzug verwenden.",
     "overallString": "[Monster|Effekt] Drache/Feuer  [★4] 1500/1000",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100200274.jpg?version=11.20"
   },
   {
     "name": "Einroid",
-    "desc": "Falls diese Karte durch Kampf oder einen Karteneffekt zerstört wird: Du kannst 2 Maschine-Monster der Stufe 4 oder niedriger von deinem Deck auf den Friedhof legen.\nDu kannst diesen Effekt von „Einroid“ nur einmal pro Spielzug verwenden.",
+    "desc": "Falls diese Karte durch Kampf oder einen Karteneffekt zerstört wird: Du kannst 2 Maschine-Monster der Stufe 4 oder niedriger von deinem Deck auf den Friedhof legen.\nDu kannst den Effekt von „Einroid“ nur einmal pro Spielzug verwenden.",
     "overallString": "[Monster|Effekt] Maschine/Erde  [★1] 200/1800",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100200275.jpg?version=11.20"
   },
@@ -282,14 +300,14 @@
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100240205.jpg?version=11.20"
   },
   {
-    "name": "Jungfrau in Liebe",
-    "desc": "Gegnerische  Monster, die diese Karte angreifen können, müssen sie angreifen.\nKann nicht durch Kampf zerstört werden.\nWenn diese Karte gegen ein gegnerisches Monster kämpft, kannst du am Ende des Damage Step 1 diese Effekte aktivieren;\n● Platziere 1 Jungfrau-Zählmarke auf 1 offen liegendes Monster, das dein Gegner kontrolliert.\n● Übernimm die Kontrolle über 1 gegnerisches Monster mit einer Jungfrau-Zählmarke.",
+    "name": "Verliebte Jungfrau",
+    "desc": "Gegnerische  Monster, die diese Karte angreifen können, müssen sie angreifen.\nKann nicht durch Kampf zerstört werden.\nFalls diese Karte gegen ein Monster deines Gegners kämpft, am Ende des Damage Steps: Du kannst 1 diese Effekte aktivieren;\n● Platziere 1 Jungfrau-Zählmarke auf 1 offenes Monster, das dein Gegner kontrolliert.\n● Übernimm die Kontrolle über 1 Monster eines Gegners mit einer Jungfrau-Zählmarke.",
     "overallString": "[Monster|Effekt] Hexer/Licht  [★2] 400/300",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100240001.jpg?version=11.20"
   },
   {
     "name": "Eukalyptus-Maulwurf",
-    "desc": "Wenn diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 Stufe-4 oder niedrigeres Monster vom Typ Ungeheuer aus deinem Deck spezialbeschwören (Effekte werden negiert). Wenn diese Karte im Angriffsmodus ist, ändere sie in Verteidigungsmodus.\nWenn diese Karte zerstört wird: Du kannst 1 \"Koala\"-Monster oder 1 \"Baumotter\" aus deinem Deck spezialbeschwören. Während du diese Effekte bis zum Ende des nächsten Spielzugs anwendest:\n● Nicht-Effekt-Ungeheuer-Monster, die du kontrollierst, erhalten ATK in Höhe ihrer eigenen ursprünglichen DEF.\nDu kannst jeden Effekt von „Eukalyptus-Maulwurf“ nur einmal pro Spielzug verwenden.",
+    "desc": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 Ungeheuer-Monster der Stufe 4 oder niedriger als Spezialbeschwörung von deinem Deck in die verdeckte Verteidigungsposition beschwören, dann, falls sich diese Karte in Angriffsposition befindet, ändere sie in die Verteidigungsposition.\nFalls diese Karte zerstört wird: Du kannst 1 „Koala“-Monster oder 1 „Baumotter“ als Spezialbeschwörung von deinem Deck beschwören und falls du dies tust, wende diesen Effekt bis zum Ende des nächsten Spielzugs an.\n● Nichteffekt-Ungeheuer-Monster, die du kontrollierst, erhalten ATK in Höhe ihrer eigenen Grund-DEF.\nDu kannst jeden Effekt von „Eukalyptus-Maulwurf“ nur einmal pro Spielzug verwenden.",
     "overallString": "[Monster|Effekt] Pflanze/Erde  [★3] 300/1300",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100240003.jpg?version=11.20"
   },
