@@ -1,5 +1,41 @@
 [
   {
+    "name": "Buio, Luce dell'Alba",
+    "desc": "I mostri nella tua Zona Mostri Main più a sinistra o più a destra non possono essere distrutti dagli effetti delle carte.\nPuoi utilizzare ognuno dei seguenti effetti di \"Buio, Luce dell'Alba\" una sola volta per turno.\n● Se questa carta è nella tua mano: puoi scegliere come bersaglio 1 Mostro con Effetto Demone che controlli; annulla i suoi effetti e, se lo fai, Evoca Specialmente questa carta.\n● Se questa carta viene mandata al Cimitero: puoi aggiungere 1 \"Ribellione nei Cieli\" dal tuo Deck alla tua mano.",
+    "overallString": "[Mostro|Effetto] Demone/Oscurità  [★3] 0/0",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301081.jpg?version=11.20"
+  },
+  {
+    "name": "Luce, Oscurità del Crepuscolo",
+    "desc": "3 mostri Demone e/o Fata nel tuo Cimitero\r\nI mostri nella tua Zona Mostri Main più a sinistra o più a destra non possono essere distrutti dagli effetti delle carte.\r\nPuoi utilizzare ognuno dei seguenti effetti di \"Luce, Oscurità del Crepuscolo\" una sola volta per turno.\r\n● Puoi scegliere come bersaglio 1 carta controllata dal tuo avversario; manda 1 mostro Demone o Fata dal tuo Deck al Cimitero e, se lo fai, distruggi quella carta.\r\n● Se un'altra carta che controlli viene distrutta da un effetto (eccetto durante il Damage Step): puoi scegliere come bersaglio 1 carta sul Terreno; distruggila.",
+    "overallString": "[Mostro|Effetto|Fusione] Demone/Oscurità  [★8] 3500/3000",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301082.jpg?version=11.20"
+  },
+  {
+    "name": "Ribellione nei Cieli",
+    "desc": "Evoca tramite Fusione 1 Mostro Fusione Demone o Fata dal tuo Extra Deck, mischiando mostri Demone e/o Fata dal tuo Cimitero nel Deck come Materiale.\nSe questa carta è nel tuo Cimitero: puoi mandare 1 mostro Demone o Fata dalla tua mano o Terreno scoperto al Cimitero; aggiungi questa carta alla tua mano.\nPuoi utilizzare ogni effetto di \"Ribellione nei Cieli\" una sola volta per turno.",
+    "overallString": "[Magia]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301083.jpg?version=11.20"
+  },
+  {
+    "name": "Sacrificio a Corde d'Acciaio",
+    "desc": "Se questa carta è nella tua mano o Cimitero: puoi rivelare 1 mostro di Livello 5 o superiore nella tua mano, poi attivare 1 di questi effetti (puoi utilizzare ogni effetto di \"Sacrificio a Corde d'Acciaio\" una sola volta per turno); durante la End Phase di questo turno, perdi 1000 LP se non hai Evocato Normalmente il mostro rivelato, o un mostro con lo stesso nome originale, dopo aver attivato questo effetto.\r\n● Evoca Specialmente questa carta dalla tua mano.\r\n● Aggiungi questa carta dal tuo Cimitero alla tua mano.\r\n● Bandisci questa carta dal tuo Cimitero e, se lo fai, aggiungi 1 mostro di Livello 5 o superiore dal tuo Cimitero alla tua mano.",
+    "overallString": "[Mostro|Effetto] Guerriero/Luce  [★1] 800/1000",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301087.jpg?version=11.20"
+  },
+  {
+    "name": "Strato Xyz",
+    "desc": "Il mostro equipaggiato guadagna 200 ATK per ogni Materiale Xyz sul Terreno.\nUna volta per turno: puoi attivare il seguente effetto, in base al Tipo di Carta del mostro equipaggiato;\n● Xyz: stacca 2 materiali da uno o più mostri che controlli; Posiziona 1 Magia/Trappola \"Xyz\" dal tuo Deck.\n● Altro: Evoca Specialmente 1 mostro con lo stesso Livello del mostro equipaggiato dalla tua mano in Posizione di Difesa, ma i suoi effetti sono annullati.\nPuoi attivare solo 1 \"Strato Xyz\" per turno.",
+    "overallString": "[Magia|Equipaggiamento]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301088.jpg?version=11.20"
+  },
+  {
+    "name": "Omnidevastatore Psichico",
+    "desc": "1 Tuner + 1+ mostri non-Tuner Psichici\nOgni volta che il tuo avversario attiva una carta o un effetto sul Terreno (eccetto durante il Damage Step): puoi pagare 2000 LP e dichiarare 1 Tipo di Carta (Mostro, Magia o Trappola) (puoi dichiarare ogni Tipo di Carta solo una volta per turno per attivare questo effetto di \"Omnidevastatore Psichico\"); guarda 1 carta a caso nella mano del tuo avversario, e se è del Tipo dichiarato, applica questi effetti in sequenza (salta quelli non applicabili).\n● Questa carta non può essere distrutta dagli effetti del Tipo dichiarato in questo turno.\n● Bandisci la carta guardata, scoperta, fino alla End Phase.",
+    "overallString": "[Mostro|Effetto|Synchro] Psichico/Vento  [★7] 2500/2000",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301089.jpg?version=11.20"
+  },
+  {
     "name": "Corvo Miracoloso",
     "desc": "Valore Pendulum = 0\r\n[Effetto Pendulum]\r\nUna volta per turno, durante la tua Main Phase: puoi Evocare tramite Rituale questa carta, offrendo come Tributo mostri dalla tua mano o Terreno il cui Livello totale sia pari o superiore a 1.\r\n----------------------------------------\r\n[Effetto di un Mostro]\r\nPuoi Evocare tramite Rituale questa carta con \"Corvo Miracoloso\". Deve essere Evocata tramite Rituale. Questa carta Evocata tramite Rituale non è influenzata dagli effetti attivati del tuo avversario. Se Evochi tramite Rituale esattamente 1 Mostro Rituale con un effetto che richiede l'uso di mostri: puoi considerare questa carta che controlli come l'intero Tributo. Se questa carta viene offerta come Tributo per un'Evocazione tramite Rituale: puoi aggiungere 1 Mostro Rituale dal tuo Deck alla tua mano.\r\nPuoi utilizzare questo effetto di \"Corvo Miracoloso\" una sola volta per turno.",
     "overallString": "[Mostro|Effetto|Rituale|Pendulum] Demone/Oscurità  [★1] 300/300  0/0",
@@ -8,7 +44,7 @@
   {
     "name": "ASHLAN U1000",
     "desc": "2 mostri con Tipo e Attributo differenti\r\nSe un Mostro Rituale a cui questa carta punta attacca un mostro in Posizione di Difesa: infliggi danno da combattimento perforante al tuo avversario.\r\nPuoi utilizzare ciascuno dei seguenti effetti di \"ASHLAN U100\" una sola volta per turno.\r\n● Puoi rivelare 1 Mostro Rituale nella tua mano; aggiungi 1 Mostro Rituale con Tipo e Attributo differenti dal tuo Deck alla tua mano.\r\n● Se effettui un'Evocazione tramite Rituale (eccetto durante il Damage Step): puoi scegliere come bersaglio 1 carta scoperta controllata dal tuo avversario; falla ritornare nella mano.",
-    "overallString": "[Mostro|Link] Cyberso/Luce  [LINK-2] 1400/-  [↙][↘]",
+    "overallString": "[Mostro|Effetto|Link] Cyberso/Luce  [LINK-2] 1400/-  [↙][↘]",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301085.jpg?version=11.20"
   },
   {
@@ -25,7 +61,7 @@
   },
   {
     "name": "R.B. Ga10 Tagliente",
-    "desc": "Se non controlli mostri scoperti, o se i soli mostri scoperti che controlli sono mostri \"R.B.\": puoi Evocare Specialmente questa carta (dalla tua mano). Puoi Evocare Specialmente \"R.B. Ga10 Tagliente\" una sola volta per turno in questo modo.\nQuando viene attivata una Carta Magia/Trappola o un suo effetto del tuo avversario, e questa carta è collegata a un Mostro Link \"R.B.\" (Effetto Rapido): puoi pagare 700 LP; distruggi questa carta e, se lo fai, nega quell'effetto e, se lo fai, distruggi quella carta.\nPuoi utilizzare questo effetto di \"R.B. Ga10 Tagliente\" una sola volta per turno.",
+    "desc": "Se non controlli mostri scoperti, o se i soli mostri scoperti che controlli sono mostri \"R.B.\": puoi Evocare Specialmente questa carta (dalla tua mano). Puoi Evocare Specialmente \"R.B. Ga10 Tagliente\" una sola volta per turno in questo modo.\nQuando viene attivata una Carta Magia/Trappola o un suo effetto del tuo avversario, e questa carta è collegata a un Mostro Link \"R.B.\" (Effetto Rapido): puoi pagare 700 LP; distruggi questa carta e, se lo fai, annulla quell'effetto e, se lo fai, distruggi quella carta.\nPuoi utilizzare questo effetto di \"R.B. Ga10 Tagliente\" una sola volta per turno.",
     "overallString": "[Mostro|Effetto] Macchina/Terra  [★4] 700/700",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301091.jpg?version=11.20"
   },
@@ -61,13 +97,13 @@
   },
   {
     "name": "Solfeggia Solfaccordo",
-    "desc": "Valore Pendulum = 9\r\n[Effetto Pendulum]\r\nQuando un effetto di un mostro attivato sul Terreno dal tuo avversario viene risolto, se controlli un mostro \"GranSolfaccordo\": puoi negare quell'effetto, poi distruggi questa carta.\r\nPuoi utilizzare questo effetto di \"Solfeggia Solfaccordo\" una sola volta per turno.\r\n----------------------------------------\r\n[Effetto di un Mostro]\r\nSe non controlli mostri, o controlli solo mostri \"Solfaccordo\": puoi Evocare Specialmente questa carta dalla tua mano.\r\n(Quando attivi l'effetto seguente, puoi offrire anche questa carta come Tributo.) Durante la tua Main Phase: puoi Evocare Specialmente 1 mostro \"Solfaccordo\" dalla tua mano, eccetto \"Solfaccordo Solfeggia\", oppure, se hai offerto come Tributo questa carta al momento dell'attivazione, puoi invece Evocare Specialmente quel mostro dal tuo Cimitero o Extra Deck scoperto.\r\nPuoi utilizzare ciascun effetto di \"Solfeggia Solfaccordo\" una sola volta per turno.",
+    "desc": "Valore Pendulum = 9\r\n[Effetto Pendulum]\r\nQuando un effetto di un mostro attivato sul Terreno dal tuo avversario viene risolto, se controlli un mostro \"GranSolfaccordo\": puoi annullare quell'effetto, poi distruggi questa carta.\r\nPuoi utilizzare questo effetto di \"Solfeggia Solfaccordo\" una sola volta per turno.\r\n----------------------------------------\r\n[Effetto di un Mostro]\r\nSe non controlli mostri, o controlli solo mostri \"Solfaccordo\": puoi Evocare Specialmente questa carta dalla tua mano.\r\n(Quando attivi l'effetto seguente, puoi offrire anche questa carta come Tributo.) Durante la tua Main Phase: puoi Evocare Specialmente 1 mostro \"Solfaccordo\" dalla tua mano, eccetto \"Solfaccordo Solfeggia\", oppure, se hai offerto come Tributo questa carta al momento dell'attivazione, puoi invece Evocare Specialmente quel mostro dal tuo Cimitero o Extra Deck scoperto.\r\nPuoi utilizzare ciascun effetto di \"Solfeggia Solfaccordo\" una sola volta per turno.",
     "overallString": "[Mostro|Effetto|Pendulum] Fata/Luce  [★2] 400/400  9/9",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302020.jpg?version=11.20"
   },
   {
     "name": "Primoria Solfaccordo",
-    "desc": "Valore Pendulum = 9\r\n[Effetto Pendulum]\r\nQuando uno o più mostri vengono Evocati tramite Pendulum: puoi scegliere come bersaglio 1 carta \"Solfaccordo\" nella tua Zona Pendulum; aggiungila alla mano.\r\n----------------------------------------\r\n[Effetto di un Mostro]\r\nMentre hai carte \"Solfaccordo\" con Valori Pendulum pari e dispari nelle tue Zone Pendulum, gli effetti delle tue carte negati.\r\nPuoi utilizzare ciascuno dei seguenti effetti di \"Primoria Solfaccordo\" una sola volta per turno.\r\nSe questa carta viene Evocata Normalmente o Specialmente: puoi aggiungere 1 carta \"Solfaccordo\" dal tuo Deck alla tua mano, eccetto \"Solfaccordo Primoria\".\r\nSe Evochi tramite Link un mostro \"Solfaccordo\": puoi aggiungere 1 carta \"Solfaccordo\" dal tuo Cimitero o Extra Deck scoperta alla tua mano.",
+    "desc": "Valore Pendulum = 9\r\n[Effetto Pendulum]\r\nQuando uno o più mostri vengono Evocati tramite Pendulum: puoi scegliere come bersaglio 1 carta \"Solfaccordo\" nella tua Zona Pendulum; aggiungila alla mano.\r\n----------------------------------------\r\n[Effetto di un Mostro]\r\nMentre hai carte \"Solfaccordo\" con Valori Pendulum pari e dispari nelle tue Zone Pendulum, gli effetti attivati delle tue carte \"Solfaccordo\" non possono essere annullati.\r\nPuoi utilizzare ciascuno dei seguenti effetti di \"Primoria Solfaccordo\" una sola volta per turno.\r\nSe questa carta viene Evocata Normalmente o Specialmente: puoi aggiungere 1 carta \"Solfaccordo\" dal tuo Deck alla tua mano, eccetto \"Solfaccordo Primoria\".\r\nSe Evochi tramite Link un mostro \"Solfaccordo\": puoi aggiungere 1 carta \"Solfaccordo\" dal tuo Cimitero o Extra Deck scoperta alla tua mano.",
     "overallString": "[Mostro|Effetto|Pendulum] Fata/Terra  [★1] 0/400  0/0",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302021.jpg?version=11.20"
   },
@@ -121,7 +157,7 @@
   },
   {
     "name": "Valrune Bellezza Vortice Magnifitempesta",
-    "desc": "Se viene attivata una Magia Rapida: puoi Evocare Specialmente questa carta dalla tua mano.\r\nQuando il tuo avversario attiva l'effetto di un mostro e hai \"Tifone Spaziale Mistico\" nel tuo Cimitero (Effetto Rapido): puoi negare quell'effetto, poi, se hai 2 o più \"Tifone Spaziale Mistico\" nel tuo Cimitero, puoi distruggere quel mostro.\r\nSe \"Tifone Spaziale Mistico\" viene attivato mentre questa carta è nel tuo Cimitero: puoi Evocare Specialmente questa carta.\r\nPuoi utilizzare ogni effetto di \"Valrune Bellezza Vortice Magnifitempesta\" una sola volta per turno.",
+    "desc": "Se viene attivata una Magia Rapida: puoi Evocare Specialmente questa carta dalla tua mano.\r\nQuando il tuo avversario attiva l'effetto di un mostro e hai \"Tifone Spaziale Mistico\" nel tuo Cimitero (Effetto Rapido): puoi annullare quell'effetto, poi, se hai 2 o più \"Tifone Spaziale Mistico\" nel tuo Cimitero, puoi distruggere quel mostro.\r\nSe \"Tifone Spaziale Mistico\" viene attivato mentre questa carta è nel tuo Cimitero: puoi Evocare Specialmente questa carta.\r\nPuoi utilizzare ogni effetto di \"Valrune Bellezza Vortice Magnifitempesta\" una sola volta per turno.",
     "overallString": "[Mostro|Effetto] Acqua/Vento  [★9] 0/3000",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302016.jpg?version=11.20"
   },
@@ -151,7 +187,7 @@
   },
   {
     "name": "Magnifitempestante Tirannia Sovrana",
-    "desc": "Una volta per turno: puoi scegliere come bersaglio 3 Magie Rapide nel tuo Cimitero, inclusa 1 carta \"Magnitempesta\"; applica i seguenti effetti, in ordine.\n● Mischiale nel Deck, poi pesca 1 carta.\n● I mostri VENTO che controlli guadagnano 300 ATK/DEF fino alla fine di questo turno.\nUna volta per Catena, quando \"Tifone Spaziale Mistico\" viene attivata: puoi scegliere come bersaglio 1 carta scoperta controllata dal tuo avversario; nega i suoi effetti.\nSe questa carta viene distrutta dall'effetto di \"Tifone Spaziale Mistico\": puoi Posizionare questa carta.",
+    "desc": "Una volta per turno: puoi scegliere come bersaglio 3 Magie Rapide nel tuo Cimitero, inclusa 1 carta \"Magnitempesta\"; applica i seguenti effetti, in ordine.\n● Mischiale nel Deck, poi pesca 1 carta.\n● I mostri VENTO che controlli guadagnano 300 ATK/DEF fino alla fine di questo turno.\nUna volta per Catena, quando \"Tifone Spaziale Mistico\" viene attivata: puoi scegliere come bersaglio 1 carta scoperta controllata dal tuo avversario; annulla i suoi effetti.\nSe questa carta viene distrutta dall'effetto di \"Tifone Spaziale Mistico\": puoi Posizionare questa carta.",
     "overallString": "[Trappola|Continua]",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302076.jpg?version=11.20"
   },
@@ -205,7 +241,7 @@
   },
   {
     "name": "Nurikabe",
-    "desc": "Se questa carta è nel tuo Cimitero, eccetto il turno in cui è stata mandata lì: puoi pagare 1000 LP, poi scegliere come bersaglio 1 altro mostro Zombie nel tuo Cimitero; Evoca Specialmente sia quel mostro che questa carta, ma i loro effetti sono negati, inoltre bandiscili quando lasciano il campo. Puoi usare questo effetto di \"Nurikabe\" solo una volta per turno.",
+    "desc": "Se questa carta è nel tuo Cimitero, eccetto il turno in cui è stata mandata lì: puoi pagare 1000 LP, poi scegliere come bersaglio 1 altro mostro Zombie nel tuo Cimitero; Evoca Specialmente sia quel mostro che questa carta, ma i loro effetti sono annullati, inoltre bandiscili quando lasciano il campo. Puoi usare questo effetto di \"Nurikabe\" solo una volta per turno.",
     "overallString": "[Mostro|Effetto] Zombie/Terra  [★4] 900/2000",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100200276.jpg?version=11.20"
   },
@@ -247,7 +283,7 @@
   },
   {
     "name": "D/D/D/D Re Supremo delle Dimensioni Crisi di Arc",
-    "desc": "Valore Pendulum = 13\r\n[Effetto Pendulum]\r\nPuoi scegliere un qualsiasi numero di carte \"Contratto Oscuro\" che controlli; distruggile, poi Evoca Specialmente fino a quel numero di Mostri Pendulum \"Re del Giudizio\" dal tuo Deck e/o Extra Deck.\r\nPuoi utilizzare l'effetto Pendulum di \"Re Supremo delle Dimensioni Crisi di Arc\" una sola volta per turno.\r\n----------------------------------------\r\n[Effetto di un Mostro]\r\n4 Mostri Demone (1 Fusione, 1 Synchro, 1 Xyz, 1 Pendulum)\r\nQuesta carta nel tuo Extra Deck può essere Evocata tramite Fusione oppure Evocata Specialmente bandendo i mostri richiesti dal tuo Terreno e/o Cimitero. Puoi Evocare Specialmente \"Re Supremo delle Dimensioni Crisi di Arc\" solo una volta per turno in questo modo, indipendentemente dal metodo.\r\nSe questa carta viene Evocata Specialmente: puoi negare gli effetti di tutti i mostri scoperti controllati attualmente dal tuo avversario.\r\nPuò attaccare tutti i mostri controllati dal tuo avversario una volta ciascuno.\r\nSe questa carta nella Zona Mostri viene distrutta: puoi mettere questa carta nella tua Zona Pendulum.\r\n",
+    "desc": "Valore Pendulum = 13\r\n[Effetto Pendulum]\r\nPuoi scegliere un qualsiasi numero di carte \"Contratto Oscuro\" che controlli; distruggile, poi Evoca Specialmente fino a quel numero di Mostri Pendulum \"Re del Giudizio\" dal tuo Deck e/o Extra Deck.\r\nPuoi utilizzare l'effetto Pendulum di \"Re Supremo delle Dimensioni Crisi di Arc\" una sola volta per turno.\r\n----------------------------------------\r\n[Effetto di un Mostro]\r\n4 Mostri Demone (1 Fusione, 1 Synchro, 1 Xyz, 1 Pendulum)\r\nQuesta carta nel tuo Extra Deck può essere Evocata tramite Fusione oppure Evocata Specialmente bandendo le carte sopra indicate dal tuo Terreno e/o Cimitero. Puoi Evocare Specialmente \"Re Supremo delle Dimensioni Crisi di Arc\" solo una volta per turno in questo modo, indipendentemente dal metodo.\r\nSe questa carta viene Evocata Specialmente: puoi annullare gli effetti di tutti i mostri scoperti controllati attualmente dal tuo avversario.\r\nPuò attaccare tutti i mostri controllati dal tuo avversario una volta ciascuno.\r\nSe questa carta nella Zona Mostri viene distrutta: puoi mettere questa carta nella tua Zona Pendulum.\r\n",
     "overallString": "[Mostro|Effetto|Fusione|Pendulum] Demone/Oscurità  [★12] 4000/4000  13/13",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302204.jpg?version=11.20"
   },
