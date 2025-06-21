@@ -1,5 +1,41 @@
 [
   {
+    "name": "Buio the Dawn's Light",
+    "desc": "Monsters in your leftmost or rightmost Main Monster Zones cannot be destroyed by card effects.\r\nYou can only use each of the following effects of \"Buio the Dawn's Light\" once per turn.\r\nIf this card is in your hand: You can target 1 Fiend Effect Monster you control; negate its effects, and if you do, Special Summon this card.\r\nIf this card is sent to the GY: You can add 1 \"Mutiny in the Sky\" from your Deck to your hand.",
+    "overallString": "[Monster|Effect] Fiend/Dark  [★3] 0/0",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301081.jpg?version=11.20"
+  },
+  {
+    "name": "Luce the Dusk's Dark",
+    "desc": "3 Fiend and/or Fairy monsters in your GY\r\nMonsters in your leftmost or rightmost Main Monster Zones cannot be destroyed by card effects.\r\nYou can only use each of the following effects of \"Luce the Dusk's Dark\" once per turn. You can target 1 card your opponent controls; send 1 Fiend or Fairy monster from your Deck to the GY, and if you do, destroy that card.\r\nIf another card(s) you control is destroyed by card effect (except during the Damage Step): You can target 1 card on the field; destroy it.",
+    "overallString": "[Monster|Effect|Fusion] Fiend/Dark  [★8] 3500/3000",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301082.jpg?version=11.20"
+  },
+  {
+    "name": "Mutiny in the Sky",
+    "desc": "Fusion Summon 1 Fiend or Fairy Fusion Monster from your Extra Deck, by shuffling Fiend and/or Fairy monsters from your GY into the Deck as material.\r\nIf this card is in your GY: You can send 1 Fiend or Fairy monster from your hand or face-up field to the GY; add this card to your hand.\r\nYou can only use each effect of \"Mutiny in the Sky\" once per turn.",
+    "overallString": "[Spell]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301083.jpg?version=11.20"
+  },
+  {
+    "name": "Steel-Stringed Sacrifice",
+    "desc": "If this card is in your hand or GY: You can reveal 1 Level 5 or higher monster in your hand, then activate 1 of these effects (but you can only use each effect of \"Steel-Stringed Sacrifice\" once per turn); during the End Phase of this turn, lose 1000 LP if you did not Normal Summon the revealed monster, or a monster with the same original name, after activating this effect.\r\n● Special Summon this card from your hand.\r\n● Add this card from your GY to your hand.\r\n● Banish this card from your GY, and if you do, add 1 Level 5 or higher monster from your GY to your hand.",
+    "overallString": "[Monster|Effect] Warrior/Light  [★1] 800/1000",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301087.jpg?version=11.20"
+  },
+  {
+    "name": "Xyz Lay",
+    "desc": "The equipped monster gains 200 ATK for each Xyz Material on the field.\r\nOnce per turn: You can activate the following effect, based on the equipped monster's card type;\r\n● Xyz: Detach 2 materials from a monster(s) you control; Set 1 \"Xyz\" Spell/Trap from your Deck.\r\n● Other: Special Summon 1 monster with the same Level as the equipped monster from your hand in Defense Position, but negate its effects.\r\nYou can only activate 1 \"Xyz Lay\" per turn.",
+    "overallString": "[Spell|Equip]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301088.jpg?version=11.20"
+  },
+  {
+    "name": "Psychic Omnibuster",
+    "desc": "1 Tuner + 1+ non-Tuner Psychic monsters\r\nEach time your opponent activates a card or effect on the field (except during the Damage Step): You can pay 2000 LP and declare 1 card type (Monster, Spell, or Trap) (but you can only declare each card type once per turn to activate this effect of \"Psychic Omnibuster); look at 1 random card in your opponent's hand, and if it is the declared card type, apply these effects in sequence (skip over any that do not apply).\r\n● This card cannot be destroyed by the effects of the declared card type this turn.\r\n● Banish the card you looked at, face-up, until the End Phase.",
+    "overallString": "[Monster|Effect|Synchro] Psychic/Wind  [★7] 2500/2000",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301089.jpg?version=11.20"
+  },
+  {
     "name": "Miracle Raven",
     "desc": "Pendulum Scale = 0\r\n[Pendulum Effect]\r\nOnce per turn, during your Main Phase: You can Ritual Summon this card, by Tributing monsters from your hand or field whose total Levels equal or exceed 1.\r\n----------------------------------------\r\n[Monster Effect]\r\nYou can Ritual Summon this card with \"Miracle Raven\". Must be Ritual Summoned.\r\nThis Ritual Summoned card is unaffected by your opponent's activated effects.\r\nIf you Ritual Summon exactly 1 Ritual Monster with a card effect that requires use of monsters, this card you control can be used as the entire Tribute.\r\nIf this card is Tributed for a Ritual Summon: You can add 1 Ritual Monster from your Deck to your hand.\r\nYou can only use this effect of \"Miracle Raven\" once per turn.",
     "overallString": "[Monster|Effect|Ritual|Pendulum] Fiend/Dark  [★1] 300/300  0/0",
@@ -8,7 +44,7 @@
   {
     "name": "ASHLAN U1000",
     "desc": "2 monsters with different Types and Attributes\r\nIf a Ritual Monster this card points to attacks a Defense Position monster, inflict piercing battle damage to your opponent.\r\nYou can only use each of the following effects of \"ASHLAN U1000 once per turn.\r\nYou can reveal 1 Ritual Monster in your hand; add 1 Ritual Monster with a different Type and Attribute from your Deck to your hand.\r\nIf you Ritual Summon (except during the Damage Step): You can target 1 face-up card your opponent controls; return it to the hand. ",
-    "overallString": "[Monster|Link] Cyberse/Light  [LINK-2] 1400/-  [↙][↘]",
+    "overallString": "[Monster|Effect|Link] Cyberse/Light  [LINK-2] 1400/-  [↙][↘]",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301085.jpg?version=11.20"
   },
   {
@@ -43,7 +79,7 @@
   },
   {
     "name": "R.B. The Brute Blues",
-    "desc": "2+ Machine monsters\r\nGains the following effects while this card points to a \"R.B.\" monster.\r\n• Gains ATK equal to the total original ATK of \"R.B.\" monsters it points to.\r\n• Can make a second attack each Battle Phase\r\n• Cannot be destroyed by battle or card effects.\r\nDuring your Main Phase: You can add 1 \"R.B.\" card from your Deck to your hand.\r\nYou can only use this effect of \"R.B. The Brute Blues\" once per turn.",
+    "desc": "2+ Machine monsters\r\nGains the following effects while this card points to a \"R.B.\" monster.\r\n● Gains ATK equal to the total original ATK of \"R.B.\" monsters it points to.\r\n● Can make a second attack each Battle Phase\r\n● Cannot be destroyed by battle or card effects.\r\nDuring your Main Phase: You can add 1 \"R.B.\" card from your Deck to your hand.\r\nYou can only use this effect of \"R.B. The Brute Blues\" once per turn.",
     "overallString": "[Monster|Effect|Link] Machine/Wind  [LINK-3] 1500/-  [↙][↓][↘]",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301094.jpg?version=11.20"
   },

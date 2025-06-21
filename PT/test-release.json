@@ -1,37 +1,73 @@
 [
   {
+    "name": "Buio, Luz da Aurora",
+    "desc": "Os monstros na sua Zona de Monstros Principal mais à esquerda ou mais à direita não podem ser destruídos por efeitos de card.\r\nVocê só pode usar cada um dos seguintes efeitos de \"Buio, Luz da Aurora\" uma vez por turno.\r\nSe este card estiver na sua mão: você pode escolher 1 monstro de Efeito Demônio que você controla; negue seus efeitos e, se isso acontecer, Invoque este card por Invocação-Especial.\r\nSe este card for enviado para o Cemitério: você pode adicionar 1 \"Motim nos Céus\" do seu Deck à sua mão.",
+    "overallString": "[Monstro|Efeito] Demônio/Trevas  [★3] 0/0",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301081.jpg?version=11.20"
+  },
+  {
+    "name": "Luce, Trevas do Crepúsculo",
+    "desc": "3 monstros Demônio e/ou Fada no seu Cemitério\r\nOs monstros na sua Zona de Monstros Principal mais à esquerda ou mais à direita não podem ser destruídos por efeitos de card.\r\nVocê só pode usar cada um dos seguintes efeitos de \"Luce, Trevas do Crepúsculo\" uma vez por turno.\r\nVocê pode escolher 1 card que seu oponente controla; envie 1 monstro Demônio ou Fada do seu Deck para o Cemitério e, se isso acontecer, destrua esse card.\r\nSe outro(s) card(s) que você controla for(em) destruído(s) por efeito de card (exceto durante a Etapa de Dano): você pode escolher 1 card no campo; destrua-o.",
+    "overallString": "[Monstro|Efeito|Fusão] Demônio/Trevas  [★8] 3500/3000",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301082.jpg?version=11.20"
+  },
+  {
+    "name": "Motim nos Céus",
+    "desc": "Invoque por Invocação-Fusão 1 Monstro de Fusão Demônio ou Fada do seu Deck Adicional, embaralhando monstros Demônio e/ou Fada do seu Cemitério no Deck como matéria.\r\nSe este card estiver no seu Cemitério: você pode enviar 1 monstro Demônio ou Fada da sua mão ou do campo com a face para cima para o Cemitério; adicione este card à sua mão.\r\nVocê só pode usar cada efeito de \"Motim nos Céus\" uma vez por turno.",
+    "overallString": "[Magia]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301083.jpg?version=11.20"
+  },
+  {
+    "name": "Sacrifício de Cordas de Aço",
+    "desc": "Se este card estiver na sua mão ou no seu Cemitério: você pode revelar 1 monstro de Nível 5 ou mais na sua mão e, depois, ativar 1 destes efeitos (mas você só pode usar cada efeito de \"Sacrifício de Cordas de Aço\" uma vez por turno); durante a Fase Final deste turno, perca 1000 PV se você não tiver Invocado por Invocação-Normal o monstro revelado, ou um monstro com o mesmo nome original, depois de ativar este efeito.\r\n● Invoque este card por Invocação-Especial da sua mão.\r\n● Adicione este card do seu Cemitério à sua mão.\r\n● Bani este card do seu Cemitério e, se isso acontecer, adicione 1 monstro de Nível 5 ou mais do seu Cemitério à sua mão.",
+    "overallString": "[Monstro|Efeito] Guerreiro/Luz  [★1] 800/1000",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301087.jpg?version=11.20"
+  },
+  {
+    "name": "Colocação Xyz",
+    "desc": "O monstro equipado ganha 200 de ATK para cada Matéria Xyz no campo.\r\nUma vez por turno: você pode ativar o seguinte efeito, de acordo com o tipo de card do monstro equipado;\r\n● Xyz: desanexe 2 matérias de um ou mais monstros que você controla; Baixe 1 Magia/Armadilha \"Xyz\" do seu Deck.\r\n● Outro: Invoque por Invocação-Especial 1 monstro com o mesmo Nível que o monstro equipado da sua mão em Posição de Defesa, mas negue seus efeitos.\r\nVocê só pode ativar 1 \"Colocação Xyz\" por turno.",
+    "overallString": "[Magia|Magia de Equipamento]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301088.jpg?version=11.20"
+  },
+  {
+    "name": "Omnidestruidor Psíquico",
+    "desc": "1 Regulador + 1+ monstros Psíquico não-Reguladores\r\nCada vez que seu oponente ativar um card ou efeito no campo (exceto durante a Etapa de Dano): você pode pagar 2000 PV e declarar 1 tipo de card (Monstro, Magia ou Armadilha) (mas você só pode declarar cada tipo de card uma vez por turno para ativar este efeito de \"Omnidestruidor Psíquico\"); olhe 1 card aleatório na mão do seu oponente e, se ele for do tipo declarado, aplique estes efeitos em sequência (ignore os que não se apliquem).\r\n● Este card não pode ser destruído por efeitos do tipo de card declarado neste turno.\r\n● Bani o card que você viu, com a face para cima, até a Fase Final.",
+    "overallString": "[Monstro|Efeito|Sincro] Psíquico/Vento  [★7] 2500/2000",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301089.jpg?version=11.20"
+  },
+  {
     "name": "Corvo Milagroso",
-    "desc": "Escala de Pêndulo = 0\r\n[Efeito de Pêndulo]\r\nUma vez por turno, durante sua Fase Principal: você pode Invocar este card por Invocação-Ritual, oferecendo monstros da sua mão ou do campo cuja soma dos Níveis seja igual ou superior a 1.\r\n----------------------------------------\r\n[Efeito de Monstro]\r\nVocê pode Invocar este card por Invocação-Ritual com \"Corvo Milagroso\". Deve ser Invocado por Invocação-Ritual.\r\nEste card Invocado por Invocação-Ritual não é afetado pelos efeitos ativados do seu oponente.\r\nSe você Invocar por Invocação-Ritual exatamente 1 Monstro de Ritual com um efeito de card que exija usar monstros, este card que você controla pode ser usado como o Tributo inteiro.\r\nSe este card for oferecido como Tributo para uma Invocação-Ritual: você pode adicionar 1 Monstro de Ritual do seu Deck à sua mão.\r\nVocê só pode usar este efeito de \"Corvo Milagroso\" uma vez por turno.",
+    "desc": "Escala de Pêndulo = 0\n[Efeito de Pêndulo]\nUma vez por turno, durante sua Fase Principal: você pode Invocar este card por Invocação-Ritual, oferecendo monstros da sua mão ou do campo cuja soma dos Níveis seja igual ou superior a 1.\n----------------------------------------\n[Efeito de Monstro]\nVocê pode Invocar este card por Invocação-Ritual com \"Corvo Milagroso\". Deve ser Invocado por Invocação-Ritual.\nEste card Invocado por Invocação-Ritual não é afetado pelos efeitos ativados do seu oponente.\nSe você Invocar por Invocação-Ritual exatamente 1 Monstro de Ritual com um efeito de card que exija usar monstros, este card que você controla pode ser usado como o Tributo inteiro.\nSe este card for oferecido como Tributo para uma Invocação-Ritual: você pode adicionar 1 Monstro de Ritual do seu Deck à sua mão.\nVocê só pode usar este efeito de \"Corvo Milagroso\" uma vez por turno.",
     "overallString": "[Monstro|Efeito|Ritual|Pêndulo] Demônio/Trevas  [★1] 300/300  0/0",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301084.jpg?version=11.20"
   },
   {
     "name": "ASHLAN U1000",
-    "desc": "2 monstros com Tipos e Atributos diferentes\r\nSe um Monstro de Ritual para o qual este card aponta atacar um monstro em Posição de Defesa, cause dano de batalha de perfuração ao seu oponente.\r\nVocê só pode usar cada um dos seguintes efeitos de \"ASHLAN U1000\" uma vez por turno.\r\n● Você pode revelar 1 Monstro de Ritual na sua mão; adicione 1 Monstro de Ritual com Tipo e Atributo diferentes do seu Deck à sua mão.\r\n● Se você realizar uma Invocação-Ritual (exceto durante a Etapa de Dano): você pode escolher 1 card com a face para cima que seu oponente controla; devolva-o à mão.",
-    "overallString": "[Monstro|Link] Ciberso/Luz  [LINK-2] 1400/-  [↙][↘]",
+    "desc": "2 monstros com Tipos e Atributos diferentes\nSe um Monstro de Ritual para o qual este card aponta atacar um monstro em Posição de Defesa, cause dano de batalha de perfuração ao seu oponente.\nVocê só pode usar cada um dos seguintes efeitos de \"ASHLAN U1000\" uma vez por turno.\n● Você pode revelar 1 Monstro de Ritual na sua mão; adicione 1 Monstro de Ritual com Tipo e Atributo diferentes do seu Deck à sua mão.\n● Se você realizar uma Invocação-Ritual (exceto durante a Etapa de Dano): você pode escolher 1 card com a face para cima que seu oponente controla; devolva-o à mão.",
+    "overallString": "[Monstro|Efeito|Link] Ciberso/Luz  [LINK-2] 1400/-  [↙][↘]",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301085.jpg?version=11.20"
   },
   {
     "name": "Preparação dos Ritos",
-    "desc": "Adicione 1 Monstro de Ritual Demônio do seu Deck à sua mão e, depois, se você adicionou um Monstro Pêndulo, você pode Invocar por Invocação-Especial 1 \"Ficha Oferta Sacrificial\" (Demônio/TREVAS/Nível 1/ATK 300/DEF 300).\r\nEnquanto você controlar essa Ficha, você não pode Invocar por Invocação-Especial do Deck Adicional.\r\nQuando o seu Monstro de Ritual causar dano de batalha ao seu oponente: você pode banir este card do seu Cemitério; compre 1 card.\r\nVocê só pode usar cada efeito de \"Preparação dos Ritos\" uma vez por turno.",
+    "desc": "Adicione 1 Monstro de Ritual Demônio do seu Deck à sua mão e, depois, se você adicionou um Monstro Pêndulo, você pode Invocar por Invocação-Especial 1 \"Ficha Oferta Sacrificial\" (Demônio/TREVAS/Nível 1/ATK 300/DEF 300).\nEnquanto você controlar essa Ficha, você não pode Invocar por Invocação-Especial do Deck Adicional.\nQuando o seu Monstro de Ritual causar dano de batalha ao seu oponente: você pode banir este card do seu Cemitério; compre 1 card.\nVocê só pode usar cada efeito de \"Preparação dos Ritos\" uma vez por turno.",
     "overallString": "[Magia]",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301086.jpg?version=11.20"
   },
   {
     "name": "R.B. Ga10 Perfurador",
-    "desc": "Se você não controlar nenhum monstro com a face para cima ou se os únicos monstros com a face para cima que você controla forem monstros \"R.B.\", você pode Invocar este card por Invocação-Especial (da sua mão).\r\nVocê só pode Invocar \"R.B. Ga10 Perfurador\" por Invocação-Especial deste modo uma vez por turno.\r\nDurante a Fase Principal, se este card estiver linkado a um Monstro Link \"R.B.\" (Efeito Rápido): você pode pagar 500 PV e, depois, escolher 1 monstro que seu oponente controla; destrua tanto esse monstro quanto este card.\r\nVocê só pode usar este efeito de \"R.B. Ga10 Perfurador\" uma vez por turno.",
+    "desc": "Se você não controlar nenhum monstro com a face para cima ou se os únicos monstros com a face para cima que você controla forem monstros \"R.B.\", você pode Invocar este card por Invocação-Especial (da sua mão).\nVocê só pode Invocar \"R.B. Ga10 Perfurador\" por Invocação-Especial deste modo uma vez por turno.\nDurante a Fase Principal, se este card estiver linkado a um Monstro Link \"R.B.\" (Efeito Rápido): você pode pagar 500 PV e, depois, escolher 1 monstro que seu oponente controla; destrua tanto esse monstro quanto este card.\nVocê só pode usar este efeito de \"R.B. Ga10 Perfurador\" uma vez por turno.",
     "overallString": "[Monstro|Efeito] Máquina/Terra  [★3] 500/500",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301090.jpg?version=11.20"
   },
   {
     "name": "R.B. Ga10 Cortador",
-    "desc": "Se você não controlar nenhum monstro com a face para cima ou se os únicos monstros com a face para cima que você controla forem monstros \"R.B.\", você pode Invocar este card por Invocação-Especial (da sua mão).\r\nVocê só pode Invocar \"R.B. Ga10 Cortador\" por Invocação-Especial deste modo uma vez por turno.\r\nQuando uma Magia/Armadilha ou efeito do seu oponente for ativado e este card estiver linkado a um Monstro Link \"R.B.\" (Efeito Rápido): você pode pagar 700 PV; destrua este card e, se isso acontecer, negue esse efeito e, se o fizer, destrua esse card.\r\nVocê só pode usar este efeito de \"R.B. Ga10 Cortador\" uma vez por turno.",
+    "desc": "Se você não controlar nenhum monstro com a face para cima ou se os únicos monstros com a face para cima que você controla forem monstros \"R.B.\", você pode Invocar este card por Invocação-Especial (da sua mão).\nVocê só pode Invocar \"R.B. Ga10 Cortador\" por Invocação-Especial deste modo uma vez por turno.\nQuando uma Magia/Armadilha ou efeito do seu oponente for ativado e este card estiver linkado a um Monstro Link \"R.B.\" (Efeito Rápido): você pode pagar 700 PV; destrua este card e, se isso acontecer, negue esse efeito e, se o fizer, destrua esse card.\nVocê só pode usar este efeito de \"R.B. Ga10 Cortador\" uma vez por turno.",
     "overallString": "[Monstro|Efeito] Máquina/Terra  [★4] 700/700",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301091.jpg?version=11.20"
   },
   {
     "name": "R.B. VALCan Foguete",
-    "desc": "Se você não controlar nenhum monstro com a face para cima ou se os únicos monstros com a face para cima que você controla forem monstros \"R.B.\", você pode Invocar este card por Invocação-Especial (da sua mão).\r\nVocê só pode Invocar \"R.B. VALCan Foguete\" por Invocação-Especial deste modo uma vez por turno.\r\nSe este card estiver linkado a um Monstro Link \"R.B.\": você pode pagar 1000 PV e, depois, escolher até 2 cards que seu oponente controla; destrua-os, além deste card, e, se o fizer, cause 500 de dano ao seu oponente para cada card destruído.\r\nVocê só pode usar este efeito de \"R.B. VALCan Foguete\" uma vez por turno.",
+    "desc": "Se você não controlar nenhum monstro com a face para cima ou se os únicos monstros com a face para cima que você controla forem monstros \"R.B.\", você pode Invocar este card por Invocação-Especial (da sua mão).\nVocê só pode Invocar \"R.B. VALCan Foguete\" por Invocação-Especial deste modo uma vez por turno.\nSe este card estiver linkado a um Monstro Link \"R.B.\": você pode pagar 1000 PV e, depois, escolher até 2 cards que seu oponente controla; destrua-os, além deste card, e, se o fizer, cause 500 de dano ao seu oponente para cada card destruído.\nVocê só pode usar este efeito de \"R.B. VALCan Foguete\" uma vez por turno.",
     "overallString": "[Monstro|Efeito] Máquina/Fogo  [★5] 1000/1000",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301092.jpg?version=11.20"
   },
@@ -43,19 +79,19 @@
   },
   {
     "name": "R.B. Blues Brutais",
-    "desc": "2+ monstros Máquina\r\nGanha os seguintes efeitos enquanto este card apontar para um monstro \"R.B.\":\r\n● Ganha ATK igual ao ATK original total dos monstros \"R.B.\" para os quais ele aponta.\r\n● Pode realizar um segundo ataque a cada Fase de Batalha.\r\n● Não pode ser destruído em batalha ou por efeitos de card.\r\nDurante a sua Fase Principal: você pode adicionar 1 card \"R.B.\" do seu Deck à sua mão.\r\nVocê só pode usar este efeito de \"R.B. Blues Brutais\" uma vez por turno.",
+    "desc": "2+ monstros Máquina\nGanha os seguintes efeitos enquanto este card apontar para um monstro \"R.B.\":\n● Ganha ATK igual ao ATK original total dos monstros \"R.B.\" para os quais ele aponta.\n● Pode realizar um segundo ataque a cada Fase de Batalha.\n● Não pode ser destruído em batalha ou por efeitos de card.\nDurante a sua Fase Principal: você pode adicionar 1 card \"R.B.\" do seu Deck à sua mão.\nVocê só pode usar este efeito de \"R.B. Blues Brutais\" uma vez por turno.",
     "overallString": "[Monstro|Efeito|Link] Máquina/Vento  [LINK-3] 1500/-  [↙][↓][↘]",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301094.jpg?version=11.20"
   },
   {
     "name": "R.B. Doca Funk",
-    "desc": "Quando este card for ativado: adicione 1 card \"R.B.\" do seu Deck à sua mão, exceto \"R.B. Doca Funk\".\r\nCada vez que um(s) monstro(s) que seu oponente controla for destruído em batalha ou por efeito de card, ganhe 500 PV.\r\nSe um ou mais monstros \"R.B.\" com a face para cima que você controla deixarem o campo por efeito de card (exceto durante a Etapa de Dano): você pode Invocar por Invocação-Especial 1 monstro \"R.B.\" do seu Deck.\r\nVocê só pode usar este efeito de \"R.B. Doca Funk\" uma vez por turno. Você só pode ativar 1 \"R.B. Doca Funk\" por turno.",
+    "desc": "Quando este card for ativado: adicione 1 card \"R.B.\" do seu Deck à sua mão, exceto \"R.B. Doca Funk\".\nCada vez que um(s) monstro(s) que seu oponente controla for destruído em batalha ou por efeito de card, ganhe 500 PV.\nSe um ou mais monstros \"R.B.\" com a face para cima que você controla deixarem o campo por efeito de card (exceto durante a Etapa de Dano): você pode Invocar por Invocação-Especial 1 monstro \"R.B.\" do seu Deck.\nVocê só pode usar este efeito de \"R.B. Doca Funk\" uma vez por turno. Você só pode ativar 1 \"R.B. Doca Funk\" por turno.",
     "overallString": "[Magia|Magia de Campo]",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301095.jpg?version=11.20"
   },
   {
     "name": "R.B. Pouso de Palco",
-    "desc": "Invoque por Invocação-Especial 1 monstro \"R.B.\" do seu Deck ou Deck Adicional com um nome diferente dos cards que você controla.\r\nSe um monstro \"R.B.\" que você controla seria destruído em batalha ou por efeito de card, você pode banir este card do seu Cemitério em vez disso.\r\nVocê não pode Invocar por Invocação-Especial do Deck Adicional no turno em que ativar este card, exceto monstros Máquina com 1500 ou menos de ATK original.",
+    "desc": "Invoque por Invocação-Especial 1 monstro \"R.B.\" do seu Deck ou Deck Adicional com um nome diferente dos cards que você controla.\nSe um monstro \"R.B.\" que você controla seria destruído em batalha ou por efeito de card, você pode banir este card do seu Cemitério em vez disso.\nVocê não pode Invocar por Invocação-Especial do Deck Adicional no turno em que ativar este card, exceto monstros Máquina com 1500 ou menos de ATK original.",
     "overallString": "[Magia]",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301096.jpg?version=11.20"
   },

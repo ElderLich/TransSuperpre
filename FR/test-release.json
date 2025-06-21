@@ -1,25 +1,61 @@
 [
   {
-    "name": "Corbeau Miracle",
-    "desc": "Échelle Pendule = 0\r\n[Effet Pendule]\r\nUne fois par tour, durant votre Main Phase, vous pouvez Invoquer Rituellement cette carte en Sacrifiant des monstres depuis votre main ou Terrain dont le total des Niveaux est égal ou supérieur à 1.\r\n----------------------------------------\r\n[Effet de Monstre]\r\nVous pouvez invoquer rituellement cette carte avec « Corbeau Miracle ».\r\nCette carte invoquée rituellement n'est pas affectée par les effets activés de votre adversaire.\r\nSi vous invoquez rituellement un monstre rituel avec un effet de carte nécessitant l'utilisation de monstres, cette carte peut être utilisée pour l'ensemble de cette nécessité.\r\nSi cette carte est invoquée pour une invocation rituelle, vous pouvez ajouter un monstre rituel depuis votre main à votre tour.\r\nVous ne pouvez utiliser cet effet de « Corbeau Miracle » ou le tour suivant.",
+    "name": "Buio La Lumière De L'Aube",
+    "desc": "Les monstres dans vos Zones Monstre Main la plus à gauche ou la plus à droite ne peuvent pas être détruits par des effets de carte.\r\nVous ne pouvez utiliser chacun des effets suivants de \"Buio la Lumière de l'Aube\" qu'une fois par tour.\r\nSi cette carte est dans votre main: vous pouvez cibler i Monstre à Effet Démon que vous contrôlez; annulez ses effets, et si vous le faites, Invoquez Spécialement cette carte.\r\nSi cette carte est envoyée au Cimetière: vous pouvez ajouter \"Mutinerie Céleste\" depuis votre Deck à votre main.",
+    "overallString": "[Monstre|Effet] Démon/Ténébres  [★3] 0/0",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301081.jpg?version=11.20"
+  },
+  {
+    "name": "Luce les Ténèbres du Crépuscule",
+    "desc": "3 monstres Démon et/ou Elfe dans votre Cimetière\r\nLes monstres dans vos Zones Monstre Main la plus à gauche ou la plus à droite ne peuvent pas étre détruits par des effets de carte.\r\nVous ne pouvez utiliser chacun des effets suivants de \"Luce les Ténèbres du Crépuscule\" qu'une fois par tour.\r\nVous pouvez cibler i carte contrôlée par votre adversaire; envoyez i monstre Démon ou Elfe depuis votre Deck au Cimetière, et si vous le faites, détruisez la carte.\r\nSi une ou plusieurs autres cartes que vous contrôlez sont détruites par un effet de carte (sauf durant la Damage Step): vous pouvez cibler 1 carte sur le Terrain; détruisez-la.",
+    "overallString": "[Monstre|Effet|Fusion] Démon/Ténébres  [★8] 3500/3000",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301082.jpg?version=11.20"
+  },
+  {
+    "name": "Mutinerie Céleste",
+    "desc": "Invoquez par Fusion 1 Monstre Fusion Démon ou Elfe depuis votre Extra Deck, en mélangeant des monstres Démon et/ou Elfe depuis votre Cimetière dans le Deck comme Matériel.\r\nSi cette carte est dans votre Cimetière : vous pouvez envoyer 1 monstre Démon ou Elfe depuis votre main ou Terrain face recto au Cimetière; ajoutez cette carte à votre main.\r\nVous ne pouvez utiliser chaque effet de \"Mutinerie Céleste\" qu'une fois par tour.",
+    "overallString": "[Magie]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301083.jpg?version=11.20"
+  },
+  {
+    "name": "Sacrifice à Cordes d'Acier",
+    "desc": "Si cette carte est dans votre main ou Cimetière vous pouvez révéler i monstre de min. Niveau 5 dans votre main, puis activez i de ces effets (mais vous ne pouvez utiliser chaque effet de \"Sacrifice à Cordes d'Acier\" qu'une fois par tour); durant la End Phase de ce tour, perdez 1000 LP si vous n'avez pas Invoqué Normalement le monstre révélé ou un monstre du même nom d'origine, après avoir activé cet effet.\r\n● Invoquez Spécialement cette carte depuis votre main.\r\n● Ajoutez cette carte depuis votre Cimetière à votre main.\r\n● Barnissez cette carte depuis votre Cimetière, et si vous le faites, ajoutez i monstre de min. Niveau 5 depuis votre Cimetière à votre.",
+    "overallString": "[Monstre|Effet] Guerrier/Lumiére  [★1] 800/1000",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301087.jpg?version=11.20"
+  },
+  {
+    "name": "Mise Xyz",
+    "desc": "Le monstre équipé gagne 200 ATK pour chaque Matériel Xyz sur le Terrain.\r\nUne fois par tour: vous pouvez activer l'effet suivant, selon le type de carte du monstre équipé;\r\n● Xyz Détachez 2 Matériels d'un ou plusieurs monstres que vous contrôlez; Posez 1 Magie/Piège \"Xyz\" depuis votre Deck.\r\n● Autre: Invoquez Spécialement i monstre du même Niveau que le monstre équipé depuis votre main en Position de Défense, mais annulez ses effets.\r\nVous ne pouvez activer qu'i \"Mise Xyz\" par tour.",
+    "overallString": "[Magie|Équipement]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301088.jpg?version=11.20"
+  },
+  {
+    "name": "Omnidestructeur Psychique",
+    "desc": "1 Syntoniseur monstre non-Syntoniseur Psychique\r\nChaque fois que votre adversaire active une carte ou un effet sur le Terrain (sauf durant la Damage Step): vous pouvez payer 2000 LP, et déclarez I type de carte (Monstre, Magie ou Piège) (mais vous ne pouvez déclarer chaque type de carte qu'une fois par tour pour activer cet effet de 'Omnidestructeur Psychique\"); regardez i carte au hasard dans la main de votre adversaire, et si elle est du type de carte déclaré, appliquez ces effets dans l'ordre (ignorez ceux qui ne s'appliquent pas).\r\n● Ce tour, cette carte ne peut pas être détruite par les effets du type de carte déclaré.\r\n● Jusqu'à la End Phase, bannissez face recto la carte que vous avez regardée.",
+    "overallString": "[Monstre|Effet|Synchro] Psychique/Vent  [★7] 2500/2000",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301089.jpg?version=11.20"
+  },
+  {
+    "name": "Corbeau du Miracle",
+    "desc": "Échelle Pendule = 0\r\n[Effet Pendule]\r\nUne fois par tour, durant votre Main Phase: vous pouvez Invoquer Rituellement cette carte, Sacrifiant des monstres depuis votre main ou Terrain Odont la somme des Niveaux est supérieure ou égale à 1.\r\n----------------------------------------\r\n[Effet de Monstre]\r\nVous pouvez Invoquer Rituellement cette carte avec \"Corbeau du Miracle\". Uniquemen Invocable Rituellement.\r\nCette carte Invoquée Rituellement n'est pas affectée par les effets activés de votre adversaire.\r\nSi vous Invoquez Rituellement exactement i Monstre Rituel avec un effet de carte qui nécessite l'utilisation de monstres, cette carte que vo contrôlez peut être utilisée pour l'ensemble du Sacrifice.\r\nSi cette carte est Sacrifiée po une Invocation Rituelle: vous pouvez ajouter i Monstre Rituel depuis votre Deck à votr main.\r\nVous ne pouvez utiliser cet effet de \"Corbeau du Miracle\" qu'une fois par tour.",
     "overallString": "[Monstre|Effet|Rituel|Pendule] Démon/Ténébres  [★1] 300/300  0/0",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301084.jpg?version=11.20"
   },
   {
     "name": "ASHLAN U1000",
-    "desc": "2 monstres de Types et d'Attributs différents\r\nSi un Monstre Rituel pointé par cette carte attaque un monstre en Position de Défense, infligez des dommages perçants à votre adversaire.\r\nVous ne pouvez utiliser chacun des effets suivants de « ASHLAN U1000 » qu'une fois par tour.\r\nVous pouvez révéler 1 Monstre Rituel de votre main ; ajoutez 1 Monstre Rituel de Type et d'Attribut différents depuis votre Deck à votre main.\r\nSi vous faites une Invocation Rituelle (sauf durant la Damage Step) : vous pouvez cibler 1 carte face recto contrôlée par votre adversaire ; renvoyez-la à la main.",
-    "overallString": "[Monstre|Lien] Cyberse/Lumiére  [LINK-2] 1400/-  [↙][↘]",
+    "desc": "2 monstres de Types et Attributs différents\r\nSi un Monstre Rituel pointé par cette carte attaque un monstre en Position de Défense, infligez des dommages de combat perçants à votre adversaire.\r\nVous ne pouvez utiliser chacun des effets suivants de \"ASHLAN U1000\" qu'une fois par tour. Vous pouvez révéler I Monstre Rituel dans votre main ; ajoutez i Monstre Rituel de Type et Attribut différents depuis votre Deck à votre main.\r\nSi vous Invoquez Rituellement (sauf durant la Damage Step): vous pouvez cibler 1 carte face recto contrôlée par votre adversaire ; renvoyez-la à la maire",
+    "overallString": "[Monstre|Effet|Lien] Cyberse/Lumiére  [LINK-2] 1400/-  [↙][↘]",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301085.jpg?version=11.20"
   },
   {
-    "name": "Élaboration des Rites",
-    "desc": "Ajoutez un Monstre Rituel Démon depuis votre Deck à votre main.\r\nSi vous avez ajouté un Monstre Pendule, vous pouvez Invoquer Spécialement 1 \"Jeton d'Offrande Sacrificielle\" (Démon/TÉNÈBRES/Niveau 1/ATK 300/DEF 300).\r\nTant que vous contrôlez ce Jeton, vous ne pouvez pas l'Invoquer Spectralement depuis l'Extra Deck.\r\nLorsque votre Monstre Rituel inflige des dommages de combat à votre adversaire : vous pouvez bannir cette carte depuis votre Cimetière ; piochez 1 carte.\r\nVous ne pouvez utiliser chaque effet de \"Élaboration des Rites\" qu'une fois par tour.",
+    "name": "Préparatifs des Rites",
+    "desc": "Ajoutez 1 Monstre Rituel Démon depuis votre Deck à votre main, puis si vous avez ajouté un Monstre Pendule, vous pouvez Invoquer Spécialement 1 \"Jeton Offrande Sacrificielle\" (Démon/TÉNÈBRES/Niveau 1/ ATK 300/DEF 300).\r\nTant que vous contrôlez le Jeton, vous ne pouvez pas Invoquer Spécialement depuis l'Extra Deck.\r\nLorsque votre Monstre Rituel inflige des dommages de combat à votre adversaire : vous pouvez bannir cette carte depuis votre Cimetière; piochezi carte.\r\nVous ne pouvez utiliser chaque effet de \"Préparatifs des Rites\" qu'une fois par tour.",
     "overallString": "[Magie]",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301086.jpg?version=11.20"
   },
   {
     "name": "Foreuse Ga10 R.B.",
-    "desc": "Si vous ne contrôlez aucun monstre face recto, ou si les seuls monstres face recto que vous contrôlez sont des monstres \"R.B.\", vous pouvez\r\nInvoquer Spécialement cette carte (depuis votre main).\r\nVous ne pouvez Invoquer Spécialement \"Foreuse Ga10 R.B.\" de cette façon qu'une fois par tour.\r\nDurant la Main Phase, si cette carte est liée à un monstre Lien \"R.B.\" (Effet Rapide) : vous pouvez payer 500 LP, puis cibler 1 monstre contrôlé\r\npar votre adversaire ; détruisez le monstre ciblé ainsi que cette carte.\r\nVous ne pouvez utiliser cet effet de \"R.B. GalO Driller\" qu'une fois par tour.",
+    "desc": "Si vous ne contrôlez aucun monstre face recto, ou que les seuls monstres face recto que vous contrôlez sont des monstres \"R.B.\", vous pouvez Invoquer Spécialement cette carte (depuis votre main).\r\nVous ne pouvez Invoquer Spécialement \"Foreuse Gato R.B.\" qu'une fois par tour de cette façon.\r\nDurant la Main Phase, si cette carte est liée à un Monstre Lien \"R.B.\" (Effet Rapide): vous pouvez payer 500 LP, puis ciblez i monstre contrôlé par votre adversaire; détruisez le monstre ainsi que cette carte.\r\nVous ne pouvez utiliser cet effet de \"Foreuse Gaio R.B.\" qu'une fois par tour.",
     "overallString": "[Monstre|Effet] Machine/Terre  [★3] 500/500",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301090.jpg?version=11.20"
   },
@@ -36,20 +72,20 @@
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301092.jpg?version=11.20"
   },
   {
-    "name": "Booster VALCan R.B.",
-    "desc": "2 Monstres Machine\r\nSi cette carte est Invoquée par Lien : vous pouvez ajouter 1 Magie \"R.B.\" depuis votre Deck à votre main.\r\nSi cette carte est dans la Zone Monstre Extra : vous pouvez Invoquer Spécialement 1 monstre \"R.B.\" depuis votre main ou Cimetière en Position de Défense, puis vous pouvez déplacer\r\ncette carte que vous contrôlez vers une autre de vos Zones Monstre principales, aussi, vous ne pouvez pas Invoquer Spécialement depuis l'Extra Deck le reste de ce tour, sauf des monstres Machine avec 1500 ATK ou moins.\r\nVous ne pouvez utiliser chacun des effets de \"Booster VALCan R.B.\" qu'une fois par tour.",
+    "name": "Propulseur VALCan R.B.",
+    "desc": "2 monstres Machine\r\nSi cette carte est Invoquée par Lien: vous pouvez ajouter 1 Magie \"R.B.\" depuis votre Deck à votre main.\r\nSi cette carte est dans la Zone Monstre Extra: vous pouvez Invoquer Spécialement i monstre \"R.B.\" depuis votre main ou Cimetière en Position de Défense, puis vous pouvez déplacer cette carte que vous contrôlez dans une autre de vos Zones Monstre Main, et aussi, vous ne pouvez pas Invoquer Spécialement (monstres Machine avec max. 1500 ATK exclus) depuis l'Extra Deck le reste de ce tour.\r\nVous ne pouvez utiliser chaque effet de \"Propulseur VALCan R.B.\" qu'une fois par tour.",
     "overallString": "[Monstre|Effet|Lien] Machine/Feu  [LINK-2] 500/-  [↑][↓]",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301093.jpg?version=11.20"
   },
   {
-    "name": "Blues Brut R.B.",
-    "desc": "2+ monstres Machine\r\nGagne les effets suivants tant que cette carte pointe vers un monstre \"R.B.\":\r\n• Gagne une ATK égale au total des ATK d'origine des monstres \"R.B.\"\r\n• Peut effectuer une seconde attaque à chaque Battle Phase\r\nNe peut pas être détruite au combat ou par des effets de carte.\r\nDurant votre Main Phase : vous pouvez ajouter 1 carte \"R.B.\" depuis votre Deck à votre main.\r\nVous ne pouvez utiliser cet effet de \"Blues Brut R.B.\" qu'une fois par tour.",
+    "name": "La Brute du Blues R.B.",
+    "desc": "2 monstres Machine\r\nGagne les effets suivants tant que cette carte pointe un monstre \"R.B.\".\r\n● Gagne une ATK égale à la somme des ATK d'origine des monstres \"R.B.\" qu'elle pointe. ● Peut faire une seconde attaque durant chaque Battle Phase.\r\n● Non destructible ni au combat ni par des effets de carte.\r\nDurant votre Main Phase: vous pouvez ajouter i carte \"R.B.\" depuis votre Deck à votre main. Vous ne pouvez utiliser cet effet de \"La Brute du Blues R.B.\" qu'une fois par tour.",
     "overallString": "[Monstre|Effet|Lien] Machine/Vent  [LINK-3] 1500/-  [↙][↓][↘]",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301094.jpg?version=11.20"
   },
   {
-    "name": "Funk-Dock R.B.",
-    "desc": "Lorsque cette carte est activée : ajoutez 1 carte \"R.B.\" depuis votre Deck à votre main, sauf \"Funk-Dock R.B.\". \r\nChaque fois qu'un ou plusieurs monstres contrôlés par votre adversaire sont détruits au combat ou par un effet de carte, gagnez 500 LP. Si un ou plusieurs monstres \"R.B.\" face recto que vous contrôlez quittent le Terrain à cause d'un effet de carte (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement 1\r\nmonstre \"R.B.\" depuis votre Deck.\r\nVous ne pouvez utiliser cet effet de \"Funk-Dock R.B.\" qu'une fois par tour. Vous ne pouvez activer qu'1 \"Funk-Dock R.B.\" par tour.\r\n",
+    "name": "Amarrage Funky R.B.",
+    "desc": "Lorsque cette carte est activée : ajoutez 1 carte \"R.B.\" (\"Amarrage Funky R.B.\" exclu) depuis votre Deck à votre main.\r\nChaque fois qu'un ou plusieurs monstres contrôlés par votre adversaire sont détruits au combat ou par un effet de carte, gagnez 500 LP.\r\nSi un ou plusieurs monstres \"R.B.\" face recto que vous contrôlez quittent le Terrain par un effet de carte (sauf durant la Damage Step): vous pouvez Invoquer Spécialement i monstre \"R.B.\" depuis votre Deck.\r\nVous ne pouvez utiliser cet effet de \"Amarrage Funky R.B.\" qu'une fois par tour. Vous ne pouvez activer qu'i \"Amarrage Funky R.B.\" par tour.",
     "overallString": "[Magie|Terrain]",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301095.jpg?version=11.20"
   },
