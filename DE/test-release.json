@@ -1,5 +1,11 @@
 [
   {
+    "name": "Infernaler Bestrafer",
+    "desc": "Aktiviere 1 dieser Effekte (aber du kannst jeden Effekt von „Infernaler Bestrafer“ nur einmal pro Spielzug verwenden);\r\n● Füge deiner Hand 1 WASSER Dinosaurier-Monster von deinem Deck hinzu, dann, falls dein Gegner ein Monster kontrolliert, kannst du, das hinzugefügte Monster, als Spezialbeschwörung beschwören.\r\n● Biete 1 Monster als Tribut an; beschwöre 1 FEUER Monster der Stufe 6 oder höher als Spezialbeschwörung von deiner Hand, deinem Deck oder deinem Friedhof, aber falls du durch diesen Effekt ein Nicht-Unterweltler-Monster als Spezialbeschwörung beschworen hast, annulliere seine Effekte.",
+    "overallString": "[Zauber]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302069.jpg?version=15.13"
+  },
+  {
     "name": "Gargardo, der Nekroschmied Unterweltler",
     "desc": "Pendelbereich = 9\r\n[Monstereffekt]\r\nEin in Flammen gehüllter Zauberer, der die Gestalt aller Dinge annimmt. Während er sich vom Vogel zum Menschen und vom Menschen zum Vogel verwandelt, hat er sein wahres Selbst vergessen.",
     "overallString": "[Monster|Normal|Pendel] Unterweltler/Feuer  [★6] 2000/2000  9/9",
@@ -228,34 +234,10 @@
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302056.jpg?version=15.13"
   },
   {
-    "name": "Sanaki die Mikanko-Gläubige",
-    "desc": "Du kannst 1 „Mikanko“-Karte wählen, die du kontrollierst; gib sie auf die Hand zurück.\nFalls ein Spieler dieser Karte eine Ausrüstungskarte anlegt: Du kannst 1 Nicht-Illusion-„Mikanko“-Monster als Spezialbeschwörung von deinem Deck beschwören, zusätzlich kannst du für den Rest dieses Spielzugs keine Monster als Spezialbeschwörung vom Extra Deck beschwören, außer „Mikanko“-Monstern.\nFalls diese Karte auf den Friedhof gelegt wird: Du kannst 1 offenes Monster auf dem Spielfeld wählen; rüste es mit dieser Karte als Ausrüstungszauber aus.\nDu kannst jeden Effekt von „Sanaki die Mikanko-Gläubige“ nur einmal pro Spielzug verwenden.",
-    "overallString": "[Monster|Effekt] Illusion/Erde  [★3] 0/0",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100242057.jpg?version=15.13"
-  },
-  {
-    "name": "Uzuhime, die manifestierte Mikanko",
-    "desc": "2 „Mikanko“-Monster der Stufe 3\nFalls diese Karte als Spezialbeschwörung beschworen wird: Du kannst deiner Hand 1 Ausrüstungszauber von deinem Deck oder Friedhof hinzufügen.\nDu kannst diesen Effekt von „Uzuhime, die manifestierte Mikanko“ nur einmal pro Spielzug verwenden.\nKann nicht durch Kampf zerstört werden, zusätzlich erhält dein Gegner allen Kampfschaden, den du aus Kämpfen mit dieser Karte erhalten würdest.\nFalls diese Karte angreift, am Ende des Damage Steps: Du kannst 1 Material von dieser Karte abhängen; sie kann einen weiteren Angriff in Folge durchführen.",
-    "overallString": "[Monster|Effekt|Xyz] Fee/Licht  [☆3] 0/0",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100242058.jpg?version=15.13"
-  },
-  {
-    "name": "Mikanko-Gottestanz – Futahashira no Uzu no Miko",
-    "desc": "Du kannst für den Rest dieses Spielzugs, nachdem diese Karte aufgelöst wurde, keine Monster als Spezialbeschwörung vom Extra Deck beschwören, außer „Mikanko“-Monstern, zusätzlich sende 1 „Mikanko“-Karte von deinem Deck auf den Friedhof, außer „Mikanko-Gottestanz – Futahashira no Uzu no Miko“, dann kannst du 1 „Mikanko“-Zauber/Falle von deinem Deck setzen, außer „Mikanko-Gottestanz – Futahashira no Uzu no Miko“.\nDu kannst diese Karte von deinem Friedhof verbannen und 1 Material von einem Monster, das du kontrollierst, abhängen; beschwöre 1 „Mikanko“-Ritualmonster als Spezialbeschwörung von deiner Hand oder deinem Deck.\nDu kannst pro Spielzug nur 1 Effekt von „Mikanko-Gottestanz – Futahashira no Uzu no Miko“ aktivieren und nur einmal in jenem Spielzug.",
-    "overallString": "[Zauber]",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100242059.jpg?version=15.13"
-  },
-  {
     "name": "Nurikabe",
     "desc": "Falls sich diese Karte in deinem Friedhof befindet, außer im Spielzug, in dem sie dorthin gelegt wurde: Du kannst 1000 LP zahlen und dann 1 anderes Zombie-Monster in deinem Friedhof wählen; beschwöre sowohl es als auch diese Karte als Spezialbeschwörung, aber ihre Effekte werden annulliert, zusätzlich verbanne sie, wenn sie das Spielfeld verlassen.\nDu kannst den Effekt von „Nurikabe“ nur einmal pro Spielzug verwenden.",
     "overallString": "[Monster|Effekt] Zombie/Erde  [★4] 900/2000",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100200276.jpg?version=15.13"
-  },
-  {
-    "name": "Dunkles magisches Amulett",
-    "desc": "Du kannst diese Karte in dem Spielzug aktivieren, in dem sie gesetzt wurde, indem du 1 Hexer-Monster in deiner Hand vorzeigst.\nWenn ein Monstereffekt als Reaktion auf die Aktivierung einer Karte, die „Dunkler Magier“ erwähnt, oder auf deren Effekt aktiviert wird: Du kannst jenen Effekt annullieren und falls du dies tust, werden für den Rest dieses Spielzugs die aktivierten Effekte von Monstern mit demselben Grund-Namen annulliert.\nFalls du „Dunkler Magier“ als Spezialbeschwörung beschwörst, solange sich diese Karte in deinem Friedhof befindet: Du kannst 2500 LP zahlen; setze diese Karte.",
-    "overallString": "[Falle]",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100200273.jpg?version=15.13"
   },
   {
     "name": "Drachenkrieger",
@@ -322,60 +304,6 @@
     "desc": "Einmal pro Spielzug, während deiner Standby Phase: Füge dir 1000 Schaden zu.\nDu kannst jeden der folgenden Effekte von „Dunkler Vertrag mit der anderen Dimension“ nur einmal pro Spielzug verwenden.\nDu kannst 2 „Dunkler Vertrag“-Karten von deinem Friedhof ins Deck mischen, dann 1 Karte auf dem Spielfeld oder im Friedhof deines Gegners wählen; verbanne sie.\nFalls diese Karte zerstört wird: Du kannst 500 LP erhalten, dann, falls sie durch einen Karteneffekt deines Gegners zerstört wurde, erhältst du weitere 500 LP.",
     "overallString": "[Falle|Permanente]",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302209.jpg?version=15.13"
-  },
-  {
-    "name": "Maskierter HELD Dämmerkrähe",
-    "desc": "Falls sich diese Karte in deiner Hand befindet: Du kannst 1 „HELD“-Monster von deinem Friedhof verbannen; beschwöre diese Karte als Spezialbeschwörung.\nFalls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst deiner Hand 1 „Maskierter HELD“-Monster von deinem Deck oder Friedhof hinzufügen, außer „Maskierter HELD Dämmerkrähe“.\nDu kannst jeden Effekt von „Maskierter HELD Dämmerkrähe“ nur einmal pro Spielzug verwenden.",
-    "overallString": "[Monster|Effekt] Krieger/Finsternis  [★4] 1200/1000",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100242024.jpg?version=15.13"
-  },
-  {
-    "name": "Maskierter HELD Schmelzofen",
-    "desc": "Du kannst diese Karte in deiner Hand vorzeigen; füge deiner Hand 1 „Maskenwechsel“ oder „Polymerisation“ von deinem Deck hinzu, dann wirf 1 Karte ab.\nDu kannst im Spielzug, in dem du diesen Effekt aktivierst, keine Monster als Spezialbeschwörung vom Extra Deck beschwören, außer „HELD“-Monstern.\nFalls du ein nicht-FEUER „HELD“-Fusionsmonster als Spezialbeschwörung beschwörst: Du kannst diese Karte als Spezialbeschwörung beschwören (falls sie sich im Friedhof befand) oder von deiner Hand (falls nicht), aber verbanne sie, wenn sie das Spielfeld verlässt.\nDu kannst jeden Effekt von „Maskierter HELD Schmelzofen“ nur einmal pro Spielzug verwenden.",
-    "overallString": "[Monster|Effekt] Krieger/Feuer  [★7] 2200/1000",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100242025.jpg?version=15.13"
-  },
-  {
-    "name": "Maskierter HELD Atom",
-    "desc": "Muss mit „Maskenwechsel“ als Spezialbeschwörung beschworen werden.\nDas erste Mal, dass diese Karte in jedem Spielzug durch Kampf oder Karteneffekt zerstört würde, wird sie nicht zerstört.\nDu kannst jeden der folgenden Effekte von „Maskierter HELD Atom“ nur einmal pro Spielzug verwenden.\nFalls diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 nicht-FEUER „Maskierter HELD“-Monster in deinem Friedhof oder deiner Verbannung wählen; beschwöre es als Spezialbeschwörung in die Verteidigungsposition, ungeachtet seiner Beschwörungsbedingungen.\nWährend deiner End Phase: Du kannst 1 „Change“-Schnellzauber in deinem Friedhof wählen; setze ihn.",
-    "overallString": "[Monster|Effekt|Fusion] Krieger/Feuer  [★8] 2600/2000",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100242026.jpg?version=15.13"
-  },
-  {
-    "name": "Dunkler Magier der Vernichtung",
-    "desc": "„Dunkler Magier“ + 1 LICHT- oder FINSTERNIS-Monster\nMuss erst als Fusionsbeschwörung beschworen oder als Spezialbeschwörung (vom Extra Deck) beschworen werden, indem du 1 FINSTERNIS Hexer-Monster der Stufe 6 oder höher, das du kontrollierst, verbannst, während in diesem Spielzug eine Zauberkarte oder ihr Effekt aktiviert wurde.\nDu kannst „Dunkler Magier der Vernichtung“ nur einmal pro Spielzug auf diese Weise als Spezialbeschwörung beschwören, ungeachtet der Methode.\nFalls diese Karte als Spezialbeschwörung beschworen wird: Du kannst deiner Hand 1 „Dunkler Magier“ oder 1 Karte, die ihn erwähnt, von deinem Deck hinzufügen.\nDer Name dieser Karte wird zu „Dunkler Magier“, solange sie auf dem Spielfeld oder im Friedhof liegt.",
-    "overallString": "[Monster|Effekt|Fusion] Hexer/Finsternis  [★8] 2800/2600",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100242001.jpg?version=15.13"
-  },
-  {
-    "name": "Timaeus, der Vereinigte Magiedrache",
-    "desc": "„Dunkler Magier“ oder „Dunkles Magier-Mädchen“ + 1 Drache- oder Hexer-Monster\nNachdem diese Karte als Spezialbeschwörung beschworen wurde, bleibt sie bis zum Ende deines nächsten Spielzugs von anderen Karteneffekten unberührt.\nDu kannst jeden der folgenden Effekte von „Timaeus, der Vereinigte Magiedrache“ nur einmal pro Spielzug verwenden.\nFalls diese Karte kämpft, während der Schadensberechnung: Du kannst diese Karte 100 ATK für jede Zauberkarte in den Friedhöfen und der Verbannung erhalten lassen.\nWährend des Spielzugs deines Gegners (Schnelleffekt): Du kannst 1 Zauber/Falle auf dem Spielfeld wählen; zerstöre sie.",
-    "overallString": "[Monster|Effekt|Fusion] Drache/Licht  [★10] 2800/1800",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100242002.jpg?version=15.13"
-  },
-  {
-    "name": "Der Blick des Timaeus",
-    "desc": "Wähle 1 „Dunkler Magier“ oder „Dunkles Magier-Mädchen“, das du kontrollierst oder sich in deinem Friedhof befindet; fusionsbeschwöre 1 Fusionsmonster von deinem Extra Deck, das es als Material erwähnt, indem du jenes Monster in dein Deck zurückmischst, aber verbanne es während der End Phase des nächsten Spielzugs.\n(Diese Beschwörung wird als Spezialbeschwörung mit „Das Auge des Timaeus“ behandelt.)\nDu kannst nur 1 „Der Blick des Timaeus“ pro Spielzug aktivieren.",
-    "overallString": "[Zauber|Schnell]",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100242003.jpg?version=15.13"
-  },
-  {
-    "name": "Elementar-HELD Donnergigant – Voltic Donner",
-    "desc": "2 „Elementar-HELD“-Monster mit unterschiedlichen Attributen\nMuss als Fusionsbeschwörung beschworen werden.\nFalls diese Karte als Spezialbeschwörung beschworen wird und dein Gegner mehr Karten kontrolliert als du: Du kannst alle anderen Karten auf dem Spielfeld zerstören.\nDu kannst diese fusionsbeschworene Karte, für deren Beschwörung ein Normales Monster als Material verwendet wurde, als Tribut anbieten und dann 1 „Elementar-HELD“-Monster in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung.\nDu kannst jeden Effekt von „Elementar-HELD Donnergigant – Voltic Donner“ nur einmal pro Spielzug verwenden.",
-    "overallString": "[Monster|Effekt|Fusion] Krieger/Licht  [★6] 2400/1500",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100241001.jpg?version=15.13"
-  },
-  {
-    "name": "Bohrbewaffneter Drache",
-    "desc": "Du kannst diese Karte und 1 anderes WIND-Monster von deiner Hand auf den Friedhof legen; für den Rest dieses Spielzugs erhalten alle WIND-Drache-Monster, die du kontrollierst, 300 ATK.\nDu kannst eine beliebige Anzahl Drache-Monster der Stufe 7 oder höher und/oder WIND von deinem Friedhof verbannen; füge deiner Hand 1 Drache-Monster von deinem Deck hinzu, dessen Stufe der Anzahl der verbannten Monster entspricht, außer „Bohrbewaffneter Drache“.\nDu kannst jeden Effekt von „Bohrbewaffneter Drache“ nur einmal pro Spielzug verwenden.",
-    "overallString": "[Monster|Effekt] Drache/Wind  [★3] 1100/400",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100241002.jpg?version=15.13"
-  },
-  {
-    "name": "Licht-Wasserdrachen",
-    "desc": "(Der Name dieser Karte wird immer als „Wasserdrachen“ behandelt.)\nDu kannst diese Karte, die du kontrollierst, verbannen; beschwöre 3 Dinosaurier-Monster der Stufe 5 oder niedriger (WASSER und/oder WIND) als Spezialbeschwörung von deinem Deck in die Verteidigungsposition, aber ihre Effekte werden annulliert, zusätzlich kannst du für den Rest dieses Spielzugs keine Monster als Spezialbeschwörung vom Extra Deck beschwören, außer Dinosaurier- und Seeschlangen-Monstern.\nDu kannst diesen Effekt von „Licht-Wasserdrachen“ nur einmal pro Spielzug verwenden.",
-    "overallString": "[Monster|Effekt] Seeschlange/Wasser  [★4] 1400/1300",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100241003.jpg?version=15.13"
   },
   {
     "name": "Seelenvereinigung",

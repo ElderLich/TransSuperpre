@@ -1,434 +1,368 @@
 [
   {
+    "name": "Infernal Punisher",
+    "desc": "①：Activate 1 of these effects (but you can only use each of these effects of this card's name once per turn);\r\n● Add 1 WATER Dinosaur monster from your Deck to your hand, then, if your opponent controls a monster, you can Special Summon the added monster.\r\n● Tribute 1 monster; Special Summon 1 Level 6 or higher FIRE monster from your hand, Deck, or GY, but its effects are negated unless it is Fiend monster.",
+    "overallString": "[Spell]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302069.jpg?version=15.13"
+  },
+  {
+    "name": "Gargardo the Necroforger Fiend",
+    "desc": "Pendulum Scale = 9\r\n[Pendulum Effect]\r\n\r\n----------------------------------------\r\n[Monster Effect]\r\nA bird monster clad in flickering flames, it can shapeshift into all sorts of things. After switching back and forth between human and bird, it has forgotten its original self.",
+    "overallString": "[Monster|Normal|Pendulum] Fiend/Fire  [★6] 2000/2000  9/9",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100238201.jpg?version=15.13"
+  },
+  {
     "name": "Buio the Dawn's Light",
     "desc": "Monsters in your leftmost or rightmost Main Monster Zones cannot be destroyed by card effects.\r\nYou can only use each of the following effects of \"Buio the Dawn's Light\" once per turn.\r\nIf this card is in your hand: You can target 1 Fiend Effect Monster you control; negate its effects, and if you do, Special Summon this card.\r\nIf this card is sent to the GY: You can add 1 \"Mutiny in the Sky\" from your Deck to your hand.",
-    "overallString": "[Monster|Effect] Fiend/Dark  [★3] 0/0",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301081.jpg?version=11.20"
+    "overallString": "[Monster|Effect] Fiend/Dark  [★3] 1000/1500",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301081.jpg?version=15.13"
   },
   {
     "name": "Luce the Dusk's Dark",
     "desc": "3 Fiend and/or Fairy monsters in your GY\r\nMonsters in your leftmost or rightmost Main Monster Zones cannot be destroyed by card effects.\r\nYou can only use each of the following effects of \"Luce the Dusk's Dark\" once per turn. You can target 1 card your opponent controls; send 1 Fiend or Fairy monster from your Deck to the GY, and if you do, destroy that card.\r\nIf another card(s) you control is destroyed by card effect (except during the Damage Step): You can target 1 card on the field; destroy it.",
     "overallString": "[Monster|Effect|Fusion] Fiend/Dark  [★8] 3500/3000",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301082.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301082.jpg?version=15.13"
   },
   {
     "name": "Mutiny in the Sky",
     "desc": "Fusion Summon 1 Fiend or Fairy Fusion Monster from your Extra Deck, by shuffling Fiend and/or Fairy monsters from your GY into the Deck as material.\r\nIf this card is in your GY: You can send 1 Fiend or Fairy monster from your hand or face-up field to the GY; add this card to your hand.\r\nYou can only use each effect of \"Mutiny in the Sky\" once per turn.",
     "overallString": "[Spell]",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301083.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301083.jpg?version=15.13"
   },
   {
     "name": "Steel-Stringed Sacrifice",
     "desc": "If this card is in your hand or GY: You can reveal 1 Level 5 or higher monster in your hand, then activate 1 of these effects (but you can only use each effect of \"Steel-Stringed Sacrifice\" once per turn); during the End Phase of this turn, lose 1000 LP if you did not Normal Summon the revealed monster, or a monster with the same original name, after activating this effect.\r\n● Special Summon this card from your hand.\r\n● Add this card from your GY to your hand.\r\n● Banish this card from your GY, and if you do, add 1 Level 5 or higher monster from your GY to your hand.",
     "overallString": "[Monster|Effect] Warrior/Light  [★1] 800/1000",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301087.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301087.jpg?version=15.13"
   },
   {
     "name": "Xyz Lay",
     "desc": "The equipped monster gains 200 ATK for each Xyz Material on the field.\r\nOnce per turn: You can activate the following effect, based on the equipped monster's card type;\r\n● Xyz: Detach 2 materials from a monster(s) you control; Set 1 \"Xyz\" Spell/Trap from your Deck.\r\n● Other: Special Summon 1 monster with the same Level as the equipped monster from your hand in Defense Position, but negate its effects.\r\nYou can only activate 1 \"Xyz Lay\" per turn.",
     "overallString": "[Spell|Equip]",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301088.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301088.jpg?version=15.13"
   },
   {
     "name": "Psychic Omnibuster",
     "desc": "1 Tuner + 1+ non-Tuner Psychic monsters\r\nEach time your opponent activates a card or effect on the field (except during the Damage Step): You can pay 2000 LP and declare 1 card type (Monster, Spell, or Trap) (but you can only declare each card type once per turn to activate this effect of \"Psychic Omnibuster); look at 1 random card in your opponent's hand, and if it is the declared card type, apply these effects in sequence (skip over any that do not apply).\r\n● This card cannot be destroyed by the effects of the declared card type this turn.\r\n● Banish the card you looked at, face-up, until the End Phase.",
     "overallString": "[Monster|Effect|Synchro] Psychic/Wind  [★7] 2500/2000",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301089.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301089.jpg?version=15.13"
   },
   {
     "name": "Miracle Raven",
     "desc": "Pendulum Scale = 0\r\n[Pendulum Effect]\r\nOnce per turn, during your Main Phase: You can Ritual Summon this card, by Tributing monsters from your hand or field whose total Levels equal or exceed 1.\r\n----------------------------------------\r\n[Monster Effect]\r\nYou can Ritual Summon this card with \"Miracle Raven\". Must be Ritual Summoned.\r\nThis Ritual Summoned card is unaffected by your opponent's activated effects.\r\nIf you Ritual Summon exactly 1 Ritual Monster with a card effect that requires use of monsters, this card you control can be used as the entire Tribute.\r\nIf this card is Tributed for a Ritual Summon: You can add 1 Ritual Monster from your Deck to your hand.\r\nYou can only use this effect of \"Miracle Raven\" once per turn.",
     "overallString": "[Monster|Effect|Ritual|Pendulum] Fiend/Dark  [★1] 300/300  0/0",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301084.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301084.jpg?version=15.13"
   },
   {
     "name": "ASHLAN U1000",
     "desc": "2 monsters with different Types and Attributes\r\nIf a Ritual Monster this card points to attacks a Defense Position monster, inflict piercing battle damage to your opponent.\r\nYou can only use each of the following effects of \"ASHLAN U1000 once per turn.\r\nYou can reveal 1 Ritual Monster in your hand; add 1 Ritual Monster with a different Type and Attribute from your Deck to your hand.\r\nIf you Ritual Summon (except during the Damage Step): You can target 1 face-up card your opponent controls; return it to the hand. ",
     "overallString": "[Monster|Effect|Link] Cyberse/Light  [LINK-2] 1400/-  [↙][↘]",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301085.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301085.jpg?version=15.13"
   },
   {
     "name": "Readying of Rites",
     "desc": "Add 1 Fiend Ritual Monster from your Deck to your hand, then if you added a Pendulum Monster, you can Special Summon 1 \"Sacrificial Offering Token\" (Fiend/DARK/Level 1/ATK 300/ DEF 300).\r\nWhile you control that Token, you cannot Special Summon from the Extra Deck.\r\nWhen your Ritual Monster inflicts battle damage to your opponent: You can banish this card from your GY; draw 1 card.\r\nYou can only use each effect of \"Readying of Rites\" once per turn.",
     "overallString": "[Spell]",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301086.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301086.jpg?version=15.13"
   },
   {
     "name": "R.B. Ga10 Driller",
     "desc": "If you control no face-up monsters, or the only face-up monsters you control are \"R.B.\" monsters, you can Special Summon this card (from your hand).\r\nYou can only Special Summon \"R.B. Ga10 Driller\" once per turn this way.\r\nDuring the Main Phase, if this card is linked to an \"R.B.\" Link Monster (Quick Effect): You can pay 500 LP, then target 1 monster your opponent controls; destroy both that monster and this card.\r\nYou can only use this effect of \"R.B. Ga10 Driller\" once per turn.",
     "overallString": "[Monster|Effect] Machine/Earth  [★3] 500/500",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301090.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301090.jpg?version=15.13"
   },
   {
     "name": "R.B. Ga10 Cutter",
     "desc": "If you control no face-up monsters, or the only face-up monsters you control are \"R.B.\" monsters, you can Special Summon this card (from your hand).\r\nYou can only Special Summon \"R.B. Ga10 Cutter\" once per turn this way.\r\nWhen your opponent's Spell/Trap Card or effect is activated, and this card is linked to an \"R.B.\" Link Monster (Quick Effect): You can pay 700 LP; destroy this card, and if you do, negate that effect, and if you do that, destroy that card.\r\nYou can only use this effect of \"R.B. Ga10 Cutter\" once per turn.",
     "overallString": "[Monster|Effect] Machine/Earth  [★4] 700/700",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301091.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301091.jpg?version=15.13"
   },
   {
     "name": "R.B. VALCan Rocket",
     "desc": "If you control no face-up monsters, or the only face-up monsters you control are \"R.B.\" monsters, you can Special Summon this card (from your hand).\r\nYou can only Special Summon \"R.B. VALCan Rocket\" once per turn this way.\r\nIf this card is linked to an \"R.B.\" Link Monster: You can pay 1000 LP, then target up to 2 cards your opponent controls; destroy them, also this card, and if you do, inflict 500 damage to your opponent for each card destroyed.\r\nYou can only use this effect of \"R.B. VALCan Rocket\" once per turn.",
     "overallString": "[Monster|Effect] Machine/Fire  [★5] 1000/1000",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301092.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301092.jpg?version=15.13"
   },
   {
     "name": "R.B. VALCan Booster",
     "desc": "2 Machine monsters\r\nIf this card is Link Summoned: You can add 1 \"R.B.\" Spell from your Deck to your hand.\r\nIf this card is in the Extra Monster Zone: You can Special Summon 1 \"R.B.\" monster from your hand or GY in Defense Position, then you can move this card you control to another of your Main Monster Zones, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Machine monsters with 1500 or less ATK.\r\nYou can only use each effect of \"R.B. VALCan Booster\" once per turn.",
     "overallString": "[Monster|Effect|Link] Machine/Fire  [LINK-2] 500/-  [↑][↓]",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301093.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301093.jpg?version=15.13"
   },
   {
     "name": "R.B. The Brute Blues",
     "desc": "2+ Machine monsters\r\nGains the following effects while this card points to a \"R.B.\" monster.\r\n● Gains ATK equal to the total original ATK of \"R.B.\" monsters it points to.\r\n● Can make a second attack each Battle Phase\r\n● Cannot be destroyed by battle or card effects.\r\nDuring your Main Phase: You can add 1 \"R.B.\" card from your Deck to your hand.\r\nYou can only use this effect of \"R.B. The Brute Blues\" once per turn.",
     "overallString": "[Monster|Effect|Link] Machine/Wind  [LINK-3] 1500/-  [↙][↓][↘]",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301094.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301094.jpg?version=15.13"
   },
   {
     "name": "R.B. Funk Dock",
     "desc": "When this card is activated: Add 1 \"R.B.\" card from your Deck to your hand, except \"R.B. Funk Dock\".\r\nEach time a monster(s) your opponent controls is destroyed by battle or card effect, gain 500 LP. If a face-up \"R.B.\" monster(s) you control leaves the field by card effect (except during the Damage Step): You can Special Summon 1 \"R.B.\" monster from your Deck.\r\nYou can only use this effect of \"R.B. Funk Dock\" once per turn. You can only activate 1 \"R.B. Funk Dock\" per turn.",
     "overallString": "[Spell|Field]",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301095.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301095.jpg?version=15.13"
   },
   {
     "name": "R.B. Stage Landing",
     "desc": "Special Summon 1 \"R.B.\" monster from your Deck/Extra Deck with a different name than the cards you control.\r\nIf an \"R.B.\" monster(s) you control would be destroyed by battle or card effect, you can banish this card from your GY instead.\r\nYou cannot Special Summon from the Extra Deck the turn you activate this card, except Machine monsters with 1500 or less original ATK.",
     "overallString": "[Spell]",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301096.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101301096.jpg?version=15.13"
   },
   {
     "name": "Solfachord Solfeggia",
     "desc": "Pendulum Scale = 9\r\n[Pendulum Effect]\r\nYou can only use the Pendulum Effect of this card's name once per turn.\r\n①：When a monster effect activated by your opponent on the field resolves, if you control a \"GranSolfachord\" monster, you can negate that effect, then destroy this card.\r\n----------------------------------------\r\n[Monster Effect]\r\nYou can only use the ① and ② monster effect of this card's name each once per turn.\r\n①：If you control no monsters, or all monsters you control are \"Solfachord\" monsters: You can Special Summon this card from your hand.\r\n②：(When you activate this effect, you can also Tribute this card.) During your Main Phase: You can Special Summon 1 \"Solfachord\" monster from your hand, except \"Solfachord Solfeggia\", or, if you Tributed this card at activation, you can Special Summon that monster from your GY or face-up Extra Deck instead.",
     "overallString": "[Monster|Effect|Pendulum] Fairy/Light  [★2] 400/400  9/9",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302020.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302020.jpg?version=15.13"
   },
   {
     "name": "Solfachord Primoria",
     "desc": "Pendulum Scale = 0\r\n[Pendulum Effect]\r\n①：When you Pendulum Summon a monster(s): You can target 1 \"Solfachord\" card in your Pendulum Zone; return it to the hand.\r\n----------------------------------------\r\n[Monster Effect]\r\nYou can only activate the ① and ③ monster effect of this card's name once per turn.\r\n①：If this card is Normal or Special Summoned: You can add 1 \"Solfachord\" card from your Deck to your hand, except \"Solfachord Primoria\".\r\n②：Your activated \"Solfachord\" cards' effects cannot be negated while you have \"Solfachord\" cards with even and odd Pendulum Scales in your Pendulum Zone.\r\n③：If you Link Summon a \"Solfachord\" monster: You can add 1 \"Solfachord\" card from your GY or face-up Extra Deck to your hand.",
     "overallString": "[Monster|Effect|Pendulum] Fairy/Earth  [★1] 0/400  0/0",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302021.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302021.jpg?version=15.13"
   },
   {
     "name": "Solfachord Happiness",
     "desc": "①：Activate 1 of these effects (but you can only use each effect of this card's name once per turn);\r\n● Discard 1 card, and if you do, add 2 \"Solfachord\" Pendulum Monsters with different Pendulum Scales from your Deck to your hand, then you can Special Summon \"Solfachord\" Pendulum Monsters from your hand up to the number of monsters your opponent controls +1.\r\n● During your Main Phase this turn, you can conduct 1 Pendulum Summon of a \"Solfachord\" monster(s) in addition to your Pendulum Summon.\r\n● Special Summon 2 \"Solfachord\" cards from your Pendulum Zone.",
     "overallString": "[Spell]",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302065.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302065.jpg?version=15.13"
   },
   {
     "name": "Megalith Phuloch",
     "desc": "You can Ritual Summon this card with any \"Megalith\" card. You can only use the ② effect of this card's name once per turn. You cannot activate the ① and ② effect of this card's name in the same Chain.\r\n①：If this card is Ritual Summoned: You can add 1 \"Megalith\" card from your GY to your hand.\r\n②：During the Main Phase (Quick Effect): You can Ritual Summon 1 \"Megalith\" Ritual Monster from your GY, except \"Megalith Phuloch\", by Tributing monsters from your hand and/or field whose total Levels equal or exceed the Level of that monster, including this card on the field.",
     "overallString": "[Monster|Effect|Ritual] Rock/Earth  [★4] 2000/300",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302033.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302033.jpg?version=15.13"
   },
   {
     "name": "Megalith Nortra Phulra",
     "desc": "You can Ritual Summon this card with any \"Megalith\" card. Must be Ritual Summoned, using only Ritual Monsters. You can only use the ① and ② effect of this card's name each once per turn.\r\n①：You can reveal this card in your hand; your opponent cannot activate cards or effects in response to the activation of your \"Megalith\" Ritual Monsters' effects for the rest of this turn.\r\n②：When your opponent activates a card or effect (Quick Effect): You can negate the activation, and if you do, destroy that card, then, if that effect targeted a card(s) on the field, you can Tribute 1 monster your opponent controls.",
     "overallString": "[Monster|Effect|Ritual] Rock/Earth  [★12] 3700/2700",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302034.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302034.jpg?version=15.13"
   },
   {
     "name": "Megalith Anastasis",
     "desc": "You can only use the ① effect of this card's name once per turn.\r\n①：You can discard 1 card; add 1 Level 4 or lower and 1 Level 8 or higher \"Megalith\" monsters from your Deck to your hand.\r\n②：Once per turn, if you Ritual Summon a \"Megalith\" monster(s): You can activate 1 of these effects (but you can only use each of these effects of this card's name once per turn).\r\n● Draw 2 cards, then discard 1 card.\r\n● Tribute 1 monster your opponent controls.",
     "overallString": "[Spell|Continuous]",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302066.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302066.jpg?version=15.13"
   },
   {
     "name": "Magnifistorming Megala",
     "desc": "You can only Special Summon with the ① effect of this card's name once per turn. You can only use the ② effect of this card's name once per turn.\r\n①：If you have \"Mystical Space Typhoon\" in your GY, or your opponent controls no Spells/Traps, you can Special Summon this card (from your hand).\r\n②：If a \"Magnifistorm\" Quick-Play Spell or \"Mystical Space Typhoon\" is activated: You can Special Summon 1 \"Magnifistorm\" monster from your Deck with a different name from the monsters you control, also you cannot Special Summon for the rest of this turn, except WIND monsters.",
     "overallString": "[Monster|Effect] Fairy/Wind  [★3] 500/1500",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302012.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302012.jpg?version=15.13"
   },
   {
     "name": "Magnifistorming Erdam",
     "desc": "You can only Special Summon with the ① effect of this card's name once per turn. You can only use the ② effect of this card's name once per turn.\r\n①：If you have \"Mystical Space Typhoon\" in your GY, or your opponent controls no Spells/Traps, you can Special Summon this card (from your hand).\r\n②：If this card is Normal or Special Summoned: You can add 1 \"Magnifistorm\" monster or \"Mystical Space Typhoon\" from your Deck to your hand, except \"Magnifistorming Erdam\".",
     "overallString": "[Monster|Effect] Beast/Wind  [★3] 1300/800",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302013.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302013.jpg?version=15.13"
   },
   {
     "name": "Magnifistorming Suen",
     "desc": "You can only Special Summon with the ① effect of this card's name once per turn. You can only use the ② effect of this card's name once per turn.\r\n①：If you have \"Mystical Space Typhoon\" in your GY, or your opponent controls no Spells/Traps, you can Special Summon this card (from your hand).\r\n②：If this card is Normal or Special Summoned: You can add 1 \"Magnifistorm\" Spell/Trap or \"Mystical Space Typhoon\" from your Deck to your hand.",
     "overallString": "[Monster|Effect] Beast-Warrior/Wind  [★3] 1600/400",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302014.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302014.jpg?version=15.13"
   },
   {
     "name": "Magnifistorming Crothea",
     "desc": "You can only use the ① and ② effect of this card's name each once per turn.\r\n①：If a Quick-Play Spell Card is activated: You can Special Summon this card from your hand.\r\n②：If this card is Normal or Special Summoned: You can add 1 \"Magnifistorm\" card and/or 1 \"Mystical Space Typhoon\" from your Deck and/or GY to your hand, except \"Magnifistorming Crothea\", also you cannot Special Summon for the rest of this turn, except WIND monsters.\r\n③：Cannot be destroyed by battle or card effects while your opponent controls no Spells/Traps.",
     "overallString": "[Monster|Effect] Winged Beast/Wind  [★6] 2200/1200",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302015.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302015.jpg?version=15.13"
   },
   {
     "name": "Magnifistorm Vortex Beauty Valrune",
     "desc": "You can only use the ①, ②, and ③ effect of this card's name each once per turn.\r\n①：If a Quick-Play Spell Card is activated: You can Special Summon this card from your hand.\r\n②：When your opponent activates a monster effect and you have \"Mystical Space Typhoon\" in your GY (Quick Effect): You can negate that effect, then, if you have 2 or more \"Mystical Space Typhoon\" in your GY, you can destroy that monster.\r\n③：If \"Mystical Space Typhoon\" is activated while this card is in your GY: You can Special Summon it.",
     "overallString": "[Monster|Effect] Aqua/Wind  [★9] 0/3000",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302016.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302016.jpg?version=15.13"
   },
   {
     "name": "Magnifistorm Great Pyre Phonix",
     "desc": "You can only use the ①, ②, and ③ effect of this card's name each once per turn.\r\n①：If a Quick-Play Spell Card is activated: You can Special Summon this card from your hand.\r\n②：If a Quick-Play Spell Card is activated: You can target up to 2 cards your opponent controls; shuffle them into the Deck.\r\n③：If \"Mystical Space Typhoon\" is activated while this card is in your GY: You can Special Summon it.",
     "overallString": "[Monster|Effect] Pyro/Wind  [★9] 3000/0",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302017.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302017.jpg?version=15.13"
   },
   {
     "name": "Magnifistorming Stanza Tribute",
     "desc": "①：Activate 1 of these effects (but you can only use each of these effects of this card name's effect once per turn);\r\n● Add 1 Level 4 or lower \"Magnifistorm\" monster from your Deck to your hand.\r\n● Add 1 \"Mystical Space Typhoon\" from your Deck or GY to your hand.\r\n②：If this card is destroyed by the effect of \"Mystical Space Typhoon\": You can Set this card.",
     "overallString": "[Spell|Quick-Play]",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302061.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302061.jpg?version=15.13"
   },
   {
     "name": "Magnifistorming Summoning Technique",
     "desc": "①：Activate 1 of these effects (but you can only use each of these effects of this card's name once per turn);\r\n● Send 1 \"Magnifistorm\" monster from your Deck to the GY.\r\n● Add 1 \"Mystical Space Typhoon\" from your Deck or GY to your hand.\r\n②：If this card is destroyed by the effect of \"Mystical Space Typhoon\": You can Set this card.",
     "overallString": "[Spell|Quick-Play]",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302062.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302062.jpg?version=15.13"
   },
   {
     "name": "Magnifistorming Sight Trance",
     "desc": "①：Activate 1 of these effects (but you can only use each of these effects of this card name's effect once per turn);\r\n● Draw 2 cards, then discard 1 \"Magnifistorm\" card or Quick-Play Spell, or, if you do not have any in your hand, discard your entire hand.\r\n● Add 1 \"Mystical Space Typhoon\" from your Deck or GY to your hand.\r\n②：If this card is destroyed by the effect of \"Mystical Space Typhoon\": You can Set this card.",
     "overallString": "[Spell|Quick-Play]",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302063.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302063.jpg?version=15.13"
   },
   {
     "name": "Magnifistorming Sovereign Tyranny",
     "desc": "①：Once per turn: You can target 3 Quick-Play Spells in your GY, including a \"Magnifistorm\" card; apply these effects, in sequence.\r\n● Shuffle them into the Deck, then draw 1 card.\r\n● WIND monsters you control will gain 300 ATK/DEF for the rest of this turn.\r\n②：Once per Chain, when \"Mystical Space Typhoon\" is activated: You can target 1 face-up card your opponent controls; negate its effects.\r\n③：If this card is destroyed by the effect of \"Mystical Space Typhoon\": You can Set this card.",
     "overallString": "[Trap|Continuous]",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302076.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302076.jpg?version=15.13"
   },
   {
     "name": "Gouki Mashin Suprex",
     "desc": "You can only use the ① and ② effect of this card's name each once per turn.\r\n①：You can reveal this card and 1 other \"Gouki\" monster in your hand; Special Summon both, but you cannot Special Summon while you control either of those monsters, except \"Gouki\" monsters.\r\n②：If this card is sent from the field to the GY: You can add 1 \"Gouki\" card from your Deck to your hand, except \"Gouki Mashin Suprex\".",
     "overallString": "[Monster|Effect|Tuner] Warrior/Earth  [★4] 1800/0",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302006.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302006.jpg?version=15.13"
   },
   {
     "name": "Gouki The Tyrant Ogre",
     "desc": "1 \"Gouki\" Link Monster + 1 Warrior, Dinosaur, or Cyberse monster\r\nYou can only use the ① effect of this card's name once per turn.\r\n①：If this card is Fusion Summoned: You can target cards on the field, up to the total Link Ratings of the \"Gouki\" Link Monsters used as material; destroy them. If you used a Link-3 or higher monster as material, those cards cannot be activated in response to this effect's activation.\r\n②：If this card battles, your opponent cannot activate card or effects until the end of the Damage Step.",
     "overallString": "[Monster|Effect|Fusion] Warrior/Earth  [★8] 3500/0",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302036.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302036.jpg?version=15.13"
   },
   {
     "name": "Gouki Dragon Ogre",
     "desc": "1 Tuner + 1+ non-Tuner monsters\r\nYou can only use the ① and ② effect of this card's name each once per turn.\r\n①：If this card is Synchro Summoned: You can add 1 \"Gouki\" Spell from your Deck to your hand.\r\n②：If this card is sent to the GY: You can target 1 EARTH monster you control; add 1 \"Gouki\" monster with lower ATK from your GY to your hand, also, while the targeted monster is face-up on your field, your opponent's monsters can only target that monster for attacks.",
     "overallString": "[Monster|Effect|Synchro] Warrior/Earth  [★6] 2200/0",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302041.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302041.jpg?version=15.13"
   },
   {
     "name": "Gouki Sheik Ogre",
     "desc": "2 \"Gouki\" monsters\r\nYou can only use the ① and ② effect of this card's name each once per turn.\r\n①：If a \"Gouki\" monster(s) is added from the Deck to your hand, except by drawing it: You can Special Summon any number of \"Gouki\" monsters from your hand with different Levels from each other, but you cannot Special Summon while you control any of those face-up monsters, except \"Gouki\" monsters.\r\n②：During your Main Phase: You can Fusion Summon 1 \"Gouki\" Fusion Monster from your Extra Deck, using monsters from your hand or field as material.",
     "overallString": "[Monster|Effect|Link] Warrior/Earth  [LINK-2] 1900/-  [↙][↘]",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302050.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302050.jpg?version=15.13"
   },
   {
     "name": "Gouki Fighting Spirit",
     "desc": "You can only activate 1 card with this card's name per turn. You can only use the ② effect of this card's name once per turn.\r\n①：When this card resolves, you can Special Summon 1 Level 4 or lower EARTH monster (Warrior, Dinosaur, or Cyberse) from your hand in Defense Position.\r\n②：You can Tribute 1 Link-3 or higher \"Gouki\" monster; Special Summon 1 \"Dinowrestler\" or \"G Golem\" monster from your Deck or Extra Deck.",
     "overallString": "[Spell|Continuous]",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302056.jpg?version=11.20"
-  },
-  {
-    "name": "Sanaki the Mikanko Devotee",
-    "desc": "You can only use the ①, ②, and ③ effect of this card's name each once per turn.\r\n①：You can target 1 \"Mikanko\" card you control; return it to the hand.\r\n②：If either player equips an Equip Card(s) to this card: You can Special Summon 1 non-Illusion \"Mikanko\" monster from your Deck, also you cannot Special Summon from the Extra Deck for the rest of this turn, except \"Mikanko\" monsters.\r\n③：If this card is sent to the GY: You can target 1 face-up monster on the field; equip this card to it.",
-    "overallString": "[Monster|Effect] Illusion/Earth  [★3] 0/0",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100242057.jpg?version=11.20"
-  },
-  {
-    "name": "Uzuhime the Manifested Mikanko",
-    "desc": "2 Level 3 \"Mikanko\" monsters\r\nYou can only use the ① effect of this card's name once per turn.\r\n①：If this card is Special Summoned: You can add 1 Equip Spell from your Deck or GY to your hand.\r\n②：Cannot be destroyed by battle, also your opponent takes any battle damage you would have taken from battles involving this card.\r\n③：If this card attacks, at the end of the Damage Step: You can detach 1 material from this card; it can make another attack in a row.",
-    "overallString": "[Monster|Effect|Xyz] Fairy/Light  [☆3] 0/0",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100242058.jpg?version=11.20"
-  },
-  {
-    "name": "Mikanko Divine Dance – Futahashira no Uzu no Miko",
-    "desc": "You can only use 1 of the ① and ② effect of this card's name per turn, and only once that turn.\r\n①：You cannot Special Summon from the Extra Deck for the rest of this turn after this card resolves, except \"Mikanko\" monsters, also send 1 \"Mikanko\" card from your Deck to the GY, except \"Mikanko Divine Dance – Futahashira no Uzu no Miko\", then you can Set 1 \"Mikanko\" Spell/Trap from your Deck, except \"Mikanko Divine Dance – Futahashira no Uzu no Miko\".\r\n②：You can banish this card from your GY and detach 1 Xyz Material from your monsters; Special Summon 1 \"Mikanko\" Ritual Monster from your hand or Deck.",
-    "overallString": "[Spell]",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100242059.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302056.jpg?version=15.13"
   },
   {
     "name": "Nurikabe",
     "desc": "You can only use the effect of this card's name once per turn.\r\n①：If this card is in your GY, except the turn it was sent there: You can pay 1000 LP, then target 1 other Zombie monster in your GY; Special Summon it and this card, but their effects are negated, also banish them when they leave the field.",
     "overallString": "[Monster|Effect] Zombie/Earth  [★4] 900/2000",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100200276.jpg?version=11.20"
-  },
-  {
-    "name": "Dark Magic Amulet",
-    "desc": "You can activate this card the turn it was Set by revealing 1 Spellcaster monster in your hand.\r\n①：When a monster effect is activated in response to the activation of a card that mentions \"Dark Magician\" or its effect: You can negate that effect, and if you do, for the rest of this turn, the activated effects of monsters with the same original name are negated.\r\n②：If you Special Summon \"Dark Magician\" while this card is in your GY: You can pay 2500 LP; Set this card.",
-    "overallString": "[Trap]",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100200273.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100200276.jpg?version=15.13"
   },
   {
     "name": "Dragonic Warrior",
     "desc": "You can only use the effect of this card's name once per turn.\r\n①：You can discard 1 card; Special Summon 1 Level 4 or lower Dragon monster from your hand or Deck, except \"Dragonic Warrior\", but its effects are negated.",
     "overallString": "[Monster|Effect] Dragon/Fire  [★4] 1500/1000",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100200274.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100200274.jpg?version=15.13"
   },
   {
     "name": "Einroid",
     "desc": "You can only use the effect of this card's name once per turn.\r\n①：If this card is destroyed by battle or card effect: You can send 2 Level 4 or lower Machine monsters from your Deck to the GY.",
     "overallString": "[Monster|Effect] Machine/Earth  [★1] 200/1800",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100200275.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100200275.jpg?version=15.13"
   },
   {
     "name": "D/D Lance Soldier",
     "desc": "You can only use the ① and ② effect of this card's name each once per turn.\r\n①：You can target 1 \"D/D\" monster you control; increase its Level by up to the number of \"Dark Contract\" cards you control and in your GY.\r\n②：If this card is in your GY: You can target 1 \"Dark Contract\" card you control; destroy it, and if you do, Special Summon this card, but banish it when it leaves the field.",
     "overallString": "[Monster|Effect|Tuner] Fiend/Dark  [★2] 400/400",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302201.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302201.jpg?version=15.13"
   },
   {
     "name": "D/D Defense Soldier",
     "desc": "You can only use the ① and ② effect of this card's name each once per turn.\r\n①：You can activate 1 of these effects;\r\n● Target 1 \"D/D\" card in your Pendulum Zone; Special Summon it.\r\n● Banish 1 \"D/D\" monster from your GY; if your \"D/D/D\" monster attacks this turn, your opponent cannot activate cards or effects until the end of the Damage Step.\r\n②：You can banish this card from your GY; add 1 \"D/D\" Pendulum Monster from your face-up Extra Deck or GY to your hand.",
     "overallString": "[Monster|Effect] Fiend/Dark  [★4] 0/1800",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302202.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302202.jpg?version=15.13"
   },
   {
     "name": "D/D/D Zero Demise King Zero Machinex",
     "desc": "Pendulum Scale = 0\r\n[Pendulum Effect]\r\nYou can only use the Pendulum Effect of this card's name once per turn.\r\n①：During your Main Phase, if this card was activated this turn: You can place 1 \"Dark Contract\" Continuous Spell/Trap from your Deck face-up on your field.\r\n----------------------------------------\r\n[Monster Effect]\r\nYou can only use the ① and ② monster effects of this card's name each once per turn.\r\n①：If a face-up \"D/D/D\" and/or \"Dark Contract\" card(s) you control is destroyed while this card is face-up in your Extra Deck (even during the Damage Step): You can Special Summon this card, then you can destroy 1 card on the field.\r\n②：If this card in the Monster Zone is destroyed: You can place it in your Pendulum Zone.",
     "overallString": "[Monster|Effect|Pendulum] Fiend/Dark  [★8] 3000/0  0/0",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302203.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302203.jpg?version=15.13"
   },
   {
     "name": "D/D/D/D Great Dimension King Arc Crisis",
     "desc": "Pendulum Scale = 13\r\n[Pendulum Effect]\r\nYou can only use the Pendulum Effect of this card's name once per turn.\r\n①：You can target any number of \"Dark Contract\" cards you control; destroy them, then Special Summon up to that many \"Doom King\" Pendulum Monsters from your Deck and/or Extra Deck.\r\n----------------------------------------\r\n[Monster Effect]\r\n4 Fiend monsters (1 Fusion, 1 Synchro, 1 Xyz, 1 Pendulum)\r\nThis face-down card in the Extra Deck must first be either Fusion Summoned, or Special Summoned by banishing the above cards from your field and/or GY. You can only Special Summon \"D/D/D/D Great Dimension King Arc Crisis\" once per turn this way, no matter which method you use.\r\n①：If this card is Special Summoned: You can negate the effects of all face-up monsters your opponent currently controls.\r\n②：Can attack all opponent's monsters once each.\r\n③：If this card in the Monster Zone is destroyed: You can place it in your Pendulum Zone.",
     "overallString": "[Monster|Effect|Fusion|Pendulum] Fiend/Dark  [★12] 4000/4000  13/13",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302204.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302204.jpg?version=15.13"
   },
   {
     "name": "D/D/D Founder King Clovis",
     "desc": "1 Tuner + 1+ non-Tuner monsters\r\nYou can only use the ① effect of this card's name once per turn.\r\n①：If this card is Synchro Summoned: You can target 1 of your banished \"D/D\" monsters, or, if you control a \"Dark Contract\" card, you can target 1 in your GY instead; Special Summon it.\r\n②：If this card becomes banished: You can activate this effect; if your \"D/D\" monsters attacks a Defense Position monster this turn, inflict piercing battle damage.",
     "overallString": "[Monster|Effect|Synchro] Fiend/Dark  [★6] 2100/1900",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302205.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302205.jpg?version=15.13"
   },
   {
     "name": "D/D/D Wisdom King Solomon",
     "desc": "2 Level 4 \"D/D\" monsters\r\nYou can only use the ① and ② effect of this card's name each once per turn.\r\n①：You can detach 1 material from this card; add 1 \"D/D\" card from your Deck to your hand.\r\n②：If this card becomes banished: You can target 1 \"D/D\" Effect Monster you control; that Effect Monster gains this effect until the end of this turn.\r\n● If this card destroys a monster by battle: Inflict damage to your opponent equal to half that monster's original ATK.",
     "overallString": "[Monster|Effect|Xyz] Fiend/Dark  [☆4] 1800/2500",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302206.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302206.jpg?version=15.13"
   },
   {
     "name": "D/D/D Sky King Zeus Ragnarok",
     "desc": "2+ \"D/D\" Monsters\r\nYou can only use the ② effect of this card's name once per turn each.\r\n①：You can target 1 \"D/D\" or \"Dark Contract\" card you control; destroy it, also, during your Main Phase this turn, you can conduct 1 Pendulum Summon of a \"D/D\" monster(s) in addition to your Pendulum Summon. (You can only gain this effect once per turn.)\r\n②：When your opponent activates a monster effect in the hand (Quick Effect): You can banish 1 \"D/D\" monster and 1 \"Dark Contract\" card from your GY; negate the activation.",
     "overallString": "[Monster|Effect|Link] Fiend/Dark  [LINK-3] 2200/-  [↙][↓][↘]",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302207.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302207.jpg?version=15.13"
   },
   {
     "name": "Dark Contract with the Zero King",
     "desc": "This card is always treated as a \"D/D\" card. You can only use the ① effect of this card's name once per turn.\r\n①：You can target 1 \"D/D\" card you control, except \"Dark Contract with the Zero King\"; you cannot Special Summon for the rest of this turn, except \"D/D\" monsters, also destroy that card, and if you do, Special Summon 1 \"D/D\" monster from your Deck.\r\n②：Once per turn, during your Standby Phase: Take 1000 damage.",
     "overallString": "[Spell|Continuous]",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302208.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302208.jpg?version=15.13"
   },
   {
     "name": "Dark Contract with the Different Dimension",
     "desc": "You can only use the ① and ③ effect of this card's name each once per turn.\r\n①：You can shuffle 2 \"Dark Contract\" cards from your GY into the Deck, then target 1 card your opponent controls or in their GY; banish it.\r\n②：Once per turn, during your Standby Phase: Take 1000 damage.\r\n③：If this card is destroyed: You can gain 500 LP, then, if it was destroyed by an opponent's card effect, you gain 500 LP.",
     "overallString": "[Trap|Continuous]",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302209.jpg?version=11.20"
-  },
-  {
-    "name": "Masked HERO Dusk Crow",
-    "desc": "You can only use the ① and ② effect of this card's name each once per turn.\r\n①：If this card is in your hand: You can banish 1 \"HERO\" monster from your GY; Special Summon this card.\r\n②：If this card is Normal or Special Summoned: You can add 1 \"Masked HERO\" monster from your Deck or GY to your hand, except \"Masked HERO Dusk Crow\".",
-    "overallString": "[Monster|Effect] Warrior/Dark  [★4] 1200/1000",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100242024.jpg?version=11.20"
-  },
-  {
-    "name": "Masked HERO Furnace",
-    "desc": "You can only use the ① and ② effect of this card's name each once per turn.\r\n①：You can reveal this card in your hand; add 1 \"Mask Change\" or \"Polymerization\" from your Deck to your hand, then discard 1 card. You cannot Special Summon from the Extra Deck the turn you activate this effect, except \"HERO\" monsters.\r\n②：If you Special Summon a non-FIRE \"HERO\" Fusion Monster(s): You can Special Summon this card from your GY (if it was there when the monster was Summoned) or hand (even if not), but banish it when it leaves the field.",
-    "overallString": "[Monster|Effect] Warrior/Fire  [★7] 2200/1000",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100242025.jpg?version=11.20"
-  },
-  {
-    "name": "Masked HERO Atomic",
-    "desc": "Must be Special Summoned with \"Mask Change\". You can only use the ① and ③ effect of this card's name each once per turn.\r\n①：If this card is Special Summoned: You can target 1 non-FIRE \"Masked HERO\" monster in your GY or banishment; Special Summon it in Defense Position, ignoring its Summoning conditions.\r\n②：The first time this card would be destroyed by battle or card effect each turn, it is not destroyed.\r\n③：During your End Phase: You can target 1 \"Change\" Quick-Play Spell in your GY; Set it.",
-    "overallString": "[Monster|Effect|Fusion] Warrior/Fire  [★8] 2600/2000",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100242026.jpg?version=11.20"
-  },
-  {
-    "name": "Dark Magician of Destruction",
-    "desc": "\"Dark Magician\" + 1 LIGHT or DARK monster\r\nMust be either Fusion Summoned, or Special Summoned (from your Extra Deck) by banishing 1 Level 6 or higher DARK Spellcaster monster you control during the turn a Spell Card or effect was previously activated. You can only Special Summon \"Dark Magician of Destruction\" once per turn this way, no matter which method you use.\r\n①：This card's name becomes \"Dark Magician\" while face-up on the field or in the GY.\r\n②：If this card is Special Summoned: You can add 1 \"Dark Magician\" or 1 card that mentions it from your Deck to your hand.",
-    "overallString": "[Monster|Effect|Fusion] Spellcaster/Dark  [★8] 2800/2600",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100242001.jpg?version=11.20"
-  },
-  {
-    "name": "Timaeus the United Magidragon",
-    "desc": "\"Dark Magician\" or \"Dark Magician Girl\" + 1 Dragon or Spellcaster monster\r\nYou can only use the ② and ③ effect of this card's name each once per turn.\r\n①：After this card is Special Summoned, until the end of your next turn, it is unaffected by other cards' effects.\r\n②：If this card battles, during damage calculation: You can make it gain 100 ATK for each Spell in the GYs and banishment.\r\n③：During your opponent's turn (Quick Effect): You can target 1 Spell/Trap on the field; destroy it.",
-    "overallString": "[Monster|Effect|Fusion] Dragon/Light  [★10] 2800/1800",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100242002.jpg?version=11.20"
-  },
-  {
-    "name": "The Gaze of Timaeus",
-    "desc": "You can only activate 1 card with this card's name per turn.\r\n①：Target 1 \"Dark Magician\" or \"Dark Magician Girl\" you control or in your GY; Fusion Summon 1 Fusion Monster from your Extra Deck that mentions it as material, by shuffling that monster into the Deck, but banish it during the End Phase of the next turn. (This is treated as a Special Summon with \"The Eye of Timaeus\".)",
-    "overallString": "[Spell|Quick-Play]",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100242003.jpg?version=11.20"
-  },
-  {
-    "name": "Elemental HERO Thunder Giant – Voltic Thunder",
-    "desc": "2 \"Elemental HERO\" monsters with different Attributes\r\nMust be Fusion Summoned. You can only use the ① and ② effect of this card's name each once per turn.\r\n①：If this card is Special Summoned and your opponent controls more cards than you do: You can destroy all other cards on the field.\r\n②：You can Tribute this card Fusion Summoned using a Normal Monster as material, then target 1 \"Elemental HERO\" monster in your GY; Special Summon it.",
-    "overallString": "[Monster|Effect|Fusion] Warrior/Light  [★6] 2400/1500",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100241001.jpg?version=11.20"
-  },
-  {
-    "name": "Drill Armed Dragon",
-    "desc": "You can only use the ① and ② effect of this card's name each once per turn.\r\n①：You can send this card and 1 other WIND monster from your hand to the GY; for the rest of this turn, all WIND Dragon monster you control will gain 300 ATK.\r\n②：You can banish any number of Dragon monsters that are Level 7 or higher and/or WIND from your GY; add 1 Dragon monster from your Deck to your hand with a Level equal to the number banished, except \"Drill Armed Dragon\".",
-    "overallString": "[Monster|Effect] Dragon/Wind  [★3] 1100/400",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100241002.jpg?version=11.20"
-  },
-  {
-    "name": "Light Water Dragon",
-    "desc": "This card's name is always treated as \"Water Dragon\". You can only use the effect of this card's name once per turn.\r\n①：You can banish this card you control; Special Summon 3 Level 5 or lower WATER and/or WIND Dinosaur monsters from your Deck in Defense Position, but their effects are negated, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Dinosaur and Sea Serpent monsters.",
-    "overallString": "[Monster|Effect] Sea Serpent/Water  [★4] 1400/1300",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100241003.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302209.jpg?version=15.13"
   },
   {
     "name": "Soul Union",
     "desc": "You can only activate 1 card with this card's name per turn.\r\n①: Target 1 face-up monster on the field and 1 \"Elemental HERO\" monster in your GY; that monster on the field gains ATK equal to the ATK of other monster (until the end of this turn), then, if you have an \"Elemental HERO\" Normal Monster on your field and/or in your GY, you can Fusion Summon 1 \"Elemental HERO\" Fusion Monster from your Extra Deck, by banishing its material from your GY.",
     "overallString": "[Trap]",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100240010.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100240010.jpg?version=15.13"
   },
   {
     "name": "Prima Light",
     "desc": "You can only use 1 of the ① and ② effect of this card's name per turn, and only once that turn.\r\n①: Activate 1 of these effects;\r\n● Tribute 1 EARTH Warrior monster, and if you do, Special Summon 1 LIGHT Warrior monster from your hand or Deck.\r\n● During the Main Phase: Immediately after this effect resolves, Normal Summon 1 Warrior monster from your hand.\r\n②: During your Main Phase: You can banish this card from your GY; add 1 Warrior or Fairy \"Cyber\" monster from your Deck to your hand.",
     "overallString": "[Spell|Quick-Play]",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100240007.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100240007.jpg?version=15.13"
   },
   {
     "name": "Conduction Warrior Linear Magnum ±",
     "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by sending 2 \"Magnet Warrior\" monsters whose original Level is 4 or lower from your hand, Deck, and/or face-up field to the GY. You can only Special Summon \"Conduction Warrior Linear Magnum ±\" once per turn this way. You can only use the ① and ② effect of this card's name each once per turn.\r\n①: You can target 1 other EARTH monster on the field; this card gains ATK equal to half that monster's until the end of this turn.\r\n②: If this card is destroyed and sent to the GY: Add it to your hand.",
     "overallString": "[Monster|Effect|Special Summon] Rock/Earth  [★7] 2700/1300",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100240201.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100240201.jpg?version=15.13"
   },
   {
     "name": "Chaos Distill",
     "desc": "You can only use the ② effect of this card's name once per turn.\r\n①: Any card sent to your GY is banished instead.\r\n②: You can activate 1 of these effects;\r\n● Add 1 \"Macro Cosmos\", or 1 card that mentions it, from your Deck to your hand, except \"Chaos Distill\".\r\n● If \"Macro Cosmos\" is on the field: Banish this face-up card from the Spell & Trap Zone; add 1 LIGHT monster with ? ATK from your Deck to your hand.",
     "overallString": "[Spell|Continuous]",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100240202.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100240202.jpg?version=15.13"
   },
   {
     "name": "Hero's Rule 1: Five Freedoms",
     "desc": "You can only use the ② effect of this card's name once per turn.\r\n①: Target up to 5 cards in any GY(s); banish them.\r\n②: If this card is in your GY, except the turn it was sent there: You can banish it, then target 1 of your banished \"Elemental HERO\" monsters; Special Summon it, ignoring its Summoning conditions.",
     "overallString": "[Trap]",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100240203.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100240203.jpg?version=15.13"
   },
   {
     "name": "Archfiend Matador",
     "desc": "You can Ritual Summon this card with \"Ritual of the Matador\". You can only use the ① effect of this card's name once per turn.\r\n①: If this card is Ritual Summoned: You can add 2 \"Archfiend\" cards from your Deck to your hand, except \"Archfiend Matador\", also this card cannot attack this turn.\r\n②: Cannot be destroyed by battle, also you take no battle damage from battles involving this card.\r\n③: If this card battles a monster, after damage calculation: Destroy that monster, and if you do, inflict 1000 damage to your opponent.",
     "overallString": "[Monster|Effect|Ritual] Warrior/Dark  [★6] 0/0",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100240204.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100240204.jpg?version=15.13"
   },
   {
     "name": "Ritual of the Matador",
     "desc": "You can only use the ② effect of this card's name once per turn.\r\n①: Ritual Summon 1 \"Archfiend Matador\" from your hand, by Tributing monsters from your hand and/or field whose total Levels equal 6 or more.\r\n②: You can banish this card from your GY; Special Summon 1 non-Ritual \"Archfiend\" monster from your hand.",
     "overallString": "[Spell|Ritual]",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100240205.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100240205.jpg?version=15.13"
   },
   {
     "name": "Maiden in Love",
     "desc": "①: Opponent's monsters that can attack this card must attack it.\r\n②: Cannot be destroyed by battle.\r\n③: If this card battles an opponent's monster, at the end of the Damage Step: You can activate 1 of these effects;\r\n● Place 1 Maiden Counter on 1 face-up monster your opponent controls.\r\n● Take control of 1 opponent's monster with a Maiden Counter.",
     "overallString": "[Monster|Effect] Spellcaster/Light  [★2] 400/300",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100240001.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100240001.jpg?version=15.13"
   },
   {
     "name": "Eucalyptus Mole",
     "desc": "You can only use the ① and ② effects of this card's name each once per turn.\r\n①: If this card is Normal or Special Summoned: You can Special Summon 1 Level 4 or lower Beast monster from your Deck in face-down Defense Position, then, if this card is in Attack Position, change it to Defense Position.\r\n②: If this card is destroyed: You can Special Summon 1 \"Koala\" monster or 1 \"Tree Otter\" from your Deck, and if you do, apply this effect until the end of the next turn.\r\n● Non-Effect Beast monsters you control gain ATK equal to their own original DEF.",
     "overallString": "[Monster|Effect] Plant/Earth  [★3] 300/1300",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100240003.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100240003.jpg?version=15.13"
   },
   {
     "name": "Illusion Gate",
     "desc": "You can only apply the effect of this card's name once per Duel.\r\n①: Pay half your LP; destroy as many monsters your opponent controls as possible, then you can Special Summon 1 monster from their GY to your field, ignoring its Summoning conditions.",
     "overallString": "[Spell]",
-    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100240005.jpg?version=11.20"
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/100240005.jpg?version=15.13"
   }
 ]
