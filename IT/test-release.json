@@ -1,5 +1,29 @@
 [
   {
+    "name": "Marshmao☆Stuzzicante",
+    "desc": "Se non controlli mostri, o controlli solo mostri LUCE di Tipo Bestia: puoi Evocare Specialmente questa carta dalla tua mano.\r\nSe questa carta viene Evocata Normalmente o Specialmente: puoi aggiungere 1 Magia/Trappola \"Stuzzicante\" dal tuo Cimitero alla tua mano, oppure, se questa carta è stata Evocata Specialmente tramite l'effetto di un Mostro Synchro, puoi invece Posizionare 1 Magia Terreno o Magia/Trappola Continua \"Stuzzicante\" dal tuo Deck o dalla tua zona bandita scoperta sul tuo Terreno.\r\nPuoi utilizzare ciascun effetto di \"Marshmao☆Stuzzicante\" una sola volta per turno.",
+    "overallString": "[Mostro|Effetto] Bestia/Luce  [★1] 800/600",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302024.jpg?version=15.13"
+  },
+  {
+    "name": "Gnam☆Gnam☆Stuzzicante",
+    "desc": "Ogni volta che 2 o più mostri \"Stuzzicante\" vengono Evocati Specialmente sul tuo Terreno contemporaneamente, guadagni 500 LP e, se lo fai, il tuo avversario perde 500 LP.\nPuoi utilizzare ciascuno dei seguenti effetti di \"Gnam☆Gnam☆Stuzzicante\" una sola volta per turno.\nPuoi pagare 500 LP, poi scegliere come bersaglio 2 mostri scoperti sul Terreno, incluso \"Stuzzicante★Arraffo\"; mandali entrambi al Cimitero e, se lo fai, Evoca Specialmente 1 Mostro Synchro \"Stuzzicante\" dal tuo Extra Deck (questa è considerata un'Evocazione Synchro).\nSe il tuo avversario attiva una carta o un effetto: puoi pagare 100 LP; immediatamente dopo che questo effetto si è risolto, Evoca Link 1 Mostro Link \"Stuzzicante\".",
+    "overallString": "[Magia|Continua]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302067.jpg?version=15.13"
+  },
+  {
+    "name": "Dracocoda Phrixl",
+    "desc": "Se questa carta viene Evocata Normalmente o Specialmente: puoi scegliere come bersaglio 1 mostro \"Dracocoda\" nel tuo Cimitero, eccetto \"Dracocoda Phrixl\"; Evocalo Specialmente, poi fai ritornare 1 mostro che controlli nella mano.\nSe questa carta viene mandata al Cimitero come materiale per un'Evocazione tramite Fusione: puoi Posizionare 1 Magia/Trappola \"Dracocoda\" dal tuo Deck.\nPuoi utilizzare ciascun effetto di \"Dracocoda Phrixl\" una sola volta per turno.",
+    "overallString": "[Mostro|Effetto] Incantatore/Luce  [★2] 800/1500",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302023.jpg?version=15.13"
+  },
+  {
+    "name": "Pungiglione Dracocoda",
+    "desc": "Scegli come bersaglio 1 mostro e/o 1 Magia/Trappola nel Cimitero del tuo avversario; bandiscili, poi puoi mettere 1 carta \"Dracocoda\" dal tuo Cimitero o dalla tua zona bandita in fondo al Deck, eccetto \"Pungiglione Dracocoda\", poi pesca 1 carta.\nPuoi attivare solo 1 \"Pungiglione Dracocoda\" per turno.",
+    "overallString": "[Trappola]",
+    "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302077.jpg?version=15.13"
+  },
+  {
     "name": "Strega della Violenza",
     "desc": "Se controlli \"Drago Rosa Nera\", un mostro che lo menziona, o un Mostro Synchro Pianta: puoi Evocare Specialmente questa carta dalla tua mano.\r\nSe questa carta viene mandata al Cimitero e c'è un Mostro Synchro sul Terreno: puoi scartare 1 carta; Evoca Specialmente 1 mostro Pianta con 1500 o meno DEF dal tuo Deck, inoltre non puoi Evocare Specialmente dall'Extra Deck per il resto di questo turno, eccetto Mostri Synchro.\r\nPuoi utilizzare ciascun effetto di \"Strega della Violenza\" una sola volta per turno.",
     "overallString": "[Mostro|Effetto] Pianta/Oscurità  [★4] 1100/1200",
@@ -7,7 +31,7 @@
   },
   {
     "name": "Cavaliere Rosa Nera del Crepuscolo",
-    "desc": "I mostri Pianta che controlli guadagnano 1000 ATK mentre controlli un Mostro Synchro.\r\nPuoi utilizzare ciascuno dei seguenti effetti di \"Cavaliere Rosa Nera del Crepuscolo\" una sola volta per turno.\r\n● Se questa carta viene Evocata Normalmente o Specialmente: puoi Evocare Specialmente 1 \"Drago Rosa Nera\" o 1 mostro Pianta di Livello 4 o inferiore dal tuo Cimitero, ma i suoi effetti sono annullati.\r\n● Puoi scegliere come bersaglio 1 altro mostro Pianta che controlli; aumenta o riduci il suo Livello di 1.",
+    "desc": "I mostri Pianta che controlli guadagnano 1000 ATK mentre controlli un Mostro Synchro.\r\nPuoi utilizzare ciascuno dei seguenti effetti di \"Cavaliere Rosa Nera del Crepuscolo\" una sola volta per turno.\r\nSe questa carta viene Evocata Normalmente o Specialmente: puoi Evocare Specialmente 1 \"Drago Rosa Nera\" o 1 mostro Pianta di Livello 4 o inferiore dal tuo Cimitero, ma i suoi effetti sono annullati.\r\nPuoi scegliere come bersaglio 1 altro mostro Pianta che controlli; aumenta o riduci il suo Livello di 1.",
     "overallString": "[Mostro|Effetto|Tuner] Pianta/Oscurità  [★3] 1000/1000",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302005.jpg?version=15.13"
   },
@@ -25,13 +49,13 @@
   },
   {
     "name": "Drago Rosa di Rovo",
-    "desc": "1 Tuner Pianta + 1+ mostri non-Tuner\r\nOgni volta che il tuo avversario attiva un effetto di un mostro, infliggi 600 danni al tuo avversario quando quell'effetto si risolve e, se lo fai, tutti i mostri che controlla perdono 600 ATK.\r\nPuoi utilizzare ciascuno dei seguenti effetti di \"Drago Rosa di Rovo\" una sola volta per turno.\r\n● Durante la Main Phase (Effetto Rapido): puoi offrire questa carta come Tributo; Evoca Specialmente 1 \"Drago Rosa Nera\" dal tuo Extra Deck (questa è considerata un'Evocazione Synchro).\r\n● Puoi bandire questa carta dal tuo Cimitero; Evoca Specialmente 1 Tuner Pianta di Livello 4 o inferiore dal tuo Cimitero.",
+    "desc": "1 Tuner Pianta + 1+ mostri non-Tuner\r\nOgni volta che il tuo avversario attiva un effetto di un mostro, infliggi 600 danni al tuo avversario quando quell'effetto si risolve e, se lo fai, tutti i mostri che controlla perdono 600 ATK.\r\nPuoi utilizzare ciascuno dei seguenti effetti di \"Drago Rosa di Rovo\" una sola volta per turno.\r\nDurante la Main Phase (Effetto Rapido): puoi offrire questa carta come Tributo; Evoca Specialmente 1 \"Drago Rosa Nera\" dal tuo Extra Deck (questa è considerata un'Evocazione Synchro).\r\nPuoi bandire questa carta dal tuo Cimitero; Evoca Specialmente 1 Tuner Pianta di Livello 4 o inferiore dal tuo Cimitero.",
     "overallString": "[Mostro|Effetto|Synchro] Pianta/Fuoco  [★7] 2400/1800",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302039.jpg?version=15.13"
   },
   {
     "name": "Strega Rosa dell'Odio",
-    "desc": "1 Tuner + 1+ mostri non-Tuner\r\nI mostri Pianta che controlli non possono essere distrutti dagli effetti delle carte.\r\nPuoi utilizzare ciascuno dei seguenti effetti di \"Strega Rosa dell'Odio\" una sola volta per turno.\r\n● Se questa carta viene Evocata Synchro: puoi mandare al Cimitero fino a 2 mostri Pianta (1 dal tuo Deck e/o 1 dal tuo Extra Deck), inoltre non puoi Evocare Specialmente dall'Extra Deck per il resto di questo turno, eccetto Mostri Synchro.\r\n● Se una o più carte sul Terreno vengono distrutte da un effetto mentre questa carta è nel tuo Cimitero: puoi Evocare Specialmente questa carta.",
+    "desc": "1 Tuner + 1+ mostri non-Tuner\r\nI mostri Pianta che controlli non possono essere distrutti dagli effetti delle carte.\r\nPuoi utilizzare ciascuno dei seguenti effetti di \"Strega Rosa dell'Odio\" una sola volta per turno.\r\nSe questa carta viene Evocata Synchro: puoi mandare al Cimitero fino a 2 mostri Pianta (1 dal tuo Deck e/o 1 dal tuo Extra Deck), inoltre non puoi Evocare Specialmente dall'Extra Deck per il resto di questo turno, eccetto Mostri Synchro.\r\nSe una o più carte sul Terreno vengono distrutte da un effetto mentre questa carta è nel tuo Cimitero: puoi Evocare Specialmente questa carta.",
     "overallString": "[Mostro|Effetto|Synchro] Pianta/Oscurità  [★6] 1600/2400",
     "picUrl": "https://cdn02.moecube.com:444/ygopro-super-pre/data/pics/101302040.jpg?version=15.13"
   },
