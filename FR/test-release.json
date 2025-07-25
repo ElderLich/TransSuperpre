@@ -1,5 +1,65 @@
 [
   {
+    "name": "VARefar la Divinité du Coup de Pied",
+    "desc": "Lorsque votre adversaire active un effet de monstre sur le Terrain qui cible un ou plusieurs monstres que vous contrôlez, ou lorsque votre monstre est ciblé avec une attaque par un monstre adverse (Effet Rapide) : vous pouvez Invoquer Spécialement cette carte depuis votre main, puis vous pouvez révéler 1 carte dans votre main, puis appliquez cet effet au monstre de l'adversaire selon le type de carte révélée.\r\n● Monstre : Changez-le en Position de Défense.\r\n● Magie : Son ATK est doublée.\r\n● Piège : Bannissez-le.\r\nVous ne pouvez utiliser cet effet de \"VARefar la Divinité du Coup de Pied\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet] Démon/Terre  [★11] 2100/800",
+    "picUrl": "https://cdncf.moecube.com/ygopro-super-pre/data/pics/101302027.jpg?version=15.13"
+  },
+  {
+    "name": "Sphinx Chakravartin",
+    "desc": "Une fois par tour, si la position de combat d'un ou plusieurs autres monstre sur le Terrain est changée : vous pouvez cibler 1 carte sur le Terrain ; renvoyez-la à la main.\r\nVous ne pouvez utiliser chacun des effets suivants de \"Sphinx Chakravartin\" qu'une fois par tour.\r\nSi la position de combat d'un ou plusieurs monstres est changée : vous pouvez bannir 1 Magie depuis votre Cimetière ; Invoquez Spécialement cette carte depuis votre Cimetière (si elle y était lorsque la position a été changée) ou la main (même si elle n'y était pas).\r\nDurant votre Main Phase : vous pouvez Poser 1 \"Le Livre de Taiyou\" et/ou 1 \"Le Livre de la Lune\" depuis votre Deck et/ou Cimetière.",
+    "overallString": "[Monstre|Effet] Rocher/Terre  [★8] 2500/3000",
+    "picUrl": "https://cdncf.moecube.com/ygopro-super-pre/data/pics/101302028.jpg?version=15.13"
+  },
+  {
+    "name": "Béhémoth à Trois Têtes",
+    "desc": "Si une ou plusieurs cartes face recto que vous contrôlez sont détruites par un effet de carte, même durant la Damage Step : vous pouvez Invoquer Spécialement cette carte depuis votre main. Vous ne pouvez utiliser cet effet de \"Béhémoth à Trois Têtes\" qu'une fois par tour.\r\nSi cette carte est Invoquée Normalement ou Spécialement : vous pouvez activer cet effet ; durant la End Phase de ce tour, Invoquez Spécialement 1 monstre VENT depuis votre Cimetière, mais son ATK/DEF deviennent 1000. Vous ne pouvez utiliser cet effet de \"Béhémoth à Trois Têtes\" qu'une fois par Duel.",
+    "overallString": "[Monstre|Effet] Dragon/Vent  [★4] 1500/1200",
+    "picUrl": "https://cdncf.moecube.com/ygopro-super-pre/data/pics/101302029.jpg?version=15.13"
+  },
+  {
+    "name": "Taotao, la Chanteuse",
+    "desc": "Si cette carte combat un monstre, aucun de ces 2 monstres ne peut être détruit par ce combat.\r\nSi vous recevez des dommages de combat ou d'effet : vous pouvez Invoquer Spécialement 1 monstre Illusion de min. Niveau 3 depuis votre main ou Cimetière, ou, si vous avez reçu min. 2000 points de dommages, vous pouvez l'Invoquer Spécialement depuis votre Deck ou Extra Deck à la place. Vous ne pouvez utiliser cet effet de \"Taotao, la Chanteuse\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet|Syntoniseur] Illusion/Terre  [★2] 900/600",
+    "picUrl": "https://cdncf.moecube.com/ygopro-super-pre/data/pics/101302031.jpg?version=15.13"
+  },
+  {
+    "name": "Cerzebuth, Laimargia des Fers Ébènes",
+    "desc": "2+ monstres de Niveau 7\r\nGagne 700 ATK pour chaque Matériel qui lui est attachée.\r\nUne fois par Chaîne, lorsqu'une Carte Magie Normale ou Jeu-Rapide est activée (Effet Rapide) : vous pouvez attacher la carte sur le Terrain à cette carte face recto, et si vous le faites, cette carte n'est pas affectée par l'effet activé.\r\nDurant la End Phase : vous pouvez Poser 1 Magie attachée à cette carte. Vous ne pouvez utiliser cet effet de \"Cerzebuth, Laimargia des Fers Ébènes\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet|Xyz] Bête/Ténébres  [☆7] 700/2500",
+    "picUrl": "https://cdncf.moecube.com/ygopro-super-pre/data/pics/101302048.jpg?version=15.13"
+  },
+  {
+    "name": "Nécromancien du Miasme",
+    "desc": "2 monstres (un monstre TÉNÈBRES Magicien inclus)\r\nSi cette carte est Invoquée par Lien : vous pouvez ajouter 1 monstre TÉNÈBRES Magicien de min. Niveau 5 depuis votre Cimetière à votre main, mais vous ne pouvez activer ni de cartes ni d'effets de cartes avec son nom le reste de ce tour.\r\nVous pouvez envoyer 1 Magie/Piège depuis votre main ou Terrain au Cimetière ; immédiatement après la résolution de cet effet, Invoquez Normalement 1 monstre Magicien.\r\nVous ne pouvez utiliser chaque effet de \"Nécromancien du Miasme\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet|Lien] Magicien/Ténébres  [LINK-2] 1800/-  [←][→]",
+    "picUrl": "https://cdncf.moecube.com/ygopro-super-pre/data/pics/101302052.jpg?version=15.13"
+  },
+  {
+    "name": "Apocaries",
+    "desc": "Lorsque cette carte est activée : placez un nombre de Compteurs C sur cette carte égal au nombre de cartes contrôlées par votre adversaire.\r\nVous pouvez cibler 1 monstre face recto contrôlé par votre adversaire et retirer max. 4 Compteurs C depuis votre Terrain ; appliquez cet effet au monstre selon le nombre retiré.\r\n● 1 : Il perd 500 ATK.\r\n● 2 : Changez son ATK à 0.\r\n● 3 : Annulez ses effets.\r\n● 4 : Détruisez-le.\r\nVous ne pouvez activer qu'1 \"Apocaries\" par tour.",
+    "overallString": "[Magie|Continu]",
+    "picUrl": "https://cdncf.moecube.com/ygopro-super-pre/data/pics/101302072.jpg?version=15.13"
+  },
+  {
+    "name": "Miss Okiku’s Dishrithmetic",
+    "desc": "①：Once per Chain, when your opponent activates a card or effect: You can place Dish Counters on this card equal to the Chain Link number of this effect.\r\n②：Apply these effects based on the number of Dish Counters on this card.\r\n● 9 or less: Your opponent cannot target this card with card effects, also it cannot be destroyed by your opponent's card effects.\r\n● 10 or more: Send this card to the GY.\r\n③：If this card is sent to the GY by its own effect: You can send the top 10 cards of your Deck to the GY.",
+    "overallString": "[Piège|Continu]",
+    "picUrl": "https://cdncf.moecube.com/ygopro-super-pre/data/pics/101302080.jpg?version=15.13"
+  },
+  {
+    "name": "Vents de la Victoire",
+    "desc": "Le monstre équipé gagne 300 ATK, et aussi, il devient VENT.",
+    "overallString": "[Magie|Équipement]",
+    "picUrl": "https://cdncf.moecube.com/ygopro-super-pre/data/pics/100246001.jpg?version=15.13"
+  },
+  {
+    "name": "Piège du Scorpion Venimeux",
+    "desc": "Lorsqu'un monstre de votre adversaire déclare une attaque : détruisez-le, puis infligez 300 points de dommages à votre adversaire.",
+    "overallString": "[Piège]",
+    "picUrl": "https://cdncf.moecube.com/ygopro-super-pre/data/pics/100246002.jpg?version=15.13"
+  },
+  {
     "name": "Dogmatika Fleurdelis, la Tonitruante",
     "desc": "Durant la Main Phase, si un monstre Invoqué Spécialement depuis l'Extra Deck est sur le Terrain (Effet Rapide) : vous pouvez Invoquer Spécialement cette carte depuis votre main.\r\nSi cette carte est Invoquée Spécialement depuis la main : vous pouvez Poser 1 Piège \"Dogmatika\" depuis votre Deck. Il peut être activé ce tour, tant que votre adversaire contrôle un Monstre Fusion, Synchro, Xyz, ou Lien avec min. 2500 ATK.\r\nVous ne pouvez utiliser chaque effet de \"Dogmatika Fleurdelis, la Tonitruante\" qu'une fois par tour.",
     "overallString": "[Monstre|Effet] Magicien/Lumiére  [★8] 2500/2500",
