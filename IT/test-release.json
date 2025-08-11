@@ -1,5 +1,65 @@
 [
   {
+    "name": "Mix Sintonia Micidiale",
+    "desc": "Se questa carta sul Terreno sta per essere utilizzata come Materiale Synchro, 1 Tuner nella tua mano può essere utilizzato come uno degli altri materiali.\r\nPuoi utilizzare ognuno dei seguenti effetti di \"Mix Sintonia Micidiale\" solo una volta per turno.\r\nSe questa carta viene Evocata Normalmente o Specialmente: puoi aggiungere 1 mostro \"Sintonia Micidiale\" dal tuo Deck o Cimitero alla tua mano, eccetto un mostro di Livello 2.\r\nSe questa carta viene mandata al Cimitero come Materiale Synchro: puoi scegliere come bersaglio 1 mostro controllato dal tuo avversario; distruggilo.",
+    "overallString": "[Monster|Effect|Tuner] Warrior/Wind  [★2] 100/2000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245031.jpg?version=15.13"
+  },
+  {
+    "name": "Clip Sintonia Micidiale",
+    "desc": "Se questa carta sul Terreno sta per essere utilizzata come Materiale Synchro, 1 Tuner nella tua mano può essere utilizzato come uno degli altri materiali.\r\nPuoi utilizzare ognuno dei seguenti effetti di \"Clip Sintonia Micidiale\" solo una volta per turno.\r\nDurante la Main Phase del tuo avversario (Effetto Rapido): puoi Evocare Specialmente questa carta dalla tua mano, poi, immediatamente dopo la risoluzione di questo effetto, puoi Evocare Synchro 1 Tuner.\r\nSe questa carta viene mandata al Cimitero come Materiale Synchro: puoi bandire 1 carta a caso coperta dall'Extra Deck del tuo avversario.",
+    "overallString": "[Monster|Effect|Tuner] Thunder/Dark  [★2] 800/1000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245032.jpg?version=15.13"
+  },
+  {
+    "name": "Reco Sintonia Micidiale",
+    "desc": "Se questa carta sul Terreno sta per essere utilizzata come Materiale Synchro, 1 Tuner nella tua mano può essere utilizzato come uno degli altri materiali.\r\nPuoi utilizzare ognuno dei seguenti effetti di \"Reco Sintonia Micidiale\" solo una volta per turno.\r\nSe questa carta viene Evocata Normalmente o Specialmente: puoi aggiungere 1 mostro \"Sintonia Micidiale\" dal tuo Deck o Cimitero alla tua mano, eccetto un mostro di Livello 3.\r\nSe questa carta viene mandata al Cimitero come Materiale Synchro: puoi scegliere come bersaglio 1 Magia/Trappola controllata dal tuo avversario; distruggila.",
+    "overallString": "[Monster|Effect|Tuner] Fiend/Fire  [★3] 1500/800",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245033.jpg?version=15.13"
+  },
+  {
+    "name": "Artista di Tracce Sintonia Micidiale",
+    "desc": "1 Tuner \"Sintonia Micidiale\" + 1+ Tuner\r\nSe questa carta sul Terreno sta per essere utilizzata come Materiale Synchro, 1 Tuner nella tua mano può essere utilizzato come uno degli altri materiali.\r\nPuoi utilizzare ognuno dei seguenti effetti di \"Artista di Tracce Sintonia Micidiale\" solo una volta per turno.\r\nSe questa carta viene Evocata Specialmente: puoi aggiungere 1 carta \"Sintonia Micidiale\" dal tuo Deck alla tua mano.\r\nSe questa carta viene mandata al Cimitero come Materiale Synchro: puoi far ritornare 1 carta controllata dal tuo avversario nella mano.",
+    "overallString": "[Monster|Effect|Tuner|Synchro] Machine/Light  [★4] 0/2500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245035.jpg?version=15.13"
+  },
+  {
+    "name": "Remix Sintonia Micidiale",
+    "desc": "\"Mix Sintonia Micidiale\" + 1+ Tuner\r\nGuadagna 1500 ATK mentre il tuo avversario controlla un Tuner o ne ha uno nel Cimitero.\r\nDurante il turno del tuo avversario (Effetto Rapido): puoi offrire come Tributo questa carta; prendi 2 Tuner non-Synchro dal tuo Cimitero, aggiungine 1 alla tua mano e, se lo fai, Evoca Specialmente l'altro, poi, immediatamente dopo la risoluzione di questo effetto, puoi Evocare Synchro 1 Tuner.\r\nPuoi utilizzare questo effetto di \"Remix Sintonia Micidiale\" solo una volta per turno.",
+    "overallString": "[Monster|Effect|Tuner|Synchro] Warrior/Dark  [★5] 1500/2000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245036.jpg?version=15.13"
+  },
+  {
+    "name": "Sigillo Rosso Sintonia Micidiale",
+    "desc": "\"Reco Sintonia Micidiale\" + 1+ Tuner\r\nGuadagna 300 ATK per ogni Tuner nei Cimiteri.\r\nI Livelli dei mostri controllati dal tuo avversario con ATK originale pari o inferiore a 1700 aumentano di 1.\r\nDurante la Main Phase (Effetto Rapido): puoi bandire 1 Tuner dal tuo Cimitero, poi scegliere come bersaglio 1 carta scoperta controllata dal tuo avversario; annulla i suoi effetti fino alla fine di questo turno. Puoi utilizzare questo effetto di \"Sigillo Rosso Sintonia Micidiale\" solo una volta per turno.",
+    "overallString": "[Monster|Effect|Tuner|Synchro] Fiend/Dark  [★5] 1700/2400",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245037.jpg?version=15.13"
+  },
+  {
+    "name": "Guerra del Volume Sintonia Micidiale",
+    "desc": "1 Tuner + 1+ Tuner\r\nGli altri Tuner che controlli non possono essere distrutti dagli effetti delle carte, inoltre il tuo avversario non può scegliere come bersaglio tali mostri con effetti di carte.\r\nQuando il tuo avversario attiva una carta o un effetto (Effetto Rapido): puoi bandire 1 mostro \"Sintonia Micidiale\" dal tuo Cimitero; applica il suo effetto che si attiva se viene mandato al Cimitero come Materiale Synchro. Puoi utilizzare questo effetto di \"Guerra del Volume Sintonia Micidiale\" solo una volta per turno.",
+    "overallString": "[Monster|Effect|Tuner|Synchro] Machine/Light  [★6] 0/3000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245038.jpg?version=15.13"
+  },
+  {
+    "name": "Synchro Sintonia Micidiale",
+    "desc": "Aggiungi 1 carta \"Sintonia Micidiale\" dal tuo Deck alla tua mano, eccetto \"Synchro Sintonia Micidiale\", poi, immediatamente dopo la risoluzione di questo effetto, puoi Evocare Synchro 1 Tuner. Per il resto di questo turno dopo la risoluzione di questa carta, non puoi Evocare Specialmente, eccetto Tuner. Puoi attivare solo 2 \"Synchro Sintonia Micidiale\" per turno.",
+    "overallString": "[Spell|Quick-Play]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245039.jpg?version=15.13"
+  },
+  {
+    "name": "Juke Joint \"Sintonia Micidiale\"",
+    "desc": "Durante la tua Main Phase, puoi effettuare 1 Evocazione Normale di un Tuner in aggiunta alla tua Evocazione Normale/Posizionamento (puoi ottenere questo effetto solo una volta per turno).\r\nI \"Guerra del Volume Sintonia Micidiale\" che controlli guadagnano 3300 ATK mentre il tuo avversario controlla un Tuner o ne ha uno nel suo Cimitero.\r\nPuoi offrire come Tributo 1 Tuner; aggiungi alla tua mano, o Evoca Specialmente, 1 mostro \"Sintonia Micidiale\" dal tuo Deck, inoltre non puoi Evocare Specialmente per il resto di questo turno, eccetto Tuner. Puoi utilizzare questo effetto di \"Juke Joint \"Sintonia Micidiale\"\" solo una volta per turno.",
+    "overallString": "[Spell|Field]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245040.jpg?version=15.13"
+  },
+  {
+    "name": "Playlist Sintonia Micidiale",
+    "desc": "Scegli come bersaglio 1 mostro \"Sintonia Micidiale\" che controlli o nel tuo Cimitero; applica i seguenti effetti, in ordine, inoltre non puoi Evocare Specialmente per il resto di questo turno dopo la risoluzione di questa carta, eccetto Tuner.\r\n● Applica il suo effetto che si attiva se viene mandato al Cimitero come Materiale Synchro.\r\n● Fallo ritornare nella mano.\r\nPuoi attivare solo 2 \"Playlist Sintonia Micidiale\" per turno.",
+    "overallString": "[Trap]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245041.jpg?version=15.13"
+  },
+  {
     "name": "Regina del Dominio Fiammeggiante",
     "desc": "Non può essere distrutta dagli effetti delle carte.\r\nSe questa carta è nella tua mano: puoi scegliere come bersaglio fino a 2 carte che controlli, compresa 1 Magia/Trappola scoperta; distruggile e, se lo fai, Evoca Specialmente questa carta.\r\nSe hai distrutto 1 carta, rimanda questa carta nella mano durante la End Phase del prossimo turno, oppure, se hai distrutto 2 carte, questa carta invece guadagna questo effetto.\r\n● Qualsiasi mostro mandato dal Terreno al Cimitero del tuo avversario viene invece bandito.\r\nPuoi utilizzare questo effetto di \"Regina del Dominio Fiammeggiante\" una sola volta per turno.",
     "overallString": "[Monster|Effect] Pyro/Dark  [★9] 3000/2500",
