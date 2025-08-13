@@ -1,5 +1,155 @@
 [
   {
+    "name": "废铁同调士",
+    "desc": "这张卡可以作为「同调士」调整的代替而成为同调素材。这个卡名的①②的效果1回合各能使用1次。\r\n①：以「同调士」调整为素材的同调怪兽同调召唤的场合，手卡的这张卡也能作为同调素材。\r\n②：自己场上的以下卡被战斗·效果破坏的场合，可以作为代替把场上·墓地的这张卡除外。\r\n●有「废品战士」的卡名记述的怪兽\r\n●原本卡名包含「战士」的同调怪兽",
+    "overallString": "[Monstro|Efeito|Regulador] Máquina/Terra  [★1] 700/100",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100244004.jpg?version=15.13"
+  },
+  {
+    "name": "废铁战士",
+    "desc": "「废铁同调士」＋调整以外的怪兽1只以上\r\n这个卡名的①的效果1回合只能使用1次。\r\n①：这张卡同调召唤的场合才能发动。从自己的卡组把1只「废品同调士」或者1张有「废品战士」的卡名记述的卡加入手卡或送去墓地。\r\n②：「废铁战士」以外的，自己场上的以下怪兽发动的效果不会被无效化。\r\n●有「废品战士」的卡名记述的怪兽\r\n●原本卡名包含「战士」的同调怪兽",
+    "overallString": "[Monstro|Efeito|Sincro] Guerreiro/Terra  [★3] 1700/100",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100244033.jpg?version=15.13"
+  },
+  {
+    "name": "杀手级调整曲·音混",
+    "desc": "场上的这张卡为素材作同调召唤的场合，可以把手卡的1只调整作为同调素材。这个卡名的①②的效果1回合各能使用1次。\r\n①：这张卡召唤·特殊召唤的场合才能发动。从自己的卡组·墓地把2星怪兽以外的1只「杀手级调整曲」怪兽加入手卡。\r\n②：这张卡作为同调素材被送去墓地的场合，以对方场上1只怪兽为对象才能发动。那只怪兽破坏。",
+    "overallString": "[Monstro|Efeito|Regulador] Guerreiro/Vento  [★2] 100/2000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245031.jpg?version=15.13"
+  },
+  {
+    "name": "杀手级调整曲·片段",
+    "desc": "场上的这张卡为素材作同调召唤的场合，可以把手卡的1只调整作为同调素材。这个卡名的①②的效果1回合各能使用1次。\r\n①：这张卡在手卡存在的场合，对方主要阶段才能发动。这张卡特殊召唤。那之后，可以进行1只同调怪兽调整的同调召唤。\r\n②：这张卡作为同调素材被送去墓地的场合才能发动。把对方额外卡组里侧的卡随机1张除外。",
+    "overallString": "[Monstro|Efeito|Regulador] Trovão/Trevas  [★2] 800/1000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245032.jpg?version=15.13"
+  },
+  {
+    "name": "杀手级调整曲·声留",
+    "desc": "场上的这张卡为素材作同调召唤的场合，可以把手卡的1只调整作为同调素材。这个卡名的①②的效果1回合各能使用1次。\r\n①：这张卡召唤·特殊召唤的场合才能发动。从自己的卡组·墓地把3星怪兽以外的1只「杀手级调整曲」怪兽加入手卡。\r\n②：这张卡作为同调素材被送去墓地的场合，以对方场上1张魔法·陷阱卡为对象才能发动。那张卡破坏。",
+    "overallString": "[Monstro|Efeito|Regulador] Demônio/Fogo  [★3] 1500/800",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245033.jpg?version=15.13"
+  },
+  {
+    "name": "杀手级调整曲·音轨制作人",
+    "desc": "「杀手级调整曲」调整＋调整1只以上\r\n场上的这张卡为素材作同调召唤的场合，可以把手卡的1只调整作为同调素材。这个卡名的①②的效果1回合各能使用1次。\r\n①：这张卡特殊召唤的场合才能发动。从卡组把1张「杀手级调整曲」卡加入手卡。\r\n②：这张卡作为同调素材被送去墓地的场合才能发动。对方场上1张卡回到手卡。",
+    "overallString": "[Monstro|Efeito|Regulador|Sincro] Máquina/Luz  [★4] 0/2500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245035.jpg?version=15.13"
+  },
+  {
+    "name": "杀手级调整曲·重编音混",
+    "desc": "「杀手级调整曲·音混」＋调整1只以上\r\n这个卡名的②的效果1回合只能使用1次。\r\n①：只要对方场上或墓地有调整存在，这张卡的攻击力上升1500。\r\n②：对方回合，把这张卡解放才能发动。从自己墓地选同调怪兽以外的2只调整，那之内的1只加入手卡，另1只特殊召唤。那之后，可以进行1只同调怪兽调整的同调召唤。",
+    "overallString": "[Monstro|Efeito|Regulador|Sincro] Guerreiro/Trevas  [★5] 1500/2000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245036.jpg?version=15.13"
+  },
+  {
+    "name": "杀手级调整曲·红印鉴",
+    "desc": "「杀手级调整曲·声留」＋调整1只以上\r\n这个卡名的③的效果1回合只能使用1次。\r\n①：这张卡的攻击力上升双方墓地的调整的数量×300。\r\n②：原本攻击力是1700以下的对方场上的怪兽的等级上升1。\r\n③：自己·对方的主要阶段，从自己墓地把1只调整除外，以对方场上1张表侧表示卡为对象才能发动。那张卡的效果直到回合结束时无效。",
+    "overallString": "[Monstro|Efeito|Regulador|Sincro] Demônio/Trevas  [★5] 1700/2400",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245037.jpg?version=15.13"
+  },
+  {
+    "name": "杀手级调整曲的响度战争",
+    "desc": "调整＋调整1只以上\r\n这个卡名的②的效果1回合只能使用1次。\r\n①：只要这张卡在怪兽区域存在，自己场上的其他调整不会被效果破坏，对方不能把那些作为效果的对象。\r\n②：对方把效果发动时，从自己墓地把1只「杀手级调整曲」怪兽除外才能发动。除外的怪兽的，自身作为同调素材被送去墓地的场合发动的效果适用。",
+    "overallString": "[Monstro|Efeito|Regulador|Sincro] Máquina/Luz  [★6] 0/3000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245038.jpg?version=15.13"
+  },
+  {
+    "name": "杀手级调整曲同调",
+    "desc": "这个卡名的卡在1回合最多可以发动2张。\r\n①：从卡组把「杀手级调整曲同调」以外的1张「杀手级调整曲」卡加入手卡。那之后，可以进行1只同调怪兽调整的同调召唤。这张卡发动后，直到回合结束时自己不是调整不能特殊召唤。",
+    "overallString": "[Magia|Magia Rápida]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245039.jpg?version=15.13"
+  },
+  {
+    "name": "舞乐酒馆“杀手级调整曲”",
+    "desc": "这个卡名的③的效果1回合只能使用1次。\r\n①：自己在通常召唤外加上只有1次，自己主要阶段可以把1只调整召唤。\r\n②：只要对方场上或墓地有调整存在，自己场上的「杀手级调整曲的响度战争」的攻击力上升3300。\r\n③：把自己场上1只调整解放才能发动。从卡组选1只「杀手级调整曲」怪兽，加入手卡或特殊召唤。这个效果的发动后，直到回合结束时自己不是调整不能特殊召唤。",
+    "overallString": "[Magia|Magia de Campo]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245040.jpg?version=15.13"
+  },
+  {
+    "name": "杀手级调整曲播放列表",
+    "desc": "这个卡名的卡在1回合可以发动最多2张。\r\n①：以自己场上·墓地的1只「杀手级调整曲」怪兽为对象才能发动。以下效果各自适用。这张卡发动后，直到回合结束时自己不是调整不能特殊召唤。\r\n●作为对象的怪兽的，自身作为同调素材被送去墓地的场合发动的效果适用。\r\n●作为对象的怪兽回到手卡。",
+    "overallString": "[Armadilha]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245041.jpg?version=15.13"
+  },
+  {
+    "name": "Rainha do Domínio Ardente",
+    "desc": "Não pode ser destruído por efeitos de cards.\r\nSe este card estiver na sua mão: você pode escolher até 2 cards que você controla, incluindo uma Magia/Armadilha com a face para cima; destrua-as, e se fizer, Inoque este card por Invocação-Especial.\r\nSe você destruiu 1 card, retorne este card para a mão durante a Fase Final do seu próximo turno, ou se destruiu 2, ao invés este card ganha o seguinte efeito.\r\n● Qualquer monstro enviado do campo para o Cemitério do seu oponente, ao invés é banido.\r\nVocê só pode usar este efeito de \"Rainha do Domínio Ardente\" uma vez por turno.",
+    "overallString": "[Monstro|Efeito] Piro/Trevas  [★9] 3000/2500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100247147.jpg?version=15.13"
+  },
+  {
+    "name": "Enneacraft α' \"orgIA\"",
+    "desc": "Escala Pêndulo = 0\r\n[Efeito de Pêndulo]\r\nToda vez que um ou mais monstros são virados com a face para cima, coloque 1 Contador de Sinquisição neste card.\r\nVocê pode pagar 900 PV e revelar 3 cards \"Enneacraft\" do seu Deck, seu oponente aleatoriamente escolhe 1 para você adicionar à sua mão, você também embaralha o resto no Deck. Este efeito de \"Enneacraft α' \"orgIA\"\" só pode ser ativado uma vez por turno.\r\n----------------------------------------\r\n[Efeito de Monstro]\r\nVocê pode revelar este card da sua mão; Invoque 1 monstro por Invocação-Especial da sua mão em Posição de Defesa com a face para baixo. Você não pode Invocar por Invocação-Especial no turno que ativar este efeito, exceto em Posição de Defesa com a face para baixo.\r\nQuando seu oponente ativa o efeito de algum monstro da mão (Efeito Rápido): você pode mudar este card Baixado para Posição de Defesa com a face para cima; adicione 1 card \"Enneacraft\" do seu Deck à sua mão.\r\nSe este card for virado com a face para cima: destrua 1 monstro que seu oponente controla.",
+    "overallString": "[Monstro|Efeito|Virar|Pêndulo] Máquina/Terra  [★1] 100/1000  0/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245016.jpg?version=15.13"
+  },
+  {
+    "name": "Enneacraft β' \"alazoneIA\"",
+    "desc": "Escala Pêndulo = 0\r\n[Efeito de Pêndulo]\r\nToda vez que um ou mais monstros são virados com a face para cima, coloque 1 Contador de Sinquisição neste card.\r\nVocê pode pagar 900 PV e revelar 3 cards \"Enneacraft\" do seu Deck, seu oponente aleatoriamente escolhe 1 para você adicionar à sua mão, você também embaralha o resto no Deck. Este efeito de \"Enneacraft β' \"alazoneIA\"\" só pode ser ativado uma vez por turno.\r\n----------------------------------------\r\n[Efeito de Monstro]\r\nVocê pode revelar este card da sua mão; Invoque 1 monstro por Invocação-Especial da sua mão em Posição de Defesa com a face para baixo. Você não pode Invocar por Invocação-Especial no turno que ativar este efeito, exceto em Posição de Defesa com a face para baixo.\r\nQuando seu oponente ativa um card ou efeito que inclui adicionar um ou mais cards do Deck para a mão (Efeito Rápido): você pode mudar este card Baixado para Posição de Defesa com a face para cima; adicione 1 card \"Enneacraft\" do seu Deck à sua mão.\r\nSe este card for virado com a face para cima: bana com a face para cima 1 card aleatório da mão do seu oponente até a Fase Final.",
+    "overallString": "[Monstro|Efeito|Virar|Pêndulo] Máquina/Terra  [★1] 100/1000  0/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245017.jpg?version=15.13"
+  },
+  {
+    "name": "Enneacraft ϝ' \"tromarIA\"",
+    "desc": "Escala Pêndulo = 0\r\n[Efeito de Pêndulo]\r\nToda vez que um ou mais monstros são virados com a face para cima, coloque 1 Contador de Sinquisição neste card.\r\nVocê pode pagar 900 PV e revelar 3 cards \"Enneacraft\" do seu Deck, seu oponente aleatoriamente escolhe 1 para você adicionar à sua mão, você também embaralha o resto no Deck. Este efeito de \"Enneacraft ϝ' \"tromarIA\"\" só pode ser ativado uma vez por turno.\r\n----------------------------------------\r\n[Efeito de Monstro]\r\nVocê pode revelar este card da sua mão; Invoque 1 monstro por Invocação-Especial da sua mão em Posição de Defesa com a face para baixo. Você não pode Invocar por Invocação-Especial no turno que ativar este efeito, exceto em Posição de Defesa com a face para baixo.\r\nQuando seu oponente ativa um card ou efeito que inclui Invocar um monstro por Invocação-Especial (Efeito Rápido): você pode mudar este card Baixado para Posição de Defesa com a face para cima; adicione 1 card \"Enneacraft\" do seu Deck à sua mão.\r\nSe este card for virado com a face para cima: negue o efeito de 1 Monstro de Efeito que seu oponente controla até o final deste turno.",
+    "overallString": "[Monstro|Efeito|Virar|Pêndulo] Máquina/Terra  [★1] 100/1000  0/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245018.jpg?version=15.13"
+  },
+  {
+    "name": "Enneacraft θ' \"oknirIA\"",
+    "desc": "Escala Pêndulo = 0\r\n[Efeito de Pêndulo]\r\nToda vez que um ou mais monstros são virados com a face para cima, coloque 1 Contador de Sinquisição neste card.\r\nVocê pode pagar 900 PV e revelar 3 cards \"Enneacraft\" do seu Deck, seu oponente aleatoriamente escolhe 1 para você adicionar à sua mão, você também embaralha o resto no Deck. Este efeito de \"Enneacraft θ' \"oknirIA\"\" só pode ser ativado uma vez por turno.\r\n----------------------------------------\r\n[Efeito de Monstro]\r\nVocê pode revelar este card da sua mão; Invoque 1 monstro por Invocação-Especial da sua mão em Posição de Defesa com a face para baixo. Você não pode Invocar por Invocação-Especial no turno que ativar este efeito, exceto em Posição de Defesa com a face para baixo.\r\nQuando seu oponente ativa o efeito de um card no Cemitério ou Banimento (Efeito Rápido): você pode mudar este card Baixado para Posição de Defesa com a face para cima; adicione 1 card \"Enneacraft\" do seu Deck à sua mão.\r\nSe este card for virado com a face para cima: embaralhe até 3 cards do Cemitério e/ou Banimento do seu oponente no Deck.",
+    "overallString": "[Monstro|Efeito|Virar|Pêndulo] Máquina/Terra  [★1] 100/1000  0/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245019.jpg?version=15.13"
+  },
+  {
+    "name": "Enneacraft Aizaβ.LEON",
+    "desc": "Escala Pêndulo = 0\r\n[Efeito de Pêndulo]\r\nToda vez que um ou mais monstros são virados com a face para cima, coloque 1 Contador de Sinquisição neste card.\r\nNo final da Fase de Batalha, se você tiver um card \"Enneacraft\" na sua outra Zona de Pêndulo: você pode escolher 1 monstro que seu oponente contra com ATK menor que este card, destrua-o.\r\n----------------------------------------\r\n[Efeito de Monstro]\r\nVocê pode revelar este card da sua mão; Invoque 1 monstro por Invocação-Especial da sua mão em Posição de Defesa com a face para baixo. Você não pode Invocar por Invocação-Especial no turno que ativar este efeito, exceto em Posição de Defesa com a face para baixo.\r\nQuando seu oponente ativa um card ou efeito em resposta a ativação de um card ou efeito seu (Efeito Rápido): você pode mudar este card Baixado para Posição de Defesa com a face para cima; adicione 1 card \"Enneacraft\" do seu Deck à sua mão.\r\nToda vez que um ou mais cards são adicionados a mão do seu oponente por efeito de cards dele enquanto você controlar este monstro com a face para cima, inflija 900 de dano a ele para cada card.",
+    "overallString": "[Monstro|Efeito|Virar|Pêndulo] Máquina/Luz  [★9] 3000/2500  0/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245020.jpg?version=15.13"
+  },
+  {
+    "name": "Enneacraft Astaγ.PIXIEA",
+    "desc": "Escala Pêndulo = 0\r\n[Efeito de Pêndulo]\r\nToda vez que um ou mais monstros são virados com a face para cima, coloque 1 Contador de Sinquisição neste card.\r\nNo final da Fase de Batalha, se você tiver um card \"Enneacraft\" na sua outra Zona de Pêndulo: você pode escolher 1 monstro que seu oponente contra com ATK menor que este card, destrua-o.\r\n----------------------------------------\r\n[Efeito de Monstro]\r\nVocê pode revelar este card da sua mão; Invoque 1 monstro por Invocação-Especial da sua mão em Posição de Defesa com a face para baixo. Você não pode Invocar por Invocação-Especial no turno que ativar este efeito, exceto em Posição de Defesa com a face para baixo.\r\nQuando seu oponente ativa um card ou efeito que escolhe um ou mais cards que você controla (Efeito Rápido): você pode mudar este card Baixado para Posição de Defesa com a face para cima; negue aquele efeito, então você pode banir com a face para cima 1 card aleatório da mão do seu oponente.\r\nSeu oponente não pode escolher cards no campo ou Cemitério com efeito de cards enquanto controlar este monstro virado com a face para cima.",
+    "overallString": "[Monstro|Efeito|Virar|Pêndulo] Máquina/Luz  [★9] 3000/2500  0/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245021.jpg?version=15.13"
+  },
+  {
+    "name": "Enneacraft AtoriϜ.MAR",
+    "desc": "Escala Pêndulo = 0\r\n[Efeito de Pêndulo]\r\nToda vez que um ou mais monstros são virados com a face para cima, coloque 1 Contador de Sinquisição neste card.\r\nNo final da Fase de Batalha, se você tiver um card \"Enneacraft\" na sua outra Zona de Pêndulo: você pode escolher 1 monstro que seu oponente contra com ATK menor que este card, destrua-o.\r\n----------------------------------------\r\n[Efeito de Monstro]\r\nVocê pode revelar este card da sua mão; Invoque 1 monstro por Invocação-Especial da sua mão em Posição de Defesa com a face para baixo. Você não pode Invocar por Invocação-Especial no turno que ativar este efeito, exceto em Posição de Defesa com a face para baixo.\r\nQuando seu oponente ativa um card ou efeito no campo durante seu turno (Efeito Rápido): você pode mudar este card Baixado para Posição de Defesa com a face para cima; negue a ativação, e se fizer, destrua aquele card.\r\nSe este card for virado com a face para cima: mude para Posição de Defesa com a face para baixo todos os monstros que seu oponente controla. Suas posições de batalha não podem ser mudadas.",
+    "overallString": "[Monstro|Efeito|Virar|Pêndulo] Máquina/Luz  [★9] 3000/2500  0/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245022.jpg?version=15.13"
+  },
+  {
+    "name": "Enneacraft Archaη.TAIL",
+    "desc": "Escala Pêndulo = 0\r\n[Efeito de Pêndulo]\r\nToda vez que um ou mais monstros são virados com a face para cima, coloque 1 Contador de Sinquisição neste card.\r\nNo final da Fase de Batalha, se você tiver um card \"Enneacraft\" na sua outra Zona de Pêndulo: você pode escolher 1 monstro que seu oponente contra com ATK menor que este card, destrua-o.\r\n----------------------------------------\r\n[Efeito de Monstro]\r\nVocê pode revelar este card da sua mão; Invoque 1 monstro por Invocação-Especial da sua mão em Posição de Defesa com a face para baixo. Você não pode Invocar por Invocação-Especial no turno que ativar este efeito, exceto em Posição de Defesa com a face para baixo.\r\nQuando seu oponente ativa um card ou efeito que iria destruir um ou mais cards no campo (Efeito Rápido): você pode mudar este card Baixado para Posição de Defesa com a face para cima; monstros e Magias \"Enneacraft\" que você controla não podem ser destruidos por efeitos de cards pelo resto deste turno.\r\nToda vez que um ou mais monstros é enviado para o Cemitério do seu oponente enquanto você controlar este monstro virado com a face para cima, inflija 900 pontos de dano a ele.",
+    "overallString": "[Monstro|Efeito|Virar|Pêndulo] Máquina/Luz  [★9] 3000/2500  0/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245023.jpg?version=15.13"
+  },
+  {
+    "name": "Enneapolis, Cidade da Sinquisição",
+    "desc": "Este card é sempre considerado como um card \"Enneacraft\".\r\nUma ver por turno, durante a Fase Final: remova  todos os Contadores de Sinquisição de cards que você controla, e se fizer, inflija 900 de dano em seu oponente para cada.\r\nVocê só pode ativar cada um dos seguintes efeitos de \"Enneapolis, Cidade da Sinquisição\" uma vez por turno.\r\nVocê pode escolher qualquer número de Cards de Monstros Pêndulo \"Enneacraft\" que você controla; retorne-as para a mão.\r\nSe um ou mais Monstros Pêndulo \"Enneacraft\" que você controla é virado com a face para cima durante sua Fase Principal: você pode retornar para a mão, ou colocar na Zona de Pêndulo, 1 deles.",
+    "overallString": "[Magia|Magia de Campo]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245024.jpg?version=15.13"
+  },
+  {
+    "name": "Enneacraft – Release",
+    "desc": "Coloque 1 Monstro Pêndulo \"Enneacraft\" do seu Deck na sua Zona de Pêndulo.\r\nSe este card estiver no seu Cemitério, exceto no turno que foi enviado para lá: você pode bani-lo; adicione 1 monstro \"Enneacraft\" com a face para cima do seu Deck Adicional para sua mão.\r\nVocê só pode ativar 1 \"Enneacraft – Release\" uma vez por turno.",
+    "overallString": "[Magia]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245025.jpg?version=15.13"
+  },
+  {
+    "name": "Dogmatika Capelã",
+    "desc": "Se tiver um monstro Invocado por Invocação-Especial do Deck Adicional no campo: você pode Invocar este card da sua mão.\r\nSe este card for Invocado por Invocação-Especial da sua mão: você pode fazer cada jogador enviar 1 monstro de seus Decks Adicionais para o Cemitério.\r\nSe este card for enviado para o Cemitério: você pode escolher 1 card \"Dogmatika\" no seu Cemitério, exceto \"Dogmatika Capelã\"; adicione-o a sua mão.\r\nVocê só pode usar cada efeito de \"Dogmatika Capelã\" uma vez por turno.",
+    "overallString": "[Monstro|Efeito] Mago/Luz  [★8] 2000/2000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100200278.jpg?version=15.13"
+  },
+  {
+    "name": "Hecamãos",
+    "desc": "Quando você ativar este card, você também pode enviar 1 outro card que você controla para o Cemitério.\r\nVocê só pode usar cada um dos seguintes efeitos de \"Hecamãos\" uma vez por turno.\r\nAdicione 1 monstro \"Hecamãos\" do seu Deck para à mão, então, se você enviar um card para o Cemitério na ativação, você pode Baixar 1 Magia/Armadilha \"Hecamãos\" do seu Deck, exceto \"Hecamãos\".\r\nVocê pode banir este card do seu Cemitério; seu oponente compra 1 card, então ele descarta 1 card.",
+    "overallString": "[Magia]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245008.jpg?version=15.13"
+  },
+  {
     "name": "VARefar, a Divindade do Chute",
     "desc": "Quando seu oponente ativar o efeito de um monstro no campo que escolhe um ou mais monstros que você controla, ou quando seu monstro é escolhido para o ataque de um monstro do oponente (Efeito Rápido): você pode Invocar este card por Invocação-Especial da sua mão, então você pode revelar 1 card na sua mão para o oponente, então aplicar um dos seguintes efeitos à aquele monstro baseado no tipo de card revelado.\r\n● Monstro: Mude-o para Posição de Defesa.\r\n● Magia: Seu ATK é dobrado.\r\n● Armadilha: Bana-o.\r\nVocê só pode ativar 1 \"VARefar, a Divindade do Chute\" por turno.",
     "overallString": "[Monstro|Efeito] Demônio/Terra  [★11] 2100/800",
@@ -145,7 +295,7 @@
   },
   {
     "name": "Mouser, Armas da Tri-Brigada",
-    "desc": "2 monstros Besta, Besta-Guerreira, e/ou Besta Alada\r\nYou can only use the ① and ② effects of this card's name once per turn.\r\nSe este card for Invocado por Invocação-Link: Você pode enviar 2 cards \"Tri-Brigada\" com nomes diferentes do seu Deck e/ou Deck Adicional para o Cemitério, exceto \"Mouser, Armas da Tri-Brigada\", você também não pode Invocar por Invocação-Especial do seu Deck Adicional pelo resto do turno, exceto por monstros Besta, Besta-Guerreira, e Besta Alada.\r\nSe este card for enviado para o Cemitério: Você pode escolher 1 monstro com a face para cima no campo; mude-o para Posição de Defesa com a face para baixo.",
+    "desc": "2 monstros Besta, Besta-Guerreira, e/ou Besta Alada\r\nSe este card for Invocado por Invocação-Link: Você pode enviar 2 cards \"Tri-Brigada\" com nomes diferentes do seu Deck e/ou Deck Adicional para o Cemitério, exceto \"Mouser, Armas da Tri-Brigada\", você também não pode Invocar por Invocação-Especial do seu Deck Adicional pelo resto do turno, exceto por monstros Besta, Besta-Guerreira, e Besta Alada.\r\nSe este card for enviado para o Cemitério: Você pode escolher 1 monstro com a face para cima no campo; mude-o para Posição de Defesa com a face para baixo.\r\nVocê só pode ativar cada efeito de \"Mouser, Armas da Tri-Brigada\" uma vez por turno.",
     "overallString": "[Monstro|Efeito|Link] Besta/Terra  [LINK-2] 1800/-  [↙][↘]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101302051.jpg?version=15.13"
   },
