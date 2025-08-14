@@ -1,73 +1,127 @@
 [
   {
-    "name": "废铁同调士",
-    "desc": "这张卡可以作为「同调士」调整的代替而成为同调素材。这个卡名的①②的效果1回合各能使用1次。\r\n①：以「同调士」调整为素材的同调怪兽同调召唤的场合，手卡的这张卡也能作为同调素材。\r\n②：自己场上的以下卡被战斗·效果破坏的场合，可以作为代替把场上·墓地的这张卡除外。\r\n●有「废品战士」的卡名记述的怪兽\r\n●原本卡名包含「战士」的同调怪兽",
+    "name": "Carregador Foguette",
+    "desc": "Se este card for Invocado por Invocação-Normal ou Invocação-Especial: você pode adicionar 1 monstro Dragão de TREVAS de Nível 7 do seu Deck à mão, você também não pode Invocar por Invocação-Especial do Deck Adicional pelo resto deste turno, exceto monstros TREVAS.\r\nVocê pode banir este card do seu Cemitério, então escolher 1 monstro com a face para cima no campo; seu Atributo se torna TREVAS até o final do turno.\r\nVocê só pode usar cada um dos efeitos de \"Carregador Foguette\" uma vez por turno.",
+    "overallString": "[Monstro|Efeito] Dragão/Trevas  [★4] 1500/1500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303201.jpg?version=15.13"
+  },
+  {
+    "name": "Dragão Ocofoguette",
+    "desc": "Quando o efeito de um Monstro Link que escolhe este card com a face para cima no campo é ativado (Efeito Rápido): você pode destruir este card, então excave até 6 cards do topo do Deck do oponente, e se fizer, bana 1 deles, então coloque o resto no topo do Deck na mesma ordem.\r\nDurante a Fase Final, se este card estiver no Cemitério por ser destruído no campo por batalha ou efeito e foi enviado para lá neste turno: você pode Invocar por Invocação-Especial 1 monstro \"Foguette\" do seu Deck, exceto \"Dragão Ocofoguette\"\r\nVocê só pode ativar cada um dos efeitos de \"Dragão Ocofoguette\" uma vez por turno.",
+    "overallString": "[Monstro|Efeito] Dragão/Trevas  [★6] 2400/1600",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303202.jpg?version=15.13"
+  },
+  {
+    "name": "Detonador Foguette",
+    "desc": "Se você controla um Monstro Dragão Link de TREVAS, você pode Invocar este card por Invocação-Especial (da sua mão). Você só pode Invocar \"Detonador Foguette\" desta forma uma vez por turno.\r\nVocê pode escolher 1 Monstro Dragão de TREVAS na sua Zona de Magias & Armadilhas; Invoque-o por Invocação-Especial, mas ele não pode atacar, seus efeitos são negados, você também não pode Invocar por Invocação-Especial do Deck Adicional pelo resto do turno, exceto monstros TREVAS. Você só pode usar este efeito de \"Detonador Foguette\" uma vez por turno.",
+    "overallString": "[Monstro|Efeito] Dragão/Trevas  [★7] 1800/2500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303203.jpg?version=15.13"
+  },
+  {
+    "name": "Dragão do Fogo Fatal Callibregado",
+    "desc": "1 Monstro Link de TREVAS + 1 monstro de TREVAS\r\nSe este card for Invocado por Invocação-Fusão: você pode adicionar 1 monstro \"Foguette\" do seu Deck à mão.\r\nVocê pode escolher 1 monstro TREVAS que controla; equipe 1 Monstro Link de TREVAS do seu Cemitério ou Banimento a ele como uma Magia de Equipamento que da 500 de ATK.\r\nSe este card for enviado para o Cemitério como Matéria Link: você pode escolher 1 card no campo; destrua-o.\r\nVocê só pode ativar cada um dos efeitos de \"Dragão do Fogo Fatal Callibregado\" uma vez por turno.",
+    "overallString": "[Monstro|Efeito|Fusão] Dragão/Trevas  [★8] 2500/2000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303204.jpg?version=15.13"
+  },
+  {
+    "name": "Dragão Callibrendado",
+    "desc": "3+ Monstros de Efeito\r\nSeu oponente não pode oferecer este card no campo como Tributo.\r\nUma vez por turno, durante a Fase Principal (Efeito Rápido): você pode escolher 1 monstro \"Foguette\" que você controla; negue os efeitos de 1 card com a face para cima que seu oponente controla, então destrua aquele monstro. Seu oponente não pode ativar cards ou efeitos em resposta a ativação deste efeito.\r\nUma vez enquanto com a face para cima no campo, no início da Fase de Batalha: você pode Invocar por Invocação-Especial 1 Monstro Link-4 ou Monstro Link \"Callibre\" menor do seu Deck Adicional.",
+    "overallString": "[Monstro|Efeito|Link] Dragão/Trevas  [LINK-5] 3500/-  [←][→][↙][↓][↘]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303205.jpg?version=15.13"
+  },
+  {
+    "name": "Dragão Tricallibre",
+    "desc": "2+ monstros Dragão de TREVAS, incluindo um monstro \"Foguette\"\r\nSe este card for Invocado por Invocação-Link: você pode adicionar 1 \"Gatilho Rápido\", \"Interconector Pesado\", ou \"Gatilho Duplo\" do seu Deck para à mão.\r\nVocê pode escolher 1 card com a face para cima e 1 monstro Dragão de TREVAS no seu Cemitério; destrua aquele card no campo, e se fizer, adicione aquele outro monstro à sua mão.\r\nVocê só pode ativar cada um dos efeitos de \"Dragão Tricallibre\" uma vez por turno.",
+    "overallString": "[Monstro|Efeito|Link] Dragão/Trevas  [LINK-3] 2300/-  [←][↙][↓]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303206.jpg?version=15.13"
+  },
+  {
+    "name": "Gatilho Duplo",
+    "desc": "Ative 1 destes efeitos (mas você só pode usar cada efeito de \"Gatilho Duplo\" uma vez por turno);\r\n● Invoque 1 Monstro Fusão por Invocação-Fusão do seu Deck Adicional, banindo suas matérias do seu Cemitério, incluindo um monstro \"Foguette\".\r\n● Invoque 1 Monstro Ritual por Invocação-Ritual da sua mão, banindo monstros do seu Cemitério com Níveis totais ou excedentes do Nível daquele monstro, incluindo um monstro \"Foguette\".",
+    "overallString": "[Magia]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303207.jpg?version=15.13"
+  },
+  {
+    "name": "Reiniciar Callibre",
+    "desc": "Você pode ativar este card da sua mão pagando metade dos seus PV.\r\nQuando seu oponente ativar um Card de Magia/Armadilha, se você controlar um monstro \"Foguette\" ou \"Callibre\": negue a ativação, e se fizer, baixe aquele card. Ele não pode ser ativado neste turno.",
+    "overallString": "[Armadilha|Armadilha de Resposta]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303208.jpg?version=15.13"
+  },
+  {
+    "name": "Enneacraft – Renascer",
+    "desc": "Você pode ativar somente 1 \"Enneacraft – Renascer\" por turno.\r\nEmbaralhe qualquer número de Cards de Monstros \"Enneacraft\" da sua mão e/ou com a face para cima no Deck, então compre cards igual ao número embaralhado.\r\nSe seu oponente Invocar um ou mais monstros por Invocação-Normal ou Invocação-Especial enquanto este card estiver no Cemitério: você pode banir este card, então ative 1 dos seguintes efeitos;\r\n● Invoque por Invocação-Especial 1 monstro \"Enneacraft\" da sua mão em Posição de Defesa com a face para baixo.\r\n● Mude 1 de seus monstros \"Enneacraft\" Baixados para Posição de Defesa com a face para cima.",
+    "overallString": "[Magia]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245026.jpg?version=15.13"
+  },
+  {
+    "name": "Sincron de Restolhos",
+    "desc": "Você pode substituir este card por qualquer 1 Regular \"Sincron\" para uma Invocação-Sincro.\r\nVocê só pode usar cada um dos seguintes efeitos de \"Sincron de Restolhos\" uma vez por turno.\r\nSe você Invocar por Invocação-Sincro um monstro que menciona um Regulador \"Sincron\" como matéria, este card na sua mão também pode ser usado como matéria.\r\nSe um ou mais monstros que você controla que menciona \"Guerreiro Sucata\" e/ou é um Monstro Sincro com \"Guereiro\" em seu nome original seria destruído por batalha ou efeito, ao invés disso você pode banir este card do seu campo ou Cemitério.",
     "overallString": "[Monstro|Efeito|Regulador] Máquina/Terra  [★1] 700/100",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100244004.jpg?version=15.13"
   },
   {
-    "name": "废铁战士",
-    "desc": "「废铁同调士」＋调整以外的怪兽1只以上\r\n这个卡名的①的效果1回合只能使用1次。\r\n①：这张卡同调召唤的场合才能发动。从自己的卡组把1只「废品同调士」或者1张有「废品战士」的卡名记述的卡加入手卡或送去墓地。\r\n②：「废铁战士」以外的，自己场上的以下怪兽发动的效果不会被无效化。\r\n●有「废品战士」的卡名记述的怪兽\r\n●原本卡名包含「战士」的同调怪兽",
+    "name": "Guerreiro de Restolhos",
+    "desc": "\"Sincron de Restolhos\" + 1+ Monstros não-Reguladores\r\nOs efeitos ativados dos monstros que você controla que menciona \"Guerreiro Sucata\" e/ou são Monstros Sincro com \"Guerreiro\" em seu nome original não podem ser negados, exceto \"Guerreiro de Restolhos\".\r\nSe este card for Invocado por Invocação-Sincro: você pode adicionar à mão, ou enviar para o Cemitério, 1 \"Sucata Sincron\" ou 1 card que menciona \"Guerreiro Sucata\" do seu Deck. Você só pode usar este efeito de \"Guerreiro de Restolhos\" uma vez por turno.\r\n",
     "overallString": "[Monstro|Efeito|Sincro] Guerreiro/Terra  [★3] 1700/100",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100244033.jpg?version=15.13"
   },
   {
-    "name": "杀手级调整曲·音混",
-    "desc": "场上的这张卡为素材作同调召唤的场合，可以把手卡的1只调整作为同调素材。这个卡名的①②的效果1回合各能使用1次。\r\n①：这张卡召唤·特殊召唤的场合才能发动。从自己的卡组·墓地把2星怪兽以外的1只「杀手级调整曲」怪兽加入手卡。\r\n②：这张卡作为同调素材被送去墓地的场合，以对方场上1只怪兽为对象才能发动。那只怪兽破坏。",
+    "name": "Tune Matador Mix",
+    "desc": "Se este card seria usado como Matéria Sincro enquanto está no campo, 1 Regulador na sua mão pode ser usado como 1 das outras matérias.\r\nSe este card for Invocado por Invocação-Normal ou Invocação-Especial: você pode adicionar 1 monstro \"Tune Matador\" do seu Deck ou Cemitério para a mão, exceto um monstro de Nível 2.\r\nSe este card for enviado para o Cemitério como Matéria Sincro: você pode escolher 1 monstro que seu oponente controla; destrua-o.\r\nVocê só pode usar cada um dos efeitos de \"Tune Matador Mix\" uma vez por turno.",
     "overallString": "[Monstro|Efeito|Regulador] Guerreiro/Vento  [★2] 100/2000",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245031.jpg?version=15.13"
   },
   {
-    "name": "杀手级调整曲·片段",
-    "desc": "场上的这张卡为素材作同调召唤的场合，可以把手卡的1只调整作为同调素材。这个卡名的①②的效果1回合各能使用1次。\r\n①：这张卡在手卡存在的场合，对方主要阶段才能发动。这张卡特殊召唤。那之后，可以进行1只同调怪兽调整的同调召唤。\r\n②：这张卡作为同调素材被送去墓地的场合才能发动。把对方额外卡组里侧的卡随机1张除外。",
+    "name": "Tune Matador Clipe",
+    "desc": "Se este card seria usado como Matéria Sincro enquanto está no campo, 1 Regulador na sua mão pode ser usado como 1 das outras matérias.\r\nDurante a Fase Principal do seu oponente (Efeito Rápido): você pode Invocar este card da sua mão por Invocação-Especial, então, imediatamente após resolver este efeito, você pode Invocar por Invocação-Sincro 1 Regulador.\r\nSe este card for enviado para o Cemitério como Matéria Sincro: você pode banir com a face para baixo 1 card aleatório do Deck Adicional do seu oponente.\r\nVocê só pode usar cada um dos efeitos de \"Tune Matador Clipe\" uma vez por turno.",
     "overallString": "[Monstro|Efeito|Regulador] Trovão/Trevas  [★2] 800/1000",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245032.jpg?version=15.13"
   },
   {
-    "name": "杀手级调整曲·声留",
-    "desc": "场上的这张卡为素材作同调召唤的场合，可以把手卡的1只调整作为同调素材。这个卡名的①②的效果1回合各能使用1次。\r\n①：这张卡召唤·特殊召唤的场合才能发动。从自己的卡组·墓地把3星怪兽以外的1只「杀手级调整曲」怪兽加入手卡。\r\n②：这张卡作为同调素材被送去墓地的场合，以对方场上1张魔法·陷阱卡为对象才能发动。那张卡破坏。",
+    "name": "Tune Matador Gravar",
+    "desc": "Se este card seria usado como Matéria Sincro enquanto está no campo, 1 Regulador na sua mão pode ser usado como 1 das outras matérias.\r\nSe este card for Invocado por Invocação-Normal ou Invocação-Especial: você pode adicionar 1 monstro \"Tune Matador\" do seu Deck ou Cemitério à sua mão, exceto um monstro de Nível 3.\r\nSe este card for enviado para o Cemitério como Matéria Sincro: você pode escolher 1 Magia/Armadilha que seu oponente controla; destrua-a.\r\nVocê só pode usar cada um dos efeitos de \"Tune Matador Gravar\" uma vez por turno.",
     "overallString": "[Monstro|Efeito|Regulador] Demônio/Fogo  [★3] 1500/800",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245033.jpg?version=15.13"
   },
   {
-    "name": "杀手级调整曲·音轨制作人",
-    "desc": "「杀手级调整曲」调整＋调整1只以上\r\n场上的这张卡为素材作同调召唤的场合，可以把手卡的1只调整作为同调素材。这个卡名的①②的效果1回合各能使用1次。\r\n①：这张卡特殊召唤的场合才能发动。从卡组把1张「杀手级调整曲」卡加入手卡。\r\n②：这张卡作为同调素材被送去墓地的场合才能发动。对方场上1张卡回到手卡。",
+    "name": "Tune Matador Criador de Faixas",
+    "desc": "1 Regulador \"Tune Matador\" + 1+ Reguladores\r\nSe este card seria usado como Matéria Sincro enquanto está no campo, 1 Regulador na sua mão pode ser usado como 1 das outras matérias.\r\nSe este card for Invocado por Invocação-Especial: você pode adicionar 1 card de \"Tune Matador\" do seu Deck à mão.\r\nSe este card for enviado para o Cemitério como Matéria Sincro: você pode retornar 1 card que seu oponente controla para a mão.\r\nVocê só pode usar cada um dos efeitos de \"Tune Matador Criador de Faixas\" uma vez por turno.",
     "overallString": "[Monstro|Efeito|Regulador|Sincro] Máquina/Luz  [★4] 0/2500",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245035.jpg?version=15.13"
   },
   {
-    "name": "杀手级调整曲·重编音混",
-    "desc": "「杀手级调整曲·音混」＋调整1只以上\r\n这个卡名的②的效果1回合只能使用1次。\r\n①：只要对方场上或墓地有调整存在，这张卡的攻击力上升1500。\r\n②：对方回合，把这张卡解放才能发动。从自己墓地选同调怪兽以外的2只调整，那之内的1只加入手卡，另1只特殊召唤。那之后，可以进行1只同调怪兽调整的同调召唤。",
+    "name": "Tune Matador Remix",
+    "desc": "\"Tune Matador Mix\" + 1+ Reguladores\r\nGanha 1500 de ATK enquanto seu oponente tiver um Regulador no campo ou no Cemitério.\r\nDurante o turno do seu oponente (Efeito Rápido): você pode oferecer este card como Tributo; pegue 2 Reguladores não-Sincro do seu Cemitério, adicione 1 deles à sua mão, e se fizer, Invoque por Invocação-Especial o outro, então, imediatamente após resolver esse efeito, você pode Invocar por Invocação-Sincro 1 Regulador. Você só pode ativar este efeito de \"Tune Matador Remix\" uma vez por turno.",
     "overallString": "[Monstro|Efeito|Regulador|Sincro] Guerreiro/Trevas  [★5] 1500/2000",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245036.jpg?version=15.13"
   },
   {
-    "name": "杀手级调整曲·红印鉴",
-    "desc": "「杀手级调整曲·声留」＋调整1只以上\r\n这个卡名的③的效果1回合只能使用1次。\r\n①：这张卡的攻击力上升双方墓地的调整的数量×300。\r\n②：原本攻击力是1700以下的对方场上的怪兽的等级上升1。\r\n③：自己·对方的主要阶段，从自己墓地把1只调整除外，以对方场上1张表侧表示卡为对象才能发动。那张卡的效果直到回合结束时无效。",
+    "name": "Tune Matador de Selo Vermelho",
+    "desc": "\"Tune Matador Gravar\" + 1+ Reguladores\r\nGanha 300 de ATK para cada Regulador nos Cemitérios.\r\nO Nível dos monstros que seu oponente controla com 1700 ou menos de ATK original são aumentados em 1.\r\nDurante a Fase Principal (Efeito Rápido): você pode banir 1 Regulador do seu Cemitério, então escolher 1 card com a face para cima que seu oponente controla; negue seus efeitos até o final deste turno. Você só pode ativar este efeito de \"Tune Matador de Selo Vermelho\" uma vez por turno.",
     "overallString": "[Monstro|Efeito|Regulador|Sincro] Demônio/Trevas  [★5] 1700/2400",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245037.jpg?version=15.13"
   },
   {
-    "name": "杀手级调整曲的响度战争",
-    "desc": "调整＋调整1只以上\r\n这个卡名的②的效果1回合只能使用1次。\r\n①：只要这张卡在怪兽区域存在，自己场上的其他调整不会被效果破坏，对方不能把那些作为效果的对象。\r\n②：对方把效果发动时，从自己墓地把1只「杀手级调整曲」怪兽除外才能发动。除外的怪兽的，自身作为同调素材被送去墓地的场合发动的效果适用。",
+    "name": "Tune Matador da Guerra de Intensidade Sonora",
+    "desc": "1 Regulador + 1+ Reguladores\r\nOutros Reguladores que você controla não podem ser destruídos por efeitos, seu oponente também não pode escolher eles como alvo de efeitos.\r\nQuando seu oponente ativar um card ou eveito (Efeito Rápido): você pode banir 1 monstro \"Tune Matador\" do seu Cemitério; aplique seus efeitos que ativam se for enviado para o Cemitério como Matéria Sincro. Você só pode ativar este efeito de \"Tune Matador da Guerra de Intensidade Sonora\" uma vez por turno.",
     "overallString": "[Monstro|Efeito|Regulador|Sincro] Máquina/Luz  [★6] 0/3000",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245038.jpg?version=15.13"
   },
   {
-    "name": "杀手级调整曲同调",
-    "desc": "这个卡名的卡在1回合最多可以发动2张。\r\n①：从卡组把「杀手级调整曲同调」以外的1张「杀手级调整曲」卡加入手卡。那之后，可以进行1只同调怪兽调整的同调召唤。这张卡发动后，直到回合结束时自己不是调整不能特殊召唤。",
+    "name": "Sincro de Tune Matador",
+    "desc": "Você só pode ativar 2 \"Sincro de Tune Matador\" por turno.\r\nVocê não pode Invocar por Invocação-Especial pelo resto deste turno após ativar este card, exceto Reguladores, também adicione 1 card \"Tune Matador\" do seu Deck à mão, exceto \"Sincro de Tune Matador\", então, imediatamente após resolver este efeito, você pode Invocar por Invocação-Sincro 1 Regulador.",
     "overallString": "[Magia|Magia Rápida]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245039.jpg?version=15.13"
   },
   {
-    "name": "舞乐酒馆“杀手级调整曲”",
-    "desc": "这个卡名的③的效果1回合只能使用1次。\r\n①：自己在通常召唤外加上只有1次，自己主要阶段可以把1只调整召唤。\r\n②：只要对方场上或墓地有调整存在，自己场上的「杀手级调整曲的响度战争」的攻击力上升3300。\r\n③：把自己场上1只调整解放才能发动。从卡组选1只「杀手级调整曲」怪兽，加入手卡或特殊召唤。这个效果的发动后，直到回合结束时自己不是调整不能特殊召唤。",
+    "name": "Juke-Junta \"Tune Matador\"",
+    "desc": "Durante sua Fase Principal, você pode Invocar por Invocação-Normal 1 Regulador em adição a sua Invocação-Normal/Baixar (você só pode usar este efeito uma vez por turno).\r\n\"Tune Matador da Guerra de Intensidade Sonora\" que você controla ganha 3300 de ATK enquanto seu oponente tiver um Regulador no campo ou Cemitério.\r\nVocê pode oferecer 1 Regulador como Tributo; adicione à mão, ou Invoque por Invocação-Especial, 1 monstro \"Tune Matador\" do seu Deck, você também não pode Invocar por Invocação-Especial pelo resto deste turno, exceto Reguladores. Você só pode usar este efeito de \"Juke-Junta \"Tune Matador\"\" uma vez por turno.",
     "overallString": "[Magia|Magia de Campo]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245040.jpg?version=15.13"
   },
   {
-    "name": "杀手级调整曲播放列表",
-    "desc": "这个卡名的卡在1回合可以发动最多2张。\r\n①：以自己场上·墓地的1只「杀手级调整曲」怪兽为对象才能发动。以下效果各自适用。这张卡发动后，直到回合结束时自己不是调整不能特殊召唤。\r\n●作为对象的怪兽的，自身作为同调素材被送去墓地的场合发动的效果适用。\r\n●作为对象的怪兽回到手卡。",
+    "name": "Playlist de Tune Matador",
+    "desc": "Você só pode ativar 2 \"Playlist de Tune Matador\" por turno.\r\nEscolha 1 monstro \"Tune Matador\" que você controla ou em seu Cemitério; aplique estes efeitos em sequência, você também não pode Invocar por Invocação-Especial pelo resto deste turno após ativar este card, exceto Reguladores.\r\n● Aplique seus efeitos que ativam se enviados para o Cemitério como Matéria Sincro.\r\n● Retorne-o para a mão.",
     "overallString": "[Armadilha]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245041.jpg?version=15.13"
   },
