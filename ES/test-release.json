@@ -1,5 +1,53 @@
 [
   {
+    "name": "Cargador Cohette",
+    "desc": "Sólo puedes usar cada uno de los efectos ① y ② de \"Cargador Cohette\" una vez por turno.\r\n①: Si esta carta es Invocada de Modo Normal o Especial: puedes añadir a tu mano 1 monstruo Dragón de OSCURIDAD de Nivel 7 desde tu Deck, y además por el resto de este turno no puedes Invocar de Modo Especial desde el Deck Extra, excepto monstruos de OSCURIDAD.\r\n②: Puedes desterrar esta carta en tu Cementerio, luego seleccionar 1 monstruo boca arriba en el Campo; su Atributo se convierte en OSCURIDAD hasta el final de este turno.",
+    "overallString": "[Monstruo|Efecto] Dragón/OSCURIDAD  [★4] 1500/1500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303201.jpg?version=15.13"
+  },
+  {
+    "name": "Dragón Cohette Hueco",
+    "desc": "Sólo puedes usar cada uno de los efectos ① y ② de \"Dragón Cohette Hueco\" una vez por turno.\r\n①: (Efecto Rápido): Cuando un Monstruo de Enlace activa un efecto que seleccione esta carta boca arriba en el Campo: puedes destruir esta carta, luego excava hasta 6 cartas de la parte superior del Deck de tu adversario, y si lo haces, destierra 1 de ellas y coloca el resto en la parte superior del Deck en el mismo orden.\r\n②: Durante la End Phase, si esta carta está en tu Cementerio porque fue destruida en el Campo en batalla o por efecto de una carta y mandada allí este turno: puedes Invocar de Modo Especial 1 monstruo \"Cohette\" desde tu Deck, excepto \"Dragón Cohette Hueco\".",
+    "overallString": "[Monstruo|Efecto] Dragón/OSCURIDAD  [★6] 2400/1600",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303202.jpg?version=15.13"
+  },
+  {
+    "name": "Detonador Cohette",
+    "desc": "Sólo puedes usar el efecto ② de \"Detonador Cohette\" una vez por turno.  \r\n①: Si controlas un Monstruo de Enlace Dragón de OSCURIDAD, puedes Invocar esta carta de Modo Especial (desde tu mano).\r\n● Sólo puedes Invocar de Modo Especial a \"Detonador Cohette\" una vez por turno de esta forma.\r\n②: Puedes seleccionar 1 Carta de Monstruo Dragón de OSCURIDAD en tu Zona de Mágicas/Trampas; Invócala de Modo Especial, pero no puede atacar, sus efectos son negados, y además por el resto de este turno no puedes Invocar de Modo Especial desde el Deck Extra, excepto monstruos de OSCURIDAD.",
+    "overallString": "[Monstruo|Efecto] Dragón/OSCURIDAD  [★7] 1800/2500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303203.jpg?version=15.13"
+  },
+  {
+    "name": "Dragón Flama Borrelfatal",
+    "desc": "【Materiales】: 1 Monstruo de Enlace de OSCURIDAD + 1 monstruo de OSCURIDAD  \r\nSólo puedes usar cada uno de los efectos ①, ② y ③ de \"Dragón Flama Borrelfatal\" una vez por turno.\r\n①: Si esta carta es Invocada por Fusión: puedes añadir a tu mano 1 monstruo \"Cohette\" desde tu Deck.\r\n②: Puedes seleccionar 1 monstruo de OSCURIDAD que controles; equipa 1 Monstruo de Enlace de OSCURIDAD desde tu Cementerio o destierro a ese objetivo como una Mágica de Equipo que le da 500 ATK.\r\n③: Si esta carta es mandada al Cementerio como Material de Enlace: puedes seleccionar 1 carta en el Campo; destrúyela.",
+    "overallString": "[Monstruo|Efecto|Fusión] Dragón/OSCURIDAD  [★8] 2500/2000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303204.jpg?version=15.13"
+  },
+  {
+    "name": "Dragón Borrelvelo",
+    "desc": "【Materiales】: 3+ Monstruos de Efecto  \r\n①: Tu adversario no puede Sacrificar esta carta en el Campo.\r\n②: (Efecto Rápido): Una vez por turno, durante la Main Phase: puedes seleccionar 1 monstruo \"Cohette\" que controles; niega los efectos de 1 carta boca arriba que controle tu adversario, luego destruye ese monstruo.\r\n● Tu adversario no puede activar cartas o efectos en respuesta a esta activación.\r\n③: Una vez mientras esté boca arriba en el Campo, al inicio de la Battle Phase: puedes Invocar de Modo Especial 1 Monstruo de Enlace \"Borre\" de LINK-4 o menor desde tu Deck Extra.",
+    "overallString": "[Monstruo|Efecto|Enlace] Dragón/OSCURIDAD  [LINK-5] 3500/-  [←][→][↙][↓][↘]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303205.jpg?version=15.13"
+  },
+  {
+    "name": "Dragón Turisborrel",
+    "desc": "【Materiales】: 2+ monstruos Dragón de OSCURIDAD, incluyendo 1 monstruo \"Cohette\"\r\nSólo puedes usar cada uno de los efectos ① y ② de \"Dragón Turisborrel\" una vez por turno.\r\n①: Si esta carta es Invocada por Enlace: puedes añadir a tu mano 1 \"Disparador Rápido\", \"Bloqueador Pesado\" o \"Disparador Doble\" desde tu Deck.\r\n②: Puedes seleccionar 1 carta boca arriba en tu Campo y 1 monstruo Dragón de OSCURIDAD en tu Cementerio; destruye el objetivo en el Campo y añade el objetivo en el Cementerio a tu mano.",
+    "overallString": "[Monstruo|Efecto|Enlace] Dragón/OSCURIDAD  [LINK-3] 2300/-  [←][↙][↓]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303206.jpg?version=15.13"
+  },
+  {
+    "name": "Disparador Doble",
+    "desc": "①: Activa 1 de estos efectos (pero sólo puedes usar cada efecto de \"Disparador Doble\" una vez por turno);\r\n● Invoca por Fusión 1 Monstruo de Fusión desde tu Deck Extra, desterrando sus materiales desde tu Cementerio, incluyendo 1 monstruo \"Cohette\".\r\n● Invoca por Ritual 1 Monstruo de Ritual desde tu mano, desterrando monstruos desde tu Cementerio cuyos Niveles totales sean iguales o mayores que el de ese monstruo, incluyendo 1 monstruo \"Cohette\".",
+    "overallString": "[Mágica]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303207.jpg?version=15.13"
+  },
+  {
+    "name": "Reinicio Borre",
+    "desc": "Puedes activar esta carta desde tu mano pagando la mitad de tus LP.\r\n①: Cuando tu adversario activa una Carta Mágica/Trampa, si controlas un monstruo \"Cohette\" o \"Borre\": niega la activación, y si lo haces, Coloca esa carta.\r\n● No puede ser activada este turno.",
+    "overallString": "[Trampa|Contraefecto]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303208.jpg?version=15.13"
+  },
+  {
     "name": "Enneacraft - Renacimiento",
     "desc": "Sólo puedes activar 1 \"Enneacraft - Renacimiento\" por turno.\r\n①: Baraja a tu Deck cualquier cantidad de Cartas de Monstruo \"Enneacraft\" en tu mano y/o Campo boca arriba, y después roba cartas igual al número de cartas barajadas.\r\n②: Si tu adversario Invoca de Modo Normal o Especial un monstruo(s) mientras esta carta está en tu Cementerio: puedes desterrar esta carta, y después activar 1 de estos efectos;\r\n● Invoca de Modo Especial 1 monstruo \"Enneacraft\" de tu mano en Posición de Defensa boca abajo.\r\n● Cambia 1 de tus monstruos \"Enneacraft\" Colocados a Posición de Defensa boca arriba.",
     "overallString": "[Mágica]",
