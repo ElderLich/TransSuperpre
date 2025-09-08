@@ -1,5 +1,23 @@
 [
   {
+    "name": "Pantera do Tesouro",
+    "desc": "Se um monstro Baixado estiver no campo: você pode Invocar este card por Invocação-Especial da sua mão.\r\nVocê pode escolher até 3 monstros Baixados; mudá-los para Posição de Ataque, então, se você mudou 3 monstros para Posição de Ataque, cause 900 de dano ao seu oponente.\r\nSe este card for Virado com a face para cima: você pode enviar 1 Monstro Normal do seu Deck para o Cemitério.\r\nVocê só pode usar cada um dos efeitos de \"Pantera do Tesouro\" uma vez por turno.",
+    "overallString": "[Monstro|Efeito|Virar] Besta/Terra  [★1] 100/100",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100200279.jpg?version=15.13"
+  },
+  {
+    "name": "Mágico Mosqueteiro Mentor Caspar",
+    "desc": "2 monstro, inlcuindo um Monstro Demônio de LUZ\r\nDurante o turno de cada jogador, você pode ativar Magias/Armadilhas \"Mágico(a) Mosquete\" da sua mão.\r\nSe este card for Invocação por Invocação-Link: você pode pegar 2 cards \"Mágico(a) Mosquete\" da sua mão e/ou Deck, incluindo um monstro, Invoque por Invocação-Especial 1 desses monstros, e Baixe o outro card para o campo do seu oponente. Você só pode usar este efeito de \"Mágico Mosqueteiro Mentor Caspar\" uma vez por turno.",
+    "overallString": "[Monstro|Efeito|Link] Demônio/Luz  [LINK-2] 2000/-  [↑][↓]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100249001.jpg?version=15.13"
+  },
+  {
+    "name": "Via Única de Sincro",
+    "desc": "Adicione a sua mão, or Invoque por Invocação-Especial, 1 Regulador de Nível 1 do seu Deck ou Cemitério.\r\nSe este card estiver em seu Cemitério e você controlar \"Guerreiro Sucata\" ou um monstro que o menciona: você pode Baixar este card, mas bana-o quando ele deixar o campo.\r\nVocê só pode usar 1 efeito dos \"Via Única de Sincro\", e somente uma vez por turno.",
+    "overallString": "[Armadilha]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100244006.jpg?version=15.13"
+  },
+  {
     "name": "Filhote Supersônico",
     "desc": "Se um ou mais Reguladores forem enviados para o seu, mesmo durante a Fase de Dano: você pode Invocar este card por Invocação-Especial do seu Cemitério (se ele estava lá quando o monstro foi enviado para lá) ou da mão (mesmo que não) (mas bana-o quando ele sair do campo), então se um \"Guerreiro Sucata\" ou outro monstro que o menciona estiver no campo, você pode mudar todos os monstros que seu oponente controla com 1900 de ATK ou mais para Posição de Defesa, você também não pode Invocar por Invocação-Especial do Deck Adicional pelo resto do turno, exceto Monstros Sincro. Você só pode usar este efeito de \"Filhote Supersônico\" uma vez por turno.",
     "overallString": "[Monstro|Efeito] Besta Alada/Terra  [★1] 300/300",
@@ -12,8 +30,8 @@
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100247148.jpg?version=15.13"
   },
   {
-    "name": "Tune Matador Deixa",
-    "desc": "Se este card seria usado como Matéria Sincro enquanto está no campo, 1 Regulador na sua mão pode ser usado como 1 das outras matérias.\r\nSe este card for Invocação por Invocação-Normal: você pode Invocard por Invocação-Especial 1 Regulador da sua mão, Deck ou Cemitério, exceto \"Tune Matador Deixa\", você também não pode Invocar por Invocação-Especial pelo resto do turno, exceto Reguladores.\r\nSe este card for enviado para o Cemitério como Matéria Sincro: você pode escavar 2 cards do topo do Deck do oponente, bana 1 deles, também coloque o outro no topo ou fundo do Deck.\r\nVocê só pode usar cada um dos efeitos de \"Tune Matador Deixa\" uma vez por turno.",
+    "name": "Kewl Tune Deixa",
+    "desc": "Se este card seria usado como Matéria Sincro enquanto está no campo, 1 Regulador na sua mão pode ser usado como 1 das outras matérias.\r\nSe este card for Invocação por Invocação-Normal: você pode Invocard por Invocação-Especial 1 Regulador da sua mão, Deck ou Cemitério, exceto \"Kewl Tune Deixa\", você também não pode Invocar por Invocação-Especial pelo resto do turno, exceto Reguladores.\r\nSe este card for enviado para o Cemitério como Matéria Sincro: você pode escavar 2 cards do topo do Deck do oponente, bana 1 deles, também coloque o outro no topo ou fundo do Deck.\r\nVocê só pode usar cada um dos efeitos de \"Kewl Tune Deixa\" uma vez por turno.",
     "overallString": "[Monstro|Efeito|Regulador] Fada/Luz  [★3] 900/1900",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245034.jpg?version=15.13"
   },
@@ -78,8 +96,8 @@
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303208.jpg?version=15.13"
   },
   {
-    "name": "Enneacraft – Renascer",
-    "desc": "Você pode ativar somente 1 \"Enneacraft – Renascer\" por turno.\r\nEmbaralhe qualquer número de Cards de Monstros \"Enneacraft\" da sua mão e/ou com a face para cima no Deck, então compre cards igual ao número embaralhado.\r\nSe seu oponente Invocar um ou mais monstros por Invocação-Normal ou Invocação-Especial enquanto este card estiver no Cemitério: você pode banir este card, então ative 1 dos seguintes efeitos;\r\n● Invoque por Invocação-Especial 1 monstro \"Enneacraft\" da sua mão em Posição de Defesa com a face para baixo.\r\n● Mude 1 de seus monstros \"Enneacraft\" Baixados para Posição de Defesa com a face para cima.",
+    "name": "Eneanave – Renascer",
+    "desc": "Você pode ativar somente 1 \"Eneanave – Renascer\" por turno.\r\nEmbaralhe qualquer número de Cards de Monstros \"Eneanave\" da sua mão e/ou com a face para cima no Deck, então compre cards igual ao número embaralhado.\r\nSe seu oponente Invocar um ou mais monstros por Invocação-Normal ou Invocação-Especial enquanto este card estiver no Cemitério: você pode banir este card, então ative 1 dos seguintes efeitos;\r\n● Invoque por Invocação-Especial 1 monstro \"Eneanave\" da sua mão em Posição de Defesa com a face para baixo.\r\n● Mude 1 de seus monstros \"Eneanave\" Baixados para Posição de Defesa com a face para cima.",
     "overallString": "[Magia]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245026.jpg?version=15.13"
   },
@@ -96,62 +114,62 @@
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100244033.jpg?version=15.13"
   },
   {
-    "name": "Tune Matador Mix",
-    "desc": "Se este card seria usado como Matéria Sincro enquanto está no campo, 1 Regulador na sua mão pode ser usado como 1 das outras matérias.\r\nSe este card for Invocado por Invocação-Normal ou Invocação-Especial: você pode adicionar 1 monstro \"Tune Matador\" do seu Deck ou Cemitério para a mão, exceto um monstro de Nível 2.\r\nSe este card for enviado para o Cemitério como Matéria Sincro: você pode escolher 1 monstro que seu oponente controla; destrua-o.\r\nVocê só pode usar cada um dos efeitos de \"Tune Matador Mix\" uma vez por turno.",
+    "name": "Kewl Tune Mix",
+    "desc": "Se este card seria usado como Matéria Sincro enquanto está no campo, 1 Regulador na sua mão pode ser usado como 1 das outras matérias.\r\nSe este card for Invocado por Invocação-Normal ou Invocação-Especial: você pode adicionar 1 monstro \"Kewl Tune\" do seu Deck ou Cemitério para a mão, exceto um monstro de Nível 2.\r\nSe este card for enviado para o Cemitério como Matéria Sincro: você pode escolher 1 monstro que seu oponente controla; destrua-o.\r\nVocê só pode usar cada um dos efeitos de \"Kewl Tune Mix\" uma vez por turno.",
     "overallString": "[Monstro|Efeito|Regulador] Guerreiro/Vento  [★2] 100/2000",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245031.jpg?version=15.13"
   },
   {
-    "name": "Tune Matador Clipe",
-    "desc": "Se este card seria usado como Matéria Sincro enquanto está no campo, 1 Regulador na sua mão pode ser usado como 1 das outras matérias.\r\nDurante a Fase Principal do seu oponente (Efeito Rápido): você pode Invocar este card da sua mão por Invocação-Especial, então, imediatamente após resolver este efeito, você pode Invocar por Invocação-Sincro 1 Regulador.\r\nSe este card for enviado para o Cemitério como Matéria Sincro: você pode banir com a face para baixo 1 card aleatório do Deck Adicional do seu oponente.\r\nVocê só pode usar cada um dos efeitos de \"Tune Matador Clipe\" uma vez por turno.",
+    "name": "Kewl Tune Clipe",
+    "desc": "Se este card seria usado como Matéria Sincro enquanto está no campo, 1 Regulador na sua mão pode ser usado como 1 das outras matérias.\r\nDurante a Fase Principal do seu oponente (Efeito Rápido): você pode Invocar este card da sua mão por Invocação-Especial, então, imediatamente após resolver este efeito, você pode Invocar por Invocação-Sincro 1 Regulador.\r\nSe este card for enviado para o Cemitério como Matéria Sincro: você pode banir com a face para baixo 1 card aleatório do Deck Adicional do seu oponente.\r\nVocê só pode usar cada um dos efeitos de \"Kewl Tune Clipe\" uma vez por turno.",
     "overallString": "[Monstro|Efeito|Regulador] Trovão/Trevas  [★2] 800/1000",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245032.jpg?version=15.13"
   },
   {
-    "name": "Tune Matador Gravar",
-    "desc": "Se este card seria usado como Matéria Sincro enquanto está no campo, 1 Regulador na sua mão pode ser usado como 1 das outras matérias.\r\nSe este card for Invocado por Invocação-Normal ou Invocação-Especial: você pode adicionar 1 monstro \"Tune Matador\" do seu Deck ou Cemitério à sua mão, exceto um monstro de Nível 3.\r\nSe este card for enviado para o Cemitério como Matéria Sincro: você pode escolher 1 Magia/Armadilha que seu oponente controla; destrua-a.\r\nVocê só pode usar cada um dos efeitos de \"Tune Matador Gravar\" uma vez por turno.",
+    "name": "Kewl Tune Gravar",
+    "desc": "Se este card seria usado como Matéria Sincro enquanto está no campo, 1 Regulador na sua mão pode ser usado como 1 das outras matérias.\r\nSe este card for Invocado por Invocação-Normal ou Invocação-Especial: você pode adicionar 1 monstro \"Kewl Tune\" do seu Deck ou Cemitério à sua mão, exceto um monstro de Nível 3.\r\nSe este card for enviado para o Cemitério como Matéria Sincro: você pode escolher 1 Magia/Armadilha que seu oponente controla; destrua-a.\r\nVocê só pode usar cada um dos efeitos de \"Kewl Tune Gravar\" uma vez por turno.",
     "overallString": "[Monstro|Efeito|Regulador] Demônio/Fogo  [★3] 1500/800",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245033.jpg?version=15.13"
   },
   {
-    "name": "Tune Matador Criador de Faixas",
-    "desc": "1 Regulador \"Tune Matador\" + 1+ Reguladores\r\nSe este card seria usado como Matéria Sincro enquanto está no campo, 1 Regulador na sua mão pode ser usado como 1 das outras matérias.\r\nSe este card for Invocado por Invocação-Especial: você pode adicionar 1 card de \"Tune Matador\" do seu Deck à mão.\r\nSe este card for enviado para o Cemitério como Matéria Sincro: você pode retornar 1 card que seu oponente controla para a mão.\r\nVocê só pode usar cada um dos efeitos de \"Tune Matador Criador de Faixas\" uma vez por turno.",
+    "name": "Kewl Tune Criador de Faixas",
+    "desc": "1 Regulador \"Kewl Tune\" + 1+ Reguladores\r\nSe este card seria usado como Matéria Sincro enquanto está no campo, 1 Regulador na sua mão pode ser usado como 1 das outras matérias.\r\nSe este card for Invocado por Invocação-Especial: você pode adicionar 1 card de \"Kewl Tune\" do seu Deck à mão.\r\nSe este card for enviado para o Cemitério como Matéria Sincro: você pode retornar 1 card que seu oponente controla para a mão.\r\nVocê só pode usar cada um dos efeitos de \"Kewl Tune Criador de Faixas\" uma vez por turno.",
     "overallString": "[Monstro|Efeito|Regulador|Sincro] Máquina/Luz  [★4] 0/2500",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245035.jpg?version=15.13"
   },
   {
-    "name": "Tune Matador Remix",
-    "desc": "\"Tune Matador Mix\" + 1+ Reguladores\r\nGanha 1500 de ATK enquanto seu oponente tiver um Regulador no campo ou no Cemitério.\r\nDurante o turno do seu oponente (Efeito Rápido): você pode oferecer este card como Tributo; pegue 2 Reguladores não-Sincro do seu Cemitério, adicione 1 deles à sua mão, e se fizer, Invoque por Invocação-Especial o outro, então, imediatamente após resolver esse efeito, você pode Invocar por Invocação-Sincro 1 Regulador. Você só pode ativar este efeito de \"Tune Matador Remix\" uma vez por turno.",
+    "name": "Kewl Tune Remix",
+    "desc": "\"Kewl Tune Mix\" + 1+ Reguladores\r\nGanha 1500 de ATK enquanto seu oponente tiver um Regulador no campo ou no Cemitério.\r\nDurante o turno do seu oponente (Efeito Rápido): você pode oferecer este card como Tributo; pegue 2 Reguladores não-Sincro do seu Cemitério, adicione 1 deles à sua mão, e se fizer, Invoque por Invocação-Especial o outro, então, imediatamente após resolver esse efeito, você pode Invocar por Invocação-Sincro 1 Regulador. Você só pode ativar este efeito de \"Kewl Tune Remix\" uma vez por turno.",
     "overallString": "[Monstro|Efeito|Regulador|Sincro] Guerreiro/Trevas  [★5] 1500/2000",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245036.jpg?version=15.13"
   },
   {
-    "name": "Tune Matador de Selo Vermelho",
-    "desc": "\"Tune Matador Gravar\" + 1+ Reguladores\r\nGanha 300 de ATK para cada Regulador nos Cemitérios.\r\nO Nível dos monstros que seu oponente controla com 1700 ou menos de ATK original são aumentados em 1.\r\nDurante a Fase Principal (Efeito Rápido): você pode banir 1 Regulador do seu Cemitério, então escolher 1 card com a face para cima que seu oponente controla; negue seus efeitos até o final deste turno. Você só pode ativar este efeito de \"Tune Matador de Selo Vermelho\" uma vez por turno.",
+    "name": "Kewl Tune RS",
+    "desc": "\"Kewl Tune Gravar\" + 1+ Reguladores\r\nGanha 300 de ATK para cada Regulador nos Cemitérios.\r\nO Nível dos monstros que seu oponente controla com 1700 ou menos de ATK original são aumentados em 1.\r\nDurante a Fase Principal (Efeito Rápido): você pode banir 1 Regulador do seu Cemitério, então escolher 1 card com a face para cima que seu oponente controla; negue seus efeitos até o final deste turno. Você só pode ativar este efeito de \"Kewl Tune RS\" uma vez por turno.",
     "overallString": "[Monstro|Efeito|Regulador|Sincro] Demônio/Trevas  [★5] 1700/2400",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245037.jpg?version=15.13"
   },
   {
-    "name": "Tune Matador da Guerra de Intensidade Sonora",
-    "desc": "1 Regulador + 1+ Reguladores\r\nOutros Reguladores que você controla não podem ser destruídos por efeitos, seu oponente também não pode escolher eles como alvo de efeitos.\r\nQuando seu oponente ativar um card ou eveito (Efeito Rápido): você pode banir 1 monstro \"Tune Matador\" do seu Cemitério; aplique seus efeitos que ativam se for enviado para o Cemitério como Matéria Sincro. Você só pode ativar este efeito de \"Tune Matador da Guerra de Intensidade Sonora\" uma vez por turno.",
+    "name": "Kewl Tune da Guerra de Intensidade Sonora",
+    "desc": "1 Regulador + 1+ Reguladores\r\nOutros Reguladores que você controla não podem ser destruídos por efeitos, seu oponente também não pode escolher eles como alvo de efeitos.\r\nQuando seu oponente ativar um card ou eveito (Efeito Rápido): você pode banir 1 monstro \"Kewl Tune\" do seu Cemitério; aplique seus efeitos que ativam se for enviado para o Cemitério como Matéria Sincro. Você só pode ativar este efeito de \"Kewl Tune da Guerra de Intensidade Sonora\" uma vez por turno.",
     "overallString": "[Monstro|Efeito|Regulador|Sincro] Máquina/Luz  [★6] 0/3000",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245038.jpg?version=15.13"
   },
   {
-    "name": "Sincro de Tune Matador",
-    "desc": "Você só pode ativar 2 \"Sincro de Tune Matador\" por turno.\r\nVocê não pode Invocar por Invocação-Especial pelo resto deste turno após ativar este card, exceto Reguladores, também adicione 1 card \"Tune Matador\" do seu Deck à mão, exceto \"Sincro de Tune Matador\", então, imediatamente após resolver este efeito, você pode Invocar por Invocação-Sincro 1 Regulador.",
+    "name": "Sincro de Kewl Tune",
+    "desc": "Você só pode ativar 2 \"Sincro de Kewl Tune\" por turno.\r\nVocê não pode Invocar por Invocação-Especial pelo resto deste turno após ativar este card, exceto Reguladores, também adicione 1 card \"Kewl Tune\" do seu Deck à mão, exceto \"Sincro de Kewl Tune\", então, imediatamente após resolver este efeito, você pode Invocar por Invocação-Sincro 1 Regulador.",
     "overallString": "[Magia|Magia Rápida]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245039.jpg?version=15.13"
   },
   {
-    "name": "Juke-Junta \"Tune Matador\"",
-    "desc": "Durante sua Fase Principal, você pode Invocar por Invocação-Normal 1 Regulador em adição a sua Invocação-Normal/Baixar (você só pode usar este efeito uma vez por turno).\r\n\"Tune Matador da Guerra de Intensidade Sonora\" que você controla ganha 3300 de ATK enquanto seu oponente tiver um Regulador no campo ou Cemitério.\r\nVocê pode oferecer 1 Regulador como Tributo; adicione à mão, ou Invoque por Invocação-Especial, 1 monstro \"Tune Matador\" do seu Deck, você também não pode Invocar por Invocação-Especial pelo resto deste turno, exceto Reguladores. Você só pode usar este efeito de \"Juke-Junta \"Tune Matador\"\" uma vez por turno.",
+    "name": "Juke-Junta \"Kewl Tune\"",
+    "desc": "Durante sua Fase Principal, você pode Invocar por Invocação-Normal 1 Regulador em adição a sua Invocação-Normal/Baixar (você só pode usar este efeito uma vez por turno).\r\n\"Kewl Tune da Guerra de Intensidade Sonora\" que você controla ganha 3300 de ATK enquanto seu oponente tiver um Regulador no campo ou Cemitério.\r\nVocê pode oferecer 1 Regulador como Tributo; adicione à mão, ou Invoque por Invocação-Especial, 1 monstro \"Kewl Tune\" do seu Deck, você também não pode Invocar por Invocação-Especial pelo resto deste turno, exceto Reguladores. Você só pode usar este efeito de \"Juke-Junta \"Kewl Tune\"\" uma vez por turno.",
     "overallString": "[Magia|Magia de Campo]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245040.jpg?version=15.13"
   },
   {
-    "name": "Playlist de Tune Matador",
-    "desc": "Você só pode ativar 2 \"Playlist de Tune Matador\" por turno.\r\nEscolha 1 monstro \"Tune Matador\" que você controla ou em seu Cemitério; aplique estes efeitos em sequência, você também não pode Invocar por Invocação-Especial pelo resto deste turno após ativar este card, exceto Reguladores.\r\n● Aplique seus efeitos que ativam se enviados para o Cemitério como Matéria Sincro.\r\n● Retorne-o para a mão.",
+    "name": "Playlist de Kewl Tune",
+    "desc": "Você só pode ativar 2 \"Playlist de Kewl Tune\" por turno.\r\nEscolha 1 monstro \"Kewl Tune\" que você controla ou em seu Cemitério; aplique estes efeitos em sequência, você também não pode Invocar por Invocação-Especial pelo resto deste turno após ativar este card, exceto Reguladores.\r\n● Aplique seus efeitos que ativam se enviados para o Cemitério como Matéria Sincro.\r\n● Retorne-o para a mão.",
     "overallString": "[Armadilha]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245041.jpg?version=15.13"
   },
@@ -162,62 +180,62 @@
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100247147.jpg?version=15.13"
   },
   {
-    "name": "Enneacraft α' \"orgIA\"",
-    "desc": "Escala Pêndulo = 0\r\n[Efeito de Pêndulo]\r\nToda vez que um ou mais monstros são virados com a face para cima, coloque 1 Contador de Sinquisição neste card.\r\nVocê pode pagar 900 PV e revelar 3 cards \"Enneacraft\" do seu Deck, seu oponente aleatoriamente escolhe 1 para você adicionar à sua mão, você também embaralha o resto no Deck. Este efeito de \"Enneacraft α' \"orgIA\"\" só pode ser ativado uma vez por turno.\r\n----------------------------------------\r\n[Efeito de Monstro]\r\nVocê pode revelar este card da sua mão; Invoque 1 monstro por Invocação-Especial da sua mão em Posição de Defesa com a face para baixo. Você não pode Invocar por Invocação-Especial no turno que ativar este efeito, exceto em Posição de Defesa com a face para baixo.\r\nQuando seu oponente ativa o efeito de algum monstro da mão (Efeito Rápido): você pode mudar este card Baixado para Posição de Defesa com a face para cima; adicione 1 card \"Enneacraft\" do seu Deck à sua mão.\r\nSe este card for virado com a face para cima: destrua 1 monstro que seu oponente controla.",
+    "name": "Eneanave α' \"orgIA\"",
+    "desc": "Escala Pêndulo = 0\r\n[Efeito de Pêndulo]\r\nToda vez que um ou mais monstros são virados com a face para cima, coloque 1 Contador de Sinquisição neste card.\r\nVocê pode pagar 900 PV e revelar 3 cards \"Eneanave\" do seu Deck, seu oponente aleatoriamente escolhe 1 para você adicionar à sua mão, você também embaralha o resto no Deck. Este efeito de \"Eneanave α' \"orgIA\"\" só pode ser ativado uma vez por turno.\r\n----------------------------------------\r\n[Efeito de Monstro]\r\nVocê pode revelar este card da sua mão; Invoque 1 monstro por Invocação-Especial da sua mão em Posição de Defesa com a face para baixo. Você não pode Invocar por Invocação-Especial no turno que ativar este efeito, exceto em Posição de Defesa com a face para baixo.\r\nQuando seu oponente ativa o efeito de algum monstro da mão (Efeito Rápido): você pode mudar este card Baixado para Posição de Defesa com a face para cima; adicione 1 card \"Eneanave\" do seu Deck à sua mão.\r\nSe este card for virado com a face para cima: destrua 1 monstro que seu oponente controla.",
     "overallString": "[Monstro|Efeito|Virar|Pêndulo] Máquina/Terra  [★1] 100/1000  0/0",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245016.jpg?version=15.13"
   },
   {
-    "name": "Enneacraft β' \"alazoneIA\"",
-    "desc": "Escala Pêndulo = 0\r\n[Efeito de Pêndulo]\r\nToda vez que um ou mais monstros são virados com a face para cima, coloque 1 Contador de Sinquisição neste card.\r\nVocê pode pagar 900 PV e revelar 3 cards \"Enneacraft\" do seu Deck, seu oponente aleatoriamente escolhe 1 para você adicionar à sua mão, você também embaralha o resto no Deck. Este efeito de \"Enneacraft β' \"alazoneIA\"\" só pode ser ativado uma vez por turno.\r\n----------------------------------------\r\n[Efeito de Monstro]\r\nVocê pode revelar este card da sua mão; Invoque 1 monstro por Invocação-Especial da sua mão em Posição de Defesa com a face para baixo. Você não pode Invocar por Invocação-Especial no turno que ativar este efeito, exceto em Posição de Defesa com a face para baixo.\r\nQuando seu oponente ativa um card ou efeito que inclui adicionar um ou mais cards do Deck para a mão (Efeito Rápido): você pode mudar este card Baixado para Posição de Defesa com a face para cima; adicione 1 card \"Enneacraft\" do seu Deck à sua mão.\r\nSe este card for virado com a face para cima: bana com a face para cima 1 card aleatório da mão do seu oponente até a Fase Final.",
+    "name": "Eneanave β' \"alazoneIA\"",
+    "desc": "Escala Pêndulo = 0\r\n[Efeito de Pêndulo]\r\nToda vez que um ou mais monstros são virados com a face para cima, coloque 1 Contador de Sinquisição neste card.\r\nVocê pode pagar 900 PV e revelar 3 cards \"Eneanave\" do seu Deck, seu oponente aleatoriamente escolhe 1 para você adicionar à sua mão, você também embaralha o resto no Deck. Este efeito de \"Eneanave β' \"alazoneIA\"\" só pode ser ativado uma vez por turno.\r\n----------------------------------------\r\n[Efeito de Monstro]\r\nVocê pode revelar este card da sua mão; Invoque 1 monstro por Invocação-Especial da sua mão em Posição de Defesa com a face para baixo. Você não pode Invocar por Invocação-Especial no turno que ativar este efeito, exceto em Posição de Defesa com a face para baixo.\r\nQuando seu oponente ativa um card ou efeito que inclui adicionar um ou mais cards do Deck para a mão (Efeito Rápido): você pode mudar este card Baixado para Posição de Defesa com a face para cima; adicione 1 card \"Eneanave\" do seu Deck à sua mão.\r\nSe este card for virado com a face para cima: bana com a face para cima 1 card aleatório da mão do seu oponente até a Fase Final.",
     "overallString": "[Monstro|Efeito|Virar|Pêndulo] Máquina/Terra  [★1] 100/1000  0/0",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245017.jpg?version=15.13"
   },
   {
-    "name": "Enneacraft ϝ' \"tromarIA\"",
-    "desc": "Escala Pêndulo = 0\r\n[Efeito de Pêndulo]\r\nToda vez que um ou mais monstros são virados com a face para cima, coloque 1 Contador de Sinquisição neste card.\r\nVocê pode pagar 900 PV e revelar 3 cards \"Enneacraft\" do seu Deck, seu oponente aleatoriamente escolhe 1 para você adicionar à sua mão, você também embaralha o resto no Deck. Este efeito de \"Enneacraft ϝ' \"tromarIA\"\" só pode ser ativado uma vez por turno.\r\n----------------------------------------\r\n[Efeito de Monstro]\r\nVocê pode revelar este card da sua mão; Invoque 1 monstro por Invocação-Especial da sua mão em Posição de Defesa com a face para baixo. Você não pode Invocar por Invocação-Especial no turno que ativar este efeito, exceto em Posição de Defesa com a face para baixo.\r\nQuando seu oponente ativa um card ou efeito que inclui Invocar um monstro por Invocação-Especial (Efeito Rápido): você pode mudar este card Baixado para Posição de Defesa com a face para cima; adicione 1 card \"Enneacraft\" do seu Deck à sua mão.\r\nSe este card for virado com a face para cima: negue o efeito de 1 Monstro de Efeito que seu oponente controla até o final deste turno.",
+    "name": "Eneanave ϝ' \"tromarIA\"",
+    "desc": "Escala Pêndulo = 0\r\n[Efeito de Pêndulo]\r\nToda vez que um ou mais monstros são virados com a face para cima, coloque 1 Contador de Sinquisição neste card.\r\nVocê pode pagar 900 PV e revelar 3 cards \"Eneanave\" do seu Deck, seu oponente aleatoriamente escolhe 1 para você adicionar à sua mão, você também embaralha o resto no Deck. Este efeito de \"Eneanave ϝ' \"tromarIA\"\" só pode ser ativado uma vez por turno.\r\n----------------------------------------\r\n[Efeito de Monstro]\r\nVocê pode revelar este card da sua mão; Invoque 1 monstro por Invocação-Especial da sua mão em Posição de Defesa com a face para baixo. Você não pode Invocar por Invocação-Especial no turno que ativar este efeito, exceto em Posição de Defesa com a face para baixo.\r\nQuando seu oponente ativa um card ou efeito que inclui Invocar um monstro por Invocação-Especial (Efeito Rápido): você pode mudar este card Baixado para Posição de Defesa com a face para cima; adicione 1 card \"Eneanave\" do seu Deck à sua mão.\r\nSe este card for virado com a face para cima: negue o efeito de 1 Monstro de Efeito que seu oponente controla até o final deste turno.",
     "overallString": "[Monstro|Efeito|Virar|Pêndulo] Máquina/Terra  [★1] 100/1000  0/0",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245018.jpg?version=15.13"
   },
   {
-    "name": "Enneacraft θ' \"oknirIA\"",
-    "desc": "Escala Pêndulo = 0\r\n[Efeito de Pêndulo]\r\nToda vez que um ou mais monstros são virados com a face para cima, coloque 1 Contador de Sinquisição neste card.\r\nVocê pode pagar 900 PV e revelar 3 cards \"Enneacraft\" do seu Deck, seu oponente aleatoriamente escolhe 1 para você adicionar à sua mão, você também embaralha o resto no Deck. Este efeito de \"Enneacraft θ' \"oknirIA\"\" só pode ser ativado uma vez por turno.\r\n----------------------------------------\r\n[Efeito de Monstro]\r\nVocê pode revelar este card da sua mão; Invoque 1 monstro por Invocação-Especial da sua mão em Posição de Defesa com a face para baixo. Você não pode Invocar por Invocação-Especial no turno que ativar este efeito, exceto em Posição de Defesa com a face para baixo.\r\nQuando seu oponente ativa o efeito de um card no Cemitério ou Banimento (Efeito Rápido): você pode mudar este card Baixado para Posição de Defesa com a face para cima; adicione 1 card \"Enneacraft\" do seu Deck à sua mão.\r\nSe este card for virado com a face para cima: embaralhe até 3 cards do Cemitério e/ou Banimento do seu oponente no Deck.",
+    "name": "Eneanave θ' \"oknirIA\"",
+    "desc": "Escala Pêndulo = 0\r\n[Efeito de Pêndulo]\r\nToda vez que um ou mais monstros são virados com a face para cima, coloque 1 Contador de Sinquisição neste card.\r\nVocê pode pagar 900 PV e revelar 3 cards \"Eneanave\" do seu Deck, seu oponente aleatoriamente escolhe 1 para você adicionar à sua mão, você também embaralha o resto no Deck. Este efeito de \"Eneanave θ' \"oknirIA\"\" só pode ser ativado uma vez por turno.\r\n----------------------------------------\r\n[Efeito de Monstro]\r\nVocê pode revelar este card da sua mão; Invoque 1 monstro por Invocação-Especial da sua mão em Posição de Defesa com a face para baixo. Você não pode Invocar por Invocação-Especial no turno que ativar este efeito, exceto em Posição de Defesa com a face para baixo.\r\nQuando seu oponente ativa o efeito de um card no Cemitério ou Banimento (Efeito Rápido): você pode mudar este card Baixado para Posição de Defesa com a face para cima; adicione 1 card \"Eneanave\" do seu Deck à sua mão.\r\nSe este card for virado com a face para cima: embaralhe até 3 cards do Cemitério e/ou Banimento do seu oponente no Deck.",
     "overallString": "[Monstro|Efeito|Virar|Pêndulo] Máquina/Terra  [★1] 100/1000  0/0",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245019.jpg?version=15.13"
   },
   {
-    "name": "Enneacraft Aizaβ.LEON",
-    "desc": "Escala Pêndulo = 0\r\n[Efeito de Pêndulo]\r\nToda vez que um ou mais monstros são virados com a face para cima, coloque 1 Contador de Sinquisição neste card.\r\nNo final da Fase de Batalha, se você tiver um card \"Enneacraft\" na sua outra Zona de Pêndulo: você pode escolher 1 monstro que seu oponente contra com ATK menor que este card, destrua-o.\r\n----------------------------------------\r\n[Efeito de Monstro]\r\nVocê pode revelar este card da sua mão; Invoque 1 monstro por Invocação-Especial da sua mão em Posição de Defesa com a face para baixo. Você não pode Invocar por Invocação-Especial no turno que ativar este efeito, exceto em Posição de Defesa com a face para baixo.\r\nQuando seu oponente ativa um card ou efeito em resposta a ativação de um card ou efeito seu (Efeito Rápido): você pode mudar este card Baixado para Posição de Defesa com a face para cima; adicione 1 card \"Enneacraft\" do seu Deck à sua mão.\r\nToda vez que um ou mais cards são adicionados a mão do seu oponente por efeito de cards dele enquanto você controlar este monstro com a face para cima, inflija 900 de dano a ele para cada card.",
+    "name": "Eneanave Aizaβ.LEON",
+    "desc": "Escala Pêndulo = 0\r\n[Efeito de Pêndulo]\r\nToda vez que um ou mais monstros são virados com a face para cima, coloque 1 Contador de Sinquisição neste card.\r\nNo final da Fase de Batalha, se você tiver um card \"Eneanave\" na sua outra Zona de Pêndulo: você pode escolher 1 monstro que seu oponente contra com ATK menor que este card, destrua-o.\r\n----------------------------------------\r\n[Efeito de Monstro]\r\nVocê pode revelar este card da sua mão; Invoque 1 monstro por Invocação-Especial da sua mão em Posição de Defesa com a face para baixo. Você não pode Invocar por Invocação-Especial no turno que ativar este efeito, exceto em Posição de Defesa com a face para baixo.\r\nQuando seu oponente ativa um card ou efeito em resposta a ativação de um card ou efeito seu (Efeito Rápido): você pode mudar este card Baixado para Posição de Defesa com a face para cima; adicione 1 card \"Eneanave\" do seu Deck à sua mão.\r\nToda vez que um ou mais cards são adicionados a mão do seu oponente por efeito de cards dele enquanto você controlar este monstro com a face para cima, inflija 900 de dano a ele para cada card.",
     "overallString": "[Monstro|Efeito|Virar|Pêndulo] Máquina/Luz  [★9] 3000/2500  0/0",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245020.jpg?version=15.13"
   },
   {
-    "name": "Enneacraft Astaγ.PIXIEA",
-    "desc": "Escala Pêndulo = 0\r\n[Efeito de Pêndulo]\r\nToda vez que um ou mais monstros são virados com a face para cima, coloque 1 Contador de Sinquisição neste card.\r\nNo final da Fase de Batalha, se você tiver um card \"Enneacraft\" na sua outra Zona de Pêndulo: você pode escolher 1 monstro que seu oponente contra com ATK menor que este card, destrua-o.\r\n----------------------------------------\r\n[Efeito de Monstro]\r\nVocê pode revelar este card da sua mão; Invoque 1 monstro por Invocação-Especial da sua mão em Posição de Defesa com a face para baixo. Você não pode Invocar por Invocação-Especial no turno que ativar este efeito, exceto em Posição de Defesa com a face para baixo.\r\nQuando seu oponente ativa um card ou efeito que escolhe um ou mais cards que você controla (Efeito Rápido): você pode mudar este card Baixado para Posição de Defesa com a face para cima; negue aquele efeito, então você pode banir com a face para cima 1 card aleatório da mão do seu oponente.\r\nSeu oponente não pode escolher cards no campo ou Cemitério com efeito de cards enquanto controlar este monstro virado com a face para cima.",
+    "name": "Eneanave - Asta.PIXEA",
+    "desc": "Escala Pêndulo = 0\r\n[Efeito de Pêndulo]\r\nToda vez que um ou mais monstros são virados com a face para cima, coloque 1 Contador de Sinquisição neste card.\r\nNo final da Fase de Batalha, se você tiver um card \"Eneanave\" na sua outra Zona de Pêndulo: você pode escolher 1 monstro que seu oponente contra com ATK menor que este card, destrua-o.\r\n----------------------------------------\r\n[Efeito de Monstro]\r\nVocê pode revelar este card da sua mão; Invoque 1 monstro por Invocação-Especial da sua mão em Posição de Defesa com a face para baixo. Você não pode Invocar por Invocação-Especial no turno que ativar este efeito, exceto em Posição de Defesa com a face para baixo.\r\nQuando seu oponente ativa um card ou efeito que escolhe um ou mais cards que você controla (Efeito Rápido): você pode mudar este card Baixado para Posição de Defesa com a face para cima; negue aquele efeito, então você pode banir com a face para cima 1 card aleatório da mão do seu oponente.\r\nSeu oponente não pode escolher cards no campo ou Cemitério com efeito de cards enquanto controlar este monstro virado com a face para cima.",
     "overallString": "[Monstro|Efeito|Virar|Pêndulo] Máquina/Luz  [★9] 3000/2500  0/0",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245021.jpg?version=15.13"
   },
   {
-    "name": "Enneacraft AtoriϜ.MAR",
-    "desc": "Escala Pêndulo = 0\r\n[Efeito de Pêndulo]\r\nToda vez que um ou mais monstros são virados com a face para cima, coloque 1 Contador de Sinquisição neste card.\r\nNo final da Fase de Batalha, se você tiver um card \"Enneacraft\" na sua outra Zona de Pêndulo: você pode escolher 1 monstro que seu oponente contra com ATK menor que este card, destrua-o.\r\n----------------------------------------\r\n[Efeito de Monstro]\r\nVocê pode revelar este card da sua mão; Invoque 1 monstro por Invocação-Especial da sua mão em Posição de Defesa com a face para baixo. Você não pode Invocar por Invocação-Especial no turno que ativar este efeito, exceto em Posição de Defesa com a face para baixo.\r\nQuando seu oponente ativa um card ou efeito no campo durante seu turno (Efeito Rápido): você pode mudar este card Baixado para Posição de Defesa com a face para cima; negue a ativação, e se fizer, destrua aquele card.\r\nSe este card for virado com a face para cima: mude para Posição de Defesa com a face para baixo todos os monstros que seu oponente controla. Suas posições de batalha não podem ser mudadas.",
+    "name": "Eneanave - Atori.MAR",
+    "desc": "Escala Pêndulo = 0\r\n[Efeito de Pêndulo]\r\nToda vez que um ou mais monstros são virados com a face para cima, coloque 1 Contador de Sinquisição neste card.\r\nNo final da Fase de Batalha, se você tiver um card \"Eneanave\" na sua outra Zona de Pêndulo: você pode escolher 1 monstro que seu oponente contra com ATK menor que este card, destrua-o.\r\n----------------------------------------\r\n[Efeito de Monstro]\r\nVocê pode revelar este card da sua mão; Invoque 1 monstro por Invocação-Especial da sua mão em Posição de Defesa com a face para baixo. Você não pode Invocar por Invocação-Especial no turno que ativar este efeito, exceto em Posição de Defesa com a face para baixo.\r\nQuando seu oponente ativa um card ou efeito no campo durante seu turno (Efeito Rápido): você pode mudar este card Baixado para Posição de Defesa com a face para cima; negue a ativação, e se fizer, destrua aquele card.\r\nSe este card for virado com a face para cima: mude para Posição de Defesa com a face para baixo todos os monstros que seu oponente controla. Suas posições de batalha não podem ser mudadas.",
     "overallString": "[Monstro|Efeito|Virar|Pêndulo] Máquina/Luz  [★9] 3000/2500  0/0",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245022.jpg?version=15.13"
   },
   {
-    "name": "Enneacraft Archaη.TAIL",
-    "desc": "Escala Pêndulo = 0\r\n[Efeito de Pêndulo]\r\nToda vez que um ou mais monstros são virados com a face para cima, coloque 1 Contador de Sinquisição neste card.\r\nNo final da Fase de Batalha, se você tiver um card \"Enneacraft\" na sua outra Zona de Pêndulo: você pode escolher 1 monstro que seu oponente contra com ATK menor que este card, destrua-o.\r\n----------------------------------------\r\n[Efeito de Monstro]\r\nVocê pode revelar este card da sua mão; Invoque 1 monstro por Invocação-Especial da sua mão em Posição de Defesa com a face para baixo. Você não pode Invocar por Invocação-Especial no turno que ativar este efeito, exceto em Posição de Defesa com a face para baixo.\r\nQuando seu oponente ativa um card ou efeito que iria destruir um ou mais cards no campo (Efeito Rápido): você pode mudar este card Baixado para Posição de Defesa com a face para cima; monstros e Magias \"Enneacraft\" que você controla não podem ser destruidos por efeitos de cards pelo resto deste turno.\r\nToda vez que um ou mais monstros é enviado para o Cemitério do seu oponente enquanto você controlar este monstro virado com a face para cima, inflija 900 pontos de dano a ele.",
+    "name": "Eneanave Archaη.TAIL",
+    "desc": "Escala Pêndulo = 0\r\n[Efeito de Pêndulo]\r\nToda vez que um ou mais monstros são virados com a face para cima, coloque 1 Contador de Sinquisição neste card.\r\nNo final da Fase de Batalha, se você tiver um card \"Eneanave\" na sua outra Zona de Pêndulo: você pode escolher 1 monstro que seu oponente contra com ATK menor que este card, destrua-o.\r\n----------------------------------------\r\n[Efeito de Monstro]\r\nVocê pode revelar este card da sua mão; Invoque 1 monstro por Invocação-Especial da sua mão em Posição de Defesa com a face para baixo. Você não pode Invocar por Invocação-Especial no turno que ativar este efeito, exceto em Posição de Defesa com a face para baixo.\r\nQuando seu oponente ativa um card ou efeito que iria destruir um ou mais cards no campo (Efeito Rápido): você pode mudar este card Baixado para Posição de Defesa com a face para cima; monstros e Magias \"Eneanave\" que você controla não podem ser destruidos por efeitos de cards pelo resto deste turno.\r\nToda vez que um ou mais monstros é enviado para o Cemitério do seu oponente enquanto você controlar este monstro virado com a face para cima, inflija 900 pontos de dano a ele.",
     "overallString": "[Monstro|Efeito|Virar|Pêndulo] Máquina/Luz  [★9] 3000/2500  0/0",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245023.jpg?version=15.13"
   },
   {
-    "name": "Enneapolis, Cidade da Sinquisição",
-    "desc": "Este card é sempre considerado como um card \"Enneacraft\".\r\nUma ver por turno, durante a Fase Final: remova  todos os Contadores de Sinquisição de cards que você controla, e se fizer, inflija 900 de dano em seu oponente para cada.\r\nVocê só pode ativar cada um dos seguintes efeitos de \"Enneapolis, Cidade da Sinquisição\" uma vez por turno.\r\nVocê pode escolher qualquer número de Cards de Monstros Pêndulo \"Enneacraft\" que você controla; retorne-as para a mão.\r\nSe um ou mais Monstros Pêndulo \"Enneacraft\" que você controla é virado com a face para cima durante sua Fase Principal: você pode retornar para a mão, ou colocar na Zona de Pêndulo, 1 deles.",
+    "name": "Eneapolis, Cidade da Sinquisição",
+    "desc": "Este card é sempre considerado como um card \"Eneanave\".\r\nUma ver por turno, durante a Fase Final: remova  todos os Contadores de Sinquisição de cards que você controla, e se fizer, inflija 900 de dano em seu oponente para cada.\r\nVocê só pode ativar cada um dos seguintes efeitos de \"Eneapolis, Cidade da Sinquisição\" uma vez por turno.\r\nVocê pode escolher qualquer número de Cards de Monstros Pêndulo \"Eneanave\" que você controla; retorne-as para a mão.\r\nSe um ou mais Monstros Pêndulo \"Eneanave\" que você controla é virado com a face para cima durante sua Fase Principal: você pode retornar para a mão, ou colocar na Zona de Pêndulo, 1 deles.",
     "overallString": "[Magia|Magia de Campo]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245024.jpg?version=15.13"
   },
   {
-    "name": "Enneacraft – Liberar",
-    "desc": "Coloque 1 Monstro Pêndulo \"Enneacraft\" do seu Deck na sua Zona de Pêndulo.\r\nSe este card estiver no seu Cemitério, exceto no turno que foi enviado para lá: você pode bani-lo; adicione 1 monstro \"Enneacraft\" com a face para cima do seu Deck Adicional para sua mão.\r\nVocê só pode ativar 1 \"Enneacraft – Liberar\" uma vez por turno.",
+    "name": "Eneanave – Liberar",
+    "desc": "Coloque 1 Monstro Pêndulo \"Eneanave\" do seu Deck na sua Zona de Pêndulo.\r\nSe este card estiver no seu Cemitério, exceto no turno que foi enviado para lá: você pode bani-lo; adicione 1 monstro \"Eneanave\" com a face para cima do seu Deck Adicional para sua mão.\r\nVocê só pode ativar 1 \"Eneanave – Liberar\" uma vez por turno.",
     "overallString": "[Magia]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245025.jpg?version=15.13"
   },
@@ -246,80 +264,80 @@
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100246002.jpg?version=15.13"
   },
   {
-    "name": "Hecatônquiro Ibel",
-    "desc": "Se este card batalhar com um monstro, nenhum deles pode ser destruido por batalha.\r\nVocê só pode ativar os seguintes efeitos de \"Hecatônquiro Ibel\" uma vez por turno. Você pode revelar este card da sua mão; embaralhe-a no Deck, então Invoque por Invocação-Especial 1 monstro \"Hecatônquiro\" do seu Deck em Posição de Defesa, exceto \"Hecatônquiro Ibel\". \r\nSe esta carta for enviada ao Cemitério: Você pode escolher 1 monstro \"Hecatônquiro\" do seu Cemitério, exceto \"Hecatônquiro Ibel\"; Invoque-o por Invocação-Especial.",
+    "name": "Hecamãos Ibel",
+    "desc": "Se este card batalhar com um monstro, nenhum deles pode ser destruido por batalha.\r\nVocê só pode ativar os seguintes efeitos de \"Hecamãos Ibel\" uma vez por turno. Você pode revelar este card da sua mão; embaralhe-a no Deck, então Invoque por Invocação-Especial 1 monstro \"Hecamãos\" do seu Deck em Posição de Defesa, exceto \"Hecamãos Ibel\". \r\nSe esta carta for enviada ao Cemitério: Você pode escolher 1 monstro \"Hecamãos\" do seu Cemitério, exceto \"Hecamãos Ibel\"; Invoque-o por Invocação-Especial.",
     "overallString": "[Monstro|Efeito] Ilusão/Luz  [★6] 1600/2100",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245001.jpg?version=15.13"
   },
   {
-    "name": "Hecatônquiro Yadel",
-    "desc": "Se este card batalhar com um monstro, nenhum deles pode ser destruido por batalha. \r\nVocê só pode ativar os seguintes efeitos de \"Hecatônquiro Yadel\" uma vez por turno. Você pode revelar este card da sua mão; embaralhe-a no Deck, então adicione 1 Magia/Armadilha \"Hecatônquiro\" do seu Deck para sua mão. \r\nSe esta carta for enviada ao Cemitério: Você pode Baixar 1 Magia/Armadilha \"Hecatônquiro\" do seu Cemitério.",
+    "name": "Hecamãos Yadel",
+    "desc": "Se este card batalhar com um monstro, nenhum deles pode ser destruido por batalha. \r\nVocê só pode ativar os seguintes efeitos de \"Hecamãos Yadel\" uma vez por turno. Você pode revelar este card da sua mão; embaralhe-a no Deck, então adicione 1 Magia/Armadilha \"Hecamãos\" do seu Deck para sua mão. \r\nSe esta carta for enviada ao Cemitério: Você pode Baixar 1 Magia/Armadilha \"Hecamãos\" do seu Cemitério.",
     "overallString": "[Monstro|Efeito] Ilusão/Luz  [★6] 2100/1600",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245002.jpg?version=15.13"
   },
   {
-    "name": "Hecatônquiro Goddus",
-    "desc": "Se este card batalhar com um monstro, nenhum deles pode ser destruido por batalha. \r\nVocê só pode ativar os seguintes efeitos de \"Hecatônquiro Goddus\" uma vez por turno. Se um ou mais cards forem adicionados a mão do seu oponente, exceto durante a Fase de Compra: Você pode Invocar por Invocação-Especial este card da sua mão. \r\nDurante a Fase Principal do seu oponente (Efeito Rápido): Você pode escolher 1 monstro do Cemitério do oponente; Invoque-o por Invocação-Especial para o seu campo, mas bana-o quando sair do campo.",
+    "name": "Hecamãos Goddus",
+    "desc": "Se este card batalhar com um monstro, nenhum deles pode ser destruido por batalha. \r\nVocê só pode ativar os seguintes efeitos de \"Hecamãos Goddus\" uma vez por turno. Se um ou mais cards forem adicionados a mão do seu oponente, exceto durante a Fase de Compra: Você pode Invocar por Invocação-Especial este card da sua mão. \r\nDurante a Fase Principal do seu oponente (Efeito Rápido): Você pode escolher 1 monstro do Cemitério do oponente; Invoque-o por Invocação-Especial para o seu campo, mas bana-o quando sair do campo.",
     "overallString": "[Monstro|Efeito] Ilusão/Trevas  [★7] 2300/2000",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245003.jpg?version=15.13"
   },
   {
-    "name": "Hecatônquiro Gygas",
-    "desc": "Se este card batalhar com um monstro, nenhum deles pode ser destruido por batalha. \r\nVocê só pode ativar os seguintes efeitos de \"Hecatônquiro Gygas\" uma vez por turno. Se um ou mais cards forem adicionados a mão do seu oponente, exceto durante a Fase de Compra: Você pode Invocar por Invocação-Especial este card da sua mão. \r\nDurante sua Fase Principal: Você pode escavar as 3 cards do topo do Deck do seu oponente, você pode Invocar por Invocação-Especial 1 monstro escavado, embaralhe o resto no Deck.",
+    "name": "Hecamãos Gygas",
+    "desc": "Se este card batalhar com um monstro, nenhum deles pode ser destruido por batalha. \r\nVocê só pode ativar os seguintes efeitos de \"Hecamãos Gygas\" uma vez por turno. Se um ou mais cards forem adicionados a mão do seu oponente, exceto durante a Fase de Compra: Você pode Invocar por Invocação-Especial este card da sua mão. \r\nDurante sua Fase Principal: Você pode escavar as 3 cards do topo do Deck do seu oponente, você pode Invocar por Invocação-Especial 1 monstro escavado, embaralhe o resto no Deck.",
     "overallString": "[Monstro|Efeito] Ilusão/Trevas  [★7] 1200/2800",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245004.jpg?version=15.13"
   },
   {
-    "name": "Hecatônquiro Breus",
-    "desc": "Se este card batalhar com um monstro, nenhum deles pode ser destruido por batalha. \r\nVocê só pode ativar os seguintes efeitos de \"Hecatônquiro Breus\" uma vez por turno. Se um ou mais cards forem adicionados a mão do seu oponente, exceto durante a Fase de Compra: Você pode Invocar por Invocação-Especial este card da sua mão. \r\nDurante sua Fase Principal: Você pode ver 1 card aleatório da mão do seu oponente, e se for um monstro, você pode Invoca-la por Invocação-Especial para o seu campo.",
+    "name": "Hecamãos Breus",
+    "desc": "Se este card batalhar com um monstro, nenhum deles pode ser destruido por batalha. \r\nVocê só pode ativar os seguintes efeitos de \"Hecamãos Breus\" uma vez por turno. Se um ou mais cards forem adicionados a mão do seu oponente, exceto durante a Fase de Compra: Você pode Invocar por Invocação-Especial este card da sua mão. \r\nDurante sua Fase Principal: Você pode ver 1 card aleatório da mão do seu oponente, e se for um monstro, você pode Invoca-la por Invocação-Especial para o seu campo.",
     "overallString": "[Monstro|Efeito] Ilusão/Trevas  [★7] 2800/1300",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245005.jpg?version=15.13"
   },
   {
-    "name": "Hecatônquiro Jawza",
-    "desc": "1 monstro \"Hecatônquiro\" + 1 monstro Ilusão\r\nDeve ser invocado primeiro por Invocação-Fusão ou Invocação-Especial (do seu Deck Adicional) ao oferecer como Tributo 1 monstro Ilusão e 1 outro monstro de face para cima do seu oponente que você controla.\r\nDurante sua Fase Principal: Você pode adicionar 1 carta \"Hecatônquiro\" do seu Deck ou Cemitério para sua mão. Você só pode usar este efeito de \"Hecatônquiro Jawza\" uma vez por turno.\r\nSe este card batalhar com um monstro, nenhum deles pode ser destruído por batalha.",
+    "name": "Hecamãos Jauzah",
+    "desc": "1 monstro \"Hecamãos\" + 1 monstro Ilusão\r\nDeve ser invocado primeiro por Invocação-Fusão ou Invocação-Especial (do seu Deck Adicional) ao oferecer como Tributo 1 monstro Ilusão e 1 outro monstro de face para cima do seu oponente que você controla.\r\nDurante sua Fase Principal: Você pode adicionar 1 carta \"Hecamãos\" do seu Deck ou Cemitério para sua mão. Você só pode usar este efeito de \"Hecamãos Jauzah\" uma vez por turno.\r\nSe este card batalhar com um monstro, nenhum deles pode ser destruído por batalha.",
     "overallString": "[Monstro|Efeito|Fusão] Ilusão/Luz  [★8] 2400/2500",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245006.jpg?version=15.13"
   },
   {
-    "name": "Hecatônquiro Xeno",
-    "desc": "3 monstros \"Hecatônquiro\"\r\nSe este card batalhar com um monstro, nenhum deles pode ser destruido por batalha. \r\nVocê só pode ativar os seguintes efeitos de \"Hecatônquiro Xeno\" uma vez por turno. Durante a Fase Principal (Efeito Rápido): Você pode ver 2 cards aleatórios do Deck Adicional do seu oponente, se fizer, você pode Invocar por Invocação-Especial 1 deles para o seu campo.\r\nSe este card Invocado por Invocação-Fusão for destruido sob o controle de seu dono por um efeito de card do oponente: Você pode tomar o controle de qualquer número de monstros que ele controla.",
+    "name": "Hecamãos Xeno",
+    "desc": "3 monstros \"Hecamãos\"\r\nSe este card batalhar com um monstro, nenhum deles pode ser destruido por batalha. \r\nVocê só pode ativar os seguintes efeitos de \"Hecamãos Xeno\" uma vez por turno. Durante a Fase Principal (Efeito Rápido): Você pode ver 2 cards aleatórios do Deck Adicional do seu oponente, se fizer, você pode Invocar por Invocação-Especial 1 deles para o seu campo.\r\nSe este card Invocado por Invocação-Fusão for destruido sob o controle de seu dono por um efeito de card do oponente: Você pode tomar o controle de qualquer número de monstros que ele controla.",
     "overallString": "[Monstro|Efeito|Fusão] Ilusão/Trevas  [★9] 3400/3500",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245007.jpg?version=15.13"
   },
   {
-    "name": "Hecatônquiro Tártaro",
-    "desc": "Ative 1 destes efeitos (mas você só pode usar cada efeito de \"Hecatônquiro Tártaro\" uma vez por turno);\r\n●Se você controlar um monstro \"Hecatônquiro\": Escolha 1 Magia/Armadilha que seu oponente controle; retorne-a para a mão.\r\n●Invoque por Invocação-Fusão 1 Monstro de Fusão \"Hecatônquiro\" do seu Deck Adicional, banindo monstros do seu campo e/ou Cemitério como materiais. Se você usar monstros de face para cima do seu oponente que você controla, você pode trata-los como monstros \"Hecatônquiro\".\r\n",
+    "name": "Hecamãos Tártaro",
+    "desc": "Ative 1 destes efeitos (mas você só pode usar cada efeito de \"Hecamãos Tártaro\" uma vez por turno);\r\n●Se você controlar um monstro \"Hecamãos\": Escolha 1 Magia/Armadilha que seu oponente controle; retorne-a para a mão.\r\n●Invoque por Invocação-Fusão 1 Monstro de Fusão \"Hecamãos\" do seu Deck Adicional, banindo monstros do seu campo e/ou Cemitério como materiais. Se você usar monstros de face para cima do seu oponente que você controla, você pode trata-los como monstros \"Hecamãos\".\r\n",
     "overallString": "[Magia|Magia Rápida]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245009.jpg?version=15.13"
   },
   {
-    "name": "Ipt al Hecatônquiro",
-    "desc": "Quando seu oponente ativar o efeito de um monstro e você controlar um monstro \"Hecatônquiro\": Negue a ativação, e se fizer, destrua aquele monstro, então você pode Invoca-lo por Invocação-Especial para o seu campo. Você só pode ativar 1 \"Ipt al Hecatônquiro\" por turno.",
+    "name": "Ipt al Hecamãos",
+    "desc": "Quando seu oponente ativar o efeito de um monstro e você controlar um monstro \"Hecamãos\": Negue a ativação, e se fizer, destrua aquele monstro, então você pode Invoca-lo por Invocação-Especial para o seu campo. Você só pode ativar 1 \"Ipt al Hecamãos\" por turno.",
     "overallString": "[Armadilha|Armadilha de Resposta]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245010.jpg?version=15.13"
   },
   {
-    "name": "Yad al Hecatônquiro",
-    "desc": "Quando seu oponente ativar uma Magia/Armadilha e você controlar um monstro \"Hecatônquiro\": Negue a ativação, e se fizer, destrua aquele card, então você pode Baixa-lo no seu campo. Você só pode ativar 1 \"Yad al Hecatônquiro\" por turno.",
+    "name": "Yad al Hecamãos",
+    "desc": "Quando seu oponente ativar uma Magia/Armadilha e você controlar um monstro \"Hecamãos\": Negue a ativação, e se fizer, destrua aquele card, então você pode Baixa-lo no seu campo. Você só pode ativar 1 \"Yad al Hecamãos\" por turno.",
     "overallString": "[Armadilha|Armadilha de Resposta]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245011.jpg?version=15.13"
   },
   {
-    "name": "Guerreiro Velocidade Total",
-    "desc": "Se este card for Invocado por Invocação-Normal ou Especial: você pode adicionar 1 \"Sucata Sincron\" ou 1 Magia/Armadilha que mencione \"Guerreiro Sucata\" do seu Deck à sua mão.\nVocê só pode usar este efeito de \"Guerreiro Velocidade Total\" uma vez por turno.\nMonstros que mencionem \"Guerreiro Sucata\" e Monstros Sincro com \"Guerreiro\" em seus nomes originais que você controla ganham 900 de ATK apenas durante a sua Fase de Batalha.",
+    "name": "Guerreiro Veloz Absoluto",
+    "desc": "Se este card for Invocado por Invocação-Normal ou Especial: você pode adicionar 1 \"Sucata Sincron\" ou 1 Magia/Armadilha que mencione \"Guerreiro Sucata\" do seu Deck à sua mão.\r\nVocê só pode usar este efeito de \"Guerreiro Veloz Absoluto\" uma vez por turno.\r\nMonstros que mencionem \"Guerreiro Sucata\" e Monstros Sincro com \"Guerreiro\" em seus nomes originais que você controla ganham 900 de ATK apenas durante a sua Fase de Batalha.",
     "overallString": "[Monstro|Efeito] Guerreiro/Vento  [★2] 900/400",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100244001.jpg?version=15.13"
   },
   {
-    "name": "Ouriço Parafuso Âncora",
-    "desc": "Se você controlar \"Guerreiro Sucata\", ou um monstro que o mencione que não seja \"Ouriço Parafuso Âncora\", e este card estiver no seu Cemitério (Efeito Rápido): você pode Invocar este card por Invocação-Especial em Posição de Defesa e, além disso, você não pode Invocar por Invocação-Especial do Deck Adicional pelo resto deste turno, exceto Monstros Sincro.\nVocê só pode usar este efeito de \"Ouriço Parafuso Âncora\" uma vez por turno.",
+    "name": "Ouriço Ancorafusado",
+    "desc": "Se você controlar \"Guerreiro Sucata\", ou um monstro que o mencione que não seja \"Ouriço Ancorafusado\", e este card estiver no seu Cemitério (Efeito Rápido): você pode Invocar este card por Invocação-Especial em Posição de Defesa e, além disso, você não pode Invocar por Invocação-Especial do Deck Adicional pelo resto deste turno, exceto Monstros Sincro.\r\nVocê só pode usar este efeito de \"Ouriço Ancorafusado\" uma vez por turno.",
     "overallString": "[Monstro|Efeito] Máquina/Terra  [★2] 800/800",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100244002.jpg?version=15.13"
   },
   {
-    "name": "Companheiros Sincro",
-    "desc": "Adicione 1 \"Sucata Sincron\" e 1 monstro que mencione \"Guerreiro Sucata\" ou \"Dragão da Poeira Estelar\" do seu Deck à sua mão e, depois, descarte 1 card.\nVocê pode banir este card do seu Cemitério e, depois, escolher 1 Monstro Sincro que você controla; diminua o Nível dele em 1 e, depois, durante sua Fase Principal neste turno, você pode Invocar por Invocação-Normal 1 monstro \"Sincron\", além da sua Invocação-Normal/Baixar (você só pode ganhar este efeito uma vez por turno).\nVocê só pode ativar 1 \"Companheiros Sincro\" por turno.",
+    "name": "Sociedade Sincro",
+    "desc": "Adicione 1 \"Sucata Sincron\" e 1 monstro que mencione \"Guerreiro Sucata\" ou \"Dragão da Poeira Estelar\" do seu Deck à sua mão e, depois, descarte 1 card.\r\nVocê pode banir este card do seu Cemitério e, depois, escolher 1 Monstro Sincro que você controla; diminua o Nível dele em 1 e, depois, durante sua Fase Principal neste turno, você pode Invocar por Invocação-Normal 1 monstro \"Sincron\", além da sua Invocação-Normal/Baixar (você só pode ganhar este efeito uma vez por turno).\r\nVocê só pode ativar 1 \"Sociedade Sincro\" por turno.",
     "overallString": "[Magia]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100244005.jpg?version=15.13"
   },
