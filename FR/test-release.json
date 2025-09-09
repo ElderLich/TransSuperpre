@@ -1,5 +1,17 @@
 [
   {
+    "name": "Panthère de Trésors",
+    "desc": "Si un monstre Posé est sur le Terrain : vous pouvez Invoquer Spécialement cette carte depuis votre main.\r\nVous pouvez cibler max. 3 monstres Posés sur le Terrain ; changez-les en Position d'Attaque, puis, si vous avez changé 3 monstres en Position d'Attaque, infligez 900 points de dommages à votre adversaire.\r\nSi cette carte est retournée face recto : vous pouvez envoyer 1 Monstre Normal depuis votre Deck au Cimetière.\r\nVous ne pouvez utiliser chaque effet de \"Panthère de Trésors\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet|Flip] Bête/Terre  [★1] 100/100",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100200279.jpg?version=15.13"
+  },
+  {
+    "name": "Caspar, Cerveau de la Magie de Mousquet",
+    "desc": "2 monstres (un monstre LUMIÈRE Démon inclus)\r\nSi cette carte est Invoquée par Lien : vous pouvez prendre 2 cartes \"Magie de Mousquet\" depuis votre main et/ou Deck (un monstre inclus), Invoquez Spécialement 1 des monstres, et Posez l'autre carte sur le Terrain de votre adversaire. Vous ne pouvez utiliser cet effet de \"Caspar, Cerveau de la Magie de Mousquet\" qu'une fois par tour.\r\nDurant le tour de chaque joueur, vous pouvez activer des Cartes Magie/Piège \"Magie de Mousquet\" depuis votre main.",
+    "overallString": "[Monstre|Effet|Lien] Démon/Lumiére  [LINK-2] 2000/-  [↑][↓]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100249001.jpg?version=15.13"
+  },
+  {
     "name": "Synchro à Sens Unique",
     "desc": "Ajoutez à votre main, ou Invoquez Spécialement, 1 Syntoniseur de Niveau 1 depuis votre Deck ou Cimetière.\r\nSi cette carte est dans votre Cimetière et que vous contrôlez \"Robot Guerrier\" ou un monstre qui le mentionne : vous pouvez Poser cette carte, mais bannissez-la lorsqu'elle quitte le Terrain.\r\nVous ne pouvez utiliser qu'1 effet de \"Synchro à Sens Unique\" par tour, et uniquement une fois le tour.",
     "overallString": "[Piège]",
@@ -126,14 +138,14 @@
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245035.jpg?version=15.13"
   },
   {
-    "name": "Remix Son d'Enfer",
-    "desc": "\"Mix Son d'Enfer\" + 1+ Syntoniseur\r\nGagne 1500 ATK tant que votre adversaire a un Syntoniseur dans son Terrain ou Cimetière.\r\nDurant le tour de votre adversaire (Effet Rapide) : vous pouvez Sacrifier cette carte ; prenez 2 Syntoniseurs non-Synchro depuis votre Cimetière, ajoutez-en 1 à votre main, et si vous le faites, Invoquez Spécialement l'autre, puis immédiatement après la résolution de cet effet, vous pouvez Invoquer par Synchronisation 1 Syntoniseur. Vous ne pouvez utiliser cet effet de \"Remix Son d'Enfer\" qu'une fois par tour.",
+    "name": "Remix du Son Kewl",
+    "desc": "\"Mix Son d'Enfer\" + 1+ Syntoniseur\r\nGagne 1500 ATK tant que votre adversaire a un Syntoniseur dans son Terrain ou Cimetière.\r\nDurant le tour de votre adversaire (Effet Rapide) : vous pouvez Sacrifier cette carte ; prenez 2 Syntoniseurs non-Synchro depuis votre Cimetière, ajoutez-en 1 à votre main, et si vous le faites, Invoquez Spécialement l'autre, puis immédiatement après la résolution de cet effet, vous pouvez Invoquer par Synchronisation 1 Syntoniseur. Vous ne pouvez utiliser cet effet de \"Remix du Son Kewl\" qu'une fois par tour.",
     "overallString": "[Monstre|Effet|Syntoniseur|Synchro] Guerrier/Ténébres  [★5] 1500/2000",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245036.jpg?version=15.13"
   },
   {
-    "name": "Sceau Rouge Son d'Enfer",
-    "desc": "\"Reco Son d'Enfer\" + 1+ Syntoniseur\r\nGagne 300 ATK pour chaque Syntoniseur dans les Cimetières.\r\nLe Niveau des monstres avec max. 1700 ATK d'origine contrôlés par votre adversaire est augmenté de 1.\r\nDurant la Main Phase (Effet Rapide) : vous pouvez bannir 1 Syntoniseur depuis votre Cimetière, puis ciblez 1 carte face recto contrôlée par votre adversaire ; annulez ses effets jusqu'à la fin de ce tour. Vous ne pouvez utiliser cet effet de \"Sceau Rouge Son d'Enfer\" qu'une fois par tour.",
+    "name": "RS du Son Kewl",
+    "desc": "\"Reco Son d'Enfer\" + 1+ Syntoniseur\r\nGagne 300 ATK pour chaque Syntoniseur dans les Cimetières.\r\nLe Niveau des monstres avec max. 1700 ATK d'origine contrôlés par votre adversaire est augmenté de 1.\r\nDurant la Main Phase (Effet Rapide) : vous pouvez bannir 1 Syntoniseur depuis votre Cimetière, puis ciblez 1 carte face recto contrôlée par votre adversaire ; annulez ses effets jusqu'à la fin de ce tour. Vous ne pouvez utiliser cet effet de \"RS du Son Kewl\" qu'une fois par tour.",
     "overallString": "[Monstre|Effet|Syntoniseur|Synchro] Démon/Ténébres  [★5] 1700/2400",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245037.jpg?version=15.13"
   },
@@ -192,14 +204,14 @@
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245019.jpg?version=15.13"
   },
   {
-    "name": "Ennéanef - Aizaβ.LEON",
-    "desc": "Échelle Pendule = 0\r\n[Effet Pendule]\r\nChaque fois qu'un ou plusieurs monstres sont retournés face recto, placez 1 Compteur Péchéquisition sur cette carte.\r\nÀ la fin de la Battle Phase, si vous avez une carte \"Ennéanef\" dans votre autre Zone Pendule : vous pouvez cibler 1 monstre contrôlé par votre adversaire avec une ATK inférieure à cette carte ; détruisez-le.\r\n----------------------------------------\r\n[Effet de Monstre]\r\nVous pouvez révéler cette carte dans votre main ; Invoquez Spécialement 1 monstre depuis votre main en Position de Défense face verso. Vous ne pouvez pas Invoquer Spécialement le tour où vous activez cet effet, sauf en Position de Défense face verso.\r\nLorsque votre adversaire active une carte ou un effet en réponse à l'activation de votre carte ou effet (Effet Rapide) : vous pouvez changer cette carte Posée en Position de Défense face recto ; renvoyez max. 3 cartes sur le Terrain à la main.\r\nAprès que cette carte a été retournée face recto, tant qu'elle est dans la Zone Monstre, chaque fois qu'une ou plusieurs cartes sont ajoutées à la main de votre adversaire par son effet de carte, infligez 900 points de dommages à votre adversaire pour chacune d'elles.",
+    "name": "Ennéacrimaisseau - Atori.MAR",
+    "desc": "Échelle Pendule = 0\r\n[Effet Pendule]\r\nChaque fois qu'un ou plusieurs monstres sont retournés face recto, placez 1 Compteur Péchéquisition sur cette carte.\r\nÀ la fin de la Battle Phase, si vous avez une carte \"Ennéacrimaisseau\" dans votre autre Zone Pendule : vous pouvez cibler 1 monstre contrôlé par votre adversaire avec une ATK inférieure à cette carte ; détruisez-le.\r\n----------------------------------------\r\n[Effet de Monstre]\r\nVous pouvez révéler cette carte dans votre main ; Invoquez Spécialement 1 monstre depuis votre main en Position de Défense face verso. Vous ne pouvez pas Invoquer Spécialement le tour où vous activez cet effet, sauf en Position de Défense face verso.\r\nLorsque votre adversaire active une carte ou un effet en réponse à l'activation de votre carte ou effet (Effet Rapide) : vous pouvez changer cette carte Posée en Position de Défense face recto ; renvoyez max. 3 cartes sur le Terrain à la main.\r\nAprès que cette carte a été retournée face recto, tant qu'elle est dans la Zone Monstre, chaque fois qu'une ou plusieurs cartes sont ajoutées à la main de votre adversaire par son effet de carte, infligez 900 points de dommages à votre adversaire pour chacune d'elles.",
     "overallString": "[Monstre|Effet|Flip|Pendule] Machine/Lumiére  [★9] 3000/2500  0/0",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245020.jpg?version=15.13"
   },
   {
-    "name": "Ennéanef - Astaγ.PIXIEA",
-    "desc": "Échelle Pendule = 0\r\n[Effet Pendule]\r\nChaque fois qu'un ou plusieurs monstres sont retournés face recto, placez 1 Compteur Péchéquisition sur cette carte.\r\nÀ la fin de la Battle Phase, si vous avez une carte \"Ennéanef\" dans votre autre Zone Pendule : vous pouvez cibler 1 monstre contrôlé par votre adversaire avec une ATK inférieure à cette carte ; détruisez-le.\r\n----------------------------------------\r\n[Effet de Monstre]\r\nVous pouvez révéler cette carte dans votre main ; Invoquez Spécialement 1 monstre depuis votre main en Position de Défense face verso. Vous ne pouvez pas Invoquer Spécialement le tour où vous activez cet effet, sauf en Position de Défense face verso.\r\nLorsque votre adversaire active une carte ou un effet qui cible une ou plusieurs cartes que vous contrôlez (Effet Rapide) : vous pouvez changer cette carte Posée en Position de Défense face recto ; annulez l'effet, puis vous pouvez bannir face verso 1 carte au hasard depuis la main de votre adversaire.\r\nAprès que cette carte a été retournée face recto, tant qu'elle est dans la Zone Monstre, votre adversaire ne peut pas cibler de cartes dans le Terrain ou Cimetière avec des effets de carte.",
+    "name": "Ennéacrimaisseau - Asta.PIXEA",
+    "desc": "Échelle Pendule = 0\r\n[Effet Pendule]\r\nChaque fois qu'un ou plusieurs monstres sont retournés face recto, placez 1 Compteur Péchéquisition sur cette carte.\r\nÀ la fin de la Battle Phase, si vous avez une carte \"Ennéacrimaisseau\" dans votre autre Zone Pendule : vous pouvez cibler 1 monstre contrôlé par votre adversaire avec une ATK inférieure à cette carte ; détruisez-le.\r\n----------------------------------------\r\n[Effet de Monstre]\r\nVous pouvez révéler cette carte dans votre main ; Invoquez Spécialement 1 monstre depuis votre main en Position de Défense face verso. Vous ne pouvez pas Invoquer Spécialement le tour où vous activez cet effet, sauf en Position de Défense face verso.\r\nLorsque votre adversaire active une carte ou un effet qui cible une ou plusieurs cartes que vous contrôlez (Effet Rapide) : vous pouvez changer cette carte Posée en Position de Défense face recto ; annulez l'effet, puis vous pouvez bannir face verso 1 carte au hasard depuis la main de votre adversaire.\r\nAprès que cette carte a été retournée face recto, tant qu'elle est dans la Zone Monstre, votre adversaire ne peut pas cibler de cartes dans le Terrain ou Cimetière avec des effets de carte.",
     "overallString": "[Monstre|Effet|Flip|Pendule] Machine/Lumiére  [★9] 3000/2500  0/0",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245021.jpg?version=15.13"
   },
@@ -282,8 +294,8 @@
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245005.jpg?version=15.13"
   },
   {
-    "name": "Jawza Hécatonchire",
-    "desc": "1 monstre \"Hécatonchire\" + 1 monstre Illusion\r\nDoit d'abord être soit Invoquée par Fusion, soit Invoquée Spécialement (depuis votre Extra Deck) en Sacrifiant 1 monstre Illusion et 1 monstre face recto que vous contrôlez dont le propriéraire est votre adversaire.\r\nDurant votre Main Phase : vous pouvez ajouter 1 carte \"Hécatonchire\" depuis votre Deck ou Cimetière à votre main. Vous ne pouvez utiliser cet effet de \"Jawza Hécatonchire\" qu'une fois par tour.\r\nSi cette carte combat un monstre, aucun de ces 2 monstres ne peut être détruit par ce combat.",
+    "name": "Hécamains Jauzah",
+    "desc": "1 monstre \"Hécamains\" + 1 monstre Illusion\r\nDoit d'abord être soit Invoquée par Fusion, soit Invoquée Spécialement (depuis votre Extra Deck) en Sacrifiant 1 monstre Illusion et 1 monstre face recto que vous contrôlez dont le propriéraire est votre adversaire.\r\nDurant votre Main Phase : vous pouvez ajouter 1 carte \"Hécatonchire\" depuis votre Deck ou Cimetière à votre main. Vous ne pouvez utiliser cet effet de \"Hécamains Jauzah\" qu'une fois par tour.\r\nSi cette carte combat un monstre, aucun de ces 2 monstres ne peut être détruit par ce combat.",
     "overallString": "[Monstre|Effet|Fusion] Illusion/Lumiére  [★8] 2400/2500",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100245006.jpg?version=15.13"
   },
@@ -324,8 +336,8 @@
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100244002.jpg?version=15.13"
   },
   {
-    "name": "Camarades Synchro",
-    "desc": "Ajoutez 1 \"Robot Synchronique\", et 1 monstre qui mentionne \"Robot Guerrier\" ou \"Dragon Poussière d'Étoile\", depuis votre Deck à votre main, puis défaussez 1 carte.\r\nVous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 Monstre Synchro que vous contrôlez ; réduisez son Niveau de 1, et aussi, vous pouvez Invoquer Normalement 1 monstre \"Synchronique\" durant votre Main Phase ce tour, en plus de votre Invocation/Pose Normale (vous ne pouvez gagner cet effet qu'une fois par tour).\r\nVous ne pouvez activer qu'1 \"Camarades Synchro\" par tour.",
+    "name": "Camaraderie Synchro",
+    "desc": "Ajoutez 1 \"Robot Synchronique\", et 1 monstre qui mentionne \"Robot Guerrier\" ou \"Dragon Poussière d'Étoile\", depuis votre Deck à votre main, puis défaussez 1 carte.\r\nVous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 Monstre Synchro que vous contrôlez ; réduisez son Niveau de 1, et aussi, vous pouvez Invoquer Normalement 1 monstre \"Synchronique\" durant votre Main Phase ce tour, en plus de votre Invocation/Pose Normale (vous ne pouvez gagner cet effet qu'une fois par tour).\r\nVous ne pouvez activer qu'1 \"Camaraderie Synchro\" par tour.",
     "overallString": "[Magie]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100244005.jpg?version=15.13"
   },
