@@ -1,5 +1,149 @@
 [
   {
+    "name": "R.B. Lambda Cannone",
+    "desc": "Se questa carta viene Evocata Normalmente o Specialmente: puoi scegliere come bersaglio 1 mostro \"R.B.\" nel tuo Cimitero, eccetto \"R.B. Lambda Cannone\"; aggiungilo alla tua mano.\r\nMentre questa carta è collegata a un Mostro Link \"R.B.\": puoi pagare 1200 LP; distruggi questa carta e, se lo fai, guarda la mano del tuo avversario, poi puoi Evocare Specialmente 1 mostro da essa sul suo Terreno, ma annulla i suoi effetti.\r\nPuoi utilizzare ciascun effetto di \"R.B. Lambda Cannone\" una sola volta per turno.",
+    "overallString": "[Monster|Effect] Machine/Dark  [★6] 1200/1200",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101302090.jpg?version=15.13"
+  },
+  {
+    "name": "R.B. Lambda Lama",
+    "desc": "Se questa carta viene Evocata Normalmente o Specialmente: puoi mandare 1 carta \"R.B.\" dal tuo Deck al Cimitero, eccetto \"R.B. Lambda Lama\".\r\nDurante la Main Phase del tuo avversario, se questa carta è collegata a un Mostro Link \"R.B.\" (Effetto Rapido): puoi pagare 1400 LP, poi scegliere come bersaglio 1 mostro controllato dal tuo avversario; distruggi questa carta e, se lo fai, prendi il controllo di quel mostro, ma distruggilo durante la End Phase.\r\nPuoi utilizzare ciascun effetto di \"R.B. Lambda Lama\" una sola volta per turno.",
+    "overallString": "[Monster|Effect] Machine/Dark  [★7] 1400/1400",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101302091.jpg?version=15.13"
+  },
+  {
+    "name": "R.B. Ga10 Carro Armato",
+    "desc": "Se non controlli mostri scoperti, oppure i soli mostri scoperti che controlli sono mostri \"R.B.\", puoi Evocare Specialmente questa carta (dalla tua mano). Puoi Evocare Specialmente \"R.B. Ga10 Carro Armato\" una sola volta per turno in questo modo.\r\nQuando viene dichiarato un attacco che coinvolge un mostro dell'avversario e \"R.B. Il Blues Bruto\" che punta a questa carta: puoi pagare 1500 LP; distruggi tutte le carte controllate dal tuo avversario e questa carta. Puoi utilizzare questo effetto di \"R.B. Ga10 Carro Armato\" una sola volta per turno.",
+    "overallString": "[Monster|Effect] Machine/Earth  [★8] 1500/1500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101302092.jpg?version=15.13"
+  },
+  {
+    "name": "R.B. Bastone da Pastore",
+    "desc": "2+ mostri, compreso un mostro \"R.B.\"\r\nGuadagna 500 ATK per ogni mostro che controlli, eccetto questa carta.\r\nPuoi utilizzare ciascuno dei seguenti effetti di \"R.B. Bastone da Pastore\" una sola volta per turno.\r\nDurante la tua Main Phase: puoi Posizionare 1 Trappola \"R.B.\" dal tuo Deck o Cimitero.\r\nDurante la Main Phase del tuo avversario (Effetto Rapido): puoi scegliere come bersaglio 3 mostri \"R.B.\" di Livello 3 o superiore nel tuo Cimitero; metti 2 in fondo al Deck in qualsiasi ordine e, se lo fai, Evoca Specialmente l'altro in Posizione di Difesa.",
+    "overallString": "[Monster|Effect|Link] Machine/Dark  [LINK-3] 1500/-  [←][↓][↘]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101302093.jpg?version=15.13"
+  },
+  {
+    "name": "R.B. Test Operativo",
+    "desc": "Quando questa carta viene attivata: puoi scegliere come bersaglio 1 mostro \"R.B.\" di Livello 3 o superiore nel tuo Cimitero; Evocalo Specialmente.\r\nPuoi scegliere come bersaglio un qualsiasi numero di mostri \"R.B.\" che controlli; guadagni LP pari all'ATK originale totale di essi e, se lo fai, restituiscili alla mano/Extra Deck, poi puoi Evocare Specialmente 1 mostro \"R.B.\" dalla tua mano. Puoi utilizzare questo effetto di \"R.B. Test Operativo\" una sola volta per turno.\r\nPuoi attivare solo 1 \"R.B. Test Operativo\" per turno.",
+    "overallString": "[Spell|Continuous]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101302094.jpg?version=15.13"
+  },
+  {
+    "name": "R.B. Ultima Resistenza",
+    "desc": "Evoca Specialmente 1 mostro \"R.B.\" dal tuo Deck, Extra Deck o Cimitero con un nome diverso dalle carte che controlli. Per il resto di questo turno dopo che questa carta si è risolta, non puoi Evocare Specialmente dall'Extra Deck, eccetto mostri MACCHINA con 1500 o meno ATK.\r\nQuando il tuo avversario attiva una carta o un effetto che sceglie come bersaglio uno o più mostri \"R.B.\" che controlli: puoi bandire questa carta dal tuo Cimitero; annulla quell'effetto.\r\nPuoi utilizzare solo 1 effetto di \"R.B. Ultima Resistenza\" per turno, e solo una volta in quel turno.",
+    "overallString": "[Trap]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101302095.jpg?version=15.13"
+  },
+  {
+    "name": "R.B. Prossima Fase",
+    "desc": "Quando il tuo avversario attiva un effetto di mostro mentre controlli un mostro \"R.B.\": distruggi 1 mostro che controlli e, se lo fai, annulla l'attivazione e, se lo fai, distruggi quella carta, poi guadagni 2000 LP. Puoi attivare solo 1 \"R.B. Prossima Fase\" per turno.",
+    "overallString": "[Trap|Counter]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101302096.jpg?version=15.13"
+  },
+  {
+    "name": "Signore Oscuro Gulgalta",
+    "desc": "Puoi Evocare Specialmente uno o più \"Signore Oscuro Gulgalta\" solo una volta per turno.\r\nSe questa carta viene Evocata Specialmente: puoi Evocare Specialmente 2 \"Segna-Signore Oscuro\" (FATA/OSCURITÀ/Livello 6/ATK 0/DEF 0), inoltre non puoi Evocare Specialmente per il resto di questo turno, eccetto mostri FATA.\r\nSe questa carta viene mandata al Cimitero: puoi aggiungere 1 carta \"Signore Oscuro\" o 1 Magia Rapida \"Proibito/a\" dal tuo Deck alla tua mano, eccetto \"Signore Oscuro Gulgalta\". Puoi utilizzare questo effetto di \"Signore Oscuro Gulgalta\" una sola volta per turno.",
+    "overallString": "[Monster|Effect] Fairy/Dark  [★6] 2400/800",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303018.jpg?version=15.13"
+  },
+  {
+    "name": "Signore Oscuro Djehuty",
+    "desc": "Se questa carta viene Evocata Normalmente o Specialmente: puoi Evocare Specialmente 1 mostro \"Signore Oscuro\" dal tuo Deck in Posizione di Difesa, eccetto \"Signore Oscuro Djehuty\", inoltre non puoi Evocare Specialmente per il resto di questo turno, eccetto mostri FATA.\r\nSe controlli un Mostro Fusione FATA OSCURITÀ: puoi bandire questa carta dal tuo Cimitero, poi scegliere come bersaglio 1 carta \"Signore Oscuro\" o 1 Magia Rapida \"Proibito/a\" nel tuo Cimitero; aggiungila alla tua mano.\r\nPuoi utilizzare ciascun effetto di \"Signore Oscuro Djehuty\" una sola volta per turno.",
+    "overallString": "[Monster|Effect] Fairy/Dark  [★4] 0/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303019.jpg?version=15.13"
+  },
+  {
+    "name": "Lucifero, Signore Oscuro del Crepuscolo della Sera",
+    "desc": "2 mostri FATA OSCURITÀ di Livello 6 o superiore\r\nIl tuo avversario non può scegliere questa carta come bersaglio con gli effetti delle carte.\r\nPuoi utilizzare ciascuno dei seguenti effetti di \"Lucifero, Signore Oscuro del Crepuscolo della Sera\" una sola volta per turno.\r\nSe questa carta viene Evocata tramite Fusione: puoi Posizionare 1 Magia \"Signore Oscuro\" e 1 Trappola \"Signore Oscuro\" dal tuo Deck.\r\n(Effetto Rapido): puoi pagare 1000 LP, poi scegliere come bersaglio 1 Magia/Trappola \"Signore Oscuro\" nel tuo Cimitero; applica l'effetto di attivazione di quel bersaglio, poi mischialo nel Deck.",
+    "overallString": "[Monster|Effect|Fusion] Fairy/Dark  [★12] 3000/3000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303036.jpg?version=15.13"
+  },
+  {
+    "name": "Piacere del Signore Oscuro",
+    "desc": "Evoca tramite Fusione 1 Mostro Fusione FATA OSCURITÀ dal tuo Extra Deck, bandendo i suoi Materiali dalla tua mano, Terreno e/o Cimitero, e se lo fai, esso guadagna 1000 ATK. Se evochi in questo modo un mostro \"Signore Oscuro\", puoi anche utilizzare come Materiale mostri \"Signore Oscuro\" controllati dal tuo avversario.\r\nPuoi attivare solo 1 \"Piacere del Signore Oscuro\" per turno.",
+    "overallString": "[Spell]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303063.jpg?version=15.13"
+  },
+  {
+    "name": "Rex, Vento Impetuoso Pelliccia Mercenaria",
+    "desc": "Puoi rivelare questa carta nella tua mano; Evoca Specialmente 1 mostro \"Pelliccia Mercenaria\" dalla tua mano, eccetto \"Rex, Vento Impetuoso Pelliccia Mercenaria\", poi Evoca Specialmente questa carta. Puoi utilizzare questo effetto di \"Rex, Vento Impetuoso Pelliccia Mercenaria\" una sola volta per turno.\r\nSe una o più carte vengono aggiunte dalla mano del tuo avversario dal suo Deck dall’effetto di una carta non-\"Pelliccia Mercenaria\" e controlli un altro mostro \"Pelliccia Mercenaria\": puoi pescare 1 carta.",
+    "overallString": "[Monster|Effect] Dinosaur/Wind  [★5] 2000/1200",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303017.jpg?version=15.13"
+  },
+  {
+    "name": "Keel, Costruttore Navale Pelliccia Mercenaria",
+    "desc": "2 mostri con Tipi diversi\r\nSe questa carta viene Evocata Link: puoi Posizionare 1 Magia/Trappola \"Pelliccia Mercenaria\" o 1 \"Fandora, la Furtress Volante\" dal tuo Deck, inoltre non puoi Evocare Specialmente per il resto di questo turno, eccetto mostri \"Pelliccia Mercenaria\".\r\nDurante il turno del tuo avversario (Effetto Rapido): puoi bandire questa carta dal tuo Cimitero e, se lo fai, Evoca Specialmente 1 mostro \"Pelliccia Mercenaria\" dalla tua mano, poi, se il tuo avversario controlla un mostro con l'ATK originale più alto sul Terreno (anche in caso di parità), puoi Evocare Specialmente 1 altro mostro di quel tipo.\r\nPuoi utilizzare ciascun effetto di \"Keel, Costruttore Navale Pelliccia Mercenaria\" una sola volta per turno.",
+    "overallString": "[Monster|Effect|Link] Sea Serpent/Water  [LINK-2] 1800/-  [←][↓]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303050.jpg?version=15.13"
+  },
+  {
+    "name": "Fandora, la Terribile Furtezza Volante",
+    "desc": "(Questa carta è sempre considerata come una carta \"Pelliccia Mercenaria\".)\r\nI mostri \"Pelliccia Mercenaria\" che controlli guadagnano 300 ATK per ciascun mostro \"Pelliccia Mercenaria\" con nome diverso che controlli.\r\nPuoi utilizzare ciascuno dei seguenti effetti di \"Fandora, la Terribile Furtress Volante\" una sola volta per turno.\r\nDurante la tua Main Phase: puoi aggiungere 1 mostro \"Pelliccia Mercenaria\" dal tuo Deck alla tua mano, poi scarta 1 carta.\r\nSe uno o più mostri scoperti \"Pelliccia Mercenaria\" che controlli vengono distrutti dall'effetto di una carta dell'avversario: puoi Evocare Specialmente 1 mostro \"Pelliccia Mercenaria\" dal tuo Deck.",
+    "overallString": "[Spell|Field]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303061.jpg?version=15.13"
+  },
+  {
+    "name": "Tempesta Pelliccia Mercenaria",
+    "desc": "Se non controlli mostri: Evoca Specialmente 1 mostro \"Pelliccia Mercenaria\" di Livello 4 o inferiore dal tuo Deck, poi, se il tuo avversario controlla 2 o più mostri, puoi Evocare Specialmente 1 mostro \"Pelliccia Mercenaria\" dal tuo Deck, inoltre non puoi Evocare Specialmente per il resto di questo turno, eccetto mostri \"Pelliccia Mercenaria\".\r\nSe scarteresti una o più carte per attivare l'effetto di un mostro \"Pelliccia Mercenaria\", puoi invece bandire questa carta dal tuo Cimitero al posto di 1 di quelle carte.\r\nPuoi utilizzare ciascun effetto di \"Tempesta Pelliccia Mercenaria\" una sola volta per turno.",
+    "overallString": "[Spell|Quick-Play]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303062.jpg?version=15.13"
+  },
+  {
+    "name": "Tecnica Segreta Pelliccia Mercenaria",
+    "desc": "Scegli come bersaglio carte scoperte sul Terreno fino al numero di mostri \"Pelliccia Mercenaria\" con nomi diversi che controlli; distruggile oppure, se controlli un mostro \"Pelliccia Mercenaria\" di Livello 8 o superiore e un mostro \"Pelliccia Mercenaria\" Link-3 o superiore, puoi invece bandirle.\r\nSe uno o più mostri \"Pelliccia Mercenaria\" di Livello 8 o superiore e/o Link-3 o superiore vengono Evocati Specialmente sul tuo Terreno mentre questa carta è nel tuo Cimitero: puoi aggiungere questa carta alla tua mano.\r\nPuoi utilizzare un solo effetto di \"Tecnica Segreta Pelliccia Mercenaria\" per turno, e solo una volta in quel turno.",
+    "overallString": "[Trap]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303075.jpg?version=15.13"
+  },
+  {
+    "name": "Arcidemone Reale",
+    "desc": "Puoi offrire come Tributo questa carta dalla tua mano o Terreno; aggiungi 1 carta \"Arcidemone\" dal tuo Deck alla tua mano, eccetto \"Arcidemone Reale\", inoltre per il resto di questo turno non puoi Evocare Specialmente dall'Extra Deck, eccetto mostri \"Arcidemone\", inoltre puoi Evocare Normalmente 1 mostro Demone durante la tua Main Phase in aggiunta alla tua Evocazione Normale/Posizionamento (puoi ottenere questo effetto una sola volta per turno).\r\nQuando il tuo Mostro Rituale viene distrutto in battaglia mentre questa carta è nel tuo Cimitero: puoi Evocare Specialmente questa carta.\r\nPuoi utilizzare ciascun effetto di \"Arcidemone Reale\" una sola volta per turno.",
+    "overallString": "[Monster|Effect] Fiend/Fire  [★7] 2400/1000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303014.jpg?version=15.13"
+  },
+  {
+    "name": "Arcidemone Duca",
+    "desc": "Guadagna ATK pari al suo Livello × 200. Puoi utilizzare ciascuno dei seguenti effetti di \"Arcidemone Duca\" una sola volta per turno. Puoi scegliere come bersaglio 1 mostro scoperto che controlli; manda 1 mostro \"Arcidemone\" dal tuo Deck al Cimitero, eccetto \"Arcidemone Duca\" e, se lo fai, aumenta il Livello del mostro scelto come bersaglio di un valore pari a quello del mostro mandato.\r\nQuando il tuo Mostro Rituale viene distrutto in battaglia mentre questa carta è nel tuo Cimitero: puoi Evocare Specialmente questa carta.",
+    "overallString": "[Monster|Effect] Fiend/Water  [★4] 0/2000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303015.jpg?version=15.13"
+  },
+  {
+    "name": "Arcidemone Altezza Reale",
+    "desc": "Se questa carta viene Evocata Normalmente: puoi bandire 1 carta \"Arcidemone\" dal tuo Cimitero; aggiungi 2 carte \"Arcidemone\" dal tuo Deck alla tua mano, eccetto \"Arcidemone Altezza Reale\", inoltre non puoi Evocare Specialmente dall'Extra Deck per il resto di questo turno, eccetto mostri \"Arcidemone\".\r\nQuando il tuo Mostro Rituale viene distrutto in battaglia mentre questa carta è nel tuo Cimitero: puoi Evocare Specialmente questa carta.\r\nPuoi utilizzare ciascun effetto di \"Arcidemone Altezza Reale\" una sola volta per turno.",
+    "overallString": "[Monster|Effect] Fiend/Light  [★3] 1000/800",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303016.jpg?version=15.13"
+  },
+  {
+    "name": "Arcidemone Imperatore della Rovina",
+    "desc": "Valore Pendulum = 0\r\n[Effetto Pendulum]\r\nPuoi scegliere come bersaglio 1 altra Magia/Trappola scoperta sul Terreno; distruggi sia essa che questa carta. Puoi utilizzare questo effetto di \"Arcidemone Imperatore della Rovina\" una sola volta per turno.\r\n----------------------------------------\r\n[Effetto di un Mostro]\r\nPuoi Evocare tramite Rituale questa carta con \"Trono degli Arcidemoni\".\r\nDeve essere Evocata tramite Rituale.\r\nNon è influenzata dagli effetti degli altri mostri mentre si trova nella Zona Mostri Extra.\r\nPuoi utilizzare ciascuno dei seguenti effetti di \"Arcidemone Imperatore della Rovina\" una sola volta per turno.\r\n● Se questa carta viene Evocata tramite Rituale dall'Extra Deck: puoi bandire tutti i mostri sul Terreno, eccetto quelli nella Zona Mostri Extra.\r\n● Se questa carta si trova nella Zona Mostri Extra: puoi Evocare Specialmente 1 mostro Demone dalla tua mano, Deck, Cimitero o zona banditi.",
+    "overallString": "[Monster|Effect|Ritual|Pendulum] Fiend/Fire  [★7] 2500/1200  0/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303031.jpg?version=15.13"
+  },
+  {
+    "name": "Trono dell'Arcidemone",
+    "desc": "Questa carta può essere utilizzata per Evocare tramite Rituale qualsiasi Mostro Rituale \"Arcidemone\" dalla tua mano, Extra Deck scoperto, Cimitero o zona banditi. Devi anche offrire come Tributo mostri dalla tua mano o Terreno i cui Livelli totali siano pari o superiori al Livello del Mostro Rituale.\r\nDurante la Standby Phase, se hai \"Arcidemone Imperatore della Rovina\" scoperto nel tuo Extra Deck: puoi aggiungere questa carta dal tuo Cimitero o zona banditi alla tua mano. Puoi utilizzare questo effetto di \"Trono dell'Arcidemone\" una sola volta per turno.",
+    "overallString": "[Spell|Ritual]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303059.jpg?version=15.13"
+  },
+  {
+    "name": "Gioco Strategico degll'Arcidemone",
+    "desc": "I mostri Demone nella Zona Mostri Extra guadagnano 1000 ATK. Puoi attivare 1 di questi effetti;\r\n● Bandisci 1 mostro Demone o 1 carta \"Arcidemone\" dalla tua mano o Cimitero; aggiungi 1 carta \"Arcidemone\" dal tuo Deck alla tua mano, eccetto una Magia Terreno.\r\n● Aggiungi 1 Mostro Pendulum \"Arcidemone\" dal tuo Deck all'Extra Deck scoperto.\r\nPuoi utilizzare questo effetto di \"Gioco Strategico degll'Arcidemone\" una sola volta per turno.",
+    "overallString": "[Spell|Field]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303060.jpg?version=15.13"
+  },
+  {
+    "name": "Scherzo dell'Arcidemone",
+    "desc": "Evoca Specialmente 1 mostro \"Arcidemone\" di Livello 7 o inferiore dalla tua mano o dal tuo Deck, oppure, se hai un Mostro Rituale \"Arcidemone\" scoperto nel tuo Extra Deck, puoi invece Evocare Specialmente 1 \"Arcidemone Reale\", 1 \"Arcidemone Duca\" e/o 1 \"Arcidemone Altezza Reale\" dalla tua mano e/o Deck.\r\nPuoi attivare solo 1 \"Scherzo degli Arcidemoni\" per turno.",
+    "overallString": "[Trap]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303073.jpg?version=15.13"
+  },
+  {
+    "name": "Vigore dell'Arcidemone",
+    "desc": "Se controlli un Mostro Rituale \"Arcidemone\" nella Zona Mostri Extra: puoi scegliere come bersaglio 1 carta scoperta controllata dal tuo avversario; annulla i suoi effetti fino alla fine di questo turno.\r\nSe questa carta viene bandita dalla mano o dal Terreno: puoi aggiungere 1 carta \"Arcidemone\" dal tuo Deck alla tua mano, eccetto \"Vigore degli Arcidemoni\".\r\nPuoi utilizzare ciascun effetto di \"Vigore degli Arcidemoni\" una sola volta per turno.",
+    "overallString": "[Trap|Continuous]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303074.jpg?version=15.13"
+  },
+  {
     "name": "Pantera del Tesoro",
     "desc": "Se un mostro è Posizionato sul Terreno: puoi Evocare Specialmente questa carta dalla tua mano.\r\nPuoi scegliere come bersaglio fino a 3 mostri Posizionati; cambiali in Posizione di Attacco, poi, se ne hai cambiati 3 in Posizione di Attacco, infliggi 900 danni al tuo avversario.\r\nSe questa carta viene scoperta: puoi mandare 1 Mostro Normale dal tuo Deck al Cimitero.\r\nPuoi utilizzare ciascun effetto di \"Pantera del Tesoro\" una sola volta per turno.",
     "overallString": "[Monster|Effect|Flip] Beast/Earth  [★1] 100/100",
