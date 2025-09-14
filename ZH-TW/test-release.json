@@ -1,12 +1,192 @@
 [
   {
-    "name": "同调单行道",
-    "desc": "这个卡名的①②的效果1回合只能有1次使用其中任意1个。\r\n①：从自己的卡组·墓地选1只1星调整，加入手卡或者特殊召唤。\r\n②：这张卡在墓地存在，「废品战士」或者有那个卡名记述的怪兽在自己场上存在的场合才能发动。这张卡在自己场上盖放。这个效果盖放的这张卡从场上离开的场合除外。",
+    "name": "雙子星聖 北河二",
+    "desc": "這個卡名的①效果1回合只能使用1次。\r\n①：此卡召喚、反轉召喚、特殊召喚的場合可以發動。從牌組將「雙子星聖 北河二」以外的1隻「星聖」怪獸特殊召喚。這個回合，我方除了光、闇屬性怪獸以外不能從額外牌組特殊召喚。\r\n②：持有此卡作為超量素材的「星聖」超量怪獸得到以下效果。\r\n●1回合1次，對手發動魔法卡的效果時可以發動。去除我方場上的2個超量素材，那個效果無效並破壞。",
+    "overallString": "[Monster|Effect] Fairy/Light  [★4] 1700/600",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250201.jpg?version=15.13"
+  },
+  {
+    "name": "星騎士 天鵝座",
+    "desc": "這個卡名在規則上也當作「星聖」卡片。這個卡名的①②③效果1回合各可以使用1次。\r\n①：此卡召喚、反轉召喚、特殊召喚的場合可以發動。從牌組將1隻「星騎士」、「星聖」怪獸加入手牌。\r\n②：以我方場上1隻其他的光屬性怪獸為對象可以發動。那隻怪獸和此卡的等級上升1。\r\n③：以3隻以上怪獸為素材的「星騎士」超量怪獸超量召喚的場合，此卡可以當作2隻超量素材。",
+    "overallString": "[Monster|Effect] Warrior/Light  [★4] 1500/1000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250202.jpg?version=15.13"
+  },
+  {
+    "name": "超神輝星騎士 托勒密Ω7星聖",
+    "desc": "等級7怪獸×3\r\n「超神輝星騎士 托勒密Ω7星聖」在我方主要階段2有1次，也能重疊在我方場上的「星聖」、「星騎士」超量怪獸上方來超量召喚。\r\n①：此卡只要我方的墓地、除外狀態的「星騎士」怪獸有7種以上存在，攻擊力、守備力上升2700，不受對手發動的效果影響。\r\n②：我方、對手回合1次，去除此卡的任意數量的超量素材，以那個數量的對手場上的怪獸為對象可以發動。那些怪獸回到牌組。",
+    "overallString": "[Monster|Effect|Xyz] Machine/Light  [☆7] 2700/2700",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250203.jpg?version=15.13"
+  },
+  {
+    "name": "星騎士 星聖夏季大三角",
+    "desc": "等級4怪獸×3隻以上\r\n①：對手不能將我方場上的階級5以上的「星騎士」、「星聖」超量怪獸作為效果的對象。\r\n②：1回合1次，去除此卡的1個超量素材可以發動。從牌組將1隻「星騎士」、「星聖」怪獸加入手牌。那之後，可以進行1隻光屬性怪獸的召喚。\r\n③：此卡從場上以外送去墓地的場合可以發動。我方的手牌、除外狀態的1隻「星騎士」、「星聖」怪獸特殊召喚。",
+    "overallString": "[Monster|Effect|Xyz] Warrior/Light  [☆4] 2500/2500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250204.jpg?version=15.13"
+  },
+  {
+    "name": "R.B. Lambda加農砲",
+    "desc": "這個卡名的①②效果1回合只能各使用1次。\r\n①：此卡召喚、特殊召喚的場合，以「R.B. Lambda加農砲」以外的我方墓地1隻「R.B.」怪獸為對象可以發動。那隻怪獸加入手牌。\r\n②：此卡和「R.B.」連結怪獸是連結狀態的場合，支付1200生命值可以發動。此卡破壞，確認對手的手牌。那之後，可以從對手的手牌將1隻怪獸在對手場上效果無效特殊召喚。",
+    "overallString": "[Monster|Effect] Machine/Dark  [★6] 1200/1200",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101302090.jpg?version=15.13"
+  },
+  {
+    "name": "R.B. Lambda刀刃",
+    "desc": "這個卡名的①②效果1回合只能各使用1次。\r\n①：此卡召喚、特殊召喚的場合可以發動。從牌組將「R.B. Lambda刀刃」以外的1張「R.B.」卡片送去墓地。\r\n②：此卡和「R.B.」連結怪獸是連結狀態的場合，對手主要階段，支付1400生命值，以對手場上1隻怪獸為對象可以發動。此卡破壞，得到那隻怪獸的控制權。此效果得到控制權的怪獸在結束階段破壞。",
+    "overallString": "[Monster|Effect] Machine/Dark  [★7] 1400/1400",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101302091.jpg?version=15.13"
+  },
+  {
+    "name": "R.B. Ga10 打樁機",
+    "desc": "這個卡名的①方法的特殊召喚1回合只能有1次，②效果1回合只能使用1次。\r\n①：我方場上的表側表示怪獸，不存在的場合或只有「R.B.」怪獸的場合，此卡可以從手牌特殊召喚。\r\n②：指向此卡的「R.B. 殘暴蒼藍」和對手怪獸進行戰鬥的攻擊宣言時，支付1500生命值可以發動。此卡和對手場上的卡全部破壞。",
+    "overallString": "[Monster|Effect] Machine/Earth  [★8] 1500/1500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101302092.jpg?version=15.13"
+  },
+  {
+    "name": "R.B. 牧羊人手杖",
+    "desc": "包含「R.B.」怪獸的怪獸2隻以上\r\n這個卡名的②③效果1回合只能使用1次。\r\n①：此卡的攻擊力上升我方場上的其他怪獸的數量×500。\r\n②：我方主要階段可以發動。從我方的牌組、墓地將1張「R.B.」陷阱卡在我方場上覆蓋。\r\n③：對手主要階段，以我方墓地3隻等級3以上的「R.B.」怪獸為對象可以發動。其中2隻以喜歡的順序回到牌組下方，另1隻守備表示特殊召喚。",
+    "overallString": "[Monster|Effect|Link] Machine/Dark  [LINK-3] 1500/-  [←][↓][↘]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101302093.jpg?version=15.13"
+  },
+  {
+    "name": "R.B. 運轉測試",
+    "desc": "這個卡名的卡在1回合只能發動1張，②效果1回合只能使用1次。\r\n①：此卡發動時，可以選擇我方墓地1隻等級3以上的「R.B.」怪獸為對象。那個場合，那隻怪獸特殊召喚。\r\n②：以我方場上任意數量的「R.B.」怪獸為對象可以發動。我方回復那些怪獸的原攻擊力總和的生命值，那些怪獸回到手牌、額外牌組。那之後，我方可以從手牌將1隻「R.B.」怪獸特殊召喚。",
+    "overallString": "[Spell|Continuous]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101302094.jpg?version=15.13"
+  },
+  {
+    "name": "R.B. 最後防線",
+    "desc": "這個卡名的①②效果1回合只有1次能使用其中1個。\r\n①：從我方的牌組、額外牌組、墓地將1隻同名卡不在我方場上存在的「R.B.」怪獸特殊召喚。此卡的發動後，直到回合結束時我方除了攻擊力1500以下的機械族怪獸以外不能從額外牌組特殊召喚。\r\n②：對手發動以我方場上的「R.B.」怪獸為對象的效果時，將墓地的此卡除外可以發動。那個效果無效。",
+    "overallString": "[Trap]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101302095.jpg?version=15.13"
+  },
+  {
+    "name": "R.B. 下一階段",
+    "desc": "這個卡名的卡在1回合只能發動1張。\r\n①：我方場上有「R.B.」怪獸存在，對手發動怪獸的效果時可以發動。我方場上1隻怪獸破壞，那個發動無效並破壞。那之後，我方回復2000生命值。",
+    "overallString": "[Trap|Counter]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101302096.jpg?version=15.13"
+  },
+  {
+    "name": "墮天使 古爾迦達",
+    "desc": "我方1回合只能特殊召喚1次「墮天使 古爾迦達」，那個②效果1回合只能使用1次。\r\n①：此卡特殊召喚的場合可以發動。在我方場上將2隻「墮天使衍生物」（天使族、闇、等級6、攻/守0）特殊召喚。此效果的發動後，直到回合結束時我方除了天使族怪獸以外不能特殊召喚。\r\n②：此卡被送去墓地的場合可以發動。從牌組將「墮天使 古爾迦達」以外的1張「墮天使」卡片或「禁忌的」速攻魔法卡加入手牌。",
+    "overallString": "[Monster|Effect] Fairy/Dark  [★6] 2400/800",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303018.jpg?version=15.13"
+  },
+  {
+    "name": "墮天使 傑胡提",
+    "desc": "這個卡名的①②效果1回合各能使用1次。\r\n①：此卡召喚、特殊召喚的場合可以發動。從牌組將「墮天使 傑胡提」以外的1隻「墮天使」怪獸守備表示特殊召喚。此效果的發動後，直到回合結束時我方除了天使族怪獸以外不能特殊召喚。\r\n②：我方場上有天使族、闇屬性的融合怪獸存在的場合，將墓地的此卡除外，以我方墓地1張「墮天使」卡片或「禁忌的」速攻魔法卡為對象可以發動。那張卡加入手牌。",
+    "overallString": "[Monster|Effect] Fairy/Dark  [★4] 0/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303019.jpg?version=15.13"
+  },
+  {
+    "name": "黃昏的墮天使 路西法",
+    "desc": "等級6以上的天使族、闇屬性怪獸×2\r\n這個卡名的①③效果1回合各能使用1次。\r\n①：此卡融合召喚的場合可以發動。從牌組將1張「墮天使」魔法卡和1張「墮天使」陷阱卡在我方場上覆蓋。\r\n②：對手不能將場上的此卡作為效果的對象。\r\n③：我方、對手回合，支付1000生命值，以我方墓地1張「墮天使」魔法、陷阱卡為對象可以發動。那張魔法、陷阱卡發動時的效果適用。那之後，那張卡回到牌組。",
+    "overallString": "[Monster|Effect|Fusion] Fairy/Dark  [★12] 3000/3000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303036.jpg?version=15.13"
+  },
+  {
+    "name": "佚樂的墮天使",
+    "desc": "這個卡名的卡在1回合只能發動1張。\r\n①：我方的手牌、場上、墓地的怪獸作為融合素材除外，將1隻天使族、闇屬性的融合怪獸融合召喚。將「墮天使」融合怪獸融合召喚的場合，對手場上的「墮天使」怪獸也能作為融合素材。此效果特殊召喚的怪獸的攻擊力上升1000。",
+    "overallString": "[Spell]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303063.jpg?version=15.13"
+  },
+  {
+    "name": "空牙團的疾風 雷克斯",
+    "desc": "這個卡名的①效果1回合只能使用1次。\r\n①：向對手展示手牌的此卡可以發動。從手牌將「空牙團的疾風 雷克斯」以外的1隻「空牙團」怪獸特殊召喚。那之後，此卡特殊召喚。\r\n②：「空牙團」卡片以外的效果從牌組將卡加入對手的手牌的場合，如果我方場上有其他「空牙團」怪獸存在可以發動。我方抽1張卡。",
+    "overallString": "[Monster|Effect] Dinosaur/Wind  [★5] 2000/1200",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303017.jpg?version=15.13"
+  },
+  {
+    "name": "空牙團的船匠 基爾",
+    "desc": "種族不同的怪獸2隻\r\n這個卡名的①②效果1回合各能使用1次。\r\n①：此卡連結召喚的場合可以發動。從牌組將1張「空牙團」魔法、陷阱卡或「飛龍艇-梵多拉」在我方場上覆蓋。這個回合，我方除了「空牙團」怪獸以外不能特殊召喚。\r\n②：對手回合可以發動。墓地的此卡除外，從手牌將1隻「空牙團」怪獸特殊召喚。那之後，場上的原攻擊力最高的怪獸在對手場上存在的場合，可以再將1隻特殊召喚。",
+    "overallString": "[Monster|Effect|Link] Sea Serpent/Water  [LINK-2] 1800/-  [←][↓]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303050.jpg?version=15.13"
+  },
+  {
+    "name": "飛龍戰艇-梵多拉",
+    "desc": "這個卡名在規則上也當作「空牙團」卡片使用。這個卡名的②③效果1回合各能使用1次。\r\n①：我方場上的「空牙團」怪獸的攻擊力上升我方場上的「空牙團」怪獸的種類×300。\r\n②：我方主要階段可以發動。從牌組將1隻「空牙團」怪獸加入手牌。那之後，選1張我方的手牌捨棄。\r\n③：我方場上的表側表示的「空牙團」怪獸被對手的效果破壞的場合可以發動。從牌組將1隻「空牙團」怪獸特殊召喚。",
+    "overallString": "[Spell|Field]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303061.jpg?version=15.13"
+  },
+  {
+    "name": "飆風的空牙團",
+    "desc": "這個卡名的①②效果1回合各能使用1次。\r\n①：我方場上沒有怪獸存在的場合可以發動。從牌組將1隻等級4以下的「空牙團」怪獸特殊召喚。對手場上有2隻以上怪獸存在的場合，那之後可以從牌組將1隻「空牙團」怪獸特殊召喚。這個回合，我方除了「空牙團」怪獸以外不能特殊召喚。\r\n②：我方為了發動「空牙團」怪獸的效果而將手牌捨棄的場合，可以將墓地的此卡除外作為其中1張卡的代替。",
+    "overallString": "[Spell|Quick-Play]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303062.jpg?version=15.13"
+  },
+  {
+    "name": "空牙團的奧義",
+    "desc": "這個卡名的①②效果1回合只有1次能使用其中1個。\r\n①：以最多有我方場上的「空牙團」怪獸種類數量的，場上的表側表示卡為對象可以發動。那些卡破壞。我方場上有等級8以上以及連結3以上的「空牙團」怪獸各1隻以上存在的場合，也能改成將對象卡片全部除外。\r\n②：此卡在墓地存在的狀態，我方場上有等級8以上或連結3以上的「空牙團」怪獸特殊召喚的場合可以發動。此卡加入手牌。",
+    "overallString": "[Trap]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303075.jpg?version=15.13"
+  },
+  {
+    "name": "皇家惡魔",
+    "desc": "這個卡名的①②效果1回合各能使用1次。\r\n①：將手牌、場上的此卡解放可以發動。從牌組將「皇家惡魔」以外的1張「惡魔」卡片加入手牌。這個回合，我方除了「惡魔」怪獸以外不能從額外牌組特殊召喚，在通常召喚之外只有1次，在我方主要階段可以召喚1惡魔族隻怪獸。\r\n②：此卡在墓地存在的狀態，我方的儀式怪獸被戰鬥破壞時可以發動。此卡特殊召喚。",
+    "overallString": "[Monster|Effect] Fiend/Fire  [★7] 2400/1000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303014.jpg?version=15.13"
+  },
+  {
+    "name": "公爵惡魔",
+    "desc": "這個卡名的②③效果1回合各能使用1次。\r\n①：此卡的攻擊力上升此卡的等級×200。\r\n②：以我方場上1隻表側表示怪獸為對象可以發動。從牌組將「公爵惡魔」以外的1隻「惡魔」怪獸送去墓地。對象怪獸的等級上升送去墓地的怪獸的等級數值。\r\n②：此卡在墓地存在的狀態，我方的儀式怪獸被戰鬥破壞時可以發動。此卡特殊召喚。",
+    "overallString": "[Monster|Effect] Fiend/Water  [★4] 0/2000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303015.jpg?version=15.13"
+  },
+  {
+    "name": "殿下惡魔",
+    "desc": "這個卡名的①②效果1回合各能使用1次。\r\n①：此卡召喚的場合，從我方墓地將1張「惡魔」卡片除外可以發動。從牌組將「殿下惡魔」以外的2張「惡魔」卡片加入手牌。此效果的發動後，直到回合結束時我方除了「惡魔」怪獸以外不能從額外牌組特殊召喚。\r\n②：此卡在墓地存在的狀態，我方的儀式怪獸被戰鬥破壞時可以發動。此卡特殊召喚。",
+    "overallString": "[Monster|Effect] Fiend/Light  [★3] 1000/800",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303016.jpg?version=15.13"
+  },
+  {
+    "name": "死亡皇帝惡魔",
+    "desc": "這個卡名的靈擺效果1回合只能使用1次。\r\n①：以場上1張其他的表側表示的魔法、陷阱卡為對象可以發動。那張卡和此卡破壞。\r\n【怪獸效果】\r\n藉由「惡魔王座」降臨\r\n此卡只能用儀式召喚來特殊召喚。\r\n這個卡名的①③怪獸效果1回合各能使用1次。\r\n①：此卡從額外牌組儀式召喚的場合可以發動。額外怪獸區域以外的場上的怪獸全部除外。\r\n②：額外怪獸區域的此卡不受其他怪獸的效果影響。\r\n③：此卡在額外怪獸區域存在的場合可以發動。我方的手牌、牌組、墓地、除外狀態的1隻惡魔族怪獸特殊召喚。",
+    "overallString": "[Monster|Effect|Ritual|Pendulum] Fiend/Fire  [★7] 2500/1200  0/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303031.jpg?version=15.13"
+  },
+  {
+    "name": "惡魔王座",
+    "desc": "這個卡名的②效果1回合只能使用1次。\r\n①：解放我方的手牌、場上的怪獸，直到等級合計為儀式召喚的怪獸的等級以上為止，我方的手牌、額外牌組（表側）、墓地、除外狀態的1隻「惡魔」儀式怪獸儀式召喚。\r\n②：我方、對手的準備階段，我方額外牌組有表側的「死亡皇帝惡魔」存在的場合可以發動。墓地、除外狀態的此卡加入手牌。",
+    "overallString": "[Spell|Ritual]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303059.jpg?version=15.13"
+  },
+  {
+    "name": "惡魔的盤上遊戲",
+    "desc": "這個卡名的②效果1回合只能使用1次。\r\n①：額外怪獸區域的惡魔族怪獸的攻擊力上升1000。\r\n②：可以從以下效果選擇1個發動。\r\n●從我方的手牌、墓地將1隻惡魔族怪獸或1張「惡魔」卡片除外可以發動。從牌組將場地魔法卡以外的1張「惡魔」卡片加入手牌。\r\n●從牌組將1隻「惡魔」靈擺怪獸表側加入額外牌組。",
+    "overallString": "[Spell|Field]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303060.jpg?version=15.13"
+  },
+  {
+    "name": "惡魔的諧謔",
+    "desc": "這個卡名的卡在1回合只能發動1張。\r\n①：從手牌、牌組將1隻等級7以下的「惡魔」怪獸特殊召喚。我方的額外牌組有表側的「惡魔」儀式怪獸存在的場合，也能改成從手牌、牌組將「皇家惡魔」「公爵惡魔」「殿下惡魔」各最多1隻特殊召喚。",
+    "overallString": "[Trap]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303073.jpg?version=15.13"
+  },
+  {
+    "name": "惡魔的氣魄",
+    "desc": "這個卡名的①②效果1回合各能使用1次。\r\n①：額外怪獸區域有我方的「惡魔」儀式怪獸存在的場合，以對手場上1張表側表示卡為對象可以發動。那張卡的效果直到回合結束時無效。\r\n②：此卡從手牌、場上被除外的場合可以發動。從牌組將「惡魔的氣魄」以外的1張「惡魔」卡片加入手牌。",
+    "overallString": "[Trap|Continuous]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303074.jpg?version=15.13"
+  },
+  {
+    "name": "尋寶獵豹",
+    "desc": "這個卡名的①②③效果1回合各能使用1次。\r\n①：此卡在手牌存在，場上有裡側守備表示怪獸存在的場合可以發動。此卡特殊召喚。\r\n②：以場上最多3隻裡側守備表示怪獸為對象可以發動。那些怪獸變成攻擊表示。此效果將3隻怪獸變成攻擊表示的場合，那之後給予對手900傷害。\r\n③：此卡反轉的場合可以發動。從牌組將1隻通常怪獸送去墓地。",
+    "overallString": "[Monster|Effect|Flip] Beast/Earth  [★1] 100/100",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100200279.jpg?version=15.13"
+  },
+  {
+    "name": "魔彈魔鬼 卡斯帕",
+    "desc": "包含光屬性、惡魔族怪獸的怪獸2隻\r\n這個卡名的①效果1回合只能使用1次。\r\n①：此卡連結召喚的場合可以發動。從我方的手牌、牌組挑選包含怪獸的2張「魔彈」卡片，其中1隻怪獸在我方場上特殊召喚，另1張在對手場上覆蓋。\r\n②：只要此卡在怪獸區域存在，我方、對手回合我方可以從手牌發動「魔彈」魔法、陷阱卡。",
+    "overallString": "[Monster|Effect|Link] Fiend/Light  [LINK-2] 2000/-  [↑][↓]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100249001.jpg?version=15.13"
+  },
+  {
+    "name": "同步獨徑",
+    "desc": "這個卡名的①②效果1回合只有1次能使用其中1個。\r\n①：從我方的牌組、墓地選1隻等級1協調加入手牌或特殊召喚。\r\n②：此卡在墓地存在，「廢品戰士」或記載那個卡名的怪獸在我方場上存在的場合可以發動。此卡在我方場上覆蓋。此效果覆蓋的此卡從場上離開的場合被除外。",
     "overallString": "[Trap]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100244006.jpg?version=15.13"
   },
   {
-    "name": "交叉路小走鵑",
+    "name": "叉路小走鵑",
     "desc": "這個卡名的效果1回合只能使用1次。\r\n①：協調被送去我方墓地的場合可以發動（傷害步驟也能發動）。此卡從手牌、墓地特殊召喚。除了此卡以外，「廢品戰士」或記載那個卡名的怪獸在場上存在的場合，那之後可以將對手場上的攻擊力1900以上的怪獸全部變成守備表示。此效果特殊召喚的此卡從場上離開的場合被除外。這個回合，我方除了同步怪獸以外不能從額外牌組特殊召喚。",
     "overallString": "[Monster|Effect] Winged Beast/Earth  [★1] 300/300",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100244003.jpg?version=15.13"
