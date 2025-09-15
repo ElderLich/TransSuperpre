@@ -1,5 +1,173 @@
 [
   {
+    "name": "效仿英杰 伪装者",
+    "desc": "自己场上或墓地有装备魔法卡存在的场合：可以把这张卡从手卡特殊召唤。\r\n这张卡召唤·特殊召唤的场合：可以从卡组把1张「咒怨仿品·圣剑」加入手卡。\r\n这张卡有装备卡装备中的场合：可以以场上1只持有等级的调整以外的战士族怪兽为对象；这张卡的等级和卡名直到回合结束时变成和那只怪兽相同。\r\n「效仿英杰 伪装者」的每个效果1回合各能使用1次。",
+    "overallString": "[Monstro|Efeito|Regulador] Guerreiro/Luz  [★4] 1400/1200",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101302081.jpg?version=15.13"
+  },
+  {
+    "name": "咒怨仿品·圣剑",
+    "desc": "装备怪兽的攻击力·守备力上升自己场上或墓地的装备魔法卡的数量×200。\r\n这张卡给战士族怪兽装备中的场合：可以把这个效果发动；直到回合结束时，自己不是战士族怪兽不能特殊召唤，从卡组把属性·等级和装备怪兽相同而卡名不同的1只战士族怪兽特殊召唤，这张卡给那只怪兽装备，那之后，把这张卡装备过的怪兽破坏。「咒怨仿品·圣剑」的这个效果1回合只能使用1次。",
+    "overallString": "[Magia|Magia de Equipamento]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101302082.jpg?version=15.13"
+  },
+  {
+    "name": "灿荣之运动骑士 钱巴尔",
+    "desc": "调整+调整以外的怪兽1只以上\r\n对方场上的怪兽的攻击力下降自己场上的装备魔法卡的数量×400。\r\n「灿荣之运动骑士 钱巴尔」的以下效果1回合各能使用1次。\r\n可以以场上1张其他卡为对象；从自己的手卡·卡组把1张装备魔法卡送去墓地，作为对象的卡破坏。\r\n这张卡在自己墓地存在的场合：可以以自己魔法与陷阱区域的2张表侧表示卡为对象；那些卡破坏，这张卡特殊召唤。",
+    "overallString": "[Monstro|Efeito|Sincro] Guerreiro/Luz  [★8] 2700/2100",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101302083.jpg?version=15.13"
+  },
+  {
+    "name": "深林狩哨 雉鸡",
+    "desc": "战士族·地属性怪兽×2\r\n这张卡在主要阶段期间不受对方发动的效果影响。\r\n战斗阶段（诱发即时效果）：可以把融合召唤的这张卡解放；从自己墓地把「深林狩哨 雉鸡」以外的2只战士族·地属性怪兽特殊召唤，再让自己场上的战士族·地属性怪兽直到回合结束时不会被战斗破坏。「深林狩哨 雉鸡」的这个效果1回合只能使用1次。",
+    "overallString": "[Monstro|Efeito|Fusão] Guerreiro/Terra  [★5] 2300/2300",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101302084.jpg?version=15.13"
+  },
+  {
+    "name": "深林狩哨 獐鹿",
+    "desc": "5星以上的战士族·地属性怪兽+战士族·地属性怪兽\r\n这张卡在主要阶段期间不受对方发动的效果影响。\r\n可以攻击的对方怪兽必须向自己场上攻击力最高的怪兽作出攻击。\r\n自己场上的其他战士族·地属性怪兽战斗破坏对方怪兽时：可以把自己墓地·除外状态的1只战士族·地属性怪兽特殊召唤。「深林狩哨 獐鹿」的这个效果1回合只能使用1次。",
+    "overallString": "[Monstro|Efeito|Fusão] Guerreiro/Terra  [★7] 2600/2600",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101302085.jpg?version=15.13"
+  },
+  {
+    "name": "狩猎号角",
+    "desc": "自己手卡·场上的战士族怪兽作为融合素材，把1只战士族·地属性融合怪兽融合召唤，这张卡在战斗阶段发动的场合，可以再选最多有在手卡作为融合素材的数量的对方场上的怪兽，那些攻击力直到回合结束时变成一半。这张卡发动的回合，自己不是战士族·地属性怪兽不能攻击宣言。\r\n「狩猎号角」在1回合只能发动1张。",
+    "overallString": "[Magia|Magia Rápida]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101302086.jpg?version=15.13"
+  },
+  {
+    "name": "石蒜百合收割者",
+    "desc": "调整+调整以外的怪兽1只以上\r\n这张卡在自己怪兽区域存在的状态，怪兽从场上被送去对方墓地的场合（伤害步骤也能发动）：自己回复对方墓地的那之内1只怪兽的攻击力数值的基本分。\r\n这张卡在自己墓地存在的状态，对方受到效果伤害的场合（伤害步骤除外）：可以把这张卡除外；持有自己和对方的基本分相差数值以下的攻击力的场上1只怪兽送去墓地。\r\n「石蒜百合收割者」的每个效果1回合只能使用1次。",
+    "overallString": "[Monstro|Efeito|Sincro] Planta/Trevas  [★5] 800/2400",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101302087.jpg?version=15.13"
+  },
+  {
+    "name": "丝爆弹蛾",
+    "desc": "自己墓地有2只以上风属性怪兽存在，这张卡在自己手卡存在的场合：可以把这张卡特殊召唤，自己墓地1只风属性怪兽加入卡组洗切。\r\n这张卡召唤·特殊召唤的场合：可以把对方卡组最上面的卡给双方确认，根据那张卡的种类适用以下效果。\r\n●怪兽：那只怪兽当作永续魔法卡使用在对方的魔法与陷阱区域放置。\r\n●魔法·陷阱卡：那张卡除外。\r\n「丝爆弹蛾」的每个效果1回合各能使用1次。",
+    "overallString": "[Monstro|Efeito] Inseto/Vento  [★6] 2400/1000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101302088.jpg?version=15.13"
+  },
+  {
+    "name": "魔术师之瞬绽花",
+    "desc": "以对方场上1张表侧表示的魔法·陷阱卡，或者自己场上1张魔法·陷阱卡为对象；那张卡破坏，以自己场上的卡为对象来发动的场合，可以再从以下效果选1个适用。\r\n●从自己墓地把1只怪兽当作永续魔法卡使用在自己的魔法与陷阱区域表侧表示放置。\r\n●从自己墓地把1张装备·永续魔法卡加入手卡。\r\n「魔术师之瞬绽花」在1回合只能发动1张。",
+    "overallString": "[Magia|Magia Rápida]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101302089.jpg?version=15.13"
+  },
+  {
+    "name": "X-剑士 佩里娜",
+    "desc": "这个卡名的①②的效果1回合各能使用1次。\r\n①：这张卡召唤·特殊召唤的场合，把这张卡送去墓地才能发动。从卡组把「X-剑士 佩里娜」以外的2只「X-剑士」怪兽特殊召唤。这个效果特殊召唤的怪兽在结束阶段破坏。\r\n②：这张卡作为「X-剑士」同调怪兽的同调素材被送去墓地的场合才能发动。从以下效果选1个适用。\r\n●那只怪兽在同1次的战斗阶段中可以作2次攻击。\r\n●那只怪兽可以直接攻击。",
+    "overallString": "[Monstro|Efeito|Regulador] Besta-Guerreira/Terra  [★4] 1700/300",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250206.jpg?version=15.13"
+  },
+  {
+    "name": "X-剑士 布尔诺",
+    "desc": "这个卡名的①②的效果1回合各能使用1次。\r\n①：这张卡在手卡存在的场合，从自己的手卡·场上（表侧表示）·墓地把这张卡以外的1只地属性怪兽除外才能发动。这张卡特殊召唤。\r\n②：这张卡召唤·特殊召唤的场合才能发动。从自己的卡组·墓地把1张「剑士」魔法·陷阱卡加入手卡。\r\n③：1回合1次，对方主要阶段以及战斗阶段才能发动。只用包含这张卡的自己场上的地属性怪兽为素材进行同调召唤。",
+    "overallString": "[Monstro|Efeito|Regulador] Psíquico/Terra  [★3] 1200/1100",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250207.jpg?version=15.13"
+  },
+  {
+    "name": "总剑司令 索萨",
+    "desc": "调整＋地属性怪兽1只以上\r\n这个卡名在规则上也当作「X-剑士」卡使用。\r\n①：这张卡的攻击力上升除外状态的怪兽的数量×200。\r\n②：这张卡用战斗把怪兽破坏时才能发动。自己抽1张。\r\n③：1回合1次，对方把效果发动时，把自己场上1只「X-剑士」怪兽解放才能发动。对方场上1张卡破坏。\r\n④：这张卡被战斗·效果破坏的场合，可以作为代替把自己墓地1张「剑士」卡除外。",
+    "overallString": "[Monstro|Efeito|Sincro] Guerreiro/Terra  [★10] 2500/1600",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250208.jpg?version=15.13"
+  },
+  {
+    "name": "X-剑士 加特姆士",
+    "desc": "调整＋地属性怪兽1只以上\r\n这个卡名的①②③的效果1回合各能使用1次。\r\n①：这张卡同调召唤的场合才能发动。从卡组把1张「剑士」魔法·陷阱卡或「加特姆士」魔法·陷阱卡加入手卡。\r\n②：这张卡给与对方战斗伤害时才能发动。对方手卡随机1张丢弃。\r\n③：这张卡在墓地存在的状态，自己的「X-剑士」怪兽被选择作为攻击对象时才能发动。这张卡特殊召唤。那之后，攻击对象转移为这张卡。",
+    "overallString": "[Monstro|Efeito|Sincro] Guerreiro/Terra  [★7] 2600/2100",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250209.jpg?version=15.13"
+  },
+  {
+    "name": "Constelar Castor",
+    "desc": "Um Monstro Xyz \"Constelar\" que tem este card como matéria ganha este efeito.\r\n● Uma vez por turno, quando seu oponente ativar um Card de Magia ou efeito (Efeito Rápido): você pode desassociar 2 Matérias Xyz dos seus monstros, e se fizer, negue aquele efeito, e se fizer isso, destrua aquele card.\r\nSe este card for Invocado: você pode Invocar por Invocação-Especial 1 monstro \"Constelar\" do seu Deck, exceto \"Constelar Castor\", além disso você não pode Invocar por Invocação-Especial do seu Deck Adicional pelo resto deste turno, exceto monstros LUZ e TREVAS. Este efeito de \"Constelar Castor\" só pode usado uma vez por turno.",
+    "overallString": "[Monstro|Efeito] Fada/Luz  [★4] 1700/600",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250201.jpg?version=15.13"
+  },
+  {
+    "name": "Cavaleirostrela Cygnian",
+    "desc": "Este card é sempre considerado um card \"Constelar\".\r\nSe este card for Invocado: você pode adicionar 1 monstro \"Cavaleirostrela\" ou \"Constellar\" do seu Deck à sua mão.\r\nVocê pode escolher 1 outro monstro de LUZ que você controla; aumente seu Nível e o deste card em 1.\r\nEste card pode ser considerado como 2 matérias para uma Invocação-Xyz de um Monstro Xyz \"Cavaleirostrela\" que precise ter 3 ou mais matérias.\r\nVocê só pode usar cada um dos efeitos de \"Cavaleirostrela Cygnian\" uma vez por turno.",
+    "overallString": "[Monstro|Efeito] Guerreiro/Luz  [★4] 1500/1000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250202.jpg?version=15.13"
+  },
+  {
+    "name": "Cavaleiroexstrela Constelar Ptolemy Ω7",
+    "desc": "3 monstros de Nível 7\r\nUma vez por turno, durante sua Fase Principal 2, você também pode Invocar por Invocação-Xyz \"Cavaleiroexstrela Constelar Ptolemy Ω7\" usando um Monstro Xyz \"Cavaleirostrela\" ou \"Constelar\" que você controla (transfira suas matérias).\r\nEnquanto você tiver 7 ou mais monstros \"Cavaleirostrela\" com nomes diferentes no seu Cemitério e/ou banimento, este card ganha 2700 ATK/DEF, além disso não é afetado por efeitos ativados de cards do seu oponente.\r\nUma vez por turno (Efeito Rápido): você pode desassociar qualquer número de matérias deste card, então escolha aquela quantia de monstros que seu oponente controla; embaralhe-os no Deck.",
+    "overallString": "[Monstro|Efeito|Xyz] Máquina/Luz  [☆7] 2700/2700",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250203.jpg?version=15.13"
+  },
+  {
+    "name": "Cavaleirostrela Constelar Delteros",
+    "desc": "3+ monstros de Nível 4\r\n①：Seu oponente não pode escolher Monstros Xyz \"Cavaleirostrela\" e \"Constelar\" de Classe 5 ou superior que você controla com efeito de cards.\r\n②：Uma vez por turno: você pode desassociar 1 matéria deste card; adicionar um monstro \"Cavaleirostrela\" ou \"Constelar\" do seu Deck à sua mão, então, imediatamente após ativar este efeito, você pode Invocar por Invocação-Normal 1 monstro LUZ.\r\n③：Se este card for enviado para o Cemitério, exteto do campo: você pode Invocar por Invocação-Especial 1 monstro \"Cavaleirostrela\" ou \"Constelar\" da sua mão ou banimento.",
+    "overallString": "[Monstro|Efeito|Xyz] Guerreiro/Luz  [☆4] 2500/2500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250204.jpg?version=15.13"
+  },
+  {
+    "name": "Canhão R.B. Lambda",
+    "desc": "Se este card for Invocado por Invocação-Normal ou Invocação-Especial: você pode escolher 1 monstro \"R.B.\" no seu Cemitério, exceto \"Canhão R.B. Lambda\"; adicione-o à sua mão.\r\nEnquanto este card estiver linkado a um Monstro Link \"R.B.\": você pode pagar 1200 PV; destrua este card, e se fizer, veja a mão do oponente, então você pode Invocar por Invocação-Especial 1 monstro dela para o campo dele, mas negue seus efeitos.\r\nVocê só pode usar cada um dos efeitos de \"Canhão R.B. Lambda\" uma vez por turno.",
+    "overallString": "[Monstro|Efeito] Máquina/Trevas  [★6] 1200/1200",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101302090.jpg?version=15.13"
+  },
+  {
+    "name": "Lâmina R.B. Lambda",
+    "desc": "Se este card for Invocado por Invocação-Normal ou Invocação-Especial: você pode enviar 1 card \"R.B.\" do seu Deck para o Cemitério, exceto \"Lâmina R.B. Lambda\".\r\nDurante a Fase Principal do seu oponente, se este card estiver linkado a um Monstro Link \"R.B.\" (Efeito Rápido): você pode pagar 1400 PV, então, escolha 1 monstro que seu oponente controla; destrua este card, e se fizer, tome controle daquele monstro, mas destrua-o durante a Fase Final.\r\nVocê só pode usar cada um dos efeitos de \"Lâmina R.B. Lambda\" uma vez por turno.",
+    "overallString": "[Monstro|Efeito] Máquina/Trevas  [★7] 1400/1400",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101302091.jpg?version=15.13"
+  },
+  {
+    "name": "Bate-Estaca R.B. Ga10",
+    "desc": "Se você não controlar monstros com a face para cima, ou os únicos monstros que controlar com a face para cima são monstros \"R.B.\", você pode Invocar por Invocação-Especial este card (da sua mão). Você só pode Invocar por Invocação-Especial \"Bate-Estaca R.B. Ga10\" dessa forma uma vez por turno.\r\nQuando um ataque é declarado envolvendo um monstro do oponente e o \"R.B. O Bruto do Blues\" que aponta para este card: você pode pagar 1500 PV; destrua todos os cards que seu oponente controla e este card. Você só pode usar este efeito de \"Bate-Estaca R.B. Ga10\" uma vez por turno.",
+    "overallString": "[Monstro|Efeito] Máquina/Terra  [★8] 1500/1500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101302092.jpg?version=15.13"
+  },
+  {
+    "name": "Cajado do Pastor R.B.",
+    "desc": "2+ monstros, incluindo um monstro \"R.B.\"\r\nGanha 500 ATK para cada monstro que você controla, exceto este card.\r\nVocê só pode usar cada um dos seguintes efeitos de \"Cajado do Pastor R.B.\" uma vez por turno.\r\nDurante sua Fase Principal: você pode Baixar 1 Armadilha \"R.B.\" do seu Deck ou Cemitério.\r\nDurante a Fase Principal do seu oponente (Efeito Rápido): você pode escolher 3 monstros \"R.B.\" de Nível 3 ou superior do seu Cemitério; coloque 2 deles no fundo do Deck em qualquer ordem, e se fizer, Invoque por Invocação-Especial o outro em Posição de Defesa.",
+    "overallString": "[Monstro|Efeito|Link] Máquina/Trevas  [LINK-3] 1500/-  [←][↓][↘]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101302093.jpg?version=15.13"
+  },
+  {
+    "name": "Teste de Operação R.B.",
+    "desc": "Quando este card é ativado: você pode escolher 1 monstro \"R.B.\" de Nível 3 ou superior do seu Cemitério; Invoque-o por Invocação-Especial.\r\nVocê pode escolher qualquer número de monstro \"R.B.\" que você controla; ganhe PV igual ao seus ATK originais combinados, e se fizer, retorne-os para a mão/Deck Adicional, então você pode Invocar por Invocação-Especial 1 monstro \"R.B.\" da sua mão. Você só pode usar este efeito de \"Teste de Operação R.B.\" uma vez por turno.\r\nVocê só pode ativar 1 \"Teste de Operação R.B.\" por turno.",
+    "overallString": "[Magia|Magia Contínuo]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101302094.jpg?version=15.13"
+  },
+  {
+    "name": "Última Posição R.B.",
+    "desc": "Invoque por Invocação-Especial 1 monstro \"R.B.\" do seu Deck, Deck Adicional, ou Cemitério com nome diferente dos cards que você controla.\r\nPelo resto deste turno após a ativação deste card, você não pode Invocar por Invocação-Especial do Deck Adicional, exceto monstro Máquina com 1500 de ATK ou menor.\r\nQuando seu oponente ativar um card ou efeito que escolha um ou mais monstros \"R.B.\" que você controla: você pode banir este card do Cemitério; negue aquele efeito.\r\nVocê só pode usar um dos efeitos de \"Última Posição R.B.\" e somente uma vez por turno.",
+    "overallString": "[Armadilha]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101302095.jpg?version=15.13"
+  },
+  {
+    "name": "Próxima Fase R.B.",
+    "desc": "Quando seu oponente ativar o efeito de um monstro enquanto você controla um monstro \"R.B.\": destrua 1 monstro que você controla, e se fizer, negue a ativação, e se fizer isso, destrua aquele card, então ganhe 2000 PV.\r\nVocê só pode ativar 1 \"Próxima Fase R.B.\" por turno.",
+    "overallString": "[Armadilha|Armadilha de Resposta]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101302096.jpg?version=15.13"
+  },
+  {
+    "name": "Senhor Obscuro Gulgalta",
+    "desc": "Você só pode Invocar por Invocação-Especial \"Senhor Obscuro Gulgalta\" uma vez por turno.\r\nSe este card for Invocado por Invocação-Especial: você pode Invocar por Invocação-Especial 2 \"Ficha Senhor Obscuro\" (Tipo Fada/TREVAS/Nível 6/ATK 0/DEF 0), você também não pode Invocar por Invocação-Especial pelo resto deste turno, exceto monstros Fada.\r\nSe este card for enviado para o Cemitério: você pode adicionar um card \"Senhor(a) Obscuro(a)\" ou 1 Magia Rápida \"Proibido(a)\" do seu Deck à sua mão, exceto \"Senhor Obscuro Gulgalta\". Você só pode usar este efeito de \"Senhor Obscuro Gulgalta\" uma vez por turno.",
+    "overallString": "[Monstro|Efeito] Fada/Trevas  [★6] 2400/800",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303018.jpg?version=15.13"
+  },
+  {
+    "name": "Senhor Obscuro Djehuty",
+    "desc": "Se este card for Invocado por Invocação-Normal ou Invocação-Especial: você pode Invocar por Invocação-Especial 1 monstro \"Senhor(a) Obscuro(a)\" do seu Deck em Posição de Defesa, exceto \"Senhor Obscuro Djehuty\", além disso você não pode Invocar por Invocação-Especial pelo resto deste turno, exceto monstros Fada.\r\nSe você controlar um Monstro de Fusão Fada das TREVAS: você pode banir este card do seu Cemitério, então escolha 1 card \"Senhor(a) Obscuro(a)\" ou Magia Rápida \"Proibido(a)\" em seu Cemitério; adicione-o à sua mão.\r\nVocê só pode usar cada um dos efeitos de \"Senhor Obscuro Djehuty\" uma vez por turno.",
+    "overallString": "[Monstro|Efeito] Fada/Trevas  [★4] 0/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303019.jpg?version=15.13"
+  },
+  {
+    "name": "Lucifer, Senhor Obscuro do Crepúsculo do Anoitecer",
+    "desc": "2 monstro Fada das TREVAS de Nível 6 ou maior\r\nSeu oponente não pode escolher este card no campo com efeito de cards.\r\nSe este card for Invocado por Invocação-Fusão: você pode Baixar 1 Magia \"Senhor(a) Obscuro(a)\" e 1 armadilha \"Senhor(a) Obscuro(a)\" do seu Deck.\r\n(Efeito Rápido): você pode pagar 1000 PV, então escolha 1 Magia/Armadilha \"Senhor(a) Obscuro(a)\" no seu Cemitério; aplique os efeitos do alvo quando aquele card for ativado, então embaralhe aquele card no Deck.\r\nVocê só pode usar cada um dos efeitos de \"Lucifer, Senhor Obscuro do Crepúsculo do Anoitecer\" uma vez por turno.",
+    "overallString": "[Monstro|Efeito|Fusão] Fada/Trevas  [★12] 3000/3000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303036.jpg?version=15.13"
+  },
+  {
+    "name": "Prazer do Senhor Obscuro",
+    "desc": "Invoqe por Invocação-Fusão 1 Monstro Fusão Fada das TREVAS do seu Deck Adicional, banindo suas matérias da sua mão, campo, e/ou Cemitério, e se fizer, ele ganha 1000 de ATK. Se Invocar um monstro \"Senhor(a) Obscuro(a)\" desta forma, você também pode usar um monstro \"Senhor(a) Obscuro(a)\" que seu oponente controla como matéria.\r\nVocê só pode ativar 1 \"Prazer do Senhor Obscuro\" por turno.",
+    "overallString": "[Magia]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303063.jpg?version=15.13"
+  },
+  {
     "name": "Rex, o Vendaval de Peluguel",
     "desc": "Se um ou mais cards forem adicionados do Deck para a mão do seu oponente por efeito de um card não-\"de Peluguel\" e você controlar outro monstro \"de Peluguel\": você pode comprar 1 card.\r\nVocê pode revelar este card da sua mão; Invoque por Invocação-Especial 1 monstro \"de Peluguel\" da sua mão, exceto \"Rex, o Vendaval de Peluguel\", então Invoque este card por Invocação-Especial. Você só pode usar este efeito de \"Rex, o Vendaval de Peluguel\" uma vez por turno.",
     "overallString": "[Monstro|Efeito] Dinossauro/Vento  [★5] 2000/1200",
