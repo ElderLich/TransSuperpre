@@ -1,5 +1,107 @@
 [
   {
+    "name": "Déguise, le Héros de l'Imitation",
+    "desc": "Si vous avez une Magie d'Équipement dans votre Terrain ou Cimetière : vous pouvez Invoquer Spécialement cette carte depuis votre main.\r\nSi cette carte est Invoquée Normalement ou Spécialement : vous pouvez ajouter 1 \"Armes Nobles Imitées Maudites\" depuis votre Deck à votre main.\r\nTant que cette carte est équipée avec une Carte d'Équipement : vous pouvez cibler 1 monstre non-Syntoniseur Guerrier sur le Terrain avec un Niveau ; jusqu'à la End Phase, le Niveau de cette carte et aussi son nom deviennent les mêmes que ceux du monstre.\r\nVous ne pouvez utiliser chaque effet de \"Déguise, le Héros de l'Imitation\" qu'une fois par tour. ",
+    "overallString": "[Monstre|Effet|Syntoniseur] Guerrier/Lumiére  [★4] 1400/1200",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101302081.jpg?version=15.13"
+  },
+  {
+    "name": "Armes Nobles Imitées Maudites",
+    "desc": "Le monstre équipé gagne 200 ATK/DEF pour chaque Magie d'Équipement dans votre Terrain et Cimetière. \r\nTant que cette carte est équipée à un monstre Guerrier : vous pouvez activer cet effet ; vous ne pouvez pas Invoquer Spécialement (monstres Guerrier exclus) le reste de ce tour, et aussi, Invoquez Spécialement 1 monstre Guerrier du même Attribut et Niveau que le monstre équipé mais de nom différent depuis votre Deck, et si vous le faites, équipez-le avec cette carte, puis détruisez le monstre qui était équipé avec cette carte. \r\nVous ne pouvez utiliser cet effet de \"Armes Nobles Imitées Maudites\" qu'une fois par tour.",
+    "overallString": "[Magie|Équipement]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101302082.jpg?version=15.13"
+  },
+  {
+    "name": "Chanbar, le Chevalier du Sport Tape-à-l'Œil",
+    "desc": "1 Syntoniseur + 1+ monstre non-Syntoniseur\r\nLes monstres contrôlés par votre adversaire perdent 400 ATK pour chaque Magie d'Équipement que vous contrôlez. Vous ne pouvez utiliser chacun des effets suivants de \"Chanbar, le Chevalier du Sport Tape-à-l'Œil\" qu'une fois par tour.\r\nVous pouvez cibler 1 autre carte sur le Terrain ; envoyez 1 Magie d'Équipement depuis votre main ou Deck au Cimetière, et si vous le faites, détruisez la cible.\r\nSi cette carte est dans votre Cimetière : vous pouvez cibler 2 cartes face recto dans votre Zone Magie & Piège ; détruisez-les, et si vous le faites, Invoquez Spécialement cette carte. ",
+    "overallString": "[Monstre|Effet|Synchro] Guerrier/Lumiére  [★8] 2700/2100",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101302083.jpg?version=15.13"
+  },
+  {
+    "name": "Faisan, Éclaireur Chasseur de la Forêt Profonde",
+    "desc": "2 monstres TERRE Guerrier\r\nNon affectée par les effets activés de votre adversaire, durant la Main Phase uniquement. Durant la Battle Phase (Effet Rapide) : vous pouvez Sacrifier cette carte Invoquée par Fusion ; Invoquez Spécialement 2 monstres TERRE Guerrier (\"Faisan, Éclaireur Chasseur de la Forêt Profonde\" exclu)  depuis votre Cimetière, et si vous le faites, vos monstres TERRE Guerrier ne peuvent pas être détruits au combat le reste de ce tour.\r\nVous ne pouvez utiliser cet effet de \"Faisan, Éclaireur Chasseur de la Forêt Profonde\" qu'une fois par tour. ",
+    "overallString": "[Monstre|Effet|Fusion] Guerrier/Terre  [★5] 2300/2300",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101302084.jpg?version=15.13"
+  },
+  {
+    "name": "Chevreuil, Éclaireur Chasseur de la Forêt Profonde",
+    "desc": "1 monstre TERRE Guerrier de min. Niveau 5 + 1 monstre TERRE Guerrier\r\nNon affectée par les effets activés de votre adversaire, durant la Main Phase uniquement.\r\nLes monstres de votre adversaire qui peuvent attaquer doivent attaquer le monstre que vous contrôlez avec la plus haute ATK (en cas d'égalité, il choisit).\r\nLorsqu'un autre monstre TERRE Guerrier que vous contrôlez détruit un monstre de l'adversaire au combat : vous pouvez Invoquer Spécialement 1 monstre TERRE Guerrier depuis votre Cimetière ou bannissement.\r\nVous ne pouvez utiliser cet effet de \"Chevreuil, Éclaireur Chasseur de la Forêt Profonde\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet|Fusion] Guerrier/Terre  [★7] 2600/2600",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101302085.jpg?version=15.13"
+  },
+  {
+    "name": "Corne de Chasse",
+    "desc": "Invoquez par Fusion 1 Monstre Fusion TERRE Guerrier depuis votre Extra Deck, en utilisant des monstres Guerrier depuis votre main ou Terrain, puis si vous avez activé cette carte durant la Battle Phase, vous pouvez choisir un nombre de monstres contrôlés par votre adversaire, inférieur ou égal au nombre de Matériels utilisés depuis la main pour cette Invocation Fusion, et leur ATK sera divisée par deux jusqu'à la fin de la Battle Phase.\r\nVous ne pouvez pas déclarer d'attaques le tour où vous activez cette carte, sauf avec des monstres TERRE Guerrier.\r\nVous ne pouvez activer qu'1 \"Corne de Chasse\" par tour. ",
+    "overallString": "[Magie|Jeu-Rapide]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101302086.jpg?version=15.13"
+  },
+  {
+    "name": "Lilyfaucheuse Lycoris",
+    "desc": "1 Syntoniseur + 1+ monstre non-Syntoniseur\r\nSi un ou plusieurs monstres sont envoyés depuis le Terrain au Cimetière de votre adversaire, tant que cette carte est dans votre Zone Monstre, même durant la Damage Step : vous pouvez gagner des LP égaux à l'ATK d'1 de ces monstres dans son Cimetière.\r\nSi votre adversaire reçoit des dommages d'effet, tant que cette carte est dans votre Cimetière (sauf durant la Damage Step) : vous pouvez bannir cette carte ; envoyez 1 monstre depuis le Terrain au Cimetière avec une ATK inférieure ou égale à la différence de vos LP et ceux de votre adversaire.\r\nVous ne pouvez utiliser chaque effet de \"Lilyfaucheuse Lycoris\" qu'une fois par tour. ",
+    "overallString": "[Monstre|Effet|Synchro] Plante/Ténébres  [★5] 800/2400",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101302087.jpg?version=15.13"
+  },
+  {
+    "name": "Papillon à Bombe de Soie",
+    "desc": "Si vous avez min. 2 monstres VENT dans votre Cimetière et que cette carte est dans votre main : vous pouvez Invoquer Spécialement cette carte, et si vous le faites, mélangez 1 monstre VENT depuis votre Cimetière dans le Deck.\r\nSi cette carte est Invoquée Normalement ou Spécialement : vous pouvez révéler la carte du dessus du Deck de votre adversaire, et appliquez l'effet approprié selon son type de carte.\r\n●Monstre : Placez-la dans la Zone Magie & Piège de votre adversaire comme Magie Continue face recto.\r\n●Magie/Piège : Bannissez-la.\r\nVous ne pouvez utiliser chaque effet de \"Papillon à Bombe de Soie\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet] Insecte/Vent  [★6] 2400/1000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101302088.jpg?version=15.13"
+  },
+  {
+    "name": "Fleur Éphémère du Magicien",
+    "desc": "Ciblez 1 Magie/Piège face recto contrôlé par votre adversaire ou 1 Magie/Piège que vous contrôlez ; détruisez-le, puis si vous avez ciblé une carte que vous contrôlez, vous pouvez appliquer 1 de ces effets.\r\n●Placez 1 monstre depuis votre Cimetière dans votre Zone Magie & Piège comme Magie Continue face recto.\r\n●Ajoutez 1 Magie d'Équipement ou Continue depuis votre Cimetière à votre main.\r\nVous ne pouvez activer qu'1 \"Fleur Éphémère du Magicien\" par tour.",
+    "overallString": "[Magie|Jeu-Rapide]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101302089.jpg?version=15.13"
+  },
+  {
+    "name": "Perina, Sabre X",
+    "desc": "Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez envoyer cette carte au Cimetière ; Invoquez Spécialement 2 monstres \"Sabre X\" (\"Perina, Sabre X\" exclu) depuis votre Deck, mais détruisez-les durant la End Phase.\r\nSi cette carte est envoyée au Cimetière comme Matériel pour un Monstre Synchro \"Sabre X\" : vous pouvez appliquer 1 de ces effets.\r\n● Il peut faire une seconde attaque durant chaque Battle Phase.\r\n● Il peut attaquer directement.\r\nVous ne pouvez utiliser chaque effet de \"Perina, Sabre X\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet|Syntoniseur] Bête-Guerrier/Terre  [★4] 1700/300",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250206.jpg?version=15.13"
+  },
+  {
+    "name": "Bruno, Sabre X",
+    "desc": "Une fois par tour, durant la Main ou Battle Phase de votre adversaire, vous pouvez (Effet Rapide) : immédiatement après la résolution de cet effet, Invoquez par Synchronisation en utilisant uniquement des monstres TERRE que vous contrôlez (cette carte incluse).\r\nVous ne pouvez utiliser chacun des effets suivants de \"Bruno, Sabre X\" qu'une fois par tour.\r\nSi cette carte est dans votre main : vous pouvez bannir 1 autre monstre TERRE depuis votre main, Terrain face recto, ou Cimetière ; Invoquez Spécialement cette carte.\r\nSi cette carte est Invoquée Normalement ou Spécialement : vous pouvez ajouter 1 Magie/Piège \"Sabre\" depuis votre Deck ou Cimetière à votre main.",
+    "overallString": "[Monstre|Effet|Syntoniseur] Psychique/Terre  [★3] 1200/1100",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250207.jpg?version=15.13"
+  },
+  {
+    "name": "Commandant Souza, Maître de l'Épée",
+    "desc": "1 Syntoniseur + 1+ monstre TERRE\r\n(Cette carte est toujours traitée comme une carte \"Sabre X\".)\r\nGagne 200 ATK pour chaque monstre banni.\r\nLorsque cette carte détruit un monstre au combat : vous pouvez piocher 1 carte.\r\nUne fois par tour, lorsque votre adversaire active une carte ou un effet (Effet Rapide) : vous pouvez Sacrifier 1 monstre \"Sabre X\" ; détruisez 1 carte contrôlée par votre adversaire.\r\nSi cette carte va être détruite au combat ou par un effet de carte, vous pouvez bannir 1 carte \"Sabre\" depuis votre Cimetière à la place.",
+    "overallString": "[Monstre|Effet|Synchro] Guerrier/Terre  [★10] 2500/1600",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250208.jpg?version=15.13"
+  },
+  {
+    "name": "Gottoms, Sabre X",
+    "desc": "1 Syntoniseur + 1+ monstre TERRE\r\nSi cette carte est Invoquée par Synchronisation : vous pouvez ajouter 1 Magie/Piège \"Sabre\" ou \"Gottoms\" depuis votre Deck à votre main.\r\nLorsque cette carte inflige des dommages de combat à votre adversaire : vous pouvez défausser 1 carte au hasard depuis sa main.\r\nLorsque votre monstre \"Sabre X\" est ciblé par une attaque tant que cette carte est dans votre Cimetière : vous pouvez Invoquer Spécialement cette carte, puis transférez-lui la cible de l'attaque.\r\nVous ne pouvez utiliser chaque effet de \"Gottoms, Sabre X\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet|Synchro] Guerrier/Terre  [★7] 2600/2100",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250209.jpg?version=15.13"
+  },
+  {
+    "name": "Castor de la Constellée",
+    "desc": "Si cette carte est Invoquée : vous pouvez Invoquer Spécialement 1 monstre \"Constellée\" (\"Castor de la Constellée\" exclu) depuis votre Deck, et aussi, vous ne pouvez pas Invoquer Spécialement (monstres LUMIÈRE et TÉNÈBRES exclus) depuis l'Extra Deck le reste de ce tour. Vous ne pouvez utiliser cet effet de \"Castor de la Constellée\" qu'une fois par tour.\r\nUn Monstre Xyz \"Constellée\" qui a cette carte comme Matériel gagne cet effet.\r\nUne fois par tour, lorsque votre adversaire active une Carte Magie ou effet de Magie (Effet Rapide) : vous pouvez détacher 2 Matériels d'un ou plusieurs monstres que vous contrôlez, et si vous le faites, annulez l'effet, et si vous faites ça, détruisez la carte.",
+    "overallString": "[Monstre|Effet] Elfe/Lumiére  [★4] 1700/600",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250201.jpg?version=15.13"
+  },
+  {
+    "name": "Tellchevalier Cygnien",
+    "desc": "(Cette carte est toujours traitée comme une carte \"Constellée\".)\r\nSi cette carte est Invoquée : vous pouvez ajouter 1 monstre \"tellchevalier\" ou \"Constellée\" depuis votre Deck à votre main.\r\nVous pouvez cibler 1 autre monstre LUMIÈRE que vous contrôlez ; augmentez son Niveau ainsi que celui de cette carte de 1.\r\nCette carte peut être traitée comme 2 Matériels pour l'Invocation Xyz d'un Monstre Xyz \"tellchevalier\" qui nécessite min. 3 Matériels.\r\nVous ne pouvez utiliser chaque effet de \"Tellchevalier Cygnien\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet] Guerrier/Lumiére  [★4] 1500/1000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250202.jpg?version=15.13"
+  },
+  {
+    "name": "Exstellchevalier Ptolemy Ω7 de la Constellée",
+    "desc": "3 monstres de Niveau 7\r\nUne fois par tour, durant votre Main Phase 2, vous pouvez aussi Invoquer par Xyz \"Exstellchevalier Ptolemy Ω7 de la Constellée\" en utilisant un Monstre Xyz \"tellchevalier\" ou \"Constellée\" que vous contrôlez (transférez ses Matériels).\r\nTant que vous avez min. 7 monstres \"tellchevalier\" de noms différents dans votre Cimetière et/ou bannissement, cette carte gagne 2700 ATK/DEF, et aussi, elle n'est pas affectée par les effets activés de votre adversaire.\r\nUne fois par tour (Effet Rapide) : vous pouvez détacher un nombre de votre choix de Matériels de cette carte, puis ciblez autant de monstres contrôlés par votre adversaire ; mélangez-les dans le Deck.",
+    "overallString": "[Monstre|Effet|Xyz] Machine/Lumiére  [☆7] 2700/2700",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250203.jpg?version=15.13"
+  },
+  {
+    "name": "Tellchevalier Delteros de la Constellée",
+    "desc": "3+ monstres de Niveau 4\r\nVotre adversaire ne peut pas cibler les Monstres Xyz \"tellchevalier\" et \"Constellée\" de min. Rang 5 que vous contrôlez avec des effets de carte.\r\nUne fois par tour : vous pouvez détacher 1 Matériel de cette carte ; ajoutez 1 monstre \"tellchevalier\" ou \"Constellée\" depuis votre Deck à votre main, puis immédiatement après la résolution de cet effet, vous pouvez Invoquer Normalement 1 monstre LUMIÈRE.\r\nSi cette carte est envoyée au Cimetière, sauf depuis le Terrain : vous pouvez Invoquer Spécialement 1 monstre \"tellchevalier\" ou \"Constellée\" depuis votre main ou bannissement.",
+    "overallString": "[Monstre|Effet|Xyz] Guerrier/Lumiére  [☆4] 2500/2500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250204.jpg?version=15.13"
+  },
+  {
     "name": "Canon Lambda R.B.",
     "desc": "Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez cibler 1 monstre \"R.B.\" dans votre Cimetière (sauf \"Canon Lambda R.B.\") ; ajoutez-le à votre main.\r\nTant que cette carte est Liée à un Monstre Lien \"R.B.\" : vous pouvez payer 1200 LP ; détruisez cette carte, et si vous le faites, regardez la main de votre adversaire, puis vous pouvez Invoquer Spécialement 1 monstre depuis elle sur son Terrain, mais annulez ses effets.\r\nVous ne pouvez utiliser chaque effet de \"Canon Lambda R.B.\" qu'une fois par tour.",
     "overallString": "[Monstre|Effet] Machine/Ténébres  [★6] 1200/1200",
