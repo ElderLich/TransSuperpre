@@ -1,5 +1,89 @@
 [
   {
+    "name": "The Fallen & The Virtuous",
+    "desc": "這個卡名在規則上也當作「烙印」卡片、「教導」卡片。這個卡名的卡在1回合只能發動1張。\r\n①：可以從以下效果選擇1個發動。\r\n●從額外牌組將1隻記載「阿不思的落胤」的卡名的怪獸送去墓地，以場上1張表側表示卡為對象可以發動。那張卡破壞。\r\n●我方的場上或墓地有「艾克莉西亞」怪獸存在的場合，以我方或對手的墓地1隻怪獸為對象可以發動。那隻怪獸在我方場上特殊召喚。",
+    "overallString": "[Spell|Quick-Play]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100248019.jpg?version=15.13"
+  },
+  {
+    "name": "模仿英雄 偽裝者",
+    "desc": "這個卡名的①②③效果1回合各能使用1次。\r\n①：我方的場上或墓地有裝備魔法卡存在的場合可以發動。此卡從手牌特殊召喚。\r\n②：此卡召喚、特殊召喚的場合可以發動。從牌組將1張「被詛咒的模仿聖劍」加入手牌。\r\n③：此卡已裝備裝備卡的場合，以場上1隻協調以外的持有等級的戰士族怪獸為對象可以發動。此卡的卡名、等級直到結束階段變成和那隻怪獸相同。",
+    "overallString": "[Monster|Effect|Tuner] Warrior/Light  [★4] 1400/1200",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101302081.jpg?version=15.13"
+  },
+  {
+    "name": "被詛咒的模仿聖劍",
+    "desc": "這個卡名的②效果1回合只能使用1次。\r\n①：裝備怪獸的攻擊力、守備力上升我方的場上、墓地的裝備魔法卡數量×200。\r\n②：此卡給戰士族怪獸裝備中的場合可以發動。從牌組將1隻屬性、等級和裝備怪獸相同且卡名不同的戰士族怪獸特殊召喚，此卡給那隻怪獸裝備。那之後，此卡裝備過的怪獸破壞。這個回合，我方除了戰士族怪獸以外不能特殊召喚。",
+    "overallString": "[Spell|Equip]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101302082.jpg?version=15.13"
+  },
+  {
+    "name": "華麗的運動騎士 錢巴爾",
+    "desc": "協調+協調以外的怪獸1隻以上\r\n這個卡名的②③效果1回合各能使用1次。\r\n①：對手場上的怪獸的攻擊力下降我方場上的裝備魔法卡數量×400。\r\n②：以場上1張其他卡為對象可以發動。從手牌、牌組將1張裝備魔法卡送去墓地，對象卡片破壞。\r\n③：此卡在墓地存在的場合，以我方的魔法與陷阱區域2張表側表示卡為對象可以發動。那些卡破壞，此卡特殊召喚。",
+    "overallString": "[Monster|Effect|Synchro] Warrior/Light  [★8] 2700/2100",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101302083.jpg?version=15.13"
+  },
+  {
+    "name": "深邃森林的狩獵斥候 雉雞",
+    "desc": "戰士族、地屬性怪獸×2\r\n這個卡名的②效果1回合只能使用1次。\r\n①：我方、對手的主要階段期間，此卡不受對手發動的效果影響。\r\n②：我方、對手的戰鬥階段，將融合召喚的此卡解放可以發動。從我方墓地將「深邃森林的狩獵斥候 雉雞」以外的2隻戰士族、地屬性怪獸特殊召喚，這個回合，我方的戰士族、地屬性怪獸不會被戰鬥破壞。",
+    "overallString": "[Monster|Effect|Fusion] Warrior/Earth  [★5] 2300/2300",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101302084.jpg?version=15.13"
+  },
+  {
+    "name": "深邃森林的狩獵斥候 狍鹿",
+    "desc": "等級5以上的戰士族、地屬性怪獸+戰士族、地屬性怪獸\r\n這個卡名的③效果1回合只能使用1次。\r\n①：我方、對手的主要階段期間，此卡不受對手發動的效果影響。\r\n②：只要此卡在怪獸區域存在，可以攻擊的對手怪獸必須向我方場上的攻擊力最高的怪獸攻擊。\r\n③：我方場上的其他的戰士族、地屬性怪獸戰鬥破壞對手怪獸時可以發動。我方的墓地、除外狀態的1隻戰士族、地屬性怪獸特殊召喚。",
+    "overallString": "[Monster|Effect|Fusion] Warrior/Earth  [★7] 2600/2600",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101302085.jpg?version=15.13"
+  },
+  {
+    "name": "狩獵號角",
+    "desc": "這個卡名的卡在1回合只能發動1張，此卡發動的整回合中，我方除了用戰士族、地屬性怪獸以外不能攻擊宣言。\r\n①：我方的手牌、場上的戰士族怪獸作為融合素材，將1隻戰士族、地屬性的融合怪獸融合召喚。此卡在戰鬥階段發動的場合，最多到在手牌作為融合素材的怪獸數量，可以挑選對手場上的怪獸將其攻擊力直到戰鬥階段結束時變成一半。",
+    "overallString": "[Spell|Quick-Play]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101302086.jpg?version=15.13"
+  },
+  {
+    "name": "石蒜百合收割者",
+    "desc": "協調+協調以外的怪獸1隻以上\r\n這個卡名的①②效果1回合各能使用1次。\r\n①：此卡已在怪獸區域存在的狀態，怪獸從場上送去對手墓地的場合可以發動（傷害步驟也能發動）。我方回復其中1隻仍在墓地的怪獸的攻擊力數值的生命值。\r\n②：此卡在墓地存在的狀態，對手受到效果傷害的場合，將墓地的此卡除外可以發動（傷害步驟也能發動）。場上1隻攻擊力在雙方生命值的差額以下的怪獸送去墓地。",
+    "overallString": "[Monster|Effect|Synchro] Plant/Dark  [★5] 800/2400",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101302087.jpg?version=15.13"
+  },
+  {
+    "name": "黏絲爆彈蛾",
+    "desc": "這個卡名的①②效果1回合各能使用1次。\r\n①：我方墓地有2隻以上風屬性怪獸存在的場合可以發動。此卡從手牌特殊召喚，我方墓地1隻風屬性怪獸回到牌組。\r\n②：此卡召喚、特殊召喚的場合可以發動。對手牌組最上方的卡給雙方確認，依照那張卡的種類適用以下效果。\r\n●怪獸：那張卡當作永續魔法卡在對手的魔法陷阱區域表側表示放置。\r\n●魔法、陷阱：那張卡除外。",
+    "overallString": "[Monster|Effect] Insect/Wind  [★6] 2400/1000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101302088.jpg?version=15.13"
+  },
+  {
+    "name": "魔術師的曇花",
+    "desc": "這個卡名的卡在1回合只能發動1張。\r\n①：以對手場上1張表側表示的魔法、陷阱卡或我方場上1張魔法、陷阱卡為對象可以發動。那張卡破壞。以我方場上的卡為對象發動的場合，那之後可以從以下選擇1個適用。\r\n●我方墓地1隻怪獸當作永續魔法卡在我方的魔法陷阱區域表側表示放置。\r\n●我方墓地1張裝備魔法、永續魔法卡加入手牌。",
+    "overallString": "[Spell|Quick-Play]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101302089.jpg?version=15.13"
+  },
+  {
+    "name": "X-軍刀 佩里娜",
+    "desc": "這個卡名的①②效果1回合各能使用1次。\r\n①：此卡召喚、特殊召喚的場合，將此卡送去墓地可以發動。從牌組將「X-軍刀 佩里娜」以外的2隻「X-軍刀」怪獸特殊召喚。此效果特殊召喚的怪獸在結束階段破壞。\r\n②：此卡作為「X-軍刀」同步怪獸的同步素材送去墓地的場合可以發動。從以下選1個適用。\r\n●那隻怪獸在1次戰鬥階段中可以攻擊2次。\r\n●那隻怪獸可以直接攻擊。",
+    "overallString": "[Monster|Effect|Tuner] Beast-Warrior/Earth  [★4] 1700/300",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250206.jpg?version=15.13"
+  },
+  {
+    "name": "X-軍刀 布魯諾",
+    "desc": "這個卡名的①②效果1回合各能使用1次。\r\n①：此卡在手牌存在的場合，從我方的手牌、場上（表側表示）、墓地將此卡以外的1隻地屬性怪獸除外可以發動。此卡特殊召喚。\r\n②：此卡召喚、特殊召喚的場合可以發動。從我方的牌組、墓地將1張「軍刀」魔法、陷阱卡加入手牌。\r\n③：1回合1次，對手的主要階段以及戰鬥階段可以發動。只用包含此卡的我方場上的地屬性怪獸為素材進行同步召喚。",
+    "overallString": "[Monster|Effect|Tuner] Psychic/Earth  [★3] 1200/1100",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250207.jpg?version=15.13"
+  },
+  {
+    "name": "總劍司令 索薩",
+    "desc": "協調+地屬性怪獸1隻以上\r\n這個卡名在規則上也當作「X-軍刀」卡片。\r\n①：此卡的攻擊力上升除外狀態的怪獸數量×200。\r\n②：此卡戰鬥破壞怪獸時可以發動。我方抽1張卡。\r\n③：1回合1次，對手發動效果時，將我方場上1隻「X-軍刀」怪獸解放可以發動。對手場上1張卡破壞。\r\n④：此卡被戰鬥、效果破壞的場合，可以將我方墓地1張「軍刀」卡片除外作為代替。",
+    "overallString": "[Monster|Effect|Synchro] Warrior/Earth  [★10] 2500/1600",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250208.jpg?version=15.13"
+  },
+  {
+    "name": "X-軍刀 卡多姆茲",
+    "desc": "協調+地屬性怪獸1隻以上\r\n這個卡名的①②③效果1回合各能使用1次。\r\n①：此卡同步召喚的場合可以發動。從牌組將1張「軍刀」魔法、陷阱卡或「卡多姆茲」魔法、陷阱卡加入手牌。\r\n②：此卡給予對手戰鬥傷害時可以發動。對手的手牌隨機選1張捨棄。\r\n③：此卡在墓地存在的狀態，我方的「X-軍刀」怪獸被選擇作為攻擊對象時可以發動。此卡特殊召喚。那之後，攻擊對象轉移到此卡。",
+    "overallString": "[Monster|Effect|Synchro] Warrior/Earth  [★7] 2600/2100",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250209.jpg?version=15.13"
+  },
+  {
     "name": "雙子星聖 北河二",
     "desc": "這個卡名的①效果1回合只能使用1次。\r\n①：此卡召喚、反轉召喚、特殊召喚的場合可以發動。從牌組將「雙子星聖 北河二」以外的1隻「星聖」怪獸特殊召喚。這個回合，我方除了光、闇屬性怪獸以外不能從額外牌組特殊召喚。\r\n②：持有此卡作為超量素材的「星聖」超量怪獸得到以下效果。\r\n●1回合1次，對手發動魔法卡的效果時可以發動。去除我方場上的2個超量素材，那個效果無效並破壞。",
     "overallString": "[Monster|Effect] Fairy/Light  [★4] 1700/600",
@@ -60,7 +144,7 @@
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101302095.jpg?version=15.13"
   },
   {
-    "name": "R.B. 下一階段",
+    "name": "R.B. 階段轉換",
     "desc": "這個卡名的卡在1回合只能發動1張。\r\n①：我方場上有「R.B.」怪獸存在，對手發動怪獸的效果時可以發動。我方場上1隻怪獸破壞，那個發動無效並破壞。那之後，我方回復2000生命值。",
     "overallString": "[Trap|Counter]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101302096.jpg?version=15.13"
@@ -168,7 +252,7 @@
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303074.jpg?version=15.13"
   },
   {
-    "name": "尋寶獵豹",
+    "name": "尋寶豹",
     "desc": "這個卡名的①②③效果1回合各能使用1次。\r\n①：此卡在手牌存在，場上有裡側守備表示怪獸存在的場合可以發動。此卡特殊召喚。\r\n②：以場上最多3隻裡側守備表示怪獸為對象可以發動。那些怪獸變成攻擊表示。此效果將3隻怪獸變成攻擊表示的場合，那之後給予對手900傷害。\r\n③：此卡反轉的場合可以發動。從牌組將1隻通常怪獸送去墓地。",
     "overallString": "[Monster|Effect|Flip] Beast/Earth  [★1] 100/100",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100200279.jpg?version=15.13"
