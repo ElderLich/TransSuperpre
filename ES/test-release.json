@@ -1,5 +1,35 @@
 [
   {
+    "name": "Guerrero de Chatarra/Modo de Ataque",
+    "desc": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial por \"Activar Modo de Ataque\".\r\n\r\n①: Esta carta gana 1000 ATK por cada monstruo \"/Modo de Ataque\" que controles, y además cuando batalla con un monstruo de tu adversario, duplica cualquier daño de batalla que esta carta inflija a tu adversario.\r\n②: Esta carta no es afectada por efectos activados de tu adversario.\r\n③: Si esta carta es destruida: puedes seleccionar 1 \"Guerrero de Chatarra\" en tu Cementerio; devuélvelo al Deck Extra, luego puedes Invocar ese monstruo de Modo Especial (esto se trata como una Invocación por Sincronía).",
+    "overallString": "[Monstruo|Efecto|Invocación Especial] Guerrero/OSCURIDAD  [★7] 2800/1800",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303007.jpg?version=15.13"
+  },
+  {
+    "name": "Espadacarmesí/Modo de Ataque",
+    "desc": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial por \"Activar Modo de Ataque\".\r\n\r\nSolo puedes usar el efecto ① de \"Espadacarmesí/Modo de Ataque\" una vez por turno.\r\n①: Puedes revelar esta carta en tu mano; añade a tu mano 1 \"Activar Modo de Ataque\" o 1 carta que la mencione desde tu Deck, y si lo haces, baraja esta carta al Deck.\r\n②: Tu adversario no puede activar los efectos de monstruos de Nivel 5 o mayor que fueron Invocados de Modo Especial desde el Deck Extra.\r\n③: Si esta carta es destruida: puedes Invocar de Modo Especial 1 \"Espadacarmesí\" desde tu Cementerio.",
+    "overallString": "[Monstruo|Efecto|Invocación Especial] Guerrero/FUEGO  [★10] 3300/3100",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303008.jpg?version=15.13"
+  },
+  {
+    "name": "Liche de Ataque",
+    "desc": "Solo puedes usar cada uno de los efectos ① y ③ de \"Liche de Ataque\" una vez por turno.\r\n①: Si esta carta es Invocada de Modo Normal o Especial: puedes Invocar de Modo Especial 1 monstruo desde tu Cementerio que mencione \"Activar Modo de Ataque\" o sea un monstruo Zombi de Nivel 4 o menor.\r\n②: Si usas esta carta que controlas como Material de Sincronía, puede ser tratada como un no Cantante.\r\n③: Si esta carta es mandada al Cementerio como Material de Sincronía: puedes añadir a tu mano 1 \"Cuchillada de Ataque\" o \"Contra Ataque\" desde tu Deck.",
+    "overallString": "[Monstruo|Efecto|Cantante] Zombi/OSCURIDAD  [★4] 1500/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303009.jpg?version=15.13"
+  },
+  {
+    "name": "Sacerdote Alacrán",
+    "desc": "Solo puedes usar cada uno de los efectos ① y ② de \"Sacerdote Alacrán\" una vez por turno.\r\n①: Si esta carta es Invocada de Modo Especial: puedes Colocar 1 \"Activar Modo de Ataque\" desde tu mano, Deck o Cementerio, y si lo haces, puede ser activada este turno.\r\n②: Puedes descartar 1 carta; añade a tu mano, o Invoca de Modo Especial, 1 monstruo que mencione \"Activar Modo de Ataque\" desde tu Deck, y además por el resto de este turno no puedes Invocar de Modo Especial desde el Deck Extra, excepto Monstruos de Sincronía.\r\n",
+    "overallString": "[Monstruo|Efecto|Sincronía] Lanzador de Conjuros/VIENTO  [★8] 2500/2500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303038.jpg?version=15.13"
+  },
+  {
+    "name": "Duelo Evolutivo - Zona de Ataque",
+    "desc": "Solo puedes activar 1 \"Duelo Evolutivo - Zona de Ataque\" por turno.\r\n\r\nSolo puedes usar el efecto ③ de \"Duelo Evolutivo - Zona de Ataque\" una vez por turno.\r\n①: Cuando esta carta es activada: puedes añadir a tu mano 1 monstruo que mencione \"Activar Modo de Ataque\" desde tu Deck o Cementerio.\r\n②: Los monstruos \"/Modo de Ataque\" no pueden ser destruidos en batalla ni por efectos de cartas de tu adversario durante el turno en que son Invocados de Modo Especial.\r\n③: Puedes pagar 2000 LP; una vez este turno, puedes activar \"Activar Modo de Ataque\" Sacrificando un monstruo de entre los Monstruos de Sincronía en tu Deck Extra.",
+    "overallString": "[Mágica|Campo]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303054.jpg?version=15.13"
+  },
+  {
     "name": "Aru ¡DESPIERCAFÉ!",
     "desc": "Solo puedes usar cada uno de los efectos ①, ② y ③ de \"Aru ¡DESPIERCAFÉ!\" una vez por turno.\r\n①: Si esta carta está en tu mano: puedes descartar 1 Monstruo de VOLTEO (excepto esta carta) en tu mano, y si lo haces, Invoca esta carta de Modo Especial en Posición de Ataque o en Posición de Defensa boca abajo.\r\n②: VOLTEO: Puedes mandar al Cementerio cartas boca arriba que controle tu adversario, hasta el número de Monstruos de VOLTEO que controles.\r\n③: Durante tu End Phase: puedes seleccionar 1 Monstruo de VOLTEO en tu Cementerio; Invócalo de Modo Especial en Posición de Defensa boca abajo.",
     "overallString": "[Monstruo|Efecto|VOLTEO] Aqua/VIENTO  [★7] 2700/400",
@@ -25,7 +55,7 @@
   },
   {
     "name": "¡Asistencia★Yummy!",
-    "desc": "Sólo puedes usar cualquiera de los efectos ② o ③ de \"¡Asistencia★Yummy!\" una vez por turno.\r\n①: Una vez por turno, durante la Standby Phase: puedes ganar 100 LP, luego tu adversario paga 100 LP.\r\n②: Durante la Main Phase o la Battle Phase de tu adversario: puedes mandar al Cementerio 2 cartas \"Yummy\" boca arriba que controles, incluyendo esta carta; devuelve 1 carta del Campo o Cementerio a la mano.\r\n③: Puedes desterrar esta carta en tu Cementerio; manda al Cementerio 1 carta \"Yummy\" en tu Deck, excepto \"¡Asistencia★Yummy!\".",
+    "desc": "Solo puedes usar cualquiera de los efectos ② o ③ de \"¡Asistencia★Yummy!\" una vez por turno.\r\n①: Una vez por turno, durante la Standby Phase: puedes ganar 100 LP, luego tu adversario paga 100 LP.\r\n②: Durante la Main Phase o la Battle Phase de tu adversario: puedes mandar al Cementerio 2 cartas \"Yummy\" boca arriba que controles, incluyendo esta carta; devuelve 1 carta del Campo o Cementerio a la mano.\r\n③: Puedes desterrar esta carta en tu Cementerio; manda al Cementerio 1 carta \"Yummy\" en tu Deck, excepto \"¡Asistencia★Yummy!\".",
     "overallString": "[Trampa|Continua]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303076.jpg?version=15.13"
   },
