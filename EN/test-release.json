@@ -1,31 +1,103 @@
 [
   {
+    "name": "Elvennotes Lucina",
+    "desc": "You can only Special Summon with the ① effect of this card's name once per turn. You can only use the ② and ③ effect of this card's name each once per turn.\r\n①：You can Special Summon this card (from your hand) to your center Main Monster Zone.\r\n②：During your Main Phase: You can add 1 \"Elvennotes\" monster from your Deck to your hand, except \"Elvennotes Lucina\".\r\n③：During your opponent's turn (Quick Effect): You can switch the locations of this card you control and the monster in your center Main Monster Zone, then you can return 1 Level 6 or lower monster your opponent controls to the hand.",
+    "overallString": "[Monster|Effect] Spellcaster/Fire  [★6] 2500/1800",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303010.jpg?version=15.13"
+  },
+  {
+    "name": "Elvennotes Dyina",
+    "desc": "You can only Special Summon with the ① effect of this card's name once per turn. You can only use the ② and ③ effect of this card's name each once per turn.\r\n①：You can Special Summon this card (from your hand) to your center Main Monster Zone.\r\n②：During your Main Phase: You can place 1 \"Elvennotes\" Continuous Spell from your Deck on your field face-up.\r\n③：During your opponent's turn (Quick Effect): You can switch the locations of this card you control and the monster in your center Main Monster Zone, then you can banish 1 random card from your opponent's hand face-up until the End Phase.",
+    "overallString": "[Monster|Effect] Spellcaster/Water  [★6] 2400/1800",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303011.jpg?version=15.13"
+  },
+  {
+    "name": "Elvennotes Fortona",
+    "desc": "You can only Special Summon with the ① effect of this card's name once per turn. You can only use the ② and ③ effect of this card's name each once per turn.\r\n①：You can Special Summon this card (from your hand) to your center Main Monster Zone.\r\n②：During your Main Phase: You can place 1 \"Elvennotes\" Continuous Trap from your hand or Deck on your field face-up.\r\n③：During your opponent's turn (Quick Effect): You can switch the locations of this card you control and the monster in your center Main Monster Zone, then you can return 1 face-up Spell/Trap on the field to the hand.",
+    "overallString": "[Monster|Effect] Spellcaster/Light  [★6] 2200/1800",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303012.jpg?version=15.13"
+  },
+  {
+    "name": "Elvennotes Power Patron",
+    "desc": "You can only use the ② and ③ effect of this card's name each once per turn.\r\n①：You cannot Special Summon from the Extra Deck, except Synchro Monsters.\r\n②：During the Main Phase (Quick Effect): You can target the monster in your center Main Monster Zone; increase its Level by 3 (until the end of this turn), then, immediately after this effect resolves, you can Synchro Summon 1 \"Elvennotes\" monster or \"Junora the Power Patron of Tuning\".\r\n③：If this card is sent to the GY as Synchro Material: You can add 1 \"Elvennotes\" card from your Deck to your hand.",
+    "overallString": "[Monster|Effect|Tuner] Fiend/Fire  [★1] 300/200",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303013.jpg?version=15.13"
+  },
+  {
+    "name": "Junora the Power Patron of Tuning",
+    "desc": "1 Tuner + 2 non-Tuner monsters\r\nFor this card's Synchro Summon, you can treat a monster in your center Main Monster Zone as a Tuner. You can only use the ② effect of this card's name once per turn.\r\n①：If this card is Synchro Summoned: You can negate the effects of all face-up cards your opponent currently controls.\r\n②：(Quick Efect): You can make all opponent's monsters in the same columns as your \"Elvennotes\" monsters unable to be used as material for a Fusion, Synchro, Xyz, or Link Summon until the end of this turn",
+    "overallString": "[Monster|Effect|Synchro] Fiend/Fire  [★10] 3100/3800",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303039.jpg?version=15.13"
+  },
+  {
+    "name": "Elvennotes Seraphim Stlitzia",
+    "desc": "1 Tuner + 1+ non-Tuner monsters\r\nYou can only use the ② effect of this card's name once per turn.\r\n①：This card's original ATK becomes 3000 while in the center Main Monster Zone.\r\n②：During the Main Phase (Quick Effect): You can Special Summon 1 Level 6 or lower \"Elvennotes\" monster from your hand or GY, then you can decrease the Levels of all Level 4 or higher monsters currently on the field by 3 until the end of this turn, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Synchro Monsters.",
+    "overallString": "[Monster|Effect|Synchro] Plant/Fire  [★7] ?/3000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303040.jpg?version=15.13"
+  },
+  {
+    "name": "DoomZ Changer",
+    "desc": "You can only use the ① and ② effect of this card's name each once per turn.\r\n①：Destroy 1 \"DoomZ\" card in your hand, Deck, or face-up field, except \"DoomZ Changer\".\r\n②：If this card is destroyed by card effect: You can add 1 \"DoomZ\" card from your GY to your hand, except \"DoomZ Changer\", then you can Special Summon 1 \"DoomZ\" monster from your hand.",
+    "overallString": "[Spell]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303055.jpg?version=15.13"
+  },
+  {
+    "name": "Elvennotes ~Homecoming Paralleism~",
+    "desc": "You can only use the ② effect of this card's name once per turn.\r\n①：A monster in your center Main Monster Zone cannot be destroyed by card effects.\r\n②：You can send 1 monster from your hand or field to the GY; Special Summon 1 \"Elvennotes\" monster with a different original Attribute from your Deck in Defense Position, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Synchro Monsters.",
+    "overallString": "[Spell|Continuous]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303056.jpg?version=15.13"
+  },
+  {
+    "name": "Elvennotes ~Reunion Tercet~",
+    "desc": "①：Your opponent cannot target a monster in your center Main Monster Zone with card effects.\r\n②：This card gains these effects based on the Attribute(s) of the monster in your center Main Monster Zone.\r\n● FIRE/EARTH: If your Synchro Monster attacks a Defense Position monster, inflict piercing battle damage.\r\n● WATER/WIND: Other face-up Spells/Traps you control cannot be destroyed by your opponent's card effects.\r\n● LIGHT/DARK: You take no battle damage.",
+    "overallString": "[Spell|Continuous]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303057.jpg?version=15.13"
+  },
+  {
+    "name": "Theorealize Liberation",
+    "desc": "You can only use the ① and ② effect of this card's name each once per turn.\r\n①：If you control \"Medius the Pure\": Add to your hand, or Special Summon, 1 monster from your Deck with 300 ATK/200 DEF.\r\n②：During your Main Phase: You can banish this card from your GY, then target 1 face-up monster you control; it is treated as a Tuner this turn.",
+    "overallString": "[Spell|Quick-Play]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303058.jpg?version=15.13"
+  },
+  {
+    "name": "Elvennotes ~Oracle Alicetea~",
+    "desc": "You can only use the ② effect of this card's name once per turn. You cannot activate the ① and ② effect of this card's name in the same Chain.\r\n①：Once per turn: You can target 1 face-up monster you control; move that monster you control to another of your Main Monster Zones.\r\n②：When your opponent activates a Spell/Trap Card, if you control 3 or more \"Elvennotes\" monsters: You can negate that effect, then, if you control a Synchro Monster, you can destroy that card.",
+    "overallString": "[Trap|Continuous]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303071.jpg?version=15.13"
+  },
+  {
+    "name": "Elvennotes ~Maddening Rhapsodia~",
+    "desc": "①：Your opponent's monsters cannot attack while you have a monster in your center Main Monster Zone, except to attack it.\r\n②：You can send 1 monster from your hand or field to the GY, then target 1 \"Elvennotes\" monster in your GY with a different original Attribute; Special Summon it, then, if you control a Synchro Monster, you can negate the effects of 1 face-up card your opponent controls until the end of this turn.",
+    "overallString": "[Trap|Continuous]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303072.jpg?version=15.13"
+  },
+  {
     "name": "Junk Warrior/Assault Mode",
-    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned with “Assault Mode Activate”.\r\n(1) Gains 1000 ATK for each “/Assault Mode” monster you control. If this card battles a monster, any battle damage it inflicts to your opponent is doubled.\r\n(2) Unaffected by your opponent’s activated monster effects.\r\n(3) If this card is destroyed: You can target 1 “Junk Warrior” in your GY; return it to the Extra Deck, then Special Summon it (this is treated as a Synchro Summon).",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned with \"Assault Mode Activate\".\r\n①：Gains 1000 ATK for each \"/Assault Mode\" monster you control. If this card battles a monster, any battle damage it inflicts to your opponent is doubled.\r\n②：Unaffected by your opponent's activated monster effects.\r\n③：If this card is destroyed: You can target 1 \"Junk Warrior\" in your GY; return it to the Extra Deck, then Special Summon it (this is treated as a Synchro Summon).",
     "overallString": "[Monster|Effect|Special Summon] Warrior/Dark  [★7] 2800/1800",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303007.jpg?version=15.13"
   },
   {
     "name": "Crimson Blader/Assault Mode",
-    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned with “Assault Mode Activate”. You can only use the (1)st effect of this card’s name once per turn.\r\n(1) You can reveal this card in your hand; add 1 “Assault Mode Activate”, or 1 card that mentions it, from your Deck to your hand, then shuffle this card into the Deck.\r\n(2) Your opponent cannot activate the effects of Level 5 or higher monsters Special Summoned from the Extra Deck.\r\n(3) If this card is destroyed: You can Special Summon 1 “Crimson Blader” from your GY.",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned with \"Assault Mode Activate\". You can only use the ① effect of this card's name once per turn.\r\n①：You can reveal this card in your hand; add 1 \"Assault Mode Activate\", or 1 card that mentions it, from your Deck to your hand, then shuffle this card into the Deck.\r\n②：Your opponent cannot activate the effects of Level 5 or higher monsters Special Summoned from the Extra Deck.\r\n③：If this card is destroyed: You can Special Summon 1 \"Crimson Blader\" from your GY.",
     "overallString": "[Monster|Effect|Special Summon] Warrior/Fire  [★10] 3300/3100",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303008.jpg?version=15.13"
   },
   {
     "name": "Assault Lich",
-    "desc": "You can only use the (1)st and (3)rd effects of this card’s name once per turn.\r\n(1) If this card is Normal or Special Summoned: You can Special Summon 1 monster that mentions “Assault Mode Activate” or 1 Level 4 or lower Zombie monster from your GY.\r\n(2) If this card you control would be used as Synchro Material, you can treat it as a non-Tuner.\r\n(3) If this card is sent to the GY as Synchro Material: You can add 1 “Assault Slash” or “Assault Counter” from your Deck to your hand.",
+    "desc": "You can only use the ① and ③ effects of this card's name once per turn.\r\n①：If this card is Normal or Special Summoned: You can Special Summon 1 monster that mentions \"Assault Mode Activate\" or 1 Level 4 or lower Zombie monster from your GY.\r\n②：If this card you control would be used as Synchro Material, you can treat it as a non-Tuner.\r\n③：If this card is sent to the GY as Synchro Material: You can add 1 \"Assault Slash\" or \"Assault Counter\" from your Deck to your hand.",
     "overallString": "[Monster|Effect|Tuner] Zombie/Dark  [★4] 1500/0",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303009.jpg?version=15.13"
   },
   {
     "name": "Night Wing Priestess",
-    "desc": "You can only use the (1)st and (2)nd effects of this card’s name once per turn.\r\n(1) If this card is Special Summoned: You can Set 1 “Assault Mode Activate” from your hand, Deck, or GY. It can be activated this turn.\r\n(2) You can discard 1 card; add to your hand, or Special Summon, 1 monster from your Deck that mentions “Assault Mode Activate”, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Synchro Monsters.",
+    "desc": "You can only use the ① and ② effects of this card's name once per turn.\r\n①：If this card is Special Summoned: You can Set 1 \"Assault Mode Activate\" from your hand, Deck, or GY. It can be activated this turn.\r\n②：You can discard 1 card; add to your hand, or Special Summon, 1 monster from your Deck that mentions \"Assault Mode Activate\", also you cannot Special Summon from the Extra Deck for the rest of this turn, except Synchro Monsters.",
     "overallString": "[Monster|Effect|Synchro] Spellcaster/Wind  [★8] 2500/2500",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303038.jpg?version=15.13"
   },
   {
     "name": "Duel Evolution – Assault Zone",
-    "desc": "You can only activate 1 card with this card’s name per turn. You can only use the (3)rd effect of this card’s name once per turn.\r\n(1) When this card resolves, you can add 1 monster from your Deck or GY to your hand that mentions “Assault Mode Activate”.\r\n(2) “/Assault Mode” monsters cannot be destroyed by battle or your opponent’s effects the turn they are Special Summoned.\r\n(3) You can pay 2000 LP; once this turn, you can activate “Assault Mode Activate” by Tributing a Synchro Monster in the Extra Deck.",
+    "desc": "You can only activate 1 card with this card's name per turn. You can only use the ③ effect of this card's name once per turn.\r\n①：When this card resolves, you can add 1 monster from your Deck or GY to your hand that mentions \"Assault Mode Activate\".\r\n②：\"/Assault Mode\" monsters cannot be destroyed by battle or your opponent's effects the turn they are Special Summoned.\r\n③：You can pay 2000 LP; once this turn, you can activate \"Assault Mode Activate\" by Tributing a Synchro Monster in the Extra Deck.",
     "overallString": "[Spell|Field]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303054.jpg?version=15.13"
   },
