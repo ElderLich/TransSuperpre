@@ -1,5 +1,77 @@
 [
   {
+    "name": "Tellusrion el Guerrero Magno",
+    "desc": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial (desde tu Cementerio) desterrando 1 \"Guerrero Magnético Σ+\" y 1 \"Guerrero Magnético Σ-\" de tu mano, Campo boca arriba y/o Cementerio.\r\n\r\n①: Una vez por turno, cuando tu adversario activa una carta o efecto (Efecto Rápido): puedes seleccionar 1 monstruo que controle tu adversario; destrúyelo, o, si era un monstruo TIERRA en la activación, puedes tomar su control en su lugar.\r\n②: Durante el turno de tu adversario (Efecto Rápido): puedes Sacrificar esta carta; Invoca de Modo Especial 2 de tus monstruos \"Guerrero Magnético Σ\" desterrados.",
+    "overallString": "[Monstruo|Efecto|Invocación Especial] Roca/TIERRA  [★8] 2500/2500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303004.jpg?version=15.13"
+  },
+  {
+    "name": "Guerrero Magnético Σ+",
+    "desc": "Solo puedes usar el efecto ③ de \"Guerrero Magnético Σ+\" una vez por turno.\r\n①: Todos los monstruos del adversario deben atacar, si pueden, mientras controles un monstruo TIERRA.\r\n②: Tú eliges los objetivos de ataque para los ataques de tu adversario mientras controle un monstruo TIERRA.\r\n③: Si esta carta es mandada al Cementerio: puedes seleccionar 1 monstruo \"Guerrero Magnético\" de Nivel 4 o menor en tu Cementerio, excepto \"Guerrero Magnético Σ+\"; añádelo a tu mano o Invócalo de Modo Especial.",
+    "overallString": "[Monstruo|Efecto] Roca/TIERRA  [★4] 1800/1500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303005.jpg?version=15.13"
+  },
+  {
+    "name": "Guerrero Magnético Σ-",
+    "desc": "Solo puedes usar los efectos ① y ② de \"Guerrero Magnético Σ-\" una vez por turno cada uno.\r\n①: Puedes revelar esta carta en tu mano; Invoca por Fusión 1 Monstruo de Fusión desde tu Deck Extra, usando monstruos Roca desde tu mano y/o Campo, incluyendo esta carta en tu mano.\r\n②: Si esta carta es Invocada de Modo Normal o Especial: puedes mandar al Cementerio 1 monstruo \"Guerrero Magno\" de Nivel 8 desde tu Deck.\r\n③: Una vez por turno, cuando se declara un ataque entre 2 monstruos TIERRA: puedes negar ese ataque.\r\n",
+    "overallString": "[Monstruo|Efecto] Roca/TIERRA  [★4] 1500/1800",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303006.jpg?version=15.13"
+  },
+  {
+    "name": "Vic Viper Tipo-L",
+    "desc": "Solo puedes usar los efectos ① y ② de \"Vic Viper Tipo-L\" una vez por turno cada uno.\r\n①: Al inicio de tu Battle Phase: puedes activar 1 de estos efectos;\r\n● Invoca de Modo Especial 1 monstruo Máquina desde tu mano.\r\n● Manda al Cementerio 1 monstruo Máquina LUZ de Nivel 4 o menor desde tu Deck.\r\n②: Si esta carta es destruida: puedes seleccionar 1 monstruo Máquina LUZ en tu Cementerio; Invócalo de Modo Especial, y si su ATK original es 1200 o menos, gana 1200 ATK.",
+    "overallString": "[Monstruo|Efecto] Máquina/LUZ  [★4] 1200/800",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303020.jpg?version=15.13"
+  },
+  {
+    "name": "B.E.S. Núcleo Dellinger",
+    "desc": "Solo puedes usar los efectos ① y ② de \"B.E.S. Núcleo Dellinger\" una vez por turno cada uno.\r\n①: Puedes revelar 1 otro monstruo \"B.E.S.\" en tu mano; Invoca esta carta de Modo Especial desde tu mano, y después pon 3 Contadores en ella.\r\n②: Durante la Main Phase (Efecto Rápido): puedes retirar 1 Contador de esta carta, y después activar 1 de estos efectos;\r\n● Añade a tu mano 1 \"Apuro de Jefes\" o 1 Mágica/Trampa que la mencione desde tu Deck.\r\n● Invoca de Modo Especial 1 monstruo \"B.E.S.\" de Nivel 9 o menor desde tu Cementerio.",
+    "overallString": "[Monstruo|Efecto] Máquina/LUZ  [★10] 1900/3000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303021.jpg?version=15.13"
+  },
+  {
+    "name": "Súper B.E.S. Esclavo Metálico",
+    "desc": "Solo puedes usar el efecto ① de \"Súper B.E.S. Esclavo Metálico\" una vez por turno.\r\n①: Puedes mandar al Cementerio hasta 5 cartas \"B.E.S.\" de Nivel 10 o menor con nombres diferentes desde tu mano y/o Deck; Invoca esta carta de Modo Especial desde tu mano, y después pon contadores en ella igual al número de cartas mandadas al Cementerio para activar este efecto.\r\n②: Una vez por Cadena (Efecto Rápido): puedes retirar 1 contador de esta carta, y después seleccionar 2 cartas boca arriba en el Campo, incluyendo un monstruo \"B.E.S.\" que controles; destrúyelas.",
+    "overallString": "[Monstruo|Efecto] Máquina/OSCURIDAD  [★11] 3100/3100",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303022.jpg?version=15.13"
+  },
+  {
+    "name": "Tri-Brigada Cachorro Springans",
+    "desc": "Solo puedes usar los efectos ① y ② de \"Tri-Brigada Cachorro Springans\" una vez por turno cada uno.\r\n①: Si controlas un monstruo \"Tri-Brigada\" o \"Springans\" que no sea \"Tri-Brigada Cachorro Springans\": puedes Invocar esta carta de Modo Especial desde tu mano.\r\n②: Si esta carta es mandada al Cementerio: puedes Invocar de Modo Especial 1 de estos desde tu Cementerio, excepto \"Tri-Brigada Cachorro Springans\".\r\n● Monstruo \"Tri-Brigada\".\r\n● Monstruo \"Springans\".\r\n● \"Caído de Albaz\" o un monstruo que lo mencione.",
+    "overallString": "[Monstruo|Efecto] Bestia/LUZ  [★4] 1700/1000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303025.jpg?version=15.13"
+  },
+  {
+    "name": "Caballero de Conducción Magnum Plasma",
+    "desc": "【Materiales】: 2 monstruos Roca de TIERRA\r\nSolo puedes usar los efectos ① y ③ de \"Caballero de Conducción Magnum Plasma\" una vez por turno cada uno.\r\n①: Si esta carta es Invocada por Fusión: puedes añadir a tu mano 1 Mágica Normal, de Juego Rápido o de Campo \"Magnético\" desde tu Deck.\r\n②: Los monstruos en el Campo se convierten en TIERRA.\r\n③: Puedes mandar al Cementerio 1 monstruo \"Guerrero Magno\" de Nivel 8 desde tu Deck; inmediatamente después de que este efecto se resuelva, Invoca por Sacrificio 1 monstruo \"Guerrero Magnético\" de Nivel 4 o menor.",
+    "overallString": "[Monstruo|Efecto|Fusión] Roca/TIERRA  [★7] 2300/2800",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303034.jpg?version=15.13"
+  },
+  {
+    "name": "¡Entusiasmo! ¡Springans!",
+    "desc": "【Materiales】: 2+ monstruos \"Springans\" de Nivel 4\r\nSolo puedes usar 1 de los efectos ① o ② de \"¡Entusiasmo! ¡Springans!\" por turno, y solo una vez ese turno.\r\n①: Si esta carta es Invocada Xyz o mandada al Cementerio: puedes Invocar de Modo Especial 1 \"Springans Capitán Sargas\" desde tu Deck o Cementerio.\r\n②: Puedes desacoplar 2 materiales de esta carta; añade a tu mano, o Invoca de Modo Especial, 1 de estos desde tu Deck.\r\n● Monstruo \"Springans\".\r\n● Monstruo \"Therion\".\r\n● \"Caído de Albaz\" o un monstruo que lo mencione.",
+    "overallString": "[Monstruo|Efecto|Xyz] Máquina/FUEGO  [☆4] 2500/1600",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303045.jpg?version=15.13"
+  },
+  {
+    "name": "Dragón Blaster Topológico",
+    "desc": "【Materiales】: + Monstruos de Efecto\r\nNo puedes Invocar/Colocar monstruos a una Zona de Monstruos Extra a la que esta carta apunte.\r\n\r\n①: Si uno o más monstruos son Invocados de Modo Especial a una zona a la que apunte uno o más Monstruos de Enlace mientras esta carta está en la Zona de Monstruos Extra: aplica 1 de estos efectos, y además no puedes aplicar ese mismo efecto de \"Dragón Blaster Topológico\" de nuevo por el resto de este turno.\r\n● Baraja todos los monstruos en el Campo al Deck, excepto esta carta.\r\n● Baraja todas las Mágicas y Trampas en el Campo al Deck.\r\n● Mira el Deck Extra de tu adversario y destierra 1 carta de él.",
+    "overallString": "[Monstruo|Efecto|Enlace] Ciberso/OSCURIDAD  [LINK-5] 3500/-  [↖][↑][↗][↙][↘]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303046.jpg?version=15.13"
+  },
+  {
+    "name": "Unión Magnética",
+    "desc": "①: Durante la Main Phase: activa 1 de estos efectos (pero solo puedes usar cada efecto de \"Unión Magnética\" una vez por turno);\r\n● Añade a tu mano 1 \"Guerrero de Conducción Linear Magnum ±\" o 1 monstruo \"Guerrero Magnético\" de Nivel 4 o menor desde tu Deck.\r\n● Añade a tu mano 1 monstruo \"Guerrero Magna\" de Nivel 8 desde tu Deck.\r\n● Invoca por Fusión 1 Monstruo de Fusión Roca desde tu Deck Extra, barajando monstruos Roca desde tu mano, Campo, Cementerio y/o destierro al Deck.",
+    "overallString": "[Mágica|Juego Rápido]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303053.jpg?version=15.13"
+  },
+  {
+    "name": "Desfile de Jefes",
+    "desc": "Solo puedes activar 1 \"Desfile de Jefes\" por turno.\r\n①: Cuando esta carta se resuelve, añade a tu mano 1 monstruo \"B.E.S.\" desde tu Deck.\r\n②: Una vez por turno: puedes destruir 1 monstruo en tu mano o Campo, y si lo haces, Invoca de Modo Especial 1 monstruo Máquina LUZ con 1200 ATK y 1000 DEF o menos desde tu Deck a cualquier Campo.\r\n③: Puedes desterrar esta carta en tu Cementerio; Coloca 1 \"Apuro de Jefes\" desde tu Deck o Cementerio boca arriba en tu Campo.",
+    "overallString": "[Mágica|Continua]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303064.jpg?version=15.13"
+  },
+  {
     "name": "Organización de Arsenal",
     "desc": "Solo puedes usar 1 de los efectos ① o ② de \"Organización de Arsenal\" por turno, y solo una vez ese turno.\r\n①: Manda hasta 2 Cartas Mágicas de Equipo con nombres diferentes desde tu Deck al Cementerio.\r\n②: Puedes desterrar esta carta en tu Cementerio, y después seleccionar 1 monstruo boca arriba que controles; equípale hasta 2 Cartas Mágicas de Equipo apropiadas con nombres diferentes desde tu mano y/o Cementerio, pero cualquier daño de batalla que inflija a tu adversario se reduce a la mitad mientras esté equipado con alguna de ellas.",
     "overallString": "[Trampa]",
