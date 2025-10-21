@@ -1,5 +1,119 @@
 [
   {
+    "name": "Attaque-Rapide des Secours-AS",
+    "desc": "Vous pouvez mélanger 1 autre carte \"Secours-AS\" depuis votre main ou Terrain face recto dans le Deck ; Invoquez Spécialement cette carte depuis votre main.\r\nVous pouvez Sacrifier cette carte ; ajoutez 1 monstre \"Secours-AS\" depuis votre Deck à votre main, puis vous pouvez l'Invoquer Spécialement si uniquement votre adversaire contrôle un monstre, et aussi, vous ne pouvez pas Invoquer Spécialement (monstres FEU exclus) depuis l'Extra Deck le reste de ce tour.\r\nVous ne pouvez utiliser chaque effet de \"Attaque-Rapide des Secours-AS\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet] Guerrier/Feu  [★3] 1400/1400",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303023.jpg?version=15.13"
+  },
+  {
+    "name": "Arbitre des Secours-AS",
+    "desc": "2+ monstres FEU\r\nVous ne pouvez Invoquer Spécialement un ou plusieurs \"Arbitre des Secours-AS\" qu'une fois par tour.\r\nSi cette carte est Invoquée par Lien : vous pouvez ajouter 1 \"Hydrant des Secours-AS\" ou \"QG des Secours-AS\" depuis votre Deck ou Cimetière à votre main.\r\nSi vous activez une Carte Magie Jeu-Rapide/Carte Piège Normal \"Secours-AS\" : vous pouvez cibler 1 carte contrôlée par votre adversaire ; détruisez-la. Vous pouvez utiliser cet effet de \"Arbitre des Secours-AS\" max. deux fois par tour.",
+    "overallString": "[Monstre|Effet|Lien] Machine/Feu  [LINK-4] 3000/-  [←][→][↙][↘]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303051.jpg?version=15.13"
+  },
+  {
+    "name": "Exosœur Karmael",
+    "desc": "2 monstres \"Exosœur\" de Niveau 4\r\nSi cette carte est Invoquée par Xyz : vous pouvez activer cet effet ; durant la End Phase de ce tour, Posez 1 Magie/Piège \"Exosœur\" depuis votre Deck, Cimetière, ou bannissement.\r\nLorsque votre adversaire active un effet de monstre ou une Carte Magie/Piège Normal (Effet Rapide) : vous pouvez détacher tous les Matériels de cette carte, et si vous le faites, l'effet activé devient \"Ajoutez 1 carte depuis le Cimetière de votre adversaire à sa main\".\r\nVous ne pouvez utiliser chaque effet de \"Exosœur Karmael\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet|Xyz] Elfe/Ténébres  [☆4] 2600/1800",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303044.jpg?version=15.13"
+  },
+  {
+    "name": "Exosœur Bat Mater",
+    "desc": "Lorsque cette carte est activée : ajoutez 2 monstres \"Exosœur\" depuis votre Deck à votre main, puis défaussez 1 carte.\r\nVous pouvez cibler 1 monstre face recto que vous contrôlez ; immédiatement après la résolution de cet effet, Invoquez Normalement 1 monstre \"Exosœur\" qui est mentionné sur le monstre.\r\nSi un ou plusieurs monstres sont envoyés au Cimetière de votre adversaire, même durant la Damage Step : vous pouvez faire bannir à votre adversaire 1 d'entre eux.\r\nVous ne pouvez utiliser chaque effet de \"Exosœur Bat Mater\" qu'une fois par tour.",
+    "overallString": "[Magie|Continu]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303066.jpg?version=15.13"
+  },
+  {
+    "name": "Non Finito Artmage",
+    "desc": "2 monstres \"Artmage\"\r\nUniquement soit Invocable par Fusion soit Invocable Spécialement (depuis votre Extra Deck) en défaussant 1 Magie/Piège et en Sacrifiant 1 monstre \"Artmage\" de min. Niveau 7 depuis votre main ou Terrain. Vous ne pouvez Invoquer Spécialement \"Non Finito Artmage\" qu'une fois par tour de cette façon, peu importe la méthode que vous utilisez.\r\nSi cette carte est Invoquée Spécialement : vous pouvez Poser 1 Magie/Piège \"Artmage\" depuis votre Deck.\r\nUne fois par tour de l'adversaire (Effet Rapide) : vous pouvez Invoquer par Fusion 1 Monstre Fusion depuis votre Extra Deck, en utilisant des monstres que vous contrôlez.",
+    "overallString": "[Monstre|Effet|Fusion] Illusion/Terre  [★7] 2400/1500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303035.jpg?version=15.13"
+  },
+  {
+    "name": "Sheena les Divinités de la Tempête Jumelles du Tonnerre Divin",
+    "desc": "Lorsque votre adversaire active une carte ou un effet tant que vous contrôlez un monstre VENT (Effet Rapide) : vous pouvez Invoquer Spécialement cette carte depuis votre main, puis appliquez cet effet selon le type de l'effet de carte.\r\n● Monstre : Renvoyez tous les monstres face recto sur le Terrain à la main (\"Sheena les Divinités de la Tempête Jumelles du Tonnerre Divin\" exclu).\r\n● Magie/Piège : Renvoyez toutes les Magies et tous les Pièges sur le Terrain à la main.\r\nVous ne pouvez utiliser cet effet de \"Sheena les Divinités de la Tempête Jumelles du Tonnerre Divin\" qu'une fois par tour.\r\nLa première fois que cette carte va être détruite au combat chaque tour, elle n'est pas détruite.",
+    "overallString": "[Monstre|Effet] Dragon/Vent  [★9] 2900/1500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303027.jpg?version=15.13"
+  },
+  {
+    "name": "Tellusrion, le Guerrier Magnétique",
+    "desc": "Ni Invocable Normalement ni Posable Normalement.\r\nUniquement Invocable Spécialement (depuis votre Cimetière) en bannissant 1 \"Guerrier Magnétique Σ+\" et 1 \"Guerrier Magnétique Σ-\" depuis votre main, Terrain face recto, et/ou Cimetière.\r\nUne fois par tour, lorsque votre adversaire active une carte ou un effet (Effet Rapide) : vous pouvez cibler 1 monstre contrôlé par votre adversaire ; détruisez-le, ou si vous avez ciblé un monstre TERRE à l'activation, vous pouvez en prendre le contrôle à la place.\r\nDurant le tour de votre adversaire (Effet Rapide) : vous pouvez Sacrifier cette carte ; Invoquez Spécialement 2 de vos monstres \"Guerrier Magnétique Σ\" bannis.",
+    "overallString": "[Monstre|Effet|Invocation Spéciale] Rocher/Terre  [★8] 2500/2500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303004.jpg?version=15.13"
+  },
+  {
+    "name": "Guerrier Magnétique Σ+",
+    "desc": "Tant que vous contrôlez un monstre TERRE, les monstres de votre adversaire qui peuvent attaquer doivent attaquer les monstres TERRE.\r\nTant que votre adversaire contrôle un monstre TERRE, vous choisissez les cibles des attaques de votre adversaire.\r\nSi cette carte est envoyée au Cimetière : vous pouvez cibler 1 monstre \"Guerrier Magnétique\" de max. Niveau 4 dans votre Cimetière (\"Guerrier Magnétique Σ+\" exclu) ; ajoutez-le à votre main ou Invoquez-le Spécialement. Vous ne pouvez utiliser cet effet de \"Guerrier Magnétique Σ+\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet] Rocher/Terre  [★4] 1800/1500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303005.jpg?version=15.13"
+  },
+  {
+    "name": "Guerrier Magnétique Σ-",
+    "desc": "Une fois par tour, lorsqu'une attaque impliquant 2 monstres TERRE est déclarée : vous pouvez annuler l'attaque.\r\nVous ne pouvez utiliser chacun des effets suivants de \"Guerrier Magnétique Σ-\" qu'une fois par tour.\r\nVous pouvez révéler cette carte dans votre main ; Invoquez par Fusion 1 Monstre Fusion depuis votre Extra Deck, en utilisant des monstres Rocher depuis votre main ou Terrain (cette carte dans votre main incluse).\r\nSi cette carte est Invoquée Normalement ou Spécialement : vous pouvez envoyer 1 monstre \"Guerrier Magnétique\" de Niveau 8 depuis votre Deck au Cimetière.",
+    "overallString": "[Monstre|Effet] Rocher/Terre  [★4] 1500/1800",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303006.jpg?version=15.13"
+  },
+  {
+    "name": "Vic Viper Type-L",
+    "desc": "Au début de votre Battle Phase : vous pouvez activer 1 de ces effets ;\r\n● Invoquez Spécialement 1 monstre Machine depuis votre main.\r\n● Envoyez 1 monstre LUMIÈRE Machine de max. Niveau 4 depuis votre Deck au Cimetière.\r\nSi cette carte est détruite : vous pouvez cibler 1 monstre LUMIÈRE Machine dans votre Cimetière ; Invoquez-le Spécialement, et si son ATK d'origine est de max. 1200, il gagne 1200 ATK.\r\nVous ne pouvez utiliser chaque effet de \"Vic Viper Type-L\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet] Machine/Lumiére  [★4] 1200/800",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303020.jpg?version=15.13"
+  },
+  {
+    "name": "B.E.S. Vaisseau Dellinger",
+    "desc": "Vous pouvez révéler 1 autre monstre \"B.E.S.\" dans votre main ; Invoquez Spécialement cette carte depuis votre main, puis placez 3 Compteurs sur elle.\r\nDurant la Main Phase (Effet Rapide) : vous pouvez retirer 1 Compteur de cette carte, puis activez 1 de ces effets ;\r\n● Ajoutez 1 \"Campagne de Recrutement\" ou 1 Magie/Piège qui la mentionne depuis votre Deck à votre main.\r\n● Invoquez Spécialement 1 monstre \"B.E.S.\" de max. Niveau 9 depuis votre Cimetière.\r\nVous ne pouvez utiliser chaque effet de \"B.E.S. Vaisseau Dellinger\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet] Machine/Lumiére  [★10] 1900/3000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303021.jpg?version=15.13"
+  },
+  {
+    "name": "Super B.E.S. Esclave Métallique",
+    "desc": "Vous pouvez envoyer max. 5 \"B.E.S.\" de max. Niveau 10 de noms différents depuis votre main et/ou Deck au Cimetière ; Invoquez Spécialement cette carte depuis votre main, puis placez un nombre de Compteurs sur elle égal au nombre de cartes envoyées au Cimetière pour activer cet effet. Vous ne pouvez utiliser cet effet de \"Super B.E.S. Esclave Métallique\" qu'une fois par tour.\r\nUne fois par Chaîne (Effet Rapide) : vous pouvez retirer 1 Compteur de cette carte, puis ciblez 2 cartes face recto sur le Terrain (un monstre \"B.E.S.\" que vous contrôlez inclus) ; détruisez-les.",
+    "overallString": "[Monstre|Effet] Machine/Ténébres  [★11] 3100/3100",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303022.jpg?version=15.13"
+  },
+  {
+    "name": "Kitt Springans Tri-Brigade",
+    "desc": "Si vous contrôlez un monstre \"Tri-Brigade\" ou \"Springans\" autre que \"Kitt Springans Tri-Brigade\" : vous pouvez Invoquer Spécialement cette carte depuis votre main.\r\nSi cette carte est envoyée au Cimetière : vous pouvez Invoquer Spécialement 1 des monstres suivants depuis votre Cimetière (\"Kitt Springans Tri-Brigade\" exclu).\r\n● Monstre \"Tri-Brigade\"\r\n● Monstre \"Springans\"\r\n● \"Albaz le Déchu\" ou un monstre qui le mentionne\r\nVous ne pouvez utiliser chaque effets de \"Kitt Springans Tri-Brigade\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet] Bête/Lumiére  [★4] 1700/1000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303025.jpg?version=15.13"
+  },
+  {
+    "name": "Chevalier Conducteur Plasma Magnum",
+    "desc": "2 monstres TERRE Rocher\r\nTous les monstres face recto sur le Terrain deviennent TERRE.\r\nVous ne pouvez utiliser chacun des effets suivants de \"Chevalier Conducteur Plasma Magnum\" qu'une fois par tour.\r\nSi cette carte est Invoquée par Fusion : vous pouvez ajouter 1 Magie Normale, Jeu-Rapide, ou de Terrain \"Magnétique\" depuis votre Deck à votre main.\r\nVous pouvez envoyer 1 monstre \"Guerrier Magnétique\" de Niveau 8 depuis votre Deck au Cimetière ; immédiatement après la résolution de cet effet, Invoquez Normalement 1 monstre \"Guerrier Magnétique\" de max. Niveau 4.",
+    "overallString": "[Monstre|Effet|Fusion] Rocher/Terre  [★7] 2300/2800",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303034.jpg?version=15.13"
+  },
+  {
+    "name": "Gung-ho ! Springans !",
+    "desc": "2+ monstres \"Springans\" de Niveau 4\r\nSi cette carte est Invoquée par Xyz ou envoyée au Cimetière : vous pouvez Invoquer Spécialement 1 \"Capitaine Sargas Springans\" depuis votre Deck ou Cimetière.\r\nVous pouvez détacher 2 Matériels de cette carte ; ajoutez à votre main, ou Invoquez Spécialement, 1 des monstres suivants depuis votre Deck.\r\n● Monstre \"Springans\"\r\n● Monstre \"Therion\"\r\n● \"Albaz le Déchu\" ou un monstre qui le mentionne\r\nVous ne pouvez utiliser qu'1 effet de \"Gung-ho ! Springans !\" par tour, et uniquement une fois le tour.",
+    "overallString": "[Monstre|Effet|Xyz] Machine/Feu  [☆4] 2500/1600",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303045.jpg?version=15.13"
+  },
+  {
+    "name": "Dragon Blaster Topologique",
+    "desc": "2+ Monstres à Effet\r\nVous ne pouvez ni Invoquer ni Poser de monstres dans les Zones Monstre Extra pointées par cette carte.\r\nSi un ou plusieurs monstres sont Invoqués Spécialement dans une zone pointée par un Monstre Lien, tant que cette carte est dans la Zone Monstre Extra : appliquez 1 de ces effets, mais vous ne pouvez pas appliquer le même effet de \"Dragon Blaster Topologique\" de nouveau ce tour.\r\n● Mélangez tous les autres monstres sur le Terrain dans le Deck.\r\n● Mélangez toutes les Magies et tous les Pièges sur le Terrain dans le Deck.\r\n● Regardez l'Extra Deck de votre adversaire et bannissez-en 1 carte.",
+    "overallString": "[Monstre|Effet|Lien] Cyberse/Ténébres  [LINK-5] 3500/-  [↖][↑][↗][↙][↘]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303046.jpg?version=15.13"
+  },
+  {
+    "name": "Liaison Magnétique",
+    "desc": "Durant la Main Phase : activez 1 de ces effets (mais vous ne pouvez utiliser chaque effet de \"Liaison Magnétique\" qu'une fois par tour) ;\r\n● Ajoutez 1 \"Guerrier Conducteur Linéaire Magnum ±\" ou 1 monstre \"Guerrier Magnétique\" de max. Niveau 4 depuis votre Deck à votre main.\r\n● Ajoutez 1 monstre \"Guerrier Magnétique\" de Niveau 8 depuis votre Deck à votre main.\r\n● Invoquez par Fusion 1 Monstre Fusion Rocher depuis votre Extra Deck, en mélangeant des monstres Rocher depuis votre main, Terrain, Cimetière, et/ou bannissement dans le Deck.",
+    "overallString": "[Magie|Jeu-Rapide]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303053.jpg?version=15.13"
+  },
+  {
+    "name": "Parade de Recrutement",
+    "desc": "Lorsque cette carte est activée : ajoutez 1 monstre \"B.E.S.\" depuis votre Deck à votre main.\r\nUne fois par tour : vous pouvez détruire 1 monstre dans votre main ou Terrain, et si vous le faites, Invoquez Spécialement 1 monstre LUMIÈRE Machine avec 1200 ATK et max. 1000 DEF depuis votre Deck sur l'un des Terrains.\r\nVous pouvez bannir cette carte depuis votre Cimetière ; placez 1 \"Campagne de Recrutement\" depuis votre Deck ou Cimetière face recto sur votre Terrain.\r\nVous ne pouvez activer qu'1 \"Parade de Recrutement\" par tour.",
+    "overallString": "[Magie|Continu]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303064.jpg?version=15.13"
+  },
+  {
+    "name": "Organisation de l'Arsenal",
+    "desc": "Envoyez max. 2 Magies d'Équipement de noms différents depuis votre Deck au Cimetière.\r\nVous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 monstre face recto que vous contrôlez ; équipez-le avec max. 2 Magies d'Équipement de noms différents depuis votre main et/ou Cimetière qui peuvent l'équiper, mais les dommages de combat qu'il inflige à votre adversaire sont divisés par deux tant qu'il est équipé avec l'une des Magies d'Équipement.\r\nVous ne pouvez utiliser qu'1 effet de \"Organisation de l'Arsenal\" par tour, et uniquement une fois le tour.",
+    "overallString": "[Piège]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303078.jpg?version=15.13"
+  },
+  {
     "name": "Maître de la Fin du Monde",
     "desc": "Vous pouvez Invoquer Rituellement cette carte avec une carte \"Fin du Monde\".\r\nLe nom de cette carte devient \"Peine, Roi de l'Armageddon\" tant qu'elle est dans la main ou Terrain.\r\nVous ne pouvez utiliser chacun des effets suivants de \"Maître de la Fin du Monde\" qu'une fois par tour.\r\nVous pouvez révéler cette carte dans votre main, payez 2000 LP, et bannissez 1 Magie Rituelle depuis votre Deck ; appliquez l'effet d'activation de la carte qui Invoque Rituellement un monstre.\r\nVous pouvez payer 2000 LP ; détruisez autant d'autres cartes sur le Terrain que possible, puis cette carte gagne 2900 ATK.",
     "overallString": "[Monstre|Effet|Rituel] Démon/Ténébres  [★10] 3000/2900",
