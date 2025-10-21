@@ -1,5 +1,17 @@
 [
   {
+    "name": "Atacante Veloz As-Rescate",
+    "desc": "Solo puedes usar los efectos ① y ② de \"Atacante Veloz As-Rescate\" una vez por turno.\r\n①: Puedes devolver al Deck 1 otra carta \"As-Rescate\" desde tu mano o Campo boca arriba: Invoca esta carta de Modo Especial desde tu mano.\r\n②: Puedes mandar esta carta del Campo al Cementerio: añade a tu mano 1 monstruo \"As-Rescate\" desde tu Deck, y después, si solo tu adversario controla un monstruo en el Campo, puedes Invocarlo de Modo Especial desde tu mano.\r\n▶ Solo puedes Invocar monstruos FUEGO de Modo Especial desde tu Deck Extra por el resto de este turno.",
+    "overallString": "[Monstruo|Efecto] Guerrero/FUEGO  [★3] 1400/1400",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303023.jpg?version=15.13"
+  },
+  {
+    "name": "Abitremolque As-Rescate",
+    "desc": "【Materiales】: 2+ monstruos FUEGO\r\nSolo puedes Invocar de Modo Especial 1 \"Abitremolque As-Rescate\" por turno, y usar el efecto ② de \"Abitremolque As-Rescate\" dos veces por turno.\r\n①: Si esta carta es Invocada por Enlace: puedes añadir a tu mano 1 \"Hidrante As-Rescate\" o \"CG AS-Rescate\" desde tu Deck o Cementerio.\r\n②: Si activas una Carta Mágica de Juego Rápido \"As-Rescate\" o Carta de Trampa Normal, puedes seleccionar 1 carta que controle tu adversario: destrúyela.",
+    "overallString": "[Monstruo|Efecto|Enlace] Máquina/FUEGO  [LINK-4] 3000/-  [←][→][↙][↘]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303051.jpg?version=15.13"
+  },
+  {
     "name": "Exormana Karmael",
     "desc": "【Materiales】: 2 monstruos \"Exormana\" de Nivel 4\r\nSolo puedes usar los efectos ① y ② de \"Exormana Karmael\" una vez por turno.\r\n①: Si esta carta es Invocada Xyz: puedes activar este efecto; durante la End Phase de este turno, Coloca 1 Mágica/Trampa \"Exormana\" desde tu Deck, Cementerio o destierro.\r\n②: Cuando tu adversario activa una Carta Mágica/Trampa Normal o un efecto de monstruo (Efecto Rápido): puedes desacoplar todos los materiales de esta carta, y si lo haces, ese efecto se convierte en \"Añade a su mano 1 carta del Cementerio de tu adversario\".",
     "overallString": "[Monstruo|Efecto|Xyz] Hada/OSCURIDAD  [☆4] 2600/1800",
@@ -10,6 +22,18 @@
     "desc": "Solo puedes usar los efectos ①, ② y ③ de \"Exormana Bat Mater\" una vez por turno.\r\n①: Cuando esta carta se resuelve: añade a tu mano 2 monstruos \"Exormana\" desde tu Deck, y después descarta 1 carta.\r\n②: Puedes seleccionar 1 monstruo boca arriba que controles; inmediatamente después de que este efecto se resuelva, Invoca por Sacrificio 1 monstruo \"Exormana\" mencionado en él.\r\n③: Si un monstruo(s) es mandado al Cementerio de tu adversario (aun durante el Damage Step): puedes hacer que tu adversario destierre 1 de ellos.",
     "overallString": "[Mágica|Continua]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303066.jpg?version=15.13"
+  },
+  {
+    "name": "Artmagia Non Finito",
+    "desc": "【Materiales】: 2 monstruos \"Artmagia\"\r\nDebe ser Invocado por Fusión, o Invocado de Modo Especial (desde tu Deck Extra) descartando 1 Mágica/Trampa y Sacrificando 1 monstruo \"Artmagia\" de Nivel 7 o mayor desde tu mano o Campo.\r\n▶ Solo puedes Invocar de Modo Especial \"Artmagia Non Finito\" una vez por turno de esta forma, sin importar qué método uses.\r\n\r\n①: Si esta carta es Invocada de Modo Especial: puedes Colocar 1 Mágica/Trampa \"Artmagia\" desde tu Deck.\r\n②: Una vez por turno del adversario (Efecto Rápido): puedes Invocar por Fusión 1 Monstruo de Fusión desde tu Deck Extra usando monstruos que controles.",
+    "overallString": "[Monstruo|Efecto|Fusión] Ilusión/TIERRA  [★7] 2400/1500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303035.jpg?version=15.13"
+  },
+  {
+    "name": "Sheena, las Deidades Gemelas de la Tormenta del Trueno Divino",
+    "desc": "Solo puedes usar el efecto ① de \"Sheena, las Deidades Gemelas de la Tormenta del Trueno Divino\" una vez por turno.\r\n①: Cuando tu adversario activa una carta o efecto mientras controlas un monstruo VIENTO (Efecto Rápido): puedes Invocar esta carta de Modo Especial desde tu mano, y después aplica este efecto basado en el tipo de efecto de carta.\r\n● Monstruo: Devuelve a la mano todos los monstruos boca arriba en el Campo, excepto \"Sheena, las Deidades Gemelas de la Tormenta del Trueno Divino\".\r\n● Mágica/Trampa: Devuelve a la mano todas las Mágicas y Trampas en el Campo.\r\n②: La primera vez que esta carta fuera a ser destruida en batalla cada turno, no es destruida.",
+    "overallString": "[Monstruo|Efecto] Dragón/VIENTO  [★9] 2900/1500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303027.jpg?version=15.13"
   },
   {
     "name": "Tellusrion el Guerrero Magno",
@@ -307,7 +331,7 @@
   },
   {
     "name": "El Caído y la Virtuosa",
-    "desc": "(Esta carta siempre se trata como una carta \"Branded\" y \"Dogmátik\").\r\nSolo puedes activar 1 \"El Caído y la Virtuosa\" por turno.\r\n\r\n①: Activa 1 de estos efectos;\r\n● Manda al Cementerio 1 monstruo que mencione \"Caído de Albaz\" desde tu Deck Extra, luego selecciona 1 carta boca arriba en el Campo; destrúyela.\r\n● Si tienes un monstruo \"Ecclesia\" en tu Campo o Cementerio: selecciona 1 monstruo en cualquier Cementerio; Invócalo de Modo Especial a tu Campo.",
+    "desc": "(Esta carta siempre se trata como una carta \"Señalado/a\" y \"Dogmátik\").\r\nSolo puedes activar 1 \"El Caído y la Virtuosa\" por turno.\r\n\r\n①: Activa 1 de estos efectos;\r\n● Manda al Cementerio 1 monstruo que mencione \"Caído de Albaz\" desde tu Deck Extra, luego selecciona 1 carta boca arriba en el Campo; destrúyela.\r\n● Si tienes un monstruo \"Ecclesia\" en tu Campo o Cementerio: selecciona 1 monstruo en cualquier Cementerio; Invócalo de Modo Especial a tu Campo.",
     "overallString": "[Mágica|Juego Rápido]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100248019.jpg?version=15.13"
   },
@@ -367,7 +391,7 @@
   },
   {
     "name": "Señoroscuro Jehuty",
-    "desc": "Solo puedes usar cada uno de los efectos ① y ② de \"Señoroscuro Jehuty\" una vez por turno.\r\n①: Si esta carta es Invocada de Modo Normal o Especial: puedes Invocar de Modo Especial 1 monstruo \"Señoroscuro\" desde tu Deck en Posición de Defensa, excepto \"Señoroscuro Jehuty\", pero por el resto de este turno, después de que este efecto se resuelva, no puedes Invocar de Modo Especial, excepto monstruos Hada.\r\n②: Si controlas un Monstruo de Fusión Hada de OSCURIDAD: puedes desterrar esta carta en tu Cementerio, luego seleccionar 1 carta \"Señoroscuro\" o 1 Mágica de Juego Rápido \"Prohibidao/a\" en tu Cementerio; añádela a tu mano.",
+    "desc": "Solo puedes usar cada uno de los efectos ① y ② de \"Señoroscuro Jehuty\" una vez por turno.\r\n①: Si esta carta es Invocada de Modo Normal o Especial: puedes Invocar de Modo Especial 1 monstruo \"Señoroscuro\" desde tu Deck en Posición de Defensa, excepto \"Señoroscuro Jehuty\", pero por el resto de este turno, después de que este efecto se resuelva, no puedes Invocar de Modo Especial, excepto monstruos Hada.\r\n②: Si controlas un Monstruo de Fusión Hada de OSCURIDAD: puedes desterrar esta carta en tu Cementerio, luego seleccionar 1 carta \"Señoroscuro\" o 1 Mágica de Juego Rápido \"Prohibido/a\" en tu Cementerio; añádela a tu mano.",
     "overallString": "[Monstruo|Efecto] Hada/OSCURIDAD  [★4] 0/0",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303019.jpg?version=15.13"
   },
