@@ -1,504 +1,223 @@
 [
   {
-<<<<<<< Updated upstream
     "name": "Arsenal-Organisation",
     "desc": "Lege bis zu 2 Ausrüstungszauber mit unterschiedlichen Namen von deinem Deck auf den Friedhof.\r\nDu kannst diese Karte von deinem Friedhof verbannen und dann 1 offenes Monster wählen, das du kontrollierst; rüste es mit bis zu 2 Ausrüstungszauber mit unterschiedlichen Namen von deiner Hand und/oder deinem Friedhof aus mit denen es ausgerüstet werden kann, aber aller Kampfschaden, den es deinem Gegner zufügt, wird halbiert, solange es mit einer der Ausrüstungskarten ausrüstet ist.\r\nDu kannst nur 1 Effekt von „Arsenal-Organisation“ pro Spielzug verwenden und in dem Spielzug nur einmal.",
-=======
-    "name": "救祓少女·卡尔麦勒",
-    "desc": "4星「救祓少女」怪兽×2\r\n这个卡名的①②的效果1回合各能使用1次。\r\n①：这张卡超量召唤的场合才能发动。这个回合的结束阶段，自己卡组·墓地·除外状态的1张「救祓少女」魔法·陷阱卡在自己场上盖放。\r\n②：对方把怪兽的效果·通常魔法·通常陷阱卡发动时才能发动。这张卡的超量素材全部取除，那个效果变成「从对方墓地让1张卡加入对方手卡」。",
-    "overallString": "[Monster|Effekt|Xyz] Fee/Finsternis  [☆4] 2600/1800",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303044.jpg?version=15.13"
-  },
-  {
-    "name": "救祓少女七曜悼歌",
-    "desc": "这个卡名的①②③的效果1回合各能使用1次。\r\n①：作为这张卡发动时的效果处理，以下效果适用。\r\n●从卡组把2只「救祓少女」怪兽加入手卡。那之后，选自己1张手卡丢弃。\r\n②：以自己场上1只表侧表示怪兽为对象才能发动。进行那只怪兽有卡名记述的1只「救祓少女」怪兽的召唤。\r\n③：怪兽被送去对方墓地的场合才能发动（伤害步骤也能发动）。对方把那之内1只除外。",
-    "overallString": "[Zauber|Permanente]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303066.jpg?version=15.13"
-  },
-  {
-    "name": "神艺智慧的少女",
-    "desc": "「神艺」怪兽×2\r\n「神艺智慧的少女」1回合1次，用融合召唤以及以下方法才能特殊召唤。\r\n●把手卡1张魔法·陷阱卡丢弃，并把自己手卡·场上的1只7星以上的「神艺」怪兽解放的场合可以从额外卡组特殊召唤。\r\n①：这张卡特殊召唤的场合才能发动。从卡组把1张「神艺」魔法·陷阱卡在自己场上盖放。\r\n②：对方回合1次，可以发动。自己场上的怪兽作为融合素材，把1只融合怪兽融合召唤。",
-    "overallString": "[Monster|Effekt|Fusion] Illusion/Erde  [★7] 2400/1500",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303035.jpg?version=15.13"
-  },
-  {
-    "name": "天雷之双风神 震旦",
-    "desc": "这个卡名的①的效果1回合只能使用1次。\r\n①：自己场上有风属性怪兽存在，对方把魔法·陷阱·怪兽的效果发动时才能发动。这张卡从手卡特殊召唤。那之后，根据那个对方的效果的种类把以下效果适用。\r\n●怪兽：「天雷之双风神 震旦」以外的场上的表侧表示怪兽全部回到手卡。\r\n●魔法·陷阱：场上的魔法·陷阱卡全部回到手卡。\r\n②：这张卡1回合只有1次不会被战斗破坏。",
-    "overallString": "[Monster|Effekt] Drache/Wind  [★9] 2900/1500",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303027.jpg?version=15.13"
-  },
-  {
-    "name": "磁石战士 电磁地神",
-    "desc": "这张卡不能通常召唤。把自己手卡·场上（表侧表示）·墓地的「磁石战士Σ+」「磁石战士Σ-」各1只除外的场合才能从墓地特殊召唤。\r\n①：1回合1次，对方把效果发动时，以对方场上1只怪兽为对象才能发动。那只怪兽破坏。以地属性怪兽为对象来发动的场合，可以作为代替得到那只怪兽的控制权。\r\n②：对方回合，把这张卡解放才能发动。自己除外状态的2只「磁石战士Σ」怪兽特殊召唤。",
-    "overallString": "[Monster|Effekt|Spezialbeschwörung] Fels/Erde  [★8] 2500/2500",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303004.jpg?version=15.13"
-  },
-  {
-    "name": "磁石战士Σ+",
-    "desc": "这个卡名的③的效果1回合只能使用1次。\r\n①：只要自己场上有地属性怪兽存在，可以攻击的对方怪兽必须向地属性怪兽攻击。\r\n②：只要对方场上有地属性怪兽存在，对方选择自身怪兽的攻击对象之际，那个攻击对象由自己选择。\r\n③：这张卡被送去墓地的场合，以除「磁石战士Σ+」外的，自己墓地1只4星以下的「磁石战士」怪兽为对象才能发动。那只怪兽加入手卡或者特殊召唤。",
-    "overallString": "[Monster|Effekt] Fels/Erde  [★4] 1800/1500",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303005.jpg?version=15.13"
-  },
-  {
-    "name": "磁石战士Σ-",
-    "desc": "这个卡名的①②的效果1回合各能使用1次。\r\n①：把手卡的这张卡给对方出示才能发动。包含手卡的这张卡的自己手卡·场上的岩石族怪兽作为融合素材，把1只融合怪兽融合召唤。\r\n②：这张卡召唤·特殊召唤的场合才能发动。从卡组把1只8星「磁石战士」怪兽送去墓地。\r\n③：1回合1次，双方的地属性怪兽之间进行战斗攻击宣言时才能发动。那次攻击无效。",
-    "overallString": "[Monster|Effekt] Fels/Erde  [★4] 1500/1800",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303006.jpg?version=15.13"
-  },
-  {
-    "name": "胜利蛇 Type-L",
-    "desc": "这个卡名的①②的效果1回合各能使用1次。\r\n①：自己战斗阶段开始时，可以从以下效果选择1个发动。\r\n●从手卡把1只机械族怪兽特殊召唤。\r\n●从卡组把1只4星以下的机械族·光属性怪兽送去墓地。\r\n②：这张卡被破坏的场合，以自己墓地的1只机械族·光属性怪兽为对象才能发动。那只怪兽特殊召唤。这个效果把原本攻击力在1200以下的怪兽特殊召唤的场合，那个攻击力上升1200。",
-    "overallString": "[Monster|Effekt] Maschine/Licht  [★4] 1200/800",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303020.jpg?version=15.13"
-  },
-  {
-    "name": "巨大战舰 德林加核",
-    "desc": "这个卡名的①②的效果1回合各能使用1次。\r\n①：把手卡1只其他「巨大战舰」怪兽给对方出示才能发动。这张卡从手卡特殊召唤。那之后，给这张卡放置3个指示物。\r\n②：自己·对方的主要阶段，可以把这张卡1个指示物取除，从以下效果选择1个发动。\r\n●从卡组把1张「头目连战」或者有那个卡名记述的魔法·陷阱卡加入手卡。\r\n●从自己墓地把1只9星以下的「巨大战舰」怪兽特殊召唤。",
-    "overallString": "[Monster|Effekt] Maschine/Licht  [★10] 1900/3000",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303021.jpg?version=15.13"
-  },
-  {
-    "name": "超巨大战舰 金属之仆",
-    "desc": "这个卡名的①的效果1回合只能使用1次。\r\n①：从手卡·卡组把10星以下的「巨大战舰」怪兽最多5只送去墓地（同名卡最多1张）才能发动。这张卡从手卡特殊召唤。那之后，以为让这个效果发动而送去墓地的数量给这张卡放置指示物。\r\n②：自己·对方回合，把这张卡1个指示物取除，以包含自己场上的「巨大战舰」怪兽的场上2张表侧表示卡为对象才能发动（同一连锁上最多1次）。那些卡破坏。",
-    "overallString": "[Monster|Effekt] Maschine/Finsternis  [★11] 3100/3100",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303022.jpg?version=15.13"
-  },
-  {
-    "name": "铁兽的炎工 姬特",
-    "desc": "这个卡名的①②的效果1回合各能使用1次。\r\n①：自己场上有「铁兽的炎工 姬特」以外的，「铁兽」怪兽或「护宝炮妖」怪兽存在的场合才能发动。这张卡从手卡特殊召唤。\r\n②：这张卡被送去墓地的场合才能发动。从自己墓地把除「铁兽的炎工 姬特」外的，以下怪兽之内1只守备表示特殊召唤。\r\n●「铁兽」怪兽\r\n●「护宝炮妖」怪兽\r\n●「阿不思的落胤」或者有那个卡名记述的怪兽",
-    "overallString": "[Monster|Effekt] Ungeheuer/Licht  [★4] 1700/1000",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303025.jpg?version=15.13"
-  },
-  {
-    "name": "超电导战骑 等离子磁炮王",
-    "desc": "岩石族·地属性怪兽×2\r\n这个卡名的①③的效果1回合各能使用1次。\r\n①：这张卡融合召唤的场合才能发动。从卡组把1张「磁石」通常·速攻·场地魔法卡加入手卡。\r\n②：只要这张卡在怪兽区域存在，场上的表侧表示怪兽变成地属性。\r\n③：从卡组把1只8星「磁石战士」怪兽送去墓地才能发动。进行1只4星以下的「磁石战士」怪兽的召唤。",
-    "overallString": "[Monster|Effekt|Fusion] Fels/Erde  [★7] 2300/2800",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303034.jpg?version=15.13"
-  },
-  {
-    "name": "全工联合！护宝炮妖！",
-    "desc": "4星「护宝炮妖」怪兽×2只以上\r\n这个卡名的①②的效果1回合只能有1次使用其中任意1个。\r\n①：这张卡超量召唤的场合或者被送去墓地的场合才能发动。从自己的卡组·墓地把1只「护宝炮妖船长 尾宿五」特殊召唤。\r\n②：把这张卡2个超量素材取除才能发动。从卡组选以下怪兽之内1只，加入手卡或特殊召唤。\r\n●「护宝炮妖」怪兽\r\n●「兽带斗神」怪兽\r\n●「阿不思的落胤」或者有那个卡名记述的怪兽",
-    "overallString": "[Monster|Effekt|Xyz] Maschine/Feuer  [☆4] 2500/1600",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303045.jpg?version=15.13"
-  },
-  {
-    "name": "拓扑逻辑冲击龙",
-    "desc": "效果怪兽2只以上\r\n自己不能在作为这张卡所连接区的额外怪兽区域让怪兽出现。\r\n①：这张卡在额外怪兽区域存在的状态，连接怪兽所连接区有怪兽特殊召唤的场合发动。从以下效果选1个适用。这个回合，自己的「拓扑逻辑冲击龙」的效果不能把相同效果适用。\r\n●这张卡以外的场上的怪兽全部回到卡组。\r\n●场上的魔法·陷阱卡全部回到卡组。\r\n●把对方额外卡组确认，把那之内1张除外。",
-    "overallString": "[Monster|Effekt|Link] Cyberse/Finsternis  [LINK-5] 3500/-  [↖][↑][↗][↙][↘]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303046.jpg?version=15.13"
-  },
-  {
-    "name": "磁石电化学结合",
-    "desc": "①：自己·对方的主要阶段，可以从以下效果选择1个发动（这个卡名的以下效果1回合各能选择1次）。\r\n●从卡组把1只「超电导战士 线性磁炮王±」或者4星以下的「磁石战士」怪兽加入手卡。\r\n●从卡组把1只8星「磁石战士」怪兽加入手卡。\r\n●自己手卡·场上·墓地·除外状态的岩石族怪兽作为融合素材回到卡组，把1只岩石族融合怪兽融合召唤。",
-    "overallString": "[Zauber|Schnell]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303053.jpg?version=15.13"
-  },
-  {
-    "name": "头目集结",
-    "desc": "这个卡名的卡在1回合只能发动1张。\r\n①：作为这张卡发动时的效果处理，从卡组把1只「巨大战舰」怪兽加入手卡。\r\n②：1回合1次，自己主要阶段才能发动。自己手卡·场上1只怪兽破坏，从卡组把1只攻击力1200而守备力1000以下的机械族·光属性怪兽在自己或对方场上特殊召唤。\r\n③：把墓地的这张卡除外才能发动。从自己的卡组·墓地把1张「头目连战」在自己场上以表侧表示放置。",
-    "overallString": "[Zauber|Permanente]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303064.jpg?version=15.13"
-  },
-  {
-    "name": "武器库整理",
-    "desc": "这个卡名的①②的效果1回合只能有1次使用其中任意1个。\r\n①：从卡组把最多2张装备魔法卡送去墓地（同名卡最多1张）。\r\n②：把墓地的这张卡除外，以自己场上的1只表侧表示怪兽为对象才能发动。从自己的手卡·墓地把那只怪兽可以装备的最多2张装备魔法卡给那只怪兽装备（同名卡最多1张）。只要这个效果装备的装备魔法卡存在，那只怪兽给与对方的战斗伤害变成一半。",
->>>>>>> Stashed changes
     "overallString": "[Falle]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303078.jpg?version=15.13"
   },
   {
-<<<<<<< Updated upstream
     "name": "Ende der Welt Herrscher",
     "desc": "Du kannst diese Karte mit jeder „Ende der Welt“-Karte als Ritualbeschwörung beschwören.\r\nDer Name dieser Karte wird zu „Demise, König des Jüngsten Tages“, solange sie sich in der Hand oder auf dem Spielfeld befindet.\r\nDu kannst jeden der folgenden Effekte von „Ende der Welt Herrscher“ nur einmal pro Spielzug verwenden.\r\nDu kannst diese Karte in deiner Hand vorzeigen, zahle 2000 LP, und verbanne 1 Ritualzauber von deinem Deck; führe den Aktivierungseffekt jener Karte aus, der ein Monster als Ritualbeschwörung beschwört.\r\nDu kannst 2000 LP zahlen; zerstöre so viele andere Karten auf dem Spielfeld wie möglich, dann erhält diese Karte 2900 ATK.",
-=======
-    "name": "破坏与终焉的支配者",
-    "desc": "「世界末日」卡降临。\r\n这个卡名的②③的效果1回合各能使用1次。\r\n①：这张卡的卡名，只要在手卡·场上存在当作「终焉之王 迪米斯」使用。\r\n②：把手卡的这张卡给对方出示，支付2000基本分，从卡组把1张仪式魔法卡除外才能发动。那张仪式魔法卡发动时的仪式召唤效果适用。\r\n③：支付2000基本分才能发动。场上的其他卡全部破坏。那之后，这张卡的攻击力上升2900。",
->>>>>>> Stashed changes
     "overallString": "[Monster|Effekt|Ritual] Unterweltler/Finsternis  [★10] 3000/2900",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100251001.jpg?version=15.13"
   },
   {
-<<<<<<< Updated upstream
     "name": "Albtraumäugiges Opfer",
     "desc": "2 Monster mit unterschiedlichen Typen (Unterweltler, Illusion oder Hexer)\r\nFalls diese Karte als Spezialbeschwörung beschworen wird, oder am Ende der Battle Phase, falls diese Karte gekämpft hat: Du kannst diese Karte mit 1 Monster, das dein Gegner kontrolliert, als Ausrüstungszauber ausrüsten.\r\nDu kannst diesen Effekt von „Albtraumäugiges Opfer“ nur einmal pro Spielzug verwenden.\r\nErhält ATK in Höhe der Summe der ATK der ausrüstenden Monster.\r\nFalls diese Karte gegen ein Monster kämpft, können beide durch jenen Kampf nicht zerstört werden.\r\nMonster deines Gegners können keine Monster angreifen, außer diesem.",
-=======
-    "name": "幻惑眼纳祭神",
-    "desc": "种族不同的恶魔族·幻想魔族·魔法师族怪兽×2\r\n这个卡名的①的效果1回合只能使用1次。\r\n①：这张卡特殊召唤的场合，或者这张卡进行过战斗的战斗阶段结束时才能发动。对方场上1只怪兽当作装备魔法卡使用给这张卡装备。\r\n②：这张卡的攻击力上升这张卡的效果装备中的怪兽的攻击力数值。\r\n③：这张卡和怪兽进行战斗的场合，那2只不会被那次战斗破坏。\r\n④：对方怪兽不能向其他怪兽攻击。",
->>>>>>> Stashed changes
     "overallString": "[Monster|Effekt|Fusion] Illusion/Finsternis  [★1] 0/0",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100251002.jpg?version=15.13"
   },
   {
-<<<<<<< Updated upstream
     "name": "Zaren, der kettengebundene Drache",
     "desc": "1 Empfänger- + 1+ Synchromonster\r\nFalls diese Karte, die du kontrollierst, als Synchromaterial verwendet würde, kannst du sie als Nicht-Empfänger behandeln.\r\nWenn eine Karte oder ein Effekt aktiviert wird als Reaktion auf die Aktivierung einer Karte oder eines Effekts (Schnelleffekt): Du kannst 1 dieser Effekte aktivieren;\r\n● Annulliere den Effekt und falls du dies tust, zerstöre die Karte.\r\n● Annulliere den Effekt der Karte auf die Reagiert wurde und falls du dies tust, zerstöre die Karte.\r\nDu kannst diesen Effekt von „Zaren, der kettengebundene Drache“ nur einmal pro Spielzug verwenden.",
-=======
-    "name": "锁缚龙 扎镰",
-    "desc": "调整＋同调怪兽1只以上\r\n这个卡名的②的效果1回合只能使用1次。\r\n①：自己场上的这张卡作为同调素材的场合，可以把这张卡当作调整以外的怪兽使用。\r\n②：连锁卡的效果的发动的，魔法·陷阱·怪兽的效果发动时，可以从以下效果选择1个发动。\r\n●那个效果无效并破坏。\r\n●那个效果连锁的卡的效果无效并破坏。",
->>>>>>> Stashed changes
     "overallString": "[Monster|Effekt|Empfänger|Synchro] Drache/Finsternis  [★7] 2800/2100",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303042.jpg?version=15.13"
   },
   {
-<<<<<<< Updated upstream
     "name": "Albtraumhand",
     "desc": "Lege 1 Illusion-Monster von deinem Deck auf den Friedhof.\r\nWährend deiner Main Phase, falls du ein Illusion-Monster der Stufe 5 oder höher kontrollierst: Du kannst diese Karte von deinem Friedhof verbannen und dann 1 Monster im Friedhof deines Gegners wählen; beschwöre es als Spezialbeschwörung auf deine Spielfeldseite, aber verbanne es während der End Phase des nächsten Spielzugs.\r\nDu kannst nur 1 Effekt von „Albtraumhand“ pro Spielzug verwenden und in jenem Spielzug nur einmal.",
-=======
-    "name": "幻惑的操纵者",
-    "desc": "这个卡名的①②的效果1回合只能有1次使用其中任意1个。\r\n①：从卡组把1只幻想魔族怪兽送去墓地。\r\n②：自己场上有5星以上的幻想魔族怪兽存在的场合，自己主要阶段把墓地的这张卡除外，以对方墓地1只怪兽为对象才能发动。那只怪兽在自己场上特殊召唤。这个效果特殊召唤的怪兽在下个回合的结束阶段除外。",
->>>>>>> Stashed changes
     "overallString": "[Zauber|Schnell]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303068.jpg?version=15.13"
   },
   {
-<<<<<<< Updated upstream
     "name": "Aufstand",
     "desc": "Wähle 1 Monster in verdeckter Verteidigungsposition auf dem Spielfeld; gib es auf die Hand zurück, dann kann der Spielers der es seiner Hand hinzugefügt hat 1 Monster als Spezialbeschwörung von seiner Hand in die verdeckte Verteidigungsposition beschwören.\r\nWenn ein Monster eines Gegners einen Angriff deklariert: Du kannst diese Karte von deinem Friedhof verbannen; ändere 1 Monster auf dem Spielfeld von verdeckter Verteidigungsposition in die Angriffsposition.\r\nDu kannst jeden Effekt von „Aufstand“ nur einmal pro Spielzug verwenden.",
-=======
-    "name": "骚动",
-    "desc": "这个卡名的①②的效果1回合各能使用1次。\r\n①：以场上1只里侧守备表示怪兽为对象才能发动。那只怪兽回到手卡。那之后，用这个效果把卡加入手卡的玩家可以从手卡把1只怪兽里侧守备表示特殊召唤。\r\n②：对方怪兽的攻击宣言时，把墓地的这张卡除外才能发动。场上1只里侧守备表示怪兽变成表侧攻击表示。",
->>>>>>> Stashed changes
     "overallString": "[Zauber|Schnell]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303069.jpg?version=15.13"
   },
   {
-<<<<<<< Updated upstream
     "name": "Dracheneinheit Quirinus",
     "desc": "Deine „Dracheneinheit“-Monster können nicht durch Kampf zerstört werden, solange diese Karte mit einer Ausrüstungskarte ausgerüstet ist.\r\nDu kannst jeden der folgenden Effekte von „Dracheneinheit Quirinus“ nur einmal pro Spielzug verwenden.\r\nFalls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst deiner Hand 1 „Dracheneinheit“-Zauber/Falle von deinem Deck hinzufügen.\r\nDu kannst 1 andere „Dracheneinheit“-Monsterkarte wählen, die du kontrollierst; gib sie auf die Hand / lege sie ins Extra Deck zurück, dann kannst du 1 „Dracheneinheit“-Monster als Spezialbeschwörung von deiner Hand beschwören.",
-=======
-    "name": "龙骑兵团-建军者",
-    "desc": "这个卡名的①③的效果1回合各能使用1次。\r\n①：这张卡召唤·特殊召唤的场合才能发动。从卡组把1张「龙骑兵团」魔法·陷阱卡加入手卡。\r\n②：只要这张卡有装备卡装备中，自己的「龙骑兵团」怪兽不会被战斗破坏。\r\n③：以自己场上1张其他「龙骑兵团」怪兽卡为对象才能发动。那张卡回到手卡·额外卡组。那之后，可以从手卡把1只「龙骑兵团」怪兽特殊召唤。\r\n",
->>>>>>> Stashed changes
     "overallString": "[Monster|Effekt] Geflügeltes Ungeheuer/Wind  [★4] 1200/1200",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250018.jpg?version=15.13"
   },
   {
-<<<<<<< Updated upstream
     "name": "Dracheneinheit Falchion",
     "desc": "Du kannst diese Karte von deiner Hand oder deinem Friedhof verbannen und dann 1 „Dracheneinheit“-Monster wählen, das du kontrollierst; rüste es mit 1 „Dracheneinheit“-Drache-Monster von deinem Deck oder Friedhof als Ausrüstungszauber aus.\r\nDu kannst diese Karte, mit der ein „Dracheneinheit“-Monster ausgerüstet ist, auf den Friedhof legen und dann 1 offene Karte wählen, die dein Gegner kontrolliert; verbanne sie.\r\nDu kannst jeden Effekt von „Dracheneinheit Quirinus“ nur einmal pro Spielzug verwenden.",
-=======
-    "name": "龙骑兵团-短弯刀龙",
-    "desc": "这个卡名的①②的效果1回合各能使用1次。\r\n①：把手卡·墓地的这张卡除外，以自己场上1只「龙骑兵团」怪兽为对象才能发动。从自己的卡组·墓地把1只龙族「龙骑兵团」怪兽当作装备魔法卡使用给作为对象的怪兽装备。\r\n②：把给「龙骑兵团」怪兽装备中的这张卡送去墓地，以对方场上1张表侧表示卡为对象才能发动。那张卡除外。",
->>>>>>> Stashed changes
     "overallString": "[Monster|Effekt|Empfänger] Drache/Wind  [★2] 1300/1200",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250019.jpg?version=15.13"
   },
   {
-<<<<<<< Updated upstream
     "name": "Dracheneinheit-Ritter - Areus",
     "desc": "1 Empfänger + 1+ Nicht-Empfänger-Synchromonster\r\nDu kannst offene Karten, die dein Gegner kontrolliert, bis zur Anzahl der offene Monsterkarten in deiner Zauber- & Fallenzone wählen; annulliere bis zum Ende dieses Spielzugs ihre Effekte.\r\nDies ist ein Schnelleffekt, falls diese Karte mit einer Ausrüstungskarte ausgerüstet ist.\r\nSolange diese Karte ein Monster ausrüstet: Du kannst diese Karte als Spezialbeschwörung beschwören, dann kannst du 1 „Dracheneinheit“-Empfänger als Spezialbeschwörung von deinem Friedhof beschwören.\r\nDu kannst jeden Effekt von „Dracheneinheit Quirinus“ nur einmal pro Spielzug verwenden.",
-=======
-    "name": "龙骑兵团骑士-战枪龙骑士",
-    "desc": "调整＋调整以外的同调怪兽1只以上\r\n这个卡名的①②的效果1回合各能使用1次。\r\n①：以最多有自己的魔法与陷阱区域的表侧表示的怪兽卡的数量的，对方场上的表侧表示卡为对象才能发动（这张卡有装备卡装备中的场合，这个效果在对方回合也能发动）。那些卡的效果直到回合结束时无效。\r\n②：这张卡装备中的场合才能发动。这张卡特殊召唤。那之后，可以从自己墓地把1只「龙骑兵团」调整特殊召唤。",
->>>>>>> Stashed changes
     "overallString": "[Monster|Effekt|Synchro] Drache/Wind  [★8] 2900/2500",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250020.jpg?version=15.13"
   },
   {
-<<<<<<< Updated upstream
     "name": "Dracheneinheit-Lord - Georgius",
     "desc": "2+ Monster, darunter ein Empfänger\r\nDein Gegner kann keine Effekte von Monstern im Friedhof aktivieren, solange diese Karte mit einer „Dracheneinheit“-Karte ausgerüstet ist.\r\nDu kannst jeden der folgenden Effekte von „Dracheneinheit-Lord - Georgius“ nur einmal pro Spielzug verwenden.\r\nFalls diese Karte als Linkbeschwörung beschworen wird oder dein Gegner ein oder mehr Monster als Spezialbeschwörung beschwört: Du kannst 1 „Dracheneinheit“-Monster der Stufe 5 oder höher als Spezialbeschwörung von deinem Extra Deck oder Friedhof beschwören.\r\nWenn dein Gegner eine Zauber-/Fallenkarte oder einen Zauber-/Falleneffekt aktiviert (Schnelleffekt): Du kannst 1 Ausrüstungskarte, die du kontrollierst, auf den Friedhof legen; annulliere jenen Effekt.",
-=======
-    "name": "龙骑兵团统帅-乔治",
-    "desc": "包含调整的怪兽2只以上\r\n这个卡名的①③的效果1回合各能使用1次。\r\n①：这张卡连接召唤的场合，或者对方把怪兽特殊召唤的场合才能发动。从自己的额外卡组·墓地把1只5星以上的「龙骑兵团」怪兽特殊召唤。\r\n②：这张卡只要有「龙骑兵团」卡装备中，对方不能把墓地的怪兽的效果发动。\r\n③：对方把魔法·陷阱卡的效果发动时，把自己场上1张装备卡送去墓地才能发动。那个效果无效。",
->>>>>>> Stashed changes
     "overallString": "[Monster|Effekt|Link] Drache/Wind  [LINK-4] 2400/-  [←][→][↙][↘]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250021.jpg?version=15.13"
   },
   {
-<<<<<<< Updated upstream
     "name": "Elfennoten Lucina",
     "desc": "Du kannst diese Karte als Spezialbeschwörung (von deiner Hand) in deine mittlere Main-Monsterzone beschwören.\r\nDu kannst „Elfennoten Lucina“ nur einmal pro Spielzug auf diese Art als Spezialbeschwörung beschwören.\r\nDu kannst jeden der folgenden Effekte von „Elfennoten Lucina“ nur einmal pro Spielzug verwenden.\r\nWährend deiner Main Phase: Du kannst deiner Hand 1 „Elfennoten“-Monster von deinem Deck hinzufügen, außer „Elfennoten Lucina“.\r\nWährend des Spielzugs deines Gegners (Schnelleffekt): Du kannst die Orte von dieser Karte in deiner Main-Monsterzone und des Monsters in deiner mittlere Main-Monsterzone vertauschen, dann kannst du 1 Monster der Stufe 6 oder niedriger, das dein Gegner kontrolliert, auf die Hand zurückgeben.",
-=======
-    "name": "耀圣的花诗 卢西娜",
-    "desc": "这个卡名的，①的方法的特殊召唤1回合只能有1次，②③的效果1回合各能使用1次。\r\n①：这张卡可以从手卡往自己的中央的主要怪兽区域特殊召唤。\r\n②：自己主要阶段才能发动。从卡组把「耀圣的花诗 卢西娜」以外的1只「耀圣」怪兽加入手卡。\r\n③：对方回合才能发动。自己主要怪兽区域的，这张卡和中央的怪兽的位置交换。那之后，可以让对方场上1只6星以下的怪兽回到手卡。",
->>>>>>> Stashed changes
     "overallString": "[Monster|Effekt] Hexer/Feuer  [★6] 2500/1800",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303010.jpg?version=15.13"
   },
   {
-<<<<<<< Updated upstream
     "name": "Elfennoten Dyina",
     "desc": "Du kannst diese Karte als Spezialbeschwörung (von deiner Hand) in deine mittlere Main-Monsterzone beschwören.\r\nDu kannst „Elfennoten Dyina“ nur einmal pro Spielzug auf diese Art als Spezialbeschwörung beschwören.\r\nDu kannst jeden der folgenden Effekte von „Elfennoten Dyina“ nur einmal pro Spielzug verwenden.\r\nWährend deiner Main Phase: Du kannst 1 Permanenten „Elfennoten“-Zauber von deinem Deck offen auf deine Spielfeldseite legen.\r\nWährend des Spielzugs deines Gegners (Schnelleffekt): Du kannst die Orte von dieser Karte in deiner Main-Monsterzone und des Monsters in deiner mittlere Main-Monsterzone vertauschen, dann kannst du 1 zufällige Karte von der Hand deines Gegners bis zur End Phase verbannen.",
-=======
-    "name": "耀圣的波诗 狄娜",
-    "desc": "这个卡名的，①的方法的特殊召唤1回合只能有1次，②③的效果1回合各能使用1次。\r\n①：这张卡可以从手卡往自己的中央的主要怪兽区域特殊召唤。\r\n②：自己主要阶段才能发动。从卡组把1张「耀圣」永续魔法卡在自己场上以表侧表示放置。\r\n③：对方回合才能发动。自己主要怪兽区域的，这张卡和中央的怪兽的位置交换。那之后，可以随机选对方1张手卡直到结束阶段以表侧除外。",
->>>>>>> Stashed changes
     "overallString": "[Monster|Effekt] Hexer/Wasser  [★6] 2400/1800",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303011.jpg?version=15.13"
   },
   {
-<<<<<<< Updated upstream
     "name": "Elfennoten Fortona",
     "desc": "Du kannst diese Karte als Spezialbeschwörung (von deiner Hand) in deine mittlere Main-Monsterzone beschwören.\r\nDu kannst „Elfennoten Fortona“ nur einmal pro Spielzug auf diese Art als Spezialbeschwörung beschwören.\r\nDu kannst jeden der folgenden Effekte von „Elfennoten Fortona“ nur einmal pro Spielzug verwenden.\r\nWährend deiner Main Phase: Du kannst 1 Permanente „Elfennoten“-Falle von deiner Hand oder deinem Deck offen auf deine Spielfeldseite legen.\r\nWährend des Spielzugs deines Gegners (Schnelleffekt): Du kannst die Orte von dieser Karte in deiner Main-Monsterzone und des Monsters in deiner mittlere Main-Monsterzone vertauschen, dann kannst du 1 offene/n Zauber/Falle auf dem Spielfeld auf die Hand zurückgeben.",
-=======
-    "name": "耀圣的月诗 福尔图娜",
-    "desc": "这个卡名的，①的方法的特殊召唤1回合只能有1次，②③的效果1回合各能使用1次。\r\n①：这张卡可以从手卡往自己的中央的主要怪兽区域特殊召唤。\r\n②：自己主要阶段才能发动。从手卡·卡组把1张「耀圣」永续陷阱卡在自己场上以表侧表示放置。\r\n③：对方回合才能发动。自己主要怪兽区域的，这张卡和中央的怪兽的位置交换。那之后，可以让场上1张表侧表示的魔法·陷阱卡回到手卡。",
->>>>>>> Stashed changes
     "overallString": "[Monster|Effekt] Hexer/Licht  [★6] 2200/1800",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303012.jpg?version=15.13"
   },
   {
-<<<<<<< Updated upstream
     "name": "Elfennoten Machtpatron",
     "desc": "Du kannst keine Spezialbeschwörungen vom Extra Deck durchführen, außer von Synchromonstern.\r\nDu kannst jeden der folgenden Effekte von „Elfennoten Machtpatron“ nur einmal pro Spielzug verwenden.\r\nWährend der Main Phase (Schnelleffekt): Du kannst das Monster, in deiner mittlere Main-Monsterzone, wählen; erhöhe seine Stufe bis zum Ende dieses Spielzugs um 3, dann, sofort nachdem dieser Effekt aufgelöst wurde, kannst du 1 „Elfennoten“-Monster oder „Junora die Machtpatronin des Stimmens“ als Spezialbeschwörung beschwören.\r\nFalls diese Karte als Synchromaterial auf den Friedhof gelegt wird: Du kannst deiner Hand 1 „Elfennoten“-Karte von deinem Deck hinzufügen.",
-=======
-    "name": "火耀圣诗之狱神精",
-    "desc": "这个卡名的②③的效果1回合各能使用1次。\r\n①：自己不是同调怪兽不能从额外卡组特殊召唤。\r\n②：自己·对方的主要阶段，以自己的中央的主要怪兽区域的1只怪兽为对象才能发动。那只怪兽的等级直到回合结束时上升3。那之后，可以进行1只「耀圣」同调怪兽或「调狱神 朱诺拉」的同调召唤。\r\n③：这张卡作为同调素材被送去墓地的场合才能发动。从卡组把1张「耀圣」卡加入手卡。\r\n",
->>>>>>> Stashed changes
     "overallString": "[Monster|Effekt|Empfänger] Unterweltler/Feuer  [★1] 300/200",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303013.jpg?version=15.13"
   },
   {
-<<<<<<< Updated upstream
     "name": "Junora die Machtpatronin des Stimmens",
     "desc": "1 Empfänger + 2+ Nicht-Empfänger-Monster\r\nFür die Synchrobeschwörung dieser Karte kannst du 1 Monster in deiner mittlere Main-Monsterzone, als Empfänger behandeln.\r\nFalls diese Karte als Synchrobeschwörung beschworen wird: Du kannst die Effekte aller offenen Karten annullieren, die dein Gegner derzeit kontrolliert.\r\n(Schnelleffekt): Du kannst diesen Effekt aktivieren; alle Monster, die dein Gegner derzeit kontrolliert, die sich in denselben Spalten wie deine „Elfennoten“-Monster befinden können, bis zur End Phase dieses Spielzugs, nicht als Material für eine Fusions-, Synchro-, Xyz- oder Linkbeschwörung verwendet werden.\r\nDu kannst diesen Effekt von „Junora die Machtpatronin des Stimmens“ nur einmal pro Spielzug verwenden.",
-=======
-    "name": "调狱神 朱诺拉",
-    "desc": "调整＋调整以外的怪兽2只\r\n这张卡同调召唤的场合，也能把自己的中央的主要怪兽区域的1只怪兽当作调整使用。这个卡名的②的效果1回合只能使用1次。\r\n①：这张卡同调召唤的场合才能发动。对方场上的全部的表侧表示卡的效果无效化。\r\n②：自己·对方回合可以发动。和自己场上的「耀圣」怪兽相同纵列的，对方场上的全部怪兽直到回合结束时不能作为融合·同调·超量·连接召唤的素材。",
->>>>>>> Stashed changes
     "overallString": "[Monster|Effekt|Synchro] Unterweltler/Feuer  [★10] 3100/3800",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303039.jpg?version=15.13"
   },
   {
-<<<<<<< Updated upstream
     "name": "Elfennoten Seraphim Stlitzia",
     "desc": "1 Empfänger + 1+ Nicht-Empfänger-Monster\r\nDie Grund-ATK dieser Karte werden zu 3000, solange sie in der mittleren Main-Monsterzone liegt.\r\nWährend der Main Phase (Schnelleffekt): Du kannst 1 „Elfennoten“-Monster der Stufe 6 oder niedriger als Spezialbeschwörung von deiner Hand oder deinem Friedhof, dann kannst du die Stufen alle Monster der Stufe 4 oder höher, die sich derzeit auf dem Spielfeld befinden, bis zum Ende dieses Spielzugs um 3 verringern, zusätzlich kannst du für den Rest dieses Spielzugs keine Spezialbeschwörungen vom Extra Deck durchführen, außer von Synchromonstern.\r\nDu kannst diesen Effekt von „Elfennoten Seraphim Stlitzia“ nur einmal pro Spielzug verwenden.",
-=======
-    "name": "狱花之大耀圣 天堂火鸟",
-    "desc": "调整＋调整以外的怪兽1只以上\r\n这个卡名的②的效果1回合只能使用1次。\r\n①：这张卡只要在中央的主要怪兽区域存在，原本攻击力变成3000。\r\n②：自己·对方的主要阶段才能发动。从自己的手卡·墓地把1只6星以下的「耀圣」怪兽特殊召唤。那之后，可以把场上的全部的4星以上的怪兽的等级直到回合结束时下降3。这个回合，自己不是同调怪兽不能从额外卡组特殊召唤。",
->>>>>>> Stashed changes
     "overallString": "[Monster|Effekt|Synchro] Pflanze/Feuer  [★7] ?/3000",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303040.jpg?version=15.13"
   },
   {
-<<<<<<< Updated upstream
     "name": "UntergangZ-Änderer",
     "desc": "Zerstöre 1 „UntergangZ“-Karte in deiner Hand, deinem Deck oder offen auf deiner Spielfeldseite, außer „UntergangZ-Änderer“.\r\nFalls diese Karte durch einen Karteneffekt zerstört wird: Du kannst deiner Hand 1 „UntergangZ“-Karte von deinem Friedhof hinzufügen, außer „UntergangZ-Änderer“, dann kannst du 1 „UntergangZ“-Monster als Spezialbeschwörung von deiner Hand beschwören.\r\nDu kannst jeden Effekt von „UntergangZ-Änderer“ nur einmal pro Spielzug verwenden.",
-=======
-    "name": "终刻变转",
-    "desc": "这个卡名的①②的效果1回合各能使用1次。\r\n①：把「终刻变转」以外的自己手卡·卡组·场上（表侧表示）的1张「终刻」卡破坏。\r\n②：这张卡被效果破坏的场合才能发动。从自己墓地把「终刻变转」以外的1张「终刻」卡加入手卡。那之后，可以从手卡把1只「终刻」怪兽特殊召唤。",
->>>>>>> Stashed changes
     "overallString": "[Zauber]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303055.jpg?version=15.13"
   },
   {
-<<<<<<< Updated upstream
     "name": "Elfennoten ~Heimkehr Parallelität~",
     "desc": "Das Monster, in deiner mittlere Main-Monsterzone, kann nicht durch Karteneffekte zerstört werden.\r\nDu kannst 1 Monster von deiner Hand oder Spielfeldseite auf den Friedhof legen; beschwöre 1 „Elfennoten“-Monster mit einer unterschiedlichen Grund-Eigenschaft als Spezialbeschwörung von deinem Deck in die Verteidigungsposition, zusätzlich kannst du für den Rest dieses Spielzugs keine Spezialbeschwörungen vom Extra Deck durchführen, außer von Synchromonstern.\r\nDu kannst diesen Effekt von „Elfennoten ~Heimkehr Parallelität~“ nur einmal pro Spielzug verwenden.",
-=======
-    "name": "耀圣诗章～回乡之平行歌～",
-    "desc": "这个卡名的②的效果1回合只能使用1次。\r\n①：自己的中央的主要怪兽区域的怪兽不会被效果破坏。\r\n②：从自己的手卡·场上把1只怪兽送去墓地才能发动。从卡组把和那只怪兽原本属性不同的1只「耀圣」怪兽守备表示特殊召唤。这个回合，自己不是同调怪兽不能从额外卡组特殊召唤。\r\n",
->>>>>>> Stashed changes
     "overallString": "[Zauber|Permanente]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303056.jpg?version=15.13"
   },
   {
-<<<<<<< Updated upstream
     "name": "Elfennoten ~Wiedervereinigungs Terzett~",
     "desc": "Dein Gegner kann das Monster, in deiner mittlere Main-Monsterzone, nicht als Ziel für Karteneffekte wählen.\r\nDiese Karte erhält diese Effekte, basierend auf den Eigenschaften der Monster, in deiner mittlere Main-Monsterzone.\r\n● FEUER/ERDE: Falls dein Synchromonster ein Monster in Verteidigungsposition angreift, füge deinem Gegner durchschlagenden Kampfschaden zu.\r\n● WASSER/WIND: Andere offene Zauber/Fallen, die du kontrollierst, können nicht durch Karteneffekte deines Gegners zerstört werden.\r\n● LICHT/FINSTERNIS: Du erhältst keinen Kampfschaden.",
-=======
-    "name": "耀圣诗章～再邂之三重唱～",
-    "desc": "①：对方不能把自己的中央的主要怪兽区域的怪兽作为效果的对象。\r\n②：根据自己的中央的主要怪兽区域的怪兽属性，这张卡得到以下效果。\r\n●炎·地：自己的同调怪兽向守备表示怪兽攻击的场合，给与对方攻击力超过那个守备力数值的战斗伤害。\r\n●水·风：自己场上的其他的表侧表示的魔法·陷阱卡不会被对方的效果破坏。\r\n●光·暗：自己受到的战斗伤害变成0。",
->>>>>>> Stashed changes
     "overallString": "[Zauber|Permanente]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303057.jpg?version=15.13"
   },
   {
-<<<<<<< Updated upstream
     "name": "Theorealisier-Befreiung",
     "desc": "Falls du „Medius der Reine“ kontrollierst: Füge deiner Hand hinzu oder beschwöre als Spezialbeschwörung 1 Monster mit mit 300 ATK/200 DEF von deinem Deck.\r\nWährend deiner Main Phase: Du kannst diese Karte von deinem Friedhof verbannen und dann 1 offenes Monster wählen, das du kontrollierst; es wird in diesem Spielzug als Empfänger behandelt.\r\nDu kannst jeden Effekt von „Theorealisier-Befreiung“ nur einmal pro Spielzug verwenden.",
-=======
-    "name": "开辟的预幻视",
-    "desc": "这个卡名的①②的效果1回合各能使用1次。\r\n①：自己场上有「无垢者 米底乌斯」存在的场合才能发动。从卡组选1只攻击力300/守备力200的怪兽，加入手卡或特殊召唤。\r\n②：自己主要阶段，把墓地的这张卡除外，以自己场上1只表侧表示怪兽为对象才能发动。这个回合，那只怪兽当作调整使用。",
->>>>>>> Stashed changes
     "overallString": "[Zauber|Schnell]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303058.jpg?version=15.13"
   },
   {
-<<<<<<< Updated upstream
     "name": "Elfennoten ~Orakel Alicetea~",
     "desc": "Du kannst die folgenden Effekte von „Elfennoten ~Orakel Alicetea~“ nicht in derselben Kette aktivieren.\r\nEinmal pro Spielzug: Du kannst 1 offenes Monster wählen, das du kontrollierst; bewege das Monster, das du kontrollierst, in eine andere deiner Main-Monsterzonen.\r\nWenn dein Gegner eine Zauber-/Fallenkarte aktiviert und du 3 oder mehr „Elfennoten“-Monster kontrollierst: Du kannst den Effekt annullieren, dann, falls du ein Synchromonster kontrollierst, kannst du jene Karte zerstören.\r\nDu kannst diesen Effekt von „Elfennoten ~Orakel Alicetea~“ nur einmal pro Spielzug verwenden.",
-=======
-    "name": "耀圣诗章～托选之高洁曲～",
-    "desc": "这个卡名的，②的效果1回合只能使用1次，①②的效果不能在同一连锁上发动。\r\n①：1回合1次，以自己场上1只表侧表示怪兽为对象才能发动。那只自己怪兽的位置向其他的自己主要怪兽区域移动。\r\n②：自己场上有「耀圣」怪兽3只以上存在，对方把魔法·陷阱卡发动时才能发动。那个效果无效。自己场上有同调怪兽存在的场合，可以再把那张无效的卡破坏。",
->>>>>>> Stashed changes
     "overallString": "[Falle|Permanente]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303071.jpg?version=15.13"
   },
   {
-<<<<<<< Updated upstream
     "name": "Elfennoten ~Verrückte Rhapsodia~",
     "desc": "Solange du ein Monster, in deiner mittlere Main-Monsterzone, hast, können Monster deines Gegners nicht angreifen, außer um dieses Monster anzugreifen.\r\nDu kannst 1 Monster von deiner Hand oder Spielfeldseite auf den Friedhof legen und dann 1 „Elfennoten“-Monster in deinem Friedhof wählen, das eine unterschiedliche Grund-Eigenschaft hat; beschwöre es als Spezialbeschwörung, dann, falls du ein Synchromonster kontrollierst, kannst du die Effekte von 1 offenen Karte, die dein Gegner kontrolliert, bis zum Ende dieses Spielzugs, annullieren.\r\nDu kannst diesen Effekt von „Elfennoten ~Verrückte Rhapsodia~“ nur einmal pro Spielzug verwenden.",
-=======
-    "name": "耀圣诗章～狂奏之吟游诗～",
-    "desc": "这个卡名的②的效果1回合只能使用1次。\r\n①：只要自己的中央的主要怪兽区域有怪兽存在，对方怪兽只能向那只怪兽攻击。\r\n②：从自己的手卡·场上把1只怪兽送去墓地，以和那只怪兽原本属性不同的自己墓地1只「耀圣」怪兽为对象才能发动。那只怪兽特殊召唤。那之后，自己场上有同调怪兽存在的场合，可以再把对方场上1张表侧表示卡的效果直到回合结束时无效。",
->>>>>>> Stashed changes
     "overallString": "[Falle|Permanente]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303072.jpg?version=15.13"
   },
   {
-<<<<<<< Updated upstream
     "name": "Gerümpelkrieger/Angriffsmodus",
     "desc": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden.\r\nMuss mit „Angriffsmodus aktivieren“ als Spezialbeschwörung beschworen werden.\r\nErhält für jedes „/Angriffsmodus“-Monster, das du kontrollierst, 1000 ATK, zusätzlich, falls diese Karte gegen ein Monster kämpft, wird der Kampfschaden verdoppelt, den es deinem Gegner zufügt.\r\nBleibt von aktivierten Monstereffekten deines Gegners unberührt.\r\nFalls diese Karte zerstört wird: Du kannst 1 „Gerümpelkrieger“ in deinem Friedhof wählen; lege ihn ins Extra Deck zurück, dann kannst du ihn als Spezialbeschwörung beschwören (Dies wird als Synchrobeschwörung behandelt.)",
-=======
-    "name": "废品战士/爆裂体",
-    "desc": "这张卡不能通常召唤，用「爆裂模式」的效果才能特殊召唤。\r\n①：这张卡的攻击力上升自己场上的「/爆裂体」怪兽的数量×1000，这张卡和怪兽进行战斗给与对方的战斗伤害变成2倍。\r\n②：场上的这张卡不受对方发动的怪兽的效果影响。\r\n③：这张卡被破坏的场合，以自己墓地的1只「废品战士」为对象才能发动。那只怪兽回到额外卡组。那之后，可以把那只怪兽当作同调召唤特殊召唤。",
->>>>>>> Stashed changes
     "overallString": "[Monster|Effekt|Spezialbeschwörung] Krieger/Finsternis  [★7] 2800/1800",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303007.jpg?version=15.13"
   },
   {
-<<<<<<< Updated upstream
     "name": "Blutroter Klingenkämpfer/Angriffsmodus",
     "desc": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden.\r\nMuss mit „Angriffsmodus aktivieren“ als Spezialbeschwörung beschworen werden.\r\nDu kannst diese Karte in deiner Hand vorzeigen; füge deiner Hand 1 „Angriffsmodus aktivieren“ oder 1 Karte, die sie erwähnt, von deinem Deck hinzu und falls du dies tust, mische diese Karte ins Deck.\r\nDu kannst diesen Effekt von „Blutroter Klingenkämpfer/Angriffsmodus“ nur einmal pro Spielzug verwenden.\r\nDein Gegner kann keine Effekte von Monstern der Stufe 5 oder höher, die als Spezialbeschwörung vom Extra Deck beschworen wurden, aktivieren.\r\nFalls diese Karte zerstört wird: Du kannst 1 „Blutroter Klingenkämpfer“ als Spezialbeschwörung von deinem Friedhof beschwören.",
-=======
-    "name": "深红剑士/爆裂体",
-    "desc": "这张卡不能通常召唤，用「爆裂模式」的效果才能特殊召唤。这个卡名的①的效果1回合只能使用1次。\r\n①：把手卡的这张卡给对方出示才能发动。从卡组把1张「爆裂模式」或者有那个卡名记述的卡加入手卡，这张卡回到卡组。\r\n②：对方不能把从额外卡组特殊召唤的5星以上的怪兽的效果发动。\r\n③：这张卡被破坏的场合才能发动。从自己墓地把1只「深红剑士」特殊召唤。",
->>>>>>> Stashed changes
     "overallString": "[Monster|Effekt|Spezialbeschwörung] Krieger/Feuer  [★10] 3300/3100",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303008.jpg?version=15.13"
   },
   {
-<<<<<<< Updated upstream
     "name": "Angriffslich",
     "desc": "Falls diese Karte, die du kontrollierst, als Synchromaterial verwendet würde, kannst du sie als Nicht-Empfänger behandeln.\r\nDu kannst jeden der folgenden Effekte von „Angriffslich“ nur einmal pro Spielzug verwenden.\r\nFalls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 Monster, das „Angriffsmodus aktivieren“ erwähnt, oder 1 Zombie-Monster der Stufe 4 oder niedriger, als Spezialbeschwörung von deinem Friedhof beschwören.\r\nFalls diese Karte als Synchromaterial auf den Friedhof gelegt wird: Du kannst deiner Hand 1 „Angriffsschlag“ oder „Angriffskonter“ von deinem Deck hinzufügen.",
-=======
-    "name": "爆裂巫妖",
-    "desc": "这个卡名的①③的效果1回合各能使用1次。\r\n①：这张卡召唤·特殊召唤的场合才能发动。从自己墓地把1只有「爆裂模式」的卡名记述的怪兽或者4星以下的不死族怪兽特殊召唤。\r\n②：自己场上的这张卡作为同调素材的场合，可以把这张卡当作调整以外的怪兽使用。\r\n③：这张卡作为同调素材被送去墓地的场合才能发动。从卡组把1张「爆裂斩」或「爆裂反击」加入手卡。",
->>>>>>> Stashed changes
     "overallString": "[Monster|Effekt|Empfänger] Zombie/Finsternis  [★4] 1500/0",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303009.jpg?version=15.13"
   },
   {
-<<<<<<< Updated upstream
     "name": "Nachtflügelpriesterin",
     "desc": "1 Empfänger + 1+ Nicht-Empfänger-Monster\r\nFalls diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 „Angriffsmodus aktivieren“ von deiner Hand, deinem Deck oder deinem Friedhof setzen.\r\nEs kann in diesem Spielzug aktiviert werden.\r\nDu kannst 1 Karte abwerfen; füge deiner Hand hinzu oder beschwöre als Spezialbeschwörung 1 Monster, das „Angriffsmodus aktivieren“ erwähnt, von deinem Deck, zusätzlich kannst du für den Rest dieses Spielzugs keine Spezialbeschwörungen vom Extra Deck durchführen, außer von Synchromonstern.\r\nDu kannst jeden Effekt von „Nachtflügelpriesterin“ nur einmal pro Spielzug verwenden.",
-=======
-    "name": "夜翼的祭司",
-    "desc": "调整＋调整以外的怪兽1只以上\r\n这个卡名的①②的效果1回合各能使用1次。\r\n①：这张卡特殊召唤的场合才能发动。从自己的手卡·卡组·墓地把1张「爆裂模式」在自己场上盖放。这个效果盖放的卡在盖放的回合也能发动。\r\n②：丢弃1张手卡才能发动。从卡组选有「爆裂模式」的卡名记述的1只怪兽，加入手卡或者特殊召唤。这个回合，自己不是同调怪兽不能从额外卡组特殊召唤。",
->>>>>>> Stashed changes
     "overallString": "[Monster|Effekt|Synchro] Hexer/Wind  [★8] 2500/2500",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303038.jpg?version=15.13"
   },
   {
-<<<<<<< Updated upstream
     "name": "Duel Evolution - Angriffszone",
     "desc": "Wenn diese Karte aktiviert wird: Du kannst deiner Hand 1 Monster, das „Angriffsmodus aktivieren“ erwähnt, von deinem Deck oder deinem Friedhof hinzufügen.\r\n„/Angriffsmodus“-Monster können in dem Spielzug, in dem sie als Spezialbeschwörung beschworen wurden, weder durch Kampf noch durch Karteneffekte deines Gegners zerstört werden.\r\nDu kannst 2000 LP zahlen; einmal in diesem Spielzug, kannst du „Angriffsmodus aktivieren“ aktivieren, indem du ein Synchromonster, im Extra Deck, als Tribut anbietest.\r\nDu kannst diesen Effekt von „Duel Evolution - Angriffszone“ nur einmal pro Spielzug verwenden.\r\nDu kannst nur 1 „Duel Evolution - Angriffszone“ pro Spielzug aktivieren.",
-=======
-    "name": "决斗进化-爆裂区",
-    "desc": "这个卡名的卡在1回合只能发动1张，这个卡名的③的效果1回合只能使用1次。\r\n①：作为这张卡发动时的效果处理，可以从自己的卡组·墓地把有「爆裂模式」的卡名记述的1只怪兽加入手卡。\r\n②：「/爆裂体」怪兽在特殊召唤的回合不会被战斗以及对方的效果破坏。\r\n③：支付2000基本分才能发动。这个回合只有1次，自己为让「爆裂模式」发动而解放的同调怪兽也能从额外卡组选。",
->>>>>>> Stashed changes
     "overallString": "[Zauber|Spielfeld]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303054.jpg?version=15.13"
   },
   {
-<<<<<<< Updated upstream
     "name": "WACH AUF!-TASSE Erl",
     "desc": "FLIPP: Du kannst offenen Karten, die dein Gegner kontrolliert, auf den Friedhof legen, bis zur Anzahl der Flippmonster, die du kontrollierst.\r\n\r\nFalls sich diese Karte in deiner Hand befindet: Du kannst 1 anderes Flippmonster abwerfen und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung in die Angriffsposition oder die verdeckte Verteidigungsposition.\r\n\r\nWährend deiner End Phase: Du kannst 1 Flippmonster in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung in die verdeckte Verteidigungsposition.\r\n\r\nDu kannst jeden Effekt von „WACH AUF!-TASSE Erl“ nur einmal pro Spielzug verwenden.",
-=======
-    "name": "睡醒一杯！伯爵红茶",
-    "desc": "这个卡名的①②③的效果1回合各能使用1次。\r\n①：这张卡在手卡存在的场合才能发动。从自己手卡选1只其他反转怪兽丢弃，这张卡表侧攻击表示或里侧守备表示特殊召唤。\r\n②：这张卡反转的场合才能发动。把最多有自己场上的反转怪兽数量的，对方场上的表侧表示卡送去墓地。\r\n③：自己结束阶段，以自己墓地1只反转怪兽为对象才能发动。那只怪兽里侧守备表示特殊召唤。",
->>>>>>> Stashed changes
     "overallString": "[Monster|Effekt|Flipp] Aqua/Wind  [★7] 2700/400",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303029.jpg?version=15.13"
   },
   {
-<<<<<<< Updated upstream
     "name": "Magnetkrieger Ω+",
     "desc": "Falls sich diese Karte in deiner Hand oder deinem Friedhof befindet: Du kannst 1 anderes Fels-Monster in deiner Hand oder offen auf deiner Spielfeldseite zerstören und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung, aber verbanne sie, wenn sie das Spielfeld verlässt.\r\nWenn der Effekt eines ERDE Monster auf dem Spielfeld aktiviert wird (Schnelleffekt): Du kannst diese Karte als Tribut anbieten und dann 1 offenes Monster auf dem Spielfeld wählen; ändere es in die verdeckte Verteidigungsposition.\r\nDu kannst jeden Effekt von „Magnetkrieger Ω+“ nur einmal pro Spielzug verwenden.",
-=======
-    "name": "磁石战士Ω+",
-    "desc": "这个卡名的①②的效果1回合各能使用1次。\r\n①：这张卡在手卡·墓地存在的场合才能发动。这张卡以外的自己手卡·场上（表侧表示）的1只岩石族怪兽破坏，这张卡特殊召唤。这个效果特殊召唤的这张卡从场上离开的场合除外。\r\n②：场上的地属性怪兽的效果发动时，把这张卡解放，以场上1只表侧表示怪兽为对象才能发动。那只怪兽变成里侧守备表示。",
->>>>>>> Stashed changes
     "overallString": "[Monster|Effekt] Fels/Erde  [★4] 800/1900",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100200280.jpg?version=15.13"
   },
   {
-<<<<<<< Updated upstream
     "name": "Drachoschwanz Shaurus",
     "desc": "1 „Drachoschwanz“-Monster + 1 Monster in der Hand\r\nDu kannst 2 „Drachoschwanz“-Karten in deinem Friedhof und 1 offene Karte auf dem Spielfeld desselben Typs (Monster, Zauber oder Falle) als 1 von ihnen wählen; mische alle 3 ins Deck.\r\nFalls 2 oder mehr Monster gleichzeitig auf den Friedhof gelegt werden, solange sich diese Karte in deinem Friedhof befindet (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung beschwören, aber verbanne sie, wenn sie das Spielfeld verlässt.\r\nDu kannst jeden Effekt von „Drachoschwanz Shaurus“ nur einmal pro Spielzug verwenden.",
-=======
-    "name": "星辰铰龙 金牛天蝎龙魔",
-    "desc": "「星辰」怪兽+手卡的怪兽\r\n这个卡名的①②的效果1回合各能使用1次。\r\n①：以自己墓地的2张「星辰」卡，和与那之内的种类（怪兽·魔法·陷阱）相同的场上1张表侧表示卡为对象才能发动。那3张卡回到卡组。\r\n②：这张卡在墓地存在的状态，怪兽2只以上同时被送去墓地的场合才能发动。这张卡特殊召唤。这个效果特殊召唤的这张卡从场上离开的场合除外。",
->>>>>>> Stashed changes
     "overallString": "[Monster|Effekt|Fusion] Drache/Licht  [★6] 2400/1500",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303037.jpg?version=15.13"
   },
   {
-<<<<<<< Updated upstream
     "name": "K9-X „Ripper/Millennia“",
     "desc": "2 Monster der Stufe 9\r\nFalls diese Karte ein Monster in Verteidigungsposition angreift, füge deinem Gegner durchschlagenden Kampfschaden zu.\r\nDu kannst jeden der folgenden Effekte von „K9-66a Jokul“ nur einmal pro Spielzug verwenden.\r\nFalls diese Karte durch einen „K9“-Zauber-/Falleneffekt als Spezialbeschwörung beschworen wird: Du kannst bis zu 2 Karten im Friedhof und/oder den verbannten Karten deines Gegners wählen; mische sie ins Deck.\r\nWenn dein Gegner einen Monstereffekt aktiviert (Schnelleffekt): Du kannst 2 Material von dieser Karte abhängen; annulliere den Effekt, dann zerstöre alle Karten auf dem Spielfeld.",
-=======
-    "name": "K9-EX “撕裂者/千岁”",
-    "desc": "9星怪兽×2\r\n这个卡名的①③的效果1回合各能使用1次。\r\n①：这张卡用「K9」魔法·陷阱卡的效果特殊召唤的场合，以对方墓地·除外状态的最多2张卡为对象才能发动。那些卡回到卡组。\r\n②：这张卡向守备表示怪兽攻击的场合，给与对方攻击力超过那个守备力数值的战斗伤害。\r\n③：对方把怪兽的效果发动时，把这张卡2个超量素材取除才能发动。那个效果无效。那之后，场上的卡全部破坏。",
->>>>>>> Stashed changes
     "overallString": "[Monster|Effekt|Xyz] Ungeheuer/Wind  [☆9] 3100/2600",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303043.jpg?version=15.13"
   },
   {
-<<<<<<< Updated upstream
     "name": "Helfen★Lecker",
     "desc": "Einmal pro Spielzug, während der Standby Phase: Du kannst 100 LP erhalten und falls du dies tust, zahlt dein Gegner 100 LP.\r\nDu kannst nur 1 der folgenden Effekte von „Helfen★Lecker“ pro Spielzug verwenden und in dem Spielzug nur einmal.\r\nWährend der Battle Phase deines Gegners oder der Main Phase: Du kannst 2 offene „Lecker“-Karten, die du kontrollierst, darunter diese Karte, auf den Friedhof legen; gib 1 Karte vom Spielfeld oder Friedhof auf die Hand zurück.\r\nDu kannst diese Karte von deinem Friedhof verbannen; lege 1 „Lecker“-Karte von deinem Deck auf den Friedhof, außer „Helfen★Lecker“.",
-=======
-    "name": "协助抓取★味美喵",
-    "desc": "这个卡名的②③的效果1回合只能有1次使用其中任意1个。\r\n①：自己·对方的准备阶段1次，可以发动。自己回复100基本分，对方支付100基本分。\r\n②：自己·对方的主要阶段以及对方战斗阶段，把包含这张卡的自己场上的2张「味美喵」卡送去墓地才能发动。自己或对方场上·墓地的1张卡回到手卡。\r\n③：把墓地的这张卡除外才能发动。从卡组把「协助抓取★味美喵」以外的1张「味美喵」卡送去墓地。",
->>>>>>> Stashed changes
     "overallString": "[Falle|Permanente]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303076.jpg?version=15.13"
   },
   {
-<<<<<<< Updated upstream
     "name": "Glanztaifun Varuroon, der Meeresgeist",
     "desc": "2 „Glanztaifun“-Monster\r\nFalls diese Karte als Linkbeschwörung beschworen wird: Du kannst deiner Hand 1 „Mystischer Raum-Taifun“ von deinem Deck oder Friedhof hinzufügen.\r\nDu kannst 2 offene Monster auf dem Spielfeld wählen, darunter ein „Glanztaifun“-Monster, das du kontrollierst; lege sie offen als Permanente Zauber in die Zauber- & Fallenzonen ihrer Besitzer.\r\nFalls eine Schnellzauberkarte aktiviert wird (außer während des Damage Steps): Du kannst 1 Permanente „Glanztaifun“-Falle, von deinem Deck oder Friedhof, offen auf deine Spielfeldseite legen.\r\nDu kannst jeden Effekt von „Glanztaifun Varuroon, der Meeresgeist“ nur einmal pro Spielzug verwenden.",
-=======
-    "name": "绚岚之海灵 派比安",
-    "desc": "「绚岚」怪兽2只\r\n这个卡名的①②③的效果1回合各能使用1次。\r\n①：这张卡连接召唤的场合才能发动。从自己的卡组·墓地把1张「旋风」加入手卡。\r\n②：以包含「绚岚」怪兽的场上2只表侧表示怪兽为对象才能发动。那些怪兽当作永续魔法卡使用在原本持有者的魔法与陷阱区域以表侧表示放置。\r\n③：速攻魔法卡发动的场合才能发动。从自己的卡组·墓地把1张「绚岚」永续陷阱卡在自己场上以表侧表示放置。",
->>>>>>> Stashed changes
     "overallString": "[Monster|Effekt|Link] Aqua/Wind  [LINK-2] 0/-  [↙][↘]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303049.jpg?version=15.13"
   },
   {
-<<<<<<< Updated upstream
     "name": "Glanztaifun-Begeisterung",
     "desc": "Falls diese Karte durch den Effekt von „Mystischer Raum-Taifun“ zerstört wird: Du kannst diese Karte setzen.\r\nAktiviere 1 dieser Effekte (aber du kannst jeden dieser Effekte von „Glanztaifun-Begeisterung“ nur einmal pro Spielzug verwenden);\r\n● Beschwöre 1 „Glanztaifun“-Monster der Stufe 6 oder niedriger als Spezialbeschwörung von deinem Friedhof.\r\n● Füge deiner Hand 1 „Mystischer Raum-Taifun“ von deinem Deck oder Friedhof hinzu.",
-=======
-    "name": "绚岚之轩昂",
-    "desc": "①：可以从以下效果选择1个发动（这个卡名的以下效果1回合各能选择1次）。\r\n●从自己墓地把1只6星以下的「绚岚」怪兽特殊召唤。\r\n●从自己的卡组·墓地把1张「旋风」加入手卡。\r\n②：这张卡被「旋风」的效果破坏的场合才能发动。这张卡在自己的魔法与陷阱区域盖放。",
->>>>>>> Stashed changes
     "overallString": "[Zauber|Schnell]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303065.jpg?version=15.13"
   },
   {
-<<<<<<< Updated upstream
     "name": "D/D/D-Weiserkönig Alfred",
     "desc": "2 „D/D“-Monster\r\nWährend deiner Main Phase: Du kannst 1 „D/D/D“-Fusionsmonster als Fusionsbeschwörung von deinem Extra Deck beschwören, indem du sein Material von deiner Hand, deiner Spielfeldseite und/oder deinen verbannten Karten ins Deck mischst.\r\nFalls diese Karte verbannt wird: Du kannst Permanente „Dunkler Vertrag“-Zauber/Fallen in deinem Friedhof und/oder von deinen verbannten Karten wählen, bis zur Anzahl der „D/D/D“-Monster, die du kontrollierst; lege sie offen auf deine Spielfeldseite.\r\nDu kannst jeden Effekt von „D/D/D-Weiserkönig Alfred“ nur einmal pro Spielzug verwenden.",
-=======
-    "name": "DDD 圣贤王 阿尔弗雷德",
-    "desc": "「DD」怪兽×2\r\n这个卡名的①②的效果1回合各能使用1次。\r\n①：自己主要阶段才能发动。自己手卡·场上·除外状态的怪兽作为融合素材回到卡组，把1只「DDD」融合怪兽融合召唤。\r\n②：这张卡被除外的场合，以最多有自己场上的「DDD」怪兽数量的，自己墓地·除外状态的「契约书」永续魔法·永续陷阱卡为对象才能发动。那些卡在自己场上以表侧表示放置。",
->>>>>>> Stashed changes
     "overallString": "[Monster|Effekt|Fusion] Unterweltler/Finsternis  [★6] 1500/2000",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303033.jpg?version=15.13"
   },
   {
-<<<<<<< Updated upstream
     "name": "Verbotene Krone",
     "desc": "Kein Spieler kann Monstereffekte als Reaktion auf die Aktivierung dieser Karte aktivieren.\r\nWende diese Effekte, bis zur End Phase dieses Spielzugs, auf 1 offenes Monster auf dem Spielfeld an.\r\n● Seine Effekte werden annulliert.\r\n● Es kann nicht angreifen.\r\n● Es kann weder durch Kampf noch durch Karteneffekte zerstört werden.\r\n● Es bleibt von aktivierten Effekten anderer Karten unberührt, außer von seinen eigenen.\r\n● Es kann nicht als Tribut angeboten werden.\r\n● Es kann nicht als Material für eine Fusions-, Synchro-, Xyz- oder Linkbeschwörung verwendet werden.\r\nDu kannst nur 1 „Verbotene Krone“ pro Spielzug aktivieren.",
-=======
-    "name": "禁忌的圣冠",
-    "desc": "这个卡名的卡在1回合只能发动1张，不能对应这张卡的发动让怪兽的效果发动。\r\n①：选场上1只表侧表示怪兽，直到回合结束时适用以下效果。\r\n●效果无效化。\r\n●不能攻击。\r\n●不会被战斗·效果破坏。\r\n●不受自身以外的卡发动的效果影响。\r\n●不能解放。\r\n●不能作为融合·同调·超量·连接召唤的素材。",
->>>>>>> Stashed changes
     "overallString": "[Zauber|Schnell]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303067.jpg?version=15.13"
   },
   {
-<<<<<<< Updated upstream
     "name": "Bedrohungbewaffneter Drache",
     "desc": "Falls sich diese Karte in deinem Friedhof befindet: Du kannst 1 Drache-Monster wählen, das du kontrollierst; zerstöre es und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung.\r\nDu kannst 1 Karte abwerfen und dann 1 Monster auf dem Spielfeld mit 2400 oder weniger ATK wählen; zerstöre es, dann, falls du ein Monster, das du kontrollierst, zerstört hast, kannst du 1 Drache-Monster, dessen Grund-Stufe 2 höher ist als die des zerstörten Monsters, als Spezialbeschwörung von deiner Hand oder deinem Deck beschwören.\r\nDu kannst jeden Effekt von „Bedrohungbewaffneter Drache“ nur einmal pro Spielzug verwenden.",
-=======
-    "name": "威胁武装龙",
-    "desc": "这个卡名的①②的效果1回合各能使用1次。\r\n①：这张卡在墓地存在的场合，以自己场上1只龙族怪兽为对象才能发动。那只怪兽破坏，这张卡特殊召唤。\r\n②：丢弃1张手卡，以场上1只攻击力2400以下的怪兽为对象才能发动。那只怪兽破坏。把自己场上的怪兽破坏的场合，可以再从手卡·卡组把比那只怪兽原本等级高2星的1只龙族怪兽特殊召唤。",
->>>>>>> Stashed changes
     "overallString": "[Monster|Effekt] Drache/Wind  [★5] 2400/1700",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303028.jpg?version=15.13"
   },
@@ -719,13 +438,8 @@
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303208.jpg?version=15.13"
   },
   {
-<<<<<<< Updated upstream
     "name": "Diabolische Drachenfestung - Draluvice",
     "desc": "Das endgültige Schicksal der Jägerin, die die Drachenseuchen weiterverbreitete.\r\nNun ist sie selbst zur Quelle der Seuche geworden, zu einer Festung wirbelnder, dunkler, böser Gedanken und ironischerweise nun das Ziel der Rache anderer.\r\nSie kann nicht ahnen, dass das Einsatzteam, das vor ihr steht, aus den Überlebenden eines Dorfes besteht, das einst von einem Drachen verwüstet wurde.",
-=======
-    "name": "魔龙阁-邪龙恶灵",
-    "desc": "永不间断地喷吐着龙之诅咒的女战士的末路，她如今已是瘟疫的根源。那邪念翻涌的身姿仿佛巨塔，成为了人们复仇的对象。眼前正试图拦截她的讨伐队，正是昔日龙所毁灭的故乡村庄的幸存者们，然而如今的她无从知晓……",
->>>>>>> Stashed changes
     "overallString": "[Monster|Normal|Empfänger] Drache/Finsternis  [★7] 2300/2500",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100238301.jpg?version=15.13"
   }
