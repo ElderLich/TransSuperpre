@@ -1,542 +1,440 @@
 [
   {
-    "name": "救祓少女·卡尔麦勒",
-    "desc": "4星「救祓少女」怪兽×2\r\n这个卡名的①②的效果1回合各能使用1次。\r\n①：这张卡超量召唤的场合才能发动。这个回合的结束阶段，自己卡组·墓地·除外状态的1张「救祓少女」魔法·陷阱卡在自己场上盖放。\r\n②：对方把怪兽的效果·通常魔法·通常陷阱卡发动时才能发动。这张卡的超量素材全部取除，那个效果变成「从对方墓地让1张卡加入对方手卡」。",
-    "overallString": "[Monster|Effekt|Xyz] Fee/Finsternis  [☆4] 2600/1800",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303044.jpg?version=15.13"
-  },
-  {
-    "name": "救祓少女七曜悼歌",
-    "desc": "这个卡名的①②③的效果1回合各能使用1次。\r\n①：作为这张卡发动时的效果处理，以下效果适用。\r\n●从卡组把2只「救祓少女」怪兽加入手卡。那之后，选自己1张手卡丢弃。\r\n②：以自己场上1只表侧表示怪兽为对象才能发动。进行那只怪兽有卡名记述的1只「救祓少女」怪兽的召唤。\r\n③：怪兽被送去对方墓地的场合才能发动（伤害步骤也能发动）。对方把那之内1只除外。",
-    "overallString": "[Zauber|Permanente]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303066.jpg?version=15.13"
-  },
-  {
-    "name": "神艺智慧的少女",
-    "desc": "「神艺」怪兽×2\r\n「神艺智慧的少女」1回合1次，用融合召唤以及以下方法才能特殊召唤。\r\n●把手卡1张魔法·陷阱卡丢弃，并把自己手卡·场上的1只7星以上的「神艺」怪兽解放的场合可以从额外卡组特殊召唤。\r\n①：这张卡特殊召唤的场合才能发动。从卡组把1张「神艺」魔法·陷阱卡在自己场上盖放。\r\n②：对方回合1次，可以发动。自己场上的怪兽作为融合素材，把1只融合怪兽融合召唤。",
-    "overallString": "[Monster|Effekt|Fusion] Illusion/Erde  [★7] 2400/1500",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303035.jpg?version=15.13"
-  },
-  {
-    "name": "天雷之双风神 震旦",
-    "desc": "这个卡名的①的效果1回合只能使用1次。\r\n①：自己场上有风属性怪兽存在，对方把魔法·陷阱·怪兽的效果发动时才能发动。这张卡从手卡特殊召唤。那之后，根据那个对方的效果的种类把以下效果适用。\r\n●怪兽：「天雷之双风神 震旦」以外的场上的表侧表示怪兽全部回到手卡。\r\n●魔法·陷阱：场上的魔法·陷阱卡全部回到手卡。\r\n②：这张卡1回合只有1次不会被战斗破坏。",
-    "overallString": "[Monster|Effekt] Drache/Wind  [★9] 2900/1500",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303027.jpg?version=15.13"
-  },
-  {
-    "name": "磁石战士 电磁地神",
-    "desc": "这张卡不能通常召唤。把自己手卡·场上（表侧表示）·墓地的「磁石战士Σ+」「磁石战士Σ-」各1只除外的场合才能从墓地特殊召唤。\r\n①：1回合1次，对方把效果发动时，以对方场上1只怪兽为对象才能发动。那只怪兽破坏。以地属性怪兽为对象来发动的场合，可以作为代替得到那只怪兽的控制权。\r\n②：对方回合，把这张卡解放才能发动。自己除外状态的2只「磁石战士Σ」怪兽特殊召唤。",
-    "overallString": "[Monster|Effekt|Spezialbeschwörung] Fels/Erde  [★8] 2500/2500",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303004.jpg?version=15.13"
-  },
-  {
-    "name": "磁石战士Σ+",
-    "desc": "这个卡名的③的效果1回合只能使用1次。\r\n①：只要自己场上有地属性怪兽存在，可以攻击的对方怪兽必须向地属性怪兽攻击。\r\n②：只要对方场上有地属性怪兽存在，对方选择自身怪兽的攻击对象之际，那个攻击对象由自己选择。\r\n③：这张卡被送去墓地的场合，以除「磁石战士Σ+」外的，自己墓地1只4星以下的「磁石战士」怪兽为对象才能发动。那只怪兽加入手卡或者特殊召唤。",
-    "overallString": "[Monster|Effekt] Fels/Erde  [★4] 1800/1500",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303005.jpg?version=15.13"
-  },
-  {
-    "name": "磁石战士Σ-",
-    "desc": "这个卡名的①②的效果1回合各能使用1次。\r\n①：把手卡的这张卡给对方出示才能发动。包含手卡的这张卡的自己手卡·场上的岩石族怪兽作为融合素材，把1只融合怪兽融合召唤。\r\n②：这张卡召唤·特殊召唤的场合才能发动。从卡组把1只8星「磁石战士」怪兽送去墓地。\r\n③：1回合1次，双方的地属性怪兽之间进行战斗攻击宣言时才能发动。那次攻击无效。",
-    "overallString": "[Monster|Effekt] Fels/Erde  [★4] 1500/1800",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303006.jpg?version=15.13"
-  },
-  {
-    "name": "胜利蛇 Type-L",
-    "desc": "这个卡名的①②的效果1回合各能使用1次。\r\n①：自己战斗阶段开始时，可以从以下效果选择1个发动。\r\n●从手卡把1只机械族怪兽特殊召唤。\r\n●从卡组把1只4星以下的机械族·光属性怪兽送去墓地。\r\n②：这张卡被破坏的场合，以自己墓地的1只机械族·光属性怪兽为对象才能发动。那只怪兽特殊召唤。这个效果把原本攻击力在1200以下的怪兽特殊召唤的场合，那个攻击力上升1200。",
-    "overallString": "[Monster|Effekt] Maschine/Licht  [★4] 1200/800",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303020.jpg?version=15.13"
-  },
-  {
-    "name": "巨大战舰 德林加核",
-    "desc": "这个卡名的①②的效果1回合各能使用1次。\r\n①：把手卡1只其他「巨大战舰」怪兽给对方出示才能发动。这张卡从手卡特殊召唤。那之后，给这张卡放置3个指示物。\r\n②：自己·对方的主要阶段，可以把这张卡1个指示物取除，从以下效果选择1个发动。\r\n●从卡组把1张「头目连战」或者有那个卡名记述的魔法·陷阱卡加入手卡。\r\n●从自己墓地把1只9星以下的「巨大战舰」怪兽特殊召唤。",
-    "overallString": "[Monster|Effekt] Maschine/Licht  [★10] 1900/3000",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303021.jpg?version=15.13"
-  },
-  {
-    "name": "超巨大战舰 金属之仆",
-    "desc": "这个卡名的①的效果1回合只能使用1次。\r\n①：从手卡·卡组把10星以下的「巨大战舰」怪兽最多5只送去墓地（同名卡最多1张）才能发动。这张卡从手卡特殊召唤。那之后，以为让这个效果发动而送去墓地的数量给这张卡放置指示物。\r\n②：自己·对方回合，把这张卡1个指示物取除，以包含自己场上的「巨大战舰」怪兽的场上2张表侧表示卡为对象才能发动（同一连锁上最多1次）。那些卡破坏。",
-    "overallString": "[Monster|Effekt] Maschine/Finsternis  [★11] 3100/3100",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303022.jpg?version=15.13"
-  },
-  {
-    "name": "铁兽的炎工 姬特",
-    "desc": "这个卡名的①②的效果1回合各能使用1次。\r\n①：自己场上有「铁兽的炎工 姬特」以外的，「铁兽」怪兽或「护宝炮妖」怪兽存在的场合才能发动。这张卡从手卡特殊召唤。\r\n②：这张卡被送去墓地的场合才能发动。从自己墓地把除「铁兽的炎工 姬特」外的，以下怪兽之内1只守备表示特殊召唤。\r\n●「铁兽」怪兽\r\n●「护宝炮妖」怪兽\r\n●「阿不思的落胤」或者有那个卡名记述的怪兽",
-    "overallString": "[Monster|Effekt] Ungeheuer/Licht  [★4] 1700/1000",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303025.jpg?version=15.13"
-  },
-  {
-    "name": "超电导战骑 等离子磁炮王",
-    "desc": "岩石族·地属性怪兽×2\r\n这个卡名的①③的效果1回合各能使用1次。\r\n①：这张卡融合召唤的场合才能发动。从卡组把1张「磁石」通常·速攻·场地魔法卡加入手卡。\r\n②：只要这张卡在怪兽区域存在，场上的表侧表示怪兽变成地属性。\r\n③：从卡组把1只8星「磁石战士」怪兽送去墓地才能发动。进行1只4星以下的「磁石战士」怪兽的召唤。",
-    "overallString": "[Monster|Effekt|Fusion] Fels/Erde  [★7] 2300/2800",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303034.jpg?version=15.13"
-  },
-  {
-    "name": "全工联合！护宝炮妖！",
-    "desc": "4星「护宝炮妖」怪兽×2只以上\r\n这个卡名的①②的效果1回合只能有1次使用其中任意1个。\r\n①：这张卡超量召唤的场合或者被送去墓地的场合才能发动。从自己的卡组·墓地把1只「护宝炮妖船长 尾宿五」特殊召唤。\r\n②：把这张卡2个超量素材取除才能发动。从卡组选以下怪兽之内1只，加入手卡或特殊召唤。\r\n●「护宝炮妖」怪兽\r\n●「兽带斗神」怪兽\r\n●「阿不思的落胤」或者有那个卡名记述的怪兽",
-    "overallString": "[Monster|Effekt|Xyz] Maschine/Feuer  [☆4] 2500/1600",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303045.jpg?version=15.13"
-  },
-  {
-    "name": "拓扑逻辑冲击龙",
-    "desc": "效果怪兽2只以上\r\n自己不能在作为这张卡所连接区的额外怪兽区域让怪兽出现。\r\n①：这张卡在额外怪兽区域存在的状态，连接怪兽所连接区有怪兽特殊召唤的场合发动。从以下效果选1个适用。这个回合，自己的「拓扑逻辑冲击龙」的效果不能把相同效果适用。\r\n●这张卡以外的场上的怪兽全部回到卡组。\r\n●场上的魔法·陷阱卡全部回到卡组。\r\n●把对方额外卡组确认，把那之内1张除外。",
-    "overallString": "[Monster|Effekt|Link] Cyberse/Finsternis  [LINK-5] 3500/-  [↖][↑][↗][↙][↘]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303046.jpg?version=15.13"
-  },
-  {
-    "name": "磁石电化学结合",
-    "desc": "①：自己·对方的主要阶段，可以从以下效果选择1个发动（这个卡名的以下效果1回合各能选择1次）。\r\n●从卡组把1只「超电导战士 线性磁炮王±」或者4星以下的「磁石战士」怪兽加入手卡。\r\n●从卡组把1只8星「磁石战士」怪兽加入手卡。\r\n●自己手卡·场上·墓地·除外状态的岩石族怪兽作为融合素材回到卡组，把1只岩石族融合怪兽融合召唤。",
-    "overallString": "[Zauber|Schnell]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303053.jpg?version=15.13"
-  },
-  {
-    "name": "头目集结",
-    "desc": "这个卡名的卡在1回合只能发动1张。\r\n①：作为这张卡发动时的效果处理，从卡组把1只「巨大战舰」怪兽加入手卡。\r\n②：1回合1次，自己主要阶段才能发动。自己手卡·场上1只怪兽破坏，从卡组把1只攻击力1200而守备力1000以下的机械族·光属性怪兽在自己或对方场上特殊召唤。\r\n③：把墓地的这张卡除外才能发动。从自己的卡组·墓地把1张「头目连战」在自己场上以表侧表示放置。",
-    "overallString": "[Zauber|Permanente]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303064.jpg?version=15.13"
-  },
-  {
-    "name": "武器库整理",
-    "desc": "这个卡名的①②的效果1回合只能有1次使用其中任意1个。\r\n①：从卡组把最多2张装备魔法卡送去墓地（同名卡最多1张）。\r\n②：把墓地的这张卡除外，以自己场上的1只表侧表示怪兽为对象才能发动。从自己的手卡·墓地把那只怪兽可以装备的最多2张装备魔法卡给那只怪兽装备（同名卡最多1张）。只要这个效果装备的装备魔法卡存在，那只怪兽给与对方的战斗伤害变成一半。",
-    "overallString": "[Falle]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303078.jpg?version=15.13"
-  },
-  {
-    "name": "破坏与终焉的支配者",
-    "desc": "「世界末日」卡降临。\r\n这个卡名的②③的效果1回合各能使用1次。\r\n①：这张卡的卡名，只要在手卡·场上存在当作「终焉之王 迪米斯」使用。\r\n②：把手卡的这张卡给对方出示，支付2000基本分，从卡组把1张仪式魔法卡除外才能发动。那张仪式魔法卡发动时的仪式召唤效果适用。\r\n③：支付2000基本分才能发动。场上的其他卡全部破坏。那之后，这张卡的攻击力上升2900。",
-    "overallString": "[Monster|Effekt|Ritual] Unterweltler/Finsternis  [★10] 3000/2900",
+    "name": "Maître de la Fin du Monde",
+    "desc": "Vous pouvez Invoquer Rituellement cette carte avec une carte \"Fin du Monde\".\r\nLe nom de cette carte devient \"Peine, Roi de l'Armageddon\" tant qu'elle est dans la main ou Terrain.\r\nVous ne pouvez utiliser chacun des effets suivants de \"Maître de la Fin du Monde\" qu'une fois par tour.\r\nVous pouvez révéler cette carte dans votre main, payez 2000 LP, et bannissez 1 Magie Rituelle depuis votre Deck ; appliquez l'effet d'activation de la carte qui Invoque Rituellement un monstre.\r\nVous pouvez payer 2000 LP ; détruisez autant d'autres cartes sur le Terrain que possible, puis cette carte gagne 2900 ATK.",
+    "overallString": "[Monstre|Effet|Rituel] Démon/Ténébres  [★10] 3000/2900",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100251001.jpg?version=15.13"
   },
   {
-    "name": "幻惑眼纳祭神",
-    "desc": "种族不同的恶魔族·幻想魔族·魔法师族怪兽×2\r\n这个卡名的①的效果1回合只能使用1次。\r\n①：这张卡特殊召唤的场合，或者这张卡进行过战斗的战斗阶段结束时才能发动。对方场上1只怪兽当作装备魔法卡使用给这张卡装备。\r\n②：这张卡的攻击力上升这张卡的效果装备中的怪兽的攻击力数值。\r\n③：这张卡和怪兽进行战斗的场合，那2只不会被那次战斗破坏。\r\n④：对方怪兽不能向其他怪兽攻击。",
-    "overallString": "[Monster|Effekt|Fusion] Illusion/Finsternis  [★1] 0/0",
+    "name": "Le Renoncé aux Yeux du Cauchemar",
+    "desc": "2 monstres de Types différents (Démon, Illusion, ou Magicien)\r\nSi cette carte est Invoquée Spécialement, ou à la fin de la Battle Phase, si cette carte a combattu : vous pouvez équiper 1 monstre contrôlé par votre adversaire à cette carte comme une Magie d'Équipement. Vous ne pouvez utiliser cet effet de \"Le Renoncé aux Yeux du Cauchemar\" qu'une fois par tour.\r\nGagne une ATK égale à la somme des ATK des monstres équipés.\r\nSi cette carte combat un monstre, aucun de ces 2 monstres ne peut être détruit par ce combat.\r\nLes monstres de votre adversaire ne peuvent pas cibler de monstres (celui-ci exclu) avec une attaque.",
+    "overallString": "[Monstre|Effet|Fusion] Illusion/Ténébres  [★1] 0/0",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100251002.jpg?version=15.13"
   },
   {
-    "name": "锁缚龙 扎镰",
-    "desc": "调整＋同调怪兽1只以上\r\n这个卡名的②的效果1回合只能使用1次。\r\n①：自己场上的这张卡作为同调素材的场合，可以把这张卡当作调整以外的怪兽使用。\r\n②：连锁卡的效果的发动的，魔法·陷阱·怪兽的效果发动时，可以从以下效果选择1个发动。\r\n●那个效果无效并破坏。\r\n●那个效果连锁的卡的效果无效并破坏。",
-    "overallString": "[Monster|Effekt|Empfänger|Synchro] Drache/Finsternis  [★7] 2800/2100",
+    "name": "Zaren le Dragon Enchaîné",
+    "desc": "1 Syntoniseur + 1+ Monstre Synchro\r\nSi cette carte que vous contrôlez va être utilisée comme Matériel Synchro, vous pouvez la traiter comme non-Syntoniseur.\r\nLorsque qu'une carte ou un effet est activé en réponse à l'activation d'une carte ou d'un effet (Effet Rapide) : vous pouvez activer 1 de ces effets ;\r\n● Annulez l'effet, et si vous le faites, détruisez la carte.\r\n● Annulez les effets de la carte à laquelle il a répondu, et si vous le faites, détruisez la carte.\r\nVous ne pouvez utiliser cet effet de \"Zaren le Dragon Enchaîné\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet|Syntoniseur|Synchro] Dragon/Ténébres  [★7] 2800/2100",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303042.jpg?version=15.13"
   },
   {
-    "name": "幻惑的操纵者",
-    "desc": "这个卡名的①②的效果1回合只能有1次使用其中任意1个。\r\n①：从卡组把1只幻想魔族怪兽送去墓地。\r\n②：自己场上有5星以上的幻想魔族怪兽存在的场合，自己主要阶段把墓地的这张卡除外，以对方墓地1只怪兽为对象才能发动。那只怪兽在自己场上特殊召唤。这个效果特殊召唤的怪兽在下个回合的结束阶段除外。",
-    "overallString": "[Zauber|Schnell]",
+    "name": "Main du Cauchemar",
+    "desc": "Envoyez 1 monstre Illusion depuis votre Deck au Cimetière.\r\nDurant votre Main Phase, si vous contrôlez un monstre Illusion de min. Niveau 5 : vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 monstre dans le Cimetière de votre adversaire ; Invoquez-le Spécialement sur votre Terrain, mais bannissez-le durant la End Phase du prochain tour.\r\nVous ne pouvez utiliser qu'1 effet de \"Main du Cauchemar\" par tour, et uniquement une fois le tour.",
+    "overallString": "[Magie|Jeu-Rapide]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303068.jpg?version=15.13"
   },
   {
-    "name": "骚动",
-    "desc": "这个卡名的①②的效果1回合各能使用1次。\r\n①：以场上1只里侧守备表示怪兽为对象才能发动。那只怪兽回到手卡。那之后，用这个效果把卡加入手卡的玩家可以从手卡把1只怪兽里侧守备表示特殊召唤。\r\n②：对方怪兽的攻击宣言时，把墓地的这张卡除外才能发动。场上1只里侧守备表示怪兽变成表侧攻击表示。",
-    "overallString": "[Zauber|Schnell]",
+    "name": "Émeute",
+    "desc": "Ciblez 1 monstre en Position de Défense face verso sur le Terrain ; renvoyez-le à la main, puis le joueur qui l'a ajouté à sa main peut Invoquer Spécialement 1 monstre depuis sa main en Position de Défense face verso.\r\nLorsqu'un monstre de l'adversaire déclare une attaque : vous pouvez bannir cette carte depuis votre Cimetière ; changez 1 monstre en Position de Défense face verso sur le Terrain en Position d'Attaque.\r\nVous ne pouvez utiliser chaque effet de \"Émeute\" qu'une fois par tour.",
+    "overallString": "[Magie|Jeu-Rapide]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303069.jpg?version=15.13"
   },
   {
-    "name": "龙骑兵团-建军者",
-    "desc": "这个卡名的①③的效果1回合各能使用1次。\r\n①：这张卡召唤·特殊召唤的场合才能发动。从卡组把1张「龙骑兵团」魔法·陷阱卡加入手卡。\r\n②：只要这张卡有装备卡装备中，自己的「龙骑兵团」怪兽不会被战斗破坏。\r\n③：以自己场上1张其他「龙骑兵团」怪兽卡为对象才能发动。那张卡回到手卡·额外卡组。那之后，可以从手卡把1只「龙骑兵团」怪兽特殊召唤。\r\n",
-    "overallString": "[Monster|Effekt] Geflügeltes Ungeheuer/Wind  [★4] 1200/1200",
+    "name": "Quirinus Dragunité",
+    "desc": "Vos monstres \"Dragunité\" ne peuvent pas être détruits au combat tant que cette carte est équipée avec une Carte d'Équipement.\r\nVous ne pouvez utiliser chacun des effets suivants de \"Quirinus Dragunité\" qu'une fois par tour.\r\nSi cette carte est Invoquée Normalement ou Spécialement : vous pouvez ajouter 1 Magie/Piège \"Dragunité\" depuis votre Deck à votre main.\r\nVous pouvez cibler 1 autre Carte Monstre \"Dragunité\" que vous contrôlez ; renvoyez-la à la main/Extra Deck, puis vous pouvez Invoquer Spécialement 1 monstre \"Dragunité\" depuis votre main.",
+    "overallString": "[Monstre|Effet] Bête Ailée/Vent  [★4] 1200/1200",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250018.jpg?version=15.13"
   },
   {
-    "name": "龙骑兵团-短弯刀龙",
-    "desc": "这个卡名的①②的效果1回合各能使用1次。\r\n①：把手卡·墓地的这张卡除外，以自己场上1只「龙骑兵团」怪兽为对象才能发动。从自己的卡组·墓地把1只龙族「龙骑兵团」怪兽当作装备魔法卡使用给作为对象的怪兽装备。\r\n②：把给「龙骑兵团」怪兽装备中的这张卡送去墓地，以对方场上1张表侧表示卡为对象才能发动。那张卡除外。",
-    "overallString": "[Monster|Effekt|Empfänger] Drache/Wind  [★2] 1300/1200",
+    "name": "Falchion Dragunité",
+    "desc": "Vous pouvez bannir cette carte depuis votre main ou Cimetière, puis ciblez 1 monstre \"Dragunité\" que vous contrôlez ; équipez-lui 1 monstre \"Dragunité\" Dragon depuis votre Deck ou Cimetière comme une Magie d'Équipement.\r\nVous pouvez envoyer cette carte équipée à un monstre \"Dragunité\" au Cimetière, puis ciblez 1 carte face recto contrôlée par votre adversaire ; bannissez-la.\r\nVous ne pouvez utiliser chaque effet de \"Falchion Dragunité\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet|Syntoniseur] Dragon/Vent  [★2] 1300/1200",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250019.jpg?version=15.13"
   },
   {
-    "name": "龙骑兵团骑士-战枪龙骑士",
-    "desc": "调整＋调整以外的同调怪兽1只以上\r\n这个卡名的①②的效果1回合各能使用1次。\r\n①：以最多有自己的魔法与陷阱区域的表侧表示的怪兽卡的数量的，对方场上的表侧表示卡为对象才能发动（这张卡有装备卡装备中的场合，这个效果在对方回合也能发动）。那些卡的效果直到回合结束时无效。\r\n②：这张卡装备中的场合才能发动。这张卡特殊召唤。那之后，可以从自己墓地把1只「龙骑兵团」调整特殊召唤。",
-    "overallString": "[Monster|Effekt|Synchro] Drache/Wind  [★8] 2900/2500",
+    "name": "Areus, Chevalier Dragunité",
+    "desc": "1 Syntoniseur + 1+ Monstre Synchro non-Syntoniseur\r\nVous pouvez cibler un nombre de cartes face recto contrôlées par votre adversaire, inférieur ou égal au nombre de Cartes Monstre face recto dans votre Zone Magie & Piège ; annulez leurs effets jusqu'à la fin de ce tour. Ceci est un Effet Rapide si cette carte est équipée avec une Carte d'Équipement.\r\nTant que cette carte est équipée à un monstre : vous pouvez Invoquer Spécialement cette carte, puis vous pouvez Invoquer Spécialement 1 Syntoniseur \"Dragunité\" depuis votre Cimetière.\r\nVous ne pouvez utiliser chaque effet de \"Areus, Chevalier Dragunité\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet|Synchro] Dragon/Vent  [★8] 2900/2500",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250020.jpg?version=15.13"
   },
   {
-    "name": "龙骑兵团统帅-乔治",
-    "desc": "包含调整的怪兽2只以上\r\n这个卡名的①③的效果1回合各能使用1次。\r\n①：这张卡连接召唤的场合，或者对方把怪兽特殊召唤的场合才能发动。从自己的额外卡组·墓地把1只5星以上的「龙骑兵团」怪兽特殊召唤。\r\n②：这张卡只要有「龙骑兵团」卡装备中，对方不能把墓地的怪兽的效果发动。\r\n③：对方把魔法·陷阱卡的效果发动时，把自己场上1张装备卡送去墓地才能发动。那个效果无效。",
-    "overallString": "[Monster|Effekt|Link] Drache/Wind  [LINK-4] 2400/-  [←][→][↙][↘]",
+    "name": "Georgius, Seigneur Dragunité",
+    "desc": "2+ monstres (un Syntoniseur inclus)\r\nVotre adversaire ne peut pas activer d'effets de monstre dans le Cimetière tant que cette carte est équipée avec une carte \"Dragunité\".\r\nVous ne pouvez utiliser chacun des effets suivants de \"Georgius, Seigneur Dragunité\" qu'une fois par tour.\r\nSi cette carte est Invoquée par Lien, ou votre adversaire Invoque Spécialement un ou plusieurs monstres : vous pouvez Invoquer Spécialement 1 monstre \"Dragunité\" de min. Niveau 5 depuis votre Extra Deck ou Cimetière.\r\nLorsque votre adversaire active une Carte Magie/Piège ou un effet de Magie/Piège (Effet Rapide) : vous pouvez envoyer 1 Carte d'Équipement que vous contrôlez au Cimetière ; annulez l'effet.",
+    "overallString": "[Monstre|Effet|Lien] Dragon/Vent  [LINK-4] 2400/-  [←][→][↙][↘]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250021.jpg?version=15.13"
   },
   {
-    "name": "耀圣的花诗 卢西娜",
-    "desc": "这个卡名的，①的方法的特殊召唤1回合只能有1次，②③的效果1回合各能使用1次。\r\n①：这张卡可以从手卡往自己的中央的主要怪兽区域特殊召唤。\r\n②：自己主要阶段才能发动。从卡组把「耀圣的花诗 卢西娜」以外的1只「耀圣」怪兽加入手卡。\r\n③：对方回合才能发动。自己主要怪兽区域的，这张卡和中央的怪兽的位置交换。那之后，可以让对方场上1只6星以下的怪兽回到手卡。",
-    "overallString": "[Monster|Effekt] Hexer/Feuer  [★6] 2500/1800",
+    "name": "Lucina Notelfiques",
+    "desc": "Vous pouvez Invoquer Spécialement cette carte (depuis votre main) dans votre Zone Monstre Main centrale. Vous ne pouvez Invoquer Spécialement \"Lucina Notelfiques\" qu'une fois par tour de cette façon.\r\nVous ne pouvez utiliser chacun des effets suivants de \"Lucina Notelfiques\" qu'une fois par tour.\r\nDurant votre Main Phase : vous pouvez ajouter 1 monstre \"Notelfiques\" (\"Lucina Notelfiques\" exclu) depuis votre Deck à votre main.\r\nDurant le tour de votre adversaire (Effet Rapide) : vous pouvez échanger la position de cette carte dans votre Zone Monstre Main et du monstre dans votre Zone Monstre Main centrale, puis vous pouvez renvoyer 1 monstre de max. Niveau 6 contrôlé par votre adversaire à la main.",
+    "overallString": "[Monstre|Effet] Magicien/Feu  [★6] 2500/1800",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303010.jpg?version=15.13"
   },
   {
-    "name": "耀圣的波诗 狄娜",
-    "desc": "这个卡名的，①的方法的特殊召唤1回合只能有1次，②③的效果1回合各能使用1次。\r\n①：这张卡可以从手卡往自己的中央的主要怪兽区域特殊召唤。\r\n②：自己主要阶段才能发动。从卡组把1张「耀圣」永续魔法卡在自己场上以表侧表示放置。\r\n③：对方回合才能发动。自己主要怪兽区域的，这张卡和中央的怪兽的位置交换。那之后，可以随机选对方1张手卡直到结束阶段以表侧除外。",
-    "overallString": "[Monster|Effekt] Hexer/Wasser  [★6] 2400/1800",
+    "name": "Dyina Notelfiques",
+    "desc": "Vous pouvez Invoquer Spécialement cette carte (depuis votre main) dans votre Zone Monstre Main centrale. Vous ne pouvez Invoquer Spécialement \"Dyina Notelfiques\" qu'une fois par tour de cette façon.\r\nVous ne pouvez utiliser chacun des effets suivants de \"Dyina Notelfiques\" qu'une fois par tour.\r\nDurant votre Main Phase : vous pouvez placer 1 Magie Continue \"Notelfiques\" depuis votre Deck face recto sur votre Terrain.\r\nDurant le tour de votre adversaire (Effet Rapide) : vous pouvez échanger la position de cette carte dans votre Zone Monstre Main et du monstre dans votre Zone Monstre Main centrale, puis vous pouvez bannir face recto 1 carte au hasard depuis la main de votre adversaire jusqu'à la End Phase.",
+    "overallString": "[Monstre|Effet] Magicien/Eau  [★6] 2400/1800",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303011.jpg?version=15.13"
   },
   {
-    "name": "耀圣的月诗 福尔图娜",
-    "desc": "这个卡名的，①的方法的特殊召唤1回合只能有1次，②③的效果1回合各能使用1次。\r\n①：这张卡可以从手卡往自己的中央的主要怪兽区域特殊召唤。\r\n②：自己主要阶段才能发动。从手卡·卡组把1张「耀圣」永续陷阱卡在自己场上以表侧表示放置。\r\n③：对方回合才能发动。自己主要怪兽区域的，这张卡和中央的怪兽的位置交换。那之后，可以让场上1张表侧表示的魔法·陷阱卡回到手卡。",
-    "overallString": "[Monster|Effekt] Hexer/Licht  [★6] 2200/1800",
+    "name": "Fortona Notelfiques",
+    "desc": "Vous pouvez Invoquer Spécialement cette carte (depuis votre main) dans votre Zone Monstre Main centrale. Vous ne pouvez Invoquer Spécialement \"Fortona Notelfiques\" qu'une fois par tour de cette façon.\r\nVous ne pouvez utiliser chacun des effets suivants de \"Fortona Notelfiques\" qu'une fois par tour.\r\nDurant votre Main Phase : vous pouvez placer 1 Piège Continu \"Notelfiques\" depuis votre main ou Deck face recto sur votre Terrain.\r\nDurant le tour de votre adversaire (Effet Rapide) : vous pouvez échanger la position de cette carte dans votre Zone Monstre Main et du monstre dans votre Zone Monstre Main centrale, puis vous pouvez renvoyer 1 Magie/Piège face recto sur le Terrain à la main.",
+    "overallString": "[Monstre|Effet] Magicien/Lumiére  [★6] 2200/1800",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303012.jpg?version=15.13"
   },
   {
-    "name": "火耀圣诗之狱神精",
-    "desc": "这个卡名的②③的效果1回合各能使用1次。\r\n①：自己不是同调怪兽不能从额外卡组特殊召唤。\r\n②：自己·对方的主要阶段，以自己的中央的主要怪兽区域的1只怪兽为对象才能发动。那只怪兽的等级直到回合结束时上升3。那之后，可以进行1只「耀圣」同调怪兽或「调狱神 朱诺拉」的同调召唤。\r\n③：这张卡作为同调素材被送去墓地的场合才能发动。从卡组把1张「耀圣」卡加入手卡。\r\n",
-    "overallString": "[Monster|Effekt|Empfänger] Unterweltler/Feuer  [★1] 300/200",
+    "name": "Mécène du Pouvoir Notelfiques",
+    "desc": "Vous ne pouvez pas Invoquer Spécialement (Monstres Synchro exclus) depuis l'Extra Deck.\r\nVous ne pouvez utiliser chacun des effets suivants de \"Mécène du Pouvoir Notelfiques\" qu'une fois par tour.\r\nDurant la Main Phase (Effet Rapide) : vous pouvez cibler le monstre dans votre Zone Monstre Main centrale ; augmentez son Niveau de 3 (jusqu'à la fin de ce tour), puis immédiatement après la résolution de cet effet, vous pouvez Invoquer par Synchronisation 1 \"Junora le Mécène du Pouvoir de la Syntonisation\" ou monstre \"Notelfiques\".\r\nSi cette carte est envoyée au Cimetière comme Matériel Synchro : vous pouvez ajouter 1 carte \"Notelfiques\" depuis votre Deck à votre main.",
+    "overallString": "[Monstre|Effet|Syntoniseur] Démon/Feu  [★1] 300/200",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303013.jpg?version=15.13"
   },
   {
-    "name": "调狱神 朱诺拉",
-    "desc": "调整＋调整以外的怪兽2只\r\n这张卡同调召唤的场合，也能把自己的中央的主要怪兽区域的1只怪兽当作调整使用。这个卡名的②的效果1回合只能使用1次。\r\n①：这张卡同调召唤的场合才能发动。对方场上的全部的表侧表示卡的效果无效化。\r\n②：自己·对方回合可以发动。和自己场上的「耀圣」怪兽相同纵列的，对方场上的全部怪兽直到回合结束时不能作为融合·同调·超量·连接召唤的素材。",
-    "overallString": "[Monster|Effekt|Synchro] Unterweltler/Feuer  [★10] 3100/3800",
+    "name": "Junora le Mécène du Pouvoir de la Syntonisation",
+    "desc": "1 Syntoniseur + 2 monstres non-Syntoniseur\r\nPour l'Invocation Synchro de cette carte, vous pouvez traiter 1 monstre dans votre Zone Monstre Main centrale comme un Syntoniseur.\r\nSi cette carte est Invoquée par Synchronisation : vous pouvez annuler les effets de toutes les cartes face recto actuellement contrôlées par votre adversaire.\r\n(Effet Rapide) : vous pouvez activer cet effet ; tous les monstres actuellement contrôlés par votre adversaire dans la même colonne que vos monstres \"Notelfiques\" ne peuvent pas être utilisés comme Matériel pour une Invocation Fusion, Synchro, Xyz, ou Lien jusqu'à la fin de ce tour. Vous ne pouvez utiliser cet effet de \"Junora le Mécène du Pouvoir de la Syntonisation\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet|Synchro] Démon/Feu  [★10] 3100/3800",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303039.jpg?version=15.13"
   },
   {
-    "name": "狱花之大耀圣 天堂火鸟",
-    "desc": "调整＋调整以外的怪兽1只以上\r\n这个卡名的②的效果1回合只能使用1次。\r\n①：这张卡只要在中央的主要怪兽区域存在，原本攻击力变成3000。\r\n②：自己·对方的主要阶段才能发动。从自己的手卡·墓地把1只6星以下的「耀圣」怪兽特殊召唤。那之后，可以把场上的全部的4星以上的怪兽的等级直到回合结束时下降3。这个回合，自己不是同调怪兽不能从额外卡组特殊召唤。",
-    "overallString": "[Monster|Effekt|Synchro] Pflanze/Feuer  [★7] ?/3000",
+    "name": "Stlitzia Séraphin Notelfiques",
+    "desc": "1 Syntoniseur + 1+ monstre non-Syntoniseur\r\nL'ATK d'origine de cette carte devient 3000 tant qu'elle est dans la Zone Monstre Main centrale.\r\nDurant la Main Phase (Effet Rapide) : vous pouvez Invoquer Spécialement 1 monstre \"Notelfiques\" de max. Niveau 6 depuis votre main ou Cimetière, puis vous pouvez réduire de 3 le Niveau de tous les monstres de min. Niveau 4 actuellement sur le Terrain jusqu'à la fin de ce tour, et aussi, vous ne pouvez pas Invoquer Spécialement (Monstres Synchro exclus) depuis l'Extra Deck le reste de ce tour. Vous ne pouvez utiliser cet effet de \"Stlitzia Séraphin Notelfiques\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet|Synchro] Plante/Feu  [★7] ?/3000",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303040.jpg?version=15.13"
   },
   {
-    "name": "终刻变转",
-    "desc": "这个卡名的①②的效果1回合各能使用1次。\r\n①：把「终刻变转」以外的自己手卡·卡组·场上（表侧表示）的1张「终刻」卡破坏。\r\n②：这张卡被效果破坏的场合才能发动。从自己墓地把「终刻变转」以外的1张「终刻」卡加入手卡。那之后，可以从手卡把1只「终刻」怪兽特殊召唤。",
-    "overallString": "[Zauber]",
+    "name": "Changeur DoomZ",
+    "desc": "Détruisez 1 carte \"DoomZ\" dans votre main, Deck, ou Terrain face recto (\"Changeur DoomZ\" exclue).\r\nSi cette carte est détruite par un effet de carte : vous pouvez ajouter 1 carte \"DoomZ\" (\"Changeur DoomZ\" exclue) depuis votre Cimetière à votre main, puis vous pouvez Invoquer Spécialement 1 monstre \"DoomZ\" depuis votre main.\r\nVous ne pouvez utiliser chaque effet de \"Changeur DoomZ\" qu'une fois par tour.",
+    "overallString": "[Magie]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303055.jpg?version=15.13"
   },
   {
-    "name": "耀圣诗章～回乡之平行歌～",
-    "desc": "这个卡名的②的效果1回合只能使用1次。\r\n①：自己的中央的主要怪兽区域的怪兽不会被效果破坏。\r\n②：从自己的手卡·场上把1只怪兽送去墓地才能发动。从卡组把和那只怪兽原本属性不同的1只「耀圣」怪兽守备表示特殊召唤。这个回合，自己不是同调怪兽不能从额外卡组特殊召唤。\r\n",
-    "overallString": "[Zauber|Permanente]",
+    "name": "Notelfiques ~Parallélisme du Retour~",
+    "desc": "Le monstre dans votre Zone Monstre Main centrale ne peut pas être détruit par des effets de carte.\r\nVous pouvez envoyer 1 monstre depuis votre main ou Terrain au Cimetière ; Invoquez Spécialement 1 monstre \"Notelfiques\" d'Attribut d'origine différent depuis votre Deck en Position de Défense, et aussi, vous ne pouvez pas Invoquer Spécialement (Monstres Synchro exclus) depuis l'Extra Deck le reste de ce tour. Vous ne pouvez utiliser cet effet de \"Notelfiques ~Parallélisme du Retour~\" qu'une fois par tour.",
+    "overallString": "[Magie|Continu]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303056.jpg?version=15.13"
   },
   {
-    "name": "耀圣诗章～再邂之三重唱～",
-    "desc": "①：对方不能把自己的中央的主要怪兽区域的怪兽作为效果的对象。\r\n②：根据自己的中央的主要怪兽区域的怪兽属性，这张卡得到以下效果。\r\n●炎·地：自己的同调怪兽向守备表示怪兽攻击的场合，给与对方攻击力超过那个守备力数值的战斗伤害。\r\n●水·风：自己场上的其他的表侧表示的魔法·陷阱卡不会被对方的效果破坏。\r\n●光·暗：自己受到的战斗伤害变成0。",
-    "overallString": "[Zauber|Permanente]",
+    "name": "Notelfiques ~Tercet de Réunion~",
+    "desc": "Votre adversaire ne peut pas cibler le monstre dans votre Zone Monstre Main centrale avec des effets de carte.\r\nCette carte gagne ces effets selon les Attributs du monstre dans votre Zone Monstre Main centrale.\r\n● FEU/TERRE : Si votre Monstre Synchro attaque un monstre en Position de Défense, infligez des dommages de combat perçants à votre adversaire.\r\n● EAU/VENT : Les autres Magies/Pièges face recto que vous contrôlez ne peuvent pas être détruits par les effets de carte de votre adversaire.\r\n● LUMIÈRE/TÉNÈBRES : Vous ne recevez aucun dommage de combat.",
+    "overallString": "[Magie|Continu]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303057.jpg?version=15.13"
   },
   {
-    "name": "开辟的预幻视",
-    "desc": "这个卡名的①②的效果1回合各能使用1次。\r\n①：自己场上有「无垢者 米底乌斯」存在的场合才能发动。从卡组选1只攻击力300/守备力200的怪兽，加入手卡或特殊召唤。\r\n②：自己主要阶段，把墓地的这张卡除外，以自己场上1只表侧表示怪兽为对象才能发动。这个回合，那只怪兽当作调整使用。",
-    "overallString": "[Zauber|Schnell]",
+    "name": "Théoréalisation Libérée",
+    "desc": "Si vous contrôlez \"Medius le Pur\" : ajoutez à votre main, ou Invoquez Spécialement, 1 monstre avec 300 ATK/200 DEF depuis votre Deck.\r\nDurant votre Main Phase : vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 monstre face recto que vous contrôlez ; il est traité comme un Syntoniseur ce tour.\r\nVous ne pouvez utiliser chaque effet de \"Théoréalisation Libérée\" qu'une fois par tour.",
+    "overallString": "[Magie|Jeu-Rapide]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303058.jpg?version=15.13"
   },
   {
-    "name": "耀圣诗章～托选之高洁曲～",
-    "desc": "这个卡名的，②的效果1回合只能使用1次，①②的效果不能在同一连锁上发动。\r\n①：1回合1次，以自己场上1只表侧表示怪兽为对象才能发动。那只自己怪兽的位置向其他的自己主要怪兽区域移动。\r\n②：自己场上有「耀圣」怪兽3只以上存在，对方把魔法·陷阱卡发动时才能发动。那个效果无效。自己场上有同调怪兽存在的场合，可以再把那张无效的卡破坏。",
-    "overallString": "[Falle|Permanente]",
+    "name": "Notelfiques ~Alicetea de l'Oracle~",
+    "desc": "Vous ne pouvez pas activer les effets suivants de \"Notelfiques ~Alicetea de l'Oracle~\" dans la même Chaîne.\r\nUne fois par tour : vous pouvez cibler 1 monstre face recto que vous contrôlez ; déplacez le monstre que vous contrôlez dans une autre de vos Zones Monstre Main.\r\nLorsque votre adversaire active une Carte Magie/Piège et que vous contrôlez min. 3 monstres \"Notelfiques\" : vous pouvez annuler l'effet, puis si vous contrôlez un Monstre Synchro, vous pouvez détruire la carte. Vous ne pouvez utiliser cet effet de \"Notelfiques ~Alicetea de l'Oracle~\" qu'une fois par tour.",
+    "overallString": "[Piège|Continu]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303071.jpg?version=15.13"
   },
   {
-    "name": "耀圣诗章～狂奏之吟游诗～",
-    "desc": "这个卡名的②的效果1回合只能使用1次。\r\n①：只要自己的中央的主要怪兽区域有怪兽存在，对方怪兽只能向那只怪兽攻击。\r\n②：从自己的手卡·场上把1只怪兽送去墓地，以和那只怪兽原本属性不同的自己墓地1只「耀圣」怪兽为对象才能发动。那只怪兽特殊召唤。那之后，自己场上有同调怪兽存在的场合，可以再把对方场上1张表侧表示卡的效果直到回合结束时无效。",
-    "overallString": "[Falle|Permanente]",
+    "name": "Notelfiques ~Rhapsodia Exaspérante~",
+    "desc": "Tant que vous avez un monstre dans votre Zone Monstre Main centrale, les monstres de votre adversaire ne peuvent pas attaquer, sauf pour attaquer le monstre.\r\nVous pouvez envoyer 1 monstre depuis votre main ou Terrain au Cimetière, puis ciblez 1 monstre \"Notelfiques\" d'Attribut d'origine différent dans votre Cimetière ; Invoquez-le Spécialement, puis si vous contrôlez un Monstre Synchro, vous pouvez annuler les effets d'1 carte face recto contrôlée par votre adversaire jusqu'à la fin de ce tour. Vous ne pouvez utiliser cet effet de \"Notelfiques ~Rhapsodia Exaspérante~\" qu'une fois par tour.",
+    "overallString": "[Piège|Continu]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303072.jpg?version=15.13"
   },
   {
-    "name": "废品战士/爆裂体",
-    "desc": "这张卡不能通常召唤，用「爆裂模式」的效果才能特殊召唤。\r\n①：这张卡的攻击力上升自己场上的「/爆裂体」怪兽的数量×1000，这张卡和怪兽进行战斗给与对方的战斗伤害变成2倍。\r\n②：场上的这张卡不受对方发动的怪兽的效果影响。\r\n③：这张卡被破坏的场合，以自己墓地的1只「废品战士」为对象才能发动。那只怪兽回到额外卡组。那之后，可以把那只怪兽当作同调召唤特殊召唤。",
-    "overallString": "[Monster|Effekt|Spezialbeschwörung] Krieger/Finsternis  [★7] 2800/1800",
+    "name": "Robot Guerrier/Mode Assaut",
+    "desc": "Ni Invocable Normalement ni Posable Normalement.\r\nUniquement Invocable Spécialement avec \"Activation Mode Assaut\".\r\nGagne 1000 ATK pour chaque monstre \"/Mode Assaut\" que vous contrôlez, et aussi, si cette carte combat un monstre, les dommages de combat qu'elle inflige à votre adversaire sont doublés.\r\nNon affectée par les effets de monstre activés de votre adversaire.\r\nSi cette carte est détruite : vous pouvez cibler 1 \"Robot Guerrier\" dans votre Cimetière ; renvoyez-le à l'Extra Deck, puis vous pouvez l'Invoquer Spécialement (ceci est traité comme une Invocation Synchro).",
+    "overallString": "[Monstre|Effet|Invocation Spéciale] Guerrier/Ténébres  [★7] 2800/1800",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303007.jpg?version=15.13"
   },
   {
-    "name": "深红剑士/爆裂体",
-    "desc": "这张卡不能通常召唤，用「爆裂模式」的效果才能特殊召唤。这个卡名的①的效果1回合只能使用1次。\r\n①：把手卡的这张卡给对方出示才能发动。从卡组把1张「爆裂模式」或者有那个卡名记述的卡加入手卡，这张卡回到卡组。\r\n②：对方不能把从额外卡组特殊召唤的5星以上的怪兽的效果发动。\r\n③：这张卡被破坏的场合才能发动。从自己墓地把1只「深红剑士」特殊召唤。",
-    "overallString": "[Monster|Effekt|Spezialbeschwörung] Krieger/Feuer  [★10] 3300/3100",
+    "name": "Épéiste Cramoisi/Mode Assaut",
+    "desc": "Ni Invocable Normalement ni Posable Normalement.\r\nUniquement Invocable Spécialement avec \"Activation Mode Assaut\".\r\nVous pouvez révéler cette carte dans votre main ; ajoutez 1 \"Activation Mode Assaut\" ou 1 carte qui le mentionne depuis votre Deck à votre main, et si vous le faites, mélangez cette carte dans le Deck. Vous ne pouvez utiliser cet effet de \"Épéiste Cramoisi/Mode Assaut\" qu'une fois par tour.\r\nVotre adversaire ne peut pas activer les effets des monstres de min. Niveau 5 Invoqués Spécialement depuis l'Extra Deck.\r\nSi cette carte est détruite : vous pouvez Invoquer Spécialement 1 \"Épéiste Cramoisi\" depuis votre Cimetière.",
+    "overallString": "[Monstre|Effet|Invocation Spéciale] Guerrier/Feu  [★10] 3300/3100",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303008.jpg?version=15.13"
   },
   {
-    "name": "爆裂巫妖",
-    "desc": "这个卡名的①③的效果1回合各能使用1次。\r\n①：这张卡召唤·特殊召唤的场合才能发动。从自己墓地把1只有「爆裂模式」的卡名记述的怪兽或者4星以下的不死族怪兽特殊召唤。\r\n②：自己场上的这张卡作为同调素材的场合，可以把这张卡当作调整以外的怪兽使用。\r\n③：这张卡作为同调素材被送去墓地的场合才能发动。从卡组把1张「爆裂斩」或「爆裂反击」加入手卡。",
-    "overallString": "[Monster|Effekt|Empfänger] Zombie/Finsternis  [★4] 1500/0",
+    "name": "Liche d'Assaut",
+    "desc": "Si cette carte que vous contrôlez va être utilisée comme Matériel Synchro, vous pouvez la traiter comme non-Syntoniseur.\r\nVous ne pouvez utiliser chacun des effets suivants de \"Liche d'Assaut\" qu'une fois par tour.\r\nSi cette carte est Invoquée Normalement ou Spécialement : vous pouvez Invoquer Spécialement 1 monstre qui mentionne \"Activation Mode Assaut\" ou 1 monstre Zombie de max. Niveau 4 depuis votre Cimetière.\r\nSi cette carte est envoyée au Cimetière comme Matériel Synchro : vous pouvez ajouter 1 \"Lacération d'Assaut\" ou \"Contre d'Assaut\" depuis votre Deck à votre main.",
+    "overallString": "[Monstre|Effet|Syntoniseur] Zombie/Ténébres  [★4] 1500/0",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303009.jpg?version=15.13"
   },
   {
-    "name": "夜翼的祭司",
-    "desc": "调整＋调整以外的怪兽1只以上\r\n这个卡名的①②的效果1回合各能使用1次。\r\n①：这张卡特殊召唤的场合才能发动。从自己的手卡·卡组·墓地把1张「爆裂模式」在自己场上盖放。这个效果盖放的卡在盖放的回合也能发动。\r\n②：丢弃1张手卡才能发动。从卡组选有「爆裂模式」的卡名记述的1只怪兽，加入手卡或者特殊召唤。这个回合，自己不是同调怪兽不能从额外卡组特殊召唤。",
-    "overallString": "[Monster|Effekt|Synchro] Hexer/Wind  [★8] 2500/2500",
+    "name": "Prêtresse aux Ailes de Nuit",
+    "desc": "1 Syntoniseur + 1+ monstre non-Syntoniseur\r\nSi cette carte est Invoquée Spécialement : vous pouvez Poser 1 \"Activation Mode Assaut\" depuis votre main, Deck, ou Cimetière. Il peut être activé ce tour.\r\nVous pouvez défausser 1 carte ; ajoutez à votre main, ou Invoquez Spécialement, 1 monstre qui mentionne \"Activation Mode Assaut\" depuis votre Deck, et aussi, vous ne pouvez pas Invoquer Spécialement (Monstres Synchro exclus) depuis l'Extra Deck le reste de ce tour.\r\nVous ne pouvez utiliser chaque effet de \"Prêtresse aux Ailes de Nuit\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet|Synchro] Magicien/Vent  [★8] 2500/2500",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303038.jpg?version=15.13"
   },
   {
-    "name": "决斗进化-爆裂区",
-    "desc": "这个卡名的卡在1回合只能发动1张，这个卡名的③的效果1回合只能使用1次。\r\n①：作为这张卡发动时的效果处理，可以从自己的卡组·墓地把有「爆裂模式」的卡名记述的1只怪兽加入手卡。\r\n②：「/爆裂体」怪兽在特殊召唤的回合不会被战斗以及对方的效果破坏。\r\n③：支付2000基本分才能发动。这个回合只有1次，自己为让「爆裂模式」发动而解放的同调怪兽也能从额外卡组选。",
-    "overallString": "[Zauber|Spielfeld]",
+    "name": "Évolution du Duel - Zone d'Assaut",
+    "desc": "Lorsque cette carte est activée : vous pouvez ajouter 1 monstre qui mentionne \"Activation Mode Assaut\" depuis votre Deck ou Cimetière à votre main.\r\nLes monstres \"/Mode Assaut\" ne peuvent être détruits ni au combat ni par les effets de carte de votre adversaire durant le tour où ils sont Invoqués Spécialement.\r\nVous pouvez payer 2000 LP ; une fois ce tour, vous pouvez activer \"Activation Mode Assaut\" en Sacrifiant un Monstre Synchro dans l'Extra Deck. Vous ne pouvez utiliser cet effet de \"Évolution du Duel - Zone d'Assaut\" qu'une fois par tour.\r\nVous ne pouvez activer qu'1 \"Évolution du Duel - Zone d'Assaut\" par tour.",
+    "overallString": "[Magie|Terrain]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303054.jpg?version=15.13"
   },
   {
-    "name": "睡醒一杯！伯爵红茶",
-    "desc": "这个卡名的①②③的效果1回合各能使用1次。\r\n①：这张卡在手卡存在的场合才能发动。从自己手卡选1只其他反转怪兽丢弃，这张卡表侧攻击表示或里侧守备表示特殊召唤。\r\n②：这张卡反转的场合才能发动。把最多有自己场上的反转怪兽数量的，对方场上的表侧表示卡送去墓地。\r\n③：自己结束阶段，以自己墓地1只反转怪兽为对象才能发动。那只怪兽里侧守备表示特殊召唤。",
-    "overallString": "[Monster|Effekt|Flipp] Aqua/Wind  [★7] 2700/400",
+    "name": "TASSE DE RÉVEIL ! Erl",
+    "desc": "FLIP : Vous pouvez envoyer un nombre de cartes face recto contrôlées par votre adversaire au Cimetière, inférieur ou égal au nombre de monstres Flip que vous contrôlez.\r\nSi cette carte est dans votre main : vous pouvez défausser 1 autre monstre Flip, et si vous le faites, Invoquez Spécialement cette carte en Position d'Attaque ou en Position de Défense face verso.\r\nDurant votre End Phase : vous pouvez cibler 1 monstre Flip dans votre Cimetière ; Invoquez-le Spécialement en Position de Défense face verso.\r\nVous ne pouvez utiliser chaque effet de \"TASSE DE RÉVEIL ! Erl\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet|Flip] Aqua/Vent  [★7] 2700/400",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303029.jpg?version=15.13"
   },
   {
-    "name": "磁石战士Ω+",
-    "desc": "这个卡名的①②的效果1回合各能使用1次。\r\n①：这张卡在手卡·墓地存在的场合才能发动。这张卡以外的自己手卡·场上（表侧表示）的1只岩石族怪兽破坏，这张卡特殊召唤。这个效果特殊召唤的这张卡从场上离开的场合除外。\r\n②：场上的地属性怪兽的效果发动时，把这张卡解放，以场上1只表侧表示怪兽为对象才能发动。那只怪兽变成里侧守备表示。",
-    "overallString": "[Monster|Effekt] Fels/Erde  [★4] 800/1900",
+    "name": "Guerrier Magnétique Ω+",
+    "desc": "Si cette carte est dans votre main ou Cimetière : vous pouvez détruire 1 autre monstre Rocher dans votre main ou Terrain face recto, et si vous le faites, Invoquez Spécialement cette carte, mais bannissez-la lorsquelle quitte le Terrain.\r\nLorsqu'un monstre TERRE sur le Terrain active son effet (Effet Rapide) : vous pouvez Sacrifier cette carte, puis ciblez 1 monstre face recto sur le Terrain ; changez-le en Position de Défense face verso.\r\nVous ne pouvez utiliser chaque effet de \"Guerrier Magnétique Ω+\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet] Rocher/Terre  [★4] 800/1900",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100200280.jpg?version=15.13"
   },
   {
-    "name": "星辰铰龙 金牛天蝎龙魔",
-    "desc": "「星辰」怪兽+手卡的怪兽\r\n这个卡名的①②的效果1回合各能使用1次。\r\n①：以自己墓地的2张「星辰」卡，和与那之内的种类（怪兽·魔法·陷阱）相同的场上1张表侧表示卡为对象才能发动。那3张卡回到卡组。\r\n②：这张卡在墓地存在的状态，怪兽2只以上同时被送去墓地的场合才能发动。这张卡特殊召唤。这个效果特殊召唤的这张卡从场上离开的场合除外。",
-    "overallString": "[Monster|Effekt|Fusion] Drache/Licht  [★6] 2400/1500",
+    "name": "Shaurus Queudragon",
+    "desc": "1 monstre \"Queudragon\" + 1 monstre dans la main\r\nVous pouvez cibler 2 cartes \"Queudragon\" dans votre Cimetière, et 1 carte face recto sur le Terrain du même type (Monstre, Magie, ou Piège) qu'1 d'elles ; mélangez les 3 dans le Deck.\r\nSi min. 2 monstres sont envoyés au Cimetière en même temps, tant que cette carte est dans votre Cimetière (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte, mais bannissez-la lorsqu'elle quitte le Terrain.\r\nVous ne pouvez utiliser chaque effet de \"Shaurus Queudragon\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet|Fusion] Dragon/Lumiére  [★6] 2400/1500",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303037.jpg?version=15.13"
   },
   {
-    "name": "K9-EX “撕裂者/千岁”",
-    "desc": "9星怪兽×2\r\n这个卡名的①③的效果1回合各能使用1次。\r\n①：这张卡用「K9」魔法·陷阱卡的效果特殊召唤的场合，以对方墓地·除外状态的最多2张卡为对象才能发动。那些卡回到卡组。\r\n②：这张卡向守备表示怪兽攻击的场合，给与对方攻击力超过那个守备力数值的战斗伤害。\r\n③：对方把怪兽的效果发动时，把这张卡2个超量素材取除才能发动。那个效果无效。那之后，场上的卡全部破坏。",
-    "overallString": "[Monster|Effekt|Xyz] Ungeheuer/Wind  [☆9] 3100/2600",
+    "name": "K9-X \"Éventreuse/Millennia\"",
+    "desc": "2 monstres de Niveau 9\r\nSi cette carte attaque un monstre en Position de Défense, infligez des dommages de combat perçants à votre adversaire.\r\nVous ne pouvez utiliser chacun des effets suivants de \"K9-X \"Éventreuse/Millennia\"\" qu'une fois par tour.\r\nSi cette carte est Invoquée Spécialement par un effet de Magie/Piège \"K9\" : vous pouvez cibler max. 2 cartes dans le Cimetière et/ou bannissement de votre adversaire ; mélangez-les dans le Deck.\r\nLorsque votre adversaire active un effet de monstre (Effet Rapide) : vous pouvez détacher 2 Matériels de cette carte ; annulez l'effet, puis détruisez toutes les cartes sur le Terrain.",
+    "overallString": "[Monstre|Effet|Xyz] Bête/Vent  [☆9] 3100/2600",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303043.jpg?version=15.13"
   },
   {
-    "name": "协助抓取★味美喵",
-    "desc": "这个卡名的②③的效果1回合只能有1次使用其中任意1个。\r\n①：自己·对方的准备阶段1次，可以发动。自己回复100基本分，对方支付100基本分。\r\n②：自己·对方的主要阶段以及对方战斗阶段，把包含这张卡的自己场上的2张「味美喵」卡送去墓地才能发动。自己或对方场上·墓地的1张卡回到手卡。\r\n③：把墓地的这张卡除外才能发动。从卡组把「协助抓取★味美喵」以外的1张「味美喵」卡送去墓地。",
-    "overallString": "[Falle|Permanente]",
+    "name": "Assistance★Miammy !",
+    "desc": "Une fois par tour, durant la Standby Phase : vous pouvez gagner 100 LP, et si vous le faites, votre adversaire paye 100 LP.\r\nVous ne pouvez utiliser qu'1 des effets suivants de \"Assistance★Miammy !\" par tour, et uniquement une fois le tour.\r\nDurant la Battle Phase de votre adversaire ou la Main Phase : vous pouvez envoyer 2 cartes \"Miammy\" face recto que vous contrôlez au Cimetière (cette carte incluse) ; renvoyez 1 carte depuis le Terrain ou Cimetière à la main.\r\nVous pouvez bannir cette carte depuis votre Cimetière ; envoyez 1 carte \"Miammy\" (\"Assistance★Miammy !\" exclue) depuis votre Deck au Cimetière.",
+    "overallString": "[Piège|Continu]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303076.jpg?version=15.13"
   },
   {
-    "name": "绚岚之海灵 派比安",
-    "desc": "「绚岚」怪兽2只\r\n这个卡名的①②③的效果1回合各能使用1次。\r\n①：这张卡连接召唤的场合才能发动。从自己的卡组·墓地把1张「旋风」加入手卡。\r\n②：以包含「绚岚」怪兽的场上2只表侧表示怪兽为对象才能发动。那些怪兽当作永续魔法卡使用在原本持有者的魔法与陷阱区域以表侧表示放置。\r\n③：速攻魔法卡发动的场合才能发动。从自己的卡组·墓地把1张「绚岚」永续陷阱卡在自己场上以表侧表示放置。",
-    "overallString": "[Monster|Effekt|Link] Aqua/Wind  [LINK-2] 0/-  [↙][↘]",
+    "name": "Typhon Radieux Varuroon, l'Esprit de la Mer",
+    "desc": "2 monstres \"Typhon Radieux\"\r\nSi cette carte est Invoquée par Lien : vous pouvez ajouter 1 \"Typhon d'Espace Mystique\" depuis votre Deck ou Cimetière à votre main.\r\nVous pouvez cibler 2 monstres face recto sur le Terrain (un monstre \"Typhon Radieux\" que vous contrôlez inclus) ; placez-les face recto dans la Zone Magie & Piège de leur propriétaire comme Magies Continues.\r\nSi une Carte Magie Jeu-Rapide est activée (sauf durant la Damage Step) : vous pouvez placer 1 Piège Continu \"Typhon Radieux\" depuis votre Deck ou Cimetière face recto sur votre Terrain.\r\nVous ne pouvez utiliser chaque effet de \"Typhon Radieux Varuroon, l'Esprit de la Mer\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet|Lien] Aqua/Vent  [LINK-2] 0/-  [↙][↘]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303049.jpg?version=15.13"
   },
   {
-    "name": "绚岚之轩昂",
-    "desc": "①：可以从以下效果选择1个发动（这个卡名的以下效果1回合各能选择1次）。\r\n●从自己墓地把1只6星以下的「绚岚」怪兽特殊召唤。\r\n●从自己的卡组·墓地把1张「旋风」加入手卡。\r\n②：这张卡被「旋风」的效果破坏的场合才能发动。这张卡在自己的魔法与陷阱区域盖放。",
-    "overallString": "[Zauber|Schnell]",
+    "name": "Allégresse du Typhon Radieux",
+    "desc": "Si cette carte est détruite par l'effet de \"Typhon d'Espace Mystique\" : vous pouvez Poser cette carte.\r\nActivez 1 de ces effets (mais vous ne pouvez utiliser chacun de ces effets de \"Allégresse du Typhon Radieux\" qu'une fois par tour) ;\r\n● Invoquez Spécialement 1 monstre \"Typhon Radieux\" de max. Niveau 6 depuis votre Cimetière.\r\n● Ajoutez 1 \"Typhon d'Espace Mystique\" depuis votre Deck ou Cimetière à votre main.",
+    "overallString": "[Magie|Jeu-Rapide]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303065.jpg?version=15.13"
   },
   {
-    "name": "DDD 圣贤王 阿尔弗雷德",
-    "desc": "「DD」怪兽×2\r\n这个卡名的①②的效果1回合各能使用1次。\r\n①：自己主要阶段才能发动。自己手卡·场上·除外状态的怪兽作为融合素材回到卡组，把1只「DDD」融合怪兽融合召唤。\r\n②：这张卡被除外的场合，以最多有自己场上的「DDD」怪兽数量的，自己墓地·除外状态的「契约书」永续魔法·永续陷阱卡为对象才能发动。那些卡在自己场上以表侧表示放置。",
-    "overallString": "[Monster|Effekt|Fusion] Unterweltler/Finsternis  [★6] 1500/2000",
+    "name": "D/D/D Alfred, Roi Avisé",
+    "desc": "2 monstres \"D/D\"\r\nDurant votre Main Phase : vous pouvez Invoquer par Fusion 1 Monstre Fusion \"D/D/D\" depuis votre Extra Deck, en mélangeant ses Matériels depuis votre main, Terrain, et/ou bannissement dans le Deck.\r\nSi cette carte est bannie : vous pouvez cibler un nombre de Magies/Pièges Continus \"Contrat des Ténèbres\" dans votre Cimetière et/ou bannissement, inférieur ou égal au nombre de monstres \"D/D/D\" que vous contrôlez ; placez-les face recto sur votre Terrain.\r\nVous ne pouvez utiliser chaque effet de \"D/D/D Alfred, Roi Avisé\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet|Fusion] Démon/Ténébres  [★6] 1500/2000",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303033.jpg?version=15.13"
   },
   {
-    "name": "禁忌的圣冠",
-    "desc": "这个卡名的卡在1回合只能发动1张，不能对应这张卡的发动让怪兽的效果发动。\r\n①：选场上1只表侧表示怪兽，直到回合结束时适用以下效果。\r\n●效果无效化。\r\n●不能攻击。\r\n●不会被战斗·效果破坏。\r\n●不受自身以外的卡发动的效果影响。\r\n●不能解放。\r\n●不能作为融合·同调·超量·连接召唤的素材。",
-    "overallString": "[Zauber|Schnell]",
+    "name": "Couronne Interdite",
+    "desc": "Aucun joueur ne peut activer d'effets de monstre en réponse à l'activation de cette carte.\r\nAppliquez ces effets à 1 monstre face recto sur le Terrain, jusqu'à la fin de ce tour.\r\n● Ses effets sont annulés.\r\n● Il ne peut pas attaquer.\r\n● Il ne peut être détruit ni au combat ni par des effets de carte.\r\n● Il n'est pas affecté par les effets activés d'autres cartes (ses propres effets exclus).\r\n● Il ne peut pas être Sacrifié.\r\n● Il ne peut pas être utilisé comme Matériel pour une Invocation Fusion, Synchro, Xyz, ou Lien.\r\nVous ne pouvez activer qu'1 \"Couronne Interdite\" par tour.",
+    "overallString": "[Magie|Jeu-Rapide]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303067.jpg?version=15.13"
   },
   {
-    "name": "威胁武装龙",
-    "desc": "这个卡名的①②的效果1回合各能使用1次。\r\n①：这张卡在墓地存在的场合，以自己场上1只龙族怪兽为对象才能发动。那只怪兽破坏，这张卡特殊召唤。\r\n②：丢弃1张手卡，以场上1只攻击力2400以下的怪兽为对象才能发动。那只怪兽破坏。把自己场上的怪兽破坏的场合，可以再从手卡·卡组把比那只怪兽原本等级高2星的1只龙族怪兽特殊召唤。",
-    "overallString": "[Monster|Effekt] Drache/Wind  [★5] 2400/1700",
+    "name": "Dragon Armé Menaçant",
+    "desc": "Si cette carte est dans votre Cimetière : vous pouvez cibler 1 monstre Dragon que vous contrôlez ; détruisez-le, et si vous le faites, Invoquez Spécialement cette carte.\r\nVous pouvez défausser 1 carte, puis ciblez 1 monstre avec max. 2400 ATK sur le Terrain ; détruisez-le, puis si vous avez détruit un monstre que vous contrôlez, vous pouvez Invoquer Spécialement 1 monstre Dragon depuis votre main ou Deck dont le Niveau d'origine est supérieur de 2 à celui du monstre détruit.\r\nVous ne pouvez utiliser chaque effet de \"Dragon Armé Menaçant\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet] Dragon/Vent  [★5] 2400/1700",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303028.jpg?version=15.13"
   },
   {
-    "name": "Der Gefallene & Die Tugendhafte",
-    "desc": "(Diese Karte wird immer als „Markiert“- und „Dogmatika“-Karte behandelt.)\r\nAktiviere 1 dieser Effekte;\r\n● Lege 1 Monster, das „Gefallener von Albaz“ erwähnt, von deinem Extra Deck auf den Friedhof und dann wähle 1 offene Karte auf dem Spielfeld; zerstöre sie.\r\n● Falls du ein „Ecclesia“-Monster auf deiner Spielfeldseite oder in deinem Friedhof hast: Wähle 1 Monster in einem beliebigen Friedhof; beschwöre es als Spezialbeschwörung auf deine Spielfeldseite.\r\nDu kannst nur 1 „Der Gefallene & Die Tugendhafte“ pro Spielzug aktivieren.",
-    "overallString": "[Zauber|Schnell]",
+    "name": "Le Déchu et La Vertueuse",
+    "desc": "(Cette carte est toujours aussi traitée comme une carte \"Marqué\" et \"Dogmatika\".)\r\nActivez 1 de ces effets ;\r\n● Envoyez 1 monstre qui mentionne \"Albaz le Déchu\" depuis votre Extra Deck au Cimetière, puis ciblez 1 carte face recto sur le Terrain ; détruisez-la.\r\n● Si vous avez un monstre \"Ecclesia\" dans votre Terrain ou Cimetière : ciblez 1 monstre dans l'un des Cimetières ; Invoquez-le Spécialement sur votre Terrain.\r\nVous ne pouvez activer qu'1 \"Le Déchu et La Vertueuse\" par tour.",
+    "overallString": "[Magie|Jeu-Rapide]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100248019.jpg?version=15.13"
   },
   {
-    "name": "X-Säbel Perina",
-    "desc": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst diese Karte auf den Friedhof legen; beschwöre 2 „X-Säbel“-Monster als Spezialbeschwörung von deinem Deck, außer „X-Säbel Perina“, aber zerstöre sie während der End Phase.\r\nFalls diese Karte als Material für ein „X-Säbel“-Synchromonster auf den Friedhof gelegt wird: Du kannst 1 dieser Effekte ausführen.\r\n● Es kann während jeder Battle Phase einen zweiten Angriff durchführen.\r\n● Es kann direkt angreifen.\r\nDu kannst jeden Effekt von „X-Säbel Perina“ nur einmal pro Spielzug verwenden.",
-    "overallString": "[Monster|Effekt|Empfänger] Ungeheuer-Krieger/Erde  [★4] 1700/300",
+    "name": "Perina, Sabre X",
+    "desc": "Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez envoyer cette carte au Cimetière ; Invoquez Spécialement 2 monstres \"Sabre X\" (\"Perina, Sabre X\" exclu) depuis votre Deck, mais détruisez-les durant la End Phase.\r\nSi cette carte est envoyée au Cimetière comme Matériel pour un Monstre Synchro \"Sabre X\" : vous pouvez appliquer 1 de ces effets.\r\n● Il peut faire une seconde attaque durant chaque Battle Phase.\r\n● Il peut attaquer directement.\r\nVous ne pouvez utiliser chaque effet de \"Perina, Sabre X\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet|Syntoniseur] Bête-Guerrier/Terre  [★4] 1700/300",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250206.jpg?version=15.13"
   },
   {
-    "name": "X-Säbel Bruno",
-    "desc": "Einmal pro Spielzug, während der Main oder Battle Phase deines Gegners kannst du (Schnelleffekt): Sofort nachdem dieser Effekt aufgelöst wurde, beschwöre 1 Synchromonster nur mit ERDE Monstern, die du kontrollierst, einschließlich dieser Karte als Synchrobeschwörung.\r\nDu kannst jeden der folgenden Effekte von „X-Säbel Bruno“ nur einmal pro Spielzug verwenden.\r\nFalls sich diese Karte in deiner Hand befindet: Du kannst 1 anderes ERDE Monster von deiner Hand, offen von deiner Spielfeldseite oder deinem Friedhof verbannen; beschwöre diese Karte als Spezialbeschwörung.\r\nFalls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst deiner Hand 1 „Säbel“-Zauber/Falle von deinem Deck oder Friedhof hinzufügen.",
-    "overallString": "[Monster|Effekt|Empfänger] Psi/Erde  [★3] 1200/1100",
+    "name": "Bruno, Sabre X",
+    "desc": "Une fois par tour, durant la Main ou Battle Phase de votre adversaire, vous pouvez (Effet Rapide) : immédiatement après la résolution de cet effet, Invoquez par Synchronisation en utilisant uniquement des monstres TERRE que vous contrôlez (cette carte incluse).\r\nVous ne pouvez utiliser chacun des effets suivants de \"Bruno, Sabre X\" qu'une fois par tour.\r\nSi cette carte est dans votre main : vous pouvez bannir 1 autre monstre TERRE depuis votre main, Terrain face recto, ou Cimetière ; Invoquez Spécialement cette carte.\r\nSi cette carte est Invoquée Normalement ou Spécialement : vous pouvez ajouter 1 Magie/Piège \"Sabre\" depuis votre Deck ou Cimetière à votre main.",
+    "overallString": "[Monstre|Effet|Syntoniseur] Psychique/Terre  [★3] 1200/1100",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250207.jpg?version=15.13"
   },
   {
-    "name": "Kommandant Souza, Schwertmeister",
-    "desc": "1 Empfänger + 1+ ERDE Monster\r\n(Diese Karte wird immer als „X-Säbel“-Karte behandelt.)\r\nErhält für jedes verbannte Monster 200 ATK.\r\nWenn diese Karte ein Monster durch Kampf zerstört: Du kannst 1 Karte ziehen.\r\nEinmal pro Spielzug, wenn dein Gegner eine Karte oder einen Effekt aktiviert (Schnelleffekt): Du kannst 1 „X-Säbel“-Monster als Tribut anbieten; zerstöre 1 Karte, die dein Gegner kontrolliert.\r\nFalls diese Karte durch Kampf oder einen Karteneffekt zerstört würde, kannst du stattdessen 1 „X-Säbel“-Monster von deinem Friedhof verbannen.",
-    "overallString": "[Monster|Effekt|Synchro] Krieger/Erde  [★10] 2500/1600",
+    "name": "Commandant Souza, Maître de l'Épée",
+    "desc": "1 Syntoniseur + 1+ monstre TERRE\r\n(Cette carte est toujours traitée comme une carte \"Sabre X\".)\r\nGagne 200 ATK pour chaque monstre banni.\r\nLorsque cette carte détruit un monstre au combat : vous pouvez piocher 1 carte.\r\nUne fois par tour, lorsque votre adversaire active une carte ou un effet (Effet Rapide) : vous pouvez Sacrifier 1 monstre \"Sabre X\" ; détruisez 1 carte contrôlée par votre adversaire.\r\nSi cette carte va être détruite au combat ou par un effet de carte, vous pouvez bannir 1 carte \"Sabre\" depuis votre Cimetière à la place.",
+    "overallString": "[Monstre|Effet|Synchro] Guerrier/Terre  [★10] 2500/1600",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250208.jpg?version=15.13"
   },
   {
-    "name": "X-Säbel Gottoms",
-    "desc": "1 Empfänger + 1+ ERDE Monster\r\nFalls diese Karte als Synchrobeschwörung beschworen wird: Du kannst deiner Hand 1 „Säbel“- oder „Gottoms“-Zauber/Falle von deinem Deck hinzufügen.\r\nWenn diese Karte deinem Gegner Kampfschaden zufügt: Du kannst 1 zufällige Karte von seiner Hand abwerfen.\r\nWenn dein „X-Säbel“-Monster als Ziel für einen Angriff gewählt wird, solange sich diese Karte in deinem Friedhof befindet: Du kannst diese Karte als Spezialbeschwörung beschwören, dann ändere das Angriffsziel darauf.\r\nDu kannst jeden Effekt von „X-Säbel Gottoms“ nur einmal pro Spielzug verwenden.",
-    "overallString": "[Monster|Effekt|Synchro] Krieger/Erde  [★7] 2600/2100",
+    "name": "Gottoms, Sabre X",
+    "desc": "1 Syntoniseur + 1+ monstre TERRE\r\nSi cette carte est Invoquée par Synchronisation : vous pouvez ajouter 1 Magie/Piège \"Sabre\" ou \"Gottoms\" depuis votre Deck à votre main.\r\nLorsque cette carte inflige des dommages de combat à votre adversaire : vous pouvez défausser 1 carte au hasard depuis sa main.\r\nLorsque votre monstre \"Sabre X\" est ciblé par une attaque tant que cette carte est dans votre Cimetière : vous pouvez Invoquer Spécialement cette carte, puis transférez-lui la cible de l'attaque.\r\nVous ne pouvez utiliser chaque effet de \"Gottoms, Sabre X\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet|Synchro] Guerrier/Terre  [★7] 2600/2100",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250209.jpg?version=15.13"
   },
   {
-    "name": "Sternzeichen-Castor",
-    "desc": "Falls diese Karte beschworen wird: Du kannst 1 „Sternzeichen“-Monster als Spezialbeschwörung von deinem Deck beschwören, außer „Sternzeichen-Castor“, zusätzlich kannst du für den Rest dieses Spielzugs keine Spezialbeschwörungen vom Extra Deck durchführen, außer von LICHT und FINSTERNIS Monstern.\r\nDu kannst diesen Effekt von „Sternzeichen-Castor“ nur einmal pro Spielzug verwenden.\r\nEin „Sternzeichen“-Xyz-Monster, das diese Karte als Material hat, erhält diesen Effekt.\r\n● Einmal pro Spielzug, wenn dein Gegner eine Zauberkarte oder einen Zaubereffekt aktiviert (Schnelleffekt): Du kannst 2 Material von einem oder mehr Monstern abhängen, die du kontrollierst, und falls du dies tust, annulliere jenen Effekt und falls du dies tust, zerstöre jene Karte.",
-    "overallString": "[Monster|Effekt] Fee/Licht  [★4] 1700/600",
+    "name": "Castor de la Constellée",
+    "desc": "Si cette carte est Invoquée : vous pouvez Invoquer Spécialement 1 monstre \"Constellée\" (\"Castor de la Constellée\" exclu) depuis votre Deck, et aussi, vous ne pouvez pas Invoquer Spécialement (monstres LUMIÈRE et TÉNÈBRES exclus) depuis l'Extra Deck le reste de ce tour. Vous ne pouvez utiliser cet effet de \"Castor de la Constellée\" qu'une fois par tour.\r\nUn Monstre Xyz \"Constellée\" qui a cette carte comme Matériel gagne cet effet.\r\nUne fois par tour, lorsque votre adversaire active une Carte Magie ou effet de Magie (Effet Rapide) : vous pouvez détacher 2 Matériels d'un ou plusieurs monstres que vous contrôlez, et si vous le faites, annulez l'effet, et si vous faites ça, détruisez la carte.",
+    "overallString": "[Monstre|Effet] Elfe/Lumiére  [★4] 1700/600",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250201.jpg?version=15.13"
   },
   {
-    "name": "Sternritter Cygnian",
-    "desc": "(Diese Karte wird immer als „Sternzeichen“-Karte behandelt.)\r\nFalls diese Karte beschworen wird: Du kannst deiner Hand 1 „Sternritter“- oder „Sternzeichen“-Monster von deinem Deck hinzufügen.\r\nDu kannst 1 anderes LICHT Monster wählen, das du kontrollierst; erhöhe beide, ihre Stufe und die Stufe dieser Karte um 1.\r\nDiese Karte kann als 2 Material für die Xyz-Beschwörung eines „Sternritter“-Xyz-Monsters behandelt werden, das 3 oder mehr Material erfordert.\r\nDu kannst jeden Effekt von „Sternritter Cygnian“ nur einmal pro Spielzug verwenden.",
-    "overallString": "[Monster|Effekt] Krieger/Licht  [★4] 1500/1000",
+    "name": "Tellchevalier Cygnien",
+    "desc": "(Cette carte est toujours traitée comme une carte \"Constellée\".)\r\nSi cette carte est Invoquée : vous pouvez ajouter 1 monstre \"tellchevalier\" ou \"Constellée\" depuis votre Deck à votre main.\r\nVous pouvez cibler 1 autre monstre LUMIÈRE que vous contrôlez ; augmentez son Niveau ainsi que celui de cette carte de 1.\r\nCette carte peut être traitée comme 2 Matériels pour l'Invocation Xyz d'un Monstre Xyz \"tellchevalier\" qui nécessite min. 3 Matériels.\r\nVous ne pouvez utiliser chaque effet de \"Tellchevalier Cygnien\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet] Guerrier/Lumiére  [★4] 1500/1000",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250202.jpg?version=15.13"
   },
   {
-    "name": "Ex-Sternritter Sternzeichen-Ptolemaios Ω7",
-    "desc": "3 Monster der Stufe 7\r\nEinmal pro Spielzug, während deiner Main Phase 2, kannst du „Ex-Sternritter Sternzeichen-Ptolemaios Ω7“ auch als Xyz-Beschwörung beschwören, indem du ein „Sternritter“- oder „Sternzeichen“-Xyz-Monster, das du kontrollierst, als Material verwendest. (Transferiere sein Material an diese Karte.)\r\nSolange du 7 oder mehr „Sternritter“-Monster mit unterschiedlichen Namen in deinem Friedhof und/oder verbannten Karten hast, diese Karte erhält 2700 ATK/DEF, zusätzlich bleibt es von den aktivierten Karteneffekten deines Gegners unberührt.\r\nEinmal pro Spielzug (Schnelleffekt): Du kannst eine beliebige Anzahl Material von dieser Karte abhängen und dann so viele Monster wählen, die dein Gegner kontrolliert; mische sie ins Deck.",
-    "overallString": "[Monster|Effekt|Xyz] Maschine/Licht  [☆7] 2700/2700",
+    "name": "Exstellchevalier Ptolemy Ω7 de la Constellée",
+    "desc": "3 monstres de Niveau 7\r\nUne fois par tour, durant votre Main Phase 2, vous pouvez aussi Invoquer par Xyz \"Exstellchevalier Ptolemy Ω7 de la Constellée\" en utilisant un Monstre Xyz \"tellchevalier\" ou \"Constellée\" que vous contrôlez (transférez ses Matériels).\r\nTant que vous avez min. 7 monstres \"tellchevalier\" de noms différents dans votre Cimetière et/ou bannissement, cette carte gagne 2700 ATK/DEF, et aussi, elle n'est pas affectée par les effets activés de votre adversaire.\r\nUne fois par tour (Effet Rapide) : vous pouvez détacher un nombre de votre choix de Matériels de cette carte, puis ciblez autant de monstres contrôlés par votre adversaire ; mélangez-les dans le Deck.",
+    "overallString": "[Monstre|Effet|Xyz] Machine/Lumiére  [☆7] 2700/2700",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250203.jpg?version=15.13"
   },
   {
-    "name": "Sternritter Sternzeichen-Delteros",
-    "desc": "3+ Monster der Stufe 4\r\nDein Gegner kann keine „Sternritter“- oder „Sternzeichen“-Xyz-Monster des Rangs 5 oder höher, die du kontrollierst, nicht als Ziel für Karteneffekte wählen.\r\nEinmal pro Spielzug: Du kannst 1 Material von dieser Karte abhängen; füge deiner Hand  1 „Sternritter“- oder „Sternzeichen“-Monster von deinem Deck hinzu, dann, sofort nachdem dieser Effekt aufgelöst wurde, kannst du 1 LICHT Monster als Normalbeschwörung beschwören.\r\nFalls diese Karte auf den Friedhof gelegt wird, außer vom Spielfeld: Du kannst 1 „Sternritter“- oder „Sternzeichen“-Monster als Spezialbeschwörung von deiner Hand oder deinen verbannten Karten.",
-    "overallString": "[Monster|Effekt|Xyz] Krieger/Licht  [☆4] 2500/2500",
+    "name": "Tellchevalier Delteros de la Constellée",
+    "desc": "3+ monstres de Niveau 4\r\nVotre adversaire ne peut pas cibler les Monstres Xyz \"tellchevalier\" et \"Constellée\" de min. Rang 5 que vous contrôlez avec des effets de carte.\r\nUne fois par tour : vous pouvez détacher 1 Matériel de cette carte ; ajoutez 1 monstre \"tellchevalier\" ou \"Constellée\" depuis votre Deck à votre main, puis immédiatement après la résolution de cet effet, vous pouvez Invoquer Normalement 1 monstre LUMIÈRE.\r\nSi cette carte est envoyée au Cimetière, sauf depuis le Terrain : vous pouvez Invoquer Spécialement 1 monstre \"tellchevalier\" ou \"Constellée\" depuis votre main ou bannissement.",
+    "overallString": "[Monstre|Effet|Xyz] Guerrier/Lumiére  [☆4] 2500/2500",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250204.jpg?version=15.13"
   },
   {
-    "name": "Finsterlord Gulgalta",
-    "desc": "Du kannst nur einmal pro Spielzug einen oder mehr „Finsterlord Gulgalta“ als Spezialbeschwörung beschwören.\r\nFalls diese Karte als Spezialbeschwörung beschworen wird: Du kannst 2 „Finsterlord-Spielmarken“ (Typ Fee/FINSTERNIS/Stufe 6/ATK 0/DEF 0) als Spezialbeschwörung beschwören, zusätzlich kannst du für den Rest dieses Spielzugs keine Spezialbeschwörungen durchführen, außer von Fee-Monstern.\r\nFalls diese Karte auf den Friedhof gelegt wird: Du kannst deiner Hand 1 „Finsterlord“-Karte oder 1 „Verboten“-Schnellzauber von deinem Deck hinzufügen, außer „Finsterlord Gulgalta“.\r\nDu kannst diesen Effekt von „Finsterlord Gulgalta“ nur einmal pro Spielzug verwenden.",
-    "overallString": "[Monster|Effekt] Fee/Finsternis  [★6] 2400/800",
+    "name": "Ange Déchu Gulgalta",
+    "desc": "Vous ne pouvez Invoquer Spécialement un ou plusieurs \"Ange Déchu Gulgalta\" qu'une fois par tour.\r\nSi cette carte est Invoquée Spécialement : vous pouvez Invoquer Spécialement 2 \"Jeton Ange Déchu\" (Elfe/TÉNÈBRES/Niveau 6/ATK 0/DEF 0), et aussi, vous ne pouvez pas Invoquer Spécialement (monstres Elfe exclus) le reste de ce tour.\r\nSi cette carte est envoyée au Cimetière : vous pouvez ajouter 1 carte \"Ange Déchu\" ou Magie Jeu-Rapide \"Interdit\" (\"Ange Déchu Gulgalta\" exclue) depuis votre Deck à votre main. Vous ne pouvez utiliser cet effet de \"Ange Déchu Gulgalta\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet] Elfe/Ténébres  [★6] 2400/800",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303018.jpg?version=15.13"
   },
   {
-    "name": "Finsterlord Djehuty",
-    "desc": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 „Finsterlord“-Monster als Spezialbeschwörung von deinem Deck beschwören, außer „Finsterlord Djehuty“, zusätzlich kannst du für den Rest dieses Spielzugs keine Spezialbeschwörungen durchführen, außer von Fee-Monstern.\r\nFalls du ein FINSTERNIS Fee-Fusionsmonster kontrollierst: Du kannst diese Karte von deinem Friedhof verbannen und dann 1 „Finsterlord“-Karte oder 1 „Verboten“-Schnellzauber in deinem Friedhof wählen; füge sie/ihn deiner Hand hinzu.\r\nDu kannst jeden Effekt von „Finsterlord Djehuty“ nur einmal pro Spielzug verwenden.",
-    "overallString": "[Monster|Effekt] Fee/Finsternis  [★4] 0/0",
+    "name": "Ange Déchu Djehouty",
+    "desc": "Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez Invoquer Spécialement 1 monstre \"Ange Déchu\" (\"Ange Déchu Djehouty\" exclu) depuis votre Deck en Position de Défense, et aussi, vous ne pouvez pas Invoquer Spécialement (monstres Elfe exclus) le reste de ce tour.\r\nSi vous contrôlez un Monstre Fusion TÉNÈBRES Elfe : vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 carte \"Ange Déchu\" ou 1 Magie Jeu-Rapide \"Interdit\" dans votre Cimetière ; ajoutez-la à votre main.\r\nVous ne pouvez utiliser chaque effet de \"Ange Déchu Djehouty\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet] Elfe/Ténébres  [★4] 0/0",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303019.jpg?version=15.13"
   },
   {
-    "name": "Lucifer, Finsterlord der Abenddämmerung",
-    "desc": "2 FINSTERNIS Fee-Monster der Stufe 6 oder höher\r\nDein Gegner kann diese Karte nicht als Ziel für Karteneffekte wählen.\r\nDu kannst jeden der folgenden Effekte von „Lucifer, Finsterlord der Abenddämmerung“ nur einmal pro Spielzug verwenden.\r\nFalls diese Karte als Fusionsbeschwörung beschworen wird: Du kannst 1 „Finsterlord“-Zauber und 1 „Finsterlord“-Falle von deinem Deck setzen.\r\n(Schnelleffekt): Du kannst 1000 LP zahlen und dann 1 „Finsterlord“-Zauber/Falle in deinem Friedhof wählen; führe den Aktivierungseffekt des gewählten Ziels aus, dann mische das gewählte Ziel ins Deck.",
-    "overallString": "[Monster|Effekt|Fusion] Fee/Finsternis  [★12] 3000/3000",
+    "name": "Lucifer, Ange Déchu du Crépuscule",
+    "desc": "2 monstres TÉNÈBRES Elfe de min. Niveau 6\r\nVotre adversaire ne peut pas cibler cette carte avec des effets de carte.\r\nVous ne pouvez utiliser chacun des effets suivants de \"Lucifer, Ange Déchu du Crépuscule\" qu'une fois par tour.\r\nSi cette carte est Invoquée par Fusion : vous pouvez Poser 1 Magie \"Ange Déchu\" et 1 Piège \"Ange Déchu\" depuis votre Deck.\r\n(Effet Rapide) : vous pouvez payer 1000 LP, puis ciblez 1 Magie/Piège \"Ange Déchu\" dans votre Cimetière ; appliquez l'effet d'activation de la cible, puis mélangez la cible dans le Deck.",
+    "overallString": "[Monstre|Effet|Fusion] Elfe/Ténébres  [★12] 3000/3000",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303036.jpg?version=15.13"
   },
   {
-    "name": "Finsterlord-Vergnügen",
-    "desc": "Beschwöre 1 FINSTERNIS Fee-Fusionsmonster als Fusionsbeschwörung von deinem Extra Deck, indem du sein Material von deiner Hand, deiner Spielfeldseite und/oder deinem Friedhof verbannst und falls du dies tust, erhält es 1000 ATK.\r\nFalls du auf diese Art ein „Finsterlord“-Monster beschwörst, kannst du auch „Finsterlord“-Monster, die dein Gegner kontrolliert, als Material verwenden.\r\nDu kannst nur 1 „Finsterlord-Vergnügen“ pro Spielzug aktivieren.",
-    "overallString": "[Zauber]",
+    "name": "Plaisir Ange Déchu",
+    "desc": "Invoquez par Fusion 1 Monstre Fusion TÉNÈBRES Elfe depuis votre Extra Deck, en bannissant ses Matériels depuis votre main, Terrain, et/ou Cimetière, et si vous le faites, il gagne 1000 ATK. Si vous Invoquez un monstre \"Ange Déchu\" de cette façon, vous pouvez aussi utiliser des monstres \"Ange Déchu\" contrôlés par votre adversaire comme Matériel.\r\nVous ne pouvez activer qu'1 \"Plaisir Ange Déchu\" par tour.",
+    "overallString": "[Magie]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303063.jpg?version=15.13"
   },
   {
-    "name": "Rex, Sturm-Fellsöldner",
-    "desc": "Du kannst diese Karte in deiner Hand vorzeigen; beschwöre 1 „Fellsöldner“-Monster als Spezialbeschwörung von deiner Hand, außer „Rex, Sturm-Fellsöldner“, dann beschwöre diese Karte als Spezialbeschwörung.\r\nDu kannst diesen Effekt von „Rex, Sturm-Fellsöldner“ nur einmal pro Spielzug verwenden.\r\nFalls der Hand deines Gegners eine oder mehr Karten vom Deck durch einen nicht-„Fellsöldner“ Karteneffekt hinzugefügt werden und du ein anderes „Fellsöldner“-Monster kontrollierst: Du kannst 1 Karte ziehen.",
-    "overallString": "[Monster|Effekt] Dinosaurier/Wind  [★5] 2000/1200",
+    "name": "Rex, Vent Mercefourrure",
+    "desc": "Vous pouvez révéler cette carte dans votre main ; Invoquez Spécialement 1 monstre \"Mercefourrure\" (\"Rex, Vent Mercefourrure\" exclu) depuis votre main, puis Invoquez Spécialement cette carte. Vous ne pouvez utiliser cet effet de \"Rex, Vent Mercefourrure\" qu'une fois par tour.\r\nSi une ou plusieurs cartes sont ajoutées depuis le Deck à la main de votre adversaire par un effet de carte non-\"Mercefourrure\" et que vous contrôlez un autre monstre \"Mercefourrure\" : vous pouvez piocher 1 carte.",
+    "overallString": "[Monstre|Effet] Dinosaure/Vent  [★5] 2000/1200",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303017.jpg?version=15.13"
   },
   {
-    "name": "Keel, Schiffsbauer-Fellsöldner",
-    "desc": "2 Monster mit unterschiedlichen Typen\r\nFalls diese Karte als Linkbeschwörung beschworen wird: Du kannst 1 „Fellsöldner“-Zauber/Falle oder 1 „Fandora, die fliegende Fellstung“ von deinem Deck setzen, zusätzlich kannst du für den Rest dieses Spielzugs keine Spezialbeschwörungen durchführen, außer von „Fellsöldner“-Monstern.\r\nWährend des Spielzugs deines Gegners (Schnelleffekt): Du kannst diese Karte von deinem Friedhof verbannen und falls du dies tust, beschwöre 1 „Fellsöldner“-Monster als Spezialbeschwörung von deiner Hand, dann, falls dein Gegner ein Monster mit den höchsten Grund-ATK auf dem Spielfeld kontrolliert (selbst falls es einen Gleichstand gibt), kannst du 1 weiteres solches Monster als Spezialbeschwörung beschwören.\r\nDu kannst jeden Effekt von „Keel, Schiffsbauer-Fellsöldner“ nur einmal pro Spielzug verwenden.",
-    "overallString": "[Monster|Effekt|Link] Seeschlange/Wasser  [LINK-2] 1800/-  [←][↓]",
+    "name": "Keel, Charpentier Mercefourrure",
+    "desc": "2 monstres de Types différents\r\nSi cette carte est Invoquée par Lien : vous pouvez Poser 1 Magie/Piège \"Mercefourrure\" ou 1 \"Fondora, la Fourtoresse Volante\" depuis votre Deck, et aussi, vous ne pouvez pas Invoquer Spécialement (monstres \"Mercefourrure\" exclus) le reste de ce tour.\r\nDurant le tour de votre adversaire (Effet Rapide) : vous pouvez bannir cette carte depuis votre Cimetière, et si vous le faites, Invoquez Spécialement 1 monstre \"Mercefourrure\" depuis votre main, puis si votre adversaire contrôle un monstre avec la plus haute ATK d'origine sur le Terrain (même en cas d'égalité), vous pouvez Invoquer Spécialement 1 tel monstre en plus.\r\nVous ne pouvez utiliser chaque effet de \"Keel, Charpentier Mercefourrure\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet|Lien] Serpent de Mer/Eau  [LINK-2] 1800/-  [←][↓]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303050.jpg?version=15.13"
   },
   {
-    "name": "Fandora, die furchterregende fliegende Fellstung",
-    "desc": "(Diese Karte wird immer als „Fellsöldner“-Karte behandelt.)\r\n„Fellsöldner“-Monster, die du kontrollierst, erhalten 300 ATK für jedes „Fellsöldner“-Monster mit unterschiedlichen Namen, das du kontrollierst.\r\nDu kannst jeden der folgenden Effekte von „Fandora, die furchterregende fliegende Fellstung“ nur einmal pro Spielzug verwenden.\r\nWährend deiner Main Phase: Du kannst deiner Hand 1 „Fellsöldner“-Monster von deinem Deck hinzufügen, dann wirf 1 Karte ab.\r\nFalls ein oder mehr offene „Fellsöldner“-Monster, die du kontrollierst, durch einen Karteneffekt eines Gegners zerstört werden: Du kannst 1 „Fellsöldner“-Monster als Spezialbeschwörung von deinem Deck beschwören.",
-    "overallString": "[Zauber|Spielfeld]",
+    "name": "Fondora, la Fourtoresse Volante Redoutable",
+    "desc": "(Cette carte est toujours traitée comme une carte \"Mercefourrure\".)\r\nLes monstres \"Mercefourrure\" que vous contrôlez gagnent 300 ATK pour chaque monstre \"Mercefourrure\" de noms différents que vous contrôlez.\r\nVous ne pouvez utiliser chacun des effets suivants de \"Fondora, la Fourtoresse Volante Redoutable\" qu'une fois par tour.\r\nDurant votre Main Phase : vous pouvez ajouter 1 monstre \"Mercefourrure\" depuis votre Deck à votre main, puis défaussez 1 carte.\r\nSi un ou plusieurs monstres \"Mercefourrure\" face recto que vous contrôlez sont détruits par un effet de carte de l'adversaire : vous pouvez Invoquer Spécialement 1 monstre \"Mercefourrure\" depuis votre Deck.",
+    "overallString": "[Magie|Terrain]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303061.jpg?version=15.13"
   },
   {
-    "name": "Fellsöldner-Sturm",
-    "desc": "Falls du keine Monster kontrollierst: Beschwöre 1 „Fellsöldner“-Monster der Stufe 4 oder niedriger als Spezialbeschwörung von deinem Deck, dann, falls dein Gegner 2 oder mehr Monster kontrolliert, kannst du 1 „Fellsöldner“-Monster als Spezialbeschwörung von deinem Deck beschwören, zusätzlich kannst du für den Rest dieses Spielzugs keine Spezialbeschwörungen durchführen, außer von „Fellsöldner“-Monstern.\r\nFalls du ein oder mehr Karten abwerfen würdest, um den Effekt eines „Fellsöldner“-Monsters zu aktivieren, kannst du statt 1 der Karten diese Karte von deinem Friedhof verbannen.\r\nDu kannst jeden Effekt von „Fellsöldner-Sturm“ nur einmal pro Spielzug verwenden.",
-    "overallString": "[Zauber|Schnell]",
+    "name": "Tempête Mercefourrure",
+    "desc": "Si vous ne contrôlez aucun monstre : Invoquez Spécialement 1 monstre \"Mercefourrure\" de max. Niveau 4 depuis votre Deck, puis si votre adversaire contrôle min. 2 monstres, vous pouvez Invoquer Spécialement 1 monstre \"Mercefourrure\" depuis votre Deck, et aussi, vous ne pouvez pas Invoquer Spécialement (monstres \"Mercefourrure\" exclus) le reste de ce tour.\r\nSi vous allez défausser une ou plusieurs cartes pour activer l'effet d'un monstre \"Mercefourrure\", vous pouvez bannir cette carte depuis votre Cimetière au lieu de défausser 1 des cartes.\r\nVous ne pouvez utiliser chaque effet de \"Tempête Mercefourrure\" qu'une fois par tour.",
+    "overallString": "[Magie|Jeu-Rapide]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303062.jpg?version=15.13"
   },
   {
-    "name": "Fellsöldner-Geheimtechnik",
-    "desc": "Wähle offene Karten auf dem Spielfeld bis zur Anzahl der „Fellsöldner“-Monster mit unterschiedlichen Namen, die du kontrollierst; zerstöre sie, oder falls du ein „Fellsöldner“-Monster der Stufe 8 oder höher und ein „Fellsöldner“-Monster mit Link-3 oder höher kontrollierst, kannst du sie stattdessen verbannen.\r\nFalls ein oder mehr „Fellsöldner“-Monster der Stufe 8 oder höher und/oder ein oder mehr „Fellsöldner“-Monster mit Link-3 oder höher als Spezialbeschwörung auf deine Spielfeldseite beschworen werden, solange sich diese Karte in deinem Friedhof befindet: Du kannst diese Karte deiner Hand hinzufügen.\r\nDu kannst nur 1 Effekt von „Fellsöldner-Geheimtechnik“ pro Spielzug verwenden und in dem Spielzug nur einmal.",
-    "overallString": "[Falle]",
+    "name": "Technique Secrète Mercefourrure",
+    "desc": "Ciblez un nombre de cartes face recto sur le Terrain, inférieur ou égal au nombre de monstres \"Mercefourrure\" de noms différents que vous contrôlez ; détruisez-les, ou si vous contrôlez un monstre \"Mercefourrure\" de min. Niveau 8 et un monstre \"Mercefourrure\" de min. Link-3, vous pouvez les bannir à la place.\r\nSi un ou plusieurs monstres \"Mercefourrure\" de min. Niveau 8 et/ou de min. Link-3 sont Invoqués Spécialement sur votre Terrain tant que cette carte est dans votre Cimetière : vous pouvez ajouter cette carte à votre main.\r\nVous ne pouvez utiliser qu'1 effet de \"Technique Secrète Mercefourrure\" par tour, et uniquement une fois le tour.",
+    "overallString": "[Piège]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303075.jpg?version=15.13"
   },
   {
-    "name": "Königlicher Erzunterweltler",
-    "desc": "Du kannst diese Karte von deiner Hand oder von deiner Spielfeldseite als Tribut anbieten; füge deiner Hand 1 „Erzunterweltler“-Karte von deinem Deck hinzu, außer „Königlicher Erzunterweltler“, zusätzlich kannst du für den Rest dieses Spielzugs keine Spezialbeschwörungen vom Extra Deck durchführen, außer von „Erzunterweltler“-Monstern, zusätzlich kannst du in diesem Spielzug während deiner Main Phase zusätzlich zu deiner Normalbeschwörung / deinem Setzen 1 Unterweltler-Monster als Normalbeschwörung beschwören. (Du kannst diesen Effekt nur einmal pro Spielzug erhalten.)\r\nWenn dein Ritualmonster durch Kampf zerstört wird, solange sich diese Karte in deinem Friedhof befindet: Du kannst diese Karte als Spezialbeschwörung beschwören.\r\nDu kannst jeden Effekt von „Königlicher Erzunterweltler“ nur einmal pro Spielzug verwenden.",
-    "overallString": "[Monster|Effekt] Unterweltler/Feuer  [★7] 2400/1000",
+    "name": "Archdémon Royal",
+    "desc": "Vous pouvez Sacrifier cette carte depuis votre main ou Terrain ; ajoutez 1 carte \"Archdémon\" (\"Archdémon Royal\" exclue) depuis votre Deck à votre main, et aussi, le reste de ce tour, vous ne pouvez pas Invoquer Spécialement (monstres \"Archdémon\" exclus) depuis l'Extra Deck, et aussi, vous pouvez Invoquer Normalement 1 monstre Démon en plus de votre Invocation/Pose Normale (vous ne pouvez gagner cet effet qu'une fois par tour).\r\nLorsque votre Monstre Rituel est détruit au combat tant que cette carte est dans votre Cimetière : vous pouvez Invoquer Spécialement cette carte.\r\nVous ne pouvez utiliser chaque effet de \"Archdémon Royal\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet] Démon/Feu  [★7] 2400/1000",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303014.jpg?version=15.13"
   },
   {
-    "name": "Herzog Erzunterweltler",
-    "desc": "Erhält ATK in Höhe seiner Stufe x 200.\r\nDu kannst jeden der folgenden Effekte von „Herzog Erzunterweltler“ nur einmal pro Spielzug verwenden.\r\nDu kannst 1 offenes Monster wählen, das du kontrollierst; lege 1 „Erzunterweltler“-Monster von deinem Deck auf den Friedhof, außer „Herzog Erzunterweltler“, und falls du dies tust, erhöhe die Stufe des gewählten Monsters um die Stufe des auf den Friedhof gelegten Monsters.\r\nWenn dein Ritualmonster durch Kampf zerstört wird, solange sich diese Karte in deinem Friedhof befindet: Du kannst diese Karte als Spezialbeschwörung beschwören.",
-    "overallString": "[Monster|Effekt] Unterweltler/Wasser  [★4] 0/2000",
+    "name": "Duc Archdémon",
+    "desc": "Gagne une ATK égale à son Niveau x 200.\r\nVous ne pouvez utiliser chacun des effets suivants de \"Duc Archdémon\" qu'une fois par tour.\r\nVous pouvez cibler 1 monstre face recto que vous contrôlez ; envoyez 1 monstre \"Archdémon\" (\"Duc Archdémon\" exclu) depuis votre Deck au Cimetière, et si vous le faites, augmentez le Niveau du monstre ciblé de celui du monstre envoyé.\r\nLorsque votre Monstre Rituel est détruit au combat tant que cette carte est dans votre Cimetière : vous pouvez Invoquer Spécialement cette carte.",
+    "overallString": "[Monstre|Effet] Démon/Eau  [★4] 0/2000",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303015.jpg?version=15.13"
   },
   {
-    "name": "Hoheit Erzunterweltler",
-    "desc": "Falls diese Karte als Normalbeschwörung beschworen wird: Du kannst 1 „Erzunterweltler“-Karte von deinem Friedhof verbannen; füge deiner Hand 2 „Erzunterweltler“-Karten von deinem Deck hinzu, außer „Hoheit Erzunterweltler“, zusätzlich kannst du für den Rest dieses Spielzugs keine Spezialbeschwörungen vom Extra Deck durchführen, außer von „Erzunterweltler“-Monstern.\r\nWenn dein Ritualmonster durch Kampf zerstört wird, solange sich diese Karte in deinem Friedhof befindet: Du kannst diese Karte als Spezialbeschwörung beschwören.\r\nDu kannst jeden Effekt von „Hoheit Erzunterweltler“ nur einmal pro Spielzug verwenden.",
-    "overallString": "[Monster|Effekt] Unterweltler/Licht  [★3] 1000/800",
+    "name": "Altesse Archdémon",
+    "desc": "Si cette carte est Invoquée Normalement : vous pouvez bannir 1 carte \"Archdémon\" depuis votre Cimetière ; ajoutez 2 cartes \"Archdémon\" (\"Altesse Archdémon\" exclue) depuis votre Deck à votre main, et aussi, vous ne pouvez pas Invoquer Spécialement (monstres \"Archdémon\" exclus) depuis l'Extra Deck le reste de ce tour.\r\nLorsque votre Monstre Rituel est détruit au combat tant que cette carte est dans votre Cimetière : vous pouvez Invoquer Spécialement cette carte.\r\nVous ne pouvez utiliser chaque effet de \"Altesse Archdémon\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet] Démon/Lumiére  [★3] 1000/800",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303016.jpg?version=15.13"
   },
   {
-    "name": "Verhängnis Kaiser Erzunterweltler",
-    "desc": "Pendelbereich = 0\r\n[ Pendeleffekt ]\r\nDu kannst 1 andere/n offene/n Zauber/Falle auf dem Spielfeld wählen; zerstöre sowohl ihn oder sie als auch diese Karte.\r\nDu kannst diesen Effekt von „Verhängnis Kaiser Erzunterweltler“ nur einmal pro Spielzug verwenden.\r\n----------------------------------------\r\n[ Monstereffekt ]\r\nDu kannst diese Karte mit „Thron des Erzunterweltlers“ als Ritualbeschwörung beschwören.\r\nMuss als Ritualbeschwörung beschworen werden.\r\nBleibt von den Effekten anderer Monster unberührt, solange sie in der Extra-Monsterzone liegt.\r\nDu kannst jeden der folgenden Effekte von „Verhängnis Kaiser Erzunterweltler“ nur einmal pro Spielzug verwenden.\r\nFalls diese Karte als Ritualbeschwörung vom Extra Deck beschworen wird: Du kannst alle Monster auf dem Spielfeld verbannen, außer die in den Extra-Monsterzonen.\r\nFalls diese Karte in der Extra-Monsterzone liegt: Du kannst 1 Unterweltler-Monster als Spezialbeschwörung von deiner Hand, deinem Deck, deinem Friedhof oder deinen verbannten Karten beschwören.",
-    "overallString": "[Monster|Effekt|Ritual|Pendel] Unterweltler/Feuer  [★7] 2500/1200  0/0",
+    "name": "Empereur de la Mort Archdémon",
+    "desc": "Échelle Pendule = 0\r\n[ Effet Pendule ]\r\nVous pouvez cibler 1 autre Magie/Piège face recto sur le Terrain ; détruisez-le ainsi que cette carte. Vous ne pouvez utiliser cet effet de \"Empereur de la Mort Archdémon\" qu'une fois par tour.\r\n----------------------------------------\r\n[ Effet de Monstre ]\r\nVous pouvez Invoquer Rituellement cette carte avec \"Trône des Archdémons\".\r\nUniquement Invocable Rituellement.\r\nNon affectée par les effets d'autres monstres tant qu'elle est dans la Zone Monstre Extra.\r\nVous ne pouvez utiliser chacun des effets suivants de \"Empereur de la Mort Archdémon\" qu'une fois par tour.\r\nSi cette carte est Invoquée Rituellement depuis l'Extra Deck : vous pouvez bannir tous les monstres sur le Terrain (ceux dans la Zone Monstre Extra exclus).\r\nSi cette carte est dans la Zone Monstre Extra : vous pouvez Invoquer Spécialement 1 monstre Démon depuis votre main, Deck, Cimetière, ou bannissement.",
+    "overallString": "[Monstre|Effet|Rituel|Pendule] Démon/Feu  [★7] 2500/1200  0/0",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303031.jpg?version=15.13"
   },
   {
-    "name": "Thron des Erzunterweltlers",
-    "desc": "Diese Karte kann verwendet werden, um ein beliebiges „Erzunterweltler“-Ritualmonster als Ritualbeschwörung von deiner Hand, offen von deinem Extra Deck, deinem Friedhof oder deinen verbannten Karten zu beschwören.\r\nDu musst zusätzlich Monster von deiner Hand oder Spielfeldseite als Tribut anbieten, deren gemeinsame Stufe größer oder gleich der Stufe des Ritualmonsters ist.\r\nWährend der Standby Phase, falls sich „Verhängnis Kaiser Erzunterweltler“ offen in deinem Extra Deck befindet: Du kannst diese Karte von deinem Friedhof oder deinen verbannten Karten deiner Hand hinzufügen.\r\nDu kannst diesen Effekt von „Thron des Erzunterweltlers“ nur einmal pro Spielzug verwenden.",
-    "overallString": "[Zauber|Ritual]",
+    "name": "Trône des Archdémons",
+    "desc": "Cette carte peut être utilisée pour Invoquer Rituellement un Monstre Rituel \"Archdémon\" depuis votre main, Extra Deck face recto, Cimetière, ou bannissement. Vous devez aussi Sacrifier des monstres depuis votre main ou Terrain dont le Niveau total est supérieur ou égal au Niveau du Monstre Rituel que vous Invoquez Rituellement.\r\nDurant la Standby Phase, si vous avez \"Empereur de la Mort Archdémon\" face recto dans votre Extra Deck : vous pouvez ajouter cette carte depuis votre Cimetière ou bannissement à votre main. Vous ne pouvez utiliser cet effet de \"Trône des Archdémons\" qu'une fois par tour.",
+    "overallString": "[Magie|Rituel]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303059.jpg?version=15.13"
   },
   {
-    "name": "Strategiespiel des Erzunterweltlers",
-    "desc": "Unterweltler-Monster in den Extra-Monsterzonen erhalten 1000 ATK.\r\nDu kannst 1 dieser Effekte aktivieren;\r\n● Verbanne 1 Unterweltler-Monster oder 1 „Erzunterweltler“-Karte von deiner Hand oder deinem Friedhof; füge deiner Hand 1 „Erzunterweltler“-Karte von deinem Deck hinzu, außer einem Spielfeldzauber.\r\n● Füge deinem Extra Deck 1 „Erzunterweltler“-Pendelmonster von deinem Deck offen hinzu.\r\nDu kannst diesen Effekt von „Strategiespiel des Erzunterweltlers“ nur einmal pro Spielzug verwenden.",
-    "overallString": "[Zauber|Spielfeld]",
+    "name": "Jeu de Stratégie de l'Archdémon",
+    "desc": "Les monstres Démon dans la Zone Monstre Extra gagnent 1000 ATK.\r\nVous pouvez activer 1 de ces effets ;\r\n● Bannissez 1 monstre Démon ou carte \"Archdémon\" depuis votre main ou Cimetière ; ajoutez 1 carte \"Archdémon\" (Magies de Terrain exclues) depuis votre Deck à votre main.\r\n● Ajoutez 1 Monstre Pendule \"Archdémon\" depuis votre Deck à votre Extra Deck face recto.\r\nVous ne pouvez utiliser cet effet de \"Jeu de Stratégie de l'Archdémon\" qu'une fois par tour.",
+    "overallString": "[Magie|Terrain]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303060.jpg?version=15.13"
   },
   {
-    "name": "Scherz des Erzunterweltlers",
-    "desc": "Beschwöre 1 „Erzunterweltler“-Monster der Stufe 7 oder niedriger als Spezialbeschwörung von deiner Hand oder deinem Deck, oder falls du ein „Erzunterweltler“-Ritualmonster offen in deinem Extra Deck hast, kannst du stattdessen 1 „Königlicher Erzunterweltler“, 1 „Herzog Erzunterweltler“, und/oder 1 „Hoheit Erzunterweltler“ als Spezialbeschwörung von deiner Hand und/oder deinem Deck beschwören.\r\nDu kannst nur 1 „Scherz des Erzunterweltlers“ pro Spielzug aktivieren.",
-    "overallString": "[Falle]",
+    "name": "Plaisanterie de l'Archdémon",
+    "desc": "Invoquez Spécialement 1 monstre \"Archdémon\" de max. Niveau 7 depuis votre main ou Deck, ou si vous avez un Monstre Rituel \"Archdémon\" face recto dans votre Extra Deck, vous pouvez Invoquer Spécialement 1 \"Archdémon Royal\", 1 \"Duc Archdémon\", et/ou 1 \"Altesse Archdémon\" depuis votre main et/ou Deck à la place.\r\nVous ne pouvez activer qu'1 \"Plaisanterie de l'Archdémon\" par tour.",
+    "overallString": "[Piège]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303073.jpg?version=15.13"
   },
   {
-    "name": "Kraft des Erzunterweltlers",
-    "desc": "Falls du ein „Erzunterweltler“-Ritualmonster in der Extra-Monsterzone kontrollierst: Du kannst 1 offene Karte wählen, die dein Gegner kontrolliert; annulliere ihre Effekte bis zum Ende dieses Spielzugs.\r\nFalls diese Karte von der Hand oder vom Spielfeld verbannt wird: Du kannst deiner Hand 1 „Erzunterweltler“-Karte von deinem Deck hinzufügen, außer „Kraft des Erzunterweltlers“.\r\nDu kannst jeden Effekt von „Kraft des Erzunterweltlers“ nur einmal pro Spielzug verwenden.",
-    "overallString": "[Falle|Permanente]",
+    "name": "Vigueur de l'Archdémon",
+    "desc": "Si vous contrôlez un Monstre Rituel \"Archdémon\" dans la Zone Monstre Extra : vous pouvez cibler 1 carte face recto contrôlée par votre adversaire ; annulez ses effets jusqu'à la fin de ce tour.\r\nSi cette carte est bannie depuis la main ou Terrain : vous pouvez ajouter 1 carte \"Archdémon\" (\"Vigueur de l'Archdémon\" exclue) depuis votre Deck à votre main.\r\nVous ne pouvez utiliser chaque effet de \"Vigueur de l'Archdémon\" qu'une fois par tour.",
+    "overallString": "[Piège|Continu]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303074.jpg?version=15.13"
   },
   {
-    "name": "Magischer Musketenmeister Caspar",
-    "desc": "2 Monster, darunter ein LICHT Unterweltler-Monster\r\nFalls diese Karte als Linkbeschwörung beschworen wird: Du kannst 2 „Magische/r Musket“-Karten von deiner Hand und/oder deinem Deck nehmen, einschließlich einem Monster, beschwöre 1 dieser Monster als Spezialbeschwörung, und setze die andere Karte auf die Spielfeldseite deines Gegners.\r\nDu kannst diesen Effekt von „Magischer Musketenmeister Caspar“ nur einmal pro Spielzug verwenden.\r\nWährend des Spielzugs eines beliebigen Spielers kannst du „Magische/r Musket“-Zauber-/Fallenkarten von deiner Hand aktivieren.",
-    "overallString": "[Monster|Effekt|Link] Unterweltler/Licht  [LINK-2] 2000/-  [↑][↓]",
+    "name": "Caspar, Cerveau de la Magie de Mousquet",
+    "desc": "2 monstres (un monstre LUMIÈRE Démon inclus)\r\nSi cette carte est Invoquée par Lien : vous pouvez prendre 2 cartes \"Magie de Mousquet\" depuis votre main et/ou Deck (un monstre inclus), Invoquez Spécialement 1 des monstres, et Posez l'autre carte sur le Terrain de votre adversaire. Vous ne pouvez utiliser cet effet de \"Caspar, Cerveau de la Magie de Mousquet\" qu'une fois par tour.\r\nDurant le tour de chaque joueur, vous pouvez activer des Cartes Magie/Piège \"Magie de Mousquet\" depuis votre main.",
+    "overallString": "[Monstre|Effet|Lien] Démon/Lumiére  [LINK-2] 2000/-  [↑][↓]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100249001.jpg?version=15.13"
   },
   {
-    "name": "Der Stigmata-verschlingender Drache",
-    "desc": "„Gefallener von Albaz“ + 1 LICHT oder FINSTERNIS Monster + 1 Effektmonster\r\nSolange sich ein „Ecclesia“-Monster auf dem Spielfeld oder in einem beliebigen Friedhof befindet, erhält diese Karte 500 ATK, zusätzlich bleibt sie von den Effekten anderer Karten unberührt.\r\nDu kannst jeden der folgenden Effekte von „Der Stigmata-verschlingender Drache“ nur einmal pro Spielzug verwenden.\r\nFalls diese Karte als Spezialbeschwörung beschworen wird: Du kannst bis zu 2 Karten von einem beliebigen Friedhof und/oder den verbannten Karten ins Deck mischen.\r\nWährend der End Phase, falls sich diese Karte in deinem Friedhof befindet, weil sie in diesem Spielzug dorthin gelegt wurde: Du kannst deiner Hand 1 „Dogmatika“- oder „Sta-Brigade“-Karte von deinem Deck hinzu.",
-    "overallString": "[Monster|Effekt|Fusion] Ungeheuer/Finsternis  [★8] 3000/2500",
+    "name": "Le Dragon Dévoreur de Stigmates",
+    "desc": "\"Albaz le Déchu\" + 1 monstre LUMIÈRE ou TÉNÈBRES + 1 Monstre à Effet\r\nTant qu'un monstre \"Ecclésia\" est sur le Terrain ou dans l'un des Cimetières, cette carte gagne 500 ATK, et aussi, elle n'est pas affectée par les effets d'autres cartes.\r\nVous ne pouvez utiliser chacun des effets suivants de \"Le Dragon Dévoreur de Stigmates\" qu'une fois par tour.\r\nSi cette carte est Invoquée Spécialement : vous pouvez mélanger max. 2 cartes depuis les Cimetières et/ou bannissements dans le Deck.\r\nDurant la End Phase, si cette carte est dans votre Cimetière parce qu'elle y a été envoyée ce tour : vous pouvez ajouter 1 carte \"Dogmatika\" ou \"Tri-Brigade\" depuis votre Deck à votre main.",
+    "overallString": "[Monstre|Effet|Fusion] Bête/Ténébres  [★8] 3000/2500",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100248041.jpg?version=15.13"
   },
   {
-    "name": "Rakketen-Lader",
-    "desc": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst deiner Hand 1 FINSTERNIS Drache-Monster der Stufe 7 von deinem Deck hinzufügen, zusätzlich kannst du für den Rest dieses Spielzugs keine Spezialbeschwörungen vom Extra Deck durchführen, außer von FINSTERNIS Monstern.\r\nRakketen-Lader\r\nDu kannst diese Karte von deinem Friedhof verbannen und dann 1 offenes Monster auf dem Spielfeld wählen; es wird bis zum Ende dieses Spielzugs zu FINSTERNIS.\r\nDu kannst jeden Effekt von „Rakketen-Lader“ nur einmal pro Spielzug verwenden.",
-    "overallString": "[Monster|Effekt] Drache/Finsternis  [★4] 1500/1500",
+    "name": "Chargeur Rokkette",
+    "desc": "Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez ajouter 1 monstre TÉNÈBRES Dragon de Niveau 7 depuis votre Deck à votre main, et aussi, vous ne pouvez pas Invoquer Spécialement (monstres TÉNÈBRES exclus) depuis l'Extra Deck le reste de ce tour.\r\nVous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 monstre face recto sur le Terrain ; il devient TÉNÈBRES jusqu'à la fin de ce tour.\r\nVous ne pouvez utiliser chaque effet de \"Chargeur Rokkette\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet] Dragon/Ténébres  [★4] 1500/1500",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303201.jpg?version=15.13"
   },
   {
-    "name": "Hohlrakketen-Drache",
-    "desc": "Wenn der Effekt eines Linkmonsters aktiviert wird, der diese offene Karte auf dem Spielfeld als Ziel wählt (Schnelleffekt): Du kannst diese Karte zerstören, dann grabe die bis zu 6 obersten Karten des Decks deines Gegners aus und falls du dies tust, verbannen 1 ausgegrabene Karte und lege den Rest in derselben Reihenfolge auf das Deck.\r\nWährend der End Phase, falls sich diese Karte im Friedhof befindet, weil sie in diesem Spielzug auf dem Spielfeld durch Kampf oder einen Karteneffekt zerstört und dorthin gelegt wurde: Du kannst 1 „Rakkete“-Monster als Spezialbeschwörung von deinem Deck beschwören, außer „Hohlrakketen-Drache“. Du kannst jeden Effekt von „Hohlrakketen-Drache“ nur einmal pro Spielzug verwenden.",
-    "overallString": "[Monster|Effekt] Drache/Finsternis  [★6] 2400/1600",
+    "name": "Dragon Creurokkette",
+    "desc": "Lorsqu'un effet de Monstre Lien qui cible cette carte face recto sur le Terrain est activé (Effet Rapide) : vous pouvez détruire cette carte, puis dévoilez max. 6 cartes du dessus du Deck de votre adversaire, et si vous le faites, bannissez 1 carte dévoilée, et aussi, placez le reste au-dessus du Deck dans le même ordre.\r\nDurant la End Phase, si cette carte est dans le Cimetière parce qu'elle a été détruite sur le Terrain au combat ou par un effet de carte et y a été envoyée ce tour : vous pouvez Invoquer Spécialement 1 monstre \"Rokkette\" (\"Dragon Creurokkette\" exclu) depuis votre Deck.\r\nVous ne pouvez utiliser chaque effet de \"Dragon Creurokkette\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet] Dragon/Ténébres  [★6] 2400/1600",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303202.jpg?version=15.13"
   },
   {
-    "name": "Rakketen-Zünder",
-    "desc": "Falls du ein FINSTERNIS Drache-Linkmonster kontrollierst, kannst du diese Karte als Spezialbeschwörung (von deiner Hand) beschwören.\r\nDu kannst „Rakketen-Zünder“ nur einmal pro Spielzug auf diese Art als Spezialbeschwörung beschwören.\r\nDu kannst 1 FINSTERNIS Drache-Monsterkarte in deiner Zauber- & Fallenzone wählen, beschwöre sie als Spezialbeschwörung (aber es kann nicht angreifen, zusätzlich werden seine Effekte annulliert), zusätzlich kannst du für den Rest dieses Spielzugs keine Spezialbeschwörungen vom Extra Deck durchführen, außer von FINSTERNIS Monstern.\r\nDu kannst diesen Effekt von „Rakketen-Zünder“ nur einmal pro Spielzug verwenden.",
-    "overallString": "[Monster|Effekt] Drache/Finsternis  [★7] 1800/2500",
+    "name": "Détonateur Rokkette",
+    "desc": "Si vous contrôlez un Monstre Lien TÉNÈBRES Dragon, vous pouvez Invoquer Spécialement cette carte (depuis votre main). Vous ne pouvez Invoquer Spécialement \"Détonateur Rokkette\" qu'une fois par tour de cette façon.\r\nVous pouvez cibler 1 Carte Monstre TÉNÈBRES Dragon dans votre Zone Magie & Piège ; Invoquez-la Spécialement (mais elle ne peut pas attaquer, et aussi, ses effets sont annulés), et aussi, vous ne pouvez pas Invoquer Spécialement (monstres TÉNÈBRES exclus) depuis l'Extra Deck le reste de ce tour. Vous ne pouvez utiliser cet effet de \"Détonateur Rokkette\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet] Dragon/Ténébres  [★7] 1800/2500",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303203.jpg?version=15.13"
   },
   {
-    "name": "Kalliberlade-Tödlicher-Aufflacker-Drache",
-    "desc": "1 FINSTERNIS Linkmonster + 1 FINSTERNIS Monster\r\nFalls diese Karte als Fusionsbeschwörung beschworen wird: Du kannst deiner Hand 1 „Rakkete“-Monster von deinem Deck hinzufügen.\r\nDu kannst 1 FINSTERNIS Monster, das du kontrollierst, wählen; rüste es mit 1 FINSTERNIS Linkmonster von deinem Friedhof oder deinen verbannten Karten als Ausrüstungszauber aus, der ihr 500 ATK gibt. \r\nFalls diese Karte als Linkmaterial auf den Friedhof gelegt wird: Du kannst 1 Karte auf dem Spielfeld wählen; zerstöre sie. Du kannst jeden Effekt von „Kalliberlade-Tödlicher-Aufflacker-Drache“ nur einmal pro Spielzug verwenden.",
-    "overallString": "[Monster|Effekt|Fusion] Drache/Finsternis  [★8] 2500/2000",
+    "name": "Dragon Flamboiement Fatal Chargeborrelle",
+    "desc": "1 Monstre Lien TÉNÈBRES + 1 monstre TÉNÈBRES\r\nSi cette carte est Invoquée par Fusion : vous pouvez ajouter 1 monstre \"Rokkette\" depuis votre Deck à votre main.\r\nVous pouvez cibler 1 monstre TÉNÈBRES que vous contrôlez ; équipez-lui 1 Monstre Lien TÉNÈBRES depuis votre Cimetière ou bannissement comme une Magie d'Équipement qui lui donne 500 ATK.\r\nSi cette carte est envoyée au Cimetière comme Matériel Lien : vous pouvez cibler 1 carte sur le Terrain ; détruisez-la.\r\nVous ne pouvez utiliser chaque effet de \"Dragon Flamboiement Fatal Chargeborrelle\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet|Fusion] Dragon/Ténébres  [★8] 2500/2000",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303204.jpg?version=15.13"
   },
   {
-    "name": "Kalliberverkleidungs-Drache",
-    "desc": "3+ Effektmonster\r\nDein Gegner kann diese Karte auf dem Spielfeld nicht als Tribut anbieten.\r\nEinmal pro Spielzug, während der Main Phase (Schnelleffekt): Du kannst 1 „Rakkete“-Monster wählen, das du kontrollierst; annulliere die Effekte von 1 offenen Karte, die dein Gegner kontrolliert, dann zerstöre das Monster.\r\nDein Gegner kann weder Karten noch Effekte als Reaktion auf die Aktivierung dieses Effekts aktivieren.\r\nEinmal, solange diese Karte offen auf dem Spielfeld liegt, am Beginn der Battle Phase: Du kannst 1 „Kalliber“-Monster mit Link-4 oder niedriger als Spezialbeschwörung von deinem Extra Deck beschwören.",
-    "overallString": "[Monster|Effekt|Link] Drache/Finsternis  [LINK-5] 3500/-  [←][→][↙][↓][↘]",
+    "name": "Dragon Carénageborrelle",
+    "desc": "3+ Monstres à Effet\r\nVotre adversaire ne peut pas Sacrifier cette carte sur le Terrain.\r\nUne fois par tour, durant la Main Phase (Effet Rapide) : vous pouvez cibler 1 monstre \"Rokkette\" que vous contrôlez ; annulez les effets d'1 carte face recto contrôlée par votre adversaire, puis détruisez le monstre. Votre adversaire ne peut activer ni de cartes ni d'effets en réponse à l'activation de cet effet.\r\nUne fois, tant que cette carte est face recto sur le Terrain, au début de la Battle Phase : vous pouvez Invoquer Spécialement 1 Monstre Lien \"Borrelle\" de max. Link-4 depuis votre Extra Deck.",
+    "overallString": "[Monstre|Effet|Lien] Dragon/Ténébres  [LINK-5] 3500/-  [←][→][↙][↓][↘]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303205.jpg?version=15.13"
   },
   {
-    "name": "Dreikalliber-Drache",
-    "desc": "2+ FINSTERNIS Drache-Monster, darunter ein „Rakkete“-Monster\r\nFalls diese Karte als Linkbeschwörung beschworen wird: Du kannst deiner Hand 1 „Schnellfeuer“, „Starke Sperre“ oder „Doppelfeuer“ von deinem Deck hinzufügen.\r\nDu kannst 1 offene Karte, die du kontrollierst, und 1 FINSTERNIS Drache-Monster in deinem Friedhof wählen; zerstöre die Karte auf dem Spielfeld und falls du dies tust, füge deiner Hand das andere Monster vom Friedhof hinzu.\r\nDu kannst jeden Effekt von „Dreikalliber-Drache“ nur einmal pro Spielzug verwenden.",
-    "overallString": "[Monster|Effekt|Link] Drache/Finsternis  [LINK-3] 2300/-  [←][↙][↓]",
+    "name": "Dragon Trisborrelle",
+    "desc": "2+ monstres TÉNÈBRES Dragon (un monstre \"Rokkette\" inclus)\r\nSi cette carte est Invoquée par Lien : vous pouvez ajouter 1 \"Amorce Rapide\", \"Interverrouillage Lourd\", ou \"Amorce Double\" depuis votre Deck à votre main.\r\nVous pouvez cibler 1 carte face recto que vous contrôlez et 1 monstre TÉNÈBRES Dragon dans votre Cimetière ; détruisez la carte sur le Terrain, et si vous le faites, ajoutez l'autre monstre depuis votre Cimetière à votre main.\r\nVous ne pouvez utiliser chaque effet de \"Dragon Trisborrelle\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet|Lien] Dragon/Ténébres  [LINK-3] 2300/-  [←][↙][↓]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303206.jpg?version=15.13"
   },
   {
-    "name": "Doppelfeuer",
-    "desc": " Aktiviere 1 dieser Effekte (aber du kannst jeden Effekt von „Doppelfeuer“ nur einmal pro Spielzug verwenden);\r\n● Beschwöre 1 Fusionsmonster als Fusionsbeschwörung von deinem Extra Deck, indem du sein Material von deinem Friedhof verbannst, darunter ein „Rakkete“-Monster.\r\n● Beschwöre 1 Ritualmonster als Ritualbeschwörung von deiner Hand, indem du Monster von deinem Friedhof verbannst, deren gemeinsame Stufe größer oder gleich der Stufe des Monsters ist, darunter ein „Rakkete“-Monster.",
-    "overallString": "[Zauber]",
+    "name": "Amorce Double",
+    "desc": "Activez 1 de ces effets (mais vous ne pouvez utiliser chaque effet de \"Amorce Double\" qu'une fois par tour) ;\r\n● Invoquez par Fusion 1 Monstre Fusion depuis votre Extra Deck, en bannissant ses Matériels depuis votre Cimetière (un monstre \"Rokkette\" inclus).\r\n● Invoquez Rituellement 1 Monstre Rituel depuis votre main, en bannissant des monstres depuis votre Cimetière (un monstre \"Rokkette\" inclus) dont le Niveau total est supérieur ou égal au Niveau du monstre.",
+    "overallString": "[Magie]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303207.jpg?version=15.13"
   },
   {
-    "name": "Kalliberneustart",
-    "desc": "Wenn dein Gegner eine Zauber-/Fallenkarte aktiviert, solange du ein „Rakkete“- oder „Kalliber“-Monster kontrollierst: Annulliere die Aktivierung und falls du dies tust, setze jene Karte.\r\nSie kann in diesem Spielzug nicht aktiviert werden.\r\nDu kannst diese Karte von deiner Hand aktivieren, indem du die Hälfte deiner LP zahlst.",
-    "overallString": "[Falle|Konterfallen]",
+    "name": "Redémarrage Borrelle",
+    "desc": "Lorsque votre adversaire active une Carte Magie/Piège tant que vous contrôlez un monstre \"Rokkette\" ou \"Borrelle\" : annulez l'activation, et si vous le faites, Posez la carte. Elle ne peut pas être activée ce tour.\r\nVous pouvez activer cette carte depuis votre main en payant la moitié de vos LP.",
+    "overallString": "[Piège|Contre-Piège]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303208.jpg?version=15.13"
   },
   {
-    "name": "魔龙阁-邪龙恶灵",
-    "desc": "永不间断地喷吐着龙之诅咒的女战士的末路，她如今已是瘟疫的根源。那邪念翻涌的身姿仿佛巨塔，成为了人们复仇的对象。眼前正试图拦截她的讨伐队，正是昔日龙所毁灭的故乡村庄的幸存者们，然而如今的她无从知晓……",
-    "overallString": "[Monster|Normal|Empfänger] Drache/Finsternis  [★7] 2300/2500",
+    "name": "Forteresse du Dragon Diabolique - Draluvice",
+    "desc": "Le destin ultime de la chasseresse qui a continué à propager la contamination de dragon. Elle est désormais devenue la source du fléau, une forteresse de pensées sombres et maléfiques, et, ironiquement, est désormais la cible de la vengeance d'autres. Elle n'a aucun moyen de savoir que l'équipe d'intervention qui se tient devant elle est composée des survivants d'un village autrefois décimé par un dragon.",
+    "overallString": "[Monstre|Normal|Syntoniseur] Dragon/Ténébres  [★7] 2300/2500",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100238301.jpg?version=15.13"
   }
 ]
