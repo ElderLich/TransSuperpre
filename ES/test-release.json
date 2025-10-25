@@ -1,5 +1,35 @@
 [
   {
+    "name": "Oscuridad Mirando al Cielo Azul",
+    "desc": "Solo puedes usar los efectos ①, ② y ③ de \"Oscuridad Mirando al Cielo Azul\" una vez por turno.\r\n①: Si uno o más monstruos son Invocados de Modo Especial desde el Deck y/o Deck Extra por un efecto de monstruo activado de tu adversario mientras esta carta está en tu Cementerio: puedes Invocar esta carta de Modo Especial.\r\n②: Cuando se activa un efecto de monstruo que incluye Invocar uno o más monstruos de Modo Especial (Efecto Rápido): puedes desterrar 1 carta de tu mano o Campo; niega ese efecto, y si lo haces, destruye esa carta.\r\n③: Durante la End Phase, si esta carta está actualmente desterrada, y fue desterrada este turno: puedes devolver 1 de tus otros monstruos desterrados al Cementerio.",
+    "overallString": "[Monstruo|Efecto] Reptil/OSCURIDAD  [★10] 3000/2700",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303026.jpg?version=15.13"
+  },
+  {
+    "name": "Primer Pingüino",
+    "desc": "Solo puedes usar el efecto ② de \"Primer Pingüino\" una vez por turno.\r\n①: Si no controlas monstruos boca arriba, puedes Invocar esta carta de Modo Especial (desde tu mano), y si lo haces, es tratada como un Cantante.\r\n②: Puedes descartar 1 carta y revelar 1 Monstruo de Sincronía AGUA en tu Deck Extra; añade a tu mano 1 monstruo AGUA con el mismo Tipo que el monstruo revelado, pero con 1 Nivel menos, desde tu Deck, y después puedes cambiar esta carta a Posición de Defensa boca abajo, y además por el resto de este turno no puedes Invocar monstruos de Modo Especial desde el Deck Extra, excepto monstruos AGUA.",
+    "overallString": "[Monstruo|Efecto] Bestia Alada/AGUA  [★1] 100/100",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303030.jpg?version=15.13"
+  },
+  {
+    "name": "Arte de Ritual Prohibido",
+    "desc": "Solo puedes usar los efectos ① y ② de \"Arte de Ritual Prohibido\" una vez por turno cada uno.\r\n①: Invoca por Ritual 1 Monstruo de Ritual desde tu Cementerio, desterrando otros monstruos desde tu Cementerio cuyos Niveles totales sean exactamente iguales a su Nivel, pero destrúyelo durante la End Phase.\r\n②: Puedes desterrar esta carta en tu Cementerio; una vez este turno, cuando Invoques por Ritual con un efecto de carta que requiere monstruos, también puedes desterrar Monstruos de Ritual de tu Cementerio como monstruos usados para la Invocación por Ritual.",
+    "overallString": "[Trampa]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303077.jpg?version=15.13"
+  },
+  {
+    "name": "Reducción de la Punta de la Lengua",
+    "desc": "Solo puedes activar 1 \"Reducción de la Punta de la Lengua\" por turno.\r\n①: Cuando tu adversario activa una carta o efecto declarando exactamente 1 nombre de carta: niega ese efecto, y después puedes añadir a tu mano 1 carta con ese nombre desde tu Deck.\r\n②: Si esta carta Colocada en control de su dueño es destruida por un efecto de carta de tu adversario: puedes seleccionar 1 monstruo boca arriba que controle; pierde 500 ATK.",
+    "overallString": "[Trampa]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303079.jpg?version=15.13"
+  },
+  {
+    "name": "Guardián Shichigosan",
+    "desc": "Solo puedes activar 1 \"Guardián Shichigosan\" por turno.\r\n①: Invoca de Modo Especial 1 monstruo de Nivel/Rango 1 desde cualquier Cementerio, y si lo haces, equipa esta carta a ese monstruo.\r\n②: Una vez por turno, durante la End Phase: aumenta en 1 el Nivel/Rango del monstruo equipado.\r\n③: Aplica estos efectos basados en el Nivel/Rango del monstruo equipado.\r\n● 3+: Gana ATK igual a su ATK original.\r\n● 5+: No es afectado por los efectos activados de tu adversario.\r\n④: Una vez por turno, durante tu Standby Phase, si el Nivel/Rango del monstruo equipado es 7 o mayor: manda todas las cartas en el Campo al Cementerio.",
+    "overallString": "[Trampa]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303080.jpg?version=15.13"
+  },
+  {
     "name": "Wendiculhu Reesombrañeca",
     "desc": "【Materiales】: 1 monstruo \"Sombrañeca\" + 1 monstruo VIENTO\r\nDebe ser primero Invocado por Fusión.\r\n\r\nSolo puedes usar el efecto ① de \"Wendiculhu Reesombrañeca\" una vez por turno.\r\n①: (Efecto Rápido): Puedes cambiar cualquier número de monstruos boca abajo en el Campo a Posición de Defensa boca arriba, y después puedes cambiar un número de otros monstruos boca arriba a Posición de Defensa boca abajo, hasta el número de Monstruos de VOLTEO que fueron puestos boca arriba en este momento.\r\n②: Si esta carta es mandada al Cementerio: puedes seleccionar 1 carta \"Sombrañeca\" en tu Cementerio; añádela a tu mano.",
     "overallString": "[Monstruo|Efecto|Fusión] Psíquico/VIENTO  [★6] 200/2800",
@@ -356,7 +386,7 @@
   {
     "name": "Sable-X Pelina",
     "desc": "Solo puedes usar cada uno de los efectos ① y ② de \"Sable-X Pelina\" una vez por turno.\r\n①: Si esta carta es Invocada de Modo Normal o Especial: puedes mandar esta carta al Cementerio; Invoca de Modo Especial 2 monstruos \"Sable-X\" desde tu Deck, excepto \"Sable-X Pelina\", pero destrúyelos durante la End Phase.\r\n②: Si esta carta es mandada al Cementerio como Material de Sincronía para la Invocación de un Monstruo de Sincronía \"Sable-X\": puedes aplicar 1 de estos efectos;\r\n● Ese monstruo puede atacar hasta 2 veces durante cada Battle Phase.\r\n● Ese monstruo puede atacar directamente.",
-    "overallString": "[Monstruo|Efecto|Cantante] Guerrero Bestia/TIERRA  [★4] 1700/300",
+    "overallString": "[Monstruo|Efecto|Cantante] Gerrero Bestia/TIERRA  [★4] 1700/300",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250206.jpg?version=15.13"
   },
   {
