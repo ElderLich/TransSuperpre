@@ -1,5 +1,53 @@
 [
   {
+    "name": "Darkness Resonator",
+    "desc": "You can only use the ①, ②, and ③ effect of this card's name each once per turn.\r\n①：You can reveal 1 \"Red Dragon Archfiend\" in your Extra Deck; Special Summon this card from your hand, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Synchro Monsters.\r\n②：If this card is Special Summoned: You can activate this effect; during your Main Phase this turn, you can Normal Summon 1 \"Resonator\" in addition to your Normal Summon/Set (you can only gain this effect once per turn).\r\n③：You can target any number of Tuners you control; their Levels become 1.",
+    "overallString": "[Monster|Effect|Tuner] Fiend/Dark  [★3] 1300/300",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304201.jpg?version=15.13"
+  },
+  {
+    "name": "Power Vice Dragon",
+    "desc": "You can only use the ① and ② effect of this card's name each once per turn.\r\n①：If you control no monsters, or all monsters you control are DARK Synchro Monsters: You can Special Summon this card from your hand.\r\n②：If this card is Special Summoned: You can add 1 \"Resonator\" monster from your Deck to your hand, also you cannot Special Summon from the Extra Deck for the rest of this turn, except DARK Synchro Monsters.\r\n③：A \"Red Dragon Archfiend\" Summoned using this card as Synchro Material cannot be destroyed by battle.",
+    "overallString": "[Monster|Effect] Dragon/Dark  [★5] 2000/2400",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304202.jpg?version=15.13"
+  },
+  {
+    "name": "Fiend Piece Golem",
+    "desc": "You can only use the ①, ②, and ③ effect of this card's name each once per turn.\r\n①：If you control a Fiend Tuner: You can Special Summon this card from your hand.\r\n②：If this card is Special Summoned: You can decrease its Level by up to 2.\r\n③：If this card is sent to the GY as material for the Synchro Summon of \"Red Dragon Archfiend\" or a monster that mentions it: You can target 1 Level 4 or lower Fiend monster in your GY; Special Summon it in Defense Position.",
+    "overallString": "[Monster|Effect] Fiend/Dark  [★5] 2100/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304203.jpg?version=15.13"
+  },
+  {
+    "name": "Red Nova Dragon/Assault Mode",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned with \"Assault Mode Activate\".\r\n①：When your opponent activates a card or effect (Quick Effect): You can banish this card until the End Phase; banish cards your opponent controls up to the number of Tuners in your GY.\r\n②：When an opponent's monster declares an attack: You can banish this card until the End Phase; negate the attack, then end the Battle Phase.\r\n③：If this card is destroyed: You can Special Summon 1 \"Red Nova Dragon\" from your GY.",
+    "overallString": "[Monster|Effect|Special Summon] Dragon/Dark  [★12] 4000/3500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304204.jpg?version=15.13"
+  },
+  {
+    "name": "The Crimson King",
+    "desc": "1 Tuner + 1+ non-Tuner DARK monsters\r\nYou can only use the ① and ② effect of this card's name each once per turn.\r\n①：If this card is Synchro Summoned: You can add 1 card that mentions \"Red Dragon Archfiend\" from your Deck to your hand.\r\n②：When your opponent activates a monster effect (Quick Effect): You can banish this card; Special Summon 1 \"Red Dragon Archfiend\" from your Extra Deck (this is treated as a Synchro Summon), and if you do, its current ATK becomes doubled, also it cannot be destroyed by your opponent's card effects.",
+    "overallString": "[Monster|Effect|Synchro] Dragon/Dark  [★8] 3000/2500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304205.jpg?version=15.13"
+  },
+  {
+    "name": "Crimson Blade Dragon",
+    "desc": "1 \"Resonator\" Tuner + 1+ non-Tuner monsters\r\nThis card is always treated as \"Crimson Blader\". You can only use the ① effect of this card's name once per turn.\r\n①：If this card is Synchro Summoned: You can add to your hand, or Special Summon (but its effects are negated), 1 Level 8 or higher monster from your Deck or GY that cannot be Normal Summoned/Set.\r\n②：At the start of the Damage Step, if this card battles a Level 5 or higher monster: You can destroy that monster.",
+    "overallString": "[Monster|Effect|Synchro] Dragon/Dark  [★7] 2400/2600",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304206.jpg?version=15.13"
+  },
+  {
+    "name": "Crimson Call",
+    "desc": "You can only activate 1 card with this card's name per turn.\r\n①：Add 1 Level 4 or lower Fiend monster from your GY to your hand, or, if you control \"Red Dragon Archfiend\" or a Synchro Monster that mentions it, you can add the monster from your Deck instead.\r\n②：If your \"/Assault Mode\" monster or \"Red Dragon Archfiend\" attacks, at the end of the Damage Step: You can banish this card from your GY; that monster can make a second attack in a row.",
+    "overallString": "[Spell]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304207.jpg?version=15.13"
+  },
+  {
+    "name": "The Ruler's Rumbling",
+    "desc": "You can only activate 1 card with this card name's per turn. Neither player can activate cards or effects in response to this card's activation if your opponent Special Summoned 10 or more monsters this turn.\r\n①：Apply these effects, in sequence, based on the number of monsters your opponent Special Summoned this turn.\r\n● 1+: Special Summon 1 DARK Synchro Monster from your GY or banishment.\r\n● 3+: \"Red Dragon Archfiend\" in your Monster Zone is unaffected by your opponent's activated effects until the end of your next turn.\r\n● 5+: Change all monsters your opponent currently controls to face-down Defense Position.",
+    "overallString": "[Trap]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304208.jpg?version=15.13"
+  },
+  {
     "name": "Charmers of the Grand Circle",
     "desc": "2+ \"Charmer\" and/or \"Familiar-Possessed\" monsters\r\nYou can only use the effect of this card's name once per turn.\r\n①：If this card is Fusion Summoned: You can choose among these effects a number of times up to the number of original Attributes among its material (max. 4) and apply them in sequence (you can choose the same effect multiple times)\r\n● This card gains 800 ATK.\r\n● Add 1 \"Possessed\" Spell/Trap from the Deck to the hand.\r\n● Return 1 card on the field to the hand\r\n● Special Summon 1 Spellcaster monster from the GY.",
     "overallString": "[Monster|Effect|Fusion] Spellcaster/Light  [★6] 1850/1500",
