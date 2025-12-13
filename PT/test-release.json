@@ -1,374 +1,338 @@
 [
   {
+    "name": "Regulus, o Príncipe de Endymion",
+    "desc": "A primeira vez que este card seria destruído por batalha cada turno, ele não é destruído.\r\nCada um dos seguintes efeitos de \"Regulus, o Príncipe de Endymion\" só podem ser usados uma vez por turno.\r\nSe este card está na sua mão: você pode revelar 1 outro monstro Mago na sua mão; você perde PV igual ao Nível do monstro revelado x 300, e se fizer, Invoque este card por Invocação-Especial.\r\nSe este card for Invocado por Invocação-Especial: você pode adicionar 1 Magia que menciona \"Regulus, o Príncipe de Endymion\" do seu Deck à sua mão.\r\n",
+    "overallString": "[Monstro|Efeito] Mago/Luz  [★4] 1700/1300",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100200282.jpg?version=19.7"
+  },
+  {
+    "name": "Genni, a Empregada de Endymion",
+    "desc": "Este card é sempre considerado um card \"Fazticeira\".\r\nSe você controlar um monstro Mago: você pode Invocar este card da sua mão por Invocação-Especial.\r\nDurante a Fase Principal (Efeito Rápido): você pode escolher 1 monstro Mago que você controla; bana-o, e se fizer, Invoque por Invocação-Especial 1 monstro \"Fazticeira\" do seu Deck, exceto \"Genni, a Empregada de Endymion\".\r\nVocê só pode usar cada um dos efeitos de \"Genni, a Empregada de Endymion\" uma vez por turno.",
+    "overallString": "[Monstro|Efeito] Mago/Vento  [★1] 300/500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255018.jpg?version=19.7"
+  },
+  {
+    "name": "O Império Endymion",
+    "desc": "Você só pode ativar 1 \"O Império Endymion\" por turno.\r\nQuando este card for ativado, adicione 1 \"Regulus, o Príncipe de Endymion\" ou 1 monstro que o menciona do seu Deck à sua mão, então, se seu oponente controlar um monstro, você pode Invocar 1 monstro Mago da sua mão por Invocação-Especial.\r\nSe um ou mais cards que você controla forem destruídos por batalha ou por efeito de card, ao invés disso você pode destruir 1 \"Regulus, o Príncipe de Endymion\" da sua mão ou com a face para cima no campo. Você só pode usar este efeito de \"O Império Endymion\" uma vez por turno.",
+    "overallString": "[Magia|Magia Contínuo]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255019.jpg?version=19.7"
+  },
+  {
+    "name": "Flecha de Regulus",
+    "desc": "Se você controlar \"Regulus, o Príncipe de Endymion\": ative 1 destes efeitos;\r\n● Destrua 1 monstro do oponente que batalhou neste turno.\r\n● Quando uma Magia Normal ou Magia Rápida for ativada: negue seus efeitos.\r\nDurante sua Fase Principal: você pode banir este card do seu Cemitério, então escolher 1 \"Regulus, o Príncipe de Endymion\" ou 1 monstro que o menciona em seu Cemitério: Invoque-o por Invocação-Especial.\r\nVocê só pode usar cada um dos efeitos de \"Flecha de Regulus\" uma vez por turno.",
+    "overallString": "[Magia|Magia Rápida]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255020.jpg?version=19.7"
+  },
+  {
+    "name": "Cauda de Fadas – Matchlille",
+    "desc": "Se um monstro Mago com ATK original de 1850 está no campo: você pode Invocar este card da sua mão ou Cemitério por Invocação-Especial, você também não pode Invocar por Invocação-Especial pelo resto deste turno, exceto por monstros Magos.\r\nSe este card for Invocado por Invocação-Normal ou Especial: você pode adicionar 1 Magia/Armadilha \"Cauda de Fadas\" do seu Deck à sua mão.\r\nVocê pode pagar 500 PV; o nome de 1 Monstro de Efeito do seu oponente se torna \"Príncipe Fada\".\r\nVocê só pode usar cada um dos efeitos de \"Cauda de Fadas – Matchlille\" uma vez por turno.",
+    "overallString": "[Monstro|Efeito] Mago/Luz  [★4] 1850/1000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304016.jpg?version=19.7"
+  },
+  {
+    "name": "Tecelã dos Contos da Cauda de Fadas",
+    "desc": "1 monstro \"Cauda de Fadas\" + 1 monstro Mago\r\nDurante sua Fase Principal: você pode Invocar 1 monstro \"Cauda de Fadas\" por Invocação-Especial do seu Deck ou banimento. Você só pode usar este efeito de \"Tecelã dos Contos das Cauda de Fadas\" uma vez por turno.\r\nSe você Invocar por Invocação-Normal ou Especial um ou mais monstros \"Cauda de Fadas\" de não-TERRA enquanto este monstro está no campo: você pode escolher 1 Monstro de Efeito que seu oponente controla; negue seus efeitos, seu nome também se torna \"Príncipe Fada\".\r\nQualquer \"Príncipe Fada\" no campo se torna um monstro Mago.",
+    "overallString": "[Monstro|Efeito|Fusão] Mago/Terra  [★4] 1850/1000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304033.jpg?version=19.7"
+  },
+  {
+    "name": "Cronista dos Contos da Cauda de Fadas",
+    "desc": "1 monstro \"Cauda de Fadas\" de LUZ + 1 monstro Mago\r\nSeus monstros \"Cauda de Fadas\" não podem ser destruídos por batalha.\r\nVocê só pode usar cada um dos seguintes efeitos de \"Cronista dos Contos das Cauda de Fadas\" uma vez por turno.\r\nSe este card for Invocado por Invocação-Fusão usando \"Príncipe Fada\" como matéria: você pode destruir tantos cards seu oponente controla quanto possível, e se fizer, cause 500 de dano nele por cada um deles.\r\nQuando seu oponente ativar um card ou efeito (Efeito Rápido): você pode banir 1 card \"Cauda de Fadas\" da sua mão ou Cemitério, exceto \"Contos da Cauda de Fadas\"; negue a ativação, e se fizer, destrua aquele card.",
+    "overallString": "[Monstro|Efeito|Fusão] Mago/Terra  [★4] 1850/1000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304034.jpg?version=19.7"
+  },
+  {
+    "name": "Cauda de Fadas – Wickat",
+    "desc": "2 monstros Mago de Nível 4\r\nMonstros \"Cauda de Fadas\" que você controla com Atributo original seja LUZ não são afetados por efeitos ativados do seu oponente.\r\nVocê só pode usar cada um dos seguintes efeitos de \"Cauda de Fadas – Wickat\" uma vez por turno.\r\nVocê pode desassociar até 2 matérias deste card; envie aquela quantia de cards \"Cauda de Fadas\" do seu Deck para o Cemitério, exceto \"Contos da Cauda de Fadas\".\r\nSe este card estiver no seu Cemitério (Efeito Rápido): você pode escolher 1 monstro \"Cauda de Fadas\" que você controla com o Atributo original de LUZ; Invoque este card por Invocação-Especial, e se fizer, envie aquele monstro para o Cemitério.",
+    "overallString": "[Monstro|Efeito|Xyz] Mago/Trevas  [☆4] 1850/1000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304047.jpg?version=19.7"
+  },
+  {
+    "name": "Cauda de Fadas há Muito, Muito Tempo",
+    "desc": "Invoque por Invocação-Especial até 1 monstro \"Cauda de Fadas\" com nomes diferentes cada da sua mão, Cemitério, e/ou banimento, você também não pode Invocar por Invocação-Especial pelo resto deste turno, exceto monstros Mago.\r\nSe este card for enviado para o Cemitério, exceto do campo, ou é banido: você pode Baixa-lo, mas não pode ser ativado a menos que você controle um monstro \"Cauda de Fadas\".\r\nVocê só pode usar cada um dos efeitos de \"Cauda de Fadas há Muito, Muito Tempo\" uma vez por turno.",
+    "overallString": "[Magia|Magia Rápida]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304062.jpg?version=19.7"
+  },
+  {
+    "name": "Baile da Cauda de Fadas",
+    "desc": "Você só pode ativar 1 \"Baile da Cauda de Fadas\" uma vez por turno.\r\nQuando este card for ativado, você pode adicionar 1 monstro \"Cauda de Fadas\" ou \"Conto da Cauda de Fadas\" do seu Deck ou banimento à sua mão.\r\nSeus monstros \"Cauda de Fadas\" podem atacar diretamente.\r\nUma vez por turno, se seu oponente Invocar por Invocação-Especial um ou mais monstros e você controlar um monstro \"Cauda de Fadas\": você pode escolher 1 Monstro de Efeito que seu oponente controla; negue seus efeitos, seu nome também se torna \"Príncipe Fada\".",
+    "overallString": "[Magia|Magia de Campo]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304063.jpg?version=19.7"
+  },
+  {
+    "name": "Fábula da Cauda de Fadas",
+    "desc": "O monstro equipado ganha 1000 ATK.\r\nUma vez por turno: você pode Invocar por Invocação-Fusão 1 Monstro Fusão Mago do seu Deck Adicional, usando monstros da sua mão ou campo. Você também pode usar \"Príncipe Fada\" que seu oponente controla.\r\nSe este card estiver no Cemitério: você pode equipa-lo à um monstro \"Cauda de Fadas\" no campo, então, imediatamente após ativar este efeito, você pode Invocar por Invocação-Normal 1 monstro Mago com 1850 ATK. Você só pode usar este efeito de \"Fábula da Cauda de Fadas\" uma vez por turno.",
+    "overallString": "[Magia|Magia de Equipamento]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304064.jpg?version=19.7"
+  },
+  {
+    "name": "Cavaleiro Pesado Babel Decker",
+    "desc": "Você pode Invocar este card por Invocação Normal sem oferecer Tributo.\r\nVocê só pode usar cada um dos seguintes efeitos de \"Cavaleiro Pesado Babel Decker\" uma vez por turno.\r\nSe este card for Invocado por Invocação Normal ou Especial: você pode Invocar por Invocação-Especial 1 monstro Máquina de TERRA da sua mão.\r\nSe seu oponente ativou um card ou efeito neste turno: você pode Invocar por Invocação-Especial 1 monstro Máquina de TERRA de Classe 10 do seu Deck Adicional usando este card que você controla como matéria (isso é considerado uma Invocação-Xyz).",
+    "overallString": "[Monstro|Efeito] Máquina/Terra  [★10] 500/3000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304006.jpg?version=19.7"
+  },
+  {
+    "name": "Trem Noctilucente Viajante Bleu",
+    "desc": "Você pode descartar este card; adicione 1 \"Acoplar Vagão\" ou \"Pátio de Manobras Giratório\" do seu Deck ou Cemitério à sua mão. Você só pode usar este efeito de \"Trem Noctilucente Viajante Bleu\" uma vez por turno.\r\nSe este card estiver no seu Cemitério: você pode escolher 1 outro monstro Máquina de TERRA no seu Cemitério; Invoque-o e este card por Invocação-Especial, você também não pode fazer Invocação-Especial do seu Deck Adicional pelo resto deste turno, exceto de monstros Máquina. Você só pode usar este efeito de \"Trem Noctilucente Viajante Bleu\" uma vez por Duelo.",
+    "overallString": "[Monstro|Efeito] Máquina/Terra  [★10] 2500/2500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304007.jpg?version=19.7"
+  },
+  {
+    "name": "Supercouraçado Canhão de Trilho Gustav Rocket",
+    "desc": "3 monstro de Nível 10\r\nUma vez por turno, você também pode Invocar por Invocação-Xyz \"Supercouraçado Canhão de Trilho Gustav Rocket\" descartando 1 card e usando \"Supercouraçado Canhão de Trilho\" que você controla (transfira suas matérias para este card). Você só pode usar este efeito de \"Supercouraçado Canhão de Trilho Gustav Rocket\" uma vez por turno.\r\nQuando seu oponente ativar um monstro de efeito e este card tiver matéria (Efeito Rápido): você pode negar aquele efeito, e se fizer, destrua aquele monstro, então cause 1000 de dano ao seu oponente.\r\nUma vez por turno, durante sua Fase Final: desassocie 1 matéria deste card ou destrua-o.",
+    "overallString": "[Monstro|Efeito|Xyz] Máquina/Terra  [☆10] 5000/3000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304043.jpg?version=19.7"
+  },
+  {
+    "name": "Supercouraçado Canhão de Trilho Lançador Aéreo",
+    "desc": "2 monstros de Nível 10\r\nDurante sua Fase Principal, você pode Invocar por Invocação-Normal 1 monstro Máquina em adição a sua Invocação-Normal/Baixar (você só pode ganhar este efeito uma vez por turno).\r\nVocê só pode usar cada um dos seguintes efeitos de \"Supercouraçado Canhão de Trilho Lançador Aéreo\" uma vez por turno.\r\nSe este card for Invocado por Invocação-Xyz: você pode adicionar 1 monstro Máquina de TERRA ou \"Barragem Explosiva\" do seu Deck à sua mão.\r\nVocê pode desassociar qualquer número de matérias deste card, então escolha a mesma quantia de Magias/Armadilhas no campo; destrua-as.",
+    "overallString": "[Monstro|Efeito|Xyz] Máquina/Terra  [☆10] 3800/3000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304044.jpg?version=19.7"
+  },
+  {
+    "name": "Escala Excepcional",
+    "desc": "Adicione 1 \"Escala Especial\" ou \"Escala Urgente\" do seu Deck à sua mão, então você pode Invocar por Invocação-Especial 1 \"Ficha de Escala\" (Máquina/TERRA/Nível 10/ATK 3000/DEF 3000) para o campo do seu oponente.\r\nVocê pode banir este card do seu Cemitério, então escolha 1 monstro Máquina de Nível 10 no seu Cemitério ou banimento; envie 1 card que você controla para o Cemitério, e se fizer, Invoque aquele monstro por Invocação-Especial.\r\nVocê só pode usar cada um dos efeitos de \"Escala Excepcional\" uma vez por turno.",
+    "overallString": "[Magia]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304054.jpg?version=19.7"
+  },
+  {
     "name": "Verre, a Empregada de Endymion",
     "desc": "Este card é sempre considerado um card \"Fazticeira\".\r\nGanha 2300 ATK enquanto você tiver \"Regulus, o Príncipe de Endymion\" no seu campo ou Cemitério.\r\nVocê só pode usar cada um dos seguintes efeitos de \"Verre, a Empregada de Endymion\" uma vez por tuno.\r\nDurante sua Fase Principal, se um Card de Magia ou efeito foi ativado este turno: você pode Invocar este card da sua mão por Invocação-Especial.\r\nSe este card for Invocado por Invocação-Especial: você pode adicionar 1 Magia/Armadilha \"Fazticeira\" ou \"Dimensão Mágica\" do seu Deck à sua mão.\r\n",
     "overallString": "[Monstro|Efeito] Mago/Luz  [★4] 500/1400",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100228003.jpg?version=19.0"
-  },
-  {
-    "name": "Fusão Lev Sombraneco",
-    "desc": "Você não pode Invocador por Invocação-Especial do Deck Adicional no turno em que ativar qualquer um dos efeitos deste card, exceto monstros \"Sombraneco\".\r\nQuando este card for ativado, envie 1 Monstro Fusão do seu Deck Adicional para o Cemitério.\r\nVocê pode oferecer como Tributo 1 Monstro Fusão; Invoque 1 Monstro Fusão \"Sombraneco\" com Atributo diferente do seu Deck Adicional por Invocação-Especial (isso é considerado uma Invocação-Fusão), e se o fizer, mude seu ATK para 0.\r\nVocê só pode usar cada um dos efeitos de \"Fusão Lev Sombraneco\" uma vez por turno.",
-    "overallString": "[Magia|Magia Contínuo]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250065.jpg?version=19.0"
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100228003.jpg?version=19.7"
   },
   {
     "name": "HERÓI Mascarado Fountain",
     "desc": "Você pode revelar este card da sua mão; Invoque 1 monstro \"HERÓI\" da sua mão em Posição de Defesa por Invocação-Especial.\r\nSe este card for enviado para o Cemitério para ativar o efeito de um card, ou por um efeito de card: você pode Baixar 1 \"Mudar a Máscara\" do seu Deck ou Cemitério.\r\nVocê só pode usar cada um dos efeitos de \"HERÓI Mascarado Fountain\" uma vez por turno.",
     "overallString": "[Monstro|Efeito] Guerreiro/Água  [★4] 1000/1400",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255004.jpg?version=19.0"
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255004.jpg?version=19.7"
   },
   {
     "name": "Víbora Venenosa",
     "desc": "Você pode revelar este card da sua mão; Invoque-o por Invocação-Especial, ou, se seu oponente não controlar monstros, ao invés disso Invoque-o para o campo dele em Posição de Defesa por Invocação-Especial.\r\nUma vez por turno, durante sua Fase de Apoio: você recebe 500 de dano.\r\nSe este card for enviado para o Cemitério ou banido por efeito de card: você pode escolher 1 Magia/Armadilha Baixada do oponente; destrua-o. Ele não pode ser ativado em resposta a ativação deste efeito. Este efeito de \"Víbora Venenosa\" só pode ser usado uma vez por turno.",
     "overallString": "[Monstro|Efeito] Réptil/Terra  [★1] 100/200",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255005.jpg?version=19.0"
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255005.jpg?version=19.7"
   },
   {
     "name": "Anjo Caído na Escuridão",
     "desc": "Este card é sempre considerado um card \"Senhor(a) Obscuro(a)\".\r\nEnvie 1 monstro Fada da sua mão ou campo com a face para cima para o Cemitério; Invoque 1 monstro \"Senhor(a) Obscuro(a)\" da sua mão, Deck, ou banimento por Invocação-Especial, ignorando suas condições de Invocação.\r\nVocê só pode ativar 1 \"Anjo Caído na Escuridão\" por turno.",
     "overallString": "[Armadilha]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255006.jpg?version=19.0"
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255006.jpg?version=19.7"
   },
   {
     "name": "Armadura Sucata",
     "desc": "Seu oponente não pode escolher Monstros Sincro que você controla com \"Guerreiro\" e/ou \"Poeira Estrelar\" em seu nome original com efeito de cards.\r\nVocê só pode usar cada um dos seguintes efeitos de \"Armadura Sucata\" uma vez por turno.\r\nSe este card for adicionado a sua mão, exceto por compra-lo: você pode Invoca-lo por Invocação-Especial.\r\nVocê pode oferecer este card como Tributo; Invoque 1 monstro \"Sucata\" ou \"Sincron\" do seu Deck em Posição de Defesa por Invocação-Especial, exceto \"Armadura Sucata\"",
     "overallString": "[Monstro|Efeito] Guerreiro/Terra  [★2] 600/1200",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255007.jpg?version=19.0"
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255007.jpg?version=19.7"
   },
   {
     "name": "Mestre Sucata",
     "desc": "Você pode revelar 1 Monstro Sincro \"Guerreiro\" ou \"Poeira Estrelar\" em seu Deck Adicional; Invoque este card da sua mão por Invocação-Especial, você também não pode Invocar por Invocação-Especial do Deck Adicional pelo resto deste turno, exceto Monstros Sincros.\r\nSe este card for Invocado por Invocação-Normal ou Especial: você pode adicionar 1 card \"Sucata\" do seu Deck à sua mão, exceto \"Mestre Sucata\".\r\nVocê pode escolher 1 monstro \"Sucata\" que você controla; reduza seu Nível em até 2.\r\nVocê só pode usar cada um dos efeitos de \"Mestre Sucata\" uma vez por turno.",
     "overallString": "[Monstro|Efeito] Guerreiro/Terra  [★4] 100/2300",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255008.jpg?version=19.0"
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255008.jpg?version=19.7"
   },
   {
     "name": "Sobreajuste",
     "desc": "Se você controlar um Regulador: Invoque 1 Regulador da sua mão, Deck, ou Cemitério por Invocação-Especial, você também não pode Invocar por Invocação-Especial do seu Deck Adicional pelo resto deste turno após ativar este card, exceto Monstros Sincro.\r\nVocê só pode ativar 1 \"Sobreajuste\" uma vez por turno.",
     "overallString": "[Magia]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255009.jpg?version=19.0"
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255009.jpg?version=19.7"
   },
   {
     "name": "Pulso do Campeão",
     "desc": "Ative 1 destes efeitos;\r\n● Durante a Fase de Batalha do seu oponente: ele ganha 1000 PV, então você encerra a Fase de Batalha.\r\n● Quando seu oponente ativar um efeito de monstro, se ele controla mais cards que você: Invoque por Invocação-Especial 1 \"Dragão Vermelho Arquidemônio\" ou \"Abrasador Dragão Vermelho Arquidemônio\" do seu Deck Adicional ou Cemitério, e se o fizer, negue aquele efeito, e se o fizer, destrua aquele monstro.\r\nVocê só pode ativar 1 \"Pulso do Campeão\" uma vez por turno.",
     "overallString": "[Armadilha]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255010.jpg?version=19.0"
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255010.jpg?version=19.7"
   },
   {
     "name": "Ilusão Gagaga",
     "desc": "Se você controlar um monstro \"Gagaga\": escolha 1 monstro no seu Cemitério; Invoque-o por Invocação-Especial, então você pode fazer com que seu Nível/Classe se tornem iguais ao Nível/Classe de 1 monstro \"Gagaga\" que você controla.\r\nSe este card estiver no seu Cemitério, exceto no turno em que foi enviado para lá: você pode bani-lo imediatamente após ativar este efeito, Invoque 1 monstro \"Gagaga\" por Invocação-Normal.\r\nVocê só pode usar cada um dos efeitos de \"Ilusão Gagaga\" uma vez por turno.",
     "overallString": "[Magia]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255011.jpg?version=19.0"
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255011.jpg?version=19.7"
   },
   {
     "name": "Fuga Gagaga",
     "desc": "Quando seu oponente ativar o efeito de um monstro, se você controlar um monstro \"Gagaga\": negue a ativação, então você pode descartar 1 card, e se o fizer, Invoque 1 monstro \"Gagaga\" do seu Deck por Invocação-Especial.\r\nVocê pode banir este card do seu Cemitperio; mude quantos monstros \"Gagaga\" possíveis que você controla para Posição de Defesa, e se o fizer, monstros \"Gagaga\" que você controla não podem ser destruídos por batalha ou efeitos de cards neste turno.\r\nVocê só pode ativar cada um dos efeitos de \"Fuga Gagaga\" uma vez por turno.",
     "overallString": "[Armadilha|Armadilha de Resposta]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255012.jpg?version=19.0"
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255012.jpg?version=19.7"
   },
   {
     "name": "Vínculo Interminável",
     "desc": "Este card é sempre considerado um card \"Xyz\".\r\nQuando este card é ativado, você pode Invocar 1 \"Número 39: Utopia\" do seu Cemitério por Invocação-Especial, e se o fizer, ele ganha ATK igual ao ATK total de todos os Monstros Xyz de LUZ \"Utopia\" e \"Utópico\" no seu Cemitério.\r\nQuando seus Monstros Xyz \"Utopia\" e \"Utópico\" com Atributo original LUZ atacando destroem um monstro do oponente por batalha: você pode fazer com que aquele monstro que você controla perca 1000 ATK, e se fizer, ele pode atacar novamente em sequência.\r\nVocê só pode ativar 1 \"Vínculo Interminável\" uma vez por turno.",
     "overallString": "[Magia|Magia Contínuo]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255013.jpg?version=19.0"
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255013.jpg?version=19.7"
   },
   {
     "name": "Presas dos Espinhos do Veneno Violento",
     "desc": "Este card é sempre considerado um card \"Predap\".\r\nEscolha 1 \"Dragão Fusão de Peçonha Insaciável\" que você controla; destrua quantos monstros seu oponente controlar com ATK menor possíveis, então você pode descartar sua mão toda, e se fizer, cause dano ao seu oponente igual ao ATK original dos monstros destruídos, o monstro escolhido também não pode atacar neste turno.",
     "overallString": "[Magia]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255014.jpg?version=19.0"
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255014.jpg?version=19.7"
   },
   {
     "name": "Fusão Penetradora",
     "desc": "Se um ou mais monstros forem destruídos por batalha neste turno: Invoque 1 Monstro Fusão do seu Deck Adicional por Invocação-Fusão, usando monstros da sua mão ou campo, e se o fizer, ele ganha este efeito.\r\n● (Efeito Rápido): você pode oferecer este card como Tributo, então escolha 1 monstro que você controla com a face para cima; ele ganha 500 ATK.\r\nVocê só pode ativar 1 \"Fusão Penetradora\" uma vez por turno.",
     "overallString": "[Magia|Magia Rápida]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255015.jpg?version=19.0"
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255015.jpg?version=19.7"
   },
   {
     "name": "Fusão Surpresa",
     "desc": "Escolha 1 monstro com a face para cima que você controla e declare 1 Tipo e 1 Atributo; aquele monstro se torna do Tipo e Atributo declarado, então você pode Invocar 1 Monstro Fusão do seu Deck Adicional por Invocação-Fusão, usando os monstros que você controla, incluindo o monstro escolhido.\r\nVocê pode banir este card do seu Cemitério; ofereça como Tributo 1 Monstro Fusão, e se o fizer, Invoque 2 \"Fichas de Surpresa\" (Mago/TREVAS/ATK 0/DEF 0) com o mesmo Nível por Invocação-Especial. Você só pode ativar este efeito de \"Fusão Surpresa\" uma vez por turno.",
     "overallString": "[Magia]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255016.jpg?version=19.0"
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255016.jpg?version=19.7"
   },
   {
     "name": "Força Celeste Meca – Adhilsaber",
     "desc": "Durante a Fase de Batalha (Efeito Rápido): você pode descartar este card, então escolha 1 monstro \"Força Celeste\" no campo; ele ganha 1500 ATK até o final deste turno.\r\nSe um ou mais monstros forem Invocados por Invocação-Especial enquanto este card está no seu Cemitério: você pode escolher 1 Monstro Link \"Força Celeste\" que você controla; equipe este card a ele como uma Magia de Equipamento que aumenta 1500 ATK.\r\nVocê só pode usar cada um dos efeitos de \"Força Celeste Meca – Adhilsaber\" uma vez por turno.",
     "overallString": "[Monstro|Efeito] Máquina/Vento  [★7] 1500/1500",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255017.jpg?version=19.0"
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255017.jpg?version=19.7"
   },
   {
     "name": "Elfa Aprendendo",
     "desc": "Se este card for Invocado por Invocação-Normal ou Especial: você pode Baixar 1 Armadilha do seu Deck que tenha o efeito de se equipar em um monstro.\r\nSe este card for enviado do campo para o Cemitério: você pode comprar 1 card.\r\nVocê só pode usar cada um dos efeitos de \"Elfa Aprendendo\" uma vez por turno.",
     "overallString": "[Monstro|Efeito] Mago/Luz  [★3] 1400/1500",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255001.jpg?version=19.0"
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255001.jpg?version=19.7"
   },
   {
     "name": "Armamento da Reencarnação",
     "desc": "Invoque \"Fichas de Armamento da Reencarnação\" (Guerreiro/LUZ/Nível 1/ATK 500/DEF 500) por Invocação-Especial até o número de Magias de Equipamento e armadilhas com o efeito de se equipar a um monstro, no Cemitério, então você pode destruir quantos cards na sua Zona de Magia & Armadilha for possível, incluindo este card, então Baixe aquela quantia de Magias de Equipamento e Armadilhas com o  efeito de se equipar em um monstro, possível do seu Cemitério, você também não pode Invocar por Invocação-Especial pelo resto deste turno. Essas Armadilhas podem ser ativadas neste turno.",
     "overallString": "[Magia]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255002.jpg?version=19.0"
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255002.jpg?version=19.7"
   },
   {
     "name": "Barreira Espelho",
     "desc": "Escolha 1 monstro que você controla com a face para cima; equipe este card a ele como um Card de Equipamento com este efeito.\r\n● Uma vez por Etapa de Batalha, se o monstro equipado batalha com um monstro do oponente: você pode destruir aquele monstro do oponente.\r\nSe este card for destruído: você pode adicionar 1 \"Armamento da Reencarnação\" do seu Deck à sua mão. Este efeito de \"Barreira Espelho\" só pode ser ativado uma vez por turno.",
     "overallString": "[Armadilha]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255003.jpg?version=19.0"
-  },
-  {
-    "name": "Vento Divino da Dragunidade",
-    "desc": "Durante sua Fase Principal: você pode aplicar 1 destes efeitos, ou, se você tiver a \"Ravina de Dragões\" no seu Cemitério, você pode aplicar ambos, em sequência.\r\n● Adicione 1 monstro Dragão ou Besta Alada do seu Cemitério à sua mão.\r\n● Invoque 1 monstro \"Dragunidade\" da sua mão por Invocação-Especial, então você pode equipar 1 monstro Dragão \"Dragunidade\" do seu Deck nele.\r\nVocê só pode ativar o efeito de \"Vento Divino da Dragunidade\" uma vez por turno.",
-    "overallString": "[Magia|Magia de Campo]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250022.jpg?version=19.0"
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255003.jpg?version=19.7"
   },
   {
     "name": "Ressonador Sombrio",
     "desc": "Você pode revelar 1 \"Dragão Vermelho Arquidemônio\" do seu Deck Adicional: Invoque este card da sua mão por Invocação-Especial, você também não pode Invocar por Invocação-Especial do seu Deck Adicional pelo resto deste turno, exceto Monstros Sincro.\r\nSe este card for Invocado por Invocação-Especial: você pode ativar este efeito; durante a sua Fase Principal neste turno, você pode Invocar 1 \"Ressonador\" por Invocação-Normal em adição a sua Invocação-Normal/Baixar (você só pode ganhar este efeito uma vez por turno).\r\nVocê pode escolher qualquer número de Reguladores que você controla; seus Níveis se tornam 1.\r\nVocê só pode usar cada um dos efeitos de \"Ressonador Sombrio\" uma vez por turno.",
     "overallString": "[Monstro|Efeito|Regulador] Demônio/Trevas  [★3] 1300/300",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304201.jpg?version=19.0"
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304201.jpg?version=19.7"
   },
   {
     "name": "Vice-Dragão Poderoso",
     "desc": "Um \"Dragão Vermelho Arquidemônio\" Invocado usando este card como uma Matéria Sincro não pode ser destruído por batalha.\r\nCada um dos seguintes efeitos de \"Vice-Dragão Poderoso\" só podem ser ativados uma vez por turno.\r\nSe você não controlar monstros, ou todos os monstros que você controla são Monstros Sincro de TREVAS: você pode Invocar este card da sua mão por Invocação-Especial.\r\nSe este card for Invocado por Invocação-Especial: você pode adicionar 1 monstro \"Ressonador\" do seu Deck à sua mão, você também não pode Invocar por Invocação-Especial do seu Deck Adicional pelo resto deste turno, exceto Monstros Sincro de TREVAS.",
     "overallString": "[Monstro|Efeito] Dragão/Trevas  [★5] 2000/2400",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304202.jpg?version=19.0"
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304202.jpg?version=19.7"
   },
   {
     "name": "Golem de Partes Demônio",
     "desc": "Se você controlar um Regulador Demônio: você pode Invocar este card da sua mão por Invocação-Especial.\r\nSe este card for Invocado por Invocação-Especial: você pode reduzir o seu Nível em até 2.\r\nSe este card for enviado para o Cemitério como matéria de Invocação-Sincro de um \"Dragão Vermelho Arquidemônio\" ou um monstro que o menciona: você pode escolher 1 monstro Demônio de Nível 4 ou menor em seu Cemitério; Invoque-o em Posição de Defesa por Invocação-Especial.\r\nVocê só pode usar cada um dos efeitos de \"Golem de Partes Demônio\" uma vez por turno.",
     "overallString": "[Monstro|Efeito] Demônio/Trevas  [★5] 2100/0",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304203.jpg?version=19.0"
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304203.jpg?version=19.7"
   },
   {
     "name": "Dragão Vermelho Nova/Modo de Ataque",
     "desc": "Não pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial com \"Ativar Modo de Ataque\".\r\nQuando seu oponente ativar um card ou efeito (Efeito Rápido): você pode banir este card até a Fase Final; bana cards que seu oponente controla até o número de Reguladores no seu Cemitério.\r\nQuando um monstro do oponente declara um ataque: você pode banir este card até a Fase Final; negue o ataque, então encerre a Fase de Batalha.\r\nSe este card for destruído: você pode Invocar 1 \"Dragão Vermelho Nova\" do seu Cemitério por Invocação-Especial.",
     "overallString": "[Monstro|Efeito|Invocação-Especial] Dragão/Trevas  [★12] 4000/3500",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304204.jpg?version=19.0"
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304204.jpg?version=19.7"
   },
   {
     "name": "O Rei Carmesim",
     "desc": "1 Regulador + 1+ monstros não-Reguladores de TREVAS\r\nSe este card for Invocado por Invocação-Sincro: você pode adicionar 1 card que menciona \"Dragão Vermelho Arquidemônio\" do seu Deck à sua mão.\r\nQuando seu oponente ativar um efeito de um monstro (Efeito Rápido): você pode banir este card; Invoque 1 \"Dragão Vermelho Arquidemônio\" por Invocação-Especial do seu Deck Adicional (isso é considerado uma Invocação-Sincro), e se o fizer, seu ATK atual é dobrado, ele também não pode ser destruído por efeitos de cards do seu oponente.\r\nVocê só pode usar cada um dos efeitos de \"O Rei Carmesim\" uma vez por turno.",
     "overallString": "[Monstro|Efeito|Sincro] Dragão/Trevas  [★8] 3000/2500",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304205.jpg?version=19.0"
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304205.jpg?version=19.7"
   },
   {
     "name": "Dragão Laminador Carmesim",
     "desc": "1 \"Ressonador\" Regulador + 1+ monstros não-Reguladores\r\nEste card é sempre considerado como \"Laminador Carmesim\".\r\nNo início da Etapa de Dano, se este card batalhar um monstro de Nível 5 ou maior: você pode destruír aquele monstro.\r\nSe este card for Invocado por Invocação-Sincro: você pode adicionar para a sua mão, ou Invocar por Invocação-Especial (mas seus efeitos são negados), 1 monstro Nível 8 ou maior do seu Deck ou Cemitério que não pode ser Invocado por Invocação-Normal/Baixado. Você só pode usar este efeito de \"Dragão Laminador Carmesim\" uma vez por turno.",
     "overallString": "[Monstro|Efeito|Sincro] Dragão/Trevas  [★7] 2400/2600",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304206.jpg?version=19.0"
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304206.jpg?version=19.7"
   },
   {
     "name": "Chamado Carmesim",
     "desc": "Você só pode ativar 1 \"Chamado Carmesim\" uma vez por turno.\r\nAdicione 1 monstro Demônio de Nível 4 ou menor do seu Cemitério para sua mão, ou, se você controlar um \"Dragão Vermelho Arquidemônio\" ou um Monstro Sincro que o menciona, ao invés disso você pode adicionar o monstro do seu Deck.\r\nSe seu monstro \"/Modo de Ataque\" ou \"Dragão Vermelho Arquidemônio\" atacar, no final da Etapa de Dano: você pode banir este card do seu Cemitério; aquele monstro pode atacar uma segunda vez em sequência.",
     "overallString": "[Magia]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304207.jpg?version=19.0"
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304207.jpg?version=19.7"
   },
   {
     "name": "O Estrondo do Governante",
     "desc": "Você só pode ativar 1 \"O Estrondo do Governante\" uma vez por turno.\r\nNenhum jogador por ativar cards ou efeitos em resposta a ativação deste card se seu oponente Invocou 10 ou mais monstros neste turno por Invocação-Especial.\r\nAplique estes efeitos, em sequência, baseado no número de monstros que seu oponente Invocou por Invocação-Especial neste turno.\r\n● 1+: Invoque por Invocação-Especial 1 Monstro Sincro de TREVAS do seu Cemitério ou banimento.\r\n● 3+: \"Dragão Vermelho Arquidemônio\" na sua Zona de Monstros não é afetado pelos efeitos ativados do seu oponente até o final do seu próximo turno.\r\n● 5+: Mude todos os monstros que seu oponente atualmente controla para Posição de Defesa com a face para baixo.",
     "overallString": "[Armadilha]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304208.jpg?version=19.0"
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304208.jpg?version=19.7"
   },
   {
     "name": "Encantadores do Grande Círculo",
     "desc": "2+ monstros \"Encantadores\" e/ou \"\t\r\nEspírito-Possuído\"\r\nVocê só pode usar o efeito de \"Encantadores do Grande Círculo\" uma vez por turno.\r\nSe este card for Invocado por Invocação-Fusão: você pode escolher dentre estes efeitos um número de vezes até o número dos Atributos originais dentre suas matérias (max. 4) e aplica-los em sequência (você pode escolher o mesmo efeito múltiplas vezes)\r\n● Este card ganha 800 ATK.\r\n● Adicione 1 Magia/Armadilha \"Possuído\" do seu Deck à mão.\r\n● Retorne 1 card no campo para a mão.\r\n● Invoque 1 monstro Mago do seu Cemitério por Invocação-Especial.",
     "overallString": "[Monstro|Efeito|Fusão] Mago/Luz  [★6] 1850/1500",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100254201.jpg?version=19.0"
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100254201.jpg?version=19.7"
   },
   {
     "name": "Livro de Magia do Grande Círculo",
     "desc": "Adicione 4 monstros \"Encantadores\" com Atributos diferentes do seu Deck, Cemitério e/ou banimento à sua mão, então retorne 2 cards da sua mão para seu Deck.\r\nVocê pode banir este card do seu Cemitério; Invoque 1 Monstro de Fusão por Invocação-Fusão usando monstros \"Encantadores\" e/ou \"Espírito-Possuído\" da sua mão ou campo. Seu oponente não pode ativar cards ou efeitos quando aquele monstro é Invocado por Invocação-Fusão.\r\nVocê só pode ativar cada um dos efeitos de \"Livro de Magia do Grande Círculo\" uma vez por turno.",
     "overallString": "[Magia]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100254202.jpg?version=19.0"
-  },
-  {
-    "name": "Os Três Bravos Espadalmas",
-    "desc": "1 Regulador Nível 4 + 1+ monstros não-Reguladores\r\nSe este card for Invocado por Invocação-Sincro: você pode adicionar 1 monstro Mago Nível 4 ou 8 com ATK igual a sua DEF do seu Deck ou Cemitério à sua mão.\r\nVocê pode escolher 1 card com a face para cima no campo; negue seus efeitos, então, se você tiver um monstro \"Ecclesia\" ou \"Caído de Arbaz\" no seu Cemitério, você pode destruir aquele card.\r\nVocê só pode usar cada um dos efeitos de \"Os Três Bravos Espadalmas\" uma vez por turno.",
-    "overallString": "[Monstro|Efeito|Sincro] Mago/Luz  [★8] 2500/2500",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100200281.jpg?version=19.0"
-  },
-  {
-    "name": "Combinação Sabre",
-    "desc": "Monstros \"Sabre-X\" que você controla ganham ATK igual a suas DEF originais enquanto você tiver 10 ou mais monstros \"Sabre-X\" no seu campo, Cemitério, e/ou banimento.\r\nSe você Invocar um ou mais monstros \"Sabre-X\" por Invocação-Especial do seu Deck Adicional: você pode Invocar 1 monstro \"Sabre-X\" da sua mão ou Deck por Invocação-Especial.\r\nQuando um monstro do oponente declara um ataque: você pode Invocar 1 monstro \"Sabre-X\" da sua mão por Invocação-Especial.\r\nVocê só pode usar cada um dos efeitos de \"Combinação Sabre\" uma vez por turno.",
-    "overallString": "[Magia|Magia Contínuo]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250005.jpg?version=19.0"
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100254202.jpg?version=19.7"
   },
   {
     "name": "Chita Apaixonada",
     "desc": "Não pode ser oferecida como Tributo ou usada como matéria para Invocação-Fusão, Sincro, Xyz ou Link.\r\nSe um ou mais monstros forem Invocados no campo do seu oponente por Invocação-Especial enquanto este monstro está no campo: você pode escolher 1 deles; troque o controle dele e este cardm nas aquele monstro não pode ser oferecido como Tributo ou usado como matéria de Invocação-Fusão, Sincro, Xyz ou Link enquanto este monstros estiver no campo.",
     "overallString": "[Monstro|Efeito] Besta/Fogo  [★3] 1100/2200",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100253001.jpg?version=19.0"
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100253001.jpg?version=19.7"
   },
   {
     "name": "Black Jack, o Cavaleiro da Armadura das Sombras",
     "desc": "1 Regulador + 1+ monstros não-Reguladores\r\nNão pode ser destruídor por batalha.\r\nToda vez que um ou mais cards são colocados na Zona de Magias e Armadilhas do seu oponente: escave cards do topo do seu Deck até você escavar um monstro e equipe-o a este card, também coloque o resto no fundo do seu Deck em qualquer ordem.\r\nGanha ATK/DEF igual aos Níveis totais dos monstros equipados a este card x 300.\r\nSe os Níveis totais dos monstros equipados a este card são mais que 21, destrua-o.",
     "overallString": "[Monstro|Efeito|Sincro] Guerreiro/Trevas  [★10] 0/0",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100253002.jpg?version=19.0"
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100253002.jpg?version=19.7"
   },
   {
     "name": "Susto do Par de Ursos!!",
     "desc": "Você só pode ativar 1 \"Susto do Par de Ursos!!\" uma vez por turno.\r\nSeu oponente pode revelar 1 \"Susto do Par de Ursos!!\" da sua mão ou Deck, e se o fizer, cada jogador ganha 2000 PV. Do contrário, destrua 1 monstro que ele controla.\r\nSe este card for enviado do campo para o Cemitério: adicione este card à mão do seu oponente. Este efeito de \"Susto do Par de Ursos!!\" só pode ser usado uma vez por Duelo.",
     "overallString": "[Magia|Magia Rápida]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100253003.jpg?version=19.0"
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100253003.jpg?version=19.7"
   },
   {
     "name": "A Primeira Mão Leva a Vitória",
     "desc": "Uma vez por turno, quando um ataque é declarado envolvendo seu monstro: você pode rolar um dado e aplicar este efeito ao seu monstro batalhando baseado no resultado, até o final deste turno. Se você ativar este efeito durante a batalha envolvendo 2 monstros na mesma coluna, escolha qual efeito aplicar sem rolar um dado.\r\n● 1 ou 4: A primeira vez que ele seria destruído por batalha ou efeito de card, ele não é destruído.\r\n● 2 ou 5: Ele perde 500 ATK, ele também não pode ser afetado por efeitos ativados de Magias/Armadilhas, exceto \"A Primeira Mão Leva a Vitória\".\r\n● 3 ou 6: Ele ganha 1000 ATK, ele também pode atacar até 2 monstros durante cada Fase de Batalha.",
     "overallString": "[Magia|Magia Contínuo]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100253004.jpg?version=19.0"
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100253004.jpg?version=19.7"
   },
   {
     "name": "Ebisu Shinsen Matsuri",
     "desc": "Uma vez por Corrente, se um ou mais Monstros de Efeito forem Invocados por Invocação-Especial: você pode escolher 1 deles; Invoque 1 \"Ficha de Shinsen\" (Aqua/ÁGUA/Nível 3/ATK 0/DEF 0) para o campo do oponente do controlador em Posição de Defesa por Invocação-Especial.\r\nNo início da Fase de Batalha: você pode destruir este card e quantas Fichas forem possíveis no campo, e se fizer, Invoque 1 \"Ficha de Ebisu\" (Fada/ÁGUA/Nível 7/ATK ?/DEF ?) por Invocação-Especial. Seu ATK/DEF se tornam o número de Fichas destruídas por este efeito x 700.",
     "overallString": "[Armadilha|Magia Contínuo]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100253005.jpg?version=19.0"
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100253005.jpg?version=19.7"
   },
   {
     "name": "Ejetor de Milagre",
     "desc": "Este card sempre é considerado um card \"HERÓI do Elemento\".\r\nVocê pode enviar 1 monstro \"Neoespacial\" do seu Deck para o Cemitério; Invoque este card da sua mão por Invocação-Especial.\r\nSe este card for Invocado por Invocação-Normal ou Especial: você pode adicionar 1 Magia/Armadilha que mencione o nome de um card de monstro \"HERÓI do Elemento\" do seu Deck para a sua mão.\r\nSe este card for enviado para o Cemitério: você pode escolher 1 card no Cemitério do seu oponente; bana-o.\r\nVocê só pode usar cada um dos efeitos de \"Ejetor de Milagre\" uma vez por turno.",
     "overallString": "[Monstro|Efeito] Mago/Terra  [★3] 400/400",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100252001.jpg?version=19.0"
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100252001.jpg?version=19.7"
   },
   {
     "name": "Caça Infernal de Ataque",
     "desc": "1 Regulador + 1+ monstros não-Reguladores\r\nDurante a Fase Principal 2 (Efeito Rápido): você pode destruir quantos monstros com a face para cima no campo quanto possível, e se fizer, cause dano ao seu oponente igual ao total dos Níveis originais x 200 dos monstros destruídos.\r\nSe este card for destruído por batalha ou efeito de card: você pode escolher 1 monstro Máquina de Nível 5 ou menor no seu Cemitério; Invoque-o por Invocação-Especial em Posição de Defesa.\r\nVocê só pode usar cada um dos efeitos de \"Caça Infernal de Ataque\" uma vez por turno.",
     "overallString": "[Monstro|Efeito|Sincro] Máquina/Trevas  [★7] 2600/1800",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100251003.jpg?version=19.0"
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100251003.jpg?version=19.7"
   },
   {
     "name": "Unicórnio do Vento Parallel, o Dracossassino",
     "desc": "Escala Pêndulo = 2\r\n[ Efeito de Pêndulo ]\r\nVocê só pode usar este Efeito de Pêndulo de \"Unicórnio do Vento Parallel, o Dracossassino\" uma vez por turno.\r\nSe você tiver um card na sua outra Zone de Pêndulo: você pode ativar 1 destes efeitos;\r\n● Invoque este card por Invocação-Especial.\r\n● Destrua este card, e se fizer, Invoque 1 card de Monstro Pêndulo de Nível 5 ou menor da sua Zone de Pêndulo por Invocação-Especial.\r\n----------------------------------------\r\n[Efeito de Monstro ]\r\nSeu oponente não pode escolher este card Invocado por Invocação-Pêndulo com efeitos de cards, ele também não pode ser destruído por efeitos de cards dele.\r\n(Efeito Rápido): você pode escolher 1 card de Monstro Pêndulo que você controla e 1 card que seu oponente controla; retorne-os para a mão. Você só pode usar este efeito de \"Unicórnio do Vento Parallel, o Dracossassino\" uma vez por turno.",
     "overallString": "[Monstro|Efeito|Pêndulo] Mago/Vento  [★6] 2000/2000  2/2",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100251005.jpg?version=19.0"
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100251005.jpg?version=19.7"
   },
   {
     "name": "Dragão Antimatéria de Olhos das Galáxias",
     "desc": "2 monstros de Nível 9\r\nUma vez por turno, você também pode Invocar \"Dragão Antimatéria de Olhos das Galáxias\" por Invocação-Xyz usando um Monstro Xyz que você controla com 3 ou mais matérias (transfira suas matérias).\r\nQualquer dano que este card com matéria causa ao seu oponente é reduzido pela metade.\r\nVocê pode desassociar 1 matéria deste card; aplique este efeito, então, se você desassociou um monstro, você pode enviar 1 monstro com seu mesmo Tipo do seu Deck para o Cemitério. Depois de aplicado, este card pode realizar até 2 ataques nos monstros durante cada Fase de Batalha neste turno.",
     "overallString": "[Monstro|Efeito|Xyz] Dragão/Luz  [☆9] 4000/0",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100251004.jpg?version=19.0"
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100251004.jpg?version=19.7"
   },
   {
     "name": "Cristron Prisma Halqifibrax",
     "desc": "2+ monstros, incluindo um Regulador\r\nSe este card for Invocado por Invocação-Link: você pode Invocar 1 Regulador em Posição de Defesa do seu Deck Adicional, com um Nível menor ou igual ao total original de Níveis dos monstros usados como matérias por Invocação-Especial.\r\nDurante a Fase Principal ou Fase de Batalha do seu oponente (Efeito Rápido): você pode banir este card que você controla; Invoque 3 \"Fichas de Cristron\" (Máquina/ÁGUA/Nível 1/ATK 0/DEF 0) por Invocação-Especial. Eles não pode ser usados como Tributo.\r\nVocê só pode usar cada um dos efeitos de \"Cristron Prisma Halqifibrax\" uma vez por turno.",
     "overallString": "[Monstro|Efeito|Link] Máquina/Água  [LINK-3] 1500/-  [↙][↓][↘]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100251006.jpg?version=19.0"
-  },
-  {
-    "name": "Tohusombraneco Grysta",
-    "desc": "VIRAR: você pode escolher 1 monstro \"Sombraneco\" de não Pedra no seu Cemitério; aplique seus efeitos que ativam quando é virado com a face para cima.\r\nSe este card for enviado para o Cemitério por efeito de card: você pode Invocar 1 Monstro Fusão \"Sombraneco\" por Invocação-Fusão do seu Deck Adicional, banindo seus materiais da mão, campo e/ou Cemitério. Você não pode Invocar por Invocação-Especial do seu Deck Adicional no turno que ativou este efeito, exceto monstros \"Sombraneco\".\r\nVocê só pode usar 1 dos efeitos de \"Tohusombraneco Grysta\" e somente uma vez por turno.",
-    "overallString": "[Monstro|Efeito|Virar] Rocha/Terra  [★7] 2450/1950",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250062.jpg?version=19.0"
-  },
-  {
-    "name": "El Sombraneco Meshahrail",
-    "desc": "1 monstro \"Sombraneco\" + 1 monstro TREVAS + 1 monstro TERRA\r\nDeve ser Invocado por Invocação-Fusão.\r\nNão é afetado por efeitos ativados de Magias/Armadilhas do seu oponente e por efeitos ativados de monstros do seu oponente que tenham Nível/Classe original menor que o atual Nível deste card.\r\nUma vez por turno: você pode pagar 800 PV; adicione 1 card \"Sombraneco\" ou Magia/Armadilha \"Vácuo\" do seu Deck à sua mão.\r\nSe este card for enviado para o Cemitério: você pode Invocar 1 monstro \"Sombraneco\" do seu Cemitério por Invocação-Especial.",
-    "overallString": "[Monstro|Efeito|Fusão] Máquina/Terra  [★10] 2800/1000",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250063.jpg?version=19.0"
-  },
-  {
-    "name": "Liberação do Vácuo",
-    "desc": "Revele 1 card \"Sombraneco\" na sua mão; adicione 2 card \"Sombraneco\" do seu Deck para a sua mão com diferentes tipos (Monstro, Magia, Armadilha) dos cards revelados e para cada outro, então descarte 1 card.\r\nVocê pode banir este card do seu Cemitério; adicione 1 monstro \"Infernoide\" do seu Deck ou Cemitério à mão.\r\nVocê só pode usar cada um dos efeitos de \"Liberação do Vácuo\" uma vez por turno.",
-    "overallString": "[Magia]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250066.jpg?version=19.0"
-  },
-  {
-    "name": "Vínculos Estelarnova",
-    "desc": "Ative one dos seguintes efeitos, mas você não pode Invocar monstros por Invocação-Especial do seu Deck Adicional pelo resto do turno, exceto Monstros Xyz.\r\n● Descarte 1 card, e se fizer, Invoque por Invocação-Especial 1 monstro \"Cavaleirost\" ou \"Constelar\" do seu Deck que tenha um Tipo diferente de monstro que você controla.\r\n● Escolha monstros com a face para cima no campo do seu opoenente até o número de monstros \"Cavaleirost\" ou \"Constelar\" que você controla; negue o efeito daqueles monstros até o final do turno.\r\nVocê só pode usar 1 \"Vínculos Estelarnova\" uma vez por turno.",
-    "overallString": "[Magia]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250044.jpg?version=19.0"
-  },
-  {
-    "name": "Reesombraneco Wendiculhu",
-    "desc": "1 monstro \"Sombraneco\" + 1 monstro de VENTO\r\nDeve ser Invocado por Invocação-Fusão primeiro.\r\nSe este card for enviado para o Cemitério: você pode escolher 1 card \"Sombraneco\" do seu Cemitério; adicione-o à sua mão.\r\n(Efeito Rápido): você pode mudar qualquer número de monstros Baixados para Posição de Defesa com a face para cima, então você pode mudar outros monstros com a face para cima no campo para Posição de Defesa com a face para baixo até o número de monstros Virar que foram virados com a face para cima.",
-    "overallString": "[Monstro|Efeito|Fusão] Psíquico/Vento  [★6] 200/2800",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250064.jpg?version=19.0"
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100251006.jpg?version=19.7"
   },
   {
     "name": "Governante do Fim do Mundo",
     "desc": "Você pode Invocar por Invocação-Ritual este card com um card \"Fim do Mundo\".\r\nO nome deste card se torna \"Demise, o Rei do Armagedom\" enquanto estiver na sua mão ou campo.\r\nVocê pode revelar este card da sua mão, pagar 2000 PV, e banir 1 Magia de Ritual do seu Deck; aplique os efeitos de ativação daquele card que Invoque um monstro por Invocação-Ritual.\r\nVocê pode pagar 2000 PV; destrua quantos outros cards no campo quanto possível, então este card ganha 2900 de ATK.\r\nVocê só pode usar cada um dos efeitos de \"Governante do Fim do Mundo\" uma vez por turno.",
     "overallString": "[Monstro|Efeito|Ritual] Demônio/Trevas  [★10] 3000/2900",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100251001.jpg?version=19.0"
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100251001.jpg?version=19.7"
   },
   {
     "name": "Restrição do Olho do Pesadelo",
     "desc": "2 monstros com Tipos diferentes (Demônio, Ilusão, Mago)\r\nGanha ATK igual ao total de ATK do monstro equipado.\r\nSe este card batalhar com um monstro, nenhum pode ser destruído por batalha.\r\nMonstros do seu oponente não podem atacar monstros, exceto este.\r\nSe este card for Invocado por Invocação-Especial, OU, se este card batalhar, no final da Fase de Batalha: você pode equipar 1 monstro que seu oponente controla a ele. Este efeito de \"Restrição do Olho do Pesadelo\" só pode ser ativado uma vez por turno.",
     "overallString": "[Monstro|Efeito|Fusão] Ilusão/Trevas  [★1] 0/0",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100251002.jpg?version=19.0"
-  },
-  {
-    "name": "Quirinus Dragunidade",
-    "desc": "Seus monstros \"Dragunidade\" não podem ser destruídos por batalha enquanto este card estiver equipado como um Card de Equipamento.\r\nVocê só pode usar cada um dos seguintes efeitos de \"Quirinus Dragunidade\" uma vez por turno.\r\nSe este card for Invocado por Invocação-Normal ou Invocação-Especial: você pode adicionar 1 Magia/Armadilha \"Dragunidade\" do seu Deck à sua mão.\r\nVocê pode escolher 1 outro Monstro \"Dragunidade\" que você controla; retorne-o para mão/Deck Adicional, então você pode Invocar por Invocação-Especial 1 monstro \"Dragunidade\" da sua mão.",
-    "overallString": "[Monstro|Efeito] Besta Alada/Vento  [★4] 1200/1200",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250018.jpg?version=19.0"
-  },
-  {
-    "name": "Falchion Dragunidade",
-    "desc": "Você pode banir este card da sua mão ou Cemitério, então escolha 1 monstro \"Dragunidade\" que você controla; equipe 1 monstro \"Dragunidade\" do tipo Dragão do seu Deck ou Cemitério a ele.\r\nVocê pode enviar este card equipado a um monstro \"Dragunidade\" para o Cemitério, então escolha 1 card com a face para cima que sou oponente controla; bana-o.\r\nVocê só pode usar cada um dos efeitos de \"Falchion Dragunidade\" uma vez por turno.",
-    "overallString": "[Monstro|Efeito|Regulador] Dragão/Vento  [★2] 1300/1200",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250019.jpg?version=19.0"
-  },
-  {
-    "name": "Cavaleiro Dragunidade - Areus",
-    "desc": "1 Regulador + 1+ Monstros Sincro não-Reguladores\r\nVocê pode escolher cards com a face para cima que seu oponente controla até o número de Cards de Monstros na sua Zona de Magias & Armadilhas; negue seus efeitos até o fim deste turno. Este é um Efeito Rápido se este card estiver equipado como um Card de Equipamento.\r\nEnquanto este card estiver equipado em um monstro: você pode Invoca-lo por Invocação-Especial, então você pode Invocar por Invocação-Especial 1 Regulador \"Dragunidade\" do seu Cemitério.\r\nVocê só pode usar cada um dos efeitos de \"Cavaleiro Dragunidade - Areus\" uma vez por turno.",
-    "overallString": "[Monstro|Efeito|Sincro] Dragão/Vento  [★8] 2900/2500",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250020.jpg?version=19.0"
-  },
-  {
-    "name": "Senhor Dragunidade – Georgius",
-    "desc": "2+ monstros, incluindo um Regulador\r\nSeu oponente não pode ativar efeitos de monstros do Cemitério enquanto este card estiver equipado com um card \"Dragunidade \".\r\nVocê só pode ativar cada um dos seguintes efeitos de \"Senhor Dragunidade – Georgius\" uma vez por turno.\r\nSe este card for Invocado por Invocação-Link, ou seu oponente Invocar por Invocação-Especial um ou mais monstros: você pode Invocar por Invocação-Especial 1 monstro \"Dragunidade\" de Nível 5 ou maior do seu Deck Adicional ou Cemitério.\r\nQuando seu oponente ativar um Card de Magia/Armadilha ou efeito (Efeito Rápido): você pode enviar 1 Card de Equipamento que você controla para o Cemitério; negue aquele efeito.",
-    "overallString": "[Monstro|Efeito|Link] Dragão/Vento  [LINK-4] 2400/-  [←][→][↙][↘]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250021.jpg?version=19.0"
-  },
-  {
-    "name": "Sabre-X Perina",
-    "desc": "Se este card for Invocado por Invocação-Normal ou Invocação-Especial: você pode envia-lo para o Cemitério; Invoque por Invocação-Especial 2 monstros \"Sabre-X\" do seu Deck, exceto \"Sabre-X Perina\", mas destrua-os durante a Fase Final.\r\nSe este card for enviado para o Cemitério como matéria para Invocação-Sincro de um monstro \"Sabre-X\": aplique 1 dos seguintes efeitos.\r\n● Pode atacar uma segunda vez durante cada Fase de Batalha.\r\n● Pode atacar diretamente.\r\nVocê só pode usar cada um dos efeitos de \"Sabre-X Perina\" uma vez por turno.",
-    "overallString": "[Monstro|Efeito|Regulador] Besta-Guerreira/Terra  [★4] 1700/300",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250206.jpg?version=19.0"
-  },
-  {
-    "name": "Sabre-X Bruno",
-    "desc": "Uma vez por turno, durante a Fase Principal ou Fase de Batalha do seu oponente, você pode (Efeito Rápido): imediatamente após ativar este efeito, Invocar por Invocação-Sincro usando somente monstros de TERRA que você controla, incluindo este card.\r\nVocê só pode ativar os seguintes efeitos de \"Sabre-X Bruno\" uma vez por turno.\r\nSe este card estiver na sua mão: você pode banir 1 outro monstro de TERRA da sua mão, face para cima no campo, ou Cemitério; Invoque por Invocação-Especial este card.\r\nSe este card for Invocado por Invocação-Especial: você pode adicionar 1 Magia/Armadilha \"Sabre\" do seu Deck à sua mão.",
-    "overallString": "[Monstro|Efeito|Regulador] Psíquico/Terra  [★3] 1200/1100",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250207.jpg?version=19.0"
-  },
-  {
-    "name": "Comandante Souza, Mestre Espadachim",
-    "desc": "1 Regulador + 1+ monstros de TERRA\r\nEste card é sempre considerado como um card \"Sabre-X\".\r\nGanha 200 de ATK para cada monstro banido.\r\nQuando este card destrói um monstro por batalha: você pode comprar 1 card.\r\nUma vez por turno, quando seu oponente ativar um card ou efeito (Efeito Rápido): você pode oferecer como Tributo 1 monstro \"Sabre-X\"; destrua 1 card que ele controla.\r\nSe este card seria destruído por batalha ou efeito de card, ao invés disso você pode banir 1 card \"Sabre-X\" do seu Cemitério.",
-    "overallString": "[Monstro|Efeito|Sincro] Guerreiro/Terra  [★10] 2500/1600",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250208.jpg?version=19.0"
-  },
-  {
-    "name": "Sabre-X Gottoms",
-    "desc": "1 Regulador + 1+ monstros de TERRA\r\nSe este card for Invocado por Invocação-Sincro: você pode adicionar 1 Magia/Armadilha \"Sabre\" ou \"Gottoms\" do seu Deck à mão.\r\nQuando este card causa dano de combate ao seu oponente: você pode descartar 1 card aleatório da mão dele.\r\nQuando seu monstro \"Sabre-X\" é alvo de um ataque enquanto este card está no seu Cemitério: você pode Invocar este card por Invocação-Especial, então troque o alvo de ataque para ele.\r\nVocê só pode usar cada um dos efeitos de \"Sabre-X Gottoms\" uma vez por turno.",
-    "overallString": "[Monstro|Efeito|Sincro] Guerreiro/Terra  [★7] 2600/2100",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250209.jpg?version=19.0"
-  },
-  {
-    "name": "Constelar Castor",
-    "desc": "Um Monstro Xyz \"Constelar\" que tem este card como matéria ganha este efeito.\r\n● Uma vez por turno, quando seu oponente ativar um Card de Magia ou efeito (Efeito Rápido): você pode desassociar 2 Matérias Xyz dos seus monstros, e se fizer, negue aquele efeito, e se fizer isso, destrua aquele card.\r\nSe este card for Invocado: você pode Invocar por Invocação-Especial 1 monstro \"Constelar\" do seu Deck, exceto \"Constelar Castor\", além disso você não pode Invocar por Invocação-Especial do seu Deck Adicional pelo resto deste turno, exceto monstros LUZ e TREVAS. Este efeito de \"Constelar Castor\" só pode usado uma vez por turno.",
-    "overallString": "[Monstro|Efeito] Fada/Luz  [★4] 1700/600",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250201.jpg?version=19.0"
-  },
-  {
-    "name": "Cavaleirostrela Cygnian",
-    "desc": "Este card é sempre considerado um card \"Constelar\".\r\nSe este card for Invocado: você pode adicionar 1 monstro \"Cavaleirostrela\" ou \"Constellar\" do seu Deck à sua mão.\r\nVocê pode escolher 1 outro monstro de LUZ que você controla; aumente seu Nível e o deste card em 1.\r\nEste card pode ser considerado como 2 matérias para uma Invocação-Xyz de um Monstro Xyz \"Cavaleirostrela\" que precise ter 3 ou mais matérias.\r\nVocê só pode usar cada um dos efeitos de \"Cavaleirostrela Cygnian\" uma vez por turno.",
-    "overallString": "[Monstro|Efeito] Guerreiro/Luz  [★4] 1500/1000",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250202.jpg?version=19.0"
-  },
-  {
-    "name": "Cavaleiroexstrela Constelar Ptolemy Ω7",
-    "desc": "3 monstros de Nível 7\r\nUma vez por turno, durante sua Fase Principal 2, você também pode Invocar por Invocação-Xyz \"Cavaleiroexstrela Constelar Ptolemy Ω7\" usando um Monstro Xyz \"Cavaleirostrela\" ou \"Constelar\" que você controla (transfira suas matérias).\r\nEnquanto você tiver 7 ou mais monstros \"Cavaleirostrela\" com nomes diferentes no seu Cemitério e/ou banimento, este card ganha 2700 ATK/DEF, além disso não é afetado por efeitos ativados de cards do seu oponente.\r\nUma vez por turno (Efeito Rápido): você pode desassociar qualquer número de matérias deste card, então escolha aquela quantia de monstros que seu oponente controla; embaralhe-os no Deck.",
-    "overallString": "[Monstro|Efeito|Xyz] Máquina/Luz  [☆7] 2700/2700",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250203.jpg?version=19.0"
-  },
-  {
-    "name": "Cavaleirostrela Constelar Delteros",
-    "desc": "3+ monstros de Nível 4\r\n①：Seu oponente não pode escolher Monstros Xyz \"Cavaleirostrela\" e \"Constelar\" de Classe 5 ou superior que você controla com efeito de cards.\r\n②：Uma vez por turno: você pode desassociar 1 matéria deste card; adicionar um monstro \"Cavaleirostrela\" ou \"Constelar\" do seu Deck à sua mão, então, imediatamente após ativar este efeito, você pode Invocar por Invocação-Normal 1 monstro LUZ.\r\n③：Se este card for enviado para o Cemitério, exteto do campo: você pode Invocar por Invocação-Especial 1 monstro \"Cavaleirostrela\" ou \"Constelar\" da sua mão ou banimento.",
-    "overallString": "[Monstro|Efeito|Xyz] Guerreiro/Luz  [☆4] 2500/2500",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100250204.jpg?version=19.0"
-  },
-  {
-    "name": "Mágico Mosqueteiro Mentor Caspar",
-    "desc": "2 monstro, inlcuindo um Monstro Demônio de LUZ\r\nDurante o turno de cada jogador, você pode ativar Magias/Armadilhas \"Mágico(a) Mosquete\" da sua mão.\r\nSe este card for Invocação por Invocação-Link: você pode pegar 2 cards \"Mágico(a) Mosquete\" da sua mão e/ou Deck, incluindo um monstro, Invoque por Invocação-Especial 1 desses monstros, e Baixe o outro card para o campo do seu oponente. Você só pode usar este efeito de \"Mágico Mosqueteiro Mentor Caspar\" uma vez por turno.",
-    "overallString": "[Monstro|Efeito|Link] Demônio/Luz  [LINK-2] 2000/-  [↑][↓]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100249001.jpg?version=19.0"
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100251002.jpg?version=19.7"
   }
 ]
