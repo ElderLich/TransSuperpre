@@ -1,5 +1,17 @@
 [
   {
+    "name": "Cavaliere Convesso",
+    "desc": "Se un mostro Macchina è sul Terreno e questa carta è nella tua mano: puoi Evocare Specialmente questa carta in Posizione di Difesa, poi puoi far diventare il suo Livello pari al Livello o al Rango di 1 mostro Macchina sul Terreno.\r\nDurante la tua Main Phase: puoi mandare 1 mostro Macchina TERRA dal tuo Deck al Cimitero, poi questa carta guadagna ATK pari al Livello del mostro mandato x 100 fino alla fine di questo turno.\r\nPuoi utilizzare ciascun effetto di \"Cavaliere Convesso\" una sola volta per turno.",
+    "overallString": "[Mostro|Effetto] Macchina/Terra  [★4] 1800/500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304026.jpg?version=19.7"
+  },
+  {
+    "name": "Fuoco della Croce del Nord",
+    "desc": "Se la somma dei Livelli dei mostri che controlli è 10 o superiore: prendi 1 mostro di Livello 10 dalla tua mano o dal tuo Deck, e aggiungilo alla tua mano oppure Evocalo Specialmente.\nSe la somma dei Livelli dei mostri controllati dal tuo avversario è 10 o superiore: puoi bandire questa carta e 1 mostro di Livello 10 dal tuo Cimitero, poi scegliere come bersaglio 1 carta controllata dal tuo avversario; bandiscila.\nPuoi utilizzare 1 solo effetto di \"Fuoco della Croce del Nord\" per turno, e solo una volta in quel turno.",
+    "overallString": "[Trappola]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304076.jpg?version=19.7"
+  },
+  {
     "name": "Diabrocken della Luce Spettrale",
     "desc": "(Effetto Rapido): Puoi bandire 1 mostro FUOCO dal tuo Terreno scoperto o dal tuo Cimitero; Evoca Specialmente questa carta dalla tua mano.\r\nSe questa carta viene Evocata Specialmente: puoi scegliere come bersaglio 1 carta scoperta sul Terreno; annulla i suoi effetti fino alla fine di questo turno.\r\nSe questa carta viene mandata al Cimitero come Materiale Link: puoi Posizionare 1 Magia Rapida o 1 Trappola Normale dal tuo Cimitero che è stata mandata lì in questo turno.\r\nPuoi utilizzare ciascun effetto di \"Diabrocken della Luce Spettrale\" una sola volta per turno.",
     "overallString": "[Mostro|Effetto] Demone/Fuoco  [★6] 2000/2000",
@@ -222,30 +234,6 @@
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304067.jpg?version=19.7"
   },
   {
-    "name": "Regulus, Principe degli Endymion",
-    "desc": "La prima volta che questa carta dovrebbe essere distrutta in battaglia in ogni turno, non viene distrutta.\r\nPuoi utilizzare ciascuno dei seguenti effetti di \"Regulus, Principe degli Endymion\" una sola volta per turno.\r\nSe questa carta è nella tua mano: puoi rivelare 1 altro mostro Incantatore nella tua mano; perdi LP pari al Livello del mostro rivelato x 300 e, se lo fai, Evoca Specialmente questa carta.\r\nSe questa carta viene Evocata Specialmente: puoi aggiungere alla tua mano 1 Magia che menziona \"Regulus, Principe degli Endymion\" dal tuo Deck.",
-    "overallString": "[Mostro|Effetto] Incantatore/Luce  [★4] 1700/1300",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100200282.jpg?version=19.7"
-  },
-  {
-    "name": "Genni, Domestica degli Endymion",
-    "desc": "(Questa carta è sempre trattata come una carta \"Stregartigiana\".)\r\nSe controlli un mostro Incantatore: puoi Evocare Specialmente questa carta dalla tua mano.\r\nDurante la Main Phase (Effetto Rapido): puoi scegliere come bersaglio 1 mostro Incantatore che controlli; bandiscilo e, se lo fai, Evoca Specialmente 1 mostro \"Stregartigiana\" dal tuo Deck, eccetto \"Genni, Domestica degli Endymion\".\r\nPuoi utilizzare ciascun effetto di \"Genni, Domestica degli Endymion\" una sola volta per turno.",
-    "overallString": "[Mostro|Effetto] Incantatore/Vento  [★1] 300/500",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255018.jpg?version=19.7"
-  },
-  {
-    "name": "Impero degli Endymion",
-    "desc": "Quando questa carta viene attivata: aggiungi 1 \"Regulus, Principe degli Endymion\" o 1 mostro che lo menziona dal tuo Deck alla tua mano, poi, se il tuo avversario controlla un mostro, puoi Evocare Specialmente 1 mostro Incantatore dalla tua mano.\r\nSe una o più carte che controlli stanno per essere distrutte in battaglia o dall'effetto di una carta, puoi distruggere 1 \"Regulus, Principe degli Endymion\" nella tua mano o nella tua Zona Mostri scoperta al suo posto.\r\nPuoi utilizzare questo effetto di \"Impero degli Endymion\" una sola volta per turno.\r\nPuoi attivare solo 1 \"Impero degli Endymion\" per turno.",
-    "overallString": "[Magia|Continua]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255019.jpg?version=19.7"
-  },
-  {
-    "name": "Freccia di Regulus",
-    "desc": "Se controlli \"Regulus, Principe degli Endymion\": attiva 1 di questi effetti;\r\n● Distruggi 1 mostro controllato dal tuo avversario che ha combattuto in questo turno.\r\n● Quando viene attivata una Magia Normale o Rapida: annulla quell'effetto.\r\nDurante la tua Main Phase: puoi bandire questa carta dal tuo Cimitero, poi scegliere come bersaglio 1 \"Regulus, Principe degli Endymion\" o 1 mostro che lo menziona nel tuo Cimitero; Evocalo Specialmente.\r\nPuoi utilizzare ogni effetto di \"Freccia di Regulus\" una sola volta per turno.",
-    "overallString": "[Magia|Rapida]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255020.jpg?version=19.7"
-  },
-  {
     "name": "Codafavola – Fiammella",
     "desc": "Se un mostro Incantatore con ATK originale 1850 è sul Terreno: puoi Evocare Specialmente questa carta dalla tua mano o Cimitero, inoltre non puoi Evocare Specialmente per il resto di questo turno, eccetto mostri Incantatore.\r\nSe questa carta è Evocata Normalmente o Specialmente: puoi aggiungere 1 Carta Magia/Trappola \"Codafavola\" dal tuo Deck alla tua mano.\r\nPuoi pagare 500 LP; il nome di 1 Mostro con Effetto controllato dal tuo avversario diventa \"Principefavola\".\r\nPuoi utilizzare ciascun effetto di \"Codafavola – Fiammella\" una sola volta per turno.",
     "overallString": "[Mostro|Effetto] Incantatore/Luce  [★4] 1850/1000",
@@ -330,108 +318,6 @@
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100256001.jpg?version=19.7"
   },
   {
-    "name": "Fontana EROE Mascherato",
-    "desc": "Puoi rivelare questa carta dalla tua mano; Evoca Specialmente 1 mostro \"EROE\" dalla tua mano in Posizione di Difesa.\r\nSe questa carta viene mandata al Cimitero per attivare un effetto di una carta, o da un effetto di una carta: puoi Posizionare 1 \"Cambio di Maschera\" dal tuo Deck o Cimitero.\r\nPuoi utilizzare ogni effetto di \"Fontana EROE Mascherato\" una sola volta per turno.",
-    "overallString": "[Mostro|Effetto] Guerriero/Acqua  [★4] 1000/1400",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255004.jpg?version=19.7"
-  },
-  {
-    "name": "Vipera Velenosa",
-    "desc": "Puoi rivelare questa carta nella tua mano; Evocala Specialmente oppure, se il tuo avversario non controlla mostri, Evocala Specialmente sul suo Terreno in Posizione di Difesa.\r\nUna volta per turno, durante la tua Standby Phase: Subisci 500 danni.\r\nSe questa carta viene mandata al Cimitero dall'effetto di una carta o bandita: Puoi scegliere come bersaglio 1 Magia/Trappola Posizionata dell'avversario; distruggila. Essa non può essere attivata in risposta all'attivazione di questo effetto. Puoi usare questo effetto di \"Vipera Velenosa\" una sola volta per turno.",
-    "overallString": "[Mostro|Effetto] Rettile/Terra  [★1] 100/200",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255005.jpg?version=19.7"
-  },
-  {
-    "name": "Angelo Caduto nell'Oscurità",
-    "desc": "(Questa carta è sempre considerata come una carta \"Signore Oscuro\".)\r\nManda 1 mostro Fata dalla tua mano o scoperto sul Terreno al Cimitero; Evoca Specialmente 1 mostro \"Signore Oscuro\" dalla tua mano, Deck o bandito, ignorando le sue condizioni di Evocazione.\r\nPuoi attivare solo 1 \"Angelo Caduto nell'Oscurità\" per turno.",
-    "overallString": "[Trappola]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255006.jpg?version=19.7"
-  },
-  {
-    "name": "Armatura Rottame",
-    "desc": "Il tuo avversario non può scegliere come bersaglio con effetti di carte i Mostri Synchro che controlli che hanno \"Guerriero\" e/o \"Polvere di Stelle\" nei loro nomi originali. Puoi utilizzare ciascuno dei seguenti effetti di \"Armatura Rottame\" una sola volta per turno.\r\n● Se questa carta viene aggiunta alla tua mano, eccetto pescandola: puoi Evocarla Specialmente.\r\n● Puoi offrire come Tributo questa carta; Evoca Specialmente 1 mostro \"Rottame\" o \"Synchron\" dal tuo Deck in Posizione di Difesa, eccetto \"Armatura Rottame\".",
-    "overallString": "[Mostro|Effetto] Guerriero/Terra  [★2] 600/1200",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255007.jpg?version=19.7"
-  },
-  {
-    "name": "Maestro Rottame",
-    "desc": "Puoi rivelare 1 Mostro Synchro \"Guerriero\" o \"Polvere di Stelle\" nel tuo Extra Deck; Evoca Specialmente questa carta dalla tua mano, inoltre non puoi Evocare Specialmente dall'Extra Deck per il resto di questo turno, eccetto Mostri Synchro.\r\nSe questa carta viene Evocata Normalmente o Specialmente: Puoi aggiungere 1 carta \"Rottame\" dal tuo Deck alla tua mano, eccetto \"Maestro Rottame\".\r\nPuoi scegliere come bersaglio 1 mostro \"Rottame\" che controlli; diminuisci il suo Livello fino a un massimo di 2.\r\nPuoi usare ogni effetto di \"Maestro Rottame\" una sola volta per turno.",
-    "overallString": "[Mostro|Effetto] Guerriero/Terra  [★4] 100/2300",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255008.jpg?version=19.7"
-  },
-  {
-    "name": "Sovra Sintonizzazione",
-    "desc": "Se controlli un Tuner: Evoca Specialmente 1 Tuner dalla tua mano, Deck o Cimitero, inoltre non puoi Evocare Specialmente dall'Extra Deck per il resto di questo turno dopo che questa carta si è risolta, eccetto Mostri Synchro.\r\nPuoi attivare solo 1 \"Sovra Sintonizzazione\" per turno.",
-    "overallString": "[Magia]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255009.jpg?version=19.7"
-  },
-  {
-    "name": "Pulsazione del Campione",
-    "desc": "Attiva 1 di questi effetti:\r\n● Durante la Battle Phase del tuo avversario: Il tuo avversario guadagna 1000 LP, poi termina la Battle Phase.\r\n● Quando il tuo avversario attiva l'effetto di un mostro, e se controlla più carte di quante ne controlli tu: Evoca Specialmente 1 \"Arcidemone Drago Rosso\" o \"Arcidemone Drago Rosso Rovente\" dal tuo Extra Deck o Cimitero e, se lo fai, annulla quell'effetto, e se fai quello, distruggi quel mostro.",
-    "overallString": "[Trappola]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255010.jpg?version=19.7"
-  },
-  {
-    "name": "Illusione Gagaga",
-    "desc": "Se controlli un mostro \"Gagaga\": scegli come bersaglio 1 mostro nel tuo Cimitero; Evocalo Specialmente, poi puoi far diventare il suo Livello/Rango uguale al Livello/Rango di 1 mostro \"Gagaga\" che controlli.\r\nSe questa carta è nel tuo Cimitero, eccetto nel turno in cui è stata mandata lì: puoi bandirla; immediatamente dopo che questo effetto si è risolto, Evoca Normalmente 1 mostro \"Gagaga\".\r\nPuoi utilizzare ogni effetto di \"Illusione Gagaga\" una sola volta per turno.",
-    "overallString": "[Magia]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255011.jpg?version=19.7"
-  },
-  {
-    "name": "Fuga Gagaga",
-    "desc": "Quando il tuo avversario attiva l'effetto di un mostro, se controlli un mostro \"Gagaga\": annulla l'attivazione, poi puoi scartare 1 carta e, se lo fai, Evoca Specialmente 1 mostro \"Gagaga\" dal tuo Deck.\r\nPuoi bandire questa carta dal Cimitero; metti nella Posizione di Difesa tanti mostri \"Gagaga\" che controlli quanto possibile e, se lo fai, i mostri \"Gagaga\" che controlli non possono essere distrutti in battaglia o dagli effetti delle carte in questo turno.\r\nPuoi utilizzare ogni effetto di \"Fuga Gagaga\" una sola volta per turno.",
-    "overallString": "[Trappola|Contro]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255012.jpg?version=19.7"
-  },
-  {
-    "name": "Vincolo Senza Fine",
-    "desc": "(Questa carta è sempre considerata come una carta \"Xyz\".)\r\nQuando questa carta si risolve, puoi Evocare Specialmente 1 \"Numero 39: Utopia\" dal tuo Cimitero e, se lo fai, esso guadagna ATK pari all'ATK totale di tutti i Mostri Xyz \"Utopia\" e \"Utopico\" LUCE nel tuo Cimitero.\r\nQuando il tuo Mostro Xyz \"Utopia\" o \"Utopico\" attaccante il cui Attributo originale è LUCE distrugge un mostro dell'avversario in battaglia: Puoi far perdere 1000 ATK a quel mostro che controlli e, se lo fai, può effettuare un altro attacco di seguito.\r\nPuoi attivare solo 1 \"Vincolo Senza Fine\" per turno.",
-    "overallString": "[Magia|Continua]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255013.jpg?version=19.7"
-  },
-  {
-    "name": "Zanne Spinose di Veleno Viola",
-    "desc": "(Questa carta è sempre considerata come una carta \"Predap\".)\r\nScegli come bersaglio 1 \"Drago Fusione Veleno Affamato\" che controlli; distruggi tanti mostri controllati dal tuo avversario con ATK inferiore quanti possibile, poi puoi scartare tutta la tua mano e, se lo fai, infliggi danno al tuo avversario pari all'ATK originale totale dei mostri distrutti, inoltre il mostro scelto come bersaglio non può attaccare in questo turno.",
-    "overallString": "[Magia]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255014.jpg?version=19.7"
-  },
-  {
-    "name": "Fusione Penetrazione",
-    "desc": "Se uno o più mostri sono stati distrutti in battaglia in questo turno: Evoca tramite Fusione 1 Mostro Fusione dal tuo Extra Deck, utilizzando mostri dalla tua mano o Terreno e, se lo fai, esso guadagna questo effetto.\r\n● (Effetto Rapido): Puoi Tributare questa carta, poi scegli come bersaglio 1 mostro scoperto che controlli; esso guadagna 500 ATK.\r\nPuoi attivare solo 1 \"Fusione Penetrazione\" per turno.",
-    "overallString": "[Magia|Rapida]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255015.jpg?version=19.7"
-  },
-  {
-    "name": "Fusione Sorpresa",
-    "desc": "Scegli come bersaglio 1 mostro scoperto che controlli e dichiara 1 Tipo di Mostro e 1 Attributo; quel mostro diventa di quel Tipo e Attributo, poi puoi Evocare tramite Fusione 1 Mostro Fusione dal tuo Extra Deck, utilizzando mostri che controlli, incluso il mostro scelto come bersaglio.\r\nPuoi bandire questa carta dal tuo Cimitero; Tributa 1 Mostro Fusione e, se lo fai, Evoca Specialmente 2 \"Segna-Sorpresa\" (Incantatore/OSCURITÀ/ATK 0/DEF 0) con un Livello pari al Livello che il mostro Tributato aveva sul Terreno. Puoi utilizzare questo effetto di \"Fusione Sorpresa\" una sola volta per turno.",
-    "overallString": "[Magia]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255016.jpg?version=19.7"
-  },
-  {
-    "name": "Assaltatrice Del Cielo Mecha - Sciabola Adhil",
-    "desc": "Durante la Battle Phase (Effetto Rapido): Puoi scartare questa carta, poi scegli come bersaglio 1 mostro \"Assaltatrice Del Cielo\" sul Terreno; esso guadagna 1500 ATK fino alla fine di questo turno.\r\nSe uno o più mostri vengono Evocati Specialmente mentre questa carta è nel tuo Cimitero: Puoi scegliere come bersaglio 1 Mostro Link \"Assaltatrice Del Cielo\" che controlli; equipaggia questa carta a esso come una Magia Equipaggiamento che gli fa guadagnare 1500 ATK.\r\nPuoi usare ogni effetto di \"Assaltatrice Del Cielo Mecha - Sciabola Adhil\" una sola volta per turno.",
-    "overallString": "[Mostro|Effetto] Macchina/Vento  [★7] 1500/1500",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255017.jpg?version=19.7"
-  },
-  {
-    "name": "Elfo Studioso",
-    "desc": "Se questa carta viene Evocata Normalmente o Specialmente: puoi Posizionare 1 Trappola dal tuo Deck che ha un effetto che le permette di equipaggiarsi a un mostro.\r\nSe questa carta viene mandata dal Terreno al Cimitero: puoi pescare 1 carta.\r\nPuoi utilizzare ogni effetto di \"Elfo Studioso\" una sola volta per turno.",
-    "overallString": "[Mostro|Effetto] Incantatore/Luce  [★3] 1400/1500",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255001.jpg?version=19.7"
-  },
-  {
-    "name": "Reincarnazione dell'Armamento",
-    "desc": "Evoca Specialmente \"Segna-Reincarnazione dell'Armamento\" (Guerriero/LUCE/Livello 1/ATK 500/DEF 500) fino al numero di Carte Magia Equipaggiamento e Trappole con un effetto che si equipaggiano a un mostro, presenti nel tuo Cimitero, poi puoi distruggere tante carte nella tua Zona Magie & Trappole quante possibile, inclusa questa carta, poi Posiziona tante Carte Magia Equipaggiamento e Trappole con un effetto che si equipaggiano a un mostro, quante possibile dal tuo Cimitero. Queste Trappole possono essere attivate in questo turno. Per il resto di questo turno, non puoi Evocare Specialmente.",
-    "overallString": "[Magia]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255002.jpg?version=19.7"
-  },
-  {
-    "name": "Barriera Riflessa",
-    "desc": "Scegli come bersaglio 1 mostro scoperto che controlli; equipaggia questa carta a esso come una Carta Equipaggiamento con questo effetto.\r\n● Una volta per Battle Step, se il mostro equipaggiato combatte con un mostro dell'avversario: Puoi distruggere quel mostro dell'avversario.\r\nSe questa carta viene distrutta: Puoi aggiungere 1 \"Reincarnazione dell'Armamento\" dal tuo Deck alla tua mano. Puoi usare questo effetto di \"Barriera Riflessa\" una sola volta per turno.",
-    "overallString": "[Trappola]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255003.jpg?version=19.7"
-  },
-  {
     "name": "Diapason dell'Oscurità",
     "desc": "Puoi rivelare 1 \"Arcidemone Drago Rosso\" nel tuo Extra Deck; Evoca Specialmente questa carta dalla tua mano, inoltre non puoi Evocare Specialmente dall'Extra Deck per il resto di questo turno, eccetto Mostri Synchro.\r\nSe questa carta viene Evocata Specialmente: puoi attivare questo effetto; durante la tua Main Phase in questo turno, puoi effettuare 1 Evocazione Normale di un mostro \"Diapason\" in aggiunta alla tua Evocazione Normale/Posizionamento (puoi ottenere questo effetto solo una volta per turno).\r\nPuoi scegliere un qualsiasi numero di Tuner che controlli; i loro Livelli diventano 1.\r\nPuoi utilizzare ogni effetto di \"Diapason dell'Oscurità\" una sola volta per turno.",
     "overallString": "[Mostro|Effetto|Tuner] Demone/Oscurità  [★3] 1300/300",
@@ -490,77 +376,5 @@
     "desc": "Aggiungi 4 mostri \"Ammaliatore/Ammaliatrice\" con Attributi diversi dal tuo Deck, Cimitero e/o carte bandite alla tua mano, poi rimischia 2 carte dalla tua mano nel Deck.\r\nPuoi bandire questa carta dal tuo Cimitero; Evoca tramite Fusione 1 Mostro Fusione dal tuo Extra Deck, utilizzando mostri \"Ammaliatore\" e/o \"Ammaliatrice\" e/o \"Posseduto dal Famiglio\" dalla tua mano o Terreno, inoltre il tuo avversario non può attivare carte o effetti quando un mostro viene Evocato tramite Fusione in questo modo.\r\nPuoi utilizzare ogni effetto di \"Libro di Magia del Gran Cerchio\" una sola volta per turno.",
     "overallString": "[Magia]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100254202.jpg?version=19.7"
-  },
-  {
-    "name": "Ghepardo Cadente",
-    "desc": "Questa carta scoperta nella Zona Mostri non può essere offerta come Tributo, né utilizzata come Materiale per un'Evocazione tramite Fusione, Synchro, Xyz o Link.\r\nSe uno o più mostri vengono Evocati Specialmente sul Terreno del tuo avversario, mentre questa carta è nella Zona Mostri: scegli come bersaglio 1 di essi; cedi il controllo di questa carta al controllore di quel mostro, inoltre quel mostro non può essere offerto come Tributo né utilizzato come Materiale per un'Evocazione tramite Fusione, Synchro, Xyz o Link finché questo mostro resta scoperto sul Terreno.",
-    "overallString": "[Mostro|Effetto] Bestia/Fuoco  [★3] 1100/2200",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100253001.jpg?version=19.7"
-  },
-  {
-    "name": "Black Jack il Cavaliere Corazzato d'Ombra",
-    "desc": "1 Tuner + 1+ mostri non-Tuner\r\nNon può essere distrutto in battaglia.\r\nOgni volta che una o più carte vengono posizionate nella Zona Magie & Trappole del tuo avversario: scopri carte dalla cima del tuo Deck fino a scoprire un mostro, equipaggia quel mostro a questa carta come Magia Equipaggiamento, inoltre metti le altre carte in fondo al Deck in qualsiasi ordine.\r\nQuesta carta guadagna ATK/DEF pari al totale dei Livelli dei mostri equipaggiati a questa carta x 300.\r\nSe il totale dei Livelli dei mostri equipaggiati a questa carta è superiore a 21, distruggi questa carta.",
-    "overallString": "[Mostro|Effetto|Synchro] Guerriero/Oscurità  [★10] 0/0",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100253002.jpg?version=19.7"
-  },
-  {
-    "name": "Orsetti Spavento a Coppie!!",
-    "desc": "Il tuo avversario può rivelare 1 carta \"Orsoppiatto Spavento a Coppie!!\" nella sua mano o nel suo Deck, e se lo fa, ogni giocatore guadagna 2000 LP. Altrimenti, distruggi 1 mostro controllato dal tuo avversario.\r\nSe questa carta viene mandata dal Terreno al Cimitero: aggiungi questa carta alla mano del tuo avversario. Puoi utilizzare questo effetto di \"Orsetti Spavento a Coppie!!\" una sola volta per Duello.\r\nPuoi attivare solo 1 \"Orsetti Spavento a Coppie!!\" per turno.",
-    "overallString": "[Magia|Rapida]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100253003.jpg?version=19.7"
-  },
-  {
-    "name": "Primo Palmo, Vittoria Assicurata",
-    "desc": "Una volta per turno, quando viene dichiarato un attacco che coinvolge un tuo mostro: puoi tirare un dado a sei facce e applicare a quel mostro che controlli l'effetto corrispondente fino alla fine di questo turno. Se hai attivato questo effetto quando è stato dichiarato un attacco che coinvolge 2 mostri nella stessa colonna, scegli tu quale effetto applicare.\r\n● 1 o 4: La prima volta che verrebbe distrutto in battaglia o dall'effetto di una carta, non viene distrutto.\r\n● 2 o 5: Perde 500 ATK, inoltre non è influenzato dagli effetti di Magie/Trappole attivate, eccetto \"Primo Palmo, Vittoria Assicurata\".\r\n● 3 o 6: Guadagna 1000 ATK, inoltre può attaccare fino a 2 volte i mostri durante ogni Battle Phase.",
-    "overallString": "[Magia|Continua]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100253004.jpg?version=19.7"
-  },
-  {
-    "name": "Ebisu Shinsen Matsuri",
-    "desc": "Una volta per Catena, se uno o più Mostri con Effetto vengono Evocati Specialmente: puoi scegliere come bersaglio 1 di essi; Evoca Specialmente 1 \"Segna-Shinsen\" (Acqua/ACQUA/Livello 3/ATK 0/DEF 0) sul Terreno dell'avversario del controllore di quel mostro in Posizione di Difesa.\r\nUna volta per Battle Phase, all'inizio della Battle Phase: puoi distruggere questa carta e quanti più Segna-Mostro sul Terreno possibili e, se lo fai, Evoca Specialmente 1 \"Segna-Ebisu\" (Fata/ACQUA/Livello 7/ATK ?/DEF ?).\r\nL'ATK/DEF di questo Segna-Mostro diventano pari al numero di Segna-Mostro distrutti da questo effetto x 700.",
-    "overallString": "[Trappola|Continua]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100253005.jpg?version=19.7"
-  },
-  {
-    "name": "Espulsore Miracoloso",
-    "desc": "(Questa carta è sempre considerata come una carta \"EROE Elementale\".)\r\nPuoi mandare 1 mostro \"Neo-Spaziale\" dal tuo Deck al Cimitero; Evoca Specialmente questa carta dalla tua mano.\r\nSe questa carta viene Evocata Normalmente o Specialmente: puoi aggiungere 1 Magia/Trappola che menziona nel suo testo il nome di una carta \"EROE Elementale\" dal tuo Deck alla tua mano.\r\nSe questa carta viene mandata al Cimitero: puoi scegliere come bersaglio 1 carta nel Cimitero del tuo avversario; bandiscila.\r\nPuoi utilizzare ogni effetto di \"Espulsore Miracoloso\" una sola volta per turno.",
-    "overallString": "[Mostro|Effetto] Incantatore/Terra  [★3] 400/400",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100252001.jpg?version=19.7"
-  },
-  {
-    "name": "Guerriero Colpo Infernale",
-    "desc": "1 Tuner + 1+ mostri non-Tuner\r\nDurante la Main Phase 2 (Effetto Rapido): puoi distruggere quanti più mostri scoperti sul Terreno possibile e, se lo fai, infliggi al tuo avversario danno pari alla somma dei Livelli originali di quei mostri distrutti × 200.\r\nSe questa carta viene distrutta in battaglia o dall'effetto di una carta: puoi scegliere come bersaglio 1 mostro Macchina di Livello 5 o inferiore nel tuo Cimitero; Evocalo Specialmente in Posizione di Difesa.\r\nPuoi utilizzare ogni effetto di \"Guerriero Colpo Infernale\" solo una volta per turno.",
-    "overallString": "[Mostro|Effetto|Synchro] Macchina/Oscurità  [★7] 2600/1800",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100251003.jpg?version=19.7"
-  },
-  {
-    "name": "Unicorno Parallelo del Vento, il Dracoassassino",
-    "desc": "Valore Pendulum = 2\r\n[Effetto Pendulum]\r\nSe hai una carta nella tua altra Zona Pendulum: puoi attivare 1 di questi effetti;\r\n● Evoca Specialmente questa carta.\r\n● Distruggi questa carta e, se lo fai, Evoca Specialmente 1 Mostro Pendulum di Livello 5 o inferiore dalla tua Zona Pendulum.\r\nPuoi utilizzare questo effetto di \"Unicorno Parallelo del Vento, il Dracoassassino\" una sola volta per turno.\r\n----------------------------------------\r\n[Effetto di un Mostro]\r\nMentre questa carta Evocata Pendulum è nella tua Zona Mostri, il tuo avversario non può sceglierla come bersaglio con gli effetti delle carte, inoltre non può essere distrutta dagli effetti delle carte del tuo avversario.\r\n(Effetto Rapido): puoi scegliere come bersaglio 1 Carta Mostro Pendulum che controlli e 1 carta controllata dal tuo avversario; aggiungile entrambe alla mano.\r\nPuoi utilizzare questo effetto di \"Unicorno Parallelo del Vento, il Dracoassassino\" una sola volta per turno.",
-    "overallString": "[Mostro|Effetto|Pendulum] Incantatore/Vento  [★6] 2000/2000  2/2",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100251005.jpg?version=19.7"
-  },
-  {
-    "name": "Drago Antimateria Occhi Galattici",
-    "desc": "2 mostri di Livello 9\nUna volta per turno, puoi anche Evocare Xyz \"Drago Antimateria Occhi Galattici\" utilizzando un Mostro Xyz che controlli con 3 o più Materiali (trasferisci i suoi Materiali a questa carta).\r\nQualsiasi danno da battaglia inflitto al tuo avversario da questa carta con Materiali è dimezzato.\r\nPuoi staccare 1 Materiale da questa carta; questa carta guadagna l'abilità di effettuare fino a 2 attacchi contro mostri durante ogni Battle Phase in questo turno, poi, se il Materiale staccato era un mostro, puoi mandare 1 mostro con lo stesso Tipo dal tuo Deck al Cimitero.",
-    "overallString": "[Mostro|Effetto|Xyz] Drago/Luce  [☆9] 4000/0",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100251004.jpg?version=19.7"
-  },
-  {
-    "name": "Crystron Halqifibrax Prisma",
-    "desc": "2+ mostri, compreso un Tuner\r\nSe questa carta viene Evocata Link: puoi Evocare Specialmente 1 Tuner dal tuo Extra Deck in Posizione di Difesa, con un Livello inferiore o uguale alla somma dei Livelli originali dei mostri utilizzati come Materiale.\r\nDurante la Main Phase o la Battle Phase del tuo avversario (Effetto Rapido): puoi bandire questa carta che controlli; Evoca Specialmente 3 \"Segna-Crystron\" (Macchina/ACQUA/Livello 1/ATK 0/DEF 0), ma non possono essere offerti come Tributo. Puoi utilizzare ciascun effetto di \"Crystron Halqifibrax Prisma\" una sola volta per turno.",
-    "overallString": "[Mostro|Effetto|Link] Macchina/Acqua  [LINK-3] 1500/-  [↙][↓][↘]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100251006.jpg?version=19.7"
-  },
-  {
-    "name": "Sovrano della Fine del Mondo",
-    "desc": "Puoi Evocare tramite Rituale questa carta con una qualsiasi carta \"Fine del Mondo\". Il nome di questa carta diventa \"Demise, Re dell'Armageddon\" mentre è nella mano o sul Terreno.\r\nPuoi utilizzare ognuno dei seguenti effetti di \"Sovrano della Fine del Mondo\" una sola volta per turno.\r\nPuoi mostrare questa carta nella tua mano, pagare 2000 LP e bandire 1 Magia Rituale dal tuo Deck; applica l'effetto di attivazione di quella carta che Evoca tramite Rituale un mostro.\r\nPuoi pagare 2000 LP; distruggi quante più altre carte sul Terreno possibile, poi questa carta guadagna 2900 ATK.",
-    "overallString": "[Mostro|Effetto|Rituale] Demone/Oscurità  [★10] 3000/2900",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100251001.jpg?version=19.7"
-  },
-  {
-    "name": "Limite degli Occhi Incubo",
-    "desc": "2 mostri con Tipi differenti (Demone, Illusione o Incantatore)\r\nSe questa carta viene Evocata Specialmente, o alla fine della Battle Phase se questa carta ha combattuto: puoi equipaggiare 1 mostro controllato dal tuo avversario a questa carta come una Magia Equipaggiamento. Puoi utilizzare questo effetto di \"Limite degli Occhi Incubo\" una sola volta per turno. Guadagna ATK pari all'ATK combinato dei mostri equipaggiati in questo modo.\r\nSe questa carta combatte con un mostro, nessuno dei due può essere distrutto in quella battaglia.\r\nI mostri del tuo avversario non possono attaccare altri mostri, eccetto questo.",
-    "overallString": "[Mostro|Effetto|Fusione] Illusione/Oscurità  [★1] 0/0",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100251002.jpg?version=19.7"
   }
 ]
