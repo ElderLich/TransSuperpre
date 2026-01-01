@@ -1,5 +1,29 @@
 [
   {
+    "name": "Fidraulis Harmonia",
+    "desc": "Lorsque votre adversaire active un effet de monstre sur le Terrain (Effet Rapide) : vous pouvez révéler cette carte dans votre main et max. 5 Monstres Synchro dans votre Extra Deck ; appliquez ces effets dans l'ordre selon le nombre total révélé, et aussi, vous ne pouvez pas activer les effets de monstres Invoqués Spécialement depuis l'Extra Deck (Monstres Synchro exclus) jusqu'à la fin de votre prochain tour.\r\n● 2+ : Invoquez Spécialement cette carte.\r\n● 4+ : Envoyez 1 des Monstres Synchro révélés au Cimetière.\r\n● 6 : Détruisez 1 monstre contrôlé par votre adversaire.\r\nVous ne pouvez utiliser cet effet de \"Fidraulis Harmonia\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet|Syntoniseur] Dragon/Ténébres  [★7] 2500/2000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304024.jpg?version=19.7"
+  },
+  {
+    "name": "Chevalier Convexe",
+    "desc": "Si un monstre Machine est sur le Terrain et que cette carte est dans votre main : vous pouvez Invoquer Spécialement cette carte en Position de Défense, puis vous pouvez faire devenir son Niveau égal au Niveau/Rang d'1 monstre Machine sur le Terrain. Durant votre Main Phase : vous pouvez envoyer 1 monstre TERRE Machine depuis votre Deck au Cimetière, puis cette carte gagne une ATK égale au Niveau du monstre envoyé x 100 jusqu'à la fin de ce tour. Vous ne pouvez utiliser chaque effet de \"Chevalier Convexe\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet] Machine/Terre  [★4] 1800/500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304026.jpg?version=19.7"
+  },
+  {
+    "name": "Feu de la Croix du Nord",
+    "desc": "Si la somme des Niveaux des monstres que vous contrôlez est min. 10 : prenez 1 monstre de Niveau 10 depuis votre main ou Deck, et soit ajoutez-le à votre main soit Invoquez-le Spécialement. Si la somme des Niveaux des monstres contrôlés par votre adversaire est min. 10 : vous pouvez bannir cette carte et 1 monstre de Niveau 10 depuis votre Cimetière, puis ciblez 1 carte contrôlée par votre adversaire ; bannissez-la. Vous ne pouvez utiliser qu'1 effet de \"Feu de la Croix du Nord\" par tour, et uniquement une fois le tour.",
+    "overallString": "[Piège]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304076.jpg?version=19.7"
+  },
+  {
+    "name": "Diabrocken de la Lumière Fantôme",
+    "desc": "(Effet Rapide) : vous pouvez bannir 1 monstre FEU depuis votre Terrain face recto ou Cimetière ; Invoquez Spécialement cette carte depuis votre main.\r\nSi cette carte est Invoquée Spécialement : vous pouvez cibler 1 carte face recto sur le Terrain ; annulez ses effets jusqu'à la fin de ce tour.\r\nSi cette carte est envoyée au Cimetière comme Matériel Lien : vous pouvez Poser 1 Magie Jeu-Rapide ou Piège Normal depuis votre Cimetière qui y a été envoyé ce tour.\r\nVous ne pouvez utiliser chaque effet de \"Diabrocken de la Lumière Fantôme\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet] Démon/Feu  [★6] 2000/2000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304025.jpg?version=19.7"
+  },
+  {
     "name": "Lahamu le Messager des Écritures Sacrées",
     "desc": "2 Monstres à Effet\r\nUne fois, tant que cette carte Invoquée par Lien est face recto sur le Terrain, vous pouvez Invoquer Normalement 1 monstre de min. Niveau 5 sans Sacrifice.\r\nDurant la Main Phase, vous pouvez (Effet Rapide) : immédiatement après la résolution de cet effet, Invoquez Normalement 1 monstre TÉNÈBRES de min. Niveau 5.\r\nDurant votre End Phase : vous pouvez révéler un nombre de votre choix de monstres dans votre main et les placer au-dessous du Deck dans l'ordre de votre choix, puis piochez le même nombre de cartes.\r\nVous ne pouvez utiliser chaque effet de \"Lahamu le Messager des Écritures Sacrées\" qu'une fois par tour.",
     "overallString": "[Monstre|Effet|Lien] Elfe/Ténébres  [LINK-2] 1400/-  [←][↘]",
@@ -216,30 +240,6 @@
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304067.jpg?version=19.7"
   },
   {
-    "name": "Régulus, Prince d'Endymion",
-    "desc": "La première fois que cette carte va être détruite au combat chaque tour, elle n'est pas détruite.\r\nVous ne pouvez utiliser chacun des effets suivants de \"Régulus, Prince d'Endymion\" qu'une fois par tour.\r\nSi cette carte est dans votre main : vous pouvez révéler 1 autre monstre Magicien dans votre main ; vous perdez des LP égaux au Niveau du monstre révélé x 300, et si vous le faites, Invoquez Spécialement cette carte.\r\nSi cette carte est Invoquée Spécialement : vous pouvez ajouter 1 Magie qui mentionne \"Régulus, Prince d'Endymion\" depuis votre Deck à votre main.",
-    "overallString": "[Monstre|Effet] Magicien/Lumiére  [★4] 1700/1300",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100200282.jpg?version=19.7"
-  },
-  {
-    "name": "Genni, Domestique d'Endymion",
-    "desc": "(Cette carte est toujours traitée comme une carte \"Artisanesorcière\".)\r\nSi vous contrôlez un monstre Magicien : vous pouvez Invoquer Spécialement cette carte depuis votre main.\r\nDurant la Main Phase (Effet Rapide) : vous pouvez cibler 1 monstre Magicien que vous contrôlez ; bannissez-le, et si vous le faites, Invoquez Spécialement 1 monstre \"Artisanesorcière\" (\"Genni, Domestique d'Endymion\" exclu) depuis votre Deck.\r\nVous ne pouvez utiliser chaque effet de \"Genni, Domestique d'Endymion\" qu'une fois par tour.",
-    "overallString": "[Monstre|Effet] Magicien/Vent  [★1] 300/500",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255018.jpg?version=19.7"
-  },
-  {
-    "name": "Empire Endymion",
-    "desc": "Lorsque cette carte est activée : ajoutez 1 \"Régulus, Prince d'Endymion\" ou 1 monstre qui le mentionne depuis votre Deck à votre main, puis si votre adversaire contrôle un monstre, vous pouvez Invoquer Spécialement 1 monstre Magicien depuis votre main.\r\nSi une ou plusieurs cartes que vous contrôlez vont être détruites au combat ou par un effet de carte, vous pouvez détruire 1 \"Régulus, Prince d'Endymion\" dans votre main ou Terrain face recto à la place.\r\nVous ne pouvez utiliser cet effet de \"Empire Endymion\" qu'une fois par tour. Vous ne pouvez activer qu'1 \"Empire Endymion\" par tour.",
-    "overallString": "[Magie|Continu]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255019.jpg?version=19.7"
-  },
-  {
-    "name": "Flèche de Régulus",
-    "desc": "Si vous contrôlez \"Régulus, Prince d'Endymion\" : activez 1 de ces effets ;\r\n● Détruisez 1 monstre contrôlé par votre adversaire qui a combattu ce tour.\r\n● Lorsqu'une Carte Magie Normale ou Jeu-Rapide est activée : annulez l'effet.\r\nDurant votre Main Phase : vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 \"Régulus, Prince d'Endymion\" ou 1 monstre qui le mentionne dans votre Cimetière ; Invoquez-le Spécialement. Vous ne pouvez utiliser chaque effet de \"Flèche de Régulus\" qu'une fois par tour.",
-    "overallString": "[Magie|Jeu-Rapide]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255020.jpg?version=19.7"
-  },
-  {
     "name": "Animal Féérique - Allumelille",
     "desc": "Si un monstre Magicien avec 1850 ATK d'origine est sur le Terrain : vous pouvez Invoquer Spécialement cette carte depuis votre main ou Cimetière, et aussi, vous ne pouvez pas Invoquer Spécialement (monstres Magicien exclus) le reste de ce tour.\r\nSi cette carte est Invoquée Normalement ou Spécialement : vous pouvez ajouter 1 Magie/Piège \"Animal Féérique\" depuis votre Deck à votre main.\r\nVous pouvez payer 500 LP ; faites devenir le nom d'1 Monstre à Effet contrôlé par votre adversaire \"Prince Féérique\".\r\nVous ne pouvez utiliser chaque effet de \"Animal Féérique - Allumelille\" qu'une fois par tour.",
     "overallString": "[Monstre|Effet] Magicien/Lumiére  [★4] 1850/1000",
@@ -324,108 +324,6 @@
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100256001.jpg?version=19.7"
   },
   {
-    "name": "Fontaine, HÉROS Masqué",
-    "desc": "Vous pouvez révéler cette carte dans votre main ; Invoquez Spécialement 1 monstre \"HÉROS\" depuis votre main en Position de Défense.\r\nSi cette carte est envoyée au Cimetière pour activer un effet de carte, ou par un effet de carte : vous pouvez Poser 1 \"Changement de Masque\" depuis votre Deck ou Cimetière.\r\nVous ne pouvez utiliser chaque effet de \"Fontaine, HÉROS Masqué\" qu'une fois par tour.",
-    "overallString": "[Monstre|Effet] Guerrier/Eau  [★4] 1000/1400",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255004.jpg?version=19.7"
-  },
-  {
-    "name": "Vipère Venimeuse",
-    "desc": "Vous pouvez révéler cette carte dans votre main ; Invoquez-la Spécialement, ou si votre adversaire ne contrôle aucun monstre, Invoquez-la Spécialement sur son Terrain en Position de Défense à la place.\r\nUne fois par tour, durant votre Standby Phase : recevez 500 points de dommages.\r\nSi cette carte est bannie, ou envoyée au Cimetière par un effet de carte : vous pouvez cibler 1 Magie/Piège Posé contrôlé par votre adversaire ; détruisez-le.\r\nIl ne peut pas être activé en réponse à l'activation de cet effet.\r\nVous ne pouvez utiliser cet effet de \"Vipère Venimeuse\" qu'une fois par tour.",
-    "overallString": "[Monstre|Effet] Reptile/Terre  [★1] 100/200",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255005.jpg?version=19.7"
-  },
-  {
-    "name": "Ange Banni dans les Ténèbres",
-    "desc": "(Cette carte est toujours traitée comme une carte \"Ange Déchu\".)\r\nEnvoyez 1 monstre Elfe depuis votre main ou Terrain face recto au Cimetière ; Invoquez Spécialement 1 monstre \"Ange Déchu\" depuis votre main, Deck, ou bannissement, en ignorant ses conditions d'Invocation. Vous ne pouvez activer qu'1 \"Ange Banni dans les Ténèbres\" par tour.",
-    "overallString": "[Piège]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255006.jpg?version=19.7"
-  },
-  {
-    "name": "Robot Armure",
-    "desc": "Votre adversaire ne peut pas cibler les Monstres Synchro que vous contrôlez avec \"Guerrier\" ou \"Poussière d'Étoile\" dans leur nom d'origine avec des effets de carte.\r\nVous ne pouvez utiliser chacun des effets suivants de \"Robot Armure\" qu'une fois par tour.\r\nSi cette carte est ajoutée à votre main, sauf en la piochant : vous pouvez l'Invoquer Spécialement.\r\nVous pouvez Sacrifier cette carte ; Invoquez Spécialement 1 monstre \"Robot\" ou \"Synchronique\" (\"Robot Armure\", \"Robot Patrouilleur\", \"Chevalier Robotisé\", \"Robot d'Assistance au Combat\", \"Robot Hyper Synchronique\", et \"Robot Vrille Koa'ki Meiru\" exclus) depuis votre Deck en Position de Défense.",
-    "overallString": "[Monstre|Effet] Guerrier/Terre  [★2] 600/1200",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255007.jpg?version=19.7"
-  },
-  {
-    "name": "Robot Maître",
-    "desc": "Vous pouvez révéler 1 Monstre Synchro \"Guerrier\" ou \"Poussière d'Étoile\" dans votre Extra Deck ; Invoquez Spécialement cette carte depuis votre main, et aussi, vous ne pouvez pas Invoquer Spécialement (Monstres Synchro exclus) depuis l'Extra Deck le reste de ce tour. Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez ajouter 1 carte \"Robot\" (\"Robot Maître\", \"Robot Patrouilleur\", \"Chevalier Robotisé\", \"Robot d'Assistance au Combat\", \"Robot Hyper Synchronique\", \"Robot Vrille Koa'ki Meiru\", et \"Chaîne de Montage Robotique\" exclues) depuis votre Deck à votre main.\r\nVous pouvez cibler 1 monstre \"Robot\" que vous contrôlez (\"Robot Patrouilleur\", \"Chevalier Robotisé\", \"Robot d'Assistance au Combat\", \"Robot Hyper Synchronique\", et \"Robot Vrille Koa'ki Meiru\" exclus) ; réduisez son Niveau de max. 2.\r\nVous ne pouvez utiliser chaque effet de \"Robot Maître\" qu'une fois par tour.",
-    "overallString": "[Monstre|Effet] Guerrier/Terre  [★4] 100/2300",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255008.jpg?version=19.7"
-  },
-  {
-    "name": "Sursyntonisation",
-    "desc": "Si vous contrôlez un Syntoniseur : Invoquez Spécialement 1 Syntoniseur depuis votre main, Deck, ou Cimetière, et aussi, vous ne pouvez pas Invoquer Spécialement (Monstres Synchro exclus) depuis l'Extra Deck le reste de ce tour après la résolution de cette carte.\r\nVous ne pouvez activer qu'1 \"Sursyntonisation\" par tour.",
-    "overallString": "[Magie]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255009.jpg?version=19.7"
-  },
-  {
-    "name": "Pouls du Champion",
-    "desc": "Activez 1 de ces effets ;\r\n● Durant la Battle Phase de votre adversaire : votre adversaire gagne 1000 LP, puis terminez la Battle Phase.\r\n● Lorsque votre adversaire active un effet de monstre tant qu'il contrôle plus de cartes que vous : Invoquez Spécialement 1 \"Dragon Rouge Archdémon\" ou \"Bouillant Dragon Rouge Archdémon\" depuis votre Extra Deck ou Cimetière, et si vous le faites, annulez l'effet activé, et si vous faites ça, détruisez le monstre.\r\nVous ne pouvez activer qu'1 \"Pouls du Champion\" par tour.",
-    "overallString": "[Piège]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255010.jpg?version=19.7"
-  },
-  {
-    "name": "Illusion Gagaga",
-    "desc": "Si vous contrôlez un monstre \"Gagaga\" : ciblez 1 monstre dans votre Cimetière ; Invoquez-le Spécialement, puis vous pouvez faire devenir son Niveau/Rang égal au Niveau/Rang d'1 monstre \"Gagaga\" que vous contrôlez.\r\nSi cette carte est dans votre Cimetière, sauf le tour où elle y a été envoyée : vous pouvez la bannir ; immédiatement après la résolution de cet effet, Invoquez Normalement 1 monstre \"Gagaga\".\r\nVous ne pouvez utiliser chaque effet de \"Illusion Gagaga\" qu'une fois par tour.",
-    "overallString": "[Magie]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255011.jpg?version=19.7"
-  },
-  {
-    "name": "Évasion Gagaga",
-    "desc": "Lorsque votre adversaire active un effet de monstre tant que vous contrôlez un monstre \"Gagaga\" : annulez l'activation, puis vous pouvez défausser 1 carte, et si vous le faites, Invoquez Spécialement 1 monstre \"Gagaga\" depuis votre Deck.\r\nVous pouvez bannir cette carte depuis votre Cimetière ; changez autant de monstres \"Gagaga\" que vous contrôlez que possible en Position de Défense, et si vous le faites, les monstres \"Gagaga\" que vous contrôlez ne peuvent être détruits ni au combat ni par des effets de carte ce tour.\r\nVous ne pouvez utiliser chaque effet de \"Évasion Gagaga\" qu'une fois par tour.",
-    "overallString": "[Piège|Contre-Piège]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255012.jpg?version=19.7"
-  },
-  {
-    "name": "Lien sans Fin",
-    "desc": "(Cette carte est toujours traitée comme une carte \"Xyz\".)\r\nLorsque cette carte est activée : vous pouvez Invoquer Spécialement 1 \"Numéro 39 : Utopie\" depuis votre Cimetière, et si vous le faites, il gagne une ATK égale à la somme des ATK de tous les Monstres Xyz \"Utopie\" et \"Utopique\" LUMIÈRE dans votre Cimetière.\r\nLorsque votre Monstre Xyz \"Utopie\" ou \"Utopique\" attaquant dont l'Attribut d'origine est LUMIÈRE détruit un monstre de l'adversaire au combat : vous pouvez faire perdre 1000 ATK au monstre que vous contrôlez, et si vous le faites, il peut faire une autre attaque à la suite. Vous ne pouvez activer qu'1 \"Lien sans Fin\" par tour.",
-    "overallString": "[Magie|Continu]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255013.jpg?version=19.7"
-  },
-  {
-    "name": "Crocs Épineux de Poison Violet",
-    "desc": "(Cette carte est toujours traitée comme une carte \"Prédap\".)\r\nCiblez 1 \"Dragon Fusion Venin Affamé\" que vous contrôlez ; il ne peut pas attaquer le reste de ce tour, et aussi, détruisez autant de monstres contrôlés par votre adversaire que possible avec une ATK inférieure au monstre, puis vous pouvez défausser toute votre main, et si vous le faites, infligez des dommages à votre adversaire égaux à la somme des ATK d'origine des monstres détruits.",
-    "overallString": "[Magie]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255014.jpg?version=19.7"
-  },
-  {
-    "name": "Fusion de Pénétration",
-    "desc": "Si un ou plusieurs monstres ont été détruits au combat ce tour : Invoquez par Fusion 1 Monstre Fusion depuis votre Extra Deck, en utilisant des monstres depuis votre main ou Terrain, et si vous le faites, il gagne cet effet.\r\n● (Effet Rapide) : vous pouvez Sacrifier cette carte, puis ciblez 1 monstre face recto que vous contrôlez ; il gagne 500 ATK.\r\nVous ne pouvez activer qu'1 \"Fusion de Pénétration\" par tour.",
-    "overallString": "[Magie|Jeu-Rapide]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255015.jpg?version=19.7"
-  },
-  {
-    "name": "Fusion Surprise",
-    "desc": "Ciblez 1 monstre face recto que vous contrôlez et déclarez 1 Type de Monstre et 1 Attribut ; le monstre devient ce Type et Attribut, puis vous pouvez Invoquer par Fusion 1 Monstre Fusion depuis votre Extra Deck, en utilisant des monstres que vous contrôlez (le monstre ciblé inclus).\r\nVous pouvez bannir cette carte depuis votre Cimetière ; Sacrifiez 1 Monstre Fusion, et si vous le faites, Invoquez Spécialement 2 \"Jetons Surprise\" (Magicien/TÉNÈBRES/ATK 0/DEF 0) de Niveau égal au Niveau que le monstre Sacrifié avait sur le Terrain.\r\nVous ne pouvez utiliser cet effet de \"Fusion Surprise\" qu'une fois par tour.",
-    "overallString": "[Magie]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255016.jpg?version=19.7"
-  },
-  {
-    "name": "Assaut de l'Air - Mécha - Adhilsaber",
-    "desc": "Durant la Battle Phase (Effet Rapide) : vous pouvez défausser cette carte, puis ciblez 1 monstre \"Assaut de l'Air\" sur le Terrain ; il gagne 1500 ATK jusqu'à la fin de ce tour.\r\nSi un ou plusieurs monstres sont Invoqués Spécialement tant que cette carte est dans votre Cimetière : vous pouvez cibler 1 Monstre Lien \"Assaut de l'Air\" que vous contrôlez ; équipez-lui cette carte comme Magie d'Équipement qui lui donne 1500 ATK.\r\nVous ne pouvez utiliser chaque effet de \"Assaut de l'Air - Mécha - Adhilsaber\" qu'une fois par tour.",
-    "overallString": "[Monstre|Effet] Machine/Vent  [★7] 1500/1500",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255017.jpg?version=19.7"
-  },
-  {
-    "name": "Elfe Apprenant",
-    "desc": "Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez Poser 1 Piège depuis votre Deck avec un effet qui l'équipe à un monstre.\r\nSi cette carte est envoyée depuis le Terrain au Cimetière : vous pouvez piocher 1 carte.\r\nVous ne pouvez utiliser chaque effet de \"Elfe Apprenant\" qu'une fois par tour.",
-    "overallString": "[Monstre|Effet] Magicien/Lumiére  [★3] 1400/1500",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255001.jpg?version=19.7"
-  },
-  {
-    "name": "Réincarnation d'Armement",
-    "desc": "Invoquez Spécialement un nombre de \"Jeton Réincarnation d'Armement\" (Guerrier/LUMIÈRE/Niveau 1/ATK 500/DEF 500) inférieur ou égal au nombre de Magies d'Équipement, et de Pièges avec un effet qui les équipe à un monstre, dans votre Cimetière, puis vous pouvez détruire autant de cartes dans votre Zone Magie & Piège que possible (cette carte incluse), puis Posez autant de Magies d'Équipement, et de Pièges avec un effet qui les équipe à un monstre, que possible depuis votre Cimetière.\r\nCes Pièges peuvent être activés ce tour. \r\nLe reste de ce tour, vous ne pouvez pas Invoquer Spécialement.",
-    "overallString": "[Magie]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255002.jpg?version=19.7"
-  },
-  {
-    "name": "Barrière Miroir",
-    "desc": "Ciblez 1 monstre face recto que vous contrôlez ; équipez-lui cette carte comme Carte d'Équipement avec cet effet.\r\n● Une fois par Battle Step, si le monstre équipé combat un monstre de l'adversaire : vous pouvez détruire le monstre de l'adversaire.\r\nSi cette carte est détruite : vous pouvez ajouter 1 \"Réincarnation d'Armement\" depuis votre Deck à votre main. Vous ne pouvez utiliser cet effet de \"Barrière Miroir\" qu'une fois par tour.",
-    "overallString": "[Piège]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255003.jpg?version=19.7"
-  },
-  {
     "name": "Diapason Ténébreux",
     "desc": "Vous pouvez révéler 1 \"Dragon Rouge Archdémon\" dans votre Extra Deck ; Invoquez Spécialement cette carte depuis votre main, et aussi, vous ne pouvez pas Invoquer Spécialement (Monstres Synchro exclus) depuis l'Extra Deck le reste de ce tour.\r\nSi cette carte est Invoquée Spécialement : vous pouvez activer cet effet ; durant votre Main Phase ce tour, vous pouvez Invoquer Normalement 1 monstre \"Diapason\" en plus de votre Invocation/Pose Normale (vous ne pouvez gagner cet effet qu'une fois par tour).\r\nVous pouvez cibler un nombre de votre choix de Syntoniseurs que vous contrôlez ; leur Niveau devient 1.\r\nVous ne pouvez utiliser chaque effet de \"Diapason Ténébreux\" qu'une fois par tour.",
     "overallString": "[Monstre|Effet|Syntoniseur] Démon/Ténébres  [★3] 1300/300",
@@ -484,77 +382,5 @@
     "desc": "Ajoutez 4 monstres \"la Charmeuse\" d'Attributs différents depuis votre Deck, Cimetière, et/ou bannissement à votre main, puis mélangez 2 cartes depuis votre main dans votre Deck.\r\nVous pouvez bannir cette carte depuis votre Cimetière ; Invoquez par Fusion 1 Monstre Fusion depuis votre Extra Deck, en utilisant des monstres \"la Charmeuse\" et/ou \"Familier Possédé\" depuis votre main ou Terrain, et aussi, votre adversaire ne peut activer ni de cartes ni d'effets lorsqu'un monstre est Invoqué par Fusion de cette façon.\r\nVous ne pouvez utiliser chaque effet de \"Livre de Magie du Grand Cercle\" qu'une fois par tour.",
     "overallString": "[Magie]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100254202.jpg?version=19.7"
-  },
-  {
-    "name": "Guépard Déchu",
-    "desc": "Cette carte face recto dans la Zone Monstre ne peut pas être Sacrifiée, ni utilisée comme Matériel pour une Invocation Fusion, Synchro, Xyz ou Lien.\r\nSi un ou plusieurs monstres sont Invoqués Spécialement sur le Terrain de votre adversaire, tant que cette carte est dans la Zone Monstre : ciblez-en 1 ; donnez le contrôle de cette carte au contrôleur de ce monstre, et aussi, ce monstre ne peut pas être Sacrifié ni utilisé comme Matériel pour une Invocation Fusion, Synchro, Xyz ou Lien tant que ce monstre est face recto sur le Terrain.",
-    "overallString": "[Monstre|Effet] Bête/Feu  [★3] 1100/2200",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100253001.jpg?version=19.7"
-  },
-  {
-    "name": "Black Jack, le Chevalier à l’Armure des Ombres",
-    "desc": "1 Syntoniseur + 1+ monstres non-Syntoniseurs\r\nNe peut pas être détruit au combat.\r\nChaque fois qu' une ou plusieurs cartes sont placées dans la Zone Magie & Piège de votre adversaire : excavez des cartes du dessus de votre Deck jusqu' à ce que vous excaviez un monstre, équipez-le à cette carte comme Magie d' Équipement, et aussi, placez le reste au-dessous du Deck dans l' ordre de votre choix.\r\nCette carte gagne une ATK/DEF égales au total des Niveaux des monstres équipés à cette carte x 300.\r\nSi le total des Niveaux des monstres équipés à cette carte est supérieur à 21, détruisez cette carte.",
-    "overallString": "[Monstre|Effet|Synchro] Guerrier/Ténébres  [★10] 0/0",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100253002.jpg?version=19.7"
-  },
-  {
-    "name": "Peur d’Ours en Duo !!",
-    "desc": "Votre adversaire peut révéler 1 \"Peur d' Ours en Duo !!\" depuis sa main ou son Deck, et s' il le fait, chaque joueur gagne 2000 LP. Sinon, vous détruisez 1 monstre contrôlé par votre adversaire. Si cette carte est envoyée du Terrain au Cimetière : ajoutez cette carte à la main de votre adversaire. Vous ne pouvez utiliser cet effet de \"Peur d’Ours en Duo !!\" qu' une fois par Duel. Vous ne pouvez activer qu' 1 \"Pair Bear Scare!!\" par tour.",
-    "overallString": "[Magie|Jeu-Rapide]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100253003.jpg?version=19.7"
-  },
-  {
-    "name": "Paume Précoce pour la Victoire",
-    "desc": "Une fois par tour, lorsqu' une attaque est déclarée impliquant votre monstre : vous pouvez lancer un dé à six faces et appliquer l'effet correspondant à ce monstre que vous contrôlez selon le résultat, jusqu' à la fin de ce tour.\r\nSi vous avez activé cet effet lorsqu’une attaque a été déclarée impliquant 2 monstres dans la même colonne, vous choisissez l'effet à appliquer à la place.\r\n● 1 ou 4 : La première fois qu' il devrait être détruit au combat ou par un effet de carte, il n'est pas détruit.\r\n● 2 ou 5 : Il perd 500 ATK, et aussi, il n’est pas affecté par les effets de Magies/Pièges activés, sauf \"Paume Précoce pour la Victoire\".\r\n● 3 ou 6 : Il gagne 1000 ATK, et aussi, il peut effectuer jusqu' à 2 attaques sur des monstres durant chaque Battle Phase.",
-    "overallString": "[Magie|Continu]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100253004.jpg?version=19.7"
-  },
-  {
-    "name": "Ebisu Shinsen Matsuri",
-    "desc": "Une fois par Chaîne, si un ou plusieurs Monstres à Effet sont Invoqués Spécialement : vous pouvez cibler l'un d'eux ; Invoquez Spécialement 1 \"Jeton Shinsen\" (Aqua/EAU/Niveau 3/ATK 0/DEF 0) sur le Terrain de l'adversaire du contrôleur de ce monstre en Position de Défense.\r\nUne fois par Battle Phase, au début de la Battle Phase : vous pouvez détruire cette carte ainsi que tous les Jetons sur le Terrain, et si vous le faites, Invoquez Spécialement 1 \"Jeton Ebisu\" (Fée/EAU/Niveau 7/ATK ?/DEF ?). \r\nL'ATK/DEF de ce Jeton deviennent égales au nombre de Jetons détruits par cet effet x 700.",
-    "overallString": "[Piège|Continu]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100253005.jpg?version=19.7"
-  },
-  {
-    "name": "Éjecte Miracle",
-    "desc": "(Cette carte est toujours traitée comme une carte \"HÉROS Élémentaire\".)\r\nVous pouvez envoyer 1 monstre \"Néo-Spacien\" depuis votre Deck au Cimetière ; Invoquez Spécialement cette carte.\r\nSi cette carte est Invoquée Normalement ou Spécialement : vous pouvez ajouter 1 Magie/Piège qui mentionne un nom de carte de monstre \"HÉROS Élémentaire\" depuis votre Deck à votre main.\r\nSi cette carte est envoyée au Cimetière : vous pouvez cibler 1 carte dans le Cimetière de votre adversaire ; bannissez-la.\r\nVous ne pouvez utiliser chaque effet de \"Éjecte Miracle\" qu'une fois par tour.",
-    "overallString": "[Monstre|Effet] Magicien/Terre  [★3] 400/400",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100252001.jpg?version=19.7"
-  },
-  {
-    "name": "Bombardier de Choc Infernal",
-    "desc": "1 Syntoniseur + 1+ monstre non-Syntoniseur\r\nDurant la Main Phase 2 (Effet Rapide) : vous pouvez détruire autant de monstres face recto sur le Terrain que possible, et si vous le faites, infligez des dommages à votre adversaire égaux à la somme des Niveaux d'origine des monstres détruits x 200.\r\nSi cette carte est détruite au combat ou par un effet de carte : vous pouvez cibler 1 monstre Machine de max. Niveau 5 dans votre Cimetière ; Invoquez-le Spécialement en Position de Défense.\r\nVous ne pouvez utiliser chaque effet de \"Bombardier de Choc Infernal\" qu'une fois par tour.",
-    "overallString": "[Monstre|Effet|Synchro] Machine/Ténébres  [★7] 2600/1800",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100251003.jpg?version=19.7"
-  },
-  {
-    "name": "Licorne du Vent Parallèle, le Dracossassin",
-    "desc": "Échelle Pendule = 2\r\n[ Effet Pendule ]\r\nSi vous avez une carte dans votre autre Zone Pendule : vous pouvez activer 1 de ces effets ;\r\n● Invoquez Spécialement cette carte.\r\n● Détruisez cette carte, et si vous le faites, Invoquez Spécialement 1 Carte Monstre Pendule de max. Niveau 5 depuis votre Zone Pendule.\r\nVous ne pouvez utiliser cet effet de \"Licorne du Vent Parallèle, le Dracossassin\" qu'une fois par tour.\r\n----------------------------------------\r\n[ Effet de Monstre ]\r\nTant que cette carte Invoquée par Pendulation est dans votre Zone Monstre, votre adversaire ne peut pas la cibler avec des effets de carte, et aussi, elle ne peut pas être détruite par des effets de carte de votre adversaire.\r\n(Effet Rapide) : vous pouvez cibler 1 Carte Monstre Pendule que vous contrôlez et 1 carte contrôlée par votre adversaire ; renvoyez-les à la main. Vous ne pouvez utiliser cet effet de \"Licorne du Vent Parallèle, le Dracossassin\" qu'une fois par tour.",
-    "overallString": "[Monstre|Effet|Pendule] Magicien/Vent  [★6] 2000/2000  2/2",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100251005.jpg?version=19.7"
-  },
-  {
-    "name": "Dragon Antimatière aux Yeux Galactiques",
-    "desc": "2 monstres de Niveau 9\r\nUne fois par tour, vous pouvez aussi Invoquer par Xyz \"Dragon Antimatière aux Yeux Galactiques\" en utilisant un Monstre Xyz que vous contrôlez avec min. 3 Matériels (transférez ses Matériels).\r\nLes dommages de combat que cette carte avec du Matériel inflige à votre adversaire sont divisés par deux.\r\nVous pouvez détacher 1 Matériel de cette carte ; cette carte gagne la possibilité ce tour de faire max. 2 attaques sur des monstres durant chaque battle Phase, puis si le Matériel détaché était un monstre, vous pouvez envoyer 1 monstre du même Type depuis votre Deck au Cimetière.",
-    "overallString": "[Monstre|Effet|Xyz] Dragon/Lumiére  [☆9] 4000/0",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100251004.jpg?version=19.7"
-  },
-  {
-    "name": "Halqifibrax Prisme Crystron",
-    "desc": "2+ monstres (un Syntoniseur inclus)\r\nSi cette carte est Invoquée par Lien : vous pouvez Invoquer Spécialement 1 Syntoniseur depuis votre Extra Deck en Position de Défense, avec un Niveau inférieur ou égal à la somme des Niveaux d'origine des monstres utilisés comme Matériel.\r\nDurant la Main Phase ou Battle Phase de votre adversaire (Effet Rapide) : vous pouvez bannir cette carte que vous contrôlez ; Invoquez Spécialement 3 \"Jetons Crystron\" (Machine/EAU/Niveau 1/ATK 0/DEF 0), mais ils ne peuvent pas être Sacrifiés.\r\nVous ne pouvez utiliser chaque effet de \"Halqifibrax Prisme Crystron\" qu'une fois par tour.",
-    "overallString": "[Monstre|Effet|Lien] Machine/Eau  [LINK-3] 1500/-  [↙][↓][↘]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100251006.jpg?version=19.7"
-  },
-  {
-    "name": "Maître de la Fin du Monde",
-    "desc": "Vous pouvez Invoquer Rituellement cette carte avec une carte \"Fin du Monde\".\r\nLe nom de cette carte devient \"Peine, Roi de l'Armageddon\" tant qu'elle est dans la main ou Terrain.\r\nVous ne pouvez utiliser chacun des effets suivants de \"Maître de la Fin du Monde\" qu'une fois par tour.\r\nVous pouvez révéler cette carte dans votre main, payez 2000 LP, et bannissez 1 Magie Rituelle depuis votre Deck ; appliquez l'effet d'activation de la carte qui Invoque Rituellement un monstre.\r\nVous pouvez payer 2000 LP ; détruisez autant d'autres cartes sur le Terrain que possible, puis cette carte gagne 2900 ATK.",
-    "overallString": "[Monstre|Effet|Rituel] Démon/Ténébres  [★10] 3000/2900",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100251001.jpg?version=19.7"
-  },
-  {
-    "name": "Le Renoncé aux Yeux du Cauchemar",
-    "desc": "2 monstres de Types différents (Démon, Illusion, ou Magicien)\r\nSi cette carte est Invoquée Spécialement, ou à la fin de la Battle Phase, si cette carte a combattu : vous pouvez équiper 1 monstre contrôlé par votre adversaire à cette carte comme une Magie d'Équipement. Vous ne pouvez utiliser cet effet de \"Le Renoncé aux Yeux du Cauchemar\" qu'une fois par tour.\r\nGagne une ATK égale à la somme des ATK des monstres équipés.\r\nSi cette carte combat un monstre, aucun de ces 2 monstres ne peut être détruit par ce combat.\r\nLes monstres de votre adversaire ne peuvent pas cibler de monstres (celui-ci exclu) avec une attaque.",
-    "overallString": "[Monstre|Effet|Fusion] Illusion/Ténébres  [★1] 0/0",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100251002.jpg?version=19.7"
   }
 ]
