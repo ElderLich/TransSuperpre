@@ -1,5 +1,17 @@
 [
   {
+    "name": "Caballero Convexo",
+    "desc": "Si esta carta está en tu mano y hay un monstruo Máquina boca arriba en el Campo: puedes Invocar esta carta de Modo Especial en Posición de Defensa, y después puedes cambiar el Nivel de esta carta para que sea igual al Nivel/Rango de 1 monstruo Máquina en el Campo.\r\n Durante tu Main Phase: puedes mandar al Cementerio 1 monstruo Máquina TIERRA desde tu Deck, y después esta carta gana 100 ATK x el Nivel de ese monstruo hasta el final de este turno.",
+    "overallString": "[Monstruo|Efecto] Máquina/TIERRA  [★4] 1800/500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304026.jpg?version=19.7"
+  },
+  {
+    "name": "Fuego de la Cruz del Norte",
+    "desc": "Si la suma de los Niveles de los monstruos que controlas es 10 o mayor: añade a tu mano, o Invoca de Modo Especial, 1 monstruo de Nivel 10 desde tu mano o Deck.\r\nSi la suma de los Niveles de los monstruos que controla tu adversario es 10 o mayor: puedes desterrar esta carta y 1 monstruo de Nivel 10 desde tu Cementerio, y después seleccionar 1 carta que controle tu adversario; destiérrala.\r\nSólo puedes usar 1 de los efectos de \"Fuego de la Cruz del Norte\" por turno, y sólo una vez ese turno.",
+    "overallString": "[Trampa]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304076.jpg?version=19.7"
+  },
+  {
     "name": "Diabrocken de la Luz Fantasmal",
     "desc": "(Efecto Rápido): Puedes desterrar 1 monstruo FUEGO desde tu Cementerio o Campo boca arriba; Invoca esta carta de Modo Especial desde tu mano.\r\nSi esta carta es Invocada de Modo Especial: puedes seleccionar 1 carta boca arriba en el Campo; niega sus efectos hasta el final de este turno.\r\nSi esta carta es mandada al Cementerio como Material de Enlace: puedes Colocar 1 Mágica de Juego Rápido o Trampa Normal que esté en tu Cementerio porque fue mandada allí este turno.\r\nSólo puedes usar cada uno de los efectos de \"Diabrocken de la Luz Fantasmal\" una vez por turno.",
     "overallString": "[Monstruo|Efecto] Demonio/FUEGO  [★6] 2000/2000",
@@ -222,30 +234,6 @@
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304067.jpg?version=19.7"
   },
   {
-    "name": "Regulus, el Príncipe de Endimión",
-    "desc": "La primera vez que esta carta fuera a ser destruida en batalla cada turno, no es destruida.\r\nSólo puedes usar cada uno de los siguientes efectos de \"Regulus, el Príncipe de Endimión\" una vez por turno.\r\nSi esta carta está en tu mano: Puedes revelar 1 otro monstruo Lanzador de Conjuros en tu mano; pierdes LP iguales al Nivel del monstruo revelado x 300 y, si lo haces, Invoca esta carta de Modo Especial.\r\nSi esta carta es Invocada de Modo Especial: Puedes añadir a tu mano 1 Mágica en tu Deck que mencione a \"Regulus, el Príncipe de Endimión\".",
-    "overallString": "[Monstruo|Efecto] Lanzador de Conjuros/LUZ  [★4] 1700/1300",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100200282.jpg?version=19.7"
-  },
-  {
-    "name": "Genni, la Sirvienta de Endimión",
-    "desc": "(Esta carta siempre se trata como una carta \"Artibruruja\").\r\nSi controlas un monstruo Lanzador de Conjuros: Puedes Invocar esta carta de Modo Especial desde tu mano.\r\nDurante la Main Phase (Efecto Rápido): Puedes seleccionar 1 monstruo Lanzador de Conjuros que controles; destiérralo y, si lo haces, Invoca de Modo Especial 1 monstruo \"Artibruja\" desde tu Deck, excepto \"Genni, la Sirvienta de Endimión\".\r\nSólo puedes usar cada uno de los efectos de \"Genni, la Sirvienta de Endimión\" una vez por turno.",
-    "overallString": "[Monstruo|Efecto] Lanzador de Conjuros/VIENTO  [★1] 300/500",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255018.jpg?version=19.7"
-  },
-  {
-    "name": "El Imperio Endimión",
-    "desc": "Cuando esta carta se resuelva, añade a tu mano 1 \"Regulus, el Príncipe de Endimión\" o 1 monstruo que lo mencione desde tu Deck, y después, si tu adversario controla un monstruo, puedes Invocar de Modo Especial 1 monstruo Lanzador de Conjuros desde tu mano.\r\nSi una o más cartas que controles fueran a ser destruidas en batalla o por efecto de carta, puedes destruir 1 \"Regulus, el Príncipe de Endimión\" en tu mano o Campo boca arriba en su lugar.\r\nSólo puedes usar este efecto de \"El Imperio Endimión\" una vez por turno.\r\nSólo puedes activar 1 \"El Imperio Endimión\" por turno.",
-    "overallString": "[Mágica|Continua]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255019.jpg?version=19.7"
-  },
-  {
-    "name": "Flecha de Regulus",
-    "desc": "Si controlas \"Regulus, el Príncipe de Endimión\": Activa 1 de estos efectos;\r\n● Destruye 1 monstruo de tu adversario que haya batallado este turno.\r\n● Cuando una Carta Mágica Normal o de Juego Rápido es activada: Niega sus efectos.\r\nDurante tu Main Phase: Puedes desterrar esta carta en tu Cementerio, y después seleccionar 1 \"Regulus, el Príncipe de Endimión\" o 1 monstruo que lo mencione en tu Cementerio; Invócalo de Modo Especial.\r\nSólo puedes usar cada uno de los efectos \"Flecha de Regulus\" una vez por turno.",
-    "overallString": "[Mágica|Juego Rápido]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255020.jpg?version=19.7"
-  },
-  {
     "name": "Colacuento - Matchlille",
     "desc": "Si hay un monstruo Lanzador de Conjuros con 1850 ATK original en el Campo: Puedes Invocar esta carta de Modo Especial desde tu mano o Cementerio, y además no puedes Invocar de Modo Especial por el resto de este turno, excepto monstruos Lanzador de Conjuros.\r\nSi esta carta es Invocada de Modo Normal o Especial: Puedes añadir a tu mano 1 Mágica/Trampa \"Colacuento\" desde tu Deck.\r\nPuedes pagar 500 LP; el nombre de 1 Monstruo de Efecto que controle tu adversario se convierte en \"Príncipe Hada\".\r\nSólo puedes usar cada uno de los efectos de \"Colacuento - Matchlille\" una vez por turno.",
     "overallString": "[Monstruo|Efecto] Lanzador de Conjuros/LUZ  [★4] 1850/1000",
@@ -330,108 +318,6 @@
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100256001.jpg?version=19.7"
   },
   {
-    "name": "HÉROE Enmascarado Fuente",
-    "desc": "Puedes revelar esta carta desde tu mano; Invoca de Modo Especial 1 monstruo \"HÉROE\" desde tu mano en Posición de Defensa.\r\nSi esta carta es mandada al Cementerio para activar un efecto de carta, o por efecto de carta: puedes Colocar 1 \"Cambio de Máscara\" desde tu Deck o Cementerio.\r\nSólo puedes usar los efectos de \"HÉROE Enmascarado Fuente\" una vez por turno cada uno.",
-    "overallString": "[Monstruo|Efecto] Guerrero/AGUA  [★4] 1000/1400",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255004.jpg?version=19.7"
-  },
-  {
-    "name": "Víbora Venenosa",
-    "desc": "Puedes revelar esta carta en tu mano; Invócala de Modo Especial, o, si tu adversario no controla monstruos, Invócala de Modo Especial a su Campo en Posición de Defensa en su lugar.\r\nUna vez por turno, durante tu Standby Phase: recibes 500 puntos de daño.\r\nSi esta carta es mandada al Cementerio por efecto de una carta o desterrada: puedes seleccionar 1 Mágica/Trampa Colocada del adversario; destrúyela. No puede ser activada en respuesta a la activación de este efecto.\r\nSólo puedes usar este efecto de \"Víbora Venenosa\" una vez por turno.",
-    "overallString": "[Monstruo|Efecto] Reptil/TIERRA  [★1] 100/200",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255005.jpg?version=19.7"
-  },
-  {
-    "name": "Ángel Caído en la Oscuridad",
-    "desc": "(Esta carta siempre se trata como una carta \"Señoroscuro\").\r\nManda al Cementerio 1 monstruo Hada desde tu mano o Campo boca arriba; Invoca de Modo Especial 1 monstruo \"Señoroscuro\" desde tu mano, Deck o destierro, ignorando sus condiciones de Invocación.\r\nSólo puedes activar 1 \"Ángel Caído en la Oscuridad\" por turno.",
-    "overallString": "[Trampa]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255006.jpg?version=19.7"
-  },
-  {
-    "name": "Armadura de Chatarra",
-    "desc": "Tu adversario no puede seleccionar Monstruos de Sincronía que controles con \"Guerrero\" y/o \"Polvo de Estrellas\" en sus nombres originales con efectos de cartas.\r\nSólo puedes usar los siguientes efectos de \"Armadura de Chatarra\" una vez por turno cada uno.\r\nSi esta carta es añadida a tu mano, excepto al robarla: puedes Invocarla de Modo Especial.\r\nPuedes Sacrificar esta carta; Invoca de Modo Especial 1 monstruo \"Chatarra\" o \"Sincrón\" desde tu Deck en Posición de Defensa, excepto \"Armadura de Chatarra\".",
-    "overallString": "[Monstruo|Efecto] Guerrero/TIERRA  [★2] 600/1200",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255007.jpg?version=19.7"
-  },
-  {
-    "name": "Maestro de la Chatarra",
-    "desc": "Puedes revelar 1 Monstruo de Sincronía \"Guerrero\" o \"Polvo de Estrellas\" en tu Deck Extra; Invoca esta carta de Modo Especial desde tu mano, y además no puedes Invocar monstruos de Modo Especial desde el Deck Extra por el resto de este turno, excepto Monstruos de Sincronía.\r\nSi esta carta es Invocada de Modo Normal o Especial: puedes añadir a tu mano 1 carta \"Chatarra\" desde tu Deck, excepto \"Maestro de la Chatarra\".\r\nPuedes seleccionar 1 monstruo \"Chatarra\" que controles; disminuye su Nivel hasta en 2.\r\nSólo puedes usar los efectos de \"Maestro de la Chatarra\" una vez por turno cada uno.",
-    "overallString": "[Monstruo|Efecto] Guerrero/TIERRA  [★4] 100/2300",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255008.jpg?version=19.7"
-  },
-  {
-    "name": "Sobre-sincronización",
-    "desc": "Si controlas un Cantante: Invoca de Modo Especial 1 Cantante desde tu mano, Deck o Cementerio, y además no puedes Invocar monstruos de Modo Especial desde el Deck Extra por el resto de este turno después de que esta carta se resuelva, excepto Monstruos de Sincronía.\r\nSólo puedes activar 1 \"Sobre-sincronización\" por turno.",
-    "overallString": "[Mágica]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255009.jpg?version=19.7"
-  },
-  {
-    "name": "Pulso del Campeón",
-    "desc": "Activa 1 de estos efectos;\r\n● Durante la Battle Phase de tu adversario: gana 1000 LP, y después terminas la Battle Phase.\r\n● Cuando tu adversario activa un efecto de monstruo, si controla más cartas que tú: Invoca de Modo Especial 1 \"Dragón Rojo Archidemonio\" o \"Ardiente Dragón Rojo Archidemonio\" desde tu Deck Extra o Cementerio, y si lo haces, niega ese efecto, y si haces eso, destruye ese monstruo.\r\nSólo puedes activar 1 \"Pulso del Campeón\" por turno.",
-    "overallString": "[Trampa]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255010.jpg?version=19.7"
-  },
-  {
-    "name": "Ilusión Gagaga",
-    "desc": "Si controlas un monstruo \"Gagaga\": selecciona 1 monstruo en tu Cementerio; Invócalo de Modo Especial, y después puedes hacer que su Nivel/Rango se convierta igual al Nivel/Rango de 1 monstruo \"Gagaga\" que controles.\r\nSi esta carta está en tu Cementerio, excepto el turno en el que fue mandada allí: puedes desterrarla; inmediatamente después de que este efecto se resuelva, Invoca por Sacrificio 1 monstruo \"Gagaga\".\r\nSólo puedes usar los efectos de \"Ilusión Gagaga\" una vez por turno cada uno.",
-    "overallString": "[Mágica]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255011.jpg?version=19.7"
-  },
-  {
-    "name": "Escape Gagaga",
-    "desc": "Cuando tu adversario activa un efecto de monstruo, si controlas un monstruo \"Gagaga\": niega la activación, y después puedes descartar 1 carta, y si lo haces, Invoca de Modo Especial 1 monstruo \"Gagaga\" desde tu Deck.\r\nPuedes desterrar esta carta en el Cementerio; cambia tantos monstruos \"Gagaga\" que controles a Posición de Defensa, y si lo haces, los monstruos \"Gagaga\" que controles no pueden ser destruidos en batalla o por efectos de carta este turno.\r\nSólo puedes usar los efectos de \"Escape Gagaga\" una vez por turno cada uno.",
-    "overallString": "[Trampa|Contraefecto]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255012.jpg?version=19.7"
-  },
-  {
-    "name": "Vínculo Interminable",
-    "desc": "(Esta carta siempre se trata como una carta \"Xyz\").\r\nCuando esta carta se resuelve, puedes Invocar de Modo Especial 1 \"Número 39: Utopía\" desde tu Cementerio, y si lo haces, gana ATK igual al ATK total de todos los Monstruos Xyz \"Utopía\" y \"Utópico\" LUZ en tu Cementerio.\r\nCuando tu Monstruo Xyz \"Utopía\" o \"Utópico\" cuyo Atributo original es LUZ que está atacando destruye un monstruo del adversario en batalla: puedes hacer que ese monstruo que controlas pierda 1000 ATK, y si lo haces, puede hacer otro ataque seguido.\r\nSólo puedes activar 1 \"Vínculo Interminable\" por turno.",
-    "overallString": "[Mágica|Continua]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255013.jpg?version=19.7"
-  },
-  {
-    "name": "Colmillos Espinosos de Veneno Violeta",
-    "desc": "(Esta carta siempre se trata como una carta \"Predap\").\r\nSelecciona 1 \"Dragón de Fusión Hambriento Venenoso\" que controles; destruye tantos monstruos que controle tu adversario con ATK menor como sea posible, y después puedes descartar toda tu mano, y si lo haces, inflige daño a tu adversario igual al ATK original total de los monstruos destruidos, y además el monstruo seleccionado no puede atacar este turno.\r\nSólo puedes activar 1 \"Colmillos Espinosos de Veneno Violeta\" por turno.",
-    "overallString": "[Mágica]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255014.jpg?version=19.7"
-  },
-  {
-    "name": "Fusión de Penetración",
-    "desc": "Si uno o más monstruos fueron destruidos en batalla este turno: Invoca por Fusión 1 Monstruo de Fusión desde tu Deck Extra, usando monstruos de tu mano o Campo, y si lo haces, gana este efecto.\r\n● (Efecto Rápido): Puedes Sacrificar esta carta, y después seleccionar 1 monstruo boca arriba que controles; gana 500 ATK.\r\nSólo puedes activar 1 \"Fusión de Penetración\" por turno.",
-    "overallString": "[Mágica|Juego Rápido]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255015.jpg?version=19.7"
-  },
-  {
-    "name": "Fusión Sorpresa",
-    "desc": "Selecciona 1 monstruo boca arriba que controles y declara 1 Tipo y 1 Atributo; ese monstruo se convierte en el Tipo y Atributo declarados, y después puedes Invocar por Fusión 1 Monstruo de Fusión desde tu Deck Extra, usando monstruos que controles, incluyendo el monstruo seleccionado.\r\nPuedes desterrar esta carta en tu Cementerio; Sacrifica 1 Monstruo de Fusión, y si lo haces, Invoca de Modo Especial 2 \"Ficha Sorpresa\" (Lanzador de Conjuros/OSCURIDAD/ATK 0/DEF 0) con el mismo Nivel.\r\nSólo puedes usar este efecto de \"Fusión Sorpresa\" una vez por turno.",
-    "overallString": "[Mágica]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255016.jpg?version=19.7"
-  },
-  {
-    "name": "Caza del Cielo Mecha - Adhilsaber",
-    "desc": "Durante la Battle Phase (Efecto Rápido): puedes descartar esta carta, y después seleccionar 1 monstruo \"Caza del Cielo\" en el Campo; gana 1500 ATK hasta el final de este turno.\r\nSi uno o más monstruos son Invocados de Modo Especial mientras esta carta está en tu Cementerio: puedes seleccionar 1 Monstruo de Enlace \"Caza del Cielo\" que controles; equipa esta carta a ese monstruo como una Mágica de Equipo que le da 1500 ATK.\r\nSólo puedes usar los efectos de \"Caza del Cielo Mecha - Adhilsaber\" una vez por turno cada uno.",
-    "overallString": "[Monstruo|Efecto] Máquina/VIENTO  [★7] 1500/1500",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255017.jpg?version=19.7"
-  },
-  {
-    "name": "Elfa del Aprendizaje",
-    "desc": "Si esta carta es Invocada de Modo Normal o Especial: puedes Colocar 1 Trampa desde tu Deck que tenga un efecto para equiparse a sí misma a un monstruo.\r\nSi esta carta es mandada del Campo al Cementerio: puedes robar 1 carta.\r\nSólo puedes usar los efectos de \"Elfa del Aprendizaje\" una vez por turno cada uno.",
-    "overallString": "[Monstruo|Efecto] Lanzador de Conjuros/LUZ  [★3] 1400/1500",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255001.jpg?version=19.7"
-  },
-  {
-    "name": "Reencarnación del Armamento",
-    "desc": "Invoca de Modo Especial \"Ficha de Reencarnación del Armamento\" (Guerrero/LUZ/Nivel 1/ATK 500/DEF 500) hasta el número de Mágicas de Equipo, y Trampas con un efecto para equiparse a sí mismas a un monstruo, en tu Cementerio, y después puedes destruir tantas cartas en tu Zona de Mágicas y Trampas como sea posible, incluyendo esta carta, y después Coloca tantas Mágicas de Equipo, y Trampas con un efecto para equiparse a sí mismas a un monstruo, como sea posible desde tu Cementerio, y además no puedes Invocar monstruos de Modo Especial por el resto de este turno. Estas Trampas pueden ser activadas este turno.\r\nSólo puedes activar 1 \"Reencarnación del Armamento\" por turno.",
-    "overallString": "[Mágica]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255002.jpg?version=19.7"
-  },
-  {
-    "name": "Barrera de Espejo",
-    "desc": "Selecciona 1 monstruo boca arriba que controles; equipa esta carta a ese monstruo como una Carta de Equipo con este efecto.\r\n● Una vez por Battle Step, si el monstruo equipado batalla con un monstruo del adversario: puedes destruir ese monstruo del adversario.\r\nSi esta carta es destruida: puedes añadir a tu mano 1 \"Reencarnación del Armamento\" desde tu Deck.\r\nSólo puedes usar este efecto de \"Barrera de Espejo\" una vez por turno.",
-    "overallString": "[Trampa]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100255003.jpg?version=19.7"
-  },
-  {
     "name": "Resonador de la Oscuridad",
     "desc": "Puedes revelar 1 \"Dragón Rojo Archidemonio\" en tu Deck Extra; Invoca esta carta de Modo Especial desde tu mano, y además por el resto de este turno no puedes Invocar monstruos de Modo Especial desde el Deck Extra, excepto Monstruos de Sincronía.\r\nSi esta carta es Invocada de Modo Especial: puedes activar este efecto; durante tu Main Phase este turno, puedes Invocar de Modo Normal 1 \"Resonador\" además de tu Invocación Normal/Colocado (sólo puedes ganar este efecto una vez por turno).\r\nPuedes seleccionar cualquier número de Cantantes que controles; sus Niveles se convierten en 1.\r\nSólo puedes usar los efectos de \"Resonador de la Oscuridad\" una vez por turno.",
     "overallString": "[Monstruo|Efecto|Cantante] Demonio/OSCURIDAD  [★3] 1300/300",
@@ -490,77 +376,5 @@
     "desc": "Añade a tu mano 4 monstruos \"el/la Encantador/a\" desde tu Deck, Cementerio y/o cartas desterradas (máx. 1 de cada Atributo). Después, elige 2 cartas de tu mano y devuélvelas al Deck.\r\nPuedes desterrar esta carta en tu Cementerio; Invoca por Fusión 1 Monstruo de Fusión desde tu Deck Extra, usando monstruos \"el/la Encantador/a\" y/o \"Poseido/a\" de tu mano o Campo como Material de Fusión. Tu adversario no puede activar efectos de monstruos, Mágicas o Trampas cuando ese monstruo es Invocado por Fusión.\r\nSólo puedes usar los efectos de \"Libro de Magia del Gran Anillo\" una vez por turno.",
     "overallString": "[Mágica]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100254202.jpg?version=19.7"
-  },
-  {
-    "name": "Cheatah Cayendo",
-    "desc": "Esta carta en una Zona de Monstruos no puede ser Sacrificada o usada como material para una Invocación de Fusión, Sincronía, Xyz o Enlace.\r\nSi un monstruo es Invocado de Modo Especial al Campo de tu adversario mientras esta carta está en una Zona de Monstruos: selecciona 1 de ellos; intercambia el control de esta carta y el monstruo seleccionado, pero ese monstruo seleccionado no puede ser Sacrificado o usado como material para una Invocación de Fusión, Sincronía, Xyz o Enlace mientras este monstruo permanezca boca arriba.\r\nSólo puedes Invocar de Modo Especial \"Cheatah Cayendo\" una vez por turno.",
-    "overallString": "[Monstruo|Efecto] Bestia/FUEGO  [★3] 1100/2200",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100253001.jpg?version=19.7"
-  },
-  {
-    "name": "Black Jack, el Caballero de la Armadura de las Sombras",
-    "desc": "1 Cantante + 1+ monstruos que no sean Cantantes\r\nNo puede ser destruido en batalla.\r\nCada vez que una o más cartas son Colocadas en la Zona de Mágicas y Trampas de tu adversario: excava cartas de la parte superior de tu Deck hasta encontrar un monstruo, y equípalo a esta carta, y además pon las otras cartas en la parte inferior del Deck.\r\nGana 300 ATK/DEF x la suma de los Niveles de los monstruos equipados a esta carta.\r\nSi la suma de los Niveles de los monstruos equipados a esta carta se vuelve mayor que 21, destruye esta carta.\r\nSólo puedes Invocar de Modo Especial \"Black Jack, el Caballero de la Armadura de las Sombras\" una vez por turno.",
-    "overallString": "[Monstruo|Efecto|Sincronía] Guerrero/OSCURIDAD  [★10] 0/0",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100253002.jpg?version=19.7"
-  },
-  {
-    "name": "¡¡Pareja de Osos Asustados!!",
-    "desc": "Tu adversario puede revelar 1 \"¡¡Pareja de Osos Asustados!!\" en su mano o Deck. Si lo hace, ambos jugadores ganan 2000 LP, de lo contrario, destruyes 1 monstruo que controle tu adversario.\r\nSi esta carta es mandada del Campo al Cementerio: añade esta carta a la mano de tu adversario. Sólo puedes usar este efecto de \"¡¡Pareja de Osos Asustados!!\" una vez por Duelo.\r\nSólo puedes activar 1 \"¡¡Pareja de Osos Asustados!!\" por turno.",
-    "overallString": "[Mágica|Juego Rápido]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100253003.jpg?version=19.7"
-  },
-  {
-    "name": "Gana quien Madruga con la Palma",
-    "desc": "Una vez por turno, cuando se declara un ataque que involucre a tu monstruo: puedes lanzar un dado de seis caras y aplicar 1 de estos efectos a ese monstruo hasta el final de este turno basado en el resultado. Si activas este efecto en una batalla que involucre 2 monstruos en la misma columna, puedes elegir 1 de estos efectos sin lanzar un dado de seis caras.\r\n● 1 o 4: La primera vez que fuera a ser destruido en batalla o por efecto de carta, no es destruido.\r\n● 2 o 5: Pierde 500 ATK y no es afectado por efectos de Mágicas/Trampas activados, excepto por los de \"Gana quien Madruga con la Palma\".\r\n● 3 o 6: Gana 1000 ATK y puede hacer 2 ataques a monstruos durante cada Battle Phase.\r\nSólo puedes activar 1 \"Gana quien Madruga con la Palma\" por turno.",
-    "overallString": "[Mágica|Continua]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100253004.jpg?version=19.7"
-  },
-  {
-    "name": "Festival Ebisu Shinsei",
-    "desc": "Una vez por Cadena, si uno o más Monstruos de Efecto son Invocados de Modo Especial: puedes seleccionar 1 de esos monstruos; Invoca de Modo Especial 1 \"Ficha Shinsen\" (Aqua/AGUA/Nivel 3/ATK 0/DEF 0) al Campo del oponente de ese monstruo en Posición de Defensa.\r\nAl inicio de la Battle Phase: puedes destruir esta carta y tantas Fichas en el Campo como sea posible, y si lo haces, Invoca de Modo Especial 1 \"Ficha Ebisu\" (Hada/AGUA/Nivel 7/ATK ?/DEF ?) a tu Campo. Su ATK/DEF son iguales al número de Fichas destruidas por este efecto x 700.\r\nSólo puedes activar 1 \"Festival Ebisu Shinsei\" por turno.",
-    "overallString": "[Trampa|Continua]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100253005.jpg?version=19.7"
-  },
-  {
-    "name": "Eyector Milagroso",
-    "desc": "(Esta carta siempre se trata como una carta \"HÉROE Elemental\").\r\nPuedes mandar al Cementerio 1 monstruo \"Neo Espacial\" desde tu Deck; Invoca esta carta de Modo Especial desde tu mano.\r\nSi esta carta es Invocada de Modo Normal o Especial: puedes añadir 1 Carta Mágica/Trampa que mencione el nombre de una carta de monstruo \"HÉROE Elemental\" de tu Deck a tu mano.\r\nSi esta carta es mandada al Cementerio: puedes seleccionar 1 carta en el Cementerio de tu adversario; destiérrala.\r\nSólo puedes usar los efectos de \"Eyector Milagroso\" una vez por turno.",
-    "overallString": "[Monstruo|Efecto] Lanzador de Conjuros/TIERRA  [★3] 400/400",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100252001.jpg?version=19.7"
-  },
-  {
-    "name": "Luchador de Impacto Infernal",
-    "desc": "1 Cantante + 1+ monstruos que no sean Cantantes\r\nDurante la Main Phase 2 (Efecto Rápido): puedes destruir tantos monstruos boca arriba en el Campo como sea posible, y si lo haces, inflige daño a tu adversario igual a la suma de los Niveles originales de los monstruos destruidos x 200.\r\nSi esta carta es destruida en batalla o por efecto de una carta: puedes seleccionar 1 monstruo Máquina de Nivel 5 o menor en tu Cementerio; Invócalo de Modo Especial en Posición de Defensa.\r\nSólo puedes usar los efectos de \"Luchador de Impacto Infernal\" una vez por turno.",
-    "overallString": "[Monstruo|Efecto|Sincronía] Máquina/OSCURIDAD  [★7] 2600/1800",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100251003.jpg?version=19.7"
-  },
-  {
-    "name": "Unicornio del Viento Paralelo, el Dracoasesino",
-    "desc": "←◊2 Escala 2◊→\r\n【Efecto de Péndulo】\r\nSi tienes una carta en tu otra Zona de Péndulo: puedes activar 1 de estos efectos;\r\n● Invoca esta carta de Modo Especial.\r\n● Destruye esta carta, y si lo haces, Invoca de Modo Especial 1 Carta de Monstruo de Péndulo de Nivel 5 o menor desde tu Zona de Péndulo.\r\nSólo puedes usar este efecto de \"Unicornio del Viento Paralelo, el Dracoasesino\" una vez por turno.\r\n━━━━━━━━━━━━━━━━━━━━━━━\r\n【Efecto de Monstruo】\r\nTu adversario no puede seleccionar esta carta Invocada por Péndulo con efectos de cartas, y además no puede ser destruida por sus efectos de cartas.\r\n(Efecto Rápido): Puedes seleccionar 1 Carta de Monstruo de Péndulo que controles y 1 carta que controle tu adversario; devuélvelas a la mano.\r\nSólo puedes usar este efecto de \"Unicornio del Viento Paralelo, el Dracoasesino\" una vez por turno.",
-    "overallString": "[Monstruo|Efecto|Péndulo] Lanzador de Conjuros/VIENTO  [★6] 2000/2000  2/2",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100251005.jpg?version=19.7"
-  },
-  {
-    "name": "Dragón de Ojos Galácticos de Antimateria",
-    "desc": "2 monstruos de Nivel 9\r\nUna vez por turno, también puedes Invocar Xyz \"Dragón de Ojos Galácticos de Antimateria\" usando 1 Monstruo Xyz que controles con 3 o más materiales (transfiere sus materiales a esta carta).\r\nCualquier daño de batalla que esta carta con materiales inflija a tu adversario se reduce a la mitad.\r\nPuedes desacoplar 1 material de esta carta; aplica este efecto, y después, si desacoplaste un monstruo, puedes mandar al Cementerio 1 monstruo con el mismo Tipo que él desde tu Deck. Una vez aplicado, esta carta puede hacer hasta 2 ataques a monstruos durante cada Battle Phase este turno.",
-    "overallString": "[Monstruo|Efecto|Xyz] Dragón/LUZ  [☆9] 4000/0",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100251004.jpg?version=19.7"
-  },
-  {
-    "name": "Cristron Halqifibrax Prisma",
-    "desc": "2+ monstruos, incluyendo un Cantante\r\nSi esta carta es Invocada por Enlace: puedes Invocar de Modo Especial 1 Cantante desde tu Deck Extra en Posición de Defensa, con un Nivel menor o igual a la suma de los Niveles originales de los monstruos usados como material.\r\nDurante la Main Phase o Battle Phase de tu adversario (Efecto Rápido): puedes desterrar esta carta que controlas; Invoca de Modo Especial 3 \"Ficha Cristron\" (Máquina/AGUA/Nivel 1/ATK 0/DEF 0). No pueden ser Sacrificadas.\r\nSólo puedes usar los efectos de \"Cristron Halqifibrax Prisma\" una vez por turno.",
-    "overallString": "[Monstruo|Efecto|Enlace] Máquina/AGUA  [LINK-3] 1500/-  [↙][↓][↘]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100251006.jpg?version=19.7"
-  },
-  {
-    "name": "Gobernante del Fin del Mundo",
-    "desc": "Puedes Invocar esta carta por Ritual con cualquier carta \"Fin del Mundo\".\r\nEl nombre de esta carta se convierte en \"Demise, Rey del Armagedón\" mientras esté en la mano o en el Campo.\r\nSólo puedes usar los siguientes efectos de \"Gobernante del Fin del Mundo\" una vez por turno.\r\nPuedes revelar esta carta en tu mano, pagar 2000 LP y desterrar 1 Mágica de Ritual de tu Deck; aplica el efecto de activación de esa carta que Invoca un monstruo por Ritual.\r\nPuedes pagar 2000 LP; destruye tantas otras cartas en el Campo como sea posible, y después esta carta gana 2900 ATK.",
-    "overallString": "[Monstruo|Efecto|Ritual] Demonio/OSCURIDAD  [★10] 3000/2900",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100251001.jpg?version=19.7"
-  },
-  {
-    "name": "Sacrificio de Ojos de Pesadilla",
-    "desc": "2 monstruos con diferentes Tipos (Demonio, Ilusión, Lanzador de Conjuros)\r\nSi esta carta es Invocada de Modo Especial, O, si esta carta batalla, al final de la Battle Phase: puedes equipar 1 monstruo que controle tu adversario a esta carta. Sólo puedes usar este efecto de \"Sacrificio de Ojos de Pesadilla\" una vez por turno.\r\nGana ATK igual al ATK total de esos monstruos equipados.\r\nSi esta carta batalla con un monstruo, ninguno puede ser destruido en esa batalla.\r\nLos monstruos de tu adversario no pueden atacar a monstruos, excepto a este.",
-    "overallString": "[Monstruo|Efecto|Fusión] Ilusión/OSCURIDAD  [★1] 0/0",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100251002.jpg?version=19.7"
   }
 ]
