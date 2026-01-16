@@ -1,5 +1,23 @@
 [
   {
+    "name": "Crépitement du Son Kewl",
+    "desc": "\"Clip du Son Kewl\" + 1+ Syntoniseur\r\nSi cette carte est Invoquée par Synchronisation : vous pouvez regarder l'Extra Deck de votre adversaire, et si vous le faites, bannissez-en (face recto) 1 carte (jusqu'à la End Phase), puis vous pouvez faire gagner à cette carte une ATK égale à celle du monstre banni.\r\nSi cette carte Invoquée par Synchronisation est envoyée au Cimetière : vous pouvez Invoquer Spécialement cette carte, puis vous pouvez regarder l'Extra Deck de votre adversaire, et si vous le faites, bannissez-en (face recto) 2 cartes jusqu'à la End Phase.\r\nVous ne pouvez utiliser chaque effet de \"Crépitement du Son Kewl\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet|Syntoniseur|Synchro] Tonnerre/Ténébres  [★5] 800/2000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304041.jpg?version=19.7"
+  },
+  {
+    "name": "Back 2 Back du Son Kewl",
+    "desc": "1 Syntoniseur + 1+ Monstre Synchro\r\nLe Niveau des monstres contrôlés par votre adversaire est augmenté de 2.\r\nVos Syntoniseurs peuvent faire une seconde attaque durant chaque Battle Phase.\r\nLorsque votre adversaire active un effet de monstre (Effet Rapide) : vous pouvez cibler 1 Syntoniseur dans votre Cimetière ou bannissement (monstres de Niveau 10 exclus) ; soit ajoutez-le à votre main soit Invoquez-le Spécialement, puis, immédiatement après la résolution de cet effet, vous pouvez Invoquer par Synchronisation 1 Monstre Synchro.\r\nVous pouvez utiliser cet effet de \"Back 2 Back du Son Kewl\" max. deux fois par tour.",
+    "overallString": "[Monstre|Effet|Syntoniseur|Synchro] Démon/Ténébres  [★10] 3200/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304042.jpg?version=19.7"
+  },
+  {
+    "name": "Rotative du Son Kewl",
+    "desc": "Si cette carte sur le Terrain va être utilisée comme Matériel Synchro, 1 Syntoniseur dans votre main peut être utilisé comme 1 des autres Matériels.\r\nVous ne pouvez utiliser chacun des effets suivants de \"Rotative du Son Kewl\" qu'une fois par tour.\r\nVous pouvez révéler cette carte et 1 autre Syntoniseur dans votre main ; immédiatement après la résolution de cet effet, Invoquez Normalement 1 Syntoniseur.\r\nSi cette carte est envoyée au Cimetière comme Matériel Synchro : vous pouvez activer 1 de ces effets ;\r\n● Placez 1 carte depuis le Cimetière de votre adversaire au-dessous du Deck.\r\n● Regardez la main de votre adversaire, puis vous pouvez ajouter 1 Magie/Piège \"Son Kewl\" depuis votre Deck à votre main.",
+    "overallString": "[Monstre|Effet|Syntoniseur] Cyberse/Lumiére  [★1] 100/800",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304021.jpg?version=19.7"
+  },
+  {
     "name": "Rapport Solennel",
     "desc": "Vous pouvez activer cette carte le tour où elle a été Posée, en révélant 1 autre Piège Posé que vous contrôlez. Lorsqu'une Carte Magie/Piège est activée : activez 1 de ces effets ;\r\n● Payez 1500 LP ; annulez l'activation, et si vous le faites, détruisez la carte, et si vous faites ça, le reste de ce tour, aucun joueur ne peut activer ni de cartes ni d'effets de cartes du même nom d'origine.\r\n● Payez 3000 LP ; annulez l'activation, et si vous le faites, bannissez la carte, puis votre adversaire bannit toutes les cartes du même nom d'origine depuis sa main et Deck.",
     "overallString": "[Piège|Contre-Piège]",
@@ -234,8 +252,8 @@
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304072.jpg?version=19.7"
   },
   {
-    "name": "Combat Subspatial",
-    "desc": "Vous ne pouvez activer qu'1 \"Combat Subspatial\" par tour. Appliquez l'effet suivant 3 fois.\r\n● Chaque joueur révèle 1 monstre depuis son Deck avec une ATK différente de ?. Ajoutez le monstre avec la plus haute ATK à la main du joueur qui l'a révélé. Détruisez le monstre avec la plus petite ATK, et le joueur qui l'a révélé reçoit 500 points de dommages. En cas d'égalité, mélangez les monstres révélés dans le Deck. Ce tour, aucun joueur ne peut activer les effets du monstre qu'il a révélé ou de monstres du même nom.",
+    "name": "Combat de l'Hyper-Espace",
+    "desc": "Appliquez l'effet suivant 3 fois.\r\n● Chaque joueur révèle 1 monstre dans son Deck (monstres avec ? ATK exclus). Ajoutez le monstre avec une ATK supérieure à la main du joueur qui l'a révélé, et aussi, détruisez le monstre avec une ATK inférieure, et si vous le faites, infligez 500 points de dommages au joueur qui l'a révélé. S'ils ont la même ATK, mélangez-les dans le Deck. Chaque joueur ne peut pas activer les effets de monstres du même nom que le monstre qu'il a révélé le reste de ce tour.\r\nVous ne pouvez activer qu'1 \"Combat de l'Hyper-Espace\" par tour.",
     "overallString": "[Magie]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100200283.jpg?version=19.7"
   },
@@ -642,8 +660,8 @@
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304208.jpg?version=19.7"
   },
   {
-    "name": "La Charmeuse du Grand Cercle",
-    "desc": "2+ monstres \"la Charmeuse\" et/ou \"Familier Possédé\"\r\nSi cette carte est Invoquée par Fusion : vous pouvez répéter le processus d'appliquer 1 de ces effets, un nombre de fois inférieur ou égal au nombre d'Attributs d'origine différents des monstres utilisés comme ses Matériels (max. 4).\r\n● Cette carte gagne 800 ATK.\r\n● Ajoutez 1 Magie/Piège \"Possédé\" depuis votre Deck à votre main.\r\n● Renvoyez 1 carte depuis le Terrain à la main.\r\n● Invoquez Spécialement 1 monstre Magicien depuis votre Cimetière.\r\nVous ne pouvez utiliser cet effet de \"La Charmeuse du Grand Cercle\" qu'une fois par tour.",
+    "name": "Charmeuses du Grand Cercle",
+    "desc": "2+ monstres \"la Charmeuse\" ou \"Familier Possédé\"\r\n(Cette carte est toujours traitée comme carte \"la Charmeuse\".)\r\nvous pouvez activer cet effet ; pour chaque Attribut d'origine différent utilisé pour son Invocation Fusion (max. 4), vous pouvez appliquer 1 effet de cette liste. Vous pouvez choisir le même effet plus d'une fois. Résolvez chaque effet avant de choisir à nouveau.\r\n● Cette carte gagne 800 ATK. \r\n● Ajoutez 1 Magie/Piège \"Possédé\" depuis votre Deck à votre main.\r\n● Renvoyez 1 carte sur le Terrain à la main.\r\n● Invoquez Spécialement 1 monstre Magicien depuis votre Cimetière.\r\nVous ne pouvez utiliser cet effet de \"Charmeuses du Grand Cercle\" qu'une fois par tour.",
     "overallString": "[Monstre|Effet|Fusion] Magicien/Lumiére  [★6] 1850/1500",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100254201.jpg?version=19.7"
   },
