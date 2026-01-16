@@ -1,5 +1,23 @@
 [
   {
+    "name": "Canción Kewl Crujido",
+    "desc": "\"Canción Kewl Graba\" + 1+ Cantantes\r\nSi esta carta es Invocada por Sincronía: Puedes mirar el Extra Deck de tu adversario, y desterrar 1 monstruo de él hasta la End Phase. Esta carta gana ATK igual al ATK de ese monstruo desterrado.\r\nSi esta carta Invocada por Sincronía es mandada al Cementerio: Puedes Invocar esta carta de Modo Especial, y después puedes mirar el Extra Deck de tu adversario, y desterrar 2 monstruos de él hasta la End Phase.\r\nSólo puedes usar cada uno de los efectos de \"Canción Kewl Crujido\" una vez por turno.",
+    "overallString": "[Monstruo|Efecto|Cantante|Sincronía] Trueno/OSCURIDAD  [★5] 800/2000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304041.jpg?version=19.7"
+  },
+  {
+    "name": "Canción Kewl Cara a Cara",
+    "desc": "1 Cantante + 1+ Cantantes de Sincronía\r\nLos Niveles de los monstruos que controle tu adversario se incrementan en 2.\r\nTus Cantantes pueden hacer un segundo ataque durante cada Battle Phase.\r\n(Efecto Rápido): Cuando tu adversario activa un efecto de monstruo: Puedes seleccionar 1 Cantante en tu Cementerio o destierro, excepto un monstruo de Nivel 10; añádelo a tu mano o Invócalo de Modo Especial, y después puedes inmediatamente después de que este efecto se resuelva, Invocar por Sincronía 1 Monstruo de Sincronía.\r\nSólo puedes usar este efecto de \"Canción Kewl Cara a Cara\" dos veces por turno.",
+    "overallString": "[Monstruo|Efecto|Cantante|Sincronía] Demonio/OSCURIDAD  [★10] 3200/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304042.jpg?version=19.7"
+  },
+  {
+    "name": "Canción Kewl Lotería",
+    "desc": "Puedes revelar esta carta y 1 Cantante en tu mano; inmediatamente después de que este efecto se resuelva, Invoca de Modo Normal 1 monstruo Cantante.\r\nSi esta carta es mandada al Cementerio como Material de Sincronía: puedes activar 1 de estos efectos;\r\n● Coloca 1 carta del Cementerio de tu adversario en el fondo de su Deck.\r\n● Mira la mano de tu adversario, y después puedes añadir a tu mano 1 Mágica/Trampa \"Canción Kewl\" desde tu Deck.\r\nSólo puedes usar cada uno de los efectos de \"Canción Kewl Lotería\" una vez por turno.",
+    "overallString": "[Monstruo|Efecto|Cantante] Ciberso/LUZ  [★1] 100/800",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304021.jpg?version=19.7"
+  },
+  {
     "name": "Informe Solemne",
     "desc": "Cuando se activa una Carta de Mágica/Trampa: activa 1 de estos efectos;\r\n● Paga 1500 LP; niega la activación y, si lo haces, destruye esa carta y, si haces eso, por el resto de este turno ningún jugador puede activar los efectos de esa carta, así como de cartas con el mismo nombre original y sus efectos.\r\n● Paga 3000 LP; niega la activación y, si lo haces, destierra esa carta, y después tu adversario destierra todas las cartas con su mismo nombre original en su mano y Deck.\r\nPuedes activar esta carta en el turno en que fue Colocada mostrando 1 de tus otras Trampas Colocadas.",
     "overallString": "[Trampa|Contraefecto]",
@@ -8,7 +26,7 @@
   {
     "name": "Kuro ¡DESPIERCAFÉ!",
     "desc": "VOLTEO: Si esta carta es volteada boca arriba: Puedes seleccionar 1 otro monstruo boca arriba en el Campo; cámbialo a Posición de Defensa boca abajo.\r\nPuedes revelar esta carta en tu mano; añade a tu mano 1 Monstruo de Volteo de VIENTO en tu Deck, excepto \"Kuro ¡DESPIERCAFÉ!\", y después descarta 1 carta.\r\n(Efecto Rápido): Puedes seleccionar 1 monstruo en Posición de Defensa boca abajo en el Campo; cámbialo a Posición de Defensa boca arriba.\r\nSólo puedes usar cada efecto de \"Kuro ¡DESPIERCAFÉ!\" una vez por turno.",
-    "overallString": "[Monstruo|Efecto|Volteo] Aqua/VIENTO  [★7] 400/2700",
+    "overallString": "[Monstruo|Efecto|VOLTEO] Aqua/VIENTO  [★7] 400/2700",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304028.jpg?version=19.7"
   },
   {
@@ -122,25 +140,25 @@
   {
     "name": "Clan Payaso - Flare",
     "desc": "Puedes Invocar esta carta por Ritual con una carta \"Clan Payaso\".\r\nPuedes revelar esta carta en tu mano; añade a tu mano 1 carta \"Clan Payaso\" en tu Deck, y después descarta 1 carta.\r\nSólo puedes usar este efecto de \"Clan Payaso - Flare\" una vez por turno.\r\nSi esta carta es Sacrificada: puedes activar 1 de estos efectos (pero sólo puedes usar cada uno de estos efectos de \"Clan Payaso - Flare\" una vez por turno);\r\n● Baraja al Deck todos los Monstruos de Ritual en el campo y en los Cementerios.\r\n● Cambia 1 Monstruo de Efecto en el campo a Posición de Defensa boca abajo.",
-    "overallString": "[Monstruo|Efecto|Ritual] Gerrero Bestia/LUZ  [★1] 500/1000",
+    "overallString": "[Monstruo|Efecto|Ritual] Guerrero Bestia/LUZ  [★1] 500/1000",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304029.jpg?version=19.7"
   },
   {
     "name": "Clan Payaso - Diablo",
     "desc": "2 monstruos con el mismo Atributo pero diferente Tipo\r\nSi tu monstruo Invocado por Sacrificio ataca a un monstruo en Posición de Defensa, inflige doble daño de batalla de penetración.\r\nSi esta carta es Sacrificada: puedes activar 1 de estos efectos (pero sólo puedes usar cada uno de estos efectos de \"Clan Payaso - Diablo\" una vez por turno);\r\n● Devuelve todos los Monstruos de Fusión en el campo y en los Cementerios al Extra Deck.\r\n● Coloca 1 Trampa \"Clan Payaso\" desde tu Deck.",
-    "overallString": "[Monstruo|Efecto|Fusión] Gerrero Bestia/LUZ  [★5] 200/1800",
+    "overallString": "[Monstruo|Efecto|Fusión] Guerrero Bestia/LUZ  [★5] 200/1800",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304032.jpg?version=19.7"
   },
   {
     "name": "Clan Payaso - Meteoro",
     "desc": "1 Cantante + 1+ monstruos que no sean Cantantes\r\nTu adversario no puede activar cartas o efectos cuando tu monstruo es Invocado por Sacrificio.\r\nSi esta carta es Sacrificada: puedes activar 1 de estos efectos (pero sólo puedes elegir cada uno de estos efectos de \"Clan Payaso - Meteoro\" una vez por turno);\r\n● Devuelve todos los Monstruos de Sincronía en el campo y en los Cementerios al Extra Deck.\r\n● Selecciona 1 carta \"Clan Payaso\" en tu Cementerio, excepto \"Clan Payaso - Meteoro\"; añádela a tu mano.",
-    "overallString": "[Monstruo|Efecto|Sincronía] Gerrero Bestia/LUZ  [★6] 600/1300",
+    "overallString": "[Monstruo|Efecto|Sincronía] Guerrero Bestia/LUZ  [★6] 600/1300",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304040.jpg?version=19.7"
   },
   {
     "name": "Clan Payaso - Diablos",
     "desc": "2 monstruos de Nivel 3\r\nTus monstruos Invocados por Sacrificio ganan 1000 ATK.\r\nSi esta carta es Sacrificada: puedes activar 1 de estos efectos (pero sólo puedes elegir cada uno de estos efectos de \"Clan Payaso - Diablos\" una vez por turno);\r\n● Devuelve todos los Monstruos Xyz en el campo y en los Cementerios al Extra Deck.\r\n● Coloca 1 Mágica \"Clan Payaso\" desde tu Deck.",
-    "overallString": "[Monstruo|Efecto|Xyz] Gerrero Bestia/LUZ  [☆3] 0/2000",
+    "overallString": "[Monstruo|Efecto|Xyz] Guerrero Bestia/LUZ  [☆3] 0/2000",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304046.jpg?version=19.7"
   },
   {
@@ -653,7 +671,4 @@
     "overallString": "[Mágica]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100254202.jpg?version=19.7"
   }
-
 ]
-
-
