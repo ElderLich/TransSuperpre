@@ -1,5 +1,35 @@
 [
   {
+    "name": "Mécanicien Mécanique",
+    "desc": "Lorsqu'une attaque impliquant un autre de vos monstres Machine est déclarée : vous pouvez augmenter ou diminuer le Niveau de cet autre monstre de 1.\r\nVous ne pouvez utiliser chacun des effets suivants de « Mécanicien Mécanique » qu'une seule fois par tour.\r\nSi une carte est sur le Terrain : vous pouvez Invoquer Spécialement cette carte depuis votre main.\r\nVous pouvez cibler 1 Carte Magie/Piège face recto que vous contrôlez ; détruisez-la, et si vous le faites, ajoutez à votre main 1 monstre Machine VENT avec 0 ATK depuis votre Deck.\r\nDe plus, vous ne pouvez pas Invoquer Spécialement depuis l'Extra Deck pour le reste de ce tour, excepté des monstres Machine.",
+    "overallString": "[Monstre|Effet|Syntoniseur] Machine/Vent  [★3] 500/500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303081.jpg?version=19.7"
+  },
+  {
+    "name": "Pluie de Grenouilles",
+    "desc": "Si vous contrôlez un monstre Aqua avec 2000 ATK ou plus : envoyez tous les monstres sur le Terrain au Cimetière, excepté les monstres Aqua.\r\nSi cette carte Posée est détruite par un effet de carte : vous pouvez la Poser.\r\nVous ne pouvez utiliser chaque effet de « Pluie de Grenouilles » qu'une seule fois par tour.",
+    "overallString": "[Piège]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303086.jpg?version=19.7"
+  },
+  {
+    "name": "Mercurium le Vif-Argent Vivant",
+    "desc": "2+ monstres de Niveau 10\r\nSi cette carte est Invoquée par Xyz : vous pouvez attacher 1 monstre depuis votre Deck à cette carte comme Matériel.\r\nVous ne pouvez utiliser cet effet de \"Mercurium le Vif-Argent Vivant\" qu'une fois par tour.\r\nTant que cette carte a du Matériel, votre adversaire ne peut pas activer les effets de monstres dans son Cimetière du même Attribut qu'un monstre dans votre Cimetière. \r\nUne fois par tour, durant la End Phase : détachez 1 Matériel de cette carte ou recevez 3000 points de dommages.",
+    "overallString": "[Monstre|Effet|Xyz] Aqua/Ténébres  [☆10] 3000/3000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303084.jpg?version=19.7"
+  },
+  {
+    "name": "Daneen le Dino Renvoyé",
+    "desc": "Si cette carte est Invoquée Spécialement par un effet de monstre : vous pouvez ajouter 1 monstre \"GMX\" depuis votre Deck à votre main.\r\nDurant votre Main Phase : vous pouvez Invoquer par Fusion 1 Monstre Fusion Dinosaure depuis votre Extra Deck, en utilisant des monstres depuis votre main ou Terrain.\r\nSi cette carte est envoyée au Cimetière : vous pouvez faire gagner 400 ATK à tous les monstres Dinosaure que vous contrôlez actuellement.\r\nVous ne pouvez utiliser chaque effet de \"Daneen le Dino Renvoyé\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet] Dinosaure/Eau  [★1] 400/1200",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303093.jpg?version=19.7"
+  },
+  {
+    "name": "GMX Expérience Appliquée 55",
+    "desc": "Dévoilez des cartes du dessus de votre Deck jusqu'à ce que vous ayez dévoilé un monstre \"GMX\" et un monstre Dinosaure, perdez 400 LP pour chaque carte dévoilée, puis vous pouvez Invoquer par Fusion 1 Monstre Fusion \"GMX\" depuis votre Extra Deck, en utilisant des monstres dévoilés comme Matériels, et aussi, mélangez le reste dans le Deck.\r\nVous ne pouvez activer qu'1 \"GMX Expérience Appliquée 55\" par tour.",
+    "overallString": "[Magie]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303096.jpg?version=19.7"
+  },
+  {
     "name": "Espièglerie des Loups",
     "desc": "Appliquez ces effets dans l'ordre :\r\n● Réduisez le Niveau de tous les monstres contrôlés par votre adversaire de 2.\r\n● Augmentez le Niveau de tous les monstres que vous contrôlez de 2.\r\nDurant votre Main Phase, si cette carte se trouve dans votre Cimetière car elle y a été envoyée ce tour-ci : vous pouvez cibler 1 carte face recto que vous contrôlez ; détruisez-la, et si vous le faites, ajoutez cette carte à votre main.\r\nVous ne pouvez utiliser cet effet de « Espièglerie des Loups » qu'une fois par tour.",
     "overallString": "[Magie|Jeu-Rapide]",
