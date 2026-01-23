@@ -1,5 +1,53 @@
 [
   {
+    "name": "Espièglerie des Loups",
+    "desc": "Appliquez ces effets dans l'ordre :\r\n● Réduisez le Niveau de tous les monstres contrôlés par votre adversaire de 2.\r\n● Augmentez le Niveau de tous les monstres que vous contrôlez de 2.\r\nDurant votre Main Phase, si cette carte se trouve dans votre Cimetière car elle y a été envoyée ce tour-ci : vous pouvez cibler 1 carte face recto que vous contrôlez ; détruisez-la, et si vous le faites, ajoutez cette carte à votre main.\r\nVous ne pouvez utiliser cet effet de « Espièglerie des Loups » qu'une fois par tour.",
+    "overallString": "[Magie|Jeu-Rapide]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303083.jpg?version=19.7"
+  },
+  {
+    "name": "Flux Ochsenfeld",
+    "desc": "1 monstre TERRE de Niveau 5 ou plus + 1 monstre Rocher\r\nSi cette carte est Invoquée par Fusion : vous pouvez Invoquer Spécialement 1 monstre Rocher depuis votre main ou votre Cimetière, excepté « Flux Ochsenfeld ».\r\n(Effet Rapide) : vous pouvez cibler 1 monstre TERRE que vous contrôlez et 1 carte contrôlée par votre adversaire ; renvoyez-les à la main.\r\nVous ne pouvez utiliser chaque effet de « Flux Ochsenfeld » qu'une fois par tour, et vous ne pouvez pas en activer plus d'un dans la même chaîne.",
+    "overallString": "[Monstre|Effet|Fusion] Rocher/Terre  [★7] 2600/2000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303087.jpg?version=19.7"
+  },
+  {
+    "name": "Dragon Fléau des Tempêtes Destorbim",
+    "desc": "1 Syntoniseur + 1+ non-Syntoniseurs\r\nVotre adversaire ne peut pas cibler cette carte avec des effets de carte.\r\nVous ne pouvez utiliser chacun des effets suivants de « Dragon Fléau des Tempêtes Destorbim » qu'une seule fois par tour.\r\nVous pouvez bannir de votre Cimetière autant de monstres TÉNÈBRES que vous le souhaitez qui ne peuvent pas être Invoqués Normalement ou Posés; bannissez autant de cartes contrôlées par votre adversaire.\r\nCeci est un Effet Rapide si votre adversaire contrôle plus de cartes que vous.\r\nSi cette carte est envoyée au Cimetière : vous pouvez Invoquer Spécialement 1 de vos monstres Dragon bannis.",
+    "overallString": "[Monstre|Effet|Synchro] Dragon/Ténébres  [★11] 3000/2800",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303089.jpg?version=19.7"
+  },
+  {
+    "name": "GMX Chercheur Sélande",
+    "desc": "Si cette carte est Invoquée Normalement : vous pouvez Invoquer Spécialement 1 monstre \"GMX\" non-Guerrier ou 1 monstre Dinosaure de max. Niveau 3 depuis votre Deck.\r\nSi cette carte est Invoquée Spécialement par un effet de monstre : vous pouvez ajouter 1 Magie/Piège \"GMX\" depuis votre Deck à votre main.\r\nSi un Monstre Fusion Dinosaure est sur le Terrain : vous pouvez mélanger cette carte depuis le Terrain dans le Deck, et si vous le faites, annulez les effets d'1 carte face recto sur le Terrain jusqu'à la fin de ce tour.\r\nVous ne pouvez utiliser chaque effet de \"GMX Chercheur Sélande\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet] Guerrier/Feu  [★3] 1500/700",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303090.jpg?version=19.7"
+  },
+  {
+    "name": "GMX Président Kimridge",
+    "desc": "Vous pouvez révéler cette carte dans votre main ; ajoutez 1 \"GMX Expérience Appliquée 55\" depuis votre Deck ou Cimetière à votre main, et si vous le faites, mélangez cette carte dans le Deck.\r\nSi cette carte est Invoquée Spécialement par un effet de monstre : vous pouvez cibler 2 cartes dans votre Cimetière, qui sont des cartes \"GMX\" et/ou des monstres Dinosaure ; placez-les au-dessus de votre Deck dans l'ordre de votre choix, puis vous pouvez détruire 1 monstre en Position d'Attaque contrôlé par votre adversaire.\r\nVous ne pouvez utiliser chaque effet de \"GMX Président Kimridge\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet] Psychique/Lumiére  [★4] 1000/900",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303091.jpg?version=19.7"
+  },
+  {
+    "name": "GMX Associée Noma",
+    "desc": "Si cette carte est Invoquée Spécialement par un effet de monstre : vous pouvez cibler 1 carte chacune depuis votre Cimetière et le Cimetière de votre adversaire ; placez chaque carte soit au-dessus soit au-dessous du Deck.\r\nSi un ou plusieurs monstres sont Invoqués Normalement ou Spécialement sur le Terrain de votre adversaire, tant que cette carte est dans votre Zone Monstre (sauf durant la Damage Step) : vous pouvez Invoquer par Fusion 1 Monstre Fusion \"GMX\" depuis votre Extra Deck, en mélangeant ses Matériels depuis votre Terrain, Cimetière, et/ou bannissement dans le Deck.\r\nVous ne pouvez utiliser chaque effet de \"GMX Associée Noma\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet] Reptile/Ténébres  [★4] 900/1300",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303092.jpg?version=19.7"
+  },
+  {
+    "name": "GMX - ALLOS",
+    "desc": "1 monstre \"GMX\" + 1 monstre Dinosaure\r\nChaque fois que votre adversaire Invoque Normalement ou Spécialement un ou plusieurs monstres, gagnez 200 LP.\r\nVous ne pouvez utiliser chacun des effets suivants de \"GMX - ALLOS\" qu'une fois par tour.\r\nVous pouvez cibler 1 monstre \"GMX\" ou 1 monstre Dinosaure dans votre Cimetière ou bannissement ; Invoquez-le Spécialement.\r\nCette carte ne peut pas attaquer le tour où cet effet est activé.\r\nAu début de la Damage Step, si cette carte combat un monstre de l'adversaire : vous pouvez détruire le monstre.",
+    "overallString": "[Monstre|Effet|Fusion] Dinosaure/Lumiére  [★8] 3000/900",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303094.jpg?version=19.7"
+  },
+  {
+    "name": "GMX - VÉLOX",
+    "desc": "1 monstre \"GMX\" + 1 monstre Dinosaure\r\nChaque fois que votre adversaire Invoque Normalement ou Spécialement un ou plusieurs monstres, gagnez 200 LP.\r\nDurant le tour de votre adversaire (Effet Rapide) : vous pouvez cibler 1 carte contrôlée par votre adversaire ; dévoilez la carte du dessus de votre Deck jusqu'à dévoiler un monstre \"GMX\" ou un monstre Dinosaure, perdez 400 LP pour chaque carte dévoilée, ajoutez le monstre \"GMX\" ou monstre Dinosaure à votre main ou Invoquez-le Spécialement, et mélangez le reste dans le Deck. Et aussi, après ça, détruisez la carte ciblée.\r\nVous ne pouvez utiliser cet effet de \"GMX - VÉLOX\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet|Fusion] Dinosaure/Ténébres  [★8] 2700/1300",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303095.jpg?version=19.7"
+  },
+  {
     "name": "Crépitement du Son Kewl",
     "desc": "\"Clip du Son Kewl\" + 1+ Syntoniseur\r\nSi cette carte est Invoquée par Synchronisation : vous pouvez regarder l'Extra Deck de votre adversaire, et si vous le faites, bannissez-en (face recto) 1 carte (jusqu'à la End Phase), puis vous pouvez faire gagner à cette carte une ATK égale à celle du monstre banni.\r\nSi cette carte Invoquée par Synchronisation est envoyée au Cimetière : vous pouvez Invoquer Spécialement cette carte, puis vous pouvez regarder l'Extra Deck de votre adversaire, et si vous le faites, bannissez-en (face recto) 2 cartes jusqu'à la End Phase.\r\nVous ne pouvez utiliser chaque effet de \"Crépitement du Son Kewl\" qu'une fois par tour.",
     "overallString": "[Monstre|Effet|Syntoniseur|Synchro] Tonnerre/Ténébres  [★5] 800/2000",
