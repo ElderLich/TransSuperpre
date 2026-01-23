@@ -1,5 +1,35 @@
 [
   {
+    "name": "Mecanismo Mecánico",
+    "desc": "Cuando es declarado un ataque que involucre a otro monstruo Máquina que controles: puedes aumentar o disminuir en 1 el Nivel de ese monstruo.\r\nSólo puedes usar cada uno de los siguientes efectos de \"Mecanismo Mecánico\" una vez por turno.\r\nSi hay una carta en la Zona del Campo: puedes Invocar esta carta de Modo Especial desde tu mano.\r\nPuedes seleccionar 1 Mágica/Trampa boca arriba que controles; destrúyela y, si lo haces, añade a tu mano 1 monstruo Máquina de VIENTO con 0 ATK desde tu Deck, y además no puedes Invocar de Modo Especial desde el Extra Deck por el resto de este turno, excepto monstruos Máquina.",
+    "overallString": "[Monstruo|Efecto|Cantante] Máquina/VIENTO  [★3] 500/500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303081.jpg?version=19.7"
+  },
+  {
+    "name": "Lluvia de Ranas",
+    "desc": "Si controlas un monstruo Aqua con 2000 o más ATK: manda todos los monstruos en el Campo al Cementerio, excepto monstruos Aqua.\r\nSi esta carta Colocada es destruida por efecto de una carta: puedes Colocar esta carta.\r\nSólo puedes usar cada efecto de \"Lluvia de Ranas\" una vez por turno.",
+    "overallString": "[Trampa]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303086.jpg?version=19.7"
+  },
+  {
+    "name": "Mercurio el Azogue Viviente",
+    "desc": "2+ monstruos de Nivel 10\r\nSi esta carta es Invocada Xyz: puedes acoplar a esta carta 1 monstruo desde tu Deck como material.\r\nSólo puedes usar este efecto de \"Mercurio el Azogue Viviente\" una vez por turno.\r\nMientras esta carta tenga material, tu adversario no puede activar los efectos de monstruos en su Cementerio con el mismo Atributo que un monstruo en tu Cementerio.\r\nUna vez por turno, durante la End Phase: desacopla 1 material de esta carta o recibe 3000 puntos de daño.",
+    "overallString": "[Monstruo|Efecto|Xyz] Aqua/OSCURIDAD  [☆10] 3000/3000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303084.jpg?version=19.7"
+  },
+  {
+    "name": "Dinosaurio Devuelto Daneen",
+    "desc": "Si esta carta es Invocada de Modo Especial por un efecto de monstruo: puedes añadir a tu mano 1 monstruo \"GMX\" desde tu Deck.\r\nDurante tu Main Phase: puedes Invocar por Fusión 1 Monstruo de Fusión Dinosaurio desde tu Extra Deck, usando monstruos de tu mano o Campo.\r\nSi esta carta es mandada al Cementerio: puedes hacer que todos los monstruos Dinosaurio que controles en este momento ganen 400 ATK.\r\nSólo puedes usar cada efecto de \"Dinosaurio Devuelto Daneen\" una vez por turno.",
+    "overallString": "[Monstruo|Efecto] Dinosaurio/AGUA  [★1] 400/1200",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303093.jpg?version=19.7"
+  },
+  {
+    "name": "GMX Experimento Aplicado #55",
+    "desc": "Excava las cartas de la parte superior de tu Deck hasta que hayas excavado 1 monstruo \"GMX\" y 1 monstruo Dinosaurio, pierde 400 LP por cada carta excavada, y después puedes Invocar por Fusión 1 Monstruo de Fusión \"GMX\" desde tu Extra Deck, usando cualquier monstruo excavado como material, y además baraja el resto al Deck.\r\nSólo puedes activar 1 \"GMX Experimento Aplicado #55\" por turno.",
+    "overallString": "[Mágica]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303096.jpg?version=19.7"
+  },
+  {
     "name": "Travesuras de los Lobos",
     "desc": "Aplica estos efectos en secuencia:\r\n● Reduce en 2 el Nivel de todos los monstruos que controla tu adversario.\r\n● Aumenta en 2 el Nivel de todos los monstruos que controlas.\r\nDurante tu Main Phase, si esta carta está en tu Cementerio porque fue mandada allí este turno: puedes seleccionar 1 carta boca arriba que controles; destrúyela y, si lo haces, añade esta carta a tu mano.\r\nSólo puedes usar este efecto de \"Travesuras de los Lobos\" una vez por turno.",
     "overallString": "[Mágica|Juego Rápido]",
@@ -25,13 +55,13 @@
   },
   {
     "name": "GMX Presidente Kimridge",
-    "desc": "Puedes mostrar esta carta en tu mano; añade 1 \"Experimento Aplicado GMX #55\" desde tu Deck o Cementerio a tu mano y, si lo haces, baraja esta carta al Deck.\r\nSi esta carta es Invocada de Modo Especial por el efecto de un monstruo: puedes seleccionar 2 cartas en tu Cementerio que sean \"GMX\" y/o monstruos Dinosaurio; Colócalas en la parte superior de tu Deck en cualquier orden y luego puedes destruir 1 monstruo en Posición de Ataque que controle tu adversario.\r\nSólo puedes usar cada efecto de \"Presidente GMX Kimridge\" una vez por turno.",
+    "desc": "Puedes mostrar esta carta en tu mano; añade 1 \"GMX Experimento Aplicado #55\" desde tu Deck o Cementerio a tu mano y, si lo haces, baraja esta carta al Deck.\r\nSi esta carta es Invocada de Modo Especial por el efecto de un monstruo: puedes seleccionar 2 cartas en tu Cementerio que sean \"GMX\" y/o monstruos Dinosaurio; Colócalas en la parte superior de tu Deck en cualquier orden y luego puedes destruir 1 monstruo en Posición de Ataque que controle tu adversario.\r\nSólo puedes usar cada efecto de \"GMX Presidente Kimridge\" una vez por turno.",
     "overallString": "[Monstruo|Efecto] Psíquico/LUZ  [★4] 1000/900",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303091.jpg?version=19.7"
   },
   {
     "name": "GMX Asociada Noma",
-    "desc": "Si esta carta es Invocada de Modo Especial por el efecto de un monstruo: puedes seleccionar 1 carta de tu Cementerio y 1 del Cementerio de tu adversario; Coloca cada carta en la parte superior o inferior del Deck.\r\nSi un monstruo es Invocado de Modo Normal o Especial al Campo de tu adversario mientras esta carta está en tu Zona de Monstruos (excepto durante el Damage Step): puedes Invocar por Fusión 1 Monstruo de Fusión \"GMX\" desde tu Deck Extra, barajando monstruos de tu Campo, Cementerio y/o destierro al Deck.\r\nSólo puedes usar cada efecto de \"Noma Asociado GMX\" una vez por turno.",
+    "desc": "Si esta carta es Invocada de Modo Especial por el efecto de un monstruo: puedes seleccionar 1 carta de tu Cementerio y 1 del Cementerio de tu adversario; Coloca cada carta en la parte superior o inferior del Deck.\r\nSi un monstruo es Invocado de Modo Normal o Especial al Campo de tu adversario mientras esta carta está en tu Zona de Monstruos (excepto durante el Damage Step): puedes Invocar por Fusión 1 Monstruo de Fusión \"GMX\" desde tu Deck Extra, barajando monstruos de tu Campo, Cementerio y/o destierro al Deck.\r\nSólo puedes usar cada efecto de \"GMX Asociada Noma\" una vez por turno.",
     "overallString": "[Monstruo|Efecto] Reptil/OSCURIDAD  [★4] 900/1300",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303092.jpg?version=19.7"
   },
@@ -194,25 +224,25 @@
   {
     "name": "Clan Payaso - Flare",
     "desc": "Puedes Invocar esta carta por Ritual con una carta \"Clan Payaso\".\r\nPuedes revelar esta carta en tu mano; añade a tu mano 1 carta \"Clan Payaso\" en tu Deck, y después descarta 1 carta.\r\nSólo puedes usar este efecto de \"Clan Payaso - Flare\" una vez por turno.\r\nSi esta carta es Sacrificada: puedes activar 1 de estos efectos (pero sólo puedes usar cada uno de estos efectos de \"Clan Payaso - Flare\" una vez por turno);\r\n● Baraja al Deck todos los Monstruos de Ritual en el Campo y en los Cementerios.\r\n● Cambia 1 Monstruo de Efecto en el Campo a Posición de Defensa boca abajo.",
-    "overallString": "[Monstruo|Efecto|Ritual] Guerrero Bestia/LUZ  [★1] 500/1000",
+    "overallString": "[Monstruo|Efecto|Ritual] Gerrero Bestia/LUZ  [★1] 500/1000",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304029.jpg?version=19.7"
   },
   {
     "name": "Clan Payaso - Diablo",
     "desc": "2 monstruos con el mismo Atributo pero diferente Tipo\r\nSi tu monstruo Invocado por Sacrificio ataca a un monstruo en Posición de Defensa, inflige doble daño de batalla de penetración.\r\nSi esta carta es Sacrificada: puedes activar 1 de estos efectos (pero sólo puedes usar cada uno de estos efectos de \"Clan Payaso - Diablo\" una vez por turno);\r\n● Devuelve todos los Monstruos de Fusión en el Campo y en los Cementerios al Extra Deck.\r\n● Coloca 1 Trampa \"Clan Payaso\" desde tu Deck.",
-    "overallString": "[Monstruo|Efecto|Fusión] Guerrero Bestia/LUZ  [★5] 200/1800",
+    "overallString": "[Monstruo|Efecto|Fusión] Gerrero Bestia/LUZ  [★5] 200/1800",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304032.jpg?version=19.7"
   },
   {
     "name": "Clan Payaso - Meteoro",
     "desc": "1 Cantante + 1+ monstruos que no sean Cantantes\r\nTu adversario no puede activar cartas o efectos cuando tu monstruo es Invocado por Sacrificio.\r\nSi esta carta es Sacrificada: puedes activar 1 de estos efectos (pero sólo puedes elegir cada uno de estos efectos de \"Clan Payaso - Meteoro\" una vez por turno);\r\n● Devuelve todos los Monstruos de Sincronía en el Campo y en los Cementerios al Extra Deck.\r\n● Selecciona 1 carta \"Clan Payaso\" en tu Cementerio, excepto \"Clan Payaso - Meteoro\"; añádela a tu mano.",
-    "overallString": "[Monstruo|Efecto|Sincronía] Guerrero Bestia/LUZ  [★6] 600/1300",
+    "overallString": "[Monstruo|Efecto|Sincronía] Gerrero Bestia/LUZ  [★6] 600/1300",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304040.jpg?version=19.7"
   },
   {
     "name": "Clan Payaso - Diablos",
     "desc": "2 monstruos de Nivel 3\r\nTus monstruos Invocados por Sacrificio ganan 1000 ATK.\r\nSi esta carta es Sacrificada: puedes activar 1 de estos efectos (pero sólo puedes elegir cada uno de estos efectos de \"Clan Payaso - Diablos\" una vez por turno);\r\n● Devuelve todos los Monstruos Xyz en el Campo y en los Cementerios al Extra Deck.\r\n● Coloca 1 Mágica \"Clan Payaso\" desde tu Deck.",
-    "overallString": "[Monstruo|Efecto|Xyz] Guerrero Bestia/LUZ  [☆3] 0/2000",
+    "overallString": "[Monstruo|Efecto|Xyz] Gerrero Bestia/LUZ  [☆3] 0/2000",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304046.jpg?version=19.7"
   },
   {
@@ -307,7 +337,7 @@
   },
   {
     "name": "Batalla Subespacial",
-    "desc": "Aplica el siguiente efecto 3 veces.\r\n● Cada jugador revela 1 monstruo en su Deck, excepto monstruos con ATK ?. El jugador que reveló un monstruo con mayor ATK lo añade a su mano, además el jugador que reveló un monstruo con menor ATK lo destruye y, si lo hace, recibe 500 puntos de daño. Si el ATK de los monstruos es igual, barájalos al Deck. Por el resto de este turno, ningún jugador puede activar los efectos de los monstruos elegidos y de monstruos con el mismo nombre.\r\nSólo puedes activar 1 \"Batalla Subespacial\" por turno.",
+    "desc": "Aplica el siguiente efecto 3 veces:\r\n● Cada jugador revela 1 monstruo en su Deck, excepto monstruos con ATK ?. El jugador que reveló un monstruo con mayor ATK lo añade a su mano, además el jugador que reveló un monstruo con menor ATK lo destruye y, si lo hace, recibe 500 puntos de daño. Si el ATK de los monstruos es igual, barájalos al Deck. Por el resto de este turno, ningún jugador puede activar los efectos de los monstruos elegidos y de monstruos con el mismo nombre.\r\nSólo puedes activar 1 \"Batalla Subespacial\" por turno.",
     "overallString": "[Mágica]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100200283.jpg?version=19.7"
   },
