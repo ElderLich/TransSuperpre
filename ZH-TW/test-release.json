@@ -1,5 +1,35 @@
 [
   {
+    "name": "机械型机械师",
+    "desc": "其他的自己的机械族怪兽进行战斗的攻击宣言时：可以让那只自己怪兽的等级上升或者下降1。\r\n「机械型机械师」的以下效果1回合各能使用1次。\r\n场地区域有卡存在的场合：可以把这张卡从手卡特殊召唤。\r\n可以以自己场上1张表侧表示的魔法·陷阱卡为对象；那张卡破坏，从卡组把1只攻击力0的机械族·风属性怪兽加入手卡。这个回合，自己不是机械族怪兽不能从额外卡组特殊召唤。",
+    "overallString": "[Monster|Effect|Tuner] Machine/Wind  [★3] 500/500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303081.jpg?version=19.7"
+  },
+  {
+    "name": "降青蛙",
+    "desc": "自己场上有攻击力2000以上的水族怪兽存在的场合：水族以外的场上的怪兽全部送去墓地。\r\n盖放的这张卡被卡的效果破坏的场合：可以把这张卡盖放。\r\n「降青蛙」的每个效果1回合各能使用1次。",
+    "overallString": "[Trap]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303086.jpg?version=19.7"
+  },
+  {
+    "name": "鲜活水银 汞合兽",
+    "desc": "10星怪兽×2只以上\r\n这张卡超量召唤的场合：可以从卡组把1只怪兽作为这张卡的超量素材。「鲜活水银 汞合兽」的这个效果1回合只能使用1次。\r\n只要这张卡持有超量素材，对方不能把自身墓地的，和自己墓地的怪兽相同属性的怪兽的效果发动。\r\n1回合1次，结束阶段：这张卡1个超量素材取除或者自己受到3000伤害。",
+    "overallString": "[Monster|Effect|Xyz] Aqua/Dark  [☆10] 3000/3000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303084.jpg?version=19.7"
+  },
+  {
+    "name": "返祖小龙 丹宁",
+    "desc": "这张卡用怪兽的效果特殊召唤的场合：可以从卡组把1只「GMX」怪兽加入手卡。\r\n自己主要阶段：可以把自己手卡·场上的怪兽作为融合素材，把1只恐龙族融合怪兽融合召唤。\r\n这张卡被送去墓地的场合：可以让自己场上的全部的恐龙族怪兽的攻击力上升400。\r\n「返祖小龙 丹宁」的每个效果1回合各能使用1次。",
+    "overallString": "[Monster|Effect] Dinosaur/Water  [★1] 400/1200",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303093.jpg?version=19.7"
+  },
+  {
+    "name": "GMX应用试验55号",
+    "desc": "直到1只「GMX」怪兽和1只恐龙族怪兽出现为止从自己卡组上面翻卡，自己失去翻开的卡的数量×400的基本分，那之后，可以把翻开的怪兽作为融合素材，把1只「GMX」融合怪兽融合召唤。剩下的卡回到卡组洗切。\r\n「GMX应用试验55号」在1回合只能发动1张。",
+    "overallString": "[Spell]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303096.jpg?version=19.7"
+  },
+  {
     "name": "狼的惡作劇",
     "desc": "這個卡名的②效果1回合只能使用1次。\n①：以下效果各自適用。\n●對手場上的怪獸的等級下降2。\n●我方場上的怪獸的等級上升2。\n②：我方主要階段，此卡在這個回合送去墓地的場合，以我方場上1張表側表示卡為對象可以發動。那張卡破壞，此卡加入手牌。",
     "overallString": "[Spell|Quick-Play]",
@@ -690,13 +720,13 @@
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304204.jpg?version=19.7"
   },
   {
-    "name": "深紅王者",
-    "desc": "協調+協調以外的闇屬性怪獸1隻以上\n這個卡名的①②效果1回合各能使用1次。\n①：此卡同步召喚的場合可以發動。從牌組將1張記載「暗紅惡魔龍」的卡名的卡加入手牌。\n②：對手發動怪獸的效果時，將場上的此卡除外可以發動。從額外牌組將1隻「暗紅惡魔龍」當作同步召喚特殊召喚。此效果特殊召喚的怪獸的攻擊力變成2倍，不會被對手的效果破壞。\n\n※紅蓮王者",
+    "name": "深紅的王者",
+    "desc": "協調+協調以外的闇屬性怪獸1隻以上\n這個卡名的①②效果1回合各能使用1次。\n①：此卡同步召喚的場合可以發動。從牌組將1張記載「暗紅惡魔龍」的卡名的卡加入手牌。\n②：對手發動怪獸的效果時，將場上的此卡除外可以發動。從額外牌組將1隻「暗紅惡魔龍」當作同步召喚特殊召喚。此效果特殊召喚的怪獸的攻擊力變成2倍，不會被對手的效果破壞。\n\n※紅蓮的王者",
     "overallString": "[Monster|Effect|Synchro] Dragon/Dark  [★8] 3000/2500",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304205.jpg?version=19.7"
   },
   {
-    "name": "深紅劍刃龍",
+    "name": "深紅劍龍",
     "desc": "「共鳴體」協調+協調以外的怪獸1隻以上\n這個卡名在規則上當作「深紅劍士」。這個卡名的①效果1回合只能使用1次。\n①：此卡同步召喚的場合可以發動。從我方的牌組、墓地選1隻等級8以上的不能通常召喚的怪獸加入手牌或效果無效特殊召喚。\n②：此卡和等級5以上的對手怪獸進行戰鬥的傷害步驟開始時可以發動。那隻怪獸破壞。",
     "overallString": "[Monster|Effect|Synchro] Dragon/Dark  [★7] 2400/2600",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304206.jpg?version=19.7"
