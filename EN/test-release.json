@@ -1,5 +1,35 @@
 [
   {
+    "name": "Mechanical Mechanic",
+    "desc": "When an attack is declares involving your other Machine monster: You can increase or decrease the Level of that other monster by 1. You can only use each of the following effects of \"Mechanical Mechanic\" once per turn. If a card is in the Field Zone: You can Special Summon this card from your hand. You can target face-up 1 Spell/Trap Card you control; destroy it, and if you do, add 1 WIND Machine monster with 0 ATK from your Deck to your hand, also you cannot Special Summon from the extra Deck for the rest of that turn, except Machine monsters.",
+    "overallString": "[Monster|Effect|Tuner] Machine/Wind  [★3] 500/500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303081.jpg?version=19.7"
+  },
+  {
+    "name": "Rain of Frogs",
+    "desc": "If you control an Aqua monster with 2000 or more ATK: Send all monsters on the field to the GY, except Aqua monsters. If this Set card is destroyed by card effect: You can Set this card. You can only use each effect of \"Rain of Frogs\" once per turn.",
+    "overallString": "[Trap]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303086.jpg?version=19.7"
+  },
+  {
+    "name": "Mercurium the Living Quicksilver",
+    "desc": "2+ Level 10 monsters\n\t\r\nIf this card is Xyz Summoned: You can attach 1 monster from your Deck to this card as material. You can only use this effect of \"Mercurium the Living Quicksilver\" once per turn. While this card has material, your opponent cannot activate the effects of monsters in their GY with the same Attribute as a monster in your GY. Once per turn, during the End Phase: Detach 1 material from this card or take 3000 damage.",
+    "overallString": "[Monster|Effect|Xyz] Aqua/Dark  [☆10] 3000/3000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303084.jpg?version=19.7"
+  },
+  {
+    "name": "Returned Dino Daneen",
+    "desc": "If this card is Special Summoned by a monster effect: You can add 1 \"GMX\" monster from your Deck to your hand. During your Main Phase: You can Fusion Summon 1 Dinosaur Fusion Monster from your Extra Deck, using monsters from your hand or field. If this card is sent to the GY: You can make all Dinosaur monsters you currently control gain 400 ATK. You can only use each effect of \"Returned Dino Daneen\" once per turn.",
+    "overallString": "[Monster|Effect] Dinosaur/Water  [★1] 400/1200",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303093.jpg?version=19.7"
+  },
+  {
+    "name": "GMX Applied Experiment #55",
+    "desc": "Excavate the top cards of your Deck until you have excavated a \"GMX\" monster and a Dinosaur monster, lose 400 LP for each excavated card, then you can Fusion Summon 1 \"GMX\" Fusion Monster from your Extra Deck, using any excavated monsters as material, also shuffle the rest into the Deck. You can only activate 1 \"GMX Applied Experiment #55\" per turn.",
+    "overallString": "[Spell]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303096.jpg?version=19.7"
+  },
+  {
     "name": "Mischief of the Wolves",
     "desc": "Apply these effects in sequence:\r\n● Reduce the Levels of all monsters your opponent controls by 2.\r\n● Increase the Levels of all monsters you control by 2.\r\nDuring your Main Phase, if this card is in your GY because it was sent there this turn: You can target 1 face-up card you control; destroy it, and if you do, add this card to your hand. \r\nYou can only use this effect of \"Mischief of the Wolves\" once per turn.",
     "overallString": "[Spell|Quick-Play]",
@@ -36,14 +66,14 @@
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303092.jpg?version=19.7"
   },
   {
-    "name": "GMX – ALLOS",
-    "desc": "1 \"GMX\" monster + 1 Dinosaur monster\r\nEach time your opponent Normal or Special Summons a monster(s), gain 200 LP. \r\nYou can only use each of the following effects of \"GMX – ALLOS\" once per turn. \r\nYou can target 1 \"GMX\" monster or 1 Dinosaur monster in your GY or banishment; Special Summon it. This card cannot attack the turn this effect is activated. \r\nAt the start of the Damage Step, if this card battles an opponent's monster: You can destroy that monster.",
+    "name": "GMX - ALLOS",
+    "desc": "1 \"GMX\" monster + 1 Dinosaur monster\t\r\nEach time your opponent Normal or Special Summons a monster(s), gain 200 LP. \r\nYou can only use each of the following effects of \"GMX – ALLOS\" once per turn. \r\nYou can target 1 \"GMX\" monster or 1 Dinosaur monster in your GY or banishment; Special Summon it. This card cannot attack the turn this effect is activated. \r\nAt the start of the Damage Step, if this card battles an opponent's monster: You can destroy that monster.",
     "overallString": "[Monster|Effect|Fusion] Dinosaur/Light  [★8] 3000/900",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303094.jpg?version=19.7"
   },
   {
-    "name": "GMX – VELOX",
-    "desc": "1 \"GMX\" monster + 1 Dinosaur monster\r\nEach time your opponent Normal or Special Summons a monster(s), gain 200 LP. During your opponent's turn (Quick Effect): You can target 1 card your opponent controls; excavate the top cards of your Deck until you excavate a \"GMX\" monster or a Dinosaur monster, lose 400 LP for each excavated card, add that \"GMX\" monster or Dinosaur monster to your hand or Special Summon it, and shuffle the rest into the Deck. Also, after that, destroy the targeted card. You can only use this effect of \"GMX – VELOX\" once per turn.",
+    "name": "GMX - VELOX",
+    "desc": "1 \"GMX\" monster + 1 Dinosaur monster\t\r\nEach time your opponent Normal or Special Summons a monster(s), gain 200 LP. During your opponent's turn (Quick Effect): You can target 1 card your opponent controls; excavate the top cards of your Deck until you excavate a \"GMX\" monster or a Dinosaur monster, lose 400 LP for each excavated card, add that \"GMX\" monster or Dinosaur monster to your hand or Special Summon it, and shuffle the rest into the Deck. Also, after that, destroy the targeted card. You can only use this effect of \"GMX – VELOX\" once per turn.",
     "overallString": "[Monster|Effect|Fusion] Dinosaur/Dark  [★8] 2700/1300",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303095.jpg?version=19.7"
   },
