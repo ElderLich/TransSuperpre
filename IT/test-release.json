@@ -1,5 +1,23 @@
 [
   {
+    "name": "Arcidemone di Coppia",
+    "desc": "Puoi scegliere come bersaglio un qualsiasi numero di mostri scoperti sul Terreno e dichiarare 1 Tipo o 1 Attributo; quei mostri diventano di quel Tipo o Attributo.\r\nSe uno o pù mostri vengono Evocati Specialmente sul Terreno del tuo avversario, mentre questa carta si trova nella tua Zona Mostri, eccetto durante il Damage Step: puoi scegliere come bersaglio 1 mostro su ciascun Terreno con lo stesso Tipo e Attributo l'uno dell'altro; falli ritornare alla mano.\r\nPuoi utilizzare ciascun effetto di \"Arcidemone di Coppia\" una sola volta per turno.",
+    "overallString": "[Mostro|Effetto|Tuner] Demone/Vento  [★3] 0/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303088.jpg?version=19.7"
+  },
+  {
+    "name": "Vodnika lo Spirito della Fontana",
+    "desc": "Se uno o più mostri di Livello 10 vengono mandati al Cimitero, eccetto \"Vodnika lo Spirito della Fontana\" (eccetto durante il Damage Step): puoi Evocare Specialmente questa carta dal dal Cimitero (se era lì quando le carte sono state distrutte) o mano (anche se non era lì) in Posizione di Difesa, ma bandiscila quando lascia il Terreno.\r\nPuoi scegliere come bersaglio 1 mostro di Livello 10 nel tuo Cimitero; Evocalo Specialmente sul Terreno del tuo avversario, ma annulla i suoi effetti, poi pesca 1 carta.\r\nPuoi utilizzare ciascun effetto di \"Vodnika lo Spirito della Fontana\" una sola volta per turno.",
+    "overallString": "[Mostro|Effetto] Acqua/Luce  [★10] 2000/2100",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303085.jpg?version=19.7"
+  },
+  {
+    "name": "Mech Drago di Giada",
+    "desc": "1 Tuner + 1 o più non-Tuner\r\nSe questa carta viene Evocata Specialmente: puoi mandare 1 Tuner Macchina dal tuo Deck al Cimitero, oppure, se controlli un mostro il cui Livello attuale è diverso dal suo Livello originale, puoi invece Evocarlo Specialmente. Puoi utilizzare questo effetto di \"Mech Drago di Giada\" una sola volta per turno.\r\nSe questa carta Evocata tramite Synchro viene distrutta dall'effetto di una carta e mandata al Cimitero: puoi bandire un qualsiasi numero di Tuner dal tuo Cimitero, poi scegliere come bersaglio lo stesso numero di carte sul Terreno; distruggile.",
+    "overallString": "[Mostro|Effetto|Synchro] Macchina/Vento  [★9] 2700/1800",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303082.jpg?version=19.7"
+  },
+  {
     "name": "Meccanico Meccanico",
     "desc": "Quando viene dichiarato un attacco che coinvolge un tuo altro mostro Macchina: puoi aumentare o diminuire di 1 il Livello di quell'altro mostro che controlli.\r\nPuoi utilizzare ciascuno dei seguenti effetti di \"Meccanico Meccanico\" una sola volta per turno.\r\nSe c'è una carta nella Zona Terreno: puoi Evocare Specialmente questa carta dalla tua mano.\r\nPuoi scegliere come bersaglio 1 Magia o Trappola scoperta che controlli; distruggila e, se lo fai, aggiungi 1 mostro Macchina VENTO con 0 ATK dal tuo Deck alla tua mano, inoltre non puoi Evocare Specialmente dall'Extra Deck per il resto di questo turno, eccetto mostri Macchina.",
     "overallString": "[Mostro|Effetto|Tuner] Macchina/Vento  [★3] 500/500",
@@ -13,7 +31,7 @@
   },
   {
     "name": "Mercurium il Mercurio Vivente",
-    "desc": "2 o piu' mostri di Livello 10\r\nSe questa carta viene Evocata Xyz: puoi Attaccare 1 mostro dal tuo Deck a questa carta come materiale. Puoi utilizzare questo effetto di \"Mercurium il Mercurio Vivente\" una sola volta per turno.\r\nMentre questa carta ha del materiale, il tuo avversario non puo' attivare gli effetti dei mostri nel suo Cimitero con lo stesso Attributo di un mostro nel tuo Cimitero.\r\nUna volta per turno, durante la End Phase: stacca 1 materiale da questa carta oppure subisci 3000 danni.",
+    "desc": "2 o piu' mostri di Livello 10\r\nSe questa carta viene Evocata Xyz: puoi Attaccare 1 mostro dal tuo Deck a questa carta come materiale. Puoi utilizzare questo effetto di \"Mercurium il Mercurio Vivente\" una sola volta per turno.\r\nMentre questa carta ha del materiale, il tuo avversario non può attivare gli effetti dei mostri nel suo Cimitero con lo stesso Attributo di un mostro nel tuo Cimitero.\r\nUna volta per turno, durante la End Phase: stacca 1 materiale da questa carta oppure subisci 3000 danni.",
     "overallString": "[Mostro|Effetto|Xyz] Acqua/Oscurità  [☆10] 3000/3000",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101303084.jpg?version=19.7"
   },
