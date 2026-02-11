@@ -1,5 +1,95 @@
 [
   {
+    "name": "Souffle Zombie Mortel",
+    "desc": "Si vous contrôlez un monstre Zombie et \"Appel de l'Être Hanté\" : ciblez 1 monstre contrôlé par votre adversaire ; envoyez-le au Cimetière.\r\nSi vous contrôlez un monstre Zombie : vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 carte face recto que vous contrôlez et 1 carte face recto contrôlée par votre adversaire ; envoyez-les au Cimetière.\r\nVous ne pouvez utiliser qu'1 effet de \"Souffle Zombie Mortel\" par tour, et uniquement une fois le tour.",
+    "overallString": "[Piège]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100259010.jpg?version=19.7"
+  },
+  {
+    "name": "Vortex du Temps",
+    "desc": "Lorsque votre adversaire active une Carte Magie Normale ou Jeu-Rapide, un effet de Magie Normale ou Jeu-Rapide, ou un effet de monstre, tant que vous contrôlez un monstre Zombie et \"Appel de l'Être Hanté\" (sauf durant la Damage Step) : votre adversaire lance une pièce et son effet activé devient l'effet suivant.\r\n● Face : \"Votre adversaire doit bannir 1 monstre qu'il contrôle\".\r\n● Pile : \"Vous devez bannir tous les monstres que vous contrôlez\".\r\nVous ne pouvez activer qu'1 \"Vortex du Temps\" par tour.",
+    "overallString": "[Magie|Jeu-Rapide]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100259009.jpg?version=19.7"
+  },
+  {
+    "name": "Appel de l'Oublié",
+    "desc": "Lorsque cette carte est activée : vous pouvez Poser max. 3 \"Appel de l'Être Hanté\" depuis votre Deck et/ou Cimetière, et si vous le faites, vous ne pouvez pas Invoquer Spécialement (monstres Zombie ou monstres depuis le Cimetière exclus) jusqu'à la fin du tour de votre adversaire.\r\nUne fois par tour, si vous activez \"Appel de l'Être Hanté\" : vous pouvez cibler 1 monstre contrôlé par votre adversaire ; envoyez-le au Cimetière.\r\nVous ne pouvez activer qu'1 \"Appel de l'Oublié\" par tour.",
+    "overallString": "[Magie|Terrain]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100259007.jpg?version=19.7"
+  },
+  {
+    "name": "Fortification Ectoplasmique",
+    "desc": "Activez 1 de ces effets ;\r\n● Si vous ne contrôlez aucun monstre : ajoutez 1 monstre Zombie de Niveau 6 ou 1 \"Appel de l'Oublié\" depuis votre Deck à votre main.\r\n● Les monstres Zombie que vous contrôlez gagnent 400 ATK, puis vous pouvez piocher un nombre de cartes égal au nombre de \"Appel de l'Être Hanté\" que vous contrôlez.\r\nVous ne pouvez activer qu'1 \"Fortification Ectoplasmique\" par tour.",
+    "overallString": "[Magie]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100259008.jpg?version=19.7"
+  },
+  {
+    "name": "La Légion Immortelle",
+    "desc": "2 monstres de Niveau 7\r\nUne fois par tour, vous pouvez aussi Invoquer par Xyz \"La Légion Immortelle\" en utilisant 1 Monstre Xyz Zombie de Rang 6 que vous contrôlez (transférez ses Matériels).\r\nDurant la Main Phase de votre adversaire (Effet Rapide) : vous pouvez détacher 2 Matériels de cette carte (ou uniquement 1 Matériel si tous les Matériels de cette carte sont des Monstres Xyz), puis ciblez 1 monstre en Position d'Attaque contrôlé par votre adversaire ou 1 monstre dans son Cimetière ; attachez-le à cette carte.\r\nVous ne pouvez utiliser cet effet de \"La Légion Immortelle\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet|Xyz] Zombie/Ténébres  [☆7] 2700/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100259006.jpg?version=19.7"
+  },
+  {
+    "name": "Pumpking le Grand Roi des Fantômes",
+    "desc": "2 monstres Zombie de Niveau 6\r\nTant que vous contrôlez \"Appel de l'Être Hanté\", votre adversaire ne peut pas cibler de monstres Zombie que vous contrôlez avec des effets de monstre.\r\nVous ne pouvez utiliser chacun des effets suivants de \"Pumpking le Grand Roi des Fantômes\" qu'une fois par tour.\r\nSi cette carte est Invoquée Spécialement : vous pouvez ajouter 1 \"Appel de l'Être Hanté\" ou 1 carte qui le mentionne depuis votre Deck à votre main.\r\nVous pouvez détacher 1 Matériel de cette carte, puis ciblez max. 2 cartes sur le Terrain ; renvoyez-les à la main.",
+    "overallString": "[Monstre|Effet|Xyz] Zombie/Ténébres  [☆6] 2400/2600",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100259005.jpg?version=19.7"
+  },
+  {
+    "name": "Grand Mammouth de l'Au-Delà",
+    "desc": "Si cette carte est Invoquée Spécialement et que vous contrôlez \"Appel de l'Être Hanté\" ou un monstre Zombie (\"Grand Mammouth de l'Au-Delà\" exclu) : vous pouvez cibler 1 carte sur le Terrain ; détruisez-la.\r\nVous ne pouvez utiliser cet effet de \"Grand Mammouth de l'Au-Delà\" qu'une fois par tour.\r\nUn Monstre Xyz Zombie qui a cette carte comme Matériel gagne cet effet.\r\n● Gagne 1000 ATK.",
+    "overallString": "[Monstre|Effet] Zombie/Ténébres  [★6] 2200/1800",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100259004.jpg?version=19.7"
+  },
+  {
+    "name": "Regard de la Tête Cheveux Serpent",
+    "desc": "Vous pouvez défausser cette carte ; ajoutez 1 \"Appel de l'Être Hanté\" ou 1 Magie/Piège qui le mentionne depuis votre Deck à votre main.\r\nSi cette carte est Invoquée Spécialement : vous pouvez cibler 1 monstre en Position d'Attaque contrôlé par votre adversaire ; le monstre face recto ne peut pas attaquer, ses effets sont annulés, et aussi, il ne peut pas être utilisé comme Matériel pour une Invocation Fusion, Synchro, Xyz ou Lien.\r\nVous ne pouvez utiliser chaque effet de \"Regard de la Tête Cheveux Serpent\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet] Zombie/Ténébres  [★6] 1500/1200",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100259003.jpg?version=19.7"
+  },
+  {
+    "name": "Armée de l'Être Hanté",
+    "desc": "Si vous contrôlez \"Appel de l'Être Hanté\" et que cette carte est dans votre main ou Cimetière : vous pouvez Invoquer Spécialement cette carte.\r\nSi cette carte est envoyée au Cimetière : vous pouvez cibler 1 \"Appel de l'Être Hanté\" dans votre Cimetière ; Posez-le.\r\nVous ne pouvez utiliser chaque effet de \"Armée de l'Être Hanté\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet] Zombie/Ténébres  [★6] 2400/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100259002.jpg?version=19.7"
+  },
+  {
+    "name": "Pumpking le Roi des Fantômes de la Tombe",
+    "desc": "Vous pouvez révéler cette carte dans votre main ; Posez 1 \"Appel de l'Être Hanté\" depuis votre Deck ou Cimetière, et si vous le faites, défaussez 1 carte.\r\nCe tour, la carte Posée peut être activée.\r\nSi cette carte est Invoquée Spécialement : vous pouvez Invoquer Spécialement 1 monstre Zombie de Niveau 6 (monstres avec 1950 ATK exclus) depuis votre Deck, et aussi, vous ne pouvez pas Invoquer Spécialement (monstres Zombie exclus) depuis la main ou Cimetière le reste de ce tour.\r\nVous ne pouvez utiliser chaque effet de \"Pumpking le Roi des Fantômes de la Tombe\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet] Zombie/Ténébres  [★6] 1950/2600",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100259001.jpg?version=19.7"
+  },
+  {
+    "name": "Épée Scelleuse d'Orichalque",
+    "desc": "Les effets du monstre équipé sont annulés. Si vous avez une carte dans votre Zone Terrain : vous pouvez cibler 1 Monstre à Effet que vous contrôlez ; le Monstre à Effet gagne cet effet jusqu'à la fin du tour de votre adversaire.\r\nVous ne pouvez utiliser l'effet précédent de \"Épée Scelleuse d'Orichalque\" qu'une fois par tour.\r\n● Une fois par tour (Effet Rapide) : vous pouvez envoyer 1 carte depuis votre main au Cimetière, puis ciblez 1 carte face recto sur le Terrain ; détruisez la cible.",
+    "overallString": "[Magie|Équipement]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100256020.jpg?version=19.7"
+  },
+  {
+    "name": "Pont Arc-en-Ciel Bifrost",
+    "desc": "(Cette carte n'est pas traitée comme une carte \"Pont Arc-en-Ciel\".)\r\nBannissez 3 monstres de min. Niveau 10 (un Monstre Synchro LUMIÈRE inclus) depuis votre Extra Deck ; ajoutez 1 Magie de Terrain depuis votre Deck à votre main.\r\nVous ne pouvez activer qu'1 \"Pont Arc-en-Ciel Bifrost\" par tour.",
+    "overallString": "[Magie]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100256021.jpg?version=19.7"
+  },
+  {
+    "name": "Force Corrompue",
+    "desc": "Ciblez 1 monstre face recto sur le Terrain ; équipez-lui cette carte comme Carte d'Équipement avec ces effets.\r\n● Le monstre équipé n'est pas affecté par les effets de Magie.\r\n● Une fois par tour : vous pouvez détruire cette carte, et si vous le faites, ajoutez 1 carte \"Corrompu\" depuis votre Deck à votre main.\r\nSi une carte est dans la Zone Terrain : vous pouvez bannir cette carte et 1 autre carte \"Corrompu\" depuis votre Cimetière ; détruisez tous les monstres sur le Terrain.\r\nVous ne pouvez utiliser chaque effet de \"Force Corrompue\" qu'une fois par tour.",
+    "overallString": "[Piège]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100256022.jpg?version=19.7"
+  },
+  {
+    "name": "Révolution Conceptuelle Corrompue",
+    "desc": "Vous pouvez activer cette carte depuis votre main en payant la moitié de vos LP.\r\nAjoutez à votre main, ou placez face recto dans votre Zone Terrain, 1 \"Monde Corrompu\" depuis votre Deck ou Cimetière, puis Invoquez Spécialement 1 monstre \"Corrompu\" depuis votre Deck ou Extra Deck en Position de Défense, en ignorant ses conditions d'Invocation, puis si votre adversaire contrôle un monstre avec min. 2500 ATK, tous les monstres face recto qu'il contrôle actuellement perdent 2500 ATK jusqu'à la fin de ce tour.\r\nVous ne pouvez activer qu'1 \"Révolution Conceptuelle Corrompue\" par tour.",
+    "overallString": "[Piège]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100256023.jpg?version=19.7"
+  },
+  {
+    "name": "Assaut Aile Noire - Kusanagi la Tempête Rassembleuse",
+    "desc": "1 Syntoniseur + 1+ non-Syntoniseur\r\nSi cette carte est Invoquée par Synchronisation en utilisant un monstre \"Aile Noire\" comme Matériel, elle est traitée comme un Syntoniseur tant qu'elle est face recto sur le Terrain.\r\nAprès que cette carte est Invoquée par Synchronisation, le reste de ce tour, elle gagne une ATK égale à la somme des ATK d'origine des Monstres Synchro utilisés comme ses Matériels.\r\nPeut attaquer une fois tous les monstres de votre adversaire.\r\nSi cette carte attaque un monstre en Position de Défense, infligez des dommages de combat perçants à votre adversaire.",
+    "overallString": "[Monstre|Effet|Synchro] Bête Ailée/Ténébres  [★9] 3000/1000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100256024.jpg?version=19.7"
+  },
+  {
     "name": "Résonance Possédée - Wynn",
     "desc": "1 monstre Magicien + 1 monstre VENT\r\n(Cette carte est toujours traitée comme carte \"Familier Possédé\".)\r\nSi cette carte est Invoquée par Fusion : vous pouvez placer 1 monstre VENT depuis votre Cimetière en-dessous du Deck, puis ciblez 1 monstre contrôlé par votre adversaire ; prenez-en le contrôle.\r\nDurant le tour de votre adversaire (Effet Rapide) : vous pouvez cibler 2 cartes sur le Terrain (un monstre VENT que vous contrôlez inclus) ; placez-les au-dessous du Deck dans l'ordre de votre choix.\r\nVous ne pouvez utiliser qu'1 effet de \"Résonance Possédée - Wynn\" par tour, et uniquement une fois le tour.",
     "overallString": "[Monstre|Effet|Fusion] Magicien/Vent  [★5] 1850/1500",
