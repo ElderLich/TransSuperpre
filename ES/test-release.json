@@ -1,5 +1,95 @@
 [
   {
+    "name": "Aliento Zombi Mortal",
+    "desc": "Si controlas un monstruo Zombi y \"Llamada de los Condenados\": selecciona 1 monstruo que controle tu adversario; mándalo al Cementerio.\r\nSi controlas un monstruo Zombi: puedes desterrar esta carta en tu Cementerio, y después seleccionar 1 carta boca arriba que controles y 1 carta boca arriba que controle tu adversario; mándalas al Cementerio.\r\nSólo puedes usar 1 efecto de \"Aliento Zombi Mortal\" por turno, y sólo una vez ese turno.",
+    "overallString": "[Trampa]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100259010.jpg?version=19.7"
+  },
+  {
+    "name": "Vórtice del Tiempo",
+    "desc": "Cuando tu adversario activa una Mágica Normal o de Juego Rápido o efecto, o un efecto de monstruo, mientras controlas un monstruo Zombi y \"Llamada de los Condenados\" (excepto durante el Damage Step): tu adversario lanza una moneda y su efecto activado se convierte en el siguiente efecto.\r\n● Cara: Tu adversario debe desterrar 1 monstruo que controle.\r\n● Cruz: Debes desterrar todos los monstruos que controles.\r\nSólo puedes activar 1 \"Vórtice del Tiempo\" por turno.",
+    "overallString": "[Mágica|Juego Rápido]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100259009.jpg?version=19.7"
+  },
+  {
+    "name": "Llamada de los Olvidados",
+    "desc": "Cuando esta carta es activada: puedes Colocar hasta 3 \"Llamada de los Condenados\" desde tu Deck y/o Cementerio, y si lo haces, hasta el final del turno de tu adversario, no puedes Invocar de Modo Especial, excepto monstruos Zombi o monstruos desde el Cementerio.\r\nUna vez por turno, si activas \"Llamada de los Condenados\": puedes seleccionar 1 monstruo que controle tu adversario; mándalo al Cementerio.\r\nSólo puedes activar 1 \"Llamada de los Olvidados\" por turno.",
+    "overallString": "[Mágica|Campo]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100259007.jpg?version=19.7"
+  },
+  {
+    "name": "Fortificación Ectoplásmica",
+    "desc": "Activa 1 de estos efectos;\r\n● Si no controlas monstruos: añade a tu mano 1 monstruo Zombi de Nivel 6 o 1 \"Llamada de los Olvidados\" desde tu Deck.\r\n● Los monstruos Zombi que controles ganan 400 ATK, y después puedes robar cartas igual al número de \"Llamada de los Condenados\" que controles.\r\nSólo puedes activar 1 \"Fortificación Ectoplásmica\" por turno.",
+    "overallString": "[Mágica]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100259008.jpg?version=19.7"
+  },
+  {
+    "name": "La Legión Inmortal",
+    "desc": "2 monstruos de Nivel 7\r\nUna vez por turno, también puedes Invocar Xyz \"La Legión Inmortal\" usando 1 Monstruo Xyz Zombi de Rango 6 que controles.\r\n(Transfiere sus materiales a esta carta).\r\n(Efecto Rápido): Durante la Main Phase de tu adversario: puedes desacoplar 2 materiales de esta carta (o sólo 1 material si todos los materiales de esta carta son Monstruos Xyz), y después seleccionar 1 monstruo en Posición de Ataque que controle tu adversario o 1 monstruo en su Cementerio; acóplalo a esta carta como material.\r\nSólo puedes usar el efecto de \"La Legión Inmortal\" una vez por turno.",
+    "overallString": "[Monstruo|Efecto|Xyz] Zombi/OSCURIDAD  [☆7] 2700/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100259006.jpg?version=19.7"
+  },
+  {
+    "name": "Rey Calabaza el Gran Rey Fantasma",
+    "desc": "2 monstruos Zombi de Nivel 6\r\nMientras controles \"Llamada de los Condenados\", tu adversario no puede seleccionar monstruos Zombi que controles con efectos de monstruos.\r\nSólo puedes usar cada uno de los siguientes efectos de \"Rey Calabaza el Gran Rey Fantasma\" una vez por turno.\r\nSi esta carta es Invocada de Modo Especial: puedes añadir a tu mano 1 \"Llamada de la Tumba\" o 1 carta que la mencione desde tu Deck.\r\nPuedes desacoplar 1 material de esta carta, y después seleccionar hasta 2 cartas en el Campo; devuélvelas a la mano.",
+    "overallString": "[Monstruo|Efecto|Xyz] Zombi/OSCURIDAD  [☆6] 2400/2600",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100259005.jpg?version=19.7"
+  },
+  {
+    "name": "Gran Mamut del Inframundo",
+    "desc": "Si esta carta es Invocada de Modo Especial y controlas \"Llamada de los Condenados\" o un monstruo Zombi, excepto \"Gran Mamut del Inframundo\": puedes seleccionar 1 carta en el Campo; destrúyela.\r\nSólo puedes usar este efecto de \"Gran Mamut del Inframundo\" una vez por turno.\r\nUn Monstruo Xyz Zombi que tenga esta carta como material gana el siguiente efecto.\r\n● Gana 1000 ATK.",
+    "overallString": "[Monstruo|Efecto] Zombi/OSCURIDAD  [★6] 2200/1800",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100259004.jpg?version=19.7"
+  },
+  {
+    "name": "Mirada de Cabellos de Serpiente",
+    "desc": "Puedes descartar esta carta; añade a tu mano 1 \"Llamada de los Condenados\" o 1 Mágica/Trampa que la mencione desde tu Deck.\r\nSi esta carta es Invocada de Modo Especial: puedes seleccionar 1 monstruo en Posición de Ataque que controle tu adversario; ese monstruo boca arriba no puede atacar, sus efectos son negados y además no puede ser usado como material para una Invocación por Fusión, Sincronía, Xyz o Enlace.\r\nSólo puedes usar cada efecto de \"Mirada de Cabellos de Serpiente\" una vez por turno.",
+    "overallString": "[Monstruo|Efecto] Zombi/OSCURIDAD  [★6] 1500/1200",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100259003.jpg?version=19.7"
+  },
+  {
+    "name": "Ejército de los Condenados",
+    "desc": "Si controlas \"Llamada de los Condenados\" y esta carta está en tu mano o Cementerio: puedes Invocar esta carta de Modo Especial.\r\nSi esta carta es mandada al Cementerio: puedes seleccionar 1 \"Llamada de los Condenados\" en tu Cementerio; Colócala.\r\nSólo puedes usar cada efecto de \"Ejército de los Condenados\" una vez por turno.",
+    "overallString": "[Monstruo|Efecto] Zombi/OSCURIDAD  [★6] 2400/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100259002.jpg?version=19.7"
+  },
+  {
+    "name": "Rey Calabaza de los Fantasmas de la Tumba",
+    "desc": "Puedes revelar esta carta en tu mano; Coloca 1 \"Llamada de los Condenados\" desde tu Deck o Cementerio y, si lo haces, descarta 1 carta. Esa carta Colocada puede ser activada este turno.\r\nSi esta carta es Invocada de Modo Especial: puedes Invocar de Modo Especial 1 monstruo Zombi de Nivel 6 desde tu Deck, excepto uno con 1950 ATK, y además no puedes Invocar de Modo Especial desde la mano o Cementerio por el resto de este turno, excepto monstruos Zombi.\r\nSólo puedes usar cada efecto de \"Rey Calabaza de los Fantasmas de la Tumba\" una vez por turno.",
+    "overallString": "[Monstruo|Efecto] Zombi/OSCURIDAD  [★6] 1950/2600",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100259001.jpg?version=19.7"
+  },
+  {
+    "name": "Espada del Sello de Oricalcos",
+    "desc": "Los efectos del monstruo equipado son negados.\r\nSólo puedes usar el siguiente efecto de \"Espada del Sello de Oricalcos\" una vez por turno.\r\nSi tienes una carta en tu Zona del Campo: puedes seleccionar 1 Monstruo de Efecto que controles; ese Monstruo de Efecto gana el siguiente efecto hasta el final del turno de tu adversario.\r\n● Una vez por turno (Efecto Rápido): puedes mandar al Cementerio 1 carta en tu mano, y después seleccionar 1 carta boca arriba en el Campo; destruye ese objetivo.",
+    "overallString": "[Mágica|Equipo]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100256020.jpg?version=19.7"
+  },
+  {
+    "name": "Bifröst, el Puente del Arcoíris",
+    "desc": "Destierra 3 monstruos de Nivel 10 o mayor desde tu Extra Deck, incluyendo un Monstruo de Sincronía LUZ; añade a tu mano 1 Mágica de Campo desde tu Deck.\r\nSólo puedes activar 1 \"Bifröst, el Puente del Arcoíris\" por turno.",
+    "overallString": "[Mágica]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100256021.jpg?version=19.7"
+  },
+  {
+    "name": "Fuerza Maliciosa",
+    "desc": "Selecciona 1 monstruo boca arriba en el Campo; equipa esta carta a ese monstruo como una Carta de Equipo con estos efectos.\r\n● El monstruo equipado no es afectado por efectos de Mágicas.\r\n● Una vez por turno: puedes destruir esta carta y, si lo haces, añade a tu mano 1 carta \"Malicioso/a\" desde tu Deck.\r\nSi hay una carta en la Zona del Campo: puedes desterrar esta carta y 1 otra carta \"Malicioso/a\" en tu Cementerio; destruye todos los monstruos en el Campo.",
+    "overallString": "[Trampa]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100256022.jpg?version=19.7"
+  },
+  {
+    "name": "Cambio de Paradigma Malicioso",
+    "desc": "Añade a tu mano, o Coloca en tu Zona del Campo boca arriba, 1 \"Mundo Malicioso\" desde tu Deck o Cementerio, y después Invoca de Modo Especial 1 monstruo \"Malicioso/a\" desde tu Deck o Extra Deck en Posición de Defensa, ignorando sus condiciones de Invocación, y después, si tu adversario controla un monstruo con 2500 o más ATK, todos los monstruos boca arriba que controle en este momento pierden 2500 ATK hasta el final de este turno.\r\nPuedes activar esta carta desde tu mano pagando la mitad de tus LP.\r\nSólo puedes activar 1 \"Cambio de Paradigma Malicioso\" por turno.",
+    "overallString": "[Trampa]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100256023.jpg?version=19.7"
+  },
+  {
+    "name": "Asalto de Alanegra - Kusanagi la Tormenta Reunida",
+    "desc": "1 Cantante + 1+ monstruos que no sean Cantantes\r\nEsta carta Invocada por Sincronía que usó un monstruo \"Alanegra\" como material se trata como un Cantante.\r\nDespués de que esta carta sea Invocada por Sincronía, esta carta gana ATK igual al ATK original total de los Monstruos de Sincronía usados como material para su Invocación.\r\nPuede atacar a todos los monstruos que controle tu adversario, una vez a cada uno. Si ataca a un monstruo en Posición de Defensa, inflige daño de batalla de penetración a tu adversario.",
+    "overallString": "[Monstruo|Efecto|Sincronía] Bestia Alada/OSCURIDAD  [★9] 3000/1000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100256024.jpg?version=19.7"
+  },
+  {
     "name": "Posesión Resonante - Wynn",
     "desc": "1 monstruo Lanzador de Conjuros + 1 monstruo de VIENTO\r\n(Esta carta se trata siempre como una carta \"Familiar Poseido\").\r\nSi esta carta es Invocada por Fusión: puedes colocar 1 monstruo de VIENTO desde tu Cementerio en el fondo del Deck, y después seleccionar 1 monstruo que controle tu adversario; toma su control.\r\n(Efecto Rápido): Durante el turno de tu adversario: puedes seleccionar 2 cartas en el Campo, incluyendo 1 monstruo de VIENTO que controles; colócalas en el fondo del Deck en cualquier orden.\r\nSólo puedes usar 1 de los efectos de \"Posesión Resonante - Wynn\" por turno, y sólo una vez ese turno.",
     "overallString": "[Monstruo|Efecto|Fusión] Lanzador de Conjuros/VIENTO  [★5] 1850/1500",
