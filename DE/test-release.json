@@ -1,5 +1,95 @@
 [
   {
+    "name": "Tödlicher Zombieatem",
+    "desc": "Falls du ein Zombie-Monster und „Ruf der Gejagten“ kontrollierst: Wähle 1 Monster, das dein Gegner kontrolliert; lege es auf den Friedhof.\r\nFalls du ein Zombie-Monster kontrollierst: Du kannst diese Karte von deinem Friedhof verbannen und dann 1 offene Karte, die du kontrollierst, und 1 offene Karte, die dein Gegner kontrolliert, wählen; lege sie auf den Friedhof.\r\nDu kannst nur 1 Effekt von „Tödlicher Zombieatem“ pro Spielzug verwenden und in jenem Spielzug nur einmal.",
+    "overallString": "[Falle]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100259010.jpg?version=19.7"
+  },
+  {
+    "name": "Strudel der Zeit",
+    "desc": "Wenn dein Gegner eine/n Normale/n Zauberkarte/-effekt oder eine/n Schnellzauberkarte/-effekt oder einen Monstereffekt aktiviert, solange du ein Zombie-Monster und „Ruf der Gejagten“ kontrollierst (außer während des Damage Steps): Dein Gegner wirft eine Münze und sein aktivierter Effekt wird zum folgenden Effekt.\r\n● Kopf: „Dein Gegner muss 1 Monster verbannen, das er kontrolliert.“\r\n● Zahl: „Du musst alle Monster verbannen, die du kontrollierst.“\r\nDu kannst nur 1 „Strudel der Zeit“ pro Spielzug aktivieren.",
+    "overallString": "[Zauber|Schnell]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100259009.jpg?version=19.7"
+  },
+  {
+    "name": "Ruf der Vergessenen",
+    "desc": "Wenn diese Karte aktiviert wird: Du kannst bis zu 3 „Ruf der Gejagten“ von deinem Deck und/oder Friedhof setzen und falls du dies tust, kannst du bis zum Ende des Spielzugs deines Gegners keine Spezialbeschwörungen durchführen, außer von Zombie-Monstern oder Monstern vom Friedhof.\r\nEinmal pro Spielzug, falls du „Ruf der Gejagten“ aktivierst: Du kannst 1 Monster wählen, das dein Gegner kontrolliert; lege es auf den Friedhof.\r\nDu kannst nur 1 „Ruf der Vergessenen“ pro Spielzug aktivieren.",
+    "overallString": "[Zauber|Spielfeld]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100259007.jpg?version=19.7"
+  },
+  {
+    "name": "Ektoplasmische Stärkung",
+    "desc": "Aktiviere 1 dieser Effekte;\r\n● Falls du keine Monster kontrollierst: Füge deiner Hand 1 Zombie-Monster der Stufe 6 oder 1 „Ruf der Vergessenen“ von deinem Deck hinzu.\r\n● Zombie-Monster, die du kontrollierst, erhalten 400 ATK, dann kannst du Karten in Höhe der Anzahl der „Ruf der Gejagten“ ziehen, die du kontrollierst.\r\nDu kannst nur 1 „Ektoplasmische Stärkung“ pro Spielzug aktivieren.",
+    "overallString": "[Zauber]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100259008.jpg?version=19.7"
+  },
+  {
+    "name": "Die unsterbliche Legion",
+    "desc": "7星怪兽×2\r\n「不死者军团」1回合1次也能在自己场上的6阶不死族超量怪兽上面重叠来超量召唤。\r\n对方主要阶段（诱发即时效果）：可以把这张卡2个超量素材取除（这张卡只有超量怪兽在作为超量素材的场合，取除的超量素材数量可以变成1个），以对方场上1只表侧攻击表示怪兽或者对方墓地1只怪兽为对象；那只怪兽作为这张卡的超量素材。\r\n「不死者军团」的这个效果1回合只能使用1次。",
+    "overallString": "[Monster|Effekt|Xyz] Zombie/Finsternis  [☆7] 2700/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100259006.jpg?version=19.7"
+  },
+  {
+    "name": "Pumpking, großer Geisterkönig",
+    "desc": "2 Zombie-Monster der Stufe 6\r\nSolange du „Ruf der Gejagten“ kontrollierst, kann dein Gegner Zombie-Monster, die du kontrollierst, nicht als Ziel für Monstereffekte wählen.\r\nDu kannst jeden der folgenden Effekte von „Pumpking, großer Geisterkönig“ nur einmal pro Spielzug verwenden.\r\nFalls diese Karte als Spezialbeschwörung beschworen wird: Du kannst deiner Hand 1 „Ruf der Gejagten“ oder 1 Karte, die ihn erwähnt, von deinem Deck hinzufügen.\r\nDu kannst 1 Material von dieser Karte abhängen und dann bis zu 2 Karten auf dem Spielfeld wählen; gib sie auf die Hand zurück.",
+    "overallString": "[Monster|Effekt|Xyz] Zombie/Finsternis  [☆6] 2400/2600",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100259005.jpg?version=19.7"
+  },
+  {
+    "name": "Großes Mammut von der Niederwelt",
+    "desc": "Falls diese Karte als Spezialbeschwörung beschworen wird und du „Ruf der Gejagten“ oder ein Zombie-Monster kontrollierst, außer „Großes Mammut von der Niederwelt“: Du kannst 1 Karte auf dem Spielfeld wählen; zerstöre sie.\r\nDu kannst diesen Effekt von „Großes Mammut von der Niederwelt“ nur einmal pro Spielzug verwenden.\r\nEin Zombie-Xyz-Monster, das diese Karte als Material hat, erhält diesen Effekt.\r\n● Erhält 1000 ATK.",
+    "overallString": "[Monster|Effekt] Zombie/Finsternis  [★6] 2200/1800",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100259004.jpg?version=19.7"
+  },
+  {
+    "name": "Blick der Schlangenhaare",
+    "desc": "Du kannst diese Karte abwerfen; füge deiner Hand 1 „Ruf der Gejagten“ oder 1 Zauber/Falle, der oder die ihn erwähnt, von deinem Deck hinzu.\r\nFalls diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 Monster in Angriffsposition wählen, das dein Gegner kontrolliert; jenes offene Monster kann nicht angreifen, seine Effekte werden annulliert, zusätzlich kann es nicht als Material für eine Fusions-, Synchro-, Xyz- oder Linkbeschwörung verwendet werden.\r\nDu kannst jeden Effekt von „Blick der Schlangenhaare“ nur einmal pro Spielzug verwenden.",
+    "overallString": "[Monster|Effekt] Zombie/Finsternis  [★6] 1500/1200",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100259003.jpg?version=19.7"
+  },
+  {
+    "name": "Armee der Gejagten",
+    "desc": "Falls du „Ruf der Gejagten“ kontrollierst und sich diese Karte in deiner Hand oder deinem Friedhof befindet: Du kannst diese Karte als Spezialbeschwörung beschwören.\r\nFalls diese Karte auf den Friedhof gelegt wird: Du kannst 1 „Ruf der Gejagten“ in deinem Friedhof wählen; setze ihn.\r\nDu kannst jeden Effekt von „Armee der Gejagten“ nur einmal pro Spielzug verwenden.",
+    "overallString": "[Monster|Effekt] Zombie/Finsternis  [★6] 2400/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100259002.jpg?version=19.7"
+  },
+  {
+    "name": "Pumpking, Gräbergeisterkönig",
+    "desc": "Du kannst diese Karte in deiner Hand vorzeigen; setze 1 „Ruf der Gejagten“ von deinem Deck oder Friedhof und falls du dies tust, wirf 1 Karte ab.\r\nJene gesetzte Karte kann in diesem Spielzug aktiviert werden.\r\nFalls diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 Zombie-Monster der Stufe 6 als Spezialbeschwörung von deinem Deck beschwören, außer mit 1950 ATK, zusätzlich kannst du für den Rest dieses Spielzugs keine Spezialbeschwörungen von der Hand oder vom Friedhof durchführen, außer von Zombie-Monstern.\r\nDu kannst jeden Effekt von „Pumpking, Gräbergeisterkönig“ nur einmal pro Spielzug verwenden.",
+    "overallString": "[Monster|Effekt] Zombie/Finsternis  [★6] 1950/2600",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100259001.jpg?version=19.7"
+  },
+  {
+    "name": "Orichalcos Schwert der Siegelung",
+    "desc": "Die Effekte des ausgerüsteten Monsters werden annulliert.\nFalls du eine Karte in deiner Spielfeldzone hast: Du kannst 1 Effektmonster wählen, das du kontrollierst; jenes Effektmonster erhält bis zum Ende des Spielzugs deines Gegners diesen Effekt.\nDu kannst den vorherigen Effekt von „Orichalcos Schwert der Siegelung“ nur einmal pro Spielzug verwenden.\n● Einmal pro Spielzug (Schnelleffekt): Du kannst 1 Karte von deiner Hand auf den Friedhof legen und dann 1 offene Karte auf dem Spielfeld wählen; zerstöre das gewählte Ziel.",
+    "overallString": "[Zauber|Ausrüstung]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100256020.jpg?version=19.7"
+  },
+  {
+    "name": "Regenbogenbrücke Bifrost",
+    "desc": "(Diese Karte wird nicht als „Regenbogenbrücke“-Karte behandelt.)\nVerbanne 3 Monster der Stufe 10 oder höher von deinem Extra Deck, darunter ein LICHT Synchromonster; füge deiner Hand 1 Spielfeldzauber von deinem Deck hinzu.\nDu kannst nur 1 „Regenbogenbrücke Bifrost“ pro Spielzug aktivieren.",
+    "overallString": "[Zauber]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100256021.jpg?version=19.7"
+  },
+  {
+    "name": "Niederträchtige Macht",
+    "desc": "Wähle 1 offenes Monster auf dem Spielfeld; rüste es mit dieser Karte als Ausrüstungskarte mit diesen Effekten aus.\n● Das ausgerüstete Monster bleibt von Zaubereffekten unberührt.\n● Einmal pro Spielzug: Du kannst diese Karte zerstören und falls du dies tust, füge deiner Hand 1 „Niederträchtig“-Karte von deinem Deck hinzu.\nFalls eine Karte in der Spielfeldzone liegt: Du kannst diese Karte und 1 andere „Niederträchtig“-Karte von deinem Friedhof verbannen; zerstöre alle Monster auf dem Spielfeld.\nDu kannst jeden Effekt von „Niederträchtige Macht“ nur einmal pro Spielzug verwenden.",
+    "overallString": "[Falle]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100256022.jpg?version=19.7"
+  },
+  {
+    "name": "Niederträchtige Paradigmenwechsel",
+    "desc": "Du kannst diese Karte von deiner Hand aktivieren, indem du die Hälfte deiner LP zahlst.\nFüge deiner Hand 1 „Niederträchtige Welt“ von deinem Deck oder Friedhof hinzu oder lege es von deinem Deck oder Friedhof offen in deine Spielfeldzone, dann beschwöre 1 „Niederträchtig“-Monster als Spezialbeschwörung von deinem Deck oder Extra Deck in die Verteidigungsposition, ungeachtet seiner Beschwörungsbedingungen, dann, falls dein Gegner ein Monster mit 2500 oder mehr ATK kontrolliert, verlieren aller offenen Monster, die er derzeit kontrolliert, bis zum Ende dieses Spielzugs 2500 ATK.\nDu kannst nur 1 „Niederträchtige Paradigmenwechsel“ pro Spielzug aktivieren.",
+    "overallString": "[Falle]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100256023.jpg?version=19.7"
+  },
+  {
+    "name": "Angriffs-Schwarzflügel - Kusanagi der sich zusammenbrauende Sturm",
+    "desc": "1 Empfänger + 1+ Nicht-Empfänger\nFalls diese Karte als Synchrobeschwörung beschworen und dabei ein „Schwarzflügel“-Monster als Material verwendet wird, wird sie als Empfänger behandelt, solange sie offen auf dem Spielfeld liegt.\nNachdem diese Karte als Synchrobeschwörung beschworen wurde, für den Rest dieses Spielzugs erhält es ATK in Höhe der Summe der Grund-ATK der Synchromonster die als sein Material verwendet wurden.\nKann alle Monster deines Gegners einmal angreifen.\nFalls diese Karte ein Monster in Verteidigungsposition angreift, füge deinem Gegner durchschlagenden Kampfschaden zu.",
+    "overallString": "[Monster|Effekt|Synchro] Geflügeltes Ungeheuer/Finsternis  [★9] 3000/1000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100256024.jpg?version=19.7"
+  },
+  {
     "name": "Besessene Resonanz - Wynn",
     "desc": "1 Hexer-Monster + 1 WIND Monster\n(Diese Karte wird immer als „Vertrauten“-Karte behandelt.)\nFalls diese Karte als Fusionsbeschwörung beschworen wird: Du kannst 1 WIND Monster von deinem Friedhof unters Deck legen, dann wähle 1 Monster, das dein Gegner kontrolliert; übernimm die Kontrolle darüber.\nWährend des Spielzugs deines Gegners (Schnelleffekt): Du kannst 2 Karten auf dem Spielfeld wählen, darunter ein WIND Monster, das du kontrollierst; lege sie in beliebiger Reihenfolge unters Deck.\nDu kannst nur 1 Effekt von „Besessene Resonanz - Wynn“ pro Spielzug verwenden und in dem Spielzug nur einmal.",
     "overallString": "[Monster|Effekt|Fusion] Hexer/Wind  [★5] 1850/1500",
