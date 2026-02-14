@@ -1,5 +1,65 @@
 [
   {
+    "name": "Caos Negro el Espadachín Mágico Supremo",
+    "desc": "No puede ser Invocado de Modo Normal/Colocado.\r\nDebe ser Invocado de Modo Especial (desde tu mano) barajando al Deck 1 Monstruo de Ritual Guerrero o Lanzador de Conjuros en tu mano o Cementerio.\r\nSólo puedes Invocar de Modo Especial a \"Caos Negro el Espadachín Mágico Supremo\" una vez por turno de esta forma.\r\nPuedes descartar esta carta; Coloca boca arriba en tu Campo 1 Trampa Continua que mencione \"Ritual de Luz y Oscuridad\" desde tu Deck o Cementerio.\r\nNo es afectado por efectos de cartas activadas de tu adversario mientras tengas una Mágica de Ritual en tu Cementerio.\r\nUna vez por turno: puedes desterrar 2 cartas que controle tu adversario.",
+    "overallString": "[Monstruo|Efecto|Invocación Especial] Lanzador de Conjuros/OSCURIDAD  [★8] 3000/2500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305001.jpg?version=19.7"
+  },
+  {
+    "name": "Archidemonio Cráneo del Caos",
+    "desc": "Si esta carta está en tu mano o Cementerio: puedes seleccionar 3 cartas en los Cementerios y/o destierro boca arriba, incluyendo una carta que mencione \"Ritual de Luz y Oscuridad\" que no sea \"Archidemonio Cráneo del Caos\"; colócalas en el fondo del Deck en cualquier orden y, si lo haces, Invoca esta carta de Modo Especial.\r\nSi esta carta es mandada al Cementerio: puedes mandar al Cementerio 1 Mágica de Ritual en tu mano o Deck; añade a tu mano 1 Monstruo de Ritual mencionado en ella desde tu Deck.\r\nSólo puedes usar cada uno de los efectos de \"Archidemonio Cráneo del Caos\" una vez por turno.",
+    "overallString": "[Monstruo|Efecto] Demonio/OSCURIDAD  [★6] 2500/1200",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305002.jpg?version=19.7"
+  },
+  {
+    "name": "Sabio Celta Místico",
+    "desc": "Si esta carta es Invocada de Modo Normal o Especial: puedes activar este efecto; por el resto de este turno, sólo puedes Invocar de Modo Especial desde el Extra Deck una vez, y además muestra todo tu mano, y si hay en ella una carta que mencione \"Ritual de Luz y Oscuridad\", puedes robar 3 cartas, y después descartar 2 cartas.\r\nPuedes Sacrificar esta carta; Invoca de Modo Especial 1 Monstruo de Ritual que mencione \"Ritual de Luz y Oscuridad\" desde tu mano.\r\nSólo puedes usar cada uno de los efectos de \"Sabio Celta Místico\" una vez por turno.",
+    "overallString": "[Monstruo|Efecto] Guerrero/LUZ  [★4] 1400/2000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305003.jpg?version=19.7"
+  },
+  {
+    "name": "Gurifoh",
+    "desc": "\r\n(Efecto Rápido): Puedes descartar esta carta, y después activar 1 de estos efectos;\r\n● El próximo daño de batalla o de efecto que fueras a recibir este turno se convierte en 0.\r\n● Coloca 1 Mágica de Juego Rápido o Trampa que mencione \"Ritual de Luz y Oscuridad\" desde tu Deck. Puede ser activada este turno.\r\nSólo puedes usar este efecto de \"Gurifoh\" una vez por turno.\r\nPara la Invocación por Ritual de exactamente 1 monstruo de Nivel 8 con un efecto de carta que requiera el uso de monstruos, esta carta puede ser usada como el Sacrificio completo.",
+    "overallString": "[Monstruo|Efecto] Demonio/OSCURIDAD  [★1] 300/200",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305004.jpg?version=19.7"
+  },
+  {
+    "name": "Ritual de Luz y Oscuridad",
+    "desc": "Invoca por Ritual 1 \"Mago del Caos Negro - El Caos Negro\" o \"Soldado del Brillo Negro - Soldado de Luz y Oscuridad\" desde tu mano, Sacrificando monstruos de tu mano o Campo y/o desterrando monstruos de tu Cementerio cuyos Niveles totales sean iguales o superiores a su Nivel.\r\nSi esta carta está en tu Cementerio: puedes añadir a tu mano esta carta y 1 carta que mencione \"Ritual de Luz y Oscuridad\" desde tu Cementerio.\r\nSólo puedes usar este efecto de \"Ritual de Luz y Oscuridad\" una vez por turno.",
+    "overallString": "[Mágica|Ritual]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305044.jpg?version=19.7"
+  },
+  {
+    "name": "Caja Mística del Caos",
+    "desc": "Cuando tu adversario activa una carta o efecto que selecciona otra(s) carta(s) que controlas: devuelve a la mano 1 de esas cartas que controlas (si está Colocada, muéstrala) y, si lo haces, destruye 1 carta en el Campo, y después puedes Invocar de Modo Especial 1 monstruo que mencione \"Ritual de Luz y Oscuridad\" desde tu mano, con nombre diferente al de la carta devuelta, ignorando sus condiciones de Invocación.\r\nSi esta carta es destruida por tu adversario: puedes Invocar de Modo Especial 1 Monstruo de Ritual que mencione \"Ritual de Luz y Oscuridad\" desde tu mano o Deck.",
+    "overallString": "[Mágica|Juego Rápido]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305045.jpg?version=19.7"
+  },
+  {
+    "name": "Sombreros del Caos",
+    "desc": "Cuando tu adversario activa una Carta Mágica/Trampa Normal, o efecto de monstruo: elige 3 Mágicas/Trampas en tu Deck con nombres diferentes entre sí y 1 monstruo en tu Zona de Monstruos Principal que mencione \"Ritual de Luz y Oscuridad\" y, si lo haces, Invoca de Modo Especial esas Mágicas/Trampas como Monstruos Normales (Lanzador de Conjuros/OSCURIDAD/Nivel 8/ATK 0/DEF 0) cuyo nombre sea \"Sombreros del Caos\" en Posición de Defensa boca abajo, Coloca el monstruo elegido si está boca arriba, y barájalos en el Campo, y después el efecto activado de tu adversario se convierte en \"destruye 1 monstruo Colocado del adversario\".",
+    "overallString": "[Mágica|Juego Rápido]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305046.jpg?version=19.7"
+  },
+  {
+    "name": "Mezcla Mental",
+    "desc": "(Efecto Rápido): Puedes añadir a tu mano 1 monstruo que mencione \"Ritual de Luz y Oscuridad\" desde tu Deck, y después descartar 1 carta.\r\nSólo puedes usar este efecto de \"Mezcla Mental\" una vez por turno. \r\nCuando tu adversario activa una carta o efecto: puedes devolver a la mano 1 monstruo de Nivel 7 o mayor que controles; Invoca de Modo Especial 1 monstruo con nombre diferente desde tu mano que mencione \"Ritual de Luz y Oscuridad\", ignorando sus condiciones de Invocación.\r\nNo puedes activar los efectos de esta carta \"Mezcla Mental\" en la misma Cadena.\r\n",
+    "overallString": "[Trampa|Continua]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305065.jpg?version=19.7"
+  },
+  {
+    "name": "Mago del Caos Negro - El Caos Negro",
+    "desc": "Puedes Invocar esta carta por Ritual con \"Ritual de Luz y Oscuridad\".\r\nLas Mágicas y Trampas que controles no pueden ser destruidas, ni desterradas, por efectos de cartas de tu adversario, y además esta carta no es afectada por efectos activados de tu adversario, a menos que seleccionen esta carta.\r\nSólo puedes usar cada uno de los siguientes efectos de \"Mago del Caos Negro - El Caos Negro\" una vez por turno.\r\nSi esta carta es Invocada de Modo Especial: puedes añadir a tu mano 1 Mágica desde tu Cementerio.\r\nPuedes seleccionar 1 carta que controle tu adversario; destiérrala boca abajo.",
+    "overallString": "[Monstruo|Efecto|Ritual] Lanzador de Conjuros/OSCURIDAD  [★8] 2800/2600",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305027.jpg?version=19.7"
+  },
+  {
+    "name": "Soldado del Brillo Negro - Soldado de Luz y Oscuridad",
+    "desc": "Puedes Invocar esta carta por Ritual con \"Ritual de Luz y Oscuridad\".\r\nNo puede ser destruido en batalla.\r\nNo es afectado por efectos activados de tu adversario, a menos que seleccionen esta carta.\r\nSólo puedes usar cada uno de los siguientes efectos de \"Soldado del Brillo Negro - Soldado de Luz y Oscuridad\" una vez por turno.\r\nSi esta carta es Invocada de Modo Especial: puedes seleccionar 1 carta que controle tu adversario; destiérrala.\r\nCuando esta carta destruye un monstruo del adversario en batalla: puedes hacer que gane 1500 ATK y, si lo haces, puede hacer un segundo ataque consecutivo.",
+    "overallString": "[Monstruo|Efecto|Ritual] Guerrero/TIERRA  [★8] 3000/2500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305028.jpg?version=19.7"
+  },
+  {
     "name": "Aliento Zombi Mortal",
     "desc": "Si controlas un monstruo Zombi y \"Llamada de los Condenados\": selecciona 1 monstruo que controle tu adversario; mándalo al Cementerio.\r\nSi controlas un monstruo Zombi: puedes desterrar esta carta en tu Cementerio, y después seleccionar 1 carta boca arriba que controles y 1 carta boca arriba que controle tu adversario; mándalas al Cementerio.\r\nSólo puedes usar 1 efecto de \"Aliento Zombi Mortal\" por turno, y sólo una vez ese turno.",
     "overallString": "[Trampa]",
@@ -31,7 +91,7 @@
   },
   {
     "name": "Rey Calabaza el Gran Rey Fantasma",
-    "desc": "2 monstruos Zombi de Nivel 6\r\nMientras controles \"Llamada de los Condenados\", tu adversario no puede seleccionar monstruos Zombi que controles con efectos de monstruos.\r\nSólo puedes usar cada uno de los siguientes efectos de \"Rey Calabaza el Gran Rey Fantasma\" una vez por turno.\r\nSi esta carta es Invocada de Modo Especial: puedes añadir a tu mano 1 \"Llamada de la Tumba\" o 1 carta que la mencione desde tu Deck.\r\nPuedes desacoplar 1 material de esta carta, y después seleccionar hasta 2 cartas en el Campo; devuélvelas a la mano.",
+    "desc": "2 monstruos Zombi de Nivel 6\r\nMientras controles \"Llamada de los Condenados\", tu adversario no puede seleccionar monstruos Zombi que controles con efectos de monstruos.\r\nSólo puedes usar cada uno de los siguientes efectos de \"Rey Calabaza el Gran Rey Fantasma\" una vez por turno.\r\nSi esta carta es Invocada de Modo Especial: puedes añadir a tu mano 1 \"Llamada de los Condenados\" o 1 carta que la mencione desde tu Deck.\r\nPuedes desacoplar 1 material de esta carta, y después seleccionar hasta 2 cartas en el Campo; devuélvelas a la mano.",
     "overallString": "[Monstruo|Efecto|Xyz] Zombi/OSCURIDAD  [☆6] 2400/2600",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100259005.jpg?version=19.7"
   },
