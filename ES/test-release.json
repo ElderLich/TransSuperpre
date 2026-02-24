@@ -1,13 +1,19 @@
 [
   {
+    "name": "HÉROE Favorito de la Llama Wingman",
+    "desc": "2 monstruos con el mismo Tipo pero diferentes Atributos\t\t\r\n(Esta carta se trata siempre como una carta \"HÉROE Elemental\").\t\r\nCuando se declara un ataque que involucra a esta carta y un monstruo con 2200 o más ATK: puedes hacer que esta carta gane 1000 ATK, y después puedes Invocar de Modo Especial 1 monstruo de Nivel 4 o menor desde tu mano en Posición de Defensa.\r\n(Efecto Rápido): Si uno o más monstruos fueron destruidos en batalla este turno: puedes Invocar por Fusión 1 Monstruo de Fusión desde tu Deck Extra, usando monstruos de tu mano o Campo.\r\nSólo puedes usar cada uno de los efectos de \"HÉROE Favorito de la Llama Wingman\" una vez por turno.",
+    "overallString": "[Monstruo|Efecto|Fusión] Guerrero/VIENTO  [★6] 2100/1200",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100256005.jpg?version=19.7"
+  },
+  {
     "name": "Emergencia Sincrónica",
     "desc": "No puedes Invocar de Modo Especial desde el Deck Extra hasta el final del próximo turno después de que esta carta se resuelva, excepto Monstruos de Sincronía, y además Invoca de Modo Especial 1 monstruo desde tu mano (pero sus efectos son negados), y después, si tu adversario controla un monstruo Invocado de Modo Especial desde el Deck Extra, puedes Invocar de Modo Especial 1 monstruo \"Sincrón\" (o \"Sincronizador\") desde tu Deck.\r\nPuedes desterrar esta carta en tu Cementerio; inmediatamente después de que este efecto se resuelva, Invoca por Sincronía 1 Monstruo de Sincronía usando monstruos que controles.\r\nSólo puedes activar 1 \"Emergencia Sincrónica\" por turno.\r\nSi sólo tu adversario controla un monstruo, puedes activar esta carta desde tu mano.",
     "overallString": "[Trampa]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100256009.jpg?version=19.7"
   },
   {
-    "name": "Chica Gagaga - Llamada Cero Cero",
-    "desc": "Si tu adversario Invoca de Modo Especial uno o más monstruos desde el Deck Extra: puedes seleccionar 1 monstruo boca arriba que controles; Invoca esta carta de Modo Especial desde tu mano, y luego, inmediatamente después de que este efecto se resuelva, Invoca Xyz usando esta carta y el monstruo seleccionado.\r\nCuando lo hagas, trata el Nivel de esta carta como el Nivel de ese monstruo.\r\nSi esta carta es desacoplada para activar el efecto de un Monstruo Xyz: puedes cambiar a 0 el ATK de 1 monstruo boca arriba que controle tu adversario.\r\nSólo puedes usar cada uno de los efectos de \"Chica Gagaga - Llamada Cero Cero\" una vez por turno.",
+    "name": "Chica Gagaga - Sustracción Telefónica",
+    "desc": "Si tu adversario Invoca de Modo Especial uno o más monstruos desde el Deck Extra: puedes seleccionar 1 monstruo boca arriba que controles; Invoca esta carta de Modo Especial desde tu mano, y luego, inmediatamente después de que este efecto se resuelva, Invoca Xyz usando esta carta y el monstruo seleccionado.\r\nCuando lo hagas, trata el Nivel de esta carta como el Nivel de ese monstruo.\r\nSi esta carta es desacoplada para activar el efecto de un Monstruo Xyz: puedes cambiar a 0 el ATK de 1 monstruo boca arriba que controle tu adversario.\r\nSólo puedes usar cada uno de los efectos de \"Chica Gagaga - Sustracción Telefónica\" una vez por turno.",
     "overallString": "[Monstruo|Efecto] Lanzador de Conjuros/OSCURIDAD  [★3] 1000/800",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100256012.jpg?version=19.7"
   },
@@ -175,7 +181,7 @@
   },
   {
     "name": "Posesión Resonante - Wynn",
-    "desc": "1 monstruo Lanzador de Conjuros + 1 monstruo de VIENTO\t\r\n(Esta carta se trata siempre como una carta \"Familiar Poseido\").\r\nSi esta carta es Invocada por Fusión: puedes colocar 1 monstruo de VIENTO desde tu Cementerio en el fondo del Deck, y después seleccionar 1 monstruo que controle tu adversario; toma su control.\r\n(Efecto Rápido): Durante el turno de tu adversario: puedes seleccionar 2 cartas en el Campo, incluyendo 1 monstruo de VIENTO que controles; colócalas en el fondo del Deck en cualquier orden.\r\nSólo puedes usar 1 de los efectos de \"Posesión Resonante - Wynn\" por turno, y sólo una vez ese turno.",
+    "desc": "1 monstruo Lanzador de Conjuros + 1 monstruo de VIENTO\t\r\n(Esta carta se trata siempre como una carta \"Familiar Poseido\").\t\r\nSi esta carta es Invocada por Fusión: puedes colocar 1 monstruo de VIENTO desde tu Cementerio en el fondo del Deck, y después seleccionar 1 monstruo que controle tu adversario; toma su control.\r\n(Efecto Rápido): Durante el turno de tu adversario: puedes seleccionar 2 cartas en el Campo, incluyendo 1 monstruo de VIENTO que controles; colócalas en el fondo del Deck en cualquier orden.\r\nSólo puedes usar 1 de los efectos de \"Posesión Resonante - Wynn\" por turno, y sólo una vez ese turno.",
     "overallString": "[Monstruo|Efecto|Fusión] Lanzador de Conjuros/VIENTO  [★5] 1850/1500",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100200284.jpg?version=19.7"
   },
@@ -199,7 +205,7 @@
   },
   {
     "name": "Dragón Blanco de Ojos Profundos, el Abismo Azul",
-    "desc": "(Esta carta se trata siempre como una carta \"Ojos Azules\").\r\nPuedes descartar esta carta; añade a tu mano 1 Cantante de LUZ de Nivel 1 desde tu Deck.\r\nSi uno o más Monstruos de Ritual \"Ojos Azules\" y/o \"Dragón Blanco de Ojos Azules\" son mandados a tu Cementerio: puedes seleccionar 1 de ellos; Invoca esta carta de Modo Especial desde tu Cementerio (si estaba allí cuando el monstruo fue mandado) o mano (aún si no lo estaba) y, si lo haces, su ATK se convierte en el ATK de ese monstruo, pero destiérrala cuando deje el Campo.\r\n Sólo puedes usar cada uno de los efectos de \"Dragón Blanco de Ojos Profundos, el Abismo Azul\" una vez por turno.",
+    "desc": "(Esta carta se trata siempre como una carta \"Ojos Azules\").\t\r\nPuedes descartar esta carta; añade a tu mano 1 Cantante de LUZ de Nivel 1 desde tu Deck.\r\nSi uno o más Monstruos de Ritual \"Ojos Azules\" y/o \"Dragón Blanco de Ojos Azules\" son mandados a tu Cementerio: puedes seleccionar 1 de ellos; Invoca esta carta de Modo Especial desde tu Cementerio (si estaba allí cuando el monstruo fue mandado) o mano (aún si no lo estaba) y, si lo haces, su ATK se convierte en el ATK de ese monstruo, pero destiérrala cuando deje el Campo.\r\n Sólo puedes usar cada uno de los efectos de \"Dragón Blanco de Ojos Profundos, el Abismo Azul\" una vez por turno.",
     "overallString": "[Monstruo|Efecto] Dragón/LUZ  [★10] 0/0",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257002.jpg?version=19.7"
   },
@@ -223,7 +229,7 @@
   },
   {
     "name": "Dragón de Sincronía Ala Transparente de los Cuatro Dragones Celestiales",
-    "desc": "1 Cantante + 1+ monstruos que no sean Cantantes\t\r\n(Esta carta se trata siempre como una carta \"Velociroid\").\r\nSi esta carta es Invocada de Modo Especial: puedes destruir 1 Monstruo de Efecto que controle tu adversario y, si lo haces, esta carta gana ATK igual al ATK original de ese monstruo.\r\n(Efecto Rápido): Cuando tu adversario activa una carta o efecto: puedes Invocar de Modo Especial 1 Cantante de VIENTO de Nivel 4 o menor en tu mano o Cementerio (pero sus efectos son negados) y, después, inmediatamente después de que este efecto se resuelva, puedes Invocar por Sincronía 1 monstruo de VIENTO.\r\nSólo puedes usar cada uno de los efectos de \"Dragón de Sincronía Ala Transparente de los Cuatro Dragones Celestiales\" una vez por turno.",
+    "desc": "1 Cantante + 1+ monstruos que no sean Cantantes\t\r\n(Esta carta se trata siempre como una carta \"Velociroid\").\t\r\nSi esta carta es Invocada de Modo Especial: puedes destruir 1 Monstruo de Efecto que controle tu adversario y, si lo haces, esta carta gana ATK igual al ATK original de ese monstruo.\r\n(Efecto Rápido): Cuando tu adversario activa una carta o efecto: puedes Invocar de Modo Especial 1 Cantante de VIENTO de Nivel 4 o menor en tu mano o Cementerio (pero sus efectos son negados) y, después, inmediatamente después de que este efecto se resuelva, puedes Invocar por Sincronía 1 monstruo de VIENTO.\r\nSólo puedes usar cada uno de los efectos de \"Dragón de Sincronía Ala Transparente de los Cuatro Dragones Celestiales\" una vez por turno.",
     "overallString": "[Monstruo|Efecto|Sincronía] Dragón/VIENTO  [★7] 2500/2000",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257014.jpg?version=19.7"
   },
@@ -313,7 +319,7 @@
   },
   {
     "name": "Dragón de Fusión Hambriento Venenoso de los Cuatro Dragones Celestiales",
-    "desc": "2 monstruos de OSCURIDAD en el Campo\t\r\n(Esta carta se trata siempre como una carta \"Predaplanta\").\r\nSi esta carta es Invocada de Modo Especial: puedes seleccionar 1 otro monstruo boca arriba en el Campo; su ATK se convierte en 0, niega sus efectos, y además su Atributo se convierte en OSCURIDAD.\r\nCuando tu adversario activa una carta o efecto (Efecto Rápido): puedes Invocar por Fusión 1 Monstruo de Fusión de OSCURIDAD desde tu Extra Deck, usando monstruos OSCURIDAD en el Campo, incluyendo esta carta.\r\nSólo puedes usar cada uno de los efectos de \"Dragón de Fusión Hambriento Venenoso de los Cuatro Dragones Celestiales\" una vez por turno.",
+    "desc": "2 monstruos de OSCURIDAD en el Campo\t\r\n(Esta carta se trata siempre como una carta \"Predaplanta\").\t\r\nSi esta carta es Invocada de Modo Especial: puedes seleccionar 1 otro monstruo boca arriba en el Campo; su ATK se convierte en 0, niega sus efectos, y además su Atributo se convierte en OSCURIDAD.\r\nCuando tu adversario activa una carta o efecto (Efecto Rápido): puedes Invocar por Fusión 1 Monstruo de Fusión de OSCURIDAD desde tu Extra Deck, usando monstruos OSCURIDAD en el Campo, incluyendo esta carta.\r\nSólo puedes usar cada uno de los efectos de \"Dragón de Fusión Hambriento Venenoso de los Cuatro Dragones Celestiales\" una vez por turno.",
     "overallString": "[Monstruo|Efecto|Fusión] Dragón/OSCURIDAD  [★8] 2800/2000",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257013.jpg?version=19.7"
   },
@@ -349,7 +355,7 @@
   },
   {
     "name": "HÉROE Favorito Shining Flare Wingman",
-    "desc": "1 Monstruo de Fusión + 1 monstruo boca arriba en el Campo\t\r\n(Esta carta siempre se trata como una carta \"HÉROE Elemental\").\r\nSi esta carta es Invocada de Modo Especial desde el Extra Deck: puedes barajar al Deck 5 monstruos en tu Cementerio, y después roba 2 cartas, y si lo haces, esta carta gana 1000 ATK.\r\nSólo puedes usar este efecto de \"HÉROE Favorito Shining Flare Wingman\" una vez por turno.\r\nSi esta carta destruye un monstruo en batalla: Inflige a tu adversario daño igual al ATK original de ese monstruo.",
+    "desc": "1 Monstruo de Fusión + 1 monstruo boca arriba en el Campo\t\r\n(Esta carta se trata siempre como una carta \"HÉROE Elemental\").\t\r\nSi esta carta es Invocada de Modo Especial desde el Extra Deck: puedes barajar al Deck 5 monstruos en tu Cementerio, y después roba 2 cartas, y si lo haces, esta carta gana 1000 ATK.\r\nSólo puedes usar este efecto de \"HÉROE Favorito Shining Flare Wingman\" una vez por turno.\r\nSi esta carta destruye un monstruo en batalla: Inflige a tu adversario daño igual al ATK original de ese monstruo.",
     "overallString": "[Monstruo|Efecto|Fusión] Guerrero/LUZ  [★8] 2500/2100",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100256004.jpg?version=19.7"
   },
@@ -361,7 +367,7 @@
   },
   {
     "name": "Mago Oscuro, el Sirviente del Faraón",
-    "desc": "(El nombre de esta carta se convierte en \"Mago Oscuro\" mientras esté en el Campo o en el Cementerio).\r\nPuedes revelar 1 Mágica en tu mano; Invoca esta carta de Modo Especial desde tu mano, y después puedes Colocar 1 Mágica/Trampa en tu Deck que mencione a \"Mago Oscuro\".\r\n(Efecto Rápido): puedes descartar 1 Mágica; destruye todas las Mágicas y Trampas que controle tu adversario.\r\nSólo puedes usar 1 de los efectos de \"Mago Oscuro, el Sirviente del Faraón\" por turno, y sólo una vez ese turno.",
+    "desc": "(El nombre de esta carta se convierte en \"Mago Oscuro\" mientras esté en el Campo o en el Cementerio).\t\r\nPuedes revelar 1 Mágica en tu mano; Invoca esta carta de Modo Especial desde tu mano, y después puedes Colocar 1 Mágica/Trampa en tu Deck que mencione a \"Mago Oscuro\".\r\n(Efecto Rápido): puedes descartar 1 Mágica; destruye todas las Mágicas y Trampas que controle tu adversario.\r\nSólo puedes usar 1 de los efectos de \"Mago Oscuro, el Sirviente del Faraón\" por turno, y sólo una vez ese turno.",
     "overallString": "[Monstruo|Efecto] Lanzador de Conjuros/OSCURIDAD  [★7] 2500/2100",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100256001.jpg?version=19.7"
   }
