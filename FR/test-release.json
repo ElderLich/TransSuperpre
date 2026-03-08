@@ -1,5 +1,77 @@
 [
   {
+    "name": "Plumes d'Or l'Impératrice",
+    "desc": "Vous pouvez envoyer 4 monstres avec min. 2400 ATK et 1000 DEF depuis votre main, Deck, et/ou Terrain face recto au Cimetière ; Invoquez Spécialement cette carte depuis votre main.\r\nVous pouvez cibler 1 Magie/Piège sur chaque Terrain ; détruisez-les, puis Invoquez Spécialement 1 \"Jeton Homoncule\" (Elfe/LUMIÈRE/Niveau 2/ATK 800/DEF 800) sur le Terrain de chaque joueur en Position de Défense, et si vous le faites, cette carte gagne 1600 ATK.\r\nVous ne pouvez utiliser chaque effet de \"Plumes d'Or l'Impératrice\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet] Elfe/Lumiére  [★8] 3300/2000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257019.jpg?version=19.7"
+  },
+  {
+    "name": "Créateur Obscur",
+    "desc": "Vous pouvez Invoquer Spécialement cette carte (depuis votre main) en Sacrifiant 2 monstres Démon et/ou Elfe.\r\nNon destructible au combat. Une fois par tour : vous pouvez Invoquer Spécialement autant de \"Jeton Créateur Obscur\" (Démon/TÉNÈBRES/Niveau 10/ATK 3000/DEF 1000) que possible sur votre Terrain, mais ils ne peuvent ni attaquer directement ni être détruits au combat, détruisez-les lorsque cette carte est détruite, et aussi, vous ne pouvez pas Invoquer Spécialement le reste de ce tour.\r\nSi un ou plusieurs monstres sont détruits au combat : infligez 700 points de dommages à votre adversaire.",
+    "overallString": "[Monstre|Effet] Démon/Ténébres  [★10] 3000/1000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257020.jpg?version=19.7"
+  },
+  {
+    "name": "Choc Lumineux",
+    "desc": "Ajoutez 1 monstre Tonnerre depuis votre Deck à votre main, mais vous ne pouvez pas Invoquer/Poser Normalement de monstres avec son nom jusqu'à la fin du prochain tour après la résolution de cette carte.\r\nVous ne pouvez activer qu'1 \"Choc Lumineux\" par tour.",
+    "overallString": "[Magie]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257021.jpg?version=19.7"
+  },
+  {
+    "name": "Syntoniseur Sombre Calamité",
+    "desc": "Vous pouvez révéler cette carte dans votre main ; immédiatement après la résolution de cet effet, Invoquez Normalement 1 monstre \"Syntoniseur Sombre\".\r\nVous ne pouvez utiliser cet effet de \"Syntoniseur Sombre Calamité\" qu'une fois par tour.\r\nUne fois par tour, si vous contrôlez cette carte Invoquée/Posée Normalement : vous pouvez Sacrifier cette carte face recto ainsi qu'1 non-Syntoniseur face recto de Niveau inférieur, et si vous le faites, Invoquez Spécialement 1 Monstre Synchro depuis votre Extra Deck de Niveau égal à la différence de Niveaux des monstres (ceci est traité comme une Invocation Synchro), puis vous pouvez détruire 1 carte contrôlée par votre adversaire.",
+    "overallString": "[Monstre|Effet|Syntoniseur] Démon/Ténébres  [★8] 0/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257022.jpg?version=19.7"
+  },
+  {
+    "name": "Syntoniseur Sombre Main Maudite",
+    "desc": "Vous pouvez révéler cette carte dans votre main ; immédiatement après la résolution de cet effet, Invoquez Normalement 1 monstre \"Syntoniseur Sombre\".\r\nVous ne pouvez utiliser cet effet de \"Syntoniseur Sombre Main Maudite\" qu'une fois par tour.\r\nSi cette carte est Invoquée Normalement : vous pouvez Invoquer Spécialement 1 monstre de max. Niveau 2 depuis votre main.\r\nUne fois par tour, si vous contrôlez cette carte Invoquée/Posée Normalement : vous pouvez Sacrifier cette carte face recto ainsi qu'1 non-Syntoniseur face recto de Niveau inférieur, et si vous le faites, Invoquez Spécialement 1 Monstre Synchro depuis votre Extra Deck de Niveau égal à la différence de Niveaux des monstres (ceci est traité comme une Invocation Synchro).",
+    "overallString": "[Monstre|Effet|Syntoniseur] Guerrier/Ténébres  [★10] 0/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257023.jpg?version=19.7"
+  },
+  {
+    "name": "Maître Ultime du Chaos - Maître du Commencement et de l'Achèvement",
+    "desc": "Ni Invocable Normalement ni Posable Normalement.\r\nUniquement Invocable Spécialement (depuis votre main) en bannissant 1 monstre LUMIÈRE Guerrier et 1 monstre TÉNÈBRES Démon depuis votre Cimetière.\r\nL'Invocation Spéciale de cette carte ne peut pas être annulée.\r\nAucun joueur ne peut ni activer de cartes ni d'effets lorsque cette carte est Invoquée Spécialement.\r\nSi vous contrôlez cette carte qui a été Invoquée de sa propre façon : vous pouvez payer 1000 LP ; bannissez autant de cartes depuis le Terrain et Cimetière de votre adversaire que possible, puis infligez 500 points de dommages à votre adversaire pour chaque carte bannie par cet effet.\r\nVous ne pouvez utiliser cet effet de \"Maître Ultime du Chaos - Maître du Commencement et de l'Achèvement\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet|Invocation Spéciale] Guerrier/Lumiére  [★10] 3500/2000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257026.jpg?version=19.7"
+  },
+  {
+    "name": "Force Ultime Hyper Magie-Rang-Plus",
+    "desc": "Ciblez 1 Monstre Xyz \"Utopie\" ou \"Utopique\" de max. Rang 9 que vous contrôlez dont l'Attribut d'origine est LUMIÈRE ; Invoquez Spécialement 1 Monstre Xyz \"Numéro\" de min. Rang 10 depuis votre Extra Deck, en utilisant le Monstre Xyz que vous contrôlez (ceci est traité comme une Invocation Xyz, transférez ses Matériels), et si vous le faites, attachez-lui cette carte.\r\nUn Monstre Xyz \"Numéro 99\" qui a cette carte comme Matériel gagne cet effet.\r\n● Une fois par Chaîne, lorsque votre adversaire active un effet de monstre durant la Battle Phase (Effet Rapide) : détachez tous les Matériels de cette carte, et si vous le faites, détruisez tous les monstres contrôlés par votre adversaire.",
+    "overallString": "[Magie]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257027.jpg?version=19.7"
+  },
+  {
+    "name": "Dragon Propulshydre Parfaitron",
+    "desc": "1+ Monstre Lien\r\nSi cette carte est Invoquée par Lien, ou à la fin de la Damage Step, si cette carte a combattu : détruisez autant de monstres contrôlés par votre adversaire que possible, puis infligez 300 points de dommages à votre adversaire pour chaque Monstre Lien dans votre Cimetière.\r\nTant que cette carte est face recto sur le Terrain, elle est aussi LUMIÈRE, EAU, FEU et VENT.\r\nNon affectée par les effets activés de monstres qui partagent un Attribut avec cette carte.\r\nSi cette carte va être détruite au combat ou par un effet de carte, vous pouvez lui faire perdre exactement 1000 ATK à la place.",
+    "overallString": "[Monstre|Effet|Lien] Cyberse/Terre  [LINK-5] 5000/-  [←][→][↙][↓][↘]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257028.jpg?version=19.7"
+  },
+  {
+    "name": "Chapeau, Troupe de Clowns",
+    "desc": "Échelle Pendule = 7\r\n[ Effet Pendule ]\r\nDurant votre Main Phase : vous pouvez envoyer 1 carte \"Troupe de Clowns\" (Monstres Pendule exclus) depuis votre Deck au Cimetière, et si vous le faites, Invoquez Spécialement cette carte, et aussi, vous ne pouvez pas activer les effets de monstres Invoqués Spécialement depuis le Deck ou Extra Deck jusqu'à la fin du prochain tour. Vous ne pouvez utiliser cet effet de \"Chapeau, Troupe de Clowns\" qu'une fois par tour.\r\n----------------------------------------\r\n[ Effet de Monstre ]\r\nLes monstres contrôlés par votre adversaire perdent 1500 DEF tant que vous contrôlez un monstre Invoqué par Sacrifice. Si cette carte est Sacrifiée : vous pouvez activer 1 de ces effets (mais vous ne pouvez utiliser chacun de ces effets de \"Chapeau, Troupe de Clowns\" qu'une fois par tour) ;\r\n● Mélangez tous les Monstres Pendule sur le Terrain et face recto dans les Extra Decks dans le Deck.\r\n● Invoquez Spécialement 1 monstre \"Troupe de Clowns\" non-Pendule depuis votre Deck ou Extra Deck, en ignorant ses conditions d'Invocation.",
+    "overallString": "[Monstre|Effet|Pendule] Bête-Guerrier/Lumiére  [★5] 1900/800  7/7",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100260001.jpg?version=19.7"
+  },
+  {
+    "name": "Drish, Troupe de Clowns",
+    "desc": "2 Monstres Rituel, Fusion, Synchro, Xyz et/ou Pendule\r\nVos monstres Invoqués par Sacrifice peuvent faire une seconde attaque durant chaque Battle Phase.\r\nSi cette carte est Sacrifiée : vous pouvez activer 1 de ces effets (mais vous ne pouvez utiliser chacun de ces effets de \"Drish, Troupe de Clowns\" qu'une fois par tour) ;\r\n● Renvoyez tous les Monstres Lien sur le Terrain et dans les Cimetières à l'Extra Deck.\r\n● Chaque joueur mélange toute sa main dans le Deck, puis il pioche le même nombre de cartes qu'il a mélangées.",
+    "overallString": "[Monstre|Effet|Lien] Bête-Guerrier/Lumiére  [LINK-2] 1000/-  [←][↓]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305042.jpg?version=19.7"
+  },
+  {
+    "name": "Troupe de Clowns \"Final\"",
+    "desc": "Si vous contrôlez un monstre Invoqué par Sacrifice : défaussez un nombre de cartes de votre choix, puis ciblez autant de cartes face recto sur le Terrain ; détruisez-les.\r\nVous pouvez bannir cette carte depuis votre Cimetière et Sacrifier 1 Monstre Rituel, Fusion, Synchro, Xyz, Pendule ou Lien depuis votre main ou Terrain ; ajoutez 1 monstre \"Troupe de Clowns\" depuis votre Deck ou Cimetière à votre main dont le Niveau/Rang/Classification Lien d'origine n'est pas égal à celui du monstre Sacrifié.\r\nVous ne pouvez utiliser chaque effet de \"Troupe de Clowns \"Final\"\" qu'une fois par tour.",
+    "overallString": "[Piège]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305076.jpg?version=19.7"
+  },
+  {
+    "name": "Miroir Pleine Lune",
+    "desc": "Chaque fois qu'un ou plusieurs monstres sont détruits au combat ou par un effet, placez 1 Compteur Pleine Lune sur cette carte pour chacun d'eux. Vous pouvez retirer des Compteurs Pleine Lune de cette carte, puis activez 1 de ces effets ;\r\n● 1 : Invoquez Spécialement 1 monstre de max. Niveau 6 (Démon ou Elfe) depuis votre main ou Cimetière.\r\n● 3 : Ajoutez 1 monstre TÉNÈBRES de Niveau 10 depuis votre Deck à votre main.\r\n● 5 : Invoquez Spécialement 1 monstre de Niveau 10 depuis votre main ou Cimetière.\r\nVous ne pouvez utiliser cet effet de \"Miroir Pleine Lune\" qu'une fois par tour.",
+    "overallString": "[Magie|Continu]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100200288.jpg?version=19.7"
+  },
+  {
     "name": "Rideau Magique Sombre",
     "desc": "Chaque joueur peut Invoquer Spécialement 1 monstre TÉNÈBRES Magicien depuis sa main ou Deck (mais aucun joueur ne peut activer leurs effets ce tour), puis si vous avez Invoqué Spécialement un monstre dont le nom d'origine est \"Magicien Sombre\" ou \"Magicienne des Ténèbres\", vous pouvez ajouter 1 Magie/Piège qui mentionne \"Magicien Sombre\" (\"Rideau Magique Sombre\" exclu) depuis votre Deck à votre main.\r\nVous ne pouvez activer qu'1 \"Rideau Magique Sombre\" par tour.",
     "overallString": "[Magie|Jeu-Rapide]",
