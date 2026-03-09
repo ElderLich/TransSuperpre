@@ -1,5 +1,77 @@
 [
   {
+    "name": "Demiurgo Ema",
+    "desc": "Puoi mandare 4 mostri con 2400 o più ATK e 1000 DEF dalla tua mano, Deck e/o Terreno scoperto al Cimitero; Evoca Specialmente questa carta dalla tua mano.\r\nPuoi scegliere come bersaglio 1 Magia/Trappola su ciascun Terreno; distruggile, poi Evoca Specialmente 1 \"Segnalino Homunculus\" (Fata/LUCE/Livello 2/ATK 800/DEF 800) sul Terreno di entrambi i giocatori in Posizione di Difesa e, se lo fai, questa carta guadagna 1600 ATK.\r\nPuoi utilizzare ciascun effetto di \"Demiurgo Ema\" una sola volta per turno.",
+    "overallString": "[Mostro|Effetto] Fata/Luce  [★8] 3300/2000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257019.jpg?version=19.7"
+  },
+  {
+    "name": "Creatore Oscuro",
+    "desc": "Puoi Evocare Specialmente questa carta (dalla tua mano) offrendo come Tributo 2 mostri Demone e/o Fata.\r\nNon può essere distrutta in battaglia.\r\nUna volta per turno: puoi Evocare Specialmente quanti più \"Segna-Creatore Oscuro\" possibili (Demone/OSCURITÀ/Livello 10/ATK 3000/DEF 1000), ma non possono attaccare direttamente né essere distrutti in battaglia, distruggili quando questa carta viene distrutta, inoltre non puoi Evocare Specialmente per il resto di questo turno.\r\nSe uno o più mostri vengono distrutti in battaglia: infliggi 700 danni al tuo avversario.",
+    "overallString": "[Mostro|Effetto] Demone/Oscurità  [★10] 3000/1000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257020.jpg?version=19.7"
+  },
+  {
+    "name": "Impatto del Fulmine",
+    "desc": "Aggiungi 1 mostro Tuono dal tuo Deck alla tua mano, ma non puoi Evocare Normalmente/Posizionare mostri con il suo nome fino alla fine del prossimo turno dopo che questa carta si è risolta.\r\nPuoi attivare solo 1 \"Impatto del Fulmine\" per turno.",
+    "overallString": "[Magia]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257021.jpg?version=19.7"
+  },
+  {
+    "name": "Catastrogue Tuner Oscuro",
+    "desc": "Puoi rivelare questa carta nella tua mano; immediatamente dopo che questo effetto si è risolto, Evoca Normalmente 1 mostro \"Tuner Oscuro\". Puoi utilizzare questo effetto di \"Catastrogue Tuner Oscuro\" una sola volta per turno.\r\nUna volta per turno, se controlli questa carta Evocata Normalmente/Posizionata: puoi offrire come Tributo sia questa carta scoperta che 1 mostro non-Tuner scoperto con Livello inferiore e, se lo fai, Evoca Specialmente 1 Mostro Synchro dal tuo Extra Deck con un Livello pari alla differenza tra i Livelli di quei mostri (questa Evocazione è trattata come Evocazione Synchro), poi puoi distruggere 1 carta controllata dal tuo avversario.",
+    "overallString": "[Mostro|Effetto|Tuner] Demone/Oscurità  [★8] 0/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257022.jpg?version=19.7"
+  },
+  {
+    "name": "Mano dell'Incubo Tuner Oscuro",
+    "desc": "Puoi rivelare questa carta nella tua mano; immediatamente dopo che questo effetto si è risolto, Evoca Normalmente 1 mostro \"Tuner Oscuro\". Puoi utilizzare questo effetto di \"Mano dell'Incubo Tuner Oscuro\" una sola volta per turno.\r\nSe questa carta viene Evocata Normalmente: puoi Evocare Specialmente 1 mostro di Livello 2 o inferiore dalla tua mano.\r\nUna volta per turno, se controlli questa carta Evocata Normalmente/Posizionata: puoi offrire come Tributo sia questa carta scoperta che 1 mostro non-Tuner scoperto con Livello inferiore e, se lo fai, Evoca Specialmente 1 Mostro Synchro dal tuo Extra Deck con un Livello pari alla differenza tra i Livelli di quei mostri (questa Evocazione è trattata come Evocazione Synchro).",
+    "overallString": "[Mostro|Effetto|Tuner] Guerriero/Oscurità  [★10] 0/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257023.jpg?version=19.7"
+  },
+  {
+    "name": "Sovrano della Fine del Chaos - Sovrano dell'Inizio e della Fine",
+    "desc": "Non può essere Evocato Normalmente/Posizionato. Deve essere Evocato Specialmente dalla tua mano bandendo 1 mostro Guerriero LUCE e 1 mostro Demone OSCURITÀ dal tuo Cimitero.\r\nL'Evocazione Speciale di questa carta non può essere annullata. Nessun giocatore può attivare carte o effetti quando questa carta viene Evocata Specialmente.\r\nSe controlli questa carta che è stata Evocata nel suo modo: puoi pagare 1000 LP; bandisci quante più carte possibili dal Terreno e dal Cimitero del tuo avversario, poi infliggi 500 danni al tuo avversario per ciascuna carta bandita da questo effetto. Puoi utilizzare questo effetto di \"Sovrano della Fine del Chaos - Sovrano dell'Inizio e della Fine\" una sola volta per turno.",
+    "overallString": "[Mostro|Effetto|Evocazione Speciale] Guerriero/Luce  [★10] 3500/2000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257026.jpg?version=19.7"
+  },
+  {
+    "name": "Iper Alza-Rango-Magico Forza Suprema",
+    "desc": "Scegli come bersaglio 1 Mostro Xyz \"Utopia\" o \"Utopico\" di Rango 9 o inferiore che controlli il cui Attributo originale è LUCE; Evoca Specialmente 1 Mostro Xyz \"Numero\" di Rango 10 o superiore dal tuo Extra Deck utilizzando quel Mostro Xyz che controlli (questa Evocazione è trattata come Evocazione Xyz; trasferisci i suoi Materiali), e se lo fai, attacca questa carta ad esso come Materiale.\r\nUn Mostro Xyz \"Numero 99\" che ha questa carta come Materiale guadagna questo effetto.\r\n● Una volta per Catena, quando il tuo avversario attiva l'effetto di un mostro durante la Battle Phase (Effetto Rapido): stacca tutti i Materiali da questa carta e, se lo fai, distruggi tutti i mostri controllati dal tuo avversario.",
+    "overallString": "[Magia]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257027.jpg?version=19.7"
+  },
+  {
+    "name": "Drago Hydradrive Perfectron",
+    "desc": "1+ Mostri Link\r\nSe questa carta viene Evocata tramite Link, oppure alla fine del Damage Step se questa carta ha combattuto: distruggi quanti più mostri possibili controllati dal tuo avversario, poi infliggi 300 danni al tuo avversario per ogni Mostro Link nel tuo Cimitero.\r\nMentre è scoperta sul Terreno, questa carta è anche di Attributo LUCE, ACQUA, FUOCO e VENTO.\r\nImmune agli effetti attivati dei mostri che condividono un Attributo con questa carta.\r\nSe questa carta con 1000 o più ATK sta per essere distrutta in battaglia o dall'effetto di una carta, puoi invece ridurre il suo ATK di 1000.",
+    "overallString": "[Mostro|Effetto|Link] Cyberso/Terra  [LINK-5] 5000/-  [←][→][↙][↓][↘]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257028.jpg?version=19.7"
+  },
+  {
+    "name": "Compagnia di Clown Hat",
+    "desc": "Valore Pendulum = 7\r\n[ Effetto Pendulum ]\r\nDurante la tua Main Phase: puoi mandare 1 carta \"Compagnia di Clown\" dal tuo Deck al tuo Cimitero, eccetto un Mostro Pendulum e, se lo fai, Evoca Specialmente questa carta, inoltre non puoi attivare gli effetti dei mostri Evocati Specialmente dal Deck o dall'Extra Deck fino alla fine del prossimo turno. Puoi utilizzare questo effetto di \"Compagnia di Clown Hat\" una sola volta per turno.\r\n----------------------------------------\r\n[ Effetto di un Mostro ]\r\nI mostri controllati dal tuo avversario perdono 1500 DEF mentre controlli un mostro Evocato tramite Tributo.\r\nSe questa carta viene offerta come Tributo: puoi attivare 1 di questi effetti (ma puoi utilizzare ciascuno di questi effetti di \"Compagnia di Clown Hat\" una sola volta per turno);\r\n● Mischia nel Deck tutti i Mostri Pendulum sul Terreno e scoperti negli Extra Deck.\r\n● Evoca Specialmente 1 mostro \"Compagnia di Clown\" non-Pendulum dal tuo Deck o Extra Deck, ignorando le sue condizioni di Evocazione.",
+    "overallString": "[Mostro|Effetto|Pendulum] Guerriero-Bestia/Luce  [★5] 1900/800  7/7",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100260001.jpg?version=19.7"
+  },
+  {
+    "name": "Compagnia di Clown Drish",
+    "desc": "2 Mostri Rituale, Fusione, Synchro, Xyz e/o Pendulum\r\nI tuoi mostri Evocati tramite Tributo possono effettuare un secondo attacco durante ogni Battle Phase.\r\nSe questa carta viene offerta come Tributo: puoi attivare 1 di questi effetti (ma puoi utilizzare ciascuno di questi effetti di \"Compagnia di Clown Drish\" una sola volta per turno);\r\n● Mischia tutti i Mostri Link sul Terreno e nei Cimiteri nell'Extra Deck.\r\n● Ciascun giocatore mischia l'intera propria mano nel Deck, poi pesca lo stesso numero di carte che ha mischiato.",
+    "overallString": "[Mostro|Effetto|Link] Guerriero-Bestia/Luce  [LINK-2] 1000/-  [←][↓]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305042.jpg?version=19.7"
+  },
+  {
+    "name": "Compagnia di Clown \"Finale\"",
+    "desc": "Se controlli un mostro Evocato tramite Tributo: scarta un qualsiasi numero di carte, poi scegli come bersaglio lo stesso numero di carte scoperte sul Terreno; distruggile.\r\nPuoi bandire questa carta dal tuo Cimitero e offrire come Tributo 1 Mostro Rituale, Fusione, Synchro, Xyz, Pendulum o Link dalla tua mano o dal tuo Terreno; aggiungi 1 mostro \"Compagnia di Clown\" dal tuo Deck o Cimitero alla tua mano il cui Livello/Rango/Classificazione Link originale non sia uguale a quello del mostro offerto come Tributo.\r\nPuoi utilizzare ciascun effetto di \"Compagnia di Clown \"Finale\"\" una sola volta per turno.",
+    "overallString": "[Trappola]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305076.jpg?version=19.7"
+  },
+  {
+    "name": "Specchio della Luna Piena",
+    "desc": "Ogni volta che uno o più mostri vengono distrutti in battaglia o dall'effetto di una carta, metti 1 Segnalino Luna Piena su questa carta per ciascuno di essi.\r\nPuoi rimuovere Segnalini Luna Piena da questa carta, poi attivare 1 di questi effetti;\r\n● 1: Evoca Specialmente 1 mostro di Livello 6 o inferiore (Demone o Fata) dalla tua mano o dal tuo Cimitero.\r\n● 3: Aggiungi 1 mostro OSCURITÀ di Livello 10 dal tuo Deck alla tua mano.\r\n● 5: Evoca Specialmente 1 mostro di Livello 10 dalla tua mano o dal tuo Cimitero.\r\nPuoi utilizzare questo effetto di \"Specchio della Luna Piena\" una sola volta per turno.",
+    "overallString": "[Magia|Continua]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100200288.jpg?version=19.7"
+  },
+  {
     "name": "Sipario di Magia Nero",
     "desc": "Ciascun giocatore può Evocare Specialmente 1 mostro Incantatore OSCURITÀ dalla propria mano o Deck (ma nessun giocatore può attivare i loro effetti in questo turno), poi, se hai Evocato Specialmente un mostro il cui nome originale è \"Mago Nero\" o \"Ragazza Maga Nera\", puoi aggiungere 1 Magia/Trappola che menziona \"Mago Nero\" dal tuo Deck alla tua mano, eccetto \"Sipario di Magia Nero\".\r\nPuoi attivare solo 1 \"Sipario di Magia Nero\" per turno.",
     "overallString": "[Magia|Rapida]",
