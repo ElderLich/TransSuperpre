@@ -1,5 +1,71 @@
 [
   {
+    "name": "Triple Lancement Borrelle",
+    "desc": "Activez 1 de ces effets (mais vous ne pouvez utiliser chaque effet de \"Triple Lancement Borrelle\" qu'une fois par tour) ;\r\n● Mélangez 1 monstre Dragon depuis votre Cimetière dans le Deck, puis vous pouvez Invoquer Spécialement 1 monstre \"Rokkette\" de nom différent depuis votre Deck.\r\n● Mélangez 2 monstres Dragon depuis votre Cimetière dans le Deck, puis ajoutez 1 Magie de Terrain depuis votre Cimetière à votre main.\r\n● Mélangez 3 monstres Dragon depuis votre Cimetière dans le Deck, puis mélangez max. 3 monstres depuis le Cimetière de votre adversaire dans le Deck.",
+    "overallString": "[Magie|Jeu-Rapide]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257018.jpg?version=19.7"
+  },
+  {
+    "name": "Wisca Cliquéclair",
+    "desc": "Si une ou plusieurs cartes ont été détruites par votre effet de carte \"Cliquéclair\" ce tour (Effet Rapide) : vous pouvez révéler cette carte dans votre main ; Invoquez Spécialement max. 3 monstres Tonnerre depuis votre main, puis vous pouvez détruire max. autant de cartes sur le Terrain, et aussi, vous ne pouvez pas Invoquer Spécialement de Monstres à Effet le reste de ce tour, sauf depuis la main.\r\nLorsqu'un effet de monstre est activé, sauf dans la main (Effet Rapide) : vous pouvez renvoyer 1 autre monstre Tonnerre que vous contrôlez à la main ; annulez l'activation, et si vous le faites, détruisez le monstre activant.\r\nVous ne pouvez utiliser chaque effet de \"Wisca Cliquéclair\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet] Tonnerre/Terre  [★8] 3000/2400",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305010.jpg?version=19.7"
+  },
+  {
+    "name": "Surtension Cliquéclair",
+    "desc": "Vous pouvez révéler cette carte dans votre main, puis ciblez 1 monstre sur le Terrain ; détruisez-le, et si vous le faites, Invoquez Spécialement 1 monstre Tonnerre depuis votre main, et aussi, vous ne pouvez pas Invoquer Spécialement de Monstres à Effet le reste de ce tour, sauf depuis la main.\r\nSi une ou plusieurs autres cartes sont détruites par un effet de carte, tant que cette carte est dans la Zone Monstre : vous pouvez ajouter 1 monstre \"Cliquéclair\" (\"Surtension Cliquéclair\" exclu) depuis votre Deck à votre main.\r\nVous ne pouvez utiliser chaque effet de \"Surtension Cliquéclair\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet] Tonnerre/Terre  [★4] 1800/1200",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305011.jpg?version=19.7"
+  },
+  {
+    "name": "Craquement Cliquéclair",
+    "desc": "Lorsque votre adversaire active un effet de monstre sur le Terrain durant son tour (Effet Rapide) : vous pouvez révéler cette carte dans votre main ; détruisez le monstre, et si vous le faites, Invoquez Spécialement 1 monstre Tonnerre depuis votre main, et aussi, vous ne pouvez pas Invoquer Spécialement de Monstres à Effet le reste de ce tour, sauf depuis la main.\r\nSi une ou plusieurs autres cartes sont détruites par un effet de carte, tant que cette carte est dans la Zone Monstre : vous pouvez envoyer 1 Magie/Piège \"Cliquéclair\" depuis votre Deck au Cimetière.\r\nVous ne pouvez utiliser chaque effet de \"Craquement Cliquéclair\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet] Tonnerre/Terre  [★3] 1500/900",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305012.jpg?version=19.7"
+  },
+  {
+    "name": "Grain Cliquéclair",
+    "desc": "Vous pouvez révéler cette carte dans votre main, puis ciblez 1 Magie/Piège sur le Terrain ; détruisez-le, et si vous le faites, Invoquez Spécialement 1 monstre Tonnerre depuis votre main, et aussi, vous ne pouvez pas Invoquer Spécialement de Monstres à Effet le reste de ce tour, sauf depuis la main.\r\nSi une ou plusieurs autres cartes sont détruites par un effet de carte, tant que cette carte est dans la Zone Monstre : vous pouvez ajouter 1 \"Kowloon, Citadelle du Ciel\" ou Magie \"Cliquéclair\" depuis votre Deck à votre main.\r\nVous ne pouvez utiliser chaque effet de \"Grain Cliquéclair\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet] Tonnerre/Terre  [★2] 1200/600",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305013.jpg?version=19.7"
+  },
+  {
+    "name": "Emi Cliquéclair",
+    "desc": "Si cette carte est ajoutée à votre main, sauf en la piochant : vous pouvez la révéler, puis ciblez 1 carte sur le Terrain ; détruisez-la, et si vous le faites, Invoquez Spécialement 1 monstre Tonnerre depuis votre main, et aussi, vous ne pouvez pas Invoquer Spécialement de Monstres à Effet le reste de ce tour, sauf depuis la main.\r\nSi une ou plusieurs autres cartes sont détruites par un effet de carte, tant que cette carte est dans la Zone Monstre : vous pouvez ajouter 1 Piège \"Cliquéclair\" depuis votre Deck à votre main.\r\nVous ne pouvez utiliser chaque effet de \"Emi Cliquéclair\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet] Tonnerre/Terre  [★1] 900/300",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305014.jpg?version=19.7"
+  },
+  {
+    "name": "Kowloon, Citadelle du Ciel",
+    "desc": "Les monstres que vous contrôlez qui ont été Invoqués Normalement ou Spécialement depuis la main gagnent 500 ATK/DEF.\r\nVous ne pouvez utiliser chacun des effets suivants de \"Kowloon, Citadelle du Ciel\" qu'une fois par tour.\r\nDurant votre Main Phase : vous pouvez Invoquer Spécialement 1 \"Jeton Mécabête\" (Machine/TERRE/Niveau 6/ATK 2000/DEF 2000) sur le Terrain de votre adversaire, et si vous le faites, ajoutez 1 monstre \"Cliquéclair\" depuis votre Deck à votre main.\r\nSi une ou plusieurs cartes sont détruites par votre effet de carte \"Cliquéclair\", tant que cette carte est dans votre Cimetière : vous pouvez ajouter cette carte à votre main.",
+    "overallString": "[Magie|Terrain]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305050.jpg?version=19.7"
+  },
+  {
+    "name": "Cliquéclair - Rupture",
+    "desc": "Activez 1 de ces effets ;\r\n● Placez 1 Piège Continu \"Cliquéclair\" depuis votre Deck face recto sur votre Terrain.\r\n● Renvoyez 1 monstre Tonnerre que vous contrôlez à la main, puis ciblez 1 carte sur le Terrain ; détruisez-la.\r\nSi une ou plusieurs cartes sont détruites par votre effet de carte \"Cliquéclair\", tant que cette carte est dans votre Cimetière : vous pouvez ajouter cette carte à votre main.\r\nVous ne pouvez utiliser chaque effet de \"Cliquéclair - Rupture\" qu'une fois par tour.",
+    "overallString": "[Magie|Jeu-Rapide]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305051.jpg?version=19.7"
+  },
+  {
+    "name": "Cliquéclair - Traceur par Bonds",
+    "desc": "Si une ou plusieurs cartes sont détruites par votre effet de carte \"Cliquéclair\" : vous pouvez cibler 1 monstre Tonnerre dans votre Cimetière ; ajoutez-le à votre main.\r\nDurant votre Main Phase : vous pouvez Invoquer Spécialement 1 monstre Tonnerre depuis votre main, puis détruisez cette carte.\r\nSi une ou plusieurs cartes sont détruites par votre effet de carte \"Cliquéclair\", tant que cette carte est dans votre Cimetière : vous pouvez ajouter cette carte à votre main.\r\nVous ne pouvez utiliser chaque effet de \"Cliquéclair - Traceur par Bonds\" qu'une fois par tour.",
+    "overallString": "[Magie|Continu]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305052.jpg?version=19.7"
+  },
+  {
+    "name": "Cliquéclair - Décharge de Retour",
+    "desc": "Les monstres \"Cliquéclair\" que vous contrôlez ne peuvent pas être détruits par des effets de carte de votre adversaire.\r\nVous ne pouvez utiliser chacun des effets suivants de \"Cliquéclair - Décharge de Retour\" qu'une fois par tour.\r\nLorsque votre adversaire active une Carte Magie ou effet de Magie : vous pouvez renvoyer 1 monstre \"Cliquéclair\" que vous contrôlez à la main ; annulez l'effet, et si vous le faites, détruisez la carte.\r\nVous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 monstre \"Cliquéclair\" dans votre Terrain ou Cimetière ; renvoyez-le à la main.",
+    "overallString": "[Piège|Continu]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305068.jpg?version=19.7"
+  },
+  {
+    "name": "Cliquéclair - Alternateur",
+    "desc": "Les monstres contrôlés par votre adversaire perdent 300 ATK/DEF pour chaque monstre Tonnerre que vous contrôlez.\r\nVous ne pouvez utiliser chacun des effets suivants de \"Cliquéclair - Alternateur\" qu'une fois par tour. Vous pouvez mélanger 1 autre carte \"Cliquéclair\" depuis votre main ou Terrain face recto dans le Deck ; ajoutez 1 monstre Tonnerre de nom différent depuis votre Deck à votre main.\r\nVous pouvez bannir cette carte depuis votre Cimetière ; ajoutez 1 \"Kowloon, Citadelle du Ciel\" ou Magie \"Cliquéclair\" depuis votre Deck à votre main.",
+    "overallString": "[Piège|Continu]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305069.jpg?version=19.7"
+  },
+  {
     "name": "Uria, Seigneur des Flammes Aveuglantes - Bêtes Sacrées du Feu Cataclysmique",
     "desc": "Ni Invocable Normalement ni Posable Normalement. Uniquement Invocable Spécialement avec une carte \"Bêtes Sacrées\".\r\nVous pouvez révéler cette carte dans votre main ; ajoutez 1 Piège \"Bêtes Sacrées\" depuis votre Deck à votre main, puis défaussez 1 carte.\r\nVous ne pouvez utiliser cet effet de \"Uria, Seigneur des Flammes Aveuglantes - Bêtes Sacrées du Feu Cataclysmique\" qu'une fois par tour.\r\nGagne 1000 ATK/DEF pour chaque Piège dans les Cimetières. Une fois par tour (Effet Rapide) : vous pouvez cibler 1 Magie/Piège sur le Terrain ; détruisez-le.\r\nAucun joueur ne peut ni activer de cartes ni d'effets en réponse à l'activation de cet effet.",
     "overallString": "[Monstre|Effet|Invocation Spéciale] Pyro/Feu  [★10] 0/0",
