@@ -1,5 +1,71 @@
 [
   {
+    "name": "Triple Lanzamiento Borre",
+    "desc": "Activa 1 de estos efectos (pero sólo puedes usar cada uno de los siguientes efectos de \"Triple Lanzamiento Borre\" una vez por turno);\r\n● Baraja al Deck 1 monstruo Dragón desde tu Cementerio, y después puedes Invocar de Modo Especial 1 monstruo \"Cohette\" con nombre diferente desde tu Deck.\r\n● Baraja al Deck 2 monstruos Dragón desde tu Cementerio, y después añade a tu mano 1 Mágica de Campo desde tu Cementerio.\r\n● Baraja al Deck 3 monstruos Dragón desde tu Cementerio, y después baraja al Deck hasta 3 monstruos del Cementerio de tu adversario.",
+    "overallString": "[Mágica|Juego Rápido]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257018.jpg?version=19.7"
+  },
+  {
+    "name": "Wisca Blitzclique",
+    "desc": "Si una carta fue destruida por el efecto de una carta \"Blitzclique\" este turno (Efecto Rápido): puedes revelar esta carta en tu mano; Invoca de Modo Especial hasta 3 monstruos Trueno desde tu mano, y después puedes destruir la misma cantidad de cartas en el Campo, y además no puedes Invocar de Modo Especial Monstruos de Efecto por el resto de este turno, excepto desde la mano. \r\nCuando se activa un efecto de monstruo, excepto en la mano (Efecto Rápido): puedes devolver a la mano 1 otro monstruo Trueno que controles; niega la activación y, si lo haces, destruye esa carta. \r\nSólo puedes usar cada efecto de \"Wisca Blitzclique\" una vez por turno.",
+    "overallString": "[Monstruo|Efecto] Trueno/TIERRA  [★8] 3000/2400",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305010.jpg?version=19.7"
+  },
+  {
+    "name": "Surge Blitzclique",
+    "desc": "Puedes revelar esta carta en tu mano, y después seleccionar 1 monstruo en el Campo; destrúyelo y, si lo haces, puedes Invocar de Modo Especial 1 monstruo Trueno desde tu mano, y además no puedes Invocar de Modo Especial Monstruos de Efecto por el resto de este turno, excepto desde la mano. \r\nSi otra carta es destruida por efecto de carta: puedes añadir a tu mano 1 monstruo \"Blitzclique\" desde tu Deck, excepto \"Surge Blitzclique\". \r\nSólo puedes usar cada efecto de \"Surge Blitzclique\" una vez por turno.",
+    "overallString": "[Monstruo|Efecto] Trueno/TIERRA  [★4] 1800/1200",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305011.jpg?version=19.7"
+  },
+  {
+    "name": "Crack Blitzclique",
+    "desc": "Durante el turno de tu adversario, cuando tu adversario activa un efecto de monstruo en el Campo (Efecto Rápido): puedes revelar esta carta en tu mano; destruye ese monstruo y, si lo haces, Invoca de Modo Especial 1 monstruo Trueno desde tu mano, y además no puedes Invocar de Modo Especial Monstruos de Efecto por el resto de este turno, excepto desde la mano. \r\nSi otra carta es destruida por efecto de carta: puedes mandar al Cementerio 1 Mágica/Trampa \"Blitzclique\" desde tu Deck. \r\nSólo puedes usar cada efecto de \"Crack Blitzclique\" una vez por turno.",
+    "overallString": "[Monstruo|Efecto] Trueno/TIERRA  [★3] 1500/900",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305012.jpg?version=19.7"
+  },
+  {
+    "name": "Grain Blitzclique",
+    "desc": "Puedes revelar esta carta en tu mano, y después seleccionar 1 Mágica/Trampa en el Campo; destrúyela y, si lo haces, Invoca de Modo Especial 1 monstruo Trueno desde tu mano, y además no puedes Invocar de Modo Especial Monstruos de Efecto por el resto de este turno, excepto desde la mano. \r\nSi otra carta es destruida por efecto de carta: puedes añadir a tu mano 1 Mágica \"Blitzclique\" o 1 \"Kowloon, Ciudadela del Cielo\" desde tu Deck. \r\nSólo puedes usar cada efecto de \"Grain Blitzclique\" una vez por turno.",
+    "overallString": "[Monstruo|Efecto] Trueno/TIERRA  [★2] 1200/600",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305013.jpg?version=19.7"
+  },
+  {
+    "name": "Emi Blitzclique",
+    "desc": "Si esta carta es añadida a tu mano, excepto robándola: puedes revelarla, y después seleccionar 1 carta en el Campo; destrúyela y, si lo haces, Invoca de Modo Especial 1 monstruo Trueno desde tu mano, y además no puedes Invocar de Modo Especial Monstruos de Efecto por el resto de este turno, excepto desde la mano. \r\nSi otra carta es destruida por efecto de carta: puedes añadir a tu mano 1 Trampa \"Blitzclique\" desde tu Deck. \r\nSólo puedes usar cada efecto de \"Emi Blitzclique\" una vez por turno.",
+    "overallString": "[Monstruo|Efecto] Trueno/TIERRA  [★1] 900/300",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305014.jpg?version=19.7"
+  },
+  {
+    "name": "Kowloon, Ciudadela del Cielo",
+    "desc": "Los monstruos Invocados de Modo Normal/Colocados o Invocados de Modo Especial desde la mano ganan 500 ATK/DEF. \r\nSólo puedes usar cada uno de los siguientes efectos de \"Kowloon, Ciudadela del Cielo\" una vez por turno. \r\nDurante tu Main Phase: puedes Invocar de Modo Especial 1 \"Ficha Mechbestia\" (Máquina/TIERRA/Nivel 6/ATK 2000/DEF 2000) al Campo de tu adversario y, si lo haces, añade a tu mano 1 monstruo \"Blitzclique\" desde tu Deck. \r\nSi una carta es destruida por el efecto de tu carta \"Blitzclique\" mientras esta carta está en tu Cementerio: puedes añadir esta carta a tu mano.",
+    "overallString": "[Mágica|Campo]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305050.jpg?version=19.7"
+  },
+  {
+    "name": "Separación Blitzclique",
+    "desc": "Activa 1 de los siguientes efectos:\r\n● Coloca 1 Trampa Continua \"Blitzclique\" desde tu Deck boca arriba en tu Zona de Mágicas y Trampas.\r\n● Devuelve a la mano 1 monstruo Trueno que controles, y después selecciona 1 carta en el Campo; destrúyela.\t\r\nSi una carta es destruida por el efecto de tu carta \"Blitzclique\" mientras esta carta está en tu Cementerio: puedes añadir esta carta a tu mano. \r\nSólo puedes usar cada efecto de \"Separación Blitzclique\" una vez por turno.",
+    "overallString": "[Mágica|Juego Rápido]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305051.jpg?version=19.7"
+  },
+  {
+    "name": "Líder Principal Blitzclique",
+    "desc": "Si una carta es destruida por el efecto de tu carta \"Blitzclique\": puedes seleccionar 1 monstruo Trueno en tu Cementerio; añádelo a tu mano. \r\nDurante tu Main Phase: puedes Invocar de Modo Especial 1 monstruo Trueno desde tu mano, y después destruir esta carta. \r\nSi una carta es destruida por el efecto de tu carta \"Blitzclique\" mientras esta carta está en tu Cementerio: puedes añadir esta carta a tu mano. \r\nSólo puedes usar cada efecto de \"Líder Principal Blitzclique\" una vez por turno.",
+    "overallString": "[Mágica|Continua]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305052.jpg?version=19.7"
+  },
+  {
+    "name": "Golpe de Retorno Blitzclique",
+    "desc": "Los monstruos \"Blitzclique\" que controles no pueden ser destruidos por efectos de cartas de tu adversario. \r\nSólo puedes usar cada uno de los siguientes efectos de \"Golpe de Retorno Blitzclique\" una vez por turno. \r\nCuando tu adversario activa una Carta Mágica o efecto: puedes devolver a la mano 1 monstruo \"Blitzclique\" que controles; niega el efecto y, si lo haces, destruye esa carta. \r\nPuedes desterrar esta carta en tu Cementerio y seleccionar 1 monstruo \"Blitzclique\" que controles o en tu Cementerio; devuélvelo a la mano.",
+    "overallString": "[Trampa|Continua]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305068.jpg?version=19.7"
+  },
+  {
+    "name": "Alternador Blitzclique",
+    "desc": "Los monstruos que controle tu adversario pierden 300 ATK/DEF por cada monstruo Trueno que controles. \r\nSólo puedes usar cada uno de los siguientes efectos de \"Alternador Blitzclique\" una vez por turno. \r\nPuedes barajar al Deck 1 otra carta \"Blitzclique\" en tu mano o Campo boca arriba; añade a tu mano 1 monstruo Trueno con nombre diferente desde tu Deck. \r\nPuedes desterrar esta carta en tu Cementerio; añade a tu mano 1 Mágica \"Blitzclique\" o 1 \"Kowloon, Ciudadela del Cielo\" desde tu Deck.",
+    "overallString": "[Trampa|Continua]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305069.jpg?version=19.7"
+  },
+  {
     "name": "Uria, Señor de las Llamas Abrasadoras – Bestia Sagrada del Fuego Cataclísmico",
     "desc": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial con una carta \"Bestia Sagrada\".  \r\nPuedes revelar esta carta en tu mano; añade a tu mano 1 Trampa \"Bestia Sagrada\" desde tu Deck, y después descarta 1 carta. \r\nSólo puedes usar este efecto de Uria, Señor de las Llamas Abrasadoras – Bestia Sagrada del Fuego Cataclísmico\" una vez por turno. \r\nGana 1000 ATK/DEF por cada Trampa en los Cementerios. \r\nUna vez por turno (Efecto Rápido): puedes seleccionar 1 Mágica/Trampa en el Campo; destrúyela. \r\nNingún jugador puede activar cartas o efectos en respuesta a la activación de este efecto.",
     "overallString": "[Monstruo|Efecto|Invocación Especial] Piro/FUEGO  [★10] 0/0",
