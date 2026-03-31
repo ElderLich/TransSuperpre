@@ -1,8 +1,14 @@
 [
   {
+    "name": "Rayonrage, le Démon du Crépuscule",
+    "desc": "Échelle Pendule = 1\r\n[ Effet Pendule ]\r\nSi un ou plusieurs Monstres Pendule que vous contrôlez vont être détruits par un effet de carte de l'adversaire, vous pouvez détruire cette carte à la place d'1 des Monstres Pendule.\r\nVous ne pouvez utiliser cet effet de \"Rayonrage, le Démon du Crépuscule\" qu'une fois par tour.\r\n----------------------------------------\r\n[ Effet de Monstre ]\r\nSi cette carte est dans votre main : vous pouvez cibler 1 Monstre Pendule que vous contrôlez ; placez le Monstre Pendule dans votre Zone Pendule (mais il ne peut pas activer ses Effets Pendule ce tour), et si vous le faites, Invoquez Spécialement cette carte.\r\n(Effet Rapide) : vous pouvez Sacrifier cette carte, puis ciblez 1 carte dans votre Zone Pendule ; elle ne peut pas être détruite par les effets de carte de votre adversaire ce tour. \r\nVous ne pouvez utiliser chaque effet de \"Rayonrage, le Démon du Crépuscule\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet|Pendule] Dragon/Lumiére  [★3] 1000/1500  1/1",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305025.jpg?version=19.7"
+  },
+  {
     "name": "Récupérateur Null de Couplage Anomalique",
     "desc": "1 Syntoniseur + 1+ non-Syntoniseur\r\nSi cette carte est Invoquée par Synchronisation : vous pouvez ajouter 1 monstre de min. Niveau 8 avec 0 ATK depuis votre Deck à votre main.\r\nVous pouvez cibler 1 monstre avec 0 ATK dans votre Cimetière ; Invoquez-le Spécialement, mais annulez ses effets, et aussi, il ne peut pas être utilisé comme Matériel pour une Invocation Fusion, Synchro, Xyz ou Lien.\r\nVous ne pouvez utiliser chaque effet de \"Récupérateur Null de Couplage Anomalique\" qu'une fois par tour.",
-    "overallString": "[Monstre|Effet|Synchro] Psychique/Ténébres  [★8] 0/0",
+    "overallString": "[Monstre|Effet|Synchro] Psychique/Ténébres  [★8] 0/2000",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305036.jpg?version=19.7"
   },
   {
@@ -28,48 +34,6 @@
     "desc": "(Cette carte est toujours traitée comme carte \"Possédé\".)\r\nBannissez un nombre de votre choix de monstres Magicien et/ou de Magies depuis votre Cimetière ; tous les monstres que vous contrôlez actuellement gagnent 200 ATK pour chaque carte bannie de cette façon, et s'ils le font, vous gagnez 400 LP pour chaque carte bannie de cette façon.\r\nDurant votre Main Phase : vous pouvez bannir cette carte depuis votre Cimetière ; Invoquez Spécialement un nombre de votre choix de monstres Magicien d'Attributs différents depuis votre main.\r\nVous ne pouvez utiliser qu'1 effet de \"Potion de Récupération de Pouvoir Spirituel\" par tour, et uniquement une fois le tour.",
     "overallString": "[Magie|Jeu-Rapide]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305060.jpg?version=19.7"
-  },
-  {
-    "name": "Tigre de Givre",
-    "desc": "Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez ajouter 1 monstre EAU Magicien de min. Niveau 5 ou 1 \"La Glace des Grands Hivers\" depuis votre Deck à votre main.\r\nVous ne pouvez utiliser cet effet de \"Tigre de Givre\" qu'une fois par tour.",
-    "overallString": "[Monstre|Effet] Aqua/Eau  [★4] 1900/1200",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100200285.jpg?version=19.7"
-  },
-  {
-    "name": "Guivre",
-    "desc": "Gagne 400 ATK pour chaque monstre Dragon que vous contrôlez.\r\nLorsque cette carte détruit un monstre au combat : vous pouvez Invoquer Spécialement 1 \"Jeton Vouivre\" (Dragon/LUMIÈRE/Niveau 1/ATK 400/DEF 400).\r\nDurant la Battle Phase ou Main Phase 2, vous pouvez (Effet Rapide) : immédiatement après la résolution de cet effet, Invoquez par Sacrifice 1 monstre Dragon face recto.\r\nVous ne pouvez utiliser cet effet de \"Guivre\" qu'une fois par tour.",
-    "overallString": "[Monstre|Effet] Dragon/Ténébres  [★4] 1300/400",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100200286.jpg?version=19.7"
-  },
-  {
-    "name": "Le Cheval Noir à Longue Queue",
-    "desc": "Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez révéler 1 monstre Zombie dans votre main et envoyer 1 monstre TERRE Zombie depuis votre Deck au Cimetière ; envoyez le monstre révélé au Cimetière, et si vous le faites, cette carte gagne 500 ATK jusqu'à la fin de ce tour.\r\nVous ne pouvez utiliser cet effet de \"Le Cheval Noir à Longue Queue\" qu'une fois par tour.",
-    "overallString": "[Monstre|Effet] Zombie/Terre  [★4] 1400/800",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100200287.jpg?version=19.7"
-  },
-  {
-    "name": "La Flûte de Guidage du Dragon",
-    "desc": "Si un monstre Magicien est sur le Terrain : Invoquez Spécialement 1 monstre Dragon de min. Niveau 5 depuis votre Deck, puis si votre adversaire contrôle min. 2 monstres, vous pouvez Invoquer Spécialement 1 monstre depuis votre Deck du même nom que le monstre Invoqué, et aussi, vous ne pouvez pas Invoquer Spécialement (monstres Dragon et Magicien exclus) le reste de ce tour.\r\nDurant votre Main Phase 2, si cette carte est dans votre Cimetière parce qu'elle y a été envoyée ce tour : vous pouvez la bannir ; piochez 1 carte.\r\nVous ne pouvez utiliser chaque de \"La Flûte de Guidage du Dragon\" qu'une fois par tour.",
-    "overallString": "[Magie]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257003.jpg?version=19.7"
-  },
-  {
-    "name": "Cyber Dragon de Révolution",
-    "desc": "Si vous ne contrôlez aucun monstre, vous pouvez Invoquer Spécialement cette carte (depuis votre main).\r\nVous ne pouvez utiliser chacun des effets suivants de \"Cyber Dragon de Révolution\" qu'une fois par tour.\r\nSi cette carte est Invoquée Spécialement : vous pouvez cibler 1 monstre face recto contrôlé par votre adversaire ; annulez ses effets jusqu'à la fin de ce tour.\r\nDurant votre Main Phase : vous pouvez Invoquer par Fusion 1 Monstre Fusion Machine depuis votre Extra Deck, en utilisant cette carte que vous contrôlez et des monstres depuis votre main ou Terrain.",
-    "overallString": "[Monstre|Effet] Machine/Lumiére  [★5] 2100/1600",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257005.jpg?version=19.7"
-  },
-  {
-    "name": "Dragon Rouge Nova - Âme Enflammée",
-    "desc": "2 Syntoniseurs + 1 non-Syntoniseur\r\nUniquement soit Invocable par Synchronisation soit Invocable Spécialement (depuis votre Extra Deck) en bannissant 2 Syntoniseurs et 1 \"Dragon Rouge Archdémon\" depuis votre Cimetière.\r\nSi cette carte est Invoquée Spécialement : vous pouvez ajouter 1 carte depuis votre Cimetière à votre main, et si vous le faites, cette carte gagne 2000 ATK.\r\nVous ne pouvez utiliser cet effet de \"Dragon Rouge Nova - Âme Enflammée\" qu'une fois par Duel, et uniquement durant un Duel où vous avez Invoqué par Synchronisation \"Dragon Rouge Archdémon\".\r\nNon destructible par des effets de carte.",
-    "overallString": "[Monstre|Effet|Synchro] Dragon/Ténébres  [★12] 3500/3000",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257008.jpg?version=19.7"
-  },
-  {
-    "name": "Dragon Changement Photon aux Yeux Galactiques",
-    "desc": "Vous pouvez Invoquer Spécialement cette carte (depuis votre main) en Sacrifiant 2 monstres face recto sur le Terrain avec min. 2000 ATK (un monstre que vous contrôlez inclus).\r\nVous ne pouvez Invoquer Spécialement \"Dragon Changement Photon aux Yeux Galactiques\" qu'une fois par tour de cette façon.\r\nDurant la Main Phase (Effet Rapide) : vous pouvez bannir cette carte que vous contrôlez ; Invoquez Spécialement 1 \"Dragon Photon aux Yeux Galactiques\" depuis votre Deck ou Cimetière, puis vous pouvez bannir 1 monstre contrôlé par votre adversaire qui a été Invoqué Spécialement depuis l'Extra Deck jusqu'à la End Phase.\r\nVous ne pouvez utiliser cet effet de \"Dragon Changement Photon aux Yeux Galactiques\" qu'une fois par tour.",
-    "overallString": "[Monstre|Effet] Dragon/Lumiére  [★8] 3000/2500",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257011.jpg?version=19.7"
   },
   {
     "name": "Lapin des Ténèbres Malin",
@@ -102,12 +66,6 @@
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261006.jpg?version=19.7"
   },
   {
-    "name": "Dragon Xyz de la Rébellion des Ténèbres des Quatre Dragons Célestes",
-    "desc": "2 monstres TÉNÈBRES de Niveau 4\r\n(Cette carte est toujours traitée comme carte \"Les Chevaliers Fantômes\".)\r\nSi cette carte est Invoquée Spécialement : vous pouvez cibler un nombre égal de cartes sur chaque Terrain ; détruisez-les.\r\nLorsque votre adversaire active une carte ou un effet (Effet Rapide) : vous pouvez détacher 1 Matériel de cette carte ; Invoquez Spécialement 1 Monstre Xyz TÉNÈBRES de Rang 4 depuis votre Extra Deck, en utilisant cette carte que vous contrôlez (ceci est traité comme une Invocation Xyz, transférez les Matériels de cette carte).\r\nVous ne pouvez utiliser chaque effet de \"Dragon Xyz de la Rébellion des Ténèbres des Quatre Dragons Célestes\" qu'une fois par tour.",
-    "overallString": "[Monstre|Effet|Xyz] Dragon/Ténébres  [☆4] 2500/2000",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257015.jpg?version=19.7"
-  },
-  {
     "name": "Les Chevaliers Fantômes de la Cape Délabrée",
     "desc": "Vous pouvez révéler 1 autre carte \"Les Chevaliers Fantômes\" dans votre main ; Invoquez Spécialement cette carte depuis votre main.\r\nSi cette carte est Invoquée Normalement ou Spécialement : vous pouvez ajouter 1 monstre \"Les Chevaliers Fantômes\" depuis votre Deck à votre main.\r\nVous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 Monstre Xyz que vous contrôlez ; ce tour, vous pouvez l'utiliser comme Matériel pour une Invocation Xyz en utilisant son Rang comme Niveau.\r\nVous ne pouvez utiliser chaque effet de \"Les Chevaliers Fantômes de la Cape Délabrée\" qu'une fois par tour.",
     "overallString": "[Monstre|Effet] Guerrier/Ténébres  [★3] 1000/300",
@@ -136,12 +94,6 @@
     "desc": "Si vous avez un monstre \"Les Chevaliers Fantômes\" dans votre Terrain ou Cimetière, vous pouvez activer cette carte le tour où elle a été Posée.\r\nInvoquez Spécialement cette carte en Position de Défense comme Monstre Normal (Guerrier/TÉNÈBRES/Niveau 3/ATK 0/DEF 300) (cette carte N'EST PAS traitée comme Piège), puis vous pouvez changer 1 monstre en Position d'Attaque contrôlé par votre adversaire en Position de Défense.\r\nVous pouvez bannir cette carte depuis votre Cimetière ; immédiatement après la résolution de cet effet, Invoquez par Xyz 1 Monstre Xyz TÉNÈBRES.\r\nVous ne pouvez utiliser chaque effet de \"Les Chevaliers Fantômes du Voile d'Ombrage\" qu'une fois par tour.",
     "overallString": "[Piège]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305073.jpg?version=19.7"
-  },
-  {
-    "name": "Triple Lancement Borrelle",
-    "desc": "Activez 1 de ces effets (mais vous ne pouvez utiliser chaque effet de \"Triple Lancement Borrelle\" qu'une fois par tour) ;\r\n● Mélangez 1 monstre Dragon depuis votre Cimetière dans le Deck, puis vous pouvez Invoquer Spécialement 1 monstre \"Rokkette\" de nom différent depuis votre Deck.\r\n● Mélangez 2 monstres Dragon depuis votre Cimetière dans le Deck, puis ajoutez 1 Magie de Terrain depuis votre Cimetière à votre main.\r\n● Mélangez 3 monstres Dragon depuis votre Cimetière dans le Deck, puis mélangez max. 3 monstres depuis le Cimetière de votre adversaire dans le Deck.",
-    "overallString": "[Magie|Jeu-Rapide]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257018.jpg?version=19.7"
   },
   {
     "name": "Wisca Cliquéclair",
@@ -270,54 +222,6 @@
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305067.jpg?version=19.7"
   },
   {
-    "name": "Plumes d'Or l'Impératrice",
-    "desc": "Vous pouvez envoyer 4 monstres avec min. 2400 ATK et 1000 DEF depuis votre main, Deck, et/ou Terrain face recto au Cimetière ; Invoquez Spécialement cette carte depuis votre main.\r\nVous pouvez cibler 1 Magie/Piège sur chaque Terrain ; détruisez-les, puis Invoquez Spécialement 1 \"Jeton Homoncule\" (Elfe/LUMIÈRE/Niveau 2/ATK 800/DEF 800) sur le Terrain de chaque joueur en Position de Défense, et si vous le faites, cette carte gagne 1600 ATK.\r\nVous ne pouvez utiliser chaque effet de \"Plumes d'Or l'Impératrice\" qu'une fois par tour.",
-    "overallString": "[Monstre|Effet] Elfe/Lumiére  [★8] 3300/2000",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257019.jpg?version=19.7"
-  },
-  {
-    "name": "Créateur Obscur",
-    "desc": "Vous pouvez Invoquer Spécialement cette carte (depuis votre main) en Sacrifiant 2 monstres Démon et/ou Elfe.\r\nNon destructible au combat. Une fois par tour : vous pouvez Invoquer Spécialement autant de \"Jeton Créateur Obscur\" (Démon/TÉNÈBRES/Niveau 10/ATK 3000/DEF 1000) que possible sur votre Terrain, mais ils ne peuvent ni attaquer directement ni être détruits au combat, détruisez-les lorsque cette carte est détruite, et aussi, vous ne pouvez pas Invoquer Spécialement le reste de ce tour.\r\nSi un ou plusieurs monstres sont détruits au combat : infligez 700 points de dommages à votre adversaire.",
-    "overallString": "[Monstre|Effet] Démon/Ténébres  [★10] 3000/1000",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257020.jpg?version=19.7"
-  },
-  {
-    "name": "Choc Lumineux",
-    "desc": "Ajoutez 1 monstre Tonnerre depuis votre Deck à votre main, mais vous ne pouvez pas Invoquer/Poser Normalement de monstres avec son nom jusqu'à la fin du prochain tour après la résolution de cette carte.\r\nVous ne pouvez activer qu'1 \"Choc Lumineux\" par tour.",
-    "overallString": "[Magie]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257021.jpg?version=19.7"
-  },
-  {
-    "name": "Syntoniseur Sombre Calamité",
-    "desc": "Vous pouvez révéler cette carte dans votre main ; immédiatement après la résolution de cet effet, Invoquez Normalement 1 monstre \"Syntoniseur Sombre\".\r\nVous ne pouvez utiliser cet effet de \"Syntoniseur Sombre Calamité\" qu'une fois par tour.\r\nUne fois par tour, si vous contrôlez cette carte Invoquée/Posée Normalement : vous pouvez Sacrifier cette carte face recto ainsi qu'1 non-Syntoniseur face recto de Niveau inférieur, et si vous le faites, Invoquez Spécialement 1 Monstre Synchro depuis votre Extra Deck de Niveau égal à la différence de Niveaux des monstres (ceci est traité comme une Invocation Synchro), puis vous pouvez détruire 1 carte contrôlée par votre adversaire.",
-    "overallString": "[Monstre|Effet|Syntoniseur] Démon/Ténébres  [★8] 0/0",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257022.jpg?version=19.7"
-  },
-  {
-    "name": "Syntoniseur Sombre Main Maudite",
-    "desc": "Vous pouvez révéler cette carte dans votre main ; immédiatement après la résolution de cet effet, Invoquez Normalement 1 monstre \"Syntoniseur Sombre\".\r\nVous ne pouvez utiliser cet effet de \"Syntoniseur Sombre Main Maudite\" qu'une fois par tour.\r\nSi cette carte est Invoquée Normalement : vous pouvez Invoquer Spécialement 1 monstre de max. Niveau 2 depuis votre main.\r\nUne fois par tour, si vous contrôlez cette carte Invoquée/Posée Normalement : vous pouvez Sacrifier cette carte face recto ainsi qu'1 non-Syntoniseur face recto de Niveau inférieur, et si vous le faites, Invoquez Spécialement 1 Monstre Synchro depuis votre Extra Deck de Niveau égal à la différence de Niveaux des monstres (ceci est traité comme une Invocation Synchro).",
-    "overallString": "[Monstre|Effet|Syntoniseur] Guerrier/Ténébres  [★10] 0/0",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257023.jpg?version=19.7"
-  },
-  {
-    "name": "Maître Ultime du Chaos - Maître du Commencement et de l'Achèvement",
-    "desc": "Ni Invocable Normalement ni Posable Normalement.\r\nUniquement Invocable Spécialement (depuis votre main) en bannissant 1 monstre LUMIÈRE Guerrier et 1 monstre TÉNÈBRES Démon depuis votre Cimetière.\r\nL'Invocation Spéciale de cette carte ne peut pas être annulée.\r\nAucun joueur ne peut ni activer de cartes ni d'effets lorsque cette carte est Invoquée Spécialement.\r\nSi vous contrôlez cette carte qui a été Invoquée de sa propre façon : vous pouvez payer 1000 LP ; bannissez autant de cartes depuis le Terrain et Cimetière de votre adversaire que possible, puis infligez 500 points de dommages à votre adversaire pour chaque carte bannie par cet effet.\r\nVous ne pouvez utiliser cet effet de \"Maître Ultime du Chaos - Maître du Commencement et de l'Achèvement\" qu'une fois par tour.",
-    "overallString": "[Monstre|Effet|Invocation Spéciale] Guerrier/Lumiére  [★10] 3500/2000",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257026.jpg?version=19.7"
-  },
-  {
-    "name": "Force Ultime Hyper Magie-Rang-Plus",
-    "desc": "Ciblez 1 Monstre Xyz \"Utopie\" ou \"Utopique\" de max. Rang 9 que vous contrôlez dont l'Attribut d'origine est LUMIÈRE ; Invoquez Spécialement 1 Monstre Xyz \"Numéro\" de min. Rang 10 depuis votre Extra Deck, en utilisant le Monstre Xyz que vous contrôlez (ceci est traité comme une Invocation Xyz, transférez ses Matériels), et si vous le faites, attachez-lui cette carte.\r\nUn Monstre Xyz \"Numéro 99\" qui a cette carte comme Matériel gagne cet effet.\r\n● Une fois par Chaîne, lorsque votre adversaire active un effet de monstre durant la Battle Phase (Effet Rapide) : détachez tous les Matériels de cette carte, et si vous le faites, détruisez tous les monstres contrôlés par votre adversaire.",
-    "overallString": "[Magie]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257027.jpg?version=19.7"
-  },
-  {
-    "name": "Dragon Propulshydre Parfaitron",
-    "desc": "1+ Monstre Lien\r\nSi cette carte est Invoquée par Lien, ou à la fin de la Damage Step, si cette carte a combattu : détruisez autant de monstres contrôlés par votre adversaire que possible, puis infligez 300 points de dommages à votre adversaire pour chaque Monstre Lien dans votre Cimetière.\r\nTant que cette carte est face recto sur le Terrain, elle est aussi LUMIÈRE, EAU, FEU et VENT.\r\nNon affectée par les effets activés de monstres qui partagent un Attribut avec cette carte.\r\nSi cette carte va être détruite au combat ou par un effet de carte, vous pouvez lui faire perdre exactement 1000 ATK à la place.",
-    "overallString": "[Monstre|Effet|Lien] Cyberse/Terre  [LINK-5] 5000/-  [←][→][↙][↓][↘]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257028.jpg?version=19.7"
-  },
-  {
     "name": "Chapeau, Troupe de Clowns",
     "desc": "Échelle Pendule = 7\r\n[ Effet Pendule ]\r\nDurant votre Main Phase : vous pouvez envoyer 1 carte \"Troupe de Clowns\" (Monstres Pendule exclus) depuis votre Deck au Cimetière, et si vous le faites, Invoquez Spécialement cette carte, et aussi, vous ne pouvez pas activer les effets de monstres Invoqués Spécialement depuis le Deck ou Extra Deck jusqu'à la fin du prochain tour. Vous ne pouvez utiliser cet effet de \"Chapeau, Troupe de Clowns\" qu'une fois par tour.\r\n----------------------------------------\r\n[ Effet de Monstre ]\r\nLes monstres contrôlés par votre adversaire perdent 1500 DEF tant que vous contrôlez un monstre Invoqué par Sacrifice. Si cette carte est Sacrifiée : vous pouvez activer 1 de ces effets (mais vous ne pouvez utiliser chacun de ces effets de \"Chapeau, Troupe de Clowns\" qu'une fois par tour) ;\r\n● Mélangez tous les Monstres Pendule sur le Terrain et face recto dans les Extra Decks dans le Deck.\r\n● Invoquez Spécialement 1 monstre \"Troupe de Clowns\" non-Pendule depuis votre Deck ou Extra Deck, en ignorant ses conditions d'Invocation.",
     "overallString": "[Monstre|Effet|Pendule] Bête-Guerrier/Lumiére  [★5] 1900/800  7/7",
@@ -334,12 +238,6 @@
     "desc": "Si vous contrôlez un monstre Invoqué par Sacrifice : défaussez un nombre de cartes de votre choix, puis ciblez autant de cartes face recto sur le Terrain ; détruisez-les.\r\nVous pouvez bannir cette carte depuis votre Cimetière et Sacrifier 1 Monstre Rituel, Fusion, Synchro, Xyz, Pendule ou Lien depuis votre main ou Terrain ; ajoutez 1 monstre \"Troupe de Clowns\" depuis votre Deck ou Cimetière à votre main dont le Niveau/Rang/Classification Lien d'origine n'est pas égal à celui du monstre Sacrifié.\r\nVous ne pouvez utiliser chaque effet de \"Troupe de Clowns \"Final\"\" qu'une fois par tour.",
     "overallString": "[Piège]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305076.jpg?version=19.7"
-  },
-  {
-    "name": "Miroir Pleine Lune",
-    "desc": "Chaque fois qu'un ou plusieurs monstres sont détruits au combat ou par un effet, placez 1 Compteur Pleine Lune sur cette carte pour chacun d'eux. Vous pouvez retirer des Compteurs Pleine Lune de cette carte, puis activez 1 de ces effets ;\r\n● 1 : Invoquez Spécialement 1 monstre de max. Niveau 6 (Démon ou Elfe) depuis votre main ou Cimetière.\r\n● 3 : Ajoutez 1 monstre TÉNÈBRES de Niveau 10 depuis votre Deck à votre main.\r\n● 5 : Invoquez Spécialement 1 monstre de Niveau 10 depuis votre main ou Cimetière.\r\nVous ne pouvez utiliser cet effet de \"Miroir Pleine Lune\" qu'une fois par tour.",
-    "overallString": "[Magie|Continu]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100200288.jpg?version=19.7"
   },
   {
     "name": "Chaos Sombre l'Épéiste Magique Ultime",
@@ -400,101 +298,5 @@
     "desc": "Vous pouvez Invoquer Rituellement cette carte avec \"Rituel de la Lumière et des Ténèbres\".\r\nNon destructible au combat. Non affectée par des effets activés de votre adversaire, sauf s'il cible cette carte.\r\nVous ne pouvez utiliser chacun des effets suivants de \"Soldat du Lustre Noir - Soldat de la Lumière et des Ténèbres\" qu'une fois par tour.\r\nSi cette carte est Invoquée Spécialement : vous pouvez cibler 1 carte contrôlée par votre adversaire ; bannissez-la.\r\nLorsque cette carte détruit un monstre de l'adversaire au combat : vous pouvez faire gagner 1500 ATK à cette carte, et si vous le faites, elle peut faire une seconde attaque à la suite.",
     "overallString": "[Monstre|Effet|Rituel] Guerrier/Terre  [★8] 3000/2500",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305028.jpg?version=19.7"
-  },
-  {
-    "name": "Dragon Rose Noire/Mode Assaut",
-    "desc": "Ni Invocable Normalement ni Posable Normalement.\r\nUniquement Invocable Spécialement avec \"Activation Mode Assaut\".\r\nSi cette carte est détruite : vous pouvez Invoquer Spécialement 1 \"Dragon Rose Noire\" depuis votre Cimetière.\r\nVous ne pouvez utiliser chacun des effets suivants de \"Dragon Rose Noire/Mode Assaut\" qu'une fois par tour.\r\nVous pouvez révéler cette carte dans votre main ; mélangez-la dans le Deck, et si vous le faites, changez l'ATK d'1 monstre face recto sur le Terrain à 0.\r\nSi cette carte est Invoquée Spécialement, ou un ou plusieurs monstres sont Invoqués Spécialement sur le Terrain de votre adversaire : vous pouvez détruire toutes les cartes sur le Terrain.",
-    "overallString": "[Monstre|Effet|Invocation Spéciale] Dragon/Feu  [★9] 2900/2300",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100258001.jpg?version=19.7"
-  },
-  {
-    "name": "Dheadevil Prédaplante",
-    "desc": "1 monstre \"Prédaplante\" + 1 monstre de Niveau 1\r\nDoit d'abord être soit Invoquée par Fusion, soit Invoquée Spécialement (depuis votre Extra Deck) en Sacrifiant 1 monstre sur un des Terrains avec un Compteur Prédateur et 1 monstre \"Prédaplante\" que vous contrôlez.\r\nDurant la Main Phase, si cette carte a été Invoquée Spécialement ce tour (Effet Rapide) : vous pouvez cibler un nombre de Magies/Pièges sur le Terrain, inférieur ou égal au nombre de monstres avec un Compteur Prédateur ; détruisez-les.\r\nVous ne pouvez utiliser cet effet de \"Dheadevil Prédaplante\" qu'une fois par tour.",
-    "overallString": "[Monstre|Effet|Fusion] Plante/Ténébres  [★6] 2200/1500",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100258002.jpg?version=19.7"
-  },
-  {
-    "name": "Dragon Blanc aux Yeux Profonds, l'Abysse Bleue",
-    "desc": "(Cette carte est toujours traitée comme carte \"Yeux Bleus\".)\r\nVous pouvez défausser cette carte ; ajoutez 1 Syntoniseur LUMIÈRE de Niveau 1 depuis votre Deck à votre main.\r\nSi un ou plusieurs \"Dragon Blanc aux Yeux Bleus\" et/ou Monstres Rituel \"Yeux Bleus\" sont envoyés à votre Cimetière : vous pouvez en cibler 1 ; Invoquez Spécialement cette carte depuis votre Cimetière (si elle y était lorsque le monstre a été envoyé) ou votre main (même si elle n'y était pas), et si vous le faites, son ATK devient celle du monstre, et aussi, bannissez-la lorsqu'elle quitte le Terrain.\r\nVous ne pouvez utiliser chaque effet de \"Dragon Blanc aux Yeux Profonds, l'Abysse Bleue\" qu'une fois par tour.",
-    "overallString": "[Monstre|Effet] Dragon/Lumiére  [★10] 0/0",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257002.jpg?version=19.7"
-  },
-  {
-    "name": "Fusion du Futur Nova",
-    "desc": "Lorsque cette carte est activée : Invoquez par Fusion 1 Monstre Fusion LUMIÈRE Machine depuis votre Extra Deck, en utilisant des monstres depuis votre Deck (\"Cyber Dragon\" inclus), et aussi, le reste de ce tour après la résolution de cette carte, vous ne pouvez pas Invoquer Spécialement (monstres Machine exclus), et aussi, vous ne pouvez pas déclarer d'attaque, sauf avec le monstre Invoqué.\r\nLorsque cette carte quitte le Terrain, détruisez le monstre.\r\nLorsque le monstre est détruit, détruisez cette carte.\r\nVous ne pouvez activer qu'1 \"Fusion du Futur Nova\" par tour.",
-    "overallString": "[Magie|Continu]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257006.jpg?version=19.7"
-  },
-  {
-    "name": "Chaîne du Dragon Rouge Archdémon",
-    "desc": "Vous pouvez activer cette carte le tour où elle a été Posée, en révélant 1 \"Dragon Rouge Archdémon\" dans votre Extra Deck.\r\nActivez cette carte en révélant un nombre de votre choix de monstres dans votre main, puis ciblez un nombre de Monstres à Effet contrôlés par votre adversaire égal au nombre de Syntoniseurs révélés +1 ; ils perdent 100 ATK pour chaque carte révélée, et aussi, leurs effets sont annulés.\r\nSi le dernier de ces monstres n'est pas sur le Terrain, détruisez cette carte.\r\nVous ne pouvez activer qu'1 \"Chaîne du Dragon Rouge Archdémon\" par tour.",
-    "overallString": "[Piège|Continu]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257009.jpg?version=19.7"
-  },
-  {
-    "name": "Défense Galactique Orbital 7",
-    "desc": "Vous pouvez Sacrifier cette carte depuis votre main ou Terrain ; prenez 1 monstre \"Photon\" et 1 monstre \"Galactique\" depuis votre Deck, ajoutez-en 1 à votre main, et envoyez l'autre au Cimetière, et aussi, vous ne pouvez pas Invoquer Spécialement (monstres LUMIÈRE exclus) le reste de ce tour.\r\nSi un ou plusieurs monstres \"Yeux Galactiques\" sont Invoqués Spécialement sur votre Terrain : vous pouvez Invoquer Spécialement cette carte depuis votre Cimetière, mais bannissez-la lorsqu'elle quitte le Terrain.\r\nVous ne pouvez utiliser chaque effet de \"Défense Galactique Orbital 7\" qu'une fois par tour.",
-    "overallString": "[Monstre|Effet] Machine/Lumiére  [★8] 2000/2000",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257012.jpg?version=19.7"
-  },
-  {
-    "name": "Dragon Synchro de l'Aile Claire des Quatre Dragons Célestes",
-    "desc": "1 Syntoniseur + 1+ monstre non-Syntoniseur\r\n(Cette carte est toujours traitée comme carte \"Vitesseroid\".)\r\nSi cette carte est Invoquée Spécialement : vous pouvez détruire 1 Monstre à Effet contrôlé par votre adversaire, et si vous le faites, cette carte gagne une ATK égale à l'ATK d'origine du monstre.\r\nLorsque votre adversaire active une carte ou un effet (Effet Rapide) : vous pouvez Invoquer Spécialement 1 Syntoniseur VENT de max. Niveau 4 depuis votre main ou Cimetière (mais annulez ses effets), puis immédiatement après la résolution de cet effet, vous pouvez Invoquer par Synchronisation 1 Monstre Synchro VENT.\r\nVous ne pouvez utiliser chaque effet de \"Dragon Synchro de l'Aile Claire des Quatre Dragons Célestes\" qu'une fois par tour.",
-    "overallString": "[Monstre|Effet|Synchro] Dragon/Vent  [★7] 2500/2000",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257014.jpg?version=19.7"
-  },
-  {
-    "name": "Barrage Rokkette",
-    "desc": "Vous pouvez envoyer 1 monstre TÉNÈBRES Dragon (monstres de Niveau 5 exclus) depuis votre Deck à votre Cimetière ; Invoquez Spécialement cette carte depuis votre main, et aussi, vous ne pouvez pas Invoquer Spécialement (monstres TÉNÈBRES exclus) depuis l'Extra Deck le reste de ce tour. Lorsqu'un effet de Monstre Lien qui cible cette carte face recto sur le Terrain est activé (Effet Rapide) : vous pouvez détruire cette carte, puis Invoquez Spécialement max. 1 monstre \"Rokkette\" (\"Barrage Rokkette\" exclu) chacun depuis votre main, Deck, Cimetière et/ou bannissement.\r\nVous ne pouvez utiliser chaque effet de \"Barrage Rokkette\" qu'une fois par tour.",
-    "overallString": "[Monstre|Effet] Dragon/Ténébres  [★5] 1500/1600",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257017.jpg?version=19.7"
-  },
-  {
-    "name": "Dragon Blanc aux Yeux Bleus, la Bête Fantôme Blanche",
-    "desc": "Lorsqu'une carte ou un effet qui cible cette carte sur le Terrain est activé (Effet Rapide) : vous pouvez défausser 1 carte ; annulez l'effet.\r\nVous ne pouvez utiliser chacun des effets suivants de \"Dragon Blanc aux Yeux Bleus, la Bête Fantôme Blanche\" qu'une fois par tour.\r\nLorsque cette carte est ajoutée depuis le Deck à votre main, ou que votre monstre est détruit au combat : vous pouvez révéler cette carte dans votre main ; Invoquez-la Spécialement.\r\nSi cette carte est Invoquée Spécialement depuis la main ou Deck : vous pouvez détruire tous les monstres contrôlés par votre adversaire, et aussi, vous ne pouvez pas attaquer directement le reste de ce tour, sauf avec des monstres \"Yeux Bleus\".",
-    "overallString": "[Monstre|Effet] Dragon/Lumiére  [★8] 3000/2500",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257001.jpg?version=19.7"
-  },
-  {
-    "name": "Dragon Cyber Ultime le Dragon de la Frappe Décisive",
-    "desc": "3 monstres Machine avec min. 2100 ATK\r\nUniquement Invocable par Fusion.\r\nSi cette carte est Invoquée par Fusion en utilisant uniquement des monstres LUMIÈRE : vous pouvez payer 4000 LP ; ajoutez 1 \"Limiter Removal\" depuis votre Deck à votre main.\r\nVous ne pouvez utiliser cet effet de \"Dragon Cyber Ultime le Dragon de la Frappe Décisive\" qu'une fois par tour.\r\nSi cette carte attaque un monstre en Position de Défense, infligez des dommages de combat perçants à votre adversaire.\r\nCette carte dont l'ATK actuelle est supérieure à son ATK d'origine peut faire max. 3 attaques durant chaque Battle Phase.",
-    "overallString": "[Monstre|Effet|Fusion] Machine/Lumiére  [★10] 4000/2800",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257004.jpg?version=19.7"
-  },
-  {
-    "name": "Dragon Cramoisi Quetzacoatl",
-    "desc": "1 Syntoniseur + 1+ monstre non-Syntoniseur\r\nGagne une ATK égale à la somme des ATK d'origine de tous les autres Monstres Synchro que vous contrôlez.\r\nVous ne pouvez utiliser chacun des effets suivants de \"Dragon Cramoisi Quetzacoatl\" qu'une fois par tour.\r\nSi cette carte est Invoquée par Synchronisation : vous pouvez Invoquer Spécialement autant de Monstres Synchro Dragon depuis votre Cimetière que possible, et aussi, vous ne pouvez pas Invoquer Spécialement le reste de ce tour.\r\nLorsque votre adversaire active un effet de monstre (Effet Rapide) : vous pouvez renvoyer 1 autre Monstre Synchro Dragon que vous contrôlez à l'Extra Deck, et si vous le faites, annulez l'activation.",
-    "overallString": "[Monstre|Effet|Synchro] Dragon/Ténébres  [★12] 0/0",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257007.jpg?version=19.7"
-  },
-  {
-    "name": "Néo Dragon Photon aux Yeux Galactiques - Hurlement Photon",
-    "desc": "3 monstres de Niveau 8\r\nUne fois par tour, vous pouvez aussi Invoquer par Xyz \"Néo Dragon Photon aux Yeux Galactiques - Hurlement Photon\" en utilisant 1 Monstre Xyz de Rang 8 que vous contrôlez (transférez ses Matériels).\r\nSi cette carte est Invoquée par Xyz : vous pouvez prendre 1 monstre \"Photon\" depuis votre Deck, et soit Invoquez-le Spécialement en Position de Défense, soit attachez-le à cette carte comme Matériel.\r\n(Effet Rapide) : vous pouvez détacher 3 Matériels de cette carte ; Sacrifiez 1 autre Monstre Xyz, et si vous le faites, annulez les effets de toutes les autres cartes face recto actuellement sur le Terrain jusqu'à la fin de ce tour.",
-    "overallString": "[Monstre|Effet|Xyz] Dragon/Lumiére  [☆8] 4500/3000",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257010.jpg?version=19.7"
-  },
-  {
-    "name": "Dragon Fusion Venin Affamé des Quatre Dragons Célestes",
-    "desc": "2 monstres TÉNÈBRES sur le Terrain\r\n(Cette carte est toujours traitée comme une carte \"Predaplante\".)\r\nSi cette carte est Invoquée Spécialement : vous pouvez cibler 1 autre monstre face recto sur le Terrain ; son ATK devient 0, annulez ses effets, et aussi, il devient TÉNÈBRES.\r\nLorsque votre adversaire active une carte ou un effet (Effet Rapide) : vous pouvez Invoquer par Fusion 1 Monstre Fusion TÉNÈBRES depuis votre Extra Deck, en utilisant des monstres TÉNÈBRES (cette carte incluse) sur au moins l'un des Terrains.\r\nVous ne pouvez utiliser chaque effet de \"Dragon Fusion Venin Affamé des Quatre Dragons Célestes\" qu'une fois par tour.",
-    "overallString": "[Monstre|Effet|Fusion] Dragon/Ténébres  [★8] 2800/2000",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257013.jpg?version=19.7"
-  },
-  {
-    "name": "Dragon Libérateur Chargeborrelle",
-    "desc": "3+ Monstres à Effet\r\nVous ne pouvez Invoquer Spécialement un ou plusieurs \"Dragon Libérateur Chargeborrelle\" qu'une fois par tour.\r\nUne fois par tour, durant la Battle Phase (Effet Rapide) : vous pouvez placer 1 monstre contrôlé par votre adversaire dans une zone pointée par cette carte et en prendre le contrôle.\r\nVotre adversaire ne peut ni activer de cartes ni d'effets en réponse à l'activation de cet effet.\r\nUne fois par Chaîne, si cette carte est dans votre Cimetière (Effet Rapide) : vous pouvez cibler 1 monstre que vous contrôlez ; détruisez-le, et si vous le faites, Invoquez Spécialement cette carte.",
-    "overallString": "[Monstre|Effet|Lien] Dragon/Ténébres  [LINK-4] 3000/-  [←][→][↙][↘]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257016.jpg?version=19.7"
-  },
-  {
-    "name": "Ogre Gatling",
-    "desc": "Vous pouvez envoyer un nombre de votre choix de cartes face verso depuis votre Zone Magie & Piège au Cimetière ; infligez 800 points de dommages à votre adversaire pour chacune, et aussi, votre adversaire ne reçoit aucun dommage d'effets de monstres non-Démon le reste de ce tour.\r\nVous ne pouvez utiliser cet effet de \"Ogre Gatling\" qu'une fois par tour.\r\nUne fois par tour, lorsque cette carte est ciblée par une attaque : vous pouvez infliger 500 points de dommages à votre adversaire pour chaque monstre en Position d'Attaque qu'il contrôle, puis terminez la Battle Phase.",
-    "overallString": "[Monstre|Effet] Démon/Feu  [★3] 800/800",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257024.jpg?version=19.7"
-  },
-  {
-    "name": "Tireur de la Catastrophe Enfernité",
-    "desc": "Durant votre Main Phase : vous pouvez Invoquer Spécialement 1 monstre Démon depuis votre main.\r\nSi vous n'avez aucune carte dans votre main (Effet Rapide) : vous pouvez bannir cette carte depuis votre Cimetière ; votre adversaire choisit 1 de ces effets pour vous à appliquer.\r\n● Révélez la carte du dessus de votre Deck, et si c'est un monstre, votre adversaire reçoit tous les dommages d'effet que vous auriez dû recevoir ce tour à la place. Sinon, vous recevez 4000 points de dommages.\r\n● Vous ne recevez aucun dommage d'effet ce tour.\r\nVous ne pouvez utiliser chaque effet de \"Tireur de la Catastrophe Enfernité\" qu'une fois par tour.",
-    "overallString": "[Monstre|Effet] Démon/Ténébres  [★1] 100/100",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257025.jpg?version=19.7"
   }
 ]
