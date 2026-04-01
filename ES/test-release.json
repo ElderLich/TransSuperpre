@@ -1,8 +1,14 @@
 [
   {
+    "name": "Rayrage, el Demonio del Crepúsculo",
+    "desc": "←◊1 Escala 1◊→\r\n【Efecto de Péndulo】\r\nSi uno o más Monstruos de Péndulo que controles fueran a ser destruidos por el efecto de una carta del adversario, puedes destruir esta carta en lugar de 1 de esos monstruos. \r\nSólo puedes usar este efecto de \"Rayrage, el Demonio del Crepúsculo\" una vez por turno.\r\n━━━━━━━━━━━━━━━━━━━━━━━\r\n【Efecto de Monstruo】\r\nSi esta carta está en tu mano: puedes seleccionar 1 Monstruo de Péndulo que controles; colócalo en tu Zona de Péndulo (pero no puede activar sus Efectos de Péndulo este turno) y, si lo haces, Invoca esta carta de Modo Especial. \r\n(Efecto Rápido): Puedes Sacrificar esta carta, y después seleccionar 1 carta en tu Zona de Péndulo; no puede ser destruida por efectos de cartas de tu adversario este turno. \r\nSólo puedes usar cada uno de los efectos de \"Rayrage, el Demonio del Crepúsculo\" una vez por turno.",
+    "overallString": "[Monstruo|Efecto|Péndulo] Dragón/LUZ  [★3] 1000/1500  1/1",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305025.jpg?version=19.7"
+  },
+  {
     "name": "Glitch Clutch Anulaganador",
     "desc": "1 Cantante + 1+ monstruos que no sean Cantantes\t\r\nSi esta carta es Invocada por Sincronía: puedes añadir a tu mano 1 monstruo de Nivel 8 o mayor con 0 ATK desde tu Deck. \r\nPuedes seleccionar 1 monstruo con 0 ATK en tu Cementerio; Invoca ese monstruo de Modo Especial, pero sus efectos son negados y no puede ser usado como material para una Invocación por Fusión, Sincronía, Xyz o Enlace. \r\nSólo puedes usar cada uno de los efectos de \"Glitch Clutch Anulaganador\" una vez por turno.",
-    "overallString": "[Monstruo|Efecto|Sincronía] Psíquico/OSCURIDAD  [★8] 0/0",
+    "overallString": "[Monstruo|Efecto|Sincronía] Psíquico/OSCURIDAD  [★8] 0/2000",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305036.jpg?version=19.7"
   },
   {
@@ -28,48 +34,6 @@
     "desc": "(Esta carta se trata siempre como una carta \"Poseído/a\").\t\r\nDestierra cualquier cantidad de monstruos Lanzador de Conjuros y/o Mágicas en tu Cementerio; todos los monstruos que controles en este momento ganan 200 ATK por cada carta desterrada de esta forma y, si lo hacen, ganas 400 LP por cada una. \r\nDurante tu Main Phase: puedes desterrar esta carta en tu Cementerio; Invoca de Modo Especial cualquier cantidad de monstruos Lanzador de Conjuros con diferentes Atributos desde tu mano (máx. 1 por Atributo). \r\nSólo puedes usar uno de los efectos de \"Poción de Restauración de Energía Espiritual\" por turno, y sólo una vez ese turno.",
     "overallString": "[Mágica|Juego Rápido]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305060.jpg?version=19.7"
-  },
-  {
-    "name": "Tigre Frío",
-    "desc": "Si esta carta es Invocada de Modo Normal o Especial: puedes añadir a tu mano 1 monstruo Lanzador de Conjuros de AGUA de Nivel 5 o mayor, o 1 \"Pilares de Hielo Gemelos\", desde tu Deck. \r\nSólo puedes usar el efecto de \"Tigre Frío\" una vez por turno.",
-    "overallString": "[Monstruo|Efecto] Aqua/AGUA  [★4] 1900/1200",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100200285.jpg?version=19.7"
-  },
-  {
-    "name": "Guivre",
-    "desc": "Gana 400 ATK por cada monstruo Dragón que controles. \r\nCuando esta carta destruye un monstruo en batalla: puedes Invocar de Modo Especial 1 \"Ficha Wyvern\" (Dragón/LUZ/Nivel 1/ATK 400/DEF 400). \r\n(Efecto Rápido): Durante la Battle Phase o Main Phase 2, puedes: inmediatamente después de que este efecto se resuelva, Invocar por Sacrificio 1 monstruo Dragón boca arriba. \r\nSólo puedes usar este efecto de \"Guivre\" una vez por turno.",
-    "overallString": "[Monstruo|Efecto] Dragón/OSCURIDAD  [★4] 1300/400",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100200286.jpg?version=19.7"
-  },
-  {
-    "name": "Caballo Negro de Cola Larga",
-    "desc": "Si esta carta es Invocada de Modo Normal o Especial: puedes revelar 1 monstruo Zombi en tu mano y mandar al Cementerio 1 monstruo Zombi de TIERRA desde tu Deck; manda al Cementerio el monstruo revelado y, si lo haces, esta carta gana 500 ATK hasta el final de este turno. \r\nSólo puedes usar el efecto de \"Caballo Negro de Cola Larga\" una vez por turno.",
-    "overallString": "[Monstruo|Efecto] Zombi/TIERRA  [★4] 1400/800",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100200287.jpg?version=19.7"
-  },
-  {
-    "name": "La Flauta del Dragón Guía",
-    "desc": "Si hay un monstruo Lanzador de Conjuros en el Campo: Invoca de Modo Especial 1 monstruo Dragón de Nivel 5 o mayor desde tu Deck, y después, si tu adversario controla 2 o más monstruos, puedes Invocar de Modo Especial un segundo monstruo con el mismo nombre desde tu Deck, y además no puedes Invocar de Modo Especial por el resto de este turno, excepto monstruos Dragón y Lanzador de Conjuros. \r\nDurante tu Main Phase 2, si esta carta está en tu Cementerio porque fue mandada allí este turno: puedes desterrarla; roba 1 carta. \r\nSólo puedes usar cada uno de los efectos de \"La Flauta del Dragón Guía\" una vez por turno.",
-    "overallString": "[Mágica]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257003.jpg?version=19.7"
-  },
-  {
-    "name": "Ciber Dragón Revolución",
-    "desc": "Si no controlas monstruos, puedes Invocar esta carta de Modo Especial (desde tu mano). \r\nSólo puedes usar cada uno de los siguientes efectos de \"Ciber Dragón Revolución\" una vez por turno. \r\nSi esta carta es Invocada de Modo Especial: puedes seleccionar 1 monstruo boca arriba que controle tu adversario; niega sus efectos hasta el final de este turno. \r\nDurante tu Main Phase: puedes Invocar por Fusión 1 Monstruo de Fusión Máquina desde tu Deck Extra, usando monstruos de tu mano o Campo, incluyendo esta carta que controlas.",
-    "overallString": "[Monstruo|Efecto] Máquina/LUZ  [★5] 2100/1600",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257005.jpg?version=19.7"
-  },
-  {
-    "name": "Dragón de Nova Roja - Alma Ardiente",
-    "desc": "Debe ser Invocado por Sincronía, o Invocado de Modo Especial (desde tu Deck Extra) desterrando 2 Cantantes y 1 \"Dragón Rojo Archidemonio\" en tu Cementerio. \r\nSi esta carta es Invocada de Modo Especial: puedes añadir a tu mano 1 carta en tu Cementerio y, si lo haces, esta carta gana 2000 ATK. \r\nSólo puedes usar este efecto de \"Dragón de Nova Roja - Alma Ardiente\" durante un Duelo en el que hayas Invocado por Sincronía \"Dragón Rojo Archidemonio\", y sólo una vez en ese Duelo. \r\nNo puede ser destruida por efectos de cartas.",
-    "overallString": "[Monstruo|Efecto|Sincronía] Dragón/OSCURIDAD  [★12] 3500/3000",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257008.jpg?version=19.7"
-  },
-  {
-    "name": "Dragón de Cambio Fotónico de Ojos Galácticos",
-    "desc": "Puedes Invocar esta carta de Modo Especial (desde tu mano) Sacrificando 2 monstruos boca arriba en cualquier Campo con 2000 o más ATK, incluyendo un monstruo que controles. \r\nSólo puedes Invocar de Modo Especial a \"Dragón de Cambio Fotónico de Ojos Galácticos\" una vez por turno de esta forma. \r\n(Efecto Rápido): Durante la Main Phase: puedes desterrar esta carta; Invoca de Modo Especial 1 \"Dragón Fotónico de Ojos Galácticos\" desde tu Deck o Cementerio, y después puedes desterrar 1 monstruo del adversario Invocado de Modo Especial desde el Deck Extra hasta la End Phase. \r\nSólo puedes usar este efecto de \"Dragón de Cambio Fotónico de Ojos Galácticos\" una vez por turno.",
-    "overallString": "[Monstruo|Efecto] Dragón/LUZ  [★8] 3000/2500",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257011.jpg?version=19.7"
   },
   {
     "name": "Conejo Oscuro Divertido",
@@ -102,12 +66,6 @@
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261006.jpg?version=19.7"
   },
   {
-    "name": "Dragón Xyz Rebelión Oscura de los Cuatro Dragones Celestiales",
-    "desc": "2 monstruos de OSCURIDAD de Nivel 4\t\r\n(Esta carta se trata siempre como una carta \"Los Caballeros Fantasma\").\t\r\nSi esta carta es Invocada de Modo Especial: puedes seleccionar la misma cantidad de cartas en cada Campo; destrúyelas. \r\n(Efecto Rápido): Cuando tu adversario activa una carta o efecto: puedes desacoplar 1 material de esta carta; Invoca de Modo Especial 1 Monstruo Xyz de OSCURIDAD de Rango 4 desde tu Deck Extra, usando esta carta que controlas como material Xyz (esto se trata como una Invocación Xyz, transfiere los materiales de esta carta). \r\nSólo puedes usar cada uno de los efectos de \"Dragón Xyz Rebelión Oscura de los Cuatro Dragones Celestiales\" una vez por turno.",
-    "overallString": "[Monstruo|Efecto|Xyz] Dragón/OSCURIDAD  [☆4] 2500/2000",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257015.jpg?version=19.7"
-  },
-  {
     "name": "Los Caballeros Fantasma de la Capa Decaída",
     "desc": "Puedes revelar otra carta \"Los Caballeros Fantasma\" en tu mano; Invoca esta carta de Modo Especial desde tu mano. \r\nSi esta carta es Invocada de Modo Normal o Especial: puedes añadir a tu mano 1 monstruo \"Los Caballeros Fantasma\" desde tu Deck. \r\nPuedes desterrar esta carta en tu Cementerio, y después seleccionar 1 Monstruo Xyz que controles; este turno, puedes usarlo como material para una Invocación Xyz usando su Rango como si fuera un Nivel. \r\nSólo puedes usar cada uno de los efectos de \"Los Caballeros Fantasma de la Capa Decaída\" una vez por turno.",
     "overallString": "[Monstruo|Efecto] Guerrero/OSCURIDAD  [★3] 1000/300",
@@ -136,12 +94,6 @@
     "desc": "Invoca esta carta de Modo Especial como un Monstruo Normal (Guerrero/OSCURIDAD/Nivel 3/ATK 0/DEF 300) en Posición de Defensa (NO se trata como Trampa), y después puedes cambiar a Posición de Defensa 1 monstruo en Posición de Ataque del adversario. \r\nPuedes desterrar esta carta en tu Cementerio; inmediatamente después de que este efecto se resuelva, Invoca Xyz 1 monstruo de OSCURIDAD. \r\nSólo puedes usar cada uno de los efectos de \"Los Caballeros Fantasma del Velo de Sombra\" una vez por turno. \r\nSi tienes un monstruo \"Los Caballeros Fantasma\" en tu Campo o en tu Cementerio, puedes activar esta carta en el turno en que fue Colocada.",
     "overallString": "[Trampa]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305073.jpg?version=19.7"
-  },
-  {
-    "name": "Triple Lanzamiento Borre",
-    "desc": "Activa 1 de estos efectos (pero sólo puedes usar cada uno de los siguientes efectos de \"Triple Lanzamiento Borre\" una vez por turno);\r\n● Baraja al Deck 1 monstruo Dragón desde tu Cementerio, y después puedes Invocar de Modo Especial 1 monstruo \"Cohette\" con nombre diferente desde tu Deck.\r\n● Baraja al Deck 2 monstruos Dragón desde tu Cementerio, y después añade a tu mano 1 Mágica de Campo desde tu Cementerio.\r\n● Baraja al Deck 3 monstruos Dragón desde tu Cementerio, y después baraja al Deck hasta 3 monstruos del Cementerio de tu adversario.",
-    "overallString": "[Mágica|Juego Rápido]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257018.jpg?version=19.7"
   },
   {
     "name": "Wisca Blitzclique",
@@ -270,56 +222,8 @@
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305067.jpg?version=19.7"
   },
   {
-    "name": "Demiurgo Ema",
-    "desc": "Puedes mandar al Cementerio 4 monstruos con 2400 o más ATK y 1000 DEF desde tu mano, Deck y/o Campo boca arriba; Invoca esta carta de Modo Especial desde tu mano. \r\nPuedes seleccionar 1 Mágica/Trampa en cada Campo; destrúyelas, y después Invoca de Modo Especial 1 \"Ficha Homúnculo\" (Hada/LUZ/Nivel 2/ATK 800/DEF 800) a cada Campo, y si lo haces, esta carta gana 1600 ATK. \r\nSólo puedes usar cada uno de los efectos de \"Demiurgo Ema\" una vez por turno.",
-    "overallString": "[Monstruo|Efecto] Hada/LUZ  [★8] 3300/2000",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257019.jpg?version=19.7"
-  },
-  {
-    "name": "Señor de la Oscuridad",
-    "desc": "Puedes Invocar esta carta de Modo Especial (desde tu mano) Sacrificando 2 monstruos Demonio y/o Hada. \r\nNo puede ser destruido en batalla. \r\nUna vez por turno: puedes Invocar de Modo Especial tantas \"Fichas Señor de la Oscuridad\" (Demonio/OSCURIDAD/Nivel 10/ATK 3000/DEF 1000) como sea posible a tu Campo, pero no pueden atacar directamente, no pueden ser destruidas en batalla, destrúyelas cuando esta carta sea destruida, y además no puedes Invocar de Modo Especial por el resto de este turno. \r\nSi uno o más monstruos son destruidos en batalla: inflige 700 puntos de daño a tu adversario.",
-    "overallString": "[Monstruo|Efecto] Demonio/OSCURIDAD  [★10] 3000/1000",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257020.jpg?version=19.7"
-  },
-  {
-    "name": "Choque Relámpago",
-    "desc": "Añade a tu mano 1 monstruo Trueno desde tu Deck y, si lo haces, no puedes Invocar de Modo Normal/Colocar monstruos con su nombre hasta el final del próximo turno después de que esta carta se resuelva. \r\nSólo puedes activar 1 \"Choque Relámpago\" por turno.",
-    "overallString": "[Mágica]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257021.jpg?version=19.7"
-  },
-  {
-    "name": "Cantante Oscuro Catástrofe",
-    "desc": "Puedes revelar esta carta en tu mano; inmediatamente después de que este efecto se resuelva, Invoca de Modo Normal 1 monstruo \"Cantante Oscuro\". \r\nSólo puedes usar este efecto de \"Cantante Oscuro Catástrofe\" una vez por turno. \r\nUna vez por turno, si controlas esta carta Invocada de Modo Normal/Colocada: puedes Sacrificar esta carta boca arriba y 1 monstruo que no sea Cantante boca arriba con Nivel menor, y si lo haces, Invoca de Modo Especial 1 Monstruo de Sincronía desde tu Deck Extra con un Nivel igual a la diferencia entre los Niveles de esos monstruos (esto se trata como una Invocación por Sincronía), y después puedes destruir 1 carta que controle tu adversario.",
-    "overallString": "[Monstruo|Efecto|Cantante] Demonio/OSCURIDAD  [★8] 0/0",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257022.jpg?version=19.7"
-  },
-  {
-    "name": "Cantante Oscuro Mano de Pesadilla",
-    "desc": "Puedes revelar esta carta en tu mano; inmediatamente después de que este efecto se resuelva, Invoca de Modo Normal 1 monstruo \"Cantante Oscuro\". \r\nSólo puedes usar este efecto de \"Cantante Oscuro Mano de Pesadilla\" una vez por turno. \r\nSi esta carta es Invocada de Modo Normal: puedes Invocar de Modo Especial 1 monstruo de Nivel 2 o menor desde tu mano. \r\nUna vez por turno, si controlas esta carta Invocada de Modo Normal/Colocada: puedes Sacrificar esta carta boca arriba y 1 monstruo que no sea Cantante boca arriba con Nivel menor, y si lo haces, Invoca de Modo Especial 1 Monstruo de Sincronía desde tu Deck Extra con un Nivel igual a la diferencia entre los Niveles de esos monstruos (esto se trata como una Invocación por Sincronía).",
-    "overallString": "[Monstruo|Efecto|Cantante] Guerrero/OSCURIDAD  [★10] 0/0",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257023.jpg?version=19.7"
-  },
-  {
-    "name": "Gobernante Final del Caos – Gobernante del Principio y el Fin",
-    "desc": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial (desde tu mano) desterrando 1 Guerrero de LUZ y 1 monstruo Demonio de OSCURIDAD en tu Cementerio. \r\nLa Invocación Especial de esta carta no puede ser negada. \r\nNingún jugador puede activar cartas o efectos cuando esta carta es Invocada de Modo Especial. \r\nSi controlas esta carta Invocada de esta forma: puedes pagar 1000 LP; destierra todas las cartas que controle tu adversario y en su Cementerio, y después inflige 500 puntos de daño a tu adversario por cada carta desterrada por este efecto. \r\nSólo puedes usar este efecto de \"Gobernante Final del Caos – Gobernante del Principio y el Fin\" una vez por turno.",
-    "overallString": "[Monstruo|Efecto|Invocación Especial] Guerrero/LUZ  [★10] 3500/2000",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257026.jpg?version=19.7"
-  },
-  {
-    "name": "Híper Magia de Subida de Rango Fuerza Definitiva",
-    "desc": "Selecciona 1 Monstruo Xyz \"Utopía\" o \"Utópico\" de Rango 9 o menor que controles cuyo Atributo original sea de LUZ; Invoca de Modo Especial 1 Monstruo Xyz \"Número\" de Rango 10 o mayor desde tu Deck Extra, usando ese monstruo que controlas (esto se trata como una Invocación Xyz, transfiere sus materiales) y, si lo haces, acopla esta carta a él. \r\nUn Monstruo Xyz \"Número 99\" que tenga esta carta como material gana este efecto:\r\n● Una vez por Cadena, cuando tu adversario activa un efecto de monstruo durante la Battle Phase (Efecto Rápido): desacopla todos los materiales de esta carta y, si lo haces, destruye todos los monstruos que controle.",
-    "overallString": "[Mágica]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257027.jpg?version=19.7"
-  },
-  {
-    "name": "Dragón Hidradrive Perfectrón",
-    "desc": "1+ Monstruos de Enlace\t\r\nSi esta carta es Invocada por Enlace, O, si batalla, al final del Damage Step: destruye tantos monstruos que controle tu adversario como sea posible, y después inflige 300 puntos de daño a tu adversario por cada Monstruo de Enlace en tu Cementerio. \r\nMientras está boca arriba en el Campo, esta carta también es de Atributo LUZ, AGUA, FUEGO y VIENTO. No es afectada por efectos activados de monstruos que compartan un Atributo con esta carta. \r\nSi esta carta fuera a ser destruida en batalla o por efecto de carta, puedes hacer que pierda exactamente 1000 ATK en su lugar.",
-    "overallString": "[Monstruo|Efecto|Enlace] Ciberso/TIERRA  [LINK-5] 5000/-  [←][→][↙][↓][↘]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257028.jpg?version=19.7"
-  },
-  {
     "name": "Sombrero de la Compañía de Payasos",
-    "desc": "←◊7 Escala 7◊→\r\n【Efecto de Péndulo】\r\nDurante tu Main Phase: puedes mandar al Cementerio 1 carta \"Compañía de Payasos\" desde tu Deck, excepto un Monstruo de Péndulo y, si lo haces, Invoca esta carta de Modo Especial, y además no puedes activar los efectos de monstruos Invocados de Modo Especial desde el Deck o Deck Extra hasta el final del próximo turno. \r\nSólo puedes usar este efecto de \"Sombrero de la Compañía de Payasos\" una vez por turno.\r\n━━━━━━━━━━━━━━━━━━━━━━━\r\n【Efecto de Monstruo】\r\nLos monstruos que controle tu adversario pierden 1500 DEF mientras controles un monstruo Invocado por Sacrificio. \r\nSi esta carta es Sacrificada: puedes activar 1 de estos efectos (pero sólo puedes usar cada uno de estos efectos de \"Sombrero de la Compañía de Payasos\" una vez por turno);\r\n● Baraja todos los Monstruos de Péndulo en el Campo y en los Decks Extra boca arriba al Deck.\r\n● Invoca de Modo Especial 1 monstruo \"Compañía de Payasos\" desde tu Deck o Deck Extra, excepto un Monstruo de Péndulo, ignorando sus condiciones de Invocación.\r\n",
+    "desc": "←◊7 Escala 7◊→\r\n【Efecto de Péndulo】\r\nDurante tu Main Phase: puedes mandar al Cementerio 1 carta \"Compañía de Payasos\" desde tu Deck, excepto un Monstruo de Péndulo y, si lo haces, Invoca esta carta de Modo Especial, y además no puedes activar los efectos de monstruos Invocados de Modo Especial desde el Deck o Deck Extra hasta el final del próximo turno. \r\nSólo puedes usar este efecto de \"Sombrero de la Compañía de Payasos\" una vez por turno.\r\n━━━━━━━━━━━━━━━━━━━━━━━\r\n【Efecto de Monstruo】\r\nLos monstruos que controle tu adversario pierden 1500 DEF mientras controles un monstruo Invocado por Sacrificio. \r\nSi esta carta es Sacrificada: puedes activar 1 de estos efectos (pero sólo puedes usar cada uno de estos efectos de \"Sombrero de la Compañía de Payasos\" una vez por turno);\r\n● Baraja todos los Monstruos de Péndulo en el Campo y en los Decks Extra boca arriba al Deck.\r\n● Invoca de Modo Especial 1 monstruo \"Compañía de Payasos\" desde tu Deck o Deck Extra, excepto un Monstruo de Péndulo, ignorando sus condiciones de Invocación.",
     "overallString": "[Monstruo|Efecto|Péndulo] Gerrero Bestia/LUZ  [★5] 1900/800  7/7",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100260001.jpg?version=19.7"
   },
@@ -334,12 +238,6 @@
     "desc": "Si controlas un monstruo Invocado por Sacrificio: puedes descartar cualquier número de cartas, y después seleccionar esa misma cantidad de cartas boca arriba en el Campo; destrúyelas. \r\nPuedes desterrar esta carta en tu Cementerio y Sacrificar 1 Monstruo de Ritual, Fusión, Sincronía, Xyz, Péndulo o Enlace en tu mano o Campo; añade a tu mano 1 monstruo \"Compañía de Payasos\" desde tu Deck o Cementerio con un Nivel/Rango/Valor de Enlace original que no sea igual al del monstruo Sacrificado. \r\nSólo puedes usar cada uno de los efectos de \"Compañía de Payasos - \"Final\"\" una vez por turno.",
     "overallString": "[Trampa]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305076.jpg?version=19.7"
-  },
-  {
-    "name": "Espejo de Luna Llena",
-    "desc": "Cada vez que uno o más monstruos son destruidos en batalla o por efecto, pon 1 Contador de Luna Llena en esta carta por cada uno. \r\nPuedes retirar Contadores de Luna Llena de esta carta, y después activar 1 de estos efectos;\r\n● 1: Invoca de Modo Especial 1 monstruo de Nivel 6 o menor (Demonio o Hada) desde tu mano o Cementerio.\r\n● 3: Añade a tu mano 1 monstruo de OSCURIDAD de Nivel 10 desde tu Deck.\r\n● 5: Invoca de Modo Especial 1 monstruo de Nivel 10 desde tu mano o Cementerio.\t\r\nSólo puedes activar este efecto de \"Espejo de Luna Llena\" una vez por turno.",
-    "overallString": "[Mágica|Continua]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100200288.jpg?version=19.7"
   },
   {
     "name": "Caos Negro el Espadachín Mágico Supremo",
@@ -400,101 +298,5 @@
     "desc": "Puedes Invocar esta carta por Ritual con \"Ritual de Luz y Oscuridad\". \r\nNo puede ser destruido en batalla. \r\nNo es afectado por efectos activados de tu adversario, a menos que seleccionen esta carta. \r\nSólo puedes usar cada uno de los siguientes efectos de \"Soldado del Brillo Negro - Soldado de Luz y Oscuridad\" una vez por turno. \r\nSi esta carta es Invocada de Modo Especial: puedes seleccionar 1 carta que controle tu adversario; destiérrala. \r\nCuando esta carta destruye un monstruo del adversario en batalla: puedes hacer que gane 1500 ATK y, si lo haces, puede hacer un segundo ataque consecutivo.",
     "overallString": "[Monstruo|Efecto|Ritual] Guerrero/TIERRA  [★8] 3000/2500",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305028.jpg?version=19.7"
-  },
-  {
-    "name": "Dragón de la Rosa Negra/Modo de Ataque",
-    "desc": "No puede ser Invocado de Modo Normal/Colocado. \r\nDebe ser Invocado de Modo Especial con \"Activar Modo de Ataque\". \r\nPuedes revelar esta carta en tu mano; baraja esta carta al Deck y, si lo haces, haz que el ATK de 1 monstruo en el Campo se convierta en 0. \r\nSi esta carta es Invocada de Modo Especial, o un monstruo es Invocado de Modo Especial al Campo de tu adversario: puedes destruir todas las cartas en el Campo. \r\nSólo puedes usar cada uno de estos efectos de \"Dragón de la Rosa Negra/Modo de Ataque\" una vez por turno. \r\nSi esta carta es destruida: puedes Invocar de Modo Especial 1 \"Dragón de la Rosa Negra\" desde tu Cementerio.",
-    "overallString": "[Monstruo|Efecto|Invocación Especial] Dragón/FUEGO  [★9] 2900/2300",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100258001.jpg?version=19.7"
-  },
-  {
-    "name": "Predaplanta Temeraria",
-    "desc": "1 monstruo \"Predaplanta\" + 1 monstruo de Nivel 1\t\r\nDebe ser primero Invocado por Fusión, o Invocado de Modo Especial (desde el Extra Deck) Sacrificando 1 monstruo \"Predaplanta\" que controles y 1 monstruo en el Campo con un Contador de Predador. \r\n(Efecto Rápido): Durante la Main Phase, si controlas esta carta Invocada de Modo Especial: puedes seleccionar Mágicas/Trampas en el Campo, hasta el número de monstruos con Contadores de Predador en el Campo; destrúyelas.",
-    "overallString": "[Monstruo|Efecto|Fusión] Planta/OSCURIDAD  [★6] 2200/1500",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100258002.jpg?version=19.7"
-  },
-  {
-    "name": "Dragón Blanco de Ojos Profundos, el Abismo Azul",
-    "desc": "(Esta carta se trata siempre como una carta \"Ojos Azules\").\t\t\r\nPuedes descartar esta carta; añade a tu mano 1 Cantante de LUZ de Nivel 1 desde tu Deck. \r\nSi uno o más Monstruos de Ritual \"Ojos Azules\" y/o \"Dragón Blanco de Ojos Azules\" son mandados a tu Cementerio: puedes seleccionar 1 de ellos; Invoca esta carta de Modo Especial desde tu Cementerio (si estaba allí cuando el monstruo fue mandado) o mano (aún si no lo estaba) y, si lo haces, su ATK se convierte en el ATK de ese monstruo, pero destiérrala cuando deje el Campo. \r\nSólo puedes usar cada uno de los efectos de \"Dragón Blanco de Ojos Profundos, el Abismo Azul\" una vez por turno.",
-    "overallString": "[Monstruo|Efecto] Dragón/LUZ  [★10] 0/0",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257002.jpg?version=19.7"
-  },
-  {
-    "name": "Nova Fusión Futura",
-    "desc": "Cuando esta carta se resuelve, Invoca por Fusión 1 Monstruo de Fusión Máquina de LUZ desde tu Extra Deck, usando monstruos desde tu Deck, incluyendo \"Ciber Dragón\" y, además, por el resto de este turno después de que esta carta se resuelva, no puedes Invocar de Modo Especial, excepto monstruos Máquina, y además no puedes atacar, excepto con el monstruo Invocado. Si esta carta deja el Campo, destruye ese monstruo. Si ese monstruo es destruido, destruye esta carta. \r\nSólo puedes activar 1 \"Nova Fusión Futura\" por turno.",
-    "overallString": "[Mágica|Continua]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257006.jpg?version=19.7"
-  },
-  {
-    "name": "Cadena del Dragón Rojo Archidemonio",
-    "desc": "Activa esta carta mostrando cualquier número de monstruos en tu mano, y después selecciona Monstruos de Efecto que controle tu adversario igual al número de Cantantes mostrados +1; esos monstruos pierden 100 ATK por cada carta mostrada, y además sus efectos son negados. Si el último de esos monstruos no está en el Campo, destruye esta carta. \r\nPuedes activar esta carta en el turno en que fue Colocada mostrando 1 \"Dragón Rojo Archidemonio\" en tu Extra Deck. \r\nSólo puedes activar 1 \"Cadena del Dragón Rojo Archidemonio\" por turno. ",
-    "overallString": "[Trampa|Continua]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257009.jpg?version=19.7"
-  },
-  {
-    "name": "Robot de Defensa Galáctico Orbital 7",
-    "desc": "Puedes Sacrificar esta carta en tu mano o Campo; toma 1 monstruo \"Fotón\" y 1 monstruo \"Galaxia\" desde tu Deck, añade 1 de ellos a tu mano, manda el otro al Cementerio, y además no puedes Invocar de Modo Especial por el resto de este turno, excepto monstruos de LUZ. \r\nSi uno o más monstruos \"Ojos Galácticos\" son Invocados de Modo Especial a tu Campo: puedes Invocar esta carta de Modo Especial desde tu Cementerio, pero destiérrala cuando deje el Campo. \r\nSólo puedes usar cada uno de los efectos de \"Robot de Defensa Galáctico Orbital 7\" una vez por turno.",
-    "overallString": "[Monstruo|Efecto] Máquina/LUZ  [★8] 2000/2000",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257012.jpg?version=19.7"
-  },
-  {
-    "name": "Dragón de Sincro Ala Transparente de los Cuatro Dragones Celestiales",
-    "desc": "1 Cantante + 1+ monstruos que no sean Cantantes\t\r\n(Esta carta se trata siempre como una carta \"Velociroid\").\t\r\nSi esta carta es Invocada de Modo Especial: puedes destruir 1 Monstruo de Efecto que controle tu adversario y, si lo haces, esta carta gana ATK igual al ATK original de ese monstruo. \r\n(Efecto Rápido): Cuando tu adversario activa una carta o efecto: puedes Invocar de Modo Especial 1 Cantante de VIENTO de Nivel 4 o menor en tu mano o Cementerio (pero sus efectos son negados) y, después, inmediatamente después de que este efecto se resuelva, puedes Invocar por Sincronía 1 monstruo de VIENTO. \r\nSólo puedes usar cada uno de los efectos de \"Dragón de Sincro Ala Transparente de los Cuatro Dragones Celestiales\" una vez por turno.",
-    "overallString": "[Monstruo|Efecto|Sincronía] Dragón/VIENTO  [★7] 2500/2000",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257014.jpg?version=19.7"
-  },
-  {
-    "name": "Descarga Cohette",
-    "desc": "Puedes mandar al Cementerio 1 monstruo Dragón de OSCURIDAD en tu Deck, excepto un monstruo de Nivel 5; Invoca esta carta de Modo Especial desde tu mano, y además no puedes Invocar de Modo Especial desde el Extra Deck por el resto de este turno, excepto monstruos de OSCURIDAD. \r\n(Efecto Rápido): Cuando se activa el efecto de un Monstruo de Enlace que selecciona esta carta en el Campo: puedes destruir esta carta, y después Invocar de Modo Especial hasta 1 monstruo \"Cohette\" desde tu mano, Deck, Cementerio y/o destierro, excepto \"Descarga Cohette\". \r\nSólo puedes usar cada uno de los efectos de \"Descarga Cohette\" una vez por turno.",
-    "overallString": "[Monstruo|Efecto] Dragón/OSCURIDAD  [★5] 1500/1600",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257017.jpg?version=19.7"
-  },
-  {
-    "name": "Dragón Blanco de Ojos Azules, el Fantasma Blanco",
-    "desc": "Cuando esta carta es añadida desde el Deck a tu mano, o tu monstruo es destruido en batalla: puedes revelar esta carta en tu mano; Invócala de Modo Especial. \r\nSi esta carta es Invocada de Modo Especial desde la mano o el Deck: puedes destruir todos los monstruos que controle tu adversario, y además este turno sólo puedes atacar directamente con monstruos \"Ojos Azules\". \r\nSólo puedes usar cada uno de estos efectos de \"Dragón Blanco de Ojos Azules, el Fantasma Blanco\" una vez por turno. \r\nCuando se activa una carta o efecto que selecciona esta carta en el Campo (Efecto Rápido): puedes descartar 1 carta; niega ese efecto.",
-    "overallString": "[Monstruo|Efecto] Dragón/LUZ  [★8] 3000/2500",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257001.jpg?version=19.7"
-  },
-  {
-    "name": "Dragón Ciber Final - El Dragón del Golpe Decisivo",
-    "desc": "3 monstruos Máquina con 2100 o más ATK\t\r\nDebe ser Invocado por Fusión. \r\nSi esta carta es Invocada por Fusión usando sólo monstruos de LUZ: puedes pagar 4000 LP; añade a tu mano 1 \"Quitar el Limitador\" desde tu Deck. \r\nSólo puedes usar este efecto de \"Dragón Ciber Final - El Dragón del Golpe Decisivo\" una vez por turno. \r\nSi esta carta ataca a un monstruo en Posición de Defensa, inflige daño de batalla de penetración. \r\nEsta carta cuyo ATK actual es mayor que su ATK original puede hacer un segundo y tercer ataque durante cada Battle Phase.",
-    "overallString": "[Monstruo|Efecto|Fusión] Máquina/LUZ  [★10] 4000/2800",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257004.jpg?version=19.7"
-  },
-  {
-    "name": "Quetzalcóatl Dragón Carmesí",
-    "desc": "1 Cantante + 1+ monstruos que no sean Cantantes\t\r\nGana ATK igual al ATK original total de todos los demás Monstruos de Sincronía que controles. \r\nSólo puedes usar cada uno de los siguientes efectos de \"Quetzalcóatl Dragón Carmesí\" una vez por turno. \r\nSi esta carta es Invocada por Sincronía: puedes Invocar de Modo Especial tantos Monstruos de Sincronía Dragón desde tu Cementerio como sea posible, y además no puedes Invocar de Modo Especial por el resto de este turno. \r\nCuando tu adversario activa un efecto de monstruo (Efecto Rápido): puedes devolver 1 otro Monstruo de Sincronía Dragón que controles al Extra Deck, y si lo haces, niega esa activación.",
-    "overallString": "[Monstruo|Efecto|Sincronía] Dragón/OSCURIDAD  [★12] 0/0",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257007.jpg?version=19.7"
-  },
-  {
-    "name": "Neo Dragón Fotónico de Ojos Galácticos - Aullido Fotónico",
-    "desc": "3 monstruos de Nivel 8\t\r\nUna vez por turno, también puedes Invocar Xyz \"Neo Dragón Fotónico de Ojos Galácticos - Aullido Fotónico\" usando 1 Monstruo Xyz de Rango 8 que controles (transfiere sus materiales a esta carta). \r\nSi esta carta es Invocada Xyz: puedes tomar 1 monstruo \"Fotónico/a\" de tu Deck, e Invocarlo de Modo Especial en Posición de Defensa o acoplar esa carta a esta carta como material. \r\n(Efecto Rápido): puedes desacoplar 3 materiales de esta carta; Sacrifica 1 Monstruo Xyz adicional, y si lo haces, niega los efectos de todas las demás cartas boca arriba actualmente en el Campo hasta el final de este turno.",
-    "overallString": "[Monstruo|Efecto|Xyz] Dragón/LUZ  [☆8] 4500/3000",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257010.jpg?version=19.7"
-  },
-  {
-    "name": "Dragón de Fusión Hambriento Venenoso de los Cuatro Dragones Celestiales",
-    "desc": "2 monstruos de OSCURIDAD en el Campo\t\r\n(Esta carta se trata siempre como una carta \"Predaplanta\").\t\t\r\nSi esta carta es Invocada de Modo Especial: puedes seleccionar 1 otro monstruo boca arriba en el Campo; su ATK se convierte en 0, niega sus efectos, y además su Atributo se convierte en OSCURIDAD. \r\nCuando tu adversario activa una carta o efecto (Efecto Rápido): puedes Invocar por Fusión 1 Monstruo de Fusión de OSCURIDAD desde tu Extra Deck, usando monstruos de OSCURIDAD en el Campo, incluyendo esta carta. \r\nSólo puedes usar cada uno de los efectos de \"Dragón de Fusión Hambriento Venenoso de los Cuatro Dragones Celestiales\" una vez por turno.",
-    "overallString": "[Monstruo|Efecto|Fusión] Dragón/OSCURIDAD  [★8] 2800/2000",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257013.jpg?version=19.7"
-  },
-  {
-    "name": "Dragón Liberador Borrecarga",
-    "desc": "3+ Monstruos de Efecto\t\r\nUna vez por turno, durante la Battle Phase (Efecto Rápido): puedes Colocar 1 monstruo que controle tu adversario en una zona a la que apunte esta carta y tomar su control. \r\nTu adversario no puede activar cartas o efectos en respuesta a la activación de este efecto. \r\nUna vez por Cadena, si esta carta está en tu Cementerio (Efecto Rápido): puedes seleccionar 1 monstruo que controles; destrúyelo, y si lo haces, Invoca esta carta de Modo Especial. \r\nSólo puedes Invocar de Modo Especial \"Dragón Liberador Borrecarga\" una vez por turno.",
-    "overallString": "[Monstruo|Efecto|Enlace] Dragón/OSCURIDAD  [LINK-4] 3000/-  [←][→][↙][↘]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257016.jpg?version=19.7"
-  },
-  {
-    "name": "Ogro Ametrallador",
-    "desc": "Puedes mandar al Cementerio cualquier número de cartas Colocadas de tu Zona de Mágicas & Trampas; inflige 800 puntos de daño a tu adversario por cada una, y además tu adversario no recibe daño de efectos de monstruos que no sean Demonios por el resto de este turno. \r\nPuedes usar este efecto \"Ogro Ametrallador\" tres veces por turno. \r\nUna vez por turno, cuando esta carta es seleccionada para un ataque: puedes infligir 500 puntos de daño a tu adversario por cada uno de sus monstruos en Posición de Ataque, y después termina la Battle Phase.",
-    "overallString": "[Monstruo|Efecto] Demonio/FUEGO  [★3] 800/800",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257024.jpg?version=19.7"
-  },
-  {
-    "name": "Lanzador del Juicio Infinito",
-    "desc": "Durante tu Main Phase: puedes Invocar de Modo Especial 1 monstruo Demonio desde tu mano. \r\nSi no tienes cartas en tu mano (Efecto Rápido): puedes desterrar esta carta en tu Cementerio; tu adversario elige 1 de estos efectos para que apliques.\r\n● Revela la carta superior de tu Deck, y si es un monstruo, tu adversario recibe cualquier daño de efecto que tú hubieras recibido este turno en su lugar. De otro modo, recibes 4000 puntos de daño.\r\n● No recibes daño de efecto este turno.\t\r\nSólo puedes usar cada uno de los efectos de \"Lanzador del Juicio Infinito\" una vez por turno.",
-    "overallString": "[Monstruo|Efecto] Demonio/OSCURIDAD  [★1] 100/100",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257025.jpg?version=19.7"
   }
 ]
