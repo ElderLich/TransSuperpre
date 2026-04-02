@@ -1,5 +1,17 @@
 [
   {
+    "name": "Estate",
+    "desc": "Una volta per turno: puoi mettere su questa carta un numero di Segnalini Stagione pari al numero di Zone Mostri Principali inutilizzate del tuo avversario.\r\nUna volta per turno, quando un tuo mostro dichiara un attacco: puoi infliggere 400 danni al tuo avversario per ogni Segnalino Stagione su questa carta, e per ogni \"Primavera\" nel tuo Cimitero.\r\nUna volta per turno, durante la End Phase del tuo avversario: puoi prendere 1 Magia Terreno dalla tua mano o Deck su cui puoi mettere un Segnalino Stagione, e metterla scoperta sul tuo Terreno (ma nessun giocatore può attivare i suoi effetti in questo turno), e se lo fai, metti tutti i Segnalini Stagione presenti su questa carta su quella carta.",
+    "overallString": "[Magia|Terreno]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305064.jpg?version=19.7"
+  },
+  {
+    "name": "Rayrage Demone del Crepuscolo",
+    "desc": "Valore Pendulum = 1\r\n[ Effetto Pendulum ]\r\nSe uno o più Mostri Pendulum che controlli stanno per essere distrutti dall'effetto di una carta del tuo avversario, puoi distruggere questa carta invece di 1 di quei Mostri Pendulum. Puoi utilizzare questo effetto di \"Rayrage Demone del Crepuscolo\" una sola volta per turno.\r\n----------------------------------------\r\n[ Effetto di un Mostro ]\r\nSe questa carta è nella tua mano: puoi scegliere come bersaglio 1 Mostro Pendulum che controlli; metti quel Mostro Pendulum nella tua Zona Pendulum (ma non può attivare i suoi Effetti Pendulum in questo turno), e se lo fai, Evoca Specialmente questa carta.\r\n(Effetto Rapido): puoi offrire come Tributo questa carta, poi scegliere come bersaglio 1 carta nella tua Zona Pendulum; essa non può essere distrutta dagli effetti delle carte del tuo avversario in questo turno.\r\nPuoi utilizzare ciascun effetto di \"Rayrage Demone del Crepuscolo\" una sola volta per turno.",
+    "overallString": "[Mostro|Effetto|Pendulum] Drago/Luce  [★3] 1000/1500  1/1",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305025.jpg?version=19.7"
+  },
+  {
     "name": "Nullgainer Morsa Glitch",
     "desc": "1 Tuner + 1+ mostri non-Tuner\r\nSe questa carta viene Synchro Evocata: puoi aggiungere 1 mostro di Livello 8 o superiore con 0 ATK dal tuo Deck alla tua mano.\r\nPuoi scegliere come bersaglio 1 mostro con 0 ATK nel tuo Cimitero; Evocalo Specialmente, ma annulla i suoi effetti, inoltre non può essere utilizzato come materiale per una Evocazione Fusione, Synchro, Xyz o Link.\r\nPuoi utilizzare ogni effetto di \"Nullgainer Morsa Glitch\" una sola volta per turno.",
     "overallString": "[Mostro|Effetto|Synchro] Psichico/Oscurità  [★8] 0/2000",
@@ -28,48 +40,6 @@
     "desc": "(Questa carta è sempre considerata una carta \"Posseduto\".)\r\nBandisci un qualsiasi numero di mostri Incantatore e/o Magie dal tuo Cimitero; tutti i mostri che controlli attualmente guadagnano 200 ATK per ogni carta bandita in questo modo e, se lo fanno, guadagni 400 LP per ogni carta bandita in questo modo.\r\nDurante la tua Main Phase: puoi bandire questa carta dal tuo Cimitero; Evoca Specialmente un qualsiasi numero di mostri Incantatore con Attributi diversi dalla tua mano.\r\nPuoi utilizzare solo 1 effetto di \"Pozione di Recupero del Potere Spirituale\" per turno, e solo una volta in quel turno.",
     "overallString": "[Magia|Rapida]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305060.jpg?version=19.7"
-  },
-  {
-    "name": "Tigre del Gelo",
-    "desc": "Se questa carta viene Evocata Normalmente o Specialmente: puoi aggiungere alla tua mano 1 mostro Incantatore ACQUA di Livello 5 o superiore, oppure 1 \"Pilastri Gemelli di Ghiaccio\" dal tuo Deck. Puoi utilizzare questo effetto di \"Tigre del Gelo\" una sola volta per turno.",
-    "overallString": "[Mostro|Effetto] Acqua/Acqua  [★4] 1900/1200",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100200285.jpg?version=19.7"
-  },
-  {
-    "name": "Guivre",
-    "desc": "Questa carta guadagna 400 ATK per ogni mostro Drago che controlli.\r\nQuando questa carta distrugge un mostro in battaglia: puoi Evocare Specialmente 1 \"Segna-Viverna\" (Drago/LUCE/Livello 1/ATK 400/DEF 400).\r\nDurante la Battle Phase o la Main Phase 2 (Effetto Rapido): puoi, immediatamente dopo che questo effetto si è risolto, Evocare tramite Tributo 1 mostro Drago scoperto. Puoi utilizzare questo effetto di \"Guivre\" una sola volta per turno.",
-    "overallString": "[Mostro|Effetto] Drago/Oscurità  [★4] 1300/400",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100200286.jpg?version=19.7"
-  },
-  {
-    "name": "Cavallo Nero dalla Lunga Coda",
-    "desc": "Se questa carta viene Evocata Normalmente o Specialmente: puoi rivelare 1 mostro Zombie nella tua mano e mandare 1 mostro Zombie TERRA dal tuo Deck al Cimitero; manda al Cimitero il mostro rivelato e, se lo fai, questa carta guadagna 500 ATK fino alla fine di questo turno. Puoi utilizzare questo effetto di \"Cavallo Nero dalla Lunga Coda\" una sola volta per turno.",
-    "overallString": "[Mostro|Effetto] Zombie/Terra  [★4] 1400/800",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100200287.jpg?version=19.7"
-  },
-  {
-    "name": "Il Flauto della Guida del Drago",
-    "desc": "Se un mostro Incantatore è sul Terreno: Evoca Specialmente 1 mostro Drago di Livello 5 o superiore dal tuo Deck, poi, se il tuo avversario controlla 2 o più mostri, puoi Evocare Specialmente 1 mostro dal tuo Deck con lo stesso nome del mostro Evocato, inoltre per il resto di questo turno non puoi Evocare Specialmente, eccetto mostri Drago o Incantatore.\r\nDurante la tua Main Phase 2, se questa carta è nel tuo Cimitero perché è stata mandata lì in questo turno: puoi bandirla; pesca 1 carta.\r\nPuoi utilizzare ciascun effetto di \"Il Flauto della Guida del Drago\" una sola volta per turno.",
-    "overallString": "[Magia]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257003.jpg?version=19.7"
-  },
-  {
-    "name": "Cyber Drago Rivoluzione",
-    "desc": "Se non controlli mostri, puoi Evocare Specialmente questa carta (dalla tua mano).\r\nPuoi utilizzare ciascuno dei seguenti effetti di \"Cyber Drago Rivoluzione\" una sola volta per turno.\r\nSe questa carta viene Evocata Specialmente: puoi scegliere come bersaglio 1 mostro scoperto controllato dal tuo avversario; annulla i suoi effetti fino alla fine di questo turno.\r\nDurante la tua Main Phase: puoi Evocare tramite Fusione 1 Mostro Fusione Macchina dal tuo Extra Deck, utilizzando questa carta che controlli e mostri dalla tua mano o Terreno.",
-    "overallString": "[Mostro|Effetto] Macchina/Luce  [★5] 2100/1600",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257005.jpg?version=19.7"
-  },
-  {
-    "name": "Drago Nova Rossa - Anima Bruciante",
-    "desc": "2 Tuner + 1 non-Tuner\r\nDeve prima essere Evocato Synchro, oppure Evocato Specialmente (dal tuo Extra Deck) bandendo 2 Tuner e 1 \"Arcidemone Drago Rosso\" dal tuo Cimitero.\r\nSe questa carta viene Evocata Specialmente: puoi aggiungere 1 carta dal tuo Cimitero alla tua mano e, se lo fai, questa carta guadagna 2000 ATK. Puoi utilizzare questo effetto di \"Drago Nova Rossa - Anima Bruciante\" una sola volta per Duello, e solo durante un Duello in cui hai Evocato Synchro \"Arcidemone Drago Rosso\".\r\nNon può essere distrutta dagli effetti delle carte.",
-    "overallString": "[Mostro|Effetto|Synchro] Drago/Oscurità  [★12] 3500/3000",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257008.jpg?version=19.7"
-  },
-  {
-    "name": "Drago Fotonico del Cambiamento Occhi Galattici",
-    "desc": "Puoi Evocare Specialmente questa carta (dalla tua mano) offrendo come Tributo 2 mostri scoperti su qualsiasi Terreno con 2000 o più ATK, incluso un mostro che controlli. Puoi Evocare Specialmente \"Drago Fotonico del Cambiamento Occhi Galattici\" una sola volta per turno in questo modo.\r\nDurante la Main Phase (Effetto Rapido): puoi bandire questa carta che controlli; Evoca Specialmente 1 \"Drago Fotonico Occhi Galattici\" dal tuo Deck o Cimitero, poi puoi bandire 1 mostro controllato dal tuo avversario che è stato Evocato Specialmente dall'Extra Deck fino alla End Phase. Puoi utilizzare questo effetto di \"Drago Fotonico del Cambiamento Occhi Galattici\" una sola volta per turno.",
-    "overallString": "[Mostro|Effetto] Drago/Luce  [★8] 3000/2500",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257011.jpg?version=19.7"
   },
   {
     "name": "Coniglio Oscuro Divertente",
@@ -102,12 +72,6 @@
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261006.jpg?version=19.7"
   },
   {
-    "name": "Drago Xyz Ribellione Oscura dei Quattro Draghi Celesti",
-    "desc": "2 mostri OSCURITÀ di Livello 4\r\n(Questa carta è sempre considerata una carta \"I Cavalieri Fantasma\".)\r\nSe questa carta viene Evocata Specialmente: puoi scegliere come bersaglio un numero uguale di carte su ciascun Terreno; distruggile. Quando il tuo avversario attiva una carta o effetto (Effetto Rapido): puoi staccare 1 materiale da questa carta; Evoca Specialmente 1 Mostro Xyz OSCURITÀ di Rango 4 dal tuo Extra Deck utilizzando questa carta che controlli (questa Evocazione è trattata come Evocazione Xyz, trasferisci i materiali di questa carta).\r\nPuoi utilizzare ciascun effetto di \"Drago Xyz Ribellione Oscura dei Quattro Draghi Celesti\" una sola volta per turno.",
-    "overallString": "[Mostro|Effetto|Xyz] Drago/Oscurità  [☆4] 2500/2000",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257015.jpg?version=19.7"
-  },
-  {
     "name": "I Cavalieri Fantasma del Mantello Decomposto",
     "desc": "Puoi rivelare 1 altra carta \"I Cavalieri Fantasma\" nella tua mano; Evoca Specialmente questa carta dalla tua mano.\r\nSe questa carta viene Evocata Normalmente o Specialmente: puoi aggiungere 1 mostro \"I Cavalieri Fantasma\" dal tuo Deck alla tua mano.\r\nPuoi bandire questa carta dal tuo Cimitero, poi scegliere come bersaglio 1 Mostro Xyz che controlli; in questo turno puoi utilizzarlo come materiale per una Evocazione Xyz usando il suo Rango come se fosse un Livello.\r\nPuoi utilizzare ciascun effetto di \"I Cavalieri Fantasma del Mantello Decomposto\" una sola volta per turno.",
     "overallString": "[Mostro|Effetto] Guerriero/Oscurità  [★3] 1000/300",
@@ -136,12 +100,6 @@
     "desc": "Se hai un mostro \"I Cavalieri Fantasma\" sul tuo Terreno o nel tuo Cimitero, puoi attivare questa carta nel turno in cui è stata Posizionata.\r\nEvoca Specialmente questa carta in Posizione di Difesa come Mostro Normale (Guerriero/OSCURITÀ/Livello 3/ATK 0/DEF 300) (questa carta NON è trattata come una Trappola), poi puoi cambiare in Posizione di Difesa 1 mostro in Posizione di Attacco controllato dal tuo avversario.\r\nPuoi bandire questa carta dal tuo Cimitero; immediatamente dopo che questo effetto si è risolto, Evoca Xyz 1 Mostro Xyz OSCURITÀ.\r\nPuoi utilizzare ciascun effetto di \"I Cavalieri Fantasma del Velo dell'Oltraggio\" una sola volta per turno.",
     "overallString": "[Trappola]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305073.jpg?version=19.7"
-  },
-  {
-    "name": "Triplo Lancio Callibro",
-    "desc": "Attiva 1 di questi effetti (ma puoi utilizzare ciascun effetto di \"Triplo Lancio Callibro\" una sola volta per turno);\n● Mischia nel Deck 1 mostro Drago dal tuo Cimitero, poi puoi Evocare Specialmente 1 mostro \"Mizzile\" con un nome diverso dal tuo Deck.\n● Mischia nel Deck 2 mostri Drago dal tuo Cimitero, poi aggiungi 1 Magia Terreno dal tuo Cimitero alla tua mano.\n● Mischia nel Deck 3 mostri Drago dal tuo Cimitero, poi rimischia nel Deck fino a 3 mostri dal Cimitero del tuo avversario.",
-    "overallString": "[Magia|Rapida]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257018.jpg?version=19.7"
   },
   {
     "name": "Wisca Blitzclique",
@@ -270,54 +228,6 @@
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305067.jpg?version=19.7"
   },
   {
-    "name": "Demiurgo Ema",
-    "desc": "Puoi mandare 4 mostri con 2400 o più ATK e 1000 DEF dalla tua mano, Deck e/o Terreno scoperto al Cimitero; Evoca Specialmente questa carta dalla tua mano.\r\nPuoi scegliere come bersaglio 1 Magia/Trappola su ciascun Terreno; distruggile, poi Evoca Specialmente 1 \"Segnalino Homunculus\" (Fata/LUCE/Livello 2/ATK 800/DEF 800) sul Terreno di entrambi i giocatori in Posizione di Difesa e, se lo fai, questa carta guadagna 1600 ATK.\r\nPuoi utilizzare ciascun effetto di \"Demiurgo Ema\" una sola volta per turno.",
-    "overallString": "[Mostro|Effetto] Fata/Luce  [★8] 3300/2000",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257019.jpg?version=19.7"
-  },
-  {
-    "name": "Creatore Oscuro",
-    "desc": "Puoi Evocare Specialmente questa carta (dalla tua mano) offrendo come Tributo 2 mostri Demone e/o Fata.\r\nNon può essere distrutta in battaglia.\r\nUna volta per turno: puoi Evocare Specialmente quanti più \"Segna-Creatore Oscuro\" possibili (Demone/OSCURITÀ/Livello 10/ATK 3000/DEF 1000), ma non possono attaccare direttamente né essere distrutti in battaglia, distruggili quando questa carta viene distrutta, inoltre non puoi Evocare Specialmente per il resto di questo turno.\r\nSe uno o più mostri vengono distrutti in battaglia: infliggi 700 danni al tuo avversario.",
-    "overallString": "[Mostro|Effetto] Demone/Oscurità  [★10] 3000/1000",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257020.jpg?version=19.7"
-  },
-  {
-    "name": "Impatto del Fulmine",
-    "desc": "Aggiungi 1 mostro Tuono dal tuo Deck alla tua mano, ma non puoi Evocare Normalmente/Posizionare mostri con il suo nome fino alla fine del prossimo turno dopo che questa carta si è risolta.\r\nPuoi attivare solo 1 \"Impatto del Fulmine\" per turno.",
-    "overallString": "[Magia]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257021.jpg?version=19.7"
-  },
-  {
-    "name": "Catastrogue Tuner Oscuro",
-    "desc": "Puoi rivelare questa carta nella tua mano; immediatamente dopo che questo effetto si è risolto, Evoca Normalmente 1 mostro \"Tuner Oscuro\". Puoi utilizzare questo effetto di \"Catastrogue Tuner Oscuro\" una sola volta per turno.\r\nUna volta per turno, se controlli questa carta Evocata Normalmente/Posizionata: puoi offrire come Tributo sia questa carta scoperta che 1 mostro non-Tuner scoperto con Livello inferiore e, se lo fai, Evoca Specialmente 1 Mostro Synchro dal tuo Extra Deck con un Livello pari alla differenza tra i Livelli di quei mostri (questa Evocazione è trattata come Evocazione Synchro), poi puoi distruggere 1 carta controllata dal tuo avversario.",
-    "overallString": "[Mostro|Effetto|Tuner] Demone/Oscurità  [★8] 0/0",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257022.jpg?version=19.7"
-  },
-  {
-    "name": "Mano dell'Incubo Tuner Oscuro",
-    "desc": "Puoi rivelare questa carta nella tua mano; immediatamente dopo che questo effetto si è risolto, Evoca Normalmente 1 mostro \"Tuner Oscuro\". Puoi utilizzare questo effetto di \"Mano dell'Incubo Tuner Oscuro\" una sola volta per turno.\r\nSe questa carta viene Evocata Normalmente: puoi Evocare Specialmente 1 mostro di Livello 2 o inferiore dalla tua mano.\r\nUna volta per turno, se controlli questa carta Evocata Normalmente/Posizionata: puoi offrire come Tributo sia questa carta scoperta che 1 mostro non-Tuner scoperto con Livello inferiore e, se lo fai, Evoca Specialmente 1 Mostro Synchro dal tuo Extra Deck con un Livello pari alla differenza tra i Livelli di quei mostri (questa Evocazione è trattata come Evocazione Synchro).",
-    "overallString": "[Mostro|Effetto|Tuner] Guerriero/Oscurità  [★10] 0/0",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257023.jpg?version=19.7"
-  },
-  {
-    "name": "Sovrano della Fine del Chaos - Sovrano dell'Inizio e della Fine",
-    "desc": "Non può essere Evocato Normalmente/Posizionato. Deve essere Evocato Specialmente dalla tua mano bandendo 1 mostro Guerriero LUCE e 1 mostro Demone OSCURITÀ dal tuo Cimitero.\r\nL'Evocazione Speciale di questa carta non può essere annullata. Nessun giocatore può attivare carte o effetti quando questa carta viene Evocata Specialmente.\r\nSe controlli questa carta che è stata Evocata nel suo modo: puoi pagare 1000 LP; bandisci quante più carte possibili dal Terreno e dal Cimitero del tuo avversario, poi infliggi 500 danni al tuo avversario per ciascuna carta bandita da questo effetto. Puoi utilizzare questo effetto di \"Sovrano della Fine del Chaos - Sovrano dell'Inizio e della Fine\" una sola volta per turno.",
-    "overallString": "[Mostro|Effetto|Evocazione Speciale] Guerriero/Luce  [★10] 3500/2000",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257026.jpg?version=19.7"
-  },
-  {
-    "name": "Iper Alza-Rango-Magico Forza Suprema",
-    "desc": "Scegli come bersaglio 1 Mostro Xyz \"Utopia\" o \"Utopico\" di Rango 9 o inferiore che controlli il cui Attributo originale è LUCE; Evoca Specialmente 1 Mostro Xyz \"Numero\" di Rango 10 o superiore dal tuo Extra Deck utilizzando quel Mostro Xyz che controlli (questa Evocazione è trattata come Evocazione Xyz; trasferisci i suoi Materiali), e se lo fai, attacca questa carta ad esso come Materiale.\r\nUn Mostro Xyz \"Numero 99\" che ha questa carta come Materiale guadagna questo effetto.\r\n● Una volta per Catena, quando il tuo avversario attiva l'effetto di un mostro durante la Battle Phase (Effetto Rapido): stacca tutti i Materiali da questa carta e, se lo fai, distruggi tutti i mostri controllati dal tuo avversario.",
-    "overallString": "[Magia]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257027.jpg?version=19.7"
-  },
-  {
-    "name": "Drago Hydradrive Perfectron",
-    "desc": "1+ Mostri Link\r\nSe questa carta viene Evocata tramite Link, oppure alla fine del Damage Step se questa carta ha combattuto: distruggi quanti più mostri possibili controllati dal tuo avversario, poi infliggi 300 danni al tuo avversario per ogni Mostro Link nel tuo Cimitero.\r\nMentre è scoperta sul Terreno, questa carta è anche di Attributo LUCE, ACQUA, FUOCO e VENTO.\r\nImmune agli effetti attivati dei mostri che condividono un Attributo con questa carta.\r\nSe questa carta con 1000 o più ATK sta per essere distrutta in battaglia o dall'effetto di una carta, puoi invece ridurre il suo ATK di 1000.",
-    "overallString": "[Mostro|Effetto|Link] Cyberso/Terra  [LINK-5] 5000/-  [←][→][↙][↓][↘]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257028.jpg?version=19.7"
-  },
-  {
     "name": "Compagnia di Clown Hat",
     "desc": "Valore Pendulum = 7\r\n[ Effetto Pendulum ]\r\nDurante la tua Main Phase: puoi mandare 1 carta \"Compagnia di Clown\" dal tuo Deck al tuo Cimitero, eccetto un Mostro Pendulum e, se lo fai, Evoca Specialmente questa carta, inoltre non puoi attivare gli effetti dei mostri Evocati Specialmente dal Deck o dall'Extra Deck fino alla fine del prossimo turno. Puoi utilizzare questo effetto di \"Compagnia di Clown Hat\" una sola volta per turno.\r\n----------------------------------------\r\n[ Effetto di un Mostro ]\r\nI mostri controllati dal tuo avversario perdono 1500 DEF mentre controlli un mostro Evocato tramite Tributo.\r\nSe questa carta viene offerta come Tributo: puoi attivare 1 di questi effetti (ma puoi utilizzare ciascuno di questi effetti di \"Compagnia di Clown Hat\" una sola volta per turno);\r\n● Mischia nel Deck tutti i Mostri Pendulum sul Terreno e scoperti negli Extra Deck.\r\n● Evoca Specialmente 1 mostro \"Compagnia di Clown\" non-Pendulum dal tuo Deck o Extra Deck, ignorando le sue condizioni di Evocazione.",
     "overallString": "[Mostro|Effetto|Pendulum] Guerriero-Bestia/Luce  [★5] 1900/800  7/7",
@@ -334,12 +244,6 @@
     "desc": "Se controlli un mostro Evocato tramite Tributo: scarta un qualsiasi numero di carte, poi scegli come bersaglio lo stesso numero di carte scoperte sul Terreno; distruggile.\r\nPuoi bandire questa carta dal tuo Cimitero e offrire come Tributo 1 Mostro Rituale, Fusione, Synchro, Xyz, Pendulum o Link dalla tua mano o dal tuo Terreno; aggiungi 1 mostro \"Compagnia di Clown\" dal tuo Deck o Cimitero alla tua mano il cui Livello/Rango/Classificazione Link originale non sia uguale a quello del mostro offerto come Tributo.\r\nPuoi utilizzare ciascun effetto di \"Compagnia di Clown \"Finale\"\" una sola volta per turno.",
     "overallString": "[Trappola]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305076.jpg?version=19.7"
-  },
-  {
-    "name": "Specchio della Luna Piena",
-    "desc": "Ogni volta che uno o più mostri vengono distrutti in battaglia o dall'effetto di una carta, metti 1 Segnalino Luna Piena su questa carta per ciascuno di essi.\r\nPuoi rimuovere Segnalini Luna Piena da questa carta, poi attivare 1 di questi effetti;\r\n● 1: Evoca Specialmente 1 mostro di Livello 6 o inferiore (Demone o Fata) dalla tua mano o dal tuo Cimitero.\r\n● 3: Aggiungi 1 mostro OSCURITÀ di Livello 10 dal tuo Deck alla tua mano.\r\n● 5: Evoca Specialmente 1 mostro di Livello 10 dalla tua mano o dal tuo Cimitero.\r\nPuoi utilizzare questo effetto di \"Specchio della Luna Piena\" una sola volta per turno.",
-    "overallString": "[Magia|Continua]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100200288.jpg?version=19.7"
   },
   {
     "name": "Chaos Nero lo Spadaccino Magico Supremo",
@@ -400,101 +304,5 @@
     "desc": "Puoi Evocare tramite Rituale questa carta con \"Rituale di Luce e Oscurità\".\r\nNon può essere distrutta in battaglia.\r\nImmune agli effetti attivati del tuo avversario, a meno che non bersaglino questa carta.\r\nPuoi utilizzare ciascuno dei seguenti effetti di \"Glorioso Soldato Nero - Soldato di Luce e Oscurità\" una sola volta per turno.\r\nSe questa carta viene Evocata Specialmente: puoi scegliere come bersaglio 1 carta controllata dal tuo avversario; bandiscila.\r\nQuando questa carta distrugge un mostro dell'avversario in battaglia: puoi far guadagnare a questa carta 1500 ATK e, se lo fai, può effettuare un secondo attacco consecutivo.",
     "overallString": "[Mostro|Effetto|Rituale] Guerriero/Terra  [★8] 3000/2500",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305028.jpg?version=19.7"
-  },
-  {
-    "name": "Drago Rosa Nera/Assalto",
-    "desc": "Non può essere Evocato Normalmente/Posizionato. Deve essere Evocato Specialmente con \"Attivazione Modalità Assalto\".\r\nSe questa carta viene distrutta: puoi Evocare Specialmente 1 \"Drago Rosa Nera\" dal tuo Cimitero.\r\nPuoi utilizzare ciascuno dei seguenti effetti di \"Drago Rosa Nera/Assalto\" una sola volta per turno.\r\nPuoi rivelare questa carta nella tua mano; mischiala nel Deck e, se lo fai, cambia l'ATK di 1 mostro scoperto sul Terreno a 0.\r\nSe questa carta viene Evocata Specialmente, oppure uno o più mostri vengono Evocati Specialmente sul Terreno del tuo avversario: puoi distruggere tutte le carte sul Terreno.",
-    "overallString": "[Mostro|Effetto|Evocazione Speciale] Drago/Fuoco  [★9] 2900/2300",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100258001.jpg?version=19.7"
-  },
-  {
-    "name": "Predapianta Dheadevil",
-    "desc": "1 mostro \"Predapianta\" + 1 mostro di Livello 1\r\nDeve prima essere Evocato tramite Fusione, oppure Evocato Specialmente, dal tuo Extra Deck, offrendo come Tributo 1 mostro su uno dei due Terreni con un Segnalino Predatore e 1 mostro \"Predapianta\".\r\nDurante la Main Phase, se questa carta e' stata Evocata Specialmente in questo turno (Effetto Rapido): puoi scegliere come bersaglio Magie/Trappole sul Terreno, fino al numero di mostri con un Segnalino Predatore; distruggile. Puoi utilizzare questo effetto di \"Predapianta Dheadevil\" una sola volta per turno.",
-    "overallString": "[Mostro|Effetto|Fusione] Pianta/Oscurità  [★6] 2200/1500",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100258002.jpg?version=19.7"
-  },
-  {
-    "name": "Drago Bianco Occhi Profondi Abisso Blu",
-    "desc": "(Questa carta è sempre considerata come una carta \"Occhi Blu\".)\r\nPuoi scartare questa carta; aggiungi 1 Tuner LUCE di Livello 1 dal tuo Deck alla tua mano.\r\nSe uno o più Mostri Rituale \"Occhi Blu\" e/o \"Drago Bianco Occhi Blu\" vengono mandati al tuo Cimitero: puoi scegliere come bersaglio 1 di essi; Evoca Specialmente questa carta dal tuo Cimitero (se si trovava lì quando il mostro è stato mandato) oppure dalla tua mano (anche se non si trovava lì), e se lo fai, il suo ATK diventa pari all'ATK di quel mostro, inoltre bandiscila quando lascia il Terreno.\r\nPuoi utilizzare ogni effetto di \"Drago Bianco Occhi Profondi Abisso Blu\" una sola volta per turno.",
-    "overallString": "[Mostro|Effetto] Drago/Luce  [★10] 0/0",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257002.jpg?version=19.7"
-  },
-  {
-    "name": "Fusione Futura Nova",
-    "desc": "Quando questa carta viene attivata: Evoca tramite Fusione 1 Mostro Fusione LUCE Macchina dal tuo Extra Deck, utilizzando mostri dal tuo Deck, includendo \"Cyber Drago\", inoltre, per il resto di questo turno dopo che questa carta si è risolta, non puoi Evocare Specialmente, eccetto mostri Macchina, inoltre non puoi dichiarare attacchi, eccetto con il mostro Evocato. Quando questa carta lascia il Terreno, distruggi quel mostro. Quando quel mostro viene distrutto, distruggi questa carta.\r\nPuoi attivare solo 1 \"Fusione Futura Nova\" per turno.",
-    "overallString": "[Magia|Continua]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257006.jpg?version=19.7"
-  },
-  {
-    "name": "Catena dell'Arcidemone Drago Rosso",
-    "desc": "Puoi attivare questa carta nel turno in cui è stata Posizionata rivelando 1 \"Arcidemone Drago Rosso\" nel tuo Extra Deck.\r\nAttiva questa carta rivelando un qualsiasi numero di mostri nella tua mano, poi scegli come bersaglio Mostri Effetto controllati dal tuo avversario pari al numero di Tuner rivelati +1; essi perdono 100 ATK per ogni carta rivelata, inoltre i loro effetti sono annullati. Se l'ultimo di quei mostri non è sul Terreno, distruggi questa carta.\r\nPuoi attivare solo 1 \"Catena dell'Arcidemone Drago Rosso\" per turno.",
-    "overallString": "[Trappola|Continua]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257009.jpg?version=19.7"
-  },
-  {
-    "name": "Robot di Difesa Galattico Orbitale 7",
-    "desc": "Puoi offrire come Tributo questa carta dalla tua mano o Terreno; prendi 1 mostro \"Fotonico\" e 1 mostro \"Galattico\" dal tuo Deck, aggiungi 1 di essi alla tua mano e manda l'altro al Cimitero, inoltre, per il resto di questo turno, non puoi Evocare Specialmente, eccetto mostri LUCE.\r\nSe uno o più mostri \"Occhi Galattici\" vengono Evocati Specialmente sul tuo Terreno: puoi Evocare Specialmente questa carta dal tuo Cimitero, ma bandiscila quando lascia il Terreno.\r\nPuoi utilizzare ogni effetto di \"Robot di Difesa Galattico Orbitale 7\" una sola volta per turno.",
-    "overallString": "[Mostro|Effetto] Macchina/Luce  [★8] 2000/2000",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257012.jpg?version=19.7"
-  },
-  {
-    "name": "Drago Synchro Ala Chiara dei Quattro Draghi Celesti",
-    "desc": "1 Tuner + 1 o più mostri non-Tuner\r\n(Questa carta è sempre considerata come una carta \"Velociroid\".)\r\nSe questa carta viene Evocata Specialmente: puoi distruggere 1 Mostro Effetto controllato dal tuo avversario, e se lo fai, questa carta guadagna ATK pari all'ATK originale di quel mostro.\r\nQuando il tuo avversario attiva una carta o un effetto (Effetto Rapido): puoi Evocare Specialmente 1 Tuner VENTO di Livello 4 o inferiore dalla tua mano o Cimitero (ma annulla i suoi effetti), poi immediatamente dopo che questo effetto si è risolto, puoi Evocare Synchro 1 Mostro Synchro VENTO.\r\nPuoi utilizzare ogni effetto di \"Drago Synchro Ala Chiara dei Quattro Draghi Celesti\" una sola volta per turno.",
-    "overallString": "[Mostro|Effetto|Synchro] Drago/Vento  [★7] 2500/2000",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257014.jpg?version=19.7"
-  },
-  {
-    "name": "Sbarramento Mizzile",
-    "desc": "Puoi mandare 1 mostro Drago OSCURITÀ dal tuo Deck al Cimitero, eccetto un mostro di Livello 5; Evoca Specialmente questa carta dalla tua mano, inoltre, per il resto di questo turno, non puoi Evocare Specialmente dall'Extra Deck, eccetto mostri OSCURITÀ.\r\nQuando viene attivato l'effetto di un Mostro Link che sceglie come bersaglio questa carta sul Terreno (Effetto Rapido): puoi distruggere questa carta, poi Evoca Specialmente fino a 1 mostro \"Mizzile\" ciascuno dalla tua mano, Deck, Cimitero e/o carte bandite, eccetto \"Sbarramento Mizzile\".\r\nPuoi utilizzare ogni effetto di \"Sbarramento Mizzile\" una sola volta per turno.",
-    "overallString": "[Mostro|Effetto] Drago/Oscurità  [★5] 1500/1600",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257017.jpg?version=19.7"
-  },
-  {
-    "name": "Drago Bianco Occhi Blu la Bestia Fantasma Bianca",
-    "desc": "Quando viene attivata una carta o un effetto che sceglie come bersaglio questa carta sul Terreno (Effetto Rapido): puoi scartare 1 carta; annulla quell'effetto.\nPuoi utilizzare ciascuno dei seguenti effetti di \"Drago Bianco Occhi Blu la Bestia Fantasma Bianca\" una sola volta per turno.\nQuando questa carta viene aggiunta dal Deck alla tua mano, o un tuo mostro viene distrutto in battaglia: puoi rivelare questa carta nella tua mano; Evocala Specialmente.\nSe questa carta viene Evocata Specialmente dalla mano o dal Deck: puoi distruggere tutti i mostri che controlla il tuo avversario, inoltre non puoi attaccare direttamente per il resto di questo turno, eccetto con mostri \"Occhi Blu\".",
-    "overallString": "[Mostro|Effetto] Drago/Luce  [★8] 3000/2500",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257001.jpg?version=19.7"
-  },
-  {
-    "name": "Drago Cyber Finale del Colpo Decisivo",
-    "desc": "3 mostri Macchina con 2100 o più ATK\r\nDeve essere Evocato tramite Fusione.\r\nSe questa carta viene Evocata tramite Fusione utilizzando solo mostri LUCE: puoi pagare 4000 LP; aggiungi 1 \"Rimozione di Limite\" dal tuo Deck alla tua mano.\r\nPuoi utilizzare questo effetto di \"Drago Cyber Finale del Colpo Decisivo\" una sola volta per turno.\r\nSe questa carta attacca un mostro in Posizione di Difesa, infliggi danno da combattimento perforante al tuo avversario.\r\nQuesta carta può effettuare fino a 3 attacchi durante ogni Battle Phase se il suo ATK attuale è superiore al suo ATK originale",
-    "overallString": "[Mostro|Effetto|Fusione] Macchina/Luce  [★10] 4000/2800",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257004.jpg?version=19.7"
-  },
-  {
-    "name": "Drago Cremisi Quetzacoatl",
-    "desc": "1 Tuner + 1 o più mostri non-Tuner\r\nGuadagna ATK pari alla somma dell'ATK originale di tutti gli altri Mostri Synchro che controlli.\r\nPuoi utilizzare ciascuno dei seguenti effetti di \"Drago Cremisi Quetzacoatl\" una sola volta per turno.\r\nSe questa carta viene Evocata Synchro: puoi Evocare Specialmente quanti più Mostri Synchro Drago possibili dal tuo Cimitero, inoltre non puoi Evocare Specialmente per il resto di questo turno.\r\nQuando il tuo avversario attiva l'effetto di un mostro (Effetto Rapido): puoi far ritornare 1 altro Mostro Synchro Drago che controlli nell'Extra Deck, e se lo fai, annulla quell'attivazione.",
-    "overallString": "[Mostro|Effetto|Synchro] Drago/Oscurità  [★12] 0/0",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257007.jpg?version=19.7"
-  },
-  {
-    "name": "Neo Drago Fotonico Occhi Galattici - Ululato Fotonico",
-    "desc": "3 mostri di Livello 8\r\nUna volta per turno, puoi anche Evocare Xyz \"Neo Drago Fotonico Occhi Galattici - Ululato Fotonico\" utilizzando 1 Mostro Xyz di Rango 8 che controlli (trasferisci i suoi materiali).\r\nSe questa carta viene Evocata Xyz: puoi prendere 1 mostro \"Fotonico\" dal tuo Deck, e o Evocarlo Specialmente in Posizione di Difesa oppure Attaccarlo a questa carta come materiale.\r\n(Effetto Rapido): puoi staccare 3 materiali da questa carta; Tributa 1 altro Mostro Xyz e, se lo fai, annulla gli effetti di tutte le altre carte attualmente scoperte sul Terreno fino alla fine di questo turno.",
-    "overallString": "[Mostro|Effetto|Xyz] Drago/Luce  [☆8] 4500/3000",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257010.jpg?version=19.7"
-  },
-  {
-    "name": "Drago Fusione Veleno Affamato dei Quattro Draghi Celesti",
-    "desc": "2 mostri OSCURITÀ sul Terreno\r\n(Questa carta è sempre considerata una carta \"Predapianta\".)\r\nSe questa carta viene Evocata Specialmente: puoi scegliere come bersaglio 1 altro mostro scoperto sul Terreno; il suo ATK diventa 0, i suoi effetti vengono annullati, inoltre esso diventa OSCURITÀ.\r\nQuando il tuo avversario attiva una carta o un effetto (Effetto Rapido): puoi Evocare tramite Fusione 1 Mostro Fusione OSCURITÀ dal tuo Extra Deck, utilizzando mostri OSCURITÀ su entrambi i Terreni, inclusa questa carta.\r\nPuoi utilizzare ciascun effetto di \"Drago Fusione Veleno Affamato dei Quattro Draghi Celesti\" una sola volta per turno.",
-    "overallString": "[Mostro|Effetto|Fusione] Drago/Oscurità  [★8] 2800/2000",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257013.jpg?version=19.7"
-  },
-  {
-    "name": "Drago Callibrocarica Liberatore",
-    "desc": "3 o più Mostri Effetto\r\nPuoi Evocare Specialmente \"Drago Callibrocarica Liberatore\" una sola volta per turno.\r\nUna volta per turno, durante la Battle Phase (Effetto Rapido): puoi piazzare 1 mostro che controlla il tuo avversario in una Zona a cui questa carta punta e prenderne il controllo.\r\nIl tuo avversario non può attivare carte o effetti in risposta all'attivazione di questo effetto.\r\nUna volta per Catena, se questa carta è nel tuo Cimitero (Effetto Rapido): puoi scegliere come bersaglio 1 mostro che controlli; distruggilo e, se lo fai, Evoca Specialmente questa carta.",
-    "overallString": "[Mostro|Effetto|Link] Drago/Oscurità  [LINK-4] 3000/-  [←][→][↙][↘]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257016.jpg?version=19.7"
-  },
-  {
-    "name": "Orco Gatling",
-    "desc": "Puoi mandare al Cimitero qualsiasi numero di carte coperte dalla tua Zona Magie & Trappole; infliggi 800 danni al tuo avversario per ciascuna, inoltre il tuo avversario non subisce danni dagli effetti dei mostri non Demone per il resto di questo turno.\nPuoi utilizzare questo effetto di \"Orco Gatling\" fino a tre volte per turno.\nUna volta per turno, quando questa carta viene scelta come bersaglio per un attacco: puoi infliggere 500 danni al tuo avversario per ciascun mostro in Posizione di Attacco che controlla, poi termina la Battle Phase.",
-    "overallString": "[Mostro|Effetto] Demone/Fuoco  [★3] 800/800",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257024.jpg?version=19.7"
-  },
-  {
-    "name": "Lanciatore del Fato Demoneterno",
-    "desc": "Durante la tua Main Phase: puoi Evocare Specialmente 1 mostro Demone dalla tua mano.\r\nSe non hai carte nella tua mano (Effetto Rapido): puoi bandire questa carta dal tuo Cimitero; il tuo avversario sceglie 1 di questi effetti da applicare.\r\n● Rivela la prima carta del tuo Deck e, se è un mostro, il tuo avversario subisce al tuo posto qualsiasi danno da effetto che avresti subito in questo turno. Altrimenti, tu subisci 4000 danni.\r\n● Non subisci danni da effetto in questo turno.\r\nPuoi utilizzare ciascun effetto di \"Lanciatore del Fato Demoneterno\" una sola volta per turno.",
-    "overallString": "[Mostro|Effetto] Demone/Oscurità  [★1] 100/100",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257025.jpg?version=19.7"
   }
 ]
