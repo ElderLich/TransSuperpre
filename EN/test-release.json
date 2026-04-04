@@ -1,5 +1,17 @@
 [
   {
+    "name": "Gray Layer",
+    "desc": "You can only use the ① and ② effects of this card's name each once per turn.\r\n①：You can Tribute this card and reveal 1 Machine monster in your hand; add 1 Machine monster from your Deck to your hand with a different Attribute than the revealed monster, then, if it had 1200 or less ATK, you can Special Summon 1 Machine monster from your hand.\r\n②：If your monster(s) is destroyed by card effect while this card is in your GY: You can banish this card; destroy 1 card on the field.",
+    "overallString": "[Monster|Effect] Machine/Light  [★4] 1200/1000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305026.jpg?version=19.7"
+  },
+  {
+    "name": "Lane Restriction",
+    "desc": "(Note: Temporarily unavailable)\r\n(There is a serious bug in the implementation of this card's ② effect. Reports related to this effect will not be accepted at this time.)\r\n\r\n①：When this card resolves, you can Special Summon 1 of your banished monsters to your rightmost Main Monster Zone.\r\n②：If your opponent Normal or Special Summons a monster(s) to their Main Monster Zone, they must use the leftmost usable zone(s).",
+    "overallString": "[Trap|Continuous]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305078.jpg?version=19.7"
+  },
+  {
     "name": "Summer",
     "desc": "①：Once per turn: You can place Season Counters on this card equal to the number of your opponent's unused Main Monster Zones.\r\n②：Once per turn, when your monster declares an attack: You can inflict 400 damage to your opponent for each Season Counter on this card and \"Spring\" in your GY.\r\n③：Once per turn, during your opponent's End Phase: You can place 1 Field Spell that you can place a Season Counter on from your hand or Deck face-up on your field, and if you do, place this card's Season Counters on it, but neither player can activate its effects this turn.",
     "overallString": "[Spell|Field]",
