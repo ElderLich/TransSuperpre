@@ -1,5 +1,23 @@
 [
   {
+    "name": "Gray Layer",
+    "desc": "Vous pouvez Sacrifier cette carte et révéler 1 monstre Machine dans votre main ; ajoutez 1 monstre Machine depuis votre Deck à votre main d'Attribut différent du monstre révélé, puis si vous avez ajouté un monstre avec max. 1200 ATK, vous pouvez Invoquer Spécialement 1 monstre Machine depuis votre main.\r\nSi un ou plusieurs monstres en votre possession sont détruits par un effet de carte, tant que cette carte est dans votre Cimetière : vous pouvez bannir cette carte ; détruisez 1 carte sur le Terrain.\r\nVous ne pouvez utiliser chaque effet de \"Gray Layer\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet] Machine/Lumiére  [★4] 1200/1000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305026.jpg?version=19.7"
+  },
+  {
+    "name": "Restriction de Voie",
+    "desc": "Lorsque cette carte est activée : vous pouvez Invoquer Spécialement 1 de vos monstres bannis dans votre Zone Monstre Main la plus à droite.\r\nSi votre adversaire va Invoquer Normalement ou Spécialement un ou plusieurs monstres dans sa Zone Monstre Main, il doit utiliser les zones inutilisées les plus à gauche.",
+    "overallString": "[Piège|Continu]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305078.jpg?version=19.7"
+  },
+  {
+    "name": "Été",
+    "desc": "Une fois par tour : vous pouvez placer un nombre de Compteurs Saison sur cette carte égal au nombre de Zones Monstre Main inutilisées de votre adversaire.\r\nUne fois par tour, lorsque votre monstre déclare une attaque : vous pouvez infliger 400 points de dommages à votre adversaire pour chaque Compteur Saison sur cette carte, et pour chaque \"Printemps\" dans votre Cimetière.\r\nUne fois par tour, durant la End Phase de votre adversaire : vous pouvez prendre 1 Magie de Terrain depuis votre main ou Deck sur laquelle vous pouvez placer un Compteur Saison, et placez-la face recto sur votre Terrain (mais aucun joueur ne peut activer ses effets ce tour), et si vous le faites, placez tous les Compteurs Saison sur cette carte sur la carte.",
+    "overallString": "[Magie|Terrain]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305064.jpg?version=19.7"
+  },
+  {
     "name": "Rayonrage, le Démon du Crépuscule",
     "desc": "Échelle Pendule = 1\r\n[ Effet Pendule ]\r\nSi un ou plusieurs Monstres Pendule que vous contrôlez vont être détruits par un effet de carte de l'adversaire, vous pouvez détruire cette carte à la place d'1 des Monstres Pendule.\r\nVous ne pouvez utiliser cet effet de \"Rayonrage, le Démon du Crépuscule\" qu'une fois par tour.\r\n----------------------------------------\r\n[ Effet de Monstre ]\r\nSi cette carte est dans votre main : vous pouvez cibler 1 Monstre Pendule que vous contrôlez ; placez le Monstre Pendule dans votre Zone Pendule (mais il ne peut pas activer ses Effets Pendule ce tour), et si vous le faites, Invoquez Spécialement cette carte.\r\n(Effet Rapide) : vous pouvez Sacrifier cette carte, puis ciblez 1 carte dans votre Zone Pendule ; elle ne peut pas être détruite par les effets de carte de votre adversaire ce tour. \r\nVous ne pouvez utiliser chaque effet de \"Rayonrage, le Démon du Crépuscule\" qu'une fois par tour.",
     "overallString": "[Monstre|Effet|Pendule] Dragon/Lumiére  [★3] 1000/1500  1/1",
