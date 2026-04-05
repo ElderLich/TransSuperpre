@@ -1,0 +1,29 @@
+name: Auto-merge ES to main
+
+on:
+  push:
+    branches:
+      - ES
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Auto-merge
+        uses: pascalgn/automerge-action@v0.16.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MERGE_LABELS: ""
+          MERGE_METHOD: "merge"
+          MERGE_REMOVE_LABELS: ""
+          MERGE_RETRIES: "10"
+          MERGE_RETRY_SLEEP: "10000"
