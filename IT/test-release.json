@@ -1,5 +1,47 @@
 [
   {
+    "name": "Esplosione al Plasma",
+    "desc": "Attiva questo effetto in base al turno:\n● Tuo: Metti 1 mostro Tuono o Roccia dal tuo Deck in cima al tuo Deck, poi se un mostro Tuono o Roccia è nel tuo Terreno o Cimitero, puoi distruggere 1 carta sul Terreno.\n● Avversario: Aggiungi 1 mostro Tuono o Roccia dal tuo Terreno, Cimitero o zona di carte bandite alla mano, oppure se un mostro/i è stato distrutto in battaglia o dall'effetto di una carta in questo turno, puoi invece aggiungerlo dal tuo Deck.\nPuoi attivare solo 1 \"Esplosione al Plasma\" per turno.",
+    "overallString": "[Magia|Rapida]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305063.jpg?version=19.7"
+  },
+  {
+    "name": "Giugno dell'Orgoglio Elfnote",
+    "desc": "1 Tuner + 1 non-Tuner Incantatore\r\nMentre questa carta è nella Zona Mostri Principale centrale, nessun giocatore può dichiarare attacchi, eccetto con mostri nelle Zone Mostri Principali centrali.\r\nDurante la Main Phase, se questa carta è nella Zona Mostri Principale centrale (Effetto Rapido): puoi farla ritornare nell'Extra Deck, e se lo fai, Evoca Specialmente fino a 1 mostro \"Elfnote\" ciascuno dalla tua mano, Deck e Cimitero. Puoi utilizzare questo effetto di \"Giugno dell'Orgoglio Elfnote\" una sola volta per turno.",
+    "overallString": "[Mostro|Effetto|Synchro] Incantatore/Luce  [★10] 3100/1800",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305035.jpg?version=19.7"
+  },
+  {
+    "name": "Inviato del Patrono Potente delle Preghiere Pure",
+    "desc": "2 mostri non-Link\r\nSe questa carta è Evocata Link e hai un mostro \"Patrono Potente\" nel tuo Cimitero: puoi aggiungere 1 carta \"Teorealizzare\" dal tuo Deck alla tua mano.\r\nDurante la Main Phase, se controlli un altro mostro Fata OSCURITÀ, puoi (Effetto Rapido): immediatamente dopo che questo effetto si è risolto, Evoca Link utilizzando materiali che controlli, inclusa questa carta.\r\nPuoi utilizzare ogni effetto di \"Inviato del Patrono Potente delle Preghiere Pure\" una sola volta per turno.",
+    "overallString": "[Mostro|Effetto|Link] Fata/Oscurità  [LINK-2] 300/-  [↑][↓]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305039.jpg?version=19.7"
+  },
+  {
+    "name": "Dominio del Patrono Potente Vicolo Cieco - Viraia",
+    "desc": "Mostra 1 \"Nerva la Patrona Potente della Creazione\", 1 \"Jupiter il Patrono Potente della Distruzione\" e 1 \"Junora il Patrono Potente della Sintonizzazione\" dal tuo Extra Deck, Terreno scoperto e/o Cimitero, e se lo fai, il tuo avversario non può attivare carte o effetti in risposta all'attivazione degli effetti dei tuoi mostri \"Patrono Potente\" in questo turno.\r\nSe dovresti bandire la/e carta/e in cima al tuo Deck per attivare l'effetto di un mostro \"Patrono Potente\" che controlli, puoi invece bandire questa carta dal tuo Cimitero.\r\nPuoi utilizzare ogni effetto di \"Dominio del Patrono Potente Vicolo Cieco - Viraia\" una sola volta per turno.",
+    "overallString": "[Magia|Rapida]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305055.jpg?version=19.7"
+  },
+  {
+    "name": "Pasto-Ral Teorealizzare",
+    "desc": "Se controlli una carta \"Artmage\", \"DoomZ\" o \"Elfnote\": Evoca Specialmente 1 \"Medius il Puro\" dalla tua mano o Deck, inoltre il tuo avversario non può attivare carte o effetti quando quel mostro viene Evocato Specialmente.\r\nPuoi bandire questa carta dal tuo Cimitero, poi scegliere come bersaglio 1 Mostro Fusione, Synchro o Xyz nel tuo Cimitero; Evocalo Specialmente nella tua zona a cui punta un Mostro Link.\r\nPuoi utilizzare solo 1 effetto di \"Pasto-Ral Teorealizzare\" per turno, e solo una volta in quel turno.",
+    "overallString": "[Magia]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305056.jpg?version=19.7"
+  },
+  {
+    "name": "Ombre dei Tempi Finali del Patrono Potente",
+    "desc": "Evoca Specialmente 1 mostro \"Patrono Potente\" dalla tua mano, Extra Deck scoperto o Cimitero, poi puoi applicare questi effetti, in sequenza, in base al numero di diversi tipi di carta (Fusione, Synchro, Xyz) che controlli.\r\n● 1+: Bandisci le prime 3 carte in cima al Deck del tuo avversario.\r\n● 2+: Bandisci coperta 1 carta che il tuo avversario controlla.\r\n● 3: Bandisci coperta 1 carta casuale dalla mano del tuo avversario.\r\nPuoi attivare solo 1 \"Ombre dei Tempi Finali del Patrono Potente\" per turno.",
+    "overallString": "[Trappola]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305071.jpg?version=19.7"
+  },
+  {
+    "name": "Elfnote Quartina della Successione",
+    "desc": "Il mostro nella tua Zona Mostri Principale centrale non può essere bandito dagli effetti delle carte del tuo avversario.\r\nPuoi mandare 1 altra Magia/Trappola dalla tua mano o Terreno al Cimitero e dichiarare un Livello da 1 a 4; Evoca Specialmente 1 \"Segna-Serafino Elfnote\" (Pianta/Tuner/FUOCO/ATK 0/DEF 0) con il Livello dichiarato, ma mentre quel Segnalino è nella Zona Mostri, il giocatore che lo ha Evocato non può Evocare Specialmente dall'Extra Deck, eccetto mostri \"Elfnote\".\r\nPuoi utilizzare questo effetto di \"Elfnote Quartina della Successione\" una sola volta per turno.",
+    "overallString": "[Trappola|Continua]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305072.jpg?version=19.7"
+  },
+  {
     "name": "Ilios il Drago del Sole Nero",
     "desc": "Puoi rivelare 3 mostri Drago nel tuo Extra Deck con 3000 o più ATK e nomi diversi; Evoca Specialmente questa carta dalla tua mano.\r\nSe questa carta viene mandata al Cimitero: puoi scegliere come bersaglio 1 Mostro Fusione, Synchro, Xyz o Link Drago che controlli; il tuo avversario non può scegliere come bersaglio quel mostro con gli effetti delle carte in questo turno. Nessun giocatore può attivare carte o effetti in risposta all'attivazione di questo effetto.\r\nPuoi utilizzare ciascun effetto di \"Ilios il Drago del Sole Nero\" una sola volta per turno.",
     "overallString": "[Mostro|Effetto] Drago/Oscurità  [★4] 1500/0",
