@@ -1,5 +1,89 @@
 [
   {
+    "name": "Phara, a Deusa do Início",
+    "desc": "Você pode revelar este card e 1 Magia/Armadilha na sua mão; nenhum jogador pode ativar cards ou efeitos em resposta em ativação de um card com o mesmo nome que a Magia/Armadilha, ou seus efeitos, até o final do próximo turno.\r\nSe este card for enviado da mão ou campo para o Cemitério por efeitos de Magia/Armadilha: você pode Invocar este card por Invocação-Especial.\r\nSe este card for Invocado por Invocação-Especial do Cemitério: você pode tomar controle de 1 monstro que seu oponente controla com o maior ATK (a sua escolha, se empatado).\r\nVocê só pode usar cada um dos efeitos de \"Phara, a Deusa do Início\" uma vez por turno.",
+    "overallString": "[Monstro|Efeito] Mago/Trevas  [★8] 2800/2800",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305022.jpg?version=19.7"
+  },
+  {
+    "name": "Força-S Signus",
+    "desc": "Se este card for Invocado por Invocação-Normal ou Especial: você pode adicionar 1 monstro \"Força-S\" do seu Deck à sua mão, exceto \"Força-S Signus\", então se tiver um monstro do oponente na coluna deste card, você pode comprar 1 card.\r\nSe um monstro do oponente ativar seus efeitos na mesma coluna que seu monstro: você pode fazer todos os monstros \"Força-S\" que você controla atualmente ganhar 1000 de ATK.\r\nVocê só pode usar cada um dos efeitos de \"Força-S Signus\" uma vez por turno.",
+    "overallString": "[Monstro|Efeito] Guerreiro/Luz  [★3] 1600/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305020.jpg?version=19.7"
+  },
+  {
+    "name": "Força-S Assassino Noturno",
+    "desc": "2 monstros, incluindo um monstro \"Força-S\"\r\nSe este card for Invocado por Invocação-Especial: você pode adicionar 1 Magia/Armadilha \"Força-S\" do seu Deck à sua mão.\r\n(Efeito Rápido): você pode banir este card que você controla e 1 card \"Força-S\" da sua mão; Invoque por Invocação-Especial 1 monstro \"Força-S\" do seu Deck ou Deck Adicional, exceto \"Força-S Assassino Noturno\".\r\nVocê só pode usar cada um dos efeitos de \"Força-S Assassino Noturno\" uma vez por turno.",
+    "overallString": "[Monstro|Efeito|Link] Ciberso/Trevas  [LINK-2] 1700/-  [←][→]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305040.jpg?version=19.7"
+  },
+  {
+    "name": "Força-S Mystify",
+    "desc": "2+ monstros, incluindo um monstro \"Força-S\"\r\nEnquanto um monstro do oponente está na coluna deste card, seu oponente não pode escolher este card como alvo de efeitos, eles também não podem Invocar por Invocação-Especial monstros usando efeitos de monstros.\r\n(Efeito Rápido): você pode escolher 1 monstro no campo; mova-o para outra das Zonas de Monstro Principal do seu controlador. Você só pode usar este efeito de \"Força-S Mystify\" uma vez por turno.",
+    "overallString": "[Monstro|Efeito|Link] Ciberso/Luz  [LINK-3] 2700/-  [←][→][↓]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305041.jpg?version=19.7"
+  },
+  {
+    "name": "Força-S Origem",
+    "desc": "Invoque por Invocação-Especial 1 monstro \"Força-S\" da sua mão, Cemitério ou banimento, mas bana-o quando deixar o campo.\r\nSe um ou mais outros cards são banidos enquanto este card está no seu Cemitério: você pode bani-lo; pegue 2 cards \"Força-S\" do seu Deck, exceto \"Força-S Origem\", bana 1 deles, também envie o outro para o Cemitério.\r\nVocê só pode usar cada um dos efeitos de \"Força-S Origem\" uma vez por turno.",
+    "overallString": "[Magia]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305058.jpg?version=19.7"
+  },
+  {
+    "name": "Força-S Mundo Classificado",
+    "desc": "Se você baniria um ou mais cards da sua mão para ativar o efeito de um monstro \"Força-S\" que você controla, em vez disso você pode enviar 1 card \"Força-S\" do seu Deck para o Cemitério, exceto \"Força-S Mundo Classificado\".\r\nSe um ou mais outros cards forem banidos: você pode escolher 1 card no campo ou Cemitério do seu oponente; bana-o, então você pode mover 1 dos seus monstros \"Força-S\" para outra da sua Zonas de Monstro Principal.\r\nVocê só pode usar cada um dos efeitos de \"Força-S Mundo Classificado\" uma vez por turno.",
+    "overallString": "[Armadilha|Magia Contínuo]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305074.jpg?version=19.7"
+  },
+  {
+    "name": "Pote da Procrastinação",
+    "desc": "Você não pode ativar \"Pote da Procrastinação\" pelo resto deste turno após ativar este efeito, também compre cards igual ao número de cards que seu oponente controla, então se você comprou 2 ou mais, coloque o mesmo número -1 da sua mão no fundo do Deck em qualquer ordem.",
+    "overallString": "[Magia]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305061.jpg?version=19.7"
+  },
+  {
+    "name": "Mago Ilusionista Sem Rosto de Olhos Negros",
+    "desc": "Você pode descartar este card, então ative 1 desses efeitos (mas você só pode usar cada um desses efeitos de \"Mago Ilusionista Sem Rosto de Olhos Negros\" uma vez por turno);\r\n● Coloque 1 \"Ler Mente\" da sua mão ou Deck no seu campo com a face para cima.\r\n● Adicione 1 outro monstro do seu Cemitério à sua mão que mencione \"Mundo Toon\", então você pode Invoca-lo por Invocação-Especial, ignorando suas condições de Invocação.\r\nSe este card batalhar com um monstro, nenhum pode ser destruído naquela batalha.",
+    "overallString": "[Monstro|Efeito] Ilusão/Trevas  [★4] 0/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261004.jpg?version=19.7"
+  },
+  {
+    "name": "Ler Mente",
+    "desc": "(Temporariamente indisponível)\r\n\r\nEnquanto você tem um card \"Toon\" no seu campo ou Cemitério, seu oponente deve jogar com sua mão revelada, você também pode ver seus cards Baixados a qualquer momento.\r\nSe você tem um monstro \"Toon\" e uma Magia \"Toon\" no seu campo e/ou Cemitério: você pode declarar o nome de 1 card que não foi ativado e que não ativou seus efeitos, neste Corrente; negue os efeitos ativados dos cards com aquele nome original até o final deste turno enquanto este card está no campo com a face para cima. Você só pode usar este efeito de \"Ler Mente\" uma vez por turno.",
+    "overallString": "[Armadilha|Magia Contínuo]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261007.jpg?version=19.7"
+  },
+  {
+    "name": "Melffy Rabbys",
+    "desc": "Se seu oponente Invocar um ou mais monstros por Invocação-Normal ou Especial: você pode Invocar por Invocação-Especial este card da sua mão, então você pode Invocar por Invocação-Fusão 1 monstro \"Melffy\" do seu Deck Adicional, usando monstros da sua mão ou campo.\r\nSe este card for Invocado por Invocação-Normal ou Especial: você pode adicionar 1 monstro \"Melffy\" do seu Deck à sua mão, então se for um Monstro Normal, você pode Invocar por Invocação-Especial qualquer número de monstros Besta da sua mão.\r\nVocê só pode usar 1 dos efeitos de \"Melffy Rabbys\" e somente uma vez por turno.",
+    "overallString": "[Monstro|Efeito|Regulador] Besta/Terra  [★2] 300/100",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305021.jpg?version=19.7"
+  },
+  {
+    "name": "Melffys Animados",
+    "desc": "1 monstro \"Melffy\" + 1 monstro Besta\r\nSe este card for Invocado por Invocação-Especial: você pode escolher um número igual de cards \"Melffy\" que você controla e cards que seu oponente controla; então retorne-os para a mão.\r\nSe seu oponente Invocar um ou mais monstros por Invocação-Normal ou Especial, ou este card for escolhido para um ataque: você pode escolher 1 monstro Besta no seu Cemitério; reduza o Nível deste card em 2, e se fizer, Invoque por Invocação-Especial aquele monstro.\r\nVocê só pode usar cada um dos efeitos de \"Melffys Animados\" uma vez por turno.",
+    "overallString": "[Monstro|Efeito|Fusão] Besta/Terra  [★4] 0/2500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305034.jpg?version=19.7"
+  },
+  {
+    "name": "Melffy Deusa Mommy",
+    "desc": "3+ monstros Besta de Nível 2\r\nUma vez por turno, você também pode Invocar por Invocação-Xyz \"Melffy Deusa Mommy\" usando \"Melffy Mommy\" que você controla (transfira suas matérias).\r\nSe este card for Invocado por Invocação-Especial: você pode adicionar 1 Magia/Armadilha \"Melffy\" do seu Deck ou Cemitério à sua mão.\r\nGanha ATK igual ao ATK e DEF combinados de todos os monstros \"Melffy\" associados a ele.\r\nVocê pode associar 5 matérias do card; retorne todos os cards que seu oponente controla para a mão.",
+    "overallString": "[Monstro|Efeito|Xyz] Besta/Terra  [☆2] 0/2000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305038.jpg?version=19.7"
+  },
+  {
+    "name": "Jogo das Estátuas Melffy",
+    "desc": "Você não pode Invocar por Invocação-Especial no turno que ativar este card, exceto monstro \"Melffy\".\r\nAdicione até 4 monstros \"Melffy\" com nomes diferentes do seu Deck à sua mão, então se torna a Fase Final deste turno.\r\nVocê pode banir este card do seu Cemitério, então escolhe 2 cards \"Melffy\" no seu Cemitério, exceto \"Jogo das Estátuas Melffy\"; adicione 1 deles à sua mão, e se fizer, coloque o outro no fundo do Deck. Você só pode usar este efeito de \"Jogo das Estátuas Melffy\" uma vez por turno.",
+    "overallString": "[Magia]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305059.jpg?version=19.7"
+  },
+  {
+    "name": "Hora Animada Melffy",
+    "desc": "Escolha 1 monstro \"Melffy\" do seu campo ou Cemitério; retorne-o para a mão, então você pode Invocar por Invocação-Fusão 1 monstro Besta do seu Deck Adicional, usando monstros da sua mão ou campo.\r\nSe você controla um Monstro Xyz \"Melffy\": você pode banir este card do seu Cemitério; seus monstros \"Melffy\" Invocados por Invocação-Especial do Deck Adicional não são afetados por efeitos do seu oponente neste turno.\r\nVocê só pode usar cada um dos efeitos de \"Hora Animada Melffy\" uma vez por turno.",
+    "overallString": "[Armadilha]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305075.jpg?version=19.7"
+  },
+  {
     "name": "Registros Corrompidos de Ritual",
     "desc": "Revele 1 Magia de Ritual na sua mão ou Deck e adicione 1 monstro que a menciona do seu Deck à sua mão.\r\nSe um ou mais Monstros Ritual que você controla deixam o campo por efeito enquanto este card está no seu Cemitério, e você agora não controla Monstro não-Ritual com a face para cima: você pode adicionar este card à sua mão.\r\nVocê só pode usar cada um dos efeitos de \"Registros Corrompidos de Ritual\" uma vez por turno.",
     "overallString": "[Magia]",
