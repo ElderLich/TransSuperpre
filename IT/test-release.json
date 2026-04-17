@@ -1,5 +1,89 @@
 [
   {
+    "name": "Phara, la Dea dell'Inizio",
+    "desc": "Puoi rivelare questa carta e 1 Magia/Trappola nella tua mano; nessun giocatore può attivare carte o effetti in risposta all'attivazione di carte o effetti di carte con lo stesso nome della Magia/Trappola rivelata fino alla fine del prossimo turno.\r\nSe questa carta viene mandata dalla mano o Terreno al Cimitero dall'effetto di una Magia/Trappola: puoi Evocare Specialmente questa carta.\r\nSe questa carta viene Evocata Specialmente dal Cimitero: puoi prendere il controllo di 1 mostro controllato dal tuo avversario con ATK più alto (a tua scelta, se in parità).\r\nPuoi utilizzare ogni effetto di \"Phara, la Dea dell'Inizio\" una sola volta per turno.",
+    "overallString": "[Mostro|Effetto] Incantatore/Oscurità  [★8] 2800/2800",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305022.jpg?version=19.7"
+  },
+  {
+    "name": "S-Forza Signus",
+    "desc": "Se questa carta viene Evocata Normalmente o Specialmente: puoi aggiungere 1 mostro \"S-Forza\" dal tuo Deck alla tua mano, eccetto \"S-Forza Signus\", poi, se un mostro dell'avversario si trova nella stessa colonna di questa carta, puoi pescare 1 carta.\r\nSe un mostro dell'avversario attiva il suo effetto nella stessa colonna di un tuo mostro: puoi far guadagnare 1000 ATK a tutti i mostri \"S-Forza\" che controlli.\r\nPuoi utilizzare ogni effetto di \"S-Forza Signus\" una sola volta per turno.",
+    "overallString": "[Mostro|Effetto] Guerriero/Luce  [★3] 1600/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305020.jpg?version=19.7"
+  },
+  {
+    "name": "S-Forza Assassinonotte",
+    "desc": "2 mostri, incluso un mostro \"S-Forza\"\r\nSe questa carta viene Evocata Specialmente: puoi aggiungere 1 Magia/Trappola \"S-Forza\" dal tuo Deck alla tua mano.\r\n(Effetto Rapido): puoi bandire questa carta che controlli e 1 carta \"S-Forza\" dalla tua mano; Evoca Specialmente 1 mostro \"S-Forza\" dal tuo Deck o Extra Deck, eccetto \"S-Forza Assassinonotte\".\r\nPuoi utilizzare ogni effetto di \"S-Forza Assassinonotte\" una sola volta per turno.",
+    "overallString": "[Mostro|Effetto|Link] Cyberso/Oscurità  [LINK-2] 1700/-  [←][→]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305040.jpg?version=19.7"
+  },
+  {
+    "name": "S-Forza Mystify",
+    "desc": "2 o più mostri, incluso un mostro \"S-Forza\"\r\nFinché un mostro dell'avversario si trova nella stessa colonna di questa carta, il tuo avversario non può scegliere questa carta come bersaglio degli effetti delle carte, inoltre non può Evocare Specialmente tramite effetti attivati di mostri.\r\n(Effetto Rapido): puoi scegliere come bersaglio 1 mostro sul Terreno; spostalo in un'altra Zona Mostri Main del suo controllore.\r\nPuoi utilizzare questo effetto di \"S-Forza Mystify\" una sola volta per turno.",
+    "overallString": "[Mostro|Effetto|Link] Cyberso/Luce  [LINK-3] 2700/-  [←][→][↓]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305041.jpg?version=19.7"
+  },
+  {
+    "name": "Origine S-Forza",
+    "desc": "Evoca Specialmente 1 mostro \"S-Forza\" dalla tua mano, Cimitero o carte bandite, ma bandiscilo quando lascia il Terreno.\r\nSe un'altra carta o più carte vengono bandite mentre questa carta è nel tuo Cimitero: puoi bandirla; prendi 2 carte \"S-Forza\" dal tuo Deck, eccetto \"Origine S-Forza\", bandiscine 1 e manda l'altra al Cimitero.\r\nPuoi utilizzare ogni effetto di \"Origine S-Forza\" una sola volta per turno.",
+    "overallString": "[Magia]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305058.jpg?version=19.7"
+  },
+  {
+    "name": "Mondo Ordinato S-Forza",
+    "desc": "Se dovessi bandire una o più carte dalla mano per attivare l'effetto di un mostro \"S-Forza\" che controlli, puoi invece mandare 1 carta \"S-Forza\" dal tuo Deck al Cimitero, eccetto \"Mondo Ordinato S-Forza\".\r\nSe un'altra carta o più carte vengono bandite: puoi scegliere come bersaglio 1 carta nel Terreno o Cimitero del tuo avversario; bandiscila, poi puoi spostare 1 mostro \"S-Forza\" che controlli in un'altra tua Zone Mostri Main.\r\nPuoi utilizzare ogni effetto di \"Mondo Ordinato S-Forza\" una sola volta per turno.",
+    "overallString": "[Trappola|Continua]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305074.jpg?version=19.7"
+  },
+  {
+    "name": "Giara della Procrastinazione",
+    "desc": "Pesca carte pari al numero di carte che il tuo avversario controlla, poi, se ne hai pescate 2 o più, metti dalla tua mano in fondo al Deck lo stesso numero di carte -1, in qualsiasi ordine. Per il resto di questo turno dopo che questa carta si è risolta, non puoi attivare \"Giara della Procrastinazione\".",
+    "overallString": "[Magia]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305061.jpg?version=19.7"
+  },
+  {
+    "name": "Mago Illusionista Senza Volto Occhi Oscuri",
+    "desc": "Puoi scartare questa carta, poi attivare 1 di questi effetti (ma puoi utilizzare ciascuno di questi effetti di \"Mago Illusionista Senza Volto Occhi Oscuri\" una sola volta per turno);\r\n● Metti 1 \"Scansione Mentale\" dalla tua mano o Deck scoperta sul tuo Terreno.\r\n● Aggiungi 1 altro mostro dal tuo Cimitero alla tua mano che menziona \"Mondo Toon\", poi puoi Evocarlo Specialmente ignorando le sue condizioni di Evocazione.\r\nSe questa carta combatte contro un mostro, nessuno dei due può essere distrutto in quella battaglia.",
+    "overallString": "[Mostro|Effetto] Illusione/Oscurità  [★4] 0/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261004.jpg?version=19.7"
+  },
+  {
+    "name": "Scansione Mentale",
+    "desc": "Finché hai una carta \"Toon\" nel tuo Terreno o Cimitero, il tuo avversario deve tenere la sua mano rivelata, inoltre puoi guardare le sue carte Posizionate in qualsiasi momento.\r\nSe hai un mostro Toon e una Magia \"Toon\" nel tuo Terreno e/o Cimitero: puoi dichiarare il nome di 1 carta che non è tra le carte e/o effetti attivati in questa Catena; annulla gli effetti attivati delle carte con quel nome originale fino alla fine di questo turno, mentre questa carta è scoperta sul Terreno. Puoi utilizzare questo effetto di \"Scansione Mentale\" una sola volta per turno.",
+    "overallString": "[Trappola|Continua]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261007.jpg?version=19.7"
+  },
+  {
+    "name": "Mellfy Rabbys",
+    "desc": "Se il tuo avversario Evoca Normalmente o Specialmente uno o più mostri: puoi Evocare Specialmente questa carta dalla tua mano, poi puoi Evocare tramite Fusione 1 Mostro Fusione \"Mellfy\" dal tuo Extra Deck, utilizzando mostri dalla tua mano o Terreno. Se questa carta viene Evocata Normalmente o Specialmente: puoi aggiungere 1 mostro \"Mellfy\" dal tuo Deck alla tua mano, poi, se hai aggiunto un Mostro Normale, puoi Evocare Specialmente un qualsiasi numero di mostri Bestia dalla tua mano.\r\nPuoi utilizzare solo 1 effetto di \"Mellfy Rabbys\" per turno, e solo una volta in quel turno.",
+    "overallString": "[Mostro|Effetto|Tuner] Bestia/Terra  [★2] 300/100",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305021.jpg?version=19.7"
+  },
+  {
+    "name": "Mellfy Entusiasti",
+    "desc": "1 mostro \"Mellfy\" + 1 mostro Bestia\r\nSe questa carta viene Evocata tramite Fusione: puoi scegliere come bersaglio un numero uguale di carte \"Mellfy\" che controlli e carte controllate dal tuo avversario; falle tornare alla mano.\r\nSe il tuo avversario Evoca Normalmente o Specialmente uno o più mostri (eccetto durante il Damage Step), o se un mostro dell'avversario sceglie questa carta come bersaglio per un attacco: puoi scegliere come bersaglio 1 mostro Bestia nel tuo Cimitero; diminuisci il Livello di questa carta di 2 e, se lo fai, Evoca Specialmente quel mostro.\r\nPuoi utilizzare ogni effetto di \"Mellfy  Entusiasti\" una sola volta per turno.",
+    "overallString": "[Mostro|Effetto|Fusione] Bestia/Terra  [★4] 0/2500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305034.jpg?version=19.7"
+  },
+  {
+    "name": "Mellfy Mammina Divina",
+    "desc": "Una volta per turno, puoi anche Evocare Xyz \"Mellfy Mammina Divina\" utilizzando \"Mellfy Mammina\" che controlli (trasferisci i suoi materiali).\r\nSe questa carta viene Evocata Specialmente: puoi aggiungere 1 Magia/Trappola \"Mellfy\" dal tuo Deck o Cimitero alla tua mano.\r\nGuadagna ATK pari alla somma degli ATK e DEF di tutti i mostri \"Mellfy\" attaccati ad essa.\r\nPuoi staccare 5 materiali da questa carta; fai tornare tutte le carte controllate dal tuo avversario alla mano.",
+    "overallString": "[Mostro|Effetto|Xyz] Bestia/Terra  [☆2] 0/2000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305038.jpg?version=19.7"
+  },
+  {
+    "name": "Gioco delle Statue Mellfy",
+    "desc": "Aggiungi fino a 4 mostri \"Mellfy\" con nomi diversi dal tuo Deck alla tua mano, poi passa alla End Phase di questo turno.\r\nPuoi bandire questa carta dal tuo Cimitero, poi scegliere come bersaglio 2 carte \"Mellfy\" nel tuo Cimitero, eccetto \"Gioco delle Statue Mellfy\"; aggiungine 1 alla tua mano e, se lo fai, metti l'altra in fondo al Deck. Puoi utilizzare questo effetto di \"Gioco delle Statue Mellfy\" una sola volta per turno.\r\nNon puoi Evocare Specialmente nel turno in cui attivi questa carta, eccetto mostri \"Mellfy\".",
+    "overallString": "[Magia]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305059.jpg?version=19.7"
+  },
+  {
+    "name": "Tempo Entusiasmante Mellfy",
+    "desc": "Scegli come bersaglio 1 mostro \"Mellfy\" nel tuo Terreno o Cimitero; fallo tornare alla mano, poi puoi Evocare tramite Fusione 1 Mostro Fusione Bestia dal tuo Extra Deck, utilizzando mostri dalla tua mano o Terreno.\r\nSe controlli un Mostro Xyz \"Mellfy\": puoi bandire questa carta dal tuo Cimitero; i mostri \"Mellfy\" che controlli Evocati Specialmente dall'Extra Deck sono immuni agli effetti attivati del tuo avversario in questo turno.\r\nPuoi utilizzare ogni effetto di \"Tempo Entusiasmante Mellfy\" una sola volta per turno.",
+    "overallString": "[Trappola]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305075.jpg?version=19.7"
+  },
+  {
     "name": "Registri Rituali Corrotti",
     "desc": "Rivela 1 Magia Rituale dalla tua mano o Deck, e aggiungi 1 mostro che la menziona dal tuo Deck alla tua mano.\r\nSe un Mostro Rituale scoperto che controlli lascia il Terreno per effetto di una carta mentre questa carta è nel tuo Cimitero, e non controlli Mostri non-Rituale scoperti: puoi aggiungere questa carta alla tua mano.\r\nPuoi utilizzare ogni effetto di \"Registri Rituali Corrotti\" una sola volta per turno.",
     "overallString": "[Magia]",
@@ -211,7 +295,7 @@
   },
   {
     "name": "Ilios il Drago del Sole Nero",
-    "desc": "Puoi rivelare 3 mostri Drago nel tuo Extra Deck con 3000 o più ATK e nomi diversi; Evoca Specialmente questa carta dalla tua mano.\r\nSe questa carta viene mandata al Cimitero: puoi scegliere come bersaglio 1 Mostro Fusione, Synchro, Xyz o Link Drago che controlli; il tuo avversario non può scegliere come bersaglio quel mostro con gli effetti delle carte in questo turno. Nessun giocatore può attivare carte o effetti in risposta all'attivazione di questo effetto.\r\nPuoi utilizzare ciascun effetto di \"Ilios il Drago del Sole Nero\" una sola volta per turno.",
+    "desc": "Puoi rivelare 3 mostri Drago nel tuo Extra Deck con 3000 o più ATK e nomi diversi; Evoca Specialmente questa carta dalla tua mano.\r\nSe questa carta viene mandata al Cimitero: puoi scegliere come bersaglio 1 Mostro Fusione, Synchro, Xyz o Link Drago che controlli; il tuo avversario non può scegliere come bersaglio quel mostro con gli effetti delle carte in questo turno. Nessun giocatore può attivare carte o effetti in risposta all'attivazione di questo effetto.\r\nPuoi utilizzare ciascun effetto di \"Ilios il Drago Sole Nero\" una sola volta per turno.",
     "overallString": "[Mostro|Effetto] Drago/Oscurità  [★4] 1500/0",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100200289.jpg?version=19.7"
   },
