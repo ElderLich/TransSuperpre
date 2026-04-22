@@ -1,5 +1,353 @@
 [
   {
+    "name": "Phara, die Göttin des Anfangs",
+    "desc": "Du kannst diese Karte und 1 Zauber/Falle in deiner Hand vorzeigen; kein Spieler kann bis zum Ende des nächsten Spielzugs Karten oder Effekte als Reaktion auf die Karten- oder Effektaktivierung einer Karte mit demselben Namen wie die vorgezeigte Zauber/Falle aktivieren.\r\nFalls diese Karte von der Hand oder dem Spielfeld durch einen Zauber-/Falleneffekte auf den Friedhof gelegt wird: Du kannst diese Karte als Spezialbeschwörung beschwören.\r\nFalls diese Karte als Spezialbeschwörung vom Friedhof beschworen wird: Du kannst die Kontrolle über das 1 Monster mit den höchsten ATK, das dein Gegner kontrolliert (bei Gleichstand bestimmst du) übernehmen.\r\nDu kannst jeden Effekt von „Phara, die Göttin des Anfangs“ nur einmal pro Spielzug verwenden.",
+    "overallString": "[Monster|Effekt] Hexer/Finsternis  [★8] 2800/2800",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305022.jpg?version=19.7"
+  },
+  {
+    "name": "S-Kraft Signus",
+    "desc": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst deiner Hand 1 „S-Kraft“-Monster von deinem Deck hinzufügen, außer „S-Kraft Signus“, dann falls ein Monster deines Gegners sich in der Spalte dieser Karte befindet, kannst du 1 Karte ziehen.\r\nFalls der Effekt eins Monsters deines Gegners in derselben Spalte wie dein Monster aktiviert wird: Du kannst alle „S-Kraft“-Monster, die du derzeit kontrollierst, 1000 ATK erhalten lassen.\r\nDu kannst jeden Effekt von „S-Kraft Signus“ nur einmal pro Spielzug verwenden.",
+    "overallString": "[Monster|Effekt] Krieger/Licht  [★3] 1600/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305020.jpg?version=19.7"
+  },
+  {
+    "name": "S-Kraft Nightslayer",
+    "desc": "2 Monster, darunter ein „S-Kraft“-Monster\r\nFalls diese Karte als Spezialbeschwörung beschworen wird: Du kannst deiner Hand 1 „S-Kraft“-Zauber/Falle von deinem Deck hinzufügen.\r\n(Schnelleffekt): Du kannst diese Karte, die du kontrollierst, und 1 „S-Kraft“-Karte von deiner Hand verbannen; beschwöre 1 „S-Kraft“-Monster als Spezialbeschwörung von deinem Deck oder Extra Deck, außer „S-Kraft Nightslayer“.\r\nDu kannst jeden Effekt von „S-Kraft Nightslayer“ nur einmal pro Spielzug verwenden.",
+    "overallString": "[Monster|Effekt|Link] Cyberse/Finsternis  [LINK-2] 1700/-  [←][→]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305040.jpg?version=19.7"
+  },
+  {
+    "name": "S-Kraft Mystify",
+    "desc": "2+ Monster, darunter ein „S-Kraft“-Monster\r\nSolange ein Monster eines Gegners sich in der Spalte dieser Karte befindet, kann dein Gegner diese Karte nicht als Ziel für Karteneffekte wählen, zusätzlich kann er keine Spezialbeschwörung mit aktivierten Monstereffekten durchführen.\r\n(Schnelleffekt): Du kannst 1 Monster auf dem Spielfeld wählen; bewege es in eine andere Main-Monsterzone auf der Spielfeldseite seines Beherrschers.\r\nDu kannst diesen Effekt von „S-Kraft Mystify“ nur einmal pro Spielzug verwenden.",
+    "overallString": "[Monster|Effekt|Link] Cyberse/Licht  [LINK-3] 2700/-  [←][→][↓]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305041.jpg?version=19.7"
+  },
+  {
+    "name": "S-Kraft Ursprung",
+    "desc": "Beschwöre 1 „S-Kraft“-Monster als Spezialbeschwörung von deiner Hand, deinem Friedhof oder deinen verbannten Karten, aber verbanne es, wenn es das Spielfeld verlässt.\r\nFalls eine oder mehr andere Karten verbannt werden, solange sich diese Karte in deinem Friedhof befindet: Du kannst sie verbannen; nehme 2 „S-Kraft“-Karten von deinem Deck , außer „S-Kraft Ursprung“, 1 von ihnen verbannen und lege das andere auf den Friedhof.\r\nDu kannst jeden Effekt von „S-Kraft Ursprung“ nur einmal pro Spielzug verwenden.",
+    "overallString": "[Zauber]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305058.jpg?version=19.7"
+  },
+  {
+    "name": "S-Kraft Sortiertewelt",
+    "desc": "Falls du eine oder mehr Karten von der Hand verbannen würdest, um den Effekt eines „S-Kraft“-Monsters, das du kontrollierst, zu aktivieren, kannst du stattdessen 1 „S-Kraft“-Karte von deinem Deck auf den Friedhof legen, außer „S-Kraft Sortiertewelt“.\r\nFalls eine oder mehr Karten verbannt werden: Du kannst 1 Karte auf die Spielfeldseite oder im Friedhof deines Gegners wählen; verbanne sie, dann kannst du 1 „S-Kraft“-Monster, das du kontrollierst, in eine andere deiner Main-Monsterzonen bewegen.\r\nDu kannst jeden Effekt von „S-Kraft Sortiertewelt“ nur einmal pro Spielzug verwenden.",
+    "overallString": "[Falle|Permanente]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305074.jpg?version=19.7"
+  },
+  {
+    "name": "Topf der Faulheit",
+    "desc": "Ziehe Karten in Höhe der Anzahl der Karten, die dein Gegner kontrolliert, dann, falls du 2 oder mehr gezogen hast, lege dieselbe Anzahl -1 von deiner Hand in beliebiger Reihenfolge unters Deck.\r\nFür den Rest dieses Spielzugs nachdem diese Karte aufgelöst wurde, kannst du keinen „Topf der Faulheit“ aktivieren.",
+    "overallString": "[Zauber]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305061.jpg?version=19.7"
+  },
+  {
+    "name": "Dunkeläugiger Gesichtsloser Illusionist",
+    "desc": "Falls diese Karte gegen ein Monster kämpft, können beide durch jenen Kampf nicht zerstört werden.\r\nDu kannst diese Karte abwerfen und dann 1 dieser Effekte aktivieren (aber du kannst jeden dieser Effekte von „Dunkeläugiger Gesichtsloser Illusionist“ nur einmal pro Spielzug verwenden);\r\n● Lege 1 „Verstand Scan“ von deiner Hand oder deinem Deck offen auf deine Spielfeldseite.\r\n● Füge deiner Hand 1 anderes Monster, das „Toon-Welt“ erwähnt, von deinem Friedhof hinzu, dann kannst du es als Spezialbeschwörung beschwören, ungeachtet seiner Beschwörungsbedingungen.",
+    "overallString": "[Monster|Effekt] Illusion/Finsternis  [★4] 0/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261004.jpg?version=19.7"
+  },
+  {
+    "name": "Verstand Scan",
+    "desc": "Solange du eine „Toon“-Karte auf deiner Spielfeldseite oder in deinem Friedhof hast, muss dein Gegner mit vorgezeigter Hand spielen, zusätzlich kannst du dir jederzeit seine gesetzte Karten ansehen.\r\nFalls du ein Toon-Monster und einen „Toon“-Zauber auf deiner Spielfeldseite und/oder in deinem Friedhof hast: Du kannst 1 Kartennamen deklarieren, der nicht unter den Karten/Effekte ist, die in dieser Kette aktiviert wurden; annulliere, bis zum Ende dieses Spielzugs, die aktivierten Effekte von Karten mit dem Grund-Namen, solange diese Karte offen auf dem Spielfeld liegt.\r\nDu kannst diesen Effekt von „Verstand Scan“ nur einmal pro Spielzug verwenden.",
+    "overallString": "[Falle|Permanente]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261007.jpg?version=19.7"
+  },
+  {
+    "name": "Melffy-Kanis",
+    "desc": "Falls dein Gegner ein oder mehr Monster als Normal- oder Spezialbeschwörung beschwört: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören, dann kannst du 1 „Melffy“-Fusionsmonster als Fusionsbeschwörung von deinem Extra Deck beschwören, verwende dabei Monster von deiner Hand oder Spielfeldseite als Fusionsmaterial.\r\nFalls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst deiner Hand 1 „Melffy“-Monster von deinem Deck hinzufügen, dann falls du ihr ein Normales Monster hinzugefügt hast, kannst du eine beliebige Anzahl Ungeheuer-Monster als Spezialbeschwörung von deiner Hand beschwören.\r\nDu kannst nur 1 Effekt von „Melffy-Kanis“ pro Spielzug verwenden und in jenem Spielzug nur einmal.",
+    "overallString": "[Monster|Effekt|Empfänger] Ungeheuer/Erde  [★2] 300/100",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305021.jpg?version=19.7"
+  },
+  {
+    "name": "Aufgeregte Melffys",
+    "desc": "1 „Melffy“-Monster + 1 Ungeheuer-Monster\r\nFalls diese Karte als Fusionsbeschwörung beschworen wird: Du kannst dieselbe Anzahl „Melffy“-Karten, die du kontrollierst, und Karten, die dein Gegner kontrolliert, wählen; gib sie auf die Hand zurück.\r\nFalls dein Gegner ein oder mehr Monster als Normal- oder Spezialbeschwörung beschwört (außer während des Damage Steps) oder falls ein Monster eines Gegners diese Karte als Angriffsziel wählt: Du kannst 1 Ungeheuer-Monster in deinem Friedhof wählen; verringere die Stufe dieser Karte um 2 und falls du dies tust, beschwöre das Monster als Spezialbeschwörung.\r\nDu kannst jeden Effekt von „Aufgeregte Melffys“ nur einmal pro Spielzug verwenden.",
+    "overallString": "[Monster|Effekt|Fusion] Ungeheuer/Erde  [★4] 0/2500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305034.jpg?version=19.7"
+  },
+  {
+    "name": "Melffy-Gott-Mami",
+    "desc": "3+ Ungeheuer-Monster der Stufe 2\r\nEinmal pro Spielzug kannst du „Melffy-Gott-Mami“ auch als Xyz-Beschwörung beschwören, indem du „Melffy-Mami“, die du kontrollierst, als das Material verwendest. (Transferiere ihr Material an diese Karte.)\r\nFalls diese Karte als Spezialbeschwörung beschworen wird: Du kannst deiner Hand 1 „Melffy“-Zauber/Falle von deinem Deck oder Friedhof hinzufügen.\r\nErhält ATK in Höhe der Summe der ATK/DEF aller „Melffy“-Monster die als Material an sie angehängt sind.\r\nDu kannst 5 Material von dieser Karte abhängen; gib alle Karten, die dein Gegner kontrolliert, auf die Hand zurück.",
+    "overallString": "[Monster|Effekt|Xyz] Ungeheuer/Erde  [☆2] 0/2000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305038.jpg?version=19.7"
+  },
+  {
+    "name": "Melffy-Statuen-Spiel",
+    "desc": "Füge deiner Hand bis zu 4 „Melffy“-Monster mit unterschiedlichen Namen von deinem Deck hinzu, dann beginne die End Phase dieses Spielzugs.\r\nDu kannst diese Karte von deinem Friedhof verbannen und dann 2 „Melffy“-Karten in deinem Friedhof wählen, außer „Melffy-Statuen-Spiel“; füge 1 von ihnen deiner Hand hinzu und falls du dies tust, lege die andere unters Deck.\r\nDu kannst diesen Effekt von „Melffy-Statuen-Spiel“ nur einmal pro Spielzug verwenden.\r\nDu kannst in dem Spielzug, in dem du diese Karte aktivierst, keine Spezialbeschwörungen durchführen, außer von „Melffy“-Monstern.",
+    "overallString": "[Zauber]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305059.jpg?version=19.7"
+  },
+  {
+    "name": "Aufregende Melffy-Zeit",
+    "desc": "Wähle 1 „Melffy“-Monster auf deiner Spielfeldseite oder in deinem Friedhof; gib es auf die Hand zurück, dann kannst du 1 Ungeheuer-Fusionsmonster als Fusionsbeschwörung von deinem Extra Deck beschwören, verwende dabei Monster von deiner Hand oder Spielfeldseite als Fusionsmaterial.\r\nFalls du ein „Melffy“-Xyz Monster kontrollierst: Du kannst diese Karte von deinem Friedhof verbannen; „Melffy“-Monster, die du kontrollierst und die als Spezialbeschwörung vom Extra Deck beschworen wurden, bleiben in diesem Spielzug von den aktivierten Effekten deines Gegners unberührt.\r\nDu kannst jeden Effekt von „Aufregende Melffy-Zeit“ nur einmal pro Spielzug verwenden.",
+    "overallString": "[Falle]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305075.jpg?version=19.7"
+  },
+  {
+    "name": "Beschädigte Ritualaufzeichnungen",
+    "desc": "Zeige 1 Ritualzauber in deiner Hand oder von deinem Deck vor und füge deiner Hand 1 Monster, das es erwähnt, von deinem Deck hinzu.\r\nFalls ein oder mehr offene Ritualmonster, die du kontrollierst, das Spielfeld durch einen Karteneffekt verlassen, solange sich diese Karte in deinem Friedhof befindet und du keine offenen Nicht-Ritualmonster kontrollierst: Du kannst diese Karte deiner Hand hinzufügen.\r\nDu kannst jeden Effekt von „Beschädigte Ritualaufzeichnungen“ nur einmal pro Spielzug verwenden.",
+    "overallString": "[Zauber]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305062.jpg?version=19.7"
+  },
+  {
+    "name": "Dunkler Tyranno",
+    "desc": "Kann direkt angreifen, falls alle Monster, die der Gegner kontrolliert, in Verteidigungsposition liegen.\r\nDu kannst jeden der folgenden Effekte von „Dunkler Tyranno“ nur einmal pro Spielzug verwenden.\r\nWährend deiner Main Phase, falls in diesem Spielzug ein/e Zauberkarte oder -effekt aktiviert wurde: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören.\r\nFalls diese Karte auf den Friedhof gelegt wird: Du kannst deiner Hand 1 Dinosaurier-Monster der Stufe 8 oder höher von deinem Deck hinzufügen, dann kannst du es als Spezialbeschwörung beschwören, falls dein Gegner ein Monster kontrolliert.",
+    "overallString": "[Monster|Effekt] Dinosaurier/Erde  [★7] 2600/1800",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100263001.jpg?version=19.7"
+  },
+  {
+    "name": "Arkane Macht XII - Der Gehängte",
+    "desc": "Wenn eine Karte oder ein Effekt aktiviert wird (Schnelleffekt): Du kannst diese Karte in deiner Hand vorzeigen; beschwöre 1 „Arkane Macht“-Monster als Spezialbeschwörung von deiner Hand in die Verteidigungsposition.\r\nDu kannst diesen Effekt von „Arkane Macht XII - Der Gehängte“ nur einmal pro Spielzug verwenden.\r\nFalls diese Karte beschworen wird: Wirf eine Münze.\r\n● Kopf: Zerstöre 1 Monster, das du kontrollierst, und falls du dies tust, erhalte Schaden in Höhe seiner Grund-ATK.\r\n● Zahl: Zerstöre 1 Monster, das dein Gegner kontrolliert, und falls du dies tust, füge deinem Gegner Schaden in Höhe seiner Grund-ATK zu.",
+    "overallString": "[Monster|Effekt] Fee/Licht  [★6] 2200/2200",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100263002.jpg?version=19.7"
+  },
+  {
+    "name": "Candelato, das Ungeheuer des Lichts",
+    "desc": "(Diese Karte wird immer als „Phantomungeheuer“-Karte behandelt.)\r\nErhält für jede Karte in deiner Hand 1000 ATK/DEF.\r\nDu kannst jeden der folgenden Effekte von „Candelato, das Ungeheuer des Lichts“ nur einmal pro Spielzug verwenden.\r\nDu kannst 2 andere Karten abwerfen; beschwöre diese Karte als Spezialbeschwörung von deiner Hand, dann kannst du deiner Hand 1 Karte, die einen Münzwurfeffekt hat, von deinem Deck hinzufügen.\r\nWenn eine Karte oder ein Effekt aktiviert wird, die oder der einen Effekt enthält, der der Hand eine oder mehr Karten vom Deck hinzufügt (Schnelleffekt): Du kannst den Effekt annullieren.",
+    "overallString": "[Monster|Effekt] Ungeheuer/Licht  [★12] 0/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100263003.jpg?version=19.7"
+  },
+  {
+    "name": "Plasmakrieger Eitom",
+    "desc": "(Diese Karte wird immer als „Magnetkrieger“-Karte behandelt.)\r\nKann nicht als Normalbeschwörung beschworen/gesetzt werden.\r\nMuss als Spezialbeschwörung (von deiner Hand oder deinem Friedhof) beschworen werden, indem du 1 Monster der Stufe 7 oder höher als Tribut anbietest.\r\nDu kannst „Plasmakrieger Eitom“ nur einmal pro Spielzug auf diese Art als Spezialbeschwörung beschwören.\r\nEinmal pro Spielzug: Du kannst 1 „Magnetkrieger“-Monster von deinem Deck auf den Friedhof legen, außer „Plasmakrieger Eitom“; für den Rest dieses Spielzugs werden die Grund-ATK dieser Karte zu 1500, zusätzlich kann sie direkt angreifen.",
+    "overallString": "[Monster|Effekt|Spezialbeschwörung] Donner/Licht  [★8] 3000/2500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100263004.jpg?version=19.7"
+  },
+  {
+    "name": "Weißer Ritter Lord",
+    "desc": "Du kannst 3 Monster von deinem Friedhof verbannen; beschwöre diese Karte als Spezialbeschwörung von deiner Hand, dann kannst du 1 dieser Effekte ausführen.\r\n● Beschwöre 1 „Weißer Ritter“- oder „Weißer Nacht“-Monster als Spezialbeschwörung von deiner Hand oder deinem Deck.\r\n● Füge deiner Hand 1 „Weißer Schleier“ von deinem Deck hinzu.\r\nDu kannst diesen Effekt von „Weißer Ritter Lord“ nur einmal pro Spielzug verwenden.\r\nWenn ein Angriff deklariert wird, an dem diese Karte und ein Monster deines Gegners beteiligt sind: Ändere die ATK des Monsters des Gegners zu 0.\r\nFalls diese Karte, die ihrem Besitzer gehört, durch eine Karte eines Gegners zerstört wird: Füge deinem Gegner 1000 Schaden zu.",
+    "overallString": "[Monster|Effekt] Krieger/Licht  [★7] 2000/2000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100263005.jpg?version=19.7"
+  },
+  {
+    "name": "Unbesiegbarer Untergangslord",
+    "desc": "Während der End Phase, falls ein oder mehr Monster in diesem Spielzug durch Kampf zerstört wurden: Du kannst diese Karte als Spezialbeschwörung von deiner Hand oder deinem Friedhof beschwören; und falls „Unbesiegbarer Untergangslord“ in diesem Spielzug durch Kampf zerstört wurden, werden die Grund-ATK dieser Karte zu 3000, zusätzlich kann er nicht durch Karteneffekte zerstört werden.\r\nWährend deiner Main Phase: Du kannst Karten in Höhe der Anzahl der Karten, die dein Gegner kontrolliert +1, von deinem Deck vorzeigen, darunter „Zerstörungsziehen“, und lege die vorgezeigten Karten in beliebiger Reihenfolge auf das Deck.\r\nDu kannst jeden Effekt von „Unbesiegbarer Untergangslord“ nur einmal pro Spielzug verwenden.",
+    "overallString": "[Monster|Effekt] Unterweltler/Finsternis  [★6] 1300/2000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100263006.jpg?version=19.7"
+  },
+  {
+    "name": "Elementar-HELD Clay Wächter",
+    "desc": "1 „Elementar-HELD“-Monster + 1 Krieger-Monster\r\n(Diese Karte wird nicht als eine „Wächter“-Karte behandelt.)\r\nFalls diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 „Elementar-HELD“-Monster als Spezialbeschwörung von deinem Deck beschwören, dann, falls dein Gegner eine Karte kontrolliert, kannst du deinem Gegner für jede 400 Schaden zufügen, zusätzlich kannst du für den Rest dieses Spielzugs keine Spezialbeschwörungen vom Extra Deck durchführen, außer von „HELD“-Monstern.\r\nDu kannst diesen Effekt von „Elementar-HELD Clay Wächter“ nur einmal pro Spielzug verwenden.\r\nAndere „Elementar-HELD“-Monster, die du kontrollierst, können weder durch Kampf noch durch Karteneffekte zerstört werden.",
+    "overallString": "[Monster|Effekt|Fusion] Krieger/Erde  [★4] 0/2800",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100263007.jpg?version=19.7"
+  },
+  {
+    "name": "Puppenhammer",
+    "desc": "Wähle 1 Monster, das du kontrollierst; zerstöre es und falls du dies tust, ziehe 2 Karten, dann kannst du die Kampfposition von 1 Monster ändern, das dein Gegner kontrolliert.\r\nFalls ein oder mehr Monster als Spezialbeschwörung von deinem Friedhof beschworen werden, solange sich diese Karte in deinem Friedhof befindet: Du kannst diese Karte deiner Hand hinzufügen.\r\nDu kannst jeden Effekt von „Puppenhammer“ nur einmal pro Spielzug verwenden.",
+    "overallString": "[Zauber]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100263008.jpg?version=19.7"
+  },
+  {
+    "name": "Schnellbeschwörung",
+    "desc": "Sofort nachdem dieser Effekt aufgelöst wurde, beschwöre 1 Monster als Normalbeschwörung / setze es Normal.\r\nWenn du dies tust, falls dein Gegner ein Monster kontrolliert, kannst du ein Monster der Stufe 5 oder höher als Normalbeschwörung beschwören, ohne Tribut anzubieten.\r\nWährend deiner Main Phase, falls sich diese Karte in deinem Friedhof befindet, außer in dem Spielzug, in dem sie dorthin gelegt wurde: Du kannst sie verbannen; füge deiner Hand 1 Monster der Stufe 5 oder höher, das als Normalbeschwörung beschworen/gesetzt werden kann, von deinem Deck oder Friedhof hinzu, dann, sofort nachdem dieser Effekt aufgelöst wurde, beschwöre das Monster als Tributbeschwörung.\r\nDu kannst diesen Effekt von „Schnellbeschwörung“ nur einmal pro Spielzug verwenden.",
+    "overallString": "[Zauber|Schnell]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100263009.jpg?version=19.7"
+  },
+  {
+    "name": "D - Platzen",
+    "desc": "Wähle 1 offenen Zauber, den du kontrollierst; zerstöre ihn und falls du dies tust, ziehe 1 Karte, dann, falls du ein „Schicksals-HELD“-Monster kontrollierst, kannst du 1 „Schicksals-HELD“-Monster als Spezialbeschwörung von deiner Hand, deinem Friedhof oder deinen verbannten Karten beschwören.\r\nAm Ende des Damage Steps, falls ein Monster, das mit einer Ausrüstungskarte ausgerüstet ist oder „Schicksals-HELD - Dogma“, angegriffen hat: Du kannst diese Karte von deinem Friedhof verbannen; das Monster kann sofort einen zweiten Angriff durchführen.\r\nDu kannst nur 1 „D - Platzen“ pro Spielzug aktivieren.",
+    "overallString": "[Zauber]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100263010.jpg?version=19.7"
+  },
+  {
+    "name": "Retrolicht vernichten",
+    "desc": "Wenn dein Gegner den Effekt eines Monsters auf dem Spielfeld das nicht in diesem Spielzug beschworen wurde aktiviert: Annulliere die Aktivierung, dann kannst du alle offenen Monster, die dein Gegner kontrolliert, die nicht in diesem Spielzug beschworen wurden verbannen (verdeckt).\r\nFalls diese gesetzte Karte, die ihr Besitzer kontrolliert, durch einen Karteneffekt eines Gegners zerstört wird: Du kannst 1 Falle von deinem Deck setzen.",
+    "overallString": "[Falle|Konterfallen]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305079.jpg?version=19.7"
+  },
+  {
+    "name": "Magischer König des Sumpfes",
+    "desc": "Falls sich diese Karte in deiner Hand befindet: Du kannst 1 Fusionsmonster in deinem Extra Deck vorzeigen und 1 Material, dessen Name darauf erwähnt wird, von deinem Deck verbannen, dann beschwöre diese Karte als Spezialbeschwörung und ihr Name kann als der des verbannten Monsters behandelt werden, falls sie in diesem Spielzug als Fusionsmaterial verwendet wird.\r\nDu kannst diesen Effekt von „Magischer König des Sumpfes“ nur einmal pro Spielzug verwenden.",
+    "overallString": "[Monster|Effekt] Hexer/Wasser  [★3] 500/1100",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305024.jpg?version=19.7"
+  },
+  {
+    "name": "Hexwerkerin Terracottan",
+    "desc": "Falls sich diese Karte in deiner Hand befindet: Du kannst 1 „Hexwerker“-Karte in deinem Friedhof wählen, außer „Hexwerkerin Terracottan“; füge es deiner Hand hinzu und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung, zusätzlich kannst du für den Rest dieses Spielzugs keine Spezialbeschwörungen vom Extra Deck durchführen, außer von „Hexwerker“-Monstern.\r\nWährend deiner Main Phase: Du kannst 1 „Hexwerker“-Fusionsmonster als Fusionsbeschwörung von deinem Extra Deck beschwören, verwende dabei Monster von deiner Hand oder Spielfeldseite als Fusionsmaterial.\r\nDu kannst jeden Effekt von „Hexwerkerin Terracottan“ nur einmal pro Spielzug verwenden.",
+    "overallString": "[Monster|Effekt] Hexer/Erde  [★2] 0/2000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261023.jpg?version=19.7"
+  },
+  {
+    "name": "Hexwerkerin Madam Rilliona",
+    "desc": "„Hexwerkerin Madam Verre“ + 2 Hexer-Monster\r\nFalls diese Karte als Fusionsbeschwörung beschworen wird: Du kannst bis zu 3 „Hexwerker“-Monster der Stufe 7 oder niedriger mit unterschiedlichen Eigenschaften voneinander als Spezialbeschwörung von deiner Hand und/oder deinem Deck beschwören, zusätzlich kannst du für den Rest dieses Spielzugs keine Spezialbeschwörungen vom Extra Deck durchführen, außer von Fusionsmonstern.\r\nWährend deiner End Phase, falls sich diese Karte in deinem Friedhof befindet: Du kannst 1 Zauber in deiner Hand vorzeigen; beschwöre diese Karte als Spezialbeschwörung in die Verteidigungsposition.\r\nDu kannst jeden Effekt von „Hexwerkerin Madam Rilliona“ nur einmal pro Spielzug verwenden.",
+    "overallString": "[Monster|Effekt|Fusion] Hexer/Licht  [★8] 3800/2800",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261025.jpg?version=19.7"
+  },
+  {
+    "name": "Hexwerker-Feier",
+    "desc": "Aktiviere 1 dieser Effekte;\r\n● Zerstöre 1 „Hexwerker“-Monster, das du kontrollierst, und 1 Karte, die dein Gegner kontrolliert.\r\n● Beschwöre 1 „Hexwerker“-Fusionsmonster als Fusionsbeschwörung von deinem Extra Deck, indem du Hexer-Monster von deinem Friedhof und/oder deinen verbannten Karten ins Deck mischst.\r\nWährend deiner End Phase, falls du ein „Hexwerker“-Monster kontrollierst, solange sich diese Karte in deinem Friedhof befindet: Du kannst diese Karte deiner Hand hinzufügen.\r\nDu kannst nur 1 Effekt von „Hexwerker-Feier“ pro Spielzug verwenden und in dem Spielzug nur einmal.",
+    "overallString": "[Zauber|Schnell]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261027.jpg?version=19.7"
+  },
+  {
+    "name": "Hexwerker-Walpurgis",
+    "desc": "Während deiner Main Phase: Du kannst deiner Hand 1 „Hexwerker“-Monster von deinem Deck hinzufügen, dann wirf 1 Karte ab.\r\nDu kannst diesen Effekt von „Hexwerker-Walpurgis“ nur einmal pro Spielzug verwenden.\r\nWährend deines Spielzugs, falls du abwerfen würdest, um den Effekt eines „Hexwerker“-Monsters, das du kontrollierst, zu aktivieren, kannst du stattdessen 1 „Hexwerker“-Zauber/Falle von deinem Deck auf den Friedhof legen, außer „Hexwerker-Walpurgis“.",
+    "overallString": "[Zauber|Spielfeld]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261028.jpg?version=19.7"
+  },
+  {
+    "name": "Hexwerker-Verzerrung",
+    "desc": "Wenn eine Zauber-/Fallenkarte oder ein Monstereffekt aktiviert wird und du ein „Hexwerker“-Monster der Stufe 5 oder höher kontrollierst: Annulliere die Aktivierung und falls du dies tust, zerstöre die Karte.\r\nFalls sich diese Karte in deinem Friedhof befindet, außer in dem Spielzug, in dem sie dorthin gelegt wurde: Du kannst sie verbannen; füge deiner Hand 1 Hexer-Monster der Stufe 5 oder höher von deinem Deck hinzu, dann wirf 1 Karte ab.\r\nDu kannst jeden Effekt von „Hexwerker-Verzerrung“ nur einmal pro Spielzug verwenden.",
+    "overallString": "[Falle|Konterfallen]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261029.jpg?version=19.7"
+  },
+  {
+    "name": "Aleister der Erinnernde",
+    "desc": "Falls sich diese Karte in deiner Hand befindet: Du kannst 1 Hexer-Monster oder 1 Fusionsmonster auf dem Spielfeld wählen; beschwöre diese Karte als Spezialbeschwörung und falls du dies tust, erhält das als Ziel gewählte Monster bis zum Ende dieses Spielzugs 1000 ATK.\r\nFalls diese Karte als Normal- oder Spezialbeschwörung beschworen oder aufgedeckt wird: Du kannst 1 „Beschworen“-Monster von deinem Extra Deck verbannen; füge deiner Hand 1 „Beschwörung“ oder 1 Zauber, der ihn erwähnt, von deinem Deck hinzu.\r\nDu kannst jeden Effekt von „Aleister der Erinnernde“ nur einmal pro Spielzug verwenden.",
+    "overallString": "[Monster|Effekt] Hexer/Finsternis  [★4] 1800/1000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305015.jpg?version=19.7"
+  },
+  {
+    "name": "Aiwass, der Geist des Gesetzes",
+    "desc": "Du kannst diese Karte von deiner Hand oder Spielfeldseite verbannen; füge deiner Hand 1 „Aleister“-Monster von deinem Deck hinzu, dann, falls dieser Effekt auf dem Spielfeld aktiviert wurde, sofort nachdem dieser Effekt aufgelöst wurde, kannst du 1 Hexer-Monster als Normalbeschwörung beschwören.\r\nFalls ein oder mehr offene Fusionsmonster, die du kontrollierst, auf den Friedhof gelegt werden, außer durch Kampf, solange sich diese Karte in deinem Friedhof befindet: Du kannst diese Karte als Spezialbeschwörung beschwören, dann kannst du 1 „Beschworen“-Monster als Fusionsbeschwörung beschwören, verwende dafür Monster von deiner Hand oder Spielfeldseite.\r\nDu kannst jeden Effekt von „Aiwass, der Geist des Gesetzes“ nur einmal pro Spielzug verwenden.",
+    "overallString": "[Monster|Effekt] Unterweltler/Wind  [★8] 2000/2800",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305016.jpg?version=19.7"
+  },
+  {
+    "name": "Virakam, der künstliche Geist",
+    "desc": "Falls du ein „Aleister“-Monster auf deiner Spielfeldseite oder in deinem Friedhof hast: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören.\r\nFalls diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 „Beschwörung“ oder 1 Zauber, der ihn erwähnt, von deinem Deck setzen.\r\nWenn dein Gegner eine Karte oder einen Effekt als Reaktion auf die Aktivierung deines Fusionsmonstereffekts aktiviert (Schnelleffekt): Du kannst diese Karte vom Spielfeld verbannen und falls du dies tust, annulliere jenen Effekt des Gegners und falls du dies tust, verbanne die Karte.\r\nDu kannst jeden Effekt von „Virakam, der künstliche Geist“ nur einmal pro Spielzug verwenden.",
+    "overallString": "[Monster|Effekt] Illusion/Licht  [★3] 1000/1000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305017.jpg?version=19.7"
+  },
+  {
+    "name": "Beschworener Sorath",
+    "desc": "1 „Aleister“-Monster + 1 FEUER oder WIND Monster\r\nWährend der Main Phase (Schnelleffekt): Du kannst 1 Monster der Stufe 6 oder niedriger in einem beliebigen Friedhof wählen; beschwöre es als Spezialbeschwörung auf deine Spielfeldseite in die Verteidigungsposition, aber annulliere seine Effekte.\r\nFalls sich diese Karte in deinem Friedhof befindet: Du kannst 1 „Beschworen“-Fusionsmonster als Fusionsbeschwörung von deinem Extra Deck beschwören, indem du sein Material von deiner Spielfeldseite und/oder deinem Friedhof verbannst, darunter diese Karte in deinem Friedhof.\r\nDu kannst jeden Effekt von „Beschworener Sorath“ nur einmal pro Spielzug verwenden.",
+    "overallString": "[Monster|Effekt|Fusion] Pyro/Licht  [★6] 1600/2600",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305030.jpg?version=19.7"
+  },
+  {
+    "name": "Beschworener Babalon",
+    "desc": "1 „Aleister“-Monster + 1 LICHT oder ERDE Monster\r\nFalls diese Karte als Spezialbeschwörung beschworen wird: Du kannst deiner Hand 1 „Virakam, der künstliche Geist“ oder „Magischer Name - „Rosa Mundi““ von deinem Deck hinzufügen, dann kannst du 1 Monster von einem beliebigen Friedhof verbannen.\r\nDu kannst diese Karte von deinem Friedhof verbannen und dann 1 Fusionsmonster wählen, das du kontrollierst; alle Monster, die dein Gegner derzeit kontrolliert, verlieren bis zum Ende dieses Spielzugs ATK in Höhe der ATK des als Ziel gewählten Monsters.\r\nDu kannst jeden Effekt von „Beschworener Babalon“ nur einmal pro Spielzug verwenden.",
+    "overallString": "[Monster|Effekt|Fusion] Illusion/Feuer  [★7] 2450/2450",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305031.jpg?version=19.7"
+  },
+  {
+    "name": "Beschworener Okeanos",
+    "desc": "1 „Aleister“-Monster + 1 FINSTERNIS oder WASSER Monster\r\nSolange diese Karte in der Main-Monsterzone liegt, können Monster deines Gegners keine Monster als Angriffsziel wählen, außer diesem.\r\nSolange diese Karte in der Extra-Monsterzone liegt, wird jedes Monster, das auf den Friedhof deines Gegners gelegt wird, stattdessen verbannt.\r\nDu kannst diese Karte von deinem Friedhof verbannen und dann 1 Fusionsmonster wählen, das du kontrollierst; es kann in diesem Spielzug direkt angreifen.\r\nDu kannst diesen Effekt von „Beschworener Okeanos“ nur einmal pro Spielzug verwenden.",
+    "overallString": "[Monster|Effekt|Fusion] Seeschlange/Erde  [★9] 3000/3000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305032.jpg?version=19.7"
+  },
+  {
+    "name": "Beschworener Transzendenz-Äon",
+    "desc": "2+ Fusionsmonster mit unterschiedlichen Eigenschaften\r\nFalls diese Karte als Fusionsbeschwörung beschworen wird: Du kannst Karten auf dem Spielfeld und/oder in den Friedhöfen in Höhe der Anzahl des für sie verwendeten Materials verbannen, denn falls du 3 oder mehr verwendet hast, kannst du dir das Extra Deck deines Gegners ansehen und falls du dies tust, verbanne bis zu 3 Karten daraus.\r\n(Schnelleffekt): Du kannst 1 Eigenschaft deklarieren; aller anderen Monster, die sich derzeit auf dem Spielfeld befinden, werden bis zum Ende dieses Spielzugs zu der Eigenschaft.\r\nDu kannst nur 1 Effekt von „Beschworener Transzendenz-Äon“ pro Spielzug verwenden und in jenem Spielzug nur einmal.",
+    "overallString": "[Monster|Effekt|Fusion] Unterweltler/Finsternis  [★10] 3800/3200",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305033.jpg?version=19.7"
+  },
+  {
+    "name": "Beschwörungs „Schwert“",
+    "desc": "Beschwöre 1 Fusionsmonster als Fusionsbeschwörung von deinem Extra Deck, indem du Monster verwendest, die du kontrollierst.\r\nFalls du ein „Beschworen“-Fusionsmonster auf diese Art beschwörst, kannst du auch verbannte Monster auf den Friedhof zurücklegen als Fusionsmaterial.\r\nWährend deiner Main Phase, falls sich diese Karte in deinem Friedhof befindet: Du kannst 1 „Aleister“-Monster oder „Beschwörung“ in deinem Friedhof wählen; mische diese Karte ins Deck und falls du dies tust, füge die als Ziel gewählte Karte deiner Hand hinzu.\r\nDu kannst jeden Effekt von „Beschwörungs „Schwert““ nur einmal pro Spielzug verwenden.",
+    "overallString": "[Zauber|Schnell]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305053.jpg?version=19.7"
+  },
+  {
+    "name": "Geisterschwert Aiwass",
+    "desc": "Aktiviere 1 dieser Effekte; du kannst für den Rest dieses Spielzugs keine Angriffe deklarieren, außer mit Fusionsmonstern.\r\n● Beschwöre 1 „Aiwass, der Geist des Gesetzes“ als Spezialbeschwörung von deinem Deck oder Friedhof.\r\n● Lege auf den Friedhof oder verbanne 1 „Aleister“-Monster von deinem Deck.\r\n● Sehe dir 3 zufällige verdeckte Karten im Extra Deck deines Gegners an und falls du dies tust, verbanne 1 von ihnen.\r\nDu kannst nur 1 „Geisterschwert Aiwass“ pro Spielzug aktivieren.",
+    "overallString": "[Zauber]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305054.jpg?version=19.7"
+  },
+  {
+    "name": "Magischer Name - „Rosa Mundi“",
+    "desc": "Verbanne 1 „Aleister“-Monster oder 1 Fusionsmonster von deinem Friedhof; beschwöre 1 „Beschworen“-Monster als Spezialbeschwörung von deinem Extra Deck, ungeachtet seiner Beschwörungsbedingungen, aber verbanne es während der End Phase.\r\nFalls ein oder mehr Monster offen verbannt werden, solange sich diese Karte in deinem Friedhof befindet: Du kannst diese Karte verbannen und dann 1 deiner verbannten „Beschworen“-Monster wählen; beschwöre es als Spezialbeschwörung.\r\nDu kannst jeden Effekt von „Magischer Name - „Rosa Mundi““ nur einmal pro Spielzug verwenden.",
+    "overallString": "[Falle]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305070.jpg?version=19.7"
+  },
+  {
+    "name": "Plasmastoß",
+    "desc": "Aktiviere diesen Effekt, abhängig davon, wessen Spielzug es ist;\r\n● Dein: Lege 1 Donner oder Fels-Monster von deinem Deck auf dein Deck, dann, falls sich ein Donner oder Fels-Monster auf deiner Spielfeldseite oder in deinem Friedhof befindet, kannst du 1 Karte auf dem Spielfeld zerstören.\r\n● Gegners: Füge der Hand 1 Donner oder Fels-Monster von deiner Spielfeldseite, deinem Friedhof oder deinen verbannten Karten hinzu, oder falls ein oder mehr Monster in diesem Spielzug durch Kampf oder einen Karteneffekt zerstört wurden, kannst du es stattdessen von deinem Deck hinzufügen.\r\nDu kannst nur 1 „Plasmastoß“ pro Spielzug aktivieren.",
+    "overallString": "[Zauber|Schnell]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305063.jpg?version=19.7"
+  },
+  {
+    "name": "June Pride - Elfnote",
+    "desc": "1 Empfänger + 1+ Hexer-Nicht-Empfänger\r\nSolange sich diese Karte in der mittlere Main-Monsterzone befindet, kann kein Spieler Angriffe deklarieren, außer mit Monstern in der mittlere Main-Monsterzone.\r\nWährend der Main Phase, falls sich diese Karte in der mittlere Main-Monsterzone befindet (Schnelleffekt): Du kannst sie ins Extra Deck mischen und falls du dies tust, beschwöre jeweils bis zu 1 „Elfnote“-Monster als Spezialbeschwörung von deiner Hand, deinem Deck und deinem Friedhof.\r\nDu kannst diesen Effekt von „June Pride - Elfnote“ nur einmal pro Spielzug verwenden.",
+    "overallString": "[Monster|Effekt|Synchro] Hexer/Licht  [★10] 3100/1800",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305035.jpg?version=19.7"
+  },
+  {
+    "name": "Machtpatron Gesandter der reinen Gebete",
+    "desc": "2 Nichtlink-Monster\r\nFalls diese Karte als Linkbeschwörung beschworen wird und du ein „Machtpatron“-Monster in deinem Friedhof hast: Du kannst deiner Hand 1 „Theorealisier“-Karte von deinem Deck hinzufügen.\r\nWährend der Main Phase, falls du ein anderes FINSTERNIS Fee-Monster kontrollierst, kannst du (Schnelleffekt): Sofort nachdem dieser Effekt aufgelöst wurde, Linkbeschwöre und verwende dafür Materialien, die du kontrollierst, darunter diese Karte.\r\nDu kannst jeden Effekt von „Machtpatron Gesandter der reinen Gebete“ nur einmal pro Spielzug verwenden.",
+    "overallString": "[Monster|Effekt|Link] Fee/Finsternis  [LINK-2] 300/-  [↑][↓]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305039.jpg?version=19.7"
+  },
+  {
+    "name": "Sackgasse Machtpatron-Reich - Viraia",
+    "desc": "Zeige 1 „Nerva die Machtpatronin der Schöpfung“, 1 „Jupiter der Machtpatron der Zerstörung“, 1 „Junora der Machtpatron der Abstimmung“ von deinem Extra Deck, offen von deiner Spielfeldseite und/oder von deinem Friedhof und falls du dies tust, dein Gegner kann in diesem Spielzug als Reaktion auf die Aktivierung deiner „Machtpatron“-Monstereffekte weder Karten noch Effekte aktivieren.\r\nFalls du die oberste Karte/obersten Karten von deinem Deck verbannen würdest um den Effekt von einem „Machtpatron“-Monster, das du kontrollierst, zu aktivieren, kannst du stattdessen diese Karte von deinem Friedhof verbannen.\r\nDu kannst jeden Effekt von „Sackgasse Machtpatron-Reich - Viraia“ nur einmal pro Spielzug verwenden.",
+    "overallString": "[Zauber|Schnell]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305055.jpg?version=19.7"
+  },
+  {
+    "name": "Pasto-Ral Theorealisier",
+    "desc": "Falls du eine „Kunstmagus“, „UntergangZ“ oder „Elfnote“-Karte kontrollierst: Beschwöre 1 „Medius der Reine“ als Spezialbeschwörung von deiner Hand oder deinem Deck, zusätzlich kann dein Gegner weder Karten noch Effekte aktivieren, wenn das Monster als Spezialbeschwörung beschworen wird.\r\nDu kannst diese Karte von deinem Friedhof verbannen und dann 1 Fusions-, Synchro-, oder Xyz-Monster in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung in deine Zone, auf die ein Linkmonster zeigt.\r\nDu kannst nur 1 Effekt von „Pasto-Ral Theorealisier“ pro Spielzug verwenden und in jenem Spielzug nur einmal.",
+    "overallString": "[Zauber]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305056.jpg?version=19.7"
+  },
+  {
+    "name": "Machtpatron Schatten der Endzeit",
+    "desc": "Beschwöre 1 „Machtpatron“-Monster als Spezialbeschwörung von deiner Hand, offen von deinem Extra Deck oder von deinem Friedhof, dann kannst du nacheinander diese Effekte ausführen, basierend auf der Anzahl der unterschiedlichen Kartentypen (Fusion, Synchro, Xyz) die du kontrollierst.\r\n● 1+: Verbanne (verdeckt) die obersten 3 Karten des Decks deines Gegners.\r\n● 2+: Verbanne (verdeckt) 1 Karte, die dein Gegner kontrolliert.\r\n● 3: Verbanne (verdeckt) 1 zufällige Karte von der Hand deines Gegners.\r\nDu kannst nur 1 „Machtpatron Schatten der Endzeit“ pro Spielzug aktivieren.",
+    "overallString": "[Falle]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305071.jpg?version=19.7"
+  },
+  {
+    "name": "Elfnoten: Vierzeiler der Nachfolge",
+    "desc": "Das Monster in deiner mittleren Main-Monsterzone kann nicht durch Karteneffekte deines Gegners verbannt werden.\r\nDu kannst 1 andere/n Zauber/Falle von deiner Hand oder Spielfeldseite auf den Friedhof legen und eine Stufe von 1 bis 4 benennen; beschwöre 1 „Elfnote Seraphim-Spielmarke“ (Pflanze/Empfänger/FEUER/ATK 0/DEF 0) mit der deklarierten Stufe als Spezialbeschwörung, aber solange die Spielmarke in der Monsterzone liegt, kann der Spieler, der sie beschworen hat, keine Spezialbeschwörungen vom Extra Deck durchführen, außer von „Elfnote“-Monstern.\r\nDu kannst diesen Effekt von „Elfnoten: Vierzeiler der Nachfolge“ nur einmal pro Spielzug verwenden.",
+    "overallString": "[Falle|Permanente]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305072.jpg?version=19.7"
+  },
+  {
+    "name": "Ilios, der Schwarze Sonnendrache",
+    "desc": "Du kannst 3 Drache-Monster mit 3000 oder mehr ATK und unterschiedlichem Namen in deinem Extra Deck vorzeigen; beschwöre diese Karte als Spezialbeschwörung von deiner Hand.\r\nFalls diese Karte auf den Friedhof gelegt wird: Du kannst 1 Drache-Fusions-, -Synchro-, -Xyz- oder -Linkmonster wählen, das du kontrollierst; dein Gegner kann es in diesem Spielzug nicht als Ziel für Karteneffekte wählen.\r\nKein Spieler kann Karten oder Effekte als Reaktion auf die Aktivierung dieses Effekts aktivieren.\r\nDu kannst jeden Effekt von „Ilios, der Schwarze Sonnendrache“ nur einmal pro Spielzug verwenden.",
+    "overallString": "[Monster|Effekt] Drache/Finsternis  [★4] 1500/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100200289.jpg?version=19.7"
+  },
+  {
+    "name": "Schutzstein-Gartengestaltung",
+    "desc": "Solange du 5 Karten in deiner Zauber- & Fallenzone hast, wird jeglicher Kampfschaden, den ein Spieler erhält, halbiert, zusätzlich kannst du, einmal pro Spielzug, 1 Permanente Fallenkarte in dem Spielzug aktivieren, in dem sie gesetzt wurde.\r\nWährend der Standby Phase: Du kannst 5 Permanente Fallenkarten mit unterschiedlichen Namen von deinem Deck vorzeigen und dein Gegner bestimmt zufällig 1 von ihnen, die du auf deine Spielfeldseite setzt, zusätzlich mische die restlichen in dein Deck.\r\nDu kannst diesen Effekt von „Schutzstein-Gartengestaltung“ nur einmal pro Spielzug verwenden.",
+    "overallString": "[Falle|Permanente]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305080.jpg?version=19.7"
+  },
+  {
+    "name": "Oh meine Fallgrube!",
+    "desc": "Wenn ein Monstereffekt auf der Spielfeldseite deines Gegners aktiviert wird während des Spielzugs, in dem er/sie ein oder mehr Monster als Spezialbeschwörung beschworen hat: Zerstöre das Monster, das diese effekt aktiviert hat, dann zerstöre alle Karten deines Gegners in seinen benachbarten Monsterzonen und Zauber- & Fallenzonen (falls welche da sind).",
+    "overallString": "[Falle]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305077.jpg?version=19.7"
+  },
+  {
+    "name": "Graue Schicht",
+    "desc": "Du kannst diese Karte als Tribut anbieten und 1 Maschine-Monster in deiner Hand vorzeigen; füge deiner Hand 1 Maschine-Monster, mit einer unterschiedlichen Eigenschaft als das vorgezeigte Monster, von deinem Deck hinzu, dann, falls du 1 Monster mit 1200 oder weniger ATK hinzugefügt hast, kannst du 1 Maschine-Monster als Spezialbeschwörung von deiner Hand beschwören.\r\nFalls ein oder mehr Monster, die dir gehören, durch einen Karteneffekt zerstört werden, solange sich diese Karte in deinem Friedhof befindet: Du kannst diese Karte verbannen; zerstöre 1 Karte auf dem Spielfeld.\r\nDu kannst jeden Effekt von „Graue Schicht“ nur einmal pro Spielzug verwenden.",
+    "overallString": "[Monster|Effekt] Maschine/Licht  [★4] 1200/1000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305026.jpg?version=19.7"
+  },
+  {
+    "name": "Fahrstreifenbeschränkung",
+    "desc": "Wenn diese Karte aktiviert wird: Du kannst 1 deiner verbannten Monster als Spezialbeschwörung in deine ganz rechte Main-Monsterzone beschwören.\r\nFalls dein Gegner ein oder mehr Monster als Normal- oder Spezialbeschwörung in seine Main-Monsterzone beschwören würde, muss er die ganz linken nicht verwendeten Zonen verwenden.",
+    "overallString": "[Falle|Permanente]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305078.jpg?version=19.7"
+  },
+  {
+    "name": "Sommer",
+    "desc": "Einmal pro Spielzug: Du kannst Jahreszeit-Zählmarken in Höhe der Anzahl der nicht verwendete Main-Monsterzonen deines Gegners auf diese Karte legen.\r\nEinmal pro Spielzug, wenn dein Monster einen Angriff deklariert: Du kannst deinem Gegner für jede Jahreszeit-Zählmarke auf diese Karte und für jede „Frühling“ in deinem Friedhof 400 Schaden zufügen.\r\nEinmal pro Spielzug, während der End Phase deines Gegners: Du kannst 1 Spielfeldzauber, auf den du eine Jahreszeit-Zählmarke legen kannst, von deiner Hand oder deinem Deck nehmen und offen auf deine Spielfeldseite legen (aber kein Spieler kann in diesem Spielzug seine Effekte aktivieren) und falls du dies tust, lege alle Jahreszeit-Zählmarken von dieser Karte auf jene Karte.",
+    "overallString": "[Zauber|Spielfeld]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305064.jpg?version=19.7"
+  },
+  {
+    "name": "Rayrage, der Zwielichtdämon",
+    "desc": "Pendelbereich = 1\r\n[ Pendeleffekt ]\r\nFalls eine oder mehr Pendelmonster, die du kontrollierst, durch einen Karteneffekt deines Gegners zerstört würden, kannst du statt 1 der Pendelmonster diese Karte zerstören.\r\nDu kannst diesen Effekt von „Rayrage, der Zwielichtdämon“ nur einmal pro Spielzug verwenden.\r\n----------------------------------------\r\n[ Monstereffekt ]\r\nFalls sich diese Karte in deiner Hand befindet: Du kannst 1 Pendelmonster wählen, das du kontrollierst; lege jenes Pendelmonster in deine Pendelzone (aber seine Pendeleffekte können in diesem Spielzug nicht aktiviert werden) und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung.\r\n(Schnelleffekt): Du kannst diese Karte als Tribut anbieten und dann 1 Karte in deiner Pendelzone wählen; es kann in diesem Spielzug nicht durch Karteneffekte deines Gegners zerstört werden.\r\nDu kannst jeden Effekt von „Rayrage, der Zwielichtdämon“ nur einmal pro Spielzug verwenden.",
+    "overallString": "[Monster|Effekt|Pendel] Drache/Licht  [★3] 1000/1500  1/1",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305025.jpg?version=19.7"
+  },
+  {
+    "name": "Glitch Clutch Nullgainer",
+    "desc": "1 Empfänger + 1+ Nicht-Empfänger\r\nFalls diese Karte als Synchrobeschwörung beschworen wird: Du kannst deiner Hand 1 Monster der Stufe 8 oder höher mit 0 ATK von deinem Deck hinzufügen.\r\nDu kannst 1 Monster mit 0 ATK in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung, aber annulliere seine Effekte, zusätzlich kann es nicht als Material für eine Fusions-, Synchro-, Xyz- oder Linkbeschwörung verwendet werden.\r\nDu kannst jeden Effekt von „Glitch Clutch Nullgainer“ nur einmal pro Spielzug verwenden.",
+    "overallString": "[Monster|Effekt|Synchro] Psi/Finsternis  [★8] 0/2000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305036.jpg?version=19.7"
+  },
+  {
+    "name": "Brise der Elektrofresser von Rkunas",
+    "desc": "Ein geheimnisvoller Hund, der für einen kurzen Moment durch seine eigene Lebensenergie leuchtet.\r\nHat man ihn einmal gesehen, brennt sich sein liebenswertes Bild unauslöschlich ins Gedächtnis ein.",
+    "overallString": "[Monster|Normal] Donner/Licht  [★1] 100/2100",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100262001.jpg?version=19.7"
+  },
+  {
     "name": "Astrolasma Urania",
     "desc": "Du kannst diese Karte als Spezialbeschwörung (von deiner Hand) beschwören, indem du bis zu 2 Monster, die du kontrollierst, auf die Hand zurückgibst.\r\nDu kannst „Astrolasma Urania“ nur einmal pro Spielzug auf diese Art als Spezialbeschwörung beschwören.\r\nDu kannst jeden der folgenden Effekte von „Astrolasma Urania“ nur einmal pro Spielzug verwenden.\r\nFalls diese Karte als Spezialbeschwörung beschworen wird: Du kannst eine beliebige Anzahl Monster mit unterschiedlichen Stufen in deiner Hand vorzeigen und dann  so viele offene Karten, die dein Gegner kontrolliert, wählen; annulliere ihre Effekte.\r\nFalls diese Karte auf dem Spielfeld durch einen Karteneffekt zerstört und auf den Friedhof gelegt wird: Du kannst diese Karte deiner Hand hinzufügen.",
     "overallString": "[Monster|Effekt] Donner/Licht  [★7] 2400/1000",
@@ -16,48 +364,6 @@
     "desc": "(Diese Karte wird immer als „Besessen“-Karte behandelt.)\r\nVerbanne eine beliebige Anzahl Hexer-Monster und/oder Zauber von deinem Friedhof; alle Monster, die du derzeit kontrollierst, erhalten für jede auf diese Art verbannte Karte 200 ATK und falls sie dies tun, erhältst du 400 LP für jede auf diese Art verbannte Karte.\r\nWährend deiner Main Phase: Du kannst diese Karte von deinem Friedhof verbannen; beschwöre eine beliebige Anzahl Hexer-Monster mit unterschiedlichen Eigenschaften als Spezialbeschwörung von deiner Hand.\r\nDu kannst nur 1 Effekt von „Trank zur Wiederherstellung spiritueller Kräfte“ pro Spielzug verwenden und in jenem Spielzug nur einmal.",
     "overallString": "[Zauber|Schnell]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305060.jpg?version=19.7"
-  },
-  {
-    "name": "Frost Tiger",
-    "desc": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst deiner Hand 1 WASSER Hexer-Monster der Stufe 5 oder höher oder 1 „Zwillingssäulen aus Eis“ von deinem Deck hinzufügen.\r\nDu kannst diesen Effekt von „Frost Tiger“ nur einmal pro Spielzug verwenden.",
-    "overallString": "[Monster|Effekt] Aqua/Wasser  [★4] 1900/1200",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100200285.jpg?version=19.7"
-  },
-  {
-    "name": "Guivre",
-    "desc": "Erhält 400 ATK für jedes Drache-Monster, das du kontrollierst.\r\nWenn diese Karte ein Monster durch Kampf zerstört: Du kannst 1 „Wyvern-Spielmarke“ (Drache/LICHT/Stufe 1/ATK 400/DEF 400) als Spezialbeschwörung beschwören.\r\nWährend der Battle Phase oder Main Phase 2: Sofort nachdem dieser Effekt aufgelöst wurde, beschwöre 1 Drache-Monster offen als Tributbeschwörung.\r\nDu kannst diesen Effekt von „Guivre“ nur einmal pro Spielzug verwenden.",
-    "overallString": "[Monster|Effekt] Drache/Finsternis  [★4] 1300/400",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100200286.jpg?version=19.7"
-  },
-  {
-    "name": "Langschwänziges schwarzes Pferd",
-    "desc": "Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 Zombie-Monster in deiner Hand vorzeigen und 1 ERDE Zombie-Monster von deinem Deck auf den Friedhof legen; lege das vorgezeigte Monster auf den Friedhof und falls du dies tust, erhält diese Karte bis zum Ende dieses Spielzugs 500 ATK.\r\nDu kannst diesen Effekt von „Langschwänziges schwarzes Pferd“ nur einmal pro Spielzug verwenden.",
-    "overallString": "[Monster|Effekt] Zombie/Erde  [★4] 1400/800",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100200287.jpg?version=19.7"
-  },
-  {
-    "name": "Drachenleitflöte",
-    "desc": "Falls ein Hexer-Monster auf dem Spielfeld liegt: Beschwöre 1 Drache-Monster der Stufe 5 oder höher als Spezialbeschwörung von deinem Deck; dann falls dein Gegner 2 oder mehr Monster kontrolliert, kannst du 1 Monster mit demselben Namen wie das beschworene Monster als Spezialbeschwörung von deinem Deck beschwören, zusätzlich kannst du für den Rest dieses Spielzugs keine Monster als Spezialbeschwörung beschwören, außer Drache- oder Hexer-Monstern.\r\nWährend deiner Main Phase 2, falls sich diese Karte in deinem Friedhof befindet, weil sie in diesem Spielzug dorthin gelegt wurde: Du kannst sie verbannen; ziehe 1 Karte.\r\nDu kannst jeden Effekt von „Drachenleitflöte“ nur einmal pro Spielzug verwenden.",
-    "overallString": "[Zauber]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257003.jpg?version=19.7"
-  },
-  {
-    "name": "Revolutions Cyber Drache",
-    "desc": "Falls du keine Monster kontrollierst, kannst du diese Karte als Spezialbeschwörung (von deiner Hand) beschwören.\nDu kannst jeden der folgenden Effekte von „Revolutions Cyber Drache“ nur einmal pro Spielzug verwenden.\nFalls diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 offenes Monster wählen, das dein Gegner kontrolliert; annulliere bis zum Ende dieses Spielzugs seine Effekte.\nWährend deiner Main Phase: Du kannst 1 Maschine-Fusionsmonster als Fusionsbeschwörung von deinem Extra Deck beschwören, indem du diese Karte, die du kontrollierst, und Monster von deiner Hand oder Spielfeldseite verwendest.",
-    "overallString": "[Monster|Effekt] Maschine/Licht  [★5] 2100/1600",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257005.jpg?version=19.7"
-  },
-  {
-    "name": "Roter Nova-Drache - Brennende Seele",
-    "desc": "2 Empfänger + 1 Nicht-Empfänger\r\nMuss entweder als Synchrobeschwörung beschworen werden oder als Spezialbeschwörung von deinem Extra Deck beschworen werden, indem du 2 Empfänger und 1 „Rotdrachen-Erzunterweltler“ von deinem Friedhof verbannst.\r\nFalls diese Karte als Spezialbeschwörung beschworen wird: Du kannst deiner Hand 1 Karte von deinem Friedhof hinzufügen und falls du dies tust, erhält diese Karte 2000 ATK.\r\nDu kannst diesen Effekt von „Roter Nova-Drache - Brennende Seele“ nur einmal pro Duell verwenden und nur während eines Duells, in dem du „Rotdrachen-Erzunterweltler“ als Synchrobeschwörung beschworen hast.\r\nKann nicht durch Karteneffekte zerstört werden.",
-    "overallString": "[Monster|Effekt|Synchro] Drache/Finsternis  [★12] 3500/3000",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257008.jpg?version=19.7"
-  },
-  {
-    "name": "Galaxieaugen-Photonenwechseldrache",
-    "desc": "Du kannst diese Karte als Spezialbeschwörung (von deiner Hand) beschwören, indem du 2 offene Monster auf einer beliebigen Spielfeldseite mit 2000 oder mehr ATK, darunter ein Monster, das du kontrollierst, als Tribut anbietest.\r\nDu kannst „Galaxieaugen-Photonenwechseldrache“ nur einmal pro Spielzug auf diese Art als Spezialbeschwörung beschwören.\r\nWährend der Main Phase (Schnelleffekt): Du kannst diese Karte verbannen, die du kontrollierst; beschwöre 1 „Galaxieaugen-Photonendrache“ als Spezialbeschwörung von deinem Deck oder Friedhof, dann kannst du 1 Monster, das dein Gegner kontrolliert und das als Spezialbeschwörung vom Extra Deck beschworen wurde bis zur End Phase verbannen.\r\nDu kannst diesen Effekt von „Galaxieaugen-Photonenwechseldrache“ nur einmal pro Spielzug verwenden.",
-    "overallString": "[Monster|Effekt] Drache/Licht  [★8] 3000/2500",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257011.jpg?version=19.7"
   },
   {
     "name": "Lustiges Finsteres Kaninchen",
@@ -90,12 +396,6 @@
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261006.jpg?version=19.7"
   },
   {
-    "name": "Finsterer Rebellions-Xyz-Drache der vier himmlischen Drachen",
-    "desc": "2 FINSTERNIS Monster der Stufe 4\r\n(Diese Karte wird immer als „Die Phantomritter“-Karte behandelt.)\r\nFalls diese Karte als Spezialbeschwörung beschworen wird: Du kannst dieselbe Anzahl Karten auf jede Spielfeldseite wählen; zerstöre sie.\r\nWenn dein Gegner eine Karte oder einen Effekt aktiviert (Schnelleffekt): Du kannst 1 Material von dieser Karte abhängen; beschwöre 1 FINSTERNIS Xyz-Monster des Rangs 4 als Spezialbeschwörung von deinem Extra Deck, verwende dafür diese Karte, die du kontrollierst (dies wird als Xyz-Beschwörung behandelt, transferiere das Material dieser Karte.)\r\nDu kannst jeden Effekt von „Finsterer Rebellions-Xyz-Drache der vier himmlischen Drachen“ nur einmal pro Spielzug verwenden.",
-    "overallString": "[Monster|Effekt|Xyz] Drache/Finsternis  [☆4] 2500/2000",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257015.jpg?version=19.7"
-  },
-  {
     "name": "Die Phantomritter des Verfallenen Schleiers",
     "desc": "Du kannst 1 andere „Die Phantomritter“-Karte in deiner Hand vorzeigen; beschwöre diese Karte als Spezialbeschwörung von deiner Hand.\nFalls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst deiner Hand 1 „Die Phantomritter“-Monster von deinem Deck hinzufügen.\nDu kannst diese Karte von deinem Friedhof verbannen und dann 1 Xyz-Monster wählen, das du kontrollierst; in diesem Spielzug kannst du es als Material für eine Xyz-Beschwörung verwenden und dabei seinen Rang als seine Stufe behandeln.\nDu kannst jeden Effekt von „Die Phantomritter des Verfallenen Schleiers“ nur einmal pro Spielzug verwenden.",
     "overallString": "[Monster|Effekt] Krieger/Finsternis  [★3] 1000/300",
@@ -124,12 +424,6 @@
     "desc": "Falls du ein „Die Phantomritter“-Monster auf deiner Spielfeldseite oder in deinem Friedhof hast, kannst du diese Karte in dem Spielzug aktivieren, in dem sie gesetzt wurde.\r\nBeschwöre diese Karte als Spezialbeschwörung als Normales Monster (Krieger/FINSTERNIS/Stufe 3/ATK 0/DEF 300) in die Verteidigungsposition. (Diese Karte wird NICHT als Falle behandelt), dann kannst du 1 Monster in Angriffsposition, das dein Gegner kontrolliert, in die Verteidigungsposition ändern.\r\nDu kannst diese Karte von deinem Friedhof verbannen; sofort nachdem dieser Effekt aufgelöst wurde, beschwöre 1 FINSTERNIS Xyz-Monster als Xyz-Beschwörung.\r\nDu kannst jeden Effekt von „Die Phantomritter des Empörungsschleiers“ nur einmal pro Spielzug verwenden.",
     "overallString": "[Falle]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305073.jpg?version=19.7"
-  },
-  {
-    "name": "Drillings Kalliberstart",
-    "desc": "Aktiviere 1 dieser Effekte (aber du kannst jeden Effekt von „Drillings Kalliberstart“ nur einmal pro Spielzug verwenden);\r\n● Mische 1 Drache-Monster von deinem Friedhof ins Deck, dann kannst du 1 „Rakkete“-Monster mit einem unterschiedlichen Namen als Spezialbeschwörung von deinem Deck beschwören.\r\n● Mische 2 Drache-Monster von deinem Friedhof ins Deck, dann füge deiner Hand 1 Spielfeldzauber von deinem Friedhof hinzu.\r\n● Mische 3 Drache-Monster von deinem Friedhof ins Deck, dann mische bis zu 3 Monster vom Friedhof deines Gegners ins Deck.",
-    "overallString": "[Zauber|Schnell]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257018.jpg?version=19.7"
   },
   {
     "name": "Wisca Blitzclique",
@@ -258,54 +552,6 @@
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305067.jpg?version=19.7"
   },
   {
-    "name": "Demiurge Ema",
-    "desc": "Du kannst 4 Monster mit 2400 oder mehr ATK und 1000 DEF von deiner Hand, offen von deiner Spielfeldseite und/oder deinem Deck auf den Friedhof legen; beschwöre diese Karte als Spezialbeschwörung von deiner Hand.\r\nDu kannst 1 Zauber/Falle auf jeder Spielfeldseite wählen; zerstöre sie, dann beschwöre 1 „Homunkulus-Spielmarke“ (Fee/LICHT/Stufe 2/ATK 800/DEF 800) als Spezialbeschwörung auf die Spielfeldseiten beider Spieler in die Verteidigungsposition und falls du dies tust, erhält diese Karte 1600 ATK.\r\nDu kannst diesen Effekt von „Demiurge Ema“ nur einmal pro Spielzug verwenden.",
-    "overallString": "[Monster|Effekt] Fee/Licht  [★8] 3300/2000",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257019.jpg?version=19.7"
-  },
-  {
-    "name": "Dunkler Schöpfer",
-    "desc": "Du kannst diese Karte als Spezialbeschwörung (von deiner Hand) beschwören, indem du 2 Unterweltler- und/oder Fee-Monster als Tribut anbietest.\r\nKann nicht durch Kampf zerstört werden.\r\nEinmal pro Spielzug: Du kannst so viele „Dunkler Schöpfer-Spielmarken“ (Unterweltler/FINSTERNIS/Stufe 10/ATK 3000/DEF 1000) wie möglich als Spezialbeschwörung beschwören, aber sie können nicht direkt angreifen oder durch Kampf zerstört werden, zerstöre sie wenn diese Karte zerstört wird, zusätzlich kannst du für den Rest dieses Spielzugs keine Spezialbeschwörungen durchführen.\r\nFalls ein oder mehr Monster durch Kampf zerstört wird: Füge deinem Gegner 700 Schaden zu.",
-    "overallString": "[Monster|Effekt] Unterweltler/Finsternis  [★10] 3000/1000",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257020.jpg?version=19.7"
-  },
-  {
-    "name": "Blitzschlag",
-    "desc": "Füge deiner Hand 1 Donner-Monster von deinem Deck hinzu, aber du kannst bis zum Ende des nächsten Spielzugs, nachdem diese Karte aufgelöst wurde, keine Monster, mit seinem Namen, als Normalbeschwörung beschwören/setzen.\r\nDu kannst nur 1 „Blitzschlag“ pro Spielzug aktivieren.",
-    "overallString": "[Zauber]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257021.jpg?version=19.7"
-  },
-  {
-    "name": "Finsternis Empfänger Katastrophe",
-    "desc": "Du kannst diese Karte in deiner Hand vorzeigen; sofort nachdem dieser Effekt aufgelöst wurde, beschwöre 1 „Finsternis Empfänger“-Monster als Normalbeschwörung.\r\nDu kannst diesen Effekt von „Finsternis Empfänger Katastrophe“ nur einmal pro Spielzug verwenden.\r\nEinmal pro Spielzug, falls du diese als Normalbeschwörung beschworene/gesetzte Karte kontrollierst: Du kannst sowohl diese offene Karte als auch 1 offenen Nicht-Empfänger, mit einer niedrigeren Stufe, als Tribut anbieten und falls du dies tust, beschwöre 1 Synchromonster als Spezialbeschwörung von deinem Extra Deck mit einer Stufe in Höhe der Differenz der Stufen der Monster (dies wird als Synchrobeschwörung behandelt), dann kannst du 1 Karte zerstören, die dein Gegner kontrolliert.",
-    "overallString": "[Monster|Effekt|Empfänger] Unterweltler/Finsternis  [★8] 0/0",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257022.jpg?version=19.7"
-  },
-  {
-    "name": "Finsternis Empfänger Albtraumhand",
-    "desc": "Du kannst diese Karte in deiner Hand vorzeigen; sofort nachdem dieser Effekt aufgelöst wurde, beschwöre 1 „Finsternis Empfänger“-Monster als Normalbeschwörung.\r\nDu kannst diesen Effekt von „Finsternis Empfänger Albtraumhand“ nur einmal pro Spielzug verwenden.\r\nFalls diese Karte als Normalbeschwörung beschworen wird: Du kannst 1 Monster der Stufe 2 oder niedriger als Spezialbeschwörung von deiner Hand beschwören.\r\nEinmal pro Spielzug, falls du diese als Normalbeschwörung beschworene/gesetzte Karte kontrollierst: Du kannst sowohl diese offene Karte als auch 1 offenen Nicht-Empfänger, mit einer niedrigeren Stufe, als Tribut anbieten und falls du dies tust, beschwöre 1 Synchromonster als Spezialbeschwörung von deinem Extra Deck mit einer Stufe in Höhe der Differenz der Stufen der Monster (dies wird als Synchrobeschwörung behandelt.)",
-    "overallString": "[Monster|Effekt|Empfänger] Krieger/Finsternis  [★10] 0/0",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257023.jpg?version=19.7"
-  },
-  {
-    "name": "Chaos End-Herrscher - Herrscher des Anfangs und des Endes",
-    "desc": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden.\r\nMuss als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 1 LICHT Krieger- und 1 FINSTERNIS Unterweltler-Monster von deinem Friedhof verbannst.\r\nDie Spezialbeschwörung dieser Karte kann nicht annulliert werden.\r\nKein Spieler kann Karten oder Effekte aktivieren, wenn diese Karte als Spezialbeschwörung beschworen wird.\r\nFalls du diese Karte kontrollierst die durch ihre Art beschworen wurde: Du kannst 1000 LP zahlen; verbanne so viele Karten wie möglich von der Spielfeldseite und dem Friedhof deines Gegners, dann füge deinem Gegner für jede durch diesen Effekt verbannte Karte 500 Schaden zu.\r\nDu kannst diesen Effekt von „Chaos End-Herrscher - Herrscher des Anfangs und des Endes“ nur einmal pro Spielzug verwenden.",
-    "overallString": "[Monster|Effekt|Spezialbeschwörung] Krieger/Licht  [★10] 3500/2000",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257026.jpg?version=19.7"
-  },
-  {
-    "name": "Hyper-Rangsteigerungszauber Ultimativekraft",
-    "desc": "Wähle 1 „Utopia“- oder „Utopisch“-Xyz-Monster des Rangs 9 oder niedriger, das du kontrollierst, dessen Grund-Eigenschaft LICHT ist; beschwöre 1 „Nummer“-Xyz-Monster des Rangs 10 oder höher als Spezialbeschwörung von deinem Extra Deck, indem du das Xyz-Monster, das du kontrollierst, als Material verwendest (Dies wird als Xyz-Beschwörung behandelt. Transferiere sein Material an das beschworene Monster) und falls du dies tust, hänge diese Karte daran an.\r\nEin „Number 99“-Xyz-Monster, das diese Karte als Material hat, erhält diesen Effekt.\r\n● Einmal pro Kette, wenn dein Gegner während der Battle Phase einen Monstereffekt aktiviert (Schnelleffekt): Hänge alles Material von dieser Karte ab und falls du dies tust, zerstöre alle Monster, die dein Gegner kontrolliert.",
-    "overallString": "[Zauber]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257027.jpg?version=19.7"
-  },
-  {
-    "name": "Perfectron Hydradrive Drache",
-    "desc": "1+ Linkmonster\r\nFalls diese Karte als Linkbeschwörung beschworen wird oder am Ende des Damage Steps falls diese Karte gekämpft hat: Zerstöre so viele Monster, die dein Gegner kontrolliert, wie möglich, dann füge deinem Gegner für jedes Linkmonster in deinem Friedhof 300 Schaden zu.\r\nSolange diese Karte offen auf dem Spielfeld liegt, hat sie zusätzlich die Eigenschaft LICHT, WASSER, FEUER und WIND.\r\nBleibt von den aktivierten Effekten von Monstern die eine Eigenschaft mit dieser Karte gemeinsam haben unberührt.\r\nFalls diese Karte mit 1000 oder mehr ATK durch Kampf oder einen Karteneffekt zerstört würde, kannst du stattdessen ihre ATK um 1000 reduzieren lassen.",
-    "overallString": "[Monster|Effekt|Link] Cyberse/Erde  [LINK-5] 5000/-  [←][→][↙][↓][↘]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257028.jpg?version=19.7"
-  },
-  {
     "name": "Clowntrupp Hut",
     "desc": "Pendelbereich = 7\r\n[ Pendeleffekt ]\r\nWährend deiner Main Phase: Du kannst 1 „Clowntrupp“-Karte von deinem Deck auf deinen Friedhof legen, außer einem Pendelmonster und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung, zusätzlich kannst du bis zum Ende des nächsten Spielzugs die Effekte von Monstern die als Spezialbeschwörung vom Deck oder Extra Deck beschworen wurden nicht aktivieren.\r\nDu kannst diesen Effekt von „Clowntrupp Hut“ nur einmal pro Spielzug verwenden.\r\n----------------------------------------\r\n[ Monstereffekt ]\r\nMonster, die dein Gegner kontrolliert, verlieren 1500 DEF, solange du ein als Tributbeschwörung beschworenes Monster kontrollierst.\r\nFalls diese Karte als Tribut angeboten wird: Du kannst 1 dieser Effekte aktivieren (aber du kannst jeden dieser Effekte von „Clowntrupp Hut“ nur einmal pro Spielzug verwenden;\r\n● Lege alle Pendelmonster auf dem Spielfeld und offen in den Extra Decks in die Decks zurück.\r\n● Beschwöre 1 „Clowntrupp“-Nichtpendel-Monster als Spezialbeschwörung von deinem Deck oder Extra Deck, ungeachtet seiner Beschwörungsbedingungen.",
     "overallString": "[Monster|Effekt|Pendel] Ungeheuer-Krieger/Licht  [★5] 1900/800  7/7",
@@ -322,12 +568,6 @@
     "desc": "Falls du ein als Tributbeschwörung beschworenen Monster kontrollierst: Wirf eine beliebige Anzahl Karten ab und dann wähle so viele offene Karten auf dem Spielfeld; zerstöre sie.\r\nDu kannst diese Karte von deinem Friedhof verbannen und 1 Ritual-, Fusions-, Synchro-, Xyz-, Pendel- oder Linkmonster von deiner Hand oder Spielfeldseite als Tribut anbieten; füge deiner Hand 1 „Clowntrupp“-Monster, dessen Grund-Stufe/-Rang/-Linkzahl nicht gleich des als Tribut angebotenen Monsters ist, von deinem Deck oder Friedhof hinzu.\r\nDu kannst jeden Effekt von „Clowntrupp „Finale““ nur einmal pro Spielzug verwenden.",
     "overallString": "[Falle]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305076.jpg?version=19.7"
-  },
-  {
-    "name": "Vollmondspiegel",
-    "desc": "Jedes Mal, wenn ein oder mehr Monster, durch Kampf oder einen Effekt zerstört wird, lege für jedes 1 Vollmond-Zählmarke auf diese Karte.\r\nDu kannst Vollmond-Zählmarken von dieser Karte entfernen und dann 1 dieser Effekte aktivieren;\r\n● 1: Beschwöre 1 Monster der Stufe 6 oder niedriger (Unterweltler oder Fee) als Spezialbeschwörung von deiner Hand oder Friedhof.\r\n● 3: Füge deiner Hand 1 FINSTERNIS Monster der Stufe 10 von deinem Deck hinzu.\r\n● 5: Beschwöre 1 Monster der Stufe 10  als Spezialbeschwörung von deiner Hand oder Friedhof.\r\nDu kannst diesen Effekt von „Vollmondspiegel“ nur einmal pro Spielzug verwenden.",
-    "overallString": "[Zauber|Permanente]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100200288.jpg?version=19.7"
   },
   {
     "name": "Schwarzes Chaos der ultimative magische Schwertkämpfer",
@@ -388,101 +628,5 @@
     "desc": "Du kannst diese Karte mit „Ritual des Lichts und der Finsternis“ als Ritualbeschwörung beschwören.\nKann nicht durch Kampf zerstört werden.\nBleibt von aktivierten Effekten deines Gegners unberührt, es sei denn, sie wählen diese Karte als Ziel.\nDu kannst jeden der folgenden Effekte von „Schwarz Glänzender Soldat - Soldat des Lichts und der Finsternis“ nur einmal pro Spielzug verwenden.\nFalls diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 Karte wählen, die dein Gegner kontrolliert; verbanne sie.\nWenn diese Karte ein Monster deines Gegners durch Kampf zerstört: Du kannst diese Karte 1500 ATK erhalten lassen und falls du dies tust, kann es sofort einen zweiten Angriff durchführen.",
     "overallString": "[Monster|Effekt|Ritual] Krieger/Erde  [★8] 3000/2500",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305028.jpg?version=19.7"
-  },
-  {
-    "name": "Schwarzer Rosendrache/Angriffsmodus",
-    "desc": "Kann nicht als Normalbeschwörung beschworen/gesetzt werden.\nMuss mit „Angriffsmodus aktivieren“ als Spezialbeschwörung beschworen werden.\nFalls diese Karte zerstört wird: Du kannst 1 „Schwarzer Rosendrache“ als Spezialbeschwörung von deinem Friedhof beschwören.\nDu kannst jeden der folgenden Effekte von „Schwarzer Rosendrache/Angriffsmodus“ nur einmal pro Spielzug verwenden.\nDu kannst diese Karte in deiner Hand vorzeigen; mische es ins Deck und falls du dies tust, ändere die ATK von 1 offenen Monster auf dem Spielfeld zu 0.\nFalls diese Karte als Spezialbeschwörung beschworen wird oder ein oder mehr Monster als Spezialbeschwörung auf die Spielfeldseite deines Gegners beschworen werden: Du kannst alle Karten auf dem Spielfeld zerstören.",
-    "overallString": "[Monster|Effekt|Spezialbeschwörung] Drache/Feuer  [★9] 2900/2300",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100258001.jpg?version=19.7"
-  },
-  {
-    "name": "Raubpflanze Dheadevil",
-    "desc": "1 „Raubpflanze“-Monster + 1 Monster der Stufe 1\nMuss erst entweder als Fusionsbeschwörung beschworen werden oder als Spezialbeschwörung (von deinem Extra Deck) beschworen werden, indem du 1 Monster mit einer Raubtier-Zählmarke von eines beliebigen Spielfeldseite und 1 „Raubpflanze“-Monster als Tribut anbietest.\nWährend der Main Phase, falls diese Karte in diesem Spielzug als Spezialbeschwörung beschworen wurde (Schnelleffekt): Du kannst Zauber/Fallen auf dem Spielfeld bis zur Anzahl der Monster mit einer Raubtier-Zählmarke wählen; zerstöre sie.\nDu kannst diesen Effekt von „Raubpflanze Dheadevil“ nur einmal pro Spielzug verwenden.",
-    "overallString": "[Monster|Effekt|Fusion] Pflanze/Finsternis  [★6] 2200/1500",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100258002.jpg?version=19.7"
-  },
-  {
-    "name": "Tiefäugiger weißer Drache, der blaue Abgrund",
-    "desc": "(Diese Karte wird immer als „Blauäugig“-Karte behandelt.)\nDu kannst diese Karte abwerfen; füge deiner Hand 1 LICHT Empfänger der Stufe 1 von deinem Deck hinzu.\nFalls ein oder mehr „Blauäugig“-Ritualmonster und/oder „Blauäugiger w. Drache“ auf deinen Friedhof gelegt wird: Du kannst 1 von ihnen wählen; beschwöre diese Karte als Spezialbeschwörung von deinem Friedhof (falls sie dort lag, als das Monster gelegt wurde) oder deiner Hand (selbst falls nicht) und falls du dies tust, seine ATK werden dieselben wie die des Monsters, zusätzlich verbanne es, wenn es das Spielfeld verlässt.\nDu kannst jeden Effekt von „Tiefäugiger weißer Drache, der blaue Abgrund“ nur einmal pro Spielzug verwenden.",
-    "overallString": "[Monster|Effekt] Drache/Licht  [★10] 0/0",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257002.jpg?version=19.7"
-  },
-  {
-    "name": "Zukunftsfusion Nova",
-    "desc": "Wenn diese Karte aktiviert wird: Beschwöre 1 LICHT Maschine-Fusionsmonster als Fusionsbeschwörung von deinem Extra Deck, verwende dafür Monster von deinem Deck, darunter „Cyber Drache“, zusätzlich kannst du für den Rest dieses Spielzugs, nachdem diese Karte aufgelöst wurde, weder Monster als Spezialbeschwörung beschwören, außer Maschine-Monster, noch Angriffe deklarieren, außer mit dem beschworenen Monster.\nWenn diese Karte das Spielfeld verlässt, zerstöre das Monster.\nWenn das Monster zerstört wird, zerstöre diese Karte.\nDu kannst nur 1 „Zukunftsfusion Nova“ pro Spielzug aktivieren.",
-    "overallString": "[Zauber|Permanente]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257006.jpg?version=19.7"
-  },
-  {
-    "name": "Rotdrachen-Erzunterweltlers Kette",
-    "desc": "Du kannst diese Karte in dem Spielzug aktivieren, in dem sie gesetzt wurde, indem du 1 „Rotdrachen-Erzunterweltler“ in deinem Extra Deck vorzeigst.\nAktiviere diese Karte, indem du eine beliebige Anzahl Monster in deiner Hand vorzeigst und wähle dann Effektmonster, die dein Gegner kontrolliert, in Höhe der Anzahl der vorzeigten Empfänger +1; sie verlieren 100 ATK in Höhe der Anzahl der Karten die in deiner Hand vorzeigst wurden, um diese Karte zu aktivieren, zusätzlich werden ihre Effekte annulliert.\nFalls das letzte jener Monster, sich nicht auf dem Spielfeld befindet, zerstöre diese Karte.\nDu kannst nur 1 „Rotdrachen-Erzunterweltlers Kette“ pro Spielzug aktivieren.",
-    "overallString": "[Falle|Permanente]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257009.jpg?version=19.7"
-  },
-  {
-    "name": "Galaxieverteidigungsroboter-Orbital 7",
-    "desc": "Du kannst diese Karte von deiner Hand oder von deiner Spielfeldseite als Tribut anbieten; nimm 1 „Photon“-Monster und 1 „Galaxie“-Monster von deinem Deck, füge 1 von ihnen deiner Hand hinzu und lege die andere auf den Friedhof, zusätzlich kannst du für den Rest dieses Spielzugs keine Spezialbeschwörungen durchführen, außer von LICHT Monstern.\nFalls ein oder mehr „Galaxieaugen“-Monster als Spezialbeschwörung auf deine Spielfeldseite beschworen werden: Du kannst diese Karte als Spezialbeschwörung von deinem Friedhof beschwören, aber verbanne sie, wenn sie das Spielfeld verlässt.\nDu kannst jeden Effekt von „Galaxieverteidigungsroboter-Orbital 7“ nur einmal pro Spielzug verwenden.",
-    "overallString": "[Monster|Effekt] Maschine/Licht  [★8] 2000/2000",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257012.jpg?version=19.7"
-  },
-  {
-    "name": "Glasflügel-Synchrodrache der vier himmlischen Drachen",
-    "desc": "1 Empfänger + 1+ Nicht-Empfänger\n(Diese Karte wird immer als „Geschwindigkeitsroid“-Karte behandelt.)\nFalls diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 Effektmonster zerstören, das dein Gegner kontrolliert, und falls du dies tust, erhält diese Karte ATK in Höhe der Grund-ATK des Monsters.\nWenn dein Gegner eine Karte oder einen Effekt aktiviert (Schnelleffekt): Du kannst 1 WIND Empfänger der Stufe 4 oder niedriger als Spezialbeschwörung von deiner Hand oder deinem Friedhof beschwören (aber annulliere seine Effekte), dann, sofort nachdem dieser Effekt aufgelöst wurde, kannst du 1 WIND Synchromonster als Synchrobeschwörung beschwören.\nDu kannst jeden Effekt von „Glasflügel-Synchrodrache der vier himmlischen Drachen“ nur einmal pro Spielzug verwenden.",
-    "overallString": "[Monster|Effekt|Synchro] Drache/Wind  [★7] 2500/2000",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257014.jpg?version=19.7"
-  },
-  {
-    "name": "Rakketen-Sperrfeuer",
-    "desc": "Du kannst 1 FINSTERNIS Drache-Monster von deinem Deck auf den Friedhof legen, außer einem Monster der Stufe 5; beschwöre diese Karte als Spezialbeschwörung von deiner Hand, zusätzlich kannst du für den Rest dieses Spielzugs keine Spezialbeschwörungen vom Extra Deck durchführen, außer von FINSTERNIS Monstern.\nWenn der Effekt eines Linkmonsters aktiviert wird, der diese Karte auf dem Spielfeld als Ziel wählt (Schnelleffekt): Du kannst diese Karte zerstören und dann jeweils bis zu 1 „Rakkete“-Monster von deiner Hand, deinem Deck, deinem Friedhof und/oder deinen verbannten Karten als Spezialbeschwörung beschwöre, außer „Rakketen-Sperrfeuer“.\nDu kannst jeden Effekt von „Rakketen-Sperrfeuer“ nur einmal pro Spielzug verwenden.",
-    "overallString": "[Monster|Effekt] Drache/Finsternis  [★5] 1500/1600",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257017.jpg?version=19.7"
-  },
-  {
-    "name": "Blauäugiger weißer Drache, das weiße Phantomungeheuer",
-    "desc": "Wenn eine Karte oder ein Effekt aktiviert wird, die oder der diese Karte auf dem Spielfeld als Ziel wählt (Schnelleffekt): Du kannst 1 Karte abwerfen; annulliere den Effekt.\r\nDu kannst jeden der folgenden Effekte von „Blauäugiger weißer Drache, das weiße Phantomungeheuer“ nur einmal pro Spielzug verwenden.\r\nWenn diese Karte deiner Hand von deinem Deck hinzugefügt wird oder dein Monster durch Kampf zerstört wird: Du kannst diese Karte in deiner Hand vorzeigen; beschwöre sie als Spezialbeschwörung.\r\nFalls diese Karte als Spezialbeschwörung von der Hand oder dem Deck beschworen wird: Du kannst alle Monster zerstören, die dein Gegner kontrolliert, zusätzlich kannst du für den Rest dieses Spielzugs nicht direkt angreifen, außer mit „Blauäugig“-Monstern.",
-    "overallString": "[Monster|Effekt] Drache/Licht  [★8] 3000/2500",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257001.jpg?version=19.7"
-  },
-  {
-    "name": "Cyber End-Drache der Entscheidungsschlagdrache",
-    "desc": "3 Maschine-Monster mit 2100 oder mehr ATK\r\nMuss als Fusionsbeschwörung beschworen werden.\r\nFalls diese Karte als Fusionsbeschwörung beschworen wird und dafür nur LICHT Monster verwendet wurden: Du kannst 4000 LP zahlen; füge deiner Hand 1 „Begrenzer-Entferner“ von deinem Deck hinzu.\r\nDu kannst diesen Effekt von „Cyber End-Drache der Entscheidungsschlagdrache“ nur einmal pro Spielzug verwenden.\r\nFalls diese Karte ein Monster in Verteidigungsposition angreift, füge deinem Gegner durchschlagenden Kampfschaden zu.\r\nDiese Karte, deren derzeitige ATK höher ist als ihre Grund-ATK, kann während jeder Battle Phase bis zu 3 Angriffe durchführen.",
-    "overallString": "[Monster|Effekt|Fusion] Maschine/Licht  [★10] 4000/2800",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257004.jpg?version=19.7"
-  },
-  {
-    "name": "Feuerroter Drache Quetzalcoatl",
-    "desc": "1 Empfänger + 1+ Nicht-Empfänger-Monster\r\nErhält ATK in Höhe der Summe der Grund-ATK aller anderen Synchromonster, die du kontrollierst.\r\nDu kannst jeden der folgenden Effekte von „Feuerroter Drache Quetzalcoatl“ nur einmal pro Spielzug verwenden.\r\nFalls diese Karte als Synchrobeschwörung beschworen wird: Du kannst so viele Drache-Synchromonster wie möglich als Spezialbeschwörung von deinem Friedhof beschwören, zusätzlich kannst du für den Rest dieses Spielzugs keine Spezialbeschwörungen durchführen.\r\nWenn dein Gegner einen Monstereffekt aktiviert (Schnelleffekt): Du kannst 1 anderes Drache-Synchromonster, das du kontrollierst, ins Extra Deck zurücklegen und falls du dies tust, annulliere die Aktivierung.",
-    "overallString": "[Monster|Effekt|Synchro] Drache/Finsternis  [★12] 0/0",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257007.jpg?version=19.7"
-  },
-  {
-    "name": "Neo-Galaxieaugen-Photonendrache - Photonenheulen",
-    "desc": "3 Monster der Stufe 8\r\nEinmal pro Spielzug kannst du „Neo-Galaxieaugen-Photonendrache - Photonenheulen“ auch als Xyz-Beschwörung beschwören, indem du 1 Xyz-Monster des Rangs 8 verwendest, das du kontrollierst (transferiere sein Material an diese Karte).\r\nFalls diese Karte als Xyz-Beschwörung beschworen wird: Du kannst 1 „Photon“-Monster von deinem Deck nehmen und es entweder als Spezialbeschwörung in die Verteidigungsposition beschwören oder als Material an diese Karte anhängen.\r\n(Schnelleffekt): Du kannst 3 Material von dieser Karte abhängen; biete 1 anderes Xyz-Monster als Tribut an und falls du dies tust, annulliere bis zum Ende dieses Spielzugs die Effekte aller anderen offenen Karten, die sich derzeit auf dem Spielfeld befinden.",
-    "overallString": "[Monster|Effekt|Xyz] Drache/Licht  [☆8] 4500/3000",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257010.jpg?version=19.7"
-  },
-  {
-    "name": "Hungergift-Fusionsdrache der vier himmlischen Drachen",
-    "desc": "2 FINSTERNIS Monster auf dem Spielfeld\r\n(Diese Karte wird immer als „Raubpflanze“-Karte behandelt.)\r\nFalls diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 anderes offenes Monster auf dem Spielfeld wählen; ändere seine ATK zu 0, annulliere seine Effekte, zusätzlich wird es FINSTERNIS.\r\nWenn dein Gegner eine Karte oder einen Effekt aktiviert (Schnelleffekt): Du kannst 1 FINSTERNIS Fusionsmonster als Fusionsbeschwörung von deinem Extra Deck beschwören, verwende dafür FINSTERNIS Monster auf einer beliebigen Spielfeldseite, darunter diese Karte.\r\nDu kannst jeden Effekt von „Hungergift-Fusionsdrache der vier himmlischen Drachen“ nur einmal pro Spielzug verwenden.",
-    "overallString": "[Monster|Effekt|Fusion] Drache/Finsternis  [★8] 2800/2000",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257013.jpg?version=19.7"
-  },
-  {
-    "name": "Kalliberlade-Befreier-Drache",
-    "desc": "3+ Effektmonster\r\nDu kannst „Kalliberlade-Befreier-Drache“ nur einmal pro Spielzug als Spezialbeschwörung beschwören.\r\nEinmal pro Spielzug, während der Battle Phase (Schnelleffekt): Du kannst 1 Monster, das dein Gegner kontrolliert, in eine Zone legen, auf die diese Karte zeigt, und die Kontrolle darüber übernehmen.\r\nDein Gegner kann weder Karten noch Effekte als Reaktion auf die Aktivierung dieses Effekts aktivieren.\r\nEinmal pro Kette, falls sich diese Karte in deinem Friedhof befindet (Schnelleffekt): Du kannst 1 Monster wählen, das du kontrollierst; zerstöre es und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung.",
-    "overallString": "[Monster|Effekt|Link] Drache/Finsternis  [LINK-4] 3000/-  [←][→][↙][↘]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257016.jpg?version=19.7"
-  },
-  {
-    "name": "Gatling Ogre",
-    "desc": "Du kannst eine beliebige Anzahl verdeckter Karten von deiner Zauber- & Fallenzone auf den Friedhof legen; füge deinem Gegner 800 Schaden für jede zu, zusätzlich erhält dein Gegner, für den Rest dieses Spielzugs, keinen Schaden von den Effekten von Nicht-Unterweltler-Monstern.\r\nDu kannst diesen Effekt von „Gatling Ogre“ nur dreimal pro Spielzug verwenden.\r\nEinmal pro Spielzug, wenn diese Karte als Ziel für einen Angriff gewählt wird: Du kannst deinem Gegner für jedes Monster in Angriffsposition, das er kontrolliert 500 Schaden zufügen, dann beende die Battle Phase.",
-    "overallString": "[Monster|Effekt] Unterweltler/Feuer  [★3] 800/800",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257024.jpg?version=19.7"
-  },
-  {
-    "name": "Ewig infernaler Doom Slinger",
-    "desc": "Während deiner Main Phase: Du kannst 1 Unterweltler-Monster als Spezialbeschwörung von deiner Hand beschwören.\r\nFalls du keine Karten in deiner Hand hast (Schnelleffekt): Du kannst diese Karte von deinem Friedhof verbannen; dein Gegner bestimmt 1 dieser Effekte, den du ausführst.\r\n● Zeige die oberste Karte deines Decks vor und falls es ein Monster ist, erhält stattdessen dein Gegner den Effektschaden, den du in diesem Spielzug erhalten hättest.\r\nAndernfalls erhältst du 4000 Schaden.\r\n● Du erhältst in diesem Spielzug keinen Effektschaden.\r\nDu kannst jeden Effekt von „Ewig infernaler Doom Slinger“ nur einmal pro Spielzug verwenden.",
-    "overallString": "[Monster|Effekt] Unterweltler/Finsternis  [★1] 100/100",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100257025.jpg?version=19.7"
   }
 ]
