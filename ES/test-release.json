@@ -1,5 +1,59 @@
 [
   {
+    "name": "Ballena VIP",
+    "desc": "Puedes Sacrificar monstruos adicionales cuando Invocas esta carta por Sacrificio boca arriba. \r\nSi esta carta es Invocada por Sacrificio: puedes poner Contadores VIP en esta carta igual al número de monstruos Sacrificados para su Invocación por Sacrificio. \r\nCuando tu adversario activa una carta o efecto (Efecto Rápido): puedes retirar 1 Contador VIP de esta carta; lanza una moneda y adivina cara o cruz. Si aciertas, niega ese efecto. Si fallas, el ATK original de esta carta se reduce a la mitad hasta el final de este turno.",
+    "overallString": "[Monstruo|Efecto] Pez/LUZ  [★6] 2400/1000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304084.jpg?version=19.7"
+  },
+  {
+    "name": "Daneen Evolucionado",
+    "desc": "\"Daneen Dino de Regreso\" + 1 monstruo Dinosaurio\t\r\nSi esta carta es Invocada de Modo Especial: puedes añadir a tu mano 1 carta \"GMX\" desde tu Deck. \r\nSólo puedes usar este efecto de \"Daneen Evolucionado\" una vez por turno. \r\nSi excavas una o más cartas por el efecto de una carta \"GMX\": puedes activar el siguiente efecto, según dónde esté esta carta en el momento de la activación (pero sólo puedes usar cada efecto de \"Daneen Evolucionado\" una vez por turno);\r\n● Campo: Gana 1500 LP.\r\n● Cementerio: Invoca esta carta de Modo Especial.",
+    "overallString": "[Monstruo|Efecto|Fusión] Dinosaurio/AGUA  [★6] 2400/1200",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304092.jpg?version=19.7"
+  },
+  {
+    "name": "GMX - COMPREX",
+    "desc": "1 monstruo \"GMX\" + 2+ monstruos Dinosaurio\t\r\nGana estos efectos basados en el número de monstruos Dinosaurio usados como Material de Fusión para esta carta.\r\n● 3+: Tu adversario no puede seleccionar esta carta con efectos de cartas.\r\n● 4+: Puede hacer hasta 3 ataques durante cada Battle Phase.\r\n● 5+: Cada vez que tu adversario Invoca de Modo Normal o Especial uno o más monstruos, pierde 800 LP.\t\r\nUna vez por turno, si excavas una o más cartas por el efecto de una carta \"GMX\": puedes destruir todos los demás monstruos en el Campo.",
+    "overallString": "[Monstruo|Efecto|Fusión] Dinosaurio/OSCURIDAD  [★10] 3700/2300",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304093.jpg?version=19.7"
+  },
+  {
+    "name": "Informe del 55º Experimento de GMX",
+    "desc": "Invoca por Fusión 1 Monstruo de Fusión Dinosaurio desde tu Deck Extra usando monstruos de tu mano o Campo. Si tu adversario controla un monstruo, también puedes usar 1 monstruo \"GMX\" en tu Deck como material. \r\nDurante tu Main Phase: puedes desterrar esta carta en tu Cementerio; excava las cartas de la parte superior de tu Deck hasta que excaves una carta \"GMX\", añade esa carta \"GMX\" a tu mano, y además baraja el resto al Deck. \r\nSólo puedes usar 1 efecto de \"Informe del 55º Experimento de GMX\" por turno, y sólo una vez ese turno.",
+    "overallString": "[Mágica|Juego Rápido]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304094.jpg?version=19.7"
+  },
+  {
+    "name": "Experimento Final Anti-GMX",
+    "desc": "Activa esta carta sólo si controlas un monstruo \"GMX\". \r\nUna vez por turno, cuando tu adversario activa un efecto de monstruo en el Campo (excepto durante el Damage Step): puedes excavar las 5 cartas de la parte superior de tu Deck, y después si excavaste una o más cartas \"GMX\", niega ese efecto activado, y además coloca todas las cartas excavadas en la parte superior o inferior del Deck en cualquier orden.",
+    "overallString": "[Trampa|Continua]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304096.jpg?version=19.7"
+  },
+  {
+    "name": "Shade, la Oscura",
+    "desc": "←◊11 Escala 11◊→\r\n【Efecto de Péndulo】\r\nNo puedes Invocar por Péndulo, excepto Monstruos de Péndulo (este efecto no puede ser negado). \r\nSi uno o más monstruos con 1000 ATK o menos son Invocados de Modo Especial (excepto durante el Damage Step): puedes devolver esta carta a la mano. \r\nSólo puedes usar este efecto de \"Shade, la Oscura\" una vez por turno.\r\n ━━━━━━━━━━━━━━━━━━━━━━━\r\n【Efecto de Monstruo】\r\nSi tienes una carta en tu Zona de Péndulo y esta carta está en tu mano: puedes Invocar esta carta de Modo Especial. \r\nPuedes pagar 1000 LP; destruye 1 Carta de Monstruo de Péndulo en tu mano o Campo boca arriba, y después puedes añadir 1 Monstruo de Péndulo desde tu Deck a tu Deck Extra boca arriba. \r\nSólo puedes usar cada efecto de \"Shade, la Oscura\" una vez por turno.",
+    "overallString": "[Monstruo|Efecto|Péndulo] Hada/OSCURIDAD  [★4] 1000/1000  11/11",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304083.jpg?version=19.7"
+  },
+  {
+    "name": "Selandea, Compañera GMX",
+    "desc": "Puedes revelar esta carta en tu mano; Invoca de Modo Especial 1 monstruo \"GMX\" o 1 monstruo Dinosaurio desde tu mano, y además por el resto de este turno sólo puedes atacar directamente con monstruos \"GMX\". \r\nSi esta carta es Invocada de Modo Especial por un efecto de monstruo: puedes Invocar de Modo Especial 1 monstruo \"GMX\" o Dinosaurio de Nivel 4 o menor desde tu mano, Cementerio o destierro en Posición de Defensa. \r\nSólo puedes usar cada efecto de \"Selandea, Compañera GMX\" una vez por turno.",
+    "overallString": "[Monstruo|Efecto] Guerrero/FUEGO  [★5] 1500/1900",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304090.jpg?version=19.7"
+  },
+  {
+    "name": "Escuadrón de Supresión GMX",
+    "desc": "Si esta carta está en tu mano y controlas un monstruo \"GMX\" o un monstruo Dinosaurio: puedes Invocar esta carta de Modo Especial. \r\nPuedes seleccionar 1 monstruo boca arriba en el Campo; excava las cartas de la parte superior de tu Deck hasta que excaves un monstruo Dinosaurio, manda ese monstruo Dinosaurio al Cementerio y, si lo haces, el monstruo seleccionado se convierte en un monstruo Dinosaurio (hasta el final de este turno), y además baraja el resto al Deck. \r\nSólo puedes usar cada efecto de \"Escuadrón de Supresión GMX\" una vez por turno.",
+    "overallString": "[Monstruo|Efecto] Gerrero Bestia/VIENTO  [★4] 1900/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304091.jpg?version=19.7"
+  },
+  {
+    "name": "Laboratorio #5 de GMX",
+    "desc": "Tu adversario no puede activar cartas o efectos cuando Invocas de Modo Normal o Especial uno o más monstruos \"GMX\". \r\nDurante tu Main Phase: puedes Colocar 1 Mágica/Trampa \"GMX\" desde tu Deck, excepto \"Laboratorio #5 de GMX\", y después coloca 1 carta de tu mano en la parte superior del Deck. \r\nSólo puedes usar este efecto de \"Laboratorio #5 de GMX\" una vez por turno.",
+    "overallString": "[Mágica|Campo]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304095.jpg?version=19.7"
+  },
+  {
     "name": "Phara, la Diosa de los Comienzos",
     "desc": "Revela esta carta y 1 Mágica/Trampa en tu mano; hasta el final del próximo turno, ningún jugador puede activar cartas o efectos en respuesta a esa Mágica/Trampa revelada o a cartas con el mismo nombre original. \r\nSi esta carta es mandada de la mano o Campo al Cementerio por el efecto de una Mágica/Trampa: puedes Invocar esta carta de Modo Especial. \r\nSi esta carta es Invocada de Modo Especial desde el Cementerio: puedes tomar el control del monstruo con el ATK más alto que controle tu adversario. \r\nSólo puedes usar cada uno de los efectos de \"Phara, la Diosa de los Comienzos\" una vez por turno.",
     "overallString": "[Monstruo|Efecto] Lanzador de Conjuros/OSCURIDAD  [★8] 2800/2800",
@@ -30,8 +84,8 @@
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305058.jpg?version=19.7"
   },
   {
-    "name": "Mundo de Clasificación Fuerza-S",
-    "desc": "Si fueras a desterrar una carta de tu mano para activar el efecto de un monstruo \"Fuerza-S\", puedes en su lugar mandar al Cementerio 1 carta \"Fuerza-S\" desde tu Deck, excepto \"Mundo de Clasificación Fuerza-S\". \r\nSi otra carta es desterrada, puedes seleccionar 1 carta que controle tu adversario o en su Cementerio; destiérrala, y después puedes mover un monstruo \"Fuerza-S\" que controles a otra de tus Zonas de Monstruos Principal. \r\nSólo puedes usar cada efecto de \"Mundo de Clasificación Fuerza-S\" una vez por turno.",
+    "name": "Mundo Sistematizado Fuerza-S",
+    "desc": "Si fueras a desterrar una carta de tu mano para activar el efecto de un monstruo \"Fuerza-S\", puedes en su lugar mandar al Cementerio 1 carta \"Fuerza-S\" desde tu Deck, excepto \"Mundo Sistematizado Fuerza-S\". \r\nSi otra carta es desterrada, puedes seleccionar 1 carta que controle tu adversario o en su Cementerio; destiérrala, y después puedes mover un monstruo \"Fuerza-S\" que controles a otra de tus Zonas de Monstruos Principal. \r\nSólo puedes usar cada efecto de \"Mundo Sistematizado Fuerza-S\" una vez por turno.",
     "overallString": "[Trampa|Continua]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305074.jpg?version=19.7"
   },
@@ -54,8 +108,8 @@
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261007.jpg?version=19.7"
   },
   {
-    "name": "Melffy Rabbis",
-    "desc": "Si tu adversario Invoca de Modo Normal o Especial un monstruo, puedes: Invocar esta carta de Modo Especial desde tu mano, y después puedes Invocar por Fusión 1 Monstruo de Fusión \"Melffy\" usando monstruos en tu Campo o mano. \r\nSi esta carta es Invocada de Modo Normal o Especial, puedes: añadir a tu mano 1 monstruo \"Melffy\" desde tu Deck. Si añades un Monstruo Normal con este efecto, también puedes Invocar de Modo Especial cualquier número de monstruos Bestia desde tu mano. \r\nSólo puedes usar 1 de los efectos de \"Melffy Rabbis\" por turno, y sólo una vez ese turno.",
+    "name": "Rabbis Melffy",
+    "desc": "Si tu adversario Invoca de Modo Normal o Especial un monstruo, puedes: Invocar esta carta de Modo Especial desde tu mano, y después puedes Invocar por Fusión 1 Monstruo de Fusión \"Melffy\" usando monstruos en tu Campo o mano. \r\nSi esta carta es Invocada de Modo Normal o Especial, puedes: añadir a tu mano 1 monstruo \"Melffy\" desde tu Deck. Si añades un Monstruo Normal con este efecto, también puedes Invocar de Modo Especial cualquier número de monstruos Bestia desde tu mano. \r\nSólo puedes usar 1 de los efectos de \"Rabbis Melffy\" por turno, y sólo una vez ese turno.",
     "overallString": "[Monstruo|Efecto|Cantante] Bestia/TIERRA  [★2] 300/100",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305021.jpg?version=19.7"
   },
@@ -66,20 +120,20 @@
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305034.jpg?version=19.7"
   },
   {
-    "name": "Melffy Supermami",
-    "desc": "3+ monstruos Bestia de Nivel 2\t\r\nUna vez por turno, también puedes Invocar Xyz a \"Melffy Supermami\" usando una \"Melffy Mami\" que controles (transfiere sus materiales a esta carta). \r\nSi esta carta es Invocada de Modo Especial, puedes: añadir a tu mano 1 Carta Mágica/Trampa \"Melffy\" desde tu Deck o Cementerio. \r\nAumenta el ATK de esta carta por el ATK combinado de cualquier monstruo \"Melffy\" que tenga acoplado como material Xyz. \r\nPuedes desacoplar 5 materiales Xyz de esta carta; devuelve a la mano todas las cartas que controle tu adversario.",
+    "name": "Supermami Melffy",
+    "desc": "3+ monstruos Bestia de Nivel 2\t\r\nUna vez por turno, también puedes Invocar Xyz a \"Melffy Supermami\" usando una \"Mami Melffy\" que controles (transfiere sus materiales a esta carta). \r\nSi esta carta es Invocada de Modo Especial, puedes: añadir a tu mano 1 Carta Mágica/Trampa \"Melffy\" desde tu Deck o Cementerio. \r\nAumenta el ATK de esta carta por el ATK combinado de cualquier monstruo \"Melffy\" que tenga acoplado como material Xyz. \r\nPuedes desacoplar 5 materiales Xyz de esta carta; devuelve a la mano todas las cartas que controle tu adversario.",
     "overallString": "[Monstruo|Efecto|Xyz] Bestia/TIERRA  [☆2] 0/2000",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305038.jpg?version=19.7"
   },
   {
-    "name": "Melffy Tropezón y Caída",
-    "desc": "Añade a tu mano hasta 4 monstruos \"Melffy\" desde tu Deck (máx. 1 copia de cada uno), y después se convierte en tu End Phase. \r\nPuedes desterrar esta carta en tu Cementerio y seleccionar otras 2 cartas \"Melffy\" en tu Cementerio, excepto \"Melffy Tropezón y Caída\"; añade 1 a tu mano y coloca la otra en el fondo de tu Deck. \r\nSólo puedes usar este efecto de \"Melffy Tropezón y Caída\" una vez por turno. Sólo puedes Invocar de Modo Especial monstruos \"Melffy\" durante el turno en que activas esta carta.",
+    "name": "Tropezón y Caída Melffy",
+    "desc": "Añade a tu mano hasta 4 monstruos \"Melffy\" desde tu Deck (máx. 1 copia de cada uno), y después se convierte en tu End Phase. \r\nPuedes desterrar esta carta en tu Cementerio y seleccionar otras 2 cartas \"Melffy\" en tu Cementerio, excepto \"Tropezón y Caída Melffy\"; añade 1 a tu mano y coloca la otra en el fondo de tu Deck. \r\nSólo puedes usar este efecto de \"Tropezón y Caída Melffy\" una vez por turno. Sólo puedes Invocar de Modo Especial monstruos \"Melffy\" durante el turno en que activas esta carta.",
     "overallString": "[Mágica]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305059.jpg?version=19.7"
   },
   {
-    "name": "Melffy Tiempo Cálido",
-    "desc": "Selecciona 1 monstruo \"Melffy\" en tu Campo o Cementerio; añádelo a tu mano, y después puedes Invocar por Fusión 1 Monstruo de Fusión Bestia, usando monstruos de tu mano y/o Campo como material. \r\nSi controlas un Monstruo Xyz \"Melffy\": puedes desterrar esta carta en el Cementerio; este turno, los monstruos \"Melffy\" Invocados de Modo Especial desde el Deck Extra que controles no son afectados por efectos activados de tu adversario. \r\nSólo puedes usar cada uno de los efectos de \"Melffy Tiempo Cálido\" una vez por turno.",
+    "name": "Tiempo Cálido Melffy",
+    "desc": "Selecciona 1 monstruo \"Melffy\" en tu Campo o Cementerio; añádelo a tu mano, y después puedes Invocar por Fusión 1 Monstruo de Fusión Bestia, usando monstruos de tu mano y/o Campo como material. \r\nSi controlas un Monstruo Xyz \"Melffy\": puedes desterrar esta carta en el Cementerio; este turno, los monstruos \"Melffy\" Invocados de Modo Especial desde el Deck Extra que controles no son afectados por efectos activados de tu adversario. \r\nSólo puedes usar cada uno de los efectos de \"Tiempo Cálido Melffy\" una vez por turno.",
     "overallString": "[Trampa]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305075.jpg?version=19.7"
   },
@@ -103,7 +157,7 @@
   },
   {
     "name": "Bestia Fantasma Luninosa - Candelard",
-    "desc": "Aumenta el ATK/DEF de esta carta en 1000 x el número de cartas en tu mano. \r\nSólo puedes usar los siguientes efectos de \"Bestia Fantasma Luninosa - Candelard\" una vez por turno. \r\nPuedes descartar otras 2 cartas mientras esta carta está en tu mano; Invoca esta carta de Modo Especial, y después puedes añadir a tu mano 1 carta cuyo efecto incluya un lanzamiento de moneda desde tu Deck. \r\nSi fuera a activarse un efecto de Monstruo/Mágica/Trampa que incluya añadir una carta del Deck a la mano, puedes: negar ese efecto.",
+    "desc": "Aumenta el ATK/DEF de esta carta en 1000 x el número de cartas en tu mano. \r\nSólo puedes usar los siguientes efectos de \"Bestia Fantasma Luninosa - Candelard\" una vez por turno. \r\nPuedes descartar otras 2 cartas mientras esta carta está en tu mano; Invoca esta carta de Modo Especial, y después puedes añadir a tu mano 1 carta cuyo efecto incluya un lanzamiento de moneda desde tu Deck. \r\nSi fuera a activarse un Efecto de Monstruo, Mágica o Trampa que incluya añadir una carta del Deck a la mano, puedes: negar ese efecto.",
     "overallString": "[Monstruo|Efecto] Bestia/LUZ  [★12] 0/0",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100263003.jpg?version=19.7"
   },
@@ -150,7 +204,7 @@
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100263010.jpg?version=19.7"
   },
   {
-    "name": "Aniquilando Retroluz",
+    "name": "Retroluz Aniquiladora",
     "desc": "Cuando tu adversario activa el efecto de un monstruo que controle que no fue Invocado este turno: niega la activación, y después puedes desterrar (boca abajo) todos los monstruos boca arriba que controle que no fueron Invocados este turno. \r\nSi esta carta Colocada bajo el control de su dueño es destruida por el efecto de una carta del adversario: puedes Colocar 1 Trampa desde tu Deck.",
     "overallString": "[Trampa|Contraefecto]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305079.jpg?version=19.7"
@@ -193,13 +247,13 @@
   },
   {
     "name": "Aleister, el Reminiscente",
-    "desc": "Si esta carta está en tu mano: puedes seleccionar 1 monstruo Lanzador de Conjuros o de Fusión en el Campo; Invoca esta carta de Modo Especial y, si lo haces, ese monstruo gana 1000 ATK hasta el final de este turno. \r\nSi esta carta es Invocada de Modo Normal o Especial, o volteada boca arriba: puedes desterrar 1 monstruo \"Invokado\" desde tu Deck Extra; añade a tu mano 1 \"Invokación\", o 1 Mágica que la mencione, desde tu Deck. \r\nSólo puedes usar cada uno de los efectos \"Aleister, el Reminiscente\" una vez por turno.",
+    "desc": "Si esta carta está en tu mano: puedes seleccionar 1 monstruo Lanzador de Conjuros o de Fusión en el Campo; Invoca esta carta de Modo Especial y, si lo haces, ese monstruo gana 1000 ATK hasta el final de este turno. \r\nSi esta carta es Invocada de Modo Normal o Especial, o volteada boca arriba: puedes desterrar 1 monstruo \"Invokado/a\" desde tu Deck Extra; añade a tu mano 1 \"Invokación\", o 1 Mágica que la mencione, desde tu Deck. \r\nSólo puedes usar cada uno de los efectos \"Aleister, el Reminiscente\" una vez por turno.",
     "overallString": "[Monstruo|Efecto] Lanzador de Conjuros/OSCURIDAD  [★4] 1800/1000",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305015.jpg?version=19.7"
   },
   {
     "name": "Aiwass, el Espíritu de la Ley",
-    "desc": "Puedes desterrar esta carta en tu mano o Campo; añade a tu mano 1 monstruo \"Aleister\" desde tu Deck, y después si este efecto fue activado en el Campo, inmediatamente después de que se resuelva, puedes Invocar de Modo Normal 1 monstruo Lanzador de Conjuros. \r\nSi uno o más Monstruos de Fusión boca arriba que controles son mandados al Cementerio, excepto en batalla, mientras esta carta está en tu Cementerio: puedes Invocar esta carta de Modo Especial, y después puedes Invocar por Fusión 1 monstruo \"Invokado\", usando monstruos de tu mano o Campo como material. \r\nSólo puedes usar cada uno de los efectos de \"Aiwass, el Espíritu de la Ley\" una vez por turno.",
+    "desc": "Puedes desterrar esta carta en tu mano o Campo; añade a tu mano 1 monstruo \"Aleister\" desde tu Deck, y después si este efecto fue activado en el Campo, inmediatamente después de que se resuelva, puedes Invocar de Modo Normal 1 monstruo Lanzador de Conjuros. \r\nSi uno o más Monstruos de Fusión boca arriba que controles son mandados al Cementerio, excepto en batalla, mientras esta carta está en tu Cementerio: puedes Invocar esta carta de Modo Especial, y después puedes Invocar por Fusión 1 monstruo \"Invokado/a\", usando monstruos de tu mano o Campo como material. \r\nSólo puedes usar cada uno de los efectos de \"Aiwass, el Espíritu de la Ley\" una vez por turno.",
     "overallString": "[Monstruo|Efecto] Demonio/VIENTO  [★8] 2000/2800",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305016.jpg?version=19.7"
   },
@@ -211,7 +265,7 @@
   },
   {
     "name": "Sorath Invokado",
-    "desc": "1 monstruo \"Aleister\" + 1 monstruo de FUEGO o VIENTO\t\r\n(Efecto Rápido): Durante la Main Phase: puedes seleccionar 1 monstruo de Nivel 6 o menor en cualquier Cementerio; Invócalo de Modo Especial a tu Campo en Posición de Defensa, pero sus efectos son negados. \r\nSi esta carta está en tu Cementerio: puedes Invocar por Fusión 1 monstruo \"Invokado\" desde tu Deck Extra, desterrando sus materiales desde tu Campo y/o Cementerio, incluyendo esta carta en el Cementerio. \r\nSólo puedes usar cada uno de los efectos de \"Sorath Invokado\" una vez por turno.",
+    "desc": "1 monstruo \"Aleister\" + 1 monstruo de FUEGO o VIENTO\t\r\n(Efecto Rápido): Durante la Main Phase: puedes seleccionar 1 monstruo de Nivel 6 o menor en cualquier Cementerio; Invócalo de Modo Especial a tu Campo en Posición de Defensa, pero sus efectos son negados. \r\nSi esta carta está en tu Cementerio: puedes Invocar por Fusión 1 monstruo \"Invokado/a\" desde tu Deck Extra, desterrando sus materiales desde tu Campo y/o Cementerio, incluyendo esta carta en el Cementerio. \r\nSólo puedes usar cada uno de los efectos de \"Sorath Invokado\" una vez por turno.",
     "overallString": "[Monstruo|Efecto|Fusión] Piro/LUZ  [★6] 1600/2600",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305030.jpg?version=19.7"
   },
@@ -228,14 +282,14 @@
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305032.jpg?version=19.7"
   },
   {
-    "name": "Eón Trascendental Invokado",
-    "desc": "2+ Monstruos de Fusión con diferentes Atributos\t\r\nSi esta carta es Invocada por Fusión: puedes desterrar cartas del Campo y/o Cementerios hasta el número de materiales usados, y después si usaste 3 o más, puedes mirar el Deck Extra de tu adversario y desterrar hasta 3 cartas de él. \r\n(Efecto Rápido): Puedes declarar 1 Atributo; todos los demás monstruos boca arriba en el Campo en este momento se convierten en ese Atributo hasta el final de este turno. \r\nSólo puedes usar 1 de los efectos de \"Eón Trascendental Invokado\" por turno, y sólo una vez ese turno.",
+    "name": "Eón de la Trascendencia Invokado",
+    "desc": "2+ Monstruos de Fusión con diferentes Atributos\t\r\nSi esta carta es Invocada por Fusión: puedes desterrar cartas del Campo y/o Cementerios hasta el número de materiales usados, y después si usaste 3 o más, puedes mirar el Deck Extra de tu adversario y desterrar hasta 3 cartas de él. \r\n(Efecto Rápido): Puedes declarar 1 Atributo; todos los demás monstruos boca arriba en el Campo en este momento se convierten en ese Atributo hasta el final de este turno. \r\nSólo puedes usar 1 de los efectos de \"Eón de la Trascendencia Invokado\" por turno, y sólo una vez ese turno.",
     "overallString": "[Monstruo|Efecto|Fusión] Demonio/OSCURIDAD  [★10] 3800/3200",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305033.jpg?version=19.7"
   },
   {
     "name": "Invokación “Espada”",
-    "desc": "Invoca por Fusión 1 monstruo desde tu Deck Extra, usando monstruos que controles. Si invocas un monstruo \"Invokado\", también puedes usar monstruos desterrados, devolviéndolos al Cementerio. \r\nDurante tu Main Phase, si esta carta está en tu Cementerio: puedes seleccionar 1 monstruo \"Aleister\" o \"Invokación\" en tu Cementerio; baraja esta carta al Deck y, si lo haces, añade esa carta a tu mano. \r\nSólo puedes usar cada uno de los efectos de \"Invokación \"Espada\"\" una vez por turno.",
+    "desc": "Invoca por Fusión 1 monstruo desde tu Deck Extra, usando monstruos que controles. Si invocas un monstruo \"Invokado/a\", también puedes usar monstruos desterrados, devolviéndolos al Cementerio. \r\nDurante tu Main Phase, si esta carta está en tu Cementerio: puedes seleccionar 1 monstruo \"Aleister\" o \"Invokación\" en tu Cementerio; baraja esta carta al Deck y, si lo haces, añade esa carta a tu mano. \r\nSólo puedes usar cada uno de los efectos de \"Invokación \"Espada\"\" una vez por turno.",
     "overallString": "[Mágica|Juego Rápido]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305053.jpg?version=19.7"
   },
@@ -247,7 +301,7 @@
   },
   {
     "name": "Nombre Mágico – “Rosa Mundi”",
-    "desc": "Destierra 1 monstruo \"Aleister\" o 1 Monstruo de Fusión en tu Cementerio; Invoca de Modo Especial 1 monstruo \"Invokado\" desde tu Deck Extra, ignorando sus condiciones de Invocación, pero destiérralo durante la End Phase. \r\nSi uno o más monstruos son desterrados boca arriba mientras esta carta está en tu Cementerio: puedes desterrar esta carta, y después seleccionar 1 de tus monstruos \"Invokado\" desterrados; Invócalo de Modo Especial. \r\nSólo puedes usar cada uno de los efectos de \"Nombre Mágico – \"Rosa Mundi\"\" una vez por turno.",
+    "desc": "Destierra 1 monstruo \"Aleister\" o 1 Monstruo de Fusión en tu Cementerio; Invoca de Modo Especial 1 monstruo \"Invokado/a\" desde tu Deck Extra, ignorando sus condiciones de Invocación, pero destiérralo durante la End Phase. \r\nSi uno o más monstruos son desterrados boca arriba mientras esta carta está en tu Cementerio: puedes desterrar esta carta, y después seleccionar 1 de tus monstruos \"Invokado/a\" desterrados; Invócalo de Modo Especial. \r\nSólo puedes usar cada uno de los efectos de \"Nombre Mágico – \"Rosa Mundi\"\" una vez por turno.",
     "overallString": "[Trampa]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305070.jpg?version=19.7"
   },
@@ -258,14 +312,14 @@
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305063.jpg?version=19.7"
   },
   {
-    "name": "Orgullo de Junio – Elfnota",
-    "desc": "1 Cantante + 1 monstruo Lanzador de Conjuros que no sea Cantante\t\r\nMientras esta carta está en la Zona de Monstruos Principal central, ningún jugador puede declarar ataques con monstruos que no estén en las Zonas de Monstruos Principal centrales. \r\n(Efecto Rápido): Durante la Main Phase, si esta carta está en la Zona de Monstruos Principal central: puedes devolverla al Deck Extra y, si lo haces, Invoca de Modo Especial hasta 1 monstruo \"Elfnota\" desde tu mano, Deck y/o Cementerio. \r\nSólo puedes usar este efecto de \"Orgullo de Junio – Elfnota\" una vez por turno.",
+    "name": "Gloria del Solsticio – Elfnotas",
+    "desc": "1 Cantante + 1 monstruo Lanzador de Conjuros que no sea Cantante\t\r\nMientras esta carta está en la Zona de Monstruos Principal central, ningún jugador puede declarar ataques con monstruos que no estén en las Zonas de Monstruos Principal centrales. \r\n(Efecto Rápido): Durante la Main Phase, si esta carta está en la Zona de Monstruos Principal central: puedes devolverla al Deck Extra y, si lo haces, Invoca de Modo Especial hasta 1 monstruo \"Elfnota\" desde tu mano, Deck y/o Cementerio. \r\nSólo puedes usar este efecto de \"Gloria del Solsticio – Elfnotas\" una vez por turno.",
     "overallString": "[Monstruo|Efecto|Sincronía] Lanzador de Conjuros/LUZ  [★10] 3100/1800",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305035.jpg?version=19.7"
   },
   {
-    "name": "Enviado de Súplicas Puras del Modelo de Poder",
-    "desc": "2 monstruos que no sean de Enlace\t\r\nSi esta carta es Invocada por Enlace y tienes un monstruo \"Modelo de Poder\" en tu Cementerio: puedes añadir a tu mano 1 carta \"Teoresaber\" desde tu Deck. \r\n(Efecto Rápido): Durante la Main Phase, si controlas otro monstruo Hada de OSCURIDAD, puedes: inmediatamente después de que este efecto se resuelva, Invocar por Enlace usando materiales que controles, incluyendo esta carta. \r\nSólo puedes usar cada uno de los efectos de \"Enviado de Súplicas Puras del Modelo de Poder\" una vez por turno.",
+    "name": "Emisario de las Plegarias Inmaculadas del Modelo de Poder",
+    "desc": "2 monstruos que no sean de Enlace\t\r\nSi esta carta es Invocada por Enlace y tienes un monstruo \"Modelo de Poder\" en tu Cementerio: puedes añadir a tu mano 1 carta \"Teoresaber\" desde tu Deck. \r\n(Efecto Rápido): Durante la Main Phase, si controlas otro monstruo Hada de OSCURIDAD, puedes: inmediatamente después de que este efecto se resuelva, Invocar por Enlace usando materiales que controles, incluyendo esta carta. \r\nSólo puedes usar cada uno de los efectos de \"Emisario de las Plegarias Inmaculadas del Modelo de Poder\" una vez por turno.",
     "overallString": "[Monstruo|Efecto|Enlace] Hada/OSCURIDAD  [LINK-2] 300/-  [↑][↓]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305039.jpg?version=19.7"
   },
@@ -282,26 +336,26 @@
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305056.jpg?version=19.7"
   },
   {
-    "name": "Modelo de Poder: Sombras del Fin de los Tiempos",
-    "desc": "Invoca de Modo Especial 1 monstruo \"Modelo de Poder\" desde tu mano, Deck Extra boca arriba o Cementerio, y después puedes aplicar estos efectos, en secuencia, según el número de tipos de carta de monstruo (Fusión, Sincronía, Xyz) que controles.\r\n● 1+: Destierra las 3 cartas de la parte superior del Deck de tu adversario boca abajo.\r\n● 2+: Destierra 1 carta que controle tu adversario boca abajo.\r\n● 3: Destierra al azar 1 carta de la mano de tu adversario boca abajo.\t\t\r\nSólo puedes activar 1 \"Modelo de Poder: Sombras del Fin de los Tiempos\" por turno.",
+    "name": "Sombras del Apocalipsis del Modelo de Poder",
+    "desc": "Invoca de Modo Especial 1 monstruo \"Modelo de Poder\" desde tu mano, Deck Extra boca arriba o Cementerio, y después puedes aplicar estos efectos, en secuencia, según el número de tipos de carta de monstruo (Fusión, Sincronía, Xyz) que controles.\r\n● 1+: Destierra las 3 cartas de la parte superior del Deck de tu adversario boca abajo.\r\n● 2+: Destierra 1 carta que controle tu adversario boca abajo.\r\n● 3: Destierra al azar 1 carta de la mano de tu adversario boca abajo.\t\t\r\nSólo puedes activar 1 \"Sombras del Apocalipsis del Modelo de Poder\" por turno.",
     "overallString": "[Trampa]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305071.jpg?version=19.7"
   },
   {
-    "name": "Elfnota: Cuarteto de la Sucesión",
-    "desc": "El monstruo en tu Zona de Monstruos Principal central no puede ser desterrado por efectos de cartas de tu adversario. \r\nPuedes mandar al Cementerio 1 otra Mágica/Trampa en tu mano o Campo y declarar un Nivel del 1 al 4; Invoca de Modo Especial 1 \"Ficha Serafín Elfnota\" (Planta/Cantante/FUEGO/ATK 0/DEF 0) con ese Nivel, pero no puedes Invocar de Modo Especial desde el Deck Extra mientras esa Ficha esté en el Campo, excepto monstruos \"Elfnota\". \r\nSólo puedes usar este efecto de \"Elfnota: Cuarteto de la Sucesión\" una vez por turno.",
+    "name": "Elfnotas: Cuarteto de la Sucesión",
+    "desc": "El monstruo en tu Zona de Monstruos Principal central no puede ser desterrado por efectos de cartas de tu adversario. \r\nPuedes mandar al Cementerio 1 otra Mágica/Trampa en tu mano o Campo y declarar un Nivel del 1 al 4; Invoca de Modo Especial 1 \"Ficha Serafín Elfnota\" (Planta/Cantante/FUEGO/ATK 0/DEF 0) con ese Nivel, pero no puedes Invocar de Modo Especial desde el Deck Extra mientras esa Ficha esté en el Campo, excepto monstruos \"Elfnota\". \r\nSólo puedes usar este efecto de \"Elfnotas: Cuarteto de la Sucesión\" una vez por turno.",
     "overallString": "[Trampa|Continua]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305072.jpg?version=19.7"
   },
   {
     "name": "Ilios, el Dragón del Sol Negro",
-    "desc": "Puedes revelar 3 monstruos Dragón en tu Deck Extra con 3000 o más ATK y nombres diferentes; Invoca esta carta de Modo Especial desde tu mano. \r\nSi esta carta es mandada al Cementerio: puedes seleccionar 1 Monstruo de Fusión, Sincronía, Xyz o Enlace Dragón que controles; tu adversario no puede seleccionarlo con efectos de cartas este turno. Ningún jugador puede activar cartas o efectos en respuesta a la activación de este efecto. \r\nSólo puedes usar cada uno de los efectos de \"Ilios, el Dragón del Sol Negro\" una vez por turno.",
+    "desc": "Puedes revelar 3 monstruos Dragón en tu Deck Extra con 3000 o más ATK y nombres diferentes; Invoca esta carta de Modo Especial desde tu mano. \r\nSi esta carta es mandada al Cementerio: puedes seleccionar 1 Monstruo de Fusión, Sincronía, Xyz o Enlace Dragón que controles; tu adversario no puede seleccionarlo con efectos de cartas este turno. \r\nNingún jugador puede activar cartas o efectos en respuesta a la activación de este efecto. \r\nSólo puedes usar cada uno de los efectos de \"Ilios, el Dragón del Sol Negro\" una vez por turno.",
     "overallString": "[Monstruo|Efecto] Dragón/OSCURIDAD  [★4] 1500/0",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100200289.jpg?version=19.7"
   },
   {
-    "name": "Jardinería de Piedra Protectora",
-    "desc": "Si tienes las 5 Zonas de Mágicas y Trampas ocupadas, los jugadores reciben la mitad del daño de batalla, y además una vez por turno, puedes activar 1 Trampa Continua en el turno en que fue Colocada. \r\nDurante la Standby Phase: puedes revelar 5 Trampas Continuas con nombres diferentes desde tu Deck, tu adversario elige 1 de ellas al azar para que la Coloques en tu Campo, baraja el resto al Deck. \r\nSólo puedes usar este efecto de \"Jardinería de Piedra Protectora\" una vez por turno.",
+    "name": "Jardines de Piedra Sagrada",
+    "desc": "Si tienes las 5 Zonas de Mágicas y Trampas ocupadas, los jugadores reciben la mitad del daño de batalla, y además una vez por turno, puedes activar 1 Trampa Continua en el turno en que fue Colocada. \r\nDurante la Standby Phase: puedes revelar 5 Trampas Continuas con nombres diferentes desde tu Deck, tu adversario elige 1 de ellas al azar para que la Coloques en tu Campo, baraja el resto al Deck. \r\nSólo puedes usar este efecto de \"Jardines de Piedra Sagrada\" una vez por turno.",
     "overallString": "[Trampa|Continua]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305080.jpg?version=19.7"
   },
@@ -342,7 +396,7 @@
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305036.jpg?version=19.7"
   },
   {
-    "name": "Brisa, el Electróvoro de Rkunas",
+    "name": "Breeze, el Electróvoro de Rkunas",
     "desc": "Un perro misterioso que emite luz por un breve momento al liberar su propia energía vital. Después de presenciarlo, su adorable imagen queda grabada en tu mente y nunca te abandona.",
     "overallString": "[Monstruo|Normal] Trueno/LUZ  [★1] 100/2100",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100262001.jpg?version=19.7"
@@ -367,7 +421,7 @@
   },
   {
     "name": "Conejo Oscuro Divertido",
-    "desc": "Después de que esta carta sea Invocada de Modo Normal o Especial, durante tu Main Phase este turno, puedes Invocar de Modo Normal 1 monstruo que mencione \"Mundo Toon\" además de tu Invocación Normal/Colocada (sólo puedes ganar este efecto una vez por turno). \r\nEsta carta se trata como un monstruo Toon mientras \"Mundo Toon\" está en el Campo. \r\nUna vez por turno: puedes añadir a tu mano o Colocar boca arriba en tu Campo, 1 Mágica de Campo \"Toon\" o Mágica Continua \"Toon\" desde tu Deck.",
+    "desc": "(Esta carta se trata como un monstruo Toon mientras \"Mundo Toon\" está en el Campo).\t\r\nDespués de que esta carta sea Invocada de Modo Normal o Especial, durante tu Main Phase este turno, puedes Invocar de Modo Normal 1 monstruo que mencione \"Mundo Toon\" además de tu Invocación Normal/Colocada (sólo puedes ganar este efecto una vez por turno). \r\nUna vez por turno: puedes añadir a tu mano o Colocar boca arriba en tu Campo, 1 Mágica de Campo \"Toon\" o Mágica Continua \"Toon\" desde tu Deck.",
     "overallString": "[Monstruo|Efecto] Bestia/OSCURIDAD  [★4] 1100/1500",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261001.jpg?version=19.7"
   },
@@ -391,7 +445,7 @@
   },
   {
     "name": "Mundo Toon, el Mundo Perfecto",
-    "desc": "(El nombre de esta carta se convierte en \"Mundo Toon\" mientras está en la Zona del Campo).\t\r\nUna vez por turno: puedes añadir a tu mano 1 carta \"Toon\", o 1 carta que mencione el nombre de una carta \"Toon\", desde tu Deck. \r\nSólo puedes usar este efecto de \"Mundo Toon el Mundo Perfecto\" hasta tres veces por turno. \r\nAntes de resolver otra carta o efecto activado, puedes desterrar 1 monstruo Toon que controles hasta inmediatamente después de que esa carta/efecto se resuelva, y además no puedes desterrar monstruos con ese mismo nombre original con este efecto de esta carta por el resto de este turno.",
+    "desc": "(El nombre de esta carta se convierte en \"Mundo Toon\" mientras está en la Zona del Campo).\t\r\nUna vez por turno: puedes añadir a tu mano 1 carta \"Toon\", o 1 carta que mencione el nombre de una carta \"Toon\", desde tu Deck. \r\nSólo puedes usar este efecto de \"Mundo Toon, el Mundo Perfecto\" hasta tres veces por turno. \r\nAntes de resolver otra carta o efecto activado, puedes desterrar 1 monstruo Toon que controles hasta inmediatamente después de que esa carta o efecto se resuelva, y además no puedes desterrar monstruos con ese mismo nombre original con este efecto de esta carta por el resto de este turno.",
     "overallString": "[Mágica|Campo]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261006.jpg?version=19.7"
   },
@@ -445,7 +499,7 @@
   },
   {
     "name": "Grain Blitzclique",
-    "desc": "Puedes revelar esta carta en tu mano, y después seleccionar 1 Mágica/Trampa en el Campo; destrúyela y, si lo haces, Invoca de Modo Especial 1 monstruo Trueno desde tu mano, y además no puedes Invocar de Modo Especial Monstruos de Efecto por el resto de este turno, excepto desde la mano. \r\nSi otra carta es destruida por efecto de carta: puedes añadir a tu mano 1 Mágica \"Blitzclique\" o 1 \"Kowloon, Ciudadela del Cielo\" desde tu Deck. \r\nSólo puedes usar cada efecto de \"Grain Blitzclique\" una vez por turno.",
+    "desc": "Puedes revelar esta carta en tu mano, y después seleccionar 1 Mágica/Trampa en el Campo; destrúyela y, si lo haces, Invoca de Modo Especial 1 monstruo Trueno desde tu mano, y además no puedes Invocar de Modo Especial Monstruos de Efecto por el resto de este turno, excepto desde la mano. \r\nSi otra carta es destruida por efecto de carta: puedes añadir a tu mano 1 Mágica \"Blitzclique\" o 1 \"Kowloon, la Ciudadela del Cielo\" desde tu Deck. \r\nSólo puedes usar cada efecto de \"Grain Blitzclique\" una vez por turno.",
     "overallString": "[Monstruo|Efecto] Trueno/TIERRA  [★2] 1200/600",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305013.jpg?version=19.7"
   },
@@ -456,8 +510,8 @@
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305014.jpg?version=19.7"
   },
   {
-    "name": "Kowloon, Ciudadela del Cielo",
-    "desc": "Los monstruos Invocados de Modo Normal/Colocados o Invocados de Modo Especial desde la mano ganan 500 ATK/DEF. \r\nSólo puedes usar cada uno de los siguientes efectos de \"Kowloon, Ciudadela del Cielo\" una vez por turno. \r\nDurante tu Main Phase: puedes Invocar de Modo Especial 1 \"Ficha Mechbestia\" (Máquina/TIERRA/Nivel 6/ATK 2000/DEF 2000) al Campo de tu adversario y, si lo haces, añade a tu mano 1 monstruo \"Blitzclique\" desde tu Deck. \r\nSi una carta es destruida por el efecto de tu carta \"Blitzclique\" mientras esta carta está en tu Cementerio: puedes añadir esta carta a tu mano.",
+    "name": "Kowloon, la Ciudadela del Cielo",
+    "desc": "Los monstruos Invocados de Modo Normal/Colocados o Invocados de Modo Especial desde la mano ganan 500 ATK/DEF. \r\nSólo puedes usar cada uno de los siguientes efectos de \"Kowloon, la Ciudadela del Cielo\" una vez por turno. \r\nDurante tu Main Phase: puedes Invocar de Modo Especial 1 \"Ficha Mechbestia\" (Máquina/TIERRA/Nivel 6/ATK 2000/DEF 2000) al Campo de tu adversario y, si lo haces, añade a tu mano 1 monstruo \"Blitzclique\" desde tu Deck. \r\nSi una carta es destruida por el efecto de tu carta \"Blitzclique\" mientras esta carta está en tu Cementerio: puedes añadir esta carta a tu mano.",
     "overallString": "[Mágica|Campo]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305050.jpg?version=19.7"
   },
@@ -481,7 +535,7 @@
   },
   {
     "name": "Alternador Blitzclique",
-    "desc": "Los monstruos que controle tu adversario pierden 300 ATK/DEF por cada monstruo Trueno que controles. \r\nSólo puedes usar cada uno de los siguientes efectos de \"Alternador Blitzclique\" una vez por turno. \r\nPuedes barajar al Deck 1 otra carta \"Blitzclique\" en tu mano o Campo boca arriba; añade a tu mano 1 monstruo Trueno con nombre diferente desde tu Deck. \r\nPuedes desterrar esta carta en tu Cementerio; añade a tu mano 1 Mágica \"Blitzclique\" o 1 \"Kowloon, Ciudadela del Cielo\" desde tu Deck.",
+    "desc": "Los monstruos que controle tu adversario pierden 300 ATK/DEF por cada monstruo Trueno que controles. \r\nSólo puedes usar cada uno de los siguientes efectos de \"Alternador Blitzclique\" una vez por turno. \r\nPuedes barajar al Deck 1 otra carta \"Blitzclique\" en tu mano o Campo boca arriba; añade a tu mano 1 monstruo Trueno con nombre diferente desde tu Deck. \r\nPuedes desterrar esta carta en tu Cementerio; añade a tu mano 1 Mágica \"Blitzclique\" o 1 \"Kowloon, la Ciudadela del Cielo\" desde tu Deck.",
     "overallString": "[Trampa|Continua]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305069.jpg?version=19.7"
   },
@@ -571,7 +625,7 @@
   },
   {
     "name": "Caos Negro, el Espadachín Mágico Supremo",
-    "desc": "No puede ser Invocado de Modo Normal/Colocado. \r\nDebe ser Invocado de Modo Especial (desde tu mano) barajando al Deck 1 Monstruo de Ritual Guerrero o Lanzador de Conjuros en tu mano o Cementerio. \r\nSólo puedes Invocar de Modo Especial a \"Caos Negro, el Espadachín Mágico Supremo\" una vez por turno de esta forma. \r\nPuedes descartar esta carta; Coloca boca arriba en tu Campo 1 Trampa Continua que mencione \"Ritual de Luz y Oscuridad\" desde tu Deck o Cementerio. \r\nNo es afectado por efectos de cartas activadas de tu adversario mientras tengas una Mágica de Ritual en tu Cementerio. \r\nUna vez por turno: puedes desterrar 2 cartas que controle tu adversario.",
+    "desc": "No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial (desde tu mano) barajando al Deck 1 Monstruo de Ritual Guerrero o Lanzador de Conjuros en tu mano o Cementerio. \r\nSólo puedes Invocar de Modo Especial a \"Caos Negro, el Espadachín Mágico Supremo\" una vez por turno de esta forma. \r\nPuedes descartar esta carta; Coloca boca arriba en tu Campo 1 Trampa Continua que mencione \"Ritual de Luz y Oscuridad\" desde tu Deck o Cementerio. \r\nNo es afectado por efectos de cartas activadas de tu adversario mientras tengas una Mágica de Ritual en tu Cementerio. \r\nUna vez por turno: puedes desterrar 2 cartas que controle tu adversario.",
     "overallString": "[Monstruo|Efecto|Invocación Especial] Lanzador de Conjuros/OSCURIDAD  [★8] 3000/2500",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305001.jpg?version=19.7"
   },
