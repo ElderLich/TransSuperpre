@@ -1,5 +1,59 @@
 [
   {
+    "name": "Balena VIP",
+    "desc": "Puoi offrire mostri addizionali quando Evochi tramite Tributo questa carta scoperta.\r\nSe questa carta viene Evocata tramite Tributo: puoi mettere Segnalini VIP su questa carta pari al numero di mostri offerti per la sua Evocazione tramite Tributo.\r\nQuando il tuo avversario attiva una carta o effetto (Effetto Rapido): puoi rimuovere 1 Segnalino VIP da questa carta; lancia una moneta e dichiara il risultato. Se indovini, annulla quell'effetto. Se sbagli, l'ATK originale di questa carta diventa dimezzato fino alla fine di questo turno.",
+    "overallString": "[Mostro|Effetto] Pesce/Luce  [★6] 2400/1000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304084.jpg?version=19.7"
+  },
+  {
+    "name": "Daneen Evoluto",
+    "desc": "\"Dino Daneen Ritornato\" + 1 mostro Dinosauro\r\nSe questa carta viene Evocata Specialmente: puoi aggiungere 1 carta \"GMX\" dal tuo Deck alla tua mano. Puoi utilizzare questo effetto di \"Daneen Evoluto\" una sola volta per turno.\r\nSe dissotterri una o più carte tramite l'effetto di una carta \"GMX\": puoi attivare il seguente effetto, in base a dove si trova questa carta al momento dell'attivazione (ma puoi utilizzare ciascun effetto di \"Daneen Evoluto\" una sola volta per turno);\r\n● Terreno: Guadagni 1500 LP.\r\n● Cimitero: Evoca Specialmente questa carta.",
+    "overallString": "[Mostro|Effetto|Fusione] Dinosauro/Acqua  [★6] 2400/1200",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304092.jpg?version=19.7"
+  },
+  {
+    "name": "GMX - COMPREX",
+    "desc": "1 mostro \"GMX\" + 2 o più mostri Dinosauro\r\nGuadagna questi effetti in base al numero di mostri Dinosauro utilizzati come Materiale da Fusione per questa carta.\r\n● 3+: Il tuo avversario non può scegliere questa carta come bersaglio degli effetti delle carte.\r\n● 4+: Può effettuare fino a 3 attacchi durante ogni Battle Phase.\r\n● 5+: Ogni volta che il tuo avversario Evoca Normalmente o Specialmente uno o più mostri, perde 800 LP.\r\nUna volta per turno, se dissotterri una o più carte tramite l'effetto di una carta \"GMX\": puoi distruggere tutti gli altri mostri sul Terreno.",
+    "overallString": "[Mostro|Effetto|Fusione] Dinosauro/Oscurità  [★10] 3700/2300",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304093.jpg?version=19.7"
+  },
+  {
+    "name": "55° Rapporto dell'Esperimento GMX",
+    "desc": "Evoca tramite Fusione 1 Mostro Fusione Dinosauro dal tuo Extra Deck utilizzando mostri dalla tua mano o Terreno. Se il tuo avversario controlla un mostro, puoi anche utilizzare 1 mostro \"GMX\" nel tuo Deck come materiale.\r\nDurante la tua Main Phase: puoi bandire questa carta dal tuo Cimitero; dissotterra le carte dalla cima del tuo Deck finché non dissotterri una carta \"GMX\", aggiungi quella carta \"GMX\" alla tua mano, inoltre mischia le restanti nel Deck.\r\nPuoi utilizzare solo 1 effetto di \"55° Rapporto dell'Esperimento GMX\" per turno, e solo una volta in quel turno.",
+    "overallString": "[Magia|Rapida]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304094.jpg?version=19.7"
+  },
+  {
+    "name": "Esperimento Finale Anti-GMX",
+    "desc": "Attiva solo se controlli un mostro \"GMX\". Una volta per turno, quando il tuo avversario attiva un effetto di mostro sul Terreno (eccetto durante il Damage Step): puoi dissotterrare le prime 5 carte del tuo Deck, poi, se hai dissotterrato una o più carte \"GMX\", annulla quell'effetto attivato, inoltre metti tutte le carte dissotterrate in cima o in fondo al Deck in qualsiasi ordine.",
+    "overallString": "[Trappola|Continua]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304096.jpg?version=19.7"
+  },
+  {
+    "name": "Shade l'Oscuro",
+    "desc": "Valore Pendulum = 11\r\n[ Effetto Pendulum ]\r\nNon puoi Evocare Pendulum, eccetto Mostri Pendulum (questo effetto non può essere annullato).\r\nSe uno o più mostri con 1000 ATK o meno vengono Evocati Specialmente (eccetto durante il Damage Step): puoi far ritornare questa carta nella mano. Puoi utilizzare questo effetto di \"Shade l'Oscuro\" una sola volta per turno.\r\n \r\n----------------------------------------\r\n[ Effetto di un Mostro ]\r\nSe hai una carta nella tua Zona Pendulum e questa carta è nella tua mano: puoi Evocare Specialmente questa carta.\r\nPuoi pagare 1000 LP; distruggi 1 Carta Mostro Pendulum nella tua mano o scoperta sul Terreno, poi puoi aggiungere 1 Mostro Pendulum dal tuo Deck al tuo Extra Deck scoperto.\r\nPuoi utilizzare ciascun effetto di \"Shade l'Oscuro\" una sola volta per turno.",
+    "overallString": "[Mostro|Effetto|Pendulum] Fata/Oscurità  [★4] 1000/1000  11/11",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304083.jpg?version=19.7"
+  },
+  {
+    "name": "Partner GMX Selandea",
+    "desc": "Puoi rivelare questa carta nella tua mano; Evoca Specialmente 1 mostro \"GMX\" o 1 mostro Dinosauro dalla tua mano, inoltre per il resto di questo turno puoi attaccare direttamente solo con mostri \"GMX\".\r\nSe questa carta viene Evocata Specialmente dall'effetto di un mostro: puoi Evocare Specialmente 1 mostro \"GMX\" o Dinosauro di Livello 4 o inferiore dalla tua mano, Cimitero o carte bandite in Posizione di Difesa.\r\nPuoi utilizzare ciascun effetto di \"Partner GMX Selandea\" una sola volta per turno.",
+    "overallString": "[Mostro|Effetto] Guerriero/Fuoco  [★5] 1500/1900",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304090.jpg?version=19.7"
+  },
+  {
+    "name": "Squadra di Soppressione GMX",
+    "desc": "Se questa carta è nella tua mano e controlli un mostro \"GMX\" o un mostro Dinosauro: puoi Evocare Specialmente questa carta.\r\nPuoi scegliere come bersaglio 1 mostro scoperto sul Terreno; dissotterra le carte dalla cima del tuo Deck finché non dissotterri un mostro Dinosauro, manda quel mostro Dinosauro al Cimitero, e se lo fai, il mostro scelto diventa un mostro Dinosauro (fino alla fine di questo turno), inoltre mischia le restanti nel Deck.\r\nPuoi utilizzare ciascun effetto di \"Squadra di Soppressione GMX\" una sola volta per turno.",
+    "overallString": "[Mostro|Effetto] Guerriero-Bestia/Vento  [★4] 1900/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304091.jpg?version=19.7"
+  },
+  {
+    "name": "Laboratorio GMX #5",
+    "desc": "Il tuo avversario non può attivare carte o effetti quando evochi Normalmente o Specialmente uno o più mostri \"GMX\".\r\nDurante la tua Main Phase: puoi Posizionare 1 Magia/Trappola \"GMX\" dal tuo Deck, eccetto \"Laboratorio GMX #5\", poi metti 1 carta dalla tua mano in cima al Deck. Puoi utilizzare questo effetto di \"Laboratorio GMX #5\" una sola volta per turno.",
+    "overallString": "[Magia|Terreno]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304095.jpg?version=19.7"
+  },
+  {
     "name": "Phara, la Dea dell'Inizio",
     "desc": "Puoi rivelare questa carta e 1 Magia/Trappola nella tua mano; nessun giocatore può attivare carte o effetti in risposta all'attivazione di carte o effetti di carte con lo stesso nome della Magia/Trappola rivelata fino alla fine del prossimo turno.\r\nSe questa carta viene mandata dalla mano o Terreno al Cimitero dall'effetto di una Magia/Trappola: puoi Evocare Specialmente questa carta.\r\nSe questa carta viene Evocata Specialmente dal Cimitero: puoi prendere il controllo di 1 mostro controllato dal tuo avversario con ATK più alto (a tua scelta, se in parità).\r\nPuoi utilizzare ogni effetto di \"Phara, la Dea dell'Inizio\" una sola volta per turno.",
     "overallString": "[Mostro|Effetto] Incantatore/Oscurità  [★8] 2800/2800",
