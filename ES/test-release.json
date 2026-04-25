@@ -1,5 +1,47 @@
 [
   {
+    "name": "Vicio Gamer VG",
+    "desc": "2 monstruos Máquina de Nivel 4\t\r\nSi esta carta es Invocada de Modo Especial: puedes cambiar todos los monstruos que controle tu adversario a Posición de Ataque. \r\nSi tu adversario tiene un monstruo en su Campo o Cementerio: puedes desacoplar 1 material de esta carta; manda al Cementerio 1 monstruo Máquina desde tu Deck o Deck Extra, y después puedes aplicar este efecto:\r\n● Elige 1 Monstruo Xyz Máquina en tu Cementerio, y el nombre de esta carta se convierte en el de ese monstruo hasta la End Phase.\t\r\nSólo puedes usar este efecto de \"Vicio Gamer VG\" una vez por turno.",
+    "overallString": "[Monstruo|Efecto|Xyz] Máquina/TIERRA  [☆4] 2600/2000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304081.jpg?version=19.7"
+  },
+  {
+    "name": "Fata Dragna",
+    "desc": "2 monstruos con el mismo Tipo y Atributo, pero diferentes Niveles\t\r\nTu adversario no puede seleccionar Monstruos de Fusión que controles con efectos de cartas. \r\nSi esta carta es mandada al Cementerio como material para una Invocación por Fusión: puedes Invocar de Modo Especial 1 Monstruo de Fusión desde tu Deck Extra en Posición de Defensa (pero niega sus efectos, y además devuélvelo al Deck Extra durante la End Phase), y además por el resto de este turno, no puedes Invocar de Modo Especial desde el Deck Extra, excepto Monstruos de Fusión. \r\nSólo puedes usar este efecto de \"Fata Dragna\" una vez por turno.",
+    "overallString": "[Monstruo|Efecto|Fusión] Dragón/VIENTO  [★5] 1000/2500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304082.jpg?version=19.7"
+  },
+  {
+    "name": "Genia del Anillo",
+    "desc": "Si esta carta está en tu mano: puedes seleccionar 1 monstruo boca arriba en el Campo; Invoca esta carta de Modo Especial, y además ese objetivo se convierte en un monstruo Lanzador de Conjuros. La próxima vez que ese objetivo fuera a ser destruido por efecto de carta este turno, no es destruido, y además no puedes Invocar de Modo Especial desde el Deck Extra por el resto de este turno, excepto monstruos Lanzador de Conjuros. \r\nSi esta carta es Sacrificada, o desterrada, para activar el efecto de un monstruo Lanzador de Conjuros: puedes añadir esta carta a tu mano. \r\nSólo puedes usar cada efecto de \"Genia del Anillo\" una vez por turno.",
+    "overallString": "[Monstruo|Efecto] Lanzador de Conjuros/TIERRA  [★4] 1850/1850",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304085.jpg?version=19.7"
+  },
+  {
+    "name": "Verificador",
+    "desc": "No puede ser Invocado de Modo Normal si controlas un monstruo. \r\nPuedes Sacrificar esta carta; Invoca de Modo Especial 1 monstruo Máquina desde tu Deck cuyo ATK sea igual a su propia DEF, pero devuélvelo a la mano durante la End Phase. \r\nPuedes desterrar esta carta en tu Cementerio y descartar 1 carta; Invoca de Modo Especial 1 \"Ficha Escombro de Hierro\" (Máquina/TIERRA/Nivel 1/ATK 0/DEF 0), pero no puede ser usada como material para una Invocación por Fusión, Sincronía o Enlace. \r\nSólo puedes usar cada efecto de \"Verificador\" una vez por turno.",
+    "overallString": "[Monstruo|Efecto] Máquina/TIERRA  [★4] 2000/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304086.jpg?version=19.7"
+  },
+  {
+    "name": "Mamut Oxidado",
+    "desc": "Si esta carta está en tu mano: puedes desterrar Monstruos de Enlace Máquina desde tu Deck Extra cuyos Raiting de Enlace combinados sean exactamente 5; Invoca esta carta de Modo Especial. \r\nPuedes seleccionar 1 carta que controles y 1 carta que controle tu adversario; devuélvelas a la mano. Este es un Efecto Rápido si esta carta está enlazada a un Monstruo de Enlace Máquina Link-3 o mayor. \r\nSólo puedes usar cada efecto de \"Mamut Oxidado\" una vez por turno.",
+    "overallString": "[Monstruo|Efecto] Máquina/TIERRA  [★5] 2100/2100",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304087.jpg?version=19.7"
+  },
+  {
+    "name": "Oficiante del Ensueño",
+    "desc": "Si esta carta está en tu mano: puedes descartar otra carta; Invoca esta carta de Modo Especial. \r\nSi uno o más Monstruos Xyz son mandados al Cementerio, mientras esta carta está en tu Cementerio (excepto durante el Damage Step): puedes desterrar esta carta; Invoca de Modo Especial 1 monstruo Zombi desde tu Cementerio. \r\nDurante la Standby Phase del próximo turno después de que esta carta fue desterrada: puedes seleccionar 1 Monstruo Xyz Zombi que controles; acopla esta carta desterrada a él como material. \r\nSólo puedes usar cada efecto de \"Oficiante del Ensueño\" una vez por turno.",
+    "overallString": "[Monstruo|Efecto] Zombi/OSCURIDAD  [★6] 2000/1100",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304088.jpg?version=19.7"
+  },
+  {
+    "name": "Samuel, Oficiador de la Perdición",
+    "desc": "2 monstruos de Nivel 6\t\r\n(Efecto Rápido): Durante la Main Phase: puedes desacoplar 1 material de esta carta, y después seleccionar 1 monstruo Zombi en tu Cementerio; Invócalo de Modo Especial, y después puedes negar los efectos de 1 monstruo que controle tu adversario con ATK menor o igual al de ese monstruo. \r\nSi esta carta es mandada al Cementerio: puedes seleccionar 1 monstruo en cualquier Cementerio; barájalo al Deck. \r\nSólo puedes usar cada efecto de \"Samuel, Oficiador de la Perdición\" una vez por turno.",
+    "overallString": "[Monstruo|Efecto|Xyz] Zombi/OSCURIDAD  [☆6] 1100/2600",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304089.jpg?version=19.7"
+  },
+  {
     "name": "Ballena VIP",
     "desc": "Puedes Sacrificar monstruos adicionales cuando Invocas esta carta por Sacrificio boca arriba. \r\nSi esta carta es Invocada por Sacrificio: puedes poner Contadores VIP en esta carta igual al número de monstruos Sacrificados para su Invocación por Sacrificio. \r\nCuando tu adversario activa una carta o efecto (Efecto Rápido): puedes retirar 1 Contador VIP de esta carta; lanza una moneda y adivina cara o cruz. Si aciertas, niega ese efecto. Si fallas, el ATK original de esta carta se reduce a la mitad hasta el final de este turno.",
     "overallString": "[Monstruo|Efecto] Pez/LUZ  [★6] 2400/1000",
