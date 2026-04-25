@@ -1,5 +1,101 @@
 [
   {
+    "name": "Joueur de Jeux GG",
+    "desc": "2 monstres Machine de Niveau 4\r\nSi cette carte est Invoquée Spécialement : vous pouvez changer tous les monstres contrôlés par votre adversaire en Position d'Attaque.\r\nSi votre adversaire a un monstre dans son Terrain ou Cimetière : vous pouvez détacher 1 Matériel de cette carte ; envoyez 1 monstre Machine depuis votre Deck/Extra Deck au Cimetière, puis vous pouvez appliquer cet effet.\r\n● Choisissez 1 Monstre Xyz Machine dans votre Cimetière, et le nom de cette carte devient le nom du monstre jusqu'à la End Phase.\r\nVous ne pouvez utiliser cet effet de \"Joueur de Jeux GG\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet|Xyz] Machine/Terre  [☆4] 2600/2000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304081.jpg?version=19.7"
+  },
+  {
+    "name": "Fata Dragna",
+    "desc": "2 monstres du même Type et Attribut, mais de Niveaux différents\r\nVotre adversaire ne peut pas cibler les Monstres Fusion que vous contrôlez avec des effets de cartes.\r\nSi cette carte est envoyée au Cimetière comme Matériel pour une Invocation Fusion : vous pouvez Invoquer Spécialement 1 Monstre Fusion depuis votre Extra Deck en Position de Défense (mais annulez ses effets, et aussi, renvoyez-le à l'Extra Deck durant la End Phase), et aussi, vous ne pouvez pas Invoquer Spécialement (Monstres Fusion exclus) depuis l'Extra Deck le reste de ce tour.\r\nVous ne pouvez utiliser cet effet de \"Fata Dragna\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet|Fusion] Dragon/Vent  [★5] 1000/2500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304082.jpg?version=19.7"
+  },
+  {
+    "name": "Génia de l'Anneau",
+    "desc": "Si cette carte est dans votre main : vous pouvez cibler 1 monstre face recto sur le Terrain ; Invoquez Spécialement cette carte, et aussi, la cible devient un monstre Magicien.\r\nLa prochaine fois que la cible va être détruite par un effet de carte ce tour, elle n'est pas détruite, et aussi, vous ne pouvez pas Invoquer Spécialement (monstres Magicien exclus) depuis l'Extra Deck le reste de ce tour.\r\nSi cette carte est Sacrifiée ou bannie pour activer un effet de monstre Magicien : vous pouvez ajouter cette carte à votre main.\r\nVous ne pouvez utiliser chaque effet de \"Génia de l'Anneau\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet] Magicien/Terre  [★4] 1850/1850",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304085.jpg?version=19.7"
+  },
+  {
+    "name": "Vérificateur",
+    "desc": "Non Invocable Normalement si vous contrôlez un monstre.\r\nVous pouvez Sacrifier cette carte ; Invoquez Spécialement 1 monstre Machine depuis votre Deck dont l'ATK est égale à sa propre DEF, mais renvoyez-le à la main durant la End Phase.\r\nVous pouvez bannir cette carte depuis votre Cimetière, et défaussez 1 carte ; Invoquez Spécialement 1 \"Jeton Gravas de Fer\" (Machine/TERRE/Niveau 1/ATK 0/DEF 0), mais il ne peut pas être utilisé comme Matériel pour une Invocation Fusion, Synchro ou Lien.\r\nVous ne pouvez utiliser chaque effet de \"Vérificateur\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet] Machine/Terre  [★4] 2000/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304086.jpg?version=19.7"
+  },
+  {
+    "name": "Mammouth Rouilletainrable",
+    "desc": "Si cette carte est dans votre main : vous pouvez bannir un nombre de Monstres Lien Machine depuis votre Extra Deck dont la somme des Classifications Lien est égale à exactement 5 ; Invoquez Spécialement cette carte.\r\nVous pouvez cibler 1 carte que vous contrôlez et 1 carte contrôlée par votre adversaire ; renvoyez-les à la main.\r\nCeci est un Effet Rapide si cette carte est liée à un Monstre Lien Machine de min. Link-3.\r\nVous ne pouvez utiliser chaque effet de \"Mammouth Rouilletainrable\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet] Machine/Terre  [★5] 2100/2100",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304087.jpg?version=19.7"
+  },
+  {
+    "name": "Reverie l'Officiante",
+    "desc": "Si cette carte est dans votre main : vous pouvez défausser 1 autre carte ; Invoquez Spécialement cette carte.\r\nSi un ou plusieurs Monstres Xyz sont envoyés au Cimetière, tandis que cette carte est dans votre Cimetière (sauf durant la Damage Step) : vous pouvez bannir cette carte ; Invoquez Spécialement 1 monstre Zombie depuis votre Cimetière.\r\nDurant la Standby Phase du prochain tour après que cette carte a été bannie : vous pouvez cibler 1 Monstre Xyz Zombie que vous contrôlez ; attachez-lui cette carte bannie.\r\nVous ne pouvez utiliser chaque effet de \"Reverie l'Officiante\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet] Zombie/Ténébres  [★6] 2000/1100",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304088.jpg?version=19.7"
+  },
+  {
+    "name": "Samuel l'Officiante de la Mort",
+    "desc": "2 monstres de Niveau 6\r\nDurant la Main Phase (Effet Rapide) : vous pouvez détacher 1 Matériel de cette carte, puis ciblez 1 monstre Zombie dans votre Cimetière ; Invoquez-le Spécialement, puis vous pouvez annuler les effets d'1 monstre contrôlé par votre adversaire avec une ATK inférieure ou égale au monstre.\r\nSi cette carte est envoyée au Cimetière : vous pouvez cibler 1 monstre dans l'un des Cimetières ; mélangez-le dans le Deck.\r\nVous ne pouvez utiliser chaque effet de \"Samuel l'Officiante de la Mort\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet|Xyz] Zombie/Ténébres  [☆6] 1100/2600",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304089.jpg?version=19.7"
+  },
+  {
+    "name": "Baleine VIP",
+    "desc": "Vous pouvez Sacrifier des monstres supplémentaires lorsque vous Invoquez par Sacrifice face recto cette carte.\r\nSi cette carte est Invoquée par Sacrifice : vous pouvez placer un nombre de Compteurs VIP sur cette carte, égal au nombre de monstres Sacrifiés pour son Invocation Sacrifice.\r\nLorsque votre adversaire active une carte ou un effet (Effet Rapide) : vous pouvez retirer 1 Compteur VIP de cette carte ; jouez à pile ou face. Si vous gagnez, annulez l'effet. Si vous perdez, l'ATK d'origine de cette carte sera divisée par deux jusqu'à la fin de ce tour.",
+    "overallString": "[Monstre|Effet] Poisson/Lumiére  [★6] 2400/1000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304084.jpg?version=19.7"
+  },
+  {
+    "name": "Daneen Évolué",
+    "desc": "\"Daneen le Dino Revenu\" + 1 monstre Dinosaure\r\nSi cette carte est Invoquée Spécialement : vous pouvez ajouter 1 carte \"GMX\" depuis votre Deck à votre main.\r\nVous ne pouvez utiliser cet effet de \"Daneen Évolué\" qu'une fois par tour.\r\nSi vous dévoilez une ou plusieurs cartes par un effet de carte \"GMX\" : vous pouvez activer l'effet suivant, selon l'endroit où se trouve cette carte à l'activation (mais vous ne pouvez utiliser chaque effet de \"Daneen Évolué\" qu'une fois par tour) ;\r\n● Terrain : Gagnez 1500 LP.\r\n● Cimetière : Invoquez Spécialement cette carte.",
+    "overallString": "[Monstre|Effet|Fusion] Dinosaure/Eau  [★6] 2400/1200",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304092.jpg?version=19.7"
+  },
+  {
+    "name": "GMX - COMPREX",
+    "desc": "1 monstre \"GMX\" + 2+ monstres Dinosaure\r\nGagne ces effets selon le nombre de monstres Dinosaure utilisés comme Matériel Fusion pour cette carte.\r\n● 3+ : Votre adversaire ne peut pas cibler cette carte avec des effets de carte.\r\n● 4+ : Peut faire max. 3 attaques durant chaque Battle Phase.\r\n● 5+ : Chaque fois que votre adversaire Invoque Normalement ou Spécialement un ou plusieurs monstres, il perd 800 LP.\r\nUne fois par tour, si vous dévoilez une ou plusieurs cartes par un effet de carte \"GMX\" : vous pouvez détruire tous les autres monstres sur le Terrain.",
+    "overallString": "[Monstre|Effet|Fusion] Dinosaure/Ténébres  [★10] 3700/2300",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304093.jpg?version=19.7"
+  },
+  {
+    "name": "Rapport de l'Expérience 55 GMX",
+    "desc": "Invoquez par Fusion 1 Monstre Fusion Dinosaure depuis votre Extra Deck en utilisant des monstres depuis votre main ou Terrain.\r\nSi votre adversaire contrôle un monstre, vous pouvez aussi utiliser 1 monstre \"GMX\" dans votre Deck comme Matériel.\r\nDurant votre Main Phase : vous pouvez bannir cette carte depuis votre Cimetière ; dévoilez les cartes du dessus de votre Deck jusqu'à dévoiler une carte \"GMX\", ajoutez la carte \"GMX\" à votre main, et aussi, mélangez les cartes restantes dans le Deck.\r\nVous ne pouvez utiliser qu'1 effet de \"Rapport de l'Expérience 55 GMX\" par tour, et uniquement une fois le tour.",
+    "overallString": "[Magie|Jeu-Rapide]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304094.jpg?version=19.7"
+  },
+  {
+    "name": "Expérience Finale Anti-GMX",
+    "desc": "Activez uniquement si vous contrôlez un monstre \"GMX\".\r\nUne fois par tour, lorsque votre adversaire active un effet de monstre sur le Terrain (sauf durant la Damage Step) : vous pouvez dévoiler les 5 cartes du dessus de votre Deck, puis si vous avez dévoilé une ou plusieurs cartes \"GMX\", annulez l'effet activé, et aussi, placez toutes les cartes dévoilées au-dessus ou au-dessous du Deck dans l'ordre de votre choix.",
+    "overallString": "[Piège|Continu]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304096.jpg?version=19.7"
+  },
+  {
+    "name": "Ombre l'Obscure",
+    "desc": "Échelle Pendule = 11\r\n[ Effet Pendule ]\r\nVous ne pouvez pas Invoquer par Pendulation (Monstres Pendule exclus) (cet effet ne peut pas être annulé).\r\nSi un ou plusieurs monstres avec max. 1000 ATK sont Invoqués Spécialement (sauf durant la Damage Step) : vous pouvez renvoyer cette carte à la main.\r\nVous ne pouvez utiliser cet effet de \"Ombre l'Obscure\" qu'une fois par tour.\r\n \r\n----------------------------------------\r\n[ Effet de Monstre ]\r\nSi vous avez une carte dans votre Zone Pendule et que cette carte est dans votre main : vous pouvez Invoquer Spécialement cette carte.\r\nVous pouvez payer 1000 LP ; détruisez 1 Carte Montre pendule dans votre main ou Terrain face recto, puis vous pouvez ajouter 1 Monstre Pendule depuis votre Deck à votre Extra Deck face recto.\r\nVous ne pouvez utiliser chaque effet de \"Ombre l'Obscure\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet|Pendule] Elfe/Ténébres  [★4] 1000/1000  11/11",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304083.jpg?version=19.7"
+  },
+  {
+    "name": "Selandea, Partenaire GMX",
+    "desc": "Vous pouvez révéler cette carte dans votre main ; Invoquez Spécialement 1 monstre \"GMX\" ou 1 monstre Dinosaure depuis votre main, et aussi, vous ne pouvez attaquer directement qu'avec des monstres \"GMX\" le reste de ce tour.\r\nSi cette carte est Invoquée Spécialement par un effet de monstre : vous pouvez Invoquer Spécialement 1 monstre \"GMX\" ou Dinosaure de max. Niveau 4 depuis votre main, Cimetière ou bannissement en Position de Défense.\r\nVous ne pouvez utiliser chaque effet de \"Selandea, Partenaire GMX\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet] Guerrier/Feu  [★5] 1500/1900",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304090.jpg?version=19.7"
+  },
+  {
+    "name": "Escouade de Dissimulation GMX",
+    "desc": "Si cette carte est dans votre main et que vous contrôlez un monstre \"GMX\" ou un monstre Dinosaure : vous pouvez Invoquer Spécialement cette carte.\r\nVous pouvez cibler 1 monstre face recto sur le Terrain ; dévoilez les cartes du dessus de votre Deck jusqu'à dévoiler un monstre Dinosaure, envoyez le monstre Dinosaure au Cimetière, et si vous le faites, le monstre ciblé devient un monstre Dinosaure (jusqu'à la fin de ce tour), et aussi, mélangez le reste dans le Deck.\r\nVous ne pouvez utiliser chaque effet de \"Escouade de Dissimulation GMX\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet] Bête-Guerrier/Vent  [★4] 1900/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304091.jpg?version=19.7"
+  },
+  {
+    "name": "Laboratoire #5 GMX",
+    "desc": "Votre adversaire ne peut activer ni de cartes ni d'effets lorsque vous Invoquez Normalement ou Spécialement un ou plusieurs monstres \"GMX\".\r\nDurant votre Main Phase : vous pouvez Poser 1 Magie/Piège \"GMX\" (\"Laboratoire #5 GMX\" exclu) depuis votre Deck, puis placez 1 carte depuis votre main au-dessus du Deck.\r\nVous ne pouvez utiliser cet effet de \"Laboratoire #5 GMX\" qu'une fois par tour.",
+    "overallString": "[Magie|Terrain]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304095.jpg?version=19.7"
+  },
+  {
     "name": "Phara, la Déesse du Commencement",
     "desc": "Vous pouvez révéler cette carte et 1 Magie/Piège dans votre main ; aucun joueur ne peut activer ni de cartes ni d'effets en réponse à l'activation de carte ou d'effet d'une carte du même nom que la Magie/Piège révélé jusqu'à la fin du prochain tour.\r\nSi cette carte est envoyée depuis la main ou Terrain au Cimetière par un effet de Magie/Piège : vous pouvez Invoquer Spécialement cette carte.\r\nSi cette carte est Invoquée Spécialement depuis le Cimetière : vous pouvez prendre le contrôle du monstre contrôlé par votre adversaire avec la plus haute ATK (en cas d'égalité, vous choisissez).\r\nVous ne pouvez utiliser chaque effet de \"Phara, la Déesse du Commencement\" qu'une fois par tour.",
     "overallString": "[Monstre|Effet] Magicien/Ténébres  [★8] 2800/2800",
