@@ -1,5 +1,47 @@
 [
   {
+    "name": "Giocatore Gamer GG",
+    "desc": "2 mostri Macchina di Livello 4\r\nSe questa carta viene Evocata Specialmente: puoi cambiare tutti i mostri che il tuo avversario controlla in Posizione di Attacco.\r\nSe il tuo avversario ha un mostro nel suo Terreno o Cimitero: puoi staccare 1 materiale da questa carta; manda 1 mostro Macchina dal tuo Deck/Extra Deck al Cimitero, poi puoi applicare questo effetto.\r\n● Scegli 1 Mostro Xyz Macchina nel tuo Cimitero, e il nome di questa carta diventa il nome di quel mostro fino alla End Phase.\r\nPuoi utilizzare questo effetto di \"Giocatore Gamer GG\" una sola volta per turno.",
+    "overallString": "[Mostro|Effetto|Xyz] Macchina/Terra  [☆4] 2600/2000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304081.jpg?version=19.7"
+  },
+  {
+    "name": "Fata Dragna",
+    "desc": "2 mostri con lo stesso Tipo e Attributo, ma con Livelli diversi\r\nIl tuo avversario non può scegliere come bersaglio i Mostri Fusione che controlli con effetti di carte.\r\nSe questa carta viene mandata al Cimitero come materiale per una Evocazione tramite Fusione: puoi Evocare Specialmente 1 Mostro Fusione dal tuo Extra Deck in Posizione di Difesa (ma annulla i suoi effetti, inoltre fallo ritornare nell'Extra Deck durante la End Phase), inoltre per il resto di questo turno non puoi Evocare Specialmente dall'Extra Deck, eccetto Mostri Fusione.\r\nPuoi utilizzare questo effetto di \"Fata Dragna\" una sola volta per turno.",
+    "overallString": "[Mostro|Effetto|Fusione] Drago/Vento  [★5] 1000/2500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304082.jpg?version=19.7"
+  },
+  {
+    "name": "Genia dell'Anello",
+    "desc": "Se questa carta è nella tua mano: puoi scegliere come bersaglio 1 mostro scoperto sul Terreno; Evoca Specialmente questa carta, inoltre quel bersaglio diventa un mostro Incantatore. La prossima volta che quel bersaglio verrebbe distrutto da un effetto di carta in questo turno, non viene distrutto, inoltre per il resto di questo turno non puoi Evocare Specialmente dall'Extra Deck, eccetto mostri Incantatore.\r\nSe questa carta viene offerta come Tributo, o bandita, per attivare l'effetto di un mostro Incantatore: puoi aggiungere questa carta alla tua mano.\r\nPuoi utilizzare ciascun effetto di \"Genia dell'Anello\" una sola volta per turno.",
+    "overallString": "[Mostro|Effetto] Incantatore/Terra  [★4] 1850/1850",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304085.jpg?version=19.7"
+  },
+  {
+    "name": "Kontrollore",
+    "desc": "Non può essere Evocato Normalmente se controlli un mostro.\r\nPuoi offrire come Tributo questa carta; Evoca Specialmente 1 mostro Macchina dal tuo Deck il cui ATK è uguale alla sua DEF, ma fallo ritornare alla mano durante la End Phase.\r\nPuoi bandire questa carta dal tuo Cimitero e scartare 1 carta; Evoca Specialmente 1 \"Segna-Detrito di Ferro\" (Macchina/TERRA/Livello 1/ATK 0/DEF 0), ma non può essere utilizzato come Materiale per una Evocazione tramite Fusione, Synchro o Link.\r\nPuoi utilizzare ciascun effetto di \"Kontrollore\" una sola volta per turno.",
+    "overallString": "[Mostro|Effetto] Macchina/Terra  [★4] 2000/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304086.jpg?version=19.7"
+  },
+  {
+    "name": "Mammut Rugginoso",
+    "desc": "Se questa carta è nella tua mano: puoi bandire Mostri Link Macchina dal tuo Extra Deck i cui Valori Link combinati sono esattamente 5; Evoca Specialmente questa carta.\r\nPuoi scegliere come bersaglio 1 carta che controlli e 1 carta che controlla il tuo avversario; falle ritornare alla mano. Questo è un Effetto Rapido se questa carta è collegata a un Mostro Link Macchina Link-3 o superiore.\r\nPuoi utilizzare ciascun effetto di \"Mammut Rugginoso\" una sola volta per turno.",
+    "overallString": "[Mostro|Effetto] Macchina/Terra  [★5] 2100/2100",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304087.jpg?version=19.7"
+  },
+  {
+    "name": "Fantasia Officiante",
+    "desc": "Se questa carta è nella tua mano: puoi scartare 1 altra carta; Evoca Specialmente questa carta.\r\nSe uno o più Mostri Xyz vengono mandati al Cimitero, mentre questa carta è nel tuo Cimitero (eccetto durante il Damage Step): puoi bandire questa carta; Evoca Specialmente 1 mostro Zombie dal tuo Cimitero.\r\nDurante la Standby Phase del turno successivo dopo che questa carta è stata bandita: puoi scegliere come bersaglio 1 Mostro Xyz Zombie che controlli; attacca questa carta bandita a esso come materiale.\r\nPuoi utilizzare ciascun effetto di \"Fantasia Officiante\" una sola volta per turno.",
+    "overallString": "[Mostro|Effetto] Zombie/Oscurità  [★6] 2000/1100",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304088.jpg?version=19.7"
+  },
+  {
+    "name": "Samuel, Officiante della Rovina",
+    "desc": "2 mostri di Livello 6\r\nDurante la Main Phase (Effetto Rapido): puoi staccare 1 materiale da questa carta, poi scegliere come bersaglio 1 mostro Zombie nel tuo Cimitero; Evocalo Specialmente, poi puoi annullare gli effetti di 1 mostro che il tuo avversario controlla con ATK inferiore o uguale a quel mostro.\r\nSe questa carta viene mandata al Cimitero: puoi scegliere come bersaglio 1 mostro in uno qualsiasi dei Cimiteri; mischialo nel Deck.\r\nPuoi utilizzare ciascun effetto di \"Samuel, Officiante della Rovina\" una sola volta per turno.",
+    "overallString": "[Mostro|Effetto|Xyz] Zombie/Oscurità  [☆6] 1100/2600",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304089.jpg?version=19.7"
+  },
+  {
     "name": "Balena VIP",
     "desc": "Puoi offrire mostri addizionali quando Evochi tramite Tributo questa carta scoperta.\r\nSe questa carta viene Evocata tramite Tributo: puoi mettere Segnalini VIP su questa carta pari al numero di mostri offerti per la sua Evocazione tramite Tributo.\r\nQuando il tuo avversario attiva una carta o effetto (Effetto Rapido): puoi rimuovere 1 Segnalino VIP da questa carta; lancia una moneta e dichiara il risultato. Se indovini, annulla quell'effetto. Se sbagli, l'ATK originale di questa carta diventa dimezzato fino alla fine di questo turno.",
     "overallString": "[Mostro|Effetto] Pesce/Luce  [★6] 2400/1000",
