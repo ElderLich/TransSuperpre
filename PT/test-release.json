@@ -1,5 +1,47 @@
 [
   {
+    "name": "Jogador Jogando GG",
+    "desc": "2 monstros Máquina de Nível 4\r\nSe este card é Invocado por Invocação-Especial: você pode mudar todos os monstros do seu oponente para Posiçáo de Ataque.\r\nSe seu oponente tem um monstro no campo ou Cemitério: você pode desassociar 1 matéria deste card; envie 1 monstro Máquina do seu Deck/Deck Adicional para o Cemitério, então você pode aplicar este efeito.\r\n● Escolha 1 Monstro Xyz Máquina no seu Cemitério, o nome deste monstro se torna aquele até a Fase Final. Você só pode usar este efeito de \"Jogador Jogando GG\" uma vez por turno.",
+    "overallString": "[Monstro|Efeito|Xyz] Máquina/Terra  [☆4] 2600/2000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304081.jpg?version=19.7"
+  },
+  {
+    "name": "Fata Dragna",
+    "desc": "2 monstro com o mesmo Tipo e Atributo, mas Níveis diferentes\r\nSeu oponente não pode escolher Monstros Fusão que você controla com efeitos.\r\nSe este card for enviado ao Cemitério como matéria para uma Invocação-Fusão: você pode Invocar por Invocação-Especial 1 Monstro Fusão do seu Deck Adicional em Posição de Defesa (mas negue seus efeitos, também retorne-o para o Deck Adicional durante a Fase Final), também pelo resto deste turno, você não pode Invocar por Invocação-Especial do Deck Adicional, exceto Monstros Fusão. Você só pode usar este efeito de \"Fata Dragna\" uma vez por turno.",
+    "overallString": "[Monstro|Efeito|Fusão] Dragão/Vento  [★5] 1000/2500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304082.jpg?version=19.7"
+  },
+  {
+    "name": "Genia do Anel",
+    "desc": "Se este card está na sua mão: você pode escolher 1 monstro com a face para cima no campo; Invoque por Invocação-Especial este card, aquele alvo também se torna um monstro Mago.\r\nNa próxima vez que aquele alvo seria destruído por efeito neste turno, ele não é destruído, você também não pode Invocar por Invocação-Especial do seu Deck Adicional pelo resto deste turno, exceto monstros Mago.\r\nSe este card for oferecido como Tributo, ou banido, para ativar um efeito de um monstro Mago: você pode adicionar este card à sua mão.\r\nVocê só pode usar cada um dos efeitos de \"Genia do Anel\" uma vez por turno.",
+    "overallString": "[Monstro|Efeito] Mago/Terra  [★4] 1850/1850",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304085.jpg?version=19.7"
+  },
+  {
+    "name": "Checkker",
+    "desc": "Não pode ser Invocado por Invocação-Normal se você controla um monstro.\r\nVocê pode oferecer este card como Tributo; Invoque por Invocação-Especial 1 monstro Máquina do seu Deck cujo ATK seja igual a sua própria DEF, mas retorne-o à mão durante a Fase Final.\r\nVocê pode banir este card do seu Cemitério e descartar 1 card; Invoque por Invocação-Especial 1 \"Ficha de Entulho de Ferro\" (Máquina/TERRA/Nível 1/ATK 0/DEF 0), mas ele não pode ser usado como matéria para Invocação-Fusão, Sincro ou Link.\r\nVocê só pode usar cada um dos efeitos de \"Checkker\" uma vez por turno.",
+    "overallString": "[Monstro|Efeito] Máquina/Terra  [★4] 2000/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304086.jpg?version=19.7"
+  },
+  {
+    "name": "Mamute de Ferrugem",
+    "desc": "Se este card está na sua mão: você pode banir Monstros Link Máquina do seu Deck Adicional cujo a Classificação Link combinada seja exatamente igual a 5; Invoque este card por Invocação-Especial.\r\nVocê pode escolher 1 card que você controla e 1 card que seu oponente controla; retorne-os à mão. Este é um Efeito Rápido se este card está ligado por um Monstro Link Máquina de Link-3 ou maior.\r\nVocê só pode usar cada um dos efeitos de \"Mamute de Ferrugem\" uma vez por turno.\r\n",
+    "overallString": "[Monstro|Efeito] Máquina/Terra  [★5] 2100/2100",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304087.jpg?version=19.7"
+  },
+  {
+    "name": "Devaneio Oficiante",
+    "desc": "Se este card está na sua mão: você pode descartar 1 outro card; Invoque-o por Invocação-Especial.\r\nSe um ou mais Monstros Xyz são enviados para o Cemitério, enquanto este card está no seu Cemitério (exceto durante a Etapa de Dano): você pode banir este card; Invoque por Invocação-Especial 1 monstro Zumbi do seu Cemitério.\r\nDurante a Fase de Apoio do próximo turno após este card ser banido: você pode escolher 1 Monstro Xyz Zumbi que você controla; assossie este card banido à ele.\r\nYou can only use each effect of \"Officiating Reverie\" once per turn.\r\nVocê só pode usar cada um dos efeitos de \"Devaneio Oficiante\" uma vez por turno.",
+    "overallString": "[Monstro|Efeito] Zumbi/Trevas  [★6] 2000/1100",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304088.jpg?version=19.7"
+  },
+  {
+    "name": "Samuel, o Oficial da Perdição",
+    "desc": "2 monstros de Nível 6\r\nDurante a Fase Principal (Efeito Rápido): você pode desassociar 1 matéria deste card, então escolha 1 monstro Zumbi no seu Cemitério; Invoque-o por Invocação-Especial, então você pode negar os efeitos de 1 monstro que seu oponente controla com ATK menor ou igual daquele monstro.\r\nSe este card é enviado para o Cemitério: você pode escolher 1 monstro em qualquer Cemitério; embaralhe-o no Deck.\r\nVocê só pode usar cada um dos efeitos de \"Samuel, o Oficial da Perdição\" uma vez por turno.",
+    "overallString": "[Monstro|Efeito|Xyz] Zumbi/Trevas  [☆6] 1100/2600",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304089.jpg?version=19.7"
+  },
+  {
     "name": "Baleia VIP",
     "desc": "Você pode oferecer monstros adicionais como Tributo para Invocar por Invocação-Tributo este card com a face para cima.\r\nSe este card foi Invocado por Invocação-Tributo: você pode colocar Maracadores VIP neste card igual ao número de monstros oferecidos como Tributo para a Invocação-Tributo.\r\nQuando seu oponente ativa um card ou efeito (Efeito Rápido): você pode remover 1 Marcador VIP deste card; jogue uma moeda. Se você acertar, negue aquele efeito. Se você errar, o ATK original deste card é reduzido pela metade até o final deste turno.",
     "overallString": "[Monstro|Efeito] Peixe/Luz  [★6] 2400/1000",
