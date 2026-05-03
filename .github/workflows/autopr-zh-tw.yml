@@ -62,7 +62,7 @@ jobs:
             done
             git push origin "HEAD:${GITHUB_REF_NAME:-main}"
           }
-          git add ZH-TW/ygopro-super-pre.ypk ZH-TW/test-release.json ZH-TW/version.txt "ZH-TW/Base Files/test-release.cdb" "ZH-TW/Base Files/test-strings.conf" "ZH-TW/Base Files/test-update.cdb"
+          git add -A "ZH-TW/Base Files" ZH-TW/ygopro-super-pre.ypk ZH-TW/test-release.json ZH-TW/version.txt
           if git diff --cached --quiet; then
             echo "No generated output changes to commit."
             rm -f ZH-TW/.autopr-commit-body.txt

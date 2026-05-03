@@ -580,209 +580,27 @@ def load_names(json_path: Path) -> set[str]:
     return {item.get("name") for item in data if isinstance(item, dict) and item.get("name")}
 
 
-TYPE_MONSTER = 0x1
-TYPE_SPELL = 0x2
-TYPE_TRAP = 0x4
-TYPE_NORMAL = 0x10
-TYPE_EFFECT = 0x20
-TYPE_FUSION = 0x40
-TYPE_RITUAL = 0x80
-TYPE_SPIRIT = 0x200
-TYPE_UNION = 0x400
-TYPE_GEMINI = 0x800
-TYPE_TUNER = 0x1000
-TYPE_SYNCHRO = 0x2000
-TYPE_TOKEN = 0x4000
-TYPE_QUICKPLAY = 0x10000
-TYPE_CONTINUOUS = 0x20000
-TYPE_EQUIP = 0x40000
-TYPE_FIELD = 0x80000
-TYPE_COUNTER = 0x100000
-TYPE_FLIP = 0x200000
-TYPE_TOON = 0x400000
-TYPE_XYZ = 0x800000
-TYPE_PENDULUM = 0x1000000
-TYPE_SPSUMMON = 0x2000000
-TYPE_LINK = 0x4000000
-
-RACE_LABELS = {
-    1: "Guerrero", 2: "Lanzador de Conjuros", 4: "Hada", 8: "Demonio",
-    16: "Zombi", 32: "Máquina", 64: "Aqua", 128: "Piro", 256: "Roca",
-    512: "Bestia Alada", 1024: "Planta", 2048: "Insecto", 4096: "Trueno",
-    8192: "Dragón", 16384: "Bestia", 32768: "Guerrero Bestia",
-    65536: "Dinosaurio", 131072: "Pez", 262144: "Serpiente Marina",
-    524288: "Reptil", 1048576: "Psíquico", 2097152: "Bestia Divina",
-    4194304: "Dios Creador", 8388608: "Wyrm", 16777216: "Ciberso",
-    33554432: "Ilusión",
-}
-
-ATTRIBUTE_LABELS = {
-    1: "TIERRA", 2: "AGUA", 4: "FUEGO", 8: "VIENTO",
-    16: "LUZ", 32: "OSCURIDAD", 64: "DIVINO",
-}
-
-LINK_MARKERS = [
-    (64, "↖"), (128, "↑"), (256, "↗"),
-    (8, "←"), (32, "→"),
-    (1, "↙"), (2, "↓"), (4, "↘"),
-]
-
-
-def stat_text(value: object) -> str:
-    try:
-        number = int(value)
-    except (TypeError, ValueError):
-        return "?"
-    return "?" if number < 0 else str(number)
-
-
-def cdb_level(raw_level: object) -> int:
-    try:
-        return int(raw_level) & 0xFF
-    except (TypeError, ValueError):
-        return 0
-
-
-def pendulum_scales(raw_level: object) -> tuple[int, int]:
-    try:
-        level = int(raw_level)
-    except (TypeError, ValueError):
-        return 0, 0
-    return (level >> 24) & 0xFF, (level >> 16) & 0xFF
-
-
-def link_marker_text(marker_value: object) -> str:
-    try:
-        markers = int(marker_value)
-    except (TypeError, ValueError):
-        return ""
-    return "".join(f"[{symbol}]" for bit, symbol in LINK_MARKERS if markers & bit)
-
-
-def format_overall_string_from_datas(row: dict[str, object]) -> str:
-    card_type = int(row.get("type") or 0)
-    if card_type & TYPE_SPELL:
-        tags = ["Mágica"]
-        for bit, label in (
-            (TYPE_RITUAL, "Ritual"),
-            (TYPE_QUICKPLAY, "Juego Rápido"),
-            (TYPE_CONTINUOUS, "Continua"),
-            (TYPE_EQUIP, "Equipo"),
-            (TYPE_FIELD, "Campo"),
-        ):
-            if card_type & bit:
-                tags.append(label)
-        return f"[{'|'.join(tags)}]"
-
-    if card_type & TYPE_TRAP:
-        tags = ["Trampa"]
-        if card_type & TYPE_CONTINUOUS:
-            tags.append("Continua")
-        if card_type & TYPE_COUNTER:
-            tags.append("Contraefecto")
-        return f"[{'|'.join(tags)}]"
-
-    tags = ["Monstruo"]
-    if card_type & TYPE_NORMAL and not card_type & TYPE_EFFECT:
-        tags.append("Normal")
-    if card_type & TYPE_EFFECT:
-        tags.append("Efecto")
-    for bit, label in (
-        (TYPE_FUSION, "Fusión"),
-        (TYPE_RITUAL, "Ritual"),
-        (TYPE_SPIRIT, "Espíritu"),
-        (TYPE_UNION, "Unión"),
-        (TYPE_GEMINI, "Gemini"),
-        (TYPE_TUNER, "Cantante"),
-        (TYPE_SYNCHRO, "Sincronía"),
-        (TYPE_TOKEN, "Ficha"),
-        (TYPE_FLIP, "VOLTEO"),
-        (TYPE_TOON, "Toon"),
-        (TYPE_XYZ, "Xyz"),
-        (TYPE_PENDULUM, "Péndulo"),
-        (TYPE_SPSUMMON, "Invocación Especial"),
-        (TYPE_LINK, "Enlace"),
-    ):
-        if card_type & bit:
-            tags.append(label)
-
-    race = RACE_LABELS.get(int(row.get("race") or 0), str(row.get("race") or ""))
-    attribute = ATTRIBUTE_LABELS.get(int(row.get("attribute") or 0), str(row.get("attribute") or ""))
-    header = f"[{'|'.join(tags)}] {race}/{attribute}"
-
-    if card_type & TYPE_LINK:
-        markers = link_marker_text(row.get("def"))
-        suffix = f" {markers}" if markers else ""
-        return f"{header}  [LINK-{cdb_level(row.get('level'))}] {stat_text(row.get('atk'))}/-{suffix}"
-
-    star = "☆" if card_type & TYPE_XYZ else "★"
-    out = f"{header}  [{star}{cdb_level(row.get('level'))}] {stat_text(row.get('atk'))}/{stat_text(row.get('def'))}"
-    if card_type & TYPE_PENDULUM:
-        left, right = pendulum_scales(row.get("level"))
-        out += f"  {left}/{right}"
-    return out
-
-
-def pic_version_from_json(data: list[dict]) -> str:
-    for item in data:
-        if not isinstance(item, dict):
-            continue
-        match = re.search(r"[?&]version=([^&]+)", item.get("picUrl", ""))
-        if match:
-            return match.group(1)
-    return "19.7"
-
-
-def build_pic_url(card_id: int, version: str) -> str:
-    return f"https://cdntx.moecube.com/ygopro-super-pre/data/pics/{card_id}.jpg?version={version}"
-
 def write_release_json(cdb_path: Path, output_json: Path) -> list[dict]:
     data = fetch_json(JSON_URL)
 
     conn = sqlite3.connect(str(cdb_path))
+    cursor = conn.cursor()
     updated = 0
     missing = 0
-    added = 0
-    seen_ids: set[int] = set()
-    pic_version = pic_version_from_json(data)
     try:
-        rows = conn.execute(
-            "SELECT d.id, d.type, d.atk, d.def, d.level, d.race, d.attribute, t.name, t.desc "
-            "FROM datas d JOIN texts t ON t.id=d.id ORDER BY d.id"
-        ).fetchall()
-        rows_by_card_id = {
-            int(row[0]): {
-                "id": row[0], "type": row[1], "atk": row[2], "def": row[3], "level": row[4],
-                "race": row[5], "attribute": row[6], "name": row[7], "desc": row[8],
-            }
-            for row in rows
-        }
-
         for item in data:
             if not isinstance(item, dict):
                 continue
-            card_id_text = extract_id_from_pic_url(item.get("picUrl", ""))
-            if card_id_text:
-                card_id = int(card_id_text)
-                seen_ids.add(card_id)
-                row = rows_by_card_id.get(card_id)
+            card_id = extract_id_from_pic_url(item.get("picUrl", ""))
+            if card_id:
+                cursor.execute("SELECT name, desc FROM texts WHERE id=?", (card_id,))
+                row = cursor.fetchone()
                 if row:
-                    item["name"], item["desc"] = row["name"], row["desc"]
+                    item["name"], item["desc"] = row
                     updated += 1
                 else:
                     missing += 1
             item["overallString"] = translate_overall_string(item.get("overallString"))
-
-        for card_id, row in rows_by_card_id.items():
-            if card_id in seen_ids:
-                continue
-            data.append({
-                "name": row["name"] or "",
-                "desc": row["desc"] or "",
-                "overallString": format_overall_string_from_datas(row),
-                "picUrl": build_pic_url(card_id, pic_version),
-            })
-            added += 1
     finally:
         conn.close()
 
@@ -790,7 +608,7 @@ def write_release_json(cdb_path: Path, output_json: Path) -> list[dict]:
     with output_json.open("w", encoding="utf-8", newline="\n") as handle:
         json.dump(data, handle, ensure_ascii=False, indent=2)
         handle.write("\n")
-    log(f"Wrote {output_json}: updated={updated}, missing={missing}, added={added}")
+    log(f"Wrote {output_json}: updated={updated}, missing={missing}")
     return data
 
 def write_version() -> None:
@@ -819,29 +637,36 @@ def workspace_sync() -> None:
         copy_base_files_from_ypk(ypk, cards_cdb)
         merge_release_cdb(BASE_DIR / "test-release.cdb", WORK_DIR / "test-release.cdb")
         sync_test_strings(BASE_DIR / "test-strings.conf", WORK_DIR / "test-strings.conf")
-        shutil.copy2(BASE_DIR / "test-update.cdb", WORK_DIR / "test-update.cdb")
+        workspace_update = WORK_DIR / "test-update.cdb"
+        if workspace_update.exists():
+            workspace_update.unlink()
+            log(f"Removed unused workspace {workspace_update.name}")
         run_prompt_patcher(WORK_DIR / "test-release.cdb", cards_cdb)
     log("ES workspace sync completed")
-
 
 def release_build() -> None:
     payloads = {
         "test-release.cdb": require_file(WORK_DIR / "test-release.cdb", "workspace test-release.cdb"),
         "test-strings.conf": require_file(WORK_DIR / "test-strings.conf", "workspace test-strings.conf"),
-        "test-update.cdb": require_file(WORK_DIR / "test-update.cdb", "workspace test-update.cdb"),
     }
     ensure_test_strings_ready(payloads["test-strings.conf"])
     old_names = load_names(ES_DIR / "test-release.json")
     with tempfile.TemporaryDirectory(prefix=".es-release-", dir=ES_DIR) as temp_name:
-        ypk = Path(temp_name) / "ygopro-super-pre.ypk"
+        work = Path(temp_name)
+        ypk = work / "ygopro-super-pre.ypk"
+        cards_cdb = work / "cards.cdb"
+        test_update = work / "test-update.cdb"
         download_file(YPK_URL, ypk)
+        download_file(CARDS_CDB_URL, cards_cdb)
+        extract_member(ypk, "test-update.cdb", test_update)
+        translate_test_update_cdb(test_update, cards_cdb)
+        payloads["test-update.cdb"] = test_update
         replace_payloads_in_ypk(ypk, ES_DIR / "ygopro-super-pre.ypk", payloads)
         new_data = write_release_json(payloads["test-release.cdb"], ES_DIR / "test-release.json")
         write_version()
     new_names = {item.get("name") for item in new_data if isinstance(item, dict) and item.get("name")}
     write_commit_body(sorted(new_names - old_names))
     log("ES release build completed")
-
 
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
