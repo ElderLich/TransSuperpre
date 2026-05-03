@@ -58,7 +58,7 @@ jobs:
             git checkout --orphan dump
           fi
 
-          git rm -r --ignore-unmatch .
+          git rm -r -f --ignore-unmatch .
           cp -a "$DUMP_DIR"/. .
           git add .
 
