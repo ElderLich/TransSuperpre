@@ -881,7 +881,8 @@ def patch_pendulum_layout_desc(cdb_path: Path, report_limit: int = 25) -> None:
 
 def patcher_log(message: str) -> None:
     text = str(message)
-    if CONFIG.lang == "jp" and (text.startswith("[CN-Report]") or text.startswith("  x")):
+    # JP/KR text is CJK too, so PromptPatcher's remaining-CN report is noisy there.
+    if CONFIG.lang in {"jp", "kr"} and (text.startswith("[CN-Report]") or text.startswith("  x")):
         return
     log(text)
 
