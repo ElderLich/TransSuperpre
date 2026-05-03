@@ -34,6 +34,12 @@ jobs:
         with:
           python-version: "3.x"
 
+      - name: Sync checkout with latest main
+        run: |
+          branch="${GITHUB_REF_NAME:-main}"
+          git fetch origin "$branch"
+          git checkout -B "$branch" "origin/$branch"
+
       - name: Build ES release files
         run: python .github/scripts/es_autopr.py release-build
 
@@ -47,11 +53,11 @@ jobs:
                 return 0
               fi
               echo "Push failed; rebasing and retrying (${attempt}/3)..."
-              git pull --rebase origin "${GITHUB_REF_NAME:-main}"
+              git pull --rebase -X theirs origin "${GITHUB_REF_NAME:-main}"
             done
             git push origin "HEAD:${GITHUB_REF_NAME:-main}"
           }
-          git add ES/ygopro-super-pre.ypk ES/test-release.json ES/version.txt
+          git add -A -- "ES/Base Files/test-release.cdb" "ES/Base Files/test-strings.conf" ES/ygopro-super-pre.ypk ES/test-release.json ES/version.txt
           if git diff --cached --quiet; then
             echo "No ES release output changes to commit."
             rm -f ES/.autopr-commit-body.txt

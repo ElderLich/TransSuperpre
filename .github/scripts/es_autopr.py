@@ -645,11 +645,21 @@ def workspace_sync() -> None:
     log("ES workspace sync completed")
 
 def release_build() -> None:
+    workspace_release = require_file(WORK_DIR / "test-release.cdb", "workspace test-release.cdb")
+    workspace_strings = require_file(WORK_DIR / "test-strings.conf", "workspace test-strings.conf")
+    ensure_test_strings_ready(workspace_strings)
+
+    BASE_DIR.mkdir(parents=True, exist_ok=True)
+    base_release = BASE_DIR / "test-release.cdb"
+    base_strings = BASE_DIR / "test-strings.conf"
+    shutil.copy2(workspace_release, base_release)
+    shutil.copy2(workspace_strings, base_strings)
+    log("Mirrored ES workspace files into Base Files")
+
     payloads = {
-        "test-release.cdb": require_file(WORK_DIR / "test-release.cdb", "workspace test-release.cdb"),
-        "test-strings.conf": require_file(WORK_DIR / "test-strings.conf", "workspace test-strings.conf"),
+        "test-release.cdb": base_release,
+        "test-strings.conf": base_strings,
     }
-    ensure_test_strings_ready(payloads["test-strings.conf"])
     old_names = load_names(ES_DIR / "test-release.json")
     with tempfile.TemporaryDirectory(prefix=".es-release-", dir=ES_DIR) as temp_name:
         work = Path(temp_name)
