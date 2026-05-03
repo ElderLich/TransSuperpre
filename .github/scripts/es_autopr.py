@@ -127,8 +127,10 @@ def copy_base_files_from_ypk(ypk_path: Path, cards_cdb: Path) -> None:
     BASE_DIR.mkdir(parents=True, exist_ok=True)
     extract_member(ypk_path, "test-release.cdb", BASE_DIR / "test-release.cdb")
     extract_member(ypk_path, "test-strings.conf", BASE_DIR / "test-strings.conf")
-    extract_member(ypk_path, "test-update.cdb", BASE_DIR / "test-update.cdb")
-    translate_test_update_cdb(BASE_DIR / "test-update.cdb", cards_cdb)
+    stale_update = BASE_DIR / "test-update.cdb"
+    if stale_update.exists():
+        stale_update.unlink()
+        log(f"Removed unused Base Files/{stale_update.name}")
 
 
 def merge_release_cdb(source_cdb: Path, target_cdb: Path) -> None:
