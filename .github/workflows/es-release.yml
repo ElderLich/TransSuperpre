@@ -2,13 +2,17 @@ name: Release ES
 
 on:
   workflow_dispatch:
+  workflow_run:
+    workflows:
+      - "Sync ES Workspace"
+    types:
+      - completed
   push:
     branches:
       - main
     paths:
       - "ES/Workspace/test-release.cdb"
       - "ES/Workspace/test-strings.conf"
-      - ".github/scripts/es_autopr.py"
       - ".github/workflows/es-release.yml"
 
 permissions:
@@ -21,6 +25,7 @@ concurrency:
 jobs:
   release:
     name: Build ES package
+    if: github.event_name != 'workflow_run' || (github.event.workflow_run.conclusion == 'success' && github.event.workflow_run.head_branch == 'main')
     runs-on: ubuntu-latest
     timeout-minutes: 30
 
@@ -36,11 +41,13 @@ jobs:
           python-version: "3.x"
 
       - name: Build, commit, and tag ES release
+        env:
+          BRANCH_NAME: ${{ github.event.workflow_run.head_branch || github.ref_name }}
         run: |
           set -euo pipefail
           git config user.name "ElderLich"
           git config user.email "35314175+ElderLich@users.noreply.github.com"
-          branch="${GITHUB_REF_NAME:-main}"
+          branch="${BRANCH_NAME:-main}"
 
           for attempt in 1 2 3; do
             git fetch --tags origin "$branch"
