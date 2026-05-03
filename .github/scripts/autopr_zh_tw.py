@@ -162,8 +162,10 @@ def fetch_json(url: str) -> list[dict]:
     log(f"Fetching {url}")
     request = urllib.request.Request(url, headers={"User-Agent": "TransSuperpre-AutoPR/1.0"})
     with urllib.request.urlopen(request, timeout=300) as response:
-        return json.loads(response.read().decode("utf-8"))
-
+        data = json.loads(response.read().decode("utf-8"))
+    if not isinstance(data, list):
+        fail(f"Release JSON is not a list: {url}")
+    return data
 
 def resolve_cards_cdb(work_dir: Path) -> Path:
     env_path = os.environ.get("TW_AUTOPR_CARDS_CDB")
@@ -309,36 +311,221 @@ def load_names(json_path: Path) -> set[str]:
     return {item.get("name") for item in data if isinstance(item, dict) and item.get("name")}
 
 
+TYPE_MONSTER = 0x1
+TYPE_SPELL = 0x2
+TYPE_TRAP = 0x4
+TYPE_NORMAL = 0x10
+TYPE_EFFECT = 0x20
+TYPE_FUSION = 0x40
+TYPE_RITUAL = 0x80
+TYPE_SPIRIT = 0x200
+TYPE_UNION = 0x400
+TYPE_GEMINI = 0x800
+TYPE_TUNER = 0x1000
+TYPE_SYNCHRO = 0x2000
+TYPE_TOKEN = 0x4000
+TYPE_QUICKPLAY = 0x10000
+TYPE_CONTINUOUS = 0x20000
+TYPE_EQUIP = 0x40000
+TYPE_FIELD = 0x80000
+TYPE_COUNTER = 0x100000
+TYPE_FLIP = 0x200000
+TYPE_TOON = 0x400000
+TYPE_XYZ = 0x800000
+TYPE_PENDULUM = 0x1000000
+TYPE_SPSUMMON = 0x2000000
+TYPE_LINK = 0x4000000
+
+RACE_LABELS = {
+    1: "Warrior", 2: "Spellcaster", 4: "Fairy", 8: "Fiend",
+    16: "Zombie", 32: "Machine", 64: "Aqua", 128: "Pyro", 256: "Rock",
+    512: "Winged Beast", 1024: "Plant", 2048: "Insect", 4096: "Thunder",
+    8192: "Dragon", 16384: "Beast", 32768: "Beast-Warrior",
+    65536: "Dinosaur", 131072: "Fish", 262144: "Sea Serpent",
+    524288: "Reptile", 1048576: "Psychic", 2097152: "Divine-Beast",
+    4194304: "Creator God", 8388608: "Wyrm", 16777216: "Cyberse",
+    33554432: "Illusion",
+}
+
+ATTRIBUTE_LABELS = {
+    1: "Earth", 2: "Water", 4: "Fire", 8: "Wind",
+    16: "Light", 32: "Dark", 64: "Divine",
+}
+
+LINK_MARKERS = [
+    (64, "↖"), (128, "↑"), (256, "↗"),
+    (8, "←"), (32, "→"),
+    (1, "↙"), (2, "↓"), (4, "↘"),
+]
+
+
+def stat_text(value: object) -> str:
+    try:
+        number = int(value)
+    except (TypeError, ValueError):
+        return "?"
+    return "?" if number < 0 else str(number)
+
+
+def cdb_level(raw_level: object) -> int:
+    try:
+        return int(raw_level) & 0xFF
+    except (TypeError, ValueError):
+        return 0
+
+
+def pendulum_scales(raw_level: object) -> tuple[int, int]:
+    try:
+        level = int(raw_level)
+    except (TypeError, ValueError):
+        return 0, 0
+    return (level >> 24) & 0xFF, (level >> 16) & 0xFF
+
+
+def link_marker_text(marker_value: object) -> str:
+    try:
+        markers = int(marker_value)
+    except (TypeError, ValueError):
+        return ""
+    return "".join(f"[{symbol}]" for bit, symbol in LINK_MARKERS if markers & bit)
+
+
+def format_overall_string_from_datas(row: dict[str, object]) -> str:
+    card_type = int(row.get("type") or 0)
+    if card_type & TYPE_SPELL:
+        tags = ["Spell"]
+        for bit, label in (
+            (TYPE_RITUAL, "Ritual"),
+            (TYPE_QUICKPLAY, "Quick-Play"),
+            (TYPE_CONTINUOUS, "Continuous"),
+            (TYPE_EQUIP, "Equip"),
+            (TYPE_FIELD, "Field"),
+        ):
+            if card_type & bit:
+                tags.append(label)
+        return f"[{'|'.join(tags)}]"
+
+    if card_type & TYPE_TRAP:
+        tags = ["Trap"]
+        if card_type & TYPE_CONTINUOUS:
+            tags.append("Continuous")
+        if card_type & TYPE_COUNTER:
+            tags.append("Counter")
+        return f"[{'|'.join(tags)}]"
+
+    tags = ["Monster"]
+    if card_type & TYPE_NORMAL and not card_type & TYPE_EFFECT:
+        tags.append("Normal")
+    if card_type & TYPE_EFFECT:
+        tags.append("Effect")
+    for bit, label in (
+        (TYPE_FUSION, "Fusion"),
+        (TYPE_RITUAL, "Ritual"),
+        (TYPE_SPIRIT, "Spirit"),
+        (TYPE_UNION, "Union"),
+        (TYPE_GEMINI, "Gemini"),
+        (TYPE_TUNER, "Tuner"),
+        (TYPE_SYNCHRO, "Synchro"),
+        (TYPE_TOKEN, "Token"),
+        (TYPE_FLIP, "Flip"),
+        (TYPE_TOON, "Toon"),
+        (TYPE_XYZ, "Xyz"),
+        (TYPE_PENDULUM, "Pendulum"),
+        (TYPE_SPSUMMON, "Special Summon"),
+        (TYPE_LINK, "Link"),
+    ):
+        if card_type & bit:
+            tags.append(label)
+
+    race = RACE_LABELS.get(int(row.get("race") or 0), str(row.get("race") or ""))
+    attribute = ATTRIBUTE_LABELS.get(int(row.get("attribute") or 0), str(row.get("attribute") or ""))
+    header = f"[{'|'.join(tags)}] {race}/{attribute}"
+
+    if card_type & TYPE_LINK:
+        markers = link_marker_text(row.get("def"))
+        suffix = f" {markers}" if markers else ""
+        return f"{header}  [LINK-{cdb_level(row.get('level'))}] {stat_text(row.get('atk'))}/-{suffix}"
+
+    star = "☆" if card_type & TYPE_XYZ else "★"
+    out = f"{header}  [{star}{cdb_level(row.get('level'))}] {stat_text(row.get('atk'))}/{stat_text(row.get('def'))}"
+    if card_type & TYPE_PENDULUM:
+        left, right = pendulum_scales(row.get("level"))
+        out += f"  {left}/{right}"
+    return out
+
+
+def pic_version_from_json(data: list[dict]) -> str:
+    for item in data:
+        if not isinstance(item, dict):
+            continue
+        match = re.search(r"[?&]version=([^&]+)", item.get("picUrl", ""))
+        if match:
+            return match.group(1)
+    return "19.7"
+
+
+def build_pic_url(card_id: int, version: str) -> str:
+    return f"https://cdntx.moecube.com/ygopro-super-pre/data/pics/{card_id}.jpg?version={version}"
+
+
 def write_release_json(cdb_path: Path, output_json: Path) -> list[dict]:
     data = fetch_json(JSON_URL)
 
     log(f"Reading translated texts from {cdb_path}")
-    conn = sqlite3.connect(cdb_path)
-    cursor = conn.cursor()
+    conn = sqlite3.connect(str(cdb_path))
     updated = 0
     missing = 0
+    added = 0
+    seen_ids: set[int] = set()
+    pic_version = pic_version_from_json(data)
 
     try:
+        rows = conn.execute(
+            "SELECT d.id, d.type, d.atk, d.def, d.level, d.race, d.attribute, t.name, t.desc "
+            "FROM datas d JOIN texts t ON t.id=d.id ORDER BY d.id"
+        ).fetchall()
+        rows_by_card_id = {
+            int(row[0]): {
+                "id": row[0], "type": row[1], "atk": row[2], "def": row[3], "level": row[4],
+                "race": row[5], "attribute": row[6], "name": row[7], "desc": row[8],
+            }
+            for row in rows
+        }
+
         for item in data:
-            card_id = extract_id_from_pic_url(item.get("picUrl", ""))
-            if card_id:
-                cursor.execute("SELECT name, desc FROM texts WHERE id = ?", (card_id,))
-                row = cursor.fetchone()
+            if not isinstance(item, dict):
+                continue
+            card_id_text = extract_id_from_pic_url(item.get("picUrl", ""))
+            if card_id_text:
+                card_id = int(card_id_text)
+                seen_ids.add(card_id)
+                row = rows_by_card_id.get(card_id)
                 if row:
-                    item["name"], item["desc"] = row
+                    item["name"], item["desc"] = row["name"], row["desc"]
                     updated += 1
                 else:
                     missing += 1
-
             item["overallString"] = translate_overall_string(item.get("overallString"))
+
+        for card_id, row in rows_by_card_id.items():
+            if card_id in seen_ids:
+                continue
+            data.append({
+                "name": row["name"] or "",
+                "desc": row["desc"] or "",
+                "overallString": format_overall_string_from_datas(row),
+                "picUrl": build_pic_url(card_id, pic_version),
+            })
+            added += 1
     finally:
         conn.close()
 
+    output_json.parent.mkdir(parents=True, exist_ok=True)
     with output_json.open("w", encoding="utf-8", newline="\n") as handle:
         json.dump(data, handle, ensure_ascii=False, indent=2)
         handle.write("\n")
 
-    log(f"Wrote {output_json} (updated={updated}, missing_in_cdb={missing})")
+    log(f"Wrote {output_json} (updated={updated}, missing_in_cdb={missing}, added={added})")
     return data
 
 
