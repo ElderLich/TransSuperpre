@@ -17,7 +17,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: es-workspace-sync
+  group: es-automation-${{ github.ref }}
   cancel-in-progress: false
 
 jobs:
@@ -37,27 +37,31 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: Sync workspace
-        run: python .github/scripts/es_autopr.py workspace-sync
-
-      - name: Commit workspace updates
+      - name: Sync and commit workspace updates
         run: |
+          set -euo pipefail
           git config user.name "ElderLich"
           git config user.email "35314175+ElderLich@users.noreply.github.com"
-          push_main() {
-            for attempt in 1 2 3; do
-              if git push origin "HEAD:${GITHUB_REF_NAME:-main}"; then
-                return 0
-              fi
-              echo "Push failed; rebasing and retrying (${attempt}/3)..."
-              git pull --rebase origin "${GITHUB_REF_NAME:-main}"
-            done
-            git push origin "HEAD:${GITHUB_REF_NAME:-main}"
-          }
-          git add -A "ES/Workspace" "ES/Base Files/test-release.cdb" "ES/Base Files/test-strings.conf" Tools/PromptPatcher.py
-          if git diff --cached --quiet; then
-            echo "No ES workspace changes to commit."
-            exit 0
-          fi
-          git commit -m "Sync ES workspace"
-          push_main
+          branch="${GITHUB_REF_NAME:-main}"
+
+          for attempt in 1 2 3; do
+            git fetch origin "$branch"
+            git checkout -B "$branch" "origin/$branch"
+
+            python .github/scripts/es_autopr.py workspace-sync
+            git add -A "ES/Workspace" "ES/Base Files/test-release.cdb" "ES/Base Files/test-strings.conf" Tools/PromptPatcher.py
+            if git diff --cached --quiet; then
+              echo "No ES workspace changes to commit."
+              exit 0
+            fi
+
+            git commit -m "Sync ES workspace"
+            if git push origin "HEAD:$branch"; then
+              exit 0
+            fi
+
+            echo "Push failed; refreshing and rebuilding (${attempt}/3)..."
+          done
+
+          echo "Unable to push ES workspace sync after rebuilding on the latest branch tip."
+          exit 1

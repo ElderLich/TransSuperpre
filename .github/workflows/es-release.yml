@@ -15,7 +15,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: es-release
+  group: es-automation-${{ github.ref }}
   cancel-in-progress: false
 
 jobs:
