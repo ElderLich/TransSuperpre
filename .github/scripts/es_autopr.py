@@ -21,7 +21,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[2]
 ES_DIR = Path(os.environ.get("ES_AUTOPR_OUTPUT_DIR", ROOT / "ES")).resolve()
 BASE_DIR = Path(os.environ.get("ES_AUTOPR_BASE_DIR", ES_DIR / "Base Files")).resolve()
-WORK_DIR = Path(os.environ.get("ES_AUTOPR_WORK_DIR", ES_DIR / "Work Space")).resolve()
+WORK_DIR = Path(os.environ.get("ES_AUTOPR_WORK_DIR", ES_DIR / "Workspace")).resolve()
 TOOLS_DIR = Path(os.environ.get("ES_AUTOPR_TOOLS_DIR", ROOT / "Tools")).resolve()
 
 YPK_URL = os.environ.get(
