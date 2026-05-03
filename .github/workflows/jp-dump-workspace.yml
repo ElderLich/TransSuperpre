@@ -1,27 +1,27 @@
-name: Dump ES Workspace
+name: Dump JP Workspace
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "30 7 * * *"
+    - cron: "40 7 * * *"
   push:
     branches:
       - main
     paths:
-      - "ES/Workspace/test-release.cdb"
+      - "JP/Workspace/test-release.cdb"
       - ".github/scripts/dump_cdb.py"
-      - ".github/workflows/es-dump-workspace.yml"
+      - ".github/workflows/jp-dump-workspace.yml"
 
 permissions:
   contents: write
 
 concurrency:
-  group: es-dump-workspace
+  group: jp-dump-workspace
   cancel-in-progress: false
 
 jobs:
   dump:
-    name: Publish ES dump folder
+    name: Publish JP dump folder
     runs-on: ubuntu-latest
     timeout-minutes: 15
 
@@ -39,15 +39,15 @@ jobs:
       - name: Generate dump files
         run: |
           python .github/scripts/dump_cdb.py \
-            --cdb "ES/Workspace/test-release.cdb" \
-            --out "$RUNNER_TEMP/es-workspace-dump" \
+            --cdb "JP/Workspace/test-release.cdb" \
+            --out "$RUNNER_TEMP/jp-workspace-dump" \
             --source-sha "$GITHUB_SHA" \
-            --source-path "ES/Workspace/test-release.cdb" \
-            --title "ES Workspace test-release.cdb Dump"
+            --source-path "JP/Workspace/test-release.cdb" \
+            --title "JP Workspace test-release.cdb Dump"
 
       - name: Publish dump branch
         env:
-          DUMP_DIR: ${{ runner.temp }}/es-workspace-dump
+          DUMP_DIR: ${{ runner.temp }}/jp-workspace-dump
         run: |
           set -euo pipefail
           git config user.name "ElderLich"
@@ -72,11 +72,11 @@ jobs:
             git rm -r -f --ignore-unmatch .
           fi
 
-          git rm -r -f --ignore-unmatch ES
+          git rm -r -f --ignore-unmatch JP
           git rm -r -f --ignore-unmatch cards manifest.json schema.sql datas.csv texts.csv cards-index.csv
-          mkdir -p ES
-          cp -a "$DUMP_DIR"/. ES/
-          rm -f ES/.gitattributes ES/.nojekyll
+          mkdir -p JP
+          cp -a "$DUMP_DIR"/. JP/
+          rm -f JP/.gitattributes JP/.nojekyll
 
           cat > README.md <<'EOF'
           # TransSuperpre CDB Dumps
@@ -93,9 +93,9 @@ jobs:
 
           git add .
           if git diff --cached --quiet; then
-            echo "No ES dump changes to publish."
+            echo "No JP dump changes to publish."
             exit 0
           fi
           short_sha="${GITHUB_SHA::7}"
-          git commit -m "Dump ES workspace from ${short_sha}"
+          git commit -m "Dump JP workspace from ${short_sha}"
           push_dump

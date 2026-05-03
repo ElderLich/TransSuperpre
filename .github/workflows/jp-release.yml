@@ -1,0 +1,84 @@
+name: Release JP
+
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows:
+      - "Sync JP Workspace"
+    types:
+      - completed
+  push:
+    branches:
+      - main
+    paths:
+      - "JP/Workspace/test-release.cdb"
+      - "JP/Workspace/test-strings.conf"
+      - ".github/workflows/jp-release.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: jp-automation-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  release:
+    name: Build JP package
+    if: github.event_name != 'workflow_run' || (github.event.workflow_run.conclusion == 'success' && github.event.workflow_run.head_branch == 'main')
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Build, commit, and tag JP release
+        env:
+          BRANCH_NAME: ${{ github.event.workflow_run.head_branch || github.ref_name }}
+        run: |
+          set -euo pipefail
+          git config user.name "ElderLich"
+          git config user.email "35314175+ElderLich@users.noreply.github.com"
+          branch="${BRANCH_NAME:-main}"
+
+          for attempt in 1 2 3; do
+            git fetch --tags origin "$branch"
+            git checkout -B "$branch" "origin/$branch"
+            rm -f JP/.autopr-commit-body.txt
+
+            python .github/scripts/ocg_autopr.py --lang jp release-build
+            git add -A -- "JP/Base Files/test-release.cdb" "JP/Base Files/test-strings.conf" JP/ygopro-super-pre.ypk JP/test-release.json JP/version.txt
+            if git diff --cached --quiet; then
+              echo "No JP release output changes to commit."
+              rm -f JP/.autopr-commit-body.txt
+              exit 0
+            fi
+
+            latest_tag=$(git tag --list 'JP-v*' | sed -E 's/^JP-v([0-9]+)$/\1/' | grep -E '^[0-9]+$' | awk '$1 < 10000' | sort -n | tail -1)
+            next_tag_number=$(( ${latest_tag:-0} + 1 ))
+            tag="JP-v${next_tag_number}"
+            commit_message=$(mktemp)
+            printf "Pre-Release 更新 JP - v%s\n\n" "$next_tag_number" > "$commit_message"
+            cat JP/.autopr-commit-body.txt >> "$commit_message"
+            git commit -F "$commit_message"
+            rm -f "$commit_message" JP/.autopr-commit-body.txt
+
+            if git push origin "HEAD:$branch"; then
+              git tag -a "$tag" -m "Release $tag"
+              git push origin "$tag"
+              exit 0
+            fi
+
+            echo "Push failed; refreshing and rebuilding (${attempt}/3)..."
+          done
+
+          echo "Unable to push JP release after rebuilding on the latest branch tip."
+          exit 1
