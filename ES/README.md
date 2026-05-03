@@ -4,4 +4,12 @@ Generated from `ES/Workspace/test-release.cdb` so database updates can be review
 
 Cards: `126`
 
-CDB SHA-256: `81e55e03b38096c54d9815bf84f79ec3a1edecdb8f5d8172e7dd146b1ced84c7`
+## Contents
+
+- `texts.csv`: raw CDB `texts` table, including `name`, `desc`, and `str1`-`str16`.
+- `text-fields.csv`: one row per dumped CDB text field for easier additions/removals.
+- `card-texts/<id>.txt`: one readable text dump per card for focused text diffs.
+- `datas.csv`: raw CDB `datas` table.
+- `cards/<id>.json`: combined card data and text record.
+
+CDB SHA-256: `2612df1d0cec87530c896fd8a64869a3a74250dec73702333bc911eb30e7db31`
