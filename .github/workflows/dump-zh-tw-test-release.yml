@@ -85,7 +85,7 @@ jobs:
           - `ZH-TW/`: ZH-TW Base Files `test-release.cdb`
           EOF
           printf "" > .nojekyll
-          printf "*.csv diff\n*.json diff\n*.sql diff\n" > .gitattributes
+          printf "*.csv diff\n*.json diff\n*.sql diff\n*.txt diff\n" > .gitattributes
 
           git add .
           if git diff --cached --quiet; then

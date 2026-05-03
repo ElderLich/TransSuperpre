@@ -16,6 +16,7 @@ DATAS_COLUMNS = [
     "id", "ot", "alias", "setcode", "type", "atk", "def", "level", "race", "attribute", "category",
 ]
 TEXTS_COLUMNS = ["id", "name", "desc"] + [f"str{i}" for i in range(1, 17)]
+TEXT_VALUE_COLUMNS = ["name", "desc"] + [f"str{i}" for i in range(1, 17)]
 
 
 def sha256_file(path: Path) -> str:
@@ -66,6 +67,35 @@ def write_json(path: Path, value: object) -> None:
         handle.write("\n")
 
 
+def normalize_text(value: object) -> str:
+    return ("" if value is None else str(value)).replace("\r\n", "\n").replace("\r", "\n")
+
+
+def write_card_text(path: Path, card_id: int, row: dict[str, object]) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    lines = [f"id: {card_id}", ""]
+    for field in TEXT_VALUE_COLUMNS:
+        value = normalize_text(row.get(field))
+        if field.startswith("str") and not value:
+            continue
+        lines.append(f"[{field}]")
+        lines.append(value)
+        lines.append("")
+    path.write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8", newline="\n")
+
+
+def text_field_rows(texts: dict[int, dict[str, object]], ids: list[int]) -> list[dict[str, object]]:
+    rows: list[dict[str, object]] = []
+    for card_id in ids:
+        card_name = normalize_text(texts[card_id].get("name"))
+        for field in TEXT_VALUE_COLUMNS:
+            value = normalize_text(texts[card_id].get(field))
+            if field.startswith("str") and not value:
+                continue
+            rows.append({"id": card_id, "name": card_name, "field": field, "value": value})
+    return rows
+
+
 def write_schema(conn: sqlite3.Connection, path: Path) -> None:
     rows = conn.execute(
         "SELECT type, name, sql FROM sqlite_master "
@@ -89,6 +119,8 @@ def write_readme(path: Path, source_path: str, source_sha: str, cdb_hash: str, c
         "",
         "- `datas.csv`: raw `datas` table sorted by card id.",
         "- `texts.csv`: raw `texts` table sorted by card id.",
+        "- `text-fields.csv`: one row per dumped CDB text field for easier additions/removals.",
+        "- `card-texts/<id>.txt`: one readable text dump per card for focused text diffs.",
         "- `cards/<id>.json`: one combined card record per id for focused diffs.",
         "- `schema.sql`: SQLite schema objects.",
         "- `manifest.json`: source metadata and row counts.",
@@ -135,9 +167,12 @@ def dump_cdb(cdb_path: Path, out_dir: Path, source_sha: str, source_path: str) -
         text_rows = [texts[card_id] for card_id in ids]
         write_csv(out_dir / "datas.csv", data_rows, DATAS_COLUMNS)
         write_csv(out_dir / "texts.csv", text_rows, TEXTS_COLUMNS)
+        text_fields = text_field_rows(texts, ids)
+        write_csv(out_dir / "text-fields.csv", text_fields, ["id", "name", "field", "value"])
         write_schema(conn, out_dir / "schema.sql")
 
         cards_dir = out_dir / "cards"
+        card_texts_dir = out_dir / "card-texts"
         index_rows: list[dict[str, object]] = []
         for card_id in ids:
             card = {
@@ -147,6 +182,7 @@ def dump_cdb(cdb_path: Path, out_dir: Path, source_sha: str, source_path: str) -
                 "texts": texts[card_id],
             }
             write_json(cards_dir / f"{card_id}.json", card)
+            write_card_text(card_texts_dir / f"{card_id}.txt", card_id, texts[card_id])
             index_rows.append({
                 "id": card_id,
                 "name": texts[card_id].get("name") or "",
@@ -167,10 +203,11 @@ def dump_cdb(cdb_path: Path, out_dir: Path, source_sha: str, source_path: str) -
                 "texts": len(text_rows),
             },
             "cards": len(ids),
+            "text_fields": len(text_fields),
         }
         write_json(out_dir / "manifest.json", manifest)
         write_readme(out_dir / "README.md", source_path, source_sha, cdb_hash, len(ids))
-        (out_dir / ".gitattributes").write_text("*.csv diff\n*.json diff\n*.sql diff\n", encoding="utf-8", newline="\n")
+        (out_dir / ".gitattributes").write_text("*.csv diff\n*.json diff\n*.sql diff\n*.txt diff\n", encoding="utf-8", newline="\n")
         (out_dir / ".nojekyll").write_text("", encoding="utf-8")
     finally:
         conn.close()

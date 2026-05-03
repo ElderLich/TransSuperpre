@@ -14,6 +14,7 @@ from pathlib import Path
 
 DATAS_COLUMNS = ["id", "ot", "alias", "setcode", "type", "atk", "def", "level", "race", "attribute", "category"]
 TEXTS_COLUMNS = ["id", "name", "desc"] + [f"str{i}" for i in range(1, 17)]
+TEXT_VALUE_COLUMNS = ["name", "desc"] + [f"str{i}" for i in range(1, 17)]
 
 
 def sha256_file(path: Path) -> str:
@@ -46,6 +47,35 @@ def write_json(path: Path, value: object) -> None:
         handle.write("\n")
 
 
+def normalize_text(value: object) -> str:
+    return ("" if value is None else str(value)).replace("\r\n", "\n").replace("\r", "\n")
+
+
+def write_card_text(path: Path, card_id: int, row: dict) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    lines = [f"id: {card_id}", ""]
+    for field in TEXT_VALUE_COLUMNS:
+        value = normalize_text(row.get(field))
+        if field.startswith("str") and not value:
+            continue
+        lines.append(f"[{field}]")
+        lines.append(value)
+        lines.append("")
+    path.write_text("\n".join(lines).rstrip() + "\n", encoding="utf-8", newline="\n")
+
+
+def text_field_rows(texts: dict[int, dict], ids: list[int]) -> list[dict]:
+    rows = []
+    for card_id in ids:
+        card_name = normalize_text(texts[card_id].get("name"))
+        for field in TEXT_VALUE_COLUMNS:
+            value = normalize_text(texts[card_id].get(field))
+            if field.startswith("str") and not value:
+                continue
+            rows.append({"id": card_id, "name": card_name, "field": field, "value": value})
+    return rows
+
+
 def rows_by_id(conn: sqlite3.Connection, table: str, columns: list[str]) -> dict[int, dict]:
     column_sql = ", ".join(f'"{column}"' for column in columns)
     rows = conn.execute(f"SELECT {column_sql} FROM {table} ORDER BY id").fetchall()
@@ -66,11 +96,14 @@ def dump_cdb(cdb_path: Path, out_dir: Path, source_sha: str, source_path: str, t
         text_rows = [texts[card_id] for card_id in ids]
         write_csv(out_dir / "datas.csv", data_rows, DATAS_COLUMNS)
         write_csv(out_dir / "texts.csv", text_rows, TEXTS_COLUMNS)
+        text_fields = text_field_rows(texts, ids)
+        write_csv(out_dir / "text-fields.csv", text_fields, ["id", "name", "field", "value"])
         write_csv(out_dir / "cards-index.csv", [
             {"id": card_id, "name": texts[card_id].get("name") or "", "type": datas[card_id].get("type"), "atk": datas[card_id].get("atk"), "def": datas[card_id].get("def")}
             for card_id in ids
         ], ["id", "name", "type", "atk", "def"])
         cards_dir = out_dir / "cards"
+        card_texts_dir = out_dir / "card-texts"
         for card_id in ids:
             write_json(cards_dir / f"{card_id}.json", {
                 "id": card_id,
@@ -78,6 +111,7 @@ def dump_cdb(cdb_path: Path, out_dir: Path, source_sha: str, source_path: str, t
                 "datas": datas[card_id],
                 "texts": texts[card_id],
             })
+            write_card_text(card_texts_dir / f"{card_id}.txt", card_id, texts[card_id])
         schema_rows = conn.execute("SELECT type, name, sql FROM sqlite_master WHERE sql IS NOT NULL AND name NOT LIKE 'sqlite_%' ORDER BY type, name").fetchall()
         with (out_dir / "schema.sql").open("w", encoding="utf-8", newline="\n") as handle:
             for kind, name, sql in schema_rows:
@@ -90,13 +124,14 @@ def dump_cdb(cdb_path: Path, out_dir: Path, source_sha: str, source_path: str, t
             "cdb_sha256": cdb_hash,
             "cards": len(ids),
             "tables": {"datas": len(data_rows), "texts": len(text_rows)},
+            "text_fields": len(text_fields),
         })
         (out_dir / "README.md").write_text(
-            f"# {title}\n\nGenerated from `{source_path}` so database updates can be reviewed as text diffs.\n\nCards: `{len(ids)}`\n\nCDB SHA-256: `{cdb_hash}`\n",
+            f"# {title}\n\nGenerated from `{source_path}` so database updates can be reviewed as text diffs.\n\nCards: `{len(ids)}`\n\n## Contents\n\n- `texts.csv`: raw CDB `texts` table, including `name`, `desc`, and `str1`-`str16`.\n- `text-fields.csv`: one row per dumped CDB text field for easier additions/removals.\n- `card-texts/<id>.txt`: one readable text dump per card for focused text diffs.\n- `datas.csv`: raw CDB `datas` table.\n- `cards/<id>.json`: combined card data and text record.\n\nCDB SHA-256: `{cdb_hash}`\n",
             encoding="utf-8",
             newline="\n",
         )
-        (out_dir / ".gitattributes").write_text("*.csv diff\n*.json diff\n*.sql diff\n", encoding="utf-8", newline="\n")
+        (out_dir / ".gitattributes").write_text("*.csv diff\n*.json diff\n*.sql diff\n*.txt diff\n", encoding="utf-8", newline="\n")
         (out_dir / ".nojekyll").write_text("", encoding="utf-8")
     finally:
         conn.close()
