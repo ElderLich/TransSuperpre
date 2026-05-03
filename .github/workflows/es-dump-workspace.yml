@@ -1,0 +1,99 @@
+name: Dump ES Workspace
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 7 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - "ES/Work Space/test-release.cdb"
+      - ".github/scripts/dump_cdb.py"
+      - ".github/workflows/es-dump-workspace.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: es-dump-workspace
+  cancel-in-progress: false
+
+jobs:
+  dump:
+    name: Publish ES dump folder
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generate dump files
+        run: |
+          python .github/scripts/dump_cdb.py \
+            --cdb "ES/Work Space/test-release.cdb" \
+            --out "$RUNNER_TEMP/es-workspace-dump" \
+            --source-sha "$GITHUB_SHA" \
+            --source-path "ES/Work Space/test-release.cdb" \
+            --title "ES Work Space test-release.cdb Dump"
+
+      - name: Publish dump branch
+        env:
+          DUMP_DIR: ${{ runner.temp }}/es-workspace-dump
+        run: |
+          set -euo pipefail
+          git config user.name "ElderLich"
+          git config user.email "35314175+ElderLich@users.noreply.github.com"
+
+          push_dump() {
+            for attempt in 1 2 3; do
+              if git push origin dump; then
+                return 0
+              fi
+              echo "Dump push failed; rebasing and retrying (${attempt}/3)..."
+              git pull --rebase origin dump
+            done
+            git push origin dump
+          }
+
+          if git ls-remote --exit-code --heads origin dump >/dev/null 2>&1; then
+            git fetch origin dump
+            git checkout -B dump origin/dump
+          else
+            git checkout --orphan dump
+            git rm -r -f --ignore-unmatch .
+          fi
+
+          git rm -r -f --ignore-unmatch ES
+          git rm -r -f --ignore-unmatch cards manifest.json schema.sql datas.csv texts.csv cards-index.csv
+          mkdir -p ES
+          cp -a "$DUMP_DIR"/. ES/
+          rm -f ES/.gitattributes ES/.nojekyll
+
+          cat > README.md <<'EOF'
+          # TransSuperpre CDB Dumps
+
+          Generated database dumps for reviewing translation CDB changes as text diffs.
+
+          - `ES/`: ES Work Space `test-release.cdb`
+          - `ZH-TW/`: ZH-TW Base Files `test-release.cdb`
+          EOF
+          printf "" > .nojekyll
+          printf "*.csv diff\n*.json diff\n*.sql diff\n" > .gitattributes
+
+          git add .
+          if git diff --cached --quiet; then
+            echo "No ES dump changes to publish."
+            exit 0
+          fi
+          short_sha="${GITHUB_SHA::7}"
+          git commit -m "Dump ES workspace from ${short_sha}"
+          push_dump
