@@ -1,0 +1,77 @@
+name: Release ES
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "ES/Workspace/**"
+      - ".github/scripts/es_autopr.py"
+      - ".github/workflows/es-release.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: es-release
+  cancel-in-progress: false
+
+jobs:
+  release:
+    name: Build ES package
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Build, commit, and tag ES release
+        run: |
+          set -euo pipefail
+          git config user.name "ElderLich"
+          git config user.email "35314175+ElderLich@users.noreply.github.com"
+          branch="${GITHUB_REF_NAME:-main}"
+
+          for attempt in 1 2 3; do
+            git fetch --tags origin "$branch"
+            git checkout -B "$branch" "origin/$branch"
+            rm -f ES/.autopr-commit-body.txt
+
+            python .github/scripts/es_autopr.py release-build
+            git add -A -- "ES/Base Files/test-release.cdb" "ES/Base Files/test-strings.conf" ES/ygopro-super-pre.ypk ES/test-release.json ES/version.txt
+            if git diff --cached --quiet; then
+              echo "No ES release output changes to commit."
+              rm -f ES/.autopr-commit-body.txt
+              exit 0
+            fi
+
+            # Ignore old timestamp-style tags such as ES-v1775706240.
+            latest_tag=$(git tag --list 'ES-v*' | sed -E 's/^ES-v([0-9]+)$/\1/' | grep -E '^[0-9]+$' | awk '$1 < 10000' | sort -n | tail -1)
+            next_tag_number=$(( ${latest_tag:-0} + 1 ))
+            tag="ES-v${next_tag_number}"
+            commit_message=$(mktemp)
+            printf "Actualización Pre-Release ES - v%s\n\n" "$next_tag_number" > "$commit_message"
+            cat ES/.autopr-commit-body.txt >> "$commit_message"
+            git commit -F "$commit_message"
+            rm -f "$commit_message" ES/.autopr-commit-body.txt
+
+            if git push origin "HEAD:$branch"; then
+              git tag -a "$tag" -m "Release $tag"
+              git push origin "$tag"
+              exit 0
+            fi
+
+            echo "Push failed; refreshing and rebuilding (${attempt}/3)..."
+          done
+
+          echo "Unable to push ES release after rebuilding on the latest branch tip."
+          exit 1

@@ -1,0 +1,102 @@
+name: Dump ZH-TW test-release.cdb
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 6 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - "ZH-TW/Base Files/test-release.cdb"
+      - ".github/scripts/dump_zh_tw_cdb.py"
+      - ".github/workflows/dump-zh-tw-test-release.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: dump-zh-tw-test-release
+  cancel-in-progress: false
+
+jobs:
+  dump:
+    name: Publish ZH-TW dump folder
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generate dump files
+        run: |
+          python .github/scripts/dump_zh_tw_cdb.py \
+            --cdb "ZH-TW/Base Files/test-release.cdb" \
+            --out "$RUNNER_TEMP/zh-tw-test-release-dump" \
+            --source-sha "$GITHUB_SHA"
+
+      - name: Publish dump branch
+        env:
+          DUMP_DIR: ${{ runner.temp }}/zh-tw-test-release-dump
+        run: |
+          set -euo pipefail
+          git config user.name "ElderLich"
+          git config user.email "35314175+ElderLich@users.noreply.github.com"
+
+          push_dump() {
+            for attempt in 1 2 3; do
+              if git push origin dump; then
+                return 0
+              fi
+              echo "Dump push failed; rebasing and retrying (${attempt}/3)..."
+              git pull --rebase origin dump
+            done
+            git push origin dump
+          }
+
+          if git ls-remote --exit-code --heads origin dump >/dev/null 2>&1; then
+            git fetch origin dump
+            git checkout -B dump origin/dump
+          else
+            git checkout --orphan dump
+            git rm -r -f --ignore-unmatch .
+          fi
+
+          git rm -r -f --ignore-unmatch ZH-TW
+          git rm -r -f --ignore-unmatch cards manifest.json schema.sql datas.csv texts.csv cards-index.csv
+          mkdir -p ZH-TW
+          cp -a "$DUMP_DIR"/. ZH-TW/
+          rm -f ZH-TW/.gitattributes ZH-TW/.nojekyll
+
+          cat > README.md <<'EOF'
+          # TransSuperpre CDB Dumps
+
+          Generated database dumps for reviewing translation CDB changes as text diffs.
+
+          - `ES/`: ES Workspace `test-release.cdb`
+          - `ZH-TW/`: ZH-TW Base Files `test-release.cdb`
+          EOF
+          printf "" > .nojekyll
+          printf "*.csv diff\n*.json diff\n*.sql diff\n" > .gitattributes
+
+          git add .
+          if git diff --cached --quiet; then
+            echo "No ZH-TW dump changes to publish."
+            exit 0
+          fi
+
+          short_sha="${GITHUB_SHA::7}"
+          git commit -m "Dump ZH-TW test-release.cdb from ${short_sha}"
+          push_dump
+
+          echo "### ZH-TW test-release.cdb dump" >> "$GITHUB_STEP_SUMMARY"
+          echo "Published text dump to branch \`dump\` under \`ZH-TW/\`." >> "$GITHUB_STEP_SUMMARY"
+          echo "Source commit: \`${GITHUB_SHA}\`" >> "$GITHUB_STEP_SUMMARY"
