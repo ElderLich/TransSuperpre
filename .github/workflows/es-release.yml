@@ -6,7 +6,8 @@ on:
     branches:
       - main
     paths:
-      - "ES/Workspace/**"
+      - "ES/Workspace/test-release.cdb"
+      - "ES/Workspace/test-strings.conf"
       - ".github/scripts/es_autopr.py"
       - ".github/workflows/es-release.yml"
 

@@ -544,6 +544,15 @@ def run_prompt_patcher(cdb_path: Path, cards_cdb: Path) -> None:
     patch_pendulum_layout_desc(cdb_path, log_fn=log, report_limit=25)
 
 
+def apply_workspace_mappings_for_release(cdb_path: Path, cards_cdb: Path) -> None:
+    mappings_path = WORK_DIR / "Mappings.csv"
+    mappings = load_mappings_csv(mappings_path)
+    if not mappings:
+        log("No workspace mappings to apply to release CDB")
+        return
+    apply_mappings_to_cdb(cdb_path, mappings, cards_cdb)
+
+
 def replace_payloads_in_ypk(base_ypk: Path, output_ypk: Path, payloads: dict[str, Path]) -> None:
     need = set(payloads)
     temp_ypk = output_ypk.with_suffix(".tmp")
@@ -670,6 +679,7 @@ def release_build() -> None:
         test_update = work / "test-update.cdb"
         download_file(YPK_URL, ypk)
         download_file(CARDS_CDB_URL, cards_cdb)
+        apply_workspace_mappings_for_release(base_release, cards_cdb)
         extract_member(ypk, "test-update.cdb", test_update)
         translate_test_update_cdb(test_update, cards_cdb)
         payloads["test-update.cdb"] = test_update

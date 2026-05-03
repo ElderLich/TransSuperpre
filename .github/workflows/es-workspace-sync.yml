@@ -8,6 +8,7 @@ on:
     branches:
       - main
     paths:
+      - "ES/Workspace/Mappings.csv"
       - ".github/scripts/es_autopr.py"
       - ".github/workflows/es-workspace-sync.yml"
       - "Tools/PromptPatcher.py"
