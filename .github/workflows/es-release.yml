@@ -41,13 +41,25 @@ jobs:
         run: |
           git config user.name "ElderLich"
           git config user.email "35314175+ElderLich@users.noreply.github.com"
+          push_main() {
+            for attempt in 1 2 3; do
+              if git push origin "HEAD:${GITHUB_REF_NAME:-main}"; then
+                return 0
+              fi
+              echo "Push failed; rebasing and retrying (${attempt}/3)..."
+              git pull --rebase origin "${GITHUB_REF_NAME:-main}"
+            done
+            git push origin "HEAD:${GITHUB_REF_NAME:-main}"
+          }
           git add ES/ygopro-super-pre.ypk ES/test-release.json ES/version.txt
           if git diff --cached --quiet; then
             echo "No ES release output changes to commit."
             rm -f ES/.autopr-commit-body.txt
             exit 0
           fi
-          latest_tag=$(git tag --list 'ES-v*' | sed -E 's/^ES-v([0-9]+)$/\1/' | grep -E '^[0-9]+$' | sort -n | tail -1)
+          git fetch --tags origin
+          # Ignore old timestamp-style tags such as ES-v1775706240.
+          latest_tag=$(git tag --list 'ES-v*' | sed -E 's/^ES-v([0-9]+)$/\1/' | grep -E '^[0-9]+$' | awk '$1 < 10000' | sort -n | tail -1)
           next_tag_number=$(( ${latest_tag:-0} + 1 ))
           tag="ES-v${next_tag_number}"
           commit_message=$(mktemp)
@@ -55,5 +67,6 @@ jobs:
           cat ES/.autopr-commit-body.txt >> "$commit_message"
           git commit -F "$commit_message"
           rm -f "$commit_message" ES/.autopr-commit-body.txt
+          push_main
           git tag -a "$tag" -m "Release $tag"
-          git push origin "HEAD:${GITHUB_REF_NAME:-main}" --follow-tags
+          git push origin "$tag"

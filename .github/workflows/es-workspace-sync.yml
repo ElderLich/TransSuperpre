@@ -43,10 +43,20 @@ jobs:
         run: |
           git config user.name "ElderLich"
           git config user.email "35314175+ElderLich@users.noreply.github.com"
+          push_main() {
+            for attempt in 1 2 3; do
+              if git push origin "HEAD:${GITHUB_REF_NAME:-main}"; then
+                return 0
+              fi
+              echo "Push failed; rebasing and retrying (${attempt}/3)..."
+              git pull --rebase origin "${GITHUB_REF_NAME:-main}"
+            done
+            git push origin "HEAD:${GITHUB_REF_NAME:-main}"
+          }
           git add "ES/Base Files/test-release.cdb" "ES/Base Files/test-strings.conf" "ES/Base Files/test-update.cdb" "ES/Work Space/test-release.cdb" "ES/Work Space/test-strings.conf" "ES/Work Space/test-update.cdb" "ES/Work Space/Mappings.csv" "ES/Work Space/Reports" Tools/PromptPatcher.py
           if git diff --cached --quiet; then
             echo "No ES workspace changes to commit."
             exit 0
           fi
           git commit -m "Sync ES workspace"
-          git push origin "HEAD:${GITHUB_REF_NAME:-main}"
+          push_main

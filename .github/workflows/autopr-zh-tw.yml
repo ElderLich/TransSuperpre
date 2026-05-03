@@ -52,13 +52,24 @@ jobs:
         run: |
           git config user.name "ElderLich"
           git config user.email "35314175+ElderLich@users.noreply.github.com"
+          push_main() {
+            for attempt in 1 2 3; do
+              if git push origin "HEAD:${GITHUB_REF_NAME:-main}"; then
+                return 0
+              fi
+              echo "Push failed; rebasing and retrying (${attempt}/3)..."
+              git pull --rebase origin "${GITHUB_REF_NAME:-main}"
+            done
+            git push origin "HEAD:${GITHUB_REF_NAME:-main}"
+          }
           git add ZH-TW/ygopro-super-pre.ypk ZH-TW/test-release.json ZH-TW/version.txt "ZH-TW/Base Files/test-release.cdb" "ZH-TW/Base Files/test-strings.conf" "ZH-TW/Base Files/test-update.cdb"
           if git diff --cached --quiet; then
             echo "No generated output changes to commit."
             rm -f ZH-TW/.autopr-commit-body.txt
             exit 0
           fi
-          latest_tag=$(git tag --list 'TW-v*' | sed -E 's/^TW-v([0-9]+)$/\1/' | grep -E '^[0-9]+$' | sort -n | tail -1)
+          git fetch --tags origin
+          latest_tag=$(git tag --list 'TW-v*' | sed -E 's/^TW-v([0-9]+)$/\1/' | grep -E '^[0-9]+$' | awk '$1 < 10000' | sort -n | tail -1)
           next_tag_number=$(( ${latest_tag:-0} + 1 ))
           tag="TW-v${next_tag_number}"
           commit_message=$(mktemp)
@@ -66,5 +77,6 @@ jobs:
           cat ZH-TW/.autopr-commit-body.txt >> "$commit_message"
           git commit -F "$commit_message"
           rm -f "$commit_message" ZH-TW/.autopr-commit-body.txt
+          push_main
           git tag -a "$tag" -m "Release $tag"
-          git push origin "HEAD:${GITHUB_REF_NAME:-main}" --follow-tags
+          git push origin "$tag"
