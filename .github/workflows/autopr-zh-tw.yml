@@ -48,8 +48,8 @@ jobs:
 
       - name: Commit generated outputs
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "ElderLich"
+          git config user.email "vulgrim690@gmail.com"
           git add ZH-TW/ygopro-super-pre.ypk ZH-TW/test-release.json ZH-TW/version.txt
           if git diff --cached --quiet; then
             echo "No generated output changes to commit."

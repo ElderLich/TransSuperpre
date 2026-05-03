@@ -1,0 +1,74 @@
+name: Dump ZH-TW test-release.cdb
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "ZH-TW/Base Files/test-release.cdb"
+      - ".github/scripts/dump_zh_tw_cdb.py"
+      - ".github/workflows/dump-zh-tw-test-release.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: dump-zh-tw-test-release
+  cancel-in-progress: false
+
+jobs:
+  dump:
+    name: Publish dump branch
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generate dump files
+        run: |
+          python .github/scripts/dump_zh_tw_cdb.py \
+            --cdb "ZH-TW/Base Files/test-release.cdb" \
+            --out "$RUNNER_TEMP/zh-tw-test-release-dump" \
+            --source-sha "$GITHUB_SHA"
+
+      - name: Publish dump branch
+        env:
+          DUMP_DIR: ${{ runner.temp }}/zh-tw-test-release-dump
+        run: |
+          set -euo pipefail
+          git config user.name "ElderLich"
+          git config user.email "vulgrim690@gmail.com"
+
+          if git ls-remote --exit-code --heads origin dump >/dev/null 2>&1; then
+            git fetch origin dump
+            git checkout -B dump origin/dump
+          else
+            git checkout --orphan dump
+          fi
+
+          git rm -r --ignore-unmatch .
+          cp -a "$DUMP_DIR"/. .
+          git add .
+
+          if git diff --cached --quiet; then
+            echo "No dump changes to publish."
+            exit 0
+          fi
+
+          short_sha="${GITHUB_SHA::7}"
+          git commit -m "Dump ZH-TW test-release.cdb from ${short_sha}"
+          git push origin dump
+
+          echo "### ZH-TW test-release.cdb dump" >> "$GITHUB_STEP_SUMMARY"
+          echo "Published text dump to branch \`dump\`." >> "$GITHUB_STEP_SUMMARY"
+          echo "Source commit: \`${GITHUB_SHA}\`" >> "$GITHUB_STEP_SUMMARY"
