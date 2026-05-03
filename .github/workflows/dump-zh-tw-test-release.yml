@@ -2,6 +2,8 @@ name: Dump ZH-TW test-release.cdb
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "30 6 * * *"
   push:
     branches:
       - main

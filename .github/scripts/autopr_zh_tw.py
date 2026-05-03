@@ -25,7 +25,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
 OUTPUT_DIR = Path(os.environ.get("TW_AUTOPR_OUTPUT_DIR", ROOT / "ZH-TW")).resolve()
-INPUT_DIR = Path(os.environ.get("TW_AUTOPR_INPUT_DIR", OUTPUT_DIR / "Base Files")).resolve()
+BASE_FILES_DIR = Path(os.environ.get("TW_AUTOPR_BASE_FILES_DIR", OUTPUT_DIR / "Base Files")).resolve()
 CARDEDITOR_EXPANSIONS_DIR = Path(
     os.environ.get("TW_AUTOPR_CARDEDITOR_EXPANSIONS_DIR", ROOT / "_cardeditor" / "expansions")
 ).resolve()
@@ -247,6 +247,14 @@ def prepare_payloads(base_ypk: Path, work_dir: Path) -> dict[str, Path]:
     }
 
 
+def sync_base_files(payloads: dict[str, Path]) -> None:
+    BASE_FILES_DIR.mkdir(parents=True, exist_ok=True)
+    for name, source in sorted(payloads.items()):
+        destination = BASE_FILES_DIR / name
+        shutil.copy2(source, destination)
+        log(f"Refreshed Base Files/{name}")
+
+
 def replace_payloads_in_ypk(base_ypk: Path, output_ypk: Path, payloads: dict[str, Path]) -> None:
     temp_ypk = output_ypk.with_suffix(".tmp")
     names_to_replace = set(payloads)
@@ -360,6 +368,7 @@ def main() -> None:
         base_ypk = work_dir / "ygopro-super-pre.download.tmp"
         download_file(YPK_URL, base_ypk)
         payloads = prepare_payloads(base_ypk, work_dir)
+        sync_base_files(payloads)
         replace_payloads_in_ypk(base_ypk, OUTPUT_DIR / "ygopro-super-pre.ypk", payloads)
         new_data = write_release_json(payloads["test-release.cdb"], OUTPUT_DIR / "test-release.json")
         write_version(OUTPUT_DIR)
