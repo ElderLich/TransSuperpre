@@ -1,7 +1,7 @@
-# ES Work Space test-release.cdb Dump
+# ES Workspace test-release.cdb Dump
 
-Generated from `ES/Work Space/test-release.cdb` so database updates can be reviewed as text diffs.
+Generated from `ES/Workspace/test-release.cdb` so database updates can be reviewed as text diffs.
 
-Cards: `126`
+Cards: `124`
 
-CDB SHA-256: `f083a61a92fbe4486260cbe99e4f3ec717fadfb45f1d513e03bb3e4151e48291`
+CDB SHA-256: `74c00278c57615c1dd03640cae6e947c01d90bb3b5718e4c987e3fac6e5e8585`
