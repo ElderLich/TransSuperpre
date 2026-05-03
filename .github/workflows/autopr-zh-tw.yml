@@ -51,7 +51,7 @@ jobs:
       - name: Commit generated outputs
         run: |
           git config user.name "ElderLich"
-          git config user.email "vulgrim690@gmail.com"
+          git config user.email "35314175+ElderLich@users.noreply.github.com"
           git add ZH-TW/ygopro-super-pre.ypk ZH-TW/test-release.json ZH-TW/version.txt "ZH-TW/Base Files/test-release.cdb" "ZH-TW/Base Files/test-strings.conf" "ZH-TW/Base Files/test-update.cdb"
           if git diff --cached --quiet; then
             echo "No generated output changes to commit."

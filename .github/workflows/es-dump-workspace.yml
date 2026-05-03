@@ -1,0 +1,70 @@
+name: Dump ES Workspace
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 7 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - "ES/Work Space/test-release.cdb"
+      - ".github/scripts/dump_cdb.py"
+      - ".github/workflows/es-dump-workspace.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: es-dump-workspace
+  cancel-in-progress: false
+
+jobs:
+  dump:
+    name: Publish ES dump branch
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generate dump files
+        run: |
+          python .github/scripts/dump_cdb.py \
+            --cdb "ES/Work Space/test-release.cdb" \
+            --out "$RUNNER_TEMP/es-workspace-dump" \
+            --source-sha "$GITHUB_SHA" \
+            --source-path "ES/Work Space/test-release.cdb" \
+            --title "ES Work Space test-release.cdb Dump"
+
+      - name: Publish dump-es branch
+        env:
+          DUMP_DIR: ${{ runner.temp }}/es-workspace-dump
+        run: |
+          set -euo pipefail
+          git config user.name "ElderLich"
+          git config user.email "35314175+ElderLich@users.noreply.github.com"
+          if git ls-remote --exit-code --heads origin dump-es >/dev/null 2>&1; then
+            git fetch origin dump-es
+            git checkout -B dump-es origin/dump-es
+          else
+            git checkout --orphan dump-es
+          fi
+          git rm -r -f --ignore-unmatch .
+          cp -a "$DUMP_DIR"/. .
+          git add .
+          if git diff --cached --quiet; then
+            echo "No ES dump changes to publish."
+            exit 0
+          fi
+          short_sha="${GITHUB_SHA::7}"
+          git commit -m "Dump ES workspace from ${short_sha}"
+          git push origin dump-es

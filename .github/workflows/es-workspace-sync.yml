@@ -1,0 +1,52 @@
+name: Sync ES Workspace
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 7 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/scripts/es_autopr.py"
+      - ".github/workflows/es-workspace-sync.yml"
+      - "Tools/PromptPatcher.py"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: es-workspace-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    name: Import new ES cards and prompts
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Sync workspace
+        run: python .github/scripts/es_autopr.py workspace-sync
+
+      - name: Commit workspace updates
+        run: |
+          git config user.name "ElderLich"
+          git config user.email "35314175+ElderLich@users.noreply.github.com"
+          git add "ES/Base Files/test-release.cdb" "ES/Base Files/test-strings.conf" "ES/Base Files/test-update.cdb" "ES/Work Space/test-release.cdb" "ES/Work Space/test-strings.conf" "ES/Work Space/test-update.cdb" "ES/Work Space/Mappings.csv" "ES/Work Space/Reports" Tools/PromptPatcher.py
+          if git diff --cached --quiet; then
+            echo "No ES workspace changes to commit."
+            exit 0
+          fi
+          git commit -m "Sync ES workspace"
+          git push origin "HEAD:${GITHUB_REF_NAME:-main}"
