@@ -62,7 +62,7 @@ jobs:
               exit 0
             fi
 
-            latest_tag=$(git tag --list 'JP-v*' | sed -E 's/^JP-v([0-9]+)$/\1/' | grep -E '^[0-9]+$' | awk '$1 < 10000' | sort -n | tail -1)
+            latest_tag=$(git tag --list 'JP-v*' | sed -E 's/^JP-v([0-9]+)$/\1/' | grep -E '^[0-9]+$' | awk '$1 < 10000' | sort -n | tail -1 || true)
             next_tag_number=$(( ${latest_tag:-0} + 1 ))
             tag="JP-v${next_tag_number}"
             commit_message=$(mktemp)
