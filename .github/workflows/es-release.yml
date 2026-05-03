@@ -6,7 +6,7 @@ on:
     branches:
       - main
     paths:
-      - "ES/Work Space/**"
+      - "ES/Workspace/**"
       - ".github/scripts/es_autopr.py"
       - ".github/workflows/es-release.yml"
 

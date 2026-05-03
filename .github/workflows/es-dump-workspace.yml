@@ -8,7 +8,7 @@ on:
     branches:
       - main
     paths:
-      - "ES/Work Space/test-release.cdb"
+      - "ES/Workspace/test-release.cdb"
       - ".github/scripts/dump_cdb.py"
       - ".github/workflows/es-dump-workspace.yml"
 
@@ -39,11 +39,11 @@ jobs:
       - name: Generate dump files
         run: |
           python .github/scripts/dump_cdb.py \
-            --cdb "ES/Work Space/test-release.cdb" \
+            --cdb "ES/Workspace/test-release.cdb" \
             --out "$RUNNER_TEMP/es-workspace-dump" \
             --source-sha "$GITHUB_SHA" \
-            --source-path "ES/Work Space/test-release.cdb" \
-            --title "ES Work Space test-release.cdb Dump"
+            --source-path "ES/Workspace/test-release.cdb" \
+            --title "ES Workspace test-release.cdb Dump"
 
       - name: Publish dump branch
         env:
@@ -83,7 +83,7 @@ jobs:
 
           Generated database dumps for reviewing translation CDB changes as text diffs.
 
-          - `ES/`: ES Work Space `test-release.cdb`
+          - `ES/`: ES Workspace `test-release.cdb`
           - `ZH-TW/`: ZH-TW Base Files `test-release.cdb`
           EOF
           printf "" > .nojekyll
