@@ -158,7 +158,7 @@ def command_actions(args: argparse.Namespace) -> None:
     if not gh:
         log("GitHub CLI not found; open https://github.com/ElderLich/TransSuperpre/actions")
         return
-    run([
+    cmd = [
         gh,
         "run",
         "list",
@@ -170,7 +170,15 @@ def command_actions(args: argparse.Namespace) -> None:
         "databaseId,name,status,conclusion,headSha,event,createdAt",
         "--jq",
         '.[] | [.databaseId,.name,.event,.status,(.conclusion//""),.headSha[0:7],.createdAt] | @tsv',
-    ], Path(args.repo_root), check=False)
+    ]
+    log("$ " + " ".join(cmd))
+    result = subprocess.run(cmd, cwd=str(Path(args.repo_root)), text=True, capture_output=True)
+    if result.stdout:
+        print(result.stdout, end="")
+    if result.returncode != 0:
+        log("GitHub Actions status unavailable; check network/proxy/auth or open the Actions page manually")
+        if result.stderr:
+            print(result.stderr.strip())
 
 
 def build_parser() -> argparse.ArgumentParser:
