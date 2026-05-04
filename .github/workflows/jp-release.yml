@@ -55,7 +55,7 @@ jobs:
             rm -f JP/.autopr-commit-body.txt
 
             python .github/scripts/ocg_autopr.py --lang jp release-build
-            git add -A -- "JP/Base Files/test-release.cdb" "JP/Base Files/test-strings.conf" JP/ygopro-super-pre.ypk JP/test-release.json JP/version.txt
+            git add -A -- "JP/Workspace/test-release.cdb" "JP/Base Files/test-release.cdb" "JP/Base Files/test-strings.conf" JP/ygopro-super-pre.ypk JP/test-release.json JP/version.txt
             if git diff --cached --quiet; then
               echo "No JP release output changes to commit."
               rm -f JP/.autopr-commit-body.txt

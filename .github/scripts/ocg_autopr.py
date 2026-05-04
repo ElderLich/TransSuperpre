@@ -485,6 +485,8 @@ ROMANS_RANGE = [
 ROMAN_PATTERN_JP = re.compile(r"\b(?:" + "|".join(ROMANS_RANGE) + r")\b", re.IGNORECASE)
 JP_SCOPED_HALFWIDTH_TRANS = str.maketrans({"．": "."})
 JP_SCOPED_PATTERN = re.compile(r"『[^』]*』|「[^」]*」")
+JP_TITLE_SCOPED_PATTERN = re.compile(r"『[^』]*』")
+JP_CDB_TEXT_COLUMNS = ["name", "desc"] + [f"str{i}" for i in range(1, 17)]
 
 
 def to_fullwidth(value: str) -> str:
@@ -504,6 +506,55 @@ def scoped_halfwidth_jp(text: str) -> str:
         return f"{segment[0]}{segment[1:-1].translate(JP_SCOPED_HALFWIDTH_TRANS)}{segment[-1]}"
 
     return JP_SCOPED_PATTERN.sub(repl, text or "")
+
+
+def scoped_title_halfwidth_jp(text: str) -> str:
+    def repl(match: re.Match) -> str:
+        segment = match.group(0)
+        return f"{segment[0]}{segment[1:-1].translate(JP_SCOPED_HALFWIDTH_TRANS)}{segment[-1]}"
+
+    return JP_TITLE_SCOPED_PATTERN.sub(repl, text or "")
+
+
+def normalize_jp_cdb_value(column: str, value: object) -> object:
+    if CONFIG.lang != "jp" or not isinstance(value, str) or not value:
+        return value
+    text = unicodedata.normalize("NFKC", value) if column == "name" else value
+    text = replace_roman_numerals_jp(text)
+    text = to_fullwidth(text)
+    if column == "name":
+        return scoped_halfwidth_jp(text)
+    return scoped_title_halfwidth_jp(text)
+
+
+def normalize_jp_cdb(cdb_path: Path) -> None:
+    if CONFIG.lang != "jp":
+        return
+    conn = sqlite3.connect(str(cdb_path))
+    changed_rows = 0
+    changed_cells = 0
+    try:
+        available = set(table_columns(conn, "texts"))
+        columns = [column for column in JP_CDB_TEXT_COLUMNS if column in available]
+        if not columns:
+            return
+        select_columns = quoted_columns(["id"] + columns)
+        set_clause = ", ".join(f'"{column}"=?' for column in columns)
+        rows = conn.execute(f"SELECT {select_columns} FROM texts").fetchall()
+        for row in rows:
+            card_id = row[0]
+            old_values = list(row[1:])
+            new_values = [normalize_jp_cdb_value(column, value) for column, value in zip(columns, old_values)]
+            changed_cells += sum(1 for old, new in zip(old_values, new_values) if old != new)
+            if new_values != old_values:
+                conn.execute(f"UPDATE texts SET {set_clause} WHERE id=?", (*new_values, card_id))
+                changed_rows += 1
+        conn.commit()
+        if changed_rows:
+            conn.execute("VACUUM")
+        log(f"[JP] Normalized test-release.cdb full-width text: rows={changed_rows}, cells={changed_cells}")
+    finally:
+        conn.close()
 
 
 def normalize_test_string_name(directive: str, code: str, name: str) -> str:
@@ -903,6 +954,7 @@ def run_prompt_patcher(cdb_path: Path, cards_cdb: Path) -> None:
     save_mappings_csv(mappings_path, mappings)
     apply_mappings_to_cdb(cdb_path, mappings, cards_cdb)
     patch_pendulum_layout_desc(cdb_path)
+    normalize_jp_cdb(cdb_path)
 
 
 def apply_workspace_mappings_for_release(cdb_path: Path, cards_cdb: Path) -> None:
@@ -1020,6 +1072,7 @@ def workspace_sync() -> None:
 def release_build() -> None:
     workspace_release = require_file(WORK_DIR / "test-release.cdb", "workspace test-release.cdb")
     workspace_strings = require_file(WORK_DIR / "test-strings.conf", "workspace test-strings.conf")
+    normalize_jp_cdb(workspace_release)
     ensure_test_strings_ready(workspace_strings)
 
     BASE_DIR.mkdir(parents=True, exist_ok=True)
@@ -1042,6 +1095,7 @@ def release_build() -> None:
         download_file(YPK_URL, ypk)
         download_file(CARDS_CDB_URL, cards_cdb)
         apply_workspace_mappings_for_release(base_release, cards_cdb)
+        normalize_jp_cdb(base_release)
         extract_member(ypk, "test-update.cdb", test_update)
         translate_test_update_cdb(test_update, cards_cdb)
         payloads["test-update.cdb"] = test_update
