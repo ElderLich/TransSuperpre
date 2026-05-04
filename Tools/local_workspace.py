@@ -13,11 +13,9 @@ import argparse
 import os
 import shutil
 import subprocess
-import sys
 from dataclasses import dataclass
 from pathlib import Path
 
-DEFAULT_LOCAL_ROOT = Path(os.environ.get("SUPER_PRE_LOCAL_ROOT", r"D:\Modding\Super-Pre Translations"))
 DEFAULT_REPO_ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_GH_REPO = os.environ.get("TRANSSUPERPRE_GH_REPO", "ElderLich/TransSuperpre")
 
@@ -36,6 +34,7 @@ LANGS = {
 
 REQUIRED_WORKSPACE_FILES = ("test-release.cdb", "test-strings.conf")
 OPTIONAL_ROOT_FILES = ("Mappings.csv",)
+LOCAL_ROOT_ENV = "SUPER_PRE_LOCAL_ROOT"
 
 
 def log(message: str) -> None:
@@ -58,9 +57,41 @@ def repo_relative(repo_root: Path, path: Path) -> str:
     return path.resolve().relative_to(repo_root.resolve()).as_posix()
 
 
+def looks_like_local_root(path: Path) -> bool:
+    return any((path / config.folder / "raw2").is_dir() for config in LANGS.values())
+
+
+def discover_local_root(lang: str | None = None) -> Path | None:
+    env_value = os.environ.get(LOCAL_ROOT_ENV)
+    if env_value:
+        return Path(env_value).expanduser()
+
+    cwd = Path.cwd().resolve()
+    candidates = [cwd, *cwd.parents]
+    folder = LANGS[lang].folder if lang in LANGS else None
+    for candidate in candidates:
+        if folder and candidate.name.lower() == folder.lower() and (candidate / "raw2").is_dir():
+            return candidate.parent
+        if looks_like_local_root(candidate):
+            return candidate
+    return None
+
+
+def resolve_local_root(value: str | None, lang: str) -> Path:
+    if value:
+        return Path(value).expanduser()
+    discovered = discover_local_root(lang)
+    if discovered:
+        return discovered
+    fail(
+        "local translation root was not found. Pass --local-root, set SUPER_PRE_LOCAL_ROOT, "
+        "or run through the locale AutoPR.py wrapper."
+    )
+
+
 def local_paths(args: argparse.Namespace, config: LangConfig) -> tuple[Path, Path, Path]:
-    local_root = Path(args.local_root)
-    repo_root = Path(args.repo_root)
+    local_root = resolve_local_root(args.local_root, config.key)
+    repo_root = Path(args.repo_root).expanduser()
     local_dir = local_root / config.folder
     source_dir = local_dir / args.source_dir
     workspace_dir = repo_root / config.folder / "Workspace"
@@ -115,7 +146,7 @@ def ensure_no_staged_changes(repo_root: Path) -> None:
 
 
 def commit_and_push(args: argparse.Namespace, paths: list[Path]) -> None:
-    repo_root = Path(args.repo_root)
+    repo_root = Path(args.repo_root).expanduser()
     ensure_no_staged_changes(repo_root)
     rel_paths = [repo_relative(repo_root, path) for path in paths]
     run(["git", "add", "-A", "--", *rel_paths], repo_root)
@@ -131,7 +162,7 @@ def commit_and_push(args: argparse.Namespace, paths: list[Path]) -> None:
 
 
 def command_upload(args: argparse.Namespace) -> None:
-    repo_root = Path(args.repo_root)
+    repo_root = Path(args.repo_root).expanduser()
     if args.pull_first:
         run(["git", "pull", "--ff-only", "origin", "main"], repo_root)
     changed_paths = copy_workspace(args)
@@ -144,11 +175,11 @@ def command_upload(args: argparse.Namespace) -> None:
 
 
 def command_pull(args: argparse.Namespace) -> None:
-    run(["git", "pull", "--ff-only", "origin", "main"], Path(args.repo_root))
+    run(["git", "pull", "--ff-only", "origin", "main"], Path(args.repo_root).expanduser())
 
 
 def command_status(args: argparse.Namespace) -> None:
-    repo_root = Path(args.repo_root)
+    repo_root = Path(args.repo_root).expanduser()
     run(["git", "status", "--short", "--branch"], repo_root, check=False)
     command_actions(args)
 
@@ -172,7 +203,7 @@ def command_actions(args: argparse.Namespace) -> None:
         '.[] | [.databaseId,.name,.event,.status,(.conclusion//""),.headSha[0:7],.createdAt] | @tsv',
     ]
     log("$ " + " ".join(cmd))
-    result = subprocess.run(cmd, cwd=str(Path(args.repo_root)), text=True, capture_output=True)
+    result = subprocess.run(cmd, cwd=str(Path(args.repo_root).expanduser()), text=True, capture_output=True)
     if result.stdout:
         print(result.stdout, end="")
     if result.returncode != 0:
@@ -184,7 +215,10 @@ def command_actions(args: argparse.Namespace) -> None:
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--repo-root", default=str(DEFAULT_REPO_ROOT), help="Path to the TransSuperpre repo")
-    parser.add_argument("--local-root", default=str(DEFAULT_LOCAL_ROOT), help="Path to the old local translation workspace")
+    parser.add_argument(
+        "--local-root",
+        help="Path to the local translation workspace root. Defaults to SUPER_PRE_LOCAL_ROOT or auto-discovery from the current folder.",
+    )
     parser.add_argument("--gh-repo", default=DEFAULT_GH_REPO, help="GitHub repo for gh run list")
 
     subparsers = parser.add_subparsers(dest="command", required=True)
