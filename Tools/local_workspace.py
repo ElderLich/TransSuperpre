@@ -27,9 +27,14 @@ class LangConfig:
 
 
 LANGS = {
+    "de": LangConfig("de", "DE"),
+    "en": LangConfig("en", "EN"),
     "es": LangConfig("es", "ES"),
+    "fr": LangConfig("fr", "FR"),
+    "it": LangConfig("it", "IT"),
     "jp": LangConfig("jp", "JP"),
     "kr": LangConfig("kr", "KR"),
+    "pt": LangConfig("pt", "PT"),
 }
 
 REQUIRED_WORKSPACE_FILES = ("test-release.cdb", "test-strings.conf")

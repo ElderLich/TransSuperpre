@@ -1,0 +1,67 @@
+name: Sync FR Workspace
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "15 8 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - "FR/Workspace/Mappings.csv"
+      - ".github/scripts/tcg_autopr.py"
+      - ".github/workflows/fr-workspace-sync.yml"
+      - "Tools/PromptPatcher.py"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fr-automation-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    name: Import new FR cards and prompts
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Sync and commit workspace updates
+        run: |
+          set -euo pipefail
+          git config user.name "ElderLich"
+          git config user.email "35314175+ElderLich@users.noreply.github.com"
+          branch="${GITHUB_REF_NAME:-main}"
+
+          for attempt in 1 2 3; do
+            git fetch origin "$branch"
+            git checkout -B "$branch" "origin/$branch"
+
+            python .github/scripts/tcg_autopr.py --lang fr workspace-sync
+            git add -A "FR/Workspace" "FR/Base Files/test-release.cdb" "FR/Base Files/test-strings.conf" Tools/PromptPatcher.py
+            if git diff --cached --quiet; then
+              echo "No FR workspace changes to commit."
+              exit 0
+            fi
+
+            git commit -m "Sync FR workspace"
+            if git push origin "HEAD:$branch"; then
+              exit 0
+            fi
+
+            echo "Push failed; refreshing and rebuilding (${attempt}/3)..."
+          done
+
+          echo "Unable to push FR workspace sync after rebuilding on the latest branch tip."
+          exit 1

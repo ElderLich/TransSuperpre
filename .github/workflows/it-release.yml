@@ -1,0 +1,84 @@
+name: Release IT
+
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows:
+      - "Sync IT Workspace"
+    types:
+      - completed
+  push:
+    branches:
+      - main
+    paths:
+      - "IT/Workspace/test-release.cdb"
+      - "IT/Workspace/test-strings.conf"
+      - ".github/workflows/it-release.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: it-automation-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  release:
+    name: Build IT package
+    if: github.event_name != 'workflow_run' || (github.event.workflow_run.conclusion == 'success' && github.event.workflow_run.head_branch == 'main')
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Build, commit, and tag IT release
+        env:
+          BRANCH_NAME: ${{ github.event.workflow_run.head_branch || github.ref_name }}
+        run: |
+          set -euo pipefail
+          git config user.name "ElderLich"
+          git config user.email "35314175+ElderLich@users.noreply.github.com"
+          branch="${BRANCH_NAME:-main}"
+
+          for attempt in 1 2 3; do
+            git fetch --tags origin "$branch"
+            git checkout -B "$branch" "origin/$branch"
+            rm -f IT/.autopr-commit-body.txt
+
+            python .github/scripts/tcg_autopr.py --lang it release-build
+            git add -A -- "IT/Base Files/test-release.cdb" "IT/Base Files/test-strings.conf" IT/ygopro-super-pre.ypk IT/test-release.json IT/version.txt
+            if git diff --cached --quiet; then
+              echo "No IT release output changes to commit."
+              rm -f IT/.autopr-commit-body.txt
+              exit 0
+            fi
+
+            latest_tag=$(git tag --list 'IT-v*' | sed -E 's/^IT-v([0-9]+)$/\1/' | grep -E '^[0-9]+$' | awk '$1 < 10000' | sort -n | tail -1 || true)
+            next_tag_number=$(( ${latest_tag:-0} + 1 ))
+            tag="IT-v${next_tag_number}"
+            commit_message=$(mktemp)
+            printf "Aggiornamento Pre-Rilascio IT - v%s\n\n" "$next_tag_number" > "$commit_message"
+            cat IT/.autopr-commit-body.txt >> "$commit_message"
+            git commit -F "$commit_message"
+            rm -f "$commit_message" IT/.autopr-commit-body.txt
+
+            if git push origin "HEAD:$branch"; then
+              git tag -a "$tag" -m "Release $tag"
+              git push origin "$tag"
+              exit 0
+            fi
+
+            echo "Push failed; refreshing and rebuilding (${attempt}/3)..."
+          done
+
+          echo "Unable to push IT release after rebuilding on the latest branch tip."
+          exit 1

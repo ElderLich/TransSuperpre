@@ -1,27 +1,27 @@
-name: Dump KR Workspace
+name: Dump DE Workspace
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "50 7 * * *"
+    - cron: "35 8 * * *"
   push:
     branches:
       - main
     paths:
-      - "KR/Workspace/test-release.cdb"
+      - "DE/Workspace/test-release.cdb"
       - ".github/scripts/dump_cdb.py"
-      - ".github/workflows/kr-dump-workspace.yml"
+      - ".github/workflows/de-dump-workspace.yml"
 
 permissions:
   contents: write
 
 concurrency:
-  group: kr-dump-workspace
+  group: de-dump-workspace
   cancel-in-progress: false
 
 jobs:
   dump:
-    name: Publish KR dump folder
+    name: Publish DE dump folder
     runs-on: ubuntu-latest
     timeout-minutes: 15
 
@@ -39,15 +39,15 @@ jobs:
       - name: Generate dump files
         run: |
           python .github/scripts/dump_cdb.py \
-            --cdb "KR/Workspace/test-release.cdb" \
-            --out "$RUNNER_TEMP/kr-workspace-dump" \
+            --cdb "DE/Workspace/test-release.cdb" \
+            --out "$RUNNER_TEMP/de-workspace-dump" \
             --source-sha "$GITHUB_SHA" \
-            --source-path "KR/Workspace/test-release.cdb" \
-            --title "KR Workspace test-release.cdb Dump"
+            --source-path "DE/Workspace/test-release.cdb" \
+            --title "DE Workspace test-release.cdb Dump"
 
       - name: Publish dump branch
         env:
-          DUMP_DIR: ${{ runner.temp }}/kr-workspace-dump
+          DUMP_DIR: ${{ runner.temp }}/de-workspace-dump
         run: |
           set -euo pipefail
           git config user.name "ElderLich"
@@ -72,11 +72,11 @@ jobs:
             git rm -r -f --ignore-unmatch .
           fi
 
-          git rm -r -f --ignore-unmatch KR
+          git rm -r -f --ignore-unmatch DE
           git rm -r -f --ignore-unmatch cards manifest.json schema.sql datas.csv texts.csv cards-index.csv
-          mkdir -p KR
-          cp -a "$DUMP_DIR"/. KR/
-          rm -f KR/.gitattributes KR/.nojekyll
+          mkdir -p DE
+          cp -a "$DUMP_DIR"/. DE/
+          rm -f DE/.gitattributes DE/.nojekyll
 
           cat > README.md <<'EOF'
           # TransSuperpre CDB Dumps
@@ -98,9 +98,9 @@ jobs:
 
           git add .
           if git diff --cached --quiet; then
-            echo "No KR dump changes to publish."
+            echo "No DE dump changes to publish."
             exit 0
           fi
           short_sha="${GITHUB_SHA::7}"
-          git commit -m "Dump KR workspace from ${short_sha}"
+          git commit -m "Dump DE workspace from ${short_sha}"
           push_dump

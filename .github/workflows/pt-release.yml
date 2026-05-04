@@ -1,0 +1,84 @@
+name: Release PT
+
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows:
+      - "Sync PT Workspace"
+    types:
+      - completed
+  push:
+    branches:
+      - main
+    paths:
+      - "PT/Workspace/test-release.cdb"
+      - "PT/Workspace/test-strings.conf"
+      - ".github/workflows/pt-release.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pt-automation-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  release:
+    name: Build PT package
+    if: github.event_name != 'workflow_run' || (github.event.workflow_run.conclusion == 'success' && github.event.workflow_run.head_branch == 'main')
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Build, commit, and tag PT release
+        env:
+          BRANCH_NAME: ${{ github.event.workflow_run.head_branch || github.ref_name }}
+        run: |
+          set -euo pipefail
+          git config user.name "ElderLich"
+          git config user.email "35314175+ElderLich@users.noreply.github.com"
+          branch="${BRANCH_NAME:-main}"
+
+          for attempt in 1 2 3; do
+            git fetch --tags origin "$branch"
+            git checkout -B "$branch" "origin/$branch"
+            rm -f PT/.autopr-commit-body.txt
+
+            python .github/scripts/tcg_autopr.py --lang pt release-build
+            git add -A -- "PT/Base Files/test-release.cdb" "PT/Base Files/test-strings.conf" PT/ygopro-super-pre.ypk PT/test-release.json PT/version.txt
+            if git diff --cached --quiet; then
+              echo "No PT release output changes to commit."
+              rm -f PT/.autopr-commit-body.txt
+              exit 0
+            fi
+
+            latest_tag=$(git tag --list 'PT-v*' | sed -E 's/^PT-v([0-9]+)$/\1/' | grep -E '^[0-9]+$' | awk '$1 < 10000' | sort -n | tail -1 || true)
+            next_tag_number=$(( ${latest_tag:-0} + 1 ))
+            tag="PT-v${next_tag_number}"
+            commit_message=$(mktemp)
+            printf "Atualização de Cartas Pré-Lançamento PT - v%s\n\n" "$next_tag_number" > "$commit_message"
+            cat PT/.autopr-commit-body.txt >> "$commit_message"
+            git commit -F "$commit_message"
+            rm -f "$commit_message" PT/.autopr-commit-body.txt
+
+            if git push origin "HEAD:$branch"; then
+              git tag -a "$tag" -m "Release $tag"
+              git push origin "$tag"
+              exit 0
+            fi
+
+            echo "Push failed; refreshing and rebuilding (${attempt}/3)..."
+          done
+
+          echo "Unable to push PT release after rebuilding on the latest branch tip."
+          exit 1
