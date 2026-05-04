@@ -1,0 +1,907 @@
+id,name,field,value
+100200289,Ilios le Dragon du Soleil Noir,name,Ilios le Dragon du Soleil Noir
+100200289,Ilios le Dragon du Soleil Noir,desc,"Vous pouvez révéler 3 monstres Dragon dans votre Extra Deck avec min. 3000 ATK et de noms différents ; Invoquez Spécialement cette carte depuis votre main.
+Si cette carte est envoyée au Cimetière : vous pouvez cibler 1 monstre Fusion, Synchro, Xyz ou Lien Dragon que vous contrôlez ; votre adversaire ne peut pas le cibler avec des effets de carte ce tour.
+Aucun joueur ne peut activer ni de cartes ni d'effets en réponse à l'activation de cet effet.
+Vous ne pouvez utiliser chaque effet de ""Ilios le Dragon du Soleil Noir"" qu'une fois par tour."
+100200289,Ilios le Dragon du Soleil Noir,str1,Invocation Spéciale
+100200289,Ilios le Dragon du Soleil Noir,str2,Accorder une protection
+100200289,Ilios le Dragon du Soleil Noir,str3,L'effet de {CARD} est actuellement appliqué.
+100260001,"Chapeau, Troupe de Clowns",name,"Chapeau, Troupe de Clowns"
+100260001,"Chapeau, Troupe de Clowns",desc,"Échelle Pendule = 7
+[ Effet Pendule ]
+Durant votre Main Phase : vous pouvez envoyer 1 carte ""Troupe de Clowns"" (Monstres Pendule exclus) depuis votre Deck au Cimetière, et si vous le faites, Invoquez Spécialement cette carte, et aussi, vous ne pouvez pas activer les effets de monstres Invoqués Spécialement depuis le Deck ou Extra Deck jusqu'à la fin du prochain tour. Vous ne pouvez utiliser cet effet de ""Chapeau, Troupe de Clowns"" qu'une fois par tour.
+----------------------------------------
+[ Effet de Monstre ]
+Les monstres contrôlés par votre adversaire perdent 1500 DEF tant que vous contrôlez un monstre Invoqué par Sacrifice. Si cette carte est Sacrifiée : vous pouvez activer 1 de ces effets (mais vous ne pouvez utiliser chacun de ces effets de ""Chapeau, Troupe de Clowns"" qu'une fois par tour) ;
+● Mélangez tous les Monstres Pendule sur le Terrain et face recto dans les Extra Decks dans le Deck.
+● Invoquez Spécialement 1 monstre ""Troupe de Clowns"" non-Pendule depuis votre Deck ou Extra Deck, en ignorant ses conditions d'Invocation."
+100260001,"Chapeau, Troupe de Clowns",str1,Invocation Spéciale
+100260001,"Chapeau, Troupe de Clowns",str2,Choisir un effet
+100260001,"Chapeau, Troupe de Clowns",str3,Renvoyer au Deck
+100260001,"Chapeau, Troupe de Clowns",str4,Invocation Spéciale
+100261001,Lapin des Ténèbres Malin,name,Lapin des Ténèbres Malin
+100261001,Lapin des Ténèbres Malin,desc,"Après que cette carte est Invoquée Normalement ou Spécialement, vous pouvez Invoquer Normalement 1 monstre qui mentionne ""Monde des Toons"" durant votre Main Phase ce tour, en plus de votre Invocation/Pose Normale (vous ne pouvez gagner cet effet qu'une fois par tour).
+Cette carte est traitée comme un monstre Toon tant que ""Monde des Toons"" est sur le Terrain.
+Une fois par tour : vous pouvez ajouter à votre main, ou placer face recto sur votre Terrain, 1 Magie de Terrain ou Continue ""Toon"" depuis votre Deck."
+100261001,Lapin des Ténèbres Malin,str2,"Invoquer par l'effet de ""Lapin des Ténèbres Malin"""
+100261001,Lapin des Ténèbres Malin,str3,Effet d'ajout à la main
+100261001,Lapin des Ténèbres Malin,str4,Placer
+100261002,Chat Comique,name,Chat Comique
+100261002,Chat Comique,desc,"Cette carte est traitée comme un monstre Toon tant que ""Monde des Toons"" est sur le Terrain.
+Durant la Main Phase (Effet Rapide) : vous pouvez Sacrifier 1 monstre (si vous contrôlez ""Monde des Toons"", vous pouvez Sacrifier 1 monstre contrôlé par votre adversaire, même si vous ne le contrôlez pas), et si vous le faites, Invoquez Spécialement 1 monstre qui mentionne ""Monde des Toons"" depuis votre main ou Deck, en ignorant ses conditions d'Invocation.
+Vous ne pouvez utiliser cet effet de ""Chat Comique"" qu'une fois par tour."
+100261002,Chat Comique,str2,Invocation Spéciale
+100261003,Boîte Maléfique,name,Boîte Maléfique
+100261003,Boîte Maléfique,desc,"Si vous contrôlez ""Monde des Toons"" : vous pouvez Invoquer Spécialement cette carte depuis votre main, puis vous pouvez ajouter à votre main ou Poser 1 Piège ""Toon"" depuis votre Deck.
+Vous ne pouvez utiliser cet effet de ""Boîte Maléfique"" qu'une fois par tour.
+Cette carte est traitée comme un monstre Toon tant que ""Monde des Toons"" est sur le Terrain.
+Une fois par tour (Effet Rapide) : vous pouvez cibler 1 carte dans l'un des Cimetières ; placez-la au-dessous du Deck."
+100261003,Boîte Maléfique,str1,Invocation Spéciale
+100261003,Boîte Maléfique,str2,Récupérer depuis le Cimetière
+100261003,Boîte Maléfique,str3,Sélectionner une Carte Piège ?
+100261004,Mage Illusionniste Anonyme aux Yeux Noirs,name,Mage Illusionniste Anonyme aux Yeux Noirs
+100261004,Mage Illusionniste Anonyme aux Yeux Noirs,desc,"Vous pouvez défausser cette carte, puis activez 1 de ces effets (mais vous ne pouvez utiliser chacun de ces effets de ""Mage Illusionniste Anonyme aux Yeux Noirs"" qu'une fois par tour) ;
+● Placez 1 ""Télépathie"" depuis votre main ou Deck face recto sur votre Terrain.
+● Ajoutez 1 autre monstre qui mentionne ""Monde des Toons"" depuis votre Cimetière à votre main, puis vous pouvez l'Invoquer Spécialement, en ignorant ses conditions d'Invocation.
+Si cette carte combat un monstre, aucun de ces 2 monstres ne peut être détruit par ce combat."
+100261004,Mage Illusionniste Anonyme aux Yeux Noirs,str1,Défausser
+100261004,Mage Illusionniste Anonyme aux Yeux Noirs,str2,Placer une Carte Piège
+100261004,Mage Illusionniste Anonyme aux Yeux Noirs,str3,Récupérer un monstre
+100261004,Mage Illusionniste Anonyme aux Yeux Noirs,str4,Invocation Spéciale?
+100261005,Dragon Ultime Toon aux Yeux Bleus,name,Dragon Ultime Toon aux Yeux Bleus
+100261005,Dragon Ultime Toon aux Yeux Bleus,desc,"""Dragon Toon aux Yeux Bleus"" + 2 monstres Toon
+Uniquement Invocable Spécialement (depuis votre Extra Deck) en mélangeant les cartes ci-dessus depuis votre main, Terrain et/ou Cimetière dans le Deck/Extra Deck.
+Vos monstres Toon peuvent attaquer directement.
+Une fois par tour : vous pouvez ajouter 1 carte ""Toon"", ou 1 carte qui mentionne un nom de carte ""Toon"", depuis votre Cimetière à votre main.
+Durant le calcul des dommages, si votre monstre Toon est attaqué : vous pouvez le bannir jusqu'à la fin de la Damage Step."
+100261005,Dragon Ultime Toon aux Yeux Bleus,str2,Recycler
+100261005,Dragon Ultime Toon aux Yeux Bleus,str3,Bannir
+100261006,Monde des Toons le Monde Parfait,name,Monde des Toons le Monde Parfait
+100261006,Monde des Toons le Monde Parfait,desc,"Le nom de cette carte devient ""Monde des Toons"" tant qu'elle est dans la Zone Terrain.
+Une fois par tour : vous pouvez ajouter 1 carte ""Toon"", ou 1 carte qui mentionne un nom de carte ""Toon"", depuis votre Deck à votre main.
+Vous ne pouvez utiliser cet effet de ""Monde des Toons le Monde Parfait"" que trois fois par tour.
+Avant la résolution d'une autre carte ou effet activé, vous pouvez bannir 1 monstre Toon que vous contrôlez jusqu'à immédiatement après la résolution de la carte/effet, et aussi, vous ne pouvez pas bannir de monstres du même nom d'origine avec cet effet de ""Monde des Toons le Monde Parfait"" le reste de ce tour."
+100261006,Monde des Toons le Monde Parfait,str2,Ajouter à la main
+100261006,Monde des Toons le Monde Parfait,str4,Bannir le monstre ?
+100261007,Télépathie,name,Télépathie
+100261007,Télépathie,desc,"Tant que vous avez une carte ""Toon"" dans votre Terrain ou Cimetière, votre adversaire doit garder sa main révélée, et aussi, vous pouvez regarder ses cartes Posées à tout moment.
+Si vous avez un monstre Toon et une Magie ""Toon"" dans votre Terrain et/ou Cimetière : vous pouvez déclarer 1 nom de carte qui n'est pas parmi les cartes/effets activés dans cette Chaîne ; annulez les effets activés des cartes de ce nom d'origine jusqu'à la fin de ce tour, tant que cette carte est face recto sur le Terrain.
+Vous ne pouvez utiliser cet effet de ""Télépathie"" qu'une fois par tour."
+100261007,Télépathie,str2,Déclarer
+100261023,"Terracottan, Artisanesorcière",name,"Terracottan, Artisanesorcière"
+100261023,"Terracottan, Artisanesorcière",desc,"Si cette carte est dans votre main : vous pouvez cibler 1 carte ""Artisanesorcière"" dans votre Cimetière (""Terracottan, Artisanesorcière"" exclue) ; ajoutez-la à votre main, et si vous le faites, Invoquez Spécialement cette carte, et aussi, vous ne pouvez pas Invoquer Spécialement (monstres ""Artisanesorcière"" exclus) depuis l'Extra Deck le reste de ce tour.
+Durant votre Main Phase : vous pouvez Invoquer par Fusion 1 Monstre Fusion ""Artisanesorcière"" depuis votre Extra Deck, en utilisant des monstres depuis votre main ou Terrain.
+Vous ne pouvez utiliser chaque effet de ""Terracottan, Artisanesorcière"" qu'une fois par tour."
+100261023,"Terracottan, Artisanesorcière",str1,Invocation Spéciale
+100261023,"Terracottan, Artisanesorcière",str2,Invocation Fusion
+100261024,"Marka, Artisanesorcière",name,"Marka, Artisanesorcière"
+100261024,"Marka, Artisanesorcière",desc,"Vous pouvez Sacrifier cette carte depuis votre main ou Terrain ; ajoutez 1 Magie de Terrain ou Continue ""Artisanesorcière"" depuis votre Deck à votre main.
+Si un ou plusieurs monstres ""Artisanesorcière"" face recto que vous contrôlez quittent le Terrain à cause d'un effet de carte de l'adversaire, tant que cette carte est dans votre Cimetière : vous pouvez Invoquer Spécialement cette carte (mais bannissez-la lorsqu'elle quitte le Terrain), et si vous le faites, Sacrifiez 1 monstre contrôlé par votre adversaire.
+Vous ne pouvez utiliser chaque effet de ""Marka, Artisanesorcière"" qu'une fois par tour."
+100261024,"Marka, Artisanesorcière",str1,Ajouter à la main
+100261024,"Marka, Artisanesorcière",str2,Invocation Spéciale
+100261025,"Madame Rilliona, Artisanesorcière",name,"Madame Rilliona, Artisanesorcière"
+100261025,"Madame Rilliona, Artisanesorcière",desc,"""Madame Verre, Artisanesorcière"" + 2 monstres Magicien
+Si cette carte est Invoquée par Fusion : vous pouvez Invoquer Spécialement max. 3 monstres ""Artisanesorcière"" de max. Niveau 7 d'Attributs différents les uns des autres depuis votre main et/ou Deck, et aussi, vous ne pouvez pas Invoquer Spécialement (Monstres Fusion exclus) depuis l'Extra Deck le reste de ce tour.
+Durant votre End Phase, si cette carte est dans votre Cimetière : vous pouvez révéler 1 Magie dans votre main ; Invoquez Spécialement cette carte en Position de Défense.
+Vous ne pouvez utiliser chaque effet de ""Madame Rilliona, Artisanesorcière"" qu'une fois par tour."
+100261025,"Madame Rilliona, Artisanesorcière",str1,Invoquer Spécialement depuis le Deck
+100261025,"Madame Rilliona, Artisanesorcière",str2,Invoquer Spécialement cette carte
+100261026,"Élèves, Artisanesorcière",name,"Élèves, Artisanesorcière"
+100261026,"Élèves, Artisanesorcière",desc,"1 monstre ""Artisanesorcière"" + 1 monstre Magicien
+Durant la Main ou Battle Phase (Effet Rapide) : vous pouvez activer 1 de ces effets ;
+● Ajoutez 1 Magie ""Artisanesorcière"" depuis votre Deck à votre main.
+● Révélez 1 Magie Normale ou Jeu-Rapide ""Artisanesorcière"" dans votre main ; appliquez l'effet d'activation de la Magie.
+Durant votre End Phase : vous pouvez renvoyer 1 de vos cartes ""Artisanesorcière"" bannies au Cimetière.
+Vous ne pouvez utiliser chaque effet de ""Élèves, Artisanesorcière"" qu'une fois par tour."
+100261026,"Élèves, Artisanesorcière",str1,Activer
+100261026,"Élèves, Artisanesorcière",str2,Retourner au Cimetière
+100261026,"Élèves, Artisanesorcière",str3,Effet d'ajout à la main
+100261026,"Élèves, Artisanesorcière",str4,Copier l'effet
+100261027,Célébration Artisanesorcière,name,Célébration Artisanesorcière
+100261027,Célébration Artisanesorcière,desc,"Activez 1 de ces effets ;
+● Détruisez 1 monstre ""Artisanesorcière"" que vous contrôlez et 1 carte contrôlée par votre adversaire.
+● Invoquez par Fusion 1 Monstre Fusion ""Artisanesorcière"" depuis votre Extra Deck, en mélangeant des monstres Magicien depuis votre Cimetière et/ou bannissement dans le Deck.
+Durant votre End Phase, si vous contrôlez un monstre ""Artisanesorcière"", tant que cette carte est dans votre Cimetière : vous pouvez ajouter cette carte à votre main.
+Vous ne pouvez utiliser qu'1 effet de ""Célébration Artisanesorcière"" par tour, et uniquement une fois le tour."
+100261027,Célébration Artisanesorcière,str1,Activer
+100261027,Célébration Artisanesorcière,str2,Ajouter à la main
+100261027,Célébration Artisanesorcière,str3,Effet de destruction
+100261027,Célébration Artisanesorcière,str4,Invocation Fusion
+100261028,Walpurgis Artisanesorcière,name,Walpurgis Artisanesorcière
+100261028,Walpurgis Artisanesorcière,desc,"Durant votre Main Phase : vous pouvez ajouter 1 monstre ""Artisanesorcière"" depuis votre Deck à votre main, puis défaussez 1 carte.
+Vous ne pouvez utiliser cet effet de ""Walpurgis Artisanesorcière"" qu'une fois par tour.
+Durant votre tour, si vous allez défausser pour activer l'effet d'un monstre ""Artisanesorcière"" que vous contrôlez, vous pouvez envoyer 1 Magie/Piège ""Artisanesorcière"" (""Walpurgis Artisanesorcière"" exclue) depuis votre Deck au Cimetière à la place."
+100261028,Walpurgis Artisanesorcière,str1,Ajouter à la main
+100261029,Distorsion Artisanesorcière,name,Distorsion Artisanesorcière
+100261029,Distorsion Artisanesorcière,desc,"Lorsqu'une Carte Magie/Piège ou un effet de monstre est activé et que vous contrôlez un monstre ""Artisanesorcière"" de min. Niveau 5 : annulez l'activation, et si vous le faites, détruisez la carte.
+Si cette carte est dans votre Cimetière, sauf le tour où elle y a été envoyée : vous pouvez la bannir ; ajoutez 1 monstre Magicien de min. Niveau 5 depuis votre Deck à votre main, puis défaussez 1 carte.
+Vous ne pouvez utiliser chaque effet de ""Distorsion Artisanesorcière"" qu'une fois par tour."
+100261029,Distorsion Artisanesorcière,str1,Activer
+100261029,Distorsion Artisanesorcière,str2,Ajouter à la main
+100262001,Brise l'Électrovore de Rkunas,name,Brise l'Électrovore de Rkunas
+100262001,Brise l'Électrovore de Rkunas,desc,"Un chien mystérieux qui émet de la lumière un bref instant en libérant sa propre énergie vitale. Après l'avoir aperçu, son image attachante reste gravée dans votre mémoire."
+100263001,Tyrannosaure Noir,name,Tyrannosaure Noir
+100263001,Tyrannosaure Noir,desc,"Peut attaquer directement si tous les monstres contrôlés par votre adversaire sont en Position de Défense.
+Vous ne pouvez utiliser chacun des effets suivants de ""Tyrannosaure Noir"" qu'une fois par tour.
+Durant votre Main Phase, si une Carte Magie ou un effet de Magie a été activé ce tour : vous pouvez Invoquer Spécialement cette carte depuis votre main.
+Si cette carte est envoyée au Cimetière : vous pouvez ajouter 1 monstre Dinosaure de min. Niveau 8 depuis votre Deck à votre main, puis vous pouvez l'Invoquer Spécialement si votre adversaire contrôle un monstre."
+100263001,Tyrannosaure Noir,str1,Invocation Spéciale
+100263001,Tyrannosaure Noir,str2,Ajouter à la main
+100263001,Tyrannosaure Noir,str3,Invocation Spéciale?
+100263002,Force Arcane XII - Le Pendu,name,Force Arcane XII - Le Pendu
+100263002,Force Arcane XII - Le Pendu,desc,"Lorsqu'une carte ou un effet est activé (Effet Rapide) : vous pouvez révéler cette carte dans votre main ; Invoquez Spécialement 1 monstre ""Force Arcane"" depuis votre main en Position de Défense.
+Vous ne pouvez utiliser cet effet de ""Force Arcane XII - Le Pendu"" qu'une fois par tour.
+Si cette carte est Invoquée : lancez une pièce.
+● Face : détruisez 1 monstre que vous contrôlez, et si vous le faites, recevez des dommages égaux à son ATK d'origine.
+● Pile : détruisez 1 monstre contrôlé par votre adversaire, et si vous le faites, infligez des dommages à votre adversaire égaux à son ATK d'origine."
+100263002,Force Arcane XII - Le Pendu,str1,Invocation Spéciale
+100263002,Force Arcane XII - Le Pendu,str2,Effet de lancer de pièce
+100263003,"Candelato, le Monstre de Lumière",name,"Candelato, le Monstre de Lumière"
+100263003,"Candelato, le Monstre de Lumière",desc,"(Cette carte est toujours traitée comme carte ""Bête Fantôme"".)
+Gagne 1000 ATK/DEF pour chaque carte dans votre main.
+Vous ne pouvez utiliser chacun des effets suivants de ""Candelato, le Monstre de Lumière"" qu'une fois par tour.
+Vous pouvez défausser 2 autres cartes ; Invoquez Spécialement cette carte depuis votre main, puis vous pouvez ajouter 1 carte depuis votre Deck à votre main qui a un effet de lancer de pièce.
+Lorsqu'une carte ou un effet qui inclut un effet qui ajoute une ou plusieurs cartes depuis le Deck à la main est activé (Effet Rapide) : vous pouvez annuler l'effet."
+100263003,"Candelato, le Monstre de Lumière",str1,Invocation Spéciale
+100263003,"Candelato, le Monstre de Lumière",str2,Annuler
+100263003,"Candelato, le Monstre de Lumière",str3,Ajouter à la main?
+100263004,"Eitom, le Guerrier Plasma",name,"Eitom, le Guerrier Plasma"
+100263004,"Eitom, le Guerrier Plasma",desc,"(Cette carte est toujours traitée comme carte ""Guerrier Magnétique"".)
+Ni Invocable Normalement ni Posable Normalement.
+Uniquement Invocable Spécialement (depuis votre main ou Cimetière) en Sacrifiant 1 monstre de min. Niveau 7.
+Vous ne pouvez Invoquer Spécialement ""Eitom, le Guerrier Plasma"" qu'une fois par tour de cette façon.
+Une fois par tour : vous pouvez envoyer 1 monstre ""Guerrier Magnétique"" (""Eitom, le Guerrier Plasma"" exclu) depuis votre Deck au Cimetière ; le reste de ce tour, l'ATK d'origine de cette carte devient 1500, et aussi, elle peut attaquer directement."
+100263004,"Eitom, le Guerrier Plasma",str2,Attaque directe
+100263005,Seigneur Chevalier Blanc,name,Seigneur Chevalier Blanc
+100263005,Seigneur Chevalier Blanc,desc,"(Cette carte est toujours traitée comme carte ""Nuit Blanche"".)
+Vous pouvez bannir 3 monstres de votre Cimetière ; Invoquez Spécialement cette carte depuis votre main, puis vous pouvez appliquer 1 de ces effets.
+● Invoquez Spécialement 1 monstre ""Nuit Blanche"" depuis votre main ou Deck.
+● Ajoutez 1 ""Voile Blanc"" depuis votre Deck à votre main.
+Vous ne pouvez utiliser cet effet de ""Seigneur Chevalier Blanc"" qu'une fois par tour.
+Lorsqu'une attaque impliquant cette carte et un monstre de l'adversaire est déclarée : changez l'ATK du monstre de l'adversaire à 0.
+Si cette carte en possession de son propriétaire est détruite par une carte de l'adversaire : infligez 1000 points de dommages à votre adversaire."
+100263005,Seigneur Chevalier Blanc,str1,Invocation Spéciale
+100263005,Seigneur Chevalier Blanc,str2,L'ATK devient 0
+100263005,Seigneur Chevalier Blanc,str3,Infliger des dommages
+100263005,Seigneur Chevalier Blanc,str4,Ne pas résoudre l'effet
+100263005,Seigneur Chevalier Blanc,str5,Invocation Spéciale
+100263005,Seigneur Chevalier Blanc,str6,Ajouter à la main
+100263006,Invincible Seigneur de l'Au-Delà,name,Invincible Seigneur de l'Au-Delà
+100263006,Invincible Seigneur de l'Au-Delà,desc,"Durant la End Phase, si un ou plusieurs monstres ont été détruits au combat ce tour : vous pouvez Invoquer Spécialement cette carte depuis votre main ou Cimetière, et si ""Invincible Seigneur de l'Au-Delà"" a été détruit au combat ce tour, l'ATK d'origine de cette carte devient 3000, et aussi, elle ne peut être détruite par des effets de carte.
+Durant votre Main Phase : vous pouvez révéler un nombre de cartes (""Coup du Destin"" inclus) dans votre Deck, égal au nombre de cartes contrôlées par votre adversaire +1 et placez les cartes révélées au-dessus du Deck dans l'ordre de votre choix.
+Vous ne pouvez utiliser chaque effet de ""Invincible Seigneur de l'Au-Delà"" qu'une fois par tour."
+100263006,Invincible Seigneur de l'Au-Delà,str1,Invocation Spéciale
+100263006,Invincible Seigneur de l'Au-Delà,str2,Placer au-dessus du Deck
+100263006,Invincible Seigneur de l'Au-Delà,str3,Sélectionnez une carte à placer au-dessus du Deck.
+100263007,"Bloqueur Clay, HÉROS Élémentaire",name,"Bloqueur Clay, HÉROS Élémentaire"
+100263007,"Bloqueur Clay, HÉROS Élémentaire",desc,"1 monstre ""HÉROS Élémentaire"" + 1 monstre Guerrier
+Si cette carte est Invoquée Spécialement : vous pouvez Invoquer Spécialement 1 monstre ""HÉROS Élémentaire"" depuis votre Deck, puis si votre adversaire contrôle une carte, vous pouvez infliger 400 points de dommages à votre adversaire pour chacune, et aussi, vous ne pouvez pas Invoquer Spécialement (monstres ""HÉROS"" exclus) depuis l'Extra Deck le reste de ce tour.
+Vous ne pouvez utiliser cet effet de ""Bloqueur Clay, HÉROS Élémentaire"" qu'une fois par tour.
+Les autres monstres ""HÉROS Élémentaire"" que vous contrôlez ne peuvent être détruits ni au combat ni par des effets de carte."
+100263007,"Bloqueur Clay, HÉROS Élémentaire",str1,Invocation Spéciale
+100263007,"Bloqueur Clay, HÉROS Élémentaire",str2,Infliger des dommages ?
+100263008,Écrase-Poupée,name,Écrase-Poupée
+100263008,Écrase-Poupée,desc,"Ciblez 1 monstre que vous contrôlez ; détruisez-le, et si vous le faites, piochez 2 cartes, puis vous pouvez changer la position de combat d'1 monstre contrôlé par votre adversaire.
+Si un ou plusieurs monstres sont Invoqués Spécialement depuis votre Cimetière tant que cette carte est dans votre Cimetière : vous pouvez ajouter cette carte à votre main.
+Vous ne pouvez utiliser chaque effet de ""Écrase-Poupée"" qu'une fois par tour."
+100263008,Écrase-Poupée,str1,Activer
+100263008,Écrase-Poupée,str2,Recycler
+100263008,Écrase-Poupée,str3,Changer la position de combat ?
+100263009,Invocation Éclair,name,Invocation Éclair
+100263009,Invocation Éclair,desc,"Immédiatement après la résolution de cet effet, Invoquez/Poser Normalement 1 monstre.
+Lorsque vous le faites, si votre adversaire contrôle un monstre, vous pouvez Invoquer Normalement un monstre de min. Niveau 5 sans Sacrifice.
+Durant votre Main Phase, si cette carte est dans votre Cimetière, sauf le tour où elle y a été envoyée : vous pouvez la bannir ; ajoutez 1 monstre de min. Niveau 5 qui peut être Invoqué/Posé Normalement depuis votre Deck ou Cimetière à votre main, puis immédiatement après la résolution de cet effet, vous pouvez l'Invoquer par Sacrifice.
+Vous ne pouvez utiliser cet effet de ""Invocation Éclair"" qu'une fois par tour."
+100263009,Invocation Éclair,str1,Activer
+100263009,Invocation Éclair,str2,Ajouter à la main
+100263009,Invocation Éclair,str3,Appliquer l'effet de {CARD} pour Invoquer sans Sacrifice ?
+100263010,Explosion D,name,Explosion D
+100263010,Explosion D,desc,"Ciblez 1 Magie face recto que vous contrôlez ; détruisez-la, et si vous le faites, piochez 1 carte, puis si vous contrôlez un monstre ""HÉROS de la Destinée"", vous pouvez Invoquer Spécialement 1 monstre ""HÉROS de la Destinée"" depuis votre main, Cimetière ou bannissement.
+À la fin de la Damage Step, si un monstre équipé avec une Carte d'Équipement, ou ""Dogma - HÉROS de la Destinée"", a attaqué : vous pouvez bannir cette carte depuis votre Cimetière ; le monstre peut faire une seconde attaque à la suite.
+Vous ne pouvez activer qu'1 ""Explosion D"" par tour."
+100263010,Explosion D,str1,Piocher
+100263010,Explosion D,str2,Effectuer une attaque supplémentaire
+100263010,Explosion D,str3,Invocation Spéciale?
+101304081,Joueur de Jeux GG,name,Joueur de Jeux GG
+101304081,Joueur de Jeux GG,desc,"2 monstres Machine de Niveau 4
+Si cette carte est Invoquée Spécialement : vous pouvez changer tous les monstres contrôlés par votre adversaire en Position d'Attaque.
+Si votre adversaire a un monstre dans son Terrain ou Cimetière : vous pouvez détacher 1 Matériel de cette carte ; envoyez 1 monstre Machine depuis votre Deck/Extra Deck au Cimetière, puis vous pouvez appliquer cet effet.
+● Choisissez 1 Monstre Xyz Machine dans votre Cimetière, et le nom de cette carte devient le nom du monstre jusqu'à la End Phase.
+Vous ne pouvez utiliser cet effet de ""Joueur de Jeux GG"" qu'une fois par tour."
+101304081,Joueur de Jeux GG,str1,Passer en Position d'Attaque
+101304081,Joueur de Jeux GG,str2,Envoyer au Cimetière
+101304081,Joueur de Jeux GG,str3,Changer le nom de cette carte ?
+101304082,Fata Dragna,name,Fata Dragna
+101304082,Fata Dragna,desc,"2 monstres du même Type et Attribut, mais de Niveaux différents
+Votre adversaire ne peut pas cibler les Monstres Fusion que vous contrôlez avec des effets de cartes.
+Si cette carte est envoyée au Cimetière comme Matériel pour une Invocation Fusion : vous pouvez Invoquer Spécialement 1 Monstre Fusion depuis votre Extra Deck en Position de Défense (mais annulez ses effets, et aussi, renvoyez-le à l'Extra Deck durant la End Phase), et aussi, vous ne pouvez pas Invoquer Spécialement (Monstres Fusion exclus) depuis l'Extra Deck le reste de ce tour.
+Vous ne pouvez utiliser cet effet de ""Fata Dragna"" qu'une fois par tour."
+101304082,Fata Dragna,str2,Invocation Spéciale
+101304083,Ombre l'Obscure,name,Ombre l'Obscure
+101304083,Ombre l'Obscure,desc,"Échelle Pendule = 11
+[ Effet Pendule ]
+Vous ne pouvez pas Invoquer par Pendulation (Monstres Pendule exclus) (cet effet ne peut pas être annulé).
+Si un ou plusieurs monstres avec max. 1000 ATK sont Invoqués Spécialement (sauf durant la Damage Step) : vous pouvez renvoyer cette carte à la main.
+Vous ne pouvez utiliser cet effet de ""Ombre l'Obscure"" qu'une fois par tour.
+ 
+----------------------------------------
+[ Effet de Monstre ]
+Si vous avez une carte dans votre Zone Pendule et que cette carte est dans votre main : vous pouvez Invoquer Spécialement cette carte.
+Vous pouvez payer 1000 LP ; détruisez 1 Carte Montre pendule dans votre main ou Terrain face recto, puis vous pouvez ajouter 1 Monstre Pendule depuis votre Deck à votre Extra Deck face recto.
+Vous ne pouvez utiliser chaque effet de ""Ombre l'Obscure"" qu'une fois par tour."
+101304083,Ombre l'Obscure,str2,Renvoyer à la main
+101304083,Ombre l'Obscure,str3,Invocation Spéciale
+101304083,Ombre l'Obscure,str4,Détruire
+101304083,Ombre l'Obscure,str5,Ajouter cette carte à l'Extra Deck ?
+101304083,Ombre l'Obscure,str6,Choisissez la carte à ajouter à l'Extra Deck
+101304084,Baleine VIP,name,Baleine VIP
+101304084,Baleine VIP,desc,"Vous pouvez Sacrifier des monstres supplémentaires lorsque vous Invoquez par Sacrifice face recto cette carte.
+Si cette carte est Invoquée par Sacrifice : vous pouvez placer un nombre de Compteurs VIP sur cette carte, égal au nombre de monstres Sacrifiés pour son Invocation Sacrifice.
+Lorsque votre adversaire active une carte ou un effet (Effet Rapide) : vous pouvez retirer 1 Compteur VIP de cette carte ; jouez à pile ou face. Si vous gagnez, annulez l'effet. Si vous perdez, l'ATK d'origine de cette carte sera divisée par deux jusqu'à la fin de ce tour."
+101304084,Baleine VIP,str1,Invoquer par Sacrifice en Sacrifiant un nombre de monstres de votre choix
+101304084,Baleine VIP,str2,Placer un marqueur
+101304084,Baleine VIP,str3,Lancer une pièce
+101304085,Génia de l'Anneau,name,Génia de l'Anneau
+101304085,Génia de l'Anneau,desc,"Si cette carte est dans votre main : vous pouvez cibler 1 monstre face recto sur le Terrain ; Invoquez Spécialement cette carte, et aussi, la cible devient un monstre Magicien.
+La prochaine fois que la cible va être détruite par un effet de carte ce tour, elle n'est pas détruite, et aussi, vous ne pouvez pas Invoquer Spécialement (monstres Magicien exclus) depuis l'Extra Deck le reste de ce tour.
+Si cette carte est Sacrifiée ou bannie pour activer un effet de monstre Magicien : vous pouvez ajouter cette carte à votre main.
+Vous ne pouvez utiliser chaque effet de ""Génia de l'Anneau"" qu'une fois par tour."
+101304085,Génia de l'Anneau,str1,Invocation Spéciale
+101304085,Génia de l'Anneau,str2,Renvoyer à la main
+101304086,Vérificateur,name,Vérificateur
+101304086,Vérificateur,desc,"Non Invocable Normalement si vous contrôlez un monstre.
+Vous pouvez Sacrifier cette carte ; Invoquez Spécialement 1 monstre Machine depuis votre Deck dont l'ATK est égale à sa propre DEF, mais renvoyez-le à la main durant la End Phase.
+Vous pouvez bannir cette carte depuis votre Cimetière, et défaussez 1 carte ; Invoquez Spécialement 1 ""Jeton Gravas de Fer"" (Machine/TERRE/Niveau 1/ATK 0/DEF 0), mais il ne peut pas être utilisé comme Matériel pour une Invocation Fusion, Synchro ou Lien.
+Vous ne pouvez utiliser chaque effet de ""Vérificateur"" qu'une fois par tour."
+101304086,Vérificateur,str2,Invocation Spéciale
+101304086,Vérificateur,str3,Invoquer Spécialement un Jeton
+101304087,Mammouth Rouilletainrable,name,Mammouth Rouilletainrable
+101304087,Mammouth Rouilletainrable,desc,"Si cette carte est dans votre main : vous pouvez bannir un nombre de Monstres Lien Machine depuis votre Extra Deck dont la somme des Classifications Lien est égale à exactement 5 ; Invoquez Spécialement cette carte.
+Vous pouvez cibler 1 carte que vous contrôlez et 1 carte contrôlée par votre adversaire ; renvoyez-les à la main.
+Ceci est un Effet Rapide si cette carte est liée à un Monstre Lien Machine de min. Link-3.
+Vous ne pouvez utiliser chaque effet de ""Mammouth Rouilletainrable"" qu'une fois par tour."
+101304087,Mammouth Rouilletainrable,str1,Invocation Spéciale
+101304087,Mammouth Rouilletainrable,str2,Renvoyer à la main
+101304088,Reverie l'Officiante,name,Reverie l'Officiante
+101304088,Reverie l'Officiante,desc,"Si cette carte est dans votre main : vous pouvez défausser 1 autre carte ; Invoquez Spécialement cette carte.
+Si un ou plusieurs Monstres Xyz sont envoyés au Cimetière, tandis que cette carte est dans votre Cimetière (sauf durant la Damage Step) : vous pouvez bannir cette carte ; Invoquez Spécialement 1 monstre Zombie depuis votre Cimetière.
+Durant la Standby Phase du prochain tour après que cette carte a été bannie : vous pouvez cibler 1 Monstre Xyz Zombie que vous contrôlez ; attachez-lui cette carte bannie.
+Vous ne pouvez utiliser chaque effet de ""Reverie l'Officiante"" qu'une fois par tour."
+101304088,Reverie l'Officiante,str1,Invocation Spéciale
+101304088,Reverie l'Officiante,str2,Invoquer Spécialement depuis le Cimetière
+101304088,Reverie l'Officiante,str3,Comme Matériel Xyz
+101304089,Samuel l'Officiante de la Mort,name,Samuel l'Officiante de la Mort
+101304089,Samuel l'Officiante de la Mort,desc,"2 monstres de Niveau 6
+Durant la Main Phase (Effet Rapide) : vous pouvez détacher 1 Matériel de cette carte, puis ciblez 1 monstre Zombie dans votre Cimetière ; Invoquez-le Spécialement, puis vous pouvez annuler les effets d'1 monstre contrôlé par votre adversaire avec une ATK inférieure ou égale au monstre.
+Si cette carte est envoyée au Cimetière : vous pouvez cibler 1 monstre dans l'un des Cimetières ; mélangez-le dans le Deck.
+Vous ne pouvez utiliser chaque effet de ""Samuel l'Officiante de la Mort"" qu'une fois par tour."
+101304089,Samuel l'Officiante de la Mort,str1,Invocation Spéciale
+101304089,Samuel l'Officiante de la Mort,str2,Renvoyer au Deck
+101304089,Samuel l'Officiante de la Mort,str3,Annuler les effets de ce monstre ?
+101304090,"Selandea, Partenaire GMX",name,"Selandea, Partenaire GMX"
+101304090,"Selandea, Partenaire GMX",desc,"Vous pouvez révéler cette carte dans votre main ; Invoquez Spécialement 1 monstre ""GMX"" ou 1 monstre Dinosaure depuis votre main, et aussi, vous ne pouvez attaquer directement qu'avec des monstres ""GMX"" le reste de ce tour.
+Si cette carte est Invoquée Spécialement par un effet de monstre : vous pouvez Invoquer Spécialement 1 monstre ""GMX"" ou Dinosaure de max. Niveau 4 depuis votre main, Cimetière ou bannissement en Position de Défense.
+Vous ne pouvez utiliser chaque effet de ""Selandea, Partenaire GMX"" qu'une fois par tour."
+101304090,"Selandea, Partenaire GMX",str1,Invoquer Spécialement depuis la main
+101304090,"Selandea, Partenaire GMX",str2,"Invoquer Spécialement depuis la main, le Cimetière ou le bannissement"
+101304091,Escouade de Dissimulation GMX,name,Escouade de Dissimulation GMX
+101304091,Escouade de Dissimulation GMX,desc,"Si cette carte est dans votre main et que vous contrôlez un monstre ""GMX"" ou un monstre Dinosaure : vous pouvez Invoquer Spécialement cette carte.
+Vous pouvez cibler 1 monstre face recto sur le Terrain ; dévoilez les cartes du dessus de votre Deck jusqu'à dévoiler un monstre Dinosaure, envoyez le monstre Dinosaure au Cimetière, et si vous le faites, le monstre ciblé devient un monstre Dinosaure (jusqu'à la fin de ce tour), et aussi, mélangez le reste dans le Deck.
+Vous ne pouvez utiliser chaque effet de ""Escouade de Dissimulation GMX"" qu'une fois par tour."
+101304091,Escouade de Dissimulation GMX,str1,Invocation Spéciale
+101304091,Escouade de Dissimulation GMX,str2,Excaver des cartes
+101304092,Daneen Évolué,name,Daneen Évolué
+101304092,Daneen Évolué,desc,"""Daneen le Dino Revenu"" + 1 monstre Dinosaure
+Si cette carte est Invoquée Spécialement : vous pouvez ajouter 1 carte ""GMX"" depuis votre Deck à votre main.
+Vous ne pouvez utiliser cet effet de ""Daneen Évolué"" qu'une fois par tour.
+Si vous dévoilez une ou plusieurs cartes par un effet de carte ""GMX"" : vous pouvez activer l'effet suivant, selon l'endroit où se trouve cette carte à l'activation (mais vous ne pouvez utiliser chaque effet de ""Daneen Évolué"" qu'une fois par tour) ;
+● Terrain : Gagnez 1500 LP.
+● Cimetière : Invoquez Spécialement cette carte."
+101304092,Daneen Évolué,str1,Ajouter à la main
+101304092,Daneen Évolué,str2,Activer l'effet
+101304093,GMX - COMPREX,name,GMX - COMPREX
+101304093,GMX - COMPREX,desc,"1 monstre ""GMX"" + 2+ monstres Dinosaure
+Gagne ces effets selon le nombre de monstres Dinosaure utilisés comme Matériel Fusion pour cette carte.
+● 3+ : Votre adversaire ne peut pas cibler cette carte avec des effets de carte.
+● 4+ : Peut faire max. 3 attaques durant chaque Battle Phase.
+● 5+ : Chaque fois que votre adversaire Invoque Normalement ou Spécialement un ou plusieurs monstres, il perd 800 LP.
+Une fois par tour, si vous dévoilez une ou plusieurs cartes par un effet de carte ""GMX"" : vous pouvez détruire tous les autres monstres sur le Terrain."
+101304093,GMX - COMPREX,str2,Détruire
+101304093,GMX - COMPREX,str3,Min. 3 monstres Dinosaure utilisés comme Matériel Fusion
+101304093,GMX - COMPREX,str4,Min. 4 monstres Dinosaure utilisés comme Matériel Fusion
+101304093,GMX - COMPREX,str5,Min. 5 monstres Dinosaure utilisés comme Matériel Fusion
+101304094,Rapport de l'Expérience 55 GMX,name,Rapport de l'Expérience 55 GMX
+101304094,Rapport de l'Expérience 55 GMX,desc,"Invoquez par Fusion 1 Monstre Fusion Dinosaure depuis votre Extra Deck en utilisant des monstres depuis votre main ou Terrain.
+Si votre adversaire contrôle un monstre, vous pouvez aussi utiliser 1 monstre ""GMX"" dans votre Deck comme Matériel.
+Durant votre Main Phase : vous pouvez bannir cette carte depuis votre Cimetière ; dévoilez les cartes du dessus de votre Deck jusqu'à dévoiler une carte ""GMX"", ajoutez la carte ""GMX"" à votre main, et aussi, mélangez les cartes restantes dans le Deck.
+Vous ne pouvez utiliser qu'1 effet de ""Rapport de l'Expérience 55 GMX"" par tour, et uniquement une fois le tour."
+101304094,Rapport de l'Expérience 55 GMX,str1,Invocation Fusion
+101304094,Rapport de l'Expérience 55 GMX,str2,Excaver des cartes
+101304095,Laboratoire #5 GMX,name,Laboratoire #5 GMX
+101304095,Laboratoire #5 GMX,desc,"Votre adversaire ne peut activer ni de cartes ni d'effets lorsque vous Invoquez Normalement ou Spécialement un ou plusieurs monstres ""GMX"".
+Durant votre Main Phase : vous pouvez Poser 1 Magie/Piège ""GMX"" (""Laboratoire #5 GMX"" exclu) depuis votre Deck, puis placez 1 carte depuis votre main au-dessus du Deck.
+Vous ne pouvez utiliser cet effet de ""Laboratoire #5 GMX"" qu'une fois par tour."
+101304095,Laboratoire #5 GMX,str2,Poser
+101304096,Expérience Finale Anti-GMX,name,Expérience Finale Anti-GMX
+101304096,Expérience Finale Anti-GMX,desc,"Activez uniquement si vous contrôlez un monstre ""GMX"".
+Une fois par tour, lorsque votre adversaire active un effet de monstre sur le Terrain (sauf durant la Damage Step) : vous pouvez dévoiler les 5 cartes du dessus de votre Deck, puis si vous avez dévoilé une ou plusieurs cartes ""GMX"", annulez l'effet activé, et aussi, placez toutes les cartes dévoilées au-dessus ou au-dessous du Deck dans l'ordre de votre choix."
+101304096,Expérience Finale Anti-GMX,str1,Excaver des cartes
+101304096,Expérience Finale Anti-GMX,str2,Placer au-dessus du Deck
+101304096,Expérience Finale Anti-GMX,str3,Placer au-dessous du Deck
+101304186,Jeton Gravas de Fer,name,Jeton Gravas de Fer
+101304186,Jeton Gravas de Fer,desc,"Invoqué Spécialement par l'effet de ""Vérificateur""."
+101305001,Chaos Sombre l'Épéiste Magique Ultime,name,Chaos Sombre l'Épéiste Magique Ultime
+101305001,Chaos Sombre l'Épéiste Magique Ultime,desc,"Ni Invocable Normalement ni Posable Normalement. Uniquement Invocable Spécialement (depuis votre main) en mélangeant 1 Monstre Rituel Magicien ou Guerrier depuis votre main ou Cimetière dans le Deck.
+Vous ne pouvez Invoquer Spécialement ""Chaos Sombre l'Épéiste Magique Ultime"" qu'une fois par tour de cette façon.
+Vous pouvez défausser cette carte ; placez 1 Piège Continu qui mentionne ""Rituel de la Lumière et des Ténèbres"" depuis votre Deck ou Cimetière, face recto sur votre Terrain.
+Non affectée par les effets activés de votre adversaire tant que vous avez une Magie Rituelle dans votre Cimetière.
+Une fois par tour : vous pouvez bannir 2 cartes contrôlées par votre adversaire."
+101305001,Chaos Sombre l'Épéiste Magique Ultime,str1,Placer
+101305001,Chaos Sombre l'Épéiste Magique Ultime,str2,Bannir
+101305002,Crâne Archdémon du Chaos,name,Crâne Archdémon du Chaos
+101305002,Crâne Archdémon du Chaos,desc,"Si cette carte est dans votre main ou Cimetière : vous pouvez cibler 3 cartes dans les Cimetières et/ou bannissement face recto (une carte qui mentionne ""Rituel de la Lumière et des Ténèbres"" autre que ""Crâne Archdémon du Chaos"" inclue) ; placez-les au-dessous du Deck dans l'ordre de votre choix, et si vous le faites, Invoquez Spécialement cette carte.
+Si cette carte est envoyée au Cimetière : vous pouvez envoyer 1 Magie Rituelle depuis votre main ou Deck au Cimetière ; ajoutez 1 Monstre Rituel mentionné sur la carte depuis votre Deck à votre main.
+Vous ne pouvez utiliser chaque effet de ""Crâne Archdémon du Chaos"" qu'une fois par tour."
+101305002,Crâne Archdémon du Chaos,str1,Invocation Spéciale
+101305002,Crâne Archdémon du Chaos,str2,Effet d'ajout à la main
+101305003,Sage Celte Mystique,name,Sage Celte Mystique
+101305003,Sage Celte Mystique,desc,"Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez activer cet effet ; vous ne pouvez Invoquer Spécialement depuis l'Extra Deck qu'une fois le reste de ce tour, et aussi, révélez toute votre main, et s'il y a une carte qui mentionne ""Rituel de la Lumière et des Ténèbres"" dedans, vous pouvez piocher 3 cartes, puis défaussez 2 cartes.
+Vous pouvez Sacrifier cette carte ; Invoquez Spécialement 1 Monstre Rituel qui mentionne ""Rituel de la Lumière et des Ténèbres"" depuis votre main.
+Vous ne pouvez utiliser chaque effet de ""Sage Celte Mystique"" qu'une fois par tour."
+101305003,Sage Celte Mystique,str1,Piocher
+101305003,Sage Celte Mystique,str2,Invocation Spéciale
+101305003,Sage Celte Mystique,str3,Piocher 1 carte ?
+101305004,Gurifoh,name,Gurifoh
+101305004,Gurifoh,desc,"(Effet Rapide) : vous pouvez défausser cette carte, puis activez 1 de ces effets ;
+● Les prochains dommages de combat ou d'effet que vous recevez ce tour vont devenir 0.
+● Posez 1 Magie Jeu-Rapide ou Piège qui mentionne ""Rituel de la Lumière et des Ténèbres"" depuis votre Deck. Il peut être activé ce tour.
+Vous ne pouvez utiliser cet effet de ""Gurifoh"" qu'une fois par tour. Pour l'Invocation Rituelle d'exactement 1 Monstre Rituel de Niveau 8 avec un effet de carte qui nécessite l'utilisation de monstres, cette carte peut être utilisée pour l'ensemble du Sacrifice."
+101305004,Gurifoh,str1,Défausser pour activer l'effet
+101305004,Gurifoh,str2,Changement de dommages
+101305004,Gurifoh,str3,Poser Magie/Piège
+101305004,Gurifoh,str4,"Activer en appliquant l'effet de ""Gurifoh""."
+101305005,"Uria, Seigneur des Flammes Aveuglantes - Bêtes Sacrées du Feu Cataclysmique",name,"Uria, Seigneur des Flammes Aveuglantes - Bêtes Sacrées du Feu Cataclysmique"
+101305005,"Uria, Seigneur des Flammes Aveuglantes - Bêtes Sacrées du Feu Cataclysmique",desc,"Ni Invocable Normalement ni Posable Normalement. Uniquement Invocable Spécialement avec une carte ""Bêtes Sacrées"".
+Vous pouvez révéler cette carte dans votre main ; ajoutez 1 Piège ""Bêtes Sacrées"" depuis votre Deck à votre main, puis défaussez 1 carte.
+Vous ne pouvez utiliser cet effet de ""Uria, Seigneur des Flammes Aveuglantes - Bêtes Sacrées du Feu Cataclysmique"" qu'une fois par tour.
+Gagne 1000 ATK/DEF pour chaque Piège dans les Cimetières. Une fois par tour (Effet Rapide) : vous pouvez cibler 1 Magie/Piège sur le Terrain ; détruisez-le.
+Aucun joueur ne peut ni activer de cartes ni d'effets en réponse à l'activation de cet effet."
+101305005,"Uria, Seigneur des Flammes Aveuglantes - Bêtes Sacrées du Feu Cataclysmique",str1,Effet d'ajout à la main
+101305005,"Uria, Seigneur des Flammes Aveuglantes - Bêtes Sacrées du Feu Cataclysmique",str2,Effet de destruction
+101305006,"Hamon, Seigneur du Tonnerre Fracassant - Bêtes Sacrées de la Catastrophe du Péché",name,"Hamon, Seigneur du Tonnerre Fracassant - Bêtes Sacrées de la Catastrophe du Péché"
+101305006,"Hamon, Seigneur du Tonnerre Fracassant - Bêtes Sacrées de la Catastrophe du Péché",desc,"Ni Invocable Normalement ni Posable Normalement. Uniquement Invocable Spécialement avec une carte ""Bêtes Sacrées"".
+Vous pouvez révéler cette carte dans votre main ; ajoutez 1 Magie ""Bêtes Sacrées"" depuis votre Deck à votre main, puis défaussez 1 carte.
+Vous ne pouvez utiliser cet effet de ""Hamon, Seigneur du Tonnerre Fracassant - Bêtes Sacrées de la Catastrophe du Péché"" qu'une fois par tour.
+Une fois par tour, si un ou plusieurs monstres sont envoyés au Cimetière de votre adversaire : infligez 1000 points de dommages à votre adversaire.
+Si cette carte est détruite au combat ou par un effet de carte : vous pouvez activer cet effet ; vous ne recevez aucun dommage ce tour."
+101305006,"Hamon, Seigneur du Tonnerre Fracassant - Bêtes Sacrées de la Catastrophe du Péché",str1,Effet d'ajout à la main
+101305006,"Hamon, Seigneur du Tonnerre Fracassant - Bêtes Sacrées de la Catastrophe du Péché",str2,Effet de dommages
+101305006,"Hamon, Seigneur du Tonnerre Fracassant - Bêtes Sacrées de la Catastrophe du Péché",str3,Immunité aux dommages
+101305007,"Raviel, Empereur des Phantasmes - Bêtes Sacrées de l'Éternité Sans Fin",name,"Raviel, Empereur des Phantasmes - Bêtes Sacrées de l'Éternité Sans Fin"
+101305007,"Raviel, Empereur des Phantasmes - Bêtes Sacrées de l'Éternité Sans Fin",desc,"Ni Invocable Normalement ni Posable Normalement.
+Uniquement Invocable Spécialement avec une carte ""Bêtes Sacrées"".
+Vous pouvez révéler cette carte dans votre main ; ajoutez 1 monstre ""Bêtes Sacrées"" (""Raviel, Empereur des Phantasmes - Bêtes Sacrées de l'Éternité Sans Fin"" exclu) depuis votre Deck à votre main, puis défaussez 1 carte.
+Vous ne pouvez utiliser cet effet de ""Raviel, Empereur des Phantasmes - Bêtes Sacrées de l'Éternité Sans Fin"" qu'une fois par tour.
+Une fois par tour (Effet Rapide) : vous pouvez Sacrifier 2 autres monstres ""Bêtes Sacrées"" ; détruisez autant de monstres contrôlés par votre adversaire que possible, et si vous le faites, cette carte gagne 1000 ATK pour chaque carte détruite par cet effet."
+101305007,"Raviel, Empereur des Phantasmes - Bêtes Sacrées de l'Éternité Sans Fin",str1,Effet d'ajout à la main
+101305007,"Raviel, Empereur des Phantasmes - Bêtes Sacrées de l'Éternité Sans Fin",str2,Effet de destruction
+101305008,L'Orchestrator des Bêtes Sacrées,name,L'Orchestrator des Bêtes Sacrées
+101305008,L'Orchestrator des Bêtes Sacrées,desc,"Vous pouvez révéler cette carte dans votre main ; défaussez 1 carte, et si vous le faites, Invoquez Spécialement 1 monstre ""Bêtes Sacrées"" (monstres de Niveau 8 exclus) depuis votre main en Position de Défense.
+Vous pouvez défausser 1 carte ; Invoquez Spécialement 1 monstre ""Bêtes Sacrées"" (monstres de Niveau 8 et la carte défaussée exclus) depuis votre main ou Cimetière en Position de Défense.
+Vous pouvez bannir cette carte depuis votre Cimetière ; Invoquez Spécialement 1 monstre ""Bêtes Sacrées"" (monstres de Niveau 8 exclus) depuis votre Cimetière en Position de Défense.
+Vous ne pouvez utiliser chaque effet de ""L'Orchestrator des Bêtes Sacrées"" qu'une fois par tour."
+101305008,L'Orchestrator des Bêtes Sacrées,str1,Invocation Spéciale
+101305008,L'Orchestrator des Bêtes Sacrées,str2,Invocation Spéciale
+101305008,L'Orchestrator des Bêtes Sacrées,str3,Invocation Spéciale
+101305009,Martyr des Bêtes Sacrées,name,Martyr des Bêtes Sacrées
+101305009,Martyr des Bêtes Sacrées,desc,"Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez placer 1 Magie de Terrain ""Bêtes Sacrées"" ou Magie/Piège Continu ""Bêtes Sacrées"" depuis votre Deck face recto sur votre Terrain.
+Si vous contrôlez un autre monstre ""Bêtes Sacrées"" : vous pouvez Invoquer Spécialement 2 ""Martyr des Bêtes Sacrées"" depuis votre main, Deck et/ou Cimetière.
+Durant la End Phase de votre adversaire, si cette carte et un monstre ""Bêtes Sacrées"" de Niveau 10 sont dans votre Cimetière : vous pouvez ajouter cette carte à votre main.
+Vous ne pouvez utiliser chaque effet de ""Martyr des Bêtes Sacrées"" qu'une fois par tour."
+101305009,Martyr des Bêtes Sacrées,str1,Poser Magie/Piège
+101305009,Martyr des Bêtes Sacrées,str2,Invocation Spéciale
+101305009,Martyr des Bêtes Sacrées,str3,Ajouter à la main
+101305010,Wisca Cliquéclair,name,Wisca Cliquéclair
+101305010,Wisca Cliquéclair,desc,"Si une ou plusieurs cartes ont été détruites par votre effet de carte ""Cliquéclair"" ce tour (Effet Rapide) : vous pouvez révéler cette carte dans votre main ; Invoquez Spécialement max. 3 monstres Tonnerre depuis votre main, puis vous pouvez détruire max. autant de cartes sur le Terrain, et aussi, vous ne pouvez pas Invoquer Spécialement de Monstres à Effet le reste de ce tour, sauf depuis la main.
+Lorsqu'un effet de monstre est activé, sauf dans la main (Effet Rapide) : vous pouvez renvoyer 1 autre monstre Tonnerre que vous contrôlez à la main ; annulez l'activation, et si vous le faites, détruisez le monstre activant.
+Vous ne pouvez utiliser chaque effet de ""Wisca Cliquéclair"" qu'une fois par tour."
+101305010,Wisca Cliquéclair,str1,Invocation Spéciale
+101305010,Wisca Cliquéclair,str2,Annuler l'activation
+101305010,Wisca Cliquéclair,str3,Détruire la carte ?
+101305011,Surtension Cliquéclair,name,Surtension Cliquéclair
+101305011,Surtension Cliquéclair,desc,"Vous pouvez révéler cette carte dans votre main, puis ciblez 1 monstre sur le Terrain ; détruisez-le, et si vous le faites, Invoquez Spécialement 1 monstre Tonnerre depuis votre main, et aussi, vous ne pouvez pas Invoquer Spécialement de Monstres à Effet le reste de ce tour, sauf depuis la main.
+Si une ou plusieurs autres cartes sont détruites par un effet de carte, tant que cette carte est dans la Zone Monstre : vous pouvez ajouter 1 monstre ""Cliquéclair"" (""Surtension Cliquéclair"" exclu) depuis votre Deck à votre main.
+Vous ne pouvez utiliser chaque effet de ""Surtension Cliquéclair"" qu'une fois par tour."
+101305011,Surtension Cliquéclair,str1,Invocation Spéciale
+101305011,Surtension Cliquéclair,str2,Effet d'ajout à la main
+101305012,Craquement Cliquéclair,name,Craquement Cliquéclair
+101305012,Craquement Cliquéclair,desc,"Lorsque votre adversaire active un effet de monstre sur le Terrain durant son tour (Effet Rapide) : vous pouvez révéler cette carte dans votre main ; détruisez le monstre, et si vous le faites, Invoquez Spécialement 1 monstre Tonnerre depuis votre main, et aussi, vous ne pouvez pas Invoquer Spécialement de Monstres à Effet le reste de ce tour, sauf depuis la main.
+Si une ou plusieurs autres cartes sont détruites par un effet de carte, tant que cette carte est dans la Zone Monstre : vous pouvez envoyer 1 Magie/Piège ""Cliquéclair"" depuis votre Deck au Cimetière.
+Vous ne pouvez utiliser chaque effet de ""Craquement Cliquéclair"" qu'une fois par tour."
+101305012,Craquement Cliquéclair,str1,Effet de destruction
+101305012,Craquement Cliquéclair,str2,Envoyer au Cimetière
+101305013,Grain Cliquéclair,name,Grain Cliquéclair
+101305013,Grain Cliquéclair,desc,"Vous pouvez révéler cette carte dans votre main, puis ciblez 1 Magie/Piège sur le Terrain ; détruisez-le, et si vous le faites, Invoquez Spécialement 1 monstre Tonnerre depuis votre main, et aussi, vous ne pouvez pas Invoquer Spécialement de Monstres à Effet le reste de ce tour, sauf depuis la main.
+Si une ou plusieurs autres cartes sont détruites par un effet de carte, tant que cette carte est dans la Zone Monstre : vous pouvez ajouter 1 ""Kowloon, Citadelle du Ciel"" ou Magie ""Cliquéclair"" depuis votre Deck à votre main.
+Vous ne pouvez utiliser chaque effet de ""Grain Cliquéclair"" qu'une fois par tour."
+101305013,Grain Cliquéclair,str1,Invocation Spéciale
+101305013,Grain Cliquéclair,str2,Effet d'ajout à la main
+101305014,Emi Cliquéclair,name,Emi Cliquéclair
+101305014,Emi Cliquéclair,desc,"Si cette carte est ajoutée à votre main, sauf en la piochant : vous pouvez la révéler, puis ciblez 1 carte sur le Terrain ; détruisez-la, et si vous le faites, Invoquez Spécialement 1 monstre Tonnerre depuis votre main, et aussi, vous ne pouvez pas Invoquer Spécialement de Monstres à Effet le reste de ce tour, sauf depuis la main.
+Si une ou plusieurs autres cartes sont détruites par un effet de carte, tant que cette carte est dans la Zone Monstre : vous pouvez ajouter 1 Piège ""Cliquéclair"" depuis votre Deck à votre main.
+Vous ne pouvez utiliser chaque effet de ""Emi Cliquéclair"" qu'une fois par tour."
+101305014,Emi Cliquéclair,str1,Invocation Spéciale
+101305014,Emi Cliquéclair,str2,Effet d'ajout à la main
+101305015,Aleister le Réminiscent,name,Aleister le Réminiscent
+101305015,Aleister le Réminiscent,desc,"Si cette carte est dans votre main : vous pouvez cibler 1 monstre Magicien ou 1 Monstre Fusion sur le Terrain ; Invoquez Spécialement cette carte, et si vous le faites, le monstre ciblé gagne 1000 ATK jusqu'à la fin de ce tour.
+Si cette carte est Invoquée Normalement ou Spécialement, ou retournée face recto : vous pouvez bannir 1 monstre ""Invokhé"" depuis votre Extra Deck ; ajoutez 1 ""Invokhation"", ou 1 Magie qui la mentionne, depuis votre Deck à votre main.
+Vous ne pouvez utiliser chaque effet de ""Aleister le Réminiscent"" qu'une fois par tour."
+101305015,Aleister le Réminiscent,str1,Invocation Spéciale
+101305015,Aleister le Réminiscent,str2,Effet d'ajout à la main
+101305016,Aiwass l'Esprit de la Loi,name,Aiwass l'Esprit de la Loi
+101305016,Aiwass l'Esprit de la Loi,desc,"Vous pouvez bannir cette carte depuis votre main ou Terrain ; ajoutez 1 monstre ""Aleister"" depuis votre Deck à votre main, puis si cet effet a été activé sur le Terrain, immédiatement après la résolution de cet effet, vous pouvez Invoquer Normalement 1 monstre Magicien.
+Si un ou plusieurs Monstres Fusion face recto que vous contrôlez sont envoyés au Cimetière, sauf au combat, tant que cette carte est dans votre Cimetière : vous pouvez Invoquer Spécialement cette carte, puis vous pouvez Invoquer par Fusion 1 monstre ""Invokhé"", en utilisant des monstres depuis votre main ou Terrain.
+Vous ne pouvez utiliser chaque effet de ""Aiwass l'Esprit de la Loi"" qu'une fois par tour."
+101305016,Aiwass l'Esprit de la Loi,str1,Effet d'ajout à la main
+101305016,Aiwass l'Esprit de la Loi,str2,Invocation Spéciale
+101305016,Aiwass l'Esprit de la Loi,str3,Invocation Normale ?
+101305016,Aiwass l'Esprit de la Loi,str4,Invocation Fusion ?
+101305017,Virakam l'Esprit Artificiel,name,Virakam l'Esprit Artificiel
+101305017,Virakam l'Esprit Artificiel,desc,"Si vous avez un monstre ""Aleister"" dans votre Terrain ou Cimetière : vous pouvez Invoquer Spécialement cette carte depuis votre main.
+Si cette carte est Invoquée Spécialement : vous pouvez Poser 1 ""Invokhation"", ou 1 Magie qui la mentionne, depuis votre Deck.
+Lorsque votre adversaire active une carte ou un effet en réponse à l'activation de l'effet de votre Monstre Fusion (Effet Rapide) : vous pouvez bannir cette carte depuis le Terrain, et si vous le faites, annulez l'effet de l'adversaire, et si vous faites ça, bannissez la carte.
+Vous ne pouvez utiliser chaque effet de ""Virakam l'Esprit Artificiel"" qu'une fois par tour."
+101305017,Virakam l'Esprit Artificiel,str1,Invocation Spéciale
+101305017,Virakam l'Esprit Artificiel,str2,Poser l'effet
+101305017,Virakam l'Esprit Artificiel,str3,Annuler l'effet
+101305018,Les Chevaliers Fantômes de la Cape Délabrée,name,Les Chevaliers Fantômes de la Cape Délabrée
+101305018,Les Chevaliers Fantômes de la Cape Délabrée,desc,"Vous pouvez révéler 1 autre carte ""Les Chevaliers Fantômes"" dans votre main ; Invoquez Spécialement cette carte depuis votre main.
+Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez ajouter 1 monstre ""Les Chevaliers Fantômes"" depuis votre Deck à votre main.
+Vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 Monstre Xyz que vous contrôlez ; ce tour, vous pouvez l'utiliser comme Matériel pour une Invocation Xyz en utilisant son Rang comme Niveau.
+Vous ne pouvez utiliser chaque effet de ""Les Chevaliers Fantômes de la Cape Délabrée"" qu'une fois par tour."
+101305018,Les Chevaliers Fantômes de la Cape Délabrée,str1,Invocation Spéciale
+101305018,Les Chevaliers Fantômes de la Cape Délabrée,str2,Effet d'ajout à la main
+101305018,Les Chevaliers Fantômes de la Cape Délabrée,str3,Traiter le Rang comme un Niveau
+101305018,Les Chevaliers Fantômes de la Cape Délabrée,str4,"L'effet de ""Les Chevaliers Fantômes de la Cape Délabrée"" est actuellement appliqué."
+101305019,Les Chevaliers Fantômes des Solerets Maudits,name,Les Chevaliers Fantômes des Solerets Maudits
+101305019,Les Chevaliers Fantômes des Solerets Maudits,desc,"Si vous ne contrôlez aucun monstre, vous pouvez Invoquer Spécialement cette carte (depuis votre main).
+Vous ne pouvez Invoquer Spécialement ""Les Chevaliers Fantômes des Solerets Maudits"" qu'une fois par tour de cette façon.
+Vous ne pouvez utiliser chacun des effets suivants de ""Les Chevaliers Fantômes des Solerets Maudits"" qu'une fois par tour.
+Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez Poser 1 Magie/Piège ""Les Chevaliers Fantômes"" depuis votre Deck.
+Vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez max. 2 monstres TÉNÈBRES de Niveau/Rang 3 que vous contrôlez ; augmentez leur Niveau/Rang de 1."
+101305019,Les Chevaliers Fantômes des Solerets Maudits,str1,Invocation Spéciale
+101305019,Les Chevaliers Fantômes des Solerets Maudits,str2,Poser Magie/Piège
+101305019,Les Chevaliers Fantômes des Solerets Maudits,str3,Augmenter le Niveau/Rang
+101305020,Signus de la Force-S,name,Signus de la Force-S
+101305020,Signus de la Force-S,desc,"Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez ajouter 1 monstre ""Force-S"" (""Signus de la Force-S"" exclu) depuis votre Deck à votre main, puis si un monstre de l'adversaire est dans la colonne de cette carte, vous pouvez piocher 1 carte.
+Si un monstre de l'adversaire active son effet dans la même colonne que votre monstre : vous pouvez faire gagner 1000 ATK à tous les monstres ""Force-S"" que vous contrôlez actuellement.
+Vous ne pouvez utiliser chaque effet de ""Signus de la Force-S"" qu'une fois par tour."
+101305020,Signus de la Force-S,str1,Ajouter à la main
+101305020,Signus de la Force-S,str2,Augmenter l'ATK
+101305020,Signus de la Force-S,str3,Piocher 1 carte ?
+101305021,Lappys Melffy,name,Lappys Melffy
+101305021,Lappys Melffy,desc,"Si votre adversaire Invoque Normalement ou Spécialement un ou plusieurs monstres : vous pouvez Invoquer Spécialement cette carte depuis votre main, puis vous pouvez Invoquer par Fusion 1 Monstre Fusion ""Melffy"" depuis votre Extra Deck, en utilisant des monstres depuis votre main ou Terrain.
+Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez ajouter 1 monstre ""Melffy"" depuis votre Deck à votre main, puis si vous avez ajouté un Monstre Normal, vous pouvez Invoquer Spécialement un nombre de votre choix de monstres Bête depuis votre main.
+Vous ne pouvez utiliser qu'1 effet de ""Lappys Melffy"" par tour, et uniquement une fois le tour."
+101305021,Lappys Melffy,str1,Invocation Spéciale
+101305021,Lappys Melffy,str2,Effet d'ajout à la main
+101305021,Lappys Melffy,str3,Invocation Fusion ?
+101305021,Lappys Melffy,str4,Invocation Spéciale?
+101305022,"Phara, la Déesse du Commencement",name,"Phara, la Déesse du Commencement"
+101305022,"Phara, la Déesse du Commencement",desc,"Vous pouvez révéler cette carte et 1 Magie/Piège dans votre main ; aucun joueur ne peut activer ni de cartes ni d'effets en réponse à l'activation de carte ou d'effet d'une carte du même nom que la Magie/Piège révélé jusqu'à la fin du prochain tour.
+Si cette carte est envoyée depuis la main ou Terrain au Cimetière par un effet de Magie/Piège : vous pouvez Invoquer Spécialement cette carte.
+Si cette carte est Invoquée Spécialement depuis le Cimetière : vous pouvez prendre le contrôle du monstre contrôlé par votre adversaire avec la plus haute ATK (en cas d'égalité, vous choisissez).
+Vous ne pouvez utiliser chaque effet de ""Phara, la Déesse du Commencement"" qu'une fois par tour."
+101305022,"Phara, la Déesse du Commencement",str1,Révéler cette carte et 1 Magie/Piège dans votre main
+101305022,"Phara, la Déesse du Commencement",str2,Invocation Spéciale
+101305022,"Phara, la Déesse du Commencement",str3,Prendre le contrôle
+101305023,Astrolasma Urania,name,Astrolasma Urania
+101305023,Astrolasma Urania,desc,"Vous pouvez Invoquer Spécialement cette carte (depuis votre main) en renvoyant max. 2 monstres que vous contrôlez à la main. Vous ne pouvez Invoquer Spécialement ""Astrolasma Urania"" qu'une fois par tour de cette façon.
+Vous ne pouvez utiliser chacun des effets suivants de ""Astrolasma Urania"" qu'une fois par tour.
+Si cette carte est Invoquée Spécialement : vous pouvez révéler un nombre de votre choix de monstres de Niveaux différents dans votre main, puis ciblez autant de cartes face recto contrôlées par votre adversaire ; annulez leurs effets.
+Si cette carte sur le Terrain est détruite par un effet de carte et envoyée au Cimetière : vous pouvez ajouter cette carte à votre main."
+101305023,Astrolasma Urania,str2,Annuler
+101305023,Astrolasma Urania,str3,Renvoyer à la main
+101305024,Roi Magique des Marais,name,Roi Magique des Marais
+101305024,Roi Magique des Marais,desc,"Si cette carte est dans votre main : vous pouvez révéler 1 Monstre Fusion dans votre Extra Deck et bannir 1 Matériel dont le nom est mentionné sur celui-ci depuis votre Deck, puis Invoquez Spécialement cette carte, et son nom peut être traité comme celui du monstre banni si elle est utilisée comme Matériel Fusion ce tour.
+Vous ne pouvez utiliser cet effet de ""Roi Magique des Marais"" qu'une fois par tour."
+101305024,Roi Magique des Marais,str1,Invocation Spéciale
+101305024,Roi Magique des Marais,str2,L'effet de {CARD} est actuellement appliqué.
+101305025,"Rayonrage, le Démon du Crépuscule",name,"Rayonrage, le Démon du Crépuscule"
+101305025,"Rayonrage, le Démon du Crépuscule",desc,"Échelle Pendule = 1
+[ Effet Pendule ]
+Si un ou plusieurs Monstres Pendule que vous contrôlez vont être détruits par un effet de carte de l'adversaire, vous pouvez détruire cette carte à la place d'1 des Monstres Pendule.
+Vous ne pouvez utiliser cet effet de ""Rayonrage, le Démon du Crépuscule"" qu'une fois par tour.
+----------------------------------------
+[ Effet de Monstre ]
+Si cette carte est dans votre main : vous pouvez cibler 1 Monstre Pendule que vous contrôlez ; placez le Monstre Pendule dans votre Zone Pendule (mais il ne peut pas activer ses Effets Pendule ce tour), et si vous le faites, Invoquez Spécialement cette carte.
+(Effet Rapide) : vous pouvez Sacrifier cette carte, puis ciblez 1 carte dans votre Zone Pendule ; elle ne peut pas être détruite par les effets de carte de votre adversaire ce tour. 
+Vous ne pouvez utiliser chaque effet de ""Rayonrage, le Démon du Crépuscule"" qu'une fois par tour."
+101305025,"Rayonrage, le Démon du Crépuscule",str2,Invocation Spéciale
+101305025,"Rayonrage, le Démon du Crépuscule",str3,Accorder une protection
+101305026,Gray Layer,name,Gray Layer
+101305026,Gray Layer,desc,"Vous pouvez Sacrifier cette carte et révéler 1 monstre Machine dans votre main ; ajoutez 1 monstre Machine depuis votre Deck à votre main d'Attribut différent du monstre révélé, puis si vous avez ajouté un monstre avec max. 1200 ATK, vous pouvez Invoquer Spécialement 1 monstre Machine depuis votre main.
+Si un ou plusieurs monstres en votre possession sont détruits par un effet de carte, tant que cette carte est dans votre Cimetière : vous pouvez bannir cette carte ; détruisez 1 carte sur le Terrain.
+Vous ne pouvez utiliser chaque effet de ""Gray Layer"" qu'une fois par tour."
+101305026,Gray Layer,str1,Effet d'ajout à la main
+101305026,Gray Layer,str2,Effet de destruction
+101305026,Gray Layer,str3,Invocation Spéciale?
+101305027,Chaos Sombre le Magicien du Chaos des Ténèbres,name,Chaos Sombre le Magicien du Chaos des Ténèbres
+101305027,Chaos Sombre le Magicien du Chaos des Ténèbres,desc,"Vous pouvez Invoquer Rituellement cette carte avec ""Rituel de la Lumière et des Ténèbres"".
+Non affectée par des effets activés de votre adversaire, sauf s'il cible cette carte.
+Les Magies/Pièges que vous contrôlez ne peuvent être ni détruits ni bannis par des effets de carte de votre adversaire.
+Vous ne pouvez utiliser chacun des effets suivants de ""Chaos Sombre le Magicien du Chaos des Ténèbres"" qu'une fois par tour.
+Si cette carte est Invoquée Spécialement : vous pouvez ajouter 1 Magie depuis votre Cimetière à votre main.
+Vous pouvez cibler 1 carte contrôlée par votre adversaire ; bannissez-la (face verso)."
+101305027,Chaos Sombre le Magicien du Chaos des Ténèbres,str1,Récupérer une Carte Magie
+101305027,Chaos Sombre le Magicien du Chaos des Ténèbres,str2,Bannir face verso
+101305028,Soldat du Lustre Noir - Soldat de la Lumière et des Ténèbres,name,Soldat du Lustre Noir - Soldat de la Lumière et des Ténèbres
+101305028,Soldat du Lustre Noir - Soldat de la Lumière et des Ténèbres,desc,"Vous pouvez Invoquer Rituellement cette carte avec ""Rituel de la Lumière et des Ténèbres"".
+Non destructible au combat. Non affectée par des effets activés de votre adversaire, sauf s'il cible cette carte.
+Vous ne pouvez utiliser chacun des effets suivants de ""Soldat du Lustre Noir - Soldat de la Lumière et des Ténèbres"" qu'une fois par tour.
+Si cette carte est Invoquée Spécialement : vous pouvez cibler 1 carte contrôlée par votre adversaire ; bannissez-la.
+Lorsque cette carte détruit un monstre de l'adversaire au combat : vous pouvez faire gagner 1500 ATK à cette carte, et si vous le faites, elle peut faire une seconde attaque à la suite."
+101305028,Soldat du Lustre Noir - Soldat de la Lumière et des Ténèbres,str1,Effet de bannissement
+101305028,Soldat du Lustre Noir - Soldat de la Lumière et des Ténèbres,str2,Augmenter l'ATK
+101305029,Bêtes Sacrées Spectres du Chaos,name,Bêtes Sacrées Spectres du Chaos
+101305029,Bêtes Sacrées Spectres du Chaos,desc,"3 monstres de Niveau 10 qui ne peuvent pas être Invoqués/Posés Normalement
+Uniquement soit Invocable par Fusion soit Invocable Spécialement (depuis votre Extra Deck) en envoyant les cartes ci-dessus que vous contrôlez au Cimetière.
+Vous ne pouvez Invoquer Spécialement ""Bêtes Sacrées Spectres du Chaos"" qu'une fois par tour de cette façon, peu importe la méthode que vous utilisez.
+Les deux premières fois que cette carte va être détruite par un effet de carte chaque tour, elle n'est pas détruite.
+Une fois par Chaîne et trois fois par tour (Effet Rapide) : vous pouvez cibler 1 monstre face recto contrôlé par votre adversaire ; annulez ses effets (jusqu'à la fin de ce tour), puis vous pouvez gagner des LP égaux à la moitié de son ATK."
+101305029,Bêtes Sacrées Spectres du Chaos,str1,Annuler l'effet
+101305029,Bêtes Sacrées Spectres du Chaos,str2,Gagner des LP ?
+101305030,Sorath l'Invokhé,name,Sorath l'Invokhé
+101305030,Sorath l'Invokhé,desc,"1 monstre ""Aleister"" + 1 monstre FEU ou VENT
+Durant la Main Phase (Effet Rapide) : vous pouvez cibler 1 monstre de max. Niveau 6 dans l'un des Cimetières ; Invoquez-le Spécialement sur votre Terrain en Position de Défense, mais annulez ses effets.
+Si cette carte est dans votre Cimetière : vous pouvez Invoquer par Fusion 1 Monstre Fusion ""Invokhé"" depuis votre Extra Deck, en bannissant ses Matériels depuis votre Terrain et/ou Cimetière (cette carte dans le Cimetière incluse).
+Vous ne pouvez utiliser chaque effet de ""Sorath l'Invokhé"" qu'une fois par tour."
+101305030,Sorath l'Invokhé,str1,Invocation Spéciale
+101305030,Sorath l'Invokhé,str2,Effet de Fusion
+101305031,Babalon l'Invokhé,name,Babalon l'Invokhé
+101305031,Babalon l'Invokhé,desc,"1 monstre ""Aleister"" + 1 monstre LUMIÈRE ou TERRE
+Si cette carte est Invoquée Spécialement : vous pouvez ajouter 1 ""Virakam l'Esprit Artificiel"" ou ""Nom Magique - ""Rosa Mundi"""" depuis votre Deck à votre main, puis vous pouvez bannir 1 monstre depuis l'un des Cimetières.
+Vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 Monstre Fusion que vous contrôlez ; tous les monstres actuellement contrôlés par votre adversaire perdent une ATK égale à celle du monstre jusqu'à la fin de ce tour.
+Vous ne pouvez utiliser chaque effet de ""Babalon l'Invokhé"" qu'une fois par tour."
+101305031,Babalon l'Invokhé,str1,Effet d'ajout à la main
+101305031,Babalon l'Invokhé,str2,Changez l'ATK
+101305031,Babalon l'Invokhé,str3,Bannir la carte ?
+101305032,Okeanos l'Invokhé,name,Okeanos l'Invokhé
+101305032,Okeanos l'Invokhé,desc,"1 monstre ""Aleister"" + 1 monstre TÉNÈBRES ou EAU
+Tant que cette carte est dans la Zone Monstre Main, les monstres de votre adversaire ne peuvent pas cibler de monstres (celui-ci exclu) avec une attaque.
+Tant que cette carte est dans la Zone Monstre Extra, les monstres envoyés au Cimetière de votre adversaire sont bannis à la place.
+Vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 Monstre Fusion que vous contrôlez ; il peut attaquer directement ce tour.
+Vous ne pouvez utiliser cet effet de ""Okeanos l'Invokhé"" qu'une fois par tour."
+101305032,Okeanos l'Invokhé,str2,Attaque directe
+101305033,Aeon l'Invokhé Transcendant,name,Aeon l'Invokhé Transcendant
+101305033,Aeon l'Invokhé Transcendant,desc,"2+ Monstres Fusion d'Attributs différents
+Si cette carte est Invoquée par Fusion : vous pouvez bannir un nombre de cartes depuis le Terrain et/ou Cimetières, inférieur ou égal au nombre de Matériels utilisés, puis si vous en avez utilisé min. 3, vous pouvez regarder l'Extra Deck de votre adversaire, et si vous le faites, bannissez-en max. 3 cartes.
+(Effet Rapide) : vous pouvez déclarer 1 Attribut ; tous les autres monstres actuellement sur le Terrain deviennent de cet Attribut jusqu'à la fin de ce tour.
+Vous ne pouvez utiliser qu'1 effet de ""Aeon l'Invokhé Transcendant"" par tour, et uniquement une fois le tour."
+101305033,Aeon l'Invokhé Transcendant,str1,Effet de bannissement
+101305033,Aeon l'Invokhé Transcendant,str2,Changer l'Attribut
+101305033,Aeon l'Invokhé Transcendant,str3,Bannir depuis l'Extra Deck ?
+101305034,Melffys Excités,name,Melffys Excités
+101305034,Melffys Excités,desc,"1 monstre ""Melffy"" + 1 monstre Bête
+Si cette carte est Invoquée par Fusion : vous pouvez cibler un nombre égal de cartes ""Melffy"" que vous contrôlez et de cartes contrôlées par votre adversaire ; renvoyez-les à la main.
+Si votre adversaire Invoque Normalement ou Spécialement un ou plusieurs monstres (sauf durant la Damage Step), ou si un monstre de l'adversaire cible cette carte avec une attaque : vous pouvez cibler 1 monstre Bête dans votre Cimetière ; réduisez le Niveau de cette carte de 2, et si vous le faites, Invoquez Spécialement le monstre.
+Vous ne pouvez utiliser chaque effet de ""Melffys Excités"" qu'une fois par tour."
+101305034,Melffys Excités,str1,Renvoyer à la main
+101305034,Melffys Excités,str2,Invocation Spéciale
+101305035,Fierté de Juin - Notes Elfiques,name,Fierté de Juin - Notes Elfiques
+101305035,Fierté de Juin - Notes Elfiques,desc,"1 Syntoniseur + 1 monstre Magicien non-Syntoniseur
+Tant que cette carte est dans la Zone Monstre Main centrale, aucun joueur ne peut déclarer d'attaques, sauf avec des monstres dans les Zones Monstre Main centrales.
+Durant la Main Phase, si cette carte est dans la Zone Monstre Main centrale (Effet Rapide) : vous pouvez la renvoyer à l'Extra Deck, et si vous le faites, Invoquez Spécialement max. 1 monstre ""Notes Elfiques"" chacun depuis votre main, Deck et Cimetière.
+Vous ne pouvez utiliser cet effet de ""Fierté de Juin - Notes Elfiques"" qu'une fois par tour."
+101305035,Fierté de Juin - Notes Elfiques,str1,Invocation Spéciale
+101305036,Récupérateur Null de Couplage Anomalique,name,Récupérateur Null de Couplage Anomalique
+101305036,Récupérateur Null de Couplage Anomalique,desc,"1 Syntoniseur + 1+ non-Syntoniseur
+Si cette carte est Invoquée par Synchronisation : vous pouvez ajouter 1 monstre de min. Niveau 8 avec 0 ATK depuis votre Deck à votre main.
+Vous pouvez cibler 1 monstre avec 0 ATK dans votre Cimetière ; Invoquez-le Spécialement, mais annulez ses effets, et aussi, il ne peut pas être utilisé comme Matériel pour une Invocation Fusion, Synchro, Xyz ou Lien.
+Vous ne pouvez utiliser chaque effet de ""Récupérateur Null de Couplage Anomalique"" qu'une fois par tour."
+101305036,Récupérateur Null de Couplage Anomalique,str1,Ajouter à la main
+101305036,Récupérateur Null de Couplage Anomalique,str2,Invocation Spéciale
+101305036,Récupérateur Null de Couplage Anomalique,str3,Invoqué Spécialement par l'effet de {CARD}
+101305037,Les Chevaliers Fantômes de la Faux Malveillante,name,Les Chevaliers Fantômes de la Faux Malveillante
+101305037,Les Chevaliers Fantômes de la Faux Malveillante,desc,"2 monstres TÉNÈBRES de Niveau 3
+Vous pouvez détacher 1 Matériel de cette carte ; Invoquez Spécialement 1 monstre ""Les Chevaliers Fantômes"" depuis votre Deck.
+Si vous Invoquez par Xyz un monstre ""Dragon Xyz"" tant que cette carte est dans la Zone Monstre : vous pouvez ajouter 1 Magie ""Magie-Rang-Plus"" depuis votre Deck à votre main.
+Si cette carte est détruite : vous pouvez ajouter 1 de vos cartes ""Les Chevaliers Fantômes"" bannies (Monstres Xyz exclus) à votre main.
+Vous ne pouvez utiliser chaque effet de ""Les Chevaliers Fantômes de la Faux Malveillante"" qu'une fois par tour."
+101305037,Les Chevaliers Fantômes de la Faux Malveillante,str1,Invocation Spéciale
+101305037,Les Chevaliers Fantômes de la Faux Malveillante,str2,Effet d'ajout à la main
+101305037,Les Chevaliers Fantômes de la Faux Malveillante,str3,Effet de récupération
+101305038,Mommy Marraine Melffy,name,Mommy Marraine Melffy
+101305038,Mommy Marraine Melffy,desc,"3+ monstres Bête de Niveau 2
+Une fois par tour, vous pouvez aussi Invoquer par Xyz ""Mommy Marraine Melffy"" en utilisant ""Mommy Melffy"" que vous contrôlez (transférez ses Matériels).
+Si cette carte est Invoquée Spécialement : vous pouvez ajouter 1 Magie/Piège ""Melffy"" depuis votre Deck ou Cimetière à votre main.
+Gagne une ATK égale à la somme des ATK et DEF de tous les monstres ""Melffy"" qui lui sont attachés.
+Vous pouvez détacher 5 Matériels de cette carte ; renvoyez toutes les cartes contrôlées par votre adversaire à la main."
+101305038,Mommy Marraine Melffy,str1,Invoquer Xyz en utilisant {CARD} comme Matériel ?
+101305038,Mommy Marraine Melffy,str2,Ajouter à la main
+101305038,Mommy Marraine Melffy,str3,Renvoyer à la main
+101305039,Envoyé Mécène du Pouvoir des Prières Pures,name,Envoyé Mécène du Pouvoir des Prières Pures
+101305039,Envoyé Mécène du Pouvoir des Prières Pures,desc,"2 Monstres non-Lien
+Si cette carte est Invoquée par Lien et que vous avez un monstre ""Mécène du Pouvoir"" dans votre Cimetière : vous pouvez ajouter 1 carte ""Théoréalisation"" depuis votre Deck à votre main.
+Durant la Main Phase, si vous contrôlez un autre monstre TÉNÈBRES Elfe, vous pouvez (Effet Rapide) : immédiatement après la résolution de cet effet, Invoquez par Lien en utilisant des Matériels que vous contrôlez (cette carte incluse).
+Vous ne pouvez utiliser chaque effet de ""Envoyé Mécène du Pouvoir des Prières Pures"" qu'une fois par tour."
+101305039,Envoyé Mécène du Pouvoir des Prières Pures,str1,Ajouter à la main
+101305039,Envoyé Mécène du Pouvoir des Prières Pures,str2,Invocation Lien
+101305040,Assassine de Nuit de la Force-S,name,Assassine de Nuit de la Force-S
+101305040,Assassine de Nuit de la Force-S,desc,"2 monstres (un monstre ""Force-S"" inclus)
+Si cette carte est Invoquée Spécialement : vous pouvez ajouter 1 Magie/Piège ""Force-S"" depuis votre Deck à votre main.
+(Effet Rapide) : vous pouvez bannir cette carte que vous contrôlez et 1 carte ""Force-S"" depuis votre main ; Invoquez Spécialement 1 monstre ""Force-S"" (""Assassine de Nuit de la Force-S"" exclu) depuis votre Deck ou Extra Deck.
+Vous ne pouvez utiliser chaque effet de ""Assassine de Nuit de la Force-S"" qu'une fois par tour."
+101305040,Assassine de Nuit de la Force-S,str1,Ajouter à la main
+101305040,Assassine de Nuit de la Force-S,str2,Invocation Spéciale
+101305041,Mystify de la Force-S,name,Mystify de la Force-S
+101305041,Mystify de la Force-S,desc,"2+ monstres (un monstre ""Force-S"" inclus)
+Tant qu'un monstre de l'adversaire est dans la colonne de cette carte, votre adversaire ne peut pas cibler cette carte avec des effets de carte, et aussi, il ne peut pas Invoquer Spécialement avec des effets de monstre activés.
+(Effet Rapide) : vous pouvez cibler 1 monstre sur le Terrain ; déplacez-le vers une autre des Zones Monstre Main de son contrôleur.
+Vous ne pouvez utiliser cet effet de ""Mystify de la Force-S"" qu'une fois par tour."
+101305041,Mystify de la Force-S,str1,Déplacer
+101305041,Mystify de la Force-S,str2,Sélectionnez le monstre à déplacer
+101305042,"Drish, Troupe de Clowns",name,"Drish, Troupe de Clowns"
+101305042,"Drish, Troupe de Clowns",desc,"2 Monstres Rituel, Fusion, Synchro, Xyz et/ou Pendule
+Vos monstres Invoqués par Sacrifice peuvent faire une seconde attaque durant chaque Battle Phase.
+Si cette carte est Sacrifiée : vous pouvez activer 1 de ces effets (mais vous ne pouvez utiliser chacun de ces effets de ""Drish, Troupe de Clowns"" qu'une fois par tour) ;
+● Renvoyez tous les Monstres Lien sur le Terrain et dans les Cimetières à l'Extra Deck.
+● Chaque joueur mélange toute sa main dans le Deck, puis il pioche le même nombre de cartes qu'il a mélangées."
+101305042,"Drish, Troupe de Clowns",str1,Effet de Sacrifice
+101305042,"Drish, Troupe de Clowns",str2,Renvoyer au Deck
+101305042,"Drish, Troupe de Clowns",str3,Piocher
+101305043,Zenna-no-Tsuinagihime,name,Zenna-no-Tsuinagihime
+101305043,Zenna-no-Tsuinagihime,desc,"2+ Monstres à Effet
+Vous pouvez aussi utiliser 1 monstre dans votre main comme Matériel pour Invoquer par Lien cette carte.
+Si cette carte est Invoquée par Lien : vous pouvez envoyer 1 monstre depuis votre Deck au Cimetière, ou si cette carte a été Invoquée par Lien en utilisant uniquement des monstres que vous contrôlez, vous pouvez envoyer 1 monstre depuis votre Extra Deck au Cimetière à la place.
+Durant votre prochaine Standby Phase après que cette carte a été envoyée depuis le Terrain au Cimetière : vous pouvez ajouter 1 monstre depuis votre Cimetière à votre main.
+Vous ne pouvez utiliser chaque effet de ""Zenna-no-Tsuinagihime"" qu'une fois par tour."
+101305043,Zenna-no-Tsuinagihime,str1,Envoyer au Cimetière
+101305043,Zenna-no-Tsuinagihime,str2,Ajouter à la main
+101305044,Rituel de la Lumière et des Ténèbres,name,Rituel de la Lumière et des Ténèbres
+101305044,Rituel de la Lumière et des Ténèbres,desc,"Invoquez Rituellement 1 ""Chaos Sombre le Magicien du Chaos des Ténèbres"" ou ""Soldat du Lustre Noir - Soldat de la Lumière et des Ténèbres"" depuis votre main, en Sacrifiant des monstres depuis votre main ou Terrain, et/ou en bannissant des monstres depuis votre Cimetière, dont la somme des Niveaux est supérieur ou égal à son Niveau.
+Si cette carte est dans votre Cimetière : vous pouvez ajouter cette carte ainsi qu'1 carte qui mentionne ""Rituel de la Lumière et des Ténèbres"" depuis votre Cimetière à votre main.
+Vous ne pouvez utiliser cet effet de ""Rituel de la Lumière et des Ténèbres"" qu'une fois par tour."
+101305044,Rituel de la Lumière et des Ténèbres,str1,Activer
+101305044,Rituel de la Lumière et des Ténèbres,str2,Effet de récupération
+101305045,Boîte Mystique du Chaos,name,Boîte Mystique du Chaos
+101305045,Boîte Mystique du Chaos,desc,"Lorsque votre adversaire active une carte ou un effet qui cible une ou plusieurs autres cartes que vous contrôlez : renvoyez 1 de ces cartes que vous contrôlez à la main (si elle est face verso, révélez-la brièvement pour vérifier), et si vous le faites, détruisez 1 carte sur le Terrain, puis vous pouvez Invoquer Spécialement 1 monstre qui mentionne ""Rituel de la Lumière et des Ténèbres"" depuis votre main, de nom différent de la carte renvoyée, en ignorant ses conditions d'Invocation.
+Si cette carte en possession de son propriétaire est détruite par une carte de l'adversaire : vous pouvez Invoquer Spécialement 1 Monstre Rituel qui mentionne ""Rituel de la Lumière et des Ténèbres"" depuis votre main ou Deck."
+101305045,Boîte Mystique du Chaos,str1,Effet de destruction
+101305045,Boîte Mystique du Chaos,str2,Invocation Spéciale
+101305045,Boîte Mystique du Chaos,str3,Invocation Spéciale?
+101305046,Chapeaux du Chaos,name,Chapeaux du Chaos
+101305046,Chapeaux du Chaos,desc,"Lorsque votre adversaire active un effet de monstre, ou une Carte Magie Normale/Piège Normal : choisissez 3 Magies/Pièges de noms différents les uns des autres depuis votre Deck et 1 monstre dans votre Zone Monstre Main qui mentionne ""Rituel de la Lumière et des Ténèbres"".
+Invoquez Spécialement les Magies/Pièges choisis en Position de Défense face verso comme Monstres Normaux (Magicien/TÉNÈBRES/Niveau 8/ATK 0/DEF 0) et leur nom devient ""Chapeaux du Chaos"" (même tant qu'ils sont face verso), Posez le monstre choisi, et mélangez-les sur le Terrain, puis l'effet activé de votre adversaire devient ""détruisez 1 monstre en Position de Défense face verso contrôlé par votre adversaire""."
+101305046,Chapeaux du Chaos,str1,Activer
+101305047,Déchaînement des Bêtes Sacrées,name,Déchaînement des Bêtes Sacrées
+101305047,Déchaînement des Bêtes Sacrées,desc,"Ajoutez 3 monstres ""Bêtes Sacrées"" de noms différents depuis votre Deck à votre main, puis défaussez 2 cartes.
+Si cette carte est dans votre Cimetière, sauf le tour où elle y a été envoyée : vous pouvez la bannir ; ajoutez 1 monstre Pyro, Tonnerre ou Démon de Niveau 10 qui ne peut pas être Invoqué/Posé Normalement depuis votre Deck à votre main.
+Vous ne pouvez utiliser chaque effet de ""Déchaînement des Bêtes Sacrées"" qu'une fois par tour."
+101305047,Déchaînement des Bêtes Sacrées,str1,Activer
+101305047,Déchaînement des Bêtes Sacrées,str2,Ajouter à la main
+101305048,Paradis Perdu des Bêtes Sacrées,name,Paradis Perdu des Bêtes Sacrées
+101305048,Paradis Perdu des Bêtes Sacrées,desc,"Trois fois par tour : vous pouvez envoyer 3 autres cartes du même type (Monstre, Magie ou Piège) depuis votre main et/ou Terrain face recto au Cimetière, puis vous pouvez Invoquer Spécialement 1 monstre ""Bêtes Sacrées"" depuis votre main, Deck, Cimetière ou bannissement, et si vous le faites, il n'est pas affecté par les effets de Magie/Piège activés de votre adversaire.
+Si vous contrôlez un monstre ""Bêtes Sacrées"" dont le Niveau d'origine est 10 : vous pouvez piocher 2 cartes.
+Vous ne pouvez utiliser cet effet de ""Paradis Perdu des Bêtes Sacrées"" qu'une fois par tour."
+101305048,Paradis Perdu des Bêtes Sacrées,str1,Envoyer au Cimetière
+101305048,Paradis Perdu des Bêtes Sacrées,str2,Piocher
+101305048,Paradis Perdu des Bêtes Sacrées,str3,Invocation Spéciale?
+101305048,Paradis Perdu des Bêtes Sacrées,str4,"Invoqué Spécialement par l'effet de ""Paradis Perdu des Bêtes Sacrées"""
+101305049,Feu Céleste des Bêtes Sacrées,name,Feu Céleste des Bêtes Sacrées
+101305049,Feu Céleste des Bêtes Sacrées,desc,"Durant votre Main Phase : vous pouvez placer 2 ""Feu Céleste des Bêtes Sacrées"" depuis votre main, Deck et/ou Cimetière face recto sur votre Terrain, puis vous pouvez révéler 1 monstre ""Bêtes Sacrées"" de Niveau 10 dans votre main, puis placez 1 ""Paradis Perdu des Bêtes Sacrées"" depuis votre Deck face recto dans votre Zone Terrain.
+Durant la End Phase de votre adversaire, si cette carte est dans votre Cimetière : vous pouvez l'ajouter à votre main.
+Vous ne pouvez utiliser chaque effet de ""Feu Céleste des Bêtes Sacrées"" qu'une fois par tour."
+101305049,Feu Céleste des Bêtes Sacrées,str1,Effet de placement
+101305049,Feu Céleste des Bêtes Sacrées,str2,Renvoyer à la main
+101305049,Feu Céleste des Bêtes Sacrées,str3,Montrer à votre adversaire ?
+101305050,"Kowloon, Citadelle du Ciel",name,"Kowloon, Citadelle du Ciel"
+101305050,"Kowloon, Citadelle du Ciel",desc,"Les monstres que vous contrôlez qui ont été Invoqués Normalement ou Spécialement depuis la main gagnent 500 ATK/DEF.
+Vous ne pouvez utiliser chacun des effets suivants de ""Kowloon, Citadelle du Ciel"" qu'une fois par tour.
+Durant votre Main Phase : vous pouvez Invoquer Spécialement 1 ""Jeton Mécabête"" (Machine/TERRE/Niveau 6/ATK 2000/DEF 2000) sur le Terrain de votre adversaire, et si vous le faites, ajoutez 1 monstre ""Cliquéclair"" depuis votre Deck à votre main.
+Si une ou plusieurs cartes sont détruites par votre effet de carte ""Cliquéclair"", tant que cette carte est dans votre Cimetière : vous pouvez ajouter cette carte à votre main."
+101305050,"Kowloon, Citadelle du Ciel",str2,Invoquer Spécialement et ajouter à la main
+101305050,"Kowloon, Citadelle du Ciel",str3,Renvoyer à la main
+101305051,Cliquéclair - Rupture,name,Cliquéclair - Rupture
+101305051,Cliquéclair - Rupture,desc,"Activez 1 de ces effets ;
+● Placez 1 Piège Continu ""Cliquéclair"" depuis votre Deck face recto sur votre Terrain.
+● Renvoyez 1 monstre Tonnerre que vous contrôlez à la main, puis ciblez 1 carte sur le Terrain ; détruisez-la.
+Si une ou plusieurs cartes sont détruites par votre effet de carte ""Cliquéclair"", tant que cette carte est dans votre Cimetière : vous pouvez ajouter cette carte à votre main.
+Vous ne pouvez utiliser chaque effet de ""Cliquéclair - Rupture"" qu'une fois par tour."
+101305051,Cliquéclair - Rupture,str1,Activer
+101305051,Cliquéclair - Rupture,str2,Renvoyer à la main
+101305051,Cliquéclair - Rupture,str3,Poser une Carte Piège Continue
+101305051,Cliquéclair - Rupture,str4,Effet de destruction
+101305052,Cliquéclair - Traceur par Bonds,name,Cliquéclair - Traceur par Bonds
+101305052,Cliquéclair - Traceur par Bonds,desc,"Si une ou plusieurs cartes sont détruites par votre effet de carte ""Cliquéclair"" : vous pouvez cibler 1 monstre Tonnerre dans votre Cimetière ; ajoutez-le à votre main.
+Durant votre Main Phase : vous pouvez Invoquer Spécialement 1 monstre Tonnerre depuis votre main, puis détruisez cette carte.
+Si une ou plusieurs cartes sont détruites par votre effet de carte ""Cliquéclair"", tant que cette carte est dans votre Cimetière : vous pouvez ajouter cette carte à votre main.
+Vous ne pouvez utiliser chaque effet de ""Cliquéclair - Traceur par Bonds"" qu'une fois par tour."
+101305052,Cliquéclair - Traceur par Bonds,str1,Effet de récupération
+101305052,Cliquéclair - Traceur par Bonds,str2,Invocation Spéciale
+101305052,Cliquéclair - Traceur par Bonds,str3,Renvoyer à la main
+101305053,"Invokhation ""Épée""",name,"Invokhation ""Épée"""
+101305053,"Invokhation ""Épée""",desc,"Invoquez par Fusion 1 Monstre Fusion depuis votre Extra Deck, en utilisant des monstres que vous contrôlez.
+Si vous Invoquez un Monstre Fusion ""Invokhé"" de cette façon, vous pouvez aussi renvoyer des monstres bannis au Cimetière comme Matériel.
+Durant votre Main Phase, si cette carte est dans votre Cimetière : vous pouvez cibler 1 ""Invokhation"" ou monstre ""Aleister"" dans votre Cimetière ; mélangez cette carte dans le Deck, et si vous le faites, ajoutez la carte ciblée à votre main.
+Vous ne pouvez utiliser chaque effet de ""Invokhation ""Épée"""" qu'une fois par tour."
+101305053,"Invokhation ""Épée""",str1,Invocation Fusion
+101305053,"Invokhation ""Épée""",str2,Effet de récupération
+101305054,Aiwass l'Épée Spirituelle,name,Aiwass l'Épée Spirituelle
+101305054,Aiwass l'Épée Spirituelle,desc,"Activez 1 de ces effets ; vous ne pouvez pas déclarer d'attaques le reste de ce tour, sauf avec des Monstres Fusion.
+● Invoquez Spécialement 1 ""Aiwass l'Esprit de la Loi"" depuis votre Deck ou Cimetière.
+● Envoyez au Cimetière, ou bannissez, 1 monstre ""Aleister"" depuis votre Deck.
+● Regardez 3 cartes face verso au hasard dans l'Extra Deck de votre adversaire, et si vous le faites, bannissez-en 1.
+Vous ne pouvez activer qu'1 ""Aiwass l'Épée Spirituelle"" par tour."
+101305054,Aiwass l'Épée Spirituelle,str1,Activer
+101305054,Aiwass l'Épée Spirituelle,str2,Invocation Spéciale
+101305054,Aiwass l'Épée Spirituelle,str3,Choisissez 1 monstre {CARD} dans votre Deck
+101305054,Aiwass l'Épée Spirituelle,str4,Bannir depuis l'Extra Deck
+101305055,Royaume du Mécène du Pouvoir de l'Impasse - Viraia,name,Royaume du Mécène du Pouvoir de l'Impasse - Viraia
+101305055,Royaume du Mécène du Pouvoir de l'Impasse - Viraia,desc,"Montrez 1 ""Nerva la Mécène du Pouvoir de la Création"", 1 ""Jupiter le Mécène du Pouvoir de la Destruction"" et 1 ""Junora le Mécène du Pouvoir de l'Accordage"" depuis votre Extra Deck, Terrain face recto et/ou Cimetière, et si vous le faites, votre adversaire ne peut activer ni de cartes ni d'effets en réponse à l'activation des effets de vos monstres ""Mécène du Pouvoir"" ce tour.
+Si vous allez bannir une ou plusieurs cartes du dessus de votre Deck pour activer l'effet d'un monstre ""Mécène du Pouvoir"" que vous contrôlez, vous pouvez bannir cette carte depuis votre Cimetière à la place.
+Vous ne pouvez utiliser chaque effet de ""Royaume du Mécène du Pouvoir de l'Impasse - Viraia"" qu'une fois par tour."
+101305055,Royaume du Mécène du Pouvoir de l'Impasse - Viraia,str1,Activer
+101305055,Royaume du Mécène du Pouvoir de l'Impasse - Viraia,str2,Bannir {CARD} à la place ?
+101305056,Théoréalisation Pasto-Rale,name,Théoréalisation Pasto-Rale
+101305056,Théoréalisation Pasto-Rale,desc,"Si vous contrôlez une carte ""Artmage"", ""DoomZ"" ou ""Notes Elfiques"" : Invoquez Spécialement 1 ""Medius le Pur"" depuis votre main ou Deck, et aussi, votre adversaire ne peut activer ni de cartes ni d'effets lorsque le monstre est Invoqué Spécialement.
+Vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 Monstre Fusion, Synchro ou Xyz dans votre Cimetière ; Invoquez-le Spécialement dans votre zone pointée par un Monstre Lien.
+Vous ne pouvez utiliser qu'1 effet de ""Théoréalisation Pasto-Rale"" par tour, et uniquement une fois le tour."
+101305056,Théoréalisation Pasto-Rale,str1,Activer
+101305056,Théoréalisation Pasto-Rale,str2,Invocation Spéciale
+101305057,Les Chevaliers Fantômes du Requiem Magie-Rang-Plus,name,Les Chevaliers Fantômes du Requiem Magie-Rang-Plus
+101305057,Les Chevaliers Fantômes du Requiem Magie-Rang-Plus,desc,"Ciblez 1 monstre ""Les Chevaliers Fantômes"" ou ""Dragon Xyz"" dans votre Cimetière ou bannissement ; Invoquez-le Spécialement (mais annulez ses effets), puis Invoquez Spécialement depuis votre Extra Deck, 1 Monstre Xyz ""Les Chevaliers Fantômes"" ou ""Dragon Xyz"" qui a 1 Rang de plus qu'un Monstre Xyz TÉNÈBRES que vous contrôlez, en utilisant le monstre comme Matériel (ceci est traité comme une Invocation Xyz, transférez ses Matériels).
+Vous ne pouvez activer qu'1 ""Les Chevaliers Fantômes du Requiem Magie-Rang-Plus"" par tour."
+101305057,Les Chevaliers Fantômes du Requiem Magie-Rang-Plus,str1,Activer
+101305058,Origine de la Force-S,name,Origine de la Force-S
+101305058,Origine de la Force-S,desc,"Invoquez Spécialement 1 monstre ""Force-S"" depuis votre main, Cimetière ou bannissement, mais bannissez-le lorsqu'il quitte le Terrain.
+Si une ou plusieurs autres cartes sont bannies tant que cette carte est dans votre Cimetière : vous pouvez la bannir ; prenez 2 cartes ""Force-S"" (""Origine de la Force-S"" exclue) depuis votre Deck, bannissez-en 1, et envoyez l'autre au Cimetière.
+Vous ne pouvez utiliser chaque effet de ""Origine de la Force-S"" qu'une fois par tour."
+101305058,Origine de la Force-S,str1,Activer
+101305058,Origine de la Force-S,str2,Manipulation du Deck
+101305059,"Un, Deux, Trois, Soleil Melffy",name,"Un, Deux, Trois, Soleil Melffy"
+101305059,"Un, Deux, Trois, Soleil Melffy",desc,"Ajoutez max. 4 monstres ""Melffy"" de noms différents depuis votre Deck à votre main, puis passez à la End Phase de ce tour.
+Vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 2 cartes ""Melffy"" (""Un, Deux, Trois, Soleil Melffy"" exclue) dans votre Cimetière ; ajoutez-en 1 à votre main, et si vous le faites, placez l'autre au-dessous du Deck.
+Vous ne pouvez utiliser cet effet de ""Un, Deux, Trois, Soleil Melffy"" qu'une fois par tour.
+Vous ne pouvez pas Invoquer Spécialement (monstres ""Melffy"" exclus) le tour où vous activez cette carte."
+101305059,"Un, Deux, Trois, Soleil Melffy",str1,Ajouter à la main
+101305059,"Un, Deux, Trois, Soleil Melffy",str2,Recycler
+101305060,Potion de Récupération de Pouvoir Spirituel,name,Potion de Récupération de Pouvoir Spirituel
+101305060,Potion de Récupération de Pouvoir Spirituel,desc,"(Cette carte est toujours traitée comme carte ""Possédé"".)
+Bannissez un nombre de votre choix de monstres Magicien et/ou de Magies depuis votre Cimetière ; tous les monstres que vous contrôlez actuellement gagnent 200 ATK pour chaque carte bannie de cette façon, et s'ils le font, vous gagnez 400 LP pour chaque carte bannie de cette façon.
+Durant votre Main Phase : vous pouvez bannir cette carte depuis votre Cimetière ; Invoquez Spécialement un nombre de votre choix de monstres Magicien d'Attributs différents depuis votre main.
+Vous ne pouvez utiliser qu'1 effet de ""Potion de Récupération de Pouvoir Spirituel"" par tour, et uniquement une fois le tour."
+101305060,Potion de Récupération de Pouvoir Spirituel,str1,Activer
+101305060,Potion de Récupération de Pouvoir Spirituel,str2,Invocation Spéciale
+101305061,Pot de la Procrastination,name,Pot de la Procrastination
+101305061,Pot de la Procrastination,desc,"Piochez un nombre de cartes égal au nombre de cartes contrôlées par votre adversaire, puis si vous en avez pioché min. 2, placez le même nombre -1 depuis votre main au-dessous du Deck dans l'ordre de votre choix.
+Le reste de ce tour après la résolution de cette carte, vous ne pouvez pas activer ""Pot de la Procrastination""."
+101305061,Pot de la Procrastination,str1,Activer
+101305062,Récits du Rituel Corrompu,name,Récits du Rituel Corrompu
+101305062,Récits du Rituel Corrompu,desc,"Révélez 1 Magie Rituelle dans votre main ou Deck, et ajoutez 1 monstre qui la mentionne depuis votre Deck à votre main.
+Si un ou plusieurs Monstres Rituel face recto que vous contrôlez quittent le Terrain par un effet de carte tant que cette carte est dans votre Cimetière, et que vous ne contrôlez aucun Monstre non-Rituel face recto : vous pouvez ajouter cette carte à votre main.
+Vous ne pouvez utiliser chaque effet de ""Récits du Rituel Corrompu"" qu'une fois par tour."
+101305062,Récits du Rituel Corrompu,str1,Effet d'ajout à la main
+101305062,Récits du Rituel Corrompu,str2,Renvoyer à la main
+101305063,Explosion de Plasma,name,Explosion de Plasma
+101305063,Explosion de Plasma,desc,"Activez cet effet selon le tour ;
+● Le vôtre : Placez 1 monstre Tonnerre ou Rocher depuis votre Deck au-dessus de votre Deck, puis si un monstre Tonnerre ou Rocher est dans votre Terrain ou Cimetière, vous pouvez détruire 1 carte sur le Terrain.
+● Celui de votre adversaire : Ajoutez 1 monstre Tonnerre ou Rocher depuis votre Terrain, Cimetière ou bannissement à votre main, ou si un ou plusieurs monstres ont été détruits au combat ou par un effet de carte ce tour, vous pouvez l'ajouter depuis votre Deck à la place.
+Vous ne pouvez activer qu'1 ""Explosion de Plasma"" par tour."
+101305063,Explosion de Plasma,str1,Activer
+101305063,Explosion de Plasma,str2,Détruire la carte ?
+101305064,Été,name,Été
+101305064,Été,desc,"Une fois par tour : vous pouvez placer un nombre de Compteurs Saison sur cette carte égal au nombre de Zones Monstre Main inutilisées de votre adversaire.
+Une fois par tour, lorsque votre monstre déclare une attaque : vous pouvez infliger 400 points de dommages à votre adversaire pour chaque Compteur Saison sur cette carte, et pour chaque ""Printemps"" dans votre Cimetière.
+Une fois par tour, durant la End Phase de votre adversaire : vous pouvez prendre 1 Magie de Terrain depuis votre main ou Deck sur laquelle vous pouvez placer un Compteur Saison, et placez-la face recto sur votre Terrain (mais aucun joueur ne peut activer ses effets ce tour), et si vous le faites, placez tous les Compteurs Saison sur cette carte sur la carte."
+101305064,Été,str1,Placer un marqueur
+101305064,Été,str2,Infliger des dommages
+101305064,Été,str3,Placez une Magie de Terrain
+101305065,Mélange d'Esprit,name,Mélange d'Esprit
+101305065,Mélange d'Esprit,desc,"Durant le tour de chaque joueur : vous pouvez ajouter 1 monstre qui mentionne ""Rituel de la Lumière et des Ténèbres"" depuis votre Deck à votre main, puis défaussez 1 carte.
+Vous ne pouvez utiliser cet effet de ""Mélange d'Esprit"" qu'une fois par tour.
+Lorsque votre adversaire active une carte ou un effet : vous pouvez renvoyer 1 monstre de min. Niveau 7 que vous contrôlez à la main ; Invoquez Spécialement 1 monstre de nom différent depuis votre main qui mentionne ""Rituel de la Lumière et des Ténèbres"", en ignorant ses conditions d'Invocation.
+Vous ne pouvez pas activer ces effets de ""Mélange d'Esprit"" dans la même Chaîne."
+101305065,Mélange d'Esprit,str1,Effet d'ajout à la main
+101305065,Mélange d'Esprit,str2,Invocation Spéciale
+101305066,Chant Destructeur des Bêtes Sacrées,name,Chant Destructeur des Bêtes Sacrées
+101305066,Chant Destructeur des Bêtes Sacrées,desc,"Invoquez Spécialement 1 monstre ""Bêtes Sacrées"" depuis votre main ou Cimetière en Position de Défense, puis si vous contrôlez min. 2 monstres ""Bêtes Sacrées"" dont le Niveau d'origine est 10, vous pouvez annuler les effets d'1 carte face recto contrôlée par votre adversaire, et si vous le faites, détruisez-la.
+Vous pouvez bannir cette carte depuis votre Cimetière ; Invoquez par Fusion 1 Monstre Fusion ""Spectre"" depuis votre Extra Deck, en utilisant des monstres depuis votre main ou Terrain.
+Vous ne pouvez utiliser chaque effet de ""Chant Destructeur des Bêtes Sacrées"" qu'une fois par tour."
+101305066,Chant Destructeur des Bêtes Sacrées,str1,Invocation Spéciale
+101305066,Chant Destructeur des Bêtes Sacrées,str2,Invocation Fusion
+101305066,Chant Destructeur des Bêtes Sacrées,str3,Annuler les effets de la carte ?
+101305067,Abysse Divine des Bêtes Sacrées,name,Abysse Divine des Bêtes Sacrées
+101305067,Abysse Divine des Bêtes Sacrées,desc,"Vous pouvez envoyer 3 ""Abysse Divine des Bêtes Sacrées"" face recto que vous contrôlez au Cimetière (cette carte incluse), puis ciblez 1 monstre face recto contrôlé par votre adversaire ; changez-le en Position de Défense face verso.
+Vous ne pouvez utiliser chacun des effets suivants de ""Abysse Divine des Bêtes Sacrées"" qu'une fois par tour.
+Durant la Main Phase : vous pouvez placer 2 ""Abysse Divine des Bêtes Sacrées"" depuis votre main, Deck et/ou Cimetière face recto sur votre Terrain.
+Durant la End Phase de votre adversaire, si cette carte est dans votre Cimetière : vous pouvez la placer au-dessous du Deck."
+101305067,Abysse Divine des Bêtes Sacrées,str1,Placer face recto
+101305067,Abysse Divine des Bêtes Sacrées,str2,Passer en Position de Défense face verso
+101305067,Abysse Divine des Bêtes Sacrées,str3,Renvoyer au Deck
+101305068,Cliquéclair - Décharge de Retour,name,Cliquéclair - Décharge de Retour
+101305068,Cliquéclair - Décharge de Retour,desc,"Les monstres ""Cliquéclair"" que vous contrôlez ne peuvent pas être détruits par des effets de carte de votre adversaire.
+Vous ne pouvez utiliser chacun des effets suivants de ""Cliquéclair - Décharge de Retour"" qu'une fois par tour.
+Lorsque votre adversaire active une Carte Magie ou effet de Magie : vous pouvez renvoyer 1 monstre ""Cliquéclair"" que vous contrôlez à la main ; annulez l'effet, et si vous le faites, détruisez la carte.
+Vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 monstre ""Cliquéclair"" dans votre Terrain ou Cimetière ; renvoyez-le à la main."
+101305068,Cliquéclair - Décharge de Retour,str2,Annuler l'effet
+101305068,Cliquéclair - Décharge de Retour,str3,Récupérer un monstre
+101305069,Cliquéclair - Alternateur,name,Cliquéclair - Alternateur
+101305069,Cliquéclair - Alternateur,desc,"Les monstres contrôlés par votre adversaire perdent 300 ATK/DEF pour chaque monstre Tonnerre que vous contrôlez.
+Vous ne pouvez utiliser chacun des effets suivants de ""Cliquéclair - Alternateur"" qu'une fois par tour. Vous pouvez mélanger 1 autre carte ""Cliquéclair"" depuis votre main ou Terrain face recto dans le Deck ; ajoutez 1 monstre Tonnerre de nom différent depuis votre Deck à votre main.
+Vous pouvez bannir cette carte depuis votre Cimetière ; ajoutez 1 ""Kowloon, Citadelle du Ciel"" ou Magie ""Cliquéclair"" depuis votre Deck à votre main."
+101305069,Cliquéclair - Alternateur,str2,Ajouter un monstre à la main
+101305069,Cliquéclair - Alternateur,str3,Ajouter une Magie à la main
+101305070,"Nom Magique - ""Rosa Mundi""",name,"Nom Magique - ""Rosa Mundi"""
+101305070,"Nom Magique - ""Rosa Mundi""",desc,"Bannissez 1 monstre ""Aleister"" ou 1 Monstre Fusion depuis votre Cimetière ; Invoquez Spécialement 1 monstre ""Invokhé"" depuis votre Extra Deck, en ignorant ses conditions d'Invocation, mais bannissez-le durant la End Phase.
+Si un ou plusieurs monstres sont bannis face recto, tant que cette carte est dans votre Cimetière : vous pouvez bannir cette carte, puis ciblez 1 de vos monstres ""Invokhé"" bannis ; Invoquez-le Spécialement.
+Vous ne pouvez utiliser chaque effet de ""Nom Magique - ""Rosa Mundi"""" qu'une fois par tour."
+101305070,"Nom Magique - ""Rosa Mundi""",str1,Invocation Spéciale
+101305070,"Nom Magique - ""Rosa Mundi""",str2,Invocation Spéciale
+101305071,Ombres de la Fin des Temps du Mécène du Pouvoir,name,Ombres de la Fin des Temps du Mécène du Pouvoir
+101305071,Ombres de la Fin des Temps du Mécène du Pouvoir,desc,"Invoquez Spécialement 1 monstre ""Mécène du Pouvoir"" depuis votre main, Extra Deck face recto ou Cimetière, puis vous pouvez appliquer ces effets, dans l'ordre, selon le nombre de types de carte différents (Fusion, Synchro, Xyz) que vous contrôlez.
+● 1+ : Bannissez (face verso) les 3 cartes du dessus du Deck de votre adversaire.
+● 2+ : Bannissez (face verso) 1 carte contrôlée par votre adversaire.
+● 3 : Bannissez (face verso) 1 carte au hasard depuis la main de votre adversaire.
+Vous ne pouvez activer qu'1 ""Ombres de la Fin des Temps du Mécène du Pouvoir"" par tour."
+101305071,Ombres de la Fin des Temps du Mécène du Pouvoir,str1,Activer
+101305071,Ombres de la Fin des Temps du Mécène du Pouvoir,str2,Bannir des cartes du Deck ?
+101305071,Ombres de la Fin des Temps du Mécène du Pouvoir,str3,Bannir une carte sur le Terrain ?
+101305071,Ombres de la Fin des Temps du Mécène du Pouvoir,str4,Bannir une carte depuis votre main ?
+101305072,Notes Elfiques : Quatrain de la Succession,name,Notes Elfiques : Quatrain de la Succession
+101305072,Notes Elfiques : Quatrain de la Succession,desc,"Le monstre dans votre Zone Monstre Main centrale ne peut pas être banni par des effets de carte de votre adversaire.
+Vous pouvez envoyer 1 autre Magie/Piège depuis votre main ou Terrain au Cimetière et déclarer un Niveau de 1 à 4 ; Invoquez Spécialement 1 ""Jeton Séraphin Notes Elfiques"" (Plante/Syntoniseur/FEU/ATK 0/DEF 0) du Niveau déclaré, mais tant que le Jeton est dans la Zone Monstre, le joueur qui l'a Invoqué ne peut pas Invoquer Spécialement (monstres ""Notes Elfiques"" exclus) depuis l'Extra Deck.
+Vous ne pouvez utiliser cet effet de ""Notes Elfiques : Quatrain de la Succession"" qu'une fois par tour."
+101305072,Notes Elfiques : Quatrain de la Succession,str2,Invocation Spéciale
+101305073,Les Chevaliers Fantômes du Voile d'Ombrage,name,Les Chevaliers Fantômes du Voile d'Ombrage
+101305073,Les Chevaliers Fantômes du Voile d'Ombrage,desc,"Si vous avez un monstre ""Les Chevaliers Fantômes"" dans votre Terrain ou Cimetière, vous pouvez activer cette carte le tour où elle a été Posée.
+Invoquez Spécialement cette carte en Position de Défense comme Monstre Normal (Guerrier/TÉNÈBRES/Niveau 3/ATK 0/DEF 300) (cette carte N'EST PAS traitée comme Piège), puis vous pouvez changer 1 monstre en Position d'Attaque contrôlé par votre adversaire en Position de Défense.
+Vous pouvez bannir cette carte depuis votre Cimetière ; immédiatement après la résolution de cet effet, Invoquez par Xyz 1 Monstre Xyz TÉNÈBRES.
+Vous ne pouvez utiliser chaque effet de ""Les Chevaliers Fantômes du Voile d'Ombrage"" qu'une fois par tour."
+101305073,Les Chevaliers Fantômes du Voile d'Ombrage,str1,"Activer en appliquant l'effet de ""Les Chevaliers Fantômes du Voile d'Ombrage""."
+101305073,Les Chevaliers Fantômes du Voile d'Ombrage,str2,Invocation Xyz
+101305073,Les Chevaliers Fantômes du Voile d'Ombrage,str3,Changer la position de combat ?
+101305074,Monde Trié de la Force-S,name,Monde Trié de la Force-S
+101305074,Monde Trié de la Force-S,desc,"Si vous allez bannir une ou plusieurs cartes depuis la main pour activer l'effet d'un monstre ""Force-S"" que vous contrôlez, vous pouvez envoyer 1 carte ""Force-S"" (""Monde Trié de la Force-S"" exclue) depuis votre Deck au Cimetière à la place.
+Si une ou plusieurs autres cartes sont bannies : vous pouvez cibler 1 carte dans le Terrain ou Cimetière de votre adversaire ; bannissez-la, puis vous pouvez déplacer 1 monstre ""Force-S"" que vous contrôlez dans une autre de vos Zones Monstre Main.
+Vous ne pouvez utiliser chaque effet de ""Monde Trié de la Force-S"" qu'une fois par tour."
+101305074,Monde Trié de la Force-S,str2,Bannir
+101305074,Monde Trié de la Force-S,str3,Déplacer vers une autre zone ?
+101305075,Moment Melffy Excitant,name,Moment Melffy Excitant
+101305075,Moment Melffy Excitant,desc,"Ciblez 1 monstre ""Melffy"" dans votre Terrain ou Cimetière ; renvoyez-le à la main, puis vous pouvez Invoquer par Fusion 1 Monstre Fusion Bête depuis votre Extra Deck, en utilisant des monstres depuis votre main ou Terrain.
+Si vous contrôlez un Monstre Xyz ""Melffy"" : vous pouvez bannir cette carte depuis votre Cimetière ; les monstres ""Melffy"" que vous contrôlez qui ont été Invoqués Spécialement depuis l'Extra Deck ne sont pas affectés par les effets activés de votre adversaire ce tour.
+Vous ne pouvez utiliser chaque effet de ""Moment Melffy Excitant"" qu'une fois par tour."
+101305075,Moment Melffy Excitant,str1,Renvoyer à la main
+101305075,Moment Melffy Excitant,str2,Non affecté
+101305075,Moment Melffy Excitant,str3,Invocation Fusion ?
+101305076,"Troupe de Clowns ""Final""",name,"Troupe de Clowns ""Final"""
+101305076,"Troupe de Clowns ""Final""",desc,"Si vous contrôlez un monstre Invoqué par Sacrifice : défaussez un nombre de cartes de votre choix, puis ciblez autant de cartes face recto sur le Terrain ; détruisez-les.
+Vous pouvez bannir cette carte depuis votre Cimetière et Sacrifier 1 Monstre Rituel, Fusion, Synchro, Xyz, Pendule ou Lien depuis votre main ou Terrain ; ajoutez 1 monstre ""Troupe de Clowns"" depuis votre Deck ou Cimetière à votre main dont le Niveau/Rang/Classification Lien d'origine n'est pas égal à celui du monstre Sacrifié.
+Vous ne pouvez utiliser chaque effet de ""Troupe de Clowns ""Final"""" qu'une fois par tour."
+101305076,"Troupe de Clowns ""Final""",str1,Effet de destruction
+101305076,"Troupe de Clowns ""Final""",str2,Effet d'ajout à la main
+101305077,Oh ma Trappe !,name,Oh ma Trappe !
+101305077,Oh ma Trappe !,desc,"Lorsqu'un effet de monstre est activé sur le Terrain de votre adversaire durant le tour où il a Invoqué Spécialement un ou plusieurs monstres : détruisez le monstre qui a activé l'effet, puis détruisez toutes les cartes de l'adversaire dans ses Zones Monstre et Zones Magie & Piège adjacentes (s'il y en a)."
+101305077,Oh ma Trappe !,str1,Activer
+101305078,Restriction de Voie,name,Restriction de Voie
+101305078,Restriction de Voie,desc,"Lorsque cette carte est activée : vous pouvez Invoquer Spécialement 1 de vos monstres bannis dans votre Zone Monstre Main la plus à droite.
+Si votre adversaire va Invoquer Normalement ou Spécialement un ou plusieurs monstres dans sa Zone Monstre Main, il doit utiliser les zones inutilisées les plus à gauche."
+101305078,Restriction de Voie,str2,Invocation Spéciale?
+101305079,Rétrolumière Anéantissante,name,Rétrolumière Anéantissante
+101305079,Rétrolumière Anéantissante,desc,"Lorsque votre adversaire active l'effet d'un monstre sur le Terrain qui n'a pas été Invoqué ce tour : annulez l'activation, puis vous pouvez bannir (face verso) tous les monstres face recto contrôlés par votre adversaire qui n'ont pas été Invoqués ce tour.
+Si cette carte Posée contrôlée par son propriétaire est détruite par un effet de carte de l'adversaire : vous pouvez Poser 1 Piège depuis votre Deck."
+101305079,Rétrolumière Anéantissante,str1,Activer
+101305079,Rétrolumière Anéantissante,str2,Poser
+101305079,Rétrolumière Anéantissante,str3,Bannir le monstre ?
+101305080,Aménagement Paysager de la Pierre Protectrice,name,Aménagement Paysager de la Pierre Protectrice
+101305080,Aménagement Paysager de la Pierre Protectrice,desc,"Tant que vous avez 5 cartes dans votre Zone Magie & Piège, les dommages de combat reçus par un joueur sont divisés par deux, et aussi, une fois par tour, vous pouvez activer 1 Carte Piège Continu le tour où elle a été Posée.
+Durant la Standby Phase : vous pouvez révéler 5 Pièges Continus de noms différents depuis votre Deck, votre adversaire en choisit 1 au hasard pour vous à Poser sur votre Terrain, et aussi, mélangez le reste dans le Deck.
+Vous ne pouvez utiliser cet effet de ""Aménagement Paysager de la Pierre Protectrice"" qu'une fois par tour."
+101305080,Aménagement Paysager de la Pierre Protectrice,str1,Activer en appliquant l'effet de {CARD}.
+101305150,Jeton Mécabête,name,Jeton Mécabête
+101305150,Jeton Mécabête,desc,"Invoqué Spécialement par l'effet de « Kowloon, Citadelle du Ciel »."
+101305172,Jeton Séraphin Notes Elfiques,name,Jeton Séraphin Notes Elfiques
+101305172,Jeton Séraphin Notes Elfiques,desc,"Invoqué Spécialement par l'effet de « Notes Elfiques : Quatrain de la Succession ». 
+Vous ne pouvez pas Invoquer Spécialement de monstres (monstres ""Notes Elfiques"" exclus) depuis l'Extra Deck."
