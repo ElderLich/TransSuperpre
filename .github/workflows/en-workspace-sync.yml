@@ -17,7 +17,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: en-automation-${{ github.ref }}
+  group: transsuperpre-main-writers-${{ github.ref }}
   cancel-in-progress: false
 
 jobs:

@@ -19,7 +19,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: kr-automation-${{ github.ref }}
+  group: transsuperpre-main-writers-${{ github.ref }}
   cancel-in-progress: false
 
 jobs:
