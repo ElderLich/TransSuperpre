@@ -7,11 +7,12 @@ building the `.ypk`, updating `test-release.json`, and writing dump files.
 
 ## Short version
 
-1. Translate cards in your local `<LANG>/raw2` folder.
-2. Run your local `AutoPR.py` helper.
-3. Choose `Upload raw2 workspace and push to GitHub`.
-4. GitHub Actions updates the repo and builds the package.
-5. Check the language folder on `main` for the generated `.ypk`, JSON, and
+1. Run your local `AutoPR.py` helper.
+2. Choose `Refresh local raw2 from latest .ypk`.
+3. Translate cards in your local `<LANG>/raw2` folder.
+4. Choose `Upload raw2 workspace and push to GitHub`.
+5. GitHub Actions updates the repo and builds the package.
+6. Check the language folder on `main` for the generated `.ypk`, JSON, and
    version file.
 
 ## What each folder means
@@ -117,15 +118,21 @@ SUPER_PRE_LOCAL_ROOT=C:\path\to\Super-Pre Translations
 ## Daily translation process
 
 1. Pull the latest `main` branch in the TransSuperpre repo.
-2. Edit your local `raw2/test-release.cdb`.
-3. Edit your local `raw2/test-strings.conf` when prompt strings or archetype
+2. Run `AutoPR.py` and choose option `1` to refresh your local `raw2` files.
+3. Edit your local `raw2/test-release.cdb`.
+4. Edit your local `raw2/test-strings.conf` when prompt strings or archetype
    strings need changes.
-4. Edit your local `Mappings.csv` when a repeated Chinese phrase should be
+5. Edit your local `Mappings.csv` when a repeated Chinese phrase should be
    replaced automatically.
-5. Run `AutoPR.py`.
-6. Choose option `1` to upload and push.
+6. Run `AutoPR.py`.
+7. Choose option `2` to upload and push.
 
-Option `1` copies these files into the GitHub repo and pushes them:
+The refresh option downloads the latest upstream `.ypk`, extracts fresh
+`test-release.cdb` and `test-strings.conf`, merges new cards into local `raw2`,
+removes stale CDB rows that no longer exist upstream, removes local
+`raw2/test-update.cdb` if it exists, and applies the local `Mappings.csv`.
+
+Upload option `2` copies these files into the GitHub repo and pushes them:
 
 ```text
 raw2/test-release.cdb -> <LANG>/Workspace/test-release.cdb
@@ -133,12 +140,13 @@ raw2/test-strings.conf -> <LANG>/Workspace/test-strings.conf
 Mappings.csv -> <LANG>/Workspace/Mappings.csv
 ```
 
-If you prefer GitHub Desktop, choose option `2`. That copies the files into the
+If you prefer GitHub Desktop, choose option `3`. That copies the files into the
 repo only, then you can review, commit, and push with GitHub Desktop.
 
 Command-line equivalents:
 
 ```powershell
+py AutoPR.py refresh
 py AutoPR.py upload
 py AutoPR.py copy
 py AutoPR.py pull

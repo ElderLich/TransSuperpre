@@ -8,8 +8,9 @@ example:
     Super-Pre Translations/ES/AutoPR.py
     Super-Pre Translations/JP/AutoPR.py
 
-The heavy build runs in GitHub Actions. This wrapper only copies the local
-raw2 workspace into the TransSuperpre repository and can push it to GitHub.
+The heavy build runs in GitHub Actions. This wrapper can refresh the local raw2
+workspace from the latest upstream package, then copy it into the TransSuperpre
+repository and push it to GitHub.
 """
 
 from __future__ import annotations
@@ -159,12 +160,13 @@ def menu(lang: str) -> str:
     repo_root = resolve_repo_root()
     print(f"Repo root : {repo_root}")
     print()
-    print("1 = Upload raw2 workspace and push to GitHub")
-    print("2 = Copy raw2 workspace into repo only")
-    print("3 = Pull latest TransSuperpre main")
-    print("4 = Show repo and Actions status")
-    print("5 = Change TransSuperpre repo path")
-    print("6 = Exit")
+    print("1 = Refresh local raw2 from latest .ypk")
+    print("2 = Upload raw2 workspace and push to GitHub")
+    print("3 = Copy raw2 workspace into repo only")
+    print("4 = Pull latest TransSuperpre main")
+    print("5 = Show repo and Actions status")
+    print("6 = Change TransSuperpre repo path")
+    print("7 = Exit")
     return input("Option: ").strip()
 
 
@@ -172,6 +174,8 @@ def main() -> int:
     lang = detect_lang()
     if len(sys.argv) > 1:
         command = sys.argv[1].lower()
+        if command in {"refresh", "update"}:
+            return run_tool("refresh", "--lang", lang, *sys.argv[2:])
         if command in {"upload", "push"}:
             return run_tool("upload", "--lang", lang, "--push", *sys.argv[2:])
         if command in {"copy", "sync"}:
@@ -188,17 +192,19 @@ def main() -> int:
 
     choice = menu(lang)
     if choice == "1":
-        return run_tool("upload", "--lang", lang, "--push")
+        return run_tool("refresh", "--lang", lang)
     if choice == "2":
-        return run_tool("upload", "--lang", lang)
+        return run_tool("upload", "--lang", lang, "--push")
     if choice == "3":
-        return run_tool("pull")
+        return run_tool("upload", "--lang", lang)
     if choice == "4":
-        return run_tool("status", "--lang", lang)
+        return run_tool("pull")
     if choice == "5":
+        return run_tool("status", "--lang", lang)
+    if choice == "6":
         resolve_repo_root(force_prompt=True)
         return 0
-    if choice == "6":
+    if choice == "7":
         return 0
     print("Invalid option.")
     return 2

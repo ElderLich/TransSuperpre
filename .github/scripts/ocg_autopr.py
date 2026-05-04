@@ -270,13 +270,14 @@ OUTPUT_DIR: Path
 BASE_DIR: Path
 WORK_DIR: Path
 TOOLS_DIR: Path
+MAPPINGS_PATH: Path
 YPK_URL: str
 CARDS_CDB_URL: str
 JSON_URL: str
 
 
 def configure(lang: str) -> None:
-    global CONFIG, OUTPUT_DIR, BASE_DIR, WORK_DIR, TOOLS_DIR, YPK_URL, CARDS_CDB_URL, JSON_URL
+    global CONFIG, OUTPUT_DIR, BASE_DIR, WORK_DIR, TOOLS_DIR, MAPPINGS_PATH, YPK_URL, CARDS_CDB_URL, JSON_URL
     CONFIG = LANG_CONFIGS[lang]
 
     def env_value(name: str, default: str | Path) -> str:
@@ -286,6 +287,7 @@ def configure(lang: str) -> None:
     BASE_DIR = Path(env_value("BASE_DIR", OUTPUT_DIR / "Base Files")).resolve()
     WORK_DIR = Path(env_value("WORK_DIR", OUTPUT_DIR / "Workspace")).resolve()
     TOOLS_DIR = Path(env_value("TOOLS_DIR", ROOT / "Tools")).resolve()
+    MAPPINGS_PATH = Path(env_value("MAPPINGS_PATH", WORK_DIR / "Mappings.csv")).resolve()
     YPK_URL = env_value("YPK_URL", YPK_URL_DEFAULT)
     CARDS_CDB_URL = env_value(
         "CARDS_CDB_URL",
@@ -948,18 +950,16 @@ def run_prompt_patcher(cdb_path: Path, cards_cdb: Path) -> None:
     report_dir.mkdir(parents=True, exist_ok=True)
     export_remaining_cn(str(cdb_path), str(report_dir / "remaining_cn.json"), log_fn=patcher_log)
 
-    mappings_path = WORK_DIR / "Mappings.csv"
     scan, present = scan_cdb_placeholders(cdb_path)
-    mappings = merge_mappings(load_mappings_csv(mappings_path), scan, present)
-    save_mappings_csv(mappings_path, mappings)
+    mappings = merge_mappings(load_mappings_csv(MAPPINGS_PATH), scan, present)
+    save_mappings_csv(MAPPINGS_PATH, mappings)
     apply_mappings_to_cdb(cdb_path, mappings, cards_cdb)
     patch_pendulum_layout_desc(cdb_path)
     normalize_jp_cdb(cdb_path)
 
 
 def apply_workspace_mappings_for_release(cdb_path: Path, cards_cdb: Path) -> None:
-    mappings_path = WORK_DIR / "Mappings.csv"
-    mappings = load_mappings_csv(mappings_path)
+    mappings = load_mappings_csv(MAPPINGS_PATH)
     if not mappings:
         log("No workspace mappings to apply to release CDB")
         return

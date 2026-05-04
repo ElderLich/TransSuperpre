@@ -23,6 +23,7 @@ ES_DIR = Path(os.environ.get("ES_AUTOPR_OUTPUT_DIR", ROOT / "ES")).resolve()
 BASE_DIR = Path(os.environ.get("ES_AUTOPR_BASE_DIR", ES_DIR / "Base Files")).resolve()
 WORK_DIR = Path(os.environ.get("ES_AUTOPR_WORK_DIR", ES_DIR / "Workspace")).resolve()
 TOOLS_DIR = Path(os.environ.get("ES_AUTOPR_TOOLS_DIR", ROOT / "Tools")).resolve()
+MAPPINGS_PATH = Path(os.environ.get("ES_AUTOPR_MAPPINGS_PATH", WORK_DIR / "Mappings.csv")).resolve()
 
 YPK_URL = os.environ.get(
     "ES_AUTOPR_YPK_URL",
@@ -536,17 +537,15 @@ def run_prompt_patcher(cdb_path: Path, cards_cdb: Path) -> None:
     report_dir.mkdir(parents=True, exist_ok=True)
     export_remaining_cn(str(cdb_path), str(report_dir / "remaining_cn.json"), log_fn=log)
 
-    mappings_path = WORK_DIR / "Mappings.csv"
     scan, present = scan_cdb_placeholders(cdb_path)
-    mappings = merge_mappings(load_mappings_csv(mappings_path), scan, present)
-    save_mappings_csv(mappings_path, mappings)
+    mappings = merge_mappings(load_mappings_csv(MAPPINGS_PATH), scan, present)
+    save_mappings_csv(MAPPINGS_PATH, mappings)
     apply_mappings_to_cdb(cdb_path, mappings, cards_cdb)
     patch_pendulum_layout_desc(cdb_path, log_fn=log, report_limit=25)
 
 
 def apply_workspace_mappings_for_release(cdb_path: Path, cards_cdb: Path) -> None:
-    mappings_path = WORK_DIR / "Mappings.csv"
-    mappings = load_mappings_csv(mappings_path)
+    mappings = load_mappings_csv(MAPPINGS_PATH)
     if not mappings:
         log("No workspace mappings to apply to release CDB")
         return

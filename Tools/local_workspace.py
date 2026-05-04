@@ -3,8 +3,9 @@
 """Local helper for uploading translator workspace files to TransSuperpre.
 
 The GitHub Actions workflows own the real build now. This helper only copies the
-local translator files into the repo Workspace folder and optionally commits and
-pushes those Workspace changes.
+local translator files into the repo Workspace folder, refreshes local raw2 files
+from the latest upstream package, and optionally commits and pushes Workspace
+changes.
 """
 
 from __future__ import annotations
@@ -13,6 +14,7 @@ import argparse
 import os
 import shutil
 import subprocess
+import sys
 from dataclasses import dataclass
 from pathlib import Path
 
@@ -50,9 +52,15 @@ def fail(message: str) -> None:
     raise SystemExit(f"ERROR: {message}")
 
 
-def run(cmd: list[str], cwd: Path, *, check: bool = True) -> subprocess.CompletedProcess:
+def run(
+    cmd: list[str],
+    cwd: Path,
+    *,
+    check: bool = True,
+    env: dict[str, str] | None = None,
+) -> subprocess.CompletedProcess:
     log("$ " + " ".join(cmd))
-    result = subprocess.run(cmd, cwd=str(cwd))
+    result = subprocess.run(cmd, cwd=str(cwd), env=env)
     if check and result.returncode != 0:
         raise SystemExit(result.returncode)
     return result
@@ -94,7 +102,12 @@ def resolve_local_root(value: str | None, lang: str) -> Path:
     )
 
 
-def local_paths(args: argparse.Namespace, config: LangConfig) -> tuple[Path, Path, Path]:
+def local_paths(
+    args: argparse.Namespace,
+    config: LangConfig,
+    *,
+    source_required: bool = True,
+) -> tuple[Path, Path, Path]:
     local_root = resolve_local_root(args.local_root, config.key)
     repo_root = Path(args.repo_root).expanduser()
     local_dir = local_root / config.folder
@@ -102,7 +115,7 @@ def local_paths(args: argparse.Namespace, config: LangConfig) -> tuple[Path, Pat
     workspace_dir = repo_root / config.folder / "Workspace"
     if not local_dir.exists():
         fail(f"local locale folder not found: {local_dir}")
-    if not source_dir.exists():
+    if source_required and not source_dir.exists():
         fail(f"source folder not found: {source_dir}")
     if not repo_root.exists():
         fail(f"TransSuperpre repo not found: {repo_root}")
@@ -179,6 +192,48 @@ def command_upload(args: argparse.Namespace) -> None:
         log("copied files only; run with --push to commit and push")
 
 
+def automation_script_command(repo_root: Path, lang: str) -> list[str]:
+    scripts_dir = repo_root / ".github" / "scripts"
+    if lang == "es":
+        return [sys.executable, str(scripts_dir / "es_autopr.py"), "workspace-sync"]
+    if lang in {"jp", "kr"}:
+        return [sys.executable, str(scripts_dir / "ocg_autopr.py"), "--lang", lang, "workspace-sync"]
+    if lang in {"de", "en", "fr", "it", "pt"}:
+        return [sys.executable, str(scripts_dir / "tcg_autopr.py"), "--lang", lang, "workspace-sync"]
+    fail(f"local refresh is not configured for language: {lang}")
+
+
+def automation_env_prefix(lang: str) -> str:
+    if lang == "es":
+        return "ES_AUTOPR"
+    if lang in {"jp", "kr"}:
+        return "OCG_AUTOPR"
+    if lang in {"de", "en", "fr", "it", "pt"}:
+        return "TCG_AUTOPR"
+    fail(f"local refresh is not configured for language: {lang}")
+
+
+def command_refresh(args: argparse.Namespace) -> None:
+    config = LANGS[args.lang]
+    local_dir, source_dir, _workspace_dir = local_paths(args, config, source_required=False)
+    repo_root = Path(args.repo_root).expanduser()
+    source_dir.mkdir(parents=True, exist_ok=True)
+
+    if args.pull_first:
+        run(["git", "pull", "--ff-only", "origin", "main"], repo_root)
+
+    prefix = automation_env_prefix(args.lang)
+    env = os.environ.copy()
+    env[f"{prefix}_OUTPUT_DIR"] = str(local_dir)
+    env[f"{prefix}_BASE_DIR"] = str(local_dir / "Base Files")
+    env[f"{prefix}_WORK_DIR"] = str(source_dir)
+    env[f"{prefix}_TOOLS_DIR"] = str(repo_root / "Tools")
+    env[f"{prefix}_MAPPINGS_PATH"] = str(local_dir / "Mappings.csv")
+
+    run(automation_script_command(repo_root, args.lang), repo_root, env=env)
+    log(f"refreshed local {config.folder}/{args.source_dir} from the latest upstream package")
+
+
 def command_pull(args: argparse.Namespace) -> None:
     run(["git", "pull", "--ff-only", "origin", "main"], Path(args.repo_root).expanduser())
 
@@ -237,6 +292,18 @@ def build_parser() -> argparse.ArgumentParser:
     upload.add_argument("--message", help="Commit message when --push is used")
     upload.add_argument("--dry-run", action="store_true", help="Show what would be copied")
     upload.set_defaults(func=command_upload)
+
+    refresh = subparsers.add_parser("refresh", help="Download latest .ypk and merge it into local raw2")
+    refresh.add_argument("--lang", choices=sorted(LANGS), required=True)
+    refresh.add_argument("--source-dir", default="raw2", help="Local source folder inside the locale folder")
+    refresh.add_argument("--pull-first", action="store_true", help="Run git pull --ff-only before refreshing")
+    refresh.add_argument(
+        "--no-pull-first",
+        action="store_false",
+        dest="pull_first",
+        help="Do not pull before refreshing",
+    )
+    refresh.set_defaults(func=command_refresh, pull_first=False)
 
     pull = subparsers.add_parser("pull", help="Fast-forward local TransSuperpre main")
     pull.set_defaults(func=command_pull)
