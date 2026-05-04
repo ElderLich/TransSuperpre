@@ -17,7 +17,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: transsuperpre-main-writers-${{ github.ref }}
+  group: es-automation-${{ github.ref }}
   cancel-in-progress: false
 
 jobs:
@@ -44,7 +44,7 @@ jobs:
           git config user.email "35314175+ElderLich@users.noreply.github.com"
           branch="${GITHUB_REF_NAME:-main}"
 
-          for attempt in 1 2 3; do
+          for attempt in 1 2 3 4 5 6 7 8 9 10; do
             git fetch origin "$branch"
             git checkout -B "$branch" "origin/$branch"
 
@@ -60,7 +60,8 @@ jobs:
               exit 0
             fi
 
-            echo "Push failed; refreshing and rebuilding (${attempt}/3)..."
+            echo "Push failed; refreshing and rebuilding (${attempt}/10)..."
+          sleep $((attempt * 5))
           done
 
           echo "Unable to push ES workspace sync after rebuilding on the latest branch tip."
