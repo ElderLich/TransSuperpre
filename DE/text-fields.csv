@@ -26,7 +26,7 @@ Falls diese Karte als Tribut angeboten wird: Du kannst 1 dieser Effekte aktivier
 100261001,Lustiges Finsteres Kaninchen,desc,"Nachdem diese Karte als Normal- oder Spezialbeschwörung beschworen wurde, kannst du in diesem Spielzug während deiner Main Phase zusätzlich zu deiner Normalbeschwörung / deinem Setzen 1 Monster, das „Toon-Welt“ erwähnt, als Normalbeschwörung beschwören (du kannst diesen Effekt nur einmal pro Spielzug erhalten.)
 Diese Karte wird als Toon Monster behandelt, solange „Toon-Welt“ auf dem Spielfeld liegt.
 Einmal pro Spielzug: Du kannst 1 „Toon“-Spielfeld- oder Permanenten Zauber von deinem Deck deiner Hand hinzufügen oder offen auf deine Spielfeldseite legen."
-100261001,Lustiges Finsteres Kaninchen,str2,"Durch den Effekt von ""Lustiges Finsteres Kaninchen"" beschworen"
+100261001,Lustiges Finsteres Kaninchen,str2,Durch den Effekt von {CARD} beschworen
 100261001,Lustiges Finsteres Kaninchen,str3,Sucheffekt
 100261001,Lustiges Finsteres Kaninchen,str4,Platzieren
 100261002,Komische Katze,name,Komische Katze
@@ -77,6 +77,12 @@ Während deiner Main Phase: Du kannst 1 „Hexwerker“-Fusionsmonster als Fusio
 Du kannst jeden Effekt von „Hexwerkerin Terracottan“ nur einmal pro Spielzug verwenden."
 100261023,Hexwerkerin Terracottan,str1,Als Spezialbeschwörung beschwören
 100261023,Hexwerkerin Terracottan,str2,Als Fusionsbeschwörung beschwören
+100261024,魔女术工匠·签章女巫,name,魔女术工匠·签章女巫
+100261024,魔女术工匠·签章女巫,desc,"这个卡名的①②的效果1回合各能使用1次。
+①：把手卡·场上的这张卡解放才能发动。从卡组把1张「魔女术」场地·永续魔法卡加入手卡。
+②：这张卡在墓地存在的状态，自己场上表侧表示的「魔女术」怪兽因对方的效果从场上离开的场合才能发动。这张卡特殊召唤，对方场上1只怪兽解放。这个效果特殊召唤的这张卡从场上离开的场合除外。"
+100261024,魔女术工匠·签章女巫,str1,Der Hand hinzufügen
+100261024,魔女术工匠·签章女巫,str2,Als Spezialbeschwörung beschwören
 100261025,Hexwerkerin Madam Rilliona,name,Hexwerkerin Madam Rilliona
 100261025,Hexwerkerin Madam Rilliona,desc,"„Hexwerkerin Madam Verre“ + 2 Hexer-Monster
 Falls diese Karte als Fusionsbeschwörung beschworen wird: Du kannst bis zu 3 „Hexwerker“-Monster der Stufe 7 oder niedriger mit unterschiedlichen Eigenschaften voneinander als Spezialbeschwörung von deiner Hand und/oder deinem Deck beschwören, zusätzlich kannst du für den Rest dieses Spielzugs keine Spezialbeschwörungen vom Extra Deck durchführen, außer von Fusionsmonstern.
@@ -84,6 +90,17 @@ Während deiner End Phase, falls sich diese Karte in deinem Friedhof befindet: D
 Du kannst jeden Effekt von „Hexwerkerin Madam Rilliona“ nur einmal pro Spielzug verwenden."
 100261025,Hexwerkerin Madam Rilliona,str1,Als Spezialbeschwörung vom Deck beschwören
 100261025,Hexwerkerin Madam Rilliona,str2,Diese Karte als Spezialbeschwörung beschören
+100261026,魔女术学徒,name,魔女术学徒
+100261026,魔女术学徒,desc,"「魔女术」怪兽＋魔法师族怪兽
+这个卡名的①②的效果1回合各能使用1次。
+①：自己·对方的主要阶段以及战斗阶段，可以从以下效果选择1个发动。
+●从卡组把1张「魔女术」魔法卡加入手卡。
+●把手卡1张「魔女术」通常·速攻魔法卡给对方观看才能发动。那张魔法卡发动时的效果适用。
+②：自己结束阶段才能发动。自己除外状态的1张「魔女术」卡回到墓地。"
+100261026,魔女术学徒,str1,Aktivieren
+100261026,魔女术学徒,str2,Auf den Friedhof zurücklegen
+100261026,魔女术学徒,str3,Sucheffekt
+100261026,魔女术学徒,str4,Effekt kopieren
 100261027,Hexwerker-Feier,name,Hexwerker-Feier
 100261027,Hexwerker-Feier,desc,"Aktiviere 1 dieser Effekte;
 ● Zerstöre 1 „Hexwerker“-Monster, das du kontrollierst, und 1 Karte, die dein Gegner kontrolliert.
@@ -351,7 +368,7 @@ Für die Ritualbeschwörung von genau 1 Ritualmonster der Stufe 8 das durch eine
 101305004,Gurifoh,str1,"Abwerfen, um den Effekt zu aktivieren"
 101305004,Gurifoh,str2,Schadensänderung
 101305004,Gurifoh,str3,Zauber/Falle setzen
-101305004,Gurifoh,str4,"Aktiviere, indem du den Effekt von ""Gurifoh"" anwendest."
+101305004,Gurifoh,str4,"Aktiviere, indem du den Effekt von {CARD} anwendest."
 101305005,"Uria, Herr der reißenden Flammen - heiliges Ungeheuer des kataklysmischen Feuers",name,"Uria, Herr der reißenden Flammen - heiliges Ungeheuer des kataklysmischen Feuers"
 101305005,"Uria, Herr der reißenden Flammen - heiliges Ungeheuer des kataklysmischen Feuers",desc,"Kann nicht als Normalbeschwörung beschworen/gesetzt werden.
 Muss mit einer „Heiligen/s Ungeheuer“-Karte als Spezialbeschwörung beschworen werden.
@@ -457,7 +474,7 @@ Du kannst jeden Effekt von „Die Phantomritter des Verfallenen Schleiers“ nur
 101305018,Die Phantomritter des Verfallenen Schleiers,str1,Als Spezialbeschwörung beschwören
 101305018,Die Phantomritter des Verfallenen Schleiers,str2,Sucheffekt
 101305018,Die Phantomritter des Verfallenen Schleiers,str3,Rang als Stufe behandeln
-101305018,Die Phantomritter des Verfallenen Schleiers,str4,"Der Effekt von ""Die Phantomritter des Verfallenen Schleiers"" wird derzeit angewendet."
+101305018,Die Phantomritter des Verfallenen Schleiers,str4,Der Effekt von {CARD} wird derzeit angewendet.
 101305019,Die Phantomritter des verhängnisvollen Solleret,name,Die Phantomritter des verhängnisvollen Solleret
 101305019,Die Phantomritter des verhängnisvollen Solleret,desc,"Falls du keine Monster kontrollierst, kannst du diese Karte als Spezialbeschwörung (von deiner Hand) beschwören.
 Du kannst „Die Phantomritter des verhängnisvollen Solleret“ nur einmal pro Spielzug auf diese Art als Spezialbeschwörung beschwören.
@@ -684,7 +701,7 @@ Du kannst diesen Effekt von „Verlorenes Paradies der heiligen Ungeheuer“ nur
 101305048,Verlorenes Paradies der heiligen Ungeheuer,str1,Auf den Friedhof legen
 101305048,Verlorenes Paradies der heiligen Ungeheuer,str2,Ziehen
 101305048,Verlorenes Paradies der heiligen Ungeheuer,str3,Als Spezialbeschwörung beschwören?
-101305048,Verlorenes Paradies der heiligen Ungeheuer,str4,"Als Spezialbeschwörung durch den Effekt von ""Verlorenes Paradies der heiligen Ungeheuer"" beschworen"
+101305048,Verlorenes Paradies der heiligen Ungeheuer,str4,Als Spezialbeschwörung durch den Effekt von {CARD} beschworen
 101305049,Himmelsfeuer des heiligen Ungeheuers,name,Himmelsfeuer des heiligen Ungeheuers
 101305049,Himmelsfeuer des heiligen Ungeheuers,desc,"Während deiner Main Phase: Du kannst 2„Himmelsfeuer des heiligen Ungeheuers“ von deiner Hand, deinem Deck und/oder deinem Friedhof offen auf deine Spielfeldseite legen, dann kannst du 1„Heiligen/s Ungeheuer“-Monster der Stufe 10 in deiner Hand vorzeigen, dann lege 1 „Verlorenes Paradies der heiligen Ungeheuer“ von deinem Deck offen in deine Spielfeldzone.
 Während der End Phase deines Gegners, falls sich diese Karte in deinem Friedhof befindet: Du kannst diese Karte deiner Hand hinzufügen.
@@ -856,7 +873,7 @@ Du kannst diesen Effekt von „Elfnoten: Vierzeiler der Nachfolge“ nur einmal 
 Beschwöre diese Karte als Spezialbeschwörung als Normales Monster (Krieger/FINSTERNIS/Stufe 3/ATK 0/DEF 300) in die Verteidigungsposition. (Diese Karte wird NICHT als Falle behandelt), dann kannst du 1 Monster in Angriffsposition, das dein Gegner kontrolliert, in die Verteidigungsposition ändern.
 Du kannst diese Karte von deinem Friedhof verbannen; sofort nachdem dieser Effekt aufgelöst wurde, beschwöre 1 FINSTERNIS Xyz-Monster als Xyz-Beschwörung.
 Du kannst jeden Effekt von „Die Phantomritter des Empörungsschleiers“ nur einmal pro Spielzug verwenden."
-101305073,Die Phantomritter des Empörungsschleiers,str1,"Aktiviere, indem du den Effekt von ""Die Phantomritter des Empörungsschleiers"" anwendest."
+101305073,Die Phantomritter des Empörungsschleiers,str1,"Aktiviere, indem du den Effekt von {CARD} anwendest."
 101305073,Die Phantomritter des Empörungsschleiers,str2,Als Xyz-Beschwörung beschwören
 101305073,Die Phantomritter des Empörungsschleiers,str3,Kampfposition ändern?
 101305074,S-Kraft Sortiertewelt,name,S-Kraft Sortiertewelt
