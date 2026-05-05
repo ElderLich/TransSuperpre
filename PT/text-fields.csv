@@ -25,7 +25,7 @@ Se este card for oferecido como Tributo: você pode ativar 1 destes efeitos (mas
 100261001,Coelho Escuro Engraçado,desc,"Depois que este card for Invocado por Invocação-Normal ou Especial, durante sua Fase Principal nesse turno, você pode Invocar por Invocação-Normal 1 monstro que menciona ""Mundo Toon"" em adição a sua Invocação-Normal/Baixar (você só pode ganhar este efeito uma vez por turno).
 Este card é considerado um monstro Toon enquanto ""Mundo Toon"" está no campo.
 Uma vez por turno: você pode adicionar a sua mão ou colocar com a face para cima no seu campo, 1 Campo ""Toon"" ou Magia Contínua do seu Deck."
-100261001,Coelho Escuro Engraçado,str2,"Invocar pelo efeito de ""Coelho Escuro Engraçado"""
+100261001,Coelho Escuro Engraçado,str2,Invocar pelo efeito de {CARD}
 100261001,Coelho Escuro Engraçado,str3,Efeito de busca
 100261001,Coelho Escuro Engraçado,str4,Colocar
 100261002,Gato Cômico,name,Gato Cômico
@@ -74,6 +74,12 @@ Durante sua Fase Principal: você pode Invocar por Invocação-Fusão 1 monstro 
 Você só pode usar cada um dos efeitos de ""Fazticeira Terracottan"" uma vez por turno."
 100261023,Fazticeira Terracottan,str1,Invocação Especial
 100261023,Fazticeira Terracottan,str2,Invocação Fusão
+100261024,魔女术工匠·签章女巫,name,魔女术工匠·签章女巫
+100261024,魔女术工匠·签章女巫,desc,"这个卡名的①②的效果1回合各能使用1次。
+①：把手卡·场上的这张卡解放才能发动。从卡组把1张「魔女术」场地·永续魔法卡加入手卡。
+②：这张卡在墓地存在的状态，自己场上表侧表示的「魔女术」怪兽因对方的效果从场上离开的场合才能发动。这张卡特殊召唤，对方场上1只怪兽解放。这个效果特殊召唤的这张卡从场上离开的场合除外。"
+100261024,魔女术工匠·签章女巫,str1,Adicionar à mão
+100261024,魔女术工匠·签章女巫,str2,Invocação Especial
 100261025,Fazticeira Madame Rilliona,name,Fazticeira Madame Rilliona
 100261025,Fazticeira Madame Rilliona,desc,"""Fazticeira Madame Verre"" + 2 monstros Mago
 Se este card for Invocado por Invocação-Fusão: você pode Invocar por Invocação-Especial até 3 monstros ""Fazticeira"" de Nível 7 ou menor com Atributos diferentes de cada outra na sua mão e/ou Deck, você também não pode Invocar por Invocação-Especial do Deck Adicional pelo resto deste turno, exceto Monstros de Fusão.
@@ -81,6 +87,17 @@ Durante sua Fase Final, se este card está no seu Cemitério: você pode revelar
 Você só pode usar cada um dos efeitos de ""Fazticeira Madame Rilliona"" uma vez por turno."
 100261025,Fazticeira Madame Rilliona,str1,Invocar por Invocação Especial do Deck
 100261025,Fazticeira Madame Rilliona,str2,Invocar este card por Invocação Especial
+100261026,魔女术学徒,name,魔女术学徒
+100261026,魔女术学徒,desc,"「魔女术」怪兽＋魔法师族怪兽
+这个卡名的①②的效果1回合各能使用1次。
+①：自己·对方的主要阶段以及战斗阶段，可以从以下效果选择1个发动。
+●从卡组把1张「魔女术」魔法卡加入手卡。
+●把手卡1张「魔女术」通常·速攻魔法卡给对方观看才能发动。那张魔法卡发动时的效果适用。
+②：自己结束阶段才能发动。自己除外状态的1张「魔女术」卡回到墓地。"
+100261026,魔女术学徒,str1,Ativar
+100261026,魔女术学徒,str2,Retornar para o Cemitério
+100261026,魔女术学徒,str3,Efeito de busca
+100261026,魔女术学徒,str4,Copiar efeito
 100261027,Celebração das Fazticeiras,name,Celebração das Fazticeiras
 100261027,Celebração das Fazticeiras,desc,"Ative 1 desses efeitos;
 ● Destrua 1 monstro ""Fazticeira"" que você controla e 1 card que seu oponente controla.
@@ -328,7 +345,7 @@ Para a Invocação-Ritual de exatamente 1 monstro Nível 8 com um efeito de card
 101305004,Gurifoh,str1,Descartar para ativar o efeito
 101305004,Gurifoh,str2,Mudança de dano
 101305004,Gurifoh,str3,Baixar Magia/Armadilha
-101305004,Gurifoh,str4,"Ativar aplicando o efeito de ""Gurifoh""."
+101305004,Gurifoh,str4,Ativar aplicando o efeito de {CARD}.
 101305005,"Uria, o Senhor das Chamas Cortantes – Besta Sagrada do Fogo Cataclísmico",name,"Uria, o Senhor das Chamas Cortantes – Besta Sagrada do Fogo Cataclísmico"
 101305005,"Uria, o Senhor das Chamas Cortantes – Besta Sagrada do Fogo Cataclísmico",desc,"Não pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial com um card de ""Besta Sagrada"".
 Você pode revelar este card na sua mão; adicione 1 Armadilha ""Besta Sagrada"" do seu Deck à sua mão, então descarte 1 card. Você só pode usar este efeito de ""Uria, o Senhor das Chamas Cortantes – Besta Sagrada do Fogo Cataclísmico"" uma vez por turno.
@@ -427,7 +444,7 @@ Você só pode usar cada um dos efeitos de ""Os Cavaleiros Fantasmas do Manto De
 101305018,Os Cavaleiros Fantasmas do Manto Decaído,str1,Invocação Especial
 101305018,Os Cavaleiros Fantasmas do Manto Decaído,str2,Efeito de busca
 101305018,Os Cavaleiros Fantasmas do Manto Decaído,str3,Considerar a Classe como Nível
-101305018,Os Cavaleiros Fantasmas do Manto Decaído,str4,"O efeito de ""Os Cavaleiros Fantasmas do Manto Decaído"" está sendo aplicado."
+101305018,Os Cavaleiros Fantasmas do Manto Decaído,str4,O efeito de {CARD} está sendo aplicado.
 101305019,Os Cavaleiros Fantasmas do Solleret Condenado,name,Os Cavaleiros Fantasmas do Solleret Condenado
 101305019,Os Cavaleiros Fantasmas do Solleret Condenado,desc,"Se você não controla monstros, você pode Invocar por Invocação-Especial este card (da sua mão). Você só pode Invocar 1 ""Os Cavaleiros Fantasmas do Solleret Condenado"" por este efeito uma vez por turno.
 Você só pode usar cada um dos seguintes efeitos de ""Os Cavaleiros Fantasmas do Solleret Condenado"" uma vez por turno.
@@ -643,7 +660,7 @@ Se você controlar um monstro ""Besta Sagrada"" cujo Nível original seja 10: vo
 101305048,Paraíso Caído das Bestas Sagradas,str1,Enviar para o Cemitério
 101305048,Paraíso Caído das Bestas Sagradas,str2,Comprar
 101305048,Paraíso Caído das Bestas Sagradas,str3,Invocação Especial?
-101305048,Paraíso Caído das Bestas Sagradas,str4,"Invocado por Invocação Especial pelo efeito de ""Paraíso Caído das Bestas Sagradas"""
+101305048,Paraíso Caído das Bestas Sagradas,str4,Invocado por Invocação Especial pelo efeito de {CARD}
 101305049,Trovão da Besta Sagrada,name,Trovão da Besta Sagrada
 101305049,Trovão da Besta Sagrada,desc,"Durante a sua Fase Principal: você pode colocar 2 ""Trovão da Besta Sagrada"" da sua mão, Deck e/ou Cemitério com a face para cima no seu campo, então você pode revelar 1 monstro ""Besta Sagrada"" de Nível 10 na sua mão, então você pode colocar 1 ""Paraíso Caído das Bestas Sagradas"" do seu Deck com a face para cima na sua Zona de Campo.
 Durante a Fase Final do seu oponente, se este card está no seu Cemitério: você pode adiciona-lo à sua mão.
@@ -811,7 +828,7 @@ Você pode enviar 1 outra Magia/Armadilha da sua mão ou campo para o Cemitério
 Você só pode usar cada um dos seguintes efeitos de ""Os Cavaleiros Fantasmas do Véu Ressentido"" uma vez por turno.
 Invoque por Invocação-Especial este card como um Monstro Normal (Guerreiro/TREVAS/Nível 3/ATK 0/DEF 300) em Posição de Defesa (ele NÃO é considerado como uma Armadilha), então você pode alterar 1 monstro do seu oponente em Posição de Ataque para Posição de Defesa.
 Você pode banir este card do seu Cemitério; imediatamente após ativar esse efeito, Invoque por Invocação-Xyz 1 monstro de TREVAS."
-101305073,Os Cavaleiros Fantasmas do Véu Ressentido,str1,"Ativar aplicando o efeito de ""Os Cavaleiros Fantasmas do Véu Ressentido""."
+101305073,Os Cavaleiros Fantasmas do Véu Ressentido,str1,Ativar aplicando o efeito de {CARD}.
 101305073,Os Cavaleiros Fantasmas do Véu Ressentido,str2,Invocação Xyz
 101305073,Os Cavaleiros Fantasmas do Véu Ressentido,str3,Mudar a posição de batalha?
 101305074,Força-S Mundo Classificado,name,Força-S Mundo Classificado
