@@ -24,7 +24,7 @@ Se questa carta viene offerta come Tributo: puoi attivare 1 di questi effetti (m
 100261001,Coniglio Oscuro Divertente,desc,"Dopo che questa carta è stata Evocata Normalmente o Specialmente, durante la tua Main Phase di questo turno puoi Evocare Normalmente 1 mostro che menziona ""Mondo Toon"", in aggiunta alla tua Evocazione Normale/Posizionamento (puoi ottenere questo effetto una sola volta per turno).
 Questa carta è trattata come un mostro Toon mentre ""Mondo Toon"" è sul Terreno.
 Una volta per turno: puoi aggiungere alla tua mano o mettere scoperta sul tuo Terreno 1 Magia Terreno o Magia Continua ""Toon"" dal tuo Deck."
-100261001,Coniglio Oscuro Divertente,str2,"Evocare tramite l'effetto di ""Coniglio Oscuro Divertente"""
+100261001,Coniglio Oscuro Divertente,str2,Evocare tramite l'effetto di {CARD}
 100261001,Coniglio Oscuro Divertente,str3,Effetto di aggiunta alla mano
 100261001,Coniglio Oscuro Divertente,str4,Posiziona
 100261002,Gatto dei Fumetti,name,Gatto dei Fumetti
@@ -345,7 +345,7 @@ Per l'Evocazione tramite Rituale di esattamente 1 Mostro Rituale di Livello 8 co
 101305004,Gurifoh,str1,Scarta per attivare l'effetto
 101305004,Gurifoh,str2,Cambio danno
 101305004,Gurifoh,str3,Posiziona Magia/Trappola
-101305004,Gurifoh,str4,"Attivare applicando l'effetto di ""Gurifoh""."
+101305004,Gurifoh,str4,Attivare applicando l'effetto di {CARD}.
 101305005,"Uria, Signore delle Fiamme Ardenti - Bestia Sacra del Fuoco Cataclismico",name,"Uria, Signore delle Fiamme Ardenti - Bestia Sacra del Fuoco Cataclismico"
 101305005,"Uria, Signore delle Fiamme Ardenti - Bestia Sacra del Fuoco Cataclismico",desc,"Non può essere Evocato Normalmente/Posizionato. Deve essere Evocato Specialmente con una carta ""Bestia Sacra"".
 Puoi rivelare questa carta nella tua mano; aggiungi 1 Trappola ""Bestia Sacra"" dal tuo Deck alla tua mano, poi scarta 1 carta. Puoi utilizzare questo effetto di ""Uria, Signore delle Fiamme Ardenti - Bestia Sacra del Fuoco Cataclismico"" una sola volta per turno.
@@ -444,7 +444,7 @@ Puoi utilizzare ciascun effetto di ""I Cavalieri Fantasma del Mantello Decompost
 101305018,I Cavalieri Fantasma del Mantello Decomposto,str1,Evocazione Speciale
 101305018,I Cavalieri Fantasma del Mantello Decomposto,str2,Effetto di aggiunta alla mano
 101305018,I Cavalieri Fantasma del Mantello Decomposto,str3,Trattare il Rango come Livello
-101305018,I Cavalieri Fantasma del Mantello Decomposto,str4,"L'effetto di ""I Cavalieri Fantasma del Mantello Decomposto"" si sta applicando."
+101305018,I Cavalieri Fantasma del Mantello Decomposto,str4,L'effetto di {CARD} si sta applicando.
 101305019,I Cavalieri Fantasma del Solleret Condannato,name,I Cavalieri Fantasma del Solleret Condannato
 101305019,I Cavalieri Fantasma del Solleret Condannato,desc,"Se non controlli mostri, puoi Evocare Specialmente questa carta (dalla tua mano). Puoi Evocare Specialmente ""I Cavalieri Fantasma del Solleret Condannato"" una sola volta per turno in questo modo.
 Puoi utilizzare ciascuno dei seguenti effetti di ""I Cavalieri Fantasma del Solleret Condannato"" una sola volta per turno.
@@ -660,7 +660,7 @@ Puoi utilizzare questo effetto di ""Paradiso Perduto della Bestia Sacra"" una so
 101305048,Paradiso Perduto della Bestia Sacra,str1,Mandare al Cimitero
 101305048,Paradiso Perduto della Bestia Sacra,str2,Pescare
 101305048,Paradiso Perduto della Bestia Sacra,str3,Evocazione Speciale?
-101305048,Paradiso Perduto della Bestia Sacra,str4,"Evocato Specialmente tramite l'effetto di ""Paradiso Perduto della Bestia Sacra"""
+101305048,Paradiso Perduto della Bestia Sacra,str4,Evocato Specialmente tramite l'effetto di {CARD}
 101305049,Cielo Infuocato della Bestia Sacra,name,Cielo Infuocato della Bestia Sacra
 101305049,Cielo Infuocato della Bestia Sacra,desc,"Durante la tua Main Phase: puoi Posizionare 2 ""Cielo Infuocato della Bestia Sacra"" dalla tua mano, Deck e/o Cimitero scoperti sul tuo Terreno, poi puoi rivelare 1 mostro ""Bestia Sacra"" di Livello 10 nella tua mano per mettere 1 ""Paradiso Perduto della Bestia Sacra"" dal tuo Deck nella tua Zona Terreno scoperta.
 Durante la End Phase del tuo avversario, se questa carta è nel tuo Cimitero: puoi aggiungerla alla tua mano.
@@ -828,7 +828,7 @@ Puoi utilizzare questo effetto di ""Elfnote Quartina della Successione"" una sol
 Evoca Specialmente questa carta in Posizione di Difesa come Mostro Normale (Guerriero/OSCURITÀ/Livello 3/ATK 0/DEF 300) (questa carta NON è trattata come una Trappola), poi puoi cambiare in Posizione di Difesa 1 mostro in Posizione di Attacco controllato dal tuo avversario.
 Puoi bandire questa carta dal tuo Cimitero; immediatamente dopo che questo effetto si è risolto, Evoca Xyz 1 Mostro Xyz OSCURITÀ.
 Puoi utilizzare ciascun effetto di ""I Cavalieri Fantasma del Velo dell'Oltraggio"" una sola volta per turno."
-101305073,I Cavalieri Fantasma del Velo dell'Oltraggio,str1,"Attivare applicando l'effetto di ""I Cavalieri Fantasma del Velo dell'Oltraggio""."
+101305073,I Cavalieri Fantasma del Velo dell'Oltraggio,str1,Attivare applicando l'effetto di {CARD}.
 101305073,I Cavalieri Fantasma del Velo dell'Oltraggio,str2,Evocazione Xyz
 101305073,I Cavalieri Fantasma del Velo dell'Oltraggio,str3,Cambiare la posizione di combattimento?
 101305074,Mondo Ordinato S-Forza,name,Mondo Ordinato S-Forza

@@ -13,7 +13,7 @@ Se questa carta viene offerta come Tributo: puoi attivare 1 di questi effetti (m
 ● Evoca Specialmente 1 mostro ""Compagnia di Clown"" non-Pendulum dal tuo Deck o Extra Deck, ignorando le sue condizioni di Evocazione.",Evocazione Speciale,Scegli un effetto,Rimettere nel Deck,Evocazione Speciale,,,,,,,,,,,,
 100261001,Coniglio Oscuro Divertente,"Dopo che questa carta è stata Evocata Normalmente o Specialmente, durante la tua Main Phase di questo turno puoi Evocare Normalmente 1 mostro che menziona ""Mondo Toon"", in aggiunta alla tua Evocazione Normale/Posizionamento (puoi ottenere questo effetto una sola volta per turno).
 Questa carta è trattata come un mostro Toon mentre ""Mondo Toon"" è sul Terreno.
-Una volta per turno: puoi aggiungere alla tua mano o mettere scoperta sul tuo Terreno 1 Magia Terreno o Magia Continua ""Toon"" dal tuo Deck.",,"Evocare tramite l'effetto di ""Coniglio Oscuro Divertente""",Effetto di aggiunta alla mano,Posiziona,,,,,,,,,,,,
+Una volta per turno: puoi aggiungere alla tua mano o mettere scoperta sul tuo Terreno 1 Magia Terreno o Magia Continua ""Toon"" dal tuo Deck.",,Evocare tramite l'effetto di {CARD},Effetto di aggiunta alla mano,Posiziona,,,,,,,,,,,,
 100261002,Gatto dei Fumetti,"Questa carta è trattata come un mostro Toon mentre ""Mondo Toon"" è sul Terreno.
 Durante la Main Phase (Effetto Rapido): puoi offrire come Tributo 1 mostro (se controlli ""Mondo Toon"", puoi offrire come Tributo 1 mostro controllato dal tuo avversario, anche se non lo controlli), e se lo fai, Evoca Specialmente dalla tua mano o dal tuo Deck 1 mostro che menziona ""Mondo Toon"", ignorando le sue condizioni di Evocazione.
 Puoi utilizzare questo effetto di ""Gatto dei Fumetti"" una sola volta per turno.",,Evocazione Speciale,,,,,,,,,,,,,,
@@ -177,7 +177,7 @@ Puoi utilizzare ciascun effetto di ""Saggio Celtico Mistico"" una sola volta per
 ● Il prossimo danno da battaglia o da effetto che subisci in questo turno diventa 0.
 ● Posiziona 1 Magia Rapida o Trappola che menziona ""Rituale di Luce e Oscurità"" dal tuo Deck. Può essere attivata in questo turno.
 Puoi utilizzare questo effetto di ""Gurifoh"" una sola volta per turno. 
-Per l'Evocazione tramite Rituale di esattamente 1 Mostro Rituale di Livello 8 con un effetto di carta che richiede l'uso di mostri, questa carta può essere utilizzata come l'intero Tributo.",Scarta per attivare l'effetto,Cambio danno,Posiziona Magia/Trappola,"Attivare applicando l'effetto di ""Gurifoh"".",,,,,,,,,,,,
+Per l'Evocazione tramite Rituale di esattamente 1 Mostro Rituale di Livello 8 con un effetto di carta che richiede l'uso di mostri, questa carta può essere utilizzata come l'intero Tributo.",Scarta per attivare l'effetto,Cambio danno,Posiziona Magia/Trappola,Attivare applicando l'effetto di {CARD}.,,,,,,,,,,,,
 101305005,"Uria, Signore delle Fiamme Ardenti - Bestia Sacra del Fuoco Cataclismico","Non può essere Evocato Normalmente/Posizionato. Deve essere Evocato Specialmente con una carta ""Bestia Sacra"".
 Puoi rivelare questa carta nella tua mano; aggiungi 1 Trappola ""Bestia Sacra"" dal tuo Deck alla tua mano, poi scarta 1 carta. Puoi utilizzare questo effetto di ""Uria, Signore delle Fiamme Ardenti - Bestia Sacra del Fuoco Cataclismico"" una sola volta per turno.
 Guadagna 1000 ATK/DEF per ogni Trappola nei Cimiteri.
@@ -225,7 +225,7 @@ Puoi utilizzare ogni effetto di ""Virakam lo Spirito Artificiale"" una sola volt
 101305018,I Cavalieri Fantasma del Mantello Decomposto,"Puoi rivelare 1 altra carta ""I Cavalieri Fantasma"" nella tua mano; Evoca Specialmente questa carta dalla tua mano.
 Se questa carta viene Evocata Normalmente o Specialmente: puoi aggiungere 1 mostro ""I Cavalieri Fantasma"" dal tuo Deck alla tua mano.
 Puoi bandire questa carta dal tuo Cimitero, poi scegliere come bersaglio 1 Mostro Xyz che controlli; in questo turno puoi utilizzarlo come materiale per una Evocazione Xyz usando il suo Rango come se fosse un Livello.
-Puoi utilizzare ciascun effetto di ""I Cavalieri Fantasma del Mantello Decomposto"" una sola volta per turno.",Evocazione Speciale,Effetto di aggiunta alla mano,Trattare il Rango come Livello,"L'effetto di ""I Cavalieri Fantasma del Mantello Decomposto"" si sta applicando.",,,,,,,,,,,,
+Puoi utilizzare ciascun effetto di ""I Cavalieri Fantasma del Mantello Decomposto"" una sola volta per turno.",Evocazione Speciale,Effetto di aggiunta alla mano,Trattare il Rango come Livello,L'effetto di {CARD} si sta applicando.,,,,,,,,,,,,
 101305019,I Cavalieri Fantasma del Solleret Condannato,"Se non controlli mostri, puoi Evocare Specialmente questa carta (dalla tua mano). Puoi Evocare Specialmente ""I Cavalieri Fantasma del Solleret Condannato"" una sola volta per turno in questo modo.
 Puoi utilizzare ciascuno dei seguenti effetti di ""I Cavalieri Fantasma del Solleret Condannato"" una sola volta per turno.
 Se questa carta viene Evocata Normalmente o Specialmente: puoi Posizionare 1 Magia/Trappola ""I Cavalieri Fantasma"" dal tuo Deck.
@@ -339,7 +339,7 @@ Se questa carta è nel tuo Cimitero, eccetto nel turno in cui è stata mandata l
 Puoi utilizzare ciascun effetto di ""Scatenare le Bestia Sacra"" una sola volta per turno.",Attiva,Aggiungere alla mano,,,,,,,,,,,,,,
 101305048,Paradiso Perduto della Bestia Sacra,"Tre volte per turno: puoi mandare 3 altre carte dello stesso tipo (Mostro, Magia o Trappola) dalla tua mano e/o dal tuo Terreno scoperto al Cimitero, poi puoi Evocare Specialmente 1 mostro ""Bestia Sacra"" dalla tua mano, Deck, Cimitero o carte bandite e, se lo fai, è immune agli effetti attivati delle Magie/Trappole del tuo avversario.
 Se controlli un mostro ""Bestia Sacra"" il cui Livello originale è 10: puoi pescare 2 carte.
-Puoi utilizzare questo effetto di ""Paradiso Perduto della Bestia Sacra"" una sola volta per turno.",Mandare al Cimitero,Pescare,Evocazione Speciale?,"Evocato Specialmente tramite l'effetto di ""Paradiso Perduto della Bestia Sacra""",,,,,,,,,,,,
+Puoi utilizzare questo effetto di ""Paradiso Perduto della Bestia Sacra"" una sola volta per turno.",Mandare al Cimitero,Pescare,Evocazione Speciale?,Evocato Specialmente tramite l'effetto di {CARD},,,,,,,,,,,,
 101305049,Cielo Infuocato della Bestia Sacra,"Durante la tua Main Phase: puoi Posizionare 2 ""Cielo Infuocato della Bestia Sacra"" dalla tua mano, Deck e/o Cimitero scoperti sul tuo Terreno, poi puoi rivelare 1 mostro ""Bestia Sacra"" di Livello 10 nella tua mano per mettere 1 ""Paradiso Perduto della Bestia Sacra"" dal tuo Deck nella tua Zona Terreno scoperta.
 Durante la End Phase del tuo avversario, se questa carta è nel tuo Cimitero: puoi aggiungerla alla tua mano.
 Puoi utilizzare ciascun effetto di ""Fuoco Celeste della Bestia Sacra"" una sola volta per turno.",Effetto di posizionamento,Rimettere in mano,Mostrare al tuo avversario?,,,,,,,,,,,,,
@@ -425,7 +425,7 @@ Puoi utilizzare questo effetto di ""Elfnote Quartina della Successione"" una sol
 101305073,I Cavalieri Fantasma del Velo dell'Oltraggio,"Se hai un mostro ""I Cavalieri Fantasma"" sul tuo Terreno o nel tuo Cimitero, puoi attivare questa carta nel turno in cui è stata Posizionata.
 Evoca Specialmente questa carta in Posizione di Difesa come Mostro Normale (Guerriero/OSCURITÀ/Livello 3/ATK 0/DEF 300) (questa carta NON è trattata come una Trappola), poi puoi cambiare in Posizione di Difesa 1 mostro in Posizione di Attacco controllato dal tuo avversario.
 Puoi bandire questa carta dal tuo Cimitero; immediatamente dopo che questo effetto si è risolto, Evoca Xyz 1 Mostro Xyz OSCURITÀ.
-Puoi utilizzare ciascun effetto di ""I Cavalieri Fantasma del Velo dell'Oltraggio"" una sola volta per turno.","Attivare applicando l'effetto di ""I Cavalieri Fantasma del Velo dell'Oltraggio"".",Evocazione Xyz,Cambiare la posizione di combattimento?,,,,,,,,,,,,,
+Puoi utilizzare ciascun effetto di ""I Cavalieri Fantasma del Velo dell'Oltraggio"" una sola volta per turno.",Attivare applicando l'effetto di {CARD}.,Evocazione Xyz,Cambiare la posizione di combattimento?,,,,,,,,,,,,,
 101305074,Mondo Ordinato S-Forza,"Se dovessi bandire una o più carte dalla mano per attivare l'effetto di un mostro ""S-Forza"" che controlli, puoi invece mandare 1 carta ""S-Forza"" dal tuo Deck al Cimitero, eccetto ""Mondo Ordinato S-Forza"".
 Se un'altra carta o più carte vengono bandite: puoi scegliere come bersaglio 1 carta nel Terreno o Cimitero del tuo avversario; bandiscila, poi puoi spostare 1 mostro ""S-Forza"" che controlli in un'altra tua Zone Mostri Main.
 Puoi utilizzare ogni effetto di ""Mondo Ordinato S-Forza"" una sola volta per turno.",,Bandire,Spostare in un'altra Zona?,,,,,,,,,,,,,
