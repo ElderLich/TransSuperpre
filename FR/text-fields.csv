@@ -24,7 +24,7 @@ Les monstres contrôlés par votre adversaire perdent 1500 DEF tant que vous con
 100261001,Lapin des Ténèbres Malin,desc,"Après que cette carte est Invoquée Normalement ou Spécialement, vous pouvez Invoquer Normalement 1 monstre qui mentionne ""Monde des Toons"" durant votre Main Phase ce tour, en plus de votre Invocation/Pose Normale (vous ne pouvez gagner cet effet qu'une fois par tour).
 Cette carte est traitée comme un monstre Toon tant que ""Monde des Toons"" est sur le Terrain.
 Une fois par tour : vous pouvez ajouter à votre main, ou placer face recto sur votre Terrain, 1 Magie de Terrain ou Continue ""Toon"" depuis votre Deck."
-100261001,Lapin des Ténèbres Malin,str2,"Invoquer par l'effet de ""Lapin des Ténèbres Malin"""
+100261001,Lapin des Ténèbres Malin,str2,Invoquer par l'effet de {CARD}
 100261001,Lapin des Ténèbres Malin,str3,Effet d'ajout à la main
 100261001,Lapin des Ténèbres Malin,str4,Placer
 100261002,Chat Comique,name,Chat Comique
@@ -464,7 +464,7 @@ Vous ne pouvez utiliser chaque effet de ""Les Chevaliers Fantômes de la Cape D�
 101305018,Les Chevaliers Fantômes de la Cape Délabrée,str1,Invocation Spéciale
 101305018,Les Chevaliers Fantômes de la Cape Délabrée,str2,Effet d'ajout à la main
 101305018,Les Chevaliers Fantômes de la Cape Délabrée,str3,Traiter le Rang comme un Niveau
-101305018,Les Chevaliers Fantômes de la Cape Délabrée,str4,"L'effet de ""Les Chevaliers Fantômes de la Cape Délabrée"" est actuellement appliqué."
+101305018,Les Chevaliers Fantômes de la Cape Délabrée,str4,L'effet de {CARD} est actuellement appliqué.
 101305019,Les Chevaliers Fantômes des Solerets Maudits,name,Les Chevaliers Fantômes des Solerets Maudits
 101305019,Les Chevaliers Fantômes des Solerets Maudits,desc,"Si vous ne contrôlez aucun monstre, vous pouvez Invoquer Spécialement cette carte (depuis votre main).
 Vous ne pouvez Invoquer Spécialement ""Les Chevaliers Fantômes des Solerets Maudits"" qu'une fois par tour de cette façon.
@@ -689,7 +689,7 @@ Vous ne pouvez utiliser cet effet de ""Paradis Perdu des Bêtes Sacrées"" qu'un
 101305048,Paradis Perdu des Bêtes Sacrées,str1,Envoyer au Cimetière
 101305048,Paradis Perdu des Bêtes Sacrées,str2,Piocher
 101305048,Paradis Perdu des Bêtes Sacrées,str3,Invocation Spéciale?
-101305048,Paradis Perdu des Bêtes Sacrées,str4,"Invoqué Spécialement par l'effet de ""Paradis Perdu des Bêtes Sacrées"""
+101305048,Paradis Perdu des Bêtes Sacrées,str4,Invoqué Spécialement par l'effet de {CARD}
 101305049,Feu Céleste des Bêtes Sacrées,name,Feu Céleste des Bêtes Sacrées
 101305049,Feu Céleste des Bêtes Sacrées,desc,"Durant votre Main Phase : vous pouvez placer 2 ""Feu Céleste des Bêtes Sacrées"" depuis votre main, Deck et/ou Cimetière face recto sur votre Terrain, puis vous pouvez révéler 1 monstre ""Bêtes Sacrées"" de Niveau 10 dans votre main, puis placez 1 ""Paradis Perdu des Bêtes Sacrées"" depuis votre Deck face recto dans votre Zone Terrain.
 Durant la End Phase de votre adversaire, si cette carte est dans votre Cimetière : vous pouvez l'ajouter à votre main.
@@ -860,7 +860,7 @@ Vous ne pouvez utiliser cet effet de ""Notes Elfiques : Quatrain de la Successio
 Invoquez Spécialement cette carte en Position de Défense comme Monstre Normal (Guerrier/TÉNÈBRES/Niveau 3/ATK 0/DEF 300) (cette carte N'EST PAS traitée comme Piège), puis vous pouvez changer 1 monstre en Position d'Attaque contrôlé par votre adversaire en Position de Défense.
 Vous pouvez bannir cette carte depuis votre Cimetière ; immédiatement après la résolution de cet effet, Invoquez par Xyz 1 Monstre Xyz TÉNÈBRES.
 Vous ne pouvez utiliser chaque effet de ""Les Chevaliers Fantômes du Voile d'Ombrage"" qu'une fois par tour."
-101305073,Les Chevaliers Fantômes du Voile d'Ombrage,str1,"Activer en appliquant l'effet de ""Les Chevaliers Fantômes du Voile d'Ombrage""."
+101305073,Les Chevaliers Fantômes du Voile d'Ombrage,str1,Activer en appliquant l'effet de {CARD}.
 101305073,Les Chevaliers Fantômes du Voile d'Ombrage,str2,Invocation Xyz
 101305073,Les Chevaliers Fantômes du Voile d'Ombrage,str3,Changer la position de combat ?
 101305074,Monde Trié de la Force-S,name,Monde Trié de la Force-S
