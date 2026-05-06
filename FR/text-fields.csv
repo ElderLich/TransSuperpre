@@ -24,7 +24,7 @@ Les monstres contrôlés par votre adversaire perdent 1500 DEF tant que vous con
 100261001,Lapin des Ténèbres Malin,desc,"Après que cette carte est Invoquée Normalement ou Spécialement, vous pouvez Invoquer Normalement 1 monstre qui mentionne ""Monde des Toons"" durant votre Main Phase ce tour, en plus de votre Invocation/Pose Normale (vous ne pouvez gagner cet effet qu'une fois par tour).
 Cette carte est traitée comme un monstre Toon tant que ""Monde des Toons"" est sur le Terrain.
 Une fois par tour : vous pouvez ajouter à votre main, ou placer face recto sur votre Terrain, 1 Magie de Terrain ou Continue ""Toon"" depuis votre Deck."
-100261001,Lapin des Ténèbres Malin,str2,Invoquer par l'effet de {CARD}
+100261001,Lapin des Ténèbres Malin,str2,"Invoquer par l'effet de ""Lapin des Ténèbres Malin"""
 100261001,Lapin des Ténèbres Malin,str3,Effet d'ajout à la main
 100261001,Lapin des Ténèbres Malin,str4,Placer
 100261002,Chat Comique,name,Chat Comique
@@ -120,6 +120,38 @@ Si cette carte est dans votre Cimetière, sauf le tour où elle y a été envoy�
 Vous ne pouvez utiliser chaque effet de ""Distorsion Artisanesorcière"" qu'une fois par tour."
 100261029,Distorsion Artisanesorcière,str1,Activer
 100261029,Distorsion Artisanesorcière,str2,Ajouter à la main
+100261047,Ogresses Désenchaînées - Shara,name,Ogresses Désenchaînées - Shara
+100261047,Ogresses Désenchaînées - Shara,desc,"Durant la Main Phase (Effet Rapide) : vous pouvez défausser cette carte ; Invoquez Spécialement 1 monstre Démon depuis votre main, puis détruisez 1 carte que vous contrôlez.
+Si une ou plusieurs cartes sur le Terrain sont détruites par un effet de carte (celui de ""Ogresses Désenchaînées - Shara"" exclu), ou au combat, tant que cette carte est dans votre Cimetière : vous pouvez Invoquer Spécialement cette carte (mais placez-la au-dessous du Deck lorsqu'elle quitte le Terrain) ou l'ajouter à votre main.
+Vous ne pouvez utiliser chaque effet de ""Ogresses Désenchaînées - Shara"" qu'une fois par tour."
+100261047,Ogresses Désenchaînées - Shara,str1,Invocation Spéciale
+100261047,Ogresses Désenchaînées - Shara,str2,Recycler
+100261048,Ogresses Désenchaînées - Shma,name,Ogresses Désenchaînées - Shma
+100261048,Ogresses Désenchaînées - Shma,desc,"Si cette carte est Invoquée Normalement : vous pouvez Invoquer Spécialement 1 monstre ""Désenchaîné"" de max. Niveau 4 (""Ogresses Désenchaînées - Shma"" exclu) depuis votre Deck, puis détruisez 1 carte que vous contrôlez, et aussi, vous ne pouvez pas Invoquer Spécialement (monstres Démon exclus) le reste de ce tour.
+Si cette carte sur le Terrain est détruite par un effet de carte (celui de ""Ogresses Désenchaînées - Shma"" exclu), ou au combat : vous pouvez Invoquer Spécialement 1 monstre ""Désenchaîné"" (""Ogresses Désenchaînées - Shma"" exclu) depuis votre main ou Deck.
+Vous ne pouvez utiliser chaque effet de ""Ogresses Désenchaînées - Shma"" qu'une fois par tour."
+100261048,Ogresses Désenchaînées - Shma,str1,Invoquer Spécialement depuis le Deck
+100261048,Ogresses Désenchaînées - Shma,str2,Invoquer Spécialement depuis la main/le Deck
+100261050,Enma Désenchaîné du Seigneur de Yama,name,Enma Désenchaîné du Seigneur de Yama
+100261050,Enma Désenchaîné du Seigneur de Yama,desc,"2+ monstres (un monstre ""Âme Désenchaînée"" inclus)
+Durant votre End Phase : vous pouvez cibler max. 2 monstres Démon dans votre Cimetière qui ont été détruits et y ont été envoyés ce tour ; Invoquez-les Spécialement, mais vous ne pouvez pas Invoquer Spécialement (monstres Démon exclus) tant que vous contrôlez l'un des monstres face recto.
+Si cette carte sur le Terrain va être détruite au combat ou par un effet de carte, vous pouvez détruire 1 carte face recto sur le Terrain à la place.
+Vous ne pouvez utiliser chaque effet de ""Enma Désenchaîné du Seigneur de Yama"" qu'une fois par tour."
+100261050,Enma Désenchaîné du Seigneur de Yama,str1,Invocation Spéciale
+100261050,Enma Désenchaîné du Seigneur de Yama,str3,Invoqué Spécialement par l'effet de {CARD}
+100261051,Âme Désenchaînée de la Rage Abominateur,name,Âme Désenchaînée de la Rage Abominateur
+100261051,Âme Désenchaînée de la Rage Abominateur,desc,"2+ monstres (un monstre Démon inclus)
+Si votre adversaire Invoque Spécialement un ou plusieurs monstres face recto : vous pouvez en cibler 1 ; détruisez 1 monstre Démon que vous contrôlez, et si vous le faites, annulez les effets du monstre ciblé jusqu'à la fin de ce tour.
+Lorsqu'un effet de monstre est activé sur le Terrain et que vous contrôlez un Monstre Lien ""Désenchaîné"" de min. Link-4 (Effet Rapide) : vous pouvez bannir cette carte depuis votre Cimetière ; détruisez le monstre qui a activé l'effet.
+Vous ne pouvez utiliser chaque effet de ""Âme Désenchaînée de la Rage Abominateur"" qu'une fois par tour."
+100261051,Âme Désenchaînée de la Rage Abominateur,str1,Annuler
+100261051,Âme Désenchaînée de la Rage Abominateur,str2,Détruire
+100261053,Syncrétisme Désenchaîné,name,Syncrétisme Désenchaîné
+100261053,Syncrétisme Désenchaîné,desc,"Ciblez 2 monstres face recto sur le Terrain (un Monstre Lien ""Âme Désenchaînée"" que vous contrôlez inclus) ; immédiatement après la résolution de cet effet, Invoquez par Lien 1 monstre Démon en utilisant uniquement les 2 monstres.
+Si cette carte Posée est détruite par un effet de carte : vous pouvez Invoquer Spécialement 1 monstre ""Désenchaîné"" depuis votre Deck.
+Vous ne pouvez utiliser chaque effet de ""Syncrétisme Désenchaîné"" qu'une fois par tour."
+100261053,Syncrétisme Désenchaîné,str1,Invocation Lien
+100261053,Syncrétisme Désenchaîné,str2,Invocation Spéciale
 100262001,Brise l'Électrovore de Rkunas,name,Brise l'Électrovore de Rkunas
 100262001,Brise l'Électrovore de Rkunas,desc,"Un chien mystérieux qui émet de la lumière un bref instant en libérant sa propre énergie vitale. Après l'avoir aperçu, son image attachante reste gravée dans votre mémoire."
 100263001,Tyrannosaure Noir,name,Tyrannosaure Noir
@@ -464,7 +496,7 @@ Vous ne pouvez utiliser chaque effet de ""Les Chevaliers Fantômes de la Cape D�
 101305018,Les Chevaliers Fantômes de la Cape Délabrée,str1,Invocation Spéciale
 101305018,Les Chevaliers Fantômes de la Cape Délabrée,str2,Effet d'ajout à la main
 101305018,Les Chevaliers Fantômes de la Cape Délabrée,str3,Traiter le Rang comme un Niveau
-101305018,Les Chevaliers Fantômes de la Cape Délabrée,str4,L'effet de {CARD} est actuellement appliqué.
+101305018,Les Chevaliers Fantômes de la Cape Délabrée,str4,"L'effet de ""Les Chevaliers Fantômes de la Cape Délabrée"" est actuellement appliqué."
 101305019,Les Chevaliers Fantômes des Solerets Maudits,name,Les Chevaliers Fantômes des Solerets Maudits
 101305019,Les Chevaliers Fantômes des Solerets Maudits,desc,"Si vous ne contrôlez aucun monstre, vous pouvez Invoquer Spécialement cette carte (depuis votre main).
 Vous ne pouvez Invoquer Spécialement ""Les Chevaliers Fantômes des Solerets Maudits"" qu'une fois par tour de cette façon.
@@ -689,7 +721,7 @@ Vous ne pouvez utiliser cet effet de ""Paradis Perdu des Bêtes Sacrées"" qu'un
 101305048,Paradis Perdu des Bêtes Sacrées,str1,Envoyer au Cimetière
 101305048,Paradis Perdu des Bêtes Sacrées,str2,Piocher
 101305048,Paradis Perdu des Bêtes Sacrées,str3,Invocation Spéciale?
-101305048,Paradis Perdu des Bêtes Sacrées,str4,Invoqué Spécialement par l'effet de {CARD}
+101305048,Paradis Perdu des Bêtes Sacrées,str4,"Invoqué Spécialement par l'effet de ""Paradis Perdu des Bêtes Sacrées"""
 101305049,Feu Céleste des Bêtes Sacrées,name,Feu Céleste des Bêtes Sacrées
 101305049,Feu Céleste des Bêtes Sacrées,desc,"Durant votre Main Phase : vous pouvez placer 2 ""Feu Céleste des Bêtes Sacrées"" depuis votre main, Deck et/ou Cimetière face recto sur votre Terrain, puis vous pouvez révéler 1 monstre ""Bêtes Sacrées"" de Niveau 10 dans votre main, puis placez 1 ""Paradis Perdu des Bêtes Sacrées"" depuis votre Deck face recto dans votre Zone Terrain.
 Durant la End Phase de votre adversaire, si cette carte est dans votre Cimetière : vous pouvez l'ajouter à votre main.
@@ -860,7 +892,7 @@ Vous ne pouvez utiliser cet effet de ""Notes Elfiques : Quatrain de la Successio
 Invoquez Spécialement cette carte en Position de Défense comme Monstre Normal (Guerrier/TÉNÈBRES/Niveau 3/ATK 0/DEF 300) (cette carte N'EST PAS traitée comme Piège), puis vous pouvez changer 1 monstre en Position d'Attaque contrôlé par votre adversaire en Position de Défense.
 Vous pouvez bannir cette carte depuis votre Cimetière ; immédiatement après la résolution de cet effet, Invoquez par Xyz 1 Monstre Xyz TÉNÈBRES.
 Vous ne pouvez utiliser chaque effet de ""Les Chevaliers Fantômes du Voile d'Ombrage"" qu'une fois par tour."
-101305073,Les Chevaliers Fantômes du Voile d'Ombrage,str1,Activer en appliquant l'effet de {CARD}.
+101305073,Les Chevaliers Fantômes du Voile d'Ombrage,str1,"Activer en appliquant l'effet de ""Les Chevaliers Fantômes du Voile d'Ombrage""."
 101305073,Les Chevaliers Fantômes du Voile d'Ombrage,str2,Invocation Xyz
 101305073,Les Chevaliers Fantômes du Voile d'Ombrage,str3,Changer la position de combat ?
 101305074,Monde Trié de la Force-S,name,Monde Trié de la Force-S
