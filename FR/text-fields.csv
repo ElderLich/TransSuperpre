@@ -7,6 +7,12 @@ Vous ne pouvez utiliser chaque effet de ""Ilios le Dragon du Soleil Noir"" qu'un
 100200289,Ilios le Dragon du Soleil Noir,str1,Invocation Spéciale
 100200289,Ilios le Dragon du Soleil Noir,str2,Accorder une protection
 100200289,Ilios le Dragon du Soleil Noir,str3,L'effet de {CARD} est actuellement appliqué.
+100200290,Scène du Destin,name,Scène du Destin
+100200290,Scène du Destin,desc,"Vous pouvez activer cette carte le tour où elle a été Posée, en révélant 1 Monstre Normal dans votre main.
+Invoquez Spécialement max. 5 Monstres Normaux depuis votre main et/ou Cimetière en Position d'Attaque, et aussi, vous ne pouvez pas Invoquer Spécialement depuis l'Extra Deck le reste de ce tour après la résolution de cette carte.
+Vous ne pouvez activer qu'1 ""Scène du Destin"" par tour."
+100200290,Scène du Destin,str1,Activer
+100200290,Scène du Destin,str2,Activer en appliquant l'effet de {CARD}.
 100260001,"Chapeau, Troupe de Clowns",name,"Chapeau, Troupe de Clowns"
 100260001,"Chapeau, Troupe de Clowns",desc,"Échelle Pendule = 7
 [ Effet Pendule ]
@@ -236,6 +242,21 @@ Vous ne pouvez activer qu'1 ""Explosion D"" par tour."
 100263010,Explosion D,str1,Piocher
 100263010,Explosion D,str2,Effectuer une attaque supplémentaire
 100263010,Explosion D,str3,Invocation Spéciale?
+100264002,Origine de l'Archdémon,name,Origine de l'Archdémon
+100264002,Origine de l'Archdémon,desc,"Si cette carte est dans votre main : vous pouvez Sacrifier 1 autre monstre ""Archdémon"" depuis votre main et/ou Terrain ; Invoquez Spécialement cette carte. Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez Invoquer Spécialement 1 monstre Démon de Niveau 6 avec 2500 ATK depuis votre main, Deck ou Cimetière.
+Lorsque votre adversaire active un effet de monstre et que vous contrôlez ""Crâne Invoqué"" (Effet Rapide) : vous pouvez annuler l'activation, et si vous le faites, détruisez la carte.
+Vous ne pouvez utiliser chaque effet de ""Origine de l'Archdémon"" qu'une fois par tour."
+100264002,Origine de l'Archdémon,str1,Invoquer Spécialement cette carte
+100264002,Origine de l'Archdémon,str2,Invocation Spéciale
+100264002,Origine de l'Archdémon,str3,Annuler et détruire
+100264003,"Makourai, le Coup de Foudre",name,"Makourai, le Coup de Foudre"
+100264003,"Makourai, le Coup de Foudre",desc,"(Cette carte est toujours traitée comme carte ""Archdémon"".)
+Ciblez 1 monstre ""Archdémon"" que vous contrôlez ; il gagne 600 ATK, puis vous pouvez détruire tous les monstres contrôlés par votre adversaire avec une ATK d'origine inférieure à l'ATK du monstre.
+Durant votre Main Phase : vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 monstre Démon de Niveau 6 avec 2500 ATK dans votre Cimetière ; ajoutez-le à votre main.
+Vous ne pouvez utiliser chaque effet de ""Makourai, le Coup de Foudre"" qu'une fois par tour."
+100264003,"Makourai, le Coup de Foudre",str1,Activer
+100264003,"Makourai, le Coup de Foudre",str2,Recycler
+100264003,"Makourai, le Coup de Foudre",str3,Détruire ce monstre ?
 101304081,Joueur de Jeux GG,name,Joueur de Jeux GG
 101304081,Joueur de Jeux GG,desc,"2 monstres Machine de Niveau 4
 Si cette carte est Invoquée Spécialement : vous pouvez changer tous les monstres contrôlés par votre adversaire en Position d'Attaque.
@@ -937,3 +958,80 @@ Vous ne pouvez utiliser cet effet de ""Aménagement Paysager de la Pierre Protec
 101305172,Jeton Séraphin Notes Elfiques,name,Jeton Séraphin Notes Elfiques
 101305172,Jeton Séraphin Notes Elfiques,desc,"Invoqué Spécialement par l'effet de « Notes Elfiques : Quatrain de la Succession ». 
 Vous ne pouvez pas Invoquer Spécialement de monstres (monstres ""Notes Elfiques"" exclus) depuis l'Extra Deck."
+101306001,Guerrier Panthère Rapide,name,Guerrier Panthère Rapide
+101306001,Guerrier Panthère Rapide,desc,"Durant la Main Phase (Effet Rapide) : vous pouvez Sacrifier 1 autre monstre depuis votre main ou Terrain, puis activez 1 de ces effets ;
+● Invoquez Spécialement 1 monstre qui mentionne ""Magicien du Temps des Ténèbres"" (""Guerrier Panthère Rapide"" exclu) depuis votre main ou Deck.
+● Envoyez 1 Magie/Piège qui mentionne ""Magicien du Temps des Ténèbres"" depuis votre Deck au Cimetière.
+Vous ne pouvez utiliser cet effet de ""Guerrier Panthère Rapide"" qu'une fois par tour.
+Ne peut pas déclarer d'attaque sauf si un ou plusieurs monstres ont été Sacrifiés ce tour."
+101306001,Guerrier Panthère Rapide,str1,Activer l'effet
+101306001,Guerrier Panthère Rapide,str3,Invocation Spéciale
+101306001,Guerrier Panthère Rapide,str4,Envoyer au Cimetière
+101306002,Chevalier Dragon du Glaive de l'Alligator,name,Chevalier Dragon du Glaive de l'Alligator
+101306002,Chevalier Dragon du Glaive de l'Alligator,desc,"Peut attaquer directement.
+Vous ne pouvez utiliser chacun des effets suivants de ""Chevalier Dragon du Glaive de l'Alligator"" qu'une fois par tour.
+Si cette carte est dans votre main : vous pouvez révéler 1 autre carte dans votre main qui mentionne ""Magicien du Temps des Ténèbres"" ; Invoquez Spécialement cette carte.
+Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez ajouter max. 2 Magies/Pièges de noms différents l'une de l'autre qui mentionnent ""Magicien du Temps des Ténèbres"" depuis votre Deck à votre main, puis défaussez 1 carte."
+101306002,Chevalier Dragon du Glaive de l'Alligator,str1,Invocation Spéciale
+101306002,Chevalier Dragon du Glaive de l'Alligator,str2,Ajouter à la main
+101306003,Jinzo - Choqueur Énergétique,name,Jinzo - Choqueur Énergétique
+101306003,Jinzo - Choqueur Énergétique,desc,"Le nom de cette carte devient ""Jinzo"" tant qu'elle est dans le Terrain ou Cimetière.
+Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez détruire autant de Pièges contrôlés par votre adversaire que possible (si une carte est Posée, révélez-la), puis cette carte gagne 300 ATK pour chaque carte détruite de cette façon.
+Vous ne pouvez utiliser cet effet de ""Jinzo - Choqueur Énergétique"" qu'une fois par tour.
+Votre adversaire ne peut activer ni de Cartes Piège ni d'effets de Piège tant que vous avez un autre monstre dans votre Terrain ou Cimetière qui mentionne ""Magicien du Temps des Ténèbres""."
+101306003,Jinzo - Choqueur Énergétique,str1,Détruire
+101306004,"Pêcheur, Légende de la Mer",name,"Pêcheur, Légende de la Mer"
+101306004,"Pêcheur, Légende de la Mer",desc,"Si votre adversaire active un effet de monstre sur le Terrain, ou lorsque son monstre déclare une attaque, et que ""Umi"" ou une carte qui mentionne ""Magicien du Temps des Ténèbres"" (""Pêcheur, Légende de la Mer"" exclu) est sur le Terrain : vous pouvez Invoquer Spécialement cette carte depuis votre main.
+Si cette carte est Invoquée Spécialement : vous pouvez cibler 1 monstre contrôlé par votre adversaire ; détruisez-le, et aussi, renvoyez cette carte depuis le Terrain à la main durant la End Phase de ce tour.
+Vous ne pouvez utiliser chaque effet de ""Pêcheur, Légende de la Mer"" qu'une fois par tour."
+101306004,"Pêcheur, Légende de la Mer",str1,Invocation Spéciale
+101306004,"Pêcheur, Légende de la Mer",str2,Détruire
+101306036,Dragon Noir aux Yeux Rouges Dépassé,name,Dragon Noir aux Yeux Rouges Dépassé
+101306036,Dragon Noir aux Yeux Rouges Dépassé,desc,"""Dragon Noir aux Yeux Rouges"" + 1 monstre qui mentionne ""Magicien du Temps des Ténèbres""
+Uniquement soit Invocable par Fusion soit Invocable Spécialement (depuis votre Extra Deck) en Sacrifiant 1 monstre face recto sur l'un des Terrains durant le tour où un ou plusieurs monstres ont été détruits par l'effet de ""Magicien du Temps des Ténèbres"".
+Vous ne pouvez Invoquer Spécialement ""Dragon Noir aux Yeux Rouges Dépassé"" qu'une fois par tour de cette façon, peu importe la méthode que vous utilisez.
+Si cette carte est Invoquée Spécialement : vous pouvez Invoquer Spécialement 1 monstre de max. Niveau 8 depuis votre main ou Cimetière.
+Non affectée par les effets de monstre et de Magie activés de votre adversaire."
+101306036,Dragon Noir aux Yeux Rouges Dépassé,str1,Invocation Spéciale
+101306052,Magicien du Temps des Ténèbres,name,Magicien du Temps des Ténèbres
+101306052,Magicien du Temps des Ténèbres,desc,"Activez 1 de ces effets (mais vous ne pouvez utiliser chaque effet de ""Magicien du Temps des Ténèbres"" qu'une fois par tour) ;
+● Ajoutez 1 carte qui mentionne ""Magicien du Temps des Ténèbres"" (""Magicien du Temps des Ténèbres"" exclue) depuis votre Deck à votre main, et aussi, ajoutez 1 ""Magicien du Temps des Ténèbres"" depuis votre Cimetière à votre main durant la End Phase de ce tour.
+● Jouez à pile ou face. Si vous gagnez, détruisez autant de monstres contrôlés par votre adversaire que possible, et si vous le faites, infligez des dommages à votre adversaire égaux à la moitié de la somme des ATK d'origine des monstres. Si vous perdez, détruisez tous les monstres que vous contrôlez."
+101306052,Magicien du Temps des Ténèbres,str1,Activer
+101306052,Magicien du Temps des Ténèbres,str2,Ajouter à la main
+101306052,Magicien du Temps des Ténèbres,str3,Lancer une pièce
+101306053,Dé-Crâne Gracieux,name,Dé-Crâne Gracieux
+101306053,Dé-Crâne Gracieux,desc,"Lancez deux fois un dé à six faces et appliquez ces effets le reste de ce tour.
+● Les monstres que vous contrôlez qui mentionnent ""Magicien du Temps des Ténèbres"" gagnent une ATK/DEF égales au total x 200.
+● Les monstres contrôlés par votre adversaire perdent une ATK/DEF égales au total x 200.
+Si votre adversaire Invoque Normalement ou Spécialement un ou plusieurs monstres tant que cette carte est dans votre Cimetière : vous pouvez bannir cette carte, puis ciblez 1 des monstres ; lancez deux fois un dé à six faces, et si le total est min. 6, détruisez le monstre."
+101306053,Dé-Crâne Gracieux,str1,Activer
+101306053,Dé-Crâne Gracieux,str2,Lancer un dé
+101306054,Bouc Émissaire Endormi,name,Bouc Émissaire Endormi
+101306054,Bouc Émissaire Endormi,desc,"Invoquez Spécialement max. 4 ""Jeton Bouc Émissaire"" (Bête/TERRE/Niveau 1/ATK 0/DEF 0) en Position de Défense, puis si votre adversaire contrôle un monstre, vous pouvez Invoquer Spécialement 1 ""Guerrier Panthère Rapide"" depuis votre Deck, et aussi, le reste de ce tour, les Jetons ne peuvent pas être Sacrifiés pour une Invocation Sacrifice, et aussi, vous ne pouvez pas Invoquer Spécialement (Monstres Fusion exclus) depuis l'Extra Deck.
+Si une ou plusieurs cartes que vous contrôlez qui mentionnent ""Magicien du Temps des Ténèbres"" vont être détruites au combat ou par un effet de carte, vous pouvez détruire 1 Jeton que vous contrôlez qui a été Invoqué Spécialement par cet effet à la place."
+101306054,Bouc Émissaire Endormi,str1,Activer
+101306054,Bouc Émissaire Endormi,str2,Veuillez sélectionner le nombre d'Invocations Spéciales.
+101306054,Bouc Émissaire Endormi,str3,Invoquer Spécialement {CARD} ?
+101306070,Profanateur de Tombes Inutile,name,Profanateur de Tombes Inutile
+101306070,Profanateur de Tombes Inutile,desc,"Envoyez 1 carte qui mentionne ""Magicien du Temps des Ténèbres"" (""Profanateur de Tombes Inutile"" exclu) depuis votre Deck au Cimetière, puis vous pouvez Invoquer Spécialement 1 monstre depuis l'un des Cimetières sur votre Terrain.
+Vous pouvez bannir cette carte depuis votre Cimetière ; Posez sur votre Terrain, 1 Magie/Piège qui mentionne ""Magicien du Temps des Ténèbres"" (""Profanateur de Tombes Inutile"" exclu) depuis votre Cimetière, ou 1 Magie/Piège depuis le Cimetière de votre adversaire.
+Vous ne pouvez utiliser chaque effet de ""Profanateur de Tombes Inutile"" qu'une fois par tour."
+101306070,Profanateur de Tombes Inutile,str1,Envoyer au Cimetière
+101306070,Profanateur de Tombes Inutile,str2,Poser
+101306070,Profanateur de Tombes Inutile,str3,Invocation Spéciale?
+101306071,Boîte du Renversement,name,Boîte du Renversement
+101306071,Boîte du Renversement,desc,"Une fois par tour, durant la Standby Phase : lancez un dé à six faces et placez un nombre de Compteurs sur cette carte égal au résultat (max. 6).
+Lorsqu'un effet de monstre est activé sur le Terrain de votre adversaire, ou une fois par combat, durant le calcul des dommages, si un monstre de l'adversaire attaque : vous pouvez retirer 1 Compteur de cette carte, puis ciblez 1 des monstres ; jouez à pile ou face.
+Si vous gagnez, vous pouvez Invoquer Spécialement 1 monstre qui mentionne ""Magicien du Temps des Ténèbres"" depuis votre Deck, et si vous le faites, jusqu'à la fin de ce tour, changez l'ATK du monstre ciblé à 0, et aussi, ses effets sont annulés."
+101306071,Boîte du Renversement,str1,Placer un marqueur
+101306071,Boîte du Renversement,str2,Lancer une pièce
+101306071,Boîte du Renversement,str3,Placer les compteurs.
+101306154,Jeton Bouc Émissaire,name,Jeton Bouc Émissaire
+101306154,Jeton Bouc Émissaire,desc,"Invoqué Spécialement par l'effet de « Bouc Émissaire Endormi ». Si une carte sur votre Terrain dont le nom contient « Magicien du Temps des Ténèbres » va être détruite au combat ou par un effet de carte, vous pouvez détruire cette carte à la place."
+101306254,Jeton Bouc Émissaire,name,Jeton Bouc Émissaire
+101306254,Jeton Bouc Émissaire,desc,"Invoqué Spécialement par l'effet de « Bouc Émissaire Endormi ». Si une carte sur votre Terrain dont le nom contient « Magicien du Temps des Ténèbres » va être détruite au combat ou par un effet de carte, vous pouvez détruire cette carte à la place."
+101306354,Jeton Bouc Émissaire,name,Jeton Bouc Émissaire
+101306354,Jeton Bouc Émissaire,desc,"Invoqué Spécialement par l'effet de « Bouc Émissaire Endormi ». Si une carte sur votre Terrain dont le nom contient « Magicien du Temps des Ténèbres » va être détruite au combat ou par un effet de carte, vous pouvez détruire cette carte à la place."
+101306454,Jeton Bouc Émissaire,name,Jeton Bouc Émissaire
+101306454,Jeton Bouc Émissaire,desc,"Invoqué Spécialement par l'effet de « Bouc Émissaire Endormi ». Si une carte sur votre Terrain dont le nom contient « Magicien du Temps des Ténèbres » va être détruite au combat ou par un effet de carte, vous pouvez détruire cette carte à la place."
