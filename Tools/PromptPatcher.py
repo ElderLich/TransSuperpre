@@ -33957,6 +33957,26 @@ def build_translation_pack(lang: str):
             "ja": "そのモンスターの効果を無効にしますか？",
             "kr": "그 몬스터의 효과를 무효로 하시겠습니까?",
         },
+        "请选择要放置的指示物的数量": {
+            "en": "Select the number of counters to place",
+            "fr": "Sélectionnez le nombre de compteurs à placer",
+            "de": "Wähle die Anzahl der zu platzierenden Spielmarken",
+            "es": "Selecciona el número de contadores a colocar",
+            "pt": "Selecione o número de marcadores a colocar",
+            "it": "Seleziona il numero di segnalini da piazzare",
+            "ja": "置くカウンターの数を選択してください",
+            "kr": "놓을 카운터의 수를 선택하세요",
+        },
+        "请选择特殊召唤的数量": {
+            "en": "Select the number of Special Summons",
+            "fr": "Sélectionnez le nombre d'Invocations Spéciales",
+            "de": "Wähle die Anzahl der Spezialbeschwörungen",
+            "es": "Selecciona el número de Invocaciones Especiales",
+            "pt": "Selecione o número de Invocações Especiais",
+            "it": "Seleziona il numero di Evocazioni Speciali",
+            "ja": "特殊召喚の数を選択してください",
+            "kr": "특수 소환의 수를 선택하세요",
+        },
         
     }
     for cn, out in extras.items():

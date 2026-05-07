@@ -1,5 +1,113 @@
 [
   {
+    "name": "Archfiend's Origin",
+    "desc": "You can only use this card name's ①, ②, and ③ effects once per turn each.\r\n①：If this card is in your hand: You can Tribute 1 other \"Archfiend\" monster from your hand or field; Special Summon this card.\r\n②：If this card is Normal or Special Summoned: You can Special Summon 1 Level 6 Fiend monster with 2500 ATK from your hand, Deck, or GY.\r\n③：When your opponent activates a monster effect and you control \"Summoned Skull\" (Quick Effect): You can negate the activation, and if you do, destroy that card.",
+    "overallString": "[Monster|Effect] Fiend/Dark  [★7] 2500/1200",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100264002.jpg?version=19.7"
+  },
+  {
+    "name": "Makourai, the Lightning Strike",
+    "desc": "(This card is always treated as an \"Archfiend\" card.)\r\nYou can only use this card name's ① and ② effects once per turn each.\r\n①：Target 1 \"Archfiend\" monster you control; it gains 600 ATK, then you can destroy all monsters your opponent controls with lower original ATK than that monster's ATK.\r\n②：During your Main Phase: You can banish this card from your GY, then target 1 Level 6 Fiend monster with 2500 ATK in your GY; add it to your hand.",
+    "overallString": "[Spell|Quick-Play]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100264003.jpg?version=19.7"
+  },
+  {
+    "name": "Stage of Destiny",
+    "desc": "You can only activate 1 card with this card's name per turn. You can activate this card the turn it was Set by revealing 1 Normal Monster in your hand.\r\n①：Special Summon up to 5 Normal Monsters from your hand and/or GY in Attack Position. You cannot Special Summon from the Extra Deck for the rest of this turn after this card resolves.",
+    "overallString": "[Trap]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100200290.jpg?version=19.7"
+  },
+  {
+    "name": "Swift Panther Warrior",
+    "desc": "You can only use this card name's ① effect once per turn.\r\n①：During the Main Phase (Quick Effect): You can Tribute 1 other monster from your hand or field, then activate 1 of these effects;\r\n● Special Summon 1 monster that mentions \"Dark Time Wizard\" from your hand or Deck, except \"Swift Panther Warrior\".\r\n● Send 1 Spell/Trap that mentions \"Dark Time Wizard\" from your Deck to the GY.\r\n②：Cannot declare attacks unless a monster(s) was Tributed this turn.",
+    "overallString": "[Monster|Effect] Beast-Warrior/Earth  [★4] 2000/1600",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306001.jpg?version=19.7"
+  },
+  {
+    "name": "Alligator's Sword Dragon Knight",
+    "desc": "You can only use this card name's ① and ② effects once per turn each.\r\n①：If this card is in your hand: You can reveal 1 other card in your hand that mentions \"Dark Time Wizard\"; Special Summon this card.\r\n②：If this card is Normal or Special Summoned: You can add up to 2 Spells/Traps with different names from each other that mention \"Dark Time Wizard\" from your Deck to your hand, then discard 1 card.\r\n③：Can attack directly.",
+    "overallString": "[Monster|Effect] Dragon/Wind  [★5] 1700/1500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306002.jpg?version=19.7"
+  },
+  {
+    "name": "Jinzo – Energy Shocker",
+    "desc": "You can only use this card name's ② effect once per turn.\r\n①：This card's name becomes \"Jinzo\" while in the field or GY.\r\n②：If this card is Normal or Special Summoned: You can destroy all Traps your opponent controls (if a card is Set, reveal it), then this card gains 300 ATK for each card destroyed this way.\r\n③：Your opponent cannot activate Trap Cards or effects while you have another monster in your field or GY that mentions \"Dark Time Wizard\".",
+    "overallString": "[Monster|Effect] Machine/Dark  [★7] 2400/1500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306003.jpg?version=19.7"
+  },
+  {
+    "name": "Fisherman, Legend of the Sea",
+    "desc": "You can only use this card name's ① and ② effects once per turn each.\r\n①：If your opponent activates a monster effect on the field, or when their monster declares an attack, and \"Umi\" or a card that mentions \"Dark Time Wizard\" other than \"Fisherman, Legend of the Sea\" is on the field: You can Special Summon this card from your hand.\r\n②：If this card is Special Summoned: You can target 1 monster your opponent controls; destroy it, also return this card on the field to the hand during the End Phase of this turn.",
+    "overallString": "[Monster|Effect] Warrior/Water  [★4] 1850/1600",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306004.jpg?version=19.7"
+  },
+  {
+    "name": "Red-Eyes Black Dragon Exceed",
+    "desc": "\"Red-Eyes Black Dragon\" + 1 monster that mentions \"Dark Time Wizard\"\r\nMust be either Fusion Summoned, or Special Summoned (from your Extra Deck) by Tributing 1 face-up monster on either field during the turn a monster(s) was destroyed by the effect of \"Dark Time Wizard\". You can only Special Summon \"Red-Eyes Black Dragon Exceed\" once per turn this way, no matter which method you use.\r\n①：If this card is Special Summoned: You can Special Summoned 1 Level 8 or lower monster from your hand or GY.\r\n②：Unaffected by your opponent's activated monster and Spell effects.",
+    "overallString": "[Monster|Effect|Fusion] Dragon/Dark  [★9] 3400/3000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306036.jpg?version=19.7"
+  },
+  {
+    "name": "Dark Time Wizard",
+    "desc": "①：Activate 1 of these effects (but you can only use each of these effects of this card's name once per turn);\r\n● Add 1 card that mentions \"Dark Time Wizard\" from your Deck to your hand, except \"Dark Time Wizard\", also add 1 \"Dark Time Wizard\" from your GY to your hand during the End Phase of this turn.\r\n● Toss a coin and call it. If you call it right, destroy as many monsters your opponent controls as possible, and if you do, inflict damage to them equal to half those monsters' total original ATK. If you call it wrong, destroy all monsters you control.",
+    "overallString": "[Spell|Quick-Play]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306052.jpg?version=19.7"
+  },
+  {
+    "name": "Graceful Skull Dice",
+    "desc": "①：Roll a six-sided die twice and apply these effects, in sequence, for the rest of this turn.\r\n● Monsters you control that mention \"Dark Time Wizard\" will gain ATK/DEF equal to the total x 200.\r\n● Monsters your opponent controls will lose ATK/DEF equal to the total x 200.\r\n②：If your opponent Normal or Special Summons a monster(s) while this card is in your GY: You can banish this card, then target 1 of those monsters; roll a six-sided die twice, and if the total is 6 or more, destroy that monster.",
+    "overallString": "[Spell|Quick-Play]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306053.jpg?version=19.7"
+  },
+  {
+    "name": "Sleeping Scapegoats",
+    "desc": "①：Special Summon up to 4 \"Scapedgoat Tokens\" (Beast/EARTH/Level 1/ATK 0/DEF 0) in Defense Position, then if your opponent controls a monster, you can Special Summon 1 \"Swift Panther Warrior\" from your Deck, also for the rest of this turn, these Tokens cannot be Tributed for a Tribute Summon, also you cannot Special Summon from the Extra Deck, except Fusion Monsters. If a card(s) you control that mentions \"Dark Time Wizard\" would be destroyed by battle or card effect, you can destroy 1 of your Tokens Summoned this way instead.",
+    "overallString": "[Spell|Quick-Play]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306054.jpg?version=19.7"
+  },
+  {
+    "name": "Foolish Graverobber",
+    "desc": "You can only use the ① and ② effects of this card's name once per turn.\r\n①：Send 1 card that mentions \"Dark Time Wizard\" from your Deck to the GY, except \"Foolish Graverobber\", then you can Special Summon 1 monster from either GY to your field.\r\n②：You can banish this card from your GY; Set 1 of these cards to your field.\r\n● Spell/Trap in your GY that mentions \"Dark Time Wizard\", except \"Foolish Graverobber\".\r\n● Spell/Trap in your opponent's GY.",
+    "overallString": "[Trap]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306070.jpg?version=19.7"
+  },
+  {
+    "name": "Reversal Box",
+    "desc": "①：Once per turn, during the Standby Phase: Roll a six-sided die and place counters on this card equal to the result (max. 6).\r\n②：Once per battle, if an opponent's monster attacks, during damage calculation, OR when a monster effect is activated on your opponent's field: You can remove 1 counter from this card, then target 1 of those monsters; toss a coin and call it. If you call it right, you can Special Summon 1 monster that mentions \"Dark Time Wizard\" from your Deck, and if you do, until the end of this turn, change the targeted monster's ATK to 0, also its effects are negated.",
+    "overallString": "[Trap|Continuous]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306071.jpg?version=19.7"
+  },
+  {
+    "name": "Unchained Ogre Shara",
+    "desc": "During the Main Phase (Quick Effect): You can discard this card; Special Summon 1 Fiend monster from your hand, then destroy 1 card you control. If a card(s) on the field is destroyed by card effect, except by the effect of \"Unchained Ogre Shara\", or by battle, while this card is in your GY: You can Special Summon this card (but place it on the bottom of the Deck when it leaves the field) or add it to your hand. You can only use each effect of \"Unchained Ogre Shara\" once per turn.",
+    "overallString": "[Monster|Effect] Fiend/Fire  [★4] 1500/2000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261047.jpg?version=19.7"
+  },
+  {
+    "name": "Unchained Ogre Shma",
+    "desc": "If this card is Normal Summoned: You can Special Summon 1 Level 4 or lower \"Unchained\" monster from your Deck, except \"Unchained Ogre Shma\", then destroy 1 card you control, also you cannot Special Summon for the rest of this turn, except Fiend monsters. If this card on the field is destroyed by card effect, except \"Unchained Ogre Shma\", or by battle: You can Special Summon 1 \"Unchained\" monster from your hand or Deck, except \"Unchained Ogre Shma\". You can only use each effect of \"Unchained Ogre Shma\" once per turn.",
+    "overallString": "[Monster|Effect] Fiend/Water  [★4] 1500/2000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261048.jpg?version=19.7"
+  },
+  {
+    "name": "Unchained Enma Lord Yama",
+    "desc": "2+ monsters, including an \"Unchained Soul\" monster\nDuring your End Phase: You can target up to 2 Fiend monsters in your GY that were destroyed and sent there this turn; Special Summon them, but you cannot Special Summon, except Fiend monsters, while you control either of those face-up monsters. If this card on the field would be destroyed by battle or card effect, you can destroy 1 face-up card on either field instead. You can only use each effect of \"Unchained Enma Lord Yama\" once per turn.",
+    "overallString": "[Monster|Effect|Link] Fiend/Dark  [LINK-4] 3000/-  [↑][↙][↓][↘]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261050.jpg?version=19.7"
+  },
+  {
+    "name": "Unchained Soul Rage Abominator",
+    "desc": "2+ monsters, including a Fiend monster\nIf your opponent Special Summons a monster(s) face-up: You can target 1 of them; destroy 1 Fiend monster you control, and if you do, negate the targeted monster's effects until the end of this turn. When a monster effect is activated on the field and you control a Link-4 or higher \"Unchained\" Link Monster (Quick Effect): You can banish this card from your GY; destroy the monster that activated that effect. You can only use each effect of \"Unchained Soul Rage Abominator\" once per turn.",
+    "overallString": "[Monster|Effect|Link] Fiend/Dark  [LINK-3] 2100/-  [←][→][↓]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261051.jpg?version=19.7"
+  },
+  {
+    "name": "Unchained Syncretism",
+    "desc": "Target 2 face-up monsters on the field, including an \"Unchained Soul\" Link Monster you control; immediately after this effect resolves, Link Summon 1 Fiend monster using only those 2 monsters. If this Set card is destroyed by card effect: You can Special Summon 1 \"Unchained\" monster from your Deck. You can only use each effect of \"Unchained Syncretism\" once per turn.",
+    "overallString": "[Trap]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261053.jpg?version=19.7"
+  },
+  {
     "name": "Witchcrafter Marka",
     "desc": "You can Tribute this card from your hand or field; add 1 \"Witchcrafter\" Field or Continuous Spell from your Deck to your hand. If a face-up \"Witchcrafter\" monster(s) you control leaves the field by an opponent's card effect, while this card is in your GY: You can Special Summon this card (but banish it when it leaves the field), and if you do, Tribute 1 monster your opponent controls. You can only use each effect of \"Witchcrafter Marka\" once per turn.",
     "overallString": "[Monster|Effect] Spellcaster/Dark  [★6] 2500/0",
