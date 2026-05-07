@@ -1,5 +1,83 @@
 [
   {
+    "name": "恶魔根源",
+    "desc": "这个卡名的①②③的效果1回合各能使用1次。\r\n①：这张卡在手卡存在的场合，把这张卡以外的自己手卡·场上1只「恶魔」怪兽解放才能发动。这张卡特殊召唤。\r\n②：这张卡召唤·特殊召唤的场合才能发动。从自己的手卡·卡组·墓地把攻击力2500的1只恶魔族·6星怪兽特殊召唤。\r\n③：自己场上有「恶魔召唤」存在，对方把怪兽的效果发动时才能发动。那个发动无效并破坏。",
+    "overallString": "[Monster|Effect] Fiend/Dark  [★7] 2500/1200",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100264002.jpg?version=19.7"
+  },
+  {
+    "name": "魔降雷",
+    "desc": "这个卡名在规则上也当作「恶魔」卡使用。这个卡名的①②的效果1回合各能使用1次。\r\n①：以自己场上1只「恶魔」怪兽为对象才能发动。那只怪兽的攻击力上升600。那之后，可以把持有比那只怪兽的攻击力低的原本攻击力的对方场上的怪兽全部破坏。\r\n②：自己主要阶段把墓地的这张卡除外，以自己墓地的攻击力2500的1只恶魔族·6星怪兽为对象才能发动。那只怪兽加入手卡。",
+    "overallString": "[Spell|Quick-Play]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100264003.jpg?version=19.7"
+  },
+  {
+    "name": "命运之盘上",
+    "desc": "这个卡名的卡在1回合只能发动1张。这张卡也能把手卡1只通常怪兽给对方观看，在盖放的回合发动。\r\n①：从自己的手卡·墓地把最多5只通常怪兽以攻击表示特殊召唤。这张卡的发动后，直到回合结束时自己不能从额外卡组把怪兽特殊召唤。",
+    "overallString": "[Trap]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100200290.jpg?version=19.7"
+  },
+  {
+    "name": "Swift Panther Warrior",
+    "desc": "You can only use this card name's ① effect once per turn.\r\n①：During the Main Phase (Quick Effect): You can Tribute 1 other monster from your hand or field, then activate 1 of these effects;\r\n● Special Summon 1 monster that mentions \"Dark Time Wizard\" from your hand or Deck, except \"Swift Panther Warrior\".\r\n● Send 1 Spell/Trap that mentions \"Dark Time Wizard\" from your Deck to the GY.\r\n②：Cannot declare attacks unless a monster(s) was Tributed this turn.",
+    "overallString": "[Monster|Effect] Beast-Warrior/Earth  [★4] 2000/1600",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306001.jpg?version=19.7"
+  },
+  {
+    "name": "Alligator's Sword Dragon Knight",
+    "desc": "You can only use this card name's ① and ② effects once per turn each.\r\n①：If this card is in your hand: You can reveal 1 other card in your hand that mentions \"Dark Time Wizard\"; Special Summon this card.\r\n②：If this card is Normal or Special Summoned: You can add up to 2 Spells/Traps with different names from each other that mention \"Dark Time Wizard\" from your Deck to your hand, then discard 1 card.\r\n③：Can attack directly.",
+    "overallString": "[Monster|Effect] Dragon/Wind  [★5] 1700/1500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306002.jpg?version=19.7"
+  },
+  {
+    "name": "Jinzo – Energy Shocker",
+    "desc": "You can only use this card name's ② effect once per turn.\r\n①：This card's name becomes \"Jinzo\" while in the field or GY.\r\n②：If this card is Normal or Special Summoned: You can destroy all Traps your opponent controls (if a card is Set, reveal it), then this card gains 300 ATK for each card destroyed this way.\r\n③：Your opponent cannot activate Trap Cards or effects while you have another monster in your field or GY that mentions \"Dark Time Wizard\".",
+    "overallString": "[Monster|Effect] Machine/Dark  [★7] 2400/1500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306003.jpg?version=19.7"
+  },
+  {
+    "name": "Fisherman, Legend of the Sea",
+    "desc": "You can only use this card name's ① and ② effects once per turn each.\r\n①：If your opponent activates a monster effect on the field, or when their monster declares an attack, and \"Umi\" or a card that mentions \"Dark Time Wizard\" other than \"Fisherman, Legend of the Sea\" is on the field: You can Special Summon this card from your hand.\r\n②：If this card is Special Summoned: You can target 1 monster your opponent controls; destroy it, also return this card on the field to the hand during the End Phase of this turn.",
+    "overallString": "[Monster|Effect] Warrior/Water  [★4] 1850/1600",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306004.jpg?version=19.7"
+  },
+  {
+    "name": "Red-Eyes Black Dragon Exceed",
+    "desc": "\"Red-Eyes Black Dragon\" + 1 monster that mentions \"Dark Time Wizard\"\r\nMust be either Fusion Summoned, or Special Summoned (from your Extra Deck) by Tributing 1 face-up monster on either field during the turn a monster(s) was destroyed by the effect of \"Dark Time Wizard\". You can only Special Summon \"Red-Eyes Black Dragon Exceed\" once per turn this way, no matter which method you use.\r\n①：If this card is Special Summoned: You can Special Summoned 1 Level 8 or lower monster from your hand or GY.\r\n②：Unaffected by your opponent's activated monster and Spell effects.",
+    "overallString": "[Monster|Effect|Fusion] Dragon/Dark  [★9] 3400/3000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306036.jpg?version=19.7"
+  },
+  {
+    "name": "Dark Time Wizard",
+    "desc": "①：Activate 1 of these effects (but you can only use each of these effects of this card's name once per turn);\r\n● Add 1 card that mentions \"Dark Time Wizard\" from your Deck to your hand, except \"Dark Time Wizard\", also add 1 \"Dark Time Wizard\" from your GY to your hand during the End Phase of this turn.\r\n● Toss a coin and call it. If you call it right, destroy as many monsters your opponent controls as possible, and if you do, inflict damage to them equal to half those monsters' total original ATK. If you call it wrong, destroy all monsters you control.",
+    "overallString": "[Spell|Quick-Play]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306052.jpg?version=19.7"
+  },
+  {
+    "name": "Graceful Skull Dice",
+    "desc": "①：Roll a six-sided die twice and apply these effects, in sequence, for the rest of this turn.\r\n● Monsters you control that mention \"Dark Time Wizard\" will gain ATK/DEF equal to the total x 200.\r\n● Monsters your opponent controls will lose ATK/DEF equal to the total x 200.\r\n②：If your opponent Normal or Special Summons a monster(s) while this card is in your GY: You can banish this card, then target 1 of those monsters; roll a six-sided die twice, and if the total is 6 or more, destroy that monster.",
+    "overallString": "[Spell|Quick-Play]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306053.jpg?version=19.7"
+  },
+  {
+    "name": "Sleeping Scapegoats",
+    "desc": "①：Special Summon up to 4 \"Scapedgoat Tokens\" (Beast/EARTH/Level 1/ATK 0/DEF 0) in Defense Position, then if your opponent controls a monster, you can Special Summon 1 \"Swift Panther Warrior\" from your Deck, also for the rest of this turn, these Tokens cannot be Tributed for a Tribute Summon, also you cannot Special Summon from the Extra Deck, except Fusion Monsters. If a card(s) you control that mentions \"Dark Time Wizard\" would be destroyed by battle or card effect, you can destroy 1 of your Tokens Summoned this way instead.",
+    "overallString": "[Spell|Quick-Play]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306054.jpg?version=19.7"
+  },
+  {
+    "name": "Foolish Graverobber",
+    "desc": "You can only use the ① and ② effects of this card's name once per turn.\r\n①：Send 1 card that mentions \"Dark Time Wizard\" from your Deck to the GY, except \"Foolish Graverobber\", then you can Special Summon 1 monster from either GY to your field.\r\n②：You can banish this card from your GY; Set 1 of these cards to your field.\r\n● Spell/Trap in your GY that mentions \"Dark Time Wizard\", except \"Foolish Graverobber\".\r\n● Spell/Trap in your opponent's GY.",
+    "overallString": "[Trap]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306070.jpg?version=19.7"
+  },
+  {
+    "name": "Reversal Box",
+    "desc": "①：Once per turn, during the Standby Phase: Roll a six-sided die and place counters on this card equal to the result (max. 6).\r\n②：Once per battle, if an opponent's monster attacks, during damage calculation, OR when a monster effect is activated on your opponent's field: You can remove 1 counter from this card, then target 1 of those monsters; toss a coin and call it. If you call it right, you can Special Summon 1 monster that mentions \"Dark Time Wizard\" from your Deck, and if you do, until the end of this turn, change the targeted monster's ATK to 0, also its effects are negated.",
+    "overallString": "[Trap|Continuous]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306071.jpg?version=19.7"
+  },
+  {
     "name": "Unchained Ogre Shara",
     "desc": "During the Main Phase (Quick Effect): You can discard this card; Special Summon 1 Fiend monster from your hand, then destroy 1 card you control. If a card(s) on the field is destroyed by card effect, except by the effect of \"Unchained Ogre Shara\", or by battle, while this card is in your GY: You can Special Summon this card (but place it on the bottom of the Deck when it leaves the field) or add it to your hand. You can only use each effect of \"Unchained Ogre Shara\" once per turn.",
     "overallString": "[Monster|Effect] Fiend/Fire  [★4] 1500/2000",
