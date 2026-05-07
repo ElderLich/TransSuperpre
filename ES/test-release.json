@@ -1,19 +1,49 @@
 [
   {
-    "name": "Artibruja Marka",
-    "desc": "Puedes Sacrificar esta carta en tu mano o Campo; añade a tu mano 1 Mágica de Campo o Continua \"Artibruja\" desde tu Deck. \r\nSi uno o más monstruos \"Artibruja\" boca arriba que controles dejan el Campo por el efecto de una carta del adversario mientras esta carta está en tu Cementerio: puedes Invocar esta carta de Modo Especial (pero destiérrala cuando deje el Campo) y, si lo haces, Sacrifica 1 monstruo del adversario. \r\nSólo puedes usar cada uno de los efectos de \"Artibruja Marka\" una vez por turno.",
+    "name": "Ogra Desencadenada de Shara",
+    "desc": "(Efecto Rápido): Durante la Main Phase: puedes descartar esta carta; Invoca de Modo Especial 1 monstruo Demonio desde tu mano, y después destruye 1 carta que controles. \r\nSi una carta en el Campo es destruida en batalla, o por un efecto de una carta \"Desencadenado/a\" que no sea \"Ogra Desencadenada de Shara\", mientras esta carta está en el Cementerio: puedes añadir esta carta a tu mano, o Invocarla de Modo Especial (pero si la Invocas de Modo Especial, colócala en el fondo del Deck cuando deje el Campo). \r\nSólo puedes usar cada uno de los efectos de \"Ogra Desencadenada de Shara\" una vez por turno.",
+    "overallString": "[Monstruo|Efecto] Demonio/FUEGO  [★4] 1500/2000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261047.jpg?version=19.7"
+  },
+  {
+    "name": "Ogro Desencadenado de Shma",
+    "desc": "Si esta carta es Invocada de Modo Normal: puedes Invocar de Modo Especial 1 monstruo \"Desencadenado/a\" de Nivel 4 o menor desde tu Deck (excepto \"Ogro Desencadenado de Shma\"), y después destruye 1 carta que controles, y además por el resto de este turno, no puedes Invocar de Modo Especial, excepto monstruos Demonio. \r\nSi esta carta en el Campo es destruida en batalla, o por un efecto de una carta \"Desencadenado/a\" que no sea \"Ogro Desencadenado de Shma\": puedes Invocar de Modo Especial 1 monstruo \"Desencadenado/a\" desde tu mano o Deck, excepto \"Ogro Desencadenado de Shma\". \r\nSólo puedes usar cada uno de los efectos de \"Ogro Desencadenado de Shma\" una vez por turno.",
+    "overallString": "[Monstruo|Efecto] Demonio/AGUA  [★4] 1500/2000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261048.jpg?version=19.7"
+  },
+  {
+    "name": "Enma Desencadenado Señor de Yama",
+    "desc": "2+ monstruos incluyendo un monstruo \"Alma Desencadenada\"\t\r\nDurante tu End Phase: puedes seleccionar hasta 2 monstruos Demonio en tu Cementerio que fueron destruidos este turno; Invócalos de Modo Especial, pero mientras están boca arriba en la Zona de Monstruos, no puedes Invocar de Modo Especial, excepto monstruos Demonio. \r\nSi esta carta en el Campo fuera a ser destruida en batalla o por efecto de carta, puedes destruir 1 carta boca arriba en cualquier Campo en su lugar. \r\nSólo puedes usar cada uno de los efectos de \"Enma Desencadenado Señor de Yama\" una vez por turno.",
+    "overallString": "[Monstruo|Efecto|Enlace] Demonio/OSCURIDAD  [LINK-4] 3000/-  [↑][↙][↓][↘]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261050.jpg?version=19.7"
+  },
+  {
+    "name": "Alma Desencadenada de Rabia Abominadora",
+    "desc": "2+ monstruos incluyendo un monstruo Demonio\t\r\nSi tu adversario Invoca de Modo Especial un monstruo boca arriba: puedes seleccionar 1 de ellos; destruye 1 monstruo Demonio que controles y, si lo haces, niega sus efectos hasta el final de este turno. \r\n(Efecto Rápido): Cuando se activa un efecto de monstruo en el Campo mientras controlas un monstruo \"Desencadenado/a\" de Link-4 o mayor: puedes desterrar esta carta en tu Cementerio; destruye ese monstruo. \r\nSólo puedes usar cada uno de los efectos de \"Alma Desencadenada de Rabia Abominadora\" una vez por turno.",
+    "overallString": "[Monstruo|Efecto|Enlace] Demonio/OSCURIDAD  [LINK-3] 2100/-  [←][→][↓]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261051.jpg?version=19.7"
+  },
+  {
+    "name": "Sincretismo Desencadenado",
+    "desc": "Selecciona 2 monstruos boca arriba en cualquier Campo, incluyendo 1 Monstruo de Enlace \"Desencadenado/a\" que controles; inmediatamente después de que este efecto se resuelva, Invoca por Enlace 1 Monstruo de Enlace \"Desencadenado/a\", usando sólo esos 2 monstruos como material. \r\nSi esta carta Colocada en el Campo es destruida: puedes Invocar de Modo Especial 1 monstruo \"Desencadenado/a\" desde tu Deck. \r\nSólo puedes usar cada uno de los efectos de \"Sincretismo Desencadenado\" una vez por turno.",
+    "overallString": "[Trampa]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261053.jpg?version=19.7"
+  },
+  {
+    "name": "Marka Artibruja",
+    "desc": "Puedes Sacrificar esta carta en tu mano o Campo; añade a tu mano 1 Mágica de Campo o Continua \"Artibruja\" desde tu Deck. \r\nSi uno o más monstruos \"Artibruja\" boca arriba que controles dejan el Campo por el efecto de una carta del adversario mientras esta carta está en tu Cementerio: puedes Invocar esta carta de Modo Especial (pero destiérrala cuando deje el Campo) y, si lo haces, Sacrifica 1 monstruo del adversario. \r\nSólo puedes usar cada uno de los efectos de \"Marka Artibruja\" una vez por turno.",
     "overallString": "[Monstruo|Efecto] Lanzador de Conjuros/OSCURIDAD  [★6] 2500/0",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261024.jpg?version=19.7"
   },
   {
-    "name": "Aprendices Artibruja",
-    "desc": "1 monstruo \"Artibruja\" + 1 monstruo Lanzador de Conjuros\t\r\n(Efecto Rápido): Durante la Main Phase o Battle Phase: puedes activar 1 de estos efectos;\r\n● Añade a tu mano 1 Mágica \"Artibruja\" desde tu Deck.\r\n● Revela 1 Mágica Normal o de Juego Rápido \"Artibruja\" en tu mano; aplica el efecto de activación de esa Mágica.\t\r\nDurante tu End Phase: puedes devolver al Cementerio 1 de tus cartas \"Artibruja\" desterradas. \r\nSólo puedes usar cada uno de los efectos de \"Aprendices Artibruja\" una vez por turno.",
+    "name": "Artibruja Aprendices",
+    "desc": "1 monstruo \"Artibruja\" + 1 monstruo Lanzador de Conjuros\t\r\n(Efecto Rápido): Durante la Main Phase o Battle Phase: puedes activar 1 de estos efectos;\r\n● Añade a tu mano 1 Mágica \"Artibruja\" desde tu Deck.\r\n● Revela 1 Mágica Normal o de Juego Rápido \"Artibruja\" en tu mano; aplica el efecto de activación de esa Mágica.\t\r\nDurante tu End Phase: puedes devolver al Cementerio 1 de tus cartas \"Artibruja\" desterradas. \r\nSólo puedes usar cada uno de los efectos de \"Artibruja Aprendices\" una vez por turno.",
     "overallString": "[Monstruo|Efecto|Fusión] Lanzador de Conjuros/FUEGO  [★8] 1800/2100",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261026.jpg?version=19.7"
   },
   {
-    "name": "Vicio Gamer VG",
-    "desc": "2 monstruos Máquina de Nivel 4\t\r\nSi esta carta es Invocada de Modo Especial: puedes cambiar todos los monstruos que controle tu adversario a Posición de Ataque. \r\nSi tu adversario tiene un monstruo en su Campo o Cementerio: puedes desacoplar 1 material de esta carta; manda al Cementerio 1 monstruo Máquina desde tu Deck o Deck Extra, y después puedes aplicar este efecto:\r\n● Elige 1 Monstruo Xyz Máquina en tu Cementerio, y el nombre de esta carta se convierte en el de ese monstruo hasta la End Phase.\t\r\nSólo puedes usar este efecto de \"Vicio Gamer VG\" una vez por turno.",
+    "name": "Jugador Vicioso GG",
+    "desc": "2 monstruos Máquina de Nivel 4\t\r\nSi esta carta es Invocada de Modo Especial: puedes cambiar todos los monstruos que controle tu adversario a Posición de Ataque. \r\nSi tu adversario tiene un monstruo en su Campo o Cementerio: puedes desacoplar 1 material de esta carta; manda al Cementerio 1 monstruo Máquina desde tu Deck o Deck Extra, y después puedes aplicar este efecto:\r\n● Elige 1 Monstruo Xyz Máquina en tu Cementerio, y el nombre de esta carta se convierte en el de ese monstruo hasta la End Phase.\t\r\nSólo puedes usar este efecto de \"Jugador Vicioso GG\" una vez por turno.",
     "overallString": "[Monstruo|Efecto|Xyz] Máquina/TIERRA  [☆4] 2600/2000",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101304081.jpg?version=19.7"
   },
@@ -270,8 +300,8 @@
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305024.jpg?version=19.7"
   },
   {
-    "name": "Artibruja Terracottan",
-    "desc": "Si esta carta está en la mano: puedes seleccionar 1 carta \"Artibruja\" en tu Cementerio, excepto \"Artibruja Terracottan\"; añádela a tu mano y, si lo haces, Invoca esta carta de Modo Especial, pero no puedes Invocar de Modo Especial desde el Deck Extra por el resto de este turno, excepto monstruos \"Artibruja\". \r\nDurante tu Main Phase: puedes Invocar por Fusión 1 Monstruo de Fusión \"Artibruja\", usando monstruos de tu mano y/o Campo como material. \r\nSólo puedes usar cada uno de los efectos de \"Artibruja Terracottan\" una vez por turno.\r\n",
+    "name": "Terracottan Artibruja",
+    "desc": "Si esta carta está en la mano: puedes seleccionar 1 carta \"Artibruja\" en tu Cementerio, excepto \"Terracottan Artibruja\"; añádela a tu mano y, si lo haces, Invoca esta carta de Modo Especial, pero no puedes Invocar de Modo Especial desde el Deck Extra por el resto de este turno, excepto monstruos \"Artibruja\". \r\nDurante tu Main Phase: puedes Invocar por Fusión 1 Monstruo de Fusión \"Artibruja\", usando monstruos de tu mano y/o Campo como material. \r\nSólo puedes usar cada uno de los efectos de \"Terracottan Artibruja\" una vez por turno.\r\n",
     "overallString": "[Monstruo|Efecto] Lanzador de Conjuros/TIERRA  [★2] 0/2000",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261023.jpg?version=19.7"
   },
