@@ -1,31 +1,109 @@
 [
   {
-    "name": "破械式鬼 萨拉",
-    "desc": "这个卡名的①②的效果1回合各能使用1次。\r\n①：自己·对方的主要阶段，把这张卡从手卡丢弃才能发动。从手卡把1只恶魔族怪兽特殊召唤。那之后，自己场上1张卡破坏。\r\n②：这张卡在墓地存在的状态，场上的卡被战斗或者「破械式鬼 萨拉」以外的卡的效果破坏的场合才能发动。这张卡加入手卡或特殊召唤。这个效果特殊召唤的这张卡从场上离开的场合回到卡组最下面。",
+    "name": "Origine dell'Arcidemone",
+    "desc": "Se questa carta è nella tua mano: puoi offrire come Tributo 1 altro mostro \"Arcidemone\" dalla tua mano o Terreno; Evoca Specialmente questa carta.\r\nSe questa carta viene Evocata Normalmente o Specialmente: puoi Evocare Specialmente 1 mostro Demone di Livello 6 con 2500 ATK dalla tua mano, Deck o Cimitero.\r\nQuando il tuo avversario attiva l'effetto di un mostro e controlli \"Teschio Evocato\" (Effetto Rapido): puoi annullare l'attivazione e, se lo fai, distruggere quella carta.\r\nPuoi utilizzare ciascun effetto di \"Origine dell'Arcidemone\" una sola volta per turno.",
+    "overallString": "[Mostro|Effetto] Demone/Oscurità  [★7] 2500/1200",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100264002.jpg?version=19.7"
+  },
+  {
+    "name": "Makourai il Fulmine Devastante",
+    "desc": "(Questa carta è sempre considerata come una carta \"Arcidemone\".)\r\nScegli come bersaglio 1 mostro \"Arcidemone\" che controlli; esso guadagna 600 ATK, poi puoi distruggere tutti i mostri che il tuo avversario controlla con ATK originale inferiore all'ATK di quel mostro.\r\nDurante la tua Main Phase: puoi bandire questa carta dal tuo Cimitero, poi scegliere come bersaglio 1 mostro Demone di Livello 6 con 2500 ATK nel tuo Cimitero; aggiungilo alla tua mano.\r\nPuoi utilizzare ciascun effetto di \"Makourai il Fulmine Devastante\" una sola volta per turno.",
+    "overallString": "[Magia|Rapida]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100264003.jpg?version=19.7"
+  },
+  {
+    "name": "Palcoscenico del Destino",
+    "desc": "Puoi attivare questa carta nel turno in cui è stata Posizionata, rivelando 1 Mostro Normale nella tua mano.\r\nEvoca Specialmente fino a 5 Mostri Normali dalla tua mano e/o Cimitero in Posizione di Attacco, inoltre dopo che questa carta si è risolta, per il resto di questo turno non puoi Evocare Specialmente dall'Extra Deck.\r\nPuoi attivare solo 1 \"Palcoscenico del Destino\" per turno.",
+    "overallString": "[Trappola]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100200290.jpg?version=19.7"
+  },
+  {
+    "name": "Guerriero Pantera Rapido",
+    "desc": "Durante la Main Phase (Effetto Rapido): puoi offrire come Tributo 1 altro mostro dalla tua mano o Terreno, poi attiva 1 di questi effetti;\r\n● Evoca Specialmente 1 mostro che menziona \"Stregone del Tempo Oscuro\" dalla tua mano o Deck, eccetto \"Guerriero Pantera Rapido\".\r\n● Manda 1 Magia/Trappola che menziona \"Stregone del Tempo Oscuro\" dal tuo Deck al Cimitero.\r\nPuoi utilizzare questo effetto di \"Guerriero Pantera Rapido\" una sola volta per turno.\r\nNon può dichiarare un attacco a meno che uno o più mostri siano stati offerti come Tributo in questo turno.",
+    "overallString": "[Mostro|Effetto] Guerriero-Bestia/Terra  [★4] 2000/1600",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306001.jpg?version=19.7"
+  },
+  {
+    "name": "Cavaliere Drago Spada dell'Alligatore",
+    "desc": "Può attaccare direttamente.\r\nPuoi utilizzare ciascuno dei seguenti effetti di \"Cavaliere Drago Spada dell'Alligatore\" una sola volta per turno.\r\nSe questa carta è nella tua mano: puoi rivelare 1 altra carta nella tua mano che menziona \"Stregone del Tempo Oscuro\"; Evoca Specialmente questa carta.\r\nSe questa carta viene Evocata Normalmente o Specialmente: puoi aggiungere fino a 2 Magie/Trappole con nomi diversi tra loro che menzionano \"Stregone del Tempo Oscuro\" dal tuo Deck alla tua mano, poi scarta 1 carta.",
+    "overallString": "[Mostro|Effetto] Drago/Vento  [★5] 1700/1500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306002.jpg?version=19.7"
+  },
+  {
+    "name": "Jinzo - Shocker Energetico",
+    "desc": "Il nome di questa carta diventa \"Jinzo\" mentre è sul Terreno o nel Cimitero.\r\nSe questa carta viene Evocata Normalmente o Specialmente: puoi distruggere quante più Trappole possibile che il tuo avversario controlla (se una carta è Posizionata, scoprila), poi questa carta guadagna 300 ATK per ogni carta distrutta in questo modo. Puoi utilizzare questo effetto di \"Jinzo - Shocker Energetico\" una sola volta per turno.\r\nIl tuo avversario non può attivare Carte Trappola o i loro effetti mentre hai un altro mostro nel tuo Terreno o Cimitero che menziona \"Stregone del Tempo Oscuro\".",
+    "overallString": "[Mostro|Effetto] Macchina/Oscurità  [★7] 2400/1500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306003.jpg?version=19.7"
+  },
+  {
+    "name": "Pescatore Leggenda dei Mari",
+    "desc": "Se il tuo avversario attiva l'effetto di un mostro sul Terreno, oppure quando il suo mostro dichiara un attacco, e \"Umi\" o una carta che menziona \"Stregone del Tempo Oscuro\" diversa da \"Pescatore Leggenda dei Mari\" è sul Terreno: puoi Evocare Specialmente questa carta dalla tua mano.\r\nSe questa carta viene Evocata Specialmente: puoi scegliere come bersaglio 1 mostro che il tuo avversario controlla; distruggilo, inoltre fai ritornare questa carta dal Terreno alla mano durante la End Phase di questo turno.\r\nPuoi utilizzare ciascun effetto di \"Pescatore Leggenda dei Mari\" una sola volta per turno.",
+    "overallString": "[Mostro|Effetto] Guerriero/Acqua  [★4] 1850/1600",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306004.jpg?version=19.7"
+  },
+  {
+    "name": "Drago Nero Occhi Rossi Exceed",
+    "desc": "\"Drago Nero Occhi Rossi\" + 1 mostro che menziona \"Stregone del Tempo Oscuro\"\r\nDeve essere Evocato tramite Fusione, oppure Evocato Specialmente (dal tuo Extra Deck) offrendo come Tributo 1 mostro scoperto in uno qualsiasi dei Terreni durante il turno in cui uno o più mostri sono stati distrutti dall'effetto di \"Stregone del Tempo Oscuro\". Puoi Evocare Specialmente \"Drago Nero Occhi Rossi Exceed\" una sola volta per turno in questo modo, indipendentemente da quale metodo usi.\r\nSe questa carta viene Evocata Specialmente: puoi Evocare Specialmente 1 mostro di Livello 8 o inferiore dalla tua mano o Cimitero. Immune agli effetti attivati di mostri e Magie del tuo avversario.",
+    "overallString": "[Mostro|Effetto|Fusione] Drago/Oscurità  [★9] 3400/3000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306036.jpg?version=19.7"
+  },
+  {
+    "name": "Stregone del Tempo Oscuro",
+    "desc": "Attiva 1 di questi effetti (ma puoi utilizzare ciascun effetto di \"Stregone del Tempo Oscuro\" una sola volta per turno);\n● Aggiungi 1 carta che menziona \"Stregone del Tempo Oscuro\" dal tuo Deck alla tua mano, eccetto \"Stregone del Tempo Oscuro\", inoltre aggiungi 1 \"Stregone del Tempo Oscuro\" dal tuo Cimitero alla tua mano durante la End Phase di questo turno.\n● Lancia una moneta e dichiara testa o croce. Se indovini, distruggi quanti più mostri possibile che il tuo avversario controlla, e se lo fai, infliggi danno al tuo avversario pari alla metà dell'ATK originale totale di quei mostri. Se sbagli, distruggi tutti i mostri che controlli.",
+    "overallString": "[Magia|Rapida]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306052.jpg?version=19.7"
+  },
+  {
+    "name": "Dadi del Teschio Graziosi",
+    "desc": "Tira due volte un dado a 6 facce e applica questi effetti per il resto di questo turno.\r\n● I mostri che controlli che menzionano \"Stregone del Tempo Oscuro\" guadagnano ATK/DEF pari al totale × 200.\r\n● I mostri che controlla il tuo avversario perdono ATK/DEF pari al totale × 200.\r\nSe il tuo avversario Evoca Normalmente o Specialmente uno o più mostri mentre questa carta è nel tuo Cimitero: puoi bandire questa carta, poi scegliere come bersaglio 1 di quei mostri; tira due volte un dado a 6 facce e, se il totale è 6 o più, distruggi quel mostro.",
+    "overallString": "[Magia|Rapida]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306053.jpg?version=19.7"
+  },
+  {
+    "name": "Capro Espiatorio Dormiente",
+    "desc": "Evoca Specialmente fino a 4 \"Segna-Capro Espiatorio\" (Bestia/TERRA/Livello 1/ATK 0/DEF 0) in Posizione di Difesa, poi se il tuo avversario controlla un mostro, puoi Evocare Specialmente 1 \"Guerriero Pantera Rapido\" dal tuo Deck, inoltre per il resto di questo turno questi Segnalini non possono essere offerti come Tributo per una Evocazione tramite Tributo, inoltre non puoi Evocare Specialmente dall'Extra Deck, eccetto Mostri Fusione.\r\nSe una o più carte che controlli che menzionano \"Stregone del Tempo Oscuro\" starebbero per essere distrutte in battaglia o dall'effetto di una carta, puoi invece distruggere 1 Segnalino che controlli che è stato Evocato Specialmente da questo effetto.",
+    "overallString": "[Magia|Rapida]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306054.jpg?version=19.7"
+  },
+  {
+    "name": "Predatore delle Tombe Sciocco",
+    "desc": "Manda 1 carta che menziona \"Stregone del Tempo Oscuro\" dal tuo Deck al Cimitero, eccetto \"Predatore delle Tombe Sciocco\", poi puoi Evocare Specialmente 1 mostro da uno qualsiasi dei Cimiteri sul tuo Terreno.\r\nPuoi bandire questa carta dal tuo Cimitero; Posiziona sul tuo Terreno 1 Magia/Trappola che menziona \"Stregone del Tempo Oscuro\" dal tuo Cimitero, eccetto \"Predatore delle Tombe Sciocco\", oppure 1 Magia/Trappola dal Cimitero del tuo avversario.\r\nPuoi utilizzare ciascun effetto di \"Predatore delle Tombe Sciocco\" una sola volta per turno.",
+    "overallString": "[Trappola]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306070.jpg?version=19.7"
+  },
+  {
+    "name": "Scatola dell'Inversione",
+    "desc": "Una volta per turno, durante la Standby Phase: tira un dado a 6 facce e metti su questa carta un numero di Segnalini pari al risultato (massimo 6).\r\nQuando viene attivato l'effetto di un mostro sul Terreno del tuo avversario, oppure una volta per battaglia, durante il calcolo dei danni, se un mostro dell'avversario attacca: puoi rimuovere 1 Segnalino da questa carta, poi scegliere come bersaglio 1 di quei mostri; lancia una moneta e dichiara testa o croce. Se indovini, puoi Evocare Specialmente 1 mostro che menziona \"Stregone del Tempo Oscuro\" dal tuo Deck, e se lo fai, fino alla fine di questo turno, l'ATK del mostro scelto come bersaglio diventa 0, inoltre i suoi effetti sono annullati.",
+    "overallString": "[Trappola|Continua]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306071.jpg?version=19.7"
+  },
+  {
+    "name": "Orco Svincolato Shara",
+    "desc": "Durante la Main Phase (Effetto Rapido): puoi scartare questa carta; Evoca Specialmente 1 mostro Demone dalla tua mano, poi distruggi 1 carta che controlli.\r\nSe una o più carte sul Terreno vengono distrutte dall'effetto di una carta, eccetto dall'effetto di \"Orco Svincolato Shara\", o in battaglia, mentre questa carta è nel tuo Cimitero: puoi Evocare Specialmente questa carta (ma mettila in fondo al Deck quando lascia il Terreno) oppure aggiungerla alla tua mano.\r\nPuoi utilizzare ciascun effetto di \"Orco Svincolato Shara\" una sola volta per turno.",
     "overallString": "[Mostro|Effetto] Demone/Fuoco  [★4] 1500/2000",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261047.jpg?version=19.7"
   },
   {
-    "name": "破械式鬼 娑玛",
-    "desc": "这个卡名的①②的效果1回合各能使用1次。\r\n①：这张卡召唤的场合才能发动。从卡组把除「破械式鬼 娑玛」外的，4星以下的1只「破械」怪兽特殊召唤。那之后，自己场上1张卡破坏。这个回合，自己不是恶魔族怪兽不能特殊召唤。\r\n②：场上的这张卡被战斗或者「破械式鬼 娑玛」以外的卡的效果破坏的场合才能发动。从手卡·卡组把「破械式鬼 娑玛」以外的1只「破械」怪兽特殊召唤。",
+    "name": "Orco Svincolato Shma",
+    "desc": "Se questa carta viene Evocata Normalmente: puoi Evocare Specialmente 1 mostro \"Svincolato\" di Livello 4 o inferiore dal tuo Deck, eccetto \"Orco Svincolato Shma\", poi distruggi 1 carta che controlli, inoltre per il resto di questo turno non puoi Evocare Specialmente, eccetto mostri Demone.\r\nSe questa carta sul Terreno viene distrutta dall'effetto di una carta, eccetto \"Orco Svincolato Shma\", o in battaglia: puoi Evocare Specialmente 1 mostro \"Svincolato\" dalla tua mano o Deck, eccetto \"Orco Svincolato Shma\".\r\nPuoi utilizzare ciascun effetto di \"Orco Svincolato Shma\" una sola volta per turno.",
     "overallString": "[Mostro|Effetto] Demone/Acqua  [★4] 1500/2000",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261048.jpg?version=19.7"
   },
   {
-    "name": "破械焰魔天 阎摩",
-    "desc": "包含「破械神」怪兽的怪兽2只以上\r\n这个卡名的①②的效果1回合各能使用1次。\r\n①：自己结束阶段，以这个回合被破坏的自己墓地最多2只恶魔族怪兽为对象才能发动。那些怪兽特殊召唤。只要这个效果特殊召唤的怪兽在自己场上以表侧表示存在，自己不是恶魔族怪兽不能特殊召唤。\r\n②：场上的这张卡被战斗·效果破坏的场合，可以作为代替把自己或对方场上1张表侧表示卡破坏。",
+    "name": "Signore Enma Yama Svincolato",
+    "desc": "2+ mostri, compreso un mostro \"Anima Svincolata\"\r\nDurante la tua End Phase: puoi scegliere come bersaglio fino a 2 mostri Demone nel tuo Cimitero che sono stati distrutti e mandati lì in questo turno; Evocali Specialmente, ma non puoi Evocare Specialmente, eccetto mostri Demone, mentre controlli uno qualsiasi di quei mostri scoperti.\r\nSe questa carta sul Terreno starebbe per essere distrutta in battaglia o dall'effetto di una carta, puoi invece distruggere 1 carta scoperta in uno qualsiasi dei Terreni.\r\nPuoi utilizzare ciascun effetto di \"Signore Enma Yama Svincolato\" una sola volta per turno.",
     "overallString": "[Mostro|Effetto|Link] Demone/Oscurità  [LINK-4] 3000/-  [↑][↙][↓][↘]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261050.jpg?version=19.7"
   },
   {
-    "name": "破械神双 罗寂刹",
-    "desc": "包含恶魔族怪兽的怪兽2只以上\r\n这个卡名的①②的效果1回合各能使用1次。\r\n①：对方把怪兽以表侧表示特殊召唤的场合，以那之内的1只为对象才能发动。自己场上1只恶魔族怪兽破坏，作为对象的怪兽的效果直到回合结束时无效。\r\n②：自己场上有连接4以上的「破械」怪兽存在，场上的怪兽的效果发动时，把墓地的这张卡除外才能发动。发动那个效果的怪兽破坏。",
+    "name": "Anima Svincolata Abominatore dell'Ira",
+    "desc": "2+ mostri, compreso un mostro Demone\r\nSe il tuo avversario Evoca Specialmente uno o più mostri scoperti: puoi scegliere come bersaglio 1 di essi; distruggi 1 mostro Demone che controlli, e se lo fai, annulla gli effetti del mostro scelto come bersaglio fino alla fine di questo turno.\r\nQuando viene attivato l'effetto di un mostro sul Terreno e controlli un Mostro Link \"Svincolato\" Link-4 o superiore (Effetto Rapido): puoi bandire questa carta dal tuo Cimitero; distruggi il mostro che ha attivato quell'effetto.\r\nPuoi utilizzare ciascun effetto di \"Anima Svincolata Abominatore dell'Ira\" una sola volta per turno.",
     "overallString": "[Mostro|Effetto|Link] Demone/Oscurità  [LINK-3] 2100/-  [←][→][↓]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261051.jpg?version=19.7"
   },
   {
-    "name": "破械习合",
-    "desc": "这个卡名的①②的效果1回合各能使用1次。\r\n①：以包含自己场上的「破械神」连接怪兽的，自己·对方场上的2只表侧表示怪兽为对象才能发动。只用那2只怪兽为素材进行1只恶魔族连接怪兽的连接召唤。\r\n②：盖放的这张卡被效果破坏的场合才能发动。从卡组把1只「破械」怪兽特殊召唤。",
+    "name": "Sincretismo Svincolato",
+    "desc": "Scegli come bersaglio 2 mostri scoperti sul Terreno, compreso un Mostro Link \"Anima Svincolata\" che controlli; immediatamente dopo che questo effetto si è risolto, Evoca tramite Link 1 mostro Demone utilizzando solo quei 2 mostri.\r\nSe questa carta Posizionata viene distrutta dall'effetto di una carta: puoi Evocare Specialmente 1 mostro \"Svincolato\" dal tuo Deck.\r\nPuoi utilizzare ciascun effetto di \"Sincretismo Svincolato\" una sola volta per turno.",
     "overallString": "[Trappola]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261053.jpg?version=19.7"
   },
