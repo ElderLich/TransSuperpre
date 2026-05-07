@@ -1,7 +1,7 @@
 id,name,desc,str1,str2,str3,str4,str5,str6,str7,str8,str9,str10,str11,str12,str13,str14,str15,str16
 100200289,Ilios the Black Sun Dragon,"You can reveal 3 Dragon monsters in your Extra Deck with 3000 or more ATK and different names; Special Summon this card from your hand. If this card is sent to the GY: You can target 1 Dragon Fusion, Synchro, Xyz, or Link Monster you control; your opponent cannot target it with card effects this turn. Neither player can activate cards or effects in response to this effect's activation. You can only use each effect of ""Ilios the Black Sun Dragon"" once per turn.",Special Summon,Grant protection,The effect of {CARD} is currently being applied.,,,,,,,,,,,,,
-100200290,命运之盘上,"这个卡名的卡在1回合只能发动1张。这张卡也能把手卡1只通常怪兽给对方观看，在盖放的回合发动。
-①：从自己的手卡·墓地把最多5只通常怪兽以攻击表示特殊召唤。这张卡的发动后，直到回合结束时自己不能从额外卡组把怪兽特殊召唤。",Activate,Activate by applying the effect of {CARD}.,,,,,,,,,,,,,,
+100200290,Stage of Destiny,"You can only activate 1 card with this card’s name per turn. You can activate this card the turn it was Set by revealing 1 Normal Monster in your hand.
+(1) Special Summon up to 5 Normal Monsters from your hand and/or GY in Attack Position. You cannot Special Summon from the Extra Deck for the rest of this turn after this card resolves.",Activate,Activate by applying the effect of {CARD}.,,,,,,,,,,,,,,
 100260001,Clown Crew Hat,"Pendulum Scale = 7
 [ Pendulum Effect ]
 During your Main Phase: You can send 1 ""Clown Crew"" card from your Deck to your GY, except a Pendulum Monster, and if you do, Special Summon this card, also you cannot activate the effects of monsters Special Summoned from the Deck or Extra Deck until the end of the next turn. You can only use this effect of ""Clown Crew Hat"" once per turn.
@@ -62,13 +62,14 @@ If this card is Special Summoned: You can Special Summon 1 ""Elemental HERO"" mo
 100263008,Doll Hammer,"Target 1 monster you control; destroy it, and if you do, draw 2 cards, then you can change the battle position of 1 monster your opponent controls. If a monster(s) is Special Summoned from your GY while this card is in your GY: You can add this card to your hand. You can only use each effect of ""Doll Hammer"" once per turn.",Activate,Recycle,Change battle position?,,,,,,,,,,,,,
 100263009,Quick Summon,"Immediately after this effect resolves, Normal Summon/Set 1 monster. When you do, if your opponent controls a monster, you can Normal Summon a Level 5 or higher monster without Tributing. During your Main Phase, if this card is in your GY, except the turn it was sent there: You can banish it; add 1 Level 5 or higher monster that can be Normal Summoned/Set from your Deck or GY to your hand, then immediately after this effect resolves, Tribute Summon it. You can only use this effect of ""Quick Summon"" once per turn.",Activate,Add to hand,Apply the effect of {CARD} to Summon without Tributing?,,,,,,,,,,,,,
 100263010,D - Burst,"Target 1 face-up Spell you control; destroy it, and if you do, draw 1 card, then if you control a ""Destiny HERO"" monster, you can Special Summon 1 ""Destiny HERO"" monster from your hand, GY, or banishment. At the end of the Damage Step, if a monster equipped with an Equip Card, or ""Destiny HERO - Dogma"", attacked: You can banish this card from your GY; that monster can make a second attack in a row. You can only activate 1 ""D - Burst"" per turn.",Draw,Make another attack,Special Summon?,,,,,,,,,,,,,
-100264002,恶魔根源,"这个卡名的①②③的效果1回合各能使用1次。
-①：这张卡在手卡存在的场合，把这张卡以外的自己手卡·场上1只「恶魔」怪兽解放才能发动。这张卡特殊召唤。
-②：这张卡召唤·特殊召唤的场合才能发动。从自己的手卡·卡组·墓地把攻击力2500的1只恶魔族·6星怪兽特殊召唤。
-③：自己场上有「恶魔召唤」存在，对方把怪兽的效果发动时才能发动。那个发动无效并破坏。",Special Summon this card,Special Summon,Negate and destroy,,,,,,,,,,,,,
-100264003,魔降雷,"这个卡名在规则上也当作「恶魔」卡使用。这个卡名的①②的效果1回合各能使用1次。
-①：以自己场上1只「恶魔」怪兽为对象才能发动。那只怪兽的攻击力上升600。那之后，可以把持有比那只怪兽的攻击力低的原本攻击力的对方场上的怪兽全部破坏。
-②：自己主要阶段把墓地的这张卡除外，以自己墓地的攻击力2500的1只恶魔族·6星怪兽为对象才能发动。那只怪兽加入手卡。",Activate,Recycle,Destroy that monster?,,,,,,,,,,,,,
+100264002,Archfiend's Origin,"You can only use this card name’s (1), (2), and (3) effects once per turn each.
+(1) If this card is in your hand: You can Tribute 1 other “Archfiend” monster from your hand or field; Special Summon this card.
+(2) If this card is Normal or Special Summoned: You can Special Summon 1 Level 6 Fiend monster with 2500 ATK from your hand, Deck, or GY.
+(3) When your opponent activates a monster effect and you control “Summoned Skull” (Quick Effect): You can negate the activation, and if you do, destroy that card.",Special Summon this card,Special Summon,Negate and destroy,,,,,,,,,,,,,
+100264003,"Makourai, the Lightning Strike","(This card is always treated as an “Archfiend” card.)
+You can only use this card name’s (1) and (2) effects once per turn each.
+(1) Target 1 “Archfiend” monster you control; it gains 600 ATK, then you can destroy all monsters your opponent controls with lower original ATK than that monster’s ATK.
+(2) During your Main Phase: You can banish this card from your GY, then target 1 Level 6 Fiend monster with 2500 ATK in your GY; add it to your hand.",Activate,Recycle,Destroy that monster?,,,,,,,,,,,,,
 101304081,Gaming Gamer GG,"2 Level 4 Machine monsters
 If this card is Special Summoned: You can change all monsters your opponent controls to Attack Position. If your opponent has a monster in their field or GY: You can detach 1 material from this card; send 1 Machine monster from your Deck/Extra Deck to the GY, then you can apply this effect.
 ● Choose 1 Machine Xyz Monster in your GY, and this card's name becomes that monster's name until the End Phase.
@@ -226,45 +227,45 @@ You can only activate 1 ""Power Patron Shadows of the End Times"" per turn.",Act
 101305080,Protective Stone Gardenscaping,"While you have 5 cards in your Spell & Trap Zone, any battle damage a player takes is halved, also once per turn, you can activate 1 Continuous Trap Card the turn it was Set. During the Standby Phase: You can reveal 5 Continuous Traps with different names from your Deck, your opponent randomly picks 1 for you to Set on your field, also shuffle the rest into the Deck. You can only use this effect of ""Protective Stone Gardenscaping"" once per turn.",Activate by applying the effect of {CARD}.,,,,,,,,,,,,,,,
 101305150,Mechbeast Token,"Special Summoned with the effect of ""Kowloon, Citadel of the Sky.""",,,,,,,,,,,,,,,,
 101305172,Elfnote Seraphim Token,"Specially summoned by the effect of ""Elfnotes: Quatrain of Succession"". As long as the token specially summoned by this effect exists, you cannot special summon monsters from the Extra Deck that are not ""Elfnote"".",,,,,,,,,,,,,,,,
-101306001,Swift Panther Warrior,"You can only use this card name’s (1) effect once per turn.
-(1) During the Main Phase (Quick Effect): You can Tribute 1 other monster from your hand or field, then activate 1 of these effects;
-● Special Summon 1 monster that mentions “Dark Time Wizard” from your hand or Deck, except “Swift Panther Warrior”.
-● Send 1 Spell/Trap that mentions “Dark Time Wizard” from your Deck to the GY.
-(2) Cannot declare attacks unless a monster(s) was Tributed this turn.",Activate the effect,,Special Summon,Send to the GY,,,,,,,,,,,,
-101306002,Alligator's Sword Dragon Knight,"You can only use this card name’s (1) and (2) effects once per turn each.
-(1) If this card is in your hand: You can reveal 1 other card in your hand that mentions “Dark Time Wizard”; Special Summon this card.
-(2) If this card is Normal or Special Summoned: You can add up to 2 Spells/Traps with different names from each other that mention “Dark Time Wizard” from your Deck to your hand, then discard 1 card.
-(3) Can attack directly.",Special Summon,Add to hand,,,,,,,,,,,,,,
-101306003,Jinzo – Energy Shocker,"You can only use this card name’s (2) effect once per turn.
-(1) This card’s name becomes “Jinzo” while in the field or GY.
-(2) If this card is Normal or Special Summoned: You can destroy all Traps your opponent controls (if a card is Set, reveal it), then this card gains 300 ATK for each card destroyed this way.
-(3) Your opponent cannot activate Trap Cards or effects while you have another monster in your field or GY that mentions “Dark Time Wizard”.",Destroy,,,,,,,,,,,,,,,
-101306004,"Fisherman, Legend of the Sea","You can only use this card name’s (1) and (2) effects once per turn each.
-(1) If your opponent activates a monster effect on the field, or when their monster declares an attack, and “Umi” or a card that mentions “Dark Time Wizard” other than “Fisherman, Legend of the Sea” is on the field: You can Special Summon this card from your hand.
-(2) If this card is Special Summoned: You can target 1 monster your opponent controls; destroy it, also return this card on the field to the hand during the End Phase of this turn.",Special Summon,Destroy,,,,,,,,,,,,,,
-101306036,Red-Eyes Black Dragon Exceed,"“Red-Eyes Black Dragon” + 1 monster that mentions “Dark Time Wizard”
-Must be either Fusion Summoned, or Special Summoned (from your Extra Deck) by Tributing 1 face-up monster on either field during the turn a monster(s) was destroyed by the effect of “Dark Time Wizard”. You can only Special Summon “Red-Eyes Black Dragon Exceed” once per turn this way, no matter which method you use.
-(1) If this card is Special Summoned: You can Special Summoned 1 Level 8 or lower monster from your hand or GY.
-(2) Unaffected by your opponent’s activated monster and Spell effects.",Special Summon,,,,,,,,,,,,,,,
-101306052,Dark Time Wizard,"(1) Activate 1 of these effects (but you can only use each of these effects of this card’s name once per turn);
-● Add 1 card that mentions “Dark Time Wizard” from your Deck to your hand, except “Dark Time Wizard”, also add 1 “Dark Time Wizard” from your GY to your hand during the End Phase of this turn.
-● Toss a coin and call it. If you call it right, destroy as many monsters your opponent controls as possible, and if you do, inflict damage to them equal to half those monsters’ total original ATK. If you call it wrong, destroy all monsters you control.",Activate,Add to hand,Toss a coin,,,,,,,,,,,,,
-101306053,Graceful Skull Dice,"(1) Roll a six-sided die twice and apply these effects, in sequence, for the rest of this turn.
-● Monsters you control that mention “Dark Time Wizard” will gain ATK/DEF equal to the total x 200.
+101306001,Swift Panther Warrior,"You can only use this card name's ① effect once per turn.
+①：During the Main Phase (Quick Effect): You can Tribute 1 other monster from your hand or field, then activate 1 of these effects;
+● Special Summon 1 monster that mentions ""Dark Time Wizard"" from your hand or Deck, except ""Swift Panther Warrior"".
+● Send 1 Spell/Trap that mentions ""Dark Time Wizard"" from your Deck to the GY.
+②：Cannot declare attacks unless a monster(s) was Tributed this turn.",Activate the effect,,Special Summon,Send to the GY,,,,,,,,,,,,
+101306002,Alligator's Sword Dragon Knight,"You can only use this card name's ① and ② effects once per turn each.
+①：If this card is in your hand: You can reveal 1 other card in your hand that mentions ""Dark Time Wizard""; Special Summon this card.
+②：If this card is Normal or Special Summoned: You can add up to 2 Spells/Traps with different names from each other that mention ""Dark Time Wizard"" from your Deck to your hand, then discard 1 card.
+③：Can attack directly.",Special Summon,Add to hand,,,,,,,,,,,,,,
+101306003,Jinzo – Energy Shocker,"You can only use this card name's ② effect once per turn.
+①：This card's name becomes ""Jinzo"" while in the field or GY.
+②：If this card is Normal or Special Summoned: You can destroy all Traps your opponent controls (if a card is Set, reveal it), then this card gains 300 ATK for each card destroyed this way.
+③：Your opponent cannot activate Trap Cards or effects while you have another monster in your field or GY that mentions ""Dark Time Wizard"".",Destroy,,,,,,,,,,,,,,,
+101306004,"Fisherman, Legend of the Sea","You can only use this card name's ① and ② effects once per turn each.
+①：If your opponent activates a monster effect on the field, or when their monster declares an attack, and ""Umi"" or a card that mentions ""Dark Time Wizard"" other than ""Fisherman, Legend of the Sea"" is on the field: You can Special Summon this card from your hand.
+②：If this card is Special Summoned: You can target 1 monster your opponent controls; destroy it, also return this card on the field to the hand during the End Phase of this turn.",Special Summon,Destroy,,,,,,,,,,,,,,
+101306036,Red-Eyes Black Dragon Exceed,"""Red-Eyes Black Dragon"" + 1 monster that mentions ""Dark Time Wizard""
+Must be either Fusion Summoned, or Special Summoned (from your Extra Deck) by Tributing 1 face-up monster on either field during the turn a monster(s) was destroyed by the effect of ""Dark Time Wizard"". You can only Special Summon ""Red-Eyes Black Dragon Exceed"" once per turn this way, no matter which method you use.
+①：If this card is Special Summoned: You can Special Summoned 1 Level 8 or lower monster from your hand or GY.
+②：Unaffected by your opponent's activated monster and Spell effects.",Special Summon,,,,,,,,,,,,,,,
+101306052,Dark Time Wizard,"①：Activate 1 of these effects (but you can only use each of these effects of this card's name once per turn);
+● Add 1 card that mentions ""Dark Time Wizard"" from your Deck to your hand, except ""Dark Time Wizard"", also add 1 ""Dark Time Wizard"" from your GY to your hand during the End Phase of this turn.
+● Toss a coin and call it. If you call it right, destroy as many monsters your opponent controls as possible, and if you do, inflict damage to them equal to half those monsters' total original ATK. If you call it wrong, destroy all monsters you control.",Activate,Add to hand,Toss a coin,,,,,,,,,,,,,
+101306053,Graceful Skull Dice,"①：Roll a six-sided die twice and apply these effects, in sequence, for the rest of this turn.
+● Monsters you control that mention ""Dark Time Wizard"" will gain ATK/DEF equal to the total x 200.
 ● Monsters your opponent controls will lose ATK/DEF equal to the total x 200.
-(2) If your opponent Normal or Special Summons a monster(s) while this card is in your GY: You can banish this card, then target 1 of those monsters; roll a six-sided die twice, and if the total is 6 or more, destroy that monster.",Activate,Roll a die,,,,,,,,,,,,,,
-101306054,Sleeping Scapegoats,"(1) Special Summon up to 4 “Scapedgoat Tokens” (Beast/EARTH/Level 1/ATK 0/DEF 0) in Defense Position, then if your opponent controls a monster, you can Special Summon 1 “Swift Panther Warrior” from your Deck, also for the rest of this turn, these Tokens cannot be Tributed for a Tribute Summon, also you cannot Special Summon from the Extra Deck, except Fusion Monsters. If a card(s) you control that mentions “Dark Time Wizard” would be destroyed by battle or card effect, you can destroy 1 of your Tokens Summoned this way instead.",Activate,Please select the number of monsters to Special Summon,Special Summon {CARD}?,,,,,,,,,,,,,
-101306070,Foolish Graverobber,"You can only use the (1) and (2) effects of this card’s name once per turn.
-(1) Send 1 card that mentions “Dark Time Wizard” from your Deck to the GY, except “Foolish Graverobber”, then you can Special Summon 1 monster from either GY to your field.
-(2) You can banish this card from your GY; Set 1 of these cards to your field.
-● Spell/Trap in your GY that mentions “Dark Time Wizard”, except “Foolish Graverobber”.
-● Spell/Trap in your opponent’s GY.",Send to the GY,Set,Special Summon?,,,,,,,,,,,,,
-101306071,Reversal Box,"(1) Once per turn, during the Standby Phase: Roll a six-sided die and place counters on this card equal to the result (max. 6).
-(2) Once per battle, if an opponent’s monster attacks, during damage calculation, OR when a monster effect is activated on your opponent’s field: You can remove 1 counter from this card, then target 1 of those monsters; toss a coin and call it. If you call it right, you can Special Summon 1 monster that mentions “Dark Time Wizard” from your Deck, and if you do, until the end of this turn, change the targeted monster’s ATK to 0, also its effects are negated.",Place a counter,Toss a coin,Please select the number of Counters to place,,,,,,,,,,,,,
-101306154,Scapedgoat Tokens,"Special Summoned by the effect of “Sleeping Scapegoats”. If a card you control that mentions “Dark Time Wizard” in its card text would be destroyed by battle or card effect, you can destroy this card instead.",,,,,,,,,,,,,,,,
-101306254,Scapedgoat Tokens,"Special Summoned by the effect of “Sleeping Scapegoats”. If a card you control that mentions “Dark Time Wizard” in its card text would be destroyed by battle or card effect, you can destroy this card instead.
+②：If your opponent Normal or Special Summons a monster(s) while this card is in your GY: You can banish this card, then target 1 of those monsters; roll a six-sided die twice, and if the total is 6 or more, destroy that monster.",Activate,Roll a die,,,,,,,,,,,,,,
+101306054,Sleeping Scapegoats,"①：Special Summon up to 4 ""Scapedgoat Tokens"" (Beast/EARTH/Level 1/ATK 0/DEF 0) in Defense Position, then if your opponent controls a monster, you can Special Summon 1 ""Swift Panther Warrior"" from your Deck, also for the rest of this turn, these Tokens cannot be Tributed for a Tribute Summon, also you cannot Special Summon from the Extra Deck, except Fusion Monsters. If a card(s) you control that mentions ""Dark Time Wizard"" would be destroyed by battle or card effect, you can destroy 1 of your Tokens Summoned this way instead.",Activate,请选择特殊召唤的数量,Special Summon {CARD}?,,,,,,,,,,,,,
+101306070,Foolish Graverobber,"You can only use the ① and ② effects of this card's name once per turn.
+①：Send 1 card that mentions ""Dark Time Wizard"" from your Deck to the GY, except ""Foolish Graverobber"", then you can Special Summon 1 monster from either GY to your field.
+②：You can banish this card from your GY; Set 1 of these cards to your field.
+● Spell/Trap in your GY that mentions ""Dark Time Wizard"", except ""Foolish Graverobber"".
+● Spell/Trap in your opponent's GY.",Send to the GY,Set,Special Summon?,,,,,,,,,,,,,
+101306071,Reversal Box,"①：Once per turn, during the Standby Phase: Roll a six-sided die and place counters on this card equal to the result (max. 6).
+②：Once per battle, if an opponent's monster attacks, during damage calculation, OR when a monster effect is activated on your opponent's field: You can remove 1 counter from this card, then target 1 of those monsters; toss a coin and call it. If you call it right, you can Special Summon 1 monster that mentions ""Dark Time Wizard"" from your Deck, and if you do, until the end of this turn, change the targeted monster's ATK to 0, also its effects are negated.",Place a counter,Toss a coin,请选择要放置的指示物的数量,,,,,,,,,,,,,
+101306154,Scapedgoat Tokens,"Special Summoned by the effect of ""Sleeping Scapegoats"". If a card you control that mentions ""Dark Time Wizard"" in its card text would be destroyed by battle or card effect, you can destroy this card instead.",,,,,,,,,,,,,,,,
+101306254,Scapedgoat Tokens,"Special Summoned by the effect of ""Sleeping Scapegoats"". If a card you control that mentions ""Dark Time Wizard"" in its card text would be destroyed by battle or card effect, you can destroy this card instead.
 ",,,,,,,,,,,,,,,,
-101306354,Scapedgoat Tokens,"Special Summoned by the effect of “Sleeping Scapegoats”. If a card you control that mentions “Dark Time Wizard” in its card text would be destroyed by battle or card effect, you can destroy this card instead.
+101306354,Scapedgoat Tokens,"Special Summoned by the effect of ""Sleeping Scapegoats"". If a card you control that mentions ""Dark Time Wizard"" in its card text would be destroyed by battle or card effect, you can destroy this card instead.
 ",,,,,,,,,,,,,,,,
-101306454,Scapedgoat Tokens,"Special Summoned by the effect of “Sleeping Scapegoats”. If a card you control that mentions “Dark Time Wizard” in its card text would be destroyed by battle or card effect, you can destroy this card instead.
+101306454,Scapedgoat Tokens,"Special Summoned by the effect of ""Sleeping Scapegoats"". If a card you control that mentions ""Dark Time Wizard"" in its card text would be destroyed by battle or card effect, you can destroy this card instead.
 ",,,,,,,,,,,,,,,,
