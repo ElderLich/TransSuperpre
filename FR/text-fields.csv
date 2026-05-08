@@ -986,6 +986,28 @@ Si cette carte est Invoquée Spécialement : vous pouvez cibler 1 monstre contr�
 Vous ne pouvez utiliser chaque effet de ""Pêcheur, Légende de la Mer"" qu'une fois par tour."
 101306004,"Pêcheur, Légende de la Mer",str1,Invocation Spéciale
 101306004,"Pêcheur, Légende de la Mer",str2,Détruire
+101306021,Dogma de la Mort - HÉROS de la Destinée,name,Dogma de la Mort - HÉROS de la Destinée
+101306021,Dogma de la Mort - HÉROS de la Destinée,desc,"Ni Invocable Normalement ni Posable Normalement.
+Uniquement Invocable Spécialement (depuis votre main ou Cimetière) en bannissant 3 monstres Guerrier et/ou TÉNÈBRES depuis votre Cimetière.
+Vous ne pouvez Invoquer Spécialement ""Dogma de la Mort - HÉROS de la Destinée"" qu'une fois par tour de cette façon.
+Si elle Invoquée de cette façon : vous pouvez activer cet effet ; infligez 2000 points de dommages à votre adversaire durant la prochaine Standby Phase.
+Une fois par tour, lorsque votre adversaire active une carte ou un effet (Effet Rapide) : vous pouvez Invoquer par Fusion 1 Monstre Fusion TÉNÈBRES ou Guerrier depuis votre Extra Deck, en mélangeant ses Matériels depuis votre main, Terrain et/ou Cimetière dans le Deck."
+101306021,Dogma de la Mort - HÉROS de la Destinée,str2,Infliger des dommages
+101306021,Dogma de la Mort - HÉROS de la Destinée,str3,Invocation Fusion
+101306022,Lige de la Damnation - HÉROS de la Destinée,name,Lige de la Damnation - HÉROS de la Destinée
+101306022,Lige de la Damnation - HÉROS de la Destinée,desc,"Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez cibler 1 monstre contrôlé par votre adversaire ; bannissez-le jusqu'à la prochaine Standby Phase.
+Vous pouvez envoyer 1 monstre ""HÉROS de la Destinée"" depuis votre Deck au Cimetière ; ajoutez 1 ""Prison de la Tour de l'Horloge"" ou ""Ville-Prison de la Tour de l'Horloge - Ville Ténébreuse"" depuis votre Deck ou Cimetière à votre main, et aussi, vous ne pouvez pas Invoquer Spécialement (monstres ""HÉROS"" TÉNÈBRES exclus) le reste de ce tour.
+Vous ne pouvez utiliser chaque effet de ""Lige de la Damnation - HÉROS de la Destinée"" qu'une fois par tour."
+101306022,Lige de la Damnation - HÉROS de la Destinée,str1,Bannir
+101306022,Lige de la Damnation - HÉROS de la Destinée,str2,Ajouter à la main
+101306022,Lige de la Damnation - HÉROS de la Destinée,str3,Bannir jusqu'à la prochaine Standby Phase
+101306023,Servant du Cuirassé - HÉROS de la Destinée,name,Servant du Cuirassé - HÉROS de la Destinée
+101306023,Servant du Cuirassé - HÉROS de la Destinée,desc,"Si vous contrôlez un monstre ""HÉROS de la Destinée"" ou une Magie de Terrain face recto : vous pouvez Invoquer Spécialement cette carte depuis votre main, puis vous pouvez détruire 1 carte que vous contrôlez, et si vous le faites, ajoutez 1 ""Polymérisation"" depuis votre Deck à votre main.
+Si vous Invoquez Spécialement un ou plusieurs monstres ""HÉROS de la Destinée"" de Niveau 8 : vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 carte contrôlée par votre adversaire ; placez-la au-dessus du Deck.
+Vous ne pouvez utiliser chaque effet de ""Servant du Cuirassé - HÉROS de la Destinée"" qu'une fois par tour."
+101306023,Servant du Cuirassé - HÉROS de la Destinée,str1,Invocation Spéciale
+101306023,Servant du Cuirassé - HÉROS de la Destinée,str2,Renvoyer au Deck
+101306023,Servant du Cuirassé - HÉROS de la Destinée,str3,"Détruire 1 carte que vous contrôlez, et ajouter 1 ""Polymérisation"" depuis votre Deck ?"
 101306036,Dragon Noir aux Yeux Rouges Dépassé,name,Dragon Noir aux Yeux Rouges Dépassé
 101306036,Dragon Noir aux Yeux Rouges Dépassé,desc,"""Dragon Noir aux Yeux Rouges"" + 1 monstre qui mentionne ""Magicien du Temps des Ténèbres""
 Uniquement soit Invocable par Fusion soit Invocable Spécialement (depuis votre Extra Deck) en Sacrifiant 1 monstre face recto sur l'un des Terrains durant le tour où un ou plusieurs monstres ont été détruits par l'effet de ""Magicien du Temps des Ténèbres"".
@@ -993,6 +1015,13 @@ Vous ne pouvez Invoquer Spécialement ""Dragon Noir aux Yeux Rouges Dépassé"" 
 Si cette carte est Invoquée Spécialement : vous pouvez Invoquer Spécialement 1 monstre de max. Niveau 8 depuis votre main ou Cimetière.
 Non affectée par les effets de monstre et de Magie activés de votre adversaire."
 101306036,Dragon Noir aux Yeux Rouges Dépassé,str1,Invocation Spéciale
+101306037,Cuirassé - HÉROS de la Destinée,name,Cuirassé - HÉROS de la Destinée
+101306037,Cuirassé - HÉROS de la Destinée,desc,"2 monstres ""HÉROS de la Destinée"" de min. Niveau 5
+Uniquement soit Invocable par Fusion soit Invocable Spécialement (depuis votre Extra Deck) en Sacrifiant 1 ""Maître de l'Effroi - HÉROS de la Destinée"".
+Vous ne pouvez Invoquer Spécialement ""Cuirassé - HÉROS de la Destinée"" qu'une fois par tour de cette façon, peu importe la méthode que vous utilisez.
+Si cette carte est Invoquée Spécialement : vous pouvez ajouter 2 monstres ""HÉROS de la Destinée"" et/ou cartes qui mentionnent un nom de carte de monstre ""HÉROS de la Destinée"" depuis votre Deck à votre main.
+L'ATK de cette carte devient la somme des ATK d'origine de tous les autres monstres ""HÉROS de la Destinée"" dans votre Terrain et Cimetière."
+101306037,Cuirassé - HÉROS de la Destinée,str1,Ajouter à la main
 101306052,Magicien du Temps des Ténèbres,name,Magicien du Temps des Ténèbres
 101306052,Magicien du Temps des Ténèbres,desc,"Activez 1 de ces effets (mais vous ne pouvez utiliser chaque effet de ""Magicien du Temps des Ténèbres"" qu'une fois par tour) ;
 ● Ajoutez 1 carte qui mentionne ""Magicien du Temps des Ténèbres"" (""Magicien du Temps des Ténèbres"" exclue) depuis votre Deck à votre main, et aussi, ajoutez 1 ""Magicien du Temps des Ténèbres"" depuis votre Cimetière à votre main durant la End Phase de ce tour.
@@ -1013,6 +1042,14 @@ Si une ou plusieurs cartes que vous contrôlez qui mentionnent ""Magicien du Tem
 101306054,Bouc Émissaire Endormi,str1,Activer
 101306054,Bouc Émissaire Endormi,str2,Sélectionnez le nombre d'Invocations Spéciales
 101306054,Bouc Émissaire Endormi,str3,Invoquer Spécialement {CARD} ?
+101306062,Ville-Prison de la Tour de l'Horloge - Ville Ténébreuse,name,Ville-Prison de la Tour de l'Horloge - Ville Ténébreuse
+101306062,Ville-Prison de la Tour de l'Horloge - Ville Ténébreuse,desc,"Chaque fois que vous Invoquez Spécialement un ou plusieurs monstres ""HÉROS de la Destinée"" de min. Niveau 8 : tous les monstres Guerrier que vous contrôlez actuellement gagnent 300 ATK.
+Vous ne pouvez utiliser chacun des effets suivants de ""Ville-Prison de la Tour de l'Horloge - Ville Ténébreuse"" qu'une fois par tour.
+Durant votre Main Phase, si cette carte a été activée ce tour : vous pouvez ajouter 1 monstre ""HÉROS de la Destinée"", ou 1 carte qui mentionne un nom de carte de monstre ""HÉROS de la Destinée"", depuis votre Deck à votre main.
+Si cette carte est détruite : vous pouvez Invoquer Spécialement 1 monstre ""HÉROS de la Destinée"" depuis votre Deck (ceci est traité comme une Invocation Spéciale avec ""Prison de la Tour de l'Horloge"")."
+101306062,Ville-Prison de la Tour de l'Horloge - Ville Ténébreuse,str1,Ajouter à la main
+101306062,Ville-Prison de la Tour de l'Horloge - Ville Ténébreuse,str2,Augmenter l'ATK
+101306062,Ville-Prison de la Tour de l'Horloge - Ville Ténébreuse,str3,Invocation Spéciale
 101306070,Profanateur de Tombes Inutile,name,Profanateur de Tombes Inutile
 101306070,Profanateur de Tombes Inutile,desc,"Envoyez 1 carte qui mentionne ""Magicien du Temps des Ténèbres"" (""Profanateur de Tombes Inutile"" exclu) depuis votre Deck au Cimetière, puis vous pouvez Invoquer Spécialement 1 monstre depuis l'un des Cimetières sur votre Terrain.
 Vous pouvez bannir cette carte depuis votre Cimetière ; Posez sur votre Terrain, 1 Magie/Piège qui mentionne ""Magicien du Temps des Ténèbres"" (""Profanateur de Tombes Inutile"" exclu) depuis votre Cimetière, ou 1 Magie/Piège depuis le Cimetière de votre adversaire.
