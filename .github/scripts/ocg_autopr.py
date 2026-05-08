@@ -958,6 +958,18 @@ def run_prompt_patcher(cdb_path: Path, cards_cdb: Path) -> None:
     normalize_jp_cdb(cdb_path)
 
 
+def autofill_source_text(cdb_path: Path, ypk_path: Path) -> None:
+    if CONFIG.lang != "jp":
+        return
+    try:
+        from card_text_autofill import autofill_cdb_from_pack_sources
+
+        autofill_cdb_from_pack_sources(cdb_path, ypk_path, "jp", log_fn=log)
+        normalize_jp_cdb(cdb_path)
+    except Exception as exc:
+        log(f"[SourceText] skipped after error: {exc}")
+
+
 def apply_workspace_mappings_for_release(cdb_path: Path, cards_cdb: Path) -> None:
     mappings = load_mappings_csv(MAPPINGS_PATH)
     if not mappings:
@@ -1066,6 +1078,7 @@ def workspace_sync() -> None:
             workspace_update.unlink()
             log(f"Removed unused workspace {workspace_update.name}")
         run_prompt_patcher(WORK_DIR / "test-release.cdb", cards_cdb)
+        autofill_source_text(WORK_DIR / "test-release.cdb", ypk)
     log(f"{CONFIG.folder} workspace sync completed")
 
 

@@ -9,6 +9,7 @@ on:
       - main
     paths:
       - "EN/Workspace/Mappings.csv"
+      - ".github/scripts/card_text_autofill.py"
       - ".github/scripts/tcg_autopr.py"
       - ".github/workflows/en-workspace-sync.yml"
       - "Tools/PromptPatcher.py"

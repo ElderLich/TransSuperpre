@@ -163,7 +163,7 @@ def menu(lang: str) -> str:
     print("1 = Refresh local raw2 from latest .ypk")
     print("2 = Upload raw2 workspace and push to GitHub")
     print("3 = Copy raw2 workspace into repo only")
-    print("4 = Pull latest TransSuperpre main")
+    print(f"4 = Pull latest {lang.upper()} workspace from GitHub")
     print("5 = Show repo and Actions status")
     print("6 = Change TransSuperpre repo path")
     print("7 = Exit")
@@ -181,7 +181,7 @@ def main() -> int:
         if command in {"copy", "sync"}:
             return run_tool("upload", "--lang", lang, *sys.argv[2:])
         if command == "pull":
-            return run_tool("pull", *sys.argv[2:])
+            return run_tool("pull", "--lang", lang, *sys.argv[2:])
         if command in {"status", "actions"}:
             return run_tool("status", "--lang", lang, *sys.argv[2:])
         if command in {"config", "setup"}:
@@ -198,7 +198,7 @@ def main() -> int:
     if choice == "3":
         return run_tool("upload", "--lang", lang)
     if choice == "4":
-        return run_tool("pull")
+        return run_tool("pull", "--lang", lang)
     if choice == "5":
         return run_tool("status", "--lang", lang)
     if choice == "6":
