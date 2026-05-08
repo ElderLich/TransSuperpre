@@ -3,7 +3,7 @@ id,name,field,value
 100200289,Ilios the Black Sun Dragon,desc,"You can reveal 3 Dragon monsters in your Extra Deck with 3000 or more ATK and different names; Special Summon this card from your hand. If this card is sent to the GY: You can target 1 Dragon Fusion, Synchro, Xyz, or Link Monster you control; your opponent cannot target it with card effects this turn. Neither player can activate cards or effects in response to this effect's activation. You can only use each effect of ""Ilios the Black Sun Dragon"" once per turn."
 100200289,Ilios the Black Sun Dragon,str1,Special Summon
 100200289,Ilios the Black Sun Dragon,str2,Grant protection
-100200289,Ilios the Black Sun Dragon,str3,The effect of {CARD} is currently being applied.
+100200289,Ilios the Black Sun Dragon,str3,"The effect of ""Ilios the Black Sun Dragon"" is currently being applied."
 100200290,Stage of Destiny,name,Stage of Destiny
 100200290,Stage of Destiny,desc,"You can only activate 1 card with this card's name per turn. You can activate this card the turn it was Set by revealing 1 Normal Monster in your hand.
 ①：Special Summon up to 5 Normal Monsters from your hand and/or GY in Attack Position. You cannot Special Summon from the Extra Deck for the rest of this turn after this card resolves."
@@ -24,7 +24,7 @@ Monsters your opponent controls lose 1500 DEF while you control a Tribute Summon
 100260001,Clown Crew Hat,str4,Special Summon
 100261001,Funny Dark Rabbit,name,Funny Dark Rabbit
 100261001,Funny Dark Rabbit,desc,"After this card is Normal or Special Summoned, you can Normal Summon 1 monster that mentions ""Toon World"" during your Main Phase this turn, in addition to your Normal Summon/Set (you can only gain this effect once per turn). This card is treated as a Toon monster while ""Toon World"" is on the field. Once per turn: You can add to your hand or place face-up on your field, 1 ""Toon"" Field or Continuous Spell from your Deck."
-100261001,Funny Dark Rabbit,str2,Summoned by the effect of {CARD}
+100261001,Funny Dark Rabbit,str2,"Summoned by the effect of ""Funny Dark Rabbit"""
 100261001,Funny Dark Rabbit,str3,Search effect
 100261001,Funny Dark Rabbit,str4,Place
 100261002,Comic Cat,name,Comic Cat
@@ -106,7 +106,7 @@ During your End Phase, if you control a ""Witchcrafter"" monster, while this car
 100261050,Unchained Enma Lord Yama,desc,"2+ monsters, including an ""Unchained Soul"" monster
 During your End Phase: You can target up to 2 Fiend monsters in your GY that were destroyed and sent there this turn; Special Summon them, but you cannot Special Summon, except Fiend monsters, while you control either of those face-up monsters. If this card on the field would be destroyed by battle or card effect, you can destroy 1 face-up card on either field instead. You can only use each effect of ""Unchained Enma Lord Yama"" once per turn."
 100261050,Unchained Enma Lord Yama,str1,Special Summon
-100261050,Unchained Enma Lord Yama,str3,Special Summoned by the effect of {CARD}
+100261050,Unchained Enma Lord Yama,str3,"Special Summoned by the effect of ""Unchained Enma Lord Yama"""
 100261051,Unchained Soul Rage Abominator,name,Unchained Soul Rage Abominator
 100261051,Unchained Soul Rage Abominator,desc,"2+ monsters, including a Fiend monster
 If your opponent Special Summons a monster(s) face-up: You can target 1 of them; destroy 1 Fiend monster you control, and if you do, negate the targeted monster's effects until the end of this turn. When a monster effect is activated on the field and you control a Link-4 or higher ""Unchained"" Link Monster (Quick Effect): You can banish this card from your GY; destroy the monster that activated that effect. You can only use each effect of ""Unchained Soul Rage Abominator"" once per turn."
@@ -170,7 +170,7 @@ If this card is Special Summoned: You can Special Summon 1 ""Elemental HERO"" mo
 100263009,Quick Summon,desc,"Immediately after this effect resolves, Normal Summon/Set 1 monster. When you do, if your opponent controls a monster, you can Normal Summon a Level 5 or higher monster without Tributing. During your Main Phase, if this card is in your GY, except the turn it was sent there: You can banish it; add 1 Level 5 or higher monster that can be Normal Summoned/Set from your Deck or GY to your hand, then immediately after this effect resolves, Tribute Summon it. You can only use this effect of ""Quick Summon"" once per turn."
 100263009,Quick Summon,str1,Activate
 100263009,Quick Summon,str2,Add to hand
-100263009,Quick Summon,str3,Apply the effect of {CARD} to Summon without Tributing?
+100263009,Quick Summon,str3,"Apply the effect of ""Quick Summon"" to Summon without Tributing?"
 100263010,D - Burst,name,D - Burst
 100263010,D - Burst,desc,"Target 1 face-up Spell you control; destroy it, and if you do, draw 1 card, then if you control a ""Destiny HERO"" monster, you can Special Summon 1 ""Destiny HERO"" monster from your hand, GY, or banishment. At the end of the Damage Step, if a monster equipped with an Equip Card, or ""Destiny HERO - Dogma"", attacked: You can banish this card from your GY; that monster can make a second attack in a row. You can only activate 1 ""D - Burst"" per turn."
 100263010,D - Burst,str1,Draw
@@ -305,7 +305,7 @@ You can only use this effect of ""Gurifoh"" once per turn. For the Ritual Summon
 101305004,Gurifoh,str1,Discard to activate the effect
 101305004,Gurifoh,str2,Damage change
 101305004,Gurifoh,str3,Set Spell/Trap
-101305004,Gurifoh,str4,Activate by applying the effect of {CARD}.
+101305004,Gurifoh,str4,"Activate by applying the effect of ""Gurifoh""."
 101305005,"Uria, Lord of Searing Flames - Sacred Beast of Cataclysmic Fire",name,"Uria, Lord of Searing Flames - Sacred Beast of Cataclysmic Fire"
 101305005,"Uria, Lord of Searing Flames - Sacred Beast of Cataclysmic Fire",desc,"Cannot be Normal Summoned/Set. Must be Special Summoned with a ""Sacred Beast"" card. You can reveal this card in your hand; add 1 ""Sacred Beast"" Trap from your Deck to your hand, then discard 1 card. You can only use this effect of ""Uria, Lord of Searing Flames - Sacred Beast of Cataclysmic Fire"" once per turn. Gains 1000 ATK/DEF for each Trap in the GYs. Once per turn (Quick Effect): You can target 1 Spell/Trap on the field; destroy it. Neither player can activate cards or effects in response to this effect's activation."
 101305005,"Uria, Lord of Searing Flames - Sacred Beast of Cataclysmic Fire",str1,Search effect
@@ -370,7 +370,7 @@ You can only use this effect of ""Gurifoh"" once per turn. For the Ritual Summon
 101305018,The Phantom Knights of Decayed Cloak,str1,Special Summon
 101305018,The Phantom Knights of Decayed Cloak,str2,Search effect
 101305018,The Phantom Knights of Decayed Cloak,str3,Treat Rank as Level
-101305018,The Phantom Knights of Decayed Cloak,str4,The effect of {CARD} is currently being applied.
+101305018,The Phantom Knights of Decayed Cloak,str4,"The effect of ""The Phantom Knights of Decayed Cloak"" is currently being applied."
 101305019,The Phantom Knights of Doomed Solleret,name,The Phantom Knights of Doomed Solleret
 101305019,The Phantom Knights of Doomed Solleret,desc,"If you control no monsters, you can Special Summon this card (from your hand). You can only Special Summon ""The Phantom Knights of Doomed Solleret"" once per turn this way. You can only use each of the following effects of ""The Phantom Knights of Doomed Solleret"" once per turn. If this card is Normal or Special Summoned: You can Set 1 ""The Phantom Knights"" Spell/Trap from your Deck. You can banish this card from your GY, then target up to 2 Level/Rank 3 DARK monsters you control; increase their Levels/Ranks by 1."
 101305019,The Phantom Knights of Doomed Solleret,str1,Special Summon
@@ -399,7 +399,7 @@ You can only use this effect of ""Gurifoh"" once per turn. For the Ritual Summon
 101305024,Magical King of the Swamp,name,Magical King of the Swamp
 101305024,Magical King of the Swamp,desc,"If this card is in your hand: You can reveal 1 Fusion Monster in your Extra Deck and banish 1 material whose name is mentioned on it from your Deck, then Special Summon this card, and its name can be treated as the banished monster's if used as Fusion Material this turn. You can only use this effect of ""Magical King of the Swamp"" once per turn."
 101305024,Magical King of the Swamp,str1,Special Summon
-101305024,Magical King of the Swamp,str2,The effect of {CARD} is currently being applied.
+101305024,Magical King of the Swamp,str2,"The effect of ""Magical King of the Swamp"" is currently being applied."
 101305025,"Rayrage, the Twilight Fiend",name,"Rayrage, the Twilight Fiend"
 101305025,"Rayrage, the Twilight Fiend",desc,"Pendulum Scale = 1
 [ Pendulum Effect ]
@@ -462,7 +462,7 @@ While this card is in the center Main Monster Zone, neither player can declare a
 If this card is Synchro Summoned: You can add 1 Level 8 or higher monster with 0 ATK from your Deck to your hand. You can target 1 monster with 0 ATK in your GY; Special Summon it, but negate its effects, also it cannot be used as material for a Fusion, Synchro, Xyz, or Link Summon. You can only use each effect of ""Glitch Clutch Nullgainer"" once per turn."
 101305036,Glitch Clutch Nullgainer,str1,Add to hand
 101305036,Glitch Clutch Nullgainer,str2,Special Summon
-101305036,Glitch Clutch Nullgainer,str3,Special Summoned by the effect of {CARD}
+101305036,Glitch Clutch Nullgainer,str3,"Special Summoned by the effect of ""Glitch Clutch Nullgainer"""
 101305037,The Phantom Knights of Malevolent Scythe,name,The Phantom Knights of Malevolent Scythe
 101305037,The Phantom Knights of Malevolent Scythe,desc,"2 Level 3 DARK monsters
 You can detach 1 material from this card; Special Summon 1 ""The Phantom Knights"" monster from your Deck. If you Xyz Summon an ""Xyz Dragon"" monster while this card is in the Monster Zone (except during the Damage Step): You can add 1 ""Rank-Up-Magic"" Spell from your Deck to your hand. If this card is destroyed: You can add 1 of your banished ""The Phantom Knights"" cards to your hand, except an Xyz Monster. You can only use each effect of ""The Phantom Knights of Malevolent Scythe"" once per turn."
@@ -472,7 +472,7 @@ You can detach 1 material from this card; Special Summon 1 ""The Phantom Knights
 101305038,Melffy God Mommy,name,Melffy God Mommy
 101305038,Melffy God Mommy,desc,"3+ Level 2 Beast monsters
 Once per turn, you can also Xyz Summon ""Melffy God Mommy"" by using ""Melffy Mommy"" you control (transfer its materials). If this card is Special Summoned: You can add 1 ""Melffy"" Spell/Trap from your Deck or GY to your hand. Gains ATK equal to the combined ATK and DEF of all ""Melffy"" monsters attached to it. You can detach 5 materials from this card; return all cards your opponent controls to the hand."
-101305038,Melffy God Mommy,str1,Xyz Summon by using {CARD} as material?
+101305038,Melffy God Mommy,str1,"Xyz Summon by using ""Melffy Mommy"" as material?"
 101305038,Melffy God Mommy,str2,Add to hand
 101305038,Melffy God Mommy,str3,Return to the hand
 101305039,Power Patron Envoy of Pure Prayers,name,Power Patron Envoy of Pure Prayers
@@ -524,7 +524,7 @@ You can also use 1 monster in your hand as material to Link Summon this card. If
 101305048,Fallen Paradise of the Sacred Beasts,str1,Send to the GY
 101305048,Fallen Paradise of the Sacred Beasts,str2,Draw
 101305048,Fallen Paradise of the Sacred Beasts,str3,Special Summon?
-101305048,Fallen Paradise of the Sacred Beasts,str4,Special Summoned by the effect of {CARD}
+101305048,Fallen Paradise of the Sacred Beasts,str4,"Special Summoned by the effect of ""Fallen Paradise of the Sacred Beasts"""
 101305049,Skyfire of the Sacred Beast,name,Skyfire of the Sacred Beast
 101305049,Skyfire of the Sacred Beast,desc,"During your Main Phase: You can place 2 ""Skyfire of the Sacred Beast"" from your hand, Deck, and/or GY face-up on your field, then you can reveal 1 Level 10 ""Sacred Beast"" monster in your hand, then place 1 ""Fallen Paradise of the Sacred Beasts"" from your Deck face-up in your Field Zone. During your opponent's End Phase, if this card is in your GY: You can add it to your hand. You can only use each effect of ""Skyfire of the Sacred Beast"" once per turn."
 101305049,Skyfire of the Sacred Beast,str1,Placement effect
@@ -565,7 +565,7 @@ You can only activate 1 ""Spirit Sword Aiwass"" per turn."
 101305055,Dead-End Power Patron Realm - Viraia,name,Dead-End Power Patron Realm - Viraia
 101305055,Dead-End Power Patron Realm - Viraia,desc,"Show 1 ""Nerva the Power Patron of Creation"", 1 ""Jupiter the Power Patron of Destruction"", and 1 ""Junora the Power Patron of Tuning"" from your Extra Deck, face-up field, and/or GY, and if you do, your opponent cannot activate cards or effects in response to the activation of your ""Power Patron"" monsters' effects this turn. If you would banish the top card(s) of your Deck to activate the effect of a ""Power Patron"" monster you control, you can banish this card from your GY instead. You can only use each effect of ""Dead-End Power Patron Realm - Viraia"" once per turn."
 101305055,Dead-End Power Patron Realm - Viraia,str1,Activate
-101305055,Dead-End Power Patron Realm - Viraia,str2,Banish {CARD} instead?
+101305055,Dead-End Power Patron Realm - Viraia,str2,"Banish ""Dead-End Power Patron Realm - Viraia"" instead?"
 101305056,Pasto-Ral Theorealize,name,Pasto-Ral Theorealize
 101305056,Pasto-Ral Theorealize,desc,"If you control an ""Artmage"", ""DoomZ"", or ""Elfnote"" card: Special Summon 1 ""Medius the Pure"" from your hand or Deck, also your opponent cannot activate cards or effects when that monster is Special Summoned. You can banish this card from your GY, then target 1 Fusion, Synchro, or Xyz Monster in your GY; Special Summon it to your zone a Link Monster points to. You can only use 1 ""Pasto-Ral Theorealize"" effect per turn, and only once that turn."
 101305056,Pasto-Ral Theorealize,str1,Activate
@@ -646,7 +646,7 @@ You can only activate 1 ""Power Patron Shadows of the End Times"" per turn."
 101305072,Elfnotes: Quatrain of Succession,str2,Special Summon
 101305073,The Phantom Knights of Umbrage Veil,name,The Phantom Knights of Umbrage Veil
 101305073,The Phantom Knights of Umbrage Veil,desc,"If you have a ""The Phantom Knights"" monster in your field or GY, you can activate this card the turn it was Set. Special Summon this card in Defense Position as a Normal Monster (Warrior/DARK/Level 3/ATK 0/DEF 300) (this card is NOT treated as a Trap), then you can change 1 Attack Position monster your opponent controls to Defense Position. You can banish this card from your GY; immediately after this effect resolves, Xyz Summon 1 DARK Xyz Monster. You can only use each effect of ""The Phantom Knights of Umbrage Veil"" once per turn."
-101305073,The Phantom Knights of Umbrage Veil,str1,Activate by applying the effect of {CARD}.
+101305073,The Phantom Knights of Umbrage Veil,str1,"Activate by applying the effect of ""The Phantom Knights of Umbrage Veil""."
 101305073,The Phantom Knights of Umbrage Veil,str2,Xyz Summon
 101305073,The Phantom Knights of Umbrage Veil,str3,Change battle position?
 101305074,S-Force Sorted World,name,S-Force Sorted World
@@ -675,7 +675,7 @@ You can only activate 1 ""Power Patron Shadows of the End Times"" per turn."
 101305079,Annihilating Retrolight,str3,Banish the monster?
 101305080,Protective Stone Gardenscaping,name,Protective Stone Gardenscaping
 101305080,Protective Stone Gardenscaping,desc,"While you have 5 cards in your Spell & Trap Zone, any battle damage a player takes is halved, also once per turn, you can activate 1 Continuous Trap Card the turn it was Set. During the Standby Phase: You can reveal 5 Continuous Traps with different names from your Deck, your opponent randomly picks 1 for you to Set on your field, also shuffle the rest into the Deck. You can only use this effect of ""Protective Stone Gardenscaping"" once per turn."
-101305080,Protective Stone Gardenscaping,str1,Activate by applying the effect of {CARD}.
+101305080,Protective Stone Gardenscaping,str1,"Activate by applying the effect of ""Protective Stone Gardenscaping""."
 101305150,Mechbeast Token,name,Mechbeast Token
 101305150,Mechbeast Token,desc,"Special Summoned with the effect of ""Kowloon, Citadel of the Sky."""
 101305172,Elfnote Seraphim Token,name,Elfnote Seraphim Token
@@ -708,12 +708,38 @@ You can only activate 1 ""Power Patron Shadows of the End Times"" per turn."
 ②：If this card is Special Summoned: You can target 1 monster your opponent controls; destroy it, also return this card on the field to the hand during the End Phase of this turn."
 101306004,"Fisherman, Legend of the Sea",str1,Special Summon
 101306004,"Fisherman, Legend of the Sea",str2,Destroy
+101306021,Destiny HERO – Death Dogma,name,Destiny HERO – Death Dogma
+101306021,Destiny HERO – Death Dogma,desc,"Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand or GY) by banishing 3 Warrior and/or DARK monsters from your GY. You can only Special Summon “Destiny HERO – Death Dogma” once per turn this way.
+(1) If Summoned this way: You can activate this effect; inflict 2000 damage to your opponent during the next Standby Phase.
+(2) Once per turn, when your opponent activates a card or effect (Quick Effect): You can Fusion Summon 1 DARK or Warrior monster from your Extra Deck, by shuffling its material from your hand, field, and/or GY into the Deck."
+101306021,Destiny HERO – Death Dogma,str2,Inflict damage
+101306021,Destiny HERO – Death Dogma,str3,Fusion Summon
+101306022,Destiny HERO – Doom Liege,name,Destiny HERO – Doom Liege
+101306022,Destiny HERO – Doom Liege,desc,"You can only use this card name’s (1) and (2) effects once per turn each.
+(1) If this card is Normal or Special Summoned: You can target 1 monster your opponent controls; banish it until the next Standby Phase.
+(2) You can send 1 “Destiny HERO” monster from your Deck to the GY; add 1 “Clock Tower Prison” or “Clock Tower Prison City – Dark City” from your Deck or GY to your hand. You cannot Special Summon for the rest of this turn, except DARK “HERO” monsters."
+101306022,Destiny HERO – Doom Liege,str1,Banish
+101306022,Destiny HERO – Doom Liege,str2,Add to hand
+101306022,Destiny HERO – Doom Liege,str3,直到下个准备阶段除外
+101306023,Destiny HERO – Dreadnought Servant,name,Destiny HERO – Dreadnought Servant
+101306023,Destiny HERO – Dreadnought Servant,desc,"You can only use this card name’s (1) and (2) effects once per turn each.
+(1) If you control a “Destiny HERO” monster or a face-up Field Spell: You can Special Summon this card from your hand, then you can destroy 1 card you control, and if you do, add 1 “Polymerization” from your Deck to your hand.
+(2) If you Special Summon a Level 8 “Destiny HERO” monster(s): You can banish this card from your GY, then target 1 card your opponent controls; place it on the top of the Deck."
+101306023,Destiny HERO – Dreadnought Servant,str1,Special Summon
+101306023,Destiny HERO – Dreadnought Servant,str2,Return to the Deck
+101306023,Destiny HERO – Dreadnought Servant,str3,是否破坏并检索？
 101306036,Red-Eyes Black Dragon Exceed,name,Red-Eyes Black Dragon Exceed
 101306036,Red-Eyes Black Dragon Exceed,desc,"""Red-Eyes Black Dragon"" + 1 monster that mentions ""Dark Time Wizard""
 Must be either Fusion Summoned, or Special Summoned (from your Extra Deck) by Tributing 1 face-up monster on either field during the turn a monster(s) was destroyed by the effect of ""Dark Time Wizard"". You can only Special Summon ""Red-Eyes Black Dragon Exceed"" once per turn this way, no matter which method you use.
 ①：If this card is Special Summoned: You can Special Summoned 1 Level 8 or lower monster from your hand or GY.
 ②：Unaffected by your opponent's activated monster and Spell effects."
 101306036,Red-Eyes Black Dragon Exceed,str1,Special Summon
+101306037,Destiny HERO – Dreadnought,name,Destiny HERO – Dreadnought
+101306037,Destiny HERO – Dreadnought,desc,"2 Level 5 or higher “Destiny HERO” monsters
+Must be either Fusion Summoned, or Special Summoned (from your Extra Deck) by Tributing 1 “Destiny HERO – Dreadmaster”. You can only Special Summon “Destiny HERO – Dreadnoughtguy” once per turn this way, no matter which method you use.
+(1) If this card is Special Summoned: You can add 2 “Destiny HERO” monsters and/or cards that mention a “Destiny HERO” monster’s card name from your Deck to your hand.
+(2) This card’s ATK becomes the total original ATK of all other “Destiny HERO” monsters in your field and GY."
+101306037,Destiny HERO – Dreadnought,str1,Add to hand
 101306052,Dark Time Wizard,name,Dark Time Wizard
 101306052,Dark Time Wizard,desc,"①：Activate 1 of these effects (but you can only use each of these effects of this card's name once per turn);
 ● Add 1 card that mentions ""Dark Time Wizard"" from your Deck to your hand, except ""Dark Time Wizard"", also add 1 ""Dark Time Wizard"" from your GY to your hand during the End Phase of this turn.
@@ -733,6 +759,14 @@ Must be either Fusion Summoned, or Special Summoned (from your Extra Deck) by Tr
 101306054,Sleeping Scapegoats,str1,Activate
 101306054,Sleeping Scapegoats,str2,Select the number of Special Summons
 101306054,Sleeping Scapegoats,str3,Special Summon {CARD}?
+101306062,Clock Tower Prison City – Dark City,name,Clock Tower Prison City – Dark City
+101306062,Clock Tower Prison City – Dark City,desc,"You can only use the (1) and (3) effects of this card’s name each once per turn.
+(1) If this card was activated this turn: You can add 1 “Destiny HERO” monster, or 1 card that mentions a “Destiny HERO” monster’s card name, from your Deck to your hand.
+(2) Each time you Special Summon Level 8 or higher “Destiny HERO” monster(s): All Warrior monsters you currently control gain 300 ATK.
+(3) If this card is destroyed: You can Special Summon 1 “Destiny HERO” monster from your Deck (this is treated as a Special Summon with “Clock Tower Prison”)."
+101306062,Clock Tower Prison City – Dark City,str1,Add to hand
+101306062,Clock Tower Prison City – Dark City,str2,Increase ATK
+101306062,Clock Tower Prison City – Dark City,str3,Special Summon
 101306070,Foolish Graverobber,name,Foolish Graverobber
 101306070,Foolish Graverobber,desc,"You can only use the ① and ② effects of this card's name once per turn.
 ①：Send 1 card that mentions ""Dark Time Wizard"" from your Deck to the GY, except ""Foolish Graverobber"", then you can Special Summon 1 monster from either GY to your field.
