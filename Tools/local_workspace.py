@@ -157,6 +157,43 @@ def copy_workspace(args: argparse.Namespace) -> list[Path]:
     return changed_paths
 
 
+def pull_workspace_to_local(args: argparse.Namespace) -> list[Path]:
+    config = LANGS[args.lang]
+    local_dir, source_dir, workspace_dir = local_paths(args, config, source_required=False)
+    if not workspace_dir.exists():
+        fail(f"repo Workspace folder not found: {workspace_dir}")
+
+    changed_paths: list[Path] = []
+    source_dir.mkdir(parents=True, exist_ok=True)
+    for filename in REQUIRED_WORKSPACE_FILES:
+        source = workspace_dir / filename
+        target = source_dir / filename
+        if not source.exists():
+            fail(f"required repo workspace file missing: {source}")
+        if args.dry_run:
+            log(f"would copy {source} -> {target}")
+        else:
+            shutil.copy2(source, target)
+            log(f"copied {source} -> {target}")
+        changed_paths.append(target)
+
+    if not args.no_mappings:
+        for filename in OPTIONAL_ROOT_FILES:
+            source = workspace_dir / filename
+            target = local_dir / filename
+            if not source.exists():
+                log(f"optional repo workspace file not found, skipping: {source}")
+                continue
+            if args.dry_run:
+                log(f"would copy {source} -> {target}")
+            else:
+                shutil.copy2(source, target)
+                log(f"copied {source} -> {target}")
+            changed_paths.append(target)
+
+    return changed_paths
+
+
 def ensure_no_staged_changes(repo_root: Path) -> None:
     result = subprocess.run(["git", "diff", "--cached", "--quiet"], cwd=str(repo_root))
     if result.returncode != 0:
@@ -236,6 +273,12 @@ def command_refresh(args: argparse.Namespace) -> None:
 
 def command_pull(args: argparse.Namespace) -> None:
     run(["git", "pull", "--ff-only", "origin", "main"], Path(args.repo_root).expanduser())
+    if args.lang:
+        changed_paths = pull_workspace_to_local(args)
+        if args.dry_run:
+            log("dry run completed; no local files were copied")
+        else:
+            log(f"pulled latest {LANGS[args.lang].folder} workspace into local {args.source_dir}: files={len(changed_paths)}")
 
 
 def command_status(args: argparse.Namespace) -> None:
@@ -305,7 +348,11 @@ def build_parser() -> argparse.ArgumentParser:
     )
     refresh.set_defaults(func=command_refresh, pull_first=False)
 
-    pull = subparsers.add_parser("pull", help="Fast-forward local TransSuperpre main")
+    pull = subparsers.add_parser("pull", help="Fast-forward local TransSuperpre main, then optionally copy <lang>/Workspace to local raw2")
+    pull.add_argument("--lang", choices=sorted(LANGS), help="Language Workspace to copy back into the local folder")
+    pull.add_argument("--source-dir", default="raw2", help="Local target folder inside the locale folder")
+    pull.add_argument("--no-mappings", action="store_true", help="Do not copy Mappings.csv")
+    pull.add_argument("--dry-run", action="store_true", help="Show what would be copied")
     pull.set_defaults(func=command_pull)
 
     status = subparsers.add_parser("status", help="Show git status and recent GitHub Actions")

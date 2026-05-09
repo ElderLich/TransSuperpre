@@ -1,43 +1,151 @@
 [
   {
-    "name": "破械式鬼 萨拉",
-    "desc": "这个卡名的①②的效果1回合各能使用1次。\r\n①：自己·对方的主要阶段，把这张卡从手卡丢弃才能发动。从手卡把1只恶魔族怪兽特殊召唤。那之后，自己场上1张卡破坏。\r\n②：这张卡在墓地存在的状态，场上的卡被战斗或者「破械式鬼 萨拉」以外的卡的效果破坏的场合才能发动。这张卡加入手卡或特殊召唤。这个效果特殊召唤的这张卡从场上离开的场合回到卡组最下面。",
+    "name": "HERÓI do Destino – Dogma Morte",
+    "desc": "Não pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial (da sua mão ou Cemitério) banindo 3 monstros Guereiros e/ou TREVAS do seu Cemitério. Você só pode Invocar por Invocação-Especial \"HERÓI do Destino – Dogma Morte\" uma vez por turno dessa forma.\r\nSe for Invocado dessa forma: você pode ativar este efeito; cause 2000 de dano ao seu oponente durante a próxima Fase de Apoio.\r\nUma vez por turno, quando seu oponente ativar um card ou efeito (Efeito Rápido): você pode Invocar por Invocação-Fusão 1 monstro Guerreiro ou TREVAS do seu Deck Adicional, ao embaralhar suas matérias da sua mão, campo e/ou Cemitério no Deck.",
+    "overallString": "[Monstro|Efeito|Invocação-Especial] Guerreiro/Trevas  [★8] 3400/2400",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306021.jpg?version=19.7"
+  },
+  {
+    "name": "HERÓI do Destino – Liege da Condenação",
+    "desc": "Se este card for Invocado por Invocação-Normal ou Especial: você pode escolher 1 monstro que seu oponente controla; bana-o até a próxima Fase de Apoio.\r\nVocê pode enviar 1 monstro \"HERÓI do Destino\" do seu Deck ao Cemitério; adicione 1 \"Prisão da Torre do Relógio\" ou \"Prisão da Torre do Relógio da Cidade – Cidade Sombria\" do seu Deck ou Cemitério à sua mão. Você não pode Invocar por Invocação-Especial pelo resto deste turno, exceto monstros \"HERÓI\" de TREVAS.\r\nVocê só pode usar cada um dos efeitos de \"HERÓI do Destino – Liege da Condenação\" uma vez por turno.",
+    "overallString": "[Monstro|Efeito] Guerreiro/Trevas  [★3] 600/800",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306022.jpg?version=19.7"
+  },
+  {
+    "name": "HERÓI do Destino – Dreadnought Servo",
+    "desc": "Se você controla um monstro \"HERÓI do Destino\" ou uma Magia de Campo com a face para cima: você pode Invocar por Invocação-Especial este card da sua mão, então você pode destruir 1 card que você controla, e se fizer, adicione 1 \"Polimerização\" do seu Deck à sua mão.\r\nSe você Invocar por Invocação-Especial um ou mais monstros \"HERÓI do Destino\" de Nível 8: você pode banir este card do seu Cemitério, então escolha 1 card que seu oponente controla; coloque-o no topo do Deck.\r\nVocê só pode usar cada um dos efeitos de \"HERÓI do Destino – Dreadnought Servo\" uma vez por turno.",
+    "overallString": "[Monstro|Efeito] Guerreiro/Trevas  [★3] 400/700",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306023.jpg?version=19.7"
+  },
+  {
+    "name": "HERÓI do Destino – Dreadnought",
+    "desc": "2 monstros \"HERÓI do Destino\" de Nível 5 ou maior\r\nDeve ser Invocado por Invocação-Fusão ou Especial (do seu Deck Adicional) oferecendo como Tributo 1 \"HERÓI do Destino - Mestre do Horror\". Você só pode Invocar por Invocação-Especial \"HERÓI do Destino - Mestre do Horror\" uma vez por turno dessa forma, não importa qual método use.\r\nSe este card for Invocado por Invocação-Especial: você pode adicionar 2 monstro \"HERÓI do Destino\" e/ou cards que mencione o nome de um card \"HERÓI do Destino\" do seu Deck à sua mão.\r\nO ATK deste card se tornal o total original do ATK de todos os monstros \"HERÓI do Destino\" no seu campo e Cemitério.",
+    "overallString": "[Monstro|Efeito|Fusão] Guerreiro/Trevas  [★8] ?/2800",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306037.jpg?version=19.7"
+  },
+  {
+    "name": "Prisão da Torre do Relógio da Cidade – Cidade Sombria",
+    "desc": "Toda vez que você Invoca por Invocação-Especial um ou mais monstros \"HERÓI do Destino\" de Nível 8 ou maior: todos os monstros Guerreiro que você atualmente controla ganham 300 de ATK.\r\nVocê só pode usar cada um dos seguintes efeitos de \"Prisão da Torre do Relógio da Cidade – Cidade Sombria\" uma vez por turno.\r\nSe este card for ativado neste turno: você pode adicionar 1 monstro \"HERÓI do Destino\" ou 1 card que menciona o nome de um monstro \"HERÓI do Destino\", do seu Deck à sua mão.\r\nSe este card for destruído: você pode Invocar por Invocação-Especial 1 monstro \"HERÓI do Destino\" do seu Deck (isso é considerado como uma Invocação-Especial com \"Prisão da Torre do Relógio\").",
+    "overallString": "[Magia|Magia de Campo]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306062.jpg?version=19.7"
+  },
+  {
+    "name": "Origem do Arquidemônio",
+    "desc": "Se este card está na sua mão: você pode oferecer como Tributo 1 outro monstro \"Arquidemônio\" da sua mão ou campo; Invoque este card por Invocação-Especial.\r\nSe este card for Invocado por Invocação-Normal ou Especial: você pode Invocar por Invocação-Especial 1 monstro Demônio de Nível 6 com 2500 de ATK da sua mão, Deck ou Cemitério.\r\nQuando seu oponente ativar um efeito de monstro e você controla \"Caveira Invocada\" (Efeito Rápido): você pode negar a ativação, e se fizer isso, destrua aquele card.\r\nVocê só pode usar cada um dos efeitos de \"Origem do Arquidemônio\" uma vez por turno.",
+    "overallString": "[Monstro|Efeito] Demônio/Trevas  [★7] 2500/1200",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100264002.jpg?version=19.7"
+  },
+  {
+    "name": "Makourai, o Relâmpago",
+    "desc": "(Este card é sempre considerado como um card \"Arquidemônio\".)\r\nEscolha 1 monstro \"Arquidemônio\" que você controla; ele ganha 600 de ATK, então você pode destruir todos os monstros que seu oponente controla com ATK original menor que o ATK daquele monstro.\r\nDurante sua Fase Principal: você pode banir este card do seu Cemitério, então escolha 1 monstro Demônio de Nível 6 com 2500 de ATK no seu Cemitério; adicione-o à sua mão.\r\nVocê só pode usar cada um dos efeitos de \"Makourai, o Relâmpago\" uma vez por turno.",
+    "overallString": "[Magia|Magia Rápida]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100264003.jpg?version=19.7"
+  },
+  {
+    "name": "Fase do Destino",
+    "desc": "Você só pode ativar 1 \"Fase do Destino\" por turno. Você pode ativar este card no turno que foi Baixado revelando 1 Monstro normal na sua mão.\r\nInvoque por Invocação-Especial até 5 Monstros Normais da sua mão e/ou Cemitério em Posição de Ataque. Você não pode Invocar por Invocação-Especial do seu Deck Adicional pelo resto deste turno após ativar este efeito.",
+    "overallString": "[Armadilha]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100200290.jpg?version=19.7"
+  },
+  {
+    "name": "Guerreiro Pantera Veloz",
+    "desc": "Não pode declarar ataque a menos que um ou mais monstros foram oferecidos como Tributo neste turno.\r\nDurante a Fase Principal (Efeito Rápido): você pode oferecer como Tributo 1 outro monstro da sua mão ou campo, então ative 1 desses efeitos (você só pode usar este efeito de \"Guerreiro Pantera Veloz\" uma vez por turno);\r\n● Invoque por Invocação-Especial 1 monstro que mencione \"Mago do Tempo Sombrio\" da sua mão ou Deck, exceto \"Guerreiro Pantera Veloz\".\r\n● Envie 1 Magia/Armadilha que mencione \"Mago do Tempo Sombrio\" do seu Deck para o Cemitério.\r\n",
+    "overallString": "[Monstro|Efeito] Besta-Guerreira/Terra  [★4] 2000/1600",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306001.jpg?version=19.7"
+  },
+  {
+    "name": "Dragão Cavaleiro Espada do Jacaré",
+    "desc": "Pode atacar diretamente.\r\nSe este card está na sua mão: você pode revelar 1 outro card na sua mão que mencione \"Mago do Tempo Sombrio\"; Invoque este card por Invocação-Especial.\r\nSe este card é Invocado por Invocação-Normal ou Especial: você pode adicionar até 2 Magias/Armadilhas com nomes diferentes de cada uma que mencione \"Mago do Tempo Sombrio\" do seu Deck à sua mão, então descarte 1 card.\r\nVocê só pode usar cada um dos efeitos de \"Dragão Cavaleiro Espada do Jacaré\" uma vez por turno.",
+    "overallString": "[Monstro|Efeito] Dragão/Vento  [★5] 1700/1500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306002.jpg?version=19.7"
+  },
+  {
+    "name": "Jinzo – Choque de Energia",
+    "desc": "O nome deste card se torna \"Jinzo\" enquanto está no campo ou Cemitério.\r\nSeu oponente não pode ativar Armadilhas ou efeitos enquanto você tem outro monstro no campo ou Cemitério que mencione \"Mago do Tempo Sombrio\".\r\nSe este card é Invocado por Invocação-Nroaml ou Especial: você pode destruir todas as Armadilhas que seu oponente controla (se um card está Baixado, revele-o), então este card ganha 300 de ATK para cada card destruído desta forma. Você só pode usar este efeito de \"Jinzo – Choque de Energia\" uma vez por turno.",
+    "overallString": "[Monstro|Efeito] Máquina/Trevas  [★7] 2400/1500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306003.jpg?version=19.7"
+  },
+  {
+    "name": "O Pescador, a Lenda do Mar",
+    "desc": "Se seu oponente ativar um efeito de monstro no campo, ou quando o monstro dele declara um ataque, e \"Umi\" ou outro card que menciona \"Mago do Tempo Sombrio\" além do \"O Pescador, a Lenda do Mar\" está no campo: você pode Invocar este card da sua mão por Invocação-Especial.\r\nSe este card for Invocado por Invocação-Especial: você pode escolher 1 monstro que seu oponente controla; destrua-o, também retorne este card no campo para a mão durante a Fase Final deste turno.\r\nVocê só pode usar cada um dos efeitos de \"O Pescador, a Lenda do Mar\" uma vez por turno.",
+    "overallString": "[Monstro|Efeito] Guerreiro/Água  [★4] 1850/1600",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306004.jpg?version=19.7"
+  },
+  {
+    "name": "Dragão Negro de Olhos Vermelhos Excedente",
+    "desc": "\"Dragão Negro de Olhos Vermelhos\" + 1 monstro que mencione \"Mago do Tempo Sombrio\"\r\nDeve ser Invocado por Invocação-Fusão ou Invocação-Especial (do seu Deck Adicional) oferecendo como Tributo 1 monstro em qualquer campo com a face para cima durante o turno que um ou mais monstros forem destruídos pelo efeito de \"Mago do Tempo Sombrio\". Você só pode Invocar por Invocação-Especial \"Dragão Negro de Olhos Vermelhos Excedente\" uma vez por turno essa forma, não importa qual método usar.\r\nSe este card for Invocado por Invocação-Especial: você pode Invocar por Invocação-Especial 1 monstro de Nível 8 ou menor da sua mão ou Cemitério.\r\nNão é afetado pelos efeitos ativados dos monstros e efeitos de Magias do seu oponente.",
+    "overallString": "[Monstro|Efeito|Fusão] Dragão/Trevas  [★9] 3400/3000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306036.jpg?version=19.7"
+  },
+  {
+    "name": "Mago do Tempo Sombrio",
+    "desc": "Ative 1 desses efeitos (mas você só pode usar cada um desses efeitos de \"Mago do Tempo Sombrio\" uma vez por turno);\r\n● Adicione 1 card que mencione \"Mago do Tempo Sombrio\" do seu Deck à sua mão, exceto \"Mago do Tempo Sombrio\", também adicione 1 \"Mago do Tempo Sombrio\" do seu Cemitério à sua mão durante a Fase Final deste turno.\r\n● Jogue uma moeda. Se você acertar, destrua quantos monstros seu oponente controlar for possível, e se fizer, cause dano a ele igual a metade do total do ATK original. Se você errar, destrua todos os monstros que você controla.",
+    "overallString": "[Magia|Magia Rápida]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306052.jpg?version=19.7"
+  },
+  {
+    "name": "Dado Caveira Gracioso",
+    "desc": "Role um dado duas vezes e aplique esses efeitos, em sequência, pelo resto deste turno.\r\n● Monstros que você controla que mencionam \"Mago do Tempo Sombrio\" ganham ATK/DEF igual ao total x 200.\r\n● Monstros que seu oponente controla perdem ATK/DEF igual ao total x 200.\r\nSe seu oponente Invoca um ou mais monstros por Invocação-Normal ou Especial enquanto este card está no seu Cemitério: você pode banir este card, então escolha 1 daqueles monstros; role um dado duas vezes, e se o total for 6 ou mais, destrua aquele monstro.",
+    "overallString": "[Magia|Magia Rápida]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306053.jpg?version=19.7"
+  },
+  {
+    "name": "Bode Expiatório Dormindo",
+    "desc": "Invoque por Invocação-Especial até 4 \"Ficha de Bode Expiatório\" (Besta/TERRA/Nível 1/ATK 0/DEF 0) em Posição de Defesa, então se seu oponente controla um monstro, você pode Invocar por Invocação-Especial 1 \"Guerreiro Pantera Veloz\" do seu Deck, também pelo resto deste turno, estas Fichas não pode ser oferecidas como Tributo para uma Invocação-Tributo, você também não pode Invocar por Invocação-Especial do seu Deck Adicional, exceto Monstros Fusão.\r\nSe um ou mais cards que você controla menciona \"Mago do Tempo Sombrio\" seria destruído por batalha ou efeito, em vez disso você pode destruir 1 das suas Fichas Invocadas.",
+    "overallString": "[Magia|Magia Rápida]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306054.jpg?version=19.7"
+  },
+  {
+    "name": "Ladrão de Túmulos Tolo",
+    "desc": "Envie 1 card que menciona \"Mago do Tempo Sombrio\" do seu Deck ao Cemitério, exceto \"Ladrão de Túmulos Tolo\", então você pode Invocar por Invocação-Especial 1 monstro de qualquer Cemitério para o seu campo.\r\nVocê pode banir este card do seu Cemitério; Baixe 1 destes cards para o seu campo.\r\n● Magia/Armadilha no seu Cemitério que menciona \"Mago do Tempo Sombrio\", exceto \"Ladrão de Túmulos Tolo\".\r\n● Magia/Armadilha no Cemitério do seu oponente.\r\nVocê só pode usar cada um dos efeitos de \"Ladrão de Túmulos Tolo\" uma vez por turno.",
+    "overallString": "[Armadilha]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306070.jpg?version=19.7"
+  },
+  {
+    "name": "Carixa da Reversão",
+    "desc": "Uma vez por turno, durante a Fase de Apoio: role um dado e coloque marcadores neste card igual ao resultado (máx. 6).\r\nUma vez por batalha, se um monstro do oponente ataca, durante o cálculo de dano, OU quando um efeito de monstro é ativado no campo do seu oponente: você pode remover 1 marcador deste card, então escolha 1 daqueles monstros; jogue uma moeda. Se você acertar, você pode Invocar por Invocação-Especial 1 monstro que mencione \"Mago do Tempo Sombrio\" do seu Deck, e se fizer, até o final deste turno, altere o ATK do monstro escolhido para 0, seus efeitos também são negados.",
+    "overallString": "[Armadilha|Magia Contínuo]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306071.jpg?version=19.7"
+  },
+  {
+    "name": "Ogro Desacorrentada - Shara",
+    "desc": "Durante a Fase Principal (Efeito Rápido): você pode descartar este card; Invoque por Invocação-Especial 1 monstro Demônio da sua mão, então destrua 1 card que você controla.\r\nSe um ou mais cards no campo é destruído por um efeito, exceto pelo efeito de \"Ogro Desacorrentada - Shara\", ou por batalha, enquanto este card está no seu Cemitério: você pode Invocar por Invocação-Especial este card (mas coloque-o no fundo do seu Deck quando ele deixar o campo) ou adicione-o à sua mão.\r\nVocê só pode usar cada um dos efeitos de \"Ogro Desacorrentada - Shara\" uma vez por turno.",
     "overallString": "[Monstro|Efeito] Demônio/Fogo  [★4] 1500/2000",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261047.jpg?version=19.7"
   },
   {
-    "name": "破械式鬼 娑玛",
-    "desc": "这个卡名的①②的效果1回合各能使用1次。\r\n①：这张卡召唤的场合才能发动。从卡组把除「破械式鬼 娑玛」外的，4星以下的1只「破械」怪兽特殊召唤。那之后，自己场上1张卡破坏。这个回合，自己不是恶魔族怪兽不能特殊召唤。\r\n②：场上的这张卡被战斗或者「破械式鬼 娑玛」以外的卡的效果破坏的场合才能发动。从手卡·卡组把「破械式鬼 娑玛」以外的1只「破械」怪兽特殊召唤。",
+    "name": "Ogro Desacorrentado - Shma",
+    "desc": "Se este card for Invocado por Invocação-Normal: você pode Invocar por Invocação-Especial 1 monstro \"Desacorrentado(a)\" de Nível 4 ou menor do seu Deck, exceto \"Ogro Desacorrentado - Shma\", então destrua 1 card que você controla, você também não pode Invocar por Invocação-Especial pelo resto deste turno, exceto monstros Demônio.\r\nSe este card é destruído no campo por um efeito, exceto por \"Ogro Desacorrentado - Shma\", ou por batalha: você pode Invocar por Invocação-Especial 1 monstro \"Desacorrentado\" da sua mão ou Deck, exceto \"Ogro Desacorrentado - Shma\".\r\nVocê só pode usar cada um dos efeitos de \"Ogro Desacorrentado - Shma\" uma vez por turno.",
     "overallString": "[Monstro|Efeito] Demônio/Água  [★4] 1500/2000",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261048.jpg?version=19.7"
   },
   {
-    "name": "破械焰魔天 阎摩",
-    "desc": "包含「破械神」怪兽的怪兽2只以上\r\n这个卡名的①②的效果1回合各能使用1次。\r\n①：自己结束阶段，以这个回合被破坏的自己墓地最多2只恶魔族怪兽为对象才能发动。那些怪兽特殊召唤。只要这个效果特殊召唤的怪兽在自己场上以表侧表示存在，自己不是恶魔族怪兽不能特殊召唤。\r\n②：场上的这张卡被战斗·效果破坏的场合，可以作为代替把自己或对方场上1张表侧表示卡破坏。",
+    "name": "Senhor dos Enma Desacorrentado - Yama",
+    "desc": "2+ monstros, incluindo um monstro \"Alma Desacorrentada\"\r\nDurante sua Fase Final: você pode escolher até 2 monstros Demônio no seu Cemitério que foram destruídos e enviados para lá neste turno; Invoque-os por Invocação-Especial, mas você não pode Invocar por Invocação-Especial, exceto monstros Demônio, enquanto você controlar qualquer um daqueles monstros com a face para cima.\r\nSe este card seria destruído no campo por batalha ou efeito, em vez disso você pode destruir 1 card no campo com a face para cima.\r\nVocê só pode usar cada um dos efeitos de \"Senhor dos Enma Desacorrentado - Yama\" uma vez por turno.",
     "overallString": "[Monstro|Efeito|Link] Demônio/Trevas  [LINK-4] 3000/-  [↑][↙][↓][↘]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261050.jpg?version=19.7"
   },
   {
-    "name": "破械神双 罗寂刹",
-    "desc": "包含恶魔族怪兽的怪兽2只以上\r\n这个卡名的①②的效果1回合各能使用1次。\r\n①：对方把怪兽以表侧表示特殊召唤的场合，以那之内的1只为对象才能发动。自己场上1只恶魔族怪兽破坏，作为对象的怪兽的效果直到回合结束时无效。\r\n②：自己场上有连接4以上的「破械」怪兽存在，场上的怪兽的效果发动时，把墓地的这张卡除外才能发动。发动那个效果的怪兽破坏。",
+    "name": "Alma Desacorrentada - Abominador da Fúria",
+    "desc": "2+ monstros, incluindo um monstro Demônio\r\nSe seu oponente Invocar por Invocação-Especial um ou mais monstros com a face para cima: você pode escolher 1 deles; destrói 1 monstro Demônio que você controla, e se fizer, negue os efeitos do monstro escolhido até o final deste turno.\r\nQuando um efeito de monstro é ativado no campo e você controla um Monstro Link \"Desacorrentado(a)\" de Link-4 ou maior (Efeito Rápido): você pode banir este card do seu Cemitério; destrua o monstro que ativou aquele efeito.\r\nVocê só pode usar cada efeito de \"Alma Desacorrentada - Abominador da Fúria\" uma vez por turno.",
     "overallString": "[Monstro|Efeito|Link] Demônio/Trevas  [LINK-3] 2100/-  [←][→][↓]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261051.jpg?version=19.7"
   },
   {
-    "name": "破械习合",
-    "desc": "这个卡名的①②的效果1回合各能使用1次。\r\n①：以包含自己场上的「破械神」连接怪兽的，自己·对方场上的2只表侧表示怪兽为对象才能发动。只用那2只怪兽为素材进行1只恶魔族连接怪兽的连接召唤。\r\n②：盖放的这张卡被效果破坏的场合才能发动。从卡组把1只「破械」怪兽特殊召唤。",
+    "name": "Sincretismo Desacorrentado",
+    "desc": "Escolha 2 monstros no campo com a face para cima, incluindo um Monstro Link \"Alma Desacorrentada\"; imediatamente após ativar este efeito, Invoque por Invocação-Link 1 monstro Demônio usando apenas aqueles 2 monstros.\r\nSe este card Baixado é destruído por efeito: você pode Invocar por Invocação-Especial 1 monstro \"Desacorrentado(a)\" do seu Deck.\r\nVocê só pode usar cada um dos efeitos de \"Sincretismo Desacorrentado\" uma vez por turno.",
     "overallString": "[Armadilha]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261053.jpg?version=19.7"
   },
   {
-    "name": "魔女术工匠·签章女巫",
-    "desc": "这个卡名的①②的效果1回合各能使用1次。\r\n①：把手卡·场上的这张卡解放才能发动。从卡组把1张「魔女术」场地·永续魔法卡加入手卡。\r\n②：这张卡在墓地存在的状态，自己场上表侧表示的「魔女术」怪兽因对方的效果从场上离开的场合才能发动。这张卡特殊召唤，对方场上1只怪兽解放。这个效果特殊召唤的这张卡从场上离开的场合除外。",
+    "name": "Fazticeira Marka",
+    "desc": "Você pode oferecer este card como Tributo da sua mão ou campo; adicione 1 Magia de Campo \"Fazticeira\" ou Magia Contínua do seu Deck à sua mão.\r\nSe um ou mais monstros \"Fazticeira\" que você controla deixa o campo por um efeito do oponente, enquanto este card está no seu Cemitério: você pode Invocar por Invocação-Especial este card (mas bana-o quando deixar o campo), e se fizer, ofereça 1 monstro que seu oponente controla como Tributo.\r\nVocê só pode usar cada efeito de \"Fazticeira Marka\" uma vez por turno.",
     "overallString": "[Monstro|Efeito] Mago/Trevas  [★6] 2500/0",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261024.jpg?version=19.7"
   },
   {
-    "name": "魔女术学徒",
-    "desc": "「魔女术」怪兽＋魔法师族怪兽\r\n这个卡名的①②的效果1回合各能使用1次。\r\n①：自己·对方的主要阶段以及战斗阶段，可以从以下效果选择1个发动。\r\n●从卡组把1张「魔女术」魔法卡加入手卡。\r\n●把手卡1张「魔女术」通常·速攻魔法卡给对方观看才能发动。那张魔法卡发动时的效果适用。\r\n②：自己结束阶段才能发动。自己除外状态的1张「魔女术」卡回到墓地。",
+    "name": "Pupilas de Fazticeira",
+    "desc": "1 monstro \"Fazticeira\" + 1 monstro Mago\r\nDurante a Fase Principal ou de Batalha (Efeito Rápido): você pode ativar 1 desses efeitos;\r\n● Adicione 1 Magia \"Fazticeira\" do seu Deck à sua mão.\r\n● Revele 1 Magia Normal \"Fazticeira\" ou Magia de Efeito Rápido na sua mão; aplique o efeito de ativação daquela Magia.\r\nDurante sua Fase Final: você pode retornar 1 dos seus cards \"Fazticeira\" banidos para o Cemitério.\r\nVocê só pode usar cada efeito de \"Pupilas de Fazticeira\" uma vez por turno.",
     "overallString": "[Monstro|Efeito|Fusão] Mago/Fogo  [★8] 1800/2100",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261026.jpg?version=19.7"
   },

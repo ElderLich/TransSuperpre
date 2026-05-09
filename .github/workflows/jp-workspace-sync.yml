@@ -9,6 +9,7 @@ on:
       - main
     paths:
       - "JP/Workspace/Mappings.csv"
+      - ".github/scripts/card_text_autofill.py"
       - ".github/scripts/ocg_autopr.py"
       - ".github/workflows/jp-workspace-sync.yml"
       - "Tools/PromptPatcher.py"

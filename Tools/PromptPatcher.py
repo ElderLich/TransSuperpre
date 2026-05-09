@@ -33977,7 +33977,27 @@ def build_translation_pack(lang: str):
             "ja": "特殊召喚の数を選択してください",
             "kr": "특수 소환의 수를 선택하세요",
         },
-        
+            "直到下个准备阶段除外": {
+                "en": "Banish until the next Standby Phase",
+                "fr": "Bannir jusqu'à la prochaine Standby Phase",
+                "de": "Bis zur nächsten Standby Phase verbannen",
+                "es": "Desterrar hasta la próxima Standby Phase",
+                "pt": "Banir até a próxima Fase de Apoio",
+                "it": "Bandire fino alla prossima Standby Phase",
+                "ja": "次のスタンバイフェイズまで除外する",
+                "kr": "다음 스탠바이 페이즈까지 제외한다",
+            },
+            "是否破坏并检索?": {
+                "en": "Destroy and add to hand?",
+                "fr": "Détruire et ajouter à la main ?",
+                "de": "Zerstören und der Hand hinzufügen?",
+                "es": "¿Destruir y añadir a la mano?",
+                "pt": "Destruir e adicionar à mão?",
+                "it": "Distruggere e aggiungere alla mano?",
+                "ja": "破壊して手札に加えますか？",
+                "kr": "파괴하고 패에 넣으시겠습니까?",
+            },
+
     }
     for cn, out in extras.items():
         # Keep locale-specific text when available; fall back gracefully if one key is missing.
