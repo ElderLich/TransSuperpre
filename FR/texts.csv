@@ -6,6 +6,16 @@ Vous ne pouvez utiliser chaque effet de ""Ilios le Dragon du Soleil Noir"" qu'un
 100200290,Scène du Destin,"Vous pouvez activer cette carte le tour où elle a été Posée, en révélant 1 Monstre Normal dans votre main.
 Invoquez Spécialement max. 5 Monstres Normaux depuis votre main et/ou Cimetière en Position d'Attaque, et aussi, vous ne pouvez pas Invoquer Spécialement depuis l'Extra Deck le reste de ce tour après la résolution de cette carte.
 Vous ne pouvez activer qu'1 ""Scène du Destin"" par tour.",Activer,Activer en appliquant l'effet de {CARD}.,,,,,,,,,,,,,,
+100200292,Elfe Pur-Sang,"Durant votre Main Phase : vous pouvez envoyer 1 Magie d'Équipement depuis votre Deck au Cimetière, puis cette carte gagne 500 ATK jusqu'à la fin du tour de votre adversaire.
+Vous ne pouvez utiliser cet effet de ""Elfe Pur-Sang"" qu'une fois par tour.
+Lorsque cette carte détruit un monstre de l'adversaire au combat : vous pouvez ajouter à votre main, ou Invoquer Spécialement, 1 monstre LUMIÈRE Magicien de max. Niveau 4 (""Elfe Pur-Sang"" exclu) depuis votre Deck.",Envoyer au Cimetière,Manipulation du Deck,,,,,,,,,,,,,,
+100200293,Lion d'Assaut,"Vous pouvez Invoquer par Sacrifice cette carte face recto en Sacrifiant 1 monstre Bête-Guerrier.
+Si cette carte combat un monstre, les dommages de combat qu'elle inflige à votre adversaire sont doublés.
+Si un ou plusieurs monstres Bête-Guerrier sont Invoqués Normalement ou Spécialement sur votre Terrain tant que cette carte est dans votre Cimetière : vous pouvez ajouter cette carte à votre main, puis immédiatement après la résolution de cet effet, vous pouvez Invoquer par Sacrifice cette carte face recto, et si vous le faites, elle gagne 500 ATK, et aussi, bannissez-la lorsqu'elle quitte le Terrain.
+Vous ne pouvez utiliser cet effet de ""Lion d'Assaut"" qu'une fois par tour.",Invoquer par Sacrifice en Sacrifiant 1 monstre Bête-Guerrier,Ajouter à la main,Invocation Sacrifice ?,,,,,,,,,,,,,
+100200294,Connexion de Puissance,"Ciblez un nombre de votre choix de monstres face recto que vous contrôlez (si vous ciblez min. 2 monstres, ils doivent avoir le même Type) ; ils gagnent 500 ATK pour chaque monstre ciblé, jusqu'à la fin de ce tour.
+Si vous avez activé ""Réincarnation d'Armement"" ce tour : vous pouvez ajouter cette carte depuis votre Cimetière à votre main.
+Vous ne pouvez utiliser chaque effet de ""Connexion de Puissance"" qu'une fois par tour.",Activer,Recycler,,,,,,,,,,,,,,
 100260001,"Chapeau, Troupe de Clowns","Échelle Pendule = 7
 [ Effet Pendule ]
 Durant votre Main Phase : vous pouvez envoyer 1 carte ""Troupe de Clowns"" (Monstres Pendule exclus) depuis votre Deck au Cimetière, et si vous le faites, Invoquez Spécialement cette carte, et aussi, vous ne pouvez pas activer les effets de monstres Invoqués Spécialement depuis le Deck ou Extra Deck jusqu'à la fin du prochain tour. Vous ne pouvez utiliser cet effet de ""Chapeau, Troupe de Clowns"" qu'une fois par tour.
@@ -135,9 +145,9 @@ Vous ne pouvez utiliser chaque effet de ""Origine de l'Archdémon"" qu'une fois 
 Ciblez 1 monstre ""Archdémon"" que vous contrôlez ; il gagne 600 ATK, puis vous pouvez détruire tous les monstres contrôlés par votre adversaire avec une ATK d'origine inférieure à l'ATK du monstre.
 Durant votre Main Phase : vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 monstre Démon de Niveau 6 avec 2500 ATK dans votre Cimetière ; ajoutez-le à votre main.
 Vous ne pouvez utiliser chaque effet de ""Makourai, le Coup de Foudre"" qu'une fois par tour.",Activer,Recycler,Détruire ce monstre ?,,,,,,,,,,,,,
-100265002,魔女术工匠·种植女巫,"这个卡名的①②的效果1回合各能使用1次。
-①：这张卡召唤·特殊召唤的场合，若自己场上有「魔女术工匠·种植女巫」以外的「魔女术」怪兽或「圣月之皇太子 雷古勒斯」存在，则能以场上1张表侧表示卡为对象发动。那张卡回到手卡。
-②：把墓地的这张卡除外才能发动。包含魔法卡的手卡任意数量的卡给对方观看，回到卡组。那之后，自己抽出回去数量。",Renvoyer à la main,Piocher,,,,,,,,,,,,,,
+100265002,"Graine, Artisanesorcière","Si cette carte est Invoquée Normalement ou Spécialement et que vous contrôlez ""Regulus, le Prince d'Endymion"" ou un monstre ""Artisanesorcière"" (""Graine, Artisanesorcière"" exclu) : vous pouvez cibler 1 carte face recto sur le Terrain ; renvoyez-la dans la main.
+Vous pouvez bannir cette carte depuis votre Cimetière ; révélez un nombre de votre choix de cartes dans votre main (une Magie inclue) et mélangez-les dans le Deck, puis piochez autant de cartes.
+Vous ne pouvez utiliser chaque effet de ""Graine, Artisanesorcière"" qu'une fois par tour.",Renvoyer à la main,Piocher,,,,,,,,,,,,,,
 101304081,Joueur de Jeux GG,"2 monstres Machine de Niveau 4
 Si cette carte est Invoquée Spécialement : vous pouvez changer tous les monstres contrôlés par votre adversaire en Position d'Attaque.
 Si votre adversaire a un monstre dans son Terrain ou Cimetière : vous pouvez détacher 1 Matériel de cette carte ; envoyez 1 monstre Machine depuis votre Deck/Extra Deck au Cimetière, puis vous pouvez appliquer cet effet.
@@ -531,10 +541,10 @@ Si elle Invoquée de cette façon : vous pouvez activer cet effet ; infligez 200
 Une fois par tour, lorsque votre adversaire active une carte ou un effet (Effet Rapide) : vous pouvez Invoquer par Fusion 1 Monstre Fusion TÉNÈBRES ou Guerrier depuis votre Extra Deck, en mélangeant ses Matériels depuis votre main, Terrain et/ou Cimetière dans le Deck.",,Infliger des dommages,Invocation Fusion,,,,,,,,,,,,,
 101306022,Lige de la Damnation - HÉROS de la Destinée,"Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez cibler 1 monstre contrôlé par votre adversaire ; bannissez-le jusqu'à la prochaine Standby Phase.
 Vous pouvez envoyer 1 monstre ""HÉROS de la Destinée"" depuis votre Deck au Cimetière ; ajoutez 1 ""Prison de la Tour de l'Horloge"" ou ""Ville-Prison de la Tour de l'Horloge - Ville Ténébreuse"" depuis votre Deck ou Cimetière à votre main, et aussi, vous ne pouvez pas Invoquer Spécialement (monstres ""HÉROS"" TÉNÈBRES exclus) le reste de ce tour.
-Vous ne pouvez utiliser chaque effet de ""Lige de la Damnation - HÉROS de la Destinée"" qu'une fois par tour.",Bannir,Ajouter à la main,Bannir jusqu'à la prochaine Standby Phase,,,,,,,,,,,,,
+Vous ne pouvez utiliser chaque effet de ""Lige de la Damnation - HÉROS de la Destinée"" qu'une fois par tour.",Bannir,Ajouter à la main,直到下个准备阶段除外,,,,,,,,,,,,,
 101306023,Servant du Cuirassé - HÉROS de la Destinée,"Si vous contrôlez un monstre ""HÉROS de la Destinée"" ou une Magie de Terrain face recto : vous pouvez Invoquer Spécialement cette carte depuis votre main, puis vous pouvez détruire 1 carte que vous contrôlez, et si vous le faites, ajoutez 1 ""Polymérisation"" depuis votre Deck à votre main.
 Si vous Invoquez Spécialement un ou plusieurs monstres ""HÉROS de la Destinée"" de Niveau 8 : vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 carte contrôlée par votre adversaire ; placez-la au-dessus du Deck.
-Vous ne pouvez utiliser chaque effet de ""Servant du Cuirassé - HÉROS de la Destinée"" qu'une fois par tour.",Invocation Spéciale,Renvoyer au Deck,Détruire et ajouter à la main ?,,,,,,,,,,,,,
+Vous ne pouvez utiliser chaque effet de ""Servant du Cuirassé - HÉROS de la Destinée"" qu'une fois par tour.",Invocation Spéciale,Renvoyer au Deck,是否破坏并检索？,,,,,,,,,,,,,
 101306036,Dragon Noir aux Yeux Rouges Dépassé,"""Dragon Noir aux Yeux Rouges"" + 1 monstre qui mentionne ""Magicien du Temps des Ténèbres""
 Uniquement soit Invocable par Fusion soit Invocable Spécialement (depuis votre Extra Deck) en Sacrifiant 1 monstre face recto sur l'un des Terrains durant le tour où un ou plusieurs monstres ont été détruits par l'effet de ""Magicien du Temps des Ténèbres"".
 Vous ne pouvez Invoquer Spécialement ""Dragon Noir aux Yeux Rouges Dépassé"" qu'une fois par tour de cette façon, peu importe la méthode que vous utilisez.
