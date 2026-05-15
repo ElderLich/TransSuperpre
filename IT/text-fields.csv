@@ -22,7 +22,7 @@ Quando questa carta distrugge un mostro dell'avversario in battaglia: Puoi aggiu
 Se questa carta combatte contro un mostro, qualsiasi danno da combattimento che infligge al tuo avversario viene raddoppiato.
 Se uno o più mostri Bestia-Guerriero vengono Evocati Normalmente o Specialmente sul tuo Terreno mentre questa carta è nel tuo Cimitero: Puoi aggiungere questa carta alla tua mano, poi immediatamente dopo che questo effetto si è risolto, puoi Evocare tramite Tributo questa carta scoperta, e se lo fai, guadagna 500 ATK, inoltre bandiscila quando lascia il Terreno.
 Puoi utilizzare questo effetto di ""Leone d'Assalto"" una sola volta per turno."
-100200293,Leone d'Assalto,str1,用1只兽战士族怪兽解放召唤
+100200293,Leone d'Assalto,str1,Evocazione tramite Tributo usando 1 mostro Guerriero-Bestia
 100200293,Leone d'Assalto,str2,Aggiungere alla mano
 100200293,Leone d'Assalto,str3,Evocazione tramite Tributo?
 100200294,Connessione Potente,name,Connessione Potente
@@ -786,7 +786,7 @@ Puoi utilizzare ogni effetto di ""Spada Invokazione"" una sola volta per turno."
 Puoi attivare solo 1 ""Spada Spirituale Aiwass"" per turno."
 101305054,Spada Spirituale Aiwass,str1,Attiva
 101305054,Spada Spirituale Aiwass,str2,Evocazione Speciale
-101305054,Spada Spirituale Aiwass,str3,"Scegli 1 mostro ""Aleister"" nel tuo Deck"
+101305054,Spada Spirituale Aiwass,str3,Scegli 1 mostro {CARD} nel tuo Deck
 101305054,Spada Spirituale Aiwass,str4,Bandire dall'Extra Deck
 101305055,Dominio del Patrono Potente Vicolo Cieco - Viraia,name,Dominio del Patrono Potente Vicolo Cieco - Viraia
 101305055,Dominio del Patrono Potente Vicolo Cieco - Viraia,desc,"Mostra 1 ""Nerva la Patrona Potente della Creazione"", 1 ""Jupiter il Patrono Potente della Distruzione"" e 1 ""Junora il Patrono Potente della Sintonizzazione"" dal tuo Extra Deck, Terreno scoperto e/o Cimitero, e se lo fai, il tuo avversario non può attivare carte o effetti in risposta all'attivazione degli effetti dei tuoi mostri ""Patrono Potente"" in questo turno.
@@ -1027,7 +1027,7 @@ Se il tuo avversario Evoca Normalmente o Specialmente uno o più mostri mentre q
 Se una o più carte che controlli che menzionano ""Stregone del Tempo Oscuro"" starebbero per essere distrutte in battaglia o dall'effetto di una carta, puoi invece distruggere 1 Segnalino che controlli che è stato Evocato Specialmente da questo effetto."
 101306054,Capro Espiatorio Dormiente,str1,Attiva
 101306054,Capro Espiatorio Dormiente,str2,Seleziona il numero di Evocazioni Speciali
-101306054,Capro Espiatorio Dormiente,str3,"Evocare Specialmente ""Guerriero Pantera Rapido""?"
+101306054,Capro Espiatorio Dormiente,str3,Evocare Specialmente {CARD}?
 101306062,Città Oscura Prigione della Torre dell'Orologio,name,Città Oscura Prigione della Torre dell'Orologio
 101306062,Città Oscura Prigione della Torre dell'Orologio,desc,"Ogni volta che Evochi Specialmente uno o più mostri ""EROE del Destino"" di Livello 8 o superiore: Tutti i mostri Guerriero che controlli attualmente guadagnano 300 ATK.
 Puoi utilizzare ciascuno dei seguenti effetti di ""Città Oscura Prigione della Torre dell'Orologio"" una sola volta per turno.

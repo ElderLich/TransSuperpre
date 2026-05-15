@@ -10,7 +10,7 @@ Quando questa carta distrugge un mostro dell'avversario in battaglia: Puoi aggiu
 100200293,Leone d'Assalto,"Puoi Evocare tramite Tributo questa carta scoperta offrendo come Tributo 1 mostro Bestia-Guerriero.
 Se questa carta combatte contro un mostro, qualsiasi danno da combattimento che infligge al tuo avversario viene raddoppiato.
 Se uno o più mostri Bestia-Guerriero vengono Evocati Normalmente o Specialmente sul tuo Terreno mentre questa carta è nel tuo Cimitero: Puoi aggiungere questa carta alla tua mano, poi immediatamente dopo che questo effetto si è risolto, puoi Evocare tramite Tributo questa carta scoperta, e se lo fai, guadagna 500 ATK, inoltre bandiscila quando lascia il Terreno.
-Puoi utilizzare questo effetto di ""Leone d'Assalto"" una sola volta per turno.",用1只兽战士族怪兽解放召唤,Aggiungere alla mano,Evocazione tramite Tributo?,,,,,,,,,,,,,
+Puoi utilizzare questo effetto di ""Leone d'Assalto"" una sola volta per turno.",Evocazione tramite Tributo usando 1 mostro Guerriero-Bestia,Aggiungere alla mano,Evocazione tramite Tributo?,,,,,,,,,,,,,
 100200294,Connessione Potente,"Scegli come bersaglio un qualsiasi numero di mostri scoperti che controlli (se scegli come bersaglio 2 o più mostri, devono avere lo stesso Tipo); essi guadagnano 500 ATK per ogni mostro scelto come bersaglio, fino alla fine di questo turno.
 Se hai attivato ""Reincarnazione dell'Armamento"" in questo turno: Puoi aggiungere questa carta dal tuo Cimitero alla tua mano.
 Puoi utilizzare ciascun effetto di ""Connessione Potente"" una sola volta per turno.",Attiva,Recuperare,,,,,,,,,,,,,,
@@ -403,7 +403,7 @@ Puoi utilizzare ogni effetto di ""Spada Invokazione"" una sola volta per turno."
 ● Evoca Specialmente 1 ""Aiwass lo Spirito della Legge"" dal tuo Deck o Cimitero.
 ● Manda al Cimitero, oppure bandisci, 1 mostro ""Aleister"" dal tuo Deck.
 ● Guarda 3 carte coperte casuali nell'Extra Deck del tuo avversario, e se lo fai, bandiscine 1.
-Puoi attivare solo 1 ""Spada Spirituale Aiwass"" per turno.",Attiva,Evocazione Speciale,"Scegli 1 mostro ""Aleister"" nel tuo Deck",Bandire dall'Extra Deck,,,,,,,,,,,,
+Puoi attivare solo 1 ""Spada Spirituale Aiwass"" per turno.",Attiva,Evocazione Speciale,Scegli 1 mostro {CARD} nel tuo Deck,Bandire dall'Extra Deck,,,,,,,,,,,,
 101305055,Dominio del Patrono Potente Vicolo Cieco - Viraia,"Mostra 1 ""Nerva la Patrona Potente della Creazione"", 1 ""Jupiter il Patrono Potente della Distruzione"" e 1 ""Junora il Patrono Potente della Sintonizzazione"" dal tuo Extra Deck, Terreno scoperto e/o Cimitero, e se lo fai, il tuo avversario non può attivare carte o effetti in risposta all'attivazione degli effetti dei tuoi mostri ""Patrono Potente"" in questo turno.
 Se dovresti bandire la/e carta/e in cima al tuo Deck per attivare l'effetto di un mostro ""Patrono Potente"" che controlli, puoi invece bandire questa carta dal tuo Cimitero.
 Puoi utilizzare ogni effetto di ""Dominio del Patrono Potente Vicolo Cieco - Viraia"" una sola volta per turno.",Attiva,"Bandire ""Dominio del Patrono Potente Vicolo Cieco - Viraia"" invece?",,,,,,,,,,,,,,
@@ -523,7 +523,7 @@ L'ATK di questa carta diventa pari alla somma degli ATK originali di tutti gli a
 ● I mostri che controlla il tuo avversario perdono ATK/DEF pari al totale × 200.
 Se il tuo avversario Evoca Normalmente o Specialmente uno o più mostri mentre questa carta è nel tuo Cimitero: puoi bandire questa carta, poi scegliere come bersaglio 1 di quei mostri; tira due volte un dado a 6 facce e, se il totale è 6 o più, distruggi quel mostro.",Attiva,Tirare un dado,,,,,,,,,,,,,,
 101306054,Capro Espiatorio Dormiente,"Evoca Specialmente fino a 4 ""Segna-Capro Espiatorio"" (Bestia/TERRA/Livello 1/ATK 0/DEF 0) in Posizione di Difesa, poi se il tuo avversario controlla un mostro, puoi Evocare Specialmente 1 ""Guerriero Pantera Rapido"" dal tuo Deck, inoltre per il resto di questo turno questi Segnalini non possono essere offerti come Tributo per una Evocazione tramite Tributo, inoltre non puoi Evocare Specialmente dall'Extra Deck, eccetto Mostri Fusione.
-Se una o più carte che controlli che menzionano ""Stregone del Tempo Oscuro"" starebbero per essere distrutte in battaglia o dall'effetto di una carta, puoi invece distruggere 1 Segnalino che controlli che è stato Evocato Specialmente da questo effetto.",Attiva,Seleziona il numero di Evocazioni Speciali,"Evocare Specialmente ""Guerriero Pantera Rapido""?",,,,,,,,,,,,,
+Se una o più carte che controlli che menzionano ""Stregone del Tempo Oscuro"" starebbero per essere distrutte in battaglia o dall'effetto di una carta, puoi invece distruggere 1 Segnalino che controlli che è stato Evocato Specialmente da questo effetto.",Attiva,Seleziona il numero di Evocazioni Speciali,Evocare Specialmente {CARD}?,,,,,,,,,,,,,
 101306062,Città Oscura Prigione della Torre dell'Orologio,"Ogni volta che Evochi Specialmente uno o più mostri ""EROE del Destino"" di Livello 8 o superiore: Tutti i mostri Guerriero che controlli attualmente guadagnano 300 ATK.
 Puoi utilizzare ciascuno dei seguenti effetti di ""Città Oscura Prigione della Torre dell'Orologio"" una sola volta per turno.
 Durante la tua Main Phase, se questa carta è stata attivata in questo turno: Puoi aggiungere 1 mostro ""EROE del Destino"", o 1 carta che menziona il nome di una carta ""EROE del Destino"", dal tuo Deck alla tua mano.
