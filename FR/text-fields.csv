@@ -24,7 +24,7 @@ Lorsque cette carte détruit un monstre de l'adversaire au combat : vous pouvez 
 Si cette carte combat un monstre, les dommages de combat qu'elle inflige à votre adversaire sont doublés.
 Si un ou plusieurs monstres Bête-Guerrier sont Invoqués Normalement ou Spécialement sur votre Terrain tant que cette carte est dans votre Cimetière : vous pouvez ajouter cette carte à votre main, puis immédiatement après la résolution de cet effet, vous pouvez Invoquer par Sacrifice cette carte face recto, et si vous le faites, elle gagne 500 ATK, et aussi, bannissez-la lorsqu'elle quitte le Terrain.
 Vous ne pouvez utiliser cet effet de ""Lion d'Assaut"" qu'une fois par tour."
-100200293,Lion d'Assaut,str1,Invoquer par Sacrifice en Sacrifiant 1 monstre Bête-Guerrier
+100200293,Lion d'Assaut,str1,Invocation Sacrifice en Sacrifiant 1 monstre Bête-Guerrier
 100200293,Lion d'Assaut,str2,Ajouter à la main
 100200293,Lion d'Assaut,str3,Invocation Sacrifice ?
 100200294,Connexion de Puissance,name,Connexion de Puissance
@@ -1026,14 +1026,14 @@ Vous pouvez envoyer 1 monstre ""HÉROS de la Destinée"" depuis votre Deck au Ci
 Vous ne pouvez utiliser chaque effet de ""Lige de la Damnation - HÉROS de la Destinée"" qu'une fois par tour."
 101306022,Lige de la Damnation - HÉROS de la Destinée,str1,Bannir
 101306022,Lige de la Damnation - HÉROS de la Destinée,str2,Ajouter à la main
-101306022,Lige de la Damnation - HÉROS de la Destinée,str3,直到下个准备阶段除外
+101306022,Lige de la Damnation - HÉROS de la Destinée,str3,Bannir jusqu'à la prochaine Standby Phase
 101306023,Servant du Cuirassé - HÉROS de la Destinée,name,Servant du Cuirassé - HÉROS de la Destinée
 101306023,Servant du Cuirassé - HÉROS de la Destinée,desc,"Si vous contrôlez un monstre ""HÉROS de la Destinée"" ou une Magie de Terrain face recto : vous pouvez Invoquer Spécialement cette carte depuis votre main, puis vous pouvez détruire 1 carte que vous contrôlez, et si vous le faites, ajoutez 1 ""Polymérisation"" depuis votre Deck à votre main.
 Si vous Invoquez Spécialement un ou plusieurs monstres ""HÉROS de la Destinée"" de Niveau 8 : vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 carte contrôlée par votre adversaire ; placez-la au-dessus du Deck.
 Vous ne pouvez utiliser chaque effet de ""Servant du Cuirassé - HÉROS de la Destinée"" qu'une fois par tour."
 101306023,Servant du Cuirassé - HÉROS de la Destinée,str1,Invocation Spéciale
 101306023,Servant du Cuirassé - HÉROS de la Destinée,str2,Renvoyer au Deck
-101306023,Servant du Cuirassé - HÉROS de la Destinée,str3,是否破坏并检索？
+101306023,Servant du Cuirassé - HÉROS de la Destinée,str3,Détruire et ajouter à la main ?
 101306036,Dragon Noir aux Yeux Rouges Dépassé,name,Dragon Noir aux Yeux Rouges Dépassé
 101306036,Dragon Noir aux Yeux Rouges Dépassé,desc,"""Dragon Noir aux Yeux Rouges"" + 1 monstre qui mentionne ""Magicien du Temps des Ténèbres""
 Uniquement soit Invocable par Fusion soit Invocable Spécialement (depuis votre Extra Deck) en Sacrifiant 1 monstre face recto sur l'un des Terrains durant le tour où un ou plusieurs monstres ont été détruits par l'effet de ""Magicien du Temps des Ténèbres"".
