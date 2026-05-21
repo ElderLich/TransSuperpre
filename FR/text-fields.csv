@@ -158,6 +158,18 @@ Si cette carte sur le Terrain est détruite par un effet de carte (celui de ""Og
 Vous ne pouvez utiliser chaque effet de ""Ogresses Désenchaînées - Shma"" qu'une fois par tour."
 100261048,Ogresses Désenchaînées - Shma,str1,Invoquer Spécialement depuis le Deck
 100261048,Ogresses Désenchaînées - Shma,str2,Invoquer Spécialement depuis la main/le Deck
+100261049,破械冥官 神乐,name,破械冥官 神乐
+100261049,破械冥官 神乐,desc,"这个卡名的①②的效果1回合各能使用1次。
+①：以自己场上最多3张卡为对象才能发动。那些卡破坏，这张卡从手卡特殊召唤。那之后，根据破坏的卡的原本种类，以下效果各能适用。
+●怪兽：自己抽1张。
+●魔法：场上1只怪兽的表示形式变更。
+●陷阱：场上1张其他卡破坏。
+②：场上的这张卡被效果破坏的场合才能发动。场上的怪兽全部破坏。"
+100261049,破械冥官 神乐,str1,Invocation Spéciale
+100261049,破械冥官 神乐,str2,Effet de destruction
+100261049,破械冥官 神乐,str3,Piocher 1 carte ?
+100261049,破械冥官 神乐,str4,Changer la position de combat ?
+100261049,破械冥官 神乐,str5,Détruire ?
 100261050,Enma Désenchaîné du Seigneur de Yama,name,Enma Désenchaîné du Seigneur de Yama
 100261050,Enma Désenchaîné du Seigneur de Yama,desc,"2+ monstres (un monstre ""Âme Désenchaînée"" inclus)
 Durant votre End Phase : vous pouvez cibler max. 2 monstres Démon dans votre Cimetière qui ont été détruits et y ont été envoyés ce tour ; Invoquez-les Spécialement, mais vous ne pouvez pas Invoquer Spécialement (monstres Démon exclus) tant que vous contrôlez l'un des monstres face recto.
@@ -172,6 +184,13 @@ Lorsqu'un effet de monstre est activé sur le Terrain et que vous contrôlez un 
 Vous ne pouvez utiliser chaque effet de ""Âme Désenchaînée de la Rage Abominateur"" qu'une fois par tour."
 100261051,Âme Désenchaînée de la Rage Abominateur,str1,Annuler
 100261051,Âme Désenchaînée de la Rage Abominateur,str2,Détruire
+100261052,破械转生,name,破械转生
+100261052,破械转生,desc,"这个卡名的卡在1回合只能发动1张。
+①：作为这张卡的发动时的效果处理，可以从卡组把「破械转生」以外的1张「破械」魔法卡或「双王之械」加入手卡。 
+②：1回合1次，以「破械转生」以外的自己墓地最多3张「破械」卡为对象才能发动。那些卡回到卡组。那之后，可以把最多有回去数量的自己场上的其他卡破坏。"
+100261052,破械转生,str1,Ajouter à la main?
+100261052,破械转生,str2,Effet de récupération
+100261052,破械转生,str3,Détruire la carte ?
 100261053,Syncrétisme Désenchaîné,name,Syncrétisme Désenchaîné
 100261053,Syncrétisme Désenchaîné,desc,"Ciblez 2 monstres face recto sur le Terrain (un Monstre Lien ""Âme Désenchaînée"" que vous contrôlez inclus) ; immédiatement après la résolution de cet effet, Invoquez par Lien 1 monstre Démon en utilisant uniquement les 2 monstres.
 Si cette carte Posée est détruite par un effet de carte : vous pouvez Invoquer Spécialement 1 monstre ""Désenchaîné"" depuis votre Deck.
