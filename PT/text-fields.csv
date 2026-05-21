@@ -153,6 +153,18 @@ Se este card é destruído no campo por um efeito, exceto por ""Ogro Desacorrent
 Você só pode usar cada um dos efeitos de ""Ogro Desacorrentado - Shma"" uma vez por turno."
 100261048,Ogro Desacorrentado - Shma,str1,Invocar por Invocação Especial do Deck
 100261048,Ogro Desacorrentado - Shma,str2,Invocar por Invocação Especial da sua mão/Deck
+100261049,破械冥官 神乐,name,破械冥官 神乐
+100261049,破械冥官 神乐,desc,"这个卡名的①②的效果1回合各能使用1次。
+①：以自己场上最多3张卡为对象才能发动。那些卡破坏，这张卡从手卡特殊召唤。那之后，根据破坏的卡的原本种类，以下效果各能适用。
+●怪兽：自己抽1张。
+●魔法：场上1只怪兽的表示形式变更。
+●陷阱：场上1张其他卡破坏。
+②：场上的这张卡被效果破坏的场合才能发动。场上的怪兽全部破坏。"
+100261049,破械冥官 神乐,str1,Invocação Especial
+100261049,破械冥官 神乐,str2,Efeito de destruição
+100261049,破械冥官 神乐,str3,Comprar 1 card?
+100261049,破械冥官 神乐,str4,Mudar a posição de batalha?
+100261049,破械冥官 神乐,str5,Destruir?
 100261050,Senhor dos Enma Desacorrentado - Yama,name,Senhor dos Enma Desacorrentado - Yama
 100261050,Senhor dos Enma Desacorrentado - Yama,desc,"2+ monstros, incluindo um monstro ""Alma Desacorrentada""
 Durante sua Fase Final: você pode escolher até 2 monstros Demônio no seu Cemitério que foram destruídos e enviados para lá neste turno; Invoque-os por Invocação-Especial, mas você não pode Invocar por Invocação-Especial, exceto monstros Demônio, enquanto você controlar qualquer um daqueles monstros com a face para cima.
@@ -167,6 +179,13 @@ Quando um efeito de monstro é ativado no campo e você controla um Monstro Link
 Você só pode usar cada efeito de ""Alma Desacorrentada - Abominador da Fúria"" uma vez por turno."
 100261051,Alma Desacorrentada - Abominador da Fúria,str1,Negar
 100261051,Alma Desacorrentada - Abominador da Fúria,str2,Destruir
+100261052,破械转生,name,破械转生
+100261052,破械转生,desc,"这个卡名的卡在1回合只能发动1张。
+①：作为这张卡的发动时的效果处理，可以从卡组把「破械转生」以外的1张「破械」魔法卡或「双王之械」加入手卡。 
+②：1回合1次，以「破械转生」以外的自己墓地最多3张「破械」卡为对象才能发动。那些卡回到卡组。那之后，可以把最多有回去数量的自己场上的其他卡破坏。"
+100261052,破械转生,str1,Adicionar à mão?
+100261052,破械转生,str2,Efeito de recuperação
+100261052,破械转生,str3,Destruir o card?
 100261053,Sincretismo Desacorrentado,name,Sincretismo Desacorrentado
 100261053,Sincretismo Desacorrentado,desc,"Escolha 2 monstros no campo com a face para cima, incluindo um Monstro Link ""Alma Desacorrentada""; imediatamente após ativar este efeito, Invoque por Invocação-Link 1 monstro Demônio usando apenas aqueles 2 monstros.
 Se este card Baixado é destruído por efeito: você pode Invocar por Invocação-Especial 1 monstro ""Desacorrentado(a)"" do seu Deck.
