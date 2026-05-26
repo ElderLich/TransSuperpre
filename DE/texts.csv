@@ -1,15 +1,17 @@
 id,name,desc,str1,str2,str3,str4,str5,str6,str7,str8,str9,str10,str11,str12,str13,str14,str15,str16
-100200290,命运之盘上,"这个卡名的卡在1回合只能发动1张。这张卡也能把手卡1只通常怪兽给对方观看，在盖放的回合发动。
-①：从自己的手卡·墓地把最多5只通常怪兽以攻击表示特殊召唤。这张卡的发动后，直到回合结束时自己不能从额外卡组把怪兽特殊召唤。",Aktivieren,"Aktiviere, indem du den Effekt von {CARD} anwendest.",,,,,,,,,,,,,,
-100200292,优秀精灵,"这个卡名的①的效果1回合只能使用1次。
-①：自己主要阶段才能发动。从卡组把1张装备魔法卡送去墓地。那之后，这张卡的攻击力直到对方回合结束时上升500。
-②：这张卡战斗破坏对方怪兽时才能发动。从卡组选除「优秀精灵」外的，4星以下的1只魔法师族·光属性怪兽，加入手卡或特殊召唤。",Auf den Friedhof legen,Deck-Manipulation,,,,,,,,,,,,,,
-100200293,强袭狮子,"这张卡可以把1只兽战士族怪兽解放以表侧表示作上级召唤。这个卡名的②的效果1回合只能使用1次。
-①：这张卡用和怪兽的战斗给与对方的战斗伤害变成2倍。
-②：这张卡在墓地存在的状态，自己场上有兽战士族怪兽召唤·特殊召唤的场合才能发动。这张卡加入手卡。那之后，可以以表侧表示进行这张卡的上级召唤。这个效果上级召唤的这张卡攻击力上升500，从场上离开的场合除外。","Als Tributbeschwörung beschwören, indem du 1 Ungeheuer-Krieger-Monster als Tribut anbietest",Der Hand hinzufügen,Tributbeschwörung?,,,,,,,,,,,,,
-100200294,力量联结,"这个卡名的①②的效果1回合各能使用1次。
-①：以自己场上的表侧表示怪兽任意数量为对象才能发动（2只以上为对象的场合必须是相同种族）。作为对象的怪兽的攻击力直到回合结束时上升作为对象的怪兽的数量×500。
-②：自己发动过「武装转生」的回合才能发动。墓地的这张卡加入手卡。",Aktivieren,Zurückholen,,,,,,,,,,,,,,
+100200290,Bühne des Schicksals,"Du kannst diese Karte in dem Spielzug aktivieren, in dem sie gesetzt wurde, indem du 1 Normale Monster in deiner Hand vorzeigst.
+Beschwöre bis zu 5 Normale Monster als Spezialbeschwörung von deiner Hand und/oder deinem Friedhof in die Angriffsposition, zusätzlich kannst du für den Rest dieses Spielzugs, nachdem diese Karte aufgelöst wurde, keine Spezialbeschwörungen vom Extra Deck durchführen.
+Du kannst nur 1 „Bühne des Schicksals“ pro Spielzug aktivieren.",Aktivieren,"Aktiviere, indem du den Effekt von {CARD} anwendest.",,,,,,,,,,,,,,
+100200292,Reinrassiger Elf,"Während deiner Main Phase: Du kannst 1 Ausrüstungszauber von deinem Deck auf den Friedhof legen, dann erhält diese Karte bis zum Ende des Spielzugs deines Gegners 500 ATK.
+Du kannst diesen Effekt von „Reinrassiger Elf“ nur einmal pro Spielzug verwenden.
+Wenn diese Karte ein Monster deines Gegners durch Kampf zerstört: Du kannst 1 LICHT Hexer-Monster der Stufe 4 oder niedriger von deinem Deck deiner Hand hinzufügen oder als Spezialbeschwörung beschwören, außer „Reinrassiger Elf“.",Auf den Friedhof legen,Deck-Manipulation,,,,,,,,,,,,,,
+100200293,Angriffslöwe,"Du kannst diese Karte offen als Tributbeschwörung beschwören, indem du 1 Ungeheuer-Krieger-Monster als Tribut anbietest.
+Falls diese Karte gegen ein Monster kämpft, wird der Kampfschaden verdoppelt, den sie deinem Gegner zufügt.
+Falls ein oder mehr Ungeheuer-Krieger-Monster als Normal- oder Spezialbeschwörung auf deine Spielfeldseite beschworen werden, solange sich diese Karte in deinem Friedhof befindet: Du kannst diese Karte deiner Hand hinzufügen, dann, sofort nachdem dieser Effekt aufgelöst wurde, kannst du diese Karte offen als Tributbeschwörung beschwören und falls du dies tust, erhält sie 500 ATK, zusätzlich verbanne sie, wenn sie das Spielfeld verlässt.
+Du kannst diesen Effekt von „Angriffslöwe“ nur einmal pro Spielzug verwenden.","Als Tributbeschwörung beschwören, indem du 1 Ungeheuer-Krieger-Monster als Tribut anbietest",Der Hand hinzufügen,Tributbeschwörung?,,,,,,,,,,,,,
+100200294,Kraftverbindung,"Wähle eine beliebige Anzahl offener Monster, die du kontrolliert, (falls du 2 oder mehr Monster wählst, müssen sie denselben Typ haben); sie erhalten, bis zum Ende dieses Spielzugs, für jedes gewählte Monster 500 ATK.
+Falls du „Kraftverbindung“ in diesen Spielzug aktiviert hast: Du kannst diese Karte von deinem Friedhof deiner Hand hinzufügen.
+Du kannst jeden Effekt von „Kraftverbindung“ nur einmal pro Spielzug verwenden.",Aktivieren,Zurückholen,,,,,,,,,,,,,,
 100260001,Clowntrupp Hut,"Pendelbereich = 7
 [ Pendeleffekt ]
 Während deiner Main Phase: Du kannst 1 „Clowntrupp“-Karte von deinem Deck auf deinen Friedhof legen, außer einem Pendelmonster und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung, zusätzlich kannst du bis zum Ende des nächsten Spielzugs die Effekte von Monstern die als Spezialbeschwörung vom Deck oder Extra Deck beschworen wurden nicht aktivieren.
@@ -49,19 +51,19 @@ Du kannst diesen Effekt von „Verstand Scan“ nur einmal pro Spielzug verwende
 100261023,Hexwerkerin Terracottan,"Falls sich diese Karte in deiner Hand befindet: Du kannst 1 „Hexwerker“-Karte in deinem Friedhof wählen, außer „Hexwerkerin Terracottan“; füge es deiner Hand hinzu und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung, zusätzlich kannst du für den Rest dieses Spielzugs keine Spezialbeschwörungen vom Extra Deck durchführen, außer von „Hexwerker“-Monstern.
 Während deiner Main Phase: Du kannst 1 „Hexwerker“-Fusionsmonster als Fusionsbeschwörung von deinem Extra Deck beschwören, verwende dabei Monster von deiner Hand oder Spielfeldseite als Fusionsmaterial.
 Du kannst jeden Effekt von „Hexwerkerin Terracottan“ nur einmal pro Spielzug verwenden.",Als Spezialbeschwörung beschwören,Als Fusionsbeschwörung beschwören,,,,,,,,,,,,,,
-100261024,魔女术工匠·签章女巫,"这个卡名的①②的效果1回合各能使用1次。
-①：把手卡·场上的这张卡解放才能发动。从卡组把1张「魔女术」场地·永续魔法卡加入手卡。
-②：这张卡在墓地存在的状态，自己场上表侧表示的「魔女术」怪兽因对方的效果从场上离开的场合才能发动。这张卡特殊召唤，对方场上1只怪兽解放。这个效果特殊召唤的这张卡从场上离开的场合除外。",Der Hand hinzufügen,Als Spezialbeschwörung beschwören,,,,,,,,,,,,,,
+100261024,Hexwerkerin Marka,"Du kannst diese Karte von deiner Hand oder Spielfeldseite als Tribut anbieten; füge deiner Hand 1 „Hexwerker“-Spielfeld- oder Permanenten Zauber von deinem Deck hinzu.
+Falls ein oder mehr offene „Hexwerker“-Monster, die du kontrollierst, das Spielfeld durch einen Karteneffekt eines Gegners verlassen, solange sich diese Karte in deinem Friedhof befindet: Du kannst diese Karte als Spezialbeschwörung beschwören (aber verbanne sie, wenn sie das Spielfeld verlässt) und falls du dies tust, biete 1 Monster, das dein Gegner kontrolliert, als Tribut an.
+Du kannst jeden Effekt von „Hexwerkerin Marka“ nur einmal pro Spielzug verwenden.",Der Hand hinzufügen,Als Spezialbeschwörung beschwören,,,,,,,,,,,,,,
 100261025,Hexwerkerin Madam Rilliona,"„Hexwerkerin Madam Verre“ + 2 Hexer-Monster
 Falls diese Karte als Fusionsbeschwörung beschworen wird: Du kannst bis zu 3 „Hexwerker“-Monster der Stufe 7 oder niedriger mit unterschiedlichen Eigenschaften voneinander als Spezialbeschwörung von deiner Hand und/oder deinem Deck beschwören, zusätzlich kannst du für den Rest dieses Spielzugs keine Spezialbeschwörungen vom Extra Deck durchführen, außer von Fusionsmonstern.
 Während deiner End Phase, falls sich diese Karte in deinem Friedhof befindet: Du kannst 1 Zauber in deiner Hand vorzeigen; beschwöre diese Karte als Spezialbeschwörung in die Verteidigungsposition.
 Du kannst jeden Effekt von „Hexwerkerin Madam Rilliona“ nur einmal pro Spielzug verwenden.",Als Spezialbeschwörung vom Deck beschwören,Diese Karte als Spezialbeschwörung beschören,,,,,,,,,,,,,,
-100261026,魔女术学徒,"「魔女术」怪兽＋魔法师族怪兽
-这个卡名的①②的效果1回合各能使用1次。
-①：自己·对方的主要阶段以及战斗阶段，可以从以下效果选择1个发动。
-●从卡组把1张「魔女术」魔法卡加入手卡。
-●把手卡1张「魔女术」通常·速攻魔法卡给对方观看才能发动。那张魔法卡发动时的效果适用。
-②：自己结束阶段才能发动。自己除外状态的1张「魔女术」卡回到墓地。",Aktivieren,Auf den Friedhof zurücklegen,Sucheffekt,Effekt kopieren,,,,,,,,,,,,
+100261026,Hexwerkerin Pupils,"1 „Hexwerker“-Monster + 1 Hexer-Monster
+Während der Main oder Battle Phase (Schnelleffekt): Du kannst 1 dieser Effekte aktivieren;
+● Füge deiner Hand 1 „Hexwerker“-Zauber von deinem Deck hinzu.
+● Zeige 1 „Hexwerker“-Zauber oder „Hexwerker“-Schnellzauber in deiner Hand vor; führe den Aktivierungseffekt jenes Zaubers aus.
+Während deiner End Phase: Du kannst 1 deiner verbannten „Hexwerker“-Karten auf den Friedhof zurücklegen.
+Du kannst jeden Effekt von „Hexwerkerin Pupils“ nur einmal pro Spielzug verwenden.",Aktivieren,Auf den Friedhof zurücklegen,Sucheffekt,Effekt kopieren,,,,,,,,,,,,
 100261027,Hexwerker-Feier,"Aktiviere 1 dieser Effekte;
 ● Zerstöre 1 „Hexwerker“-Monster, das du kontrollierst, und 1 Karte, die dein Gegner kontrolliert.
 ● Beschwöre 1 „Hexwerker“-Fusionsmonster als Fusionsbeschwörung von deinem Extra Deck, indem du Hexer-Monster von deinem Friedhof und/oder deinen verbannten Karten ins Deck mischst.
@@ -73,32 +75,32 @@ Während deines Spielzugs, falls du abwerfen würdest, um den Effekt eines „He
 100261029,Hexwerker-Verzerrung,"Wenn eine Zauber-/Fallenkarte oder ein Monstereffekt aktiviert wird und du ein „Hexwerker“-Monster der Stufe 5 oder höher kontrollierst: Annulliere die Aktivierung und falls du dies tust, zerstöre die Karte.
 Falls sich diese Karte in deinem Friedhof befindet, außer in dem Spielzug, in dem sie dorthin gelegt wurde: Du kannst sie verbannen; füge deiner Hand 1 Hexer-Monster der Stufe 5 oder höher von deinem Deck hinzu, dann wirf 1 Karte ab.
 Du kannst jeden Effekt von „Hexwerker-Verzerrung“ nur einmal pro Spielzug verwenden.",Aktivieren,Der Hand hinzufügen,,,,,,,,,,,,,,
-100261047,破械式鬼 萨拉,"这个卡名的①②的效果1回合各能使用1次。
-①：自己·对方的主要阶段，把这张卡从手卡丢弃才能发动。从手卡把1只恶魔族怪兽特殊召唤。那之后，自己场上1张卡破坏。
-②：这张卡在墓地存在的状态，场上的卡被战斗或者「破械式鬼 萨拉」以外的卡的效果破坏的场合才能发动。这张卡加入手卡或特殊召唤。这个效果特殊召唤的这张卡从场上离开的场合回到卡组最下面。",Als Spezialbeschwörung beschwören,Zurückholen,,,,,,,,,,,,,,
-100261048,破械式鬼 娑玛,"这个卡名的①②的效果1回合各能使用1次。
-①：这张卡召唤的场合才能发动。从卡组把除「破械式鬼 娑玛」外的，4星以下的1只「破械」怪兽特殊召唤。那之后，自己场上1张卡破坏。这个回合，自己不是恶魔族怪兽不能特殊召唤。
-②：场上的这张卡被战斗或者「破械式鬼 娑玛」以外的卡的效果破坏的场合才能发动。从手卡·卡组把「破械式鬼 娑玛」以外的1只「破械」怪兽特殊召唤。",Als Spezialbeschwörung vom Deck beschwören,Als Spezialbeschwörung aus der Hand/dem Deck beschwören,,,,,,,,,,,,,,
-100261049,破械冥官 神乐,"这个卡名的①②的效果1回合各能使用1次。
-①：以自己场上最多3张卡为对象才能发动。那些卡破坏，这张卡从手卡特殊召唤。那之后，根据破坏的卡的原本种类，以下效果各能适用。
-●怪兽：自己抽1张。
-●魔法：场上1只怪兽的表示形式变更。
-●陷阱：场上1张其他卡破坏。
-②：场上的这张卡被效果破坏的场合才能发动。场上的怪兽全部破坏。",Als Spezialbeschwörung beschwören,Zerstörungseffekt,1 Karte ziehen?,Kampfposition ändern?,Zerstören?,,,,,,,,,,,
-100261050,破械焰魔天 阎摩,"包含「破械神」怪兽的怪兽2只以上
-这个卡名的①②的效果1回合各能使用1次。
-①：自己结束阶段，以这个回合被破坏的自己墓地最多2只恶魔族怪兽为对象才能发动。那些怪兽特殊召唤。只要这个效果特殊召唤的怪兽在自己场上以表侧表示存在，自己不是恶魔族怪兽不能特殊召唤。
-②：场上的这张卡被战斗·效果破坏的场合，可以作为代替把自己或对方场上1张表侧表示卡破坏。",Als Spezialbeschwörung beschwören,,Als Spezialbeschwörung durch den Effekt von {CARD} beschworen,,,,,,,,,,,,,
-100261051,破械神双 罗寂刹,"包含恶魔族怪兽的怪兽2只以上
-这个卡名的①②的效果1回合各能使用1次。
-①：对方把怪兽以表侧表示特殊召唤的场合，以那之内的1只为对象才能发动。自己场上1只恶魔族怪兽破坏，作为对象的怪兽的效果直到回合结束时无效。
-②：自己场上有连接4以上的「破械」怪兽存在，场上的怪兽的效果发动时，把墓地的这张卡除外才能发动。发动那个效果的怪兽破坏。",Annullieren,Zerstören,,,,,,,,,,,,,,
-100261052,破械转生,"这个卡名的卡在1回合只能发动1张。
-①：作为这张卡的发动时的效果处理，可以从卡组把「破械转生」以外的1张「破械」魔法卡或「双王之械」加入手卡。 
-②：1回合1次，以「破械转生」以外的自己墓地最多3张「破械」卡为对象才能发动。那些卡回到卡组。那之后，可以把最多有回去数量的自己场上的其他卡破坏。",Der Hand hinzufügen?,Rückgewinnungseffekt,Die Karte zerstören?,,,,,,,,,,,,,
-100261053,破械习合,"这个卡名的①②的效果1回合各能使用1次。
-①：以包含自己场上的「破械神」连接怪兽的，自己·对方场上的2只表侧表示怪兽为对象才能发动。只用那2只怪兽为素材进行1只恶魔族连接怪兽的连接召唤。
-②：盖放的这张卡被效果破坏的场合才能发动。从卡组把1只「破械」怪兽特殊召唤。",Linkbeschwörung,Als Spezialbeschwörung beschwören,,,,,,,,,,,,,,
+100261047,Losgeketteter Oger Shara,"Während der Main Phase (Schnelleffekt): Du kannst diese Karte abwerfen; beschwöre 1 Unterweltler-Monster als Spezialbeschwörung von deiner Hand, dann zerstöre 1 Karte, die du kontrollierst.
+Falls eine oder mehr Karten auf dem Spielfeld durch Kampf oder einen Karteneffekt zerstört werden, außer durch den Effekt von „Losgeketteter Oger Shara“, solange sich diese Karte in deinem Friedhof befindet: Du kannst diese Karte als Spezialbeschwörung beschwören (aber lege sie unters Deck, wenn sie das Spielfeld verlässt) oder füge sie deiner Hand hinzu.
+Du kannst jeden Effekt von „Losgeketteter Oger Shara“ nur einmal pro Spielzug verwenden.",Als Spezialbeschwörung beschwören,Zurückholen,,,,,,,,,,,,,,
+100261048,Losgeketteter Oger Shma,"Falls diese Karte als Normalbeschwörung beschworen wird: Du kannst 1 „Losgekettet“-Monster der Stufe 4 oder niedriger als Spezialbeschwörung von deinem Deck beschwören, außer „Losgeketteter Oger Shma“, dann zerstöre 1 Karte, die du kontrollierst, zusätzlich kannst du für den Rest dieses Spielzugs keine Monster als Spezialbeschwörung beschwören, außer Unterweltler-Monstern.
+Falls diese Karte auf dem Spielfeld durch Kampf oder einen Karteneffekt zerstört wird, außer durch den Effekt von „Losgeketteter Oger Shma“: Du kannst 1 „Losgekettet“-Monster als Spezialbeschwörung von deiner Hand oder deinem Deck beschwören, außer „Losgeketteter Oger Shma“.
+Du kannst jeden Effekt von „Losgeketteter Oger Shma“ nur einmal pro Spielzug verwenden.",Als Spezialbeschwörung vom Deck beschwören,Als Spezialbeschwörung aus der Hand/dem Deck beschwören,,,,,,,,,,,,,,
+100261049,Losgeketteter bösartiger Magistrat Kamura,"Du kannst bis zu 3 Karten wählen, die du kontrolliert; zerstöre sie und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung von deiner Hand, dann kannst du beliebige der folgenden Effekte nacheinander ausführen, basierend auf den Grund-Typen aller zerstörten Karten.
+● Monster: Ziehe 1 Karte.
+● Zauber: Ändere die Kampfposition von 1 Monster auf dem Spielfeld.
+● Falle: Zerstöre 1 andere Karte auf dem Spielfeld.
+Falls diese Karte auf dem Spielfeld durch einen Karteneffekt zerstört wird: Du kannst alle Monster auf dem Spielfeld zerstören.
+Du kannst jeden Effekt von „Losgeketteter bösartiger Magistrat Kamura“ nur einmal pro Spielzug verwenden.",Als Spezialbeschwörung beschwören,Zerstörungseffekt,1 Karte ziehen?,Kampfposition ändern?,Zerstören?,,,,,,,,,,,
+100261050,Losgeketteter Enma Lord Yama,"2+ Monster, darunter ein „Losgekettete Seele“-Monster
+Während deiner End Phase: Du kannst bis zu 2 Unterweltler-Monster in deinem Friedhof wählen die während dieses Spielzugs zerstört und dorthin gelegt wurden; beschwöre sie als Spezialbeschwörung, aber du kannst keine Spezialbeschwörungen durchführen, außer von Unterweltler-Monstern, solange du eines jener offenen Monster kontrollierst.
+Falls diese Karte auf dem Spielfeld durch Kampf oder einen Karteneffekt zerstört würde, kannst du stattdessen 1 offene Karte auf einer beliebigen Spielfeldseite zerstören.
+Du kannst jeden Effekt von „Losgeketteter Enma Lord Yama“ nur einmal pro Spielzug verwenden.",Als Spezialbeschwörung beschwören,,Als Spezialbeschwörung durch den Effekt von {CARD} beschworen,,,,,,,,,,,,,
+100261051,Losgekettete Seele Raserei Abscheulichkeit,"2+ Monster, darunter ein Unterweltler-Monster
+Falls dein Gegner ein oder mehr Monster offen als Spezialbeschwörung beschwört: Du kannst 1 von ihnen wählen; zerstöre 1 Unterweltler-Monster, das du kontrollierst, und falls du dies tust, annulliere bis zum Ende dieses Spielzugs die Effekte des als Ziel gewählten Monsters.
+Wenn ein Monstereffekt auf dem Spielfeld aktiviert wird und du ein „Losgekettet“-Monster mit Link-4 oder höher kontrollierst (Schnelleffekt): Du kannst diese Karte von deinem Friedhof verbannen; zerstöre das Monster, das diese effekt aktiviert hat.
+Du kannst jeden Effekt von „Losgekettete Seele Raserei Abscheulichkeit“ nur einmal pro Spielzug verwenden.",Annullieren,Zerstören,,,,,,,,,,,,,,
+100261052,Reinkarnation der Losgeketteten,"Wenn diese Karte aktiviert wird: Du kannst deiner Hand 1 „Losgekettet“-Zauber (außer „Reinkarnation der Losgeketteten“ ) oder 1 „Gefängnis der Scheußlichkeit“ von deinem Deck hinzufügen.
+Einmal pro Spielzug: Du kannst bis zu 3 „Losgekettet“-Karten in deinem Friedhof wählen, außer „Reinkarnation der Losgeketteten“ ; mische sie ins Deck, dann kannst du andere Karten, die du kontrollierst, bis zur Anzahl der ins Deck gemischten Karten zerstören.
+Du kannst nur 1 „Reinkarnation der Losgeketteten“ pro Spielzug aktivieren.",Der Hand hinzufügen?,Rückgewinnungseffekt,Die Karte zerstören?,,,,,,,,,,,,,
+100261053,Losgeketteter Synkretismus,"Wähle 2 offene Monster auf dem Spielfeld, darunter ein „Losgekettete Seele“-Linkmonster, das du kontrollierst; sofort nachdem dieser Effekt aufgelöst wurde, beschwöre 1 Unterweltler-Linkmonster als Linkbeschwörung und verwende dafür nur die 2 Monster.
+Falls diese gesetzte Karte durch einen Karteneffekt zerstört wird: Du kannst 1 „Losgekettet“-Monster als Spezialbeschwörung von deinem Deck beschwören.
+Du kannst jeden Effekt von „Losgeketteter Synkretismus“ nur einmal pro Spielzug verwenden.",Linkbeschwörung,Als Spezialbeschwörung beschwören,,,,,,,,,,,,,,
 100263001,Dunkler Tyranno,"Kann direkt angreifen, falls alle Monster, die der Gegner kontrolliert, in Verteidigungsposition liegen.
 Du kannst jeden der folgenden Effekte von „Dunkler Tyranno“ nur einmal pro Spielzug verwenden.
 Während deiner Main Phase, falls in diesem Spielzug ein/e Zauberkarte oder -effekt aktiviert wurde: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören.
@@ -142,72 +144,76 @@ Du kannst diesen Effekt von „Schnellbeschwörung“ nur einmal pro Spielzug ve
 100263010,D - Platzen,"Wähle 1 offenen Zauber, den du kontrollierst; zerstöre ihn und falls du dies tust, ziehe 1 Karte, dann, falls du ein „Schicksals-HELD“-Monster kontrollierst, kannst du 1 „Schicksals-HELD“-Monster als Spezialbeschwörung von deiner Hand, deinem Friedhof oder deinen verbannten Karten beschwören.
 Am Ende des Damage Steps, falls ein Monster, das mit einer Ausrüstungskarte ausgerüstet ist oder „Schicksals-HELD - Dogma“, angegriffen hat: Du kannst diese Karte von deinem Friedhof verbannen; das Monster kann sofort einen zweiten Angriff durchführen.
 Du kannst nur 1 „D - Platzen“ pro Spielzug aktivieren.",Ziehen,Einen zusätzlichen Angriff durchführen,Als Spezialbeschwörung beschwören?,,,,,,,,,,,,,
-100264002,恶魔根源,"这个卡名的①②③的效果1回合各能使用1次。
-①：这张卡在手卡存在的场合，把这张卡以外的自己手卡·场上1只「恶魔」怪兽解放才能发动。这张卡特殊召唤。
-②：这张卡召唤·特殊召唤的场合才能发动。从自己的手卡·卡组·墓地把攻击力2500的1只恶魔族·6星怪兽特殊召唤。
-③：自己场上有「恶魔召唤」存在，对方把怪兽的效果发动时才能发动。那个发动无效并破坏。",Diese Karte als Spezialbeschwörung beschören,Als Spezialbeschwörung beschwören,Annullieren und zerstören,,,,,,,,,,,,,
-100264003,魔降雷,"这个卡名在规则上也当作「恶魔」卡使用。这个卡名的①②的效果1回合各能使用1次。
-①：以自己场上1只「恶魔」怪兽为对象才能发动。那只怪兽的攻击力上升600。那之后，可以把持有比那只怪兽的攻击力低的原本攻击力的对方场上的怪兽全部破坏。
-②：自己主要阶段把墓地的这张卡除外，以自己墓地的攻击力2500的1只恶魔族·6星怪兽为对象才能发动。那只怪兽加入手卡。",Aktivieren,Zurückholen,Dieses Monster zerstören?,,,,,,,,,,,,,
-100265002,魔女术工匠·种植女巫,"这个卡名的①②的效果1回合各能使用1次。
-①：这张卡召唤·特殊召唤的场合，若自己场上有「魔女术工匠·种植女巫」以外的「魔女术」怪兽或「圣月之皇太子 雷古勒斯」存在，则能以场上1张表侧表示卡为对象发动。那张卡回到手卡。
-②：把墓地的这张卡除外才能发动。包含魔法卡的手卡任意数量的卡给对方观看，回到卡组。那之后，自己抽出回去数量。",Auf die Hand zurückgeben,Ziehen,,,,,,,,,,,,,,
-101306001,疾风之豹战士,"这个卡名的①的效果1回合只能使用1次。
-①：自己·对方的主要阶段，可以把场上的这张卡以外的自己手卡·场上1只怪兽解放，从以下效果选择1个发动。
-●从手卡·卡组把除「疾风之豹战士」外的，有「时间黑魔术师」的卡名记述的1只怪兽特殊召唤。
-●从卡组把有「时间黑魔术师」的卡名记述的1张魔法·陷阱卡送去墓地。
-②：这张卡若非怪兽被解放过的回合则不能攻击宣言。",Effekt aktivieren,,Als Spezialbeschwörung beschwören,Auf den Friedhof legen,,,,,,,,,,,,
-101306002,翼龙龙骑士,"这个卡名的①②的效果1回合各能使用1次。
-①：这张卡在手卡存在的场合，把这张卡以外的有「时间黑魔术师」的卡名记述的手卡1张卡给对方出示才能发动。这张卡特殊召唤。
-②：这张卡召唤·特殊召唤的场合才能发动。从卡组把有「时间黑魔术师」的卡名记述的最多2张魔法·陷阱卡加入手卡（同名卡最多1张）。那之后，选自己1张手卡丢弃。
-③：这张卡可以直接攻击。",Als Spezialbeschwörung beschwören,Der Hand hinzufügen,,,,,,,,,,,,,,
-101306003,人造人-念力能量震慑者,"这个卡名的②的效果1回合只能使用1次。
-①：这张卡的卡名，只要在场上·墓地存在当作「人造人-念力震慑者」。
-②：这张卡召唤·特殊召唤的场合才能发动。对方场上的陷阱卡全部破坏（里侧表示卡翻开确认）。那之后，这张卡的攻击力上升破坏数量×300。、
-③：只要除这张卡外的，有「时间黑魔术师」的卡名记述的怪兽在自己场上或墓地存在，对方不能把陷阱卡的效果发动。",Zerstören,,,,,,,,,,,,,,,
-101306004,大海的传说-渔人,"这个卡名的①②的效果1回合各能使用1次。
-①：对方把场上的怪兽的效果发动的场合，或者对方怪兽的攻击宣言时，若除「大海的传说-渔人」外的，有「时间黑魔术师」的卡名记述的卡或者「海」在场上存在则能发动。这张卡从手卡特殊召唤。
-②：这张卡特殊召唤的场合，以对方场上1只怪兽为对象才能发动。那只怪兽破坏。这个回合的结束阶段，场上的这张卡回到手卡。",Als Spezialbeschwörung beschwören,Zerstören,,,,,,,,,,,,,,
-101306021,命运英雄 死亡教义人,"这张卡不能通常召唤。「命运英雄 死亡教义人」1回合1次，把战士族或暗属性怪兽合计3只从自己墓地除外的场合才能从手卡·墓地特殊召唤。
-①：这个方法让这张卡特殊召唤的场合才能发动。下个准备阶段给与对方2000伤害。
-②：1回合1次，对方把效果发动时才能发动。自己手卡·场上·墓地的怪兽作为融合素材回到卡组，把战士族或暗属性的1只融合怪兽融合召唤。",,Schaden zufügen,Als Fusionsbeschwörung beschwören,,,,,,,,,,,,,
-101306022,命运英雄 恶魔统御人,"这个卡名的①②的效果1回合各能使用1次。
-①：这张卡召唤·特殊召唤的场合，以对方场上1只怪兽为对象才能发动。那只怪兽直到下个准备阶段除外。
-②：从卡组把1只「命运英雄」怪兽送去墓地才能发动。从自己的卡组·墓地1张「幽狱之时计塔」或「幽狱之时计都市-暗黑都市」加入手卡。这个效果的发动后，直到回合结束时自己不是暗属性「英雄」怪兽不能特殊召唤。",Verbannen,Der Hand hinzufügen,Bis zur nächsten Standby Phase verbannen,,,,,,,,,,,,,
-101306023,命运英雄 无惧从者,"这个卡名的①②的效果1回合各能使用1次。
-①：自己场上有「命运英雄」怪兽或场地魔法卡以表侧表示存在的场合才能发动。这张卡从手卡特殊召唤。那之后，可以适用以下效果。
-●自己场上1张卡破坏，从卡组把1张「融合」加入手卡。
-②：自己把8星「命运英雄」怪兽特殊召唤的场合，把墓地的这张卡除外，以对方场上1张卡为对象才能发动。那张卡回到卡组最上面。",Als Spezialbeschwörung beschwören,Ins Deck zurücklegen,Zerstören und der Hand hinzufügen?,,,,,,,,,,,,,
-101306036,真红眼超越黑龙,"「真红眼黑龙」＋有「时间黑魔术师」的卡名记述的怪兽
-「真红眼超越黑龙」1回合1次，用融合召唤以及以下方法才能特殊召唤。
-●「时间黑魔术师」的效果把怪兽破坏过的回合，把自己·对方场上1只表侧表示怪兽解放的场合可以从额外卡组特殊召唤。
-①：这张卡特殊召唤的场合才能发动。从自己的手卡·墓地把1只8星以下的怪兽特殊召唤。
-②：场上的这张卡不受对方发动的魔法·怪兽的效果影响。",Als Spezialbeschwörung beschwören,,,,,,,,,,,,,,,
-101306037,命运英雄 无惧人,"5星以上的「命运英雄」怪兽×2
-「命运英雄 无惧人」1回合1次，用融合召唤以及以下方法才能特殊召唤。
-●把自己场上1只「命运英雄 恐惧人」解放的场合可以从额外卡组特殊召唤。
-①：这张卡特殊召唤的场合才能发动。从卡组把「命运英雄」怪兽或者有那些卡名记述的卡合计2张加入手卡。
-②：这张卡的攻击力变成自己场上·墓地的其他「命运英雄」怪兽的原本攻击力合计数值。",Der Hand hinzufügen,,,,,,,,,,,,,,,
-101306052,时间黑魔术师,"①：可以从以下效果选择1个发动（这个卡名的以下效果1回合各能选择1次）。
-●从卡组把除「时间黑魔术师」外的，有「时间黑魔术师」的卡名记述的1张卡加入手卡。这个回合的结束阶段，从自己墓地把1张「时间黑魔术师」加入手卡。
-●进行1次投掷硬币，对里表作猜测。猜中的场合，对方场上的怪兽全部破坏，给与对方那些原本攻击力合计数值一半的伤害。猜错的场合，自己场上的怪兽全部破坏。",Aktivieren,Der Hand hinzufügen,Eine Münze werfen,,,,,,,,,,,,,
-101306053,天使与恶魔的骰子,"①：掷2次骰子，这个回合中，以下效果各自适用。
-●有「时间黑魔术师」的卡名记述的自己场上的怪兽的攻击力·守备力上升出现的数目合计×200。
-●对方场上的怪兽的攻击力·守备力下降出现的数目的合计×200。
-②：这张卡在墓地存在的状态，对方把怪兽召唤·特殊召唤的场合，把这张卡除外，以那之内的1只为对象才能发动。掷2次骰子，出现的数目合计在6以上的场合，作为对象的怪兽破坏。",Aktivieren,Einen Würfel werfen,,,,,,,,,,,,,,
-101306054,眠羊 替罪羊,①：在自己场上把最多4只「替身羊衍生物」（兽族·地·1星·攻/守0）以守备表示特殊召唤。对方场上有怪兽存在的场合，可以再从卡组把1只「疾风之豹战士」特殊召唤。这个回合，这衍生物不能为上级召唤而解放，自己不是融合怪兽不能从额外卡组特殊召唤。有「时间黑魔术师」的卡名记述的自己场上的卡被战斗·效果破坏的场合，可以作为代替把这个效果特殊召唤的自己场上1只衍生物破坏。,Aktivieren,Wähle die Anzahl der Spezialbeschwörungen,{CARD} als Spezialbeschwörung beschwören?,,,,,,,,,,,,,
-101306062,幽狱之时计都市-暗黑都市,"这个卡名的①③的效果1回合各能使用1次。
-①：这张卡发动的回合的自己主要阶段才能发动。从卡组把1只「命运英雄」怪兽或者有那些卡名记述的1张卡加入手卡。
-②：每次自己把8星以上的「命运英雄」怪兽特殊召唤发动。自己场上的全部的战士族怪兽的攻击力上升300。
-③：这张卡被破坏的场合才能发动。从卡组把1只「命运英雄」怪兽当作用「幽狱之时计塔」的效果特殊召唤。",Der Hand hinzufügen,ATK erhöhen,Als Spezialbeschwörung beschwören,,,,,,,,,,,,,
-101306070,愚蠢的盗墓者,"这个卡名的①②的效果1回合各能使用1次。
-①：从卡组把除「愚蠢的盗墓者」外的，有「时间黑魔术师」的卡名记述的1张卡送去墓地。那之后，可以把自己或对方墓地的1只怪兽在自己场上特殊召唤。
-②：把墓地的这张卡除外才能发动。以下的卡之内任意1张在自己场上盖放。
-●除「愚蠢的盗墓者」外的，有「时间黑魔术师」的卡名记述的自己墓地的魔法·陷阱卡。
-●对方墓地的魔法·陷阱卡。",Auf den Friedhof legen,Setzen,Als Spezialbeschwörung beschwören?,,,,,,,,,,,,,
-101306071,大逆转箱,"①：自己·对方的准备阶段发动。掷1次骰子，给这张卡放置最多有出现数目数量的指示物（最多6个）。
-②：对方怪兽攻击的伤害计算时1次，或者对方场上的怪兽的效果发动时，把这张卡1个指示物取除，以那之内1只为对象才能发动。进行1次投掷硬币，对里表作猜测。猜中的场合，从卡组把有「时间黑魔术师」的卡名记述的1只怪兽特殊召唤，作为对象的怪兽直到回合结束时攻击力变成0，效果无效化。",Zählmarke platzieren,Eine Münze werfen,Wähle die Anzahl der zu platzierenden Spielmarken,,,,,,,,,,,,,
-101306154,替身羊衍生物,由「眠羊 替罪羊」的效果特殊召唤。有「时间黑魔术师」的卡名记述的自己场上的卡被战斗·效果破坏的场合，可以作为代替把这张卡破坏。,,,,,,,,,,,,,,,,
-101306254,替身羊衍生物,由「眠羊 替罪羊」的效果特殊召唤。有「时间黑魔术师」的卡名记述的自己场上的卡被战斗·效果破坏的场合，可以作为代替把这张卡破坏。,,,,,,,,,,,,,,,,
-101306354,替身羊衍生物,由「眠羊 替罪羊」的效果特殊召唤。有「时间黑魔术师」的卡名记述的自己场上的卡被战斗·效果破坏的场合，可以作为代替把这张卡破坏。,,,,,,,,,,,,,,,,
-101306454,替身羊衍生物,由「眠羊 替罪羊」的效果特殊召唤。有「时间黑魔术师」的卡名记述的自己场上的卡被战斗·效果破坏的场合，可以作为代替把这张卡破坏。,,,,,,,,,,,,,,,,
+100264002,Ursprung des Erzunterweltlers,"Falls sich diese Karte in deiner Hand befindet: Du kannst 1 anderes „Erzunterweltler“-Monster von deiner Hand oder Spielfeldseite als Tribut anbieten; beschwöre diese Karte als Spezialbeschwörung.
+Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 Unterweltler-Monster der Stufe 6 mit 2500 ATK als Spezialbeschwörung von deiner Hand, deinem Deck oder deinem Friedhof beschwören.
+Wenn dein Gegner einen Monstereffekt aktiviert und du „Herbeigerufener Totenkopf“ kontrollierst (Schnelleffekt): Du kannst die Aktivierung annullieren und falls du dies tust, zerstöre jene Karte.
+Du kannst jeden Effekt von „Ursprung des Erzunterweltlers“ nur einmal pro Spielzug verwenden.",Diese Karte als Spezialbeschwörung beschören,Als Spezialbeschwörung beschwören,Annullieren und zerstören,,,,,,,,,,,,,
+100264003,"Makourai, der Blitzschlag","(Diese Karte wird immer als „Erzunterweltler“-Karte behandelt.)
+Wähle 1 „Erzunterweltler“-Monster, das du kontrollierst; es erhält 600 ATK, dann kannst du alle Monster zerstören, die dein Gegner kontrolliert, mit niedrigeren Grund-ATK als der ATK des Monsters.
+Während deiner Main Phase: Du kannst diese Karte von deinem Friedhof verbannen und dann 1 Unterweltler-Monster der Stufe 6 mit 2500 ATK in deinem Friedhof wählen; füge es deiner Hand hinzu.
+Du kannst jeden Effekt von „Makourai, der Blitzschlag“ nur einmal pro Spielzug verwenden.",Aktivieren,Zurückholen,Dieses Monster zerstören?,,,,,,,,,,,,,
+100265002,Hexwerker Samen,"Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird und du ein anderes „Hexwerker“-Monster als „Hexwerker Samen“ oder „Regulus, der Prinz von Endymion“ kontrollierst: Du kannst 1 offene Karte auf dem Spielfeld wählen; gib sie auf die Hand zurück.
+Du kannst diese Karte von deinem Friedhof verbannen; zeige eine beliebige Anzahl Karten in deiner Hand vor, darunter einen Zauber und mische sie ins Deck, ziehe dann so viele Karten.
+Du kannst jeden Effekt von „Hexwerker Samen“ nur einmal pro Spielzug verwenden.",Auf die Hand zurückgeben,Ziehen,,,,,,,,,,,,,,
+101306001,Flinker Panter-Krieger,"Während der Main Phase (Schnelleffekt): Du kannst 1 anderes Monster von deiner Hand oder Spielfeldseite als Tribut anbieten und dann 1 dieser Effekte aktivieren;
+● Beschwöre 1 Monster, das „Dunkler Zeitzauberer“ erwähnt, als Spezialbeschwörung von deiner Hand oder deinem Deck, außer „Flinker Panter-Krieger“.
+● Lege 1 Zauber/Falle, die „Dunkler Zeitzauberer“ erwähnt, von deinem Deck auf den Friedhof.
+Du kannst diesen Effekt von „Flinker Panter-Krieger“ nur einmal pro Spielzug verwenden.
+Kann keinen Angriff deklarieren, es sei denn, ein oder mehr Monster wurde in diesem Spielzug als Tribut angeboten.",Effekt aktivieren,,Als Spezialbeschwörung beschwören,Auf den Friedhof legen,,,,,,,,,,,,
+101306002,Alligatorschwert-Drachenritter,"Kann direkt angreifen.
+Du kannst jeden der folgenden Effekte von „Alligatorschwert-Drachenritter“ nur einmal pro Spielzug verwenden.
+Falls sich diese Karte in deiner Hand befindet: Du kannst 1 andere Karte, die „Dunkler Zeitzauberer“ erwähnt, in deiner Hand vorzeigen; beschwöre diese Karte als Spezialbeschwörung.
+Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst deiner Hand bis zu 2 Zauber/Fallen mit unterschiedlichen Namen voneinander, die „Dunkler Zeitzauberer“ erwähnen, von deinem Deck hinzufügen, dann wirf 1 Karte ab.",Als Spezialbeschwörung beschwören,Der Hand hinzufügen,,,,,,,,,,,,,,
+101306003,Jinzo - Energieschocker,"Der Name dieser Karte wird zu „Jinzo“, solange sie auf dem Spielfeld oder im Friedhof liegt.
+Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst so viele Fallen, die dein Gegner kontrolliert, wie möglich zerstören (falls eine Karte gesetzt ist, zeige sie vor), dann erhält diese Karte 300 ATK für jede Karte, die auf diese Art zerstört wurde.
+Du kannst diesen Effekt von „Jinzo - Energieschocker“ nur einmal pro Spielzug verwenden.
+Dein Gegner kann keine Fallenkarten oder -effekte aktivieren, solange du ein anderes Monster, das „Dunkler Zeitzauberer“ erwähnt, auf deiner Spielfeldseite oder in deinem Friedhof hast",Zerstören,,,,,,,,,,,,,,,
+101306004,"Fischer, Legende des Meeres","Falls dein Gegner einen Monstereffekt auf dem Spielfeld aktiviert oder wenn sein Monster einen Angriff deklariert, und „Umi“ oder eine andere Karte als „Fischer, Legende des Meeres“, die „Dunkler Zeitzauberer“ erwähnt, auf dem Spielfeld liegt: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören.
+Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 Monster wählen, das dein Gegner kontrolliert; zerstöre es, zusätzlich gib diese Karte vom Spielfeld auf die Hand zurück während der End Phase dieses Spielzugs.
+Du kannst jeden Effekt von „Fischer, Legende des Meeres“ nur einmal pro Spielzug verwenden.",Als Spezialbeschwörung beschwören,Zerstören,,,,,,,,,,,,,,
+101306021,Schicksals-HELD - Death Dogma,"Kann nicht als Normalbeschwörung beschworen/gesetzt werden.
+Muss als Spezialbeschwörung (von deiner Hand oder deinem Friedhof) beschworen werden, indem du 3 Krieger- und/oder FINSTERNIS Monster von deinem Friedhof verbannst.
+Du kannst „Schicksals-HELD - Death Dogma“ nur einmal pro Spielzug auf diese Art als Spezialbeschwörung beschwören.
+Falls sie auf diese Art beschworen wird: Du kannst diesen Effekt aktivieren; füge deinem Gegner, während der nächsten Standby Phase, 2000 Schaden zu.
+Einmal pro Spielzug, wenn dein Gegner eine Karte oder einen Effekt aktiviert (Schnelleffekt): Du kannst 1 FINSTERNIS oder Krieger-Fusionsmonster als Fusionsbeschwörung von deinem Extra Deck beschwören, indem du sein Material von deiner Hand, deiner Spielfeldseite und/oder deinem Friedhof ins Deck mischst.",,Schaden zufügen,Als Fusionsbeschwörung beschwören,,,,,,,,,,,,,
+101306022,Schicksals-HELD - Doom Liege,"Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 Monster wählen, das dein Gegner kontrolliert; verbanne es bis zur nächsten Standby Phase.
+Du kannst 1 „Schicksals-HELD“-Monster von deinem Deck auf den Friedhof legen; füge deiner Hand 1 „Gefängnisuhrturm“ oder „Gefängnisuhrturm Stadt - Finstere Stadt“ von deinem Deck oder Friedhof hinzu, zusätzlich kannst du für den Rest dieses Spielzugs keine Monster als Spezialbeschwörung beschwören, außer FINSTERNIS „HELD“-Monstern.
+Du kannst jeden Effekt von „Schicksals-HELD - Doom Liege“ nur einmal pro Spielzug verwenden.",Verbannen,Der Hand hinzufügen,Bis zur nächsten Standby Phase verbannen,,,,,,,,,,,,,
+101306023,Schicksals-HELD - Dreadnought Servant,"Falls du ein „Schicksals-HELD“-Monster oder einen offenen Spielfeldzauber kontrollierst: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören, dann kannst du 1 Karte, die du kontrollierst, zerstören und falls du dies tust, füge deiner Hand 1 „Polymerisation“ von deinem Deck hinzu.
+Falls du ein oder mehr „Schicksals-HELD“-Monster der Stufe 8 als Spezialbeschwörung beschwörst: Du kannst diese Karte von deinem Friedhof verbannen und dann 1 Karte wählen, die dein Gegner kontrolliert; lege sie aufs Deck.
+Du kannst jeden Effekt von „Schicksals-HELD - Dreadnought Servant“ nur einmal pro Spielzug verwenden.",Als Spezialbeschwörung beschwören,Ins Deck zurücklegen,Zerstören und der Hand hinzufügen?,,,,,,,,,,,,,
+101306036,Rotäugiger schwarzer Drache über,"„Rotäugiger schwarzer Drache“ + 1 Monster, das „Dunkler Zeitzauberer“ erwähnt
+Muss entweder als Fusionsbeschwörung beschworen werden oder als Spezialbeschwörung (von deinem Extra Deck) beschworen werden, indem du 1 offenes Monster von einer beliebigen Spielfeldseite als Tribut anbietest während des Spielzugs, in dem ein oder mehr Monster, durch den Effekt von „Dunkler Zeitzauberer“ zerstört wurden.
+Du kannst „Rotäugiger schwarzer Drache über“ nur einmal pro Spielzug auf diese Art als Spezialbeschwörung beschwören, egal welche Methode du verwendest.
+Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 Monster der Stufe 8 oder niedriger als Spezialbeschwörung von deiner Hand oder deinem Friedhof beschwören.
+Bleibt von den aktivierten Monster- und Zaubereffekten deines Gegners unberührt.",Als Spezialbeschwörung beschwören,,,,,,,,,,,,,,,
+101306037,Schicksals-HELD - Dreadnought,"2 „Schicksals-HELD“-Monster der Stufe 5 oder höher
+Muss entweder als Fusionsbeschwörung beschworen werden oder als Spezialbeschwörung (von deinem Extra Deck) beschworen werden, indem du 1 „Schicksals-HELD - Dreadmaster“ als Tribut anbietest.
+Du kannst „Schicksals-HELD - Dreadnought“ nur einmal pro Spielzug auf diese Art als Spezialbeschwörung beschwören, egal welche Methode du verwendest.
+Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst deiner Hand 2 „Schicksals-HELD“-Monster und/oder Karten, die den Kartennamen eines „Schicksals-HELD“-Monsters in ihrem Text erwähnen, von deinem Deck hinzufügen.
+Die ATK dieser Karte werden gleich der Summe der Grund-ATK aller anderen „Schicksals-HELD“-Monster auf deiner Spielfeldseite und in deinem Friedhof.",Der Hand hinzufügen,,,,,,,,,,,,,,,
+101306052,Dunkler Zeitzauberer,"Aktiviere 1 dieser Effekte (aber du kannst jeden Effekt von „Dunkler Zeitzauberer“ nur einmal pro Spielzug verwenden);
+● Füge deiner Hand 1 Karte, die „Dunkler Zeitzauberer“ erwähnt, von deinem Deck hinzu, außer „Dunkler Zeitzauberer“, zusätzlich füge deiner Hand 1 „Dunkler Zeitzauberer“ von deinem Friedhof hinzu während der End Phase dieses Spielzugs.
+● Wirf eine Münze und sage das Ergebnis voraus.
+Falls du richtig vorausgesagt hast, zerstöre so viele Monster, die dein Gegner kontrolliert, wie möglich und falls du dies tust, füge deinem Gegner Schaden in Höhe der Hälfte der Summe der Grund-ATK jener Monster zu.
+Falls nicht, zerstöre alle Monster, die du kontrollierst.",Aktivieren,Der Hand hinzufügen,Eine Münze werfen,,,,,,,,,,,,,
+101306053,Anmutiger Totenkopfwürfel,"Wirf zweimal einen sechsseitigen Würfel und wende für den Rest dieses Spielzugs diese Effekte an.
+● Monster, die du kontrollierst und die „Dunkler Zeitzauberer“ erwähnen, erhalten ATK/DEF in Höhe der Summe x 200.
+● Monster, die dein Gegner kontrolliert, verlieren ATK/DEF in Höhe der Summe x 200.
+Falls dein Gegner ein oder mehr Monster als Normal- oder Spezialbeschwörung beschwört, solange sich diese Karte in deinem Friedhof befindet: Du kannst diese Karte verbannen, dann wähle 1 jener Monster; wirf zweimal einen sechsseitigen Würfel und falls die Summe 6 oder mehr ist, zerstöre das Monster.",Aktivieren,Einen Würfel werfen,,,,,,,,,,,,,,
+101306054,Schlafende Sündenböcke,"Beschwöre bis zu 4 „Sündenbock-Spielmarken“ (Ungeheuer/ERDE/Stufe 1/ATK 0/DEF 0) als Spezialbeschwörung in die Verteidigungsposition, dann, falls dein Gegner ein Monster kontrolliert, kannst du 1 „Flinker Panter-Krieger“ als Spezialbeschwörung von deinem Deck beschwören, zusätzlich kannst du für den Rest dieses Spielzugs diese Spielmarken nicht als Tribut für eine Tributbeschwörung angebieten, zusätzlich kannst du keine Monster als Spezialbeschwörung vom Extra Deck beschwören, außer Fusionsmonstern.
+Falls eine oder mehr Karten, die „Dunkler Zeitzauberer“ erwähnen, die du kontrollierst, durch Kampf oder einen Karteneffekt zerstört würden, kannst du stattdessen 1 Spielmarke, die du kontrollierst, die durch diese Effekt als Spezialbeschwörung beschworen wurde zerstören.",Aktivieren,Wähle die Anzahl der Spezialbeschwörungen,{CARD} als Spezialbeschwörung beschwören?,,,,,,,,,,,,,
+101306062,Gefängnisuhrturm Stadt - Finstere Stadt,"Jedes Mal, wenn du ein oder mehr „Schicksals-HELD“-Monster der Stufe 8 oder höher als Spezialbeschwörung beschwörst: Alle Krieger-Monster, die du derzeit kontrollierst, erhalten 300 ATK.
+Du kannst jeden der folgenden Effekte von „Gefängnisuhrturm Stadt - Finstere Stadt“ nur einmal pro Spielzug verwenden.
+Während deiner Main Phase, falls diese Karte in diesem Spielzug aktiviert wurde: Du kannst deiner Hand 1 „Schicksals-HELD“-Monster oder 1 Karte, die den Kartennamen eines „Schicksals-HELD“-Monsters in ihrem Text erwähnt, von deinem Deck hinzufügen.
+Falls diese Karte zerstört wird: Du kannst 1 „Schicksals-HELD“-Monster als Spezialbeschwörung von deinem Deck beschwören (Dies wird als Spezialbeschwörung mit „Gefängnisuhrturm“ behandelt.)",Der Hand hinzufügen,ATK erhöhen,Als Spezialbeschwörung beschwören,,,,,,,,,,,,,
+101306070,Törichter Grabräuber,"Lege 1 Karte, die „Dunkler Zeitzauberer“ erwähnt, von deinem Deck auf den Friedhof, außer „Törichter Grabräuber“, dann kannst du 1 Monster als Spezialbeschwörung von einem beliebigen Friedhof auf deine Spielfeldseite beschwören.
+Du kannst diese Karte von deinem Friedhof verbannen; setze auf deine Spielfeldseite, 1 Zauber/Falle, der oder die „Dunkler Zeitzauberer“ erwähnt, von deinem Friedhof, außer „Törichter Grabräuber“, oder 1 Zauber/Falle vom Friedhof deines Gegners.
+Du kannst jeden Effekt von „Törichter Grabräuber“ nur einmal pro Spielzug verwenden.",Auf den Friedhof legen,Setzen,Als Spezialbeschwörung beschwören?,,,,,,,,,,,,,
+101306071,Umkehrbox,"Einmal pro Spielzug, während der Standby Phase: Wirf einen sechsseitigen Würfel und lege Zählmarken gleich dem Ergebnis auf diese Karte (max. 6).
+Wenn ein Monstereffekt auf der Spielfeldseite deines Gegners aktiviert wird oder einmal pro Kampf, während der Schadensberechnung, falls ein Monster deines Gegners angreift: Du kannst 1 Zählmarke von dieser Karte entfernen, dann wähle 1 jener Monster; wirf eine Münze und sage das Ergebnis voraus.
+Falls du richtig vorausgesagt hast, du kannst 1 Monster, das „Dunkler Zeitzauberer“ erwähnt, als Spezialbeschwörung von deinem Deck beschwören und falls du dies tust, bis zum Ende dieses Spielzugs, ändere die ATK des als Ziel gewählten Monsters bis zum Ende dieses Spielzugs zu 0, zusätzlich werden ihre Effekte annulliert.",Zählmarke platzieren,Eine Münze werfen,Wähle die Anzahl der zu platzierenden Spielmarken,,,,,,,,,,,,,
+101306154,Sündenbock-Spielmarke,Als Spezialbeschwörung beschworen mit dem Effekt von „Schlafende Sündenböcke“.,,,,,,,,,,,,,,,,
+101306254,Sündenbock-Spielmarke,Als Spezialbeschwörung beschworen mit dem Effekt von „Schlafende Sündenböcke“.,,,,,,,,,,,,,,,,
+101306354,Sündenbock-Spielmarke,Als Spezialbeschwörung beschworen mit dem Effekt von „Schlafende Sündenböcke“.,,,,,,,,,,,,,,,,
+101306454,Sündenbock-Spielmarke,Als Spezialbeschwörung beschworen mit dem Effekt von „Schlafende Sündenböcke“.,,,,,,,,,,,,,,,,
