@@ -34037,7 +34037,17 @@ def build_translation_pack(lang: str):
                 "ja": "獣戦士族モンスター1体をリリースしてアドバンス召喚",
                 "kr": "야수전사족 몬스터 1장을 릴리스하여 어드밴스 소환",
             },
-
+            "是否在兽族怪兽上面重叠来超量召唤?": {
+                "en": "Xyz Summon by using a Beast monster as material?",
+                "fr": "Invoquer Xyz en utilisant un monstre Bête comme Matériel ?",
+                "de": "Als Xyz-Beschwörung beschwören, indem du ein Ungeheuer-Monster als Material verwendest?",
+                "es": "¿Invocar Xyz usando un monstruo Bestia como material?",
+                "pt": "Invocar por Invocação Xyz usando um monstro Besta como matéria?",
+                "it": "Evocare Xyz usando un mostro Bestia come materiale?",
+                "ja": "獣族モンスターを素材としてエクシーズ召喚しますか？",
+                "kr": "야수족 몬스터를 소재로 엑시즈 소환하시겠습니까?",
+    
+},
     }
     for cn, out in extras.items():
         # Keep locale-specific text when available; fall back gracefully if one key is missing.
