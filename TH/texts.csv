@@ -1,108 +1,216 @@
 id,name,desc,str1,str2,str3,str4,str5,str6,str7,str8,str9,str10,str11,str12,str13,str14,str15,str16
-100200290,Stage of Destiny,"You can activate this card the turn it was Set, by revealing 1 Normal Monster in your hand. Special Summon up to 5 Normal Monsters from your hand and/or GY in Attack Position, also you cannot Special Summon from the Extra Deck for the rest of this turn after this card resolves. You can only activate 1 ""Stage of Destiny"" per turn.",Activate,"Activate by applying the effect of ""Stage of Destiny"".",,,,,,,,,,,,,,
-100200292,Thoroughbred Elf,"During your Main Phase: You can send 1 Equip Spell from your Deck to the GY, then this card gains 500 ATK until the end of your opponent's turn. You can only use this effect of ""Thoroughbred Elf"" once per turn. When this card destroys an opponent's monster by battle: You can add to your hand, or Special Summon, 1 Level 4 or lower LIGHT Spellcaster monster from your Deck, except ""Thoroughbred Elf"".",Send to the GY,Deck manipulation,,,,,,,,,,,,,,
-100200293,Assault Lion,"You can Tribute Summon this card face-up by Tributing 1 Beast-Warrior monster. If this card battles a monster, any battle damage it inflicts to your opponent is doubled. If a Beast-Warrior monster(s) is Normal or Special Summoned to your field while this card is in your GY: You can add this card to your hand, then immediately after this effect resolves, you can Tribute Summon this card face-up, and if you do, it gains 500 ATK, also banish it when it leaves the field. You can only use this effect of ""Assault Lion"" once per turn.",Tribute Summon using 1 Beast-Warrior monster,Add to hand,Tribute Summon?,,,,,,,,,,,,,
-100200294,Power Connection,"Target any number of face-up monsters you control (if you target 2 or more monsters, they must have the same Type); they gain 500 ATK for each monster targeted, until the end of this turn. If you activated ""Armament Reincarnation"" this turn: You can add this card from your GY to your hand. You can only use each effect of ""Power Connection"" once per turn.",Activate,Recycle,,,,,,,,,,,,,,
-100260001,Clown Crew Hat,"Pendulum Scale = 7
+100200290,命运之盘上,"这个卡名的卡在1回合只能发动1张。这张卡也能把手卡1只通常怪兽给对方观看，在盖放的回合发动。
+①：从自己的手卡·墓地把最多5只通常怪兽攻击表示特殊召唤。这张卡的发动后，直到回合结束时自己不能从额外卡组把怪兽特殊召唤。",เปิดใช้งาน,เปิดใช้งานโดยใช้เอฟเฟกต์ของ {CARD},,,,,,,,,,,,,,
+100200292,优秀精灵,"这个卡名的①的效果1回合只能使用1次。
+①：自己主要阶段才能发动。从卡组把1张装备魔法卡送去墓地。那之后，这张卡的攻击力直到对方回合结束时上升500。
+②：这张卡战斗破坏对方怪兽时才能发动。从卡组选除「优秀精灵」外的1只4星以下的魔法师族·光属性怪兽加入手卡或特殊召唤。",ส่งสุสาน,จัดการเด็ค,,,,,,,,,,,,,,
+100200293,强袭狮子,"这张卡可以把1只兽战士族怪兽解放表侧表示上级召唤。这个卡名的②的效果1回合只能使用1次。
+①：这张卡用和怪兽的战斗给与对方的战斗伤害变成2倍。
+②：这张卡在墓地存在的状态，自己场上有兽战士族怪兽召唤·特殊召唤的场合才能发动。这张卡加入手卡。那之后，可以表侧表示进行这张卡的上级召唤。这个效果上级召唤的这张卡攻击力上升500，从场上离开的场合除外。",เรียกแบบสละโดยสละมอนสเตอร์นักรบสัตว์ป่า 1 ตัว,เพิ่มเข้ามือ,เรียกแบบสละ?,,,,,,,,,,,,,
+100200294,力量联结,"这个卡名的①②的效果1回合各能使用1次。
+①：以自己场上的表侧表示怪兽任意数量为对象才能发动（以2只以上为对象的场合必须是相同种族）。作为对象的怪兽的攻击力直到回合结束时上升作为对象的怪兽数量×500。
+②：自己把「武装转生」发动的回合才能发动。墓地的这张卡加入手卡。",เปิดใช้งาน,รีไซเคิล,,,,,,,,,,,,,,
+100260001,道化一座 帽隐士小丑,"Pendulum Scale = 7
 [ Pendulum Effect ]
-During your Main Phase: You can send 1 ""Clown Crew"" card from your Deck to your GY, except a Pendulum Monster, and if you do, Special Summon this card, also you cannot activate the effects of monsters Special Summoned from the Deck or Extra Deck until the end of the next turn. You can only use this effect of ""Clown Crew Hat"" once per turn.
+这个卡名的灵摆效果1回合只能使用1次。
+①：自己主要阶段才能发动。从卡组把灵摆怪兽以外的1张「道化一座」卡送去墓地，这张卡特殊召唤。这个效果的发动后，直到下个回合的结束时自己不能把从卡组·额外卡组特殊召唤的怪兽的效果发动。
 ----------------------------------------
 [ Monster Effect ]
-Monsters your opponent controls lose 1500 DEF while you control a Tribute Summoned monster. If this card is Tributed: You can activate 1 of these effects (but you can only use each of these effects of ""Clown Crew Hat"" once per turn);
-● Shuffle all Pendulum Monsters on the field and face-up in the Extra Decks into the Deck.
-● Special Summon 1 non-Pendulum ""Clown Crew"" monster from your Deck or Extra Deck, ignoring its Summoning conditions.",Special Summon,Choose an effect,Return to the Deck,Special Summon,,,,,,,,,,,,
-100261001,Funny Dark Rabbit,"After this card is Normal or Special Summoned, you can Normal Summon 1 monster that mentions ""Toon World"" during your Main Phase this turn, in addition to your Normal Summon/Set (you can only gain this effect once per turn). This card is treated as a Toon monster while ""Toon World"" is on the field. Once per turn: You can add to your hand or place face-up on your field, 1 ""Toon"" Field or Continuous Spell from your Deck.",,"Summoned by the effect of ""Funny Dark Rabbit""",Search effect,Place,,,,,,,,,,,,
-100261002,Comic Cat,"This card is treated as a Toon monster while ""Toon World"" is on the field. During the Main Phase (Quick Effect): You can Tribute 1 monster (if you control ""Toon World"", you can Tribute 1 monster your opponent controls, even though you do not control it), and if you do, Special Summon 1 monster that mentions ""Toon World"" from your hand or Deck, ignoring its Summoning conditions. You can only use this effect of ""Comic Cat"" once per turn.",,Special Summon,,,,,,,,,,,,,,
-100261003,Evil Box,"If you control ""Toon World"": You can Special Summon this card from your hand, then you can add to your hand or Set 1 ""Toon"" Trap from your Deck. You can only use this effect of ""Evil Box"" once per turn. This card is treated as a Toon monster while ""Toon World"" is on the field. Once per turn (Quick Effect): You can target 1 card in either GY; place it on the bottom of the Deck.",Special Summon,Recover from the GY,Select a Trap Card?,,,,,,,,,,,,,
-100261004,Dark-Eyes Illusionist Faceless Mage,"If this card battles a monster, neither can be destroyed by that battle. You can discard this card, then activate 1 of these effects (but you can only use each of these effects of ""Dark-Eyes Illusionist Faceless Mage"" once per turn);
-● Place 1 ""Mind Scan"" from your hand or Deck face-up on your field.
-● Add 1 other monster from your GY to your hand that mentions ""Toon World"", then you can Special Summon it, ignoring its Summoning conditions.",Discard,Place a Trap Card,Recover a monster,Special Summon?,,,,,,,,,,,,
-100261005,Blue-Eyes Toon Ultimate Dragon,"""Blue-Eyes Toon Dragon"" + 2 Toon monsters
-Must be Special Summoned (from your Extra Deck) by shuffling the above cards from your hand, field, and/or GY into the Deck/Extra Deck. Your Toon monsters can attack directly. Once per turn: You can add 1 ""Toon"" card, or 1 card that mentions a ""Toon"" card's name, from your GY to your hand. During damage calculation, if your Toon monster is attacked: You can banish it until the end of the Damage Step.",,Recycle,Banish,,,,,,,,,,,,,
-100261006,Toon World the Perfect World,"This card's name becomes ""Toon World"" while in the Field Zone. Once per turn: You can add 1 ""Toon"" card, or 1 card that mentions a ""Toon"" card's name, from your Deck to your hand. You can only use this effect of ""Toon World the Perfect World"" thrice per turn. Before resolving another activated card or effect, you can banish 1 Toon monster you control until immediately after that card/effect resolves, also you cannot banish monsters with that same original name with this effect of ""Toon World the Perfect World"" for the rest of this turn.",,Add to hand,,Banish the monster?,,,,,,,,,,,,
-100261007,Mind Scan,"While you have a ""Toon"" card in your field or GY, your opponent must keep their hand revealed, also you can look at their Set cards at any time. If you have a Toon monster and a ""Toon"" Spell in your field and/or GY: You can declare 1 card name that is not among the cards/effects activated in this Chain; negate the activated effects of cards with that original name until the end of this turn, while this card is face-up on the field. You can only use this effect of ""Mind Scan"" once per turn.",,Declare,,,,,,,,,,,,,,
-100261023,Witchcrafter Terracottan,"If this card is in your hand: You can target 1 ""Witchcrafter"" card in your GY, except ""Witchcrafter Terracottan""; add it to your hand, and if you do, Special Summon this card, also you cannot Special Summon from the Extra Deck for the rest of this turn, except ""Witchcrafter"" monsters. During your Main Phase: You can Fusion Summon 1 ""Witchcrafter"" Fusion Monster from your Extra Deck, using monsters from your hand or field. You can only use each effect of ""Witchcrafter Terracottan"" once per turn.",Special Summon,Fusion Summon,,,,,,,,,,,,,,
-100261024,Witchcrafter Marka,"You can Tribute this card from your hand or field; add 1 ""Witchcrafter"" Field or Continuous Spell from your Deck to your hand. If a face-up ""Witchcrafter"" monster(s) you control leaves the field by an opponent's card effect, while this card is in your GY (except during the Damage Step): You can Special Summon this card (but banish it when it leaves the field), and if you do, Tribute 1 monster your opponent controls. You can only use each effect of ""Witchcrafter Marka"" once per turn.",Add to hand,Special Summon,,,,,,,,,,,,,,
-100261025,Witchcrafter Madame Rilliona,"""Witchcrafter Madame Verre"" + 2 Spellcaster monsters
-If this card is Fusion Summoned: You can Special Summon up to 3 Level 7 or lower ""Witchcrafter"" monsters with different Attributes from each other from your hand and/or Deck, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Fusion Monsters. During your End Phase, if this card is in your GY: You can reveal 1 Spell in your hand; Special Summon this card in Defense Position. You can only use each effect of ""Witchcrafter Madame Rilliona"" once per turn.",Special Summon from the Deck,Special Summon this card,,,,,,,,,,,,,,
-100261026,Witchcrafter Pupils,"1 ""Witchcrafter"" monster + 1 Spellcaster monster
-During the Main or Battle Phase (Quick Effect): You can activate 1 of these effects;
-● Add 1 ""Witchcrafter"" Spell from your Deck to your hand.
-● Reveal 1 ""Witchcrafter"" Normal or Quick-Play Spell in your hand; apply that Spell's activation effect.
-During your End Phase: You can return 1 of your banished ""Witchcrafter"" cards to the GY. You can only use each effect of ""Witchcrafter Pupils"" once per turn.",Activate,Return to the GY,Search effect,Copy effect,,,,,,,,,,,,
-100261027,Witchcrafter Celebration,"Activate 1 of these effects;
-● Destroy 1 ""Witchcrafter"" monster you control and 1 card your opponent controls.
-● Fusion Summon 1 ""Witchcrafter"" Fusion Monster from your Extra Deck, by shuffling Spellcaster monsters from your GY and/or banishment into the Deck.
-During your End Phase, if you control a ""Witchcrafter"" monster, while this card is in your GY: You can add this card to your hand. You can only use 1 ""Witchcrafter Celebration"" effect per turn, and only once that turn.",Activate,Add to hand,Destruction effect,Fusion Summon,,,,,,,,,,,,
-100261028,Witchcrafter Walpurgis,"During your Main Phase: You can add 1 ""Witchcrafter"" monster from your Deck to your hand, then discard 1 card. You can only use this effect of ""Witchcrafter Walpurgis"" once per turn. During your turn, if you would discard to activate the effect of a ""Witchcrafter"" monster you control, you can send 1 ""Witchcrafter"" Spell/Trap from your Deck to the GY instead, except ""Witchcrafter Walpurgis"".",Add to hand,,,,,,,,,,,,,,,
-100261029,Witchcrafter Distortion,"When a Spell/Trap Card, or monster effect, is activated and you control a Level 5 or higher ""Witchcrafter"" monster: Negate the activation, and if you do, destroy that card. If this card is in your GY, except the turn it was sent there: You can banish it; add 1 Level 5 or higher Spellcaster monster from your Deck to your hand, then discard 1 card. You can only use each effect of ""Witchcrafter Distortion"" once per turn.",Activate,Add to hand,,,,,,,,,,,,,,
-100261047,Unchained Ogre Shara,"During the Main Phase (Quick Effect): You can discard this card; Special Summon 1 Fiend monster from your hand, then destroy 1 card you control. If a card(s) on the field is destroyed by card effect, except by the effect of ""Unchained Ogre Shara"", or by battle, while this card is in your GY: You can Special Summon this card (but place it on the bottom of the Deck when it leaves the field) or add it to your hand. You can only use each effect of ""Unchained Ogre Shara"" once per turn.",Special Summon,Recycle,,,,,,,,,,,,,,
-100261048,Unchained Ogre Shma,"If this card is Normal Summoned: You can Special Summon 1 Level 4 or lower ""Unchained"" monster from your Deck, except ""Unchained Ogre Shma"", then destroy 1 card you control, also you cannot Special Summon for the rest of this turn, except Fiend monsters. If this card on the field is destroyed by card effect, except ""Unchained Ogre Shma"", or by battle: You can Special Summon 1 ""Unchained"" monster from your hand or Deck, except ""Unchained Ogre Shma"". You can only use each effect of ""Unchained Ogre Shma"" once per turn.",Special Summon from the Deck,Special Summon from your hand/Deck,,,,,,,,,,,,,,
-100261049,Unchained Malevolent Magistrate Kamura,"You can target up to 3 cards you control; destroy them, and if you do, Special Summon this card from your hand, then you can apply any of the following effects, in sequence, based on the original types of the destroyed cards.
-● Monster: Draw 1 card.
-● Spell: Change the battle position of 1 monster on the field.
-● Trap: Destroy 1 other card on the field.
-If this card on the field is destroyed by card effect: You can destroy all monsters on the field. You can only use each effect of ""Unchained Malevolent Magistrate Kamura"" once per turn.",Special Summon,Destruction effect,Draw a card?,Change battle position?,Destroy?,,,,,,,,,,,
-100261050,Unchained Enma Lord Yama,"2+ monsters, including an ""Unchained Soul"" monster
-During your End Phase: You can target up to 2 Fiend monsters in your GY that were destroyed and sent there this turn; Special Summon them, but you cannot Special Summon, except Fiend monsters, while you control either of those face-up monsters. If this card on the field would be destroyed by battle or card effect, you can destroy 1 face-up card on either field instead. You can only use each effect of ""Unchained Enma Lord Yama"" once per turn.",Special Summon,,"Special Summoned by the effect of ""Unchained Enma Lord Yama""",,,,,,,,,,,,,
-100261051,Unchained Soul Rage Abominator,"2+ monsters, including a Fiend monster
-If your opponent Special Summons a monster(s) face-up (except during the Damage Step): You can target 1 of them; destroy 1 Fiend monster you control, and if you do, negate the targeted monster's effects until the end of this turn. When a monster effect is activated on the field and you control a Link-4 or higher ""Unchained"" Link Monster (Quick Effect): You can banish this card from your GY; destroy the monster that activated that effect. You can only use each effect of ""Unchained Soul Rage Abominator"" once per turn.",Negate,Destroy,,,,,,,,,,,,,,
-100261052,Reincarnation of the Unchained,"When this card is activated: You can add 1 ""Unchained"" Spell (except ""Reincarnation of the Unchained"") or 1 ""Abomination's Prison"" from your Deck to your hand. Once per turn: You can target up to 3 ""Unchained"" cards in your GY, except ""Reincarnation of the Unchained""; shuffle them into the Deck, then you can destroy other cards you control up to the number shuffled. You can only activate 1 ""Reincarnation of the Unchained"" per turn.",Add to hand?,Recovery effect,Destroy the card?,,,,,,,,,,,,,
-100261053,Unchained Syncretism,"Target 2 face-up monsters on the field, including an ""Unchained Soul"" Link Monster you control; immediately after this effect resolves, Link Summon 1 Fiend monster using only those 2 monsters. If this Set card is destroyed by card effect: You can Special Summon 1 ""Unchained"" monster from your Deck. You can only use each effect of ""Unchained Syncretism"" once per turn.",Link Summon,Special Summon,,,,,,,,,,,,,,
-100263001,Dark Tyranno,"Can attack directly if all monsters your opponent controls are in Defense Position. You can only use each of the following effects of ""Dark Tyranno"" once per turn. During your Main Phase, if a Spell Card or effect was activated this turn: You can Special Summon this card from your hand. If this card is sent to the GY: You can add 1 Level 8 or higher Dinosaur monster from your Deck to your hand, then you can Special Summon it if your opponent controls a monster.",Special Summon,Add to hand,Special Summon?,,,,,,,,,,,,,
-100263002,Arcana Force XII - The Hangman,"When a card or effect is activated (Quick Effect): You can reveal this card in your hand; Special Summon 1 ""Arcana Force"" monster from your hand in Defense Position. You can only use this effect of ""Arcana Force XII - The Hangman"" once per turn. If this card is Summoned: Toss a coin.
-● Heads: Destroy 1 monster you control, and if you do, take damage equal to its original ATK.
-● Tails: Destroy 1 monster your opponent controls, and if you do, inflict damage to your opponent equal to its original ATK.",Special Summon,Coin Toss effect,,,,,,,,,,,,,,
-100263003,"Candelato, the Beast of Light","(This card is always treated as a ""Phantom Beast"" card.)
-Gains 1000 ATK/DEF for each card in your hand. You can only use each of the following effects of ""Candelato, the Beast of Light"" once per turn. You can discard 2 other cards; Special Summon this card from your hand, then you can add 1 card from your Deck to your hand that has a coin tossing effect. When a card or effect is activated that includes an effect that adds a card(s) from the Deck to the hand (Quick Effect): You can negate that effect.",Special Summon,Negate,Add to hand?,,,,,,,,,,,,,
-100263004,Plasma Warrior Eitom,"(This card is always treated as a ""Magna Warrior"" card.)
-Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand or GY) by Tributing 1 Level 7 or higher monster. You can only Special Summon ""Plasma Warrior Eitom"" once per turn this way. Once per turn: You can send 1 ""Magnet Warrior"" or ""Magna Warrior"" monster from your Deck to the GY, except ""Plasma Warrior Eitom""; for the rest of this turn, this card's original ATK becomes 1500, also it can attack directly.",,Direct attack,,,,,,,,,,,,,,
-100263005,White Knight Lord,"You can banish 3 monsters from your GY; Special Summon this card from your hand, then you can apply 1 of these effects.
-● Special Summon 1 ""White Knight"" or ""White Night"" monster from your hand or Deck.
-● Add 1 ""White Veil"" from your Deck to your hand.
-You can only use this effect of ""White Knight Lord"" once per turn. When an attack is declared involving this card and an opponent's monster: Change that opponent's monster's ATK to 0. If this card in its owner's possession is destroyed by an opponent's card: Inflict 1000 damage to your opponent.",Special Summon,ATK becomes 0,Inflict damage,Do not resolve the effect,Special Summon,Add to hand,,,,,,,,,,
-100263006,Invincible Demise Lord,"During the End Phase, if a monster(s) was destroyed by battle this turn: You can Special Summon this card from your hand or GY, and if ""Invincible Demise Lord"" was destroyed by battle this turn, this card's original ATK becomes 3000, also it cannot be destroyed by card effects. During your Main Phase: You can reveal cards in your Deck, including ""Slash Draw"", equal to the number of cards your opponent controls +1 and place those revealed cards on top of the Deck in any order. You can only use each effect of ""Invincible Demise Lord"" once per turn.",Special Summon,Place on top of the Deck,Select a card to place on top of the Deck.,,,,,,,,,,,,,
-100263007,Elemental HERO Clay Guardian,"1 ""Elemental HERO"" monster + 1 Warrior monster
-(This card is not treated as a ""Guardian"" card.)
-If this card is Special Summoned: You can Special Summon 1 ""Elemental HERO"" monster from your Deck, then if your opponent controls a card, you can inflict 400 damage to your opponent for each, also you cannot Special Summon from the Extra Deck for the rest of this turn, except ""HERO"" monsters. You can only use this effect of ""Elemental HERO Clay Guardian"" once per turn. Other ""Elemental HERO"" monsters you control cannot be destroyed by battle or card effects.",Special Summon,Inflict damage?,,,,,,,,,,,,,,
-100263008,Doll Hammer,"Target 1 monster you control; destroy it, and if you do, draw 2 cards, then you can change the battle position of 1 monster your opponent controls. If a monster(s) is Special Summoned from your GY while this card is in your GY: You can add this card to your hand. You can only use each effect of ""Doll Hammer"" once per turn.",Activate,Recycle,Change battle position?,,,,,,,,,,,,,
-100263009,Quick Summon,"Immediately after this effect resolves, Normal Summon/Set 1 monster. When you do, if your opponent controls a monster, you can Normal Summon a Level 5 or higher monster without Tributing. During your Main Phase, if this card is in your GY, except the turn it was sent there: You can banish it; add 1 Level 5 or higher monster that can be Normal Summoned/Set from your Deck or GY to your hand, then immediately after this effect resolves, Tribute Summon it. You can only use this effect of ""Quick Summon"" once per turn.",Activate,Add to hand,"Apply the effect of ""Quick Summon"" to Summon without Tributing?",,,,,,,,,,,,,
-100263010,D - Burst,"Target 1 face-up Spell you control; destroy it, and if you do, draw 1 card, then if you control a ""Destiny HERO"" monster, you can Special Summon 1 ""Destiny HERO"" monster from your hand, GY, or banishment. At the end of the Damage Step, if a monster equipped with an Equip Card, or ""Destiny HERO - Dogma"", attacked: You can banish this card from your GY; that monster can make a second attack in a row. You can only activate 1 ""D - Burst"" per turn.",Draw,Make another attack,Special Summon?,,,,,,,,,,,,,
-100264002,Archfiend's Origin,"If this card is in your hand: You can Tribute 1 other ""Archfiend"" monster from your hand or field; Special Summon this card. If this card is Normal or Special Summoned: You can Special Summon 1 Level 6 Fiend monster with 2500 ATK from your hand, Deck, or GY. When your opponent activates a monster effect and you control ""Summoned Skull"" (Quick Effect): You can negate the activation, and if you do, destroy that card. You can only use each effect of ""Archfiend's Origin"" once per turn.",Special Summon this card,Special Summon,Negate and destroy,,,,,,,,,,,,,
-100264003,"Makourai, the Lightning Strike","(This card is always treated as an ""Archfiend"" card.)
-Target 1 ""Archfiend"" monster you control; it gains 600 ATK, then you can destroy all monsters your opponent controls with lower original ATK than that monster's ATK. During your Main Phase: You can banish this card from your GY, then target 1 Level 6 Fiend monster with 2500 ATK in your GY; add it to your hand. You can only use each effect of ""Makourai, the Lightning Strike"" once per turn.",Activate,Recycle,Destroy that monster?,,,,,,,,,,,,,
-100265002,Witchcrafter Seed,"If this card is Normal or Special Summoned and you control a ""Witchcrafter"" monster other than ""Witchcrafter Seed"", or ""Regulus, the Prince of Endymion"": You can target 1 face-up card on the field; return it to the hand. You can banish this card from your GY; reveal any number of cards in your hand, including a Spell, and shuffle them into the Deck, then draw that many cards. You can only use each effect of ""Witchcrafter Seed"" once per turn.",Return to the hand,Draw,,,,,,,,,,,,,,
-101306001,Swift Panther Warrior,"During the Main Phase (Quick Effect): You can Tribute 1 other monster from your hand or field, then activate 1 of these effects;
-● Special Summon 1 monster that mentions ""Dark Time Wizard"" from your hand or Deck, except ""Swift Panther Warrior"".
-● Send 1 Spell/Trap that mentions ""Dark Time Wizard"" from your Deck to the GY.
-You can only use this effect of ""Swift Panther Warrior"" once per turn. Cannot declare an attack unless a monster(s) was Tributed this turn.",Activate the effect,,Special Summon,Send to the GY,,,,,,,,,,,,
-101306002,Alligator's Sword Dragon Knight,"Can attack directly. You can only use each of the following effects of ""Alligator's Sword Dragon Knight"" once per turn. If this card is in your hand: You can reveal 1 other card in your hand that mentions ""Dark Time Wizard""; Special Summon this card. If this card is Normal or Special Summoned: You can add up to 2 Spells/Traps with different names from each other that mention ""Dark Time Wizard"" from your Deck to your hand, then discard 1 card.",Special Summon,Add to hand,,,,,,,,,,,,,,
-101306003,Jinzo - Energy Shocker,"This card's name becomes ""Jinzo"" while in the field or GY. If this card is Normal or Special Summoned: You can destroy as many Traps your opponent controls as possible (if a card is Set, reveal it), then this card gains 300 ATK for each card destroyed this way. You can only use this effect of ""Jinzo - Energy Shocker"" once per turn. Your opponent cannot activate Trap Cards or effects while you have another monster in your field or GY that mentions ""Dark Time Wizard"".",Destroy,,,,,,,,,,,,,,,
-101306004,"Fisherman, Legend of the Sea","If your opponent activates a monster effect on the field, or when their monster declares an attack, and ""Umi"" or a card that mentions ""Dark Time Wizard"" other than ""Fisherman, Legend of the Sea"" is on the field: You can Special Summon this card from your hand. If this card is Special Summoned: You can target 1 monster your opponent controls; destroy it, also return this card from the field to the hand during the End Phase of this turn. You can only use each effect of ""Fisherman, Legend of the Sea"" once per turn.",Special Summon,Destroy,,,,,,,,,,,,,,
-101306021,Destiny HERO - Death Dogma,"Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand or GY) by banishing 3 Warrior and/or DARK monsters from your GY. You can only Special Summon ""Destiny HERO - Death Dogma"" once per turn this way. If Summoned this way: You can activate this effect; inflict 2000 damage to your opponent during the next Standby Phase. Once per turn, when your opponent activates a card or effect (Quick Effect): You can Fusion Summon 1 DARK or Warrior Fusion Monster from your Extra Deck, by shuffling its materials from your hand, field, and/or GY into the Deck.",,Inflict damage,Fusion Summon,,,,,,,,,,,,,
-101306022,Destiny HERO - Doom Liege,"If this card is Normal or Special Summoned: You can target 1 monster your opponent controls; banish it until the next Standby Phase. You can send 1 ""Destiny HERO"" monster from your Deck to the GY; add 1 ""Clock Tower Prison"" or ""Clock Tower Prison City - Dark City"" from your Deck or GY to your hand, also you cannot Special Summon for the rest of this turn, except DARK ""HERO"" monsters. You can only use each effect of ""Destiny HERO - Doom Liege"" once per turn.",Banish,Add to hand,Banish until the next Standby Phase,,,,,,,,,,,,,
-101306023,Destiny HERO - Dreadnought Servant,"If you control a ""Destiny HERO"" monster or a face-up Field Spell: You can Special Summon this card from your hand, then you can destroy 1 card you control, and if you do, add 1 ""Polymerization"" from your Deck to your hand. If you Special Summon a Level 8 ""Destiny HERO"" monster(s): You can banish this card from your GY, then target 1 card your opponent controls; place it on top of the Deck. You can only use each effect of ""Destiny HERO - Dreadnought Servant"" once per turn.",Special Summon,Return to the Deck,Destroy and add to hand?,,,,,,,,,,,,,
-101306036,Red-Eyes Black Dragon Exceed,"""Red-Eyes Black Dragon"" + 1 monster that mentions ""Dark Time Wizard""
-Must be either Fusion Summoned, or Special Summoned (from your Extra Deck) by Tributing 1 face-up monster on either field during the turn a monster(s) was destroyed by the effect of ""Dark Time Wizard"". You can only Special Summon ""Red-Eyes Black Dragon Exceed"" once per turn this way, no matter which method you use. If this card is Special Summoned: You can Special Summon 1 Level 8 or lower monster from your hand or GY. Unaffected by your opponent's activated monster and Spell effects.",Special Summon,,,,,,,,,,,,,,,
-101306037,Destiny HERO - Dreadnought,"2 Level 5 or higher ""Destiny HERO"" monsters
-Must be either Fusion Summoned, or Special Summoned (from your Extra Deck) by Tributing 1 ""Destiny HERO - Dreadmaster"". You can only Special Summon ""Destiny HERO - Dreadnought"" once per turn this way, no matter which method you use. If this card is Special Summoned: You can add 2 ""Destiny HERO"" monsters and/or cards that mention a ""Destiny HERO"" monster's card name from your Deck to your hand. This card's ATK becomes the total original ATK of all other ""Destiny HERO"" monsters in your field and GY.",Add to hand,,,,,,,,,,,,,,,
-101306045,Swickelavee the Brilliantly Crowned Heavy Cavalry,"2 Level 3 monsters
-Once per turn, you can also Xyz Summon ""Swickelavee the Brilliantly Crowned Heavy Cavalry"" by using 1 Beast monster you control with 2000 or less ATK (transfer its materials). Cannot be used as material for an Xyz Summon. If this card destroys a monster by battle: Place 1 Crown Counter on it, then apply this effect based on the number of Crown Counters on it.
-● 1: This card gains 400 ATK.
-● 2: This card gains 600 ATK.
-● 3: Return this card to the Extra Deck, and if you do, draw 3 cards.",Xyz Summon by using a Beast monster as material?,Place a counter,,,,,,,,,,,,,,
-101306052,Dark Time Wizard,"Activate 1 of these effects (but you can only use each effect of ""Dark Time Wizard"" once per turn);
-● Add 1 card that mentions ""Dark Time Wizard"" from your Deck to your hand, except ""Dark Time Wizard"", also add 1 ""Dark Time Wizard"" from your GY to your hand during the End Phase of this turn.
-● Toss a coin and call it. If you call it right, destroy as many monsters your opponent controls as possible, and if you do, inflict damage to your opponent equal to half the total original ATK of those monsters. If you call it wrong, destroy all monsters you control.",Activate,Add to hand,Toss a coin,,,,,,,,,,,,,
-101306053,Graceful Skull Dice,"Roll a six-sided die twice and apply these effects for the rest of this turn.
-● Monsters you control that mention ""Dark Time Wizard"" gain ATK/DEF equal to the total x 200.
-● Monsters your opponent controls lose ATK/DEF equal to the total x 200.
-If your opponent Normal or Special Summons a monster(s) while this card is in your GY: You can banish this card, then target 1 of those monsters; roll a six-sided die twice, and if the total is 6 or more, destroy that monster.",Activate,Roll a die,,,,,,,,,,,,,,
-101306054,Sleeping Scapegoats,"Special Summon up to 4 ""Scapegoat Tokens"" (Beast/EARTH/Level 1/ATK 0/DEF 0) in Defense Position, then if your opponent controls a monster, you can Special Summon 1 ""Swift Panther Warrior"" from your Deck, also for the rest of this turn, these Tokens cannot be Tributed for a Tribute Summon, also you cannot Special Summon from the Extra Deck, except Fusion Monsters. If a card(s) you control that mentions ""Dark Time Wizard"" would be destroyed by battle or card effect, you can destroy 1 Token you control that was Special Summoned by this effect instead.",Activate,Select the number of Special Summons,Special Summon {CARD}?,,,,,,,,,,,,,
-101306062,Clock Tower Prison City - Dark City,"Each time you Special Summon a Level 8 or higher ""Destiny HERO"" monster(s): All Warrior monsters you currently control gain 300 ATK. You can only use each of the following effects of ""Clock Tower Prison City - Dark City"" once per turn. During your Main Phase, if this card was activated this turn: You can add 1 ""Destiny HERO"" monster, or 1 card that mentions a ""Destiny HERO"" monster's card name, from your Deck to your hand. If this card is destroyed: You can Special Summon 1 ""Destiny HERO"" monster from your Deck (this is treated as a Special Summon with ""Clock Tower Prison"").",Add to hand,Increase ATK,Special Summon,,,,,,,,,,,,,
-101306070,Foolish Graverobber,"Send 1 card that mentions ""Dark Time Wizard"" from your Deck to the GY, except ""Foolish Graverobber"", then you can Special Summon 1 monster from either GY to your field. You can banish this card from your GY; Set to your field, 1 Spell/Trap that mentions ""Dark Time Wizard"" from your GY, except ""Foolish Graverobber"", or 1 Spell/Trap from your opponent's GY. You can only use each effect of ""Foolish Graverobber"" once per turn.",Send to the GY,Set,Special Summon?,,,,,,,,,,,,,
-101306071,Reversal Box,"Once per turn, during the Standby Phase: Roll a six-sided die and place counters on this card equal to the result (max. 6). When a monster effect is activated on your opponent's field, or once per battle, during damage calculation, if an opponent's monster attacks: You can remove 1 counter from this card, then target 1 of those monsters; toss a coin and call it. If you call it right, you can Special Summon 1 monster that mentions ""Dark Time Wizard"" from your Deck, and if you do, until the end of this turn, change the targeted monster's ATK to 0, also its effects are negated.",Place a counter,Toss a coin,Select the number of counters to place,,,,,,,,,,,,,
-101306154,Scapegoat Token,"Special Summoned by the effect of ""Sleeping Scapegoats"". If a card you control that mentions ""Dark Time Wizard"" in its card text would be destroyed by battle or card effect, you can destroy this card instead.",,,,,,,,,,,,,,,,
-101306254,Scapegoat Token,"Special Summoned by the effect of ""Sleeping Scapegoats"". If a card you control that mentions ""Dark Time Wizard"" in its card text would be destroyed by battle or card effect, you can destroy this card instead.",,,,,,,,,,,,,,,,
-101306354,Scapegoat Token,"Special Summoned by the effect of ""Sleeping Scapegoats"". If a card you control that mentions ""Dark Time Wizard"" in its card text would be destroyed by battle or card effect, you can destroy this card instead.",,,,,,,,,,,,,,,,
-101306454,Scapegoat Token,"Special Summoned by the effect of ""Sleeping Scapegoats"". If a card you control that mentions ""Dark Time Wizard"" in its card text would be destroyed by battle or card effect, you can destroy this card instead.",,,,,,,,,,,,,,,,
+①：只要上级召唤的怪兽在自己场上存在，对方场上的怪兽的守备力下降1500。
+②：这张卡被解放的场合，可以从以下效果选择1个发动（这个卡名的以下效果1回合各能选择1次）。
+●双方的额外卡组（表侧）·场上的灵摆怪兽全部回到卡组。
+●从卡组·额外卡组把灵摆怪兽以外的1只「道化一座」怪兽无视召唤条件特殊召唤。",เรียกพิเศษ,เลือกเอฟเฟกต์,กลับเด็ค,เรียกพิเศษ,,,,,,,,,,,,
+100261001,滑稽暗黑兔,"①：这张卡召唤·特殊召唤时适用。这个回合，自己在通常召唤外加上只有1次，自己主要阶段可以把有「卡通世界」的卡名记述的1只怪兽召唤。
+②：只要场上有「卡通世界」存在，这张卡当作卡通怪兽使用。
+③：1回合1次，自己主要阶段才能发动。从卡组选1张「卡通」场地·永续魔法卡加入手卡或在自己场上表侧表示放置。",,เรียกโดยเอฟเฟกต์ของ {CARD},เอฟเฟกต์ค้นหา,วาง,,,,,,,,,,,,
+100261002,漫画猫,"这个卡名的②的效果1回合只能使用1次。
+①：只要场上有「卡通世界」存在，这张卡当作卡通怪兽使用。
+②：自己·对方的主要阶段才能发动。自己场上1只怪兽解放，从手卡·卡组把有「卡通世界」的卡名记述的1只怪兽无视召唤条件特殊召唤。自己场上有「卡通世界」存在的场合，也能从对方场上选解放的怪兽。",,เรียกพิเศษ,,,,,,,,,,,,,,
+100261003,邪魔箱,"这个卡名的①的效果1回合只能使用1次。
+①：自己场上有「卡通世界」存在的场合才能发动。这张卡从手卡特殊召唤。那之后，以下效果可以适用。
+●从卡组选1张「卡通」陷阱卡加入手卡或在自己场上盖放。
+②：只要场上有「卡通世界」存在，这张卡当作卡通怪兽使用。
+③：自己·对方回合1次，以自己或对方的墓地1张卡为对象才能发动。那张卡回到卡组最下面。",เรียกพิเศษ,กู้คืนจากสุสาน,เลือกการ์ดกับดัก?,,,,,,,,,,,,,
+100261004,暗眼幻想师·无脸幻想师,"①：可以把这张卡从手卡丢弃，从以下效果选择1个发动（这个卡名的以下效果1回合各能选择1次）。
+●从手卡·卡组把1张「看透心灵之眼」在自己场上表侧表示放置。
+●除这张卡外的1只有「卡通世界」的卡名记述的怪兽从自己墓地加入手卡。那之后，可以把那只怪兽从手卡无视召唤条件特殊召唤。
+②：这张卡和怪兽进行战斗的场合，那2只不会被那次战斗破坏。",ทิ้ง,Place a Trap Card,กู้คืนมอนสเตอร์,เรียกพิเศษ?,,,,,,,,,,,,
+100261005,青眼卡通究极龙,"「青眼卡通龙」＋卡通怪兽×2
+让自己的手卡·场上·墓地的上记的卡回到卡组·额外卡组的场合才能特殊召唤。
+①：自己的卡通怪兽可以直接攻击。
+②：1回合1次，自己主要阶段才能发动。把1张「卡通」卡或者有那卡名记述的卡从自己墓地加入手卡。
+③：自己的卡通怪兽被攻击的伤害计算时才能发动。那只怪兽直到伤害步骤结束时除外。",,รีไซเคิล,ลบออก,,,,,,,,,,,,,
+100261006,完美世界 卡通世界,"这个卡名的②的效果1回合可以使用最多3次。
+①：这张卡只要在场地区域存在，卡名当作「卡通世界」使用。
+②：1回合1次，自己主要阶段才能发动。把1张「卡通」卡或者有那卡名记述的卡从卡组加入手卡。
+③：其他卡发动的效果适用之际，可以把自己场上1只卡通怪兽直到那个效果处理后除外（这个回合，这个卡名的这个效果不能把原本卡名相同的怪兽除外）。",,เพิ่มเข้ามือ,,ลบมอนสเตอร์ตัวนั้นออก?,,,,,,,,,,,,
+100261007,看透心灵之眼,"（注：暂时无法正常使用）
+
+这个卡名的②的效果1回合只能使用1次。
+①：只要自己的场上或墓地有「卡通」卡存在，对方把手卡全部持续公开，自己随时可以把对方场上的里侧表示卡确认。
+②：自己的场上·墓地有卡通怪兽以及「卡通」魔法卡存在的场合，宣言1个同一连锁上没有把效果发动的卡名才能发动。这张卡表侧表示存在期间，直到回合结束时原本卡名和宣言的卡相同的卡发动的效果无效化。",,ประกาศ,,,,,,,,,,,,,,
+100261023,魔女术赤陶偶,"这个卡名的①②的效果1回合各能使用1次。
+①：这张卡在手卡存在的场合，以「魔女术赤陶偶」以外的自己墓地1张「魔女术」卡为对象才能发动。那张卡加入手卡，这张卡特殊召唤。这个回合，自己不是「魔女术」怪兽不能从额外卡组特殊召唤。
+②：自己主要阶段才能发动。自己的手卡·场上的怪兽作为融合素材，把1只「魔女术」融合怪兽融合召唤。",เรียกพิเศษ,ผสมเรียก,,,,,,,,,,,,,,
+100261024,魔女术工匠·商标女巫,"这个卡名的①②的效果1回合各能使用1次。
+①：把手卡·场上的这张卡解放才能发动。从卡组把1张「魔女术」场地·永续魔法卡加入手卡。
+②：这张卡在墓地存在的状态，自己场上的表侧表示的「魔女术」怪兽因对方的效果从场上离开的场合才能发动。这张卡特殊召唤，对方场上1只怪兽解放。这个效果特殊召唤的这张卡从场上离开的场合除外。",เพิ่มเข้ามือ,เรียกพิเศษ,,,,,,,,,,,,,,
+100261025,大魔女 桑德里永,"「魔女术师傅·玻璃女巫」＋魔法师族怪兽×2
+这个卡名的①②的效果1回合各能使用1次。
+①：这张卡融合召唤的场合才能发动。从手卡·卡组把最多3只7星以下的「魔女术」怪兽特殊召唤（相同属性最多1只）。这个回合，自己不是融合怪兽不能从额外卡组特殊召唤。
+②：这张卡在墓地存在的场合，自己结束阶段，把手卡1张魔法卡给对方观看才能发动。这张卡守备表示特殊召唤。",เรียกพิเศษจากเด็ค,เรียกพิเศษการ์ดใบนี้,,,,,,,,,,,,,,
+100261026,魔女术学童组合,"「魔女术」怪兽＋魔法师族怪兽
+这个卡名的①②的效果1回合各能使用1次。
+①：自己·对方的主要阶段以及战斗阶段，可以从以下效果选择1个发动。
+●从卡组把1张「魔女术」魔法卡加入手卡。
+●把手卡1张「魔女术」通常·速攻魔法卡给对方观看才能发动。那张魔法卡发动时的效果适用。
+②：自己结束阶段才能发动。自己的除外状态的1张「魔女术」卡回到墓地。",เปิดใช้งาน,กลับสุสาน,เอฟเฟกต์ค้นหา,คัดลอกเอฟเฟกต์,,,,,,,,,,,,
+100261027,魔女术的庆祝会,"这个卡名的①②的效果1回合只能有1次使用其中任意1个。
+①：可以从以下效果选择1个发动。
+●自己场上1只「魔女术」怪兽和对方场上1张卡破坏。
+●自己的墓地·除外状态的魔法师族怪兽作为融合素材回到卡组，把1只「魔女术」融合怪兽融合召唤。
+②：自己结束阶段，这张卡在墓地存在，自己场上有「魔女术」怪兽存在的场合才能发动。这张卡加入手卡。",เปิดใช้งาน,เพิ่มเข้ามือ,เอฟเฟกต์ทำลาย,ผสมเรียก,,,,,,,,,,,,
+100261028,魔女的圣夜行,"这个卡名的①的效果1回合只能使用1次。
+①：自己主要阶段才能发动。从卡组把1只「魔女术」怪兽加入手卡。那之后，选自己1张手卡丢弃。
+②：自己回合，为让自己场上的「魔女术」怪兽的效果发动而把手卡丢弃的场合，可以作为代替从卡组把「魔女的圣夜行」以外的1张「魔女术」魔法·陷阱卡送去墓地。",เพิ่มเข้ามือ,,,,,,,,,,,,,,,
+100261029,魔女术的歪曲,"这个卡名的①②的效果1回合各能使用1次。
+①：自己场上有5星以上的「魔女术」怪兽存在，怪兽的效果·魔法·陷阱卡发动时才能发动。那个发动无效并破坏。
+②：把这个回合没有送去墓地的这张卡从墓地除外才能发动。从卡组把1只5星以上的魔法师族怪兽加入手卡。那之后，选自己1张手卡丢弃。",เปิดใช้งาน,เพิ่มเข้ามือ,,,,,,,,,,,,,,
+100261047,破械式鬼 萨拉,"这个卡名的①②的效果1回合各能使用1次。
+①：自己·对方的主要阶段，把这张卡从手卡丢弃才能发动。从手卡把1只恶魔族怪兽特殊召唤。那之后，自己场上1张卡破坏。
+②：这张卡在墓地存在的状态，场上的卡被战斗或者「破械式鬼 萨拉」以外的卡的效果破坏的场合才能发动。这张卡加入手卡或特殊召唤。这个效果特殊召唤的这张卡从场上离开的场合回到卡组最下面。",เรียกพิเศษ,รีไซเคิล,,,,,,,,,,,,,,
+100261048,破械式鬼 斯玛,"这个卡名的①②的效果1回合各能使用1次。
+①：这张卡召唤的场合才能发动。除「破械式鬼 斯玛」外的1只4星以下的「破械」怪兽从卡组特殊召唤。那之后，自己场上1张卡破坏。这个回合，自己不是恶魔族怪兽不能特殊召唤。
+②：场上的这张卡被战斗或者「破械式鬼 斯玛」以外的卡的效果破坏的场合才能发动。从手卡·卡组把「破械式鬼 斯玛」以外的1只「破械」怪兽特殊召唤。",เรียกพิเศษจากเด็ค,เรียกพิเศษจากมือ/เด็ค,,,,,,,,,,,,,,
+100261049,破械冥官 篁,"这个卡名的①②的效果1回合各能使用1次。
+①：以自己场上最多3张卡为对象才能发动。那些卡破坏，这张卡从手卡特殊召唤。那之后，破坏的卡的原本种类的以下效果各能适用。
+●怪兽：自己抽1张。
+●魔法：场上1只怪兽的表示形式变更。
+●陷阱：场上1张其他卡破坏。
+②：场上的这张卡被效果破坏的场合才能发动。场上的怪兽全部破坏。",เรียกพิเศษ,เอฟเฟกต์ทำลาย,จั่วการ์ด 1 ใบ?,เปลี่ยนตำแหน่งโจมตี?,ทำลาย?,,,,,,,,,,,
+100261050,破械焰魔天 阎摩,"包含「破械神」怪兽的怪兽2只以上
+这个卡名的①②的效果1回合各能使用1次。
+①：自己结束阶段，以这个回合被破坏的自己墓地最多2只恶魔族怪兽为对象才能发动。那些怪兽特殊召唤。只要这个效果特殊召唤的怪兽在自己场上表侧表示存在，自己不是恶魔族怪兽不能特殊召唤。
+②：场上的这张卡被战斗·效果破坏的场合，可以作为代替把自己或对方的场上1张表侧表示卡破坏。",เรียกพิเศษ,,เรียกพิเศษโดยเอฟเฟกต์ของ {CARD},,,,,,,,,,,,,
+100261051,破械神双 罗寂刹,"包含恶魔族怪兽的怪兽2只以上
+这个卡名的①②的效果1回合各能使用1次。
+①：对方把怪兽表侧表示特殊召唤的场合，以那之内的1只为对象才能发动。自己场上1只恶魔族怪兽破坏，作为对象的怪兽的效果直到回合结束时无效。
+②：自己场上有连接4以上的「破械」连接怪兽存在，场上的怪兽的效果发动时，把墓地的这张卡除外才能发动。那只把效果发动的怪兽破坏。",ยกเลิก,ทำลาย,,,,,,,,,,,,,,
+100261052,破械转生,"这个卡名的卡在1回合只能发动1张。
+①：作为这张卡的发动时的效果处理，可以从卡组把1张「破械转生」以外的「破械」魔法卡或「双王之械」加入手卡。
+②：1回合1次，以「破械转生」以外的自己墓地最多3张「破械」卡为对象才能发动。那些卡回到卡组。那之后，可以把最多有回去数量的自己场上的其他卡破坏。",เพิ่มเข้ามือ?,เอฟเฟกต์กู้คืน,ทำลายการ์ดใบนี้?,,,,,,,,,,,,,
+100261053,破械习合,"这个卡名的①②的效果1回合各能使用1次。
+①：以包含自己场上的「破械神」连接怪兽的自己·对方场上2只表侧表示怪兽为对象才能发动。只用那2只怪兽为素材进行1只恶魔族连接怪兽的连接召唤。
+②：盖放的这张卡被效果破坏的场合才能发动。从卡组把1只「破械」怪兽特殊召唤。",ลิงค์เรียก,เรียกพิเศษ,,,,,,,,,,,,,,
+100263001,暗恐兽,"这个卡名的①③的效果1回合各能使用1次。
+①：魔法卡的效果发动的回合的自己主要阶段才能发动。这张卡从手卡特殊召唤。
+②：只要对方场上的怪兽全部是守备表示，这张卡可以直接攻击。
+③：这张卡被送去墓地的场合才能发动。从卡组把1只8星以上的恐龙族怪兽加入手卡。对方场上有怪兽存在的场合，可以再把加入手卡的那只怪兽特殊召唤。",เรียกพิเศษ,เพิ่มเข้ามือ,เรียกพิเศษ?,,,,,,,,,,,,,
+100263002,秘仪之力12-倒吊人,"这个卡名的①的效果1回合只能使用1次。
+①：卡的效果发动时，把手卡的这张卡给对方观看才能发动。从手卡把1只「秘仪之力」怪兽守备表示特殊召唤。
+②：这张卡召唤·反转召唤·特殊召唤的场合发动。进行1次投掷硬币，那个里表的以下效果适用。
+●表：自己场上1只怪兽破坏，自己受到那个原本攻击力数值的伤害。
+●里：对方场上1只怪兽破坏，给与对方那个原本攻击力数值的伤害。",เรียกพิเศษ,เอฟเฟกต์โยนเหรียญ,,,,,,,,,,,,,,
+100263003,光幻兽 烛光多头龙,"这个卡名的①③的效果1回合各能使用1次。
+①：这张卡在手卡存在的场合，从手卡丢弃2张其他卡才能发动。这张卡特殊召唤。那之后，可以把持有进行投掷硬币效果的1张卡从卡组加入手卡。
+②：这张卡的攻击力·守备力上升自己手卡数量×1000。
+③：包含从卡组把卡加入手卡效果的魔法·陷阱·怪兽的效果发动时才能发动。那个效果无效。",เรียกพิเศษ,ยกเลิก,เพิ่มเข้ามือ?,,,,,,,,,,,,,
+100263004,等离子战士 原子八雷王,"这个卡名在规则上也当作「磁石战士」卡使用。这张卡不能通常召唤。「等离子战士 原子八雷王」1回合1次在把自己场上1只7星以上的怪兽解放的场合才能从手卡·墓地特殊召唤。
+①：1回合1次，把除「等离子战士 原子八雷王」外的1只「磁石战士」怪兽从卡组送去墓地才能发动。这个回合，这张卡的原本攻击力变成1500，可以直接攻击。",,โจมตีตรงๆ,,,,,,,,,,,,,,
+100263005,白骑士团的支配者,"这个卡名的①的效果1回合只能使用1次。
+①：从自己墓地把3只怪兽除外才能发动。这张卡从手卡特殊召唤。那之后，可以从以下效果选1个适用。
+●从手卡·卡组把1只「白夜」怪兽特殊召唤。
+●从卡组把1张「白之衣」加入手卡。
+②：这张卡和对方怪兽进行战斗的攻击宣言时发动。那只对方怪兽的攻击力变成0。
+③：这张卡被对方破坏的场合发动。给与对方1000伤害。",เรียกพิเศษ,พลังโจมตีเป็น 0,ให้ดาเมจ,ไม่ทำเอฟเฟกต์,เรียกพิเศษ,เพิ่มเข้ามือ,,,,,,,,,,
+100263006,不死之死亡神,"这个卡名的①②的效果1回合各能使用1次。
+①：这个回合是已有怪兽被战斗破坏的场合，结束阶段才能发动。这张卡从手卡·墓地特殊召唤。这个回合是已有「不死之死亡神」被战斗破坏的场合，这个效果特殊召唤的这张卡原本攻击力变成3000，不会被效果破坏。
+②：自己主要阶段才能发动。把对方场上的卡数量＋1张的包含「一击必杀！居合抽牌」的卡从卡组给对方观看，用喜欢的顺序在卡组上面放置。",เรียกพิเศษ,วางบนเด็ค,เลือกการ์ดวางบนเด็ค,,,,,,,,,,,,,
+100263007,元素英雄 黏土守卫侠,"「元素英雄」怪兽＋战士族怪兽
+这个卡名的①的效果1回合只能使用1次。
+①：这张卡特殊召唤的场合才能发动。从卡组把1只「元素英雄」怪兽特殊召唤。对方场上有卡存在的场合，可以再给与对方那个数量×400伤害。这个回合，自己不是「英雄」怪兽不能从额外卡组特殊召唤。
+②：只要这张卡在怪兽区域存在，自己场上的其他的「元素英雄」怪兽不会被战斗·效果破坏。",เรียกพิเศษ,Inflict damage?,,,,,,,,,,,,,,
+100263008,人偶之锤,"这个卡名的①②的效果1回合各能使用1次。
+①：以自己场上1只怪兽为对象才能发动。那只怪兽破坏，自己抽2张。那之后，可以把对方场上1只怪兽的表示形式变更。
+②：这张卡在墓地存在的状态，从自己墓地有怪兽特殊召唤的场合才能发动。这张卡加入手卡。",เปิดใช้งาน,รีไซเคิล,เปลี่ยนตำแหน่งโจมตี?,,,,,,,,,,,,,
+100263009,速攻召唤,"这个卡名的②的效果1回合只能使用1次。
+①：进行1只怪兽的通常召唤。那个时候，若对方场上有怪兽存在，5星以上的怪兽召唤的场合需要的解放可以不用。
+②：自己主要阶段，把这个回合没有送去墓地的这张卡从墓地除外才能发动。把1只可以通常召唤的5星以上的怪兽从自己的卡组·墓地加入手卡。那之后，进行那1只怪兽的上级召唤。",เปิดใช้งาน,เพิ่มเข้ามือ,เปิดใช้งานเอฟเฟกต์ของ {CARD} เพื่อเรียกโดยไม่สละ?,,,,,,,,,,,,,
+100263010,D-爆裂,"这个卡名的卡在1回合只能发动1张。
+①：以自己场上1张表侧表示的魔法卡为对象才能发动。那张卡破坏，自己抽1张。那之后，自己场上有「命运英雄」怪兽存在的场合，可以把自己的手卡·墓地·除外状态的1只「命运英雄」怪兽特殊召唤。
+②：有装备卡装备的怪兽或者「命运英雄 教义人」攻击的伤害步骤结束时，把墓地的这张卡除外才能发动。那只攻击怪兽只再1次可以继续攻击。",จั่ว,โจมตีเพิ่มเติม,เรียกพิเศษ?,,,,,,,,,,,,,
+100264002,恶魔根源,"这个卡名的①②③的效果1回合各能使用1次。
+①：这张卡在手卡存在的场合，把这张卡以外的自己的手卡·场上1只「恶魔」怪兽解放才能发动。这张卡特殊召唤。
+②：这张卡召唤·特殊召唤的场合才能发动。从自己的手卡·卡组·墓地把1只攻击力2500的恶魔族·6星怪兽特殊召唤。
+③：自己场上有「恶魔召唤」存在，对方把怪兽的效果发动时才能发动。那个发动无效并破坏。",เรียกพิเศษการ์ดใบนี้,เรียกพิเศษ,ยกเลิกและทำลาย,,,,,,,,,,,,,
+100264003,魔降雷,"这个卡名在规则上也当作「恶魔」卡使用。这个卡名的①②的效果1回合各能使用1次。
+①：以自己场上1只「恶魔」怪兽为对象才能发动。那只怪兽的攻击力上升600。那之后，可以把持有比那只怪兽的攻击力低的原本攻击力的对方场上的怪兽全部破坏。
+②：自己主要阶段把墓地的这张卡除外，以自己墓地1只攻击力2500的恶魔族·6星怪兽为对象才能发动。那只怪兽加入手卡。",เปิดใช้งาน,รีไซเคิล,ทำลายมอนสเตอร์ตัวนั้น?,,,,,,,,,,,,,
+100265002,魔女术工匠·种子女巫,"这个卡名的①②的效果1回合各能使用1次。
+①：这张卡召唤·特殊召唤的场合，若自己场上有「魔女术工匠·种子女巫」以外的「魔女术」怪兽或「圣月之皇太子 雷古勒斯」存在，以场上1张表侧表示卡为对象才能发动。那张卡回到手卡。
+②：把墓地的这张卡除外才能发动。包含魔法卡的手卡的卡任意数量给对方观看，回到卡组。那之后，自己抽出回去的数量。",กลับมือ,จั่ว,,,,,,,,,,,,,,
+101306001,疾风之豹战士,"这个卡名的①的效果1回合只能使用1次。
+①：自己·对方的主要阶段，可以把场上的这张卡以外的自己的手卡·场上1只怪兽解放，从以下效果选择1个发动。
+●除「疾风之豹战士」外的1只有「时间黑魔术师」的卡名记述的怪兽从手卡·卡组特殊召唤。
+●从卡组把有「时间黑魔术师」的卡名记述的1张魔法·陷阱卡送去墓地。
+②：这张卡若不在怪兽被解放的回合则不能攻击宣言。",เปิดใช้งานเอฟเฟกต์,,เรียกพิเศษ,ส่งสุสาน,,,,,,,,,,,,
+101306002,翼龙龙骑士,"这个卡名的①②的效果1回合各能使用1次。
+①：这张卡在手卡存在的场合，把这张卡以外的有「时间黑魔术师」的卡名记述的手卡1张卡给对方观看才能发动。这张卡特殊召唤。
+②：这张卡召唤·特殊召唤的场合才能发动。从卡组把有「时间黑魔术师」的卡名记述的最多2张魔法·陷阱卡加入手卡（同名卡最多1张）。那之后，选自己1张手卡丢弃。
+③：这张卡可以直接攻击。",เรียกพิเศษ,เพิ่มเข้ามือ,,,,,,,,,,,,,,
+101306003,人造人-念力能量震慑者,"这个卡名的②的效果1回合只能使用1次。
+①：这张卡的卡名只要在场上·墓地存在当作「人造人-念力震慑者」使用。
+②：这张卡召唤·特殊召唤的场合才能发动。对方场上的陷阱卡全部破坏（里侧表示卡翻开确认）。那之后，这张卡的攻击力上升破坏数量×300。
+③：只要除这张卡外的有「时间黑魔术师」的卡名记述的怪兽在自己的场上或墓地存在，对方不能把陷阱卡的效果发动。",ทำลาย,,,,,,,,,,,,,,,
+101306004,大海的传说-渔人,"这个卡名的①②的效果1回合各能使用1次。
+①：对方把场上的怪兽的效果发动的场合或者对方怪兽的攻击宣言时，若除「大海的传说-渔人」外的有「时间黑魔术师」的卡名记述的卡或者「海」在场上存在则能发动。这张卡从手卡特殊召唤。
+②：这张卡特殊召唤的场合，以对方场上1只怪兽为对象才能发动。那只怪兽破坏。这个回合的结束阶段，场上的这张卡回到手卡。",เรียกพิเศษ,ทำลาย,,,,,,,,,,,,,,
+101306021,命运英雄 死亡教义人,"这张卡不能通常召唤。「命运英雄 死亡教义人」1回合1次，把战士族或暗属性怪兽合计3只从自己墓地除外的场合才能从手卡·墓地特殊召唤。
+①：这个方法让这张卡特殊召唤的场合才能发动。下个准备阶段给与对方2000伤害。
+②：1回合1次，对方把效果发动时才能发动。自己手卡·场上·墓地的怪兽作为融合素材回到卡组，把战士族或暗属性的1只融合怪兽融合召唤。",,ให้ดาเมจ,ผสมเรียก,,,,,,,,,,,,,
+101306022,命运英雄 恶魔主宰人,"这个卡名的①②的效果1回合各能使用1次。
+①：这张卡召唤·特殊召唤的场合，以对方场上1只怪兽为对象才能发动。那只怪兽直到下次的准备阶段除外。
+②：从卡组把1只「命运英雄」怪兽送去墓地才能发动。从自己的卡组·墓地把1张「幽狱之时计塔」或「幽狱之时计都市-暗黑都市」加入手卡。这个效果的发动后，直到回合结束时自己不是暗属性「英雄」怪兽不能特殊召唤。",ลบออก,เพิ่มเข้ามือ,ลบออกจนถึงเฟสสแตนด์บายถัดไป,,,,,,,,,,,,,
+101306023,命运英雄 无惧从者,"这个卡名的①②的效果1回合各能使用1次。
+①：自己场上有「命运英雄」怪兽或场地魔法卡表侧表示存在的场合才能发动。这张卡从手卡特殊召唤。那之后，以下效果可以适用。
+●自己场上1张卡破坏，从卡组把1张「融合」加入手卡。
+②：自己把8星「命运英雄」怪兽特殊召唤的场合，把墓地的这张卡除外，以对方场上1张卡为对象才能发动。那张卡回到卡组最上面。",เรียกพิเศษ,กลับเด็ค,ทำลายและเพิ่มเข้ามือ?,,,,,,,,,,,,,
+101306036,真红眼超越黑龙,"「真红眼黑龙」＋有「时间黑魔术师」的卡名记述的怪兽
+「真红眼超越黑龙」1回合1次用融合召唤以及以下方法才能特殊召唤。
+●「时间黑魔术师」的效果让怪兽被破坏的回合，把自己·对方场上1只表侧表示怪兽解放的场合可以从额外卡组特殊召唤。
+①：这张卡特殊召唤的场合才能发动。从自己的手卡·墓地把1只8星以下的怪兽特殊召唤。
+②：场上的这张卡不受对方发动的魔法·怪兽的效果影响。",เรียกพิเศษ,,,,,,,,,,,,,,,
+101306037,命运英雄 无惧人,"5星以上的「命运英雄」怪兽×2
+「命运英雄 无惧人」1回合1次用融合召唤以及以下方法才能特殊召唤。
+●把自己场上1只「命运英雄 恐惧人」解放的场合可以从额外卡组特殊召唤。
+①：这张卡特殊召唤的场合才能发动。把「命运英雄」怪兽或者有那卡名记述的卡合计2张从卡组加入手卡。
+②：这张卡的攻击力变成自己的场上·墓地的其他的「命运英雄」怪兽的原本攻击力的合计值。",เพิ่มเข้ามือ,,,,,,,,,,,,,,,
+101306045,灿冠乘骑 疾驱海人马,"3星怪兽×2
+「灿冠乘骑 疾驱海人马」1回合1次也能在自己场上的攻击力2000以下的兽族怪兽上面重叠来超量召唤。这张卡不能作为超量召唤的素材。
+①：这张卡战斗破坏怪兽的场合发动。给这张卡放置1个冠指示物。那之后，根据这张卡的冠指示物数量适用以下效果。
+●1个：这张卡的攻击力上升400。
+●2个：这张卡的攻击力上升600。
+●3个：这张卡回到额外卡组，自己抽3张。",是否在兽族怪兽上面重叠来超量召唤？,วางตัวบ่งชี้,,,,,,,,,,,,,,
+101306052,时间黑魔术师,"①：可以从以下效果选择1个发动（这个卡名的以下效果1回合各能选择1次）。
+●除「时间黑魔术师」外的1张有「时间黑魔术师」的卡名记述的卡从卡组加入手卡。这个回合的结束阶段，从自己墓地把1张「时间黑魔术师」加入手卡。
+●进行1次投掷硬币，对里表作猜测。猜中的场合，对方场上的怪兽全部破坏，给与对方那个原本攻击力合计数值一半的伤害。猜错的场合，自己场上的怪兽全部破坏。",เปิดใช้งาน,เพิ่มเข้ามือ,โยนเหรียญ,,,,,,,,,,,,,
+101306053,天使与恶魔的骰子,"①：掷2次骰子，这个回合中，以下效果各适用。
+●有「时间黑魔术师」的卡名记述的自己场上的怪兽的攻击力·守备力上升出现的数目合计×200。
+●对方场上的怪兽的攻击力·守备力下降出现的数目合计×200。
+②：这张卡在墓地存在的状态，对方把怪兽召唤·特殊召唤的场合，把这张卡除外，以那之内的1只为对象才能发动。掷2次骰子，出现的数目合计是6以上的场合，作为对象的怪兽破坏。",เปิดใช้งาน,ทอยลูกเต๋า,,,,,,,,,,,,,,
+101306054,睡羊 替罪羊,①：在自己场上把最多4只「替罪羊衍生物」（兽族·地·1星·攻/守0）守备表示特殊召唤。对方场上有怪兽存在的场合，可以再从卡组把1只「疾风之豹战士」特殊召唤。这个回合，这衍生物不能为上级召唤而解放，自己不是融合怪兽不能从额外卡组特殊召唤。有「时间黑魔术师」的卡名记述的自己场上的卡被战斗·效果破坏的场合，可以作为代替把这个效果特殊召唤的自己场上1只衍生物破坏。,เปิดใช้งาน,เลือกจำนวนการเรียกพิเศษ,เรียกพิเศษ {CARD}?,,,,,,,,,,,,,
+101306062,幽狱之时计都市-暗黑都市,"这个卡名的①③的效果1回合各能使用1次。
+①：这张卡发动的回合的自己主要阶段才能发动。把1只「命运英雄」怪兽或者1张有那卡名记述的卡从卡组加入手卡。
+②：每次自己把8星以上的「命运英雄」怪兽特殊召唤发动。自己场上的全部战士族怪兽的攻击力上升300。
+③：这张卡被破坏的场合才能发动。从卡组把1只「命运英雄」怪兽当作「幽狱之时计塔」的效果作特殊召唤。",เพิ่มเข้ามือ,เพิ่มพลังโจมตี,เรียกพิเศษ,,,,,,,,,,,,,
+101306070,愚蠢的盗墓者,"这个卡名的①②的效果1回合各能使用1次。
+①：除「愚蠢的盗墓者」外的1张有「时间黑魔术师」的卡名记述的卡从卡组送去墓地。那之后，可以把自己或对方的墓地1只怪兽在自己场上特殊召唤。
+②：把墓地的这张卡除外才能发动。以下其中1张卡在自己场上盖放。
+●除「愚蠢的盗墓者」外的有「时间黑魔术师」的卡名记述的自己墓地的魔法·陷阱卡
+●对方墓地的魔法·陷阱卡",ส่งสุสาน,หมอบ,เรียกพิเศษ?,,,,,,,,,,,,,
+101306071,大逆转箱,"①：自己·对方的准备阶段发动。掷1次骰子，把最多有出现的数目数量的指示物给这张卡放置（最多6个）。
+②：对方怪兽攻击的伤害计算时1次或者对方场上的怪兽的效果发动时，把这张卡1个指示物取除，以那之内的1只为对象才能发动。进行1次投掷硬币，对里表作猜测。猜中的场合，从卡组把有「时间黑魔术师」的卡名记述的1只怪兽特殊召唤，作为对象的怪兽直到回合结束时攻击力变成0，效果无效化。",วางตัวบ่งชี้,โยนเหรียญ,เลือกจำนวนตัวบ่งชี้ที่จะวาง,,,,,,,,,,,,,
+101306154,替罪羊衍生物,由「睡羊 替罪羊」的效果特殊召唤。有「时间黑魔术师」的卡名记述的自己场上的卡被战斗·效果破坏的场合，可以作为代替把这张卡破坏。,,,,,,,,,,,,,,,,
+101306254,替罪羊衍生物,由「睡羊 替罪羊」的效果特殊召唤。有「时间黑魔术师」的卡名记述的自己场上的卡被战斗·效果破坏的场合，可以作为代替把这张卡破坏。,,,,,,,,,,,,,,,,
+101306354,替罪羊衍生物,由「睡羊 替罪羊」的效果特殊召唤。有「时间黑魔术师」的卡名记述的自己场上的卡被战斗·效果破坏的场合，可以作为代替把这张卡破坏。,,,,,,,,,,,,,,,,
+101306454,替罪羊衍生物,由「睡羊 替罪羊」的效果特殊召唤。有「时间黑魔术师」的卡名记述的自己场上的卡被战斗·效果破坏的场合，可以作为代替把这张卡破坏。,,,,,,,,,,,,,,,,
