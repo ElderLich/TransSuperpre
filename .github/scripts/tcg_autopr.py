@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""Cloud AutoPR helper for DE/EN/FR/IT/PT workspace sync and release builds."""
+"""Cloud AutoPR helper for DE/EN/FR/IT/PT/TH workspace sync and release builds."""
 
 from __future__ import annotations
 
@@ -382,6 +382,19 @@ LANG_CONFIGS = {
         pend_lang='pt',
     ),
 }
+
+LANG_CONFIGS["th"] = LangConfig(
+    lang="th",
+    folder="TH",
+    cards_locale=LANG_CONFIGS["en"].cards_locale,
+    tag_prefix="TH-v",
+    commit_title="Prerelease Cards Update TH",
+    new_cards_header=LANG_CONFIGS["en"].new_cards_header,
+    no_new_cards=LANG_CONFIGS["en"].no_new_cards,
+    replacement_map=LANG_CONFIGS["en"].replacement_map,
+    patch_lang=LANG_CONFIGS["en"].patch_lang,
+    pend_lang=LANG_CONFIGS["en"].pend_lang,
+)
 
 CONFIG: LangConfig
 OUTPUT_DIR: Path
@@ -900,7 +913,7 @@ EN_DESC_REPLACEMENTS = [
 
 
 def patch_en_desc(cdb_path: Path) -> None:
-    if CONFIG.lang != "en":
+    if CONFIG.patch_lang != "en":
         return
     conn = sqlite3.connect(str(cdb_path))
     changed = 0
@@ -938,7 +951,7 @@ def run_prompt_patcher(cdb_path: Path, cards_cdb: Path) -> None:
 
 
 def autofill_source_text(cdb_path: Path, ypk_path: Path) -> None:
-    if CONFIG.lang != "en":
+    if CONFIG.patch_lang != "en":
         return
     try:
         from card_text_autofill import autofill_cdb_from_pack_sources

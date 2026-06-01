@@ -1,0 +1,85 @@
+name: Release TH
+
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows:
+      - "Sync TH Workspace"
+    types:
+      - completed
+  push:
+    branches:
+      - main
+    paths:
+      - "TH/Workspace/test-release.cdb"
+      - "TH/Workspace/test-strings.conf"
+      - ".github/workflows/th-release.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: th-automation-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  release:
+    name: Build TH package
+    if: github.event_name != 'workflow_run' || (github.event.workflow_run.conclusion == 'success' && github.event.workflow_run.head_branch == 'main')
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Build, commit, and tag TH release
+        env:
+          BRANCH_NAME: ${{ github.event.workflow_run.head_branch || github.ref_name }}
+        run: |
+          set -euo pipefail
+          git config user.name "ElderLich"
+          git config user.email "35314175+ElderLich@users.noreply.github.com"
+          branch="${BRANCH_NAME:-main}"
+
+          for attempt in 1 2 3 4 5 6 7 8 9 10; do
+            git fetch --tags origin "$branch"
+            git checkout -B "$branch" "origin/$branch"
+            rm -f TH/.autopr-commit-body.txt
+
+            python .github/scripts/tcg_autopr.py --lang th release-build
+            git add -A -- "TH/Base Files/test-release.cdb" "TH/Base Files/test-strings.conf" TH/ygopro-super-pre.ypk TH/test-release.json TH/version.txt
+            if git diff --cached --quiet; then
+              echo "No TH release output changes to commit."
+              rm -f TH/.autopr-commit-body.txt
+              exit 0
+            fi
+
+            latest_tag=$(git tag --list 'TH-v*' | sed -E 's/^TH-v([0-9]+)$/\1/' | grep -E '^[0-9]+$' | awk '$1 < 10000' | sort -n | tail -1 || true)
+            next_tag_number=$(( ${latest_tag:-0} + 1 ))
+            tag="TH-v${next_tag_number}"
+            commit_message=$(mktemp)
+            printf "Prerelease Cards Update TH - v%s\n\n" "$next_tag_number" > "$commit_message"
+            cat TH/.autopr-commit-body.txt >> "$commit_message"
+            git commit -F "$commit_message"
+            rm -f "$commit_message" TH/.autopr-commit-body.txt
+
+            if git push origin "HEAD:$branch"; then
+              git tag -a "$tag" -m "Release $tag"
+              git push origin "$tag"
+              exit 0
+            fi
+
+            echo "Push failed; refreshing and rebuilding (${attempt}/10)..."
+          sleep $((attempt * 5))
+          done
+
+          echo "Unable to push TH release after rebuilding on the latest branch tip."
+          exit 1

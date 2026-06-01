@@ -37,6 +37,7 @@ LANGS = {
     "jp": LangConfig("jp", "JP"),
     "kr": LangConfig("kr", "KR"),
     "pt": LangConfig("pt", "PT"),
+    "th": LangConfig("th", "TH"),
 }
 
 REQUIRED_WORKSPACE_FILES = ("test-release.cdb", "test-strings.conf")
@@ -235,7 +236,7 @@ def automation_script_command(repo_root: Path, lang: str) -> list[str]:
         return [sys.executable, str(scripts_dir / "es_autopr.py"), "workspace-sync"]
     if lang in {"jp", "kr"}:
         return [sys.executable, str(scripts_dir / "ocg_autopr.py"), "--lang", lang, "workspace-sync"]
-    if lang in {"de", "en", "fr", "it", "pt"}:
+    if lang in {"de", "en", "fr", "it", "pt", "th"}:
         return [sys.executable, str(scripts_dir / "tcg_autopr.py"), "--lang", lang, "workspace-sync"]
     fail(f"local refresh is not configured for language: {lang}")
 
@@ -245,7 +246,7 @@ def automation_env_prefix(lang: str) -> str:
         return "ES_AUTOPR"
     if lang in {"jp", "kr"}:
         return "OCG_AUTOPR"
-    if lang in {"de", "en", "fr", "it", "pt"}:
+    if lang in {"de", "en", "fr", "it", "pt", "th"}:
         return "TCG_AUTOPR"
     fail(f"local refresh is not configured for language: {lang}")
 

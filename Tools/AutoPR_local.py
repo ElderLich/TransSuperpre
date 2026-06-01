@@ -30,6 +30,7 @@ SUPPORTED_LANGS = {
     "jp": "JP",
     "kr": "KR",
     "pt": "PT",
+    "th": "TH",
 }
 
 SCRIPT_DIR = Path(__file__).resolve().parent
@@ -83,7 +84,7 @@ def detect_lang() -> str:
     print("Could not detect the language from the folder name.")
     print("Put this file inside a folder named one of:")
     print("  " + ", ".join(sorted(SUPPORTED_LANGS.values())))
-    print(f"Or set {LANG_ENV_NAME}=es, jp, kr, de, en, fr, it, or pt.")
+    print(f"Or set {LANG_ENV_NAME}=es, jp, kr, de, en, fr, it, pt, or th.")
     while True:
         raw = input("Language: ").strip()
         lang = normalize_lang(raw)

@@ -62,6 +62,7 @@ The workspace flow is used by:
 - `JP`
 - `KR`
 - `PT`
+- `TH`
 
 `ZH-TW` uses a separate workflow and edits `ZH-TW/Base Files` directly.
 
@@ -91,7 +92,7 @@ Super-Pre Translations/
 ```
 
 Use the matching language folder name: `DE`, `EN`, `ES`, `FR`, `IT`, `JP`,
-`KR`, or `PT`.
+`KR`, `PT`, or `TH`.
 
 Copy `Tools/AutoPR_local.py` from the TransSuperpre repo into your local
 language folder and rename it to `AutoPR.py`.
