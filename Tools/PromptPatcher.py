@@ -34046,7 +34046,16 @@ def build_translation_pack(lang: str):
                 "it": "Evocare Xyz usando un mostro Bestia come materiale?",
                 "ja": "獣族モンスターを素材としてエクシーズ召喚しますか？",
                 "kr": "야수족 몬스터를 소재로 엑시즈 소환하시겠습니까?",
-    
+            "翻卡组": {
+                "en": "Excavate the Deck",
+                "fr": "Excaver le Deck",
+                "de": "Deck ausgraben",
+                "es": "Excavar el Deck",
+                "pt": "Escavar o Deck",
+                "it": "Scavare il Deck",
+                "ja": "デッキをめくる",
+                "kr": "덱을 넘긴다",
+
 },
     }
     for cn, out in extras.items():
