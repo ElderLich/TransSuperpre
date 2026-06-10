@@ -1,5 +1,35 @@
 [
   {
+    "name": "Contactador Adamancipador",
+    "desc": "Si esta carta está en tu mano: puedes colocar otra carta \"Adamancipador\" de tu mano en la parte superior del Deck; Invoca esta carta de Modo Especial. \r\nDurante tu Main Phase: puedes excavar las 5 cartas de la parte superior de tu Deck y, si lo haces, puedes Invocar de Modo Especial 1 monstruo Roca excavado de Nivel 4 o menor, y además coloca el resto en el fondo del Deck en cualquier orden. \r\nSólo puedes usar cada uno de los efectos de \"Contactador Adamancipador\" una vez por turno.",
+    "overallString": "[Monstruo|Efecto|Cantante] Roca/TIERRA  [★6] 1400/1100",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306024.jpg?version=19.7"
+  },
+  {
+    "name": "Cristal Adamancipador - Tiamita",
+    "desc": "Si esta carta es Invocada de Modo Especial por el efecto de una carta \"Adamancipador\": puedes añadir a tu mano 1 carta \"Adamancipador\" desde tu Deck, excepto \"Cristal Adamancipador - Tiamita\", y después puedes Invocar de Modo Especial 1 monstruo de Tipo Roca desde tu mano. \r\nSi esta carta está en el Cementerio, puedes seleccionar 1 Monstruo de Sincronía que controles o en tu Cementerio; devuélvelo al Deck Extra y esta carta a la parte superior de tu Deck. \r\nSólo puedes usar cada efecto de \"Cristal Adamancipador - Tiamita\" una vez por turno.\r\n",
+    "overallString": "[Monstruo|Efecto] Roca/OSCURIDAD  [★4] 0/2200",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306025.jpg?version=19.7"
+  },
+  {
+    "name": "Ascendente Adamancipador - Tiamita",
+    "desc": "1 Cantante + 1+ monstruos que no sean Cantantes\t\r\nSi hay un monstruo de OSCURIDAD en tu Cementerio: puedes añadir a tu mano 1 Mágica/Trampa \"Adamancipador\" desde tu Deck. \r\n(Efecto Rápido): Cuando tu adversario activa un efecto de monstruo en el Campo: puedes excavar 5 cartas de la parte superior de tu Deck, puedes devolver a la mano monstruos que controle tu adversario hasta el número de monstruos Roca excavados, y además después de eso, coloca las cartas excavadas en el fondo del Deck en cualquier orden. \r\nSólo puedes usar cada uno de los efectos de \"Ascendente Adamancipador - Tiamita\" una vez por turno.",
+    "overallString": "[Monstruo|Efecto|Sincronía] Roca/OSCURIDAD  [★10] 3300/2200",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306041.jpg?version=19.7"
+  },
+  {
+    "name": "Luminoso Adamancipador",
+    "desc": "2 Monstruos de Efecto, incluyendo 1 Monstruo de Sincronía\t\r\nSi esta carta es Invocada por Enlace, o un monstruo es Invocado de Modo Especial a una zona a la que apunte esta carta: puedes seleccionar 1 monstruo en tu Campo o Cementerio; Invoca de Modo Especial 1 \"Ficha Milagro\" (Roca/LUZ/ATK 0/DEF 0) con el mismo Nivel que ese monstruo. \r\n(Efecto Rápido): Cuando se activa otro efecto de monstruo en el Campo: puedes colocar ese monstruo en el fondo del Deck. \r\nSólo puedes usar cada uno de los efectos de \"Luminoso Adamancipador\" una vez por turno.",
+    "overallString": "[Monstruo|Efecto|Enlace] Roca/LUZ  [LINK-2] 1800/-  [←][↓]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306049.jpg?version=19.7"
+  },
+  {
+    "name": "Compañero Adamancipador",
+    "desc": "Añade a tu mano 1 monstruo \"Adamancipador\" desde tu Deck. \r\nSi esta carta está en tu Cementerio: puedes colocar 1 carta de tu mano en la parte superior del Deck; añade esta carta a tu mano. \r\nSólo puedes usar cada uno de los efectos de \"Compañero Adamancipador\" una vez por turno.",
+    "overallString": "[Mágica]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306063.jpg?version=19.7"
+  },
+  {
     "name": "Cápsula de Monstruos Ajedrez",
     "desc": "Durante la Main Phase: el jugador en turno puede seleccionar 1 monstruo en su Cementerio; lo coloca boca arriba en su Zona de Mágicas y Trampas como una Mágica Continua. \r\nDurante la End Phase: el jugador en turno puede mandar al Cementerio 1 Carta de Monstruo boca arriba que controle; Invoca de Modo Especial 1 monstruo desde su Deck con el mismo Tipo y Atributo original que ese monstruo, pero hasta 3 Niveles más alto que su Nivel original. \r\nSólo puedes usar cada uno de los efectos de \"Cápsula de Monstruos Ajedrez\" una vez por turno.",
     "overallString": "[Mágica|Campo]",
