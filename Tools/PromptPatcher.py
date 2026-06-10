@@ -34055,7 +34055,8 @@ def build_translation_pack(lang: str):
                 "it": "Scavare il Deck",
                 "ja": "デッキをめくる",
                 "kr": "덱을 넘긴다",
-
+            },
+            
 },
     }
     for cn, out in extras.items():
