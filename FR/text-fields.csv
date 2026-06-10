@@ -347,6 +347,20 @@ Vous ne pouvez utiliser chaque effet de ""Servant du Cuirassé - HÉROS de la De
 101306023,Servant du Cuirassé - HÉROS de la Destinée,str1,Invocation Spéciale
 101306023,Servant du Cuirassé - HÉROS de la Destinée,str2,Renvoyer au Deck
 101306023,Servant du Cuirassé - HÉROS de la Destinée,str3,Détruire et ajouter à la main ?
+101306024,Guide Inflexcipateur,name,Guide Inflexcipateur
+101306024,Guide Inflexcipateur,desc,"Si cette carte est dans votre main : vous pouvez placer 1 autre carte ""Inflexcipateur"" depuis votre main au-dessus du Deck ; Invoquez Spécialement cette carte.
+Durant votre Main Phase : vous pouvez dévoiler les 5 cartes du dessus de votre Deck, et si vous le faites, vous pouvez Invoquer Spécialement 1 monstre Rocher de max. Niveau 4 dévoilé, et aussi, placez les cartes restantes au-dessous de votre Deck dans l'ordre de votre choix.
+Vous ne pouvez utiliser chaque effet de ""Guide Inflexcipateur"" qu'une fois par tour."
+101306024,Guide Inflexcipateur,str1,Invocation Spéciale
+101306024,Guide Inflexcipateur,str2,Ranger le Deck
+101306024,Guide Inflexcipateur,str3,Invoquer Spécialement le monstre ?
+101306025,Cristal Inflexcipateur - Tiamite,name,Cristal Inflexcipateur - Tiamite
+101306025,Cristal Inflexcipateur - Tiamite,desc,"Si cette carte est Invoquée Spécialement par l'effet d'une carte ""Inflexcipateur"" : vous pouvez ajouter 1 carte ""Inflexcipateur"" (""Cristal Inflexcipateur - Tiamite"" exclu) depuis votre Deck à votre main, puis vous pouvez Invoquer Spécialement 1 monstre Rocher depuis votre main.
+Si cette carte est dans votre Cimetière : vous pouvez cibler 1 Monstre Synchro Rocher dans votre Terrain ou Cimetière ; renvoyez-le à l'Extra Deck, et si vous le faites, placez cette carte au-dessus du Deck.
+Vous ne pouvez utiliser chaque effet de ""Cristal Inflexcipateur - Tiamite"" qu'une fois par tour."
+101306025,Cristal Inflexcipateur - Tiamite,str1,Effet d'ajout à la main
+101306025,Cristal Inflexcipateur - Tiamite,str2,Renvoyer au Deck
+101306025,Cristal Inflexcipateur - Tiamite,str3,Invocation Spéciale?
 101306036,Dragon Noir aux Yeux Rouges Dépassé,name,Dragon Noir aux Yeux Rouges Dépassé
 101306036,Dragon Noir aux Yeux Rouges Dépassé,desc,"""Dragon Noir aux Yeux Rouges"" + 1 monstre qui mentionne ""Magicien du Temps des Ténèbres""
 Uniquement soit Invocable par Fusion soit Invocable Spécialement (depuis votre Extra Deck) en Sacrifiant 1 monstre face recto sur l'un des Terrains durant le tour où un ou plusieurs monstres ont été détruits par l'effet de ""Magicien du Temps des Ténèbres"".
@@ -361,6 +375,14 @@ Vous ne pouvez Invoquer Spécialement ""Cuirassé - HÉROS de la Destinée"" qu'
 Si cette carte est Invoquée Spécialement : vous pouvez ajouter 2 monstres ""HÉROS de la Destinée"" et/ou cartes qui mentionnent un nom de carte de monstre ""HÉROS de la Destinée"" depuis votre Deck à votre main.
 L'ATK de cette carte devient la somme des ATK d'origine de tous les autres monstres ""HÉROS de la Destinée"" dans votre Terrain et Cimetière."
 101306037,Cuirassé - HÉROS de la Destinée,str1,Ajouter à la main
+101306041,Éveillé Inflexcipateur - Tiamite,name,Éveillé Inflexcipateur - Tiamite
+101306041,Éveillé Inflexcipateur - Tiamite,desc,"1 Syntoniseur + 1+ non-Syntoniseur
+Si vous avez un monstre TÉNÈBRES dans votre Cimetière : vous pouvez ajouter 1 Magie/Piège ""Inflexcipateur"" depuis votre Deck à votre main.
+Lorsque votre adversaire active un effet de monstre sur le Terrain (Effet Rapide) : vous pouvez dévoiler les 5 cartes du dessus de votre Deck, et si vous le faites, vous pouvez renvoyer un nombre de cartes contrôlées par votre adversaire à la main, inférieur ou égal au nombre de monstres Rocher dévoilés, et aussi, placez les cartes dévoilées au-dessous du Deck dans l'ordre de votre choix.
+Vous ne pouvez utiliser chaque effet de ""Éveillé Inflexcipateur - Tiamite"" qu'une fois par tour."
+101306041,Éveillé Inflexcipateur - Tiamite,str1,Effet d'ajout à la main
+101306041,Éveillé Inflexcipateur - Tiamite,str2,Renvoyer à la main
+101306041,Éveillé Inflexcipateur - Tiamite,str3,Renvoyer une carte à la main ?
 101306045,Rapickelavee la Cavalerie Lourde Brillamment Couronnée,name,Rapickelavee la Cavalerie Lourde Brillamment Couronnée
 101306045,Rapickelavee la Cavalerie Lourde Brillamment Couronnée,desc,"2 monstres de Niveau 3
 Une fois par tour, vous pouvez aussi Invoquer par Xyz ""Rapickelavee la Cavalerie Lourde Brillamment Couronnée"" en utilisant 1 monstre Bête avec max. 2000 ATK que vous contrôlez (transférez ses Matériels).
@@ -371,6 +393,13 @@ Si cette carte détruit un monstre au combat : placez 1 Compteur Couronne sur el
 ● 3 : Renvoyez cette carte à l'Extra Deck, et si vous le faites, piochez 3 cartes."
 101306045,Rapickelavee la Cavalerie Lourde Brillamment Couronnée,str1,Invoquer Xyz en utilisant un monstre Bête comme Matériel ?
 101306045,Rapickelavee la Cavalerie Lourde Brillamment Couronnée,str2,Placer un marqueur
+101306049,Lumineuse Inflexcipateur,name,Lumineuse Inflexcipateur
+101306049,Lumineuse Inflexcipateur,desc,"2 Monstres à Effet (un Monstre Synchro inclus)
+Si cette carte est Invoquée par Lien, ou un ou plusieurs monstres sont Invoqués Spécialement dans une ou plusieurs zones pointées par cette carte : vous pouvez cibler 1 monstre dans votre Terrain ou Cimetière qui a un Niveau ; Invoquez Spécialement 1 ""Jeton Miroitement"" (Rocher/LUMIÈRE/ATK 0/DEF 0) du même Niveau.
+Lorsqu'un autre monstre sur le Terrain active son effet (Effet Rapide) : vous pouvez le placer au-dessus du Deck.
+Vous ne pouvez utiliser chaque effet de ""Lumineuse Inflexcipateur"" qu'une fois par tour."
+101306049,Lumineuse Inflexcipateur,str1,Invocation Spéciale
+101306049,Lumineuse Inflexcipateur,str2,Renvoyer au Deck
 101306052,Magicien du Temps des Ténèbres,name,Magicien du Temps des Ténèbres
 101306052,Magicien du Temps des Ténèbres,desc,"Activez 1 de ces effets (mais vous ne pouvez utiliser chaque effet de ""Magicien du Temps des Ténèbres"" qu'une fois par tour) ;
 ● Ajoutez 1 carte qui mentionne ""Magicien du Temps des Ténèbres"" (""Magicien du Temps des Ténèbres"" exclue) depuis votre Deck à votre main, et aussi, ajoutez 1 ""Magicien du Temps des Ténèbres"" depuis votre Cimetière à votre main durant la End Phase de ce tour.
@@ -399,6 +428,12 @@ Si cette carte est détruite : vous pouvez Invoquer Spécialement 1 monstre ""H�
 101306062,Ville-Prison de la Tour de l'Horloge - Ville Ténébreuse,str1,Ajouter à la main
 101306062,Ville-Prison de la Tour de l'Horloge - Ville Ténébreuse,str2,Augmenter l'ATK
 101306062,Ville-Prison de la Tour de l'Horloge - Ville Ténébreuse,str3,Invocation Spéciale
+101306063,Copains Inflexcipateur,name,Copains Inflexcipateur
+101306063,Copains Inflexcipateur,desc,"Ajoutez 1 monstre ""Inflexcipateur"" depuis votre Deck à votre main.
+Si cette carte est dans votre Cimetière : vous pouvez placer 1 carte depuis votre main au-dessus du Deck ; ajoutez cette carte à votre main.
+Vous ne pouvez utiliser chaque effet de ""Copains Inflexcipateur"" qu'une fois par tour."
+101306063,Copains Inflexcipateur,str1,Effet d'ajout à la main
+101306063,Copains Inflexcipateur,str2,Renvoyer à la main
 101306070,Profanateur de Tombes Inutile,name,Profanateur de Tombes Inutile
 101306070,Profanateur de Tombes Inutile,desc,"Envoyez 1 carte qui mentionne ""Magicien du Temps des Ténèbres"" (""Profanateur de Tombes Inutile"" exclu) depuis votre Deck au Cimetière, puis vous pouvez Invoquer Spécialement 1 monstre depuis l'un des Cimetières sur votre Terrain.
 Vous pouvez bannir cette carte depuis votre Cimetière ; Posez sur votre Terrain, 1 Magie/Piège qui mentionne ""Magicien du Temps des Ténèbres"" (""Profanateur de Tombes Inutile"" exclu) depuis votre Cimetière, ou 1 Magie/Piège depuis le Cimetière de votre adversaire.
@@ -413,6 +448,8 @@ Si vous gagnez, vous pouvez Invoquer Spécialement 1 monstre qui mentionne ""Mag
 101306071,Boîte du Renversement,str1,Placer un marqueur
 101306071,Boîte du Renversement,str2,Lancer une pièce
 101306071,Boîte du Renversement,str3,Sélectionnez le nombre de compteurs à placer
+101306149,Jeton Miroitement,name,Jeton Miroitement
+101306149,Jeton Miroitement,desc,Invoqué Spécialement par l'effet de « Lumineuse Inflexcipateur ».
 101306154,Jeton Bouc Émissaire,name,Jeton Bouc Émissaire
 101306154,Jeton Bouc Émissaire,desc,"Invoqué Spécialement par l'effet de « Bouc Émissaire Endormi ». Si une carte sur votre Terrain dont le nom contient « Magicien du Temps des Ténèbres » va être détruite au combat ou par un effet de carte, vous pouvez détruire cette carte à la place."
 101306254,Jeton Bouc Émissaire,name,Jeton Bouc Émissaire
