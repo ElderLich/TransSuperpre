@@ -219,6 +219,7 @@ def _lang_strings():
             "NEGATE_ACTIVATION": "Negate the activation",
             "NEGATE_EFFECT": "Negate the effect",
             "NEGATE_ATTACK": "Negate the attack",
+            "NEGATE_SUMMON": "Negate the Summon",
             "INCREASE_ATK": "Increase ATK",
             "DECREASE_LEVEL": "Decrease Level",
             "CHANGE_LEVEL": "Change Level",
@@ -272,6 +273,7 @@ def _lang_strings():
             "NEGATE_ACTIVATION": "Annuler l'activation",
             "NEGATE_EFFECT": "Annuler l'effet",
             "NEGATE_ATTACK": "Annuler l'attaque",
+            "NEGATE_SUMMON": "Annuler l'Invocation",
             "INCREASE_ATK": "Augmenter l'ATK",
             "DECREASE_LEVEL": "Diminuer le Niveau",
             "CHANGE_LEVEL": "Changer le Niveau",
@@ -324,6 +326,7 @@ def _lang_strings():
             "NEGATE_ACTIVATION": "Aktivierung annullieren",
             "NEGATE_EFFECT": "Effekt annullieren",
             "NEGATE_ATTACK": "Angriff annullieren",
+            "NEGATE_SUMMON": "Beschwörung annullieren",
             "INCREASE_ATK": "ATK erhöhen",
             "DECREASE_LEVEL": "Stufe verringern",
             "CHANGE_LEVEL": "Stufe ändern",
@@ -376,6 +379,7 @@ def _lang_strings():
             "NEGATE_ACTIVATION": "Negar la activación",
             "NEGATE_EFFECT": "Negar el efecto",
             "NEGATE_ATTACK": "Negar el ataque",
+            "NEGATE_SUMMON": "Negar la Invocación",
             "INCREASE_ATK": "Aumentar ATK",
             "DECREASE_LEVEL": "Disminuir Nivel",
             "CHANGE_LEVEL": "Cambiar Nivel",
@@ -428,6 +432,7 @@ def _lang_strings():
             "NEGATE_ACTIVATION": "Negar a ativação",
             "NEGATE_EFFECT": "Negar o efeito",
             "NEGATE_ATTACK": "Negar o ataque",
+            "NEGATE_SUMMON": "Negar a Invocação",
             "INCREASE_ATK": "Aumentar ATK",
             "DECREASE_LEVEL": "Reduzir o Nível",
             "CHANGE_LEVEL": "Alterar o Nível",
@@ -480,6 +485,7 @@ def _lang_strings():
             "NEGATE_ACTIVATION": "Annullare l'attivazione",
             "NEGATE_EFFECT": "Annullare l'effetto",
             "NEGATE_ATTACK": "Annullare l'attacco",
+            "NEGATE_SUMMON": "Annullare l'Evocazione",
             "INCREASE_ATK": "Aumentare ATK",
             "DECREASE_LEVEL": "Diminuire il Livello",
             "CHANGE_LEVEL": "Cambiare il Livello",
@@ -532,6 +538,7 @@ def _lang_strings():
             "NEGATE_ACTIVATION": "発動を無効にする",
             "NEGATE_EFFECT": "効果を無効にする",
             "NEGATE_ATTACK": "攻撃を無効にする",
+            "NEGATE_SUMMON": "召喚を無効にする",
             "INCREASE_ATK": "攻撃力を上げる",
             "DECREASE_LEVEL": "レベルを下げる",
             "CHANGE_LEVEL": "レベルを変更する",
@@ -584,6 +591,7 @@ def _lang_strings():
             "NEGATE_ACTIVATION": "발동을 무효로 한다",
             "NEGATE_EFFECT": "효과를 무효로 한다",
             "NEGATE_ATTACK": "공격을 무효로 한다",
+            "NEGATE_SUMMON": "소환을 무효로 한다",
             "INCREASE_ATK": "공격력 증가",
             "DECREASE_LEVEL": "레벨 감소",
             "CHANGE_LEVEL": "레벨 변경",
@@ -646,6 +654,7 @@ def _base_keyset():
         {"out_key": "NEGATE_ACTIVATION", "cn": ["发动无效", "无效发动"]},
         {"out_key": "NEGATE_EFFECT", "cn": ["效果无效"]},
         {"out_key": "NEGATE_ATTACK", "cn": ["无效攻击", "攻击无效"]},
+        {"out_key": "NEGATE_SUMMON", "cn": ["召唤无效"]},
         {"out_key": "END", "cn": ["结束"]},
 
         {"out_key": "INCREASE_ATK", "cn": ["攻击力上升", "上升攻击力", "增加攻击力"]},
@@ -34046,6 +34055,7 @@ def build_translation_pack(lang: str):
                 "it": "Evocare Xyz usando un mostro Bestia come materiale?",
                 "ja": "獣族モンスターを素材としてエクシーズ召喚しますか？",
                 "kr": "야수족 몬스터를 소재로 엑시즈 소환하시겠습니까?",
+            },
             "翻卡组": {
                 "en": "Excavate the Deck",
                 "fr": "Excaver le Deck",
@@ -34056,8 +34066,17 @@ def build_translation_pack(lang: str):
                 "ja": "デッキをめくる",
                 "kr": "덱을 넘긴다",
             },
-            
-},
+            "对方丢弃并抽卡": {
+                "en": "Your opponent discards and draws",
+                "fr": "Votre adversaire défausse et pioche",
+                "de": "Dein Gegner wirft ab und zieht",
+                "es": "Tu adversario descarta y roba",
+                "pt": "Seu oponente descarta e compra",
+                "it": "Il tuo avversario scarta e pesca",
+                "ja": "相手は捨ててドローする",
+                "kr": "상대는 버리고 드로우한다",
+            },
+
     }
     for cn, out in extras.items():
         # Keep locale-specific text when available; fall back gracefully if one key is missing.
@@ -34074,6 +34093,17 @@ def build_translation_pack(lang: str):
 
     # Regex templates (applied after normalization)
     regex_rules = [
+        (re.compile(r"^适用作为link(?P<N>[23])进行连接召唤\(\{CARD\}\)$"),
+         lambda m: {
+             "en": "Apply as a Link-{N} for a Link Summon ({CARD})",
+             "fr": "Appliquer comme Link-{N} pour une Invocation Lien ({CARD})",
+             "de": "Als Link-{N} für eine Linkbeschwörung anwenden ({CARD})",
+             "es": "Aplicar como Link-{N} para una Invocación por Enlace ({CARD})",
+             "pt": "Aplicar como Link-{N} para uma Invocação-Link ({CARD})",
+             "it": "Applicare come Link-{N} per un'Evocazione Link ({CARD})",
+             "ja": "リンク{N}としてリンク召喚に適用する（{CARD}）",
+             "kr": "링크 {N}로 링크 소환에 적용 ({CARD})",
+         }[lang].replace("{N}", m.group("N"))),
         (re.compile(r"^被\{CARD\}展示$"), L["REVEALED_BY_CARD"]),
         (re.compile(r"^\{CARD\}(?:的)?(?:效果)?适用中$"), L["EFFECT_OF_CARD_ACTIVE"]),
         (re.compile(r"^\{CARD\}适用中$"), L["EFFECT_OF_CARD_ACTIVE"]),
