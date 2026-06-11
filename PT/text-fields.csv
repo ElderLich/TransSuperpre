@@ -314,6 +314,35 @@ Se este card for Invocado por Invocação-Especial: você pode escolher 1 monstr
 Você só pode usar cada um dos efeitos de ""O Pescador, a Lenda do Mar"" uma vez por turno."
 101306004,"O Pescador, a Lenda do Mar",str1,Invocação Especial
 101306004,"O Pescador, a Lenda do Mar",str2,Destruir
+101306013,Senhor Dragão de Atlantis - Daedalus,name,Senhor Dragão de Atlantis - Daedalus
+101306013,Senhor Dragão de Atlantis - Daedalus,desc,"O nome deste card se torna ""Umi"" enquanto está na Zona de Monstros.
+Você só pode usar cada um dos seguintes efeitos de ""Senhor Dragão de Atlantis - Daedalus"" uma vez por turno.
+Se você controla ""Atlantis, a Cidade do Dragão"" ou ""Umi"": você pode Invocar por Invocação-Especial este card da sua mão.
+Você pode enviar até 3 ""Umi"" com a face para cima que você controla para o Cemitério; adicione aquela mesma quantia de cards que mencionem ""Atlantis, a Cidade do Dragão"" do seu Deck à sua mão, exceto monstros de Nível 7, então você pode enviar 1 card no campo para o Cemitério."
+101306013,Senhor Dragão de Atlantis - Daedalus,str1,Invocação Especial
+101306013,Senhor Dragão de Atlantis - Daedalus,str2,Efeito de busca
+101306013,Senhor Dragão de Atlantis - Daedalus,str3,Enviar o card selecionado para o Cemitério?
+101306014,General de Atlantis,name,General de Atlantis
+101306014,General de Atlantis,desc,"O nome deste card se torna ""Umi"" enquanto está na Zona de Monstros.
+Você só pode usar cada um dos seguintes efeitos de ""General de Atlantis"" uma vez por turno.
+Você pode descartar este card; adicione 1 Magia/Armadilha que mencione ""Atlantis, a Cidade do Dragão"" do seu Deck à sua mão.
+Se este card está no seu Cemitério e você controla ""Umi"": você pode Invocar este card por Invocação-Especial."
+101306014,General de Atlantis,str1,Efeito de busca
+101306014,General de Atlantis,str2,Invocação Especial
+101306015,Braços Monstruosos de Atlantis,name,Braços Monstruosos de Atlantis
+101306015,Braços Monstruosos de Atlantis,desc,"O nome deste card se torna ""Umi"" enquanto está na Zona de Monstros.
+Você só pode usar cada um dos seguintes efeitos de ""Braços Monstruosos de Atlantis"" uma vez por turno.
+Se este card for Invocado por Invocação-Normal ou Especial: você pode escolher 1 monstro no seu Cemitério que mencione ""Atlantis, a Cidade do Dragão""; Invoque-o por Invocação-Especial em Posição de Defesa.
+Quando seu oponente ativar um efeito de monstro (Efeito Rápido): você pode banir este card do seu campo ou Cemitério e enviar 1 ""Umi"" com a face para cima que você controla para o Cemitério; negue aquele efeito."
+101306015,Braços Monstruosos de Atlantis,str1,Invocação Especial
+101306015,Braços Monstruosos de Atlantis,str2,Negar o efeito
+101306016,Vórtice Demoníaco de Atlantis,name,Vórtice Demoníaco de Atlantis
+101306016,Vórtice Demoníaco de Atlantis,desc,"O nome deste card se torna ""Umi"" enquanto está na Zona de Monstros.
+Você só pode usar cada um dos seguintes efeitos de ""Vórtice Demoníaco de Atlantis"" uma vez por turno.
+Se este card for Invocado por Invocação-Normal ou Especial: você pode enviar 1 card que mencione ""Atlantis, a Cidade do Dragão"" do seu Deck para o Cemitério, exceto ""Vórtice Demoníaco de Atlantis""
+Se este card for enviado para o Cemitério e você controla ""Umi"": você pode Invocar por Invocação-Especial 1 monstro ÁGUA da sua mão."
+101306016,Vórtice Demoníaco de Atlantis,str1,Enviar para o Cemitério
+101306016,Vórtice Demoníaco de Atlantis,str2,Invocação Especial
 101306021,HERÓI do Destino – Dogma Morte,name,HERÓI do Destino – Dogma Morte
 101306021,HERÓI do Destino – Dogma Morte,desc,"Não pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial (da sua mão ou Cemitério) banindo 3 monstros Guereiros e/ou TREVAS do seu Cemitério. Você só pode Invocar por Invocação-Especial ""HERÓI do Destino – Dogma Morte"" uma vez por turno dessa forma.
 Se for Invocado dessa forma: você pode ativar este efeito; cause 2000 de dano ao seu oponente durante a próxima Fase de Apoio.
@@ -339,7 +368,7 @@ Você só pode usar cada um dos efeitos de ""HERÓI do Destino – Dreadnought S
 Durante sua Fase Principal: você pode escavar os 5 cards do topo do seu Deck, e se fizer, você pode Invocar por Invocação-Especial 1 monstro Rocha de Nível 4 ou menor escavado, coloque também o resto no fundo do Deck em qualquer ordem.
 Você só pode usar cada um dos efeitos de ""Condutora Adamancipador"" uma vez por turno."
 101306024,Condutora Adamancipador,str1,Invocação Especial
-101306024,Condutora Adamancipador,str2,翻卡组
+101306024,Condutora Adamancipador,str2,Escavar o Deck
 101306024,Condutora Adamancipador,str3,Invocar por Invocação Especial o monstro?
 101306025,Cristal Adamancipador - Tiamite,name,Cristal Adamancipador - Tiamite
 101306025,Cristal Adamancipador - Tiamite,desc,"Se este card for Invocado por Invocação-Especial por um efeito de um card ""Adamancipador"": você pode adicionar 1 card ""Adamancipador"" do seu Deck à sua mão, exceto ""Cristal Adamancipador - Tiamite"", então você pode Invocar por Invocação-Especial 1 monstro Rocha da sua mão.
@@ -377,6 +406,23 @@ Se este card destruir um monstro por batalha: Coloque 1 Marcador de Coroa nele, 
 ● 3: Retorne este card para o Deck Adicional, e se fizer, compre 3 cards."
 101306045,"Swickelavee, o Brilhantemente Coroado da Cavalaria Pesada",str1,Invocar por Invocação Xyz usando um monstro Besta como matéria?
 101306045,"Swickelavee, o Brilhantemente Coroado da Cavalaria Pesada",str2,Colocar um marcador
+101306046,Senhor Dragão do Oceano Azul - Neo-Daedalus Furioso,name,Senhor Dragão do Oceano Azul - Neo-Daedalus Furioso
+101306046,Senhor Dragão do Oceano Azul - Neo-Daedalus Furioso,desc,"4 monstros
+O nome deste card se torna ""Umi"" enquanto está na Zona de Monstros.
+Se este card for Invocado por Invocação-Link: você pode Invocar por Invocação-Especial até 3 monstros que mencionam ""Atlantis, a Cidade do Dragão"" do seu Cemitério para as zonas que este card aponta, você também não pode Invocar por Invocação-Especial monstros pelo resto deste turno.
+Uma vez por turno (Efeito Rápdio): você pode enviar 1 ""Umi"" com a face para cima que você controla para o Cemitério; envie todos os cards no campo para o Cemitério, exceto ""Umi""."
+101306046,Senhor Dragão do Oceano Azul - Neo-Daedalus Furioso,str1,Aplicar como Link-3 para uma Invocação-Link ({CARD})
+101306046,Senhor Dragão do Oceano Azul - Neo-Daedalus Furioso,str2,Invocação Especial
+101306046,Senhor Dragão do Oceano Azul - Neo-Daedalus Furioso,str3,Enviar para o Cemitério
+101306047,Levia-Dragoon - Daedalus,name,Levia-Dragoon - Daedalus
+101306047,Levia-Dragoon - Daedalus,desc,"3 monstros ÁGUA
+O nome deste card se torna ""Umi"" enquanto está na Zona de Monstros.
+Você só pode usar cada um dos seguintes efeitos de ""Levia-Dragoon - Daedalus"" uma vez por turno.
+Se este card for Invocado por Invocação-Link: você pode Invocar por Invocação-Especial 1 monstro que mencione ""Atlantis, a Cidade do Dragão"" do seu Deck.
+Durante a Fase Principal (Efeito Rápido): você pode enviar 1 ""Umi"" com a face para cima que você controla para o Cemitério; descarte a mão do seu oponente, e se fizer, ele compra a mesma quantia de cards. Nenhum jogador pode ativar cards ou efeitos em resposta a ativação deste efeito."
+101306047,Levia-Dragoon - Daedalus,str1,Aplicar como Link-2 para uma Invocação-Link ({CARD})
+101306047,Levia-Dragoon - Daedalus,str2,Invocação Especial
+101306047,Levia-Dragoon - Daedalus,str3,Seu oponente descarta e compra
 101306049,Luminosa Adamancipador,name,Luminosa Adamancipador
 101306049,Luminosa Adamancipador,desc,"2 Monstros de Efeito, incluindo um Monstro Sincro
 Se este card for Invocado por Invocação-Link, ou um ou mais monstros forem Invocados por Invocação-Especial para uma ou mais zonas que este card aponta: você pode escolher 1 monstro no seu campo ou Cemitério que tenha um Nível; Invoque por Invocação-Especial 1 ""Ficha de Brilho"" (Rocha/LUZ/ATK 0/DEF 0) com o mesmo Nível.
@@ -404,6 +450,25 @@ Se um ou mais cards que você controla menciona ""Mago do Tempo Sombrio"" seria 
 101306054,Bode Expiatório Dormindo,str1,Ativar
 101306054,Bode Expiatório Dormindo,str2,Selecione o número de Invocações Especiais
 101306054,Bode Expiatório Dormindo,str3,Invocar {CARD} por Invocação Especial?
+101306058,"Atlantis, a Cidade do Dragão",name,"Atlantis, a Cidade do Dragão"
+101306058,"Atlantis, a Cidade do Dragão",desc,"Enquanto um monstro que menciona ""Atlantis, a Cidade do Dragão"" está no campo, reduza o Nível de todos os monstros na mão e campo de ambos os jogadores em 1.
+Se você Invocar por Invocação-Especial um monstro ""Daedalus"", você pode reduzir a matéria necessária listada nele em 1 e Invoca-lo por Invocação-Link com 1 matéria a menos.
+Se este card está no seu Cemitério e você controla ""Umi"": você pode colocar este card com a face para cima no seu campo. Você só pode usar este efeito de ""Atlantis, a Cidade do Dragão"" uma vez por turno."
+101306058,"Atlantis, a Cidade do Dragão",str2,Colocar
+101306059,Chamado de Atlantis,name,Chamado de Atlantis
+101306059,Chamado de Atlantis,desc,"Adicione 1 monstro que mencione ""Atlantis, a Cidade do Dragão"" do seu Deck à sua mão, então se você controla ""Atlantis, a Cidade do Dragão"", você pode negar os efeitos de 1 Monstro de Efeito que seu oponente controla até o final deste turno.
+Se você controla ""Umi"": você pode banir este card do seu Cemitério; todos os monstros ÁGUA que você controla atualmente ganham 500 de ATK/DEF.
+Você só pode usar cada um dos efeitos de ""Chamado de Atlantis"" uma vez por turno."
+101306059,Chamado de Atlantis,str1,Efeito de busca
+101306059,Chamado de Atlantis,str2,Aumentar ATK/DEF
+101306059,Chamado de Atlantis,str3,Negar um monstro?
+101306060,Advento de Atlantis,name,Advento de Atlantis
+101306060,Advento de Atlantis,desc,"O nome deste card se torna ""Umi"" enquanto está na Zona de Magia & Armadilha.
+Você só pode usar cada um dos seguintes efeitos de ""Advento de Atlantis"" uma vez por turno.
+Durante a sua Fase Principal: você pode colocar 1 ""Atlantis, a Cidade do Dragão"" ou ""Umi"" do seu Deck na sua Zona de Campo com a face para cima.
+Se este card for enviado para o Cemitério: você pode adicionar 1 monstro Serpente Marinha de Nível 7 do seu Deck à sua mão."
+101306060,Advento de Atlantis,str1,Efeito de colocar
+101306060,Advento de Atlantis,str2,Efeito de busca
 101306062,Prisão da Torre do Relógio da Cidade – Cidade Sombria,name,Prisão da Torre do Relógio da Cidade – Cidade Sombria
 101306062,Prisão da Torre do Relógio da Cidade – Cidade Sombria,desc,"Toda vez que você Invoca por Invocação-Especial um ou mais monstros ""HERÓI do Destino"" de Nível 8 ou maior: todos os monstros Guerreiro que você atualmente controla ganham 300 de ATK.
 Você só pode usar cada um dos seguintes efeitos de ""Prisão da Torre do Relógio da Cidade – Cidade Sombria"" uma vez por turno.
@@ -433,6 +498,13 @@ Uma vez por batalha, se um monstro do oponente ataca, durante o cálculo de dano
 101306071,Carixa da Reversão,str1,Colocar um marcador
 101306071,Carixa da Reversão,str2,Jogar uma moeda
 101306071,Carixa da Reversão,str3,Selecione o número de marcadores a colocar
+101306076,Redemoinho Daedalus,name,Redemoinho Daedalus
+101306076,Redemoinho Daedalus,desc,"Quando seu oponente Invocaria por Invocação-Normal ou Especial um ou mais monstros enquanto você controla ""Atlantis, a Cidade do Dragão"": negue a Invocação, e se fizer, destrua ataqueles monstros, então se você controla um Monstro Link ÁGUA, você pode destruir todos os monstros não-ÁGUA no campo.
+Você pode banir este card do seu Cemitério e enviar 1 ""Umi"" com a face para cima que você controla para o Cemitério, então escolha 1 monstro que seu oponente controla; envie-o para o Cemitério.
+Você só pode usar 1 dos efeitos de ""Redemoinho Daedalus"", e somente uma vez por turno."
+101306076,Redemoinho Daedalus,str1,Negar a Invocação
+101306076,Redemoinho Daedalus,str2,Enviar para o Cemitério
+101306076,Redemoinho Daedalus,str3,Destruir aquele monstro?
 101306149,Ficha de Brilho,name,Ficha de Brilho
 101306149,Ficha de Brilho,desc,"Invocado por Invocação-Especial pelo efeito de ""Luminosa Adamancipador""."
 101306154,Ficha de Bode Expiatório,name,Ficha de Bode Expiatório
