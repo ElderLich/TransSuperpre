@@ -249,6 +249,20 @@ You can only use this effect of ""Swift Panther Warrior"" once per turn. Cannot 
 101306023,Destiny HERO - Dreadnought Servant,str1,Special Summon
 101306023,Destiny HERO - Dreadnought Servant,str2,Return to the Deck
 101306023,Destiny HERO - Dreadnought Servant,str3,Destroy and add to hand?
+101306024,魔救之调律者,name,魔救之调律者
+101306024,魔救之调律者,desc,"这个卡名的①②的效果1回合只能各使用1次。
+①：这张卡在手卡存在的场合，从手卡让1张其他的「魔救」卡回到卡组最上面才能发动。这张卡特殊召唤。
+②：自己主要阶段才能发动。从自己卡组上面把5张卡翻开。可以从那之中选1只4星以下的岩石族怪兽特殊召唤。剩下的卡用喜欢的顺序回到卡组最下面。"
+101306024,魔救之调律者,str1,Special Summon
+101306024,魔救之调律者,str2,翻卡组
+101306024,魔救之调律者,str3,Special Summon the monster?
+101306025,魔救之奇石-海蛇晶石,name,魔救之奇石-海蛇晶石
+101306025,魔救之奇石-海蛇晶石,desc,"这个卡名的①②的效果1回合只能各使用1次。
+①：这张卡用「魔救」卡的效果特殊召唤的场合才能发动。从卡组把「魔救之奇石-海蛇晶石」以外的1张「魔救」卡加入手卡。那之后，可以从手卡把1只岩石族怪兽特殊召唤。
+②：这张卡在墓地存在的场合，以自己的场上·墓地1只岩石族同调怪兽为对象才能发动。那只怪兽回到额外卡组，这张卡回到卡组最上面。"
+101306025,魔救之奇石-海蛇晶石,str1,Search effect
+101306025,魔救之奇石-海蛇晶石,str2,Return to the Deck
+101306025,魔救之奇石-海蛇晶石,str3,Special Summon?
 101306036,Red-Eyes Black Dragon Exceed,name,Red-Eyes Black Dragon Exceed
 101306036,Red-Eyes Black Dragon Exceed,desc,"""Red-Eyes Black Dragon"" + 1 monster that mentions ""Dark Time Wizard""
 Must be either Fusion Summoned, or Special Summoned (from your Extra Deck) by Tributing 1 face-up monster on either field during the turn a monster(s) was destroyed by the effect of ""Dark Time Wizard"". You can only Special Summon ""Red-Eyes Black Dragon Exceed"" once per turn this way, no matter which method you use. If this card is Special Summoned: You can Special Summon 1 Level 8 or lower monster from your hand or GY. Unaffected by your opponent's activated monster and Spell effects."
@@ -257,6 +271,14 @@ Must be either Fusion Summoned, or Special Summoned (from your Extra Deck) by Tr
 101306037,Destiny HERO - Dreadnought,desc,"2 Level 5 or higher ""Destiny HERO"" monsters
 Must be either Fusion Summoned, or Special Summoned (from your Extra Deck) by Tributing 1 ""Destiny HERO - Dreadmaster"". You can only Special Summon ""Destiny HERO - Dreadnought"" once per turn this way, no matter which method you use. If this card is Special Summoned: You can add 2 ""Destiny HERO"" monsters and/or cards that mention a ""Destiny HERO"" monster's card name from your Deck to your hand. This card's ATK becomes the total original ATK of all other ""Destiny HERO"" monsters in your field and GY."
 101306037,Destiny HERO - Dreadnought,str1,Add to hand
+101306041,魔救之奇迹-海蛇晶石,name,魔救之奇迹-海蛇晶石
+101306041,魔救之奇迹-海蛇晶石,desc,"调整＋调整以外的怪兽1只以上
+这个卡名的①②的效果1回合各能使用1次。
+①：自己墓地有暗属性怪兽存在的场合才能发动。从卡组把1张「魔救」魔法·陷阱卡加入手卡。
+②：对方把场上的怪兽的效果发动时才能发动。从自己卡组上面把5张卡翻开。可以让最多有那之中的岩石族怪兽数量的对方场上的卡回到手卡。翻开的卡用喜欢的顺序回到卡组下面。"
+101306041,魔救之奇迹-海蛇晶石,str1,Search effect
+101306041,魔救之奇迹-海蛇晶石,str2,Return to the hand
+101306041,魔救之奇迹-海蛇晶石,str3,Return a card to the hand?
 101306045,Swickelavee the Brilliantly Crowned Heavy Cavalry,name,Swickelavee the Brilliantly Crowned Heavy Cavalry
 101306045,Swickelavee the Brilliantly Crowned Heavy Cavalry,desc,"2 Level 3 monsters
 Once per turn, you can also Xyz Summon ""Swickelavee the Brilliantly Crowned Heavy Cavalry"" by using 1 Beast monster you control with 2000 or less ATK (transfer its materials). Cannot be used as material for an Xyz Summon. If this card destroys a monster by battle: Place 1 Crown Counter on it, then apply this effect based on the number of Crown Counters on it.
@@ -265,6 +287,13 @@ Once per turn, you can also Xyz Summon ""Swickelavee the Brilliantly Crowned Hea
 ● 3: Return this card to the Extra Deck, and if you do, draw 3 cards."
 101306045,Swickelavee the Brilliantly Crowned Heavy Cavalry,str1,Xyz Summon by using a Beast monster as material?
 101306045,Swickelavee the Brilliantly Crowned Heavy Cavalry,str2,Place a counter
+101306049,魔救之辉迹,name,魔救之辉迹
+101306049,魔救之辉迹,desc,"包含同调怪兽的效果怪兽2只
+这个卡名的①②的效果1回合各能使用1次。
+①：这张卡连接召唤的场合，或者这张卡所连接区有怪兽特殊召唤的场合，以自己场上·墓地的1只怪兽为对象才能发动。在自己场上把1只持有和那只怪兽相同等级的「奇石衍生物」（岩石族·光·攻/守0）特殊召唤。
+②：这张卡以外的场上的怪兽把效果发动时才能发动。那只怪兽回到卡组最上面。"
+101306049,魔救之辉迹,str1,Special Summon
+101306049,魔救之辉迹,str2,Return to the Deck
 101306052,Dark Time Wizard,name,Dark Time Wizard
 101306052,Dark Time Wizard,desc,"Activate 1 of these effects (but you can only use each effect of ""Dark Time Wizard"" once per turn);
 ● Add 1 card that mentions ""Dark Time Wizard"" from your Deck to your hand, except ""Dark Time Wizard"", also add 1 ""Dark Time Wizard"" from your GY to your hand during the End Phase of this turn.
@@ -289,6 +318,12 @@ If your opponent Normal or Special Summons a monster(s) while this card is in yo
 101306062,Clock Tower Prison City - Dark City,str1,Add to hand
 101306062,Clock Tower Prison City - Dark City,str2,Increase ATK
 101306062,Clock Tower Prison City - Dark City,str3,Special Summon
+101306063,魔救之合缘,name,魔救之合缘
+101306063,魔救之合缘,desc,"这个卡名的①②的效果1回合各能使用1次。
+①：从卡组把1只「魔救」怪兽加入手卡。
+②：这张卡在墓地存在的场合，让1张手卡回到卡组上面才能发动。这张卡加入手卡。"
+101306063,魔救之合缘,str1,Search effect
+101306063,魔救之合缘,str2,Return to the hand
 101306070,Foolish Graverobber,name,Foolish Graverobber
 101306070,Foolish Graverobber,desc,"Send 1 card that mentions ""Dark Time Wizard"" from your Deck to the GY, except ""Foolish Graverobber"", then you can Special Summon 1 monster from either GY to your field. You can banish this card from your GY; Set to your field, 1 Spell/Trap that mentions ""Dark Time Wizard"" from your GY, except ""Foolish Graverobber"", or 1 Spell/Trap from your opponent's GY. You can only use each effect of ""Foolish Graverobber"" once per turn."
 101306070,Foolish Graverobber,str1,Send to the GY
@@ -299,6 +334,8 @@ If your opponent Normal or Special Summons a monster(s) while this card is in yo
 101306071,Reversal Box,str1,Place a counter
 101306071,Reversal Box,str2,Toss a coin
 101306071,Reversal Box,str3,Select the number of counters to place
+101306149,奇石衍生物,name,奇石衍生物
+101306149,奇石衍生物,desc,由「魔救之辉迹」的效果特殊召唤。
 101306154,Scapegoat Token,name,Scapegoat Token
 101306154,Scapegoat Token,desc,"อัญเชิญพิเศษโดยเอฟเฟกต์ของ ""Sleeping Scapegoats"" หากการ์ดบนสนามของคุณที่มีชื่อว่า ""นักเวทแห่งกาลเวลา"" ถูกทำลายจากการต่อสู้หรือเอฟเฟกต์ คุณสามารถทำลายการ์ดใบนี้แทนได้"
 101306254,Scapegoat Token,name,Scapegoat Token
