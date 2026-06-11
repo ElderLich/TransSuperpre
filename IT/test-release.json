@@ -1,31 +1,91 @@
 [
   {
-    "name": "魔救之调律者",
-    "desc": "这个卡名的①②的效果1回合只能各使用1次。\r\n①：这张卡在手卡存在的场合，从手卡让1张其他的「魔救」卡回到卡组最上面才能发动。这张卡特殊召唤。\r\n②：自己主要阶段才能发动。从自己卡组上面把5张卡翻开。可以从那之中选1只4星以下的岩石族怪兽特殊召唤。剩下的卡用喜欢的顺序回到卡组最下面。",
+    "name": "Signore Drago di Atlantide - Daedalus",
+    "desc": "Il nome di questa carta diventa \"Umi\" mentre si trova nella Zona Mostri.\r\nPuoi utilizzare ciascuno dei seguenti effetti di \"Signore Drago di Atlantide - Daedalus\" una sola volta per turno.\r\nSe controlli \"Atlantide, la Città dei Draghi\" o \"Umi\": Puoi Evocare Specialmente questa carta dalla tua mano.\r\nPuoi mandare al Cimitero fino a 3 \"Umi\" scoperti che controlli; aggiungi dal tuo Deck altrettante carte che menzionano \"Atlantide, la Città dei Draghi\", eccetto mostri di Livello 7, poi puoi mandare 1 carta sul Terreno al Cimitero.",
+    "overallString": "[Mostro|Effetto] Serpente Marino/Acqua  [★7] 2600/1500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306013.jpg?version=19.7"
+  },
+  {
+    "name": "Generale di Atlantide",
+    "desc": "Il nome di questa carta diventa \"Umi\" mentre si trova nella Zona Mostri.\r\nPuoi utilizzare ciascuno dei seguenti effetti di \"Generale di Atlantide\" una sola volta per turno.\r\nPuoi scartare questa carta; aggiungi 1 Magia/Trappola che menziona \"Atlantide, la Città dei Draghi\" dal tuo Deck alla tua mano.\r\nSe questa carta è nel tuo Cimitero e controlli \"Umi\": Puoi Evocare Specialmente questa carta.",
+    "overallString": "[Mostro|Effetto] Serpente Marino/Acqua  [★5] 2100/1400",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306014.jpg?version=19.7"
+  },
+  {
+    "name": "Braccia Mostruose di Atlantide",
+    "desc": "Il nome di questa carta diventa \"Umi\" mentre si trova nella Zona Mostri.\r\nPuoi utilizzare ciascuno dei seguenti effetti di \"Braccia Mostruose di Atlantide\" una sola volta per turno.\r\nSe questa carta viene Evocata Normalmente o Specialmente: Puoi scegliere come bersaglio 1 mostro nel tuo Cimitero che menziona \"Atlantide, la Città dei Draghi\"; Evocalo Specialmente in Posizione di Difesa.\r\nQuando il tuo avversario attiva l'effetto di un mostro (Effetto Rapido): Puoi bandire questa carta dal tuo Terreno o Cimitero e mandare al Cimitero 1 \"Umi\" scoperto che controlli; annulla quell'effetto.",
+    "overallString": "[Mostro|Effetto] Serpente Marino/Acqua  [★4] 1500/1200",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306015.jpg?version=19.7"
+  },
+  {
+    "name": "Vortice Demoniaco di Atlantide",
+    "desc": "Il nome di questa carta diventa \"Umi\" mentre si trova nella Zona Mostri.\r\nPuoi utilizzare ciascuno dei seguenti effetti di \"Vortice Demoniaco di Atlantide\" una sola volta per turno.\r\nSe questa carta viene Evocata Normalmente o Specialmente: Puoi mandare al Cimitero 1 carta che menziona \"Atlantide, la Città dei Draghi\" dal tuo Deck, eccetto \"Vortice Demoniaco di Atlantide\".\r\nSe questa carta viene mandata al Cimitero e controlli \"Umi\": Puoi Evocare Specialmente 1 mostro ACQUA dalla tua mano.",
+    "overallString": "[Mostro|Effetto] Serpente Marino/Acqua  [★4] 1400/1800",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306016.jpg?version=19.7"
+  },
+  {
+    "name": "Signore Drago dell'Oceano Blu - Neo-Daedalus Furia",
+    "desc": "4 mostri\r\nSe questa carta viene Evocata tramite Link: Puoi Evocare Specialmente fino a 3 mostri che menzionano \"Atlantide, la Città dei Draghi\" dal tuo Cimitero nelle zone a cui questa carta punta, inoltre non puoi Evocare Specialmente per il resto di questo turno.\r\nIl nome di questa carta diventa \"Umi\" mentre si trova nella Zona Mostri.\r\nUna volta per turno (Effetto Rapido): Puoi mandare al Cimitero 1 \"Umi\" scoperto che controlli; manda al Cimitero tutte le carte sul Terreno, eccetto \"Umi\".",
+    "overallString": "[Mostro|Effetto|Link] Serpente Marino/Acqua  [LINK-4] 2900/-  [↑][↙][↓][↘]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306046.jpg?version=19.7"
+  },
+  {
+    "name": "Levia-Dragone - Daedalus",
+    "desc": "3 mostri ACQUA\r\nIl nome di questa carta diventa \"Umi\" mentre si trova nella Zona Mostri.\r\nPuoi utilizzare ciascuno dei seguenti effetti di \"Levia-Dragone - Daedalus\" una sola volta per turno.\r\nSe questa carta viene Evocata tramite Link: Puoi Evocare Specialmente 1 mostro che menziona \"Atlantide, la Città dei Draghi\" dal tuo Deck.\r\nDurante la Main Phase (Effetto Rapido): Puoi mandare al Cimitero 1 \"Umi\" scoperto che controlli; il tuo avversario scarta tutta la sua mano e, se lo fa, pesca lo stesso numero di carte.\r\nNessun giocatore può attivare carte o effetti in risposta all'attivazione di questo effetto.",
+    "overallString": "[Mostro|Effetto|Link] Serpente Marino/Acqua  [LINK-3] 2600/-  [↙][↓][↘]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306047.jpg?version=19.7"
+  },
+  {
+    "name": "Atlantide, la Città dei Draghi",
+    "desc": "Mentre un mostro che menziona \"Atlantide, la Città dei Draghi\" è sul Terreno, riduci di 1 i Livelli di tutti i mostri nelle mani e sui Terreni di entrambi i giocatori.\r\nSe Evoci tramite Link un mostro \"Daedalus\", puoi ridurre di 1 il requisito di materiali indicato su di esso ed Evocarlo tramite Link utilizzando 1 materiale in meno.\r\nSe questa carta è nel tuo Cimitero e controlli \"Umi\": Puoi Posizionare questa carta scoperta sul tuo Terreno.\r\nPuoi utilizzare questo effetto di \"Atlantide, la Città dei Draghi\" una sola volta per turno.",
+    "overallString": "[Magia|Terreno]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306058.jpg?version=19.7"
+  },
+  {
+    "name": "Richiamo di Atlantide",
+    "desc": "Aggiungi 1 mostro che menziona \"Atlantide, la Città dei Draghi\" dal tuo Deck alla tua mano, poi, se controlli \"Atlantide, la Città dei Draghi\", puoi annullare gli effetti di 1 Mostro con Effetto controllato dal tuo avversario fino alla fine di questo turno.\r\nSe controlli \"Umi\": Puoi bandire questa carta dal tuo Cimitero; tutti i mostri ACQUA che controlli attualmente guadagnano 500 ATK/DEF.\r\nPuoi utilizzare ciascun effetto di \"Richiamo di Atlantide\" una sola volta per turno.",
+    "overallString": "[Magia]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306059.jpg?version=19.7"
+  },
+  {
+    "name": "Avvento di Atlantide",
+    "desc": "Il nome di questa carta diventa \"Umi\" mentre si trova nella Zona Magie & Trappole.\r\nPuoi utilizzare ciascuno dei seguenti effetti di \"Avvento di Atlantide\" una sola volta per turno.\r\nDurante la tua Main Phase: Puoi Posizionare 1 \"Atlantide, la Città dei Draghi\" o \"Umi\" dal tuo Deck scoperta nella tua Zona Terreno.\r\nSe questa carta viene mandata al Cimitero: Puoi aggiungere 1 mostro Serpente Marino di Livello 7 dal tuo Deck alla tua mano.",
+    "overallString": "[Magia|Continua]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306060.jpg?version=19.7"
+  },
+  {
+    "name": "Maelstrom di Daedalus",
+    "desc": "Quando il tuo avversario starebbe per Evocare Normalmente o Specialmente uno o più mostri mentre controlli \"Atlantide, la Città dei Draghi\": Annulla quell'Evocazione e, se lo fai, distruggi quei mostri, poi, se controlli un Mostro Link ACQUA, puoi distruggere tutti i mostri non-ACQUA sul Terreno.\r\nPuoi bandire questa carta dal tuo Cimitero e mandare al Cimitero 1 \"Umi\" scoperto che controlli, poi scegliere come bersaglio 1 mostro controllato dal tuo avversario; mandalo al Cimitero.\r\nPuoi utilizzare solo 1 effetto di \"Maelstrom di Daedalus\" per turno, e solo una volta in quel turno.",
+    "overallString": "[Trappola|Contro]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306076.jpg?version=19.7"
+  },
+  {
+    "name": "Irremovibilatore Conduttore",
+    "desc": "Se questa carta è nella tua mano: Puoi mettere 1 altra carta \"Irremovibilatore\" dalla tua mano in cima al Deck; Evoca Specialmente questa carta.\r\nDurante la tua Main Phase: Puoi dissotterrare le prime 5 carte del tuo Deck, e se lo fai, puoi Evocare Specialmente 1 mostro Roccia di Livello 4 o inferiore tra quelle dissotterrate, inoltre metti il resto in fondo al Deck in un ordine qualsiasi.\r\nPuoi utilizzare ciascun effetto di \"Irremovibilatore Conduttore\" una sola volta per turno.",
     "overallString": "[Mostro|Effetto|Tuner] Roccia/Terra  [★6] 1400/1100",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306024.jpg?version=19.7"
   },
   {
-    "name": "魔救之奇石-海蛇晶石",
-    "desc": "这个卡名的①②的效果1回合只能各使用1次。\r\n①：这张卡用「魔救」卡的效果特殊召唤的场合才能发动。从卡组把「魔救之奇石-海蛇晶石」以外的1张「魔救」卡加入手卡。那之后，可以从手卡把1只岩石族怪兽特殊召唤。\r\n②：这张卡在墓地存在的场合，以自己的场上·墓地1只岩石族同调怪兽为对象才能发动。那只怪兽回到额外卡组，这张卡回到卡组最上面。",
+    "name": "Irremovibilatore Cristallo - Tiamite",
+    "desc": "Se questa carta viene Evocata Specialmente dall'effetto di una carta \"Irremovibilatore\": Puoi aggiungere 1 carta \"Irremovibilatore\" dal tuo Deck alla tua mano, eccetto \"Irremovibilatore Cristallo - Tiamite\", poi puoi Evocare Specialmente 1 mostro Roccia dalla tua mano.\r\nSe questa carta è nel tuo Cimitero: Puoi scegliere come bersaglio 1 Mostro Synchro Roccia sul tuo Terreno o nel tuo Cimitero; fallo ritornare nell'Extra Deck, e se lo fai, metti questa carta in cima al Deck.\r\nPuoi utilizzare ciascun effetto di \"Irremovibilatore Cristallo - Tiamite\" una sola volta per turno.",
     "overallString": "[Mostro|Effetto] Roccia/Oscurità  [★4] 0/2200",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306025.jpg?version=19.7"
   },
   {
-    "name": "魔救之奇迹-海蛇晶石",
-    "desc": "调整＋调整以外的怪兽1只以上\r\n这个卡名的①②的效果1回合各能使用1次。\r\n①：自己墓地有暗属性怪兽存在的场合才能发动。从卡组把1张「魔救」魔法·陷阱卡加入手卡。\r\n②：对方把场上的怪兽的效果发动时才能发动。从自己卡组上面把5张卡翻开。可以让最多有那之中的岩石族怪兽数量的对方场上的卡回到手卡。翻开的卡用喜欢的顺序回到卡组下面。",
+    "name": "Irremovibilatore Risorto - Tiamite",
+    "desc": "1 Tuner + 1 o più non-Tuner\r\nSe hai un mostro OSCURITÀ nel tuo Cimitero: Puoi aggiungere 1 Magia/Trappola \"Irremovibilatore\" dal tuo Deck alla tua mano.\r\nQuando il tuo avversario attiva l'effetto di un mostro sul Terreno (Effetto Rapido): Puoi dissotterrare le prime 5 carte del tuo Deck, e se lo fai, puoi far ritornare alla mano carte controllate dal tuo avversario fino al numero di mostri Roccia dissotterrati, inoltre metti le carte dissotterrate in fondo al Deck in un qualsiasi ordine.\r\nPuoi utilizzare ciascun effetto di \"Irremovibilatore Risorto - Tiamite\" una sola volta per turno.",
     "overallString": "[Mostro|Effetto|Synchro] Roccia/Oscurità  [★10] 3300/2200",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306041.jpg?version=19.7"
   },
   {
-    "name": "魔救之辉迹",
-    "desc": "包含同调怪兽的效果怪兽2只\r\n这个卡名的①②的效果1回合各能使用1次。\r\n①：这张卡连接召唤的场合，或者这张卡所连接区有怪兽特殊召唤的场合，以自己场上·墓地的1只怪兽为对象才能发动。在自己场上把1只持有和那只怪兽相同等级的「奇石衍生物」（岩石族·光·攻/守0）特殊召唤。\r\n②：这张卡以外的场上的怪兽把效果发动时才能发动。那只怪兽回到卡组最上面。",
+    "name": "Irremovibilatore Luminoso",
+    "desc": "2 Mostri con Effetto, incluso un Mostro Synchro\r\nSe questa carta viene Evocata Link, o se uno o più mostri vengono Evocati Specialmente in una o più zone a cui questa carta punta: Puoi scegliere come bersaglio 1 mostro sul tuo Terreno o nel tuo Cimitero che possiede un Livello; Evoca Specialmente 1 \"Segna-Barlume\" (Roccia/LUCE/ATK 0/DEF 0) con lo stesso Livello.\r\nQuando un altro mostro sul Terreno attiva il suo effetto (Effetto Rapido): Puoi metterlo in cima al Deck.\r\nPuoi utilizzare ciascun effetto di \"Irremovibilatore Luminoso\" una sola volta per turno.",
     "overallString": "[Mostro|Effetto|Link] Roccia/Luce  [LINK-2] 1800/-  [←][↓]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306049.jpg?version=19.7"
   },
   {
-    "name": "魔救之合缘",
-    "desc": "这个卡名的①②的效果1回合各能使用1次。\r\n①：从卡组把1只「魔救」怪兽加入手卡。\r\n②：这张卡在墓地存在的场合，让1张手卡回到卡组上面才能发动。这张卡加入手卡。",
+    "name": "Compagni Irremovibilatore",
+    "desc": "Aggiungi 1 mostro \"Irremovibilatore\" dal tuo Deck alla tua mano.\r\nSe questa carta è nel tuo Cimitero: Puoi mettere 1 carta dalla tua mano in cima al Deck; aggiungi questa carta alla tua mano.\r\nPuoi utilizzare ciascun effetto di \"Compagni Irremovibilatore\" una sola volta per turno.",
     "overallString": "[Magia]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306063.jpg?version=19.7"
   },
