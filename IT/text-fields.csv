@@ -317,6 +317,35 @@ Se questa carta viene Evocata Specialmente: puoi scegliere come bersaglio 1 most
 Puoi utilizzare ciascun effetto di ""Pescatore Leggenda dei Mari"" una sola volta per turno."
 101306004,Pescatore Leggenda dei Mari,str1,Evocazione Speciale
 101306004,Pescatore Leggenda dei Mari,str2,Distruggere
+101306013,Signore Drago di Atlantide - Daedalus,name,Signore Drago di Atlantide - Daedalus
+101306013,Signore Drago di Atlantide - Daedalus,desc,"Il nome di questa carta diventa ""Umi"" mentre si trova nella Zona Mostri.
+Puoi utilizzare ciascuno dei seguenti effetti di ""Signore Drago di Atlantide - Daedalus"" una sola volta per turno.
+Se controlli ""Atlantide, la Città dei Draghi"" o ""Umi"": Puoi Evocare Specialmente questa carta dalla tua mano.
+Puoi mandare al Cimitero fino a 3 ""Umi"" scoperti che controlli; aggiungi dal tuo Deck altrettante carte che menzionano ""Atlantide, la Città dei Draghi"", eccetto mostri di Livello 7, poi puoi mandare 1 carta sul Terreno al Cimitero."
+101306013,Signore Drago di Atlantide - Daedalus,str1,Evocazione Speciale
+101306013,Signore Drago di Atlantide - Daedalus,str2,Effetto di aggiunta alla mano
+101306013,Signore Drago di Atlantide - Daedalus,str3,Mandare la carta selezionata al Cimitero?
+101306014,Generale di Atlantide,name,Generale di Atlantide
+101306014,Generale di Atlantide,desc,"Il nome di questa carta diventa ""Umi"" mentre si trova nella Zona Mostri.
+Puoi utilizzare ciascuno dei seguenti effetti di ""Generale di Atlantide"" una sola volta per turno.
+Puoi scartare questa carta; aggiungi 1 Magia/Trappola che menziona ""Atlantide, la Città dei Draghi"" dal tuo Deck alla tua mano.
+Se questa carta è nel tuo Cimitero e controlli ""Umi"": Puoi Evocare Specialmente questa carta."
+101306014,Generale di Atlantide,str1,Effetto di aggiunta alla mano
+101306014,Generale di Atlantide,str2,Evocazione Speciale
+101306015,Braccia Mostruose di Atlantide,name,Braccia Mostruose di Atlantide
+101306015,Braccia Mostruose di Atlantide,desc,"Il nome di questa carta diventa ""Umi"" mentre si trova nella Zona Mostri.
+Puoi utilizzare ciascuno dei seguenti effetti di ""Braccia Mostruose di Atlantide"" una sola volta per turno.
+Se questa carta viene Evocata Normalmente o Specialmente: Puoi scegliere come bersaglio 1 mostro nel tuo Cimitero che menziona ""Atlantide, la Città dei Draghi""; Evocalo Specialmente in Posizione di Difesa.
+Quando il tuo avversario attiva l'effetto di un mostro (Effetto Rapido): Puoi bandire questa carta dal tuo Terreno o Cimitero e mandare al Cimitero 1 ""Umi"" scoperto che controlli; annulla quell'effetto."
+101306015,Braccia Mostruose di Atlantide,str1,Evocazione Speciale
+101306015,Braccia Mostruose di Atlantide,str2,Annullare l'effetto
+101306016,Vortice Demoniaco di Atlantide,name,Vortice Demoniaco di Atlantide
+101306016,Vortice Demoniaco di Atlantide,desc,"Il nome di questa carta diventa ""Umi"" mentre si trova nella Zona Mostri.
+Puoi utilizzare ciascuno dei seguenti effetti di ""Vortice Demoniaco di Atlantide"" una sola volta per turno.
+Se questa carta viene Evocata Normalmente o Specialmente: Puoi mandare al Cimitero 1 carta che menziona ""Atlantide, la Città dei Draghi"" dal tuo Deck, eccetto ""Vortice Demoniaco di Atlantide"".
+Se questa carta viene mandata al Cimitero e controlli ""Umi"": Puoi Evocare Specialmente 1 mostro ACQUA dalla tua mano."
+101306016,Vortice Demoniaco di Atlantide,str1,Mandare al Cimitero
+101306016,Vortice Demoniaco di Atlantide,str2,Evocazione Speciale
 101306021,Dogma Fatale - EROE del Destino,name,Dogma Fatale - EROE del Destino
 101306021,Dogma Fatale - EROE del Destino,desc,"Non può essere Evocato Normalmente/Posizionato. Deve essere Evocato Specialmente (dalla tua mano o Cimitero) bandendo 3 mostri Guerriero e/o OSCURITÀ dal tuo Cimitero. Puoi Evocare Specialmente ""Dogma Fatale - EROE del Destino"" una sola volta per turno in questo modo.
 Se Evocato in questo modo: Puoi attivare questo effetto; infliggi 2000 danni al tuo avversario durante la prossima Standby Phase.
@@ -337,20 +366,20 @@ Puoi utilizzare ciascun effetto di ""Servitore della Corazzata del Terrore - ERO
 101306023,Servitore della Corazzata del Terrore - EROE del Destino,str1,Evocazione Speciale
 101306023,Servitore della Corazzata del Terrore - EROE del Destino,str2,Rimettere nel Deck
 101306023,Servitore della Corazzata del Terrore - EROE del Destino,str3,Distruggere e aggiungere alla mano?
-101306024,魔救之调律者,name,魔救之调律者
-101306024,魔救之调律者,desc,"这个卡名的①②的效果1回合只能各使用1次。
-①：这张卡在手卡存在的场合，从手卡让1张其他的「魔救」卡回到卡组最上面才能发动。这张卡特殊召唤。
-②：自己主要阶段才能发动。从自己卡组上面把5张卡翻开。可以从那之中选1只4星以下的岩石族怪兽特殊召唤。剩下的卡用喜欢的顺序回到卡组最下面。"
-101306024,魔救之调律者,str1,Evocazione Speciale
-101306024,魔救之调律者,str2,翻卡组
-101306024,魔救之调律者,str3,Evocare Specialmente il mostro?
-101306025,魔救之奇石-海蛇晶石,name,魔救之奇石-海蛇晶石
-101306025,魔救之奇石-海蛇晶石,desc,"这个卡名的①②的效果1回合只能各使用1次。
-①：这张卡用「魔救」卡的效果特殊召唤的场合才能发动。从卡组把「魔救之奇石-海蛇晶石」以外的1张「魔救」卡加入手卡。那之后，可以从手卡把1只岩石族怪兽特殊召唤。
-②：这张卡在墓地存在的场合，以自己的场上·墓地1只岩石族同调怪兽为对象才能发动。那只怪兽回到额外卡组，这张卡回到卡组最上面。"
-101306025,魔救之奇石-海蛇晶石,str1,Effetto di aggiunta alla mano
-101306025,魔救之奇石-海蛇晶石,str2,Rimettere nel Deck
-101306025,魔救之奇石-海蛇晶石,str3,Evocazione Speciale?
+101306024,Irremovibilatore Conduttore,name,Irremovibilatore Conduttore
+101306024,Irremovibilatore Conduttore,desc,"Se questa carta è nella tua mano: Puoi mettere 1 altra carta ""Irremovibilatore"" dalla tua mano in cima al Deck; Evoca Specialmente questa carta.
+Durante la tua Main Phase: Puoi dissotterrare le prime 5 carte del tuo Deck, e se lo fai, puoi Evocare Specialmente 1 mostro Roccia di Livello 4 o inferiore tra quelle dissotterrate, inoltre metti il resto in fondo al Deck in un ordine qualsiasi.
+Puoi utilizzare ciascun effetto di ""Irremovibilatore Conduttore"" una sola volta per turno."
+101306024,Irremovibilatore Conduttore,str1,Evocazione Speciale
+101306024,Irremovibilatore Conduttore,str2,Scavare il Deck
+101306024,Irremovibilatore Conduttore,str3,Evocare Specialmente il mostro?
+101306025,Irremovibilatore Cristallo - Tiamite,name,Irremovibilatore Cristallo - Tiamite
+101306025,Irremovibilatore Cristallo - Tiamite,desc,"Se questa carta viene Evocata Specialmente dall'effetto di una carta ""Irremovibilatore"": Puoi aggiungere 1 carta ""Irremovibilatore"" dal tuo Deck alla tua mano, eccetto ""Irremovibilatore Cristallo - Tiamite"", poi puoi Evocare Specialmente 1 mostro Roccia dalla tua mano.
+Se questa carta è nel tuo Cimitero: Puoi scegliere come bersaglio 1 Mostro Synchro Roccia sul tuo Terreno o nel tuo Cimitero; fallo ritornare nell'Extra Deck, e se lo fai, metti questa carta in cima al Deck.
+Puoi utilizzare ciascun effetto di ""Irremovibilatore Cristallo - Tiamite"" una sola volta per turno."
+101306025,Irremovibilatore Cristallo - Tiamite,str1,Effetto di aggiunta alla mano
+101306025,Irremovibilatore Cristallo - Tiamite,str2,Rimettere nel Deck
+101306025,Irremovibilatore Cristallo - Tiamite,str3,Evocazione Speciale?
 101306036,Drago Nero Occhi Rossi Exceed,name,Drago Nero Occhi Rossi Exceed
 101306036,Drago Nero Occhi Rossi Exceed,desc,"""Drago Nero Occhi Rossi"" + 1 mostro che menziona ""Stregone del Tempo Oscuro""
 Deve essere Evocato tramite Fusione, oppure Evocato Specialmente (dal tuo Extra Deck) offrendo come Tributo 1 mostro scoperto in uno qualsiasi dei Terreni durante il turno in cui uno o più mostri sono stati distrutti dall'effetto di ""Stregone del Tempo Oscuro"". Puoi Evocare Specialmente ""Drago Nero Occhi Rossi Exceed"" una sola volta per turno in questo modo, indipendentemente da quale metodo usi.
@@ -362,14 +391,14 @@ Deve essere Evocato tramite Fusione, oppure Evocato Specialmente (dal tuo Extra 
 Se questa carta viene Evocata Specialmente: Puoi aggiungere 2 mostri ""EROE del Destino"" e/o carte che menzionano il nome di una carta ""EROE del Destino"" dal tuo Deck alla tua mano.
 L'ATK di questa carta diventa pari alla somma degli ATK originali di tutti gli altri mostri ""EROE del Destino"" nel tuo Terreno e Cimitero."
 101306037,Corazzata del Terrore - EROE del Destino,str1,Aggiungere alla mano
-101306041,魔救之奇迹-海蛇晶石,name,魔救之奇迹-海蛇晶石
-101306041,魔救之奇迹-海蛇晶石,desc,"调整＋调整以外的怪兽1只以上
-这个卡名的①②的效果1回合各能使用1次。
-①：自己墓地有暗属性怪兽存在的场合才能发动。从卡组把1张「魔救」魔法·陷阱卡加入手卡。
-②：对方把场上的怪兽的效果发动时才能发动。从自己卡组上面把5张卡翻开。可以让最多有那之中的岩石族怪兽数量的对方场上的卡回到手卡。翻开的卡用喜欢的顺序回到卡组下面。"
-101306041,魔救之奇迹-海蛇晶石,str1,Effetto di aggiunta alla mano
-101306041,魔救之奇迹-海蛇晶石,str2,Rimettere in mano
-101306041,魔救之奇迹-海蛇晶石,str3,Rimandare una carta in mano?
+101306041,Irremovibilatore Risorto - Tiamite,name,Irremovibilatore Risorto - Tiamite
+101306041,Irremovibilatore Risorto - Tiamite,desc,"1 Tuner + 1 o più non-Tuner
+Se hai un mostro OSCURITÀ nel tuo Cimitero: Puoi aggiungere 1 Magia/Trappola ""Irremovibilatore"" dal tuo Deck alla tua mano.
+Quando il tuo avversario attiva l'effetto di un mostro sul Terreno (Effetto Rapido): Puoi dissotterrare le prime 5 carte del tuo Deck, e se lo fai, puoi far ritornare alla mano carte controllate dal tuo avversario fino al numero di mostri Roccia dissotterrati, inoltre metti le carte dissotterrate in fondo al Deck in un qualsiasi ordine.
+Puoi utilizzare ciascun effetto di ""Irremovibilatore Risorto - Tiamite"" una sola volta per turno."
+101306041,Irremovibilatore Risorto - Tiamite,str1,Effetto di aggiunta alla mano
+101306041,Irremovibilatore Risorto - Tiamite,str2,Rimettere in mano
+101306041,Irremovibilatore Risorto - Tiamite,str3,Rimandare una carta in mano?
 101306045,Swickelavee Cavalleria Pesante dalla Splendente Corona,name,Swickelavee Cavalleria Pesante dalla Splendente Corona
 101306045,Swickelavee Cavalleria Pesante dalla Splendente Corona,desc,"2 mostri di Livello 3
 Una volta per turno, puoi anche Evocare Xyz ""Swickelavee Cavalleria Pesante dalla Splendente Corona"" utilizzando 1 mostro Bestia che controlli con 2000 ATK o meno come materiale (trasferisci i suoi materiali a questa carta).
@@ -380,13 +409,31 @@ Se questa carta distrugge un mostro in battaglia: Metti 1 Segnalino Corona su di
 ● 3: Fai ritornare questa carta nell'Extra Deck, e se lo fai, pesca 3 carte."
 101306045,Swickelavee Cavalleria Pesante dalla Splendente Corona,str1,Evocare Xyz usando un mostro Bestia come materiale?
 101306045,Swickelavee Cavalleria Pesante dalla Splendente Corona,str2,Posizionare un Segnalino
-101306049,魔救之辉迹,name,魔救之辉迹
-101306049,魔救之辉迹,desc,"包含同调怪兽的效果怪兽2只
-这个卡名的①②的效果1回合各能使用1次。
-①：这张卡连接召唤的场合，或者这张卡所连接区有怪兽特殊召唤的场合，以自己场上·墓地的1只怪兽为对象才能发动。在自己场上把1只持有和那只怪兽相同等级的「奇石衍生物」（岩石族·光·攻/守0）特殊召唤。
-②：这张卡以外的场上的怪兽把效果发动时才能发动。那只怪兽回到卡组最上面。"
-101306049,魔救之辉迹,str1,Evocazione Speciale
-101306049,魔救之辉迹,str2,Rimettere nel Deck
+101306046,Signore Drago dell'Oceano Blu - Neo-Daedalus Furia,name,Signore Drago dell'Oceano Blu - Neo-Daedalus Furia
+101306046,Signore Drago dell'Oceano Blu - Neo-Daedalus Furia,desc,"4 mostri
+Se questa carta viene Evocata tramite Link: Puoi Evocare Specialmente fino a 3 mostri che menzionano ""Atlantide, la Città dei Draghi"" dal tuo Cimitero nelle zone a cui questa carta punta, inoltre non puoi Evocare Specialmente per il resto di questo turno.
+Il nome di questa carta diventa ""Umi"" mentre si trova nella Zona Mostri.
+Una volta per turno (Effetto Rapido): Puoi mandare al Cimitero 1 ""Umi"" scoperto che controlli; manda al Cimitero tutte le carte sul Terreno, eccetto ""Umi""."
+101306046,Signore Drago dell'Oceano Blu - Neo-Daedalus Furia,str1,Applicare come Link-3 per un'Evocazione Link ({CARD})
+101306046,Signore Drago dell'Oceano Blu - Neo-Daedalus Furia,str2,Evocazione Speciale
+101306046,Signore Drago dell'Oceano Blu - Neo-Daedalus Furia,str3,Mandare al Cimitero
+101306047,Levia-Dragone - Daedalus,name,Levia-Dragone - Daedalus
+101306047,Levia-Dragone - Daedalus,desc,"3 mostri ACQUA
+Il nome di questa carta diventa ""Umi"" mentre si trova nella Zona Mostri.
+Puoi utilizzare ciascuno dei seguenti effetti di ""Levia-Dragone - Daedalus"" una sola volta per turno.
+Se questa carta viene Evocata tramite Link: Puoi Evocare Specialmente 1 mostro che menziona ""Atlantide, la Città dei Draghi"" dal tuo Deck.
+Durante la Main Phase (Effetto Rapido): Puoi mandare al Cimitero 1 ""Umi"" scoperto che controlli; il tuo avversario scarta tutta la sua mano e, se lo fa, pesca lo stesso numero di carte.
+Nessun giocatore può attivare carte o effetti in risposta all'attivazione di questo effetto."
+101306047,Levia-Dragone - Daedalus,str1,Applicare come Link-2 per un'Evocazione Link ({CARD})
+101306047,Levia-Dragone - Daedalus,str2,Evocazione Speciale
+101306047,Levia-Dragone - Daedalus,str3,Il tuo avversario scarta e pesca
+101306049,Irremovibilatore Luminoso,name,Irremovibilatore Luminoso
+101306049,Irremovibilatore Luminoso,desc,"2 Mostri con Effetto, incluso un Mostro Synchro
+Se questa carta viene Evocata Link, o se uno o più mostri vengono Evocati Specialmente in una o più zone a cui questa carta punta: Puoi scegliere come bersaglio 1 mostro sul tuo Terreno o nel tuo Cimitero che possiede un Livello; Evoca Specialmente 1 ""Segna-Barlume"" (Roccia/LUCE/ATK 0/DEF 0) con lo stesso Livello.
+Quando un altro mostro sul Terreno attiva il suo effetto (Effetto Rapido): Puoi metterlo in cima al Deck.
+Puoi utilizzare ciascun effetto di ""Irremovibilatore Luminoso"" una sola volta per turno."
+101306049,Irremovibilatore Luminoso,str1,Evocazione Speciale
+101306049,Irremovibilatore Luminoso,str2,Rimettere nel Deck
 101306052,Stregone del Tempo Oscuro,name,Stregone del Tempo Oscuro
 101306052,Stregone del Tempo Oscuro,desc,"Attiva 1 di questi effetti (ma puoi utilizzare ciascun effetto di ""Stregone del Tempo Oscuro"" una sola volta per turno);
 ● Aggiungi 1 carta che menziona ""Stregone del Tempo Oscuro"" dal tuo Deck alla tua mano, eccetto ""Stregone del Tempo Oscuro"", inoltre aggiungi 1 ""Stregone del Tempo Oscuro"" dal tuo Cimitero alla tua mano durante la End Phase di questo turno.
@@ -407,6 +454,26 @@ Se una o più carte che controlli che menzionano ""Stregone del Tempo Oscuro"" s
 101306054,Capro Espiatorio Dormiente,str1,Attiva
 101306054,Capro Espiatorio Dormiente,str2,Seleziona il numero di Evocazioni Speciali
 101306054,Capro Espiatorio Dormiente,str3,Evocare Specialmente {CARD}?
+101306058,"Atlantide, la Città dei Draghi",name,"Atlantide, la Città dei Draghi"
+101306058,"Atlantide, la Città dei Draghi",desc,"Mentre un mostro che menziona ""Atlantide, la Città dei Draghi"" è sul Terreno, riduci di 1 i Livelli di tutti i mostri nelle mani e sui Terreni di entrambi i giocatori.
+Se Evoci tramite Link un mostro ""Daedalus"", puoi ridurre di 1 il requisito di materiali indicato su di esso ed Evocarlo tramite Link utilizzando 1 materiale in meno.
+Se questa carta è nel tuo Cimitero e controlli ""Umi"": Puoi Posizionare questa carta scoperta sul tuo Terreno.
+Puoi utilizzare questo effetto di ""Atlantide, la Città dei Draghi"" una sola volta per turno."
+101306058,"Atlantide, la Città dei Draghi",str2,Posiziona
+101306059,Richiamo di Atlantide,name,Richiamo di Atlantide
+101306059,Richiamo di Atlantide,desc,"Aggiungi 1 mostro che menziona ""Atlantide, la Città dei Draghi"" dal tuo Deck alla tua mano, poi, se controlli ""Atlantide, la Città dei Draghi"", puoi annullare gli effetti di 1 Mostro con Effetto controllato dal tuo avversario fino alla fine di questo turno.
+Se controlli ""Umi"": Puoi bandire questa carta dal tuo Cimitero; tutti i mostri ACQUA che controlli attualmente guadagnano 500 ATK/DEF.
+Puoi utilizzare ciascun effetto di ""Richiamo di Atlantide"" una sola volta per turno."
+101306059,Richiamo di Atlantide,str1,Effetto di aggiunta alla mano
+101306059,Richiamo di Atlantide,str2,Aumentare ATK/DEF
+101306059,Richiamo di Atlantide,str3,Annullare un mostro?
+101306060,Avvento di Atlantide,name,Avvento di Atlantide
+101306060,Avvento di Atlantide,desc,"Il nome di questa carta diventa ""Umi"" mentre si trova nella Zona Magie & Trappole.
+Puoi utilizzare ciascuno dei seguenti effetti di ""Avvento di Atlantide"" una sola volta per turno.
+Durante la tua Main Phase: Puoi Posizionare 1 ""Atlantide, la Città dei Draghi"" o ""Umi"" dal tuo Deck scoperta nella tua Zona Terreno.
+Se questa carta viene mandata al Cimitero: Puoi aggiungere 1 mostro Serpente Marino di Livello 7 dal tuo Deck alla tua mano."
+101306060,Avvento di Atlantide,str1,Effetto di posizionamento
+101306060,Avvento di Atlantide,str2,Effetto di aggiunta alla mano
 101306062,Città Oscura Prigione della Torre dell'Orologio,name,Città Oscura Prigione della Torre dell'Orologio
 101306062,Città Oscura Prigione della Torre dell'Orologio,desc,"Ogni volta che Evochi Specialmente uno o più mostri ""EROE del Destino"" di Livello 8 o superiore: Tutti i mostri Guerriero che controlli attualmente guadagnano 300 ATK.
 Puoi utilizzare ciascuno dei seguenti effetti di ""Città Oscura Prigione della Torre dell'Orologio"" una sola volta per turno.
@@ -415,12 +482,12 @@ Se questa carta viene distrutta: Puoi Evocare Specialmente 1 mostro ""EROE del D
 101306062,Città Oscura Prigione della Torre dell'Orologio,str1,Aggiungere alla mano
 101306062,Città Oscura Prigione della Torre dell'Orologio,str2,Aumentare ATK
 101306062,Città Oscura Prigione della Torre dell'Orologio,str3,Evocazione Speciale
-101306063,魔救之合缘,name,魔救之合缘
-101306063,魔救之合缘,desc,"这个卡名的①②的效果1回合各能使用1次。
-①：从卡组把1只「魔救」怪兽加入手卡。
-②：这张卡在墓地存在的场合，让1张手卡回到卡组上面才能发动。这张卡加入手卡。"
-101306063,魔救之合缘,str1,Effetto di aggiunta alla mano
-101306063,魔救之合缘,str2,Rimettere in mano
+101306063,Compagni Irremovibilatore,name,Compagni Irremovibilatore
+101306063,Compagni Irremovibilatore,desc,"Aggiungi 1 mostro ""Irremovibilatore"" dal tuo Deck alla tua mano.
+Se questa carta è nel tuo Cimitero: Puoi mettere 1 carta dalla tua mano in cima al Deck; aggiungi questa carta alla tua mano.
+Puoi utilizzare ciascun effetto di ""Compagni Irremovibilatore"" una sola volta per turno."
+101306063,Compagni Irremovibilatore,str1,Effetto di aggiunta alla mano
+101306063,Compagni Irremovibilatore,str2,Rimettere in mano
 101306070,Predatore delle Tombe Sciocco,name,Predatore delle Tombe Sciocco
 101306070,Predatore delle Tombe Sciocco,desc,"Manda 1 carta che menziona ""Stregone del Tempo Oscuro"" dal tuo Deck al Cimitero, eccetto ""Predatore delle Tombe Sciocco"", poi puoi Evocare Specialmente 1 mostro da uno qualsiasi dei Cimiteri sul tuo Terreno.
 Puoi bandire questa carta dal tuo Cimitero; Posiziona sul tuo Terreno 1 Magia/Trappola che menziona ""Stregone del Tempo Oscuro"" dal tuo Cimitero, eccetto ""Predatore delle Tombe Sciocco"", oppure 1 Magia/Trappola dal Cimitero del tuo avversario.
@@ -434,8 +501,15 @@ Quando viene attivato l'effetto di un mostro sul Terreno del tuo avversario, opp
 101306071,Scatola dell'Inversione,str1,Posizionare un Segnalino
 101306071,Scatola dell'Inversione,str2,Lancia una moneta
 101306071,Scatola dell'Inversione,str3,Seleziona il numero di segnalini da piazzare
-101306149,奇石衍生物,name,奇石衍生物
-101306149,奇石衍生物,desc,由「魔救之辉迹」的效果特殊召唤。
+101306076,Maelstrom di Daedalus,name,Maelstrom di Daedalus
+101306076,Maelstrom di Daedalus,desc,"Quando il tuo avversario starebbe per Evocare Normalmente o Specialmente uno o più mostri mentre controlli ""Atlantide, la Città dei Draghi"": Annulla quell'Evocazione e, se lo fai, distruggi quei mostri, poi, se controlli un Mostro Link ACQUA, puoi distruggere tutti i mostri non-ACQUA sul Terreno.
+Puoi bandire questa carta dal tuo Cimitero e mandare al Cimitero 1 ""Umi"" scoperto che controlli, poi scegliere come bersaglio 1 mostro controllato dal tuo avversario; mandalo al Cimitero.
+Puoi utilizzare solo 1 effetto di ""Maelstrom di Daedalus"" per turno, e solo una volta in quel turno."
+101306076,Maelstrom di Daedalus,str1,Annullare l'Evocazione
+101306076,Maelstrom di Daedalus,str2,Mandare al Cimitero
+101306076,Maelstrom di Daedalus,str3,Distruggere quel mostro?
+101306149,Segna-Barlume,name,Segna-Barlume
+101306149,Segna-Barlume,desc,"Evocato Specialmente dall'effetto di ""Irremovibilatore Luminoso""."
 101306154,Segna-Capro Espiatorio,name,Segna-Capro Espiatorio
 101306154,Segna-Capro Espiatorio,desc,"Evocato Specialmente dall'effetto di ""Capro Espiatorio Dormiente"".
 Se una carta che controlli che menziona il nome di ""Stregone del Tempo Oscuro"" sta per essere distrutta in battaglia o dall'effetto di una carta, puoi invece distruggere questa carta."
