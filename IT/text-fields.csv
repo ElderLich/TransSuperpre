@@ -317,6 +317,36 @@ Se questa carta viene Evocata Specialmente: puoi scegliere come bersaglio 1 most
 Puoi utilizzare ciascun effetto di ""Pescatore Leggenda dei Mari"" una sola volta per turno."
 101306004,Pescatore Leggenda dei Mari,str1,Evocazione Speciale
 101306004,Pescatore Leggenda dei Mari,str2,Distruggere
+101306009,Akasuna Divinità Dorata Asutra,name,Akasuna Divinità Dorata Asutra
+101306009,Akasuna Divinità Dorata Asutra,desc,"Puoi Evocare Specialmente questa carta (dalla tua mano) rivelando 1 carta coperta che controlli e facendola ritornare alla mano/all'Extra Deck. Puoi Evocare Specialmente ""Akasuna la Divinità Dorata Asutra"" una sola volta per turno in questo modo.
+Puoi utilizzare ciascuno dei seguenti effetti di ""Akasuna Divinità Dorata Asutra"" una sola volta per turno.
+Durante la Main Phase (Effetto Rapido): Puoi mandare al Cimitero 1 Trappola dalla tua mano o dal tuo Terreno coperta; cambia tutti i mostri scoperti controllati dal tuo avversario in Posizione di Difesa coperta.
+Durante la tua End Phase: Puoi Posizionare 1 Trappola ""Asutra"" dal tuo Deck."
+101306009,Akasuna Divinità Dorata Asutra,str2,Cambiare in Posizione coperta
+101306009,Akasuna Divinità Dorata Asutra,str3,Posiziona
+101306010,Kuzuha Divinità Ammaliatrice Asutra,name,Kuzuha Divinità Ammaliatrice Asutra
+101306010,Kuzuha Divinità Ammaliatrice Asutra,desc,"Puoi Evocare Specialmente questa carta (dalla tua mano) rivelando 1 carta coperta che controlli e facendola ritornare alla mano/all'Extra Deck. Puoi Evocare Specialmente ""Kuzuha Divinità Ammaliatrice Asutra"" una sola volta per turno in questo modo.
+Puoi utilizzare ciascuno dei seguenti effetti di ""Kuzuha la Divinità Ammaliatrice Asutra"" una sola volta per turno.
+Puoi scegliere come bersaglio fino a 1 carta sul Terreno per ogni 2 carte coperte sul Terreno; distruggile.
+Durante la tua End Phase: Puoi scegliere come bersaglio 1 Trappola ""Asutra"" nel tuo Cimitero; Posizionala."
+101306010,Kuzuha Divinità Ammaliatrice Asutra,str2,Distruggere
+101306010,Kuzuha Divinità Ammaliatrice Asutra,str3,Posiziona
+101306011,Yoa Divinità della Pestilenza Asutra,name,Yoa Divinità della Pestilenza Asutra
+101306011,Yoa Divinità della Pestilenza Asutra,desc,"Puoi Evocare Specialmente questa carta (dalla tua mano) rivelando 1 carta coperta che controlli e facendola ritornare alla mano/all'Extra Deck. Puoi Evocare Specialmente ""Yoa la Divinità della Pestilenza Asutra"" una sola volta per turno in questo modo.
+Puoi utilizzare ciascuno dei seguenti effetti di ""Yoa Divinità della Pestilenza Asutra"" una sola volta per turno.
+Durante la tua Main Phase: Puoi Posizionare 1 Magia/Trappola ""Asutra"" dal tuo Deck.
+Durante il turno del tuo avversario (Effetto Rapido): Puoi scegliere come bersaglio 1 mostro scoperto sul Terreno; aumenta o diminuisci il suo Livello di 1."
+101306011,Yoa Divinità della Pestilenza Asutra,str2,Posiziona
+101306011,Yoa Divinità della Pestilenza Asutra,str3,Cambia Livello
+101306011,Yoa Divinità della Pestilenza Asutra,str4,Aumentare il Livello
+101306011,Yoa Divinità della Pestilenza Asutra,str5,Diminuire il Livello
+101306012,Mikumari Divinità Sigillante Asutra,name,Mikumari Divinità Sigillante Asutra
+101306012,Mikumari Divinità Sigillante Asutra,desc,"Puoi Evocare Specialmente questa carta (dalla tua mano) rivelando 1 carta coperta che controlli e facendola ritornare alla mano/all'Extra Deck. Puoi Evocare Specialmente ""Mikumari Divinità Sigillante Asutra"" una sola volta per turno in questo modo.
+Puoi utilizzare ciascuno dei seguenti effetti di ""Mikumari la Divinità Sigillante Asutra"" una sola volta per turno.
+Durante la tua Main Phase: Puoi aggiungere 1 mostro ""Asutra"" non-Wyrm dal tuo Deck alla tua mano.
+Se questa carta viene mandata al Cimitero come Materiale Synchro per un mostro ""Asutra"": Puoi scegliere come bersaglio 1 Trappola Normale nel tuo Cimitero; Posizionala."
+101306012,Mikumari Divinità Sigillante Asutra,str2,Aggiungere alla mano
+101306012,Mikumari Divinità Sigillante Asutra,str3,Posiziona
 101306013,Signore Drago di Atlantide - Dedalo,name,Signore Drago di Atlantide - Dedalo
 101306013,Signore Drago di Atlantide - Dedalo,desc,"Il nome di questa carta diventa ""Umi"" mentre si trova nella Zona Mostri.
 Puoi utilizzare ciascuno dei seguenti effetti di ""Signore Drago di Atlantide - Dedalo"" una sola volta per turno.
@@ -391,6 +421,19 @@ Deve essere Evocato tramite Fusione, oppure Evocato Specialmente (dal tuo Extra 
 Se questa carta viene Evocata Specialmente: Puoi aggiungere 2 mostri ""EROE del Destino"" e/o carte che menzionano il nome di una carta ""EROE del Destino"" dal tuo Deck alla tua mano.
 L'ATK di questa carta diventa pari alla somma degli ATK originali di tutti gli altri mostri ""EROE del Destino"" nel tuo Terreno e Cimitero."
 101306037,Corazzata del Terrore - EROE del Destino,str1,Aggiungere alla mano
+101306039,Asutraja Susanoo,name,Asutraja Susanoo
+101306039,Asutraja Susanoo,desc,"1 Tuner + 1+ non-Tuner
+Se questa carta viene Evocata Synchro: Puoi bandire un qualsiasi numero di Trappole dal tuo Cimitero; bandisci altrettante carte sul Terreno.
+Durante la End Phase: Puoi scegliere come bersaglio fino a 2 mostri ""Asutra"" e/o Trappole ""Asutra"" nel tuo Cimitero e/o tra le tue carte bandite; per ciascuna di esse, aggiungila alla tua mano o Posizionala, poi, se hai scelto come bersaglio 2 carte, fai ritornare questa carta nell'Extra Deck.
+Puoi utilizzare ciascun effetto di ""Asutraja Susanoo"" una sola volta per turno."
+101306039,Asutraja Susanoo,str1,Distruggere
+101306039,Asutraja Susanoo,str2,Recuperare
+101306040,Asutraya Mikumari no Mikoto,name,Asutraya Mikumari no Mikoto
+101306040,Asutraya Mikumari no Mikoto,desc,"1 Tuner + 1+ non-Tuner
+Se questa carta viene Evocata Specialmente: Puoi mandare al Cimitero 1 carta ""Asutra"" dal tuo Deck e, se lo fai, manda al Cimitero 1 carta sul Terreno. Puoi utilizzare questo effetto di ""Asutraya Mikumari no Mikoto"" una sola volta per turno.
+Se il tuo avversario attiva l'effetto di un mostro: Puoi scegliere come bersaglio 1 Trappola ""Asutra"" nel tuo Cimitero o tra le tue carte bandite, oppure, se ci sono 3 o più carte coperte sul Terreno, puoi invece scegliere come bersaglio 1 Trappola nel tuo Cimitero; Posizionala."
+101306040,Asutraya Mikumari no Mikoto,str1,Mandare al Cimitero
+101306040,Asutraya Mikumari no Mikoto,str2,Posiziona
 101306041,Irremovibilatore Risorto - Tiamite,name,Irremovibilatore Risorto - Tiamite
 101306041,Irremovibilatore Risorto - Tiamite,desc,"1 Tuner + 1 o più non-Tuner
 Se hai un mostro OSCURITÀ nel tuo Cimitero: Puoi aggiungere 1 Magia/Trappola ""Irremovibilatore"" dal tuo Deck alla tua mano.
@@ -454,6 +497,12 @@ Se una o più carte che controlli che menzionano ""Stregone del Tempo Oscuro"" s
 101306054,Capro Espiatorio Dormiente,str1,Attiva
 101306054,Capro Espiatorio Dormiente,str2,Seleziona il numero di Evocazioni Speciali
 101306054,Capro Espiatorio Dormiente,str3,Evocare Specialmente {CARD}?
+101306057,Trichiliocosmo Asutrashen,name,Trichiliocosmo Asutrashen
+101306057,Trichiliocosmo Asutrashen,desc,"Puoi scegliere come bersaglio un qualsiasi numero di carte coperte che controlli; aggiungi dal tuo Deck alla tua mano carte ""Asutra"" con nomi diversi tra loro, eccetto Magie Terreno, in numero pari a quello delle carte scelte come bersaglio che sono ancora coperte, poi manda quelle carte coperte al Cimitero.
+Se una o più carte vengono Posizionate sul Terreno, mentre controlli un mostro ""Asutra"" e una carta coperta: Puoi scegliere come bersaglio 1 carta sul Terreno; falla ritornare alla mano.
+Puoi utilizzare ciascun effetto di ""Trichiliocosmo Asutrashen"" una sola volta per turno."
+101306057,Trichiliocosmo Asutrashen,str1,Aggiungere alla mano
+101306057,Trichiliocosmo Asutrashen,str2,Rimettere in mano
 101306058,"Atlantide, la Città dei Draghi",name,"Atlantide, la Città dei Draghi"
 101306058,"Atlantide, la Città dei Draghi",desc,"Mentre un mostro che menziona ""Atlantide, la Città dei Draghi"" è sul Terreno, riduci di 1 i Livelli di tutti i mostri nelle mani e sui Terreni di entrambi i giocatori.
 Se Evoci tramite Link un mostro ""Dedalo"", puoi ridurre di 1 il requisito di materiali indicato su di esso ed Evocarlo tramite Link utilizzando 1 materiale in meno.
@@ -501,6 +550,33 @@ Quando viene attivato l'effetto di un mostro sul Terreno del tuo avversario, opp
 101306071,Scatola dell'Inversione,str1,Posizionare un Segnalino
 101306071,Scatola dell'Inversione,str2,Lancia una moneta
 101306071,Scatola dell'Inversione,str3,Seleziona il numero di segnalini da piazzare
+101306073,Veleno d'Insetto Asutra,name,Veleno d'Insetto Asutra
+101306073,Veleno d'Insetto Asutra,desc,"Attiva 1 di questi effetti;
+● Evoca Specialmente questa carta come Mostro Normale (Insetto/Tuner/OSCURITÀ/Livello 1/ATK 0/DEF 0) (questa carta NON è considerata una Trappola), poi, immediatamente dopo la risoluzione di questo effetto, puoi Evocare Synchro 1 Mostro Synchro.
+● Scegli come bersaglio 1 mostro ""Asutra"" nel tuo Cimitero; Evocalo Specialmente.
+Puoi attivare solo 1 ""Veleno d'Insetto Asutra"" per turno."
+101306073,Veleno d'Insetto Asutra,str1,Attiva
+101306073,Veleno d'Insetto Asutra,str2,Evocare Specialmente come mostro
+101306073,Veleno d'Insetto Asutra,str3,Evoca Specialmente 1 mostro dal Cimitero
+101306073,Veleno d'Insetto Asutra,str4,Evocazione Synchro?
+101306074,Ruggito Maledetto Asutra,name,Ruggito Maledetto Asutra
+101306074,Ruggito Maledetto Asutra,desc,"Attiva 1 di questi effetti;
+● Evoca Specialmente questa carta come Mostro Normale (Incantatore/Tuner/OSCURITÀ/Livello 1/ATK 0/DEF 0) (questa carta NON è considerata una Trappola), poi, immediatamente dopo la risoluzione di questo effetto, puoi Evocare Synchro 1 Mostro Synchro.
+● Se hai un mostro ""Asutra"" sul tuo Terreno o nel tuo Cimitero: Scegli come bersaglio 1 mostro controllato dal tuo avversario; distruggilo.
+Puoi attivare solo 1 ""Ruggito Maledetto Asutra"" per turno."
+101306074,Ruggito Maledetto Asutra,str1,Attiva
+101306074,Ruggito Maledetto Asutra,str2,Evocare Specialmente come mostro
+101306074,Ruggito Maledetto Asutra,str3,Effetto di distruzione
+101306074,Ruggito Maledetto Asutra,str4,Evocazione Synchro?
+101306075,Dominio Divino Asutra,name,Dominio Divino Asutra
+101306075,Dominio Divino Asutra,desc,"Attiva 1 di questi effetti;
+● Evoca Specialmente questa carta come Mostro Normale (Acqua/Tuner/OSCURITÀ/Livello 1/ATK 0/DEF 0) (questa carta NON è considerata una Trappola), poi, immediatamente dopo la risoluzione di questo effetto, puoi Evocare Synchro 1 Mostro Synchro.
+● Quando il tuo avversario attiva una Carta Magia/Trappola o un suo effetto e non controlla carte coperte: Annulla quell'effetto.
+Puoi attivare solo 1 ""Dominio Divino Asutra"" per turno."
+101306075,Dominio Divino Asutra,str1,Attiva
+101306075,Dominio Divino Asutra,str2,Evocare Specialmente come mostro
+101306075,Dominio Divino Asutra,str3,Annullare l'effetto
+101306075,Dominio Divino Asutra,str4,Evocazione Synchro?
 101306076,Maelstrom di Dedalo,name,Maelstrom di Dedalo
 101306076,Maelstrom di Dedalo,desc,"Quando il tuo avversario starebbe per Evocare Normalmente o Specialmente uno o più mostri mentre controlli ""Atlantide, la Città dei Draghi"": Annulla quell'Evocazione e, se lo fai, distruggi quei mostri, poi, se controlli un Mostro Link ACQUA, puoi distruggere tutti i mostri non-ACQUA sul Terreno.
 Puoi bandire questa carta dal tuo Cimitero e mandare al Cimitero 1 ""Umi"" scoperto che controlli, poi scegliere come bersaglio 1 mostro controllato dal tuo avversario; mandalo al Cimitero.
