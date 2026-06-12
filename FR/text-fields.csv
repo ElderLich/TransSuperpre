@@ -325,35 +325,69 @@ Si cette carte est Invoquée Spécialement : vous pouvez cibler 1 monstre contr�
 Vous ne pouvez utiliser chaque effet de ""Pêcheur, Légende de la Mer"" qu'une fois par tour."
 101306004,"Pêcheur, Légende de la Mer",str1,Invocation Spéciale
 101306004,"Pêcheur, Légende de la Mer",str2,Détruire
-101306013,亚特兰蒂斯的龙神-泰达路斯,name,亚特兰蒂斯的龙神-泰达路斯
-101306013,亚特兰蒂斯的龙神-泰达路斯,desc,"这个卡名的①③的效果1回合各能使用1次。
-①：自己场上有「龙都 亚特兰蒂斯」或「海」存在的场合才能发动。这张卡从手卡特殊召唤。
-②：这张卡只要在怪兽区域存在，卡名当作「海」使用。
-③：把自己场上最多3张表侧表示的「海」送去墓地才能发动。把那个数量的7星怪兽以外的有「龙都 亚特兰蒂斯」的卡名记述的卡从卡组加入手卡。那之后，可以把场上1张卡送去墓地。"
-101306013,亚特兰蒂斯的龙神-泰达路斯,str1,Invocation Spéciale
-101306013,亚特兰蒂斯的龙神-泰达路斯,str2,Effet d'ajout à la main
-101306013,亚特兰蒂斯的龙神-泰达路斯,str3,Envoyer la carte sélectionnée au Cimetière ?
-101306014,亚特兰蒂斯的战将,name,亚特兰蒂斯的战将
-101306014,亚特兰蒂斯的战将,desc,"这个卡名的①③的效果1回合各能使用1次。
-①：把这张卡从手卡丢弃才能发动。把有「龙都 亚特兰蒂斯」的卡名记述的1张魔法·陷阱卡从卡组加入手卡。
-②：这张卡只要在怪兽区域存在，卡名当作「海」使用。
-③：这张卡在墓地存在，自己场上有「海」存在的场合才能发动。这张卡特殊召唤。"
-101306014,亚特兰蒂斯的战将,str1,Effet d'ajout à la main
-101306014,亚特兰蒂斯的战将,str2,Invocation Spéciale
-101306015,亚特兰蒂斯的怪腕,name,亚特兰蒂斯的怪腕
-101306015,亚特兰蒂斯的怪腕,desc,"这个卡名的①③的效果1回合各能使用1次。
-①：这张卡召唤·特殊召唤的场合，以自己墓地的1只有「龙都 亚特兰蒂斯」的卡名记述的怪兽为对象才能发动。那只怪兽守备表示特殊召唤。
-②：这张卡只要在怪兽区域存在，卡名当作「海」使用。
-③：对方把怪兽的效果发动时，把场上·墓地的这张卡除外，把自己场上1张表侧表示的「海」送去墓地才能发动。那个效果无效。"
-101306015,亚特兰蒂斯的怪腕,str1,Invocation Spéciale
-101306015,亚特兰蒂斯的怪腕,str2,Annuler l'effet
-101306016,亚特兰蒂斯的妖涡,name,亚特兰蒂斯的妖涡
-101306016,亚特兰蒂斯的妖涡,desc,"这个卡名的①③的效果1回合各能使用1次。
-①：这张卡召唤·特殊召唤的场合才能发动。从卡组把1张「亚特兰蒂斯的妖涡」以外的有「龙都 亚特兰蒂斯」的卡名记述的卡送去墓地。
-②：这张卡只要在怪兽区域存在，卡名当作「海」使用。
-③：这张卡被送去墓地的场合，若自己场上有「海」存在则能发动。从手卡把1只水属性怪兽特殊召唤。"
-101306016,亚特兰蒂斯的妖涡,str1,Envoyer au Cimetière
-101306016,亚特兰蒂斯的妖涡,str2,Invocation Spéciale
+101306009,Akasuna l'Asutra Divin Doré,name,Akasuna l'Asutra Divin Doré
+101306009,Akasuna l'Asutra Divin Doré,desc,"Vous pouvez Invoquer Spécialement cette carte (depuis votre main) en révélant 1 carte face verso que vous contrôlez et en la renvoyant à la main/Extra Deck.
+Vous ne pouvez Invoquer Spécialement ""Akasuna l'Asutra Divin Doré"" qu'une fois par tour de cette façon.
+Vous ne pouvez utiliser chacun des effets suivants de ""Akasuna l'Asutra Divin Doré"" qu'une fois par tour.
+Durant la Main Phase (Effet Rapide) : vous pouvez envoyer 1 Piège depuis votre main ou Terrain face verso au Cimetière ; changez tous les monstres face recto contrôlés par votre adversaire en Position de Défense face verso.
+Durant votre End Phase : vous pouvez Poser 1 Piège ""Asutra"" depuis votre Deck."
+101306009,Akasuna l'Asutra Divin Doré,str2,Mettre en Position face verso
+101306009,Akasuna l'Asutra Divin Doré,str3,Poser
+101306010,Kuzuha l'Asutra Divine Envoûtante,name,Kuzuha l'Asutra Divine Envoûtante
+101306010,Kuzuha l'Asutra Divine Envoûtante,desc,"Vous pouvez Invoquer Spécialement cette carte (depuis votre main) en révélant 1 carte face verso que vous contrôlez et en la renvoyant à la main/Extra Deck.
+Vous ne pouvez Invoquer Spécialement ""Kuzuha l'Asutra Divine Envoûtante"" qu'une fois par tour de cette façon.
+Vous ne pouvez utiliser chacun des effets suivants de ""Kuzuha l'Asutra Divine Envoûtante"" qu'une fois par tour.
+Vous pouvez cibler max. 1 carte sur le Terrain pour chaque 2 cartes face verso sur le Terrain ; détruisez-les.
+Durant votre End Phase : vous pouvez cibler 1 Piège ""Asutra"" dans votre Cimetière ; Posez-le."
+101306010,Kuzuha l'Asutra Divine Envoûtante,str2,Détruire
+101306010,Kuzuha l'Asutra Divine Envoûtante,str3,Poser
+101306011,Yoa l'Asutra Divin Épidémique,name,Yoa l'Asutra Divin Épidémique
+101306011,Yoa l'Asutra Divin Épidémique,desc,"Vous pouvez Invoquer Spécialement cette carte (depuis votre main) en révélant 1 carte face verso que vous contrôlez et en la renvoyant à la main/Extra Deck.
+Vous ne pouvez Invoquer Spécialement ""Yoa l'Asutra Divin Épidémique"" qu'une fois par tour de cette façon.
+Vous ne pouvez utiliser chacun des effets suivants de ""Yoa l'Asutra Divin Épidémique"" qu'une fois par tour.
+Durant votre Main Phase : vous pouvez Poser 1 Magie/Piège ""Asutra"" depuis votre Deck.
+Durant le tour de votre adversaire (Effet Rapide) : vous pouvez cibler 1 monstre face recto sur le Terrain ; augmentez ou réduisez son Niveau de 1."
+101306011,Yoa l'Asutra Divin Épidémique,str2,Poser
+101306011,Yoa l'Asutra Divin Épidémique,str3,Changer le Niveau
+101306011,Yoa l'Asutra Divin Épidémique,str4,Augmenter le Niveau
+101306011,Yoa l'Asutra Divin Épidémique,str5,Diminuer le Niveau
+101306012,Mikumari l'Asutra Divine Scelleuse,name,Mikumari l'Asutra Divine Scelleuse
+101306012,Mikumari l'Asutra Divine Scelleuse,desc,"Vous pouvez Invoquer Spécialement cette carte (depuis votre main) en révélant 1 carte face verso que vous contrôlez et en la renvoyant à la main/Extra Deck.
+Vous ne pouvez Invoquer Spécialement ""Mikumari l'Asutra Divine Scelleuse"" qu'une fois par tour de cette façon.
+Vous ne pouvez utiliser chacun des effets suivants de ""Mikumari l'Asutra Divine Scelleuse"" qu'une fois par tour.
+Durant votre Main Phase : vous pouvez ajouter 1 monstre ""Asutra"" non-Wyrm depuis votre Deck à votre main.
+Si cette carte est envoyée au Cimetière comme Matériel Synchro pour un monstre ""Asutra"" : vous pouvez cibler 1 Piège Normal dans votre Cimetière ; Posez-le."
+101306012,Mikumari l'Asutra Divine Scelleuse,str2,Ajouter à la main
+101306012,Mikumari l'Asutra Divine Scelleuse,str3,Poser
+101306013,Seigneur Dragon d'Atlantis - Dédale,name,Seigneur Dragon d'Atlantis - Dédale
+101306013,Seigneur Dragon d'Atlantis - Dédale,desc,"Le nom de cette carte devient ""Umi"" tant qu'elle est dans la Zone Monstre.
+Vous ne pouvez utiliser chacun des effets suivants de ""Seigneur Dragon d'Atlantis - Dédale"" qu'une fois par tour.
+Si vous contrôlez ""Atlantis, la Ville du Dragon"" ou ""Umi"" : vous pouvez Invoquer Spécialement cette carte depuis votre main.
+Vous pouvez envoyer max. 3 ""Umi"" face recto que vous contrôlez au Cimetière ; ajoutez autant de cartes qui mentionnent ""Atlantis, la Ville du Dragon"" (monstres de Niveau 7 exclus) depuis votre Deck à votre main, puis vous pouvez envoyer 1 carte sur le Terrain au Cimetière."
+101306013,Seigneur Dragon d'Atlantis - Dédale,str1,Invocation Spéciale
+101306013,Seigneur Dragon d'Atlantis - Dédale,str2,Effet d'ajout à la main
+101306013,Seigneur Dragon d'Atlantis - Dédale,str3,Envoyer la carte sélectionnée au Cimetière ?
+101306014,Général d'Atlantis,name,Général d'Atlantis
+101306014,Général d'Atlantis,desc,"Le nom de cette carte devient ""Umi"" tant qu'elle est dans la Zone Monstre.
+Vous ne pouvez utiliser chacun des effets suivants de ""Général d'Atlantis"" qu'une fois par tour.
+Vous pouvez défausser cette carte ; ajoutez 1 Magie/Piège qui mentionne ""Atlantis, la Ville du Dragon"" depuis votre Deck à votre main.
+Si cette carte est dans votre Cimetière et que vous contrôlez ""Umi"" : vous pouvez Invoquer Spécialement cette carte."
+101306014,Général d'Atlantis,str1,Effet d'ajout à la main
+101306014,Général d'Atlantis,str2,Invocation Spéciale
+101306015,Bras Monstrueux d'Atlantis,name,Bras Monstrueux d'Atlantis
+101306015,Bras Monstrueux d'Atlantis,desc,"Le nom de cette carte devient ""Umi"" tant qu'elle est dans la Zone Monstre.
+Vous ne pouvez utiliser chacun des effets suivants de ""Bras Monstrueux d'Atlantis"" qu'une fois par tour.
+Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez cibler 1 monstre qui mentionne ""Atlantis, la Ville du Dragon"" dans votre Cimetière ; Invoquez-le Spécialement en Position de Défense.
+Lorsque votre adversaire active un effet de monstre (Effet Rapide) : vous pouvez bannir cette carte depuis votre Terrain ou Cimetière et envoyer 1 ""Umi"" face recto que vous contrôlez au Cimetière ; annulez l'effet."
+101306015,Bras Monstrueux d'Atlantis,str1,Invocation Spéciale
+101306015,Bras Monstrueux d'Atlantis,str2,Annuler l'effet
+101306016,Vortex Démoniaque d'Atlantis,name,Vortex Démoniaque d'Atlantis
+101306016,Vortex Démoniaque d'Atlantis,desc,"Le nom de cette carte devient ""Umi"" tant qu'elle est dans la Zone Monstre.
+Vous ne pouvez utiliser chacun des effets suivants de ""Vortex Démoniaque d'Atlantis"" qu'une fois par tour.
+Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez envoyer 1 carte qui mentionne ""Atlantis, la Ville du Dragon"" (""Vortex Démoniaque d'Atlantis"" exclu) depuis votre Deck au Cimetière.
+Si cette carte est envoyée au Cimetière et que vous contrôlez ""Umi"" : vous pouvez Invoquer Spécialement 1 monstre EAU depuis votre main."
+101306016,Vortex Démoniaque d'Atlantis,str1,Envoyer au Cimetière
+101306016,Vortex Démoniaque d'Atlantis,str2,Invocation Spéciale
 101306021,Dogma de la Mort - HÉROS de la Destinée,name,Dogma de la Mort - HÉROS de la Destinée
 101306021,Dogma de la Mort - HÉROS de la Destinée,desc,"Ni Invocable Normalement ni Posable Normalement.
 Uniquement Invocable Spécialement (depuis votre main ou Cimetière) en bannissant 3 monstres Guerrier et/ou TÉNÈBRES depuis votre Cimetière.
@@ -381,7 +415,7 @@ Vous ne pouvez utiliser chaque effet de ""Servant du Cuirassé - HÉROS de la De
 Durant votre Main Phase : vous pouvez dévoiler les 5 cartes du dessus de votre Deck, et si vous le faites, vous pouvez Invoquer Spécialement 1 monstre Rocher de max. Niveau 4 dévoilé, et aussi, placez les cartes restantes au-dessous de votre Deck dans l'ordre de votre choix.
 Vous ne pouvez utiliser chaque effet de ""Guide Inflexcipateur"" qu'une fois par tour."
 101306024,Guide Inflexcipateur,str1,Invocation Spéciale
-101306024,Guide Inflexcipateur,str2,Excaver le Deck
+101306024,Guide Inflexcipateur,str2,翻卡组
 101306024,Guide Inflexcipateur,str3,Invoquer Spécialement le monstre ?
 101306025,Cristal Inflexcipateur - Tiamite,name,Cristal Inflexcipateur - Tiamite
 101306025,Cristal Inflexcipateur - Tiamite,desc,"Si cette carte est Invoquée Spécialement par l'effet d'une carte ""Inflexcipateur"" : vous pouvez ajouter 1 carte ""Inflexcipateur"" (""Cristal Inflexcipateur - Tiamite"" exclu) depuis votre Deck à votre main, puis vous pouvez Invoquer Spécialement 1 monstre Rocher depuis votre main.
@@ -404,6 +438,20 @@ Vous ne pouvez Invoquer Spécialement ""Cuirassé - HÉROS de la Destinée"" qu'
 Si cette carte est Invoquée Spécialement : vous pouvez ajouter 2 monstres ""HÉROS de la Destinée"" et/ou cartes qui mentionnent un nom de carte de monstre ""HÉROS de la Destinée"" depuis votre Deck à votre main.
 L'ATK de cette carte devient la somme des ATK d'origine de tous les autres monstres ""HÉROS de la Destinée"" dans votre Terrain et Cimetière."
 101306037,Cuirassé - HÉROS de la Destinée,str1,Ajouter à la main
+101306039,Susanoo Asutraja,name,Susanoo Asutraja
+101306039,Susanoo Asutraja,desc,"1 Syntoniseur + 1+ non-Syntoniseur
+Si cette carte est Invoquée par Synchronisation : vous pouvez bannir un nombre de votre choix de Pièges depuis votre Cimetière ; bannissez autant de cartes sur le Terrain.
+Durant la End Phase : vous pouvez cibler max. 2 monstres et/ou Pièges ""Asutra"" dans votre Cimetière et/ou bannissement ; pour chacun d'eux, soit ajoutez-le à votre main soit Posez-le, puis si vous avez ciblé 2 cartes, renvoyez cette carte à l'Extra Deck.
+Vous ne pouvez utiliser chaque effet de ""Susanoo Asutraja"" qu'une fois par tour."
+101306039,Susanoo Asutraja,str1,Détruire
+101306039,Susanoo Asutraja,str2,Recycler
+101306040,Mikumari no Mikoto Asutraya,name,Mikumari no Mikoto Asutraya
+101306040,Mikumari no Mikoto Asutraya,desc,"1 Syntoniseur + 1+ non-Syntoniseur
+Si cette carte est Invoquée Spécialement : vous pouvez envoyer 1 carte ""Asutra"" depuis votre Deck au Cimetière, et si vous le faites, envoyez 1 carte sur le Terrain au Cimetière.
+Vous ne pouvez utiliser cet effet de ""Mikumari no Mikoto Asutraya"" qu'une fois par tour.
+Si votre adversaire active un effet de monstre : vous pouvez cibler 1 Piège ""Asutra"" dans votre Cimetière ou bannissement, ou s'il y a min. 3 cartes face verso sur le Terrain, vous pouvez cibler 1 Piège dans votre Cimetière à la place ; Posez-le."
+101306040,Mikumari no Mikoto Asutraya,str1,Envoyer au Cimetière
+101306040,Mikumari no Mikoto Asutraya,str2,Poser
 101306041,Éveillé Inflexcipateur - Tiamite,name,Éveillé Inflexcipateur - Tiamite
 101306041,Éveillé Inflexcipateur - Tiamite,desc,"1 Syntoniseur + 1+ non-Syntoniseur
 Si vous avez un monstre TÉNÈBRES dans votre Cimetière : vous pouvez ajouter 1 Magie/Piège ""Inflexcipateur"" depuis votre Deck à votre main.
@@ -422,23 +470,24 @@ Si cette carte détruit un monstre au combat : placez 1 Compteur Couronne sur el
 ● 3 : Renvoyez cette carte à l'Extra Deck, et si vous le faites, piochez 3 cartes."
 101306045,Rapickelavee la Cavalerie Lourde Brillamment Couronnée,str1,Invoquer Xyz en utilisant un monstre Bête comme Matériel ?
 101306045,Rapickelavee la Cavalerie Lourde Brillamment Couronnée,str2,Placer un marqueur
-101306046,苍海龙神-尼奥泰达路斯之怒,name,苍海龙神-尼奥泰达路斯之怒
-101306046,苍海龙神-尼奥泰达路斯之怒,desc,"怪兽4只
-①：这张卡连接召唤的场合才能发动。从自己墓地把有「龙都 亚特兰蒂斯」的卡名记述的最多3只怪兽在作为这张卡所连接区的自己场上特殊召唤。这个效果的发动后，直到回合结束时自己不能把怪兽特殊召唤。
-②：这张卡只要在怪兽区域存在，卡名当作「海」使用。
-③：自己·对方回合1次，把自己场上1张表侧表示的「海」送去墓地才能发动。「海」以外的场上的卡全部送去墓地。"
-101306046,苍海龙神-尼奥泰达路斯之怒,str1,Appliquer comme Link-3 pour une Invocation Lien ({CARD})
-101306046,苍海龙神-尼奥泰达路斯之怒,str2,Invocation Spéciale
-101306046,苍海龙神-尼奥泰达路斯之怒,str3,Envoyer au Cimetière
-101306047,真海龙骑-泰达路斯,name,真海龙骑-泰达路斯
-101306047,真海龙骑-泰达路斯,desc,"水属性怪兽3只
-这个卡名的①③的效果1回合各能使用1次。
-①：这张卡连接召唤的场合才能发动。从卡组把有「龙都 亚特兰蒂斯」的卡名记述的1只怪兽特殊召唤。
-②：这张卡只要在怪兽区域存在，卡名当作「海」使用。
-③：自己·对方回合，从自己场上把1张表侧表示的「海」送去墓地才能发动（双方不能对应这个效果的发动把效果发动）。对方手卡全部丢弃，对方抽出那个数量。"
-101306047,真海龙骑-泰达路斯,str1,Appliquer comme Link-2 pour une Invocation Lien ({CARD})
-101306047,真海龙骑-泰达路斯,str2,Invocation Spéciale
-101306047,真海龙骑-泰达路斯,str3,Votre adversaire défausse et pioche
+101306046,eigneur Dragon Océan Bleu - Néo-Dédale Rage,name,eigneur Dragon Océan Bleu - Néo-Dédale Rage
+101306046,eigneur Dragon Océan Bleu - Néo-Dédale Rage,desc,"4 monstres
+Si cette carte est Invoquée par Lien : vous pouvez Invoquer Spécialement max. 3 monstres qui mentionnent ""Atlantis, la Ville du Dragon"" depuis votre Cimetière dans vos zones pointées par cette carte, et aussi, vous ne pouvez pas Invoquer Spécialement le reste de ce tour.
+Le nom de cette carte devient ""Umi"" tant qu'elle est dans la Zone Monstre.
+Une fois par tour (Effet Rapide) : vous pouvez envoyer 1 ""Umi"" face recto que vous contrôlez au Cimetière ; envoyez toutes les cartes sur le Terrain au Cimetière (""Umi"" exclu)."
+101306046,eigneur Dragon Océan Bleu - Néo-Dédale Rage,str1,"Convient pour l'invocation Lien 3 (Atlantis, la Ville du Dragon)"
+101306046,eigneur Dragon Océan Bleu - Néo-Dédale Rage,str2,Invocation Spéciale
+101306046,eigneur Dragon Océan Bleu - Néo-Dédale Rage,str3,Envoyer au Cimetière
+101306047,Soldat Dragon-Levia - Dédale,name,Soldat Dragon-Levia - Dédale
+101306047,Soldat Dragon-Levia - Dédale,desc,"3 monstres EAU
+Le nom de cette carte devient ""Umi"" tant qu'elle est dans la Zone Monstre.
+Vous ne pouvez utiliser chacun des effets suivants de ""Soldat Dragon-Levia - Dédale"" qu'une fois par tour.
+Si cette carte est Invoquée par Lien : vous pouvez Invoquer Spécialement 1 monstre qui mentionne ""Atlantis, la Ville du Dragon"" depuis votre Deck.
+Durant la Main Phase (Effet Rapide) : vous pouvez envoyer 1 ""Umi"" face recto que vous contrôlez au Cimetière ; défaussez toute la main de votre adversaire, et s'il le fait, il pioche le même nombre de cartes.
+Aucun joueur ne peut activer ni de cartes ni d'effets en réponse à l'activation de cet effet."
+101306047,Soldat Dragon-Levia - Dédale,str1,"Convient pour une utilisation en tant que Lien 2 pour l'Invocation Lien (Atlantis, la Ville du Dragon)"
+101306047,Soldat Dragon-Levia - Dédale,str2,Invocation Spéciale
+101306047,Soldat Dragon-Levia - Dédale,str3,L'adversaire défausse une carte et en pioche une.
 101306049,Lumineuse Inflexcipateur,name,Lumineuse Inflexcipateur
 101306049,Lumineuse Inflexcipateur,desc,"2 Monstres à Effet (un Monstre Synchro inclus)
 Si cette carte est Invoquée par Lien, ou un ou plusieurs monstres sont Invoqués Spécialement dans une ou plusieurs zones pointées par cette carte : vous pouvez cibler 1 monstre dans votre Terrain ou Cimetière qui a un Niveau ; Invoquez Spécialement 1 ""Jeton Miroitement"" (Rocher/LUMIÈRE/ATK 0/DEF 0) du même Niveau.
@@ -466,26 +515,32 @@ Si une ou plusieurs cartes que vous contrôlez qui mentionnent ""Magicien du Tem
 101306054,Bouc Émissaire Endormi,str1,Activer
 101306054,Bouc Émissaire Endormi,str2,Sélectionnez le nombre d'Invocations Spéciales
 101306054,Bouc Émissaire Endormi,str3,Invoquer Spécialement {CARD} ?
-101306058,龙都 亚特兰蒂斯,name,龙都 亚特兰蒂斯
-101306058,龙都 亚特兰蒂斯,desc,"这个卡名的③的效果1回合只能使用1次。
-①：只要有「龙都 亚特兰蒂斯」的卡名记述的怪兽在场上存在，双方的手卡·场上的怪兽的等级下降1星。
-②：只要这张卡在场地区域存在，自己要把「泰达路斯」连接怪兽连接召唤的场合，必要的连接素材数量可以减少1个，连接素材的条件可以减少1只。
-③：这张卡在墓地存在，自己场上有「海」存在的场合才能发动。这张卡在自己场上表侧表示放置。"
-101306058,龙都 亚特兰蒂斯,str2,Placer
-101306059,呼应的传说之都,name,呼应的传说之都
-101306059,呼应的传说之都,desc,"这个卡名的①②的效果1回合各能使用1次。
-①：从卡组把有「龙都 亚特兰蒂斯」的卡名记述的1只怪兽加入手卡。自己场上有「龙都 亚特兰蒂斯」存在的场合，可以再把对方场上1只效果怪兽的效果直到回合结束时无效。
-②：自己场上有「海」存在的场合，把墓地的这张卡除外才能发动。自己场上的全部水属性怪兽的攻击力·守备力上升500。"
-101306059,呼应的传说之都,str1,Effet d'ajout à la main
-101306059,呼应的传说之都,str2,Augmenter l'ATK/DEF
-101306059,呼应的传说之都,str3,Annuler un monstre ?
-101306060,显现的传说之都,name,显现的传说之都
-101306060,显现的传说之都,desc,"这个卡名的②③的效果1回合各能使用1次。
-①：这张卡只要在魔法与陷阱区域存在，卡名当作「海」使用。
-②：自己主要阶段才能发动。从卡组把1张「龙都  亚特兰蒂斯」或「海」在自己的场地区域表侧表示放置。
-③：这张卡被送去墓地的场合才能发动。从卡组把1只海龙族·7星怪兽加入手卡。"
-101306060,显现的传说之都,str1,Effet de placement
-101306060,显现的传说之都,str2,Effet d'ajout à la main
+101306057,Trichiliocosme Asutrashen,name,Trichiliocosme Asutrashen
+101306057,Trichiliocosme Asutrashen,desc,"Vous pouvez cibler un nombre de votre choix de cartes face verso que vous contrôlez ; ajoutez un nombre de cartes ""Asutra"" de noms différents l'une de l'autre (Magies de Terrain exclues) depuis votre Deck à votre main, égal au nombre de cartes ciblées qui sont toujours face verso, puis envoyez les cartes face verso au Cimetière.
+Si une ou plusieurs cartes deviennent Posées sur le Terrain, tant que vous contrôlez un monstre ""Asutra"" et une carte face verso : vous pouvez cibler 1 carte sur le Terrain ; renvoyez-la à la main.
+Vous ne pouvez utiliser chaque effet de ""Trichiliocosme Asutrashen"" qu'une fois par tour."
+101306057,Trichiliocosme Asutrashen,str1,Ajouter à la main
+101306057,Trichiliocosme Asutrashen,str2,Renvoyer à la main
+101306058,"Atlantis, la Ville du Dragon",name,"Atlantis, la Ville du Dragon"
+101306058,"Atlantis, la Ville du Dragon",desc,"Tant qu'un monstre qui mentionne ""Atlantis, la Ville du Dragon"" est sur le Terrain, réduisez le Niveau de tous les monstres dans la main et Terrain de chaque joueur de 1.
+Si vous Invoquez par Lien un monstre ""Dédale"", vous pouvez réduire la nécessité de Matériel listée de 1 et l'Invoquer par Lien avec 1 Matériel en moins.
+Si cette carte est dans votre Cimetière et que vous contrôlez ""Umi"" : vous pouvez placer cette carte face recto sur votre Terrain.
+Vous ne pouvez utiliser cet effet de ""Atlantis, la Ville du Dragon"" qu'une fois par tour."
+101306058,"Atlantis, la Ville du Dragon",str2,Placer
+101306059,Appel d'Atlantis,name,Appel d'Atlantis
+101306059,Appel d'Atlantis,desc,"Ajoutez 1 monstre qui mentionne ""Atlantis, la Ville du Dragon"" depuis votre Deck à votre main, puis si vous contrôlez ""Atlantis, la Ville du Dragon"", vous pouvez annuler les effets d'1 Monstre à Effet contrôlé par votre adversaire jusqu'à la fin de ce tour.
+Si vous contrôlez ""Umi"" : vous pouvez bannir cette carte depuis votre Cimetière ; tous les monstres EAU que vous contrôlez actuellement gagnent 500 ATK/DEF.
+Vous ne pouvez utiliser chaque effet de ""Appel d'Atlantis"" qu'une fois par tour."
+101306059,Appel d'Atlantis,str1,Effet d'ajout à la main
+101306059,Appel d'Atlantis,str2,Augmenter l'ATK/DEF
+101306059,Appel d'Atlantis,str3,Annuler un monstre ?
+101306060,Avènement d'Atlantis,name,Avènement d'Atlantis
+101306060,Avènement d'Atlantis,desc,"Le nom de cette carte devient ""Umi"" tant qu'elle est dans la Zone Magie & Piège.
+Vous ne pouvez utiliser chacun des effets suivants de ""Avènement d'Atlantis"" qu'une fois par tour.
+Durant votre Main Phase : vous pouvez placer 1 ""Atlantis, la Ville du Dragon"" ou ""Umi"" depuis votre Deck face recto dans votre Zone Terrain.
+Si cette carte est envoyée au Cimetière : vous pouvez ajouter 1 monstre Serpent de Mer de Niveau 7 depuis votre Deck à votre main."
+101306060,Avènement d'Atlantis,str1,Effet de placement
+101306060,Avènement d'Atlantis,str2,Effet d'ajout à la main
 101306062,Ville-Prison de la Tour de l'Horloge - Ville Ténébreuse,name,Ville-Prison de la Tour de l'Horloge - Ville Ténébreuse
 101306062,Ville-Prison de la Tour de l'Horloge - Ville Ténébreuse,desc,"Chaque fois que vous Invoquez Spécialement un ou plusieurs monstres ""HÉROS de la Destinée"" de min. Niveau 8 : tous les monstres Guerrier que vous contrôlez actuellement gagnent 300 ATK.
 Vous ne pouvez utiliser chacun des effets suivants de ""Ville-Prison de la Tour de l'Horloge - Ville Ténébreuse"" qu'une fois par tour.
@@ -514,13 +569,40 @@ Si vous gagnez, vous pouvez Invoquer Spécialement 1 monstre qui mentionne ""Mag
 101306071,Boîte du Renversement,str1,Placer un marqueur
 101306071,Boîte du Renversement,str2,Lancer une pièce
 101306071,Boîte du Renversement,str3,Sélectionnez le nombre de compteurs à placer
-101306076,海龙神的大涡,name,海龙神的大涡
-101306076,海龙神的大涡,desc,"这个卡名的①②的效果1回合只能有1次使用其中任意1个。
-①：自己场上「龙都 亚特兰蒂斯」存在，对方把怪兽召唤·特殊召唤之际才能发动。那个无效，那些怪兽破坏。那之后，自己场上有水属性连接怪兽存在的场合，可以把水属性怪兽以外的场上的怪兽全部破坏。
-②：把墓地的这张卡除外，把自己场上1张表侧表示的「海」送去墓地，以对方场上1只怪兽为对象才能发动。那只怪兽送去墓地。"
-101306076,海龙神的大涡,str1,Annuler l'Invocation
-101306076,海龙神的大涡,str2,Envoyer au Cimetière
-101306076,海龙神的大涡,str3,Détruire ce monstre ?
+101306073,Poison d'Insecte Asutra,name,Poison d'Insecte Asutra
+101306073,Poison d'Insecte Asutra,desc,"Activez 1 de ces effets ;
+● Invoquez Spécialement cette carte comme un Monstre Normal (Insecte/Syntoniseur/TÉNÈBRES/Niveau 1/ATK 0/DEF 0) (cette carte n'est PAS traitée comme un Piège), puis immédiatement après la résolution de cet effet, vous pouvez Invoquer par Synchronisation 1 Monstre Synchro.
+● Ciblez 1 monstre ""Asutra"" dans votre Cimetière ; Invoquez-le Spécialement.
+Vous ne pouvez activer qu'1 ""Poison d'Insecte Asutra"" par tour."
+101306073,Poison d'Insecte Asutra,str1,Activer
+101306073,Poison d'Insecte Asutra,str2,Invoquer Spécialement en tant que monstre
+101306073,Poison d'Insecte Asutra,str3,Invoquer Spécialement 1 monstre depuis le Cimetière
+101306073,Poison d'Insecte Asutra,str4,Invocation Synchro ?
+101306074,Rugissement Maudit Asutra,name,Rugissement Maudit Asutra
+101306074,Rugissement Maudit Asutra,desc,"Activez 1 de ces effets ;
+● Invoquez Spécialement cette carte comme un Monstre Normal (Magicien/Syntoniseur/TÉNÈBRES/Niveau 1/ATK 0/DEF 0) (cette carte n'est PAS traitée comme un Piège), puis immédiatement après la résolution de cet effet, vous pouvez Invoquer par Synchronisation 1 Monstre Synchro.
+● Si vous avez un monstre ""Asutra"" dans votre Terrain ou Cimetière : ciblez 1 monstre contrôlé par votre adversaire ; détruisez-le.
+Vous ne pouvez activer qu'1 ""Rugissement Maudit Asutra"" par tour."
+101306074,Rugissement Maudit Asutra,str1,Activer
+101306074,Rugissement Maudit Asutra,str2,Invoquer Spécialement en tant que monstre
+101306074,Rugissement Maudit Asutra,str3,Effet de destruction
+101306074,Rugissement Maudit Asutra,str4,Invocation Synchro ?
+101306075,Domaine Divin Asutra,name,Domaine Divin Asutra
+101306075,Domaine Divin Asutra,desc,"Activez 1 de ces effets ;
+● Invoquez Spécialement cette carte comme un Monstre Normal (Aqua/Syntoniseur/TÉNÈBRES/Niveau 1/ATK 0/DEF 0) (cette carte n'est PAS traitée comme un Piège), puis immédiatement après la résolution de cet effet, vous pouvez Invoquer par Synchronisation 1 Monstre Synchro.
+● Lorsque votre adversaire active une Carte Magie/Piège ou effet de Magie/Piège et qu'il ne contrôle aucune carte face verso : annulez l'effet.
+Vous ne pouvez activer qu'1 ""Domaine Divin Asutra"" par tour."
+101306075,Domaine Divin Asutra,str1,Activer
+101306075,Domaine Divin Asutra,str2,Invoquer Spécialement en tant que monstre
+101306075,Domaine Divin Asutra,str3,Annuler l'effet
+101306075,Domaine Divin Asutra,str4,Invocation Synchro ?
+101306076,Maelstrom de Dédale,name,Maelstrom de Dédale
+101306076,Maelstrom de Dédale,desc,"Lorsque votre adversaire va Invoquer Normalement ou Spécialement un ou plusieurs monstres tant que vous contrôlez ""Atlantis, la Ville du Dragon"" : annulez l'Invocation, et si vous le faites, détruisez les monstres, puis si vous contrôlez un Monstre Lien EAU, vous pouvez détruire tous les monstres non-EAU sur le Terrain.
+Vous pouvez bannir cette carte depuis votre Cimetière et envoyer 1 ""Umi"" face recto que vous contrôlez au Cimetière, puis ciblez 1 monstre contrôlé par votre adversaire ; envoyez-le au Cimetière.
+Vous ne pouvez utiliser qu'1 effet de ""Maelstrom de Dédale"" par tour, et uniquement une fois le tour."
+101306076,Maelstrom de Dédale,str1,Annuler l'Invocation
+101306076,Maelstrom de Dédale,str2,Envoyer au Cimetière
+101306076,Maelstrom de Dédale,str3,Détruire ce monstre ?
 101306149,Jeton Miroitement,name,Jeton Miroitement
 101306149,Jeton Miroitement,desc,Invoqué Spécialement par l'effet de « Lumineuse Inflexcipateur ».
 101306154,Jeton Bouc Émissaire,name,Jeton Bouc Émissaire
