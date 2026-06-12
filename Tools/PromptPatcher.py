@@ -904,6 +904,16 @@ def build_translation_pack(lang: str):
             "ja": "このカードを特殊召喚",
             "kr": "이 카드를 특수 소환",
         },
+        "当作怪兽特殊召唤": {
+            "en": "Special Summon as a monster",
+            "fr": "Invoquer Spécialement comme monstre",
+            "de": "Als Monster als Spezialbeschwörung beschwören",
+            "es": "Invocar de Modo Especial como monstruo",
+            "pt": "Invocar por Invocação Especial como monstro",
+            "it": "Evocare Specialmente come mostro",
+            "ja": "モンスターとして特殊召喚",
+            "kr": "몬스터로 특수 소환",
+        },
         "这张卡破坏": {
             "en": "Destroy this card",
             "fr": "Détruire cette carte",
