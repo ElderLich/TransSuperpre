@@ -415,7 +415,7 @@ Vous ne pouvez utiliser chaque effet de ""Servant du Cuirassé - HÉROS de la De
 Durant votre Main Phase : vous pouvez dévoiler les 5 cartes du dessus de votre Deck, et si vous le faites, vous pouvez Invoquer Spécialement 1 monstre Rocher de max. Niveau 4 dévoilé, et aussi, placez les cartes restantes au-dessous de votre Deck dans l'ordre de votre choix.
 Vous ne pouvez utiliser chaque effet de ""Guide Inflexcipateur"" qu'une fois par tour."
 101306024,Guide Inflexcipateur,str1,Invocation Spéciale
-101306024,Guide Inflexcipateur,str2,翻卡组
+101306024,Guide Inflexcipateur,str2,Excaver le Deck
 101306024,Guide Inflexcipateur,str3,Invoquer Spécialement le monstre ?
 101306025,Cristal Inflexcipateur - Tiamite,name,Cristal Inflexcipateur - Tiamite
 101306025,Cristal Inflexcipateur - Tiamite,desc,"Si cette carte est Invoquée Spécialement par l'effet d'une carte ""Inflexcipateur"" : vous pouvez ajouter 1 carte ""Inflexcipateur"" (""Cristal Inflexcipateur - Tiamite"" exclu) depuis votre Deck à votre main, puis vous pouvez Invoquer Spécialement 1 monstre Rocher depuis votre main.
@@ -475,7 +475,7 @@ Si cette carte détruit un monstre au combat : placez 1 Compteur Couronne sur el
 Si cette carte est Invoquée par Lien : vous pouvez Invoquer Spécialement max. 3 monstres qui mentionnent ""Atlantis, la Ville du Dragon"" depuis votre Cimetière dans vos zones pointées par cette carte, et aussi, vous ne pouvez pas Invoquer Spécialement le reste de ce tour.
 Le nom de cette carte devient ""Umi"" tant qu'elle est dans la Zone Monstre.
 Une fois par tour (Effet Rapide) : vous pouvez envoyer 1 ""Umi"" face recto que vous contrôlez au Cimetière ; envoyez toutes les cartes sur le Terrain au Cimetière (""Umi"" exclu)."
-101306046,eigneur Dragon Océan Bleu - Néo-Dédale Rage,str1,"Convient pour l'invocation Lien 3 (Atlantis, la Ville du Dragon)"
+101306046,eigneur Dragon Océan Bleu - Néo-Dédale Rage,str1,Appliquer comme Link-3 pour une Invocation Lien ({CARD})
 101306046,eigneur Dragon Océan Bleu - Néo-Dédale Rage,str2,Invocation Spéciale
 101306046,eigneur Dragon Océan Bleu - Néo-Dédale Rage,str3,Envoyer au Cimetière
 101306047,Soldat Dragon-Levia - Dédale,name,Soldat Dragon-Levia - Dédale
@@ -485,9 +485,9 @@ Vous ne pouvez utiliser chacun des effets suivants de ""Soldat Dragon-Levia - D�
 Si cette carte est Invoquée par Lien : vous pouvez Invoquer Spécialement 1 monstre qui mentionne ""Atlantis, la Ville du Dragon"" depuis votre Deck.
 Durant la Main Phase (Effet Rapide) : vous pouvez envoyer 1 ""Umi"" face recto que vous contrôlez au Cimetière ; défaussez toute la main de votre adversaire, et s'il le fait, il pioche le même nombre de cartes.
 Aucun joueur ne peut activer ni de cartes ni d'effets en réponse à l'activation de cet effet."
-101306047,Soldat Dragon-Levia - Dédale,str1,"Convient pour une utilisation en tant que Lien 2 pour l'Invocation Lien (Atlantis, la Ville du Dragon)"
+101306047,Soldat Dragon-Levia - Dédale,str1,Appliquer comme Link-2 pour une Invocation Lien ({CARD})
 101306047,Soldat Dragon-Levia - Dédale,str2,Invocation Spéciale
-101306047,Soldat Dragon-Levia - Dédale,str3,L'adversaire défausse une carte et en pioche une.
+101306047,Soldat Dragon-Levia - Dédale,str3,Votre adversaire défausse et pioche
 101306049,Lumineuse Inflexcipateur,name,Lumineuse Inflexcipateur
 101306049,Lumineuse Inflexcipateur,desc,"2 Monstres à Effet (un Monstre Synchro inclus)
 Si cette carte est Invoquée par Lien, ou un ou plusieurs monstres sont Invoqués Spécialement dans une ou plusieurs zones pointées par cette carte : vous pouvez cibler 1 monstre dans votre Terrain ou Cimetière qui a un Niveau ; Invoquez Spécialement 1 ""Jeton Miroitement"" (Rocher/LUMIÈRE/ATK 0/DEF 0) du même Niveau.
@@ -575,7 +575,7 @@ Si vous gagnez, vous pouvez Invoquer Spécialement 1 monstre qui mentionne ""Mag
 ● Ciblez 1 monstre ""Asutra"" dans votre Cimetière ; Invoquez-le Spécialement.
 Vous ne pouvez activer qu'1 ""Poison d'Insecte Asutra"" par tour."
 101306073,Poison d'Insecte Asutra,str1,Activer
-101306073,Poison d'Insecte Asutra,str2,Invoquer Spécialement en tant que monstre
+101306073,Poison d'Insecte Asutra,str2,Invoquer Spécialement comme monstre
 101306073,Poison d'Insecte Asutra,str3,Invoquer Spécialement 1 monstre depuis le Cimetière
 101306073,Poison d'Insecte Asutra,str4,Invocation Synchro ?
 101306074,Rugissement Maudit Asutra,name,Rugissement Maudit Asutra
@@ -584,7 +584,7 @@ Vous ne pouvez activer qu'1 ""Poison d'Insecte Asutra"" par tour."
 ● Si vous avez un monstre ""Asutra"" dans votre Terrain ou Cimetière : ciblez 1 monstre contrôlé par votre adversaire ; détruisez-le.
 Vous ne pouvez activer qu'1 ""Rugissement Maudit Asutra"" par tour."
 101306074,Rugissement Maudit Asutra,str1,Activer
-101306074,Rugissement Maudit Asutra,str2,Invoquer Spécialement en tant que monstre
+101306074,Rugissement Maudit Asutra,str2,Invoquer Spécialement comme monstre
 101306074,Rugissement Maudit Asutra,str3,Effet de destruction
 101306074,Rugissement Maudit Asutra,str4,Invocation Synchro ?
 101306075,Domaine Divin Asutra,name,Domaine Divin Asutra
@@ -593,7 +593,7 @@ Vous ne pouvez activer qu'1 ""Rugissement Maudit Asutra"" par tour."
 ● Lorsque votre adversaire active une Carte Magie/Piège ou effet de Magie/Piège et qu'il ne contrôle aucune carte face verso : annulez l'effet.
 Vous ne pouvez activer qu'1 ""Domaine Divin Asutra"" par tour."
 101306075,Domaine Divin Asutra,str1,Activer
-101306075,Domaine Divin Asutra,str2,Invoquer Spécialement en tant que monstre
+101306075,Domaine Divin Asutra,str2,Invoquer Spécialement comme monstre
 101306075,Domaine Divin Asutra,str3,Annuler l'effet
 101306075,Domaine Divin Asutra,str4,Invocation Synchro ?
 101306076,Maelstrom de Dédale,name,Maelstrom de Dédale
