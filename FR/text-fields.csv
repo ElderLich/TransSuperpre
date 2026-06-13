@@ -297,6 +297,19 @@ Vous pouvez bannir cette carte depuis votre Cimetière ; révélez un nombre de 
 Vous ne pouvez utiliser chaque effet de ""Graine, Artisanesorcière"" qu'une fois par tour."
 100265002,"Graine, Artisanesorcière",str1,Renvoyer à la main
 100265002,"Graine, Artisanesorcière",str2,Piocher
+100266001,Anciens Secrets,name,Anciens Secrets
+100266001,Anciens Secrets,desc,"Invoquez Spécialement 1 Monstre Normal depuis votre main, Deck ou Cimetière en Position de Défense (si vous Invoquez Spécialement depuis le Deck, il doit être de max. Niveau 4), ou si vous contrôlez une Carte Monstre Normal, vous pouvez appliquer 1 de ces effets à la place.
+● Détruisez tous les monstres contrôlés par votre adversaire.
+● Détruisez toutes les Magies/Pièges contrôlés par votre adversaire.
+● Piochez 2 cartes.
+● Invoquez Spécialement 1 monstre depuis un des Cimetières sur votre Terrain.
+Vous ne pouvez activer qu'1 ""Anciens Secrets"" par tour."
+100266001,Anciens Secrets,str1,Activer
+100266001,Anciens Secrets,str2,Appliquer d'autres effets à la place ?
+100266001,Anciens Secrets,str3,Détruire un monstre
+100266001,Anciens Secrets,str4,Détruire des cartes Magie/Piège
+100266001,Anciens Secrets,str5,Piocher
+100266001,Anciens Secrets,str6,Invocation Spéciale
 101306001,Guerrier Panthère Rapide,name,Guerrier Panthère Rapide
 101306001,Guerrier Panthère Rapide,desc,"Durant la Main Phase (Effet Rapide) : vous pouvez Sacrifier 1 autre monstre depuis votre main ou Terrain, puis activez 1 de ces effets ;
 ● Invoquez Spécialement 1 monstre qui mentionne ""Magicien du Temps des Ténèbres"" (""Guerrier Panthère Rapide"" exclu) depuis votre main ou Deck.
@@ -555,6 +568,10 @@ Si cette carte est dans votre Cimetière : vous pouvez placer 1 carte depuis vot
 Vous ne pouvez utiliser chaque effet de ""Copains Inflexcipateur"" qu'une fois par tour."
 101306063,Copains Inflexcipateur,str1,Effet d'ajout à la main
 101306063,Copains Inflexcipateur,str2,Renvoyer à la main
+101306068,Trunade Spatiale,name,Trunade Spatiale
+101306068,Trunade Spatiale,desc,"Renvoyez max. 2 cartes sur le Terrain à la main, puis chaque joueur place un nombre de cartes depuis sa main au-dessous de son Deck dans l'ordre de son choix égal au nombre de cartes qui ont été renvoyées à sa main.
+Vous ne pouvez activer qu'1 ""Trunade Spatiale"" par tour."
+101306068,Trunade Spatiale,str1,Activer
 101306070,Profanateur de Tombes Inutile,name,Profanateur de Tombes Inutile
 101306070,Profanateur de Tombes Inutile,desc,"Envoyez 1 carte qui mentionne ""Magicien du Temps des Ténèbres"" (""Profanateur de Tombes Inutile"" exclu) depuis votre Deck au Cimetière, puis vous pouvez Invoquer Spécialement 1 monstre depuis l'un des Cimetières sur votre Terrain.
 Vous pouvez bannir cette carte depuis votre Cimetière ; Posez sur votre Terrain, 1 Magie/Piège qui mentionne ""Magicien du Temps des Ténèbres"" (""Profanateur de Tombes Inutile"" exclu) depuis votre Cimetière, ou 1 Magie/Piège depuis le Cimetière de votre adversaire.
