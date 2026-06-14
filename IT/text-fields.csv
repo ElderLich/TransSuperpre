@@ -290,6 +290,19 @@ Puoi bandire questa carta dal tuo Cimitero; rivela un qualsiasi numero di carte 
 Puoi utilizzare ciascun effetto di ""Stregartigiana Seed"" una sola volta per turno."
 100265002,Stregartigiana Seed,str1,Rimettere in mano
 100265002,Stregartigiana Seed,str2,Pescare
+100266001,古之秘仪,name,古之秘仪
+100266001,古之秘仪,desc,"这个卡名的卡在1回合只能发动1张。
+①：从自己的手卡·卡组·墓地把1只通常怪兽以守备表示特殊召唤（从卡组特殊召唤的场合必须是4星以下）。自己场上有通常怪兽卡存在的场合，可以作为代替从以下效果选1个适用。
+●对方场上的怪兽全部破坏。
+●对方场上的魔法·陷阱卡全部破坏。
+●自己抽2张。
+●从自己或对方墓地把1只怪兽在自己场上特殊召唤。"
+100266001,古之秘仪,str1,Attiva
+100266001,古之秘仪,str2,是否适用其他效果？
+100266001,古之秘仪,str3,Distruggi 1 mostro
+100266001,古之秘仪,str4,Distruggi Carte Magia/Trappola
+100266001,古之秘仪,str5,Pescare
+100266001,古之秘仪,str6,Evocazione Speciale
 101306001,Guerriero Pantera Rapido,name,Guerriero Pantera Rapido
 101306001,Guerriero Pantera Rapido,desc,"Durante la Main Phase (Effetto Rapido): puoi offrire come Tributo 1 altro mostro dalla tua mano o Terreno, poi attiva 1 di questi effetti;
 ● Evoca Specialmente 1 mostro che menziona ""Stregone del Tempo Oscuro"" dalla tua mano o Deck, eccetto ""Guerriero Pantera Rapido"".
@@ -537,6 +550,10 @@ Se questa carta è nel tuo Cimitero: Puoi mettere 1 carta dalla tua mano in cima
 Puoi utilizzare ciascun effetto di ""Compagni Irremovibilatore"" una sola volta per turno."
 101306063,Compagni Irremovibilatore,str1,Effetto di aggiunta alla mano
 101306063,Compagni Irremovibilatore,str2,Rimettere in mano
+101306068,宇宙性飓风,name,宇宙性飓风
+101306068,宇宙性飓风,desc,"这个卡名的卡在1回合只能发动1张。
+①：场上最多2张卡回到手卡。那之后，双方各自，选回到自身手卡数量的自身手卡用喜欢的顺序回到卡组下面。"
+101306068,宇宙性飓风,str1,Attiva
 101306070,Predatore delle Tombe Sciocco,name,Predatore delle Tombe Sciocco
 101306070,Predatore delle Tombe Sciocco,desc,"Manda 1 carta che menziona ""Stregone del Tempo Oscuro"" dal tuo Deck al Cimitero, eccetto ""Predatore delle Tombe Sciocco"", poi puoi Evocare Specialmente 1 mostro da uno qualsiasi dei Cimiteri sul tuo Terreno.
 Puoi bandire questa carta dal tuo Cimitero; Posiziona sul tuo Terreno 1 Magia/Trappola che menziona ""Stregone del Tempo Oscuro"" dal tuo Cimitero, eccetto ""Predatore delle Tombe Sciocco"", oppure 1 Magia/Trappola dal Cimitero del tuo avversario.
