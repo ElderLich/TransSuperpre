@@ -216,6 +216,19 @@ Target 1 ""Archfiend"" monster you control; it gains 600 ATK, then you can destr
 100265002,Witchcrafter Seed,desc,"If this card is Normal or Special Summoned and you control a ""Witchcrafter"" monster other than ""Witchcrafter Seed"", or ""Regulus, the Prince of Endymion"": You can target 1 face-up card on the field; return it to the hand. You can banish this card from your GY; reveal any number of cards in your hand, including a Spell, and shuffle them into the Deck, then draw that many cards. You can only use each effect of ""Witchcrafter Seed"" once per turn."
 100265002,Witchcrafter Seed,str1,Return to the hand
 100265002,Witchcrafter Seed,str2,Draw
+100266001,Ancient Secrets,name,Ancient Secrets
+100266001,Ancient Secrets,desc,"Special Summon 1 Normal Monster from your hand, Deck, or GY in Defense Position (if you Special Summon from the Deck, it must be Level 4 or lower), or if you control a Normal Monster Card, you can apply 1 of these effects instead.
+● Destroy all monsters your opponent controls.
+● Destroy all Spells/Traps your opponent controls.
+● Draw 2 cards.
+● Special Summon 1 monster from either GY to your field.
+You can only activate 1 ""Ancient Secrets"" per turn."
+100266001,Ancient Secrets,str1,Activate
+100266001,Ancient Secrets,str2,是否适用其他效果？
+100266001,Ancient Secrets,str3,Destroy a monster
+100266001,Ancient Secrets,str4,Destroy Spell/Trap Card(s)
+100266001,Ancient Secrets,str5,Draw
+100266001,Ancient Secrets,str6,Special Summon
 101306001,Swift Panther Warrior,name,Swift Panther Warrior
 101306001,Swift Panther Warrior,desc,"During the Main Phase (Quick Effect): You can Tribute 1 other monster from your hand or field, then activate 1 of these effects;
 ● Special Summon 1 monster that mentions ""Dark Time Wizard"" from your hand or Deck, except ""Swift Panther Warrior"".
@@ -387,6 +400,9 @@ If your opponent Normal or Special Summons a monster(s) while this card is in yo
 101306063,Adamancipator Mates,desc,"Add 1 ""Adamancipator"" monster from your Deck to your hand. If this card is in your GY: You can place 1 card from your hand on top of the Deck; add this card to your hand. You can only use each effect of ""Adamancipator Mates"" once per turn."
 101306063,Adamancipator Mates,str1,Search effect
 101306063,Adamancipator Mates,str2,Return to the hand
+101306068,Spatial Trunade,name,Spatial Trunade
+101306068,Spatial Trunade,desc,"Return up to 2 cards on the field to the hand, then each player places cards from their hand on the bottom of the Deck in any order equal to the number returned to their hand. You can only activate 1 ""Spatial Trunade"" per turn."
+101306068,Spatial Trunade,str1,Activate
 101306070,Foolish Graverobber,name,Foolish Graverobber
 101306070,Foolish Graverobber,desc,"Send 1 card that mentions ""Dark Time Wizard"" from your Deck to the GY, except ""Foolish Graverobber"", then you can Special Summon 1 monster from either GY to your field. You can banish this card from your GY; Set to your field, 1 Spell/Trap that mentions ""Dark Time Wizard"" from your GY, except ""Foolish Graverobber"", or 1 Spell/Trap from your opponent's GY. You can only use each effect of ""Foolish Graverobber"" once per turn."
 101306070,Foolish Graverobber,str1,Send to the GY
