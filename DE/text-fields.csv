@@ -301,6 +301,19 @@ Du kannst diese Karte von deinem Friedhof verbannen; zeige eine beliebige Anzahl
 Du kannst jeden Effekt von „Hexwerker Samen“ nur einmal pro Spielzug verwenden."
 100265002,Hexwerker Samen,str1,Auf die Hand zurückgeben
 100265002,Hexwerker Samen,str2,Ziehen
+100266001,古之秘仪,name,古之秘仪
+100266001,古之秘仪,desc,"这个卡名的卡在1回合只能发动1张。
+①：从自己的手卡·卡组·墓地把1只通常怪兽以守备表示特殊召唤（从卡组特殊召唤的场合必须是4星以下）。自己场上有通常怪兽卡存在的场合，可以作为代替从以下效果选1个适用。
+●对方场上的怪兽全部破坏。
+●对方场上的魔法·陷阱卡全部破坏。
+●自己抽2张。
+●从自己或对方墓地把1只怪兽在自己场上特殊召唤。"
+100266001,古之秘仪,str1,Aktivieren
+100266001,古之秘仪,str2,是否适用其他效果？
+100266001,古之秘仪,str3,Zerstöre ein Monster
+100266001,古之秘仪,str4,Zauber-/Fallenkarte(n) zerstören
+100266001,古之秘仪,str5,Ziehen
+100266001,古之秘仪,str6,Als Spezialbeschwörung beschwören
 101306001,Flinker Panter-Krieger,name,Flinker Panter-Krieger
 101306001,Flinker Panter-Krieger,desc,"Während der Main Phase (Schnelleffekt): Du kannst 1 anderes Monster von deiner Hand oder Spielfeldseite als Tribut anbieten und dann 1 dieser Effekte aktivieren;
 ● Beschwöre 1 Monster, das „Dunkler Zeitzauberer“ erwähnt, als Spezialbeschwörung von deiner Hand oder deinem Deck, außer „Flinker Panter-Krieger“.
@@ -555,6 +568,10 @@ Falls diese Karte zerstört wird: Du kannst 1 „Schicksals-HELD“-Monster als 
 ②：这张卡在墓地存在的场合，让1张手卡回到卡组上面才能发动。这张卡加入手卡。"
 101306063,魔救之合缘,str1,Sucheffekt
 101306063,魔救之合缘,str2,Auf die Hand zurückgeben
+101306068,宇宙性飓风,name,宇宙性飓风
+101306068,宇宙性飓风,desc,"这个卡名的卡在1回合只能发动1张。
+①：场上最多2张卡回到手卡。那之后，双方各自，选回到自身手卡数量的自身手卡用喜欢的顺序回到卡组下面。"
+101306068,宇宙性飓风,str1,Aktivieren
 101306070,Törichter Grabräuber,name,Törichter Grabräuber
 101306070,Törichter Grabräuber,desc,"Lege 1 Karte, die „Dunkler Zeitzauberer“ erwähnt, von deinem Deck auf den Friedhof, außer „Törichter Grabräuber“, dann kannst du 1 Monster als Spezialbeschwörung von einem beliebigen Friedhof auf deine Spielfeldseite beschwören.
 Du kannst diese Karte von deinem Friedhof verbannen; setze auf deine Spielfeldseite, 1 Zauber/Falle, der oder die „Dunkler Zeitzauberer“ erwähnt, von deinem Friedhof, außer „Törichter Grabräuber“, oder 1 Zauber/Falle vom Friedhof deines Gegners.
