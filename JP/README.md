@@ -2,7 +2,7 @@
 
 Generated from `JP/Workspace/test-release.cdb` so database updates can be reviewed as text diffs.
 
-Cards: `86`
+Cards: `88`
 
 ## Contents
 
@@ -12,4 +12,4 @@ Cards: `86`
 - `datas.csv`: raw CDB `datas` table.
 - `cards/<id>.json`: combined card data and text record.
 
-CDB SHA-256: `94058f6379e2392d1ed3f78ceaf5cf9f4fa6f189e26568b187bc38a64c1beeb3`
+CDB SHA-256: `7db81fa15c936b1cbdb0ebdfd9ca03b4ab819610006d6b71d9872ea7b6c8dd0b`
