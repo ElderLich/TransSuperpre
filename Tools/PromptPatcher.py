@@ -34086,6 +34086,17 @@ def build_translation_pack(lang: str):
                 "ja": "相手は捨ててドローする",
                 "kr": "상대는 버리고 드로우한다",
             },
+            "是否适用其他效果？": {
+                "en": "Apply a different effect?",
+                "fr": "Appliquer un effet différent ?",
+                "de": "Einen anderen Effekt anwenden?",
+                "es": "¿Aplicar un efecto diferente?",
+                "pt": "Aplicar um efeito diferente?",
+                "it": "Applicare un effetto differente?",
+                "ja": "別の効果を適用しますか？",
+                "kr": "다른 효과를 적용하시겠습니까?"
+            },
+        
 
     }
     for cn, out in extras.items():
