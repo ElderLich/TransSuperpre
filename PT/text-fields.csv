@@ -287,19 +287,19 @@ Você pode banir este card do seu Cemitério; revele qualquer número de cards n
 Você só pode usar cada um dos efeitos de ""Fazticeira Semente"" uma vez por turno."
 100265002,Fazticeira Semente,str1,Retornar para a mão
 100265002,Fazticeira Semente,str2,Comprar
-100266001,古之秘仪,name,古之秘仪
-100266001,古之秘仪,desc,"这个卡名的卡在1回合只能发动1张。
-①：从自己的手卡·卡组·墓地把1只通常怪兽以守备表示特殊召唤（从卡组特殊召唤的场合必须是4星以下）。自己场上有通常怪兽卡存在的场合，可以作为代替从以下效果选1个适用。
-●对方场上的怪兽全部破坏。
-●对方场上的魔法·陷阱卡全部破坏。
-●自己抽2张。
-●从自己或对方墓地把1只怪兽在自己场上特殊召唤。"
-100266001,古之秘仪,str1,Ativar
-100266001,古之秘仪,str2,是否适用其他效果？
-100266001,古之秘仪,str3,Destruir 1 monstro
-100266001,古之秘仪,str4,Destruir Cards de Magia/Armadilha
-100266001,古之秘仪,str5,Comprar
-100266001,古之秘仪,str6,Invocação Especial
+100266001,Segredos Ancestrais,name,Segredos Ancestrais
+100266001,Segredos Ancestrais,desc,"Invoque por Invocação-Especial 1 Monstro Normal da sua mão, Deck, ou Cemitério em Posição de Defesa (se você Invocar por Invocação-Especial do seu Deck, ele deve ser Nível 4 ou menor), ou se você controla um Monstro Normal, em vez disso você pode aplicar esses efeitos.
+● Destrua todos os monstros que seu oponente controla.
+● Destrua todas as Magias/Armadilhas que seu oponente controla.
+● Compre 2 cards.
+● Invoque por Invocação-Especial 1 monstro de qualquer Cemitério para o seu campo.
+Você só pode ativar 1 ""Segredos Ancestrais"" por turno."
+100266001,Segredos Ancestrais,str1,Ativar
+100266001,Segredos Ancestrais,str2,Aplicar um efeito diferente?
+100266001,Segredos Ancestrais,str3,Destruir 1 monstro
+100266001,Segredos Ancestrais,str4,Destruir Cards de Magia/Armadilha
+100266001,Segredos Ancestrais,str5,Comprar
+100266001,Segredos Ancestrais,str6,Invocação Especial
 101306001,Guerreiro Pantera Veloz,name,Guerreiro Pantera Veloz
 101306001,Guerreiro Pantera Veloz,desc,"Não pode declarar ataque a menos que um ou mais monstros foram oferecidos como Tributo neste turno.
 Durante a Fase Principal (Efeito Rápido): você pode oferecer como Tributo 1 outro monstro da sua mão ou campo, então ative 1 desses efeitos (você só pode usar este efeito de ""Guerreiro Pantera Veloz"" uma vez por turno);
@@ -545,10 +545,10 @@ Se este card está no seu Cemitério: você pode colocar 1 card da sua mão no t
 Você só pode usar cada um dos efeitos de ""Companheiras Adamancipador"" uma vez por turno."
 101306063,Companheiras Adamancipador,str1,Efeito de busca
 101306063,Companheiras Adamancipador,str2,Retornar para a mão
-101306068,宇宙性飓风,name,宇宙性飓风
-101306068,宇宙性飓风,desc,"这个卡名的卡在1回合只能发动1张。
-①：场上最多2张卡回到手卡。那之后，双方各自，选回到自身手卡数量的自身手卡用喜欢的顺序回到卡组下面。"
-101306068,宇宙性飓风,str1,Ativar
+101306068,Tornado Espacial,name,Tornado Espacial
+101306068,Tornado Espacial,desc,"Retorne até 2 cards no campo para a mão, então cada jogar coloca cards das suas mãos no fundo do Deck em qualquer ordem igual ao número de cards retornado de suas mãos.
+Você só pode ativar 1 ""Tornado Espacial"" por turno."
+101306068,Tornado Espacial,str1,Ativar
 101306070,Ladrão de Túmulos Tolo,name,Ladrão de Túmulos Tolo
 101306070,Ladrão de Túmulos Tolo,desc,"Envie 1 card que menciona ""Mago do Tempo Sombrio"" do seu Deck ao Cemitério, exceto ""Ladrão de Túmulos Tolo"", então você pode Invocar por Invocação-Especial 1 monstro de qualquer Cemitério para o seu campo.
 Você pode banir este card do seu Cemitério; Baixe 1 destes cards para o seu campo.
