@@ -235,7 +235,7 @@ You can only activate 1 ""Ancient Secrets"" per turn."
 ● When your opponent activates a monster effect that would destroy a card(s) on the field.
 ● When your opponent activates a monster effect in the hand or field during your turn."
 100266002,Mind Mirror Force,str1,Activate
-100266002,Mind Mirror Force,str2,"Activate by applying the effect of ""Mind Mirror Force""."
+100266002,Mind Mirror Force,str2,Activate by applying the effect of {CARD}.
 101306001,Swiftwind Panther Warrior,name,Swiftwind Panther Warrior
 101306001,Swiftwind Panther Warrior,desc,"During the Main Phase (Quick Effect): You can Tribute 1 other monster from your hand or field, then activate 1 of these effects;
 ● Special Summon 1 monster that mentions ""Dark Time Wizard"" from your hand or Deck, except ""Swiftwind Panther Warrior"".
@@ -381,7 +381,7 @@ If your opponent Normal or Special Summons a monster(s) while this card is in yo
 101306054,Sleepy Scapegoats,desc,"Special Summon up to 4 ""Scapegoat Tokens"" (Beast/EARTH/Level 1/ATK 0/DEF 0) in Defense Position, then if your opponent controls a monster, you can Special Summon 1 ""Swiftwind Panther Warrior"" from your Deck, also for the rest of this turn, these Tokens cannot be Tributed for a Tribute Summon, also you cannot Special Summon from the Extra Deck, except Fusion Monsters. If a card(s) you control that mentions ""Dark Time Wizard"" would be destroyed by battle or card effect, you can destroy 1 Token you control that was Special Summoned by this effect instead."
 101306054,Sleepy Scapegoats,str1,Activate
 101306054,Sleepy Scapegoats,str2,Select the number of Special Summons
-101306054,Sleepy Scapegoats,str3,"Special Summon ""Swiftwind Panther Warrior""?"
+101306054,Sleepy Scapegoats,str3,Special Summon {CARD}?
 101306057,Ashtrashen - Gateway to the Worlds Beyond,name,Ashtrashen - Gateway to the Worlds Beyond
 101306057,Ashtrashen - Gateway to the Worlds Beyond,desc,"You can target any number of face-down cards you control; add ""Ashtra"" cards from your Deck to your hand with different names from each other, except Field Spells, equal to the number of those targeted cards that are still face-down, then send those face-down cards to the GY. If a card(s) becomes Set on the field, while you control an ""Ashtra"" monster and a face-down card: You can target 1 card on the field; return it to the hand. You can only use each effect of ""Ashtrashen - Gateway to the Worlds Beyond"" once per turn."
 101306057,Ashtrashen - Gateway to the Worlds Beyond,str1,Add to hand
