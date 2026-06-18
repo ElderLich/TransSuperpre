@@ -2,7 +2,7 @@ id,name,field,value
 100200290,Stage of Destiny,name,Stage of Destiny
 100200290,Stage of Destiny,desc,"You can activate this card the turn it was Set, by revealing 1 Normal Monster in your hand. Special Summon up to 5 Normal Monsters from your hand and/or GY in Attack Position, also you cannot Special Summon from the Extra Deck for the rest of this turn after this card resolves. You can only activate 1 ""Stage of Destiny"" per turn."
 100200290,Stage of Destiny,str1,Activate
-100200290,Stage of Destiny,str2,"Activate by applying the effect of ""Stage of Destiny""."
+100200290,Stage of Destiny,str2,Activate by applying the effect of {CARD}.
 100200291,Capsule Monster Chess,name,Capsule Monster Chess
 100200291,Capsule Monster Chess,desc,"During the Main Phase: The turn player can target 1 monster in their GY; they place it face-up in their Spell & Trap Zone as a Continuous Spell. During the End Phase: The turn player can send 1 face-up Monster Card they control to the GY; they Special Summon 1 monster from their Deck with the same original Type and Attribute, but 1, 2, or 3 original Levels higher. You can only use each effect of ""Capsule Monster Chess"" once per turn."
 100200291,Capsule Monster Chess,str2,Place a monster
@@ -229,6 +229,13 @@ You can only activate 1 ""Ancient Secrets"" per turn."
 100266001,Ancient Secrets,str4,Destroy Spell/Trap Card(s)
 100266001,Ancient Secrets,str5,Draw
 100266001,Ancient Secrets,str6,Special Summon
+100266002,Mind Mirror Force,name,Mind Mirror Force
+100266002,Mind Mirror Force,desc,"If your opponent controls 5 or more face-up cards, this card's activation and effect cannot be negated, also you can activate this card the turn it was Set. At any of the following timings: Negate the effects of as many face-up cards your opponent controls as possible, and if you do, destroy them, also your monsters cannot attack directly until the end of the next turn after this card resolves.
+● When the monster your opponent controls with the highest ATK (even if tied) declares an attack.
+● When your opponent activates a monster effect that would destroy a card(s) on the field.
+● When your opponent activates a monster effect in the hand or field during your turn."
+100266002,Mind Mirror Force,str1,Activate
+100266002,Mind Mirror Force,str2,"Activate by applying the effect of ""Mind Mirror Force""."
 101306001,Swiftwind Panther Warrior,name,Swiftwind Panther Warrior
 101306001,Swiftwind Panther Warrior,desc,"During the Main Phase (Quick Effect): You can Tribute 1 other monster from your hand or field, then activate 1 of these effects;
 ● Special Summon 1 monster that mentions ""Dark Time Wizard"" from your hand or Deck, except ""Swiftwind Panther Warrior"".
@@ -374,7 +381,7 @@ If your opponent Normal or Special Summons a monster(s) while this card is in yo
 101306054,Sleepy Scapegoats,desc,"Special Summon up to 4 ""Scapegoat Tokens"" (Beast/EARTH/Level 1/ATK 0/DEF 0) in Defense Position, then if your opponent controls a monster, you can Special Summon 1 ""Swiftwind Panther Warrior"" from your Deck, also for the rest of this turn, these Tokens cannot be Tributed for a Tribute Summon, also you cannot Special Summon from the Extra Deck, except Fusion Monsters. If a card(s) you control that mentions ""Dark Time Wizard"" would be destroyed by battle or card effect, you can destroy 1 Token you control that was Special Summoned by this effect instead."
 101306054,Sleepy Scapegoats,str1,Activate
 101306054,Sleepy Scapegoats,str2,Select the number of Special Summons
-101306054,Sleepy Scapegoats,str3,Special Summon {CARD}?
+101306054,Sleepy Scapegoats,str3,"Special Summon ""Swiftwind Panther Warrior""?"
 101306057,Ashtrashen - Gateway to the Worlds Beyond,name,Ashtrashen - Gateway to the Worlds Beyond
 101306057,Ashtrashen - Gateway to the Worlds Beyond,desc,"You can target any number of face-down cards you control; add ""Ashtra"" cards from your Deck to your hand with different names from each other, except Field Spells, equal to the number of those targeted cards that are still face-down, then send those face-down cards to the GY. If a card(s) becomes Set on the field, while you control an ""Ashtra"" monster and a face-down card: You can target 1 card on the field; return it to the hand. You can only use each effect of ""Ashtrashen - Gateway to the Worlds Beyond"" once per turn."
 101306057,Ashtrashen - Gateway to the Worlds Beyond,str1,Add to hand
@@ -446,12 +453,15 @@ You can only activate 1 ""Ashtra Divine Domain"" per turn."
 101306076,Daedalus Maelstrom,str2,Send to the GY
 101306076,Daedalus Maelstrom,str3,Destroy that monster?
 101306149,Glimmer Token,name,Glimmer Token
-101306149,Glimmer Token,desc,"Special Summoned with the effect of ""Adamancipator Luminous."""
-101306154,Scapegoat Token,name,Scapegoat Token
-101306154,Scapegoat Token,desc,"Special Summoned by the effect of ""Sleeping Scapegoats"". If a card you control that mentions ""Dark Time Wizard"" in its card text would be destroyed by battle or card effect, you can destroy this card instead."
-101306254,Scapegoat Token,name,Scapegoat Token
-101306254,Scapegoat Token,desc,"Special Summoned by the effect of ""Sleeping Scapegoats"". If a card you control that mentions ""Dark Time Wizard"" in its card text would be destroyed by battle or card effect, you can destroy this card instead."
-101306354,Scapegoat Token,name,Scapegoat Token
-101306354,Scapegoat Token,desc,"Special Summoned by the effect of ""Sleeping Scapegoats"". If a card you control that mentions ""Dark Time Wizard"" in its card text would be destroyed by battle or card effect, you can destroy this card instead."
-101306454,Scapegoat Token,name,Scapegoat Token
-101306454,Scapegoat Token,desc,"Special Summoned by the effect of ""Sleeping Scapegoats"". If a card you control that mentions ""Dark Time Wizard"" in its card text would be destroyed by battle or card effect, you can destroy this card instead."
+101306149,Glimmer Token,desc,"Special Summoned by the effect of ""Adamancipator Luminous""."
+101306154,Scapedgoat Tokens,name,Scapedgoat Tokens
+101306154,Scapedgoat Tokens,desc,"Special Summoned by the effect of ""Sleeping Scapegoats"". If a card you control that mentions ""Dark Time Wizard"" in its card text would be destroyed by battle or card effect, you can destroy this card instead."
+101306254,Scapedgoat Tokens,name,Scapedgoat Tokens
+101306254,Scapedgoat Tokens,desc,"Special Summoned by the effect of ""Sleeping Scapegoats"". If a card you control that mentions ""Dark Time Wizard"" in its card text would be destroyed by battle or card effect, you can destroy this card instead.
+"
+101306354,Scapedgoat Tokens,name,Scapedgoat Tokens
+101306354,Scapedgoat Tokens,desc,"Special Summoned by the effect of ""Sleeping Scapegoats"". If a card you control that mentions ""Dark Time Wizard"" in its card text would be destroyed by battle or card effect, you can destroy this card instead.
+"
+101306454,Scapedgoat Tokens,name,Scapedgoat Tokens
+101306454,Scapedgoat Tokens,desc,"Special Summoned by the effect of ""Sleeping Scapegoats"". If a card you control that mentions ""Dark Time Wizard"" in its card text would be destroyed by battle or card effect, you can destroy this card instead.
+"
