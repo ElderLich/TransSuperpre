@@ -300,6 +300,14 @@ Você só pode ativar 1 ""Segredos Ancestrais"" por turno."
 100266001,Segredos Ancestrais,str4,Destruir Cards de Magia/Armadilha
 100266001,Segredos Ancestrais,str5,Comprar
 100266001,Segredos Ancestrais,str6,Invocação Especial
+100266002,圣心防护罩 -心灵之力-,name,圣心防护罩 -心灵之力-
+100266002,圣心防护罩 -心灵之力-,desc,"对方场上有表侧表示卡5张以上存在的场合，这张卡的发动和效果不会被无效化，这张卡在盖放的回合也能发动。
+①：以下任意时才能发动。对方场上的全部表侧表示卡效果无效并破坏。这张卡的发动后，直到下个回合结束时自己怪兽不能直接攻击。
+●对方场上的攻击力最高的怪兽的攻击宣言时
+●要把场上的卡破坏的怪兽的效果由对方发动时
+●自己回合对方把手卡·场上的怪兽的效果发动时"
+100266002,圣心防护罩 -心灵之力-,str1,Ativar
+100266002,圣心防护罩 -心灵之力-,str2,Ativar aplicando o efeito de {CARD}.
 101306001,Guerreiro Pantera Veloz,name,Guerreiro Pantera Veloz
 101306001,Guerreiro Pantera Veloz,desc,"Não pode declarar ataque a menos que um ou mais monstros foram oferecidos como Tributo neste turno.
 Durante a Fase Principal (Efeito Rápido): você pode oferecer como Tributo 1 outro monstro da sua mão ou campo, então ative 1 desses efeitos (você só pode usar este efeito de ""Guerreiro Pantera Veloz"" uma vez por turno);
