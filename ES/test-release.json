@@ -1,7 +1,109 @@
 [
   {
-    "name": "海中战型援助机器人",
-    "desc": "机械族怪兽2只\r\n这个卡名的①②的效果1回合各能使用1次，这些效果发动的回合，自己不是机械族怪兽不能特殊召唤。\r\n①：这张卡连接召唤的场合，以对方场上1只怪兽为对象才能发动。那只怪兽以及这张卡破坏。那之后，可以从自己墓地把除水属性怪兽外的，攻击力1600以下的1只机械族怪兽特殊召唤。\r\n②：这张卡被除外的场合才能发动。从卡组把攻击力和守备力的数值相同的1只机械族怪兽加入手卡。",
+    "name": "Hubolt el Director Oscuro de la Muerte",
+    "desc": "Puedes Invocar esta carta de Modo Normal sin Sacrificio.\n \r\nSólo puedes usar los siguientes efectos de \"Hubolt el Director Oscuro de la Muerte\" una vez por turno.\n \r\nSi esta carta es Invocada de Modo Normal o Especial: puedes mandar al Cementerio 1 monstruo Zombi de Nivel 6 o mayor desde tu Deck, excepto \"Hubolt el Director Oscuro de la Muerte\", y después puedes añadir a tu mano 1 monstruo Zombi de Nivel 6 o mayor desde tu Cementerio.\n \r\nSi uno o más monstruos son Invocados de Modo Especial desde el Cementerio mientras este monstruo está en el Campo, puedes: inmediatamente después de que este efecto se resuelva, Invocar Xyz 1 monstruo Zombi.",
+    "overallString": "[Monstruo|Efecto] Zombi/OSCURIDAD  [★6] 1300/1800",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306030.jpg?version=19.7"
+  },
+  {
+    "name": "Testigo de lo Ancestral",
+    "desc": "Si tienes un Monstruo de Sincronía en tu Campo o Cementerio: puedes Invocar esta carta de Modo Especial desde tu mano. \r\nSi esta carta es Invocada de Modo Especial: puedes Colocar hasta 3 Monstruos de Sincronía con nombres diferentes desde tu Deck Extra y/o Cementerio en tu Zona de Mágicas y Trampas como Mágicas Continuas boca arriba, e Invocar de Modo Especial 1 \"Ficha de Arco\" (Máquina/LUZ/ATK 0/DEF 0) con un Nivel igual al número de cartas colocadas, y además por el resto de este turno, no puedes Invocar de Modo Especial desde el Deck Extra, excepto Monstruos de Sincronía. \r\nSólo puedes usar cada efecto de \"Testigo de lo Ancestral\" una vez por turno.\r\n",
+    "overallString": "[Monstruo|Efecto|Cantante] Máquina/LUZ  [★8] 0/3000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305081.jpg?version=19.7"
+  },
+  {
+    "name": "Paranoia Desconfiada",
+    "desc": "Toma el control de todos los monstruos de tu adversario en la columna de esta carta. \r\nSi esta carta Colocada en control de su propietario ha dejado el Campo por un efecto del adversario, y ahora está en el Cementerio o desterrada: puedes Invocar esta carta de Modo Especial como un Monstruo de Efecto (Demonio/OSCURIDAD/Nivel 10/ATK 4000/DEF 4000) con el siguiente efecto (esta carta NO se trata como Trampa).\r\n● No es afectada por efectos de cartas de tu adversario activados en la misma columna.\t\r\nSólo puedes activar 1 \"Paranoia Desconfiada\" por turno.",
+    "overallString": "[Trampa]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305082.jpg?version=19.7"
+  },
+  {
+    "name": "Yomagna el Fantasma de Fuego",
+    "desc": "No puede ser Invocado de Modo Normal/Colocado. Debe ser primero Invocado de Modo Especial (desde tu mano) barajando al Deck/Deck Extra 3 cartas del mismo tipo (Monstruo, Mágica o Trampa) en tu Cementerio. \r\nSi esta carta es Invocada de Modo Especial: puedes declarar 1 Tipo de Monstruo; esta carta se convierte en ese Tipo hasta el final de este turno. \r\nDurante tu Main Phase: puedes Invocar por Fusión 1 Monstruo de Fusión desde tu Deck Extra usando monstruos de cualquier Campo, incluyendo esta carta. \r\nSólo puedes usar cada efecto de \"Yomagna el Fantasma de Fuego\" una vez por turno.",
+    "overallString": "[Monstruo|Efecto|Invocación Especial] Piro/OSCURIDAD  [★10] 3300/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305083.jpg?version=19.7"
+  },
+  {
+    "name": "Espantapájaros de Trueno Impactante",
+    "desc": "Cada vez que uno o más monstruos que no sean Trueno son Invocados de Modo Especial boca arriba, mientras esta carta está en la Zona de Monstruos: ese o esos monstruos no pueden atacar este turno, y además destrúyelos durante la End Phase. \r\nSi esta carta está en tu Cementerio: puedes seleccionar 1 carta boca arriba que controles; destrúyela y, si lo haces, añade esta carta a tu mano. \r\nSólo puedes usar este efecto de \"Espantapájaros de Trueno Impactante\" una vez por turno.",
+    "overallString": "[Monstruo|Efecto] Trueno/LUZ  [★8] 1600/2800",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305084.jpg?version=19.7"
+  },
+  {
+    "name": "Mixousa la Confundidora",
+    "desc": "1 monstruo Lanzador de Conjuros + 1 monstruo que no sea Lanzador de Conjuros\t\r\nPuedes seleccionar 1 monstruo boca arriba en el Campo y declarar 1 Atributo; se convierte en ese Atributo. \r\n(Efecto Rápido): Durante la Main Phase de tu adversario: puedes Invocar por Fusión 1 Monstruo de Fusión desde tu Deck Extra desterrando esta carta que controles y monstruos de tu Campo o Cementerio como material. \r\nSi esta carta está en tu Cementerio: puedes declarar 1 Atributo; esta carta en el Cementerio se convierte en ese Atributo hasta el final de este turno. \r\nSólo puedes usar cada efecto de \"Mixousa la Confundidora\" una vez por turno.",
+    "overallString": "[Monstruo|Efecto|Fusión] Lanzador de Conjuros/OSCURIDAD  [★8] 2700/1500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305085.jpg?version=19.7"
+  },
+  {
+    "name": "Caballero Chamán Shamánite",
+    "desc": "2+ monstruos de Nivel 3\t\r\nSi esta carta es Invocada Xyz, o si una Trampa que posees es desterrada: puedes seleccionar 1 de tus Trampas desterradas; acóplala a esta carta como material. \r\nPuedes desacoplar cualquier número de materiales de esta carta, y después seleccionar 1 monstruo de OSCURIDAD en tu Cementerio o destierro con un Nivel igual al número de materiales desacoplados; Invócalo de Modo Especial. \r\nSólo puedes usar cada efecto de \"Caballero Chamán Shamánite\" una vez por turno.",
+    "overallString": "[Monstruo|Efecto|Xyz] Guerrero/OSCURIDAD  [☆3] 1700/2400",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305086.jpg?version=19.7"
+  },
+  {
+    "name": "Cerynemesia, Bestia Mística del Bosque",
+    "desc": "Si esta carta es Invocada de Modo Normal o Especial: puedes desterrar (boca arriba) 1 monstruo Bestia en tu mano o Campo boca arriba hasta la End Phase; Invoca de Modo Especial 1 monstruo Bestia de TIERRA desde tu Deck o Cementerio con un Nivel igual o menor al Nivel original de ese monstruo, y después tu adversario puede Invocar de Modo Especial 1 monstruo desde su mano. \r\nSólo puedes usar este efecto de \"Cerynemesia, Bestia Mística del Bosque\" una vez por turno. \r\nLos monstruos de tu adversario que puedan atacar deben atacar al monstruo que controles con el ATK más alto (si hay empate, elige él).",
+    "overallString": "[Monstruo|Efecto] Bestia/TIERRA  [★2] 0/1600",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305087.jpg?version=19.7"
+  },
+  {
+    "name": "Cambio Impostor",
+    "desc": "Cuando un efecto de monstruo que fue activado en el Campo de tu adversario seleccionando una o más cartas en el Campo se resuelve, si alguno de esos objetivos está en una columna diferente a la de ese monstruo del adversario, pueden desterrar 1 carta de su Cementerio. Si no lo hicieron, niega el efecto activado. \r\nPuedes desterrar 1 monstruo en tu Cementerio; Invoca de Modo Especial 1 \"Ficha Impostor\" (Psíquico/TIERRA/ATK 800/DEF 800) con el mismo Nivel que ese monstruo. \r\nSólo puedes usar este efecto de \"Cambio Impostor\" una vez por turno.",
+    "overallString": "[Mágica|Continua]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305088.jpg?version=19.7"
+  },
+  {
+    "name": "Mortilux Heruvur",
+    "desc": "2+ monstruos de Nivel 8\t\r\nSólo puedes usar el siguiente efecto de \"Mortilux Heruvur\" una vez por turno. \r\nSi uno o más monstruos son mandados al Cementerio de tu adversario (excepto durante el Damage Step): puedes seleccionar 1 de ellos; acóplalo a esta carta como material. \r\nEsta carta gana efectos basados en el número de materiales acoplados a ella.\r\n● 2+: No puede ser destruida en batalla ni por efectos de cartas.\r\n● 3+: Tu adversario no puede seleccionar cartas en los Cementerios con efectos de cartas.\r\n● 4+: Puedes desacoplar 3 materiales de esta carta, manda al Cementerio 1 monstruo en el Campo.",
+    "overallString": "[Monstruo|Efecto|Xyz] Bestia Alada/LUZ  [☆8] 3000/2100",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305089.jpg?version=19.7"
+  },
+  {
+    "name": "Shatranga Angelechy",
+    "desc": "1 Cantante + 1+ monstruos que no sean Cantantes\t\r\nPuedes seleccionar 1 monstruo que controle tu adversario; destiérralo. \r\nSi esta carta es colocada en la Zona de Mágicas y Trampas como una Mágica Continua: puedes añadir a tu mano 1 Trampa \"Angelechy\" desde tu Deck o Cementerio. \r\nMientras esta carta es tratada como una Mágica Continua, tu adversario sólo puede intentar activar hasta 5 efectos de monstruo por turno. \r\nSólo puedes usar cada uno de los efectos de \"Shatranga Angelechy\" una vez por turno.",
+    "overallString": "[Monstruo|Efecto|Sincronía] Hada/LUZ  [★10] 3000/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305090.jpg?version=19.7"
+  },
+  {
+    "name": "Bastión Angelechy",
+    "desc": "1 Cantante + 1+ monstruos que no sean Cantantes\t\r\nPuedes seleccionar 1 monstruo que controle tu adversario; destiérralo. \r\nSi esta carta es colocada en la Zona de Mágicas y Trampas como una Mágica Continua: puedes Colocar 1 \"Shatranga Angelechy\" desde tu Deck Extra en tu Zona de Mágicas y Trampas como una Mágica Continua boca arriba. \r\nMientras esta carta es tratada como una Mágica Continua, otras cartas \"Angelechy\" en el Campo no pueden ser destruidas por efectos de cartas de tu adversario. \r\nSólo puedes usar cada uno de los efectos de \"Bastión Angelechy\" una vez por turno.",
+    "overallString": "[Monstruo|Efecto|Sincronía] Hada/LUZ  [★8] 3000/2500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305091.jpg?version=19.7"
+  },
+  {
+    "name": "Corcel de Guerra Angelechy",
+    "desc": "1 Cantante + 1+ monstruos que no sean Cantantes\t\r\nPuedes seleccionar 1 monstruo que controle tu adversario; destiérralo. \r\nSi esta carta es colocada en la Zona de Mágicas y Trampas como una Mágica Continua: puedes añadir a tu mano 1 Mágica \"Angelechy\" desde tu Deck. \r\nMientras esta carta es tratada como una Mágica Continua, cada vez que tu adversario activa una carta o efecto, inflige 500 puntos de daño a tu adversario cuando se resuelve. \r\nSólo puedes usar cada uno de los efectos de \"Corcel de Guerra Angelechy\" una vez por turno.",
+    "overallString": "[Monstruo|Efecto|Sincronía] Hada/LUZ  [★7] 2500/2000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305092.jpg?version=19.7"
+  },
+  {
+    "name": "Alistado Angelechy",
+    "desc": "1 Cantante + 1 monstruo que no sea Cantante\t\r\nPuedes seleccionar 1 monstruo del adversario en la columna adyacente a esta carta; destiérralo, y después cambia el control de esta carta moviéndola a una de las Zonas de Monstruos Principal de tu adversario en las columnas adyacentes a esta carta. \r\nSi el control de esta carta boca arriba cambia: devuelve esta carta al Deck Extra, y después el propietario de esta carta Invoca de Modo Especial 1 monstruo \"Angelechy\" desde su Deck Extra. \r\nSólo puedes usar cada efecto de \"Alistado Angelechy\" una vez por turno.",
+    "overallString": "[Monstruo|Efecto|Cantante|Sincronía] Hada/LUZ  [★2] 1500/1500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305093.jpg?version=19.7"
+  },
+  {
+    "name": "Problema Angelechy",
+    "desc": "Una vez por turno: puedes descartar 1 Mágica/Trampa; Invoca de Modo Especial 1 monstruo \"Angelechy\" de Nivel 2 desde tu Deck Extra y, si lo haces, Coloca 1 monstruo \"Angelechy\" desde tu Deck Extra en tu Zona de Mágicas y Trampas como una Mágica Continua boca arriba. \r\nSi una o más Cartas de Monstruo \"Angelechy\" boca arriba que controles son destruidas en batalla o por efecto de carta: puedes devolver 1 Carta de Monstruo \"Angelechy\" que poseas desde tu Zona de Mágicas y Trampas al Deck Extra, y después puedes Invocarla de Modo Especial.",
+    "overallString": "[Mágica|Campo]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305094.jpg?version=19.7"
+  },
+  {
+    "name": "Perturbación Angelechy",
+    "desc": "Da el control de 1 monstruo \"Angelechy\" que controles a tu adversario (hasta la End Phase), y después si tu adversario controla una o más cartas boca arriba en sus Zonas de Monstruos adyacentes y/o Zona de Mágicas y Trampas, sus efectos son negados. \r\nPuedes desterrar esta carta en tu Cementerio; añade a tu mano 1 Mágica/Trampa \"Angelechy\" desde tu Deck, excepto \"Perturbación Angelechy\". \r\nSólo puedes usar cada efecto de \"Perturbación Angelechy\" una vez por turno.",
+    "overallString": "[Trampa]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305095.jpg?version=19.7"
+  },
+  {
+    "name": "Apertura Angelechy a E4",
+    "desc": "Si tu adversario comienza primero, también puedes activar esta carta desde tu mano durante la Standby Phase de su primer turno. \r\nColoca 1 Mágica de Campo \"Angelechy\" desde tu mano, Deck o Cementerio boca arriba en tu Campo y, si lo haces, Invoca de Modo Especial 1 monstruo \"Angelechy\" de Nivel 2 o 7 desde tu Deck Extra a la Zona de Monstruos de Enlace, y si lo haces, Coloca 1 monstruo \"Angelechy\" desde tu Deck Extra en tu Zona de Mágicas y Trampas como una Mágica Continua boca arriba. \r\nHasta el final de tu próximo turno después de que esta carta se resuelva, no puedes Invocar de Modo Especial desde el Deck Extra, excepto Monstruos de Sincronía.",
+    "overallString": "[Trampa]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305096.jpg?version=19.7"
+  },
+  {
+    "name": "Robot de Apoyo para Combate Subacuático",
+    "desc": "2 monstruos Máquina\t\r\nSi esta carta es Invocada por Enlace: puedes seleccionar 1 monstruo que controle tu adversario; destruye tanto ese monstruo como esta carta, y después puedes Invocar de Modo Especial 1 monstruo Máquina que no sea de AGUA con 1600 ATK o menos desde tu Cementerio. \r\nSi esta carta es desterrada: puedes añadir a tu mano 1 monstruo Máquina cuyo ATK sea igual a su DEF desde tu Deck. \r\nSólo puedes usar cada uno de los efectos de \"Robo de Apoyo para Combate Subacuático\" una vez por turno. \r\nNo puedes Invocar de Modo Especial el turno en que activas cualquiera de los efectos de esta carta, excepto monstruos Máquina.",
     "overallString": "[Monstruo|Efecto|Enlace] Máquina/AGUA  [LINK-2] 800/-  [→][↘]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306050.jpg?version=19.7"
   },
