@@ -1,7 +1,109 @@
 [
   {
-    "name": "海中战型援助机器人",
-    "desc": "机械族怪兽2只\r\n这个卡名的①②的效果1回合各能使用1次，这些效果发动的回合，自己不是机械族怪兽不能特殊召唤。\r\n①：这张卡连接召唤的场合，以对方场上1只怪兽为对象才能发动。那只怪兽以及这张卡破坏。那之后，可以从自己墓地把除水属性怪兽外的，攻击力1600以下的1只机械族怪兽特殊召唤。\r\n②：这张卡被除外的场合才能发动。从卡组把攻击力和守备力的数值相同的1只机械族怪兽加入手卡。",
+    "name": "Hublot, le Registre Sombre de la Mort",
+    "desc": "Vous pouvez Invoquer Normalement cette carte sans Sacrifice.\r\nVous ne pouvez utiliser chacun des effets suivants de \"Hublot, le Registre Sombre de la Mort\" qu'une fois par tour.\r\nSi cette carte est Invoquée Normalement ou Spécialement : vous pouvez envoyer 1 monstre Zombie de min. Niveau 6 (\"Hublot, le Registre Sombre de la Mort\" exclu) depuis votre Deck au Cimetière, puis vous pouvez ajouter 1 monstre Zombie de min. Niveau 6 depuis votre Cimetière à votre main.\r\nSi un ou plusieurs monstres sont Invoqués Spécialement depuis le Cimetière tant que cette carte est dans la Zone Monstre, vous pouvez : immédiatement après la résolution de cet effet, Invoquez par Xyz 1 Monstre Xyz Zombie.",
+    "overallString": "[Monstre|Effet] Zombie/Ténébres  [★6] 1300/1800",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306030.jpg?version=19.7"
+  },
+  {
+    "name": "Témoin de l'Ancien",
+    "desc": "Si vous avez un Monstre Synchro dans votre Terrain ou Cimetière : vous pouvez Invoquer Spécialement cette carte depuis votre main.\r\nSi cette carte est Invoquée Spécialement : vous pouvez placer max. 3 Monstres Synchro de noms différents depuis votre Extra Deck et/ou Cimetière dans votre Zone Magie & Piège comme Magies Continues face recto, et Invoquez Spécialement 1 \"Jeton Arc\" (Machine/LUMIÈRE/ATK 0/DEF 0) de Niveau égal au nombre placé, et aussi, vous ne pouvez pas Invoquer Spécialement (Monstres Synchro exclus) depuis l'Extra Deck le reste de ce tour.\r\nVous ne pouvez utiliser chaque effet de \"Témoin de l'Ancien\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet|Syntoniseur] Machine/Lumiére  [★8] 0/3000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305081.jpg?version=19.7"
+  },
+  {
+    "name": "Paranoïa de Méfiance",
+    "desc": "Prenez le contrôle de tous les monstres de votre adversaire dans la colonne de cette carte.\r\nSi cette carte Posée contrôlée par son propriétaire a quitté le Terrain par un effet de l'adversaire, et est maintenant dans le Cimetière ou bannie : vous pouvez Invoquer Spécialement cette carte comme Monstre à Effet (Démon/TÉNÈBRES/Niveau 10/ATK 4000/DEF 4000) avec l'effet suivant (cette carte n'est PAS traitée comme un Piège).\r\n● Non affecté par des effets de carte de votre adversaire activés dans la même colonne.\r\nVous ne pouvez activer qu'1 \"Paranoïa de Méfiance\" par tour.",
+    "overallString": "[Piège]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305082.jpg?version=19.7"
+  },
+  {
+    "name": "Yomagna le Fantôme du Feu",
+    "desc": "Ni Invocable Normalement ni Posable Normalement.\r\nDoit d'abord être Invoquée Spécialement (depuis votre main) en mélangeant 3 cartes du même type (Monstre, Magie ou Piège) depuis votre Cimetière dans le Deck/Extra Deck.\r\nSi cette carte est Invoquée Spécialement : vous pouvez déclarer 1 Type de Monstre ; jusqu'à la fin de ce tour, cette carte devient ce Type.\r\nDurant votre Main Phase : vous pouvez Invoquer par Fusion 1 Monstre Fusion depuis votre Extra Deck en utilisant des monstres (cette carte incluse) sur au moins l'un des Terrains.\r\nVous ne pouvez utiliser chaque effet de \"Yomagna le Fantôme du Feu\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet|Invocation Spéciale] Pyro/Ténébres  [★10] 3300/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305083.jpg?version=19.7"
+  },
+  {
+    "name": "Piègevantail du Tonnerre Fracassant",
+    "desc": "Chaque fois qu'un ou plusieurs monstres non-Tonnerre sont Invoqués Spécialement face recto, tant que cette carte est dans la Zone Monstre : ces monstres ne peuvent pas attaquer ce tour, et aussi, détruisez-les durant la End Phase.\r\nSi cette carte est dans votre Cimetière : vous pouvez cibler 1 carte face recto que vous contrôlez ; détruisez-la, et si vous le faites, ajoutez cette carte à votre main.\r\nVous ne pouvez utiliser cet effet de \"Piègevantail du Tonnerre Fracassant\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet] Tonnerre/Lumiére  [★8] 1600/2800",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305084.jpg?version=19.7"
+  },
+  {
+    "name": "Muxousia la Déconcerteuse",
+    "desc": "1 monstre Magicien + 1 monstre non-Magicien\r\nVous pouvez cibler 1 monstre face recto sur le Terrain, et déclarez 1 Attribut ; il devient cet Attribut.\r\nDurant la Main Phase de votre adversaire (Effet Rapide) : vous pouvez Invoquer par Fusion 1 Monstre Fusion depuis votre Extra Deck, en bannissant cette carte que vous contrôlez et des monstres depuis votre Terrain ou Cimetière comme Matériel.\r\nSi cette carte est dans votre Cimetière : vous pouvez déclarer 1 Attribut ; jusqu'à la fin de ce tour, cette carte dans le Cimetière devient cet Attribut.\r\nVous ne pouvez utiliser chaque effet de \"Muxousia la Déconcerteuse\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet|Fusion] Magicien/Ténébres  [★8] 2700/1500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305085.jpg?version=19.7"
+  },
+  {
+    "name": "Shamanite le Chevalier Shamanique",
+    "desc": "2+ monstres de Niveau 3\r\nSi cette carte est Invoquée par Xyz, ou si un Piège que vous possédez est banni : vous pouvez cibler 1 de vos Pièges bannis ; attachez-le à cette carte.\r\nVous pouvez détacher un nombre de votre choix de Matériels de cette carte, puis ciblez 1 monstre TÉNÈBRES dans votre Cimetière ou bannissement de Niveau égal au nombre détaché ; Invoquez-le Spécialement.\r\nVous ne pouvez utiliser chaque effet de \"Shamanite le Chevalier Shamanique\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet|Xyz] Guerrier/Ténébres  [☆3] 1700/2400",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305086.jpg?version=19.7"
+  },
+  {
+    "name": "Cerynemesia, Bête Mystique de la Forêt",
+    "desc": "Si cette carte est Invoquée Normalement ou Spécialement : jusqu'à la End Phase, vous pouvez bannir (face recto) 1 monstre Bête depuis votre main ou Terrain face recto ; Invoquez Spécialement 1 monstre TERRE Bête depuis votre Deck ou Cimetière, d'un Niveau inférieur ou égal au Niveau d'origine du monstre, puis votre adversaire peut Invoquer Spécialement 1 monstre depuis sa main.\r\nVous ne pouvez utiliser cet effet de \"Cerynemesia, Bête Mystique de la Forêt\" qu'une fois par tour.\r\nLes monstres de votre adversaire qui peuvent attaquer doivent attaquer le monstre que vous contrôlez avec la plus haute ATK (en cas d'égalité, il choisit).",
+    "overallString": "[Monstre|Effet] Bête/Terre  [★2] 0/1600",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305087.jpg?version=19.7"
+  },
+  {
+    "name": "Imposteur-Morphe",
+    "desc": "Lorsqu'un effet de monstre qui a été activé sur le Terrain de votre adversaire en ciblant une ou plusieurs cartes sur le Terrain est résolu, si une des cibles est dans une colonne différente du monstre de l'adversaire, il peut bannir 1 carte depuis son Cimetière.\r\nS'il ne l'a pas fait, annulez l'effet activé.\r\nVous pouvez bannir 1 monstre depuis votre Cimetière ; Invoquez Spécialement 1 \"Jeton Imposteur\" (Psychique/TERRE/ATK 800/DEF 800) du même Niveau que le monstre.\r\nVous ne pouvez utiliser cet effet de \"Imposteur-Morphe\" qu'une fois par tour.",
+    "overallString": "[Magie|Continu]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305088.jpg?version=19.7"
+  },
+  {
+    "name": "Mortilux Heruvur",
+    "desc": "2+ monstres de Niveau 8\r\nSi un ou plusieurs monstres sont envoyés au Cimetière de votre adversaire (sauf durant la Damage Step) : vous pouvez en cibler 1 ; attachez-le à cette carte.\r\nVous ne pouvez utiliser cet effet de \"Mortilux Heruvur\" qu'une fois par tour.\r\nCette carte gagne des effets selon le nombre de Matériels qui lui sont attachés.\r\n● 2+ : Non destructible ni au combat ni par des effets de carte.\r\n● 3+ : Votre adversaire ne peut pas cibler de cartes dans les Cimetières avec des effets de carte.\r\n● 4+ : Vous pouvez détacher 3 Matériels de cette carte ; envoyez 1 monstre sur le Terrain au Cimetière.",
+    "overallString": "[Monstre|Effet|Xyz] Bête Ailée/Lumiére  [☆8] 3000/2100",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305089.jpg?version=19.7"
+  },
+  {
+    "name": "Shatranga Angetélité",
+    "desc": "1 Syntoniseur + 1+ non-Syntoniseur\r\nVous pouvez cibler 1 monstre contrôlé par votre adversaire ; bannissez-le.\r\nSi cette carte est placée dans la Zone Magie & Piège comme Magie Continue : vous pouvez ajouter 1 Piège \"Angetélité\" depuis votre Deck ou Cimetière à votre main.\r\nVous ne pouvez utiliser chacun des effets précédents de \"Shatranga Angetélité\" qu'une fois par tour.\r\nTant que cette carte est traitée comme Magie Continue, votre adversaire ne peut tenter d'activer que max. 5 effets de monstre par tour.",
+    "overallString": "[Monstre|Effet|Synchro] Elfe/Lumiére  [★10] 3000/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305090.jpg?version=19.7"
+  },
+  {
+    "name": "Bastion Angetélité",
+    "desc": "1 Syntoniseur + 1+ non-Syntoniseur\r\nVous pouvez cibler 1 autre carte dans la colonne de cette carte ; bannissez-la.\r\nSi cette carte est placée dans la Zone Magie & Piège comme Magie Continue : vous pouvez placer 1 \"Shatranga Angetélité\" depuis votre Extra Deck dans votre Zone Magie & Piège comme Magie Continue face recto.\r\nVous ne pouvez utiliser chacun des effets précédents de \"Bastion Angetélité\" qu'une fois par tour.\r\nTant que cette carte est traitée comme Magie Continue, les autres cartes \"Angetélité\" sur le Terrain ne peuvent pas être détruites par des effets de carte de votre adversaire.",
+    "overallString": "[Monstre|Effet|Synchro] Elfe/Lumiére  [★8] 3000/2500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305091.jpg?version=19.7"
+  },
+  {
+    "name": "Destrier Angetélité",
+    "desc": "1 Syntoniseur + 1+ non-Syntoniseur\r\nVous pouvez cibler 1 monstre dans une autre colonne ; bannissez-le.\r\nSi cette carte est placée dans la Zone Magie & Piège comme Magie Continue : vous pouvez ajouter 1 Magie \"Angetélité\" depuis votre Deck à votre main.\r\nVous ne pouvez utiliser chacun des effets précédents de \"Destrier Angetélité\" qu'une fois par tour.\r\nTant que cette carte est traitée comme Magie Continue, chaque fois que votre adversaire active une carte ou un effet, infligez 500 points de dommages à votre adversaire lorsqu'il est résolu.",
+    "overallString": "[Monstre|Effet|Synchro] Elfe/Lumiére  [★7] 2500/2000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305092.jpg?version=19.7"
+  },
+  {
+    "name": "Enrôlé Angetélité",
+    "desc": "1 Syntoniseur + 1+ non-Syntoniseur\r\nVous pouvez cibler 1 monstre de l'adversaire dans la colonne adjacente à cette carte ; bannissez-le, puis changez le contrôle de cette carte en la déplaçant dans une des Zones Monstre Main de votre adversaire dans les colonnes adjacentes à cette carte.\r\nSi le contrôleur de cette carte face recto change : renvoyez cette carte à l'Extra Deck, puis le propriétaire de cette carte Invoque Spécialement 1 monstre \"Angetélité\" depuis son Extra Deck.\r\nVous ne pouvez utiliser chaque effet de \"Enrôlé Angetélité\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet|Syntoniseur|Synchro] Elfe/Lumiére  [★2] 1500/1500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305093.jpg?version=19.7"
+  },
+  {
+    "name": "Problème Angetélité",
+    "desc": "Une fois par tour : vous pouvez défausser 1 Magie/Piège ; Invoquez Spécialement 1 monstre \"Angetélité\" de Niveau 2 depuis votre Extra Deck, et si vous le faites, placez 1 monstre \"Angetélité\" depuis votre Extra Deck dans votre Zone Magie & Piège comme Magie Continue face recto.\r\nSi une ou plusieurs Cartes Monstre \"Angetélité\" face recto que vous contrôlez sont détruites au combat ou par un effet de carte : vous pouvez renvoyer 1 Carte Monstre \"Angetélité\" que vous possédez depuis votre Zone Magie & Piège à l'Extra Deck, puis vous pouvez l'Invoquer Spécialement.",
+    "overallString": "[Magie|Terrain]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305094.jpg?version=19.7"
+  },
+  {
+    "name": "Perturbation Angetélité",
+    "desc": "Donnez le contrôle d'1 monstre \"Angetélité\" que vous contrôlez à votre adversaire (jusqu'à la End Phase), puis si votre adversaire contrôle une ou plusieurs cartes face recto dans ses Zones Monstre et/ou Zones Magie & Piège adjacentes, leurs effets sont annulés.\r\nVous pouvez bannir cette carte depuis votre Cimetière ; ajoutez 1 Magie/Piège \"Angetélité\" (\"Perturbation Angetélité\" exclu) depuis votre Deck à votre main.\r\nVous ne pouvez utiliser chaque effet de \"Perturbation Angetélité\" qu'une fois par tour.",
+    "overallString": "[Piège]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305095.jpg?version=19.7"
+  },
+  {
+    "name": "Ouverture en e4 Angetélité",
+    "desc": "Si votre adversaire joue en premier, vous pouvez aussi activer cette carte depuis votre main durant la Standby Phase de son premier tour.\r\nPlacez face recto 1 Magie de Terrain \"Angetélité\" depuis votre main, Deck ou Cimetière sur votre Terrain, et si vous le faites, Invoquez Spécialement 1 monstre \"Angetélité\" de Niveau 2 ou 7 depuis votre Extra Deck dans la Zone Monstre Extra, et si vous faites ça, placez 1 monstre \"Angetélité\" depuis votre Extra Deck dans votre Zone Magie & Piège comme Magie Continue face recto.\r\nJusqu'à la fin de votre prochain tour après la résolution de cette carte, vous ne pouvez pas Invoquer Spécialement (Monstres Synchro exclus) depuis l'Extra Deck.",
+    "overallString": "[Piège]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305096.jpg?version=19.7"
+  },
+  {
+    "name": "Robo d'Assistance au Combat Sous-Marin",
+    "desc": "2 monstres Machine\r\nLorsque cette carte est Invoquée par Lien : vous pouvez cibler 1 monstre contrôlé par votre adversaire ; détruisez-le, et aussi cette carte, puis vous pouvez Invoquer Spécialement 1 monstre non-EAU Machine avec max. 1600 ATK depuis votre Cimetière.\r\nSi cette carte est bannie : vous pouvez ajouter 1 monstre Machine dont l'ATK est égale à sa propre DEF depuis votre Deck à votre main.\r\nVous ne pouvez utiliser chaque effet de \"Robo d'Assistance de Combat Sous-Marin\" qu'une fois par tour, et aussi, vous ne pouvez pas Invoquer Spécialement (monstres Machine exclus) le tour où vous activez un effet de cette carte.",
     "overallString": "[Monstre|Effet|Lien] Machine/Eau  [LINK-2] 800/-  [→][↘]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306050.jpg?version=19.7"
   },
