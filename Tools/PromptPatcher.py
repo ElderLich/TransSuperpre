@@ -34096,6 +34096,47 @@ def build_translation_pack(lang: str):
                 "ja": "別の効果を適用しますか？",
                 "kr": "다른 효과를 적용하시겠습니까?"
             },
+            "限制攻击": {
+                "en": "Restrict attacks",
+                "fr": "Limiter les attaques",
+                "de": "Angriffe einschränken",
+                "es": "Restringir ataques",
+                "pt": "Restringir ataques",
+                "it": "Limitare gli attacchi",
+                "ja": "攻撃を制限する",
+                "kr": "공격을 제한한다"
+            },
+            "请选择要取除的超量素材的数量": {
+                "en": "Select the number of Xyz Materials to detach",
+                "fr": "Sélectionnez le nombre de Matériels Xyz à détacher",
+                "de": "Wähle die Anzahl der abzuhängenden Xyz-Materialien",
+                "es": "Selecciona la cantidad de Materiales Xyz a desacoplar",
+                "pt": "Selecione a quantidade de Matérias Xyz para desassociar",
+                "it": "Seleziona il numero di Materiali Xyz da staccare",
+                "ja": "取り除くエクシーズ素材の数を選択してください",
+                "kr": "제거할 엑시즈 소재의 수를 선택하세요"
+            },
+            "是否把卡除外？（欺诈转移）": {
+                "en": "Banish the card? (Imposter Shift)",
+                "fr": "Bannir la carte ? (Permutation de l'Imposteur)",
+                "de": "Die Karte verbannen? (Hochstapler-Tausch)",
+                "es": "¿Desterrar la carta? (Cambio de Impostor)",
+                "pt": "Banir o card? (Troca do Impostore)",
+                "it": "Bandire la carta? (Sostituzione dell'Impostore)",
+                "ja": "カードを除外しますか？（詐欺転移）",
+                "kr": "카드를 제외하시겠습니까? (사기 전이)"
+            },
+            "回到额外": {
+                "en": "Return to the Extra Deck",
+                "fr": "Renvoyer dans l'Extra Deck",
+                "de": "Ins Extra Deck zurücklegen",
+                "es": "Regresar al Deck Extra",
+                "pt": "Retornar ao Deck Adicional",
+                "it": "Rimandare all'Extra Deck",
+                "ja": "EXデッキに戻す",
+                "kr": "엑스트라 덱으로 되돌린다"
+            },
+        
         
 
     }
