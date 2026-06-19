@@ -1,13 +1,115 @@
 [
   {
-    "name": "海中战型援助机器人",
-    "desc": "机械族怪兽2只\r\n这个卡名的①②的效果1回合各能使用1次，这些效果发动的回合，自己不是机械族怪兽不能特殊召唤。\r\n①：这张卡连接召唤的场合，以对方场上1只怪兽为对象才能发动。那只怪兽以及这张卡破坏。那之后，可以从自己墓地把除水属性怪兽外的，攻击力1600以下的1只机械族怪兽特殊召唤。\r\n②：这张卡被除外的场合才能发动。从卡组把攻击力和守备力的数值相同的1只机械族怪兽加入手卡。",
+    "name": "Hublot il Registro Oscuro della Morte",
+    "desc": "Puoi Evocare Normalmente questa carta senza offrire Tributi.\r\nPuoi utilizzare ciascuno dei seguenti effetti di \"Hublot il Registro Oscuro della Morte\" una sola volta per turno.\r\nSe questa carta viene Evocata Normalmente o Specialmente: puoi mandare 1 mostro Zombie di Livello 6 o superiore dal tuo Deck al Cimitero, eccetto \"Hublot il Registro Oscuro della Morte\", poi puoi aggiungere 1 mostro Zombie di Livello 6 o superiore dal tuo Cimitero alla tua mano.\r\nSe uno o più mostri vengono Evocati Specialmente dal Cimitero mentre questa carta è nella Zona Mostri, puoi: immediatamente dopo la risoluzione di questo effetto, Evocare tramite Xyz 1 Mostro Xyz Zombie.",
+    "overallString": "[Mostro|Effetto] Zombie/Oscurità  [★6] 1300/1800",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306030.jpg?version=19.7"
+  },
+  {
+    "name": "Testimone dell'Antico",
+    "desc": "Se hai un Mostro Synchro sul tuo Terreno o nel tuo Cimitero: puoi Evocare Specialmente questa carta dalla tua mano.\r\nSe questa carta viene Evocata Specialmente: puoi posizionare fino a 3 Mostri Synchro con nomi diversi dal tuo Extra Deck e/o Cimitero nella tua Zona Magie & Trappole come Magie Continue scoperte ed Evocare Specialmente 1 \"Segna-Arco\" (Macchina/LUCE/ATK 0/DEF 0) con un Livello pari al numero di carte posizionate, inoltre per il resto di questo turno non puoi Evocare Specialmente dall'Extra Deck, eccetto Mostri Synchro. \r\nPuoi utilizzare ciascun effetto di \"Testimone dell'Antico\" una sola volta per turno.",
+    "overallString": "[Mostro|Effetto|Tuner] Macchina/Luce  [★8] 0/3000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305081.jpg?version=19.7"
+  },
+  {
+    "name": "Paranoia della Diffidenza",
+    "desc": "Prendi il controllo di tutti i mostri del tuo avversario nella colonna di questa carta.\r\nSe questa carta Posizionata sotto il controllo del suo proprietario lascia il Terreno per effetto del tuo avversario ed ora si trova nel Cimitero o è bandita: puoi Evocare Specialmente questa carta come Mostro Effetto (Demone/OSCURITÀ/Livello 10/ATK 4000/DEF 4000) con il seguente effetto (questa carta NON è trattata come una Trappola).\r\n● Immune agli effetti delle carte del tuo avversario attivati nella stessa colonna.\r\nPuoi attivare solo 1 \"Paranoia della Diffidenza\" per turno.",
+    "overallString": "[Trappola]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305082.jpg?version=19.7"
+  },
+  {
+    "name": "Yomagna il Fantasma di Fuoco",
+    "desc": "Non può essere Evocato Normalmente/Posizionato. Deve prima essere Evocato Specialmente (dalla tua mano) mischiando 3 carte dello stesso tipo (Mostro, Magia o Trappola) dal tuo Cimitero nel Deck/Extra Deck.\r\nSe questa carta viene Evocata Specialmente: puoi dichiarare 1 Tipo di Mostro; questa carta diventa di quel Tipo fino alla fine di questo turno.\r\nDurante la tua Main Phase: puoi Evocare tramite Fusione 1 Mostro Fusione dal tuo Extra Deck utilizzando mostri su qualsiasi Terreno, inclusa questa carta.\r\nPuoi utilizzare ciascun effetto di \"Yomagna il Fantasma di Fuoco\" una sola volta per turno.",
+    "overallString": "[Mostro|Effetto|Evocazione Speciale] Pyro/Oscurità  [★10] 3300/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305083.jpg?version=19.7"
+  },
+  {
+    "name": "Spaventapasseri Schiantotuono",
+    "desc": "Ogni volta che uno o più mostri non-TUONO vengono Evocati Specialmente scoperti, mentre questa carta è nella Zona Mostri: quei mostri non possono attaccare in questo turno, inoltre distruggili durante la End Phase.\r\nSe questa carta è nel tuo Cimitero: puoi scegliere come bersaglio 1 carta scoperta che controlli; distruggila e, se lo fai, aggiungi questa carta alla tua mano.\r\nPuoi utilizzare questo effetto di \"Spaventapasseri Schiantotuono\" una sola volta per turno.",
+    "overallString": "[Mostro|Effetto] Tuono/Luce  [★8] 1600/2800",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305084.jpg?version=19.7"
+  },
+  {
+    "name": "Mixousia la Confonditrice",
+    "desc": "1 mostro Incantatore + 1 mostro non-Incantatore\r\nPuoi scegliere come bersaglio 1 mostro scoperto sul Terreno e dichiarare 1 Attributo; quel mostro diventa di quell'Attributo.\r\nDurante la Main Phase del tuo avversario (Effetto Rapido): puoi Evocare tramite Fusione 1 Mostro Fusione dal tuo Extra Deck, bandendo questa carta che controlli e mostri dal tuo Terreno o Cimitero come materiale.\r\nSe questa carta è nel tuo Cimitero: puoi dichiarare 1 Attributo; questa carta nel Cimitero diventa di quell'Attributo fino alla fine di questo turno.\r\nPuoi utilizzare ciascun effetto di \"Mixousia la Confonditrice\" una sola volta per turno.",
+    "overallString": "[Mostro|Effetto|Fusione] Incantatore/Oscurità  [★8] 2700/1500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305085.jpg?version=19.7"
+  },
+  {
+    "name": "Sciamanite Cavaliere Sciamano",
+    "desc": "2+ mostri di Livello 3\r\nSe questa carta viene Evocata Xyz, o se una Trappola che possiedi viene bandita: puoi scegliere come bersaglio 1 delle tue Trappole bandite; attaccala a questa carta come materiale.\r\nPuoi staccare un qualsiasi numero di materiali da questa carta, poi scegliere come bersaglio 1 mostro OSCURITÀ nel tuo Cimitero o tra le tue carte bandite con un Livello uguale al numero di materiali staccati; Evocalo Specialmente.\r\nPuoi utilizzare ciascun effetto di \"Sciamanite Cavaliere Sciamano\" una sola volta per turno.",
+    "overallString": "[Mostro|Effetto|Xyz] Guerriero/Oscurità  [☆3] 1700/2400",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305086.jpg?version=19.7"
+  },
+  {
+    "name": "Cerynemesia, Bestia Mistica della Foresta",
+    "desc": "Se questa carta viene Evocata Normalmente o Specialmente: puoi bandire scoperto 1 Mostro Bestia dalla tua mano o Terreno scoperto fino alla End Phase; Evoca Specialmente 1 Mostro Bestia TERRA dal tuo Deck o Cimitero con un Livello uguale o inferiore al Livello originale di quel mostro, poi il tuo avversario può Evocare Specialmente 1 mostro dalla sua mano.\r\nPuoi utilizzare questo effetto di \"Cerynemesia, Bestia Mistica della Foresta\" una sola volta per turno.\r\nI mostri del tuo avversario che possono attaccare devono attaccare il mostro che controlli con l'ATK più alto (in caso di parità, sceglie lui).",
+    "overallString": "[Mostro|Effetto] Bestia/Terra  [★2] 0/1600",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305087.jpg?version=19.7"
+  },
+  {
+    "name": "Sostituzione dell'Impostore",
+    "desc": "Quando si risolve un effetto mostro attivato sul Terreno del tuo avversario che ha scelto come bersaglio una o più carte sul Terreno, se uno qualsiasi di quei bersagli si trova in una colonna diversa rispetto al mostro del tuo avversario, quel giocatore può bandire 1 carta dal suo Cimitero. Se non lo fa, annulla quell'effetto attivato.\r\nPuoi bandire 1 mostro dal tuo Cimitero; Evoca Specialmente 1 \"Segna-Impostore\" (Psichico/TERRA/Livello 800/DEF 800) con lo stesso Livello di quel mostro.\r\nPuoi utilizzare questo effetto di \"Sostituzione dell'Impostore\" una sola volta per turno.",
+    "overallString": "[Magia|Continua]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305088.jpg?version=19.7"
+  },
+  {
+    "name": "Mortilux Heruvur",
+    "desc": "2+ mostri di Livello 8\r\nSe uno o più mostri vengono mandati al Cimitero del tuo avversario (eccetto durante il Damage Step): puoi scegliere come bersaglio 1 di essi; attaccalo a questa carta come materiale. Puoi utilizzare questo effetto di \"Mortilux Heruvur\" una sola volta per turno.\r\nQuesta carta guadagna effetti in base al numero di materiali attaccati ad essa.\r\n● 2+: non può essere distrutta in battaglia o dagli effetti delle carte.\r\n● 3+: il tuo avversario non può scegliere come bersaglio carte nei Cimiteri con effetti di carte.\r\n● 4+: puoi staccare 3 materiali da questa carta; manda 1 mostro sul Terreno al Cimitero.",
+    "overallString": "[Mostro|Effetto|Xyz] Bestia Alata/Luce  [☆8] 3000/2100",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305089.jpg?version=19.7"
+  },
+  {
+    "name": "Angelechy Shatranga",
+    "desc": "1 Tuner + 1+ non-Tuner\r\nPuoi scegliere come bersaglio 1 mostro controllato dal tuo avversario; bandiscilo.\r\nSe questa carta viene posizionata nella Zona Magie & Trappole come Magia Continua: puoi aggiungere 1 Trappola \"Angelechy\" dal tuo Deck o Cimitero alla tua mano.\r\nPuoi utilizzare ciascuno degli effetti precedenti di \"Angelechy Shatranga\" una sola volta per turno.\r\nMentre questa carta è trattata come una Magia Continua, il tuo avversario può tentare di attivare solo fino a 5 effetti mostro per turno.",
+    "overallString": "[Mostro|Effetto|Synchro] Fata/Luce  [★10] 3000/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305090.jpg?version=19.7"
+  },
+  {
+    "name": "Angelechy Bastione",
+    "desc": "1 Tuner + 1+ non-Tuner\r\nPuoi scegliere come bersaglio 1 altra carta nella colonna di questa carta; bandiscila.\r\nSe questa carta viene posizionata nella Zona Magie & Trappole come Magia Continua: puoi posizionare 1 \"Angelechy Shatranga\" dal tuo Extra Deck nella tua Zona Magie & Trappole come Magia Continua scoperta.\r\nPuoi utilizzare ciascuno degli effetti precedenti di \"Angelechy Bastione\" una sola volta per turno.\r\nMentre questa carta è trattata come una Magia Continua, le altre carte \"Angelechy\" sul Terreno non possono essere distrutte dagli effetti delle carte del tuo avversario.",
+    "overallString": "[Mostro|Effetto|Synchro] Fata/Luce  [★8] 3000/2500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305091.jpg?version=19.7"
+  },
+  {
+    "name": "Angelechy Destriero",
+    "desc": "1 Tuner + 1+ non-Tuner\r\nPuoi scegliere come bersaglio 1 mostro in un'altra colonna; bandiscilo.\r\nSe questa carta viene posizionata nella Zona Magie & Trappole come Magia Continua: puoi aggiungere 1 Magia \"Angelechy\" dal tuo Deck alla tua mano.\r\nPuoi utilizzare ciascuno degli effetti precedenti di \"Angelechy Destriero\" una sola volta per turno.\r\nMentre questa carta è trattata come una Magia Continua, ogni volta che il tuo avversario attiva una carta o un effetto, infliggi 500 danni al tuo avversario quando si risolve.",
+    "overallString": "[Mostro|Effetto|Synchro] Fata/Luce  [★7] 2500/2000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305092.jpg?version=19.7"
+  },
+  {
+    "name": "Angelechy Arruolato",
+    "desc": "1 Tuner + 1+ non-Tuner\r\nPuoi scegliere come bersaglio 1 mostro del tuo avversario nella colonna adiacente a questa carta; bandiscilo, poi cambia il controllo di questa carta spostandola in una delle Zone Mostri Principali del tuo avversario nelle colonne adiacenti a questa carta.\r\nSe il controllo di questa carta scoperta cambia: fai ritornare questa carta all'Extra Deck, poi il proprietario di questa carta Evoca Specialmente 1 mostro \"Angelechy\" dal suo Extra Deck.\r\nPuoi utilizzare ciascun effetto di \"Angelechy Arruolato\" una sola volta per turno.",
+    "overallString": "[Mostro|Effetto|Tuner|Synchro] Fata/Luce  [★2] 1500/1500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305093.jpg?version=19.7"
+  },
+  {
+    "name": "Problema Angelechy",
+    "desc": "Una volta per turno: puoi scartare 1 Magia/Trappola; Evoca Specialmente 1 mostro \"Angelechy\" di Livello 2 dal tuo Extra Deck e, se lo fai, posiziona 1 mostro \"Angelechy\" dal tuo Extra Deck nella tua Zona Magie & Trappole come Magia Continua scoperta.\r\nSe una o più Carte Mostro \"Angelechy\" scoperte che controlli vengono distrutte in battaglia o dall'effetto di una carta: puoi far ritornare 1 Carta Mostro \"Angelechy\" che controlli dalla tua Zona Magie & Trappole all'Extra Deck, poi puoi Evocarla Specialmente.",
+    "overallString": "[Magia|Terreno]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305094.jpg?version=19.7"
+  },
+  {
+    "name": "Disturbo Angelechy",
+    "desc": "Cedi il controllo di 1 mostro \"Angelechy\" che controlli al tuo avversario (fino alla End Phase), poi, se il tuo avversario controlla una o più carte scoperte nelle Zone Mostri e/o Zone Magie & Trappole adiacenti, i loro effetti vengono annullati.\r\nPuoi bandire questa carta dal tuo Cimitero; aggiungi 1 Magia/Trappola \"Angelechy\" dal tuo Deck alla tua mano, eccetto \"Disturbo Angelechy\".\r\nPuoi utilizzare ciascun effetto di \"Disturbo Angelechy\" una sola volta per turno.",
+    "overallString": "[Trappola]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305095.jpg?version=19.7"
+  },
+  {
+    "name": "Apertura Angelechy e4",
+    "desc": "Se il tuo avversario inizia per primo, puoi anche attivare questa carta dalla tua mano durante la Standby Phase del suo primo turno.\r\nPosiziona 1 Magia Terreno \"Angelechy\" dalla tua mano, Deck o Cimitero scoperta sul tuo Terreno e, se lo fai, Evoca Specialmente 1 mostro \"Angelechy\" di Livello 2 o 7 dal tuo Extra Deck nella Zona Mostri Extra, e, se lo fai, posiziona 1 mostro \"Angelechy\" dal tuo Extra Deck nella tua Zona Magie & Trappole come Magia Continua scoperta.\r\nFino alla fine del tuo prossimo turno dopo la risoluzione di questa carta, non puoi Evocare Specialmente dall'Extra Deck, eccetto Mostri Synchro.",
+    "overallString": "[Trappola]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305096.jpg?version=19.7"
+  },
+  {
+    "name": "Robot di Supporto per il Combattimento Subacqueo",
+    "desc": "Se questa carta viene Evocata tramite Link: puoi scegliere come bersaglio 1 mostro controllato dal tuo avversario; distruggilo, inoltre distruggi questa carta, poi puoi Evocare Specialmente 1 mostro Macchina non-ACQUA con 1600 o meno ATK dal tuo Cimitero.\r\nSe questa carta viene bandita: puoi aggiungere 1 mostro Macchina con ATK pari al suo stesso DEF dal tuo Deck alla tua mano.\r\nPuoi utilizzare ciascun effetto di \"Robot di Supporto per il Combattimento Subacqueo\" una sola volta per turno, inoltre non puoi Evocare Specialmente nel turno in cui attivi uno qualsiasi degli effetti di questa carta, eccetto mostri Macchina.",
     "overallString": "[Mostro|Effetto|Link] Macchina/Acqua  [LINK-2] 800/-  [→][↘]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306050.jpg?version=19.7"
   },
   {
-    "name": "圣心防护罩 -心灵之力-",
-    "desc": "对方场上有表侧表示卡5张以上存在的场合，这张卡的发动和效果不会被无效化，这张卡在盖放的回合也能发动。\r\n①：以下任意时才能发动。对方场上的全部表侧表示卡效果无效并破坏。这张卡的发动后，直到下个回合结束时自己怪兽不能直接攻击。\r\n●对方场上的攻击力最高的怪兽的攻击宣言时\r\n●要把场上的卡破坏的怪兽的效果由对方发动时\r\n●自己回合对方把手卡·场上的怪兽的效果发动时",
+    "name": "Forza Riflessa Mentale",
+    "desc": "Se il tuo avversario controlla 5 o più carte scoperte, l'attivazione e l'effetto di questa carta non possono essere annullati, inoltre puoi attivare questa carta nel turno in cui è stata Posizionata.\r\nIn uno qualsiasi dei seguenti momenti: annulla gli effetti di quante più carte scoperte controllate dal tuo avversario possibile e, se lo fai, distruggile, inoltre i tuoi mostri non possono attaccare direttamente fino alla fine del prossimo turno dopo la risoluzione di questa carta.\r\n● Quando il mostro controllato dal tuo avversario con l'ATK più alto (anche in caso di parità) dichiara un attacco.\r\n● Quando il tuo avversario attiva un effetto di un mostro che distruggerebbe una o più carte sul Terreno.\r\n● Quando il tuo avversario attiva un effetto di un mostro nella mano o sul Terreno durante il tuo turno.",
     "overallString": "[Trappola]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100266002.jpg?version=19.7"
   },
