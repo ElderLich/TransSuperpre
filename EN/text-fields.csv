@@ -236,6 +236,127 @@ You can only activate 1 ""Ancient Secrets"" per turn."
 ● When your opponent activates a monster effect in the hand or field during your turn."
 100266002,Mind Mirror Force,str1,Activate
 100266002,Mind Mirror Force,str2,Activate by applying the effect of {CARD}.
+101305081,Witness of the Ancient,name,Witness of the Ancient
+101305081,Witness of the Ancient,desc,"If you have a Synchro Monster in your field or GY: You can Special Summon this card from your hand. 
+If this card is Special Summoned: You can place up to 3 Synchro Monsters with different names from your Extra Deck and/or GY in your Spell & Trap Zone as face-up Continuous Spells, and Special Summon 1 “Arc Token” (Machine/LIGHT/ATK 0/DEF 0) with a Level equal to the number placed, also for the rest of this turn, you cannot Special Summon from the Extra Deck, except Synchro Monsters. You can use each of “Witness of the Ancient” once per turn."
+101305081,Witness of the Ancient,str1,Special Summon
+101305081,Witness of the Ancient,str2,Place a monster
+101305082,Distrust Paranoia,name,Distrust Paranoia
+101305082,Distrust Paranoia,desc,"Take control of all your opponent’s monsters in this card’s column. 
+If this Set card in its owner’s control has left the field by an opponent’s effect, and is now in the GY or banished: You can Special Summon this card as an Effect Monster (Fiend/DARK/Level 10/ATK 4000/DEF 4000) with the following effect (this card is NOT treated as a Trap).
+● Unaffected by your opponent’s card effects activated in the same column.
+You can only activate 1 “Distrust Paranoia” per turn."
+101305082,Distrust Paranoia,str1,Take control
+101305082,Distrust Paranoia,str2,Special Summon
+101305083,Yomagna the Fire Phantom,name,Yomagna the Fire Phantom
+101305083,Yomagna the Fire Phantom,desc,"Cannot be Normal Summoned/Set. 
+Must first be Special Summoned (from your hand) by shuffling 3 cards of the same type (Monster, Spell, or Trap) from your GY into the Deck/Extra Deck. 
+If this card is Special Summoned: You can declare 1 Monster Type; this card becomes that Type until the end of this turn. 
+During your Main Phase: You can Fusion Summon 1 Fusion Monster from your Extra Deck using monsters on either field, including this card. 
+You can only use each effect of “Yomagna the Fire Phantom” once per turn."
+101305083,Yomagna the Fire Phantom,str1,Special Summon
+101305083,Yomagna the Fire Phantom,str2,Change Type
+101305083,Yomagna the Fire Phantom,str3,Fusion effect
+101305084,Thundercrash Snarecrow,name,Thundercrash Snarecrow
+101305084,Thundercrash Snarecrow,desc,"Each time a non-Thunder monster(s) is Special Summoned face-up, while this card is in the Monster Zone: That monster(s) cannot attack this turn, also destroy it during the End Phase. 
+If this card is in your GY: You can target 1 face-up card you control; destroy it, and if you do, add this card to your hand. 
+You can only use this effect of “Thundercrash Snarecrow” once per turn."
+101305084,Thundercrash Snarecrow,str1,Cannot Attack
+101305084,Thundercrash Snarecrow,str2,Recycle
+101305084,Thundercrash Snarecrow,str3,"The effect of ""Thundercrash Snarecrow"" is currently being applied."
+101305085,Mixousia the Confounder,name,Mixousia the Confounder
+101305085,Mixousia the Confounder,desc,"1 Spellcaster monster + 1 non-Spellcaster monster
+You can target 1 face-up monster on the field and declare 1 Attribute, it becomes that Attribute. 
+During your opponent’s Main Phase (Quick Effect): You can Fusion Summon 1 Fusion Monster from your Extra Deck by banishing this card you control and monsters from your field or GY as material. 
+If this card is in your GY: You can declare 1 Attribute; this card in the GY becomes that Attribute until the end of this turn. 
+You can only use each effect of “Mixousia the Confounder” once per turn."
+101305085,Mixousia the Confounder,str1,Change Attribute
+101305085,Mixousia the Confounder,str2,Fusion Summon
+101305085,Mixousia the Confounder,str3,Change Attribute
+101305086,Shamanite Shamanknight,name,Shamanite Shamanknight
+101305086,Shamanite Shamanknight,desc,"2+ Level 3 monsters
+If this card is Xyz Summoned, or if a Trap you own is banished: You can target 1 of your banished Traps; attach it to this card. 
+You can detach any number of materials from this card, then target 1 DARK monster in your GY or banishment with a Level equal to the number detached; Special Summon it. 
+You can only use each effect of “Shamanite Shamanknight” once per turn."
+101305086,Shamanite Shamanknight,str1,Attach Xyz material
+101305086,Shamanite Shamanknight,str2,Special Summon
+101305086,Shamanite Shamanknight,str3,Select the number of Xyz Materials to detach.
+101305087,"Cerynemesia, Mystical Beast of the Forest",name,"Cerynemesia, Mystical Beast of the Forest"
+101305087,"Cerynemesia, Mystical Beast of the Forest",desc,"If this card is Normal or Special Summoned: You can banish (face-up) 1 Beast monster from your hand or face-up field until the End Phase; Special Summon 1 EARTH Beast Monster from your Deck or GY, with an equal or lower Level than that monster’s original Level, then your opponent can Special Summon 1 monster from their hand. 
+You can only use this effect of “Cerynemesia, Mystical Beast of the Forest” once per turn. 
+Your opponent’s monsters that can attack must attack the monster you control with the highest ATK (their choice, if tied)."
+101305087,"Cerynemesia, Mystical Beast of the Forest",str1,Special Summon
+101305087,"Cerynemesia, Mystical Beast of the Forest",str2,Special Summon?
+101305087,"Cerynemesia, Mystical Beast of the Forest",str3,Banish until the End Phase
+101305088,Imposter Shift,name,Imposter Shift
+101305088,Imposter Shift,desc,"When a monster effect that was activated on your opponent’s field by targeting a card(s) on the field resolves, if any of those targets are in a different column than that opponent’s monster, they can banish 1 card from their GY. 
+If they did not, negate the activated effect. 
+You can banish 1 monster from your GY; Special Summon 1 “Imposter Token” (Psychic/EARTH/ATK 800/DEF 800) with the same Level as that monster. You can only use this effect of “Imposter Shift” once per turn."
+101305088,Imposter Shift,str2,Special Summon
+101305088,Imposter Shift,str3,Banish this card?
+101305089,Mortilux Heruvur,name,Mortilux Heruvur
+101305089,Mortilux Heruvur,desc,"2+ Level 8 monsters
+If a monster(s) is sent to your opponent’s GY (except during the Damage Step): You can target 1 of them; attach it to this card. 
+You can only use this effect of “Mortilux Heruvur” once per turn. 
+This card gains effects based on the number of materials attached to it.
+● 2+: Cannot be destroyed by battle or card effects.
+● 3+: Your opponent cannot target cards in the GYs with card effects.
+● 4+: You can detach 3 materials from this card; send 1 monster on the field to the GY."
+101305089,Mortilux Heruvur,str1,Attach Xyz material
+101305089,Mortilux Heruvur,str2,Send to the GY
+101305090,Angelechy Shatranga,name,Angelechy Shatranga
+101305090,Angelechy Shatranga,desc,"1 Tuner + 1+ non-Tuners
+You can target 1 monster your opponent controls; banish it. 
+If this card is placed in the Spell & Trap Zone as a Continuous Spell: You can add 1 “Angelechy” Trap from your Deck or GY to your hand. 
+You can only use each of the preceding effects of “Angelechy Shatranga” once per turn. 
+While this card is treated as a Continuous Spell, your opponent can only attempt to activate up to 5 monster effects per turn."
+101305090,Angelechy Shatranga,str1,Banish effect
+101305090,Angelechy Shatranga,str2,Search effect
+101305091,Angelechy Bastion,name,Angelechy Bastion
+101305091,Angelechy Bastion,desc,"1 Tuner + 1+ non-Tuners
+You can target 1 other monster in this card’s column; banish it. 
+If this card is placed in the Spell & Trap Zone as a Continuous Spell: You can place 1 “Angelechy Shatranga” from your Extra Deck in your Spell & Trap Zone as a face-up Continuous Spell. 
+You can only use each of the preceding effects of “Angelechy Bastion” once per turn. 
+While this card is treated as a Continuous Spell, other “Angelechy” cards on the field cannot be destroyed by your opponent’s card effects."
+101305091,Angelechy Bastion,str1,Banish effect
+101305091,Angelechy Bastion,str2,Placement effect
+101305092,Angelechy Destrier,name,Angelechy Destrier
+101305092,Angelechy Destrier,desc,"1 Tuner + 1+ non-Tuners
+You can target 1 other monster in this card’s column; banish it. 
+If this card is placed in the Spell & Trap Zone as a Continuous Spell: You can add 1 “Angelechy” Spell from your Deck to your hand. 
+You can only use each of the preceding effects of “Angelechy Destrier” once per turn. 
+While this card is treated as a Continuous Spell, each time your opponent activates a card or effect, inflict 500 damage to your opponent when it resolves."
+101305092,Angelechy Destrier,str1,Banish effect
+101305092,Angelechy Destrier,str2,Search effect
+101305093,Angelechy Enlisted,name,Angelechy Enlisted
+101305093,Angelechy Enlisted,desc,"1 Tuner + 1 non-Tuner
+You can target 1 opponent’s monster in this card’s adjacent column; banish it, then change control of this card by moving it to one of your opponent’s Main Monster Zones in this card’s adjacent columns. 
+If the control of this face-up card changes: Return this card to the Extra Deck, then the owner of this card Special Summons 1 “Angelechy” monster from their Extra Deck. 
+You can only use each effect of “Angelechy Enlisted” once per turn."
+101305093,Angelechy Enlisted,str1,Banish effect
+101305093,Angelechy Enlisted,str2,Special Summon
+101305094,Angelechgy Problem,name,Angelechgy Problem
+101305094,Angelechgy Problem,desc,"Once per turn: You can discard 1 Spell/Trap; Special Summon 1 Level 2 “Angelechy” monster from your Extra Deck, and if you do, place 1 “Angelechy” monster from your Extra Deck to your Spell & Trap Zone as a face-up Continuous Spell. 
+If a face-up “Angelechy” Monster Card(s) you control is destroyed by battle or card effect: You can return 1 “Angelechy Monster Card you own from your Spell & Trap Zone to the Extra Deck, then you can Special Summon it."
+101305094,Angelechgy Problem,str1,Special Summon
+101305094,Angelechgy Problem,str2,Return to the Extra Deck
+101305094,Angelechgy Problem,str3,Special Summon?
+101305095,Angelechy Disturbance,name,Angelechy Disturbance
+101305095,Angelechy Disturbance,desc,"Give control of 1 “Angelechy” monster you control to your opponent (until the End Phase), then if your opponent controls a face-up card(s) in its adjacent Monster Zones and/or Spell & Trap Zone, their effects are negated. 
+You can banish this card from your GY; add 1 “Angelechy” Spell/Trap from your Deck to your hand, except “Angelechy Disturbance”. 
+You can only use each effect of “Angelechy Disturbance” once per turn."
+101305095,Angelechy Disturbance,str1,Transfer control
+101305095,Angelechy Disturbance,str2,Search effect
+101305096,Angelechy Opening to E4,name,Angelechy Opening to E4
+101305096,Angelechy Opening to E4,desc,"If your opponent goes first, you can also activate this card from your hand during the Standby Phase of their first turn. 
+Place 1 “Angelechy” Field Spell from your hand, Deck, or GY, face-up on your field, and if you do, Special Summon 1 Level 2 or 7 “Angelechy” monster from your Extra Deck to the Extra Monster Zone, and if you do, place 1 “Angelechy” monster from your Extra Deck in your Spell & Trap Zone as a face-up Continuous Spell. 
+Until the end of your next turn after this card resolves, you cannot Special Summon from the Extra Deck, Except Synchro Monsters."
+101305096,Angelechy Opening to E4,str1,Activate
+101305096,Angelechy Opening to E4,str2,Activate by applying the effect of {CARD}.
+101305181,Arc Token,name,Arc Token
+101305181,Arc Token,desc,"Special Summoned by the effect of ""Witness of the Ancient""."
+101305188,Imposter Token,name,Imposter Token
+101305188,Imposter Token,desc,"Special Summoned by the effect of ""Imposter Shift""."
 101306001,Swiftwind Panther Warrior,name,Swiftwind Panther Warrior
 101306001,Swiftwind Panther Warrior,desc,"During the Main Phase (Quick Effect): You can Tribute 1 other monster from your hand or field, then activate 1 of these effects;
 ● Special Summon 1 monster that mentions ""Dark Time Wizard"" from your hand or Deck, except ""Swiftwind Panther Warrior"".
@@ -314,6 +435,12 @@ You can only use this effect of ""Swiftwind Panther Warrior"" once per turn. Can
 101306025,Adamancipator Crystal - Tiamite,str1,Search effect
 101306025,Adamancipator Crystal - Tiamite,str2,Return to the Deck
 101306025,Adamancipator Crystal - Tiamite,str3,Special Summon?
+101306030,Hublot the Dark Directory of Death,name,Hublot the Dark Directory of Death
+101306030,Hublot the Dark Directory of Death,desc,"You can Normal Summon this card without Tributing. You can only use each of the following effects of ""Hublot the Dark Directory of Death"" once per turn. If this card is Normal or Special Summoned: You can send 1 Level 6 or higher Zombie monster from your Deck to the GY, except ""Hublot the Dark Directory of Death"", then you can add 1 Level 6 or higher Zombie monster from your GY to your hand. If a monster(s) is Special Summoned from the GY while this card is in the Monster Zone, you can: Immediately after this effect resolves, Xyz Summon 1 Zombie Xyz Monster."
+101306030,Hublot the Dark Directory of Death,str1,Normal Summon without Tributing
+101306030,Hublot the Dark Directory of Death,str2,Send to the GY
+101306030,Hublot the Dark Directory of Death,str3,Xyz Summon
+101306030,Hublot the Dark Directory of Death,str4,Add to hand?
 101306036,Red-Eyes Black Dragon Exceed,name,Red-Eyes Black Dragon Exceed
 101306036,Red-Eyes Black Dragon Exceed,desc,"""Red-Eyes Black Dragon"" + 1 monster that mentions ""Dark Time Wizard""
 Must be either Fusion Summoned, or Special Summoned (from your Extra Deck) by Tributing 1 face-up monster on either field during the turn a monster(s) was destroyed by the effect of ""Dark Time Wizard"". You can only Special Summon ""Red-Eyes Black Dragon Exceed"" once per turn this way, no matter which method you use. If this card is Special Summoned: You can Special Summon 1 Level 8 or lower monster from your hand or GY. Unaffected by your opponent's activated monster and Spell effects."
