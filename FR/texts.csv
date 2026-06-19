@@ -165,6 +165,73 @@ Vous ne pouvez activer qu'1 ""Anciens Secrets"" par tour.",Activer,Appliquer un 
 ● Lorsque le monstre contrôlé par votre adversaire avec la plus haute ATK (même en cas d'égalité) déclare une attaque.
 ● Lorsque votre adversaire active un effet de monstre qui va détruire une ou plusieurs cartes sur le Terrain.
 ● Lorsque votre adversaire active un effet de monstre dans la main ou Terrain durant votre tour.",Activer,Activer en appliquant l'effet de {CARD}.,,,,,,,,,,,,,,
+101305081,Témoin de l'Ancien,"Si vous avez un Monstre Synchro dans votre Terrain ou Cimetière : vous pouvez Invoquer Spécialement cette carte depuis votre main.
+Si cette carte est Invoquée Spécialement : vous pouvez placer max. 3 Monstres Synchro de noms différents depuis votre Extra Deck et/ou Cimetière dans votre Zone Magie & Piège comme Magies Continues face recto, et Invoquez Spécialement 1 ""Jeton Arc"" (Machine/LUMIÈRE/ATK 0/DEF 0) de Niveau égal au nombre placé, et aussi, vous ne pouvez pas Invoquer Spécialement (Monstres Synchro exclus) depuis l'Extra Deck le reste de ce tour.
+Vous ne pouvez utiliser chaque effet de ""Témoin de l'Ancien"" qu'une fois par tour.",Invocation Spéciale,Placer un monstre,,,,,,,,,,,,,,
+101305082,Paranoïa de Méfiance,"Prenez le contrôle de tous les monstres de votre adversaire dans la colonne de cette carte.
+Si cette carte Posée contrôlée par son propriétaire a quitté le Terrain par un effet de l'adversaire, et est maintenant dans le Cimetière ou bannie : vous pouvez Invoquer Spécialement cette carte comme Monstre à Effet (Démon/TÉNÈBRES/Niveau 10/ATK 4000/DEF 4000) avec l'effet suivant (cette carte n'est PAS traitée comme un Piège).
+● Non affecté par des effets de carte de votre adversaire activés dans la même colonne.
+Vous ne pouvez activer qu'1 ""Paranoïa de Méfiance"" par tour.",Prendre le contrôle,Invocation Spéciale,,,,,,,,,,,,,,
+101305083,Yomagna le Fantôme du Feu,"Ni Invocable Normalement ni Posable Normalement.
+Doit d'abord être Invoquée Spécialement (depuis votre main) en mélangeant 3 cartes du même type (Monstre, Magie ou Piège) depuis votre Cimetière dans le Deck/Extra Deck.
+Si cette carte est Invoquée Spécialement : vous pouvez déclarer 1 Type de Monstre ; jusqu'à la fin de ce tour, cette carte devient ce Type.
+Durant votre Main Phase : vous pouvez Invoquer par Fusion 1 Monstre Fusion depuis votre Extra Deck en utilisant des monstres (cette carte incluse) sur au moins l'un des Terrains.
+Vous ne pouvez utiliser chaque effet de ""Yomagna le Fantôme du Feu"" qu'une fois par tour.",Invocation Spéciale,Changer le Type,Effet de Fusion,,,,,,,,,,,,,
+101305084,Piègevantail du Tonnerre Fracassant,"Chaque fois qu'un ou plusieurs monstres non-Tonnerre sont Invoqués Spécialement face recto, tant que cette carte est dans la Zone Monstre : ces monstres ne peuvent pas attaquer ce tour, et aussi, détruisez-les durant la End Phase.
+Si cette carte est dans votre Cimetière : vous pouvez cibler 1 carte face recto que vous contrôlez ; détruisez-la, et si vous le faites, ajoutez cette carte à votre main.
+Vous ne pouvez utiliser cet effet de ""Piègevantail du Tonnerre Fracassant"" qu'une fois par tour.",Ne peut pas attaquer,Recycler,L'effet de {CARD} est actuellement appliqué.,,,,,,,,,,,,,
+101305085,Muxousia la Déconcerteuse,"1 monstre Magicien + 1 monstre non-Magicien
+Vous pouvez cibler 1 monstre face recto sur le Terrain, et déclarez 1 Attribut ; il devient cet Attribut.
+Durant la Main Phase de votre adversaire (Effet Rapide) : vous pouvez Invoquer par Fusion 1 Monstre Fusion depuis votre Extra Deck, en bannissant cette carte que vous contrôlez et des monstres depuis votre Terrain ou Cimetière comme Matériel.
+Si cette carte est dans votre Cimetière : vous pouvez déclarer 1 Attribut ; jusqu'à la fin de ce tour, cette carte dans le Cimetière devient cet Attribut.
+Vous ne pouvez utiliser chaque effet de ""Muxousia la Déconcerteuse"" qu'une fois par tour.",Changer l'Attribut,Invocation Fusion,Changer l'Attribut,,,,,,,,,,,,,
+101305086,Shamanite le Chevalier Shamanique,"2+ monstres de Niveau 3
+Si cette carte est Invoquée par Xyz, ou si un Piège que vous possédez est banni : vous pouvez cibler 1 de vos Pièges bannis ; attachez-le à cette carte.
+Vous pouvez détacher un nombre de votre choix de Matériels de cette carte, puis ciblez 1 monstre TÉNÈBRES dans votre Cimetière ou bannissement de Niveau égal au nombre détaché ; Invoquez-le Spécialement.
+Vous ne pouvez utiliser chaque effet de ""Shamanite le Chevalier Shamanique"" qu'une fois par tour.",Attacher un Matériel Xyz,Invocation Spéciale,Nombre de matériaux à détacher :,,,,,,,,,,,,,
+101305087,"Cerynemesia, Bête Mystique de la Forêt","Si cette carte est Invoquée Normalement ou Spécialement : jusqu'à la End Phase, vous pouvez bannir (face recto) 1 monstre Bête depuis votre main ou Terrain face recto ; Invoquez Spécialement 1 monstre TERRE Bête depuis votre Deck ou Cimetière, d'un Niveau inférieur ou égal au Niveau d'origine du monstre, puis votre adversaire peut Invoquer Spécialement 1 monstre depuis sa main.
+Vous ne pouvez utiliser cet effet de ""Cerynemesia, Bête Mystique de la Forêt"" qu'une fois par tour.
+Les monstres de votre adversaire qui peuvent attaquer doivent attaquer le monstre que vous contrôlez avec la plus haute ATK (en cas d'égalité, il choisit).",Invocation Spéciale,Invocation Spéciale?,Bannir jusqu'à la End Phase,,,,,,,,,,,,,
+101305088,Imposteur-Morphe,"Lorsqu'un effet de monstre qui a été activé sur le Terrain de votre adversaire en ciblant une ou plusieurs cartes sur le Terrain est résolu, si une des cibles est dans une colonne différente du monstre de l'adversaire, il peut bannir 1 carte depuis son Cimetière.
+S'il ne l'a pas fait, annulez l'effet activé.
+Vous pouvez bannir 1 monstre depuis votre Cimetière ; Invoquez Spécialement 1 ""Jeton Imposteur"" (Psychique/TERRE/ATK 800/DEF 800) du même Niveau que le monstre.
+Vous ne pouvez utiliser cet effet de ""Imposteur-Morphe"" qu'une fois par tour.",,Invocation Spéciale,Bannir une carte ? (Imposteur-Morphe),,,,,,,,,,,,,
+101305089,Mortilux Heruvur,"2+ monstres de Niveau 8
+Si un ou plusieurs monstres sont envoyés au Cimetière de votre adversaire (sauf durant la Damage Step) : vous pouvez en cibler 1 ; attachez-le à cette carte.
+Vous ne pouvez utiliser cet effet de ""Mortilux Heruvur"" qu'une fois par tour.
+Cette carte gagne des effets selon le nombre de Matériels qui lui sont attachés.
+● 2+ : Non destructible ni au combat ni par des effets de carte.
+● 3+ : Votre adversaire ne peut pas cibler de cartes dans les Cimetières avec des effets de carte.
+● 4+ : Vous pouvez détacher 3 Matériels de cette carte ; envoyez 1 monstre sur le Terrain au Cimetière.",Attacher un Matériel Xyz,Envoyer au Cimetière,,,,,,,,,,,,,,
+101305090,Shatranga Angetélité,"1 Syntoniseur + 1+ non-Syntoniseur
+Vous pouvez cibler 1 monstre contrôlé par votre adversaire ; bannissez-le.
+Si cette carte est placée dans la Zone Magie & Piège comme Magie Continue : vous pouvez ajouter 1 Piège ""Angetélité"" depuis votre Deck ou Cimetière à votre main.
+Vous ne pouvez utiliser chacun des effets précédents de ""Shatranga Angetélité"" qu'une fois par tour.
+Tant que cette carte est traitée comme Magie Continue, votre adversaire ne peut tenter d'activer que max. 5 effets de monstre par tour.",Effet de bannissement,Effet d'ajout à la main,,,,,,,,,,,,,,
+101305091,Bastion Angetélité,"1 Syntoniseur + 1+ non-Syntoniseur
+Vous pouvez cibler 1 autre carte dans la colonne de cette carte ; bannissez-la.
+Si cette carte est placée dans la Zone Magie & Piège comme Magie Continue : vous pouvez placer 1 ""Shatranga Angetélité"" depuis votre Extra Deck dans votre Zone Magie & Piège comme Magie Continue face recto.
+Vous ne pouvez utiliser chacun des effets précédents de ""Bastion Angetélité"" qu'une fois par tour.
+Tant que cette carte est traitée comme Magie Continue, les autres cartes ""Angetélité"" sur le Terrain ne peuvent pas être détruites par des effets de carte de votre adversaire.",Effet de bannissement,Effet de placement,,,,,,,,,,,,,,
+101305092,Destrier Angetélité,"1 Syntoniseur + 1+ non-Syntoniseur
+Vous pouvez cibler 1 monstre dans une autre colonne ; bannissez-le.
+Si cette carte est placée dans la Zone Magie & Piège comme Magie Continue : vous pouvez ajouter 1 Magie ""Angetélité"" depuis votre Deck à votre main.
+Vous ne pouvez utiliser chacun des effets précédents de ""Destrier Angetélité"" qu'une fois par tour.
+Tant que cette carte est traitée comme Magie Continue, chaque fois que votre adversaire active une carte ou un effet, infligez 500 points de dommages à votre adversaire lorsqu'il est résolu.",Effet de bannissement,Effet d'ajout à la main,,,,,,,,,,,,,,
+101305093,Enrôlé Angetélité,"1 Syntoniseur + 1+ non-Syntoniseur
+Vous pouvez cibler 1 monstre de l'adversaire dans la colonne adjacente à cette carte ; bannissez-le, puis changez le contrôle de cette carte en la déplaçant dans une des Zones Monstre Main de votre adversaire dans les colonnes adjacentes à cette carte.
+Si le contrôleur de cette carte face recto change : renvoyez cette carte à l'Extra Deck, puis le propriétaire de cette carte Invoque Spécialement 1 monstre ""Angetélité"" depuis son Extra Deck.
+Vous ne pouvez utiliser chaque effet de ""Enrôlé Angetélité"" qu'une fois par tour.",Effet de bannissement,Invocation Spéciale,,,,,,,,,,,,,,
+101305094,Problème Angetélité,"Une fois par tour : vous pouvez défausser 1 Magie/Piège ; Invoquez Spécialement 1 monstre ""Angetélité"" de Niveau 2 depuis votre Extra Deck, et si vous le faites, placez 1 monstre ""Angetélité"" depuis votre Extra Deck dans votre Zone Magie & Piège comme Magie Continue face recto.
+Si une ou plusieurs Cartes Monstre ""Angetélité"" face recto que vous contrôlez sont détruites au combat ou par un effet de carte : vous pouvez renvoyer 1 Carte Monstre ""Angetélité"" que vous possédez depuis votre Zone Magie & Piège à l'Extra Deck, puis vous pouvez l'Invoquer Spécialement.",Invocation Spéciale,"Renvoyer 1 Carte Monstre ""Angetélité"" depuis votre Zone Magie & Piège à l'Extra Deck",Invocation Spéciale?,,,,,,,,,,,,,
+101305095,Perturbation Angetélité,"Donnez le contrôle d'1 monstre ""Angetélité"" que vous contrôlez à votre adversaire (jusqu'à la End Phase), puis si votre adversaire contrôle une ou plusieurs cartes face recto dans ses Zones Monstre et/ou Zones Magie & Piège adjacentes, leurs effets sont annulés.
+Vous pouvez bannir cette carte depuis votre Cimetière ; ajoutez 1 Magie/Piège ""Angetélité"" (""Perturbation Angetélité"" exclu) depuis votre Deck à votre main.
+Vous ne pouvez utiliser chaque effet de ""Perturbation Angetélité"" qu'une fois par tour.",Transférer le contrôle,Effet d'ajout à la main,,,,,,,,,,,,,,
+101305096,Ouverture en e4 Angetélité,"Si votre adversaire joue en premier, vous pouvez aussi activer cette carte depuis votre main durant la Standby Phase de son premier tour.
+Placez face recto 1 Magie de Terrain ""Angetélité"" depuis votre main, Deck ou Cimetière sur votre Terrain, et si vous le faites, Invoquez Spécialement 1 monstre ""Angetélité"" de Niveau 2 ou 7 depuis votre Extra Deck dans la Zone Monstre Extra, et si vous faites ça, placez 1 monstre ""Angetélité"" depuis votre Extra Deck dans votre Zone Magie & Piège comme Magie Continue face recto.
+Jusqu'à la fin de votre prochain tour après la résolution de cette carte, vous ne pouvez pas Invoquer Spécialement (Monstres Synchro exclus) depuis l'Extra Deck.",Activer,Activer en appliquant l'effet de {CARD}.,,,,,,,,,,,,,,
+101305181,Jeton Arc,Invoqué spécialement par l'effet de « Témoin de l'Ancien ».,,,,,,,,,,,,,,,,
+101305188,Jeton Imposteur,Invoqué spécialement par l'effet de « Imposteur-Morphe ».,,,,,,,,,,,,,,,,
 101306001,Guerrier Panthère Rapide,"Durant la Main Phase (Effet Rapide) : vous pouvez Sacrifier 1 autre monstre depuis votre main ou Terrain, puis activez 1 de ces effets ;
 ● Invoquez Spécialement 1 monstre qui mentionne ""Magicien du Temps des Ténèbres"" (""Guerrier Panthère Rapide"" exclu) depuis votre main ou Deck.
 ● Envoyez 1 Magie/Piège qui mentionne ""Magicien du Temps des Ténèbres"" depuis votre Deck au Cimetière.
@@ -234,6 +301,10 @@ Vous ne pouvez utiliser chaque effet de ""Guide Inflexcipateur"" qu'une fois par
 101306025,Cristal Inflexcipateur - Tiamite,"Si cette carte est Invoquée Spécialement par l'effet d'une carte ""Inflexcipateur"" : vous pouvez ajouter 1 carte ""Inflexcipateur"" (""Cristal Inflexcipateur - Tiamite"" exclu) depuis votre Deck à votre main, puis vous pouvez Invoquer Spécialement 1 monstre Rocher depuis votre main.
 Si cette carte est dans votre Cimetière : vous pouvez cibler 1 Monstre Synchro Rocher dans votre Terrain ou Cimetière ; renvoyez-le à l'Extra Deck, et si vous le faites, placez cette carte au-dessus du Deck.
 Vous ne pouvez utiliser chaque effet de ""Cristal Inflexcipateur - Tiamite"" qu'une fois par tour.",Effet d'ajout à la main,Renvoyer au Deck,Invocation Spéciale?,,,,,,,,,,,,,
+101306030,"Hublot, le Registre Sombre de la Mort","Vous pouvez Invoquer Normalement cette carte sans Sacrifice.
+Vous ne pouvez utiliser chacun des effets suivants de ""Hublot, le Registre Sombre de la Mort"" qu'une fois par tour.
+Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez envoyer 1 monstre Zombie de min. Niveau 6 (""Hublot, le Registre Sombre de la Mort"" exclu) depuis votre Deck au Cimetière, puis vous pouvez ajouter 1 monstre Zombie de min. Niveau 6 depuis votre Cimetière à votre main.
+Si un ou plusieurs monstres sont Invoqués Spécialement depuis le Cimetière tant que cette carte est dans la Zone Monstre, vous pouvez : immédiatement après la résolution de cet effet, Invoquez par Xyz 1 Monstre Xyz Zombie.",Invocation sans Sacrifice,Envoyer au Cimetière,Invocation Xyz,Ajouter à la main?,,,,,,,,,,,,
 101306036,Dragon Noir aux Yeux Rouges Dépassé,"""Dragon Noir aux Yeux Rouges"" + 1 monstre qui mentionne ""Magicien du Temps des Ténèbres""
 Uniquement soit Invocable par Fusion soit Invocable Spécialement (depuis votre Extra Deck) en Sacrifiant 1 monstre face recto sur l'un des Terrains durant le tour où un ou plusieurs monstres ont été détruits par l'effet de ""Magicien du Temps des Ténèbres"".
 Vous ne pouvez Invoquer Spécialement ""Dragon Noir aux Yeux Rouges Dépassé"" qu'une fois par tour de cette façon, peu importe la méthode que vous utilisez.
@@ -277,10 +348,10 @@ Aucun joueur ne peut activer ni de cartes ni d'effets en réponse à l'activatio
 Si cette carte est Invoquée par Lien, ou un ou plusieurs monstres sont Invoqués Spécialement dans une ou plusieurs zones pointées par cette carte : vous pouvez cibler 1 monstre dans votre Terrain ou Cimetière qui a un Niveau ; Invoquez Spécialement 1 ""Jeton Miroitement"" (Rocher/LUMIÈRE/ATK 0/DEF 0) du même Niveau.
 Lorsqu'un autre monstre sur le Terrain active son effet (Effet Rapide) : vous pouvez le placer au-dessus du Deck.
 Vous ne pouvez utiliser chaque effet de ""Lumineuse Inflexcipateur"" qu'une fois par tour.",Invocation Spéciale,Renvoyer au Deck,,,,,,,,,,,,,,
-101306050,海中战型援助机器人,"机械族怪兽2只
-这个卡名的①②的效果1回合各能使用1次，这些效果发动的回合，自己不是机械族怪兽不能特殊召唤。
-①：这张卡连接召唤的场合，以对方场上1只怪兽为对象才能发动。那只怪兽以及这张卡破坏。那之后，可以从自己墓地把除水属性怪兽外的，攻击力1600以下的1只机械族怪兽特殊召唤。
-②：这张卡被除外的场合才能发动。从卡组把攻击力和守备力的数值相同的1只机械族怪兽加入手卡。",Effet de destruction,Effet d'ajout à la main,Invocation Spéciale?,,,,,,,,,,,,,
+101306050,Robo d'Assistance au Combat Sous-Marin,"2 monstres Machine
+Lorsque cette carte est Invoquée par Lien : vous pouvez cibler 1 monstre contrôlé par votre adversaire ; détruisez-le, et aussi cette carte, puis vous pouvez Invoquer Spécialement 1 monstre non-EAU Machine avec max. 1600 ATK depuis votre Cimetière.
+Si cette carte est bannie : vous pouvez ajouter 1 monstre Machine dont l'ATK est égale à sa propre DEF depuis votre Deck à votre main.
+Vous ne pouvez utiliser chaque effet de ""Robo d'Assistance de Combat Sous-Marin"" qu'une fois par tour, et aussi, vous ne pouvez pas Invoquer Spécialement (monstres Machine exclus) le tour où vous activez un effet de cette carte.",Effet de destruction,Effet d'ajout à la main,Invocation Spéciale?,,,,,,,,,,,,,
 101306052,Magicien du Temps des Ténèbres,"Activez 1 de ces effets (mais vous ne pouvez utiliser chaque effet de ""Magicien du Temps des Ténèbres"" qu'une fois par tour) ;
 ● Ajoutez 1 carte qui mentionne ""Magicien du Temps des Ténèbres"" (""Magicien du Temps des Ténèbres"" exclue) depuis votre Deck à votre main, et aussi, ajoutez 1 ""Magicien du Temps des Ténèbres"" depuis votre Cimetière à votre main durant la End Phase de ce tour.
 ● Jouez à pile ou face. Si vous gagnez, détruisez autant de monstres contrôlés par votre adversaire que possible, et si vous le faites, infligez des dommages à votre adversaire égaux à la moitié de la somme des ATK d'origine des monstres. Si vous perdez, détruisez tous les monstres que vous contrôlez.",Activer,Ajouter à la main,Lancer une pièce,,,,,,,,,,,,,
