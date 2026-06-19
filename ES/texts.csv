@@ -1,20 +1,20 @@
 id,name,desc,str1,str2,str3,str4,str5,str6,str7,str8,str9,str10,str11,str12,str13,str14,str15,str16
 100200290,Escenario del Destino,"Puedes activar esta carta desde tu mano revelando 1 Monstruo Normal en tu mano. 
 Invoca de Modo Especial hasta 5 Monstruos Normales desde tu mano y/o Cementerio, y además por el resto de este turno, no puedes Invocar de Modo Especial desde el Deck Extra. 
-Sólo puedes activar 1 ""Escenario del Destino"" una vez por turno.",Activar,"Activar aplicando el efecto de ""Escenario del Destino"".",,,,,,,,,,,,,,
+Sólo puedes activar 1 ""Escenario del Destino"" una vez por turno.",Invocar de Modo Especial hasta 5 Monstruos Normales desde tu mano y/o Cementerio,"Activar aplicando el efecto de ""Escenario del Destino""",,,,,,,,,,,,,,
 100200291,Cápsula de Monstruos Ajedrez,"Durante la Main Phase: el jugador en turno puede seleccionar 1 monstruo en su Cementerio; lo coloca boca arriba en su Zona de Mágicas y Trampas como una Mágica Continua. 
 Durante la End Phase: el jugador en turno puede mandar al Cementerio 1 Carta de Monstruo boca arriba que controle; Invoca de Modo Especial 1 monstruo desde su Deck con el mismo Tipo y Atributo original que ese monstruo, pero hasta 3 Niveles más alto que su Nivel original. 
-Sólo puedes usar cada uno de los efectos de ""Cápsula de Monstruos Ajedrez"" una vez por turno.",,Colocar un monstruo,Invocación Especial,,,,,,,,,,,,,
+Sólo puedes usar cada uno de los efectos de ""Cápsula de Monstruos Ajedrez"" una vez por turno.",,Seleccionar 1 monstruo en tu Cementerio y colocarlo boca arriba en tu Zona de Mágicas y Trampas como una Mágica Continua,Invocar de Modo Especial 1 monstruo desde su Deck con el mismo Tipo y Atributo original que el monstruo enviado al Cementerio,,,,,,,,,,,,,
 100200292,Elfo Pura Sangre,"Durante tu Main Phase: puedes mandar al Cementerio 1 Mágica de Equipo desde tu Deck, y después esta carta gana 500 ATK hasta el final del turno de tu adversario. 
 Sólo puedes usar este efecto de ""Elfo Pura Sangre"" una vez por turno. 
-Cuando esta carta destruye un monstruo del adversario en batalla: puedes añadir a tu mano, o Invocar de Modo Especial, 1 monstruo Lanzador de Conjuros LUZ de Nivel 4 o menor desde tu Deck, excepto ""Elfo Pura Sangre"".",Enviar al Cementerio,Manipulación del Deck,,,,,,,,,,,,,,
+Cuando esta carta destruye un monstruo del adversario en batalla: puedes añadir a tu mano, o Invocar de Modo Especial, 1 monstruo Lanzador de Conjuros LUZ de Nivel 4 o menor desde tu Deck, excepto ""Elfo Pura Sangre"".",Enviar 1 Mágica de Equipo desde tu Deck al Cementerio,Añadir a tu mano o Invocar de Modo Especial 1 monstruo Lanzador de Conjuros LUZ de Nivel 4 o menor desde tu Deck,,,,,,,,,,,,,,
 100200293,León de Asalto,"Puedes Invocar esta carta por Sacrificio boca arriba Sacrificando 1 monstruo Guerrero-Bestia. 
 Si esta carta batalla con un monstruo, cualquier daño de batalla que inflija a tu adversario se duplica. 
 Si uno o más monstruos Guerrero-Bestia son Invocados de Modo Normal o Especial a tu Campo mientras esta carta está en tu Cementerio: puedes añadir esta carta a tu mano, e inmediatamente después de que este efecto se resuelva, puedes Invocarla por Sacrificio boca arriba y, si lo haces, gana 500 ATK, y además destiérrala cuando deje el Campo. 
-Sólo puedes usar este efecto de ""León de Asalto"" una vez por turno.",Invocar por Sacrificio usando 1 monstruo Guerrero-Bestia,Añadir a la mano,¿Invocación por Sacrificio?,,,,,,,,,,,,,
+Sólo puedes usar este efecto de ""León de Asalto"" una vez por turno.",Invocar esta carta por Sacrificio boca arriba Sacrificando 1 monstruo Guerrero-Bestia,Añadir esta carta en tu Cementerio a tu mano,¿Quieres Invocar esta carta por Sacrificio?,,,,,,,,,,,,,
 100200294,Conexión de Poder,"Selecciona cualquier número de monstruos boca arriba que controles con el mismo Tipo; hasta el final de este turno, ganan 500 ATK por cada monstruo seleccionado. 
 Si activaste ""Reencarnación del Armamento"" este turno: puedes añadir esta carta desde tu Cementerio a tu mano. 
-Sólo puedes usar cada uno de los efectos de ""Conexión de Poder"" una vez por turno.",Activar,Recuperar,,,,,,,,,,,,,,
+Sólo puedes usar cada uno de los efectos de ""Conexión de Poder"" una vez por turno.",Incrementar en 500 el ATK de los monstruos seleccionados,Añadir esta carta en tu Cementerio a tu mano,,,,,,,,,,,,,,
 100260001,Sombrero de la Compañía de Payasos,"←◊7 Escala 7◊→
 【Efecto de Péndulo】
 Durante tu Main Phase: puedes mandar al Cementerio 1 carta ""Compañía de Payasos"" desde tu Deck, excepto un Monstruo de Péndulo y, si lo haces, Invoca esta carta de Modo Especial, y además no puedes activar los efectos de monstruos Invocados de Modo Especial desde el Deck o Deck Extra hasta el final del próximo turno. 
@@ -24,101 +24,101 @@ Sólo puedes usar este efecto de ""Sombrero de la Compañía de Payasos"" una ve
 Los monstruos que controle tu adversario pierden 1500 DEF mientras controles un monstruo Invocado por Sacrificio. 
 Si esta carta es Sacrificada: puedes activar 1 de estos efectos (pero sólo puedes usar cada uno de estos efectos de ""Sombrero de la Compañía de Payasos"" una vez por turno);
 ● Baraja todos los Monstruos de Péndulo en el Campo y en los Decks Extra boca arriba al Deck.
-● Invoca de Modo Especial 1 monstruo ""Compañía de Payasos"" desde tu Deck o Deck Extra, excepto un Monstruo de Péndulo, ignorando sus condiciones de Invocación.",Invocación Especial,Elegir un efecto,Devolver al Deck,Invocación Especial,,,,,,,,,,,,
+● Invoca de Modo Especial 1 monstruo ""Compañía de Payasos"" desde tu Deck o Deck Extra, excepto un Monstruo de Péndulo, ignorando sus condiciones de Invocación.",Invocar esta carta de Modo Especial,Elige un efecto,Devolver al Deck todos los Monstruos de Péndulo en el Campo y en los Decks Extra boca arriba,"Invocar de Modo Especial 1 monstruo ""Compañía de Payasos"" desde tu Deck o Deck Extra",,,,,,,,,,,,
 100261001,Conejo Oscuro Divertido,"(Esta carta se trata como un monstruo Toon mientras ""Mundo Toon"" está en el Campo).	
 Después de que esta carta sea Invocada de Modo Normal o Especial, durante tu Main Phase este turno, puedes Invocar de Modo Normal 1 monstruo que mencione ""Mundo Toon"" además de tu Invocación Normal/Colocada (sólo puedes ganar este efecto una vez por turno). 
-Una vez por turno: puedes añadir a tu mano o Colocar boca arriba en tu Campo, 1 Mágica de Campo ""Toon"" o Mágica Continua ""Toon"" desde tu Deck.",,"Invocar por el efecto de ""Conejo Oscuro Divertido""",Efecto de añadir a la mano,Colocar,,,,,,,,,,,,
+Una vez por turno: puedes añadir a tu mano o Colocar boca arriba en tu Campo, 1 Mágica de Campo ""Toon"" o Mágica Continua ""Toon"" desde tu Deck.",,"Invocar de Modo Normal 1 monstruo que mencione ""Mundo Toon"" además de tu Invocación Normal/Colocada (Conejo Oscuro Divertido)","Añadir a tu mano 1 Mágica de Campo ""Toon"" o Mágica Continua ""Toon"" desde tu Deck","Colocar 1 Mágica de Campo ""Toon"" o Mágica Continua ""Toon"" desde tu Deck",,,,,,,,,,,,
 100261002,Gato Cómico,"(Esta carta se trata como un monstruo Toon mientras ""Mundo Toon"" está en el Campo).	
 (Efecto Rápido): Durante la Main Phase: puedes Sacrificar 1 monstruo (si controlas ""Mundo Toon"", puedes Sacrificar 1 monstruo del adversario, aunque no lo controles), y si lo haces, Invoca de Modo Especial 1 monstruo desde tu mano o Deck que mencione ""Mundo Toon"", ignorando sus condiciones de Invocación. 
-Sólo puedes usar este efecto de ""Gato Cómico"" una vez por turno.",,Invocación Especial,,,,,,,,,,,,,,
+Sólo puedes usar este efecto de ""Gato Cómico"" una vez por turno.",,"Invocar de Modo Especial 1 monstruo desde tu mano o Deck que mencione ""Mundo Toon""",,,,,,,,,,,,,,
 100261003,Caja Malvada,"(Esta carta se trata como un monstruo Toon mientras ""Mundo Toon"" está en el Campo).	
 Si controlas ""Mundo Toon"": puedes Invocar esta carta de Modo Especial desde tu mano, y después puedes añadir a tu mano, o Colocar, 1 Trampa ""Toon"" desde tu Deck. 
 Sólo puedes usar este efecto de ""Caja Malvada"" una vez por turno. 
-Una vez por turno (Efecto Rápido): puedes seleccionar 1 carta en cualquier Cementerio; colócala en el fondo del Deck.",Invocación Especial,Recuperar del Cementerio,¿Seleccionar una Carta de Trampa?,,,,,,,,,,,,,
+Una vez por turno (Efecto Rápido): puedes seleccionar 1 carta en cualquier Cementerio; colócala en el fondo del Deck.",Invocar esta carta de Modo Especial desde tu mano,Devolver al fondo del Deck 1 carta en cualquier Cementerio,¿Quieres seleccionar 1 Carta de Trampa?,,,,,,,,,,,,,
 100261004,Ilusionista sin Rostro de Ojos Oscuros,"Puedes descartar esta carta para activar 1 de estos efectos (pero sólo puedes usar cada uno de estos efectos de ""Ilusionista sin Rostro de Ojos Oscuros"" una vez por turno);
 ● Coloca 1 ""Escáner Mental"" desde tu mano o Deck boca arriba en tu Campo.
 ● Añade a tu mano 1 monstruo que mencione ""Mundo Toon"" desde tu Cementerio, y después puedes Invocarlo de Modo Especial, ignorando sus condiciones de Invocación.	
-Si esta carta batalla, ningún monstruo puede ser destruido en esa batalla.",Descartar,Colocar una Carta Trampa,Recuperar un monstruo,Invocación Especial?,,,,,,,,,,,,
+Si esta carta batalla, ningún monstruo puede ser destruido en esa batalla.",Descartar esta carta para activar 1 de estos efectos,"Coloca 1 ""Escáner Mental"" desde tu mano o Deck boca arriba en tu Campo","Añade a tu mano 1 monstruo que mencione ""Mundo Toon"" desde tu Cementerio",¿Quieres Invocar de Modo Especial el monstruo añadido?,,,,,,,,,,,,
 100261005,Dragón Toon de Ojos Azules Definitivo,"""Dragón Toon de Ojos Azules"" + 2 monstruos Toon	
 Debe ser Invocado de Modo Especial (desde tu Deck Extra) barajando al Deck/Deck Extra las cartas mencionadas arriba desde tu mano, Campo y/o Cementerio. 
 Tus monstruos Toon pueden atacar directamente. 
 Una vez por turno: puedes añadir a tu mano 1 carta ""Toon"", o 1 carta que mencione el nombre de una carta ""Toon"", desde tu Cementerio. 
-Si tu monstruo Toon es atacado, durante el cálculo de daño: puedes desterrarlo hasta el final del Damage Step.",,Recuperar,Desterrar,,,,,,,,,,,,,
+Si tu monstruo Toon es atacado, durante el cálculo de daño: puedes desterrarlo hasta el final del Damage Step.",,"Añadir a tu mano 1 carta ""Toon"", o 1 carta que mencione el nombre de una carta ""Toon"", desde tu Cementerio",Desterrar tu monstruo Toon batallante hasta el final del Damage Step,,,,,,,,,,,,,
 100261006,"Mundo Toon, el Mundo Perfecto","(El nombre de esta carta se convierte en ""Mundo Toon"" mientras está en la Zona del Campo).	
 Una vez por turno: puedes añadir a tu mano 1 carta ""Toon"", o 1 carta que mencione el nombre de una carta ""Toon"", desde tu Deck. 
 Sólo puedes usar este efecto de ""Mundo Toon, el Mundo Perfecto"" hasta tres veces por turno. 
-Antes de resolver otra carta o efecto activado, puedes desterrar 1 monstruo Toon que controles hasta inmediatamente después de que esa carta o efecto se resuelva, y además no puedes desterrar monstruos con ese mismo nombre original con este efecto de esta carta por el resto de este turno.",,Añadir a la mano,,¿Desterrar el monstruo?,,,,,,,,,,,,
+Antes de resolver otra carta o efecto activado, puedes desterrar 1 monstruo Toon que controles hasta inmediatamente después de que esa carta o efecto se resuelva, y además no puedes desterrar monstruos con ese mismo nombre original con este efecto de esta carta por el resto de este turno.",,"Añadir a tu mano 1 carta ""Toon"", o 1 carta que mencione el nombre de una carta ""Toon"", desde tu Deck",,¿Quieres desterrar 1 monstruo Toon que controles?,,,,,,,,,,,,
 100261007,Escáner Mental,"Mientras haya una carta ""Toon"" en tu Campo o Cementerio, tu adversario debe jugar con su mano revelada todo el tiempo, y además puedes mirar sus cartas Colocadas. 
 Si tienes un monstruo Toon y una Mágica ""Toon"" en tu Campo y/o Cementerio: puedes declarar 1 nombre de carta que no se haya activado en esta Cadena; mientras esta carta está boca arriba, hasta el final de este turno, niega los efectos activados de la carta declarada o de cartas con ese nombre original. 
-Sólo puedes usar este efecto de ""Escáner Mental"" una vez por turno.",,Declarar,,,,,,,,,,,,,,
+Sólo puedes usar este efecto de ""Escáner Mental"" una vez por turno.",,Declarar 1 nombre de carta que no se haya activado en esta Cadena,,,,,,,,,,,,,,
 100261023,Terracottan Artibruja,"Si esta carta está en la mano: puedes seleccionar 1 carta ""Artibruja"" en tu Cementerio, excepto ""Terracottan Artibruja""; añádela a tu mano y, si lo haces, Invoca esta carta de Modo Especial, pero no puedes Invocar de Modo Especial desde el Deck Extra por el resto de este turno, excepto monstruos ""Artibruja"". 
 Durante tu Main Phase: puedes Invocar por Fusión 1 Monstruo de Fusión ""Artibruja"", usando monstruos de tu mano y/o Campo como material. 
 Sólo puedes usar cada uno de los efectos de ""Terracottan Artibruja"" una vez por turno.
-",Invocación Especial,Invocación por Fusión,,,,,,,,,,,,,,
+",Invocar esta carta de Modo Especial desde tu mano,"Invocar por Fusión 1 Monstruo de Fusión ""Artibruja"", usando monstruos de tu mano y/o Campo como material",,,,,,,,,,,,,,
 100261024,Marka Artibruja,"Puedes Sacrificar esta carta en tu mano o Campo; añade a tu mano 1 Mágica de Campo o Continua ""Artibruja"" desde tu Deck. 
 Si uno o más monstruos ""Artibruja"" boca arriba que controles dejan el Campo por el efecto de una carta del adversario mientras esta carta está en tu Cementerio: puedes Invocar esta carta de Modo Especial (pero destiérrala cuando deje el Campo) y, si lo haces, Sacrifica 1 monstruo del adversario. 
-Sólo puedes usar cada uno de los efectos de ""Marka Artibruja"" una vez por turno.",Añadir a la mano,Invocación Especial,,,,,,,,,,,,,,
+Sólo puedes usar cada uno de los efectos de ""Marka Artibruja"" una vez por turno.","Añadir a tu mano 1 Mágica de Campo o Continua ""Artibruja"" desde tu Deck",Invocar esta carta de Modo Especial desde tu Cementerio,,,,,,,,,,,,,,
 100261025,Artibruja Madame Rilliona,"""Artibruja Madame Vidria"" + 2 Lanzadores de Conjuros	
 Si esta carta es Invocada por Fusión: puedes Invocar de Modo Especial hasta 3 monstruos ""Artibruja"" de Nivel 7 o menor con diferentes Atributos desde tu mano y/o Deck, y además no puedes Invocar de Modo Especial desde el Deck Extra por el resto de este turno, excepto Monstruos de Fusión. 
 Durante tu End Phase, si esta carta está en tu Cementerio: puedes revelar 1 Mágica en tu mano; Invoca esta carta de Modo Especial en Posición de Defensa. 
-Sólo puedes usar cada uno de los efectos de ""Artibruja Madame Rilliona"" una vez por turno.",Invocar de Modo Especial desde el Deck,Invocar esta carta de Modo Especial,,,,,,,,,,,,,,
+Sólo puedes usar cada uno de los efectos de ""Artibruja Madame Rilliona"" una vez por turno.","Invocar de Modo Especial hasta 3 monstruos ""Artibruja"" de Nivel 7 o menor con diferentes Atributos desde tu mano y/o Deck",Invocar esta carta de Modo Especial desde tu Cementerio en Posición de Defensa,,,,,,,,,,,,,,
 100261026,Artibruja Aprendices,"1 monstruo ""Artibruja"" + 1 monstruo Lanzador de Conjuros	
 (Efecto Rápido): Durante la Main Phase o Battle Phase: puedes activar 1 de estos efectos;
 ● Añade a tu mano 1 Mágica ""Artibruja"" desde tu Deck.
 ● Revela 1 Mágica Normal o de Juego Rápido ""Artibruja"" en tu mano; aplica el efecto de activación de esa Mágica.	
 Durante tu End Phase: puedes devolver al Cementerio 1 de tus cartas ""Artibruja"" desterradas. 
-Sólo puedes usar cada uno de los efectos de ""Artibruja Aprendices"" una vez por turno.",Activar,Volver al Cementerio,Efecto de añadir a la mano,Copiar efecto,,,,,,,,,,,,
+Sólo puedes usar cada uno de los efectos de ""Artibruja Aprendices"" una vez por turno.","Añadir a tu mano 1 Mágica ""Artibruja"" desde tu Deck","Devolver al Cementerio 1 de tus cartas ""Artibruja"" desterradas","Añade a tu mano 1 Mágica ""Artibruja"" desde tu Deck","Revela 1 Mágica Normal o de Juego Rápido ""Artibruja"" en tu mano y aplica su efecto de activación",,,,,,,,,,,,
 100261027,Celebración Artibruja,"Puedes usar uno de los siguientes efectos:
 ● Destruye 1 monstruo ""Artibruja"" que controles y 1 carta que controle tu adversario.
 ● Puedes Invocar por Fusión 1 Monstruo de Fusión ""Artibruja"" barajando al Deck monstruos Artibruja desde tu Cementerio y destierro.	
 Durante tu End Phase, si esta carta está en tu Cementerio mientras controlas un monstruo ""Artibruja"", puedes: añadir esta carta a tu mano. 
-Sólo puedes usar 1 de los efectos de ""Celebración Artibruja"" por turno, y sólo una vez ese turno.",Activar,Añadir a la mano,Efecto de destrucción,Invocación por Fusión,,,,,,,,,,,,
+Sólo puedes usar 1 de los efectos de ""Celebración Artibruja"" por turno, y sólo una vez ese turno.",Activar esta carta,Añadir esta carta en tu Cementerio a tu mano,"Destruir 1 monstruo ""Artibruja"" que controles y 1 carta que controle tu adversario","Invocar por Fusión 1 Monstruo de Fusión ""Artibruja"" barajando al Deck monstruos Artibruja desde tu Cementerio y destierro",,,,,,,,,,,,
 100261028,Walpurgis Artibruja,"Durante tu Main Phase, puedes: añade a tu mano 1 monstruo ""Artibruja"" desde tu Deck, y después descarta 1 carta. 
 Sólo puedes usar este efecto de ""Walpurgis Artibruja"" una vez por turno. 
-Durante tu turno, si fueras a descartar una carta para activar el efecto de un monstruo ""Artibruja"", puedes en su lugar mandar al Cementerio 1 Carta Mágica/Trampa ""Artibruja"" desde tu Deck, excepto ""Walpurgis Artibruja"".",Añadir a la mano,,,,,,,,,,,,,,,
+Durante tu turno, si fueras a descartar una carta para activar el efecto de un monstruo ""Artibruja"", puedes en su lugar mandar al Cementerio 1 Carta Mágica/Trampa ""Artibruja"" desde tu Deck, excepto ""Walpurgis Artibruja"".","Añadir a tu mano 1 monstruo ""Artibruja"" desde tu Deck, y después descarta 1 carta",,,,,,,,,,,,,,,
 100261029,Distorsión Artibruja,"Cuando tu adversario activa una Carta Mágica/Trampa o un efecto de monstruo, y controlas un monstruo ""Artibruja"" de Nivel 5 o mayor: niega la activación y, si lo haces, destruye esa carta. 
 Excepto en el turno en que esta carta fue mandada al Cementerio: puedes desterrar esta carta en el Cementerio; añade a tu mano 1 monstruo Lanzador de Conjuros de Nivel 5 o mayor desde tu Deck, y después descarta 1 carta. 
-Sólo puedes usar cada uno de los efectos de ""Distorsión Artibruja"" una vez por turno.",Activar,Añadir a la mano,,,,,,,,,,,,,,
+Sólo puedes usar cada uno de los efectos de ""Distorsión Artibruja"" una vez por turno.",Negar la activación y destruir la carta,Añadir a tu mano 1 monstruo Lanzador de Conjuros de Nivel 5 o mayor desde tu Deck,,,,,,,,,,,,,,
 100261047,Ogra Desencadenada de Shara,"(Efecto Rápido): Durante la Main Phase: puedes descartar esta carta; Invoca de Modo Especial 1 monstruo Demonio desde tu mano, y después destruye 1 carta que controles. 
 Si una carta en el Campo es destruida en batalla, o por un efecto de una carta ""Desencadenado/a"" que no sea ""Ogra Desencadenada de Shara"", mientras esta carta está en el Cementerio: puedes añadir esta carta a tu mano, o Invocarla de Modo Especial (pero si la Invocas de Modo Especial, colócala en el fondo del Deck cuando deje el Campo). 
-Sólo puedes usar cada uno de los efectos de ""Ogra Desencadenada de Shara"" una vez por turno.",Invocación Especial,Recuperar,,,,,,,,,,,,,,
+Sólo puedes usar cada uno de los efectos de ""Ogra Desencadenada de Shara"" una vez por turno.",Invocar de Modo Especial 1 monstruo Demonio desde tu mano y destruir 1 carta que controles,Añadir a tu mano o Invocar de Modo Especial esta carta en tu Cementerio,,,,,,,,,,,,,,
 100261048,Ogro Desencadenado de Shma,"Si esta carta es Invocada de Modo Normal: puedes Invocar de Modo Especial 1 monstruo ""Desencadenado/a"" de Nivel 4 o menor desde tu Deck (excepto ""Ogro Desencadenado de Shma""), y después destruye 1 carta que controles, y además por el resto de este turno, no puedes Invocar de Modo Especial, excepto monstruos Demonio. 
 Si esta carta en el Campo es destruida en batalla, o por un efecto de una carta ""Desencadenado/a"" que no sea ""Ogro Desencadenado de Shma"": puedes Invocar de Modo Especial 1 monstruo ""Desencadenado/a"" desde tu mano o Deck, excepto ""Ogro Desencadenado de Shma"". 
-Sólo puedes usar cada uno de los efectos de ""Ogro Desencadenado de Shma"" una vez por turno.",Invocar de Modo Especial desde el Deck,Invocar de Modo Especial desde tu mano/Deck,,,,,,,,,,,,,,
+Sólo puedes usar cada uno de los efectos de ""Ogro Desencadenado de Shma"" una vez por turno.","Invocar de Modo Especial 1 monstruo ""Desencadenado/a"" de Nivel 4 o menor desde el Deck","Invocar de Modo Especial 1 monstruo ""Desencadenado/a"" desde tu mano o Deck",,,,,,,,,,,,,,
 100261049,Magistrado Malévolo Desencadenado de Kamura,"Puedes seleccionar hasta 3 cartas que controles; destrúyelas y, si lo haces, Invoca esta carta de Modo Especial desde tu mano, y después puedes aplicar estos efectos, en secuencia, basados en los tipos originales de las cartas destruidas.
 ● Monstruo: Roba 1 carta.
 ● Mágica: Cambia la posición de batalla de 1 monstruo.
 ● Trampa: Destruye 1 otra carta en el Campo.	
 Si esta carta en el Campo es destruida por efecto de carta: puedes destruir todos los monstruos en el Campo. 
-Sólo puedes usar cada uno de los efectos de ""Magistrado Malévolo Desencadenado de Kamura"" una vez por turno.",Invocación Especial,Efecto de destrucción,¿Robar 1 carta?,¿Cambiar la posición de batalla?,¿Destruir?,,,,,,,,,,,
+Sólo puedes usar cada uno de los efectos de ""Magistrado Malévolo Desencadenado de Kamura"" una vez por turno.",Invocar esta carta de Modo Especial desde tu mano,Destruir todos los monstruos en el Campo,¿Quieres robar 1 carta?,¿Quieres cambiar la posición de batalla de 1 monstruo?,¿Quieres destruir 1 otra carta en el Campo?,,,,,,,,,,,
 100261050,Enma Desencadenado Señor de Yama,"2+ monstruos incluyendo un monstruo ""Alma Desencadenada""	
 Durante tu End Phase: puedes seleccionar hasta 2 monstruos Demonio en tu Cementerio que fueron destruidos este turno; Invócalos de Modo Especial, pero mientras están boca arriba en la Zona de Monstruos, no puedes Invocar de Modo Especial, excepto monstruos Demonio. 
 Si esta carta en el Campo fuera a ser destruida en batalla o por efecto de carta, puedes destruir 1 carta boca arriba en cualquier Campo en su lugar. 
-Sólo puedes usar cada uno de los efectos de ""Enma Desencadenado Señor de Yama"" una vez por turno.",Invocación Especial,,"Invocado de Modo Especial por el efecto de ""Enma Desencadenado Señor de Yama""",,,,,,,,,,,,,
+Sólo puedes usar cada uno de los efectos de ""Enma Desencadenado Señor de Yama"" una vez por turno.",Invocar de Modo Especial hasta 2 monstruos Demonio en tu Cementerio que fueron destruidos este turno,,"Invocado de Modo Especial por el efecto de ""Enma Desencadenado Señor de Yama""",,,,,,,,,,,,,
 100261051,Alma Desencadenada de Rabia Abominadora,"2+ monstruos incluyendo un monstruo Demonio	
 Si tu adversario Invoca de Modo Especial un monstruo boca arriba: puedes seleccionar 1 de ellos; destruye 1 monstruo Demonio que controles y, si lo haces, niega sus efectos hasta el final de este turno. 
 (Efecto Rápido): Cuando se activa un efecto de monstruo en el Campo mientras controlas un monstruo ""Desencadenado/a"" de Link-4 o mayor: puedes desterrar esta carta en tu Cementerio; destruye ese monstruo. 
-Sólo puedes usar cada uno de los efectos de ""Alma Desencadenada de Rabia Abominadora"" una vez por turno.",Negar,Destruir,,,,,,,,,,,,,,
+Sólo puedes usar cada uno de los efectos de ""Alma Desencadenada de Rabia Abominadora"" una vez por turno.",Desruir 1 monstruo Demonio que controles y negar los efectos del monstruo objetivo,Destruir el montruo que activó el efecto,,,,,,,,,,,,,,
 100261052,Reencarnación de los Desencadenados,"Cuando esta carta se resuelve, puedes añadir a tu mano 1 Mágica ""Desencadenado/a"" excepto ""Reencarnación de los Desencadenados"" o 1 ""Prisión de la Abominación"" desde tu Deck. 
 Una vez por turno: puedes seleccionar hasta 3 cartas ""Desencadenado/a"" en tu Cementerio, excepto ""Reencarnación de los Desencadenados""; barájalas al Deck, y después puedes destruir otras cartas que controles hasta el número de cartas barajadas. 
-Sólo puedes activar 1 ""Reencarnación de los Desencadenados"" por turno.",Añadir a la mano?,Efecto de recuperación,¿Destruir la carta?,,,,,,,,,,,,,
+Sólo puedes activar 1 ""Reencarnación de los Desencadenados"" por turno.","¿Quieres añadir a tu mano 1 Mágica ""Desencadenado/a"" desde tu Deck?","Barajar a tu Deck hasta 3 cartas ""Desencadenado/a"" en tu Cementerio",¿Quieres destruir otras cartas que controles hasta el número de cartas barajadas?,,,,,,,,,,,,,
 100261053,Sincretismo Desencadenado,"Selecciona 2 monstruos boca arriba en cualquier Campo, incluyendo 1 Monstruo de Enlace ""Desencadenado/a"" que controles; inmediatamente después de que este efecto se resuelva, Invoca por Enlace 1 Monstruo de Enlace ""Desencadenado/a"", usando sólo esos 2 monstruos como material. 
 Si esta carta Colocada en el Campo es destruida: puedes Invocar de Modo Especial 1 monstruo ""Desencadenado/a"" desde tu Deck. 
-Sólo puedes usar cada uno de los efectos de ""Sincretismo Desencadenado"" una vez por turno.",Invocación de Enlace,Invocación Especial,,,,,,,,,,,,,,
+Sólo puedes usar cada uno de los efectos de ""Sincretismo Desencadenado"" una vez por turno.","Invocar por Enlace 1 Monstruo de Enlace ""Desencadenado/a"", usando sólo esos 2 monstruos como material","Invocar de Modo Especial 1 monstruo ""Desencadenado/a"" desde tu Deck",,,,,,,,,,,,,,
 100263001,Tirano Oscuro,"Si tu adversario sólo controla monstruos en Posición de Defensa, esta carta puede atacar directamente. 
 Sólo puedes usar cada uno de los siguientes efectos de ""Tirano Oscuro"" una vez por turno. 
 Durante tu Main Phase, si se ha activado un efecto de Mágica este turno: puedes Invocar esta carta de Modo Especial desde tu mano. 
-Si esta carta es mandada al Cementerio: puedes añadir a tu mano 1 monstruo Dinosaurio de Nivel 8 o mayor desde tu Deck, y después, si tu adversario controla un monstruo, puedes Invocarlo de Modo Especial desde tu mano.",Invocación Especial,Añadir a la mano,Invocación Especial?,,,,,,,,,,,,,
+Si esta carta es mandada al Cementerio: puedes añadir a tu mano 1 monstruo Dinosaurio de Nivel 8 o mayor desde tu Deck, y después, si tu adversario controla un monstruo, puedes Invocarlo de Modo Especial desde tu mano.",Invocar esta carta de Modo Especial desde tu mano,Añadir a tu mano 1 monstruo Dinosaurio de Nivel 8 o mayor desde tu Deck,¿Quieres Invocar de Modo Especial el monstruo añadido a tu mano?,,,,,,,,,,,,,
 100263002,Fuerza Arcana XII - El Colgado,"Si se activa un efecto: puedes revelar esta carta en tu mano a tu adversario; Invoca de Modo Especial 1 monstruo ""Fuerza Arcana"" desde tu mano en Posición de Defensa. 
 Sólo puedes usar este efecto de ""Fuerza Arcana XII - El Colgado"" una vez por turno. 
 Si esta carta es Invocada: lanza una moneda.
 ● Cara: Destruye 1 monstruo que controles y recibe daño igual a su ATK original.
 ● Cruz: Destruye 1 monstruo que controle tu adversario e inflige daño a tu adversario igual a su ATK original.
-",Invocación Especial,Efecto de lanzamiento de moneda,,,,,,,,,,,,,,
+","Invocar de Modo Especial 1 monstruo ""Fuerza Arcana"" desde tu mano en Posición de Defensa",Destruir 1 monstruo e infligir daño según el resultado,,,,,,,,,,,,,,
 100263003,Bestia Fantasma Luninosa - Candelard,"Aumenta el ATK/DEF de esta carta en 1000 x el número de cartas en tu mano. 
 Sólo puedes usar los siguientes efectos de ""Bestia Fantasma Luninosa - Candelard"" una vez por turno. 
 Puedes descartar otras 2 cartas mientras esta carta está en tu mano; Invoca esta carta de Modo Especial, y después puedes añadir a tu mano 1 carta cuyo efecto incluya un lanzamiento de moneda desde tu Deck. 
-Si fuera a activarse un Efecto de Monstruo, Mágica o Trampa que incluya añadir una carta del Deck a la mano, puedes: negar ese efecto.",Invocación Especial,Negar,Añadir a la mano?,,,,,,,,,,,,,
+Si fuera a activarse un Efecto de Monstruo, Mágica o Trampa que incluya añadir una carta del Deck a la mano, puedes: negar ese efecto.",Invocar esta carta de Modo Especial desde tu mano,Negar el efecto,¿Quieres añadir a tu mano 1 carta cuyo efecto incluya un lanzamiento de moneda desde tu Deck?,,,,,,,,,,,,,
 100263004,Guerrero de Plasma Eitöm,"(Esta carta se trata siempre como una carta ""Guerrero Magno"").	
 Esta carta no puede ser Invocada de Modo Especial excepto desde tu mano o Cementerio Sacrificando 1 monstruo de Nivel 7 o mayor que controles, una vez por turno. 
 Una vez por turno, puedes mandar al Cementerio 1 monstruo ""Guerrero Magnético"" o monstruo ""Guerrero Magno"" desde tu Deck, excepto ""Guerrero de Plasma Eitöm""; este turno, el ATK original de esta carta se convierte en 1500 y puede atacar directamente.",,Ataque directo,,,,,,,,,,,,,,
@@ -127,213 +127,287 @@ Una vez por turno, puedes mandar al Cementerio 1 monstruo ""Guerrero Magnético"
 ● Añade a tu mano 1 ""Velo Blanco"" desde tu Deck.	
 Sólo puedes usar este efecto de ""Señor de los Caballeros Blancos"" una vez por turno. 
 Cuando se declara un ataque entre esta carta y un monstruo del adversario, el ATK del monstruo del adversario se convierte en 0. 
-Si esta carta es destruida por tu adversario: tu adversario recibe 1000 puntos de daño.",Invocación Especial,El ATK se convierte en 0,Infligir daño,No resolver el efecto,Invocación Especial,Añadir a la mano,,,,,,,,,,
+Si esta carta es destruida por tu adversario: tu adversario recibe 1000 puntos de daño.",Invocar esta carta de Modo Especial desde tu mano,Convertir en 0 el ATK del monstruo de tu adversario batallante,Infligir 1000 puntos de daño a tu adversario,No resolver el efecto,"Invoca de Modo Especial 1 ""Caballero Blanco"" o un monstruo ""Noche Blanca"" desde tu mano o Deck","Añade a tu mano 1 ""Velo Blanco"" desde tu Deck",,,,,,,,,,
 100263006,Señor de la Perdición Invencible,"Durante la End Phase en la que uno o más monstruos fueron destruidos en batalla, puedes: Invocar esta carta de Modo Especial desde tu mano o Cementerio. Si un ""Señor de la Perdición Invencible"" fue destruido en batalla este turno, este monstruo Invocado de Modo Especial por este efecto tiene un ATK original de 3000 y no puede ser destruido por efectos. 
 Durante tu Main Phase, puedes: revelar una cantidad de cartas de tu Deck igual al número de cartas que controle tu adversario +1, incluyendo una ""Desenvainar Espada"", y devolverlas a la parte superior de tu Deck en cualquier orden. 
-Sólo puedes usar cada efecto de ""Señor de la Perdición Invencible"" una vez por turno.",Invocación Especial,Colocar en la parte superior del Deck,Selecciona una carta para colocar en la parte superior del Deck.,,,,,,,,,,,,,
+Sólo puedes usar cada efecto de ""Señor de la Perdición Invencible"" una vez por turno.",Invocar esta carta de Modo Especial desde tu mano o Cementerio,Revelar cartas de tu Deck,Elige las cartas a devolver a la parte superior del Deck,,,,,,,,,,,,,
 100263007,HÉROE Elemental Clayguardman,"1 monstruo ""HÉROE Elemental"" + 1 monstruo Guerrero	
 Si esta carta es Invocada de Modo Especial, puedes: Invocar de Modo Especial 1 monstruo ""HÉROE Elemental"" desde tu Deck. Si tu adversario controla cartas, puedes infligir daño a sus LP igual a 400 x el número de cartas que controle. Sólo puedes Invocar de Modo Especial monstruos ""HÉROE Elemental"" desde tu Deck Extra este turno. 
 Sólo puedes usar este efecto de ""HÉROE Elemental Clayguardman"" una vez por turno. 
-Mientras esta carta está en una Zona de Monstruos, otros monstruos ""HÉROE Elemental"" que controles no pueden ser destruidos en batalla ni por efectos.",Invocación Especial,¿Infligir daño?,,,,,,,,,,,,,,
+Mientras esta carta está en una Zona de Monstruos, otros monstruos ""HÉROE Elemental"" que controles no pueden ser destruidos en batalla ni por efectos.","Invocar de Modo Especial 1 monstruo ""HÉROE Elemental"" desde tu Deck",¿Quieres infligir daño a sus LP igual a 400 x el número de cartas que controle?,,,,,,,,,,,,,,
 100263008,Martillo de Muñeca,"Selecciona 1 monstruo que controles; destrúyelo, y después roba 2 cartas. Después de eso, puedes cambiar la posición de batalla de 1 monstruo que controle tu adversario. 
 Si un monstruo es Invocado de Modo Especial desde tu Cementerio, mientras esta carta está en tu Cementerio: puedes añadir esta carta a tu mano. 
 Sólo puedes usar cada efecto de ""Martillo de Muñeca"" una vez por turno.
-",Activar,Recuperar,¿Cambiar la posición de batalla?,,,,,,,,,,,,,
+",Destruir 1 monstruo que controles y robar 2 cartas,Añadir esta carta en tu Cementerio a tu mano,¿Quieres cambiar la posición de batalla de 1 monstruo que controle tu adversario?,,,,,,,,,,,,,
 100263009,Invocación Rápida,"Inmediatamente después de que este efecto se resuelva, Invoca de Modo Normal 1 monstruo. Si tu adversario controla un monstruo, puedes Invocar de Modo Normal un monstruo de Nivel 5 o mayor sin Sacrificio con este efecto. 
 Sólo puedes usar el siguiente efecto de ""Invocación Rápida"" una vez por turno.
-● Durante tu Main Phase, excepto en el turno en que esta carta fue mandada al Cementerio: puedes desterrar esta carta en tu Cementerio; añade a tu mano 1 monstruo de Nivel 5 o mayor que pueda ser Invocado de Modo Normal desde tu Deck o Cementerio, y después Invoca ese monstruo por Sacrificio.",Activar,Añadir a la mano,¿Aplicar el efecto de {CARD} para Invocar sin Sacrificar?,,,,,,,,,,,,,
+● Durante tu Main Phase, excepto en el turno en que esta carta fue mandada al Cementerio: puedes desterrar esta carta en tu Cementerio; añade a tu mano 1 monstruo de Nivel 5 o mayor que pueda ser Invocado de Modo Normal desde tu Deck o Cementerio, y después Invoca ese monstruo por Sacrificio.",Invoca de Modo Normal 1 monstruo (Invocación Rápida),Añadir a tu mano 1 monstruo de Nivel 5 o mayor que pueda ser Invocado de Modo Normal desde tu Deck o Cementerio,¿Quieres Invocar de Modo Normal un monstruo de Nivel 5 o mayor sin Sacrificio?,,,,,,,,,,,,,
 100263010,D- Explosión,"Puedes seleccionar 1 Carta Mágica boca arriba que controles; destrúyela y roba 1 carta, y después si controlas un monstruo ""HÉROE del Destino"", puedes Invocar de Modo Especial 1 monstruo ""HÉROE del Destino"" desde tu mano, Cementerio o destierro. 
 Al final del Damage Step cuando un monstruo equipado con una Carta de Equipo o ""HÉROE del Destino - Dogma"" atacó, puedes desterrar esta carta en tu Cementerio; ese monstruo puede atacar una vez más. 
-Sólo puedes activar 1 ""D- Explosión"" por turno.",Robar,Realizar otro ataque,Invocación Especial?,,,,,,,,,,,,,
+Sólo puedes activar 1 ""D- Explosión"" por turno.",Robar 1 carta,Realizar otro ataque (D- Explosión),"¿Quieres Invocar de Modo Especial 1 monstruo ""HÉROE del Destino"" desde tu mano, Cementerio o destierro?",,,,,,,,,,,,,
 100264002,Origen del Archidemonio,"Si esta carta está en tu mano: puedes Sacrificar otro monstruo ""Archidemonio"" en tu mano o Campo; Invoca esta carta de Modo Especial. 
 Si esta carta es Invocada de Modo Normal o Especial: puedes Invocar de Modo Especial 1 monstruo Demonio de Nivel 6 con 2500 ATK desde tu mano, Deck o Cementerio. 
 Cuando tu adversario activa un efecto de monstruo, mientras controlas ""Cráneo Convocado"" (Efecto Rápido): puedes negar la activación y, si lo haces, destruye esa carta. 
-Sólo puedes usar cada uno de los efectos de ""Origen del Archidemonio"" una vez por turno.",Invocar esta carta de Modo Especial,Invocación Especial,Negar y destruir,,,,,,,,,,,,,
+Sólo puedes usar cada uno de los efectos de ""Origen del Archidemonio"" una vez por turno.",Invocar esta carta de Modo Especial desde tu mano,"Invocar de Modo Especial 1 monstruo Demonio de Nivel 6 con 2500 ATK desde tu mano, Deck o Cementerio",Negar la activación y destruir el monstruo,,,,,,,,,,,,,
 100264003,Relámpago del Archidemonio,"Selecciona 1 monstruo ""Archidemonio"" que controles; gana 600 ATK, y después puedes destruir todos los monstruos que controle tu adversario cuyo ATK original sea menor que el ATK actual de ese monstruo. 
 Durante la Main Phase: puedes desterrar esta carta en el Cementerio, y después seleccionar 1 monstruo Demonio de Nivel 6 con 2500 ATK en tu Cementerio; añádelo a tu mano. 
-Sólo puedes usar cada uno de los efectos de ""Relámpago del Archidemonio"" una vez por turno.",Activar,Recuperar,¿Destruir ese monstruo?,,,,,,,,,,,,,
+Sólo puedes usar cada uno de los efectos de ""Relámpago del Archidemonio"" una vez por turno.",Incrementar en 600 el ATK del monstruo objetivo,Añadir a tu mano 1 monstruo Demonio de Nivel 6 con 2500 ATK en tu Cementerio,¿Quieres destruir todos los monstruos que controle tu adversario cuyo ATK original sea menor que el ATK actual de ese monstruo?,,,,,,,,,,,,,
 100265002,Semilla Artibruja,"Si esta carta es Invocada de Modo Normal o Especial y controlas un monstruo ""Artibruja"" que no sea ""Semilla Artibruja"", o ""Regulus, el Príncipe de Endimión"": puedes seleccionar 1 carta boca arriba en el Campo; devuélvela a la mano. 
 Puedes desterrar esta carta en tu Cementerio; revela cualquier número de cartas en tu mano, incluyendo una Mágica, y barájalas al Deck, y después roba esa misma cantidad de cartas. 
-Sólo puedes usar cada uno de los efectos de ""Semilla Artibruja"" una vez por turno.",Devolver a la mano,Robar,,,,,,,,,,,,,,
+Sólo puedes usar cada uno de los efectos de ""Semilla Artibruja"" una vez por turno.",Devolver 1 carta boca arriba en el Campo a la mano,Robar la misma cantidad de cartas reveladas,,,,,,,,,,,,,,
 100266001,Secretos Ancestrales,"Invoca de Modo Especial 1 Monstruo Normal desde tu mano, Deck o Cementerio en Posición de Defensa (pero si lo Invocas desde el Deck, el monstruo debe ser de Nivel 4 o menor), o, si controlas una Carta de Monstruo Normal, puedes aplicar 1 de estos efectos en su lugar;
 ● Destruye todos los monstruos que controle tu adversario.
 ● Destruye todas las Mágicas/Trampas que controle tu adversario.
 ● Roba 2 cartas.
 ● Invoca de Modo Especial 1 monstruo de cualquier Cementerio a tu Campo.	
-Sólo puedes activar 1 ""Secretos Ancestrales"" por turno.",Activar,¿Aplicar un efecto diferente?,Destruye un monstruo,Destruir Cartas Mágicas/de Trampa,Robar,Invocación Especial,,,,,,,,,,
+Sólo puedes activar 1 ""Secretos Ancestrales"" por turno.","Invocar de Modo Especial 1 Monstruo Normal desde tu mano, Deck o Cementerio en Posición de Defensa",¿Quieres aplicar 1 de los siguientes efectos en su lugar?,Destruir todos los monstruos que controle tu adversario,Destruir todas las Mágicas/Trampas que controle tu adversario,Robar 2 cartas,Invocar de Modo Especial 1 monstruo de cualquier Cementerio a tu Campo,,,,,,,,,,
 100266002,Fuerza de Espejo Mental,"Si tu adversario controla 5 o más cartas boca arriba, la activación y el efecto de esta carta no pueden ser negados, y además puede ser activada en el turno en que fue Colocada. 
 Puedes activar este efecto en uno de los siguientes momentos: niega los efectos de tantas cartas boca arriba que controle tu adversario como sea posible y, si lo haces, destrúyelas. Tus monstruos no pueden atacar directamente hasta el final del próximo turno después de que esta carta se resuelva.
 ● Cuando un monstruo del adversario con el ATK más alto declara un ataque.
 ● Cuando tu adversario activa un efecto de monstruo que destruiría una o más cartas en el Campo.
-● Cuando tu adversario activa un efecto de monstruo en la mano o Campo durante tu turno.",Activar,"Activar aplicando el efecto de ""Fuerza de Espejo Mental"".",,,,,,,,,,,,,,
+● Cuando tu adversario activa un efecto de monstruo en la mano o Campo durante tu turno.",Negar los efectos y destruir las cartas del adversario,"Activar ""Fuerza de Espejo Mental"" en el turno que fue colocada",,,,,,,,,,,,,,
+101305081,Testigo de lo Ancestral,"Si tienes un Monstruo de Sincronía en tu Campo o Cementerio: puedes Invocar esta carta de Modo Especial desde tu mano. 
+Si esta carta es Invocada de Modo Especial: puedes Colocar hasta 3 Monstruos de Sincronía con nombres diferentes desde tu Deck Extra y/o Cementerio en tu Zona de Mágicas y Trampas como Mágicas Continuas boca arriba, e Invocar de Modo Especial 1 ""Ficha de Arco"" (Máquina/LUZ/ATK 0/DEF 0) con un Nivel igual al número de cartas colocadas, y además por el resto de este turno, no puedes Invocar de Modo Especial desde el Deck Extra, excepto Monstruos de Sincronía. 
+Sólo puedes usar cada efecto de ""Testigo de lo Ancestral"" una vez por turno.
+",Invocar esta carta de Modo Especial desde tu mano,"Invocar de Modo Especial 1 ""Ficha de Arco""",,,,,,,,,,,,,,
+101305082,Paranoia Desconfiada,"Toma el control de todos los monstruos de tu adversario en la columna de esta carta. 
+Si esta carta Colocada en control de su propietario ha dejado el Campo por un efecto del adversario, y ahora está en el Cementerio o desterrada: puedes Invocar esta carta de Modo Especial como un Monstruo de Efecto (Demonio/OSCURIDAD/Nivel 10/ATK 4000/DEF 4000) con el siguiente efecto (esta carta NO se trata como Trampa).
+● No es afectada por efectos de cartas de tu adversario activados en la misma columna.	
+Sólo puedes activar 1 ""Paranoia Desconfiada"" por turno.",Tomar el control de todos los monstruos de tu adversario en la columna de esta carta,Invocar esta carta de Modo Especial como un Monstruo de Efecto,,,,,,,,,,,,,,
+101305083,Yomagna el Fantasma de Fuego,"No puede ser Invocado de Modo Normal/Colocado. Debe ser primero Invocado de Modo Especial (desde tu mano) barajando al Deck/Deck Extra 3 cartas del mismo tipo (Monstruo, Mágica o Trampa) en tu Cementerio. 
+Si esta carta es Invocada de Modo Especial: puedes declarar 1 Tipo de Monstruo; esta carta se convierte en ese Tipo hasta el final de este turno. 
+Durante tu Main Phase: puedes Invocar por Fusión 1 Monstruo de Fusión desde tu Deck Extra usando monstruos de cualquier Campo, incluyendo esta carta. 
+Sólo puedes usar cada efecto de ""Yomagna el Fantasma de Fuego"" una vez por turno.",,Cambiar el Tipo de esta carta,,,,,,,,,,,,,,
+101305084,Espantapájaros de Trueno Impactante,"Cada vez que uno o más monstruos que no sean Trueno son Invocados de Modo Especial boca arriba, mientras esta carta está en la Zona de Monstruos: ese o esos monstruos no pueden atacar este turno, y además destrúyelos durante la End Phase. 
+Si esta carta está en tu Cementerio: puedes seleccionar 1 carta boca arriba que controles; destrúyela y, si lo haces, añade esta carta a tu mano. 
+Sólo puedes usar este efecto de ""Espantapájaros de Trueno Impactante"" una vez por turno.","Afectado por ""Espantapájaros de Trueno Impactante"": destruir los monstruos durante la End Phase",Destruir la carta seleccionada y añadir esta carta en tu Cementerio a tu mano,"Afectado por ""Espantapájaros de Trueno Impactante"": este monstruo no puede atacar este turno",,,,,,,,,,,,,
+101305085,Mixousa la Confundidora,"1 monstruo Lanzador de Conjuros + 1 monstruo que no sea Lanzador de Conjuros	
+Puedes seleccionar 1 monstruo boca arriba en el Campo y declarar 1 Atributo; se convierte en ese Atributo. 
+(Efecto Rápido): Durante la Main Phase de tu adversario: puedes Invocar por Fusión 1 Monstruo de Fusión desde tu Deck Extra desterrando esta carta que controles y monstruos de tu Campo o Cementerio como material. 
+Si esta carta está en tu Cementerio: puedes declarar 1 Atributo; esta carta en el Cementerio se convierte en ese Atributo hasta el final de este turno. 
+Sólo puedes usar cada efecto de ""Mixousa la Confundidora"" una vez por turno.",Cambiar el Atributo del monstruo seleccionado,Invocar por Fusión 1 Monstruo de Fusión desde tu Deck Extra desterrando esta carta que controles y monstruos de tu Campo o Cementerio como material,Cambiar el Atributo de esta carta,,,,,,,,,,,,,
+101305086,Caballero Chamán Shamánite,"2+ monstruos de Nivel 3	
+Si esta carta es Invocada Xyz, o si una Trampa que posees es desterrada: puedes seleccionar 1 de tus Trampas desterradas; acóplala a esta carta como material. 
+Puedes desacoplar cualquier número de materiales de esta carta, y después seleccionar 1 monstruo de OSCURIDAD en tu Cementerio o destierro con un Nivel igual al número de materiales desacoplados; Invócalo de Modo Especial. 
+Sólo puedes usar cada efecto de ""Caballero Chamán Shamánite"" una vez por turno.",Acoplara esta carta 1 de tus Trampas desterradas como Material Xyz,Invocar de Modo Especial 1 monstruo de OSCURIDAD en tu Cementerio,Elige la cantidad a desacoplar,,,,,,,,,,,,,
+101305087,"Cerynemesia, Bestia Mística del Bosque","Si esta carta es Invocada de Modo Normal o Especial: puedes desterrar (boca arriba) 1 monstruo Bestia en tu mano o Campo boca arriba hasta la End Phase; Invoca de Modo Especial 1 monstruo Bestia de TIERRA desde tu Deck o Cementerio con un Nivel igual o menor al Nivel original de ese monstruo, y después tu adversario puede Invocar de Modo Especial 1 monstruo desde su mano. 
+Sólo puedes usar este efecto de ""Cerynemesia, Bestia Mística del Bosque"" una vez por turno. 
+Los monstruos de tu adversario que puedan atacar deben atacar al monstruo que controles con el ATK más alto (si hay empate, elige él).",Invocar de Modo Especial 1 monstruo Bestia de TIERRA desde tu Deck o Cementerio,¿Quieres Invocar de Modo Especial 1 monstruo desde tu mano?,Desterrar hasta la End Phase,,,,,,,,,,,,,
+101305088,Cambio Impostor,"Cuando un efecto de monstruo que fue activado en el Campo de tu adversario seleccionando una o más cartas en el Campo se resuelve, si alguno de esos objetivos está en una columna diferente a la de ese monstruo del adversario, pueden desterrar 1 carta de su Cementerio. Si no lo hicieron, niega el efecto activado. 
+Puedes desterrar 1 monstruo en tu Cementerio; Invoca de Modo Especial 1 ""Ficha Impostor"" (Psíquico/TIERRA/ATK 800/DEF 800) con el mismo Nivel que ese monstruo. 
+Sólo puedes usar este efecto de ""Cambio Impostor"" una vez por turno.",,"Invocar de Modo Especial 1 ""Ficha Impostor""",¿Quieres desterrar 1 carta de tu Cementerio?,,,,,,,,,,,,,
+101305089,Mortilux Heruvur,"2+ monstruos de Nivel 8	
+Sólo puedes usar el siguiente efecto de ""Mortilux Heruvur"" una vez por turno. 
+Si uno o más monstruos son mandados al Cementerio de tu adversario (excepto durante el Damage Step): puedes seleccionar 1 de ellos; acóplalo a esta carta como material. 
+Esta carta gana efectos basados en el número de materiales acoplados a ella.
+● 2+: No puede ser destruida en batalla ni por efectos de cartas.
+● 3+: Tu adversario no puede seleccionar cartas en los Cementerios con efectos de cartas.
+● 4+: Puedes desacoplar 3 materiales de esta carta, manda al Cementerio 1 monstruo en el Campo.",Acoplar a esta carta 1 de los monstruos enviados al Cementerio,Enviar al Cementerio 1 monstruo en el Campo,,,,,,,,,,,,,,
+101305090,Shatranga Angelechy,"1 Cantante + 1+ monstruos que no sean Cantantes	
+Puedes seleccionar 1 monstruo que controle tu adversario; destiérralo. 
+Si esta carta es colocada en la Zona de Mágicas y Trampas como una Mágica Continua: puedes añadir a tu mano 1 Trampa ""Angelechy"" desde tu Deck o Cementerio. 
+Mientras esta carta es tratada como una Mágica Continua, tu adversario sólo puede intentar activar hasta 5 efectos de monstruo por turno. 
+Sólo puedes usar cada uno de los efectos de ""Shatranga Angelechy"" una vez por turno.",Desterrar 1 monstruo que controle tu adversario,"Añadir a tu mano 1 Trampa ""Angelechy"" desde tu Deck o Cementerio",,,,,,,,,,,,,,
+101305091,Bastión Angelechy,"1 Cantante + 1+ monstruos que no sean Cantantes	
+Puedes seleccionar 1 monstruo que controle tu adversario; destiérralo. 
+Si esta carta es colocada en la Zona de Mágicas y Trampas como una Mágica Continua: puedes Colocar 1 ""Shatranga Angelechy"" desde tu Deck Extra en tu Zona de Mágicas y Trampas como una Mágica Continua boca arriba. 
+Mientras esta carta es tratada como una Mágica Continua, otras cartas ""Angelechy"" en el Campo no pueden ser destruidas por efectos de cartas de tu adversario. 
+Sólo puedes usar cada uno de los efectos de ""Bastión Angelechy"" una vez por turno.",Desterrar 1 monstruo que controle tu adversario,"Colocar 1 ""Shatranga Angelechy"" desde tu Deck Extra en tu Zona de Mágicas y Trampas como una Mágica Continua boca arriba",,,,,,,,,,,,,,
+101305092,Corcel de Guerra Angelechy,"1 Cantante + 1+ monstruos que no sean Cantantes	
+Puedes seleccionar 1 monstruo que controle tu adversario; destiérralo. 
+Si esta carta es colocada en la Zona de Mágicas y Trampas como una Mágica Continua: puedes añadir a tu mano 1 Mágica ""Angelechy"" desde tu Deck. 
+Mientras esta carta es tratada como una Mágica Continua, cada vez que tu adversario activa una carta o efecto, inflige 500 puntos de daño a tu adversario cuando se resuelve. 
+Sólo puedes usar cada uno de los efectos de ""Corcel de Guerra Angelechy"" una vez por turno.",Desterrar 1 monstruo que controle tu adversario,"Añadir a tu mano 1 Mágica ""Angelechy"" desde tu Deck",,,,,,,,,,,,,,
+101305093,Alistado Angelechy,"1 Cantante + 1 monstruo que no sea Cantante	
+Puedes seleccionar 1 monstruo del adversario en la columna adyacente a esta carta; destiérralo, y después cambia el control de esta carta moviéndola a una de las Zonas de Monstruos Principal de tu adversario en las columnas adyacentes a esta carta. 
+Si el control de esta carta boca arriba cambia: devuelve esta carta al Deck Extra, y después el propietario de esta carta Invoca de Modo Especial 1 monstruo ""Angelechy"" desde su Deck Extra. 
+Sólo puedes usar cada efecto de ""Alistado Angelechy"" una vez por turno.",Desterrar el monstruo seleccionado y cambiar el control de esta carta moviéndola a una de las Zonas de Monstruos Principal de tu adversario en las columnas adyacentes a esta carta,"Invocar de Modo Especial 1 monstruo ""Angelechy"" desde tu Deck Extra",,,,,,,,,,,,,,
+101305094,Problema Angelechy,"Una vez por turno: puedes descartar 1 Mágica/Trampa; Invoca de Modo Especial 1 monstruo ""Angelechy"" de Nivel 2 desde tu Deck Extra y, si lo haces, Coloca 1 monstruo ""Angelechy"" desde tu Deck Extra en tu Zona de Mágicas y Trampas como una Mágica Continua boca arriba. 
+Si una o más Cartas de Monstruo ""Angelechy"" boca arriba que controles son destruidas en batalla o por efecto de carta: puedes devolver 1 Carta de Monstruo ""Angelechy"" que poseas desde tu Zona de Mágicas y Trampas al Deck Extra, y después puedes Invocarla de Modo Especial.","Invocar de Modo Especial 1 monstruo ""Angelechy"" de Nivel 2 desde tu Deck Extra y",,"¿Quieres Invocar de Modo Especial el monstruo ""Angelechy"" destruido?",,,,,,,,,,,,,
+101305095,Perturbación Angelechy,"Da el control de 1 monstruo ""Angelechy"" que controles a tu adversario (hasta la End Phase), y después si tu adversario controla una o más cartas boca arriba en sus Zonas de Monstruos adyacentes y/o Zona de Mágicas y Trampas, sus efectos son negados. 
+Puedes desterrar esta carta en tu Cementerio; añade a tu mano 1 Mágica/Trampa ""Angelechy"" desde tu Deck, excepto ""Perturbación Angelechy"". 
+Sólo puedes usar cada efecto de ""Perturbación Angelechy"" una vez por turno.","Transferir el control de 1 monstruo ""Angelechy"" que controles a tu adversario y después si tu adversario controla una o más cartas boca arriba en sus Zonas de Monstruos adyacentes y/o Zona de Mágicas y Trampas, sus efectos son negados","Añadir tu mano 1 Mágica/Trampa ""Angelechy"" desde tu Deck",,,,,,,,,,,,,,
+101305096,Apertura Angelechy a E4,"Si tu adversario comienza primero, también puedes activar esta carta desde tu mano durante la Standby Phase de su primer turno. 
+Coloca 1 Mágica de Campo ""Angelechy"" desde tu mano, Deck o Cementerio boca arriba en tu Campo y, si lo haces, Invoca de Modo Especial 1 monstruo ""Angelechy"" de Nivel 2 o 7 desde tu Deck Extra a la Zona de Monstruos de Enlace, y si lo haces, Coloca 1 monstruo ""Angelechy"" desde tu Deck Extra en tu Zona de Mágicas y Trampas como una Mágica Continua boca arriba. 
+Hasta el final de tu próximo turno después de que esta carta se resuelva, no puedes Invocar de Modo Especial desde el Deck Extra, excepto Monstruos de Sincronía.","Invocar de Modo Especial 1 monstruo ""Angelechy"" de Nivel 2 o 7 desde tu Deck Extra a la Zona de Monstruos de Enlace","Activar ""Apertura Angelechy a E4"" desde tu mano",,,,,,,,,,,,,,
+101305181,Ficha de Arco,"Invocada de Modo Especial con el efecto de ""Testigo de lo Ancestral"".",,,,,,,,,,,,,,,,
+101305188,Ficha Impostor,"Invocada de Modo Especial con el efecto de ""Cambio Impostor"".",,,,,,,,,,,,,,,,
 101306001,Guerrero Pantera Veloz,"Sólo puedes usar el siguiente efecto de ""Guerrero Pantera Veloz"" una vez por turno. 
 (Efecto Rápido): Durante la Main Phase, puedes Sacrificar otro monstruo en tu mano o Campo y aplicar uno de los siguientes efectos:
 ● Invoca de Modo Especial 1 monstruo que mencione ""Mago del Tiempo Oscuro"", excepto ""Guerrero Pantera Veloz"", desde tu mano o Deck.
 ● Manda al Cementerio 1 Carta Mágica/Trampa que mencione ""Mago del Tiempo Oscuro"" desde tu Deck.	
-Esta carta no puede declarar un ataque a menos que un monstruo haya sido Sacrificado este turno.",Activar el efecto,,Invocación Especial,Enviar al Cementerio,,,,,,,,,,,,
+Esta carta no puede declarar un ataque a menos que un monstruo haya sido Sacrificado este turno.",Activar el efecto,,"Invoca de Modo Especial 1 monstruo que mencione ""Mago del Tiempo Oscuro"", excepto ""Guerrero Pantera Veloz"", desde tu mano o Deck","Manda al Cementerio 1 Carta Mágica/Trampa que mencione ""Mago del Tiempo Oscuro"" desde tu Deck",,,,,,,,,,,,
 101306002,"Aligátor de la Espada, el Caballero Dragón","Esta carta puede atacar directamente. 
 Sólo puedes usar cada uno de los siguientes efectos de ""Aligátor de la Espada, el Caballero Dragón"" una vez por turno. 
 Mientras esta carta está en tu mano, puedes revelar otra carta en tu mano que mencione ""Mago del Tiempo Oscuro""; Invoca esta carta de Modo Especial. 
-Si esta carta es Invocada de Modo Normal o Especial: puedes añadir a tu mano 2 Cartas Mágicas/Trampa que mencionen ""Mago del Tiempo Oscuro"", y después descartar 1 carta.",Invocación Especial,Añadir a la mano,,,,,,,,,,,,,,
+Si esta carta es Invocada de Modo Normal o Especial: puedes añadir a tu mano 2 Cartas Mágicas/Trampa que mencionen ""Mago del Tiempo Oscuro"", y después descartar 1 carta.",Invocar esta carta de Modo Especial desde tu mano,"Añadir a tu mano 2 Cartas Mágicas/Trampa que mencionen ""Mago del Tiempo Oscuro"", y después descartar 1 carta",,,,,,,,,,,,,,
 101306003,Jinzo - Impactador Psicoenergético,"Esta carta también se trata como ""Jinzo"" mientras está en el Campo o en el Cementerio. 
 Si esta carta es Invocada de Modo Normal o Especial: puedes destruir todas las Cartas Trampa que controle tu adversario (revela y confirma las cartas Colocadas) y después aumenta el ATK de esta carta en 300 x el número de cartas destruidas por este efecto. 
 Sólo puedes usar este efecto de ""Jinzo - Impactador Psicoenergético"" una vez por turno. 
-Mientras controles otro monstruo que mencione ""Mago del Tiempo Oscuro"", tu adversario no puede activar los efectos de Cartas Trampa.",Destruir,,,,,,,,,,,,,,,
+Mientras controles otro monstruo que mencione ""Mago del Tiempo Oscuro"", tu adversario no puede activar los efectos de Cartas Trampa.",Destruir todas las Cartas Trampa que controle tu adversario,,,,,,,,,,,,,,,
 101306004,"El Pescador, la Leyenda del Gran Mar","Si tu adversario activa un efecto de monstruo en el Campo, o cuando un monstruo del adversario declara un ataque, mientras hay una carta que mencione ""Mago del Tiempo Oscuro"" (excepto ""El Pescador, la Leyenda del Gran Mar"") o ""Umi"" en el Campo: puedes Invocar esta carta de Modo Especial desde tu mano. 
 Si esta carta es Invocada de Modo Especial: puedes seleccionar 1 monstruo que controle tu adversario; destrúyelo, y además devuelve esta carta a la mano durante la End Phase de este turno. 
-Sólo puedes usar cada uno de los efectos de ""El Pescador, la Leyenda del Gran Mar"" una vez por turno.",Invocación Especial,Destruir,,,,,,,,,,,,,,
+Sólo puedes usar cada uno de los efectos de ""El Pescador, la Leyenda del Gran Mar"" una vez por turno.",Invocar esta carta de Modo Especial desde tu mano,Destruir 1 monstruo que controle tu adversario,,,,,,,,,,,,,,
 101306009,"Akasuna, la Deidad Dorada de Asutra","Puedes Invocar esta carta de Modo Especial (desde tu mano) revelando 1 carta Colocada que controles y devolviéndola a la mano o al Deck Extra. 
 Sólo puedes Invocar de Modo Especial ""Akasuna, la Deidad Dorada de Asutra"" una vez por turno de esta forma. 
 Durante la Main Phase (Efecto Rápido): puedes mandar al Cementerio 1 Trampa desde tu mano o Campo boca abajo; cambia todos los monstruos boca arriba que controle tu adversario a Posición de Defensa boca abajo. 
 Durante tu End Phase: puedes Colocar 1 Trampa ""Asutra"" desde tu Deck. 
-Sólo puedes usar cada efecto de ""Akasuna, la Deidad Dorada de Asutra"" una vez por turno.",,Cambiar a posición boca abajo,Colocar,,,,,,,,,,,,,
+Sólo puedes usar cada efecto de ""Akasuna, la Deidad Dorada de Asutra"" una vez por turno.",Invocar esta carta de Modo Especial (desde tu mano) revelando 1 carta Colocada que controles y devolviéndola a la mano o al Deck Extra,Cambiar todos los monstruos boca arriba que controle tu adversario a Posición de Defensa boca abajo,"Colocar 1 Trampa ""Asutra"" desde tu Deck",,,,,,,,,,,,,
 101306010,"Kuzuha, la Deidad Embrujadora de Asutra","Puedes Invocar esta carta de Modo Especial (desde tu mano) revelando 1 carta Colocada que controles y devolviéndola a la mano o al Deck Extra. 
 Sólo puedes Invocar de Modo Especial ""Kuzuha, la Deidad Embrujadora de Asutra"" una vez por turno de esta forma. 
 Puedes seleccionar 1 carta en el Campo por cada 2 cartas Colocadas en el Campo; destrúyelas. 
 Durante tu End Phase: puedes seleccionar 1 Trampa ""Asutra"" en tu Cementerio; Colócala. 
-Sólo puedes usar cada efecto de ""Kuzuha, la Deidad Embrujadora de Asutra"" una vez por turno.",,Destruir,Colocar,,,,,,,,,,,,,
+Sólo puedes usar cada efecto de ""Kuzuha, la Deidad Embrujadora de Asutra"" una vez por turno.",Invocar esta carta de Modo Especial (desde tu mano) revelando 1 carta Colocada que controles y devolviéndola a la mano o al Deck Extra,Destruir 1 carta en el Campo por cada 2 cartas Colocadas en el Campo,"Colocar 1 Trampa ""Asutra"" desde tu Cementerio",,,,,,,,,,,,,
 101306011,"Yoa, la Deidad de la Plaga de Asutra","Puedes Invocar esta carta de Modo Especial (desde tu mano) revelando 1 carta Colocada que controles y devolviéndola a la mano o al Deck Extra. 
 Sólo puedes Invocar de Modo Especial ""Yoa, la Deidad de la Plaga de Asutra"" una vez por turno de esta forma. 
 Durante tu Main Phase: puedes Colocar 1 Mágica/Trampa ""Asutra"" desde tu Deck. 
 Durante el turno de tu adversario (Efecto Rápido): puedes seleccionar 1 monstruo boca arriba en el Campo; aumenta o reduce su Nivel en 1. 
-Sólo puedes usar cada efecto de ""Yoa, la Deidad de la Plaga de Asutra"" una vez por turno.",,Colocar,Cambiar Nivel,Aumentar Nivel,Disminuir Nivel,,,,,,,,,,,
+Sólo puedes usar cada efecto de ""Yoa, la Deidad de la Plaga de Asutra"" una vez por turno.",Invocar esta carta de Modo Especial (desde tu mano) revelando 1 carta Colocada que controles y devolviéndola a la mano o al Deck Extra,"Colocar 1 Mágica/Trampa ""Asutra"" desde tu Deck",Cambiar Nivel,Incrementar Nivel en 1,Reducir Nivel en 1,,,,,,,,,,,
 101306012,"Mikumari, la Deidad Selladora de Asutra","Puedes Invocar esta carta de Modo Especial (desde tu mano) revelando 1 carta Colocada que controles y devolviéndola a la mano o al Deck Extra. 
 Sólo puedes Invocar de Modo Especial ""Mikumari, la Deidad Selladora de Asutra"" una vez por turno de esta forma. 
 Durante tu Main Phase: puedes añadir a tu mano 1 monstruo ""Asutra"" que no sea Wyrm desde tu Deck. 
 Si esta carta es mandada al Cementerio como material para la Invocación por Sincronía de un monstruo ""Asutra"": puedes seleccionar 1 Trampa Normal en tu Cementerio; Colócala. 
-Sólo puedes usar cada efecto de ""Mikumari, la Deidad Selladora de Asutra"" una vez por turno.",,Añadir a la mano,Colocar,,,,,,,,,,,,,
+Sólo puedes usar cada efecto de ""Mikumari, la Deidad Selladora de Asutra"" una vez por turno.",Invocar esta carta de Modo Especial (desde tu mano) revelando 1 carta Colocada que controles y devolviéndola a la mano o al Deck Extra.,"Añadir a tu mano 1 monstruo ""Asutra"" que no sea Wyrm desde tu Deck",Colocar 1 Trampa Normal desde tu Cementerio,,,,,,,,,,,,,
 101306013,Señor Dragón de Atlantis - Dédalo,"(El nombre de esta carta se convierte en ""Umi"" mientras esté en la Zona de Monstruos).	
 Si controlas ""Atlantis, la Ciudad Dragón"" o ""Umi"": puedes Invocar esta carta de Modo Especial desde tu mano. 
 Puedes mandar al Cementerio hasta 3 ""Umi"" boca arriba que controles; añade a tu mano la misma cantidad de cartas que mencionen ""Atlantis, la Ciudad Dragón"" desde tu Deck, excepto monstruos de Nivel 7, y después puedes mandar al Cementerio 1 carta en el Campo. 
-Sólo puedes usar cada uno de los efectos de ""Señor Dragón de Atlantis - Dédalo"" una vez por turno.",Invocación Especial,Efecto de añadir a la mano,¿Enviar la carta seleccionada al Cementerio?,,,,,,,,,,,,,
+Sólo puedes usar cada uno de los efectos de ""Señor Dragón de Atlantis - Dédalo"" una vez por turno.",Invocar esta carta de Modo Especial desde tu mano,"Enviar al Cementerio hasta 3 ""Umi"" boca arriba que controles y añadir tu mano la misma cantidad de cartas que mencionen ""Atlantis, la Ciudad Dragón"" desde tu Deck, excepto monstruos de Nivel 7",¿Quieres enviar al Cementerio 1 carta en el Campo?,,,,,,,,,,,,,
 101306014,General de Atlantis,"(El nombre de esta carta se convierte en ""Umi"" mientras esté en la Zona de Monstruos).	
 Puedes descartar esta carta; añade a tu mano 1 Mágica/Trampa que mencione ""Atlantis, la Ciudad Dragón"" desde tu Deck. 
 Si esta carta está en tu Cementerio y controlas ""Umi"": puedes Invocar esta carta de Modo Especial. 
-Sólo puedes usar cada uno de los efectos de ""General de Atlantis"" una vez por turno.",Efecto de añadir a la mano,Invocación Especial,,,,,,,,,,,,,,
+Sólo puedes usar cada uno de los efectos de ""General de Atlantis"" una vez por turno.","Añadir a tu mano 1 Mágica/Trampa que mencione ""Atlantis, la Ciudad Dragón"" desde tu Deck",Invocar esta carta de Modo Especial desde tu Cementerio,,,,,,,,,,,,,,
 101306015,Brazos Monstruosos de Atlantis,"(El nombre de esta carta se convierte en ""Umi"" mientras esté en la Zona de Monstruos).	
 Si esta carta es Invocada de Modo Normal o Especial: puedes seleccionar 1 monstruo en tu Cementerio que mencione ""Atlantis, la Ciudad Dragón""; Invócalo de Modo Especial en Posición de Defensa. 
 (Efecto Rápido): Cuando tu adversario activa un efecto de monstruo: puedes desterrar esta carta en tu Campo o Cementerio y mandar al Cementerio 1 ""Umi"" boca arriba que controles; niega ese efecto. 
-Sólo puedes usar cada uno de los efectos de ""Brazos Monstruosos de Atlantis"" una vez por turno.",Invocación Especial,Negar el efecto,,,,,,,,,,,,,,
+Sólo puedes usar cada uno de los efectos de ""Brazos Monstruosos de Atlantis"" una vez por turno.","Invocar de Modo Especial en Posición de Defensa 1 monstruo en tu Cementerio que mencione ""Atlantis, la Ciudad Dragón""",Negar el efecto activado,,,,,,,,,,,,,,
 101306016,Vórtice Maligno de Atlantis,"(El nombre de esta carta se convierte en ""Umi"" mientras esté en la Zona de Monstruos).	
 Si esta carta es Invocada de Modo Normal o Especial: puedes mandar al Cementerio 1 carta que mencione ""Atlantis, la Ciudad Dragón"" desde tu Deck, excepto ""Vórtice Maligno de Atlantis"". 
 Si esta carta es mandada al Cementerio y controlas ""Umi"": puedes Invocar de Modo Especial 1 monstruo de AGUA desde tu mano. 
-Sólo puedes usar cada uno de los efectos de ""Vórtice Maligno de Atlantis"" una vez por turno.",Enviar al Cementerio,Invocación Especial,,,,,,,,,,,,,,
+Sólo puedes usar cada uno de los efectos de ""Vórtice Maligno de Atlantis"" una vez por turno.","Enviar al Cementerio 1 carta que mencione ""Atlantis, la Ciudad Dragón"" desde tu Deck",Invocar de Modo Especial 1 monstruo de AGUA desde tu mano,,,,,,,,,,,,,,
 101306021,HÉROE del Destino – Death Dogma,"No puede ser Invocado de Modo Normal/Colocado. Debe ser Invocado de Modo Especial (desde tu mano o Cementerio) desterrando 3 monstruos Guerrero y/o de OSCURIDAD en tu Cementerio. 
 Sólo puedes Invocar de Modo Especial ""HÉROE del Destino – Death Dogma"" una vez por turno de esta forma. 
 Si es Invocado de esta forma: puedes activar este efecto; inflige 2000 puntos de daño a tu adversario durante la próxima Standby Phase. 
-Una vez por turno, cuando tu adversario activa una carta o efecto (Efecto Rápido): puedes Invocar por Fusión 1 monstruo de OSCURIDAD o Guerrero desde tu Deck Extra, barajando al Deck sus materiales desde tu mano, Campo y/o Cementerio.",,Infligir daño,Invocación por Fusión,,,,,,,,,,,,,
+Una vez por turno, cuando tu adversario activa una carta o efecto (Efecto Rápido): puedes Invocar por Fusión 1 monstruo de OSCURIDAD o Guerrero desde tu Deck Extra, barajando al Deck sus materiales desde tu mano, Campo y/o Cementerio.",,Infligir 2000 de daño a tu adversario,"Invocar por Fusión 1 monstruo de OSCURIDAD o Guerrero desde tu Deck Extra, barajando al Deck sus materiales desde tu mano, Campo y/o Cementerio",,,,,,,,,,,,,
 101306022,HÉROE del Destino – Doom Liege,"Si esta carta es Invocada de Modo Normal o Especial: puedes seleccionar 1 monstruo que controle tu adversario; destiérralo hasta la próxima Standby Phase. 
 Puedes mandar al Cementerio 1 monstruo ""HÉROE del Destino"" desde tu Deck; añade a tu mano 1 ""Prisión de la Torre del Reloj"" o ""Ciudad Prisión de la Torre del Reloj – Ciudad Oscura"" desde tu Deck o Cementerio. No puedes Invocar de Modo Especial por el resto de este turno, excepto monstruos ""HÉROE"" de OSCURIDAD. 
-Sólo puedes usar cada uno de los efectos de ""HÉROE del Destino – Doom Liege"" una vez por turno.",Desterrar,Añadir a la mano,Desterrar hasta la próxima Standby Phase,,,,,,,,,,,,,
+Sólo puedes usar cada uno de los efectos de ""HÉROE del Destino – Doom Liege"" una vez por turno.",Desterrar 1 monstruo que controle tu adversario hasta la próxima Standby Phase,"Añadir a la mano 1 ""Prisión de la Torre del Reloj"" o ""Ciudad Prisión de la Torre del Reloj – Ciudad Oscura"" desde tu Deck o Cementerio","Afectado por ""HÉROE del Destino – Doom Liege"": o puedes Invocar de Modo Especial por el resto de este turno, excepto monstruos ""HÉROE"" de OSCURIDAD",,,,,,,,,,,,,
 101306023,HÉROE del Destino – Dreadnought Servant,"Si controlas un monstruo ""HÉROE del Destino"" o una Mágica de Campo boca arriba: puedes Invocar esta carta de Modo Especial desde tu mano, y después puedes destruir 1 carta que controles y, si lo haces, añade a tu mano 1 ""Polimerización"" desde tu Deck. 
 Si Invocas de Modo Especial uno o más monstruos ""HÉROE del Destino"" de Nivel 8: puedes desterrar esta carta en tu Cementerio, y después seleccionar 1 carta que controle tu adversario; ponla en la parte superior del Deck. 
-Sólo puedes usar cada uno de los efectos de ""HÉROE del Destino – Dreadnought Servant"" una vez por turno.",Invocación Especial,Devolver al Deck,¿Destruir y añadir a la mano?,,,,,,,,,,,,,
+Sólo puedes usar cada uno de los efectos de ""HÉROE del Destino – Dreadnought Servant"" una vez por turno.",Invocar esta carta de Modo Especial desde tu mano,Devolver a a la parte superior del Deck 1 carta que controle tu adversario,"¿Quieres destruir 1 carta que controles para añadir a tu mano 1 ""Polimerización"" desde tu Deck?",,,,,,,,,,,,,
 101306024,Contactador Adamancipador,"Si esta carta está en tu mano: puedes colocar otra carta ""Adamancipador"" de tu mano en la parte superior del Deck; Invoca esta carta de Modo Especial. 
 Durante tu Main Phase: puedes excavar las 5 cartas de la parte superior de tu Deck y, si lo haces, puedes Invocar de Modo Especial 1 monstruo Roca excavado de Nivel 4 o menor, y además coloca el resto en el fondo del Deck en cualquier orden. 
-Sólo puedes usar cada uno de los efectos de ""Contactador Adamancipador"" una vez por turno.",Invocación Especial,Excavar el Deck,¿Invocar de Modo Especial el monstruo ?,,,,,,,,,,,,,
+Sólo puedes usar cada uno de los efectos de ""Contactador Adamancipador"" una vez por turno.",Invocar esta carta de Modo Especial desde tu mano,Excavar las 5 cartas de la parte superior de tu Deck,¿Quieres Invocar de Modo Especial 1 monstruo Roca excavado de Nivel 4 o menor?,,,,,,,,,,,,,
 101306025,Cristal Adamancipador - Tiamita,"Si esta carta es Invocada de Modo Especial por el efecto de una carta ""Adamancipador"": puedes añadir a tu mano 1 carta ""Adamancipador"" desde tu Deck, excepto ""Cristal Adamancipador - Tiamita"", y después puedes Invocar de Modo Especial 1 monstruo de Tipo Roca desde tu mano. 
 Si esta carta está en el Cementerio, puedes seleccionar 1 Monstruo de Sincronía que controles o en tu Cementerio; devuélvelo al Deck Extra y esta carta a la parte superior de tu Deck. 
 Sólo puedes usar cada efecto de ""Cristal Adamancipador - Tiamita"" una vez por turno.
-",Efecto de añadir a la mano,Devolver al Deck,Invocación Especial?,,,,,,,,,,,,,
+","Añadir a tu mano 1 carta ""Adamancipador"" desde tu Deck",Devolver al Deck Extra 1 Monstruo de Sincronía que controles o en tu Cementerio,¿Quieres Invocar de Modo Especial 1 monstruo de Tipo Roca desde tu mano?,,,,,,,,,,,,,
+101306030,Hubolt el Director Oscuro de la Muerte,"Puedes Invocar esta carta de Modo Normal sin Sacrificio.
+ 
+Sólo puedes usar los siguientes efectos de ""Hubolt el Director Oscuro de la Muerte"" una vez por turno.
+ 
+Si esta carta es Invocada de Modo Normal o Especial: puedes mandar al Cementerio 1 monstruo Zombi de Nivel 6 o mayor desde tu Deck, excepto ""Hubolt el Director Oscuro de la Muerte"", y después puedes añadir a tu mano 1 monstruo Zombi de Nivel 6 o mayor desde tu Cementerio.
+ 
+Si uno o más monstruos son Invocados de Modo Especial desde el Cementerio mientras este monstruo está en el Campo, puedes: inmediatamente después de que este efecto se resuelva, Invocar Xyz 1 monstruo Zombi.",Invocar esta carta de Modo Normal sin Sacrificio,Enviar al Cementerio 1 monstruo Zombi de Nivel 6 o mayor desde tu Deck,Invocar Xyz 1 monstruo Zombi,¿Quieres añadir a tu mano 1 monstruo Zombi de Nivel 6 o mayor desde tu Cementerio?,,,,,,,,,,,,
 101306036,Dragón Negro de Ojos Rojos Exceso,"""Dragón Negro de Ojos Rojos"" + 1 monstruo que mencione ""Mago del Tiempo Oscuro""	
 Debe ser Invocado por Fusión, o Invocado de Modo Especial (desde el Deck Extra) Sacrificando 1 monstruo boca arriba de cualquier Campo el turno que destruiste un monstruo con el efecto de ""Mago del Tiempo Oscuro"". 
 Si esta carta es Invocada de Modo Especial: puedes Invocar de Modo Especial 1 monstruo de Nivel 8 o menor desde tu mano o Cementerio. 
-No es afectada por efectos de Mágicas y monstruos activados de tu adversario.",Invocación Especial,,,,,,,,,,,,,,,
+No es afectada por efectos de Mágicas y monstruos activados de tu adversario.",Invocar de Modo Especial 1 monstruo de Nivel 8 o menor desde tu mano o Cementerio,,,,,,,,,,,,,,,
 101306037,HÉROE del Destino – Dreadnought,"2 monstruos ""HÉROE del Destino"" de Nivel 5 o mayor	
 Debe ser Invocado por Fusión, o Invocado de Modo Especial (desde tu Deck Extra) Sacrificando 1 ""HÉROE del Destino - Dreadmaster"". 
 Sólo puedes Invocar de Modo Especial ""HÉROE del Destino – Dreadnought"" una vez por turno de esta forma, sin importar el método que uses. 
 Si esta carta es Invocada de Modo Especial: puedes añadir a tu mano 2 monstruos ""HÉROE del Destino"" y/o cartas que mencionen el nombre de un monstruo ""HÉROE del Destino"" desde tu Deck. 
-El ATK de esta carta se convierte en el ATK original total de todos los demás monstruos ""HÉROE del Destino"" en tu Campo y Cementerio.",Añadir a la mano,,,,,,,,,,,,,,,
+El ATK de esta carta se convierte en el ATK original total de todos los demás monstruos ""HÉROE del Destino"" en tu Campo y Cementerio.","Añadir a tu mano 2 monstruos ""HÉROE del Destino"" y/o cartas que mencionen el nombre de un monstruo ""HÉROE del Destino"" desde tu Deck",,,,,,,,,,,,,,,
 101306039,Asutraja Susanoo,"1 Cantante + 1+ monstruos que no sean Cantantes	
 Si esta carta es Invocada por Sincronía: puedes desterrar cualquier número de Trampas en tu Cementerio; destierra la misma cantidad de cartas en el Campo. 
 (Efecto Rápido): Durante la End Phase: puedes seleccionar hasta 2 monstruos ""Asutra"" y/o Trampas en tu Cementerio y/o destierro; añádelos a tu mano o Colócalos, y después si seleccionaste 2 cartas, devuelve esta carta al Deck Extra. 
-Sólo puedes usar cada efecto de ""Asutraja Susanoo"" una vez por turno.",Destruir,Recuperar,,,,,,,,,,,,,,
+Sólo puedes usar cada efecto de ""Asutraja Susanoo"" una vez por turno.",Desterrar cartas en el Campo igual a la cantidad de cartas Trampas que desterraste en tu Cementerio,"Añadir a tu mano o Colocar hasta 2 monstruos ""Asutra"" y/o Trampas en tu Cementerio y/o destierro",,,,,,,,,,,,,,
 101306040,Asutraya Mikumari no Mikoto,"1 Cantante + 1+ monstruos que no sean Cantantes	
  Si esta carta es Invocada de Modo Especial: puedes mandar al Cementerio 1 carta ""Asutra"" desde tu Deck y, si lo haces, manda al Cementerio 1 carta del Campo. 
 Sólo puedes usar este efecto de ""Asutraya Mikumari no Mikoto"" una vez por turno. 
-(Efecto Rápido): Cuando tu adversario activa un efecto de monstruo: puedes seleccionar 1 Trampa ""Asutra"" en tu Cementerio o destierro, o si controlas 3 o más cartas Colocadas, puedes seleccionar 1 Trampa en tu Cementerio en su lugar; Colócala.",Enviar al Cementerio,Colocar,,,,,,,,,,,,,,
+(Efecto Rápido): Cuando tu adversario activa un efecto de monstruo: puedes seleccionar 1 Trampa ""Asutra"" en tu Cementerio o destierro, o si controlas 3 o más cartas Colocadas, puedes seleccionar 1 Trampa en tu Cementerio en su lugar; Colócala.","Enviar al Cementerio 1 carta ""Asutra"" desde tu Deck",Colocar 1 Trampa desde tu Cementerio en su lugar,,,,,,,,,,,,,,
 101306041,Ascendente Adamancipador - Tiamita,"1 Cantante + 1+ monstruos que no sean Cantantes	
 Si hay un monstruo de OSCURIDAD en tu Cementerio: puedes añadir a tu mano 1 Mágica/Trampa ""Adamancipador"" desde tu Deck. 
 (Efecto Rápido): Cuando tu adversario activa un efecto de monstruo en el Campo: puedes excavar 5 cartas de la parte superior de tu Deck, puedes devolver a la mano monstruos que controle tu adversario hasta el número de monstruos Roca excavados, y además después de eso, coloca las cartas excavadas en el fondo del Deck en cualquier orden. 
-Sólo puedes usar cada uno de los efectos de ""Ascendente Adamancipador - Tiamita"" una vez por turno.",Efecto de añadir a la mano,Devolver a la mano,¿Devolver una carta a la mano?,,,,,,,,,,,,,
+Sólo puedes usar cada uno de los efectos de ""Ascendente Adamancipador - Tiamita"" una vez por turno.","Añadir a tu mano 1 Mágica/Trampa ""Adamancipador"" desde tu Deck",Devolver a la mano monstruos que controle tu adversario hasta el número de monstruos Roca excavados,¿Quieres devolver el monstruo a la mano?,,,,,,,,,,,,,
 101306045,"Swickelavee, la Caballería Pesada Brillantemente Coronada","2 monstruos de Nivel 3	
 Una vez por turno, también puedes Invocar Xyz a ""Swickelavee, la Caballería Pesada Brillantemente Coronada"" usando 1 monstruo Bestia que controles con 2000 ATK o menos (transfiere sus materiales). 
 No puede ser usado como material para una Invocación Xyz. 
 Si esta carta destruye un monstruo en batalla: pon 1 Contador de Corona en ella, y después aplica este efecto basado en el número de Contadores de Corona que tenga;
 ● 1: Esta carta gana 400 ATK.
 ● 2: Esta carta gana 600 ATK.
-● 3: Devuelve esta carta al Deck Extra y, si lo haces, roba 3 cartas.",¿Invocar Xyz usando un monstruo Bestia como material?,Colocar un contador,,,,,,,,,,,,,,
+● 3: Devuelve esta carta al Deck Extra y, si lo haces, roba 3 cartas.","¿Quieres Invocar Xyz a ""Swickelavee, la Caballería Pesada Brillantemente Coronada"" usando 1 monstruo Bestia que controles con 2000 ATK o menos?",Poner 1 Contador de Corona en esta carta y aplicar efecto,,,,,,,,,,,,,,
 101306046,Señor Dragón del Océano Azul - Némesis de Neo-Dédalo,"4 monstruos	
 (El nombre de esta carta se convierte en ""Umi"" mientras esté en la Zona de Monstruos).	
 Si esta carta es Invocada por Enlace: puedes Invocar de Modo Especial hasta 3 monstruos que mencionen ""Atlantis, la Ciudad Dragón"" desde tu Cementerio a zonas a las que apunte esta carta, y además no puedes Invocar de Modo Especial por el resto de este turno. 
-Una vez por turno (Efecto Rápido): puedes mandar al Cementerio 1 ""Umi"" boca arriba que controles; manda al Cementerio todas las cartas en el Campo, excepto ""Umi"".",Aplicar como Link-3 para una Invocación por Enlace ({CARD}),Invocación Especial,Enviar al Cementerio,,,,,,,,,,,,,
+Una vez por turno (Efecto Rápido): puedes mandar al Cementerio 1 ""Umi"" boca arriba que controles; manda al Cementerio todas las cartas en el Campo, excepto ""Umi"".","Afectado por ""Señor Dragón del Océano Azul - Némesis de Neo-Dédalo"": no puedes Invocar de Modo Especial por el resto de este turno","Invocar de Modo Especial hasta 3 monstruos que mencionen ""Atlantis, la Ciudad Dragón"" desde tu Cementerio a zonas a las que apunte esta carta",Enviar al Cementerio todas las cartas en el Campo,,,,,,,,,,,,,
 101306047,Levia-Dragoon - Dédalo,"3 monstruos de AGUA	
 (El nombre de esta carta se convierte en ""Umi"" mientras esté en la Zona de Monstruos).	
 Si esta carta es Invocada por Enlace: puedes Invocar de Modo Especial 1 monstruo que mencione ""Atlantis, la Ciudad Dragón"" desde tu Deck. 
 (Efecto Rápido): Durante la Main Phase: puedes mandar al Cementerio 1 ""Umi"" boca arriba que controles; tu adversario descarta toda su mano y, si lo hace, roba la misma cantidad de cartas. Ningún jugador puede activar cartas o efectos en respuesta a la activación de este efecto. 
-Sólo puedes usar cada uno de los efectos de ""Levia-Dragoon - Dédalo"" una vez por turno.",Aplicar como Link-2 para una Invocación por Enlace ({CARD}),Invocación Especial,Tu adversario descarta y roba,,,,,,,,,,,,,
+Sólo puedes usar cada uno de los efectos de ""Levia-Dragoon - Dédalo"" una vez por turno.","Afectado por ""Levia-Dragoon - Dédalo"": ningún jugador puede activar cartas o efectos en respuesta a la activación de este efecto","Invocar de Modo Especial 1 monstruo que mencione ""Atlantis, la Ciudad Dragón"" desde tu Deck",Descarta toda tu mano y roba la misma cantidad de cartas,,,,,,,,,,,,,
 101306049,Luminoso Adamancipador,"2 Monstruos de Efecto, incluyendo 1 Monstruo de Sincronía	
 Si esta carta es Invocada por Enlace, o un monstruo es Invocado de Modo Especial a una zona a la que apunte esta carta: puedes seleccionar 1 monstruo en tu Campo o Cementerio; Invoca de Modo Especial 1 ""Ficha Milagro"" (Roca/LUZ/ATK 0/DEF 0) con el mismo Nivel que ese monstruo. 
 (Efecto Rápido): Cuando se activa otro efecto de monstruo en el Campo: puedes colocar ese monstruo en el fondo del Deck. 
-Sólo puedes usar cada uno de los efectos de ""Luminoso Adamancipador"" una vez por turno.",Invocación Especial,Devolver al Deck,,,,,,,,,,,,,,
-101306050,海中战型援助机器人,"机械族怪兽2只
-这个卡名的①②的效果1回合各能使用1次，这些效果发动的回合，自己不是机械族怪兽不能特殊召唤。
-①：这张卡连接召唤的场合，以对方场上1只怪兽为对象才能发动。那只怪兽以及这张卡破坏。那之后，可以从自己墓地把除水属性怪兽外的，攻击力1600以下的1只机械族怪兽特殊召唤。
-②：这张卡被除外的场合才能发动。从卡组把攻击力和守备力的数值相同的1只机械族怪兽加入手卡。",Efecto de destrucción,Efecto de añadir a la mano,Invocación Especial?,,,,,,,,,,,,,
+Sólo puedes usar cada uno de los efectos de ""Luminoso Adamancipador"" una vez por turno.","Invocar de Modo Especial 1 ""Ficha Milagro""",Colocar el monstruo en el fondo del Deck,,,,,,,,,,,,,,
+101306050,Robot de Apoyo para Combate Subacuático,"2 monstruos Máquina	
+Si esta carta es Invocada por Enlace: puedes seleccionar 1 monstruo que controle tu adversario; destruye tanto ese monstruo como esta carta, y después puedes Invocar de Modo Especial 1 monstruo Máquina que no sea de AGUA con 1600 ATK o menos desde tu Cementerio. 
+Si esta carta es desterrada: puedes añadir a tu mano 1 monstruo Máquina cuyo ATK sea igual a su DEF desde tu Deck. 
+Sólo puedes usar cada uno de los efectos de ""Robo de Apoyo para Combate Subacuático"" una vez por turno. 
+No puedes Invocar de Modo Especial el turno en que activas cualquiera de los efectos de esta carta, excepto monstruos Máquina.",Destruir tanto el monstruo seleccionado como esta carta,Añadir a tu mano 1 monstruo Máquina cuyo ATK sea igual a su DEF desde tu Deck,¿Quieres Invocar de Modo Especial 1 monstruo Máquina que no sea de AGUA con 1600 ATK o menos desde tu Cementerio?,,,,,,,,,,,,,
 101306052,Mago del Tiempo Oscuro,"Activa 1 de estos efectos (pero sólo puedes activar cada efecto de ""Mago del Tiempo Oscuro"" una vez por turno);
 ● Añade a tu mano 1 carta que mencione ""Mago del Tiempo Oscuro"" desde tu Deck, excepto ""Mago del Tiempo Oscuro"", y además durante esta End Phase, añade a tu mano 1 carta en tu Cementerio que mencione ""Mago del Tiempo Oscuro"".
-● Lanza una moneda y adivina cara o cruz. Si aciertas, destruye todos los monstruos que controle tu adversario y, si lo haces, inflige daño a tu adversario igual a la mitad de su ATK combinado. Si fallas, destruye todos los monstruos que controles.",Activar,Añadir a la mano,Lanzar una moneda,,,,,,,,,,,,,
+● Lanza una moneda y adivina cara o cruz. Si aciertas, destruye todos los monstruos que controle tu adversario y, si lo haces, inflige daño a tu adversario igual a la mitad de su ATK combinado. Si fallas, destruye todos los monstruos que controles.",Activar 1 de los efectos,Añadir a la mano,Lanzar una moneda,,,,,,,,,,,,,
 101306053,Dados Grácil y del Cráneo,"Lanza un dado de seis caras dos veces y además aplica estos efectos este turno. 
 ● Tus monstruos que mencionen ""Mago del Tiempo Oscuro"" ganan ATK/DEF igual al resultado x 200.
 ● Los monstruos de tu adversario pierden ATK/DEF igual al resultado x 200.	
-Si tu adversario Invoca de Modo Normal o Especial uno o más monstruos, mientras esta carta está en el Cementerio: puedes desterrar esta carta, y después seleccionar 1 de esos monstruos; lanza un dado de seis caras dos veces, y si el resultado total es 6 o mayor, destruye ese monstruo.",Activar,Tirar un dado,,,,,,,,,,,,,,
+Si tu adversario Invoca de Modo Normal o Especial uno o más monstruos, mientras esta carta está en el Cementerio: puedes desterrar esta carta, y después seleccionar 1 de esos monstruos; lanza un dado de seis caras dos veces, y si el resultado total es 6 o mayor, destruye ese monstruo.",Activar,Lanzar dado y aplicar efeco según el resultado,,,,,,,,,,,,,,
 101306054,Scapegoats Soñolientas,"Invoca de Modo Especial 4 ""Ficha de Cordero de Sacrificio"" (Bestia/TIERRA/Nivel 1/ATK 0/DEF 0), y después si tu adversario controla un monstruo, puedes Invocar de Modo Especial 1 ""Guerrero Pantera Veloz"" desde tu Deck. Por el resto de este turno, esas Fichas no pueden ser Sacrificadas para una Invocación por Sacrificio, y además no puedes Invocar de Modo Especial desde el Deck Extra, excepto Monstruos de Fusión. 
-Si una o más cartas que controlas que mencionen ""Mago del Tiempo Oscuro"" fueran a ser destruidas en batalla o por efecto de carta, puedes destruir 1 de esas Fichas que controles en su lugar.",Activar,Selecciona el número de Invocaciones Especiales,¿Invocar de Modo Especial {CARD}?,,,,,,,,,,,,,
+Si una o más cartas que controlas que mencionen ""Mago del Tiempo Oscuro"" fueran a ser destruidas en batalla o por efecto de carta, puedes destruir 1 de esas Fichas que controles en su lugar.","Invocar de Modo Especial 4 ""Ficha de Cordero de Sacrificio""",Elige la cantidad de Fichas a Invocar,"¿Quieres Invocar de Modo Especial 1 ""Guerrero Pantera Veloz"" desde tu Deck?",,,,,,,,,,,,,
 101306057,Triciliocosmo Asutrashen,"Puedes seleccionar cualquier número de cartas Colocadas que controles; añade a tu mano la misma cantidad de cartas ""Asutra"" con nombres diferentes desde tu Deck, y después manda al Cementerio esas cartas seleccionadas. 
 Si una carta es Colocada mientras controlas un monstruo ""Asutra"" y/o una o más cartas Colocadas: puedes seleccionar 1 carta en el Campo; devuélvela a la mano. 
-Sólo puedes usar cada efecto de ""Triciliocosmo Asutrashen"" una vez por turno.",Añadir a la mano,Devolver a la mano,,,,,,,,,,,,,,
+Sólo puedes usar cada efecto de ""Triciliocosmo Asutrashen"" una vez por turno.","Añadir a tu mano la misma cantidad de cartas ""Asutra"" con nombres diferentes desde tu Deck",Devolver a la mano 1 carta en el Campo,,,,,,,,,,,,,,
 101306058,"Atlantis, la Ciudad Dragón","Los Niveles de todos los monstruos en las manos y los Campos de ambos jugadores se reducen en 1 mientras controlas un monstruo que mencione ""Atlantis, la Ciudad Dragón"". 
 Puedes Invocar por Enlace monstruos ""Dédalo"" con 1 material menos. Reduce en 1 el número de materiales listados para la Invocación por Enlace de todos los monstruos ""Dédalo"". 
 Si esta carta está en tu Cementerio y controlas ""Umi"": puedes Colocar esta carta boca arriba en tu Campo. 
-Sólo puedes usar este efecto de ""Atlantis, la Ciudad Dragón"" una vez por turno.",,Colocar,,,,,,,,,,,,,,
+Sólo puedes usar este efecto de ""Atlantis, la Ciudad Dragón"" una vez por turno.",,Colocar esta carta boca arriba en tu Campo desde tu Cementerio,,,,,,,,,,,,,,
 101306059,Llamada de Atlantis,"Añade a tu mano 1 monstruo que mencione ""Atlantis, la Ciudad Dragón"" desde tu Deck, y después si controlas ""Atlantis, la Ciudad Dragón"", puedes negar los efectos de 1 Monstruo de Efecto que controle tu adversario hasta el final de este turno. 
 Si controlas ""Umi"": puedes desterrar esta carta en tu Cementerio; todos los monstruos de AGUA que controles en este momento ganan 500 ATK/DEF. 
-Sólo puedes usar cada uno de los efectos de ""Llamada de Atlantis"" una vez por turno.",Efecto de añadir a la mano,Aumentar ATK/DEF,¿Negar un monstruo?,,,,,,,,,,,,,
+Sólo puedes usar cada uno de los efectos de ""Llamada de Atlantis"" una vez por turno.","Añadir a tu mano 1 monstruo que mencione ""Atlantis, la Ciudad Dragón"" desde tu Deck",Incrementar en 500 el ATK y la DEF de todos los monstruos de AGUA que controles,¿Quieres negar los efectos de 1 Monstruo de Efecto que controle tu adversario?,,,,,,,,,,,,,
 101306060,Aventura de Atlantis,"(El nombre de esta carta se convierte en ""Umi"" mientras esté en el Campo).	
 Durante tu Main Phase: puedes Colocar 1 ""Atlantis, la Ciudad Dragón"" o ""Umi"" desde tu Deck boca arriba en tu Zona del Campo. 
 Si esta carta es mandada al Cementerio: puedes añadir a tu mano 1 monstruo Serpiente Marina de Nivel 7 desde tu Deck. 
-Sólo puedes usar cada uno de los efectos de ""Aventura de Atlantis"" una vez por turno.",Efecto de colocación,Efecto de añadir a la mano,,,,,,,,,,,,,,
+Sólo puedes usar cada uno de los efectos de ""Aventura de Atlantis"" una vez por turno.","Colocar 1 ""Atlantis, la Ciudad Dragón"" o ""Umi"" desde tu Deck boca arriba en tu Zona del Campo",Añadir a tu mano 1 monstruo Serpiente Marina de Nivel 7 desde tu Deck,,,,,,,,,,,,,,
 101306062,Ciudad Prisión de la Torre del Reloj – Ciudad Oscura,"Cada vez que Invocas de Modo Especial uno o más monstruos ""HÉROE del Destino"" de Nivel 8 o mayor: todos los monstruos Guerrero que controles en este momento ganan 300 ATK. 
 Sólo puedes usar cada uno de los siguientes efectos de ""Ciudad Prisión de la Torre del Reloj – Ciudad Oscura"" una vez por turno. 
 Si esta carta fue activada este turno: puedes añadir a tu mano 1 monstruo ""HÉROE del Destino"", o 1 carta que mencione el nombre de un monstruo ""HÉROE del Destino"", desde tu Deck. 
-Si esta carta es destruida: puedes Invocar de Modo Especial 1 monstruo ""HÉROE del Destino"" desde tu Deck (esto se trata como una Invocación Especial con ""Prisión de la Torre del Reloj"").",Añadir a la mano,Aumentar ATK,Invocación Especial,,,,,,,,,,,,,
+Si esta carta es destruida: puedes Invocar de Modo Especial 1 monstruo ""HÉROE del Destino"" desde tu Deck (esto se trata como una Invocación Especial con ""Prisión de la Torre del Reloj"").","Añadir a tu mano 1 monstruo ""HÉROE del Destino"", o 1 carta que mencione el nombre de un monstruo ""HÉROE del Destino"", desde tu Deck",Incrementar en 300 el ATK de todos los monstruos Guerrero que controles (Ciudad Prisión de la Torre del Reloj – Ciudad Oscura),"Invocar de Modo Especial 1 monstruo ""HÉROE del Destino"" desde tu Deck",,,,,,,,,,,,,
 101306063,Compañero Adamancipador,"Añade a tu mano 1 monstruo ""Adamancipador"" desde tu Deck. 
 Si esta carta está en tu Cementerio: puedes colocar 1 carta de tu mano en la parte superior del Deck; añade esta carta a tu mano. 
-Sólo puedes usar cada uno de los efectos de ""Compañero Adamancipador"" una vez por turno.",Efecto de añadir a la mano,Devolver a la mano,,,,,,,,,,,,,,
+Sólo puedes usar cada uno de los efectos de ""Compañero Adamancipador"" una vez por turno.","Añadir a tu mano 1 monstruo ""Adamancipador"" desde tu Deck",Colocar 1 carta de tu mano en la parte superior del Deck,,,,,,,,,,,,,,
 101306068,Trunada Espacial,"Devuelve a la mano hasta 2 cartas en el Campo, y después cada jugador que haya tenido una carta devuelta a la mano de esta forma coloca esa misma cantidad de cartas de su mano en el fondo del Deck en cualquier orden. 
-Sólo puedes activar 1 ""Trunada Espacial"" por turno.",Activar,,,,,,,,,,,,,,,
+Sólo puedes activar 1 ""Trunada Espacial"" por turno.",Devolver a la mano hasta 2 cartas en el Campo y aplicar el efecto de esta carta,,,,,,,,,,,,,,,
 101306070,Ladrón de Tumbas Insensato,"Manda al Cementerio 1 carta que mencione ""Mago del Tiempo Oscuro"" (excepto ""Ladrón de Tumbas Insensato"") desde tu Deck, y después puedes Invocar de Modo Especial 1 monstruo de cualquier Cementerio a tu Campo. 
 Puedes desterrar esta carta en tu Cementerio; Coloca 1 de estas cartas en tu Campo:
 ● 1 Mágica/Trampa que mencione ""Mago del Tiempo Oscuro"" (excepto ""Ladrón de Tumbas Insensato"") desde tu Cementerio.
 ● 1 Mágica/Trampa del Cementerio de tu adversario.	
-Sólo puedes usar cada uno de los efectos de ""Ladrón de Tumbas Insensato"" una vez por turno.",Enviar al Cementerio,Colocar,Invocación Especial?,,,,,,,,,,,,,
+Sólo puedes usar cada uno de los efectos de ""Ladrón de Tumbas Insensato"" una vez por turno.","Enviar al Cementerio 1 carta que mencione ""Mago del Tiempo Oscuro"" desde tu Deck",Colocar la carta objetivo en tu Campo,¿Quieres Invocar de Modo Especial 1 monstruo de cualquier Cementerio a tu Campo?,,,,,,,,,,,,,
 101306071,Caja de Reversión,"Durante la Standby Phase: lanza 1 dado y después pon contadores en esta carta igual al número obtenido (máx. 6). 
-Una vez por turno, cuando se activa un efecto de monstruo en el Campo de tu adversario, o cuando un monstruo del adversario ataca, durante el cálculo de daño: puedes retirar 1 contador de esta carta y seleccionar 1 de esos monstruos del adversario; lanza una moneda y adivina cara o cruz. Si aciertas, Invoca de Modo Especial 1 monstruo que mencione ""Mago del Tiempo Oscuro"" desde tu Deck, y si lo haces, el ATK del monstruo seleccionado se convierte en 0 y sus efectos son negados hasta el final de este turno.",Colocar un contador,Lanzar una moneda,Selecciona el número de contadores a colocar,,,,,,,,,,,,,
+Una vez por turno, cuando se activa un efecto de monstruo en el Campo de tu adversario, o cuando un monstruo del adversario ataca, durante el cálculo de daño: puedes retirar 1 contador de esta carta y seleccionar 1 de esos monstruos del adversario; lanza una moneda y adivina cara o cruz. Si aciertas, Invoca de Modo Especial 1 monstruo que mencione ""Mago del Tiempo Oscuro"" desde tu Deck, y si lo haces, el ATK del monstruo seleccionado se convierte en 0 y sus efectos son negados hasta el final de este turno.",Lanzar dado y colocar Contadores en esta carta según el resultado,Lanzar una moneda,Elige la cantidad de Contadores a colocar,,,,,,,,,,,,,
 101306073,Veneno Insecto de Asutra,"Activa 1 de los siguientes efectos;
 ● Invoca esta carta de Modo Especial como un Monstruo Normal (Insecto/Cantante/OSCURIDAD/Nivel 1/ATK 0/DEF 0), y después inmediatamente después de que este efecto se resuelva, puedes Invocar por Sincronía 1 monstruo (esto NO se trata como Trampa).
 ● Selecciona 1 monstruo ""Asutra"" en tu Cementerio; Invócalo de Modo Especial.	
-Sólo puedes activar 1 ""Veneno Insecto de Asutra"" por turno.",Activar,Invocar de Modo Especial como monstruo,Invoca de Modo Especial 1 monstruo desde el Cementerio,¿Invocación por Sincronía?,,,,,,,,,,,,
+Sólo puedes activar 1 ""Veneno Insecto de Asutra"" por turno.",Activar 1 efecto,Invoca esta carta de Modo Especial como un Monstruo Normal,"Invoca de Modo Especial 1 monstruo ""Asutra"" en tu Cementerio",¿Quieres Invocar por Sincronía 1 monstruo?,,,,,,,,,,,,
 101306074,Rugido Maldito de Asutra,"Activa 1 de los siguientes efectos;
 ● Invoca esta carta de Modo Especial como un Monstruo Normal (Lanzador de Conjuros/Cantante/OSCURIDAD/Nivel 1/ATK 0/DEF 0), y después inmediatamente después de que este efecto se resuelva, puedes Invocar por Sincronía 1 monstruo (esto NO se trata como Trampa).
 ● Si hay un monstruo ""Asutra"" en tu Campo o Cementerio: selecciona 1 monstruo que controle tu adversario; destrúyelo.
-Sólo puedes activar 1 ""Rugido Maldito de Asutra"" por turno.",Activar,Invocar de Modo Especial como monstruo,Efecto de destrucción,¿Invocación por Sincronía?,,,,,,,,,,,,
+Sólo puedes activar 1 ""Rugido Maldito de Asutra"" por turno.",Activar 1 efecto,Invoca esta carta de Modo Especial como un Monstruo Normal,Destruir 1 monstruo que controle tu adversario,¿Quieres Invocar por Sincronía 1 monstruo?,,,,,,,,,,,,
 101306075,Dominio Divino de Asutra,"Activa 1 de los siguientes efectos;
 ● Invoca esta carta de Modo Especial como un Monstruo Normal (Nivel 1/AGUA/Aqua/Cantante/ATK 0/DEF 0) y después inmediatamente después de que este efecto se resuelva, puedes Invocar por Sincronía 1 monstruo (esto NO se trata como Trampa).
 ● Cuando tu adversario activa una Mágica/Trampa o efecto mientras no controla cartas boca abajo: niega ese efecto.	
-Puedes usar el efecto de ""Dominio Divino de Asutra"" una vez por turno.",Activar,Invocar de Modo Especial como monstruo,Negar el efecto,¿Invocación por Sincronía?,,,,,,,,,,,,
+Puedes usar el efecto de ""Dominio Divino de Asutra"" una vez por turno.",Activar 1 efecto,Invoca esta carta de Modo Especial como un Monstruo Normal,Negar el efecto activado,¿Quieres Invocar por Sincronía 1 monstruo?,,,,,,,,,,,,
 101306076,Maelstrom de Dédalo,"Cuando tu adversario fuera a Invocar de Modo Normal o Especial uno o más monstruos mientras controlas ""Atlantis, la Ciudad Dragón"": niega la Invocación y, si lo haces, destruye ese o esos monstruos, y después si controlas un Monstruo de Enlace de AGUA, puedes destruir todos los monstruos que no sean de AGUA en el Campo. 
 Puedes desterrar esta carta en tu Cementerio y mandar al Cementerio 1 ""Umi"" boca arriba que controles, y después seleccionar 1 monstruo que controle tu adversario; mándalo al Cementerio. 
-Sólo puedes usar 1 de los efectos de ""Maelstrom de Dédalo"" por turno, y sólo una vez ese turno.",Negar la Invocación,Enviar al Cementerio,¿Destruir ese monstruo?,,,,,,,,,,,,,
+Sólo puedes usar 1 de los efectos de ""Maelstrom de Dédalo"" por turno, y sólo una vez ese turno.",,Enviar al Cementerio 1 monstruo que controle tu adversario,¿Quieres destruir todos los monstruos que no sean de AGUA en el Campo?,,,,,,,,,,,,,
 101306149,Ficha Milagro ,"Invocada de Modo Especial con el efecto de ""Luminoso Adamancipador"".",,,,,,,,,,,,,,,,
 101306154,Ficha de Cordero de Sacrificio,"Invocada de Modo Especial con el efecto de ""Scapegoats Soñolientas"".",,,,,,,,,,,,,,,,
 101306254,Ficha de Cordero de Sacrificio,"Invocada de Modo Especial con el efecto de ""Scapegoats Soñolientas"".",,,,,,,,,,,,,,,,
