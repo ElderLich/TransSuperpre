@@ -83,6 +83,69 @@ You can only activate 1 ""Ancient Secrets"" per turn.",Activate,Apply a differen
 ● When the monster your opponent controls with the highest ATK (even if tied) declares an attack.
 ● When your opponent activates a monster effect that would destroy a card(s) on the field.
 ● When your opponent activates a monster effect in the hand or field during your turn.",Activate,Activate by applying the effect of {CARD}.,,,,,,,,,,,,,,
+101305081,远古者的见证人,"自己场上或墓地有同调怪兽存在的场合：可以把这张卡从手卡特殊召唤。
+这张卡特殊召唤的场合：可以从自己的额外卡组·墓地把最多3只卡名不同的同调怪兽当作永续魔法卡使用在自己的魔法与陷阱区域以表侧表示放置，在自己场上把持有放置数量相同等级的1只「弧光衍生物」（机械族·光·攻/守0）特殊召唤，这个效果的发动后，直到回合结束时自己不是同调怪兽不能从额外卡组特殊召唤。
+「远古者的见证人」的每个效果1回合各能使用1次。",Special Summon,Place a monster,,,,,,,,,,,,,,
+101305082,不信妄想症,"得到和这张卡相同纵列的全部对方怪兽的控制权。
+盖放的这张卡因对方的效果从场上离开，被送去墓地的场合或者被除外的场合：可以把这张卡变成持有以下效果的的效果怪兽（恶魔族·暗·10星·攻4000·守4000）在怪兽区域特殊召唤（不当作陷阱卡使用）。
+●这张卡不受和这张卡相同纵列发动的对方的卡的效果影响。
+「不信妄想症」在1回合只能发动1张。",Take control,Special Summon,,,,,,,,,,,,,,
+101305083,幻影火精 约马格努,"这张卡不能通常召唤。从自己墓地让种类（怪兽·魔法·陷阱）相同的3张卡回到卡组·额外卡组的场合可以从手卡特殊召唤。
+这张卡特殊召唤的场合：可以宣言1个种族；这张卡直到回合结束时变成那个种族。
+自己主要阶段：可以把包含这张卡的自己·对方场上的怪兽作为融合素材，把1只融合怪兽从额外卡组融合召唤。
+「幻影火精 约马格努」的每个效果1回合各能使用1次。",Special Summon,Change Type,Fusion effect,,,,,,,,,,,,,
+101305084,设陷雷轰稻草人,"这张卡在怪兽区域存在的状态，每次雷族以外的怪兽表侧表示特殊召唤：那些怪兽这个回合不能攻击，结束阶段破坏。
+这张卡在墓地存在的场合：可以以自己场上1张表侧表示卡为对象；那张卡破坏，这张卡加入手卡。
+「设陷雷轰稻草人」的这个效果1回合只能使用1次。",Restrict attacks,Recycle,The effect of {CARD} is currently being applied.,,,,,,,,,,,,,
+101305085,权柄交络者 米克修希亚,"魔法师族怪兽+魔法师族以外的怪兽
+可以以场上1只表侧表示怪兽为对象，宣言1个属性；那只怪兽变成那个属性。
+对方主要阶段（诱发即时效果）：可以把包含自己场上的这张卡的自己场上·墓地的怪兽除外作为融合素材，把1只融合怪兽从额外卡组融合召唤。
+这张卡在墓地存在的场合：可以宣言1个属性；墓地的这张卡直到回合结束时变成那个属性。
+「权柄交络者 米克修希亚」的每个效果1回合各能使用1次。",Change Attribute,Fusion Summon,Change Attribute,,,,,,,,,,,,,
+101305086,方解黑骑士,"3星怪兽×2只以上
+这张卡超量召唤的场合，或者自己的陷阱卡被除外的场合：可以以除外状态的自己的1张陷阱卡为对象；那张卡作为这张卡的超量素材。
+可以把这张卡的超量素材任意数量取除，以自己墓地·除外状态的持有取除数量相同等级的1只暗属性怪兽为对象；那只怪兽特殊召唤。
+「方解黑骑士」的每个效果1回合各能使用1次。",Attach Xyz material,Special Summon,Select the number of Xyz Materials to detach,,,,,,,,,,,,,
+101305087,森之圣兽 龙面花牝鹿,"这张卡召唤·特殊召唤的场合：可以从自己的手卡·场上（表侧表示）把1只兽族怪兽直到结束阶段以表侧除外；从自己的卡组·墓地把持有那只怪兽原本等级以下等级的1只兽族·地属性怪兽特殊召唤，那之后，对方可以从手卡把1只怪兽特殊召唤。
+「森之圣兽 龙面花牝鹿」的这个效果1回合只能使用1次。
+可以攻击的对方怪兽必须向自己场上攻击力最高的怪兽作出攻击。",Special Summon,Special Summon?,Banish until the End Phase,,,,,,,,,,,,,
+101305088,欺诈转移,"场上的卡为对象的对方场上发动的怪兽的效果处理时，作为对象的卡在那只对方怪兽不同纵列存在的场合，对方可以从自身墓地把1张卡除外。不除外的场合，那个效果无效。
+可以从自己墓地把1只怪兽除外；在自己场上把持有那只怪兽相同等级的1只「欺诈师衍生物」（念动力族·地·攻800/守800）特殊召唤。
+「欺诈转移」的这个效果1回合只能使用1次。",,Special Summon,Banish the card? (Imposter Shift),,,,,,,,,,,,,
+101305089,悼光之希路伯,"8星怪兽×2只以上
+怪兽被送去对方墓地的场合（伤害步骤除外）：可以以那之内的1只为对象；那只怪兽作为这张卡的超量素材。「悼光之希路伯」的这个效果1回合只能使用1次。
+这张卡根据素材数量得到以下效果。
+●2个以上：不会被战斗·效果破坏。
+●3个以上：对方不能把墓地的卡作为效果的对象。
+●4个以上：可以把这张卡3个素材取除；场上1只怪兽送去墓地。",Attach Xyz material,Send to the GY,,,,,,,,,,,,,,
+101305090,四军之具象天使,"调整+调整以外的怪兽1只以上
+可以以对方场上1只怪兽为对象；那只怪兽除外。
+这张卡被当作永续魔法卡使用在魔法与陷阱区域放置的场合：可以从自己的卡组·墓地把1张「具象天使」陷阱卡加入手卡。
+「四军之具象天使」的以上效果1回合各能使用1次。
+这张卡当作永续魔法卡使用中的场合，对方在1回合最多只能发动5次怪兽的效果。",Banish effect,Search effect,,,,,,,,,,,,,,
+101305091,牙城之具象天使,"调整+调整以外的怪兽1只以上
+可以以和这张卡相同纵列的1张其他卡为对象；那张卡除外。
+这张卡被当作永续魔法卡使用在魔法与陷阱区域放置的场合：可以从额外卡组把1只「四军之具象天使」当作永续魔法卡使用在自己的魔法与陷阱区域以表侧表示放置。
+「牙城之具象天使」的以上效果1回合各能使用1次。
+这张卡当作永续魔法卡使用中的场合，场上的其他「具象天使」卡不会被对方的卡的效果破坏。",Banish effect,Placement effect,,,,,,,,,,,,,,
+101305092,战马之具象天使,"调整+调整以外的怪兽1只以上
+可以以其他纵列1只怪兽为对象；那只怪兽除外。
+这张卡被当作永续魔法卡使用在魔法与陷阱区域放置的场合：可以从卡组把1张「具象天使」魔法卡加入手卡。
+「战马之具象天使」的以上效果1回合各能使用1次。
+这张卡当作永续魔法卡使用中的场合，每次对方把卡的效果发动，给与对方500伤害。",Banish effect,Search effect,,,,,,,,,,,,,,
+101305093,应召之具象天使,"调整+调整以外的怪兽1只
+可以以这张卡相邻纵列的1只对方怪兽为对象；那只怪兽除外，那之后，这张卡向相邻纵列的对方主要怪兽区域转移控制权。
+表侧表示的这张卡的控制权变更的场合：让这张卡回到额外卡组，那之后，这张卡的原本持有者从自身的额外卡组把1只「具象天使」怪兽特殊召唤。
+「应召之具象天使」的每个效果1回合各能使用1次。",Banish effect,Special Summon,,,,,,,,,,,,,,
+101305094,具象天使之问,"1回合1次：可以丢弃1张魔法·陷阱卡；从额外卡组把1只2星「具象天使」怪兽特殊召唤，从额外卡组把1只「具象天使」怪兽当作永续魔法卡使用在自己的魔法与陷阱区域以表侧表示放置。
+自己场上表侧表示的「具象天使」怪兽卡被战斗·效果破坏的场合：可以让自己魔法与陷阱区域的1张「具象天使」怪兽卡回到额外卡组，那之后，可以把那特殊召唤。",Special Summon,Return to the Extra Deck,Special Summon?,,,,,,,,,,,,,
+101305095,具象天使之乱,"自己场上1只「具象天使」怪兽的控制权直到回合结束时转移给对方，那之后，那只怪兽相邻的怪兽区域或者魔法·陷阱卡区域有表侧表示的对方卡存在的场合，那些卡的效果无效化。
+可以从自己墓地把这张卡除外；从卡组把「具象天使之乱」以外的1张「具象天使」魔法·陷阱卡加入手卡。
+「具象天使之乱」的每个效果1回合各能使用1次。",Transfer control,Search effect,,,,,,,,,,,,,,
+101305096,具象天使e4开局,"对方先攻的场合，这张卡也能在对方的第1个回合的准备阶段从手卡发动。
+从自己的手卡·卡组·墓地把1张「具象天使」场地魔法卡在自己场上以表侧表示放置，从额外卡组把1只2·7星「具象天使」怪兽在额外怪兽区域特殊召唤，从额外卡组把1只「具象天使」怪兽当作永续魔法卡使用在自己的魔法与陷阱区域以表侧表示放置。这张卡的发动后，直到下个自己回合的结束时，自己不是同调怪兽不能从额外卡组特殊召唤。",Activate,Activate by applying the effect of {CARD}.,,,,,,,,,,,,,,
+101305181,弧光衍生物,由「远古者的见证人」的效果特殊召唤。,,,,,,,,,,,,,,,,
+101305188,欺诈师衍生物,由「欺诈转移」的效果特殊召唤。,,,,,,,,,,,,,,,,
 101306001,Swiftwind Panther Warrior,"During the Main Phase (Quick Effect): You can Tribute 1 other monster from your hand or field, then activate 1 of these effects;
 ● Special Summon 1 monster that mentions ""Dark Time Wizard"" from your hand or Deck, except ""Swiftwind Panther Warrior"".
 ● Send 1 Spell/Trap that mentions ""Dark Time Wizard"" from your Deck to the GY.
@@ -103,6 +166,7 @@ You can only use this effect of ""Swiftwind Panther Warrior"" once per turn. Can
 101306023,Destiny HERO - Dreadnought Servant,"If you control a ""Destiny HERO"" monster or a face-up Field Spell: You can Special Summon this card from your hand, then you can destroy 1 card you control, and if you do, add 1 ""Polymerization"" from your Deck to your hand. If you Special Summon a Level 8 ""Destiny HERO"" monster(s): You can banish this card from your GY, then target 1 card your opponent controls; place it on top of the Deck. You can only use each effect of ""Destiny HERO - Dreadnought Servant"" once per turn.",Special Summon,Return to the Deck,Destroy and add to hand?,,,,,,,,,,,,,
 101306024,Adamancipator Conductor,"If this card is in your hand: You can place 1 other ""Adamancipator"" card from your hand on top of the Deck; Special Summon this card. During your Main Phase: You can excavate the top 5 cards of your Deck, and if you do, you can Special Summon 1 excavated Level 4 or lower Rock monster, also place the rest on the bottom of the Deck in any order. You can only use each effect of ""Adamancipator Conductor"" once per turn.",Special Summon,Excavate the Deck,Special Summon the monster?,,,,,,,,,,,,,
 101306025,Adamancipator Crystal - Tiamite,"If this card is Special Summoned by an ""Adamancipator"" card's effect: You can add 1 ""Adamancipator"" card from your Deck to your hand, except ""Adamancipator Crystal - Tiamite"", then you can Special Summon 1 Rock monster from your hand. If this card is in your GY: You can target 1 Rock Synchro Monster in your field or GY; return it to the Extra Deck, and if you do, place this card on top of the Deck. You can only use each effect of ""Adamancipator Crystal - Tiamite"" once per turn.",Search effect,Return to the Deck,Special Summon?,,,,,,,,,,,,,
+101306030,Hublot the Dark Directory of Death,"You can Normal Summon this card without Tributing. You can only use each of the following effects of ""Hublot the Dark Directory of Death"" once per turn. If this card is Normal or Special Summoned: You can send 1 Level 6 or higher Zombie monster from your Deck to the GY, except ""Hublot the Dark Directory of Death"", then you can add 1 Level 6 or higher Zombie monster from your GY to your hand. If a monster(s) is Special Summoned from the GY while this card is in the Monster Zone, you can: Immediately after this effect resolves, Xyz Summon 1 Zombie Xyz Monster.",Normal Summon without Tributing,Send to the GY,Xyz Summon,Add to hand?,,,,,,,,,,,,
 101306036,Red-Eyes Black Dragon Exceed,"""Red-Eyes Black Dragon"" + 1 monster that mentions ""Dark Time Wizard""
 Must be either Fusion Summoned, or Special Summoned (from your Extra Deck) by Tributing 1 face-up monster on either field during the turn a monster(s) was destroyed by the effect of ""Dark Time Wizard"". You can only Special Summon ""Red-Eyes Black Dragon Exceed"" once per turn this way, no matter which method you use. If this card is Special Summoned: You can Special Summon 1 Level 8 or lower monster from your hand or GY. Unaffected by your opponent's activated monster and Spell effects.",Special Summon,,,,,,,,,,,,,,,
 101306037,Destiny HERO - Dreadnought Master,"2 Level 5 or higher ""Destiny HERO"" monsters
