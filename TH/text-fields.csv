@@ -224,7 +224,7 @@ id,name,field,value
 ● อัญเชิญพิเศษมอนสเตอร์ 1 ใบจากสุสานของใครก็ได้มาบนสนามของคุณ
 คุณสามารถใช้งาน ""Ancient Secrets"" ได้เทิร์นละ 1 ครั้งเท่านั้น"
 100266001,Ancient Secrets,str1,เปิดใช้งาน
-100266001,Ancient Secrets,str2,Apply a different effect?
+100266001,Ancient Secrets,str2,ใช้ผลลัพธ์อื่นหรือไม่?
 100266001,Ancient Secrets,str3,ทำลายมอนสเตอร์
 100266001,Ancient Secrets,str4,ทำลายการ์ดเวทย์/กับดัก
 100266001,Ancient Secrets,str5,จั่ว
@@ -253,7 +253,7 @@ id,name,field,value
 101305083,Yomagna the Fire Phantom,str3,เอฟเฟกต์ผสม
 101305084,Thundercrash Snarecrow,name,Thundercrash Snarecrow
 101305084,Thundercrash Snarecrow,desc,"ทุกครั้งที่มีมอนสเตอร์ (ที่ไม่ใช่ธาตุสายฟ้า) ถูกอัญเชิญพิเศษในสภาพหงายหน้า ขณะที่การ์ดใบนี้อยู่ในโซนมอนสเตอร์: มอนสเตอร์เหล่านั้นจะไม่สามารถโจมตีได้ในเทิร์นนี้ อีกทั้งให้ทำลายมันในช่วงเอ็นด์เฟส ถ้าการ์ดใบนี้อยู่ในสุสานของคุณ: คุณสามารถเลือกเป้าหมายการ์ดหงายหน้า 1 ใบที่คุณควบคุม; ทำลายการ์ดใบนั้น และถ้าทำสำเร็จ ให้นำการ์ดใบนี้ขึ้นมือ คุณสามารถใช้ผลของ ""Thundercrash Snarecrow"" ได้เทิร์นละ 1 ครั้งเท่านั้น"
-101305084,Thundercrash Snarecrow,str1,Restrict attacks
+101305084,Thundercrash Snarecrow,str1,จำกัดการโจมตี
 101305084,Thundercrash Snarecrow,str2,รีไซเคิล
 101305084,Thundercrash Snarecrow,str3,เอฟเฟกต์ของ {CARD} กำลังมีผลอยู่
 101305085,Mixousia the Confounder,name,Mixousia the Confounder
@@ -267,7 +267,7 @@ id,name,field,value
 ถ้าการ์ดใบนี้ถูกอัญเชิญเอ็กซ์ซีส หรือถ้ากับดักที่คุณเป็นเจ้าของถูกนำออกนอกเกม: คุณสามารถเลือกเป้าหมายกับดักที่ถูกนำออกนอกเกมของคุณ 1 ใบ; นำมาติดไว้กับการ์ดใบนี้ คุณสามารถถอดวัตถุดิบกี่ใบก็ได้ออกจากการ์ดใบนี้ จากนั้นเลือกเป้าหมายมอนสเตอร์ธาตุมืด 1 ใบในสุสานหรือในโซนที่ถูกนำออกนอกเกมของคุณที่มีเลเวลเท่ากับจำนวนที่ถอดออก; อัญเชิญพิเศษมอนสเตอร์ใบนั้น คุณสามารถใช้ผลแต่ละอย่างของ ""Shamanite Shamanknight"" ได้เทิร์นละ 1 ครั้งเท่านั้น"
 101305086,Shamanite Shamanknight,str1,แนบวัตถุดิบเอ็กซิส
 101305086,Shamanite Shamanknight,str2,เรียกพิเศษ
-101305086,Shamanite Shamanknight,str3,Select the number of Xyz Materials to detach
+101305086,Shamanite Shamanknight,str3,เลือกจำนวนวัตถุดิบ Xyz ที่จะถอดออก
 101305087,"Cerynemesia, Mystical Beast of the Forest",name,"Cerynemesia, Mystical Beast of the Forest"
 101305087,"Cerynemesia, Mystical Beast of the Forest",desc,"ถ้าการ์ดใบนี้ถูกอัญเชิญปกติหรืออัญเชิญพิเศษ: คุณสามารถนำมอนสเตอร์เผ่าสัตว์ 1 ใบจากบนมือหรือที่หงายหน้าอยู่บนสนามของคุณออกนอกเกม (แบบหงายหน้า) จนกว่าจะถึงเอ็นด์เฟส; อัญเชิญพิเศษมอนสเตอร์เผ่าสัตว์ธาตุดิน 1 ใบจากเด็คหรือสุสานของคุณที่มีเลเวลเท่ากับหรือต่ำกว่าเลเวลเดิมของมอนสเตอร์ใบนั้น จากนั้นคู่แข่งของคุณสามารถอัญเชิญพิเศษมอนสเตอร์ 1 ใบจากบนมือของพวกเขา คุณสามารถใช้ผลของ ""Cerynemesia, Mystical Beast of the Forest"" ได้เทิร์นละ 1 ครั้งเท่านั้น มอนสเตอร์ของคู่แข่งที่สามารถโจมตีได้จะต้องโจมตีมอนสเตอร์ที่คุณควบคุมที่มีพลังโจมตีสูงที่สุด (เลือกโดยคู่แข่ง หากมีค่าเท่ากัน)"
 101305087,"Cerynemesia, Mystical Beast of the Forest",str1,เรียกพิเศษ
@@ -276,7 +276,7 @@ id,name,field,value
 101305088,Imposter Shift,name,Imposter Shift
 101305088,Imposter Shift,desc,"เมื่อผลของมอนสเตอร์ที่สั่งใช้งานบนสนามของคู่แข่งโดยเลือกเป้าหมายการ์ดบนสนามทำงาน ถ้าเป้าหมายเหล่านั้นใบใดใบหนึ่งอยู่ในคอลัมน์ที่ต่างจากมอนสเตอร์ของคู่แข่งใบนั้น พวกเขาสามารถนำการ์ด 1 ใบจากสุสานของพวกเขาออกนอกเกมได้ หากพวกเขาไม่ได้ทำเช่นนั้น ให้ยกเลิกผลที่สั่งใช้งานนั้น คุณสามารถนำมอนสเตอร์ 1 ใบจากสุสานของคุณออกนอกเกม; อัญเชิญพิเศษ ""Imposter Token"" (พลังจิต/ดิน/พลังโจมตี 800/พลังป้องกัน 800) 1 ใบที่มีเลเวลเท่ากับมอนสเตอร์ใบนั้น คุณสามารถใช้ผลของ ""Imposter Shift"" ได้เทิร์นละ 1 ครั้งเท่านั้น"
 101305088,Imposter Shift,str2,เรียกพิเศษ
-101305088,Imposter Shift,str3,Banish the card? (Imposter Shift)
+101305088,Imposter Shift,str3,เนรเทศการ์ดใบนี้หรือไม่?
 101305089,Mortilux Heruvur,name,Mortilux Heruvur
 101305089,Mortilux Heruvur,desc,"มอนสเตอร์ Level 8 จำนวน 2 ตัวขึ้นไป
 ถ้ามีมอนสเตอร์ถูกส่งลง GY ของคู่แข่ง (ยกเว้นในช่วง Damage Step): คุณสามารถเลือกเป้าหมายมอนสเตอร์เหล่านั้น 1 ตัว; นำมาติดไว้กับการ์ดใบนี้ คุณสามารถใช้เอฟเฟกต์นี้ของ ""Mortilux Heruvur"" ได้เทิร์นละ 1 ครั้งเท่านั้น การ์ดใบนี้จะได้รับเอฟเฟกต์ตามจำนวนวัตถุดิบที่ติดอยู่
@@ -393,7 +393,7 @@ id,name,field,value
 101306024,Adamancipator Conductor,name,Adamancipator Conductor
 101306024,Adamancipator Conductor,desc,"ถ้าการ์ดใบนี้อยู่บนมือของคุณ: คุณสามารถวางการ์ด ""Adamancipator"" ใบอื่นจากบนมือของคุณไว้บนสุดของเด็ค; Special Summon การ์ดใบนี้ ในช่วง Main Phase ของคุณ: คุณสามารถขุดการ์ด 5 ใบจากบนสุดของเด็คของคุณ และถ้าคุณทำเช่นนั้น คุณสามารถ Special Summon มอนสเตอร์เผ่าหิน เลเวล 4 หรือต่ำกว่าที่ขุดได้ 1 ใบ ส่วนการ์ดที่เหลือให้นำไปวางไว้ใต้สุดของเด็คตามลำดับที่คุณต้องการ คุณสามารถใช้เอฟเฟกต์แต่ละอย่างของ ""Adamancipator Conductor"" ได้เทิร์นละ 1 ครั้งเท่านั้น"
 101306024,Adamancipator Conductor,str1,เรียกพิเศษ
-101306024,Adamancipator Conductor,str2,Excavate the Deck
+101306024,Adamancipator Conductor,str2,ขุดการ์ดจากเด็ค
 101306024,Adamancipator Conductor,str3,เรียกพิเศษมอนสเตอร์?
 101306025,Adamancipator Crystal - Tiamite,name,Adamancipator Crystal - Tiamite
 101306025,Adamancipator Crystal - Tiamite,desc,"ถ้าการ์ดใบนี้ถูก Special Summon ด้วยเอฟเฟกต์ของการ์ด ""Adamancipator"": คุณสามารถเพิ่มการ์ด ""Adamancipator"" จากเด็คของคุณขึ้นมือ 1 ใบ ยกเว้น ""Adamancipator Crystal - Tiamite"" จากนั้นคุณสามารถ Special Summon มอนสเตอร์เผ่าหินจากบนมือของคุณได้ 1 ใบ ถ้าการ์ดใบนี้อยู่ใน GY ของคุณ: คุณสามารถเลือกเป้าหมายมอนสเตอร์ซิงโครเผ่าหินในสนามหรือใน GY ของคุณ 1 ใบ; นำมันกลับเข้า Extra Deck และถ้าคุณทำเช่นนั้น ให้นำการ์ดใบนี้ไปวางไว้บนสุดของเด็ค คุณสามารถใช้เอฟเฟกต์แต่ละอย่างของ ""Adamancipator Crystal - Tiamite"" ได้เทิร์นละ 1 ครั้งเท่านั้น"
@@ -406,6 +406,19 @@ id,name,field,value
 101306030,Hublot the Dark Directory of Death,str2,ส่งสุสาน
 101306030,Hublot the Dark Directory of Death,str3,เรียกเอ็กซิส
 101306030,Hublot the Dark Directory of Death,str4,เพิ่มเข้ามือ?
+101306032,Grizzly Father,name,Grizzly Father
+101306032,Grizzly Father,desc,"คุณสามารถใช้ผลของชื่อการ์ดนี้ในเอฟเฟกต์ที่ 2 ได้เทิร์นละ 1 ครั้งเท่านั้น
+(1) เมื่อการ์ดนี้ถูกทำลายจากการต่อสู้และถูกส่งลงสุสาน: คุณสามารถอัญเชิญพิเศษมอนสเตอร์เลเวล 4 ที่มีพลังโจมตี 1400 จากเด็คของคุณ 1 ใบ หรือถ้าคุณมีมอนสเตอร์เลเวล 4 ที่มีพลังโจมตี 1400 อยู่ในสุสานตั้งแต่ 2 ใบขึ้นไป คุณสามารถเปลี่ยนเป็นการอัญเชิญพิเศษ Normal Monster แทนได้
+(2) เมื่อคู่ต่อสู้ของคุณใช้งานเอฟเฟกต์มอนสเตอร์และคุณควบคุมมอนสเตอร์ที่ไม่ใช่เอฟเฟกต์มอนสเตอร์ที่หงายหน้าอยู่ (Quick Effect): คุณสามารถนำการ์ดนี้ออกจากเกมจากสุสานของคุณ; ยกเลิกการใช้งานนั้น และถ้าทำเช่นนั้น ทำลายมอนสเตอร์ใบนั้น"
+101306032,Grizzly Father,str1,เรียกพิเศษ
+101306032,Grizzly Father,str2,ยกเลิกการสั่งใช้งาน
+101306035,Myriaday Dragon,name,Myriaday Dragon
+101306035,Myriaday Dragon,desc,"(1) เทิร์นละ 1 ครั้ง ในช่วง End Phase: คุณสามารถจ่าย LP 100; วาง Myriad Counter บนการ์ดนี้ 1 เม็ด
+(2) เทิร์นละ 1 ครั้ง: คุณสามารถวาง Myriad Counter บนการ์ดนี้ได้ตามจำนวนทุกๆ ผลต่างของ LP ของคุณและคู่ต่อสู้ 1000 แต้ม
+(3) การ์ดนี้จะได้รับพลังโจมตี/ป้องกัน 10,000 ขณะที่มี Myriad Counter ตั้งแต่ 10 เม็ดขึ้นไป
+(4) หากการ์ดนี้กำลังจะถูกทำลายจากการต่อสู้หรือเอฟเฟกต์ของการ์ด ให้เอา Myriad Counter ออกจากการ์ดนี้ 1 เม็ดแทน"
+101306035,Myriaday Dragon,str1,วางตัวบ่งชี้
+101306035,Myriaday Dragon,str2,วางตัวบ่งชี้
 101306036,Red-Eyes Black Dragon Exceed,name,Red-Eyes Black Dragon Exceed
 101306036,Red-Eyes Black Dragon Exceed,desc,"""Red-Eyes Black Dragon"" + มอนสเตอร์ที่ระบุชื่อ ""Dark Time Wizard"" 1 ใบ ต้องทำการ Fusion Summon หรือ Special Summon (จาก Extra Deck ของคุณ) โดยการสังเวยมอนสเตอร์ที่หงายหน้าอยู่ 1 ใบในสนามของฝ่ายใดฝ่ายหนึ่ง ในระหว่างเทิร์นที่มีมอนสเตอร์ถูกทำลายด้วยเอฟเฟกต์ของ ""Dark Time Wizard"" เท่านั้น คุณสามารถ Special Summon ""Red-Eyes Black Dragon Exceed"" ได้เทิร์นละ 1 ครั้งด้วยวิธีนี้ ไม่ว่าจะใช้วิธีใดก็ตาม ถ้าการ์ดใบนี้ถูก Special Summon: คุณสามารถ Special Summon มอนสเตอร์เลเวล 8 หรือต่ำกว่าจากบนมือหรือ GY ของคุณได้ 1 ใบ การ์ดใบนี้จะไม่ได้รับผลกระทบจากเอฟเฟกต์มอนสเตอร์และเวทมนตร์ของคู่แข่ง"
 101306036,Red-Eyes Black Dragon Exceed,str1,เรียกพิเศษ
@@ -434,20 +447,20 @@ id,name,field,value
 ● 1: การ์ดนี้ได้รับ ATK 400
 ● 2: การ์ดนี้ได้รับ ATK 600
 ● 3: ส่งการ์ดนี้กลับเข้า Extra Deck และถ้าทำสำเร็จ จั่วการ์ด 3 ใบ"
-101306045,Swickelavee the Brilliantly Crowned Heavy Cavalry,str1,Xyz Summon by using a Beast monster as material?
+101306045,Swickelavee the Brilliantly Crowned Heavy Cavalry,str1,อัญเชิญ Xyz โดยใช้มอนสเตอร์เผ่าสัตว์เป็นวัตถุดิบหรือไม่?
 101306045,Swickelavee the Brilliantly Crowned Heavy Cavalry,str2,วางตัวบ่งชี้
 101306046,Azure Ocean Dragon Lord - Neo-Daedalus Rage,name,Azure Ocean Dragon Lord - Neo-Daedalus Rage
 101306046,Azure Ocean Dragon Lord - Neo-Daedalus Rage,desc,"มอนสเตอร์ 4 ใบ
 ถ้าการ์ดนี้ถูก Link Summon: คุณสามารถ Special Summon มอนสเตอร์ที่ระบุถึง ""Atlantis, City of the Sea Dragon"" จาก GY ของคุณได้สูงสุด 3 ใบ ลงในโซนที่การ์ดนี้ชี้ไป และคุณจะไม่สามารถ Special Summon ได้อีกตลอดเทิร์นนี้ ชื่อของการ์ดใบนี้จะกลายเป็น ""Umi"" ขณะอยู่บน Monster Zone เทิร์นละหนึ่งครั้ง (Quick Effect): คุณสามารถส่ง ""Umi"" ที่หงายหน้าอยู่บนสนามของคุณ 1 ใบลง GY; ส่งการ์ดทั้งหมดบนสนามลง GY ยกเว้น ""Umi"""
-101306046,Azure Ocean Dragon Lord - Neo-Daedalus Rage,str1,Apply as a Link-3 for a Link Summon ({CARD})
+101306046,Azure Ocean Dragon Lord - Neo-Daedalus Rage,str1,ใช้เป็นวัตถุดิบ Link-3 สำหรับการอัญเชิญลิงก์ ({CARD})
 101306046,Azure Ocean Dragon Lord - Neo-Daedalus Rage,str2,เรียกพิเศษ
 101306046,Azure Ocean Dragon Lord - Neo-Daedalus Rage,str3,ส่งสุสาน
 101306047,Levia-Dragoon - Daedalus,name,Levia-Dragoon - Daedalus
 101306047,Levia-Dragoon - Daedalus,desc,"มอนสเตอร์ธาตุ WATER 3 ใบ
 ชื่อของการ์ดใบนี้จะกลายเป็น ""Umi"" ขณะอยู่บน Monster Zone คุณสามารถใช้เอฟเฟกต์ต่อไปนี้ของ ""Levia-Dragoon - Daedalus"" ได้เทิร์นละ 1 ครั้งเท่านั้น ถ้าการ์ดนี้ถูก Link Summon: คุณสามารถ Special Summon มอนสเตอร์ที่ระบุถึง ""Atlantis, City of the Sea Dragon"" จาก Deck ของคุณ 1 ใบ ในช่วง Main Phase (Quick Effect): คุณสามารถส่ง ""Umi"" ที่หงายหน้าอยู่บนสนามของคุณ 1 ใบลง GY; ทิ้งการ์ดบนมือคู่แข่งทั้งหมด และถ้าทำสำเร็จ พวกเขาจะจั่วการ์ดตามจำนวนที่ทิ้งไป ทั้งสองฝ่ายไม่สามารถใช้งานการ์ดหรือเอฟเฟกต์ใดๆ ตอบโต้การสั่งใช้งานเอฟเฟกต์นี้ได้"
-101306047,Levia-Dragoon - Daedalus,str1,Apply as a Link-2 for a Link Summon ({CARD})
+101306047,Levia-Dragoon - Daedalus,str1,ใช้เป็นวัตถุดิบ Link-2 สำหรับการอัญเชิญลิงก์ ({CARD})
 101306047,Levia-Dragoon - Daedalus,str2,เรียกพิเศษ
-101306047,Levia-Dragoon - Daedalus,str3,Your opponent discards and draws
+101306047,Levia-Dragoon - Daedalus,str3,คู่แข่งทิ้งการ์ดและจั่วการ์ด
 101306049,Adamancipator Luminous,name,Adamancipator Luminous
 101306049,Adamancipator Luminous,desc,"มอนสเตอร์เอฟเฟกต์ 2 ใบ โดยต้องมีมอนสเตอร์ Synchro รวมอยู่ด้วย
 ถ้าการ์ดนี้ถูก Link Summon หรือมีมอนสเตอร์ถูก Special Summon ลงโซนที่การ์ดนี้ชี้ไป: คุณสามารถเลือกเป้าหมายมอนสเตอร์ที่มีเลเวลในสนามหรือใน GY ของคุณ 1 ใบ; Special Summon ""Glimmer Token"" (Rock/LIGHT/ATK 0/DEF 0) ที่มีเลเวลเดียวกัน 1 ใบ เมื่อมอนสเตอร์ใบอื่นบนสนามสั่งใช้งานเอฟเฟกต์ (Quick Effect): คุณสามารถนำมอนสเตอร์ใบนั้นไปวางไว้บนสุดของ Deck คุณสามารถใช้เอฟเฟกต์แต่ละอย่างของ ""Adamancipator Luminous"" ได้เทิร์นละ 1 ครั้งเท่านั้น"
@@ -524,7 +537,7 @@ id,name,field,value
 ● เลือกเป้าหมายมอนสเตอร์ ""Ashtra"" ในสุสานของคุณ 1 ตัว; อัญเชิญพิเศษมอนสเตอร์ตัวนั้น
 คุณสามารถใช้งาน ""Ashtra Insect Poison"" ได้เทิร์นละ 1 ครั้งเท่านั้น"
 101306073,Ashtra Insect Poison,str1,เปิดใช้งาน
-101306073,Ashtra Insect Poison,str2,Special Summon as a monster
+101306073,Ashtra Insect Poison,str2,อัญเชิญพิเศษเป็นมอนสเตอร์
 101306073,Ashtra Insect Poison,str3,เรียกพิเศษมอนสเตอร์ 1 ตัวจากสุสาน
 101306073,Ashtra Insect Poison,str4,อัญเชิญซิงโคร?
 101306074,Ashtra Cursed Roar,name,Ashtra Cursed Roar
@@ -533,7 +546,7 @@ id,name,field,value
 ● หากคุณมีมอนสเตอร์ ""Ashtra"" บนสนามหรือในสุสานของคุณ: เลือกเป้าหมายมอนสเตอร์ที่ฝั่งตรงข้ามควบคุม 1 ตัว; ทำลายมอนสเตอร์ตัวนั้น
 คุณสามารถใช้งาน ""Ashtra Cursed Roar"" ได้เทิร์นละ 1 ครั้งเท่านั้น"
 101306074,Ashtra Cursed Roar,str1,เปิดใช้งาน
-101306074,Ashtra Cursed Roar,str2,Special Summon as a monster
+101306074,Ashtra Cursed Roar,str2,อัญเชิญพิเศษเป็นมอนสเตอร์
 101306074,Ashtra Cursed Roar,str3,เอฟเฟกต์ทำลาย
 101306074,Ashtra Cursed Roar,str4,อัญเชิญซิงโคร?
 101306075,Ashtra Divine Domain,name,Ashtra Divine Domain
@@ -542,12 +555,12 @@ id,name,field,value
 ● เมื่อฝั่งตรงข้ามใช้งานการ์ดเวทมนตร์/กับดัก หรือเอฟเฟกต์ของการ์ดเหล่านั้น และฝั่งตรงข้ามไม่มีการ์ดที่คว่ำหน้าอยู่บนสนาม: ทำให้เอฟเฟกต์นั้นไร้ผล
 คุณสามารถใช้งาน ""Ashtra Divine Domain"" ได้เทิร์นละ 1 ครั้งเท่านั้น"
 101306075,Ashtra Divine Domain,str1,เปิดใช้งาน
-101306075,Ashtra Divine Domain,str2,Special Summon as a monster
+101306075,Ashtra Divine Domain,str2,อัญเชิญพิเศษเป็นมอนสเตอร์
 101306075,Ashtra Divine Domain,str3,ยกเลิกเอฟเฟกต์
 101306075,Ashtra Divine Domain,str4,อัญเชิญซิงโคร?
 101306076,Daedalus Maelstrom,name,Daedalus Maelstrom
 101306076,Daedalus Maelstrom,desc,"เมื่อฝั่งตรงข้ามพยายามจะอัญเชิญปกติหรืออัญเชิญพิเศษมอนสเตอร์ ในขณะที่คุณควบคุม ""Atlantis, City of the Sea Dragon"": ทำให้การอัญเชิญนั้นไร้ผล และถ้าทำเช่นนั้น ให้ทำลายมอนสเตอร์ตัวนั้น จากนั้นหากคุณควบคุมมอนสเตอร์ลิงก์ธาตุน้ำ คุณสามารถทำลายมอนสเตอร์ที่ไม่ใช่ธาตุน้ำทั้งหมดบนสนาม คุณสามารถนำการ์ดใบนี้ในสุสานของคุณออกนอกเกมและส่งการ์ด ""Umi"" ที่หงายหน้าอยู่บนสนามของคุณ 1 ใบลงสุสาน จากนั้นเลือกเป้าหมายมอนสเตอร์ที่ฝั่งตรงข้ามควบคุม 1 ตัว; ส่งมอนสเตอร์ตัวนั้นลงสุสาน คุณสามารถใช้เอฟเฟกต์ของ ""Daedalus Maelstrom"" ได้เทิร์นละ 1 ครั้ง และใช้ได้เพียงครั้งเดียวในเทิร์นนั้น"
-101306076,Daedalus Maelstrom,str1,Negate the Summon
+101306076,Daedalus Maelstrom,str1,ยกเลิกการอัญเชิญ
 101306076,Daedalus Maelstrom,str2,ส่งสุสาน
 101306076,Daedalus Maelstrom,str3,ทำลายมอนสเตอร์ตัวนั้น?
 101306149,Glimmer Token,name,Glimmer Token
