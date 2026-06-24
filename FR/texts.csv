@@ -1,10 +1,4 @@
 id,name,desc,str1,str2,str3,str4,str5,str6,str7,str8,str9,str10,str11,str12,str13,str14,str15,str16
-100200290,Scène du Destin,"Vous pouvez activer cette carte le tour où elle a été Posée, en révélant 1 Monstre Normal dans votre main.
-Invoquez Spécialement max. 5 Monstres Normaux depuis votre main et/ou Cimetière en Position d'Attaque, et aussi, vous ne pouvez pas Invoquer Spécialement depuis l'Extra Deck le reste de ce tour après la résolution de cette carte.
-Vous ne pouvez activer qu'1 ""Scène du Destin"" par tour.",Activer,Activer en appliquant l'effet de {CARD}.,,,,,,,,,,,,,,
-100200291,Échecs de Monstre Capsule,"Durant la Main Phase : le joueur du tour peut cibler 1 monstre dans son Cimetière ; il le place face recto dans sa Zone Magie & Piège comme Magie Continue.
-Durant la End Phase : le joueur du tour peut envoyer 1 Carte Monstre face recto qu'il contrôle au Cimetière ; il Invoque Spécialement 1 monstre depuis son Deck du même Type et Attribut d'origine, mais supérieur d'1, 2 ou 3 Niveaux d'origine.
-Vous ne pouvez utiliser chaque effet de ""Échecs de Monstre Capsule"" qu'une fois par tour.",,Placer un monstre,Invocation Spéciale,,,,,,,,,,,,,
 100200292,Elfe Pur-Sang,"Durant votre Main Phase : vous pouvez envoyer 1 Magie d'Équipement depuis votre Deck au Cimetière, puis cette carte gagne 500 ATK jusqu'à la fin du tour de votre adversaire.
 Vous ne pouvez utiliser cet effet de ""Elfe Pur-Sang"" qu'une fois par tour.
 Lorsque cette carte détruit un monstre de l'adversaire au combat : vous pouvez ajouter à votre main, ou Invoquer Spécialement, 1 monstre LUMIÈRE Magicien de max. Niveau 4 (""Elfe Pur-Sang"" exclu) depuis votre Deck.",Envoyer au Cimetière,Manipulation du Deck,,,,,,,,,,,,,,
@@ -23,84 +17,7 @@ Durant votre Main Phase : vous pouvez envoyer 1 carte ""Troupe de Clowns"" (Mons
 Les monstres contrôlés par votre adversaire perdent 1500 DEF tant que vous contrôlez un monstre Invoqué par Sacrifice. Si cette carte est Sacrifiée : vous pouvez activer 1 de ces effets (mais vous ne pouvez utiliser chacun de ces effets de ""Chapeau, Troupe de Clowns"" qu'une fois par tour) ;
 ● Mélangez tous les Monstres Pendule sur le Terrain et face recto dans les Extra Decks dans le Deck.
 ● Invoquez Spécialement 1 monstre ""Troupe de Clowns"" non-Pendule depuis votre Deck ou Extra Deck, en ignorant ses conditions d'Invocation.",Invocation Spéciale,Choisir un effet,Renvoyer au Deck,Invocation Spéciale,,,,,,,,,,,,
-100261001,Lapin des Ténèbres Malin,"Après que cette carte est Invoquée Normalement ou Spécialement, vous pouvez Invoquer Normalement 1 monstre qui mentionne ""Monde des Toons"" durant votre Main Phase ce tour, en plus de votre Invocation/Pose Normale (vous ne pouvez gagner cet effet qu'une fois par tour).
-Cette carte est traitée comme un monstre Toon tant que ""Monde des Toons"" est sur le Terrain.
-Une fois par tour : vous pouvez ajouter à votre main, ou placer face recto sur votre Terrain, 1 Magie de Terrain ou Continue ""Toon"" depuis votre Deck.",,"Invoquer par l'effet de ""Lapin des Ténèbres Malin""",Effet d'ajout à la main,Placer,,,,,,,,,,,,
-100261002,Chat Comique,"Cette carte est traitée comme un monstre Toon tant que ""Monde des Toons"" est sur le Terrain.
-Durant la Main Phase (Effet Rapide) : vous pouvez Sacrifier 1 monstre (si vous contrôlez ""Monde des Toons"", vous pouvez Sacrifier 1 monstre contrôlé par votre adversaire, même si vous ne le contrôlez pas), et si vous le faites, Invoquez Spécialement 1 monstre qui mentionne ""Monde des Toons"" depuis votre main ou Deck, en ignorant ses conditions d'Invocation.
-Vous ne pouvez utiliser cet effet de ""Chat Comique"" qu'une fois par tour.",,Invocation Spéciale,,,,,,,,,,,,,,
-100261003,Boîte Maléfique,"Si vous contrôlez ""Monde des Toons"" : vous pouvez Invoquer Spécialement cette carte depuis votre main, puis vous pouvez ajouter à votre main ou Poser 1 Piège ""Toon"" depuis votre Deck.
-Vous ne pouvez utiliser cet effet de ""Boîte Maléfique"" qu'une fois par tour.
-Cette carte est traitée comme un monstre Toon tant que ""Monde des Toons"" est sur le Terrain.
-Une fois par tour (Effet Rapide) : vous pouvez cibler 1 carte dans l'un des Cimetières ; placez-la au-dessous du Deck.",Invocation Spéciale,Récupérer depuis le Cimetière,Sélectionner une Carte Piège ?,,,,,,,,,,,,,
-100261004,Mage Illusionniste Anonyme aux Yeux Noirs,"Vous pouvez défausser cette carte, puis activez 1 de ces effets (mais vous ne pouvez utiliser chacun de ces effets de ""Mage Illusionniste Anonyme aux Yeux Noirs"" qu'une fois par tour) ;
-● Placez 1 ""Télépathie"" depuis votre main ou Deck face recto sur votre Terrain.
-● Ajoutez 1 autre monstre qui mentionne ""Monde des Toons"" depuis votre Cimetière à votre main, puis vous pouvez l'Invoquer Spécialement, en ignorant ses conditions d'Invocation.
-Si cette carte combat un monstre, aucun de ces 2 monstres ne peut être détruit par ce combat.",Défausser,Placer une Carte Piège,Récupérer un monstre,Invocation Spéciale?,,,,,,,,,,,,
-100261005,Dragon Ultime Toon aux Yeux Bleus,"""Dragon Toon aux Yeux Bleus"" + 2 monstres Toon
-Uniquement Invocable Spécialement (depuis votre Extra Deck) en mélangeant les cartes ci-dessus depuis votre main, Terrain et/ou Cimetière dans le Deck/Extra Deck.
-Vos monstres Toon peuvent attaquer directement.
-Une fois par tour : vous pouvez ajouter 1 carte ""Toon"", ou 1 carte qui mentionne un nom de carte ""Toon"", depuis votre Cimetière à votre main.
-Durant le calcul des dommages, si votre monstre Toon est attaqué : vous pouvez le bannir jusqu'à la fin de la Damage Step.",,Recycler,Bannir,,,,,,,,,,,,,
-100261006,Monde des Toons le Monde Parfait,"Le nom de cette carte devient ""Monde des Toons"" tant qu'elle est dans la Zone Terrain.
-Une fois par tour : vous pouvez ajouter 1 carte ""Toon"", ou 1 carte qui mentionne un nom de carte ""Toon"", depuis votre Deck à votre main.
-Vous ne pouvez utiliser cet effet de ""Monde des Toons le Monde Parfait"" que trois fois par tour.
-Avant la résolution d'une autre carte ou effet activé, vous pouvez bannir 1 monstre Toon que vous contrôlez jusqu'à immédiatement après la résolution de la carte/effet, et aussi, vous ne pouvez pas bannir de monstres du même nom d'origine avec cet effet de ""Monde des Toons le Monde Parfait"" le reste de ce tour.",,Ajouter à la main,,Bannir le monstre ?,,,,,,,,,,,,
-100261007,Télépathie,"Tant que vous avez une carte ""Toon"" dans votre Terrain ou Cimetière, votre adversaire doit garder sa main révélée, et aussi, vous pouvez regarder ses cartes Posées à tout moment.
-Si vous avez un monstre Toon et une Magie ""Toon"" dans votre Terrain et/ou Cimetière : vous pouvez déclarer 1 nom de carte qui n'est pas parmi les cartes/effets activés dans cette Chaîne ; annulez les effets activés des cartes de ce nom d'origine jusqu'à la fin de ce tour, tant que cette carte est face recto sur le Terrain.
-Vous ne pouvez utiliser cet effet de ""Télépathie"" qu'une fois par tour.",,Déclarer,,,,,,,,,,,,,,
-100261023,"Terracottan, Artisanesorcière","Si cette carte est dans votre main : vous pouvez cibler 1 carte ""Artisanesorcière"" dans votre Cimetière (""Terracottan, Artisanesorcière"" exclue) ; ajoutez-la à votre main, et si vous le faites, Invoquez Spécialement cette carte, et aussi, vous ne pouvez pas Invoquer Spécialement (monstres ""Artisanesorcière"" exclus) depuis l'Extra Deck le reste de ce tour.
-Durant votre Main Phase : vous pouvez Invoquer par Fusion 1 Monstre Fusion ""Artisanesorcière"" depuis votre Extra Deck, en utilisant des monstres depuis votre main ou Terrain.
-Vous ne pouvez utiliser chaque effet de ""Terracottan, Artisanesorcière"" qu'une fois par tour.",Invocation Spéciale,Invocation Fusion,,,,,,,,,,,,,,
-100261024,"Marka, Artisanesorcière","Vous pouvez Sacrifier cette carte depuis votre main ou Terrain ; ajoutez 1 Magie de Terrain ou Continue ""Artisanesorcière"" depuis votre Deck à votre main.
-Si un ou plusieurs monstres ""Artisanesorcière"" face recto que vous contrôlez quittent le Terrain à cause d'un effet de carte de l'adversaire, tant que cette carte est dans votre Cimetière : vous pouvez Invoquer Spécialement cette carte (mais bannissez-la lorsqu'elle quitte le Terrain), et si vous le faites, Sacrifiez 1 monstre contrôlé par votre adversaire.
-Vous ne pouvez utiliser chaque effet de ""Marka, Artisanesorcière"" qu'une fois par tour.",Ajouter à la main,Invocation Spéciale,,,,,,,,,,,,,,
-100261025,"Madame Rilliona, Artisanesorcière","""Madame Verre, Artisanesorcière"" + 2 monstres Magicien
-Si cette carte est Invoquée par Fusion : vous pouvez Invoquer Spécialement max. 3 monstres ""Artisanesorcière"" de max. Niveau 7 d'Attributs différents les uns des autres depuis votre main et/ou Deck, et aussi, vous ne pouvez pas Invoquer Spécialement (Monstres Fusion exclus) depuis l'Extra Deck le reste de ce tour.
-Durant votre End Phase, si cette carte est dans votre Cimetière : vous pouvez révéler 1 Magie dans votre main ; Invoquez Spécialement cette carte en Position de Défense.
-Vous ne pouvez utiliser chaque effet de ""Madame Rilliona, Artisanesorcière"" qu'une fois par tour.",Invoquer Spécialement depuis le Deck,Invoquer Spécialement cette carte,,,,,,,,,,,,,,
-100261026,"Élèves, Artisanesorcière","1 monstre ""Artisanesorcière"" + 1 monstre Magicien
-Durant la Main ou Battle Phase (Effet Rapide) : vous pouvez activer 1 de ces effets ;
-● Ajoutez 1 Magie ""Artisanesorcière"" depuis votre Deck à votre main.
-● Révélez 1 Magie Normale ou Jeu-Rapide ""Artisanesorcière"" dans votre main ; appliquez l'effet d'activation de la Magie.
-Durant votre End Phase : vous pouvez renvoyer 1 de vos cartes ""Artisanesorcière"" bannies au Cimetière.
-Vous ne pouvez utiliser chaque effet de ""Élèves, Artisanesorcière"" qu'une fois par tour.",Activer,Retourner au Cimetière,Effet d'ajout à la main,Copier l'effet,,,,,,,,,,,,
-100261027,Célébration Artisanesorcière,"Activez 1 de ces effets ;
-● Détruisez 1 monstre ""Artisanesorcière"" que vous contrôlez et 1 carte contrôlée par votre adversaire.
-● Invoquez par Fusion 1 Monstre Fusion ""Artisanesorcière"" depuis votre Extra Deck, en mélangeant des monstres Magicien depuis votre Cimetière et/ou bannissement dans le Deck.
-Durant votre End Phase, si vous contrôlez un monstre ""Artisanesorcière"", tant que cette carte est dans votre Cimetière : vous pouvez ajouter cette carte à votre main.
-Vous ne pouvez utiliser qu'1 effet de ""Célébration Artisanesorcière"" par tour, et uniquement une fois le tour.",Activer,Ajouter à la main,Effet de destruction,Invocation Fusion,,,,,,,,,,,,
-100261028,Walpurgis Artisanesorcière,"Durant votre Main Phase : vous pouvez ajouter 1 monstre ""Artisanesorcière"" depuis votre Deck à votre main, puis défaussez 1 carte.
-Vous ne pouvez utiliser cet effet de ""Walpurgis Artisanesorcière"" qu'une fois par tour.
-Durant votre tour, si vous allez défausser pour activer l'effet d'un monstre ""Artisanesorcière"" que vous contrôlez, vous pouvez envoyer 1 Magie/Piège ""Artisanesorcière"" (""Walpurgis Artisanesorcière"" exclue) depuis votre Deck au Cimetière à la place.",Ajouter à la main,,,,,,,,,,,,,,,
-100261029,Distorsion Artisanesorcière,"Lorsqu'une Carte Magie/Piège ou un effet de monstre est activé et que vous contrôlez un monstre ""Artisanesorcière"" de min. Niveau 5 : annulez l'activation, et si vous le faites, détruisez la carte.
-Si cette carte est dans votre Cimetière, sauf le tour où elle y a été envoyée : vous pouvez la bannir ; ajoutez 1 monstre Magicien de min. Niveau 5 depuis votre Deck à votre main, puis défaussez 1 carte.
-Vous ne pouvez utiliser chaque effet de ""Distorsion Artisanesorcière"" qu'une fois par tour.",Activer,Ajouter à la main,,,,,,,,,,,,,,
-100261047,Ogresses Désenchaînées - Shara,"Durant la Main Phase (Effet Rapide) : vous pouvez défausser cette carte ; Invoquez Spécialement 1 monstre Démon depuis votre main, puis détruisez 1 carte que vous contrôlez.
-Si une ou plusieurs cartes sur le Terrain sont détruites par un effet de carte (celui de ""Ogresses Désenchaînées - Shara"" exclu), ou au combat, tant que cette carte est dans votre Cimetière : vous pouvez Invoquer Spécialement cette carte (mais placez-la au-dessous du Deck lorsqu'elle quitte le Terrain) ou l'ajouter à votre main.
-Vous ne pouvez utiliser chaque effet de ""Ogresses Désenchaînées - Shara"" qu'une fois par tour.",Invocation Spéciale,Recycler,,,,,,,,,,,,,,
-100261048,Ogresses Désenchaînées - Shma,"Si cette carte est Invoquée Normalement : vous pouvez Invoquer Spécialement 1 monstre ""Désenchaîné"" de max. Niveau 4 (""Ogresses Désenchaînées - Shma"" exclu) depuis votre Deck, puis détruisez 1 carte que vous contrôlez, et aussi, vous ne pouvez pas Invoquer Spécialement (monstres Démon exclus) le reste de ce tour.
-Si cette carte sur le Terrain est détruite par un effet de carte (celui de ""Ogresses Désenchaînées - Shma"" exclu), ou au combat : vous pouvez Invoquer Spécialement 1 monstre ""Désenchaîné"" (""Ogresses Désenchaînées - Shma"" exclu) depuis votre main ou Deck.
-Vous ne pouvez utiliser chaque effet de ""Ogresses Désenchaînées - Shma"" qu'une fois par tour.",Invoquer Spécialement depuis le Deck,Invoquer Spécialement depuis la main/le Deck,,,,,,,,,,,,,,
-100261049,Magistrat Malveillant Désenchaîné de Kamura,"Vous pouvez cibler max. 3 cartes que vous contrôlez ; détruisez-les, et si vous le faites, Invoquez Spécialement cette carte depuis votre main, puis vous pouvez appliquer n'importe lequel des effets suivants, dans l'ordre, selon les types d'origine des cartes détruites.
-● Monstre : Piochez 1 carte.
-● Magie : Changez la position de combat d'1 monstre sur le Terrain.
-● Piège : Détruisez 1 autre carte sur le Terrain.
-Si cette carte sur le Terrain est détruite par un effet de carte : vous pouvez détruire tous les monstres sur le Terrain. Vous ne pouvez utiliser chaque effet de ""Magistrat Malveillant Désenchaîné de Kamura"" qu'une fois par tour.",Invocation Spéciale,Effet de destruction,Piocher 1 carte ?,Changer la position de combat ?,Détruire ?,,,,,,,,,,,
-100261050,Enma Désenchaîné du Seigneur de Yama,"2+ monstres (un monstre ""Âme Désenchaînée"" inclus)
-Durant votre End Phase : vous pouvez cibler max. 2 monstres Démon dans votre Cimetière qui ont été détruits et y ont été envoyés ce tour ; Invoquez-les Spécialement, mais vous ne pouvez pas Invoquer Spécialement (monstres Démon exclus) tant que vous contrôlez l'un des monstres face recto.
-Si cette carte sur le Terrain va être détruite au combat ou par un effet de carte, vous pouvez détruire 1 carte face recto sur le Terrain à la place.
-Vous ne pouvez utiliser chaque effet de ""Enma Désenchaîné du Seigneur de Yama"" qu'une fois par tour.",Invocation Spéciale,,Invoqué Spécialement par l'effet de {CARD},,,,,,,,,,,,,
-100261051,Âme Désenchaînée de la Rage Abominateur,"2+ monstres (un monstre Démon inclus)
-Si votre adversaire Invoque Spécialement un ou plusieurs monstres face recto : vous pouvez en cibler 1 ; détruisez 1 monstre Démon que vous contrôlez, et si vous le faites, annulez les effets du monstre ciblé jusqu'à la fin de ce tour.
-Lorsqu'un effet de monstre est activé sur le Terrain et que vous contrôlez un Monstre Lien ""Désenchaîné"" de min. Link-4 (Effet Rapide) : vous pouvez bannir cette carte depuis votre Cimetière ; détruisez le monstre qui a activé l'effet.
-Vous ne pouvez utiliser chaque effet de ""Âme Désenchaînée de la Rage Abominateur"" qu'une fois par tour.",Annuler,Détruire,,,,,,,,,,,,,,
-100261052,Réincarnation des Désenchaînés,"Lorsque cette carte est activée : vous pouvez ajouter 1 Magie ""Désenchaîné"" (""Réincarnation du Désenchaîné"" exclue) ou 1 ""Prison de l'Abomination"" depuis votre Deck à votre main.
-Une fois par tour : vous pouvez cibler max. 3 cartes ""Désenchaîné"" (""Réincarnation du Désenchaîné"" exclu) dans votre Cimetière ; mélangez-les dans le Deck, puis vous pouvez détruire un nombre d'autres cartes que vous contrôlez inférieur ou égal au nombre mélangé.
-Vous ne pouvez activer qu'1 ""Réincarnation des Désenchaînés"" par tour.",Ajouter à la main?,Effet de récupération,Détruire la carte ?,,,,,,,,,,,,,
-100261053,Syncrétisme Désenchaîné,"Ciblez 2 monstres face recto sur le Terrain (un Monstre Lien ""Âme Désenchaînée"" que vous contrôlez inclus) ; immédiatement après la résolution de cet effet, Invoquez par Lien 1 monstre Démon en utilisant uniquement les 2 monstres.
-Si cette carte Posée est détruite par un effet de carte : vous pouvez Invoquer Spécialement 1 monstre ""Désenchaîné"" depuis votre Deck.
-Vous ne pouvez utiliser chaque effet de ""Syncrétisme Désenchaîné"" qu'une fois par tour.",Invocation Lien,Invocation Spéciale,,,,,,,,,,,,,,
+100262101,Le Roi Magique de la Dimension Zeta,"L'Observateur du Vide. À travers chaque faille et distorsion de l'espace-temps, il voit toutes choses existantes. Prenez garde. Chaque fois que vous plongez dans vos rêves, Zeta observe votre monde en retour.",,,,,,,,,,,,,,,,
 100263001,Tyrannosaure Noir,"Peut attaquer directement si tous les monstres contrôlés par votre adversaire sont en Position de Défense.
 Vous ne pouvez utiliser chacun des effets suivants de ""Tyrannosaure Noir"" qu'une fois par tour.
 Durant votre Main Phase, si une Carte Magie ou un effet de Magie a été activé ce tour : vous pouvez Invoquer Spécialement cette carte depuis votre main.
@@ -144,13 +61,6 @@ Vous ne pouvez utiliser cet effet de ""Invocation Éclair"" qu'une fois par tour
 100263010,Explosion D,"Ciblez 1 Magie face recto que vous contrôlez ; détruisez-la, et si vous le faites, piochez 1 carte, puis si vous contrôlez un monstre ""HÉROS de la Destinée"", vous pouvez Invoquer Spécialement 1 monstre ""HÉROS de la Destinée"" depuis votre main, Cimetière ou bannissement.
 À la fin de la Damage Step, si un monstre équipé avec une Carte d'Équipement, ou ""Dogma - HÉROS de la Destinée"", a attaqué : vous pouvez bannir cette carte depuis votre Cimetière ; le monstre peut faire une seconde attaque à la suite.
 Vous ne pouvez activer qu'1 ""Explosion D"" par tour.",Piocher,Effectuer une attaque supplémentaire,Invocation Spéciale?,,,,,,,,,,,,,
-100264002,Origine de l'Archdémon,"Si cette carte est dans votre main : vous pouvez Sacrifier 1 autre monstre ""Archdémon"" depuis votre main et/ou Terrain ; Invoquez Spécialement cette carte. Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez Invoquer Spécialement 1 monstre Démon de Niveau 6 avec 2500 ATK depuis votre main, Deck ou Cimetière.
-Lorsque votre adversaire active un effet de monstre et que vous contrôlez ""Crâne Invoqué"" (Effet Rapide) : vous pouvez annuler l'activation, et si vous le faites, détruisez la carte.
-Vous ne pouvez utiliser chaque effet de ""Origine de l'Archdémon"" qu'une fois par tour.",Invoquer Spécialement cette carte,Invocation Spéciale,Annuler et détruire,,,,,,,,,,,,,
-100264003,"Makourai, le Coup de Foudre","(Cette carte est toujours traitée comme carte ""Archdémon"".)
-Ciblez 1 monstre ""Archdémon"" que vous contrôlez ; il gagne 600 ATK, puis vous pouvez détruire tous les monstres contrôlés par votre adversaire avec une ATK d'origine inférieure à l'ATK du monstre.
-Durant votre Main Phase : vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 monstre Démon de Niveau 6 avec 2500 ATK dans votre Cimetière ; ajoutez-le à votre main.
-Vous ne pouvez utiliser chaque effet de ""Makourai, le Coup de Foudre"" qu'une fois par tour.",Activer,Recycler,Détruire ce monstre ?,,,,,,,,,,,,,
 100265002,"Graine, Artisanesorcière","Si cette carte est Invoquée Normalement ou Spécialement et que vous contrôlez ""Regulus, le Prince d'Endymion"" ou un monstre ""Artisanesorcière"" (""Graine, Artisanesorcière"" exclu) : vous pouvez cibler 1 carte face recto sur le Terrain ; renvoyez-la dans la main.
 Vous pouvez bannir cette carte depuis votre Cimetière ; révélez un nombre de votre choix de cartes dans votre main (une Magie inclue) et mélangez-les dans le Deck, puis piochez autant de cartes.
 Vous ne pouvez utiliser chaque effet de ""Graine, Artisanesorcière"" qu'une fois par tour.",Renvoyer à la main,Piocher,,,,,,,,,,,,,,
@@ -165,6 +75,11 @@ Vous ne pouvez activer qu'1 ""Anciens Secrets"" par tour.",Activer,Appliquer un 
 ● Lorsque le monstre contrôlé par votre adversaire avec la plus haute ATK (même en cas d'égalité) déclare une attaque.
 ● Lorsque votre adversaire active un effet de monstre qui va détruire une ou plusieurs cartes sur le Terrain.
 ● Lorsque votre adversaire active un effet de monstre dans la main ou Terrain durant votre tour.",Activer,Activer en appliquant l'effet de {CARD}.,,,,,,,,,,,,,,
+100266003,Émissaires des Ténèbres,"Si vous recevez des dommages de combat ou d'effet : vous pouvez Invoquer Spécialement cette carte depuis votre main, et si vous le faites, gagnez 2000 LP, puis vous pouvez appliquer 1 de ces effets.
+● Invoquez Spécialement 1 ""Émissaires des Ténèbres"" depuis votre main, Deck ou Cimetière.
+● Détruisez max. 2 monstres en Position d'Attaque contrôlés par votre adversaire.
+Durant la End Phase, si cette carte a été Invoquée Spécialement ce tour : vous pouvez cibler 1 Piège dans votre Cimetière ; Posez-le.
+Vous ne pouvez utiliser chaque effet de ""Émissaires des Ténèbres"" qu'une fois par tour.",Invocation Spéciale,Poser un Piège,Invocation Spéciale,Effet de destruction,Ne rien faire,,,,,,,,,,,
 101305081,Témoin de l'Ancien,"Si vous avez un Monstre Synchro dans votre Terrain ou Cimetière : vous pouvez Invoquer Spécialement cette carte depuis votre main.
 Si cette carte est Invoquée Spécialement : vous pouvez placer max. 3 Monstres Synchro de noms différents depuis votre Extra Deck et/ou Cimetière dans votre Zone Magie & Piège comme Magies Continues face recto, et Invoquez Spécialement 1 ""Jeton Arc"" (Machine/LUMIÈRE/ATK 0/DEF 0) de Niveau égal au nombre placé, et aussi, vous ne pouvez pas Invoquer Spécialement (Monstres Synchro exclus) depuis l'Extra Deck le reste de ce tour.
 Vous ne pouvez utiliser chaque effet de ""Témoin de l'Ancien"" qu'une fois par tour.",Invocation Spéciale,Placer un monstre,,,,,,,,,,,,,,
