@@ -1,16 +1,4 @@
 id,name,field,value
-100200290,Palcoscenico del Destino,name,Palcoscenico del Destino
-100200290,Palcoscenico del Destino,desc,"Puoi attivare questa carta nel turno in cui è stata Posizionata, rivelando 1 Mostro Normale nella tua mano.
-Evoca Specialmente fino a 5 Mostri Normali dalla tua mano e/o Cimitero in Posizione di Attacco, inoltre dopo che questa carta si è risolta, per il resto di questo turno non puoi Evocare Specialmente dall'Extra Deck.
-Puoi attivare solo 1 ""Palcoscenico del Destino"" per turno."
-100200290,Palcoscenico del Destino,str1,Attiva
-100200290,Palcoscenico del Destino,str2,"Attivare applicando l'effetto di ""Palcoscenico del Destino""."
-100200291,Scacchi dei Mostri Capsula,name,Scacchi dei Mostri Capsula
-100200291,Scacchi dei Mostri Capsula,desc,"Durante la Main Phase: Il giocatore di turno può scegliere come bersaglio 1 mostro nel suo Cimitero; lo mette scoperto nella sua Zona Magie & Trappole come Magia Continua.
-Durante la End Phase: Il giocatore di turno può mandare 1 Carta Mostro scoperta che controlla al Cimitero; Evoca Specialmente 1 mostro dal suo Deck con lo stesso Tipo e Attributo originali, ma con un Livello originale superiore di 1, 2 o 3.
-Puoi utilizzare ciascun effetto di ""Scacchi dei Mostri Capsula"" una sola volta per turno."
-100200291,Scacchi dei Mostri Capsula,str2,Posizionare un mostro
-100200291,Scacchi dei Mostri Capsula,str3,Evocazione Speciale
 100200292,Elfo Purosangue,name,Elfo Purosangue
 100200292,Elfo Purosangue,desc,"Durante la tua Main Phase: Puoi mandare 1 Magia Equipaggiamento dal tuo Deck al Cimitero, poi questa carta guadagna 500 ATK fino alla fine del turno del tuo avversario. Puoi utilizzare questo effetto di ""Elfo Purosangue"" una sola volta per turno.
 Quando questa carta distrugge un mostro dell'avversario in battaglia: Puoi aggiungere alla tua mano, oppure Evocare Specialmente, 1 mostro Incantatore LUCE di Livello 4 o inferiore dal tuo Deck, eccetto ""Elfo Purosangue""."
@@ -44,153 +32,8 @@ Se questa carta viene offerta come Tributo: puoi attivare 1 di questi effetti (m
 100260001,Compagnia di Clown Hat,str2,Scegli un effetto
 100260001,Compagnia di Clown Hat,str3,Rimettere nel Deck
 100260001,Compagnia di Clown Hat,str4,Evocazione Speciale
-100261001,Coniglio Oscuro Divertente,name,Coniglio Oscuro Divertente
-100261001,Coniglio Oscuro Divertente,desc,"Dopo che questa carta è stata Evocata Normalmente o Specialmente, durante la tua Main Phase di questo turno puoi Evocare Normalmente 1 mostro che menziona ""Mondo Toon"", in aggiunta alla tua Evocazione Normale/Posizionamento (puoi ottenere questo effetto una sola volta per turno).
-Questa carta è trattata come un mostro Toon mentre ""Mondo Toon"" è sul Terreno.
-Una volta per turno: puoi aggiungere alla tua mano o mettere scoperta sul tuo Terreno 1 Magia Terreno o Magia Continua ""Toon"" dal tuo Deck."
-100261001,Coniglio Oscuro Divertente,str2,"Evocare tramite l'effetto di ""Coniglio Oscuro Divertente"""
-100261001,Coniglio Oscuro Divertente,str3,Effetto di aggiunta alla mano
-100261001,Coniglio Oscuro Divertente,str4,Posiziona
-100261002,Gatto dei Fumetti,name,Gatto dei Fumetti
-100261002,Gatto dei Fumetti,desc,"Questa carta è trattata come un mostro Toon mentre ""Mondo Toon"" è sul Terreno.
-Durante la Main Phase (Effetto Rapido): puoi offrire come Tributo 1 mostro (se controlli ""Mondo Toon"", puoi offrire come Tributo 1 mostro controllato dal tuo avversario, anche se non lo controlli), e se lo fai, Evoca Specialmente dalla tua mano o dal tuo Deck 1 mostro che menziona ""Mondo Toon"", ignorando le sue condizioni di Evocazione.
-Puoi utilizzare questo effetto di ""Gatto dei Fumetti"" una sola volta per turno."
-100261002,Gatto dei Fumetti,str2,Evocazione Speciale
-100261003,Scatola Malvagia,name,Scatola Malvagia
-100261003,Scatola Malvagia,desc,"Se controlli ""Mondo Toon"": puoi Evocare Specialmente questa carta dalla tua mano, poi puoi aggiungere alla tua mano o Posizionare 1 Trappola ""Toon"" dal tuo Deck. Puoi utilizzare questo effetto di ""Scatola Malvagia"" una sola volta per turno.
-Questa carta è trattata come un mostro Toon mentre ""Mondo Toon"" è sul Terreno.
-Una volta per turno (Effetto Rapido): puoi scegliere come bersaglio 1 carta in uno dei Cimiteri; mettila in fondo al Deck."
-100261003,Scatola Malvagia,str1,Evocazione Speciale
-100261003,Scatola Malvagia,str2,Recupera dal Cimitero
-100261003,Scatola Malvagia,str3,Selezionare una Carta Trappola?
-100261004,Mago Illusionista Senza Volto Occhi Oscuri,name,Mago Illusionista Senza Volto Occhi Oscuri
-100261004,Mago Illusionista Senza Volto Occhi Oscuri,desc,"Puoi scartare questa carta, poi attivare 1 di questi effetti (ma puoi utilizzare ciascuno di questi effetti di ""Mago Illusionista Senza Volto Occhi Oscuri"" una sola volta per turno);
-● Metti 1 ""Scansione Mentale"" dalla tua mano o Deck scoperta sul tuo Terreno.
-● Aggiungi 1 altro mostro dal tuo Cimitero alla tua mano che menziona ""Mondo Toon"", poi puoi Evocarlo Specialmente ignorando le sue condizioni di Evocazione.
-Se questa carta combatte contro un mostro, nessuno dei due può essere distrutto in quella battaglia."
-100261004,Mago Illusionista Senza Volto Occhi Oscuri,str1,Scarta
-100261004,Mago Illusionista Senza Volto Occhi Oscuri,str2,Posizionare una Carta Trappola
-100261004,Mago Illusionista Senza Volto Occhi Oscuri,str3,Recuperare un mostro
-100261004,Mago Illusionista Senza Volto Occhi Oscuri,str4,Evocazione Speciale?
-100261005,Drago Toon Occhi Blu Finale,name,Drago Toon Occhi Blu Finale
-100261005,Drago Toon Occhi Blu Finale,desc,"""Drago Toon Occhi Blu"" + 2 mostri Toon
-Deve essere Evocato Specialmente (dal tuo Extra Deck) mischiando nel Deck/Extra Deck le carte sopra elencate dalla tua mano, Terreno e/o Cimitero.
-I tuoi mostri Toon possono attaccare direttamente.
-Una volta per turno: puoi aggiungere alla tua mano 1 carta ""Toon"", o 1 carta che menziona il nome di una carta ""Toon"", dal tuo Cimitero.
-Durante il calcolo dei danni, se un tuo mostro Toon è attaccato: puoi bandirlo fino alla fine del Damage Step."
-100261005,Drago Toon Occhi Blu Finale,str2,Recuperare
-100261005,Drago Toon Occhi Blu Finale,str3,Bandire
-100261006,Mondo Toon il Mondo Perfetto,name,Mondo Toon il Mondo Perfetto
-100261006,Mondo Toon il Mondo Perfetto,desc,"Il nome di questa carta diventa ""Mondo Toon"" mentre è nella Zona Terreno.
-Una volta per turno: puoi aggiungere alla tua mano 1 carta ""Toon"", o 1 carta che menziona il nome di una carta ""Toon"", dal tuo Deck. Puoi utilizzare questo effetto di ""Mondo Toon il Mondo Perfetto"" fino a tre volte per turno.
-Prima di risolvere un'altra carta o effetto attivato, puoi bandire 1 mostro Toon che controlli fino a immediatamente dopo che quella carta/effetto si è risolto, inoltre non puoi bandire mostri con lo stesso nome originale con questo effetto di ""Mondo Toon il Mondo Perfetto"" per il resto di questo turno."
-100261006,Mondo Toon il Mondo Perfetto,str2,Aggiungere alla mano
-100261006,Mondo Toon il Mondo Perfetto,str4,Bandire il mostro?
-100261007,Scansione Mentale,name,Scansione Mentale
-100261007,Scansione Mentale,desc,"Finché hai una carta ""Toon"" nel tuo Terreno o Cimitero, il tuo avversario deve tenere la sua mano rivelata, inoltre puoi guardare le sue carte Posizionate in qualsiasi momento.
-Se hai un mostro Toon e una Magia ""Toon"" nel tuo Terreno e/o Cimitero: puoi dichiarare il nome di 1 carta che non è tra le carte e/o effetti attivati in questa Catena; annulla gli effetti attivati delle carte con quel nome originale fino alla fine di questo turno, mentre questa carta è scoperta sul Terreno. Puoi utilizzare questo effetto di ""Scansione Mentale"" una sola volta per turno."
-100261007,Scansione Mentale,str2,Dichiarare
-100261023,Stregartigiana Terracottan,name,Stregartigiana Terracottan
-100261023,Stregartigiana Terracottan,desc,"Se questa carta è nella tua mano: puoi scegliere come bersaglio 1 carta ""Stregartigiana"" nel tuo Cimitero, eccetto ""Stregartigiana Terracottan""; aggiungila alla tua mano, e se lo fai, Evoca Specialmente questa carta, inoltre non puoi Evocare Specialmente dall'Extra Deck per il resto di questo turno, eccetto mostri ""Stregartigiana"".
-Durante la tua Main Phase: puoi Evocare tramite Fusione 1 Mostro Fusione ""Stregartigiana"" dal tuo Extra Deck, utilizzando mostri dalla tua mano o Terreno.
-Puoi utilizzare ogni effetto di ""Stregartigiana Terracottan"" una sola volta per turno."
-100261023,Stregartigiana Terracottan,str1,Evocazione Speciale
-100261023,Stregartigiana Terracottan,str2,Evocazione tramite Fusione
-100261024,Stregartigiana Marka,name,Stregartigiana Marka
-100261024,Stregartigiana Marka,desc,"Puoi offrire come Tributo questa carta dalla tua mano o Terreno; aggiungi 1 Magia Terreno ""Stregartigiana"" o 1 Magia/Trappola Continua ""Stregartigiana"" dal tuo Deck alla tua mano.
-Se uno o più mostri ""Stregartigiana"" scoperti che controlli lasciano il Terreno a causa dell'effetto di una carta del tuo avversario, mentre questa carta è nel tuo Cimitero: puoi Evocare Specialmente questa carta (ma bandiscila quando lascia il Terreno), e se lo fai, offri come Tributo 1 mostro che il tuo avversario controlla.
-Puoi utilizzare ciascun effetto di ""Stregartigiana Marka"" una sola volta per turno."
-100261024,Stregartigiana Marka,str1,Aggiungere alla mano
-100261024,Stregartigiana Marka,str2,Evocazione Speciale
-100261025,Stregartigiana Madame Rilliona,name,Stregartigiana Madame Rilliona
-100261025,Stregartigiana Madame Rilliona,desc,"""Stregartigiana Madame Verre"" + 2 mostri Incantatore
-Se questa carta è Evocata per Fusione: puoi Evocare Specialmente fino a 3 mostri ""Stregartigiana"" di Livello 7 o inferiore con Attributi diversi tra loro dalla tua mano e/o Deck, inoltre non puoi Evocare Specialmente dall'Extra Deck per il resto di questo turno, eccetto Mostri Fusione.
-Durante la tua End Phase, se questa carta è nel tuo Cimitero: puoi rivelare 1 Magia nella tua mano; Evoca Specialmente questa carta in Posizione di Difesa.
-Puoi utilizzare ogni effetto di ""Stregartigiana Madame Rilliona"" una sola volta per turno."
-100261025,Stregartigiana Madame Rilliona,str1,Evoca Specialmente dal Deck
-100261025,Stregartigiana Madame Rilliona,str2,Evocare Specialmente questa carta
-100261026,Allieve Stregartigiana,name,Allieve Stregartigiana
-100261026,Allieve Stregartigiana,desc,"1 mostro ""Stregartigiana"" + 1 mostro Incantatore
-Durante la Main Phase o la Battle Phase (Effetto Rapido): puoi attivare 1 di questi effetti;
-● Aggiungi 1 Magia ""Stregartigiana"" dal tuo Deck alla tua mano.
-● Rivela 1 Magia Normale o Magia Rapida ""Stregartigiana"" nella tua mano; applica l'effetto di attivazione di quella Magia.
-Durante la tua End Phase: puoi far ritornare 1 delle tue carte ""Stregartigiana"" bandite al Cimitero.
-Puoi utilizzare ciascun effetto di ""Allieve Stregartigiana"" una sola volta per turno."
-100261026,Allieve Stregartigiana,str1,Attiva
-100261026,Allieve Stregartigiana,str2,Tornare al Cimitero
-100261026,Allieve Stregartigiana,str3,Effetto di aggiunta alla mano
-100261026,Allieve Stregartigiana,str4,Copia effetto
-100261027,Celebrazione Stregartigiana,name,Celebrazione Stregartigiana
-100261027,Celebrazione Stregartigiana,desc,"Attiva 1 di questi effetti;
-● Distruggi 1 mostro ""Stregartigiana"" che controlli e 1 carta che il tuo avversario controlla.
-● Evoca per Fusione 1 Mostro Fusione ""Stregartigiana"" dal tuo Extra Deck, mischiando mostri Incantatore dal tuo Cimitero e/o banditi nel Deck.
-Durante la tua End Phase, se controlli un mostro ""Stregartigiana"", mentre questa carta è nel tuo Cimitero: puoi aggiungere questa carta alla tua mano.
-Puoi utilizzare solo 1 effetto di ""Celebrazione Stregartigiana"" per turno, e solo una volta in quel turno."
-100261027,Celebrazione Stregartigiana,str1,Attiva
-100261027,Celebrazione Stregartigiana,str2,Aggiungere alla mano
-100261027,Celebrazione Stregartigiana,str3,Effetto di distruzione
-100261027,Celebrazione Stregartigiana,str4,Evocazione tramite Fusione
-100261028,Walpurgis Stregartigiana,name,Walpurgis Stregartigiana
-100261028,Walpurgis Stregartigiana,desc,"Durante la tua Main Phase: puoi aggiungere 1 mostro ""Stregartigiana"" dal tuo Deck alla tua mano, poi scarta 1 carta. Puoi utilizzare questo effetto di ""Stregartigiana Walpurgis"" una sola volta per turno.
-Durante il tuo turno, se dovessi scartare per attivare l'effetto di un mostro ""Stregartigiana"" che controlli, puoi invece mandare 1 Magia/Trappola ""Stregartigiana"" dal tuo Deck al Cimitero, eccetto ""Walpurgis Stregartigiana""."
-100261028,Walpurgis Stregartigiana,str1,Aggiungere alla mano
-100261029,Distorsione Stregartigiana,name,Distorsione Stregartigiana
-100261029,Distorsione Stregartigiana,desc,"Quando una Carta Magia/Trappola, o un effetto di mostro, viene attivato e controlli un mostro ""Stregartigiana"" di Livello 5 o superiore: annulla l'attivazione, e se lo fai, distruggi quella carta.
-Se questa carta è nel tuo Cimitero, eccetto nel turno in cui è stata mandata lì: puoi bandirla; aggiungi 1 mostro Incantatore di Livello 5 o superiore dal tuo Deck alla tua mano, poi scarta 1 carta.
-Puoi utilizzare ogni effetto di ""Distorsione Stregartigiana"" una sola volta per turno."
-100261029,Distorsione Stregartigiana,str1,Attiva
-100261029,Distorsione Stregartigiana,str2,Aggiungere alla mano
-100261047,Orco Svincolato Shara,name,Orco Svincolato Shara
-100261047,Orco Svincolato Shara,desc,"Durante la Main Phase (Effetto Rapido): puoi scartare questa carta; Evoca Specialmente 1 mostro Demone dalla tua mano, poi distruggi 1 carta che controlli.
-Se una o più carte sul Terreno vengono distrutte dall'effetto di una carta, eccetto dall'effetto di ""Orco Svincolato Shara"", o in battaglia, mentre questa carta è nel tuo Cimitero: puoi Evocare Specialmente questa carta (ma mettila in fondo al Deck quando lascia il Terreno) oppure aggiungerla alla tua mano.
-Puoi utilizzare ciascun effetto di ""Orco Svincolato Shara"" una sola volta per turno."
-100261047,Orco Svincolato Shara,str1,Evocazione Speciale
-100261047,Orco Svincolato Shara,str2,Recuperare
-100261048,Orco Svincolato Shma,name,Orco Svincolato Shma
-100261048,Orco Svincolato Shma,desc,"Se questa carta viene Evocata Normalmente: puoi Evocare Specialmente 1 mostro ""Svincolato"" di Livello 4 o inferiore dal tuo Deck, eccetto ""Orco Svincolato Shma"", poi distruggi 1 carta che controlli, inoltre per il resto di questo turno non puoi Evocare Specialmente, eccetto mostri Demone.
-Se questa carta sul Terreno viene distrutta dall'effetto di una carta, eccetto ""Orco Svincolato Shma"", o in battaglia: puoi Evocare Specialmente 1 mostro ""Svincolato"" dalla tua mano o Deck, eccetto ""Orco Svincolato Shma"".
-Puoi utilizzare ciascun effetto di ""Orco Svincolato Shma"" una sola volta per turno."
-100261048,Orco Svincolato Shma,str1,Evoca Specialmente dal Deck
-100261048,Orco Svincolato Shma,str2,Evocare Specialmente dalla tua mano/Deck
-100261049,Kamura Magistrato Malevolo Svincolato,name,Kamura Magistrato Malevolo Svincolato
-100261049,Kamura Magistrato Malevolo Svincolato,desc,"Puoi scegliere come bersaglio fino a 3 carte che controlli; distruggile, e se lo fai, Evoca Specialmente questa carta dalla tua mano, poi puoi applicare i seguenti effetti, in sequenza, in base ai tipi originali delle carte distrutte.
-● Mostro: Pesca 1 carta.
-● Magia: Cambia la posizione di battaglia di 1 mostro sul Terreno.
-● Trappola: Distruggi 1 altra carta sul Terreno.
-Se questa carta sul Terreno viene distrutta dall'effetto di una carta: Puoi distruggere tutti i mostri sul Terreno.
-Puoi utilizzare ciascun effetto di ""Kamura Magistrato Malevolo Svincolato"" una sola volta per turno."
-100261049,Kamura Magistrato Malevolo Svincolato,str1,Evocazione Speciale
-100261049,Kamura Magistrato Malevolo Svincolato,str2,Effetto di distruzione
-100261049,Kamura Magistrato Malevolo Svincolato,str3,Pescare 1 carta?
-100261049,Kamura Magistrato Malevolo Svincolato,str4,Cambiare la posizione di combattimento?
-100261049,Kamura Magistrato Malevolo Svincolato,str5,Distruggere?
-100261050,Signore Enma Yama Svincolato,name,Signore Enma Yama Svincolato
-100261050,Signore Enma Yama Svincolato,desc,"2+ mostri, compreso un mostro ""Anima Svincolata""
-Durante la tua End Phase: puoi scegliere come bersaglio fino a 2 mostri Demone nel tuo Cimitero che sono stati distrutti e mandati lì in questo turno; Evocali Specialmente, ma non puoi Evocare Specialmente, eccetto mostri Demone, mentre controlli uno qualsiasi di quei mostri scoperti.
-Se questa carta sul Terreno starebbe per essere distrutta in battaglia o dall'effetto di una carta, puoi invece distruggere 1 carta scoperta in uno qualsiasi dei Terreni.
-Puoi utilizzare ciascun effetto di ""Signore Enma Yama Svincolato"" una sola volta per turno."
-100261050,Signore Enma Yama Svincolato,str1,Evocazione Speciale
-100261050,Signore Enma Yama Svincolato,str3,"Evocato Specialmente tramite l'effetto di ""Signore Enma Yama Svincolato"""
-100261051,Anima Svincolata Abominatore dell'Ira,name,Anima Svincolata Abominatore dell'Ira
-100261051,Anima Svincolata Abominatore dell'Ira,desc,"2+ mostri, compreso un mostro Demone
-Se il tuo avversario Evoca Specialmente uno o più mostri scoperti: puoi scegliere come bersaglio 1 di essi; distruggi 1 mostro Demone che controlli, e se lo fai, annulla gli effetti del mostro scelto come bersaglio fino alla fine di questo turno.
-Quando viene attivato l'effetto di un mostro sul Terreno e controlli un Mostro Link ""Svincolato"" Link-4 o superiore (Effetto Rapido): puoi bandire questa carta dal tuo Cimitero; distruggi il mostro che ha attivato quell'effetto.
-Puoi utilizzare ciascun effetto di ""Anima Svincolata Abominatore dell'Ira"" una sola volta per turno."
-100261051,Anima Svincolata Abominatore dell'Ira,str1,Annullare
-100261051,Anima Svincolata Abominatore dell'Ira,str2,Distruggere
-100261052,Reincarnazione degli Svincolati,name,Reincarnazione degli Svincolati
-100261052,Reincarnazione degli Svincolati,desc,"Quando questa carta viene attivata: Puoi aggiungere 1 Magia ""Svincolato"" (eccetto ""Reincarnazione degli Svincolati"") o 1 ""Prigione dell'Abominio"" dal tuo Deck alla tua mano.
-Una volta per turno: Puoi scegliere come bersaglio fino a 3 carte ""Svincolato"" nel tuo Cimitero, eccetto ""Reincarnazione degli Svincolati""; mischiale nel Deck, poi puoi distruggere altre carte che controlli fino al numero di carte mischiate.
-Puoi attivare solo 1 ""Reincarnazione degli Svincolati"" per turno."
-100261052,Reincarnazione degli Svincolati,str1,Aggiungere alla mano?
-100261052,Reincarnazione degli Svincolati,str2,Effetto di recupero
-100261052,Reincarnazione degli Svincolati,str3,Distruggere la carta?
-100261053,Sincretismo Svincolato,name,Sincretismo Svincolato
-100261053,Sincretismo Svincolato,desc,"Scegli come bersaglio 2 mostri scoperti sul Terreno, compreso un Mostro Link ""Anima Svincolata"" che controlli; immediatamente dopo che questo effetto si è risolto, Evoca tramite Link 1 mostro Demone utilizzando solo quei 2 mostri.
-Se questa carta Posizionata viene distrutta dall'effetto di una carta: puoi Evocare Specialmente 1 mostro ""Svincolato"" dal tuo Deck.
-Puoi utilizzare ciascun effetto di ""Sincretismo Svincolato"" una sola volta per turno."
-100261053,Sincretismo Svincolato,str1,Evocazione Link
-100261053,Sincretismo Svincolato,str2,Evocazione Speciale
+100262101,Zeta Il Re Magico della Dimensione,name,Zeta Il Re Magico della Dimensione
+100262101,Zeta Il Re Magico della Dimensione,desc,"L'Osservatore del Vuoto. Attraverso ogni frattura e distorsione dello spazio-tempo, contempla ogni cosa esistente. Fai attenzione. Ogni volta che scruti nei sogni, Zeta scruta a sua volta nel tuo mondo."
 100263001,Tiranno Oscuro,name,Tiranno Oscuro
 100263001,Tiranno Oscuro,desc,"Può attaccare direttamente se tutti i mostri che il tuo avversario controlla sono in Posizione di Difesa. 
 Puoi utilizzare ognuno dei seguenti effetti di ""Tiranno Oscuro"" una sola volta per turno.
@@ -268,22 +111,6 @@ Puoi attivare solo 1 ""D - Esplosione"" per turno."
 100263010,D - Esplosione,str1,Pescare
 100263010,D - Esplosione,str2,Effettuare un altro attacco
 100263010,D - Esplosione,str3,Evocazione Speciale?
-100264002,Origine dell'Arcidemone,name,Origine dell'Arcidemone
-100264002,Origine dell'Arcidemone,desc,"Se questa carta è nella tua mano: puoi offrire come Tributo 1 altro mostro ""Arcidemone"" dalla tua mano o Terreno; Evoca Specialmente questa carta.
-Se questa carta viene Evocata Normalmente o Specialmente: puoi Evocare Specialmente 1 mostro Demone di Livello 6 con 2500 ATK dalla tua mano, Deck o Cimitero.
-Quando il tuo avversario attiva l'effetto di un mostro e controlli ""Teschio Evocato"" (Effetto Rapido): puoi annullare l'attivazione e, se lo fai, distruggere quella carta.
-Puoi utilizzare ciascun effetto di ""Origine dell'Arcidemone"" una sola volta per turno."
-100264002,Origine dell'Arcidemone,str1,Evocare Specialmente questa carta
-100264002,Origine dell'Arcidemone,str2,Evocazione Speciale
-100264002,Origine dell'Arcidemone,str3,Annulla e distruggi
-100264003,Makourai il Fulmine Devastante,name,Makourai il Fulmine Devastante
-100264003,Makourai il Fulmine Devastante,desc,"(Questa carta è sempre considerata come una carta ""Arcidemone"".)
-Scegli come bersaglio 1 mostro ""Arcidemone"" che controlli; esso guadagna 600 ATK, poi puoi distruggere tutti i mostri che il tuo avversario controlla con ATK originale inferiore all'ATK di quel mostro.
-Durante la tua Main Phase: puoi bandire questa carta dal tuo Cimitero, poi scegliere come bersaglio 1 mostro Demone di Livello 6 con 2500 ATK nel tuo Cimitero; aggiungilo alla tua mano.
-Puoi utilizzare ciascun effetto di ""Makourai il Fulmine Devastante"" una sola volta per turno."
-100264003,Makourai il Fulmine Devastante,str1,Attiva
-100264003,Makourai il Fulmine Devastante,str2,Recuperare
-100264003,Makourai il Fulmine Devastante,str3,Distruggere quel mostro?
 100265002,Stregartigiana Seed,name,Stregartigiana Seed
 100265002,Stregartigiana Seed,desc,"Se questa carta viene Evocata Normalmente o Specialmente e controlli un mostro ""Stregartigiana"" diverso da ""Stregartigiana Seed"", o ""Regulus, Principe di Endymion"": Puoi scegliere come bersaglio 1 carta scoperta sul Terreno; falla ritornare alla mano.
 Puoi bandire questa carta dal tuo Cimitero; rivela un qualsiasi numero di carte nella tua mano, inclusa una Magia, e mischiale nel Deck, poi pesca lo stesso numero di carte.
@@ -311,6 +138,17 @@ In uno qualsiasi dei seguenti momenti: annulla gli effetti di quante più carte 
 ● Quando il tuo avversario attiva un effetto di un mostro nella mano o sul Terreno durante il tuo turno."
 100266002,Forza Riflessa Mentale,str1,Attiva
 100266002,Forza Riflessa Mentale,str2,"Attivare applicando l'effetto di ""Forza Riflessa Mentale""."
+100266003,Emissari dall'Oscurità,name,Emissari dall'Oscurità
+100266003,Emissari dall'Oscurità,desc,"Se subisci danno da battaglia o da effetto: puoi Evocare Specialmente questa carta dalla tua mano e, se lo fai, guadagni 2000 LP, poi puoi applicare 1 di questi effetti.
+● Evoca Specialmente 1 ""Emissari dall'Oscurità"" dalla tua mano, Deck o Cimitero.
+● Distruggi fino a 2 mostri in Posizione di Attacco controllati dal tuo avversario.
+Durante la End Phase, se questa carta è stata Evocata Specialmente in questo turno: puoi scegliere come bersaglio 1 Trappola nel tuo Cimitero; Posizionala.
+Puoi utilizzare ogni effetto di ""Emissari dall'Oscurità"" una sola volta per turno."
+100266003,Emissari dall'Oscurità,str1,Evocazione Speciale
+100266003,Emissari dall'Oscurità,str2,Posiziona una Trappola
+100266003,Emissari dall'Oscurità,str3,Evocazione Speciale
+100266003,Emissari dall'Oscurità,str4,Effetto di distruzione
+100266003,Emissari dall'Oscurità,str5,Non fare nulla
 101305081,Testimone dell'Antico,name,Testimone dell'Antico
 101305081,Testimone dell'Antico,desc,"Se hai un Mostro Synchro sul tuo Terreno o nel tuo Cimitero: puoi Evocare Specialmente questa carta dalla tua mano.
 Se questa carta viene Evocata Specialmente: puoi posizionare fino a 3 Mostri Synchro con nomi diversi dal tuo Extra Deck e/o Cimitero nella tua Zona Magie & Trappole come Magie Continue scoperte ed Evocare Specialmente 1 ""Segna-Arco"" (Macchina/LUCE/ATK 0/DEF 0) con un Livello pari al numero di carte posizionate, inoltre per il resto di questo turno non puoi Evocare Specialmente dall'Extra Deck, eccetto Mostri Synchro. 
