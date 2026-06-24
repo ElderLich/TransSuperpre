@@ -1,7 +1,13 @@
 [
   {
-    "name": "Oso Padre",
-    "desc": "Si esta carta es destruida en batalla y mandada al Cementerio: puedes Invocar de Modo Especial 1 monstruo de Nivel 4 con 1400 ATK desde tu Deck. Si tienes dos o más monstruos con 1400 ATK en tu Cementerio, puedes Invocar de Modo Especial un Monstruo Normal en su lugar. \r\nSi controlas un Monstruo que no sea de Efecto boca arriba cuando tu adversario activa un efecto de monstruo, puedes desterrar esta carta en tu Cementerio; niega la activación y destruye esa carta. \r\nSólo puedes usar este efecto de \"Oso Padre\" una vez por turno.",
+    "name": "Emisarios de la Oscuridad",
+    "desc": "Si recibes daño de batalla o de efecto: puedes Invocar esta carta de Modo Especial desde tu mano y, si lo haces, ganas 2000 LP, y después puedes aplicar 1 de los siguientes efectos;\r\n● Invoca de Modo Especial 1 \"Emisarios de la Oscuridad\" desde tu mano, Deck o Cementerio.\r\n● Destruye hasta 2 monstruos en Posición de Ataque que controle tu adversario.\t\r\nDurante la End Phase, si esta carta fue Invocada de Modo Especial este turno: puedes seleccionar 1 Trampa en tu Cementerio; Colócala. \r\nSólo puedes usar cada efecto de \"Emisarios de la Oscuridad\" una vez por turno.\r\n",
+    "overallString": "[Monstruo|Efecto] Demonio/OSCURIDAD  [★7] 2700/2500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100266003.jpg?version=19.7"
+  },
+  {
+    "name": "Padre Oso Pardo",
+    "desc": "Si esta carta es destruida en batalla y mandada al Cementerio: puedes Invocar de Modo Especial 1 monstruo de Nivel 4 con 1400 ATK desde tu Deck. Si tienes dos o más monstruos con 1400 ATK en tu Cementerio, puedes Invocar de Modo Especial un Monstruo Normal en su lugar. \r\nSi controlas un Monstruo que no sea de Efecto boca arriba cuando tu adversario activa un efecto de monstruo, puedes desterrar esta carta en tu Cementerio; niega la activación y destruye esa carta. \r\nSólo puedes usar este efecto de \"Padre Oso Pardo\" una vez por turno.",
     "overallString": "[Monstruo|Efecto] Guerrero Bestia/AGUA  [★4] 1400/1000",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306032.jpg?version=19.7"
   },
@@ -157,7 +163,7 @@
   },
   {
     "name": "Yoa, la Deidad de la Plaga de Asutra",
-    "desc": "Puedes Invocar esta carta de Modo Especial (desde tu mano) revelando 1 carta Colocada que controles y devolviéndola a la mano o al Deck Extra. \r\nSólo puedes Invocar de Modo Especial \"Yoa, la Deidad de la Plaga de Asutra\" una vez por turno de esta forma. \r\nDurante tu Main Phase: puedes Colocar 1 Mágica/Trampa \"Asutra\" desde tu Deck. \r\nDurante el turno de tu adversario (Efecto Rápido): puedes seleccionar 1 monstruo boca arriba en el Campo; aumenta o reduce su Nivel en 1. \r\nSólo puedes usar cada efecto de \"Yoa, la Deidad de la Plaga de Asutra\" una vez por turno.",
+    "desc": "Puedes Invocar esta carta de Modo Especial (desde tu mano) revelando 1 carta Colocada que controles y devolviéndola a la mano o al Deck Extra. \r\nSólo puedes Invocar de Modo Especial \"Yoa, la Deidad de la Plaga de Asutra\" una vez por turno de esta forma. \r\nDurante tu Main Phase: puedes Colocar 1 Mágica/Trampa \"Asutra\" desde tu Deck. \r\n(Efecto Rápido): Durante el turno de tu adversario: puedes seleccionar 1 monstruo boca arriba en el Campo; aumenta o reduce su Nivel en 1. \r\nSólo puedes usar cada efecto de \"Yoa, la Deidad de la Plaga de Asutra\" una vez por turno.",
     "overallString": "[Monstruo|Efecto] Lanzador de Conjuros/VIENTO  [★7] 2400/1500",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306011.jpg?version=19.7"
   },
@@ -294,28 +300,10 @@
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306063.jpg?version=19.7"
   },
   {
-    "name": "Cápsula de Monstruos Ajedrez",
-    "desc": "Durante la Main Phase: el jugador en turno puede seleccionar 1 monstruo en su Cementerio; lo coloca boca arriba en su Zona de Mágicas y Trampas como una Mágica Continua. \r\nDurante la End Phase: el jugador en turno puede mandar al Cementerio 1 Carta de Monstruo boca arriba que controle; Invoca de Modo Especial 1 monstruo desde su Deck con el mismo Tipo y Atributo original que ese monstruo, pero hasta 3 Niveles más alto que su Nivel original. \r\nSólo puedes usar cada uno de los efectos de \"Cápsula de Monstruos Ajedrez\" una vez por turno.",
-    "overallString": "[Mágica|Campo]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100200291.jpg?version=19.7"
-  },
-  {
     "name": "Swickelavee, la Caballería Pesada Brillantemente Coronada",
     "desc": "2 monstruos de Nivel 3\t\r\nUna vez por turno, también puedes Invocar Xyz a \"Swickelavee, la Caballería Pesada Brillantemente Coronada\" usando 1 monstruo Bestia que controles con 2000 ATK o menos (transfiere sus materiales). \r\nNo puede ser usado como material para una Invocación Xyz. \r\nSi esta carta destruye un monstruo en batalla: pon 1 Contador de Corona en ella, y después aplica este efecto basado en el número de Contadores de Corona que tenga;\r\n● 1: Esta carta gana 400 ATK.\r\n● 2: Esta carta gana 600 ATK.\r\n● 3: Devuelve esta carta al Deck Extra y, si lo haces, roba 3 cartas.",
     "overallString": "[Monstruo|Efecto|Xyz] Guerrero Bestia/LUZ  [☆3] 2000/2000",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306045.jpg?version=19.7"
-  },
-  {
-    "name": "Magistrado Malévolo Desencadenado de Kamura",
-    "desc": "Puedes seleccionar hasta 3 cartas que controles; destrúyelas y, si lo haces, Invoca esta carta de Modo Especial desde tu mano, y después puedes aplicar estos efectos, en secuencia, basados en los tipos originales de las cartas destruidas.\r\n● Monstruo: Roba 1 carta.\r\n● Mágica: Cambia la posición de batalla de 1 monstruo.\r\n● Trampa: Destruye 1 otra carta en el Campo.\t\r\nSi esta carta en el Campo es destruida por efecto de carta: puedes destruir todos los monstruos en el Campo. \r\nSólo puedes usar cada uno de los efectos de \"Magistrado Malévolo Desencadenado de Kamura\" una vez por turno.",
-    "overallString": "[Monstruo|Efecto] Demonio/OSCURIDAD  [★8] 2000/2500",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261049.jpg?version=19.7"
-  },
-  {
-    "name": "Reencarnación de los Desencadenados",
-    "desc": "Cuando esta carta se resuelve, puedes añadir a tu mano 1 Mágica \"Desencadenado/a\" excepto \"Reencarnación de los Desencadenados\" o 1 \"Prisión de la Abominación\" desde tu Deck. \r\nUna vez por turno: puedes seleccionar hasta 3 cartas \"Desencadenado/a\" en tu Cementerio, excepto \"Reencarnación de los Desencadenados\"; barájalas al Deck, y después puedes destruir otras cartas que controles hasta el número de cartas barajadas. \r\nSólo puedes activar 1 \"Reencarnación de los Desencadenados\" por turno.",
-    "overallString": "[Mágica|Continua]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261052.jpg?version=19.7"
   },
   {
     "name": "Elfo Pura Sangre",
@@ -372,26 +360,8 @@
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306062.jpg?version=19.7"
   },
   {
-    "name": "Origen del Archidemonio",
-    "desc": "Si esta carta está en tu mano: puedes Sacrificar otro monstruo \"Archidemonio\" en tu mano o Campo; Invoca esta carta de Modo Especial. \r\nSi esta carta es Invocada de Modo Normal o Especial: puedes Invocar de Modo Especial 1 monstruo Demonio de Nivel 6 con 2500 ATK desde tu mano, Deck o Cementerio. \r\nCuando tu adversario activa un efecto de monstruo, mientras controlas \"Cráneo Convocado\" (Efecto Rápido): puedes negar la activación y, si lo haces, destruye esa carta. \r\nSólo puedes usar cada uno de los efectos de \"Origen del Archidemonio\" una vez por turno.",
-    "overallString": "[Monstruo|Efecto] Demonio/OSCURIDAD  [★7] 2500/1200",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100264002.jpg?version=19.7"
-  },
-  {
-    "name": "Relámpago del Archidemonio",
-    "desc": "Selecciona 1 monstruo \"Archidemonio\" que controles; gana 600 ATK, y después puedes destruir todos los monstruos que controle tu adversario cuyo ATK original sea menor que el ATK actual de ese monstruo. \r\nDurante la Main Phase: puedes desterrar esta carta en el Cementerio, y después seleccionar 1 monstruo Demonio de Nivel 6 con 2500 ATK en tu Cementerio; añádelo a tu mano. \r\nSólo puedes usar cada uno de los efectos de \"Relámpago del Archidemonio\" una vez por turno.",
-    "overallString": "[Mágica|Juego Rápido]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100264003.jpg?version=19.7"
-  },
-  {
-    "name": "Escenario del Destino",
-    "desc": "Puedes activar esta carta desde tu mano revelando 1 Monstruo Normal en tu mano. \r\nInvoca de Modo Especial hasta 5 Monstruos Normales desde tu mano y/o Cementerio, y además por el resto de este turno, no puedes Invocar de Modo Especial desde el Deck Extra. \r\nSólo puedes activar 1 \"Escenario del Destino\" una vez por turno.",
-    "overallString": "[Trampa]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100200290.jpg?version=19.7"
-  },
-  {
     "name": "Guerrero Pantera Veloz",
-    "desc": "Sólo puedes usar el siguiente efecto de \"Guerrero Pantera Veloz\" una vez por turno. \r\n(Efecto Rápido): Durante la Main Phase, puedes Sacrificar otro monstruo en tu mano o Campo y aplicar uno de los siguientes efectos:\r\n● Invoca de Modo Especial 1 monstruo que mencione \"Mago del Tiempo Oscuro\", excepto \"Guerrero Pantera Veloz\", desde tu mano o Deck.\r\n● Manda al Cementerio 1 Carta Mágica/Trampa que mencione \"Mago del Tiempo Oscuro\" desde tu Deck.\t\r\nEsta carta no puede declarar un ataque a menos que un monstruo haya sido Sacrificado este turno.",
+    "desc": "Sólo puedes usar el siguiente efecto de \"Guerrero Pantera Veloz\" una vez por turno. \r\n(Efecto Rápido): Durante la Main Phase: puedes Sacrificar otro monstruo en tu mano o Campo y aplicar uno de los siguientes efectos;\r\n● Invoca de Modo Especial 1 monstruo que mencione \"Mago del Tiempo Oscuro\", excepto \"Guerrero Pantera Veloz\", desde tu mano o Deck.\r\n● Manda al Cementerio 1 Carta Mágica/Trampa que mencione \"Mago del Tiempo Oscuro\" desde tu Deck.\t\r\nEsta carta no puede declarar un ataque a menos que un monstruo haya sido Sacrificado este turno.",
     "overallString": "[Monstruo|Efecto] Guerrero Bestia/TIERRA  [★4] 2000/1600",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306001.jpg?version=19.7"
   },
@@ -448,60 +418,6 @@
     "desc": "Durante la Standby Phase: lanza 1 dado y después pon contadores en esta carta igual al número obtenido (máx. 6). \r\nUna vez por turno, cuando se activa un efecto de monstruo en el Campo de tu adversario, o cuando un monstruo del adversario ataca, durante el cálculo de daño: puedes retirar 1 contador de esta carta y seleccionar 1 de esos monstruos del adversario; lanza una moneda y adivina cara o cruz. Si aciertas, Invoca de Modo Especial 1 monstruo que mencione \"Mago del Tiempo Oscuro\" desde tu Deck, y si lo haces, el ATK del monstruo seleccionado se convierte en 0 y sus efectos son negados hasta el final de este turno.",
     "overallString": "[Trampa|Continua]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306071.jpg?version=19.7"
-  },
-  {
-    "name": "Ogra Desencadenada de Shara",
-    "desc": "(Efecto Rápido): Durante la Main Phase: puedes descartar esta carta; Invoca de Modo Especial 1 monstruo Demonio desde tu mano, y después destruye 1 carta que controles. \r\nSi una carta en el Campo es destruida en batalla, o por un efecto de una carta \"Desencadenado/a\" que no sea \"Ogra Desencadenada de Shara\", mientras esta carta está en el Cementerio: puedes añadir esta carta a tu mano, o Invocarla de Modo Especial (pero si la Invocas de Modo Especial, colócala en el fondo del Deck cuando deje el Campo). \r\nSólo puedes usar cada uno de los efectos de \"Ogra Desencadenada de Shara\" una vez por turno.",
-    "overallString": "[Monstruo|Efecto] Demonio/FUEGO  [★4] 1500/2000",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261047.jpg?version=19.7"
-  },
-  {
-    "name": "Ogro Desencadenado de Shma",
-    "desc": "Si esta carta es Invocada de Modo Normal: puedes Invocar de Modo Especial 1 monstruo \"Desencadenado/a\" de Nivel 4 o menor desde tu Deck (excepto \"Ogro Desencadenado de Shma\"), y después destruye 1 carta que controles, y además por el resto de este turno, no puedes Invocar de Modo Especial, excepto monstruos Demonio. \r\nSi esta carta en el Campo es destruida en batalla, o por un efecto de una carta \"Desencadenado/a\" que no sea \"Ogro Desencadenado de Shma\": puedes Invocar de Modo Especial 1 monstruo \"Desencadenado/a\" desde tu mano o Deck, excepto \"Ogro Desencadenado de Shma\". \r\nSólo puedes usar cada uno de los efectos de \"Ogro Desencadenado de Shma\" una vez por turno.",
-    "overallString": "[Monstruo|Efecto] Demonio/AGUA  [★4] 1500/2000",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261048.jpg?version=19.7"
-  },
-  {
-    "name": "Enma Desencadenado Señor de Yama",
-    "desc": "2+ monstruos incluyendo un monstruo \"Alma Desencadenada\"\t\r\nDurante tu End Phase: puedes seleccionar hasta 2 monstruos Demonio en tu Cementerio que fueron destruidos este turno; Invócalos de Modo Especial, pero mientras están boca arriba en la Zona de Monstruos, no puedes Invocar de Modo Especial, excepto monstruos Demonio. \r\nSi esta carta en el Campo fuera a ser destruida en batalla o por efecto de carta, puedes destruir 1 carta boca arriba en cualquier Campo en su lugar. \r\nSólo puedes usar cada uno de los efectos de \"Enma Desencadenado Señor de Yama\" una vez por turno.",
-    "overallString": "[Monstruo|Efecto|Enlace] Demonio/OSCURIDAD  [LINK-4] 3000/-  [↑][↙][↓][↘]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261050.jpg?version=19.7"
-  },
-  {
-    "name": "Alma Desencadenada de Rabia Abominadora",
-    "desc": "2+ monstruos incluyendo un monstruo Demonio\t\r\nSi tu adversario Invoca de Modo Especial un monstruo boca arriba: puedes seleccionar 1 de ellos; destruye 1 monstruo Demonio que controles y, si lo haces, niega sus efectos hasta el final de este turno. \r\n(Efecto Rápido): Cuando se activa un efecto de monstruo en el Campo mientras controlas un monstruo \"Desencadenado/a\" de Link-4 o mayor: puedes desterrar esta carta en tu Cementerio; destruye ese monstruo. \r\nSólo puedes usar cada uno de los efectos de \"Alma Desencadenada de Rabia Abominadora\" una vez por turno.",
-    "overallString": "[Monstruo|Efecto|Enlace] Demonio/OSCURIDAD  [LINK-3] 2100/-  [←][→][↓]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261051.jpg?version=19.7"
-  },
-  {
-    "name": "Sincretismo Desencadenado",
-    "desc": "Selecciona 2 monstruos boca arriba en cualquier Campo, incluyendo 1 Monstruo de Enlace \"Desencadenado/a\" que controles; inmediatamente después de que este efecto se resuelva, Invoca por Enlace 1 Monstruo de Enlace \"Desencadenado/a\", usando sólo esos 2 monstruos como material. \r\nSi esta carta Colocada en el Campo es destruida: puedes Invocar de Modo Especial 1 monstruo \"Desencadenado/a\" desde tu Deck. \r\nSólo puedes usar cada uno de los efectos de \"Sincretismo Desencadenado\" una vez por turno.",
-    "overallString": "[Trampa]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261053.jpg?version=19.7"
-  },
-  {
-    "name": "Marka Artibruja",
-    "desc": "Puedes Sacrificar esta carta en tu mano o Campo; añade a tu mano 1 Mágica de Campo o Continua \"Artibruja\" desde tu Deck. \r\nSi uno o más monstruos \"Artibruja\" boca arriba que controles dejan el Campo por el efecto de una carta del adversario mientras esta carta está en tu Cementerio: puedes Invocar esta carta de Modo Especial (pero destiérrala cuando deje el Campo) y, si lo haces, Sacrifica 1 monstruo del adversario. \r\nSólo puedes usar cada uno de los efectos de \"Marka Artibruja\" una vez por turno.",
-    "overallString": "[Monstruo|Efecto] Lanzador de Conjuros/OSCURIDAD  [★6] 2500/0",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261024.jpg?version=19.7"
-  },
-  {
-    "name": "Artibruja Aprendices",
-    "desc": "1 monstruo \"Artibruja\" + 1 monstruo Lanzador de Conjuros\t\r\n(Efecto Rápido): Durante la Main Phase o Battle Phase: puedes activar 1 de estos efectos;\r\n● Añade a tu mano 1 Mágica \"Artibruja\" desde tu Deck.\r\n● Revela 1 Mágica Normal o de Juego Rápido \"Artibruja\" en tu mano; aplica el efecto de activación de esa Mágica.\t\r\nDurante tu End Phase: puedes devolver al Cementerio 1 de tus cartas \"Artibruja\" desterradas. \r\nSólo puedes usar cada uno de los efectos de \"Artibruja Aprendices\" una vez por turno.",
-    "overallString": "[Monstruo|Efecto|Fusión] Lanzador de Conjuros/FUEGO  [★8] 1800/2100",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261026.jpg?version=19.7"
-  },
-  {
-    "name": "Ilusionista sin Rostro de Ojos Oscuros",
-    "desc": "Puedes descartar esta carta para activar 1 de estos efectos (pero sólo puedes usar cada uno de estos efectos de \"Ilusionista sin Rostro de Ojos Oscuros\" una vez por turno);\r\n● Coloca 1 \"Escáner Mental\" desde tu mano o Deck boca arriba en tu Campo.\r\n● Añade a tu mano 1 monstruo que mencione \"Mundo Toon\" desde tu Cementerio, y después puedes Invocarlo de Modo Especial, ignorando sus condiciones de Invocación.\t\r\nSi esta carta batalla, ningún monstruo puede ser destruido en esa batalla.",
-    "overallString": "[Monstruo|Efecto] Ilusión/OSCURIDAD  [★4] 0/0",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261004.jpg?version=19.7"
-  },
-  {
-    "name": "Escáner Mental",
-    "desc": "Mientras haya una carta \"Toon\" en tu Campo o Cementerio, tu adversario debe jugar con su mano revelada todo el tiempo, y además puedes mirar sus cartas Colocadas. \r\nSi tienes un monstruo Toon y una Mágica \"Toon\" en tu Campo y/o Cementerio: puedes declarar 1 nombre de carta que no se haya activado en esta Cadena; mientras esta carta está boca arriba, hasta el final de este turno, niega los efectos activados de la carta declarada o de cartas con ese nombre original. \r\nSólo puedes usar este efecto de \"Escáner Mental\" una vez por turno.",
-    "overallString": "[Trampa|Continua]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261007.jpg?version=19.7"
   },
   {
     "name": "Tirano Oscuro",
@@ -564,69 +480,15 @@
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100263010.jpg?version=19.7"
   },
   {
-    "name": "Terracottan Artibruja",
-    "desc": "Si esta carta está en la mano: puedes seleccionar 1 carta \"Artibruja\" en tu Cementerio, excepto \"Terracottan Artibruja\"; añádela a tu mano y, si lo haces, Invoca esta carta de Modo Especial, pero no puedes Invocar de Modo Especial desde el Deck Extra por el resto de este turno, excepto monstruos \"Artibruja\". \r\nDurante tu Main Phase: puedes Invocar por Fusión 1 Monstruo de Fusión \"Artibruja\", usando monstruos de tu mano y/o Campo como material. \r\nSólo puedes usar cada uno de los efectos de \"Terracottan Artibruja\" una vez por turno.\r\n",
-    "overallString": "[Monstruo|Efecto] Lanzador de Conjuros/TIERRA  [★2] 0/2000",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261023.jpg?version=19.7"
-  },
-  {
-    "name": "Artibruja Madame Rilliona",
-    "desc": "\"Artibruja Madame Vidria\" + 2 Lanzadores de Conjuros\t\r\nSi esta carta es Invocada por Fusión: puedes Invocar de Modo Especial hasta 3 monstruos \"Artibruja\" de Nivel 7 o menor con diferentes Atributos desde tu mano y/o Deck, y además no puedes Invocar de Modo Especial desde el Deck Extra por el resto de este turno, excepto Monstruos de Fusión. \r\nDurante tu End Phase, si esta carta está en tu Cementerio: puedes revelar 1 Mágica en tu mano; Invoca esta carta de Modo Especial en Posición de Defensa. \r\nSólo puedes usar cada uno de los efectos de \"Artibruja Madame Rilliona\" una vez por turno.",
-    "overallString": "[Monstruo|Efecto|Fusión] Lanzador de Conjuros/LUZ  [★8] 3800/2800",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261025.jpg?version=19.7"
-  },
-  {
-    "name": "Celebración Artibruja",
-    "desc": "Puedes usar uno de los siguientes efectos:\r\n● Destruye 1 monstruo \"Artibruja\" que controles y 1 carta que controle tu adversario.\r\n● Puedes Invocar por Fusión 1 Monstruo de Fusión \"Artibruja\" barajando al Deck monstruos Artibruja desde tu Cementerio y destierro.\t\r\nDurante tu End Phase, si esta carta está en tu Cementerio mientras controlas un monstruo \"Artibruja\", puedes: añadir esta carta a tu mano. \r\nSólo puedes usar 1 de los efectos de \"Celebración Artibruja\" por turno, y sólo una vez ese turno.",
-    "overallString": "[Mágica|Juego Rápido]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261027.jpg?version=19.7"
-  },
-  {
-    "name": "Walpurgis Artibruja",
-    "desc": "Durante tu Main Phase, puedes: añade a tu mano 1 monstruo \"Artibruja\" desde tu Deck, y después descarta 1 carta. \r\nSólo puedes usar este efecto de \"Walpurgis Artibruja\" una vez por turno. \r\nDurante tu turno, si fueras a descartar una carta para activar el efecto de un monstruo \"Artibruja\", puedes en su lugar mandar al Cementerio 1 Carta Mágica/Trampa \"Artibruja\" desde tu Deck, excepto \"Walpurgis Artibruja\".",
-    "overallString": "[Mágica|Campo]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261028.jpg?version=19.7"
-  },
-  {
-    "name": "Distorsión Artibruja",
-    "desc": "Cuando tu adversario activa una Carta Mágica/Trampa o un efecto de monstruo, y controlas un monstruo \"Artibruja\" de Nivel 5 o mayor: niega la activación y, si lo haces, destruye esa carta. \r\nExcepto en el turno en que esta carta fue mandada al Cementerio: puedes desterrar esta carta en el Cementerio; añade a tu mano 1 monstruo Lanzador de Conjuros de Nivel 5 o mayor desde tu Deck, y después descarta 1 carta. \r\nSólo puedes usar cada uno de los efectos de \"Distorsión Artibruja\" una vez por turno.",
-    "overallString": "[Trampa|Contraefecto]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261029.jpg?version=19.7"
-  },
-  {
-    "name": "Conejo Oscuro Divertido",
-    "desc": "(Esta carta se trata como un monstruo Toon mientras \"Mundo Toon\" está en el Campo).\t\r\nDespués de que esta carta sea Invocada de Modo Normal o Especial, durante tu Main Phase este turno, puedes Invocar de Modo Normal 1 monstruo que mencione \"Mundo Toon\" además de tu Invocación Normal/Colocada (sólo puedes ganar este efecto una vez por turno). \r\nUna vez por turno: puedes añadir a tu mano o Colocar boca arriba en tu Campo, 1 Mágica de Campo \"Toon\" o Mágica Continua \"Toon\" desde tu Deck.",
-    "overallString": "[Monstruo|Efecto] Bestia/OSCURIDAD  [★4] 1100/1500",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261001.jpg?version=19.7"
-  },
-  {
-    "name": "Gato Cómico",
-    "desc": "(Esta carta se trata como un monstruo Toon mientras \"Mundo Toon\" está en el Campo).\t\r\n(Efecto Rápido): Durante la Main Phase: puedes Sacrificar 1 monstruo (si controlas \"Mundo Toon\", puedes Sacrificar 1 monstruo del adversario, aunque no lo controles), y si lo haces, Invoca de Modo Especial 1 monstruo desde tu mano o Deck que mencione \"Mundo Toon\", ignorando sus condiciones de Invocación. \r\nSólo puedes usar este efecto de \"Gato Cómico\" una vez por turno.",
-    "overallString": "[Monstruo|Efecto] Bestia/OSCURIDAD  [★1] 0/0",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261002.jpg?version=19.7"
-  },
-  {
-    "name": "Caja Malvada",
-    "desc": "(Esta carta se trata como un monstruo Toon mientras \"Mundo Toon\" está en el Campo).\t\r\nSi controlas \"Mundo Toon\": puedes Invocar esta carta de Modo Especial desde tu mano, y después puedes añadir a tu mano, o Colocar, 1 Trampa \"Toon\" desde tu Deck. \r\nSólo puedes usar este efecto de \"Caja Malvada\" una vez por turno. \r\nUna vez por turno (Efecto Rápido): puedes seleccionar 1 carta en cualquier Cementerio; colócala en el fondo del Deck.",
-    "overallString": "[Monstruo|Efecto] Demonio/OSCURIDAD  [★6] 2300/2000",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261003.jpg?version=19.7"
-  },
-  {
-    "name": "Dragón Toon de Ojos Azules Definitivo",
-    "desc": "\"Dragón Toon de Ojos Azules\" + 2 monstruos Toon\t\r\nDebe ser Invocado de Modo Especial (desde tu Deck Extra) barajando al Deck/Deck Extra las cartas mencionadas arriba desde tu mano, Campo y/o Cementerio. \r\nTus monstruos Toon pueden atacar directamente. \r\nUna vez por turno: puedes añadir a tu mano 1 carta \"Toon\", o 1 carta que mencione el nombre de una carta \"Toon\", desde tu Cementerio. \r\nSi tu monstruo Toon es atacado, durante el cálculo de daño: puedes desterrarlo hasta el final del Damage Step.",
-    "overallString": "[Monstruo|Efecto|Fusión|Toon] Dragón/LUZ  [★12] 4500/3800",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261005.jpg?version=19.7"
-  },
-  {
-    "name": "Mundo Toon, el Mundo Perfecto",
-    "desc": "(El nombre de esta carta se convierte en \"Mundo Toon\" mientras está en la Zona del Campo).\t\r\nUna vez por turno: puedes añadir a tu mano 1 carta \"Toon\", o 1 carta que mencione el nombre de una carta \"Toon\", desde tu Deck. \r\nSólo puedes usar este efecto de \"Mundo Toon, el Mundo Perfecto\" hasta tres veces por turno. \r\nAntes de resolver otra carta o efecto activado, puedes desterrar 1 monstruo Toon que controles hasta inmediatamente después de que esa carta o efecto se resuelva, y además no puedes desterrar monstruos con ese mismo nombre original con este efecto de esta carta por el resto de este turno.",
-    "overallString": "[Mágica|Campo]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261006.jpg?version=19.7"
-  },
-  {
     "name": "Sombrero de la Compañía de Payasos",
     "desc": "←◊7 Escala 7◊→\r\n【Efecto de Péndulo】\r\nDurante tu Main Phase: puedes mandar al Cementerio 1 carta \"Compañía de Payasos\" desde tu Deck, excepto un Monstruo de Péndulo y, si lo haces, Invoca esta carta de Modo Especial, y además no puedes activar los efectos de monstruos Invocados de Modo Especial desde el Deck o Deck Extra hasta el final del próximo turno. \r\nSólo puedes usar este efecto de \"Sombrero de la Compañía de Payasos\" una vez por turno.\r\n━━━━━━━━━━━━━━━━━━━━━━━\r\n【Efecto de Monstruo】\r\nLos monstruos que controle tu adversario pierden 1500 DEF mientras controles un monstruo Invocado por Sacrificio. \r\nSi esta carta es Sacrificada: puedes activar 1 de estos efectos (pero sólo puedes usar cada uno de estos efectos de \"Sombrero de la Compañía de Payasos\" una vez por turno);\r\n● Baraja todos los Monstruos de Péndulo en el Campo y en los Decks Extra boca arriba al Deck.\r\n● Invoca de Modo Especial 1 monstruo \"Compañía de Payasos\" desde tu Deck o Deck Extra, excepto un Monstruo de Péndulo, ignorando sus condiciones de Invocación.",
     "overallString": "[Monstruo|Efecto|Péndulo] Guerrero Bestia/LUZ  [★5] 1900/800  7/7",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100260001.jpg?version=19.7"
+  },
+  {
+    "name": "El Rey Mágico de la Dimensión Zeta",
+    "desc": "Observador del mundo del vacío. Surca a través de todas las distorsiones del espacio y el tiempo, observando todas las cosas del universo. Recuerda esto: Cuando miras fijamente a tus sueños, Zeta también mira fijamente a este mundo.",
+    "overallString": "[Monstruo|Normal|Cantante] Lanzador de Conjuros/OSCURIDAD  [★4] 1600/1600",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100262101.jpg?version=19.7"
   }
 ]
