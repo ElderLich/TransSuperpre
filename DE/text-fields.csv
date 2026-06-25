@@ -1,16 +1,4 @@
 id,name,field,value
-100200290,Bühne des Schicksals,name,Bühne des Schicksals
-100200290,Bühne des Schicksals,desc,"Du kannst diese Karte in dem Spielzug aktivieren, in dem sie gesetzt wurde, indem du 1 Normale Monster in deiner Hand vorzeigst.
-Beschwöre bis zu 5 Normale Monster als Spezialbeschwörung von deiner Hand und/oder deinem Friedhof in die Angriffsposition, zusätzlich kannst du für den Rest dieses Spielzugs, nachdem diese Karte aufgelöst wurde, keine Spezialbeschwörungen vom Extra Deck durchführen.
-Du kannst nur 1 „Bühne des Schicksals“ pro Spielzug aktivieren."
-100200290,Bühne des Schicksals,str1,Aktivieren
-100200290,Bühne des Schicksals,str2,"Aktiviere, indem du den Effekt von {CARD} anwendest."
-100200291,胶囊怪兽棋,name,胶囊怪兽棋
-100200291,胶囊怪兽棋,desc,"这个卡名的①②的效果1回合各能使用1次。
-①：双方玩家在自身主要阶段以自身墓地1只怪兽为对象才能发动。那只怪兽当作永续魔法卡使用在自身的魔法与陷阱区域以表侧表示放置。
-②：双方玩家在自身结束阶段把自身场上1张表侧表示的怪兽卡送去墓地才能发动。从卡组把比那只怪兽原本等级高1~3而原本种族·属性相同的1只怪兽特殊召唤。 "
-100200291,胶囊怪兽棋,str2,Ein Monster platzieren
-100200291,胶囊怪兽棋,str3,Als Spezialbeschwörung beschwören
 100200292,Reinrassiger Elf,name,Reinrassiger Elf
 100200292,Reinrassiger Elf,desc,"Während deiner Main Phase: Du kannst 1 Ausrüstungszauber von deinem Deck auf den Friedhof legen, dann erhält diese Karte bis zum Ende des Spielzugs deines Gegners 500 ATK.
 Du kannst diesen Effekt von „Reinrassiger Elf“ nur einmal pro Spielzug verwenden.
@@ -46,157 +34,9 @@ Falls diese Karte als Tribut angeboten wird: Du kannst 1 dieser Effekte aktivier
 100260001,Clowntrupp Hut,str2,Wähle einen Effekt
 100260001,Clowntrupp Hut,str3,Ins Deck zurücklegen
 100260001,Clowntrupp Hut,str4,Als Spezialbeschwörung beschwören
-100261001,Lustiges Finsteres Kaninchen,name,Lustiges Finsteres Kaninchen
-100261001,Lustiges Finsteres Kaninchen,desc,"Nachdem diese Karte als Normal- oder Spezialbeschwörung beschworen wurde, kannst du in diesem Spielzug während deiner Main Phase zusätzlich zu deiner Normalbeschwörung / deinem Setzen 1 Monster, das „Toon-Welt“ erwähnt, als Normalbeschwörung beschwören (du kannst diesen Effekt nur einmal pro Spielzug erhalten.)
-Diese Karte wird als Toon Monster behandelt, solange „Toon-Welt“ auf dem Spielfeld liegt.
-Einmal pro Spielzug: Du kannst 1 „Toon“-Spielfeld- oder Permanenten Zauber von deinem Deck deiner Hand hinzufügen oder offen auf deine Spielfeldseite legen."
-100261001,Lustiges Finsteres Kaninchen,str2,Durch den Effekt von {CARD} beschworen
-100261001,Lustiges Finsteres Kaninchen,str3,Sucheffekt
-100261001,Lustiges Finsteres Kaninchen,str4,Platzieren
-100261002,Komische Katze,name,Komische Katze
-100261002,Komische Katze,desc,"Diese Karte wird als Toon Monster behandelt, solange „Toon-Welt“ auf dem Spielfeld liegt.
-Während der Main Phase (Schnelleffekt): Du kannst 1 Monster als Tribut anbieten (falls du „Toon-Welt“ kontrollierst, kannst du 1 Monster, das dein Gegner kontrolliert, als Tribut anbieten, obwohl du es nicht kontrollierst) und falls du dies tust, beschwöre 1 Monster, das „Toon-Welt“ erwähnt, als Spezialbeschwörung von deiner Hand oder deinem Deck, ungeachtet seiner Beschwörungsbedingungen.
-Du kannst diesen Effekt von „Komische Katze“ nur einmal pro Spielzug verwenden."
-100261002,Komische Katze,str2,Als Spezialbeschwörung beschwören
-100261003,Böse Box,name,Böse Box
-100261003,Böse Box,desc,"Falls du „Toon-Welt“ kontrollierst: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören, dann kannst du 1 „Toon“-Falle von deinem Deck deiner Hand hinzufügen oder offen auf deine Spielfeldseite legen.
-Du kannst diesen Effekt von „Böse Box“ nur einmal pro Spielzug verwenden.
-Diese Karte wird als Toon Monster behandelt, solange „Toon-Welt“ auf dem Spielfeld liegt.
-Einmal pro Spielzug (Schnelleffekt): Du kannst 1 Karte in einem beliebigen Friedhof wählen; lege sie unters Deck."
-100261003,Böse Box,str1,Als Spezialbeschwörung beschwören
-100261003,Böse Box,str2,Vom Friedhof zurückholen
-100261003,Böse Box,str3,Eine Fallenkarte wählen?
-100261004,Dunkeläugiger Gesichtsloser Illusionist,name,Dunkeläugiger Gesichtsloser Illusionist
-100261004,Dunkeläugiger Gesichtsloser Illusionist,desc,"Falls diese Karte gegen ein Monster kämpft, können beide durch jenen Kampf nicht zerstört werden.
-Du kannst diese Karte abwerfen und dann 1 dieser Effekte aktivieren (aber du kannst jeden dieser Effekte von „Dunkeläugiger Gesichtsloser Illusionist“ nur einmal pro Spielzug verwenden);
-● Lege 1 „Verstand Scan“ von deiner Hand oder deinem Deck offen auf deine Spielfeldseite.
-● Füge deiner Hand 1 anderes Monster, das „Toon-Welt“ erwähnt, von deinem Friedhof hinzu, dann kannst du es als Spezialbeschwörung beschwören, ungeachtet seiner Beschwörungsbedingungen."
-100261004,Dunkeläugiger Gesichtsloser Illusionist,str1,Abwerfen
-100261004,Dunkeläugiger Gesichtsloser Illusionist,str2,Eine Fallenkarte platzieren
-100261004,Dunkeläugiger Gesichtsloser Illusionist,str3,Nimm ein Monster zurück
-100261004,Dunkeläugiger Gesichtsloser Illusionist,str4,Als Spezialbeschwörung beschwören?
-100261005,Blauäugiger ultimativer Toon-Drache,name,Blauäugiger ultimativer Toon-Drache
-100261005,Blauäugiger ultimativer Toon-Drache,desc,"„Blauäugiger Toon-Drache“ + 2 Toon-Monster
-Muss als Spezialbeschwörung (von deinem Extra Deck) beschworen werden, indem du die oben aufgeführten Karten von deiner Hand, deiner Spielfeldseite und/oder deinem Friedhof ins Deck / Extra Deck mischst.
-Deine Toon-Monster können direkt angreifen.
-Einmal pro Spielzug: Du kannst deiner Hand 1 „Toon“-Karte oder 1 Karte, die den Namen einer „Toon“-Karte erwähnt, von deinem Friedhof hinzufügen.
-Während der Schadensberechnung, falls dein Toon-Monster angegriffen wird: Du kannst es bis zum Ende des Damage Steps verbannen."
-100261005,Blauäugiger ultimativer Toon-Drache,str2,Zurückholen
-100261005,Blauäugiger ultimativer Toon-Drache,str3,Verbannen
-100261006,Toon-Welt die perfekte Welt,name,Toon-Welt die perfekte Welt
-100261006,Toon-Welt die perfekte Welt,desc,"Der Name dieser Karte wird zu „Toon-Welt“, solange sie in der Spielfeldzone liegt.
-Einmal pro Spielzug: Du kannst deiner Hand 1 „Toon“-Karte oder 1 Karte, die den Namen einer „Toon“-Karte erwähnt, von deinem Deck hinzufügen.
-Du kannst diesen Effekt von „Toon-Welt die perfekte Welt“ nur dreimal pro Spielzug verwenden.
-Bevor ein/e andere/r aktivierte/r Karte oder Effekt aufgelöst wird, kannst du 1 Toon-Monster, das du kontrollierst, bis sofort nachdem die Karte/der Effekt aufgelöst wurde verbannen, zusätzlich kannst du für den Rest dieses Spielzugs keine Monstern mit demselben Grund-Namen mit diesem Effekt von „Toon-Welt die perfekte Welt“ verbannen."
-100261006,Toon-Welt die perfekte Welt,str2,Der Hand hinzufügen
-100261006,Toon-Welt die perfekte Welt,str4,Das Monster verbannen?
-100261007,Verstand Scan,name,Verstand Scan
-100261007,Verstand Scan,desc,"Solange du eine „Toon“-Karte auf deiner Spielfeldseite oder in deinem Friedhof hast, muss dein Gegner mit vorgezeigter Hand spielen, zusätzlich kannst du dir jederzeit seine gesetzte Karten ansehen.
-Falls du ein Toon-Monster und einen „Toon“-Zauber auf deiner Spielfeldseite und/oder in deinem Friedhof hast: Du kannst 1 Kartennamen deklarieren, der nicht unter den Karten/Effekte ist, die in dieser Kette aktiviert wurden; annulliere, bis zum Ende dieses Spielzugs, die aktivierten Effekte von Karten mit dem Grund-Namen, solange diese Karte offen auf dem Spielfeld liegt.
-Du kannst diesen Effekt von „Verstand Scan“ nur einmal pro Spielzug verwenden."
-100261007,Verstand Scan,str2,Deklariere
-100261023,Hexwerkerin Terracottan,name,Hexwerkerin Terracottan
-100261023,Hexwerkerin Terracottan,desc,"Falls sich diese Karte in deiner Hand befindet: Du kannst 1 „Hexwerker“-Karte in deinem Friedhof wählen, außer „Hexwerkerin Terracottan“; füge es deiner Hand hinzu und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung, zusätzlich kannst du für den Rest dieses Spielzugs keine Spezialbeschwörungen vom Extra Deck durchführen, außer von „Hexwerker“-Monstern.
-Während deiner Main Phase: Du kannst 1 „Hexwerker“-Fusionsmonster als Fusionsbeschwörung von deinem Extra Deck beschwören, verwende dabei Monster von deiner Hand oder Spielfeldseite als Fusionsmaterial.
-Du kannst jeden Effekt von „Hexwerkerin Terracottan“ nur einmal pro Spielzug verwenden."
-100261023,Hexwerkerin Terracottan,str1,Als Spezialbeschwörung beschwören
-100261023,Hexwerkerin Terracottan,str2,Als Fusionsbeschwörung beschwören
-100261024,Hexwerkerin Marka,name,Hexwerkerin Marka
-100261024,Hexwerkerin Marka,desc,"Du kannst diese Karte von deiner Hand oder Spielfeldseite als Tribut anbieten; füge deiner Hand 1 „Hexwerker“-Spielfeld- oder Permanenten Zauber von deinem Deck hinzu.
-Falls ein oder mehr offene „Hexwerker“-Monster, die du kontrollierst, das Spielfeld durch einen Karteneffekt eines Gegners verlassen, solange sich diese Karte in deinem Friedhof befindet: Du kannst diese Karte als Spezialbeschwörung beschwören (aber verbanne sie, wenn sie das Spielfeld verlässt) und falls du dies tust, biete 1 Monster, das dein Gegner kontrolliert, als Tribut an.
-Du kannst jeden Effekt von „Hexwerkerin Marka“ nur einmal pro Spielzug verwenden."
-100261024,Hexwerkerin Marka,str1,Der Hand hinzufügen
-100261024,Hexwerkerin Marka,str2,Als Spezialbeschwörung beschwören
-100261025,Hexwerkerin Madam Rilliona,name,Hexwerkerin Madam Rilliona
-100261025,Hexwerkerin Madam Rilliona,desc,"„Hexwerkerin Madam Verre“ + 2 Hexer-Monster
-Falls diese Karte als Fusionsbeschwörung beschworen wird: Du kannst bis zu 3 „Hexwerker“-Monster der Stufe 7 oder niedriger mit unterschiedlichen Eigenschaften voneinander als Spezialbeschwörung von deiner Hand und/oder deinem Deck beschwören, zusätzlich kannst du für den Rest dieses Spielzugs keine Spezialbeschwörungen vom Extra Deck durchführen, außer von Fusionsmonstern.
-Während deiner End Phase, falls sich diese Karte in deinem Friedhof befindet: Du kannst 1 Zauber in deiner Hand vorzeigen; beschwöre diese Karte als Spezialbeschwörung in die Verteidigungsposition.
-Du kannst jeden Effekt von „Hexwerkerin Madam Rilliona“ nur einmal pro Spielzug verwenden."
-100261025,Hexwerkerin Madam Rilliona,str1,Als Spezialbeschwörung vom Deck beschwören
-100261025,Hexwerkerin Madam Rilliona,str2,Diese Karte als Spezialbeschwörung beschören
-100261026,Hexwerkerin Pupils,name,Hexwerkerin Pupils
-100261026,Hexwerkerin Pupils,desc,"1 „Hexwerker“-Monster + 1 Hexer-Monster
-Während der Main oder Battle Phase (Schnelleffekt): Du kannst 1 dieser Effekte aktivieren;
-● Füge deiner Hand 1 „Hexwerker“-Zauber von deinem Deck hinzu.
-● Zeige 1 „Hexwerker“-Zauber oder „Hexwerker“-Schnellzauber in deiner Hand vor; führe den Aktivierungseffekt jenes Zaubers aus.
-Während deiner End Phase: Du kannst 1 deiner verbannten „Hexwerker“-Karten auf den Friedhof zurücklegen.
-Du kannst jeden Effekt von „Hexwerkerin Pupils“ nur einmal pro Spielzug verwenden."
-100261026,Hexwerkerin Pupils,str1,Aktivieren
-100261026,Hexwerkerin Pupils,str2,Auf den Friedhof zurücklegen
-100261026,Hexwerkerin Pupils,str3,Sucheffekt
-100261026,Hexwerkerin Pupils,str4,Effekt kopieren
-100261027,Hexwerker-Feier,name,Hexwerker-Feier
-100261027,Hexwerker-Feier,desc,"Aktiviere 1 dieser Effekte;
-● Zerstöre 1 „Hexwerker“-Monster, das du kontrollierst, und 1 Karte, die dein Gegner kontrolliert.
-● Beschwöre 1 „Hexwerker“-Fusionsmonster als Fusionsbeschwörung von deinem Extra Deck, indem du Hexer-Monster von deinem Friedhof und/oder deinen verbannten Karten ins Deck mischst.
-Während deiner End Phase, falls du ein „Hexwerker“-Monster kontrollierst, solange sich diese Karte in deinem Friedhof befindet: Du kannst diese Karte deiner Hand hinzufügen.
-Du kannst nur 1 Effekt von „Hexwerker-Feier“ pro Spielzug verwenden und in dem Spielzug nur einmal."
-100261027,Hexwerker-Feier,str1,Aktivieren
-100261027,Hexwerker-Feier,str2,Der Hand hinzufügen
-100261027,Hexwerker-Feier,str3,Zerstörungseffekt
-100261027,Hexwerker-Feier,str4,Als Fusionsbeschwörung beschwören
-100261028,Hexwerker-Walpurgis,name,Hexwerker-Walpurgis
-100261028,Hexwerker-Walpurgis,desc,"Während deiner Main Phase: Du kannst deiner Hand 1 „Hexwerker“-Monster von deinem Deck hinzufügen, dann wirf 1 Karte ab.
-Du kannst diesen Effekt von „Hexwerker-Walpurgis“ nur einmal pro Spielzug verwenden.
-Während deines Spielzugs, falls du abwerfen würdest, um den Effekt eines „Hexwerker“-Monsters, das du kontrollierst, zu aktivieren, kannst du stattdessen 1 „Hexwerker“-Zauber/Falle von deinem Deck auf den Friedhof legen, außer „Hexwerker-Walpurgis“."
-100261028,Hexwerker-Walpurgis,str1,Der Hand hinzufügen
-100261029,Hexwerker-Verzerrung,name,Hexwerker-Verzerrung
-100261029,Hexwerker-Verzerrung,desc,"Wenn eine Zauber-/Fallenkarte oder ein Monstereffekt aktiviert wird und du ein „Hexwerker“-Monster der Stufe 5 oder höher kontrollierst: Annulliere die Aktivierung und falls du dies tust, zerstöre die Karte.
-Falls sich diese Karte in deinem Friedhof befindet, außer in dem Spielzug, in dem sie dorthin gelegt wurde: Du kannst sie verbannen; füge deiner Hand 1 Hexer-Monster der Stufe 5 oder höher von deinem Deck hinzu, dann wirf 1 Karte ab.
-Du kannst jeden Effekt von „Hexwerker-Verzerrung“ nur einmal pro Spielzug verwenden."
-100261029,Hexwerker-Verzerrung,str1,Aktivieren
-100261029,Hexwerker-Verzerrung,str2,Der Hand hinzufügen
-100261047,Losgeketteter Oger Shara,name,Losgeketteter Oger Shara
-100261047,Losgeketteter Oger Shara,desc,"Während der Main Phase (Schnelleffekt): Du kannst diese Karte abwerfen; beschwöre 1 Unterweltler-Monster als Spezialbeschwörung von deiner Hand, dann zerstöre 1 Karte, die du kontrollierst.
-Falls eine oder mehr Karten auf dem Spielfeld durch Kampf oder einen Karteneffekt zerstört werden, außer durch den Effekt von „Losgeketteter Oger Shara“, solange sich diese Karte in deinem Friedhof befindet: Du kannst diese Karte als Spezialbeschwörung beschwören (aber lege sie unters Deck, wenn sie das Spielfeld verlässt) oder füge sie deiner Hand hinzu.
-Du kannst jeden Effekt von „Losgeketteter Oger Shara“ nur einmal pro Spielzug verwenden."
-100261047,Losgeketteter Oger Shara,str1,Als Spezialbeschwörung beschwören
-100261047,Losgeketteter Oger Shara,str2,Zurückholen
-100261048,Losgeketteter Oger Shma,name,Losgeketteter Oger Shma
-100261048,Losgeketteter Oger Shma,desc,"Falls diese Karte als Normalbeschwörung beschworen wird: Du kannst 1 „Losgekettet“-Monster der Stufe 4 oder niedriger als Spezialbeschwörung von deinem Deck beschwören, außer „Losgeketteter Oger Shma“, dann zerstöre 1 Karte, die du kontrollierst, zusätzlich kannst du für den Rest dieses Spielzugs keine Monster als Spezialbeschwörung beschwören, außer Unterweltler-Monstern.
-Falls diese Karte auf dem Spielfeld durch Kampf oder einen Karteneffekt zerstört wird, außer durch den Effekt von „Losgeketteter Oger Shma“: Du kannst 1 „Losgekettet“-Monster als Spezialbeschwörung von deiner Hand oder deinem Deck beschwören, außer „Losgeketteter Oger Shma“.
-Du kannst jeden Effekt von „Losgeketteter Oger Shma“ nur einmal pro Spielzug verwenden."
-100261048,Losgeketteter Oger Shma,str1,Als Spezialbeschwörung vom Deck beschwören
-100261048,Losgeketteter Oger Shma,str2,Als Spezialbeschwörung aus der Hand/dem Deck beschwören
-100261049,Losgeketteter bösartiger Magistrat Kamura,name,Losgeketteter bösartiger Magistrat Kamura
-100261049,Losgeketteter bösartiger Magistrat Kamura,desc,"Du kannst bis zu 3 Karten wählen, die du kontrolliert; zerstöre sie und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung von deiner Hand, dann kannst du beliebige der folgenden Effekte nacheinander ausführen, basierend auf den Grund-Typen aller zerstörten Karten.
-● Monster: Ziehe 1 Karte.
-● Zauber: Ändere die Kampfposition von 1 Monster auf dem Spielfeld.
-● Falle: Zerstöre 1 andere Karte auf dem Spielfeld.
-Falls diese Karte auf dem Spielfeld durch einen Karteneffekt zerstört wird: Du kannst alle Monster auf dem Spielfeld zerstören.
-Du kannst jeden Effekt von „Losgeketteter bösartiger Magistrat Kamura“ nur einmal pro Spielzug verwenden."
-100261049,Losgeketteter bösartiger Magistrat Kamura,str1,Als Spezialbeschwörung beschwören
-100261049,Losgeketteter bösartiger Magistrat Kamura,str2,Zerstörungseffekt
-100261049,Losgeketteter bösartiger Magistrat Kamura,str3,1 Karte ziehen?
-100261049,Losgeketteter bösartiger Magistrat Kamura,str4,Kampfposition ändern?
-100261049,Losgeketteter bösartiger Magistrat Kamura,str5,Zerstören?
-100261050,Losgeketteter Enma Lord Yama,name,Losgeketteter Enma Lord Yama
-100261050,Losgeketteter Enma Lord Yama,desc,"2+ Monster, darunter ein „Losgekettete Seele“-Monster
-Während deiner End Phase: Du kannst bis zu 2 Unterweltler-Monster in deinem Friedhof wählen die während dieses Spielzugs zerstört und dorthin gelegt wurden; beschwöre sie als Spezialbeschwörung, aber du kannst keine Spezialbeschwörungen durchführen, außer von Unterweltler-Monstern, solange du eines jener offenen Monster kontrollierst.
-Falls diese Karte auf dem Spielfeld durch Kampf oder einen Karteneffekt zerstört würde, kannst du stattdessen 1 offene Karte auf einer beliebigen Spielfeldseite zerstören.
-Du kannst jeden Effekt von „Losgeketteter Enma Lord Yama“ nur einmal pro Spielzug verwenden."
-100261050,Losgeketteter Enma Lord Yama,str1,Als Spezialbeschwörung beschwören
-100261050,Losgeketteter Enma Lord Yama,str3,Als Spezialbeschwörung durch den Effekt von {CARD} beschworen
-100261051,Losgekettete Seele Raserei Abscheulichkeit,name,Losgekettete Seele Raserei Abscheulichkeit
-100261051,Losgekettete Seele Raserei Abscheulichkeit,desc,"2+ Monster, darunter ein Unterweltler-Monster
-Falls dein Gegner ein oder mehr Monster offen als Spezialbeschwörung beschwört: Du kannst 1 von ihnen wählen; zerstöre 1 Unterweltler-Monster, das du kontrollierst, und falls du dies tust, annulliere bis zum Ende dieses Spielzugs die Effekte des als Ziel gewählten Monsters.
-Wenn ein Monstereffekt auf dem Spielfeld aktiviert wird und du ein „Losgekettet“-Monster mit Link-4 oder höher kontrollierst (Schnelleffekt): Du kannst diese Karte von deinem Friedhof verbannen; zerstöre das Monster, das diese effekt aktiviert hat.
-Du kannst jeden Effekt von „Losgekettete Seele Raserei Abscheulichkeit“ nur einmal pro Spielzug verwenden."
-100261051,Losgekettete Seele Raserei Abscheulichkeit,str1,Annullieren
-100261051,Losgekettete Seele Raserei Abscheulichkeit,str2,Zerstören
-100261052,Reinkarnation der Losgeketteten,name,Reinkarnation der Losgeketteten
-100261052,Reinkarnation der Losgeketteten,desc,"Wenn diese Karte aktiviert wird: Du kannst deiner Hand 1 „Losgekettet“-Zauber (außer „Reinkarnation der Losgeketteten“ ) oder 1 „Gefängnis der Scheußlichkeit“ von deinem Deck hinzufügen.
-Einmal pro Spielzug: Du kannst bis zu 3 „Losgekettet“-Karten in deinem Friedhof wählen, außer „Reinkarnation der Losgeketteten“ ; mische sie ins Deck, dann kannst du andere Karten, die du kontrollierst, bis zur Anzahl der ins Deck gemischten Karten zerstören.
-Du kannst nur 1 „Reinkarnation der Losgeketteten“ pro Spielzug aktivieren."
-100261052,Reinkarnation der Losgeketteten,str1,Der Hand hinzufügen?
-100261052,Reinkarnation der Losgeketteten,str2,Rückgewinnungseffekt
-100261052,Reinkarnation der Losgeketteten,str3,Die Karte zerstören?
-100261053,Losgeketteter Synkretismus,name,Losgeketteter Synkretismus
-100261053,Losgeketteter Synkretismus,desc,"Wähle 2 offene Monster auf dem Spielfeld, darunter ein „Losgekettete Seele“-Linkmonster, das du kontrollierst; sofort nachdem dieser Effekt aufgelöst wurde, beschwöre 1 Unterweltler-Linkmonster als Linkbeschwörung und verwende dafür nur die 2 Monster.
-Falls diese gesetzte Karte durch einen Karteneffekt zerstört wird: Du kannst 1 „Losgekettet“-Monster als Spezialbeschwörung von deinem Deck beschwören.
-Du kannst jeden Effekt von „Losgeketteter Synkretismus“ nur einmal pro Spielzug verwenden."
-100261053,Losgeketteter Synkretismus,str1,Linkbeschwörung
-100261053,Losgeketteter Synkretismus,str2,Als Spezialbeschwörung beschwören
+100262101,泽塔次元的魔术王,name,泽塔次元的魔术王
+100262101,泽塔次元的魔术王,desc,"虚空世界的观测者。通过一切时空的扭曲观测森罗万象。
+请当心。当你窥探梦境时，泽塔也正窥视着这个世界。"
 100263001,Dunkler Tyranno,name,Dunkler Tyranno
 100263001,Dunkler Tyranno,desc,"Kann direkt angreifen, falls alle Monster, die der Gegner kontrolliert, in Verteidigungsposition liegen.
 Du kannst jeden der folgenden Effekte von „Dunkler Tyranno“ nur einmal pro Spielzug verwenden.
@@ -279,22 +119,6 @@ Du kannst nur 1 „D - Platzen“ pro Spielzug aktivieren."
 100263010,D - Platzen,str1,Ziehen
 100263010,D - Platzen,str2,Einen zusätzlichen Angriff durchführen
 100263010,D - Platzen,str3,Als Spezialbeschwörung beschwören?
-100264002,Ursprung des Erzunterweltlers,name,Ursprung des Erzunterweltlers
-100264002,Ursprung des Erzunterweltlers,desc,"Falls sich diese Karte in deiner Hand befindet: Du kannst 1 anderes „Erzunterweltler“-Monster von deiner Hand oder Spielfeldseite als Tribut anbieten; beschwöre diese Karte als Spezialbeschwörung.
-Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 Unterweltler-Monster der Stufe 6 mit 2500 ATK als Spezialbeschwörung von deiner Hand, deinem Deck oder deinem Friedhof beschwören.
-Wenn dein Gegner einen Monstereffekt aktiviert und du „Herbeigerufener Totenkopf“ kontrollierst (Schnelleffekt): Du kannst die Aktivierung annullieren und falls du dies tust, zerstöre jene Karte.
-Du kannst jeden Effekt von „Ursprung des Erzunterweltlers“ nur einmal pro Spielzug verwenden."
-100264002,Ursprung des Erzunterweltlers,str1,Diese Karte als Spezialbeschwörung beschören
-100264002,Ursprung des Erzunterweltlers,str2,Als Spezialbeschwörung beschwören
-100264002,Ursprung des Erzunterweltlers,str3,Annullieren und zerstören
-100264003,"Makourai, der Blitzschlag",name,"Makourai, der Blitzschlag"
-100264003,"Makourai, der Blitzschlag",desc,"(Diese Karte wird immer als „Erzunterweltler“-Karte behandelt.)
-Wähle 1 „Erzunterweltler“-Monster, das du kontrollierst; es erhält 600 ATK, dann kannst du alle Monster zerstören, die dein Gegner kontrolliert, mit niedrigeren Grund-ATK als der ATK des Monsters.
-Während deiner Main Phase: Du kannst diese Karte von deinem Friedhof verbannen und dann 1 Unterweltler-Monster der Stufe 6 mit 2500 ATK in deinem Friedhof wählen; füge es deiner Hand hinzu.
-Du kannst jeden Effekt von „Makourai, der Blitzschlag“ nur einmal pro Spielzug verwenden."
-100264003,"Makourai, der Blitzschlag",str1,Aktivieren
-100264003,"Makourai, der Blitzschlag",str2,Zurückholen
-100264003,"Makourai, der Blitzschlag",str3,Dieses Monster zerstören?
 100265002,Hexwerker Samen,name,Hexwerker Samen
 100265002,Hexwerker Samen,desc,"Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird und du ein anderes „Hexwerker“-Monster als „Hexwerker Samen“ oder „Regulus, der Prinz von Endymion“ kontrollierst: Du kannst 1 offene Karte auf dem Spielfeld wählen; gib sie auf die Hand zurück.
 Du kannst diese Karte von deinem Friedhof verbannen; zeige eine beliebige Anzahl Karten in deiner Hand vor, darunter einen Zauber und mische sie ins Deck, ziehe dann so viele Karten.
@@ -322,6 +146,17 @@ Du kannst jeden Effekt von „Hexwerker Samen“ nur einmal pro Spielzug verwend
 ●自己回合对方把手卡·场上的怪兽的效果发动时"
 100266002,圣心防护罩 -心灵之力-,str1,Aktivieren
 100266002,圣心防护罩 -心灵之力-,str2,"Aktiviere, indem du den Effekt von {CARD} anwendest."
+100266003,来自冥府的使者,name,来自冥府的使者
+100266003,来自冥府的使者,desc,"这个卡名的①②的效果1回合各能使用1次。
+①：自己受到战斗·效果伤害的场合才能发动。这张卡从手卡特殊召唤，自己回复2000基本分。那之后，可以从以下效果选1个适用。
+●从自己的手卡·卡组·墓地把1只「来自冥府的使者」特殊召唤。
+●对方场上最多2只攻击表示怪兽破坏。
+②：这张卡特殊召唤的回合的结束阶段，以自己墓地1张陷阱卡为对象才能发动。那张卡在自己场上盖放。"
+100266003,来自冥府的使者,str1,Als Spezialbeschwörung beschwören
+100266003,来自冥府的使者,str2,Eine Fallenkarte setzen
+100266003,来自冥府的使者,str3,Als Spezialbeschwörung beschwören
+100266003,来自冥府的使者,str4,Zerstörungseffekt
+100266003,来自冥府的使者,str5,Nichts tun
 101305081,远古者的见证人,name,远古者的见证人
 101305081,远古者的见证人,desc,"自己场上或墓地有同调怪兽存在的场合：可以把这张卡从手卡特殊召唤。
 这张卡特殊召唤的场合：可以从自己的额外卡组·墓地把最多3只卡名不同的同调怪兽当作永续魔法卡使用在自己的魔法与陷阱区域以表侧表示放置，在自己场上把持有放置数量相同等级的1只「弧光衍生物」（机械族·光·攻/守0）特殊召唤，这个效果的发动后，直到回合结束时自己不是同调怪兽不能从额外卡组特殊召唤。
