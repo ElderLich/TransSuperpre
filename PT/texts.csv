@@ -1,9 +1,4 @@
 id,name,desc,str1,str2,str3,str4,str5,str6,str7,str8,str9,str10,str11,str12,str13,str14,str15,str16
-100200290,Fase do Destino,"Você só pode ativar 1 ""Fase do Destino"" por turno. Você pode ativar este card no turno que foi Baixado revelando 1 Monstro normal na sua mão.
-Invoque por Invocação-Especial até 5 Monstros Normais da sua mão e/ou Cemitério em Posição de Ataque. Você não pode Invocar por Invocação-Especial do seu Deck Adicional pelo resto deste turno após ativar este efeito.",Ativar,Ativar aplicando o efeito de {CARD}.,,,,,,,,,,,,,,
-100200291,Xadrez de Monstros Cápsula,"Durante a Fase Principal: o jogador do turno pode escolher 1 monstro no Cemitério dele; ele coloca-o na Zona de Magia & Armadilha dele com a face para cima como uma Magia Contínua.
-Durante a Fase Final: o jogador do turno pode enviar 1 Card de Monstro com a face para cima que ele controla para o Cemitério; ele Invoca por Invocação-Especial 1 monstro do Deck dele com o mesmo Tipo e Atributo original, mas 1, 2 ou 3 Níveis originais acima.
-Você só pode usar cada um dos efeitos de ""Xadrez de Monstros Cápsula"" uma vez por turno.",,Colocar um monstro,Invocação Especial,,,,,,,,,,,,,
 100200292,Elfo de Sangue Puro,"Durante a sua Fase Principal: você pode enviar 1 Magia de Equipamento do seu Deck para o Cemitério, então este card ganha 500 de ATK até o final do turno do seu oponente. Você só pode usar este efeito de ""Elfo de Sangue Puro"" uma vez por turno.
 Quando este card destrói um monstro do oponente por batalha: você pode adicionar à sua mão, ou Invocar por Invocação-Especial 1 monstro Mago de LUZ de Nível 4 ou menor do seu Deck, exceto ""Elfo de Sangue Puro"".",Enviar para o Cemitério,Manipulação do Deck,,,,,,,,,,,,,,
 100200293,Leão de Ataque,"Você pode Invocar por Invocação-Tributo este card com a face para cima oferecendo como Tributo 1 monstro Besta-Guerreiro.
@@ -22,82 +17,8 @@ Monstros que seu oponente controla perdem 1500 de DEF enquanto você controlar u
 Se este card for oferecido como Tributo: você pode ativar 1 destes efeitos (mas você só pode usar cada um destes efeitos de ""Chapéu da Companhia de Palhaços"" uma vez por turno);
 ● Embaralhe todos os Monstros Pêndulo no campo e com a face para cima nos Decks Adicionais no Deck.
 ● Invoque por Invocação-Especial 1 monstro não-Pêndulo ""Companhia de Palhaços"" do seu Deck ou Deck Adicional, ignorando suas condições de Invocação.",Invocação Especial,Escolher um efeito,Retornar ao Deck,Invocação Especial,,,,,,,,,,,,
-100261001,Coelho Escuro Engraçado,"Depois que este card for Invocado por Invocação-Normal ou Especial, durante sua Fase Principal nesse turno, você pode Invocar por Invocação-Normal 1 monstro que menciona ""Mundo Toon"" em adição a sua Invocação-Normal/Baixar (você só pode ganhar este efeito uma vez por turno).
-Este card é considerado um monstro Toon enquanto ""Mundo Toon"" está no campo.
-Uma vez por turno: você pode adicionar a sua mão ou colocar com a face para cima no seu campo, 1 Campo ""Toon"" ou Magia Contínua do seu Deck.",,Invocar pelo efeito de {CARD},Efeito de busca,Colocar,,,,,,,,,,,,
-100261002,Gato Cômico,"Este card é considerado um monstro Toon enquanto ""Mundo Toon"" está no campo.
-Durante a Fase Principal (Efeito Rápido): você pode oferecer 1 monstro como Tributo (se você controla ""Mundo Toon"", você pode oferecer 1 monstro do oponente como Tributo, mesmo que você não o controle), e se fizer, Invoque por Invocação-Especial 1 monstro da sua mão ou Deck que menciona ""Mundo Toon"", ignorando suas condições de Invocação. Você só pode usar este efeito de ""Gato Cômico"" uma vez por turno.",,Invocação Especial,,,,,,,,,,,,,,
-100261003,Caixa Maligna,"Este card é considerado um monstro Toon enquanto ""Mundo Toon"" está no campo.
-Se você controla ""Mundo Toon"": você pode Invocar por Invocação-Especial este card da sua mão, então você pode adicionar à sua mão, ou Baixar, 1 Armadilha ""Toon"" do seu Deck. Você só pode usar este efeito de ""Caixa Maligna"" uma vez por turno.
-Uma vez por turno (Efeito Rápido): você pode escolher 1 card em qualquer Cemitério; coloque-o no fundo do Deck.",Invocação Especial,Recuperar do Cemitério,Escolher um Card de Armadilha?,,,,,,,,,,,,,
-100261004,Mago Ilusionista Sem Rosto de Olhos Negros,"Você pode descartar este card, então ative 1 desses efeitos (mas você só pode usar cada um desses efeitos de ""Mago Ilusionista Sem Rosto de Olhos Negros"" uma vez por turno);
-● Coloque 1 ""Ler Mente"" da sua mão ou Deck no seu campo com a face para cima.
-● Adicione 1 outro monstro do seu Cemitério à sua mão que mencione ""Mundo Toon"", então você pode Invoca-lo por Invocação-Especial, ignorando suas condições de Invocação.
-Se este card batalhar com um monstro, nenhum pode ser destruído naquela batalha.",Descartar,Colocar um Card de Armadilha,Recuperar um monstro,Invocação Especial?,,,,,,,,,,,,
-100261005,Dragão Definitivo Toon de Olhos Azuis,"""Dragão Toon de Olhos Azuis"" + 2 monstros Toon
-Deve ser Invocado por Invocação-Especial (do seu Deck Adicional) por embaralhar os cards acima da sua mão, campo e/ou Cemitério no Deck/Deck Adicional.
-Seus monstros Toon podem atacar diretamente.
-Uma vez por turno: você pode adicionar 1 card ""Toon"", ou 1 card que mencione o noem daquele card ""Toon"", do seu Cemitério à sua mão.
-Se seu monstro Toon é atacado, durante o cálculo de dano: você pode bani-lo até o final da Estapa de Dano.",,Recuperar,Banir,,,,,,,,,,,,,
-100261006,"Mundo Toon, o Mundo Perfeito","O nome deste card se torna ""Mundo Toon"" enquanto está na Zona de Campo.
-Uma vez por turno: você pode adicionar 1 card ""Toon"", ou 1 card que menciona o noem de um card ""Toon"", do seu Deck à sua mão. Você só pode usar este efeito de ""Mundo Toon, o Mundo Perfeito"" três vez por turno.
-Antes de resolver a ativação de outro card ou efeito, você pode banir 1 monstro Toon que você controla imediatamente após resolver aquele card/efeito, você também não pode banir monstros com o mesmo nome original com este efeito de ""Mundo Toon, o Mundo Perfeito"" pelo resto desse turno.",,Adicionar à mão,,Banir o monstro?,,,,,,,,,,,,
-100261007,Ler Mente,"(Temporariamente indisponível)
-
-Enquanto você tem um card ""Toon"" no seu campo ou Cemitério, seu oponente deve jogar com sua mão revelada, você também pode ver seus cards Baixados a qualquer momento.
-Se você tem um monstro ""Toon"" e uma Magia ""Toon"" no seu campo e/ou Cemitério: você pode declarar o nome de 1 card que não foi ativado e que não ativou seus efeitos, neste Corrente; negue os efeitos ativados dos cards com aquele nome original até o final deste turno enquanto este card está no campo com a face para cima. Você só pode usar este efeito de ""Ler Mente"" uma vez por turno.",,Declarar,,,,,,,,,,,,,,
-100261023,Fazticeira Terracottan,"Se este card estiver na sua mão: você pode escolher 1 card ""Fazticeira"" no seu Cemitério, exceto ""Fazticeira Terracottan""; adicione-o a sua mão, e se fizer, Invoque este card por Invocação-Especial, você também não pode Invocar por Invocação-Especial do seu Deck Adicional pelo resto deste turno, exceto monstros ""Fazticeira"".
-Durante sua Fase Principal: você pode Invocar por Invocação-Fusão 1 monstro ""Fazticeira"" do seu Deck Adicional, usando monstros da sua mão ou campo.
-Você só pode usar cada um dos efeitos de ""Fazticeira Terracottan"" uma vez por turno.",Invocação Especial,Invocação Fusão,,,,,,,,,,,,,,
-100261024,Fazticeira Marka,"Você pode oferecer este card como Tributo da sua mão ou campo; adicione 1 Magia de Campo ""Fazticeira"" ou Magia Contínua do seu Deck à sua mão.
-Se um ou mais monstros ""Fazticeira"" que você controla deixa o campo por um efeito do oponente, enquanto este card está no seu Cemitério: você pode Invocar por Invocação-Especial este card (mas bana-o quando deixar o campo), e se fizer, ofereça 1 monstro que seu oponente controla como Tributo.
-Você só pode usar cada efeito de ""Fazticeira Marka"" uma vez por turno.",Adicionar à mão,Invocação Especial,,,,,,,,,,,,,,
-100261025,Fazticeira Madame Rilliona,"""Fazticeira Madame Verre"" + 2 monstros Mago
-Se este card for Invocado por Invocação-Fusão: você pode Invocar por Invocação-Especial até 3 monstros ""Fazticeira"" de Nível 7 ou menor com Atributos diferentes de cada outra na sua mão e/ou Deck, você também não pode Invocar por Invocação-Especial do Deck Adicional pelo resto deste turno, exceto Monstros de Fusão.
-Durante sua Fase Final, se este card está no seu Cemitério: você pode revelar 1 Magia na sua mão; Invoque por Invocação-Especial este card em Posição de Defesa.
-Você só pode usar cada um dos efeitos de ""Fazticeira Madame Rilliona"" uma vez por turno.",Invocar por Invocação Especial do Deck,Invocar este card por Invocação Especial,,,,,,,,,,,,,,
-100261026,Pupilas de Fazticeira,"1 monstro ""Fazticeira"" + 1 monstro Mago
-Durante a Fase Principal ou de Batalha (Efeito Rápido): você pode ativar 1 desses efeitos;
-● Adicione 1 Magia ""Fazticeira"" do seu Deck à sua mão.
-● Revele 1 Magia Normal ""Fazticeira"" ou Magia de Efeito Rápido na sua mão; aplique o efeito de ativação daquela Magia.
-Durante sua Fase Final: você pode retornar 1 dos seus cards ""Fazticeira"" banidos para o Cemitério.
-Você só pode usar cada efeito de ""Pupilas de Fazticeira"" uma vez por turno.",Ativar,Retornar para o Cemitério,Efeito de busca,Copiar efeito,,,,,,,,,,,,
-100261027,Celebração das Fazticeiras,"Ative 1 desses efeitos;
-● Destrua 1 monstro ""Fazticeira"" que você controla e 1 card que seu oponente controla.
-● Invoque por Invocação-Fusão 1 monstro ""Fazticeira"" do seu Deck Adicional, ao embaralhar monstros Magos do seu Cemitério e/ou banimento no Deck.
-Durante a sua Fase Final, se este card estiver no seu Cemitério e você controla um monstro ""Fazticeira"": você pode adicionar este card à sua mão.
-Você só pode usar 1 dos efeitos de ""Celebração das Fazticeiras"" e somente uma vez por turno.",Ativar,Adicionar à mão,Efeito de destruição,Invocação Fusão,,,,,,,,,,,,
-100261028,Fazticeira Walpurgis,"Durante sua Fase Principal: você pode adicionar 1 monstro ""Fazticeira"" do seu Deck à sua mão, então descarte 1 card. Você só pode usar este efeito de ""Fazticeira Walpurgis"" uma vez por turno.
-Durante seu turno, se você descartaria um ou mais cards para ativar o efeito de um monstro ""Fazticeira"" que você controla, em vez disso você pode enviar 1 Magia/Armadilha ""Fazticeira"" do seu Deck para o Cemitério, exceto ""Fazticeira Walpurgis"".",Adicionar à mão,,,,,,,,,,,,,,,
-100261029,Distorção Fazticeira,"Quando um Card de Magia/Armadilha, ou um efeito de monstro, é ativado e você controla um monstro ""Fazticeira"" de Nível 5 ou maior: negue a ativação, e se fizer, destrua aquele card.
-Se este card está no seu Cemitério, exceto no turno em que foi enviado para lá: você pode bani-lo; adicione 1 monstro Mago de Nível 5 ou maior do seu Deck à sua mão, então descarte 1 card.
-Você só pode usar cada um dos efeitos de ""Distorção Fazticeira"" uma vez por turno.",Ativar,Adicionar à mão,,,,,,,,,,,,,,
-100261047,Ogro Desacorrentada - Shara,"Durante a Fase Principal (Efeito Rápido): você pode descartar este card; Invoque por Invocação-Especial 1 monstro Demônio da sua mão, então destrua 1 card que você controla.
-Se um ou mais cards no campo é destruído por um efeito, exceto pelo efeito de ""Ogro Desacorrentada - Shara"", ou por batalha, enquanto este card está no seu Cemitério: você pode Invocar por Invocação-Especial este card (mas coloque-o no fundo do seu Deck quando ele deixar o campo) ou adicione-o à sua mão.
-Você só pode usar cada um dos efeitos de ""Ogro Desacorrentada - Shara"" uma vez por turno.",Invocação Especial,Recuperar,,,,,,,,,,,,,,
-100261048,Ogro Desacorrentado - Shma,"Se este card for Invocado por Invocação-Normal: você pode Invocar por Invocação-Especial 1 monstro ""Desacorrentado(a)"" de Nível 4 ou menor do seu Deck, exceto ""Ogro Desacorrentado - Shma"", então destrua 1 card que você controla, você também não pode Invocar por Invocação-Especial pelo resto deste turno, exceto monstros Demônio.
-Se este card é destruído no campo por um efeito, exceto por ""Ogro Desacorrentado - Shma"", ou por batalha: você pode Invocar por Invocação-Especial 1 monstro ""Desacorrentado"" da sua mão ou Deck, exceto ""Ogro Desacorrentado - Shma"".
-Você só pode usar cada um dos efeitos de ""Ogro Desacorrentado - Shma"" uma vez por turno.",Invocar por Invocação Especial do Deck,Invocar por Invocação Especial da sua mão/Deck,,,,,,,,,,,,,,
-100261049,Magistrado Malévolo Desacorrentado - Kamura,"Você pode escolher até 3 cards que você controla; destrua-os, e se fizer, Invoque por Invocação-Especial este card da sua mão, então você pode aplicar qualquer um dos seguintes efeitos, em sequência, baseado nos tipos originais dos cards destruídos.
-● Monstro: compre 1 card.
-● Magia: mude a posição de batalha de 1 monstro no campo.
-● Armadilha: destrói 1 outro card no campo.
-Se este card no campo é destruído por um efeito: você pode destruir todos os monstros no campo.
-Você só pode usar cada um dos efeitos de ""Magistrado Malévolo Desacorrentado - Kamura"" uma vez por turno.",Invocação Especial,Efeito de destruição,Comprar 1 card?,Mudar a posição de batalha?,Destruir?,,,,,,,,,,,
-100261050,Senhor dos Enma Desacorrentado - Yama,"2+ monstros, incluindo um monstro ""Alma Desacorrentada""
-Durante sua Fase Final: você pode escolher até 2 monstros Demônio no seu Cemitério que foram destruídos e enviados para lá neste turno; Invoque-os por Invocação-Especial, mas você não pode Invocar por Invocação-Especial, exceto monstros Demônio, enquanto você controlar qualquer um daqueles monstros com a face para cima.
-Se este card seria destruído no campo por batalha ou efeito, em vez disso você pode destruir 1 card no campo com a face para cima.
-Você só pode usar cada um dos efeitos de ""Senhor dos Enma Desacorrentado - Yama"" uma vez por turno.",Invocação Especial,,Invocado por Invocação Especial pelo efeito de {CARD},,,,,,,,,,,,,
-100261051,Alma Desacorrentada - Abominador da Fúria,"2+ monstros, incluindo um monstro Demônio
-Se seu oponente Invocar por Invocação-Especial um ou mais monstros com a face para cima: você pode escolher 1 deles; destrói 1 monstro Demônio que você controla, e se fizer, negue os efeitos do monstro escolhido até o final deste turno.
-Quando um efeito de monstro é ativado no campo e você controla um Monstro Link ""Desacorrentado(a)"" de Link-4 ou maior (Efeito Rápido): você pode banir este card do seu Cemitério; destrua o monstro que ativou aquele efeito.
-Você só pode usar cada efeito de ""Alma Desacorrentada - Abominador da Fúria"" uma vez por turno.",Negar,Destruir,,,,,,,,,,,,,,
-100261052,Reencarnação do Desacorrentado,"Quando este card é ativado: você pode adicionar 1 Magia ""Desacorrentado(a)"" (exceto ""Reencarnação do Desacorrentado"") ou 1 ""Prisão da Abominação"" do seu Deck à sua mão.
-Uma vez por turno: você pode escolher até 3 cards ""Desacorrentado(a)"" no seu Cemitério, exceto ""Reencarnação do Desacorrentado""; embaralhe-os no Deck, então você pode destruir outros cards que você controla até o número embaralhado.
-Você só pode ativar 1 ""Reencarnação do Desacorrentado"" por turno.",Adicionar à mão?,Efeito de recuperação,Destruir o card?,,,,,,,,,,,,,
-100261053,Sincretismo Desacorrentado,"Escolha 2 monstros no campo com a face para cima, incluindo um Monstro Link ""Alma Desacorrentada""; imediatamente após ativar este efeito, Invoque por Invocação-Link 1 monstro Demônio usando apenas aqueles 2 monstros.
-Se este card Baixado é destruído por efeito: você pode Invocar por Invocação-Especial 1 monstro ""Desacorrentado(a)"" do seu Deck.
-Você só pode usar cada um dos efeitos de ""Sincretismo Desacorrentado"" uma vez por turno.",Invocação Link,Invocação Especial,,,,,,,,,,,,,,
+100262101,泽塔次元的魔术王,"虚空世界的观测者。通过一切时空的扭曲观测森罗万象。
+请当心。当你窥探梦境时，泽塔也正窥视着这个世界。",,,,,,,,,,,,,,,,
 100263001,Tiranno Negro,"Pode atacar diretamente se os únicos monstros que seu oponente contrela estão em Posição de Defesa.
 Você só pode usar cada um dos efeitos de ""Tiranno Negro"" uma vez por turno.
 Durante sua Fase Principal, se um Card de Magia ou efeito foi ativado neste turno: você pode Invocar por Invocação-Especial este card da sua mão.
@@ -133,14 +54,6 @@ Durante sua Fase Principal, se este card está no seu Cemitério, exceto no turn
 100263010,D-Explosão,"Você só pode ativar 1 ""D-Explosão"" uma vez por turno.
 Escolha 1 Magia com a face para cima que você controla; destrua-o, e se o fizer, compre 1 card, então se você controla um monstro ""HERÓI do Destino"", você pode Invocar por Invocação-Especial 1 monstro ""HERÓI do Destino"" da sua mão, Cemitério, ou banimento.
 Se um monstro equipado com uma Magia de Equipamento ou ""HERÓI do Destino - Dogma"", atacar, no fim da Etapa de Dano: você pode banir este card do seu Cemitério; aquele monstro pode realizar um segundo ataque em seguida.",Comprar,Fazer outro ataque,Invocação Especial?,,,,,,,,,,,,,
-100264002,Origem do Arquidemônio,"Se este card está na sua mão: você pode oferecer como Tributo 1 outro monstro ""Arquidemônio"" da sua mão ou campo; Invoque este card por Invocação-Especial.
-Se este card for Invocado por Invocação-Normal ou Especial: você pode Invocar por Invocação-Especial 1 monstro Demônio de Nível 6 com 2500 de ATK da sua mão, Deck ou Cemitério.
-Quando seu oponente ativar um efeito de monstro e você controla ""Caveira Invocada"" (Efeito Rápido): você pode negar a ativação, e se fizer isso, destrua aquele card.
-Você só pode usar cada um dos efeitos de ""Origem do Arquidemônio"" uma vez por turno.",Invocar este card por Invocação Especial,Invocação Especial,Negar e destruir,,,,,,,,,,,,,
-100264003,"Makourai, o Relâmpago","(Este card é sempre considerado como um card ""Arquidemônio"".)
-Escolha 1 monstro ""Arquidemônio"" que você controla; ele ganha 600 de ATK, então você pode destruir todos os monstros que seu oponente controla com ATK original menor que o ATK daquele monstro.
-Durante sua Fase Principal: você pode banir este card do seu Cemitério, então escolha 1 monstro Demônio de Nível 6 com 2500 de ATK no seu Cemitério; adicione-o à sua mão.
-Você só pode usar cada um dos efeitos de ""Makourai, o Relâmpago"" uma vez por turno.",Ativar,Recuperar,Destruir aquele monstro?,,,,,,,,,,,,,
 100265002,Fazticeira Semente,"Se este card for Invocado por Invocação-Normal ou Especial e você controla um monstro ""Fazticeira"" que não seja ""Fazticeira Semente"" ou ""Regulus, o Príncipe de Endymion"": você pode escolher 1 card com a face para cima no campo; retorne-o para a mão.
 Você pode banir este card do seu Cemitério; revele qualquer número de cards na sua mão, incluindo uma Magia, e embaralhe-os no Deck, então compre aquela quantia de card.
 Você só pode usar cada um dos efeitos de ""Fazticeira Semente"" uma vez por turno.",Retornar para a mão,Comprar,,,,,,,,,,,,,,
@@ -155,6 +68,11 @@ Em qualquer dos seguintes momentos: negue os efeitos de tantos cards com a face 
 ● Quando o monstro que seu oponente controla com maior ATK (mesmo se empatado) declarar um ataque.
 ● Quando seu oponente ativar um efeito de monstro que detruiria um ou mais cards no campo.
 ● Quando seu oponente ativar um efeito de monstro na mão ou campo durante o seu turno.",Ativar,Ativar aplicando o efeito de {CARD}.,,,,,,,,,,,,,,
+100266003,来自冥府的使者,"这个卡名的①②的效果1回合各能使用1次。
+①：自己受到战斗·效果伤害的场合才能发动。这张卡从手卡特殊召唤，自己回复2000基本分。那之后，可以从以下效果选1个适用。
+●从自己的手卡·卡组·墓地把1只「来自冥府的使者」特殊召唤。
+●对方场上最多2只攻击表示怪兽破坏。
+②：这张卡特殊召唤的回合的结束阶段，以自己墓地1张陷阱卡为对象才能发动。那张卡在自己场上盖放。",Invocação Especial,Baixar uma Armadilha,Invocação Especial,Efeito de destruição,Não fazer nada,,,,,,,,,,,
 101305081,远古者的见证人,"自己场上或墓地有同调怪兽存在的场合：可以把这张卡从手卡特殊召唤。
 这张卡特殊召唤的场合：可以从自己的额外卡组·墓地把最多3只卡名不同的同调怪兽当作永续魔法卡使用在自己的魔法与陷阱区域以表侧表示放置，在自己场上把持有放置数量相同等级的1只「弧光衍生物」（机械族·光·攻/守0）特殊召唤，这个效果的发动后，直到回合结束时自己不是同调怪兽不能从额外卡组特殊召唤。
 「远古者的见证人」的每个效果1回合各能使用1次。",Invocação Especial,Colocar um monstro,,,,,,,,,,,,,,
