@@ -273,6 +273,7 @@ Placez face recto 1 Magie de Terrain ""Angetélité"" depuis votre main, Deck ou
 Jusqu'à la fin de votre prochain tour après la résolution de cette carte, vous ne pouvez pas Invoquer Spécialement (Monstres Synchro exclus) depuis l'Extra Deck."
 101305096,Ouverture en e4 Angetélité,str1,Activer
 101305096,Ouverture en e4 Angetélité,str2,Activer en appliquant l'effet de {CARD}.
+101305096,Ouverture en e4 Angetélité,str3,L'effet de {CARD} est actuellement appliqué.
 101305181,Jeton Arc,name,Jeton Arc
 101305181,Jeton Arc,desc,Invoqué spécialement par l'effet de « Témoin de l'Ancien ».
 101305188,Jeton Imposteur,name,Jeton Imposteur
@@ -624,6 +625,17 @@ Vous ne pouvez utiliser qu'1 effet de ""Maelstrom de Dédale"" par tour, et uniq
 101306076,Maelstrom de Dédale,str1,Annuler l'Invocation
 101306076,Maelstrom de Dédale,str2,Envoyer au Cimetière
 101306076,Maelstrom de Dédale,str3,Détruire ce monstre ?
+101306080,Carte de Bingo,name,Carte de Bingo
+101306080,Carte de Bingo,desc,"Choisissez 1 monstre dans une colonne dont toutes les zones sont occupées et détruisez autant de cartes dans la colonne que possible, puis chaque joueur pioche 1 carte.
+Vous pouvez bannir cette carte depuis votre Cimetière, puis activez 1 de ces effets ;
+● Détruisez 5 monstres dans votre Zone Monstre Main ou 5 cartes dans votre Zone Magie & Piège, puis piochez 2 cartes.
+● Détruisez 5 monstres dans la Zone Monstre Main de votre adversaire ou 5 cartes dans sa Zone Magie & Piège, puis il pioche 2 cartes."
+101306080,Carte de Bingo,str1,Activer
+101306080,Carte de Bingo,str2,Effet dans le Cimetière
+101306080,Carte de Bingo,str3,Détruisez vos propres cartes.
+101306080,Carte de Bingo,str4,Détruire les cartes de votre adversaire
+101306080,Carte de Bingo,str5,Zone Monstre Main
+101306080,Carte de Bingo,str6,Zone Magie & Piège
 101306149,Jeton Miroitement,name,Jeton Miroitement
 101306149,Jeton Miroitement,desc,Invoqué Spécialement par l'effet de « Lumineuse Inflexcipateur ».
 101306154,Jeton Bouc Émissaire,name,Jeton Bouc Émissaire
