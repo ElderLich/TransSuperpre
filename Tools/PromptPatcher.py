@@ -34136,6 +34136,46 @@ def build_translation_pack(lang: str):
                 "ja": "EXデッキに戻す",
                 "kr": "엑스트라 덱으로 되돌린다"
             },
+            "墓地效果": {
+                "en": "GY effect",
+                "fr": "Effet du Cimetière",
+                "de": "Friedhof-Effekt",
+                "es": "Efecto en el Cementerio",
+                "pt": "Efeito no Cemitério",
+                "it": "Effetto nel Cimitero",
+                "ja": "墓地効果",
+                "kr": "묘지 효과"
+            },
+            "自己的卡破坏": {
+                "en": "Destroy your own card",
+                "fr": "Détruire votre propre carte",
+                "de": "Eigene Karte zerstören",
+                "es": "Destruir tu propia carta",
+                "pt": "Destrua seu próprio card",
+                "it": "Distruggi una tua carta",
+                "ja": "自分のカードを破壊",
+                "kr": "자신의 카드를 파괴"
+            },
+            "主要怪兽区域": {
+                "en": "Main Monster Zone",
+                "fr": "Zone Monstre Main",
+                "de": "Main-Monsterzone",
+                "es": "Zona de Monstruos Principal",
+                "pt": "Zona Principal de Monstros",
+                "it": "Zona Mostri Principale",
+                "ja": "メインモンスターゾーン",
+                "kr": "메인 몬스터 존"
+            },
+            "魔法与陷阱区域": {
+                "en": "Spell & Trap Zone",
+                "fr": "Zone Magie & Piège",
+                "de": "Zauber- & Fallenzone",
+                "es": "Zona de Magia y Trampas",
+                "pt": "Zona de Magias & Armadilhas",
+                "it": "Zona Magie & Trappole",
+                "ja": "魔法＆罠ゾーン",
+                "kr": "마법 & 함정 존"
+            },
         
         
 
