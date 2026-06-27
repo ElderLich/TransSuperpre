@@ -265,6 +265,7 @@ Posiziona 1 Magia Terreno ""Angelechy"" dalla tua mano, Deck o Cimitero scoperta
 Fino alla fine del tuo prossimo turno dopo la risoluzione di questa carta, non puoi Evocare Specialmente dall'Extra Deck, eccetto Mostri Synchro."
 101305096,Apertura Angelechy e4,str1,Attiva
 101305096,Apertura Angelechy e4,str2,"Attivare applicando l'effetto di ""Apertura Angelechy e4""."
+101305096,Apertura Angelechy e4,str3,L'effetto di {CARD} si sta applicando.
 101305181,Segna-Arco,name,Segna-Arco
 101305181,Segna-Arco,desc,"Evocato Specialmente dall'effetto di ""Testimone dell'Antico""."
 101305188,Segna-Impostore,name,Segna-Impostore
@@ -603,6 +604,17 @@ Puoi utilizzare solo 1 effetto di ""Maelstrom di Dedalo"" per turno, e solo una 
 101306076,Maelstrom di Dedalo,str1,Annullare l'Evocazione
 101306076,Maelstrom di Dedalo,str2,Mandare al Cimitero
 101306076,Maelstrom di Dedalo,str3,Distruggere quel mostro?
+101306080,Carta Bingo,name,Carta Bingo
+101306080,Carta Bingo,desc,"Scegli 1 mostro in una colonna con tutte le Zone occupate e distruggi quante più carte possibile in quella colonna, poi ciascun giocatore pesca 1 carta.
+Puoi bandire questa carta dal tuo Cimitero; attiva 1 di questi effetti;
+● Distruggi 5 mostri nella tua Zona Mostri Main oppure 5 carte nella tua Zona Magie & Trappole, poi pesca 2 carte.
+● Distruggi 5 mostri nella Zona Mostri Main del tuo avversario oppure 5 carte nella sua Zona Magie & Trappole, poi il tuo avversario pesca 2 carte."
+101306080,Carta Bingo,str1,Attiva
+101306080,Carta Bingo,str2,Effetto nel Cimitero
+101306080,Carta Bingo,str3,Distruggi una tua carta
+101306080,Carta Bingo,str4,Distruggere una carta del tuo avversario
+101306080,Carta Bingo,str5,Zona Mostri Principale
+101306080,Carta Bingo,str6,Zona Magie & Trappole
 101306149,Segna-Barlume,name,Segna-Barlume
 101306149,Segna-Barlume,desc,"Evocato Specialmente dall'effetto di ""Irremovibilatrice Luminosa""."
 101306154,Segna-Capro Espiatorio,name,Segna-Capro Espiatorio
