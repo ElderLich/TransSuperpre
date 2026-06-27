@@ -5,7 +5,6 @@
 from __future__ import annotations
 
 import argparse
-import csv
 import json
 import os
 import re
@@ -18,6 +17,8 @@ import urllib.request
 import zipfile
 from dataclasses import dataclass
 from pathlib import Path
+
+from shared_mappings import load_locale_mappings_csv, save_locale_mappings_csv
 
 ROOT = Path(__file__).resolve().parents[2]
 
@@ -419,7 +420,7 @@ def configure(lang: str) -> None:
     BASE_DIR = Path(env_value("BASE_DIR", str(OUTPUT_DIR / "Base Files"))).resolve()
     WORK_DIR = Path(env_value("WORK_DIR", str(OUTPUT_DIR / "Workspace"))).resolve()
     TOOLS_DIR = Path(env_value("TOOLS_DIR", str(ROOT / "Tools"))).resolve()
-    MAPPINGS_PATH = Path(env_value("MAPPINGS_PATH", str(WORK_DIR / "Mappings.csv"))).resolve()
+    MAPPINGS_PATH = Path(env_value("MAPPINGS_PATH", str(ROOT / "Shared" / "Mappings.csv"))).resolve()
     YPK_URL = env_value("YPK_URL", YPK_URL_DEFAULT)
     CARDS_CDB_URL = env_value("CARDS_CDB_URL", CARDS_CDB_URL_TEMPLATE.format(locale=CONFIG.cards_locale))
     JSON_URL = env_value("JSON_URL", JSON_URL_DEFAULT)
@@ -684,33 +685,12 @@ def parse_card_ids(cell: object) -> list[str]:
 
 
 def load_mappings_csv(path: Path) -> dict[int, dict[str, str]]:
-    if not path.exists():
-        return {}
-    rows = {}
-    with path.open("r", encoding="utf-8-sig", newline="") as handle:
-        reader = csv.DictReader(handle)
-        for row in reader:
-            try:
-                card_id = int(str(row.get("id", "")).strip())
-            except ValueError:
-                continue
-            rows[card_id] = {"id": str(card_id), "name": clean_cell(row.get("name"))}
-            for index in range(1, 17):
-                rows[card_id][f"str{index}"] = clean_cell(row.get(f"str{index}"))
-    return rows
+    return load_locale_mappings_csv(path)
 
 
 def save_mappings_csv(path: Path, rows: dict[int, dict[str, str]]) -> None:
-    fields = ["id", "name"] + [f"str{i}" for i in range(1, 17)]
-    path.parent.mkdir(parents=True, exist_ok=True)
-    with path.open("w", encoding="utf-8-sig", newline="") as handle:
-        writer = csv.DictWriter(handle, fieldnames=fields, lineterminator="\n")
-        writer.writeheader()
-        for card_id in sorted(rows):
-            row = {field: "" for field in fields}
-            row.update(rows[card_id])
-            row["id"] = card_id
-            writer.writerow(row)
+    if CONFIG.lang == "en":
+        save_locale_mappings_csv(path, rows)
 
 
 def scan_cdb_placeholders(cdb_path: Path) -> tuple[dict[int, dict], set[int]]:
