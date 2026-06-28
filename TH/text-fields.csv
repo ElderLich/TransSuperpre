@@ -79,7 +79,7 @@ If this card is Special Summoned: You can Special Summon 1 ""Elemental HERO"" mo
 100263009,Quick Summon,desc,"Immediately after this effect resolves, Normal Summon/Set 1 monster. When you do, if your opponent controls a monster, you can Normal Summon a Level 5 or higher monster without Tributing. During your Main Phase, if this card is in your GY, except the turn it was sent there: You can banish it; add 1 Level 5 or higher monster that can be Normal Summoned/Set from your Deck or GY to your hand, then immediately after this effect resolves, Tribute Summon it. You can only use this effect of ""Quick Summon"" once per turn."
 100263009,Quick Summon,str1,Activate
 100263009,Quick Summon,str2,Add to hand
-100263009,Quick Summon,str3,Apply the effect of {CARD} to Summon without Tributing?
+100263009,Quick Summon,str3,"Apply the effect of ""Quick Summon"" to Summon without Tributing?"
 100263010,D - Burst,name,D - Burst
 100263010,D - Burst,desc,"Target 1 face-up Spell you control; destroy it, and if you do, draw 1 card, then if you control a ""Destiny HERO"" monster, you can Special Summon 1 ""Destiny HERO"" monster from your hand, GY, or banishment. At the end of the Damage Step, if a monster equipped with an Equip Card, or ""Destiny HERO - Dogma"", attacked: You can banish this card from your GY; that monster can make a second attack in a row. You can only activate 1 ""D - Burst"" per turn."
 100263010,D - Burst,str1,Draw
@@ -201,6 +201,7 @@ You can target 1 opponent's monster in this card's adjacent column; banish it, t
 101305096,Angelechy Opening to e4,desc,"If your opponent goes first, you can also activate this card from your hand during the Standby Phase of their first turn. Place 1 ""Angelechy"" Field Spell from your hand, Deck, or GY, face-up on your field, and if you do, Special Summon 1 Level 2 or 7 ""Angelechy"" monster from your Extra Deck to the Extra Monster Zone, and if you do that, place 1 ""Angelechy"" monster from your Extra Deck in your Spell & Trap Zone as a face-up Continuous Spell. Until the end of your next turn after this card resolves, you cannot Special Summon from the Extra Deck, except Synchro Monsters."
 101305096,Angelechy Opening to e4,str1,Activate
 101305096,Angelechy Opening to e4,str2,Activate by applying the effect of {CARD}.
+101305096,Angelechy Opening to e4,str3,The effect of {CARD} is currently being applied.
 101305181,Arc Token,name,Arc Token
 101305181,Arc Token,desc,"ถูก Special Summon ด้วยเอฟเฟกต์ของ ""Witness of the Ancient"""
 101305188,Imposter Token,name,Imposter Token
@@ -446,6 +447,16 @@ You can only activate 1 ""Ashtra Divine Domain"" per turn."
 101306076,Daedalus Maelstrom,str1,Negate the Summon
 101306076,Daedalus Maelstrom,str2,Send to the GY
 101306076,Daedalus Maelstrom,str3,Destroy that monster?
+101306080,Bingo Card,name,Bingo Card
+101306080,Bingo Card,desc,"Choose 1 monster in a column with all zones occupied and destroy as many cards in that column as possible, then each player draws 1 card. You can banish this card from your GY, then activate 1 of these effects;
+● Destroy 5 monsters in your Main Monster Zone or 5 cards in your Spell & Trap Zone, then draw 2 cards.
+● Destroy 5 monsters in your opponent's Main Monster Zone or 5 cards in their Spell & Trap Zone, then they draw 2 cards."
+101306080,Bingo Card,str1,Activate
+101306080,Bingo Card,str2,GY effect
+101306080,Bingo Card,str3,Destroy your own card
+101306080,Bingo Card,str4,Destroy an opponent's card
+101306080,Bingo Card,str5,Main Monster Zone
+101306080,Bingo Card,str6,Spell & Trap Zone
 101306149,Glimmer Token,name,Glimmer Token
 101306149,Glimmer Token,desc,"อัญเชิญพิเศษโดยผลของ ""Adamancipator Luminous"""
 101306154,Scapedgoat Tokens,name,Scapedgoat Tokens
