@@ -111,7 +111,7 @@ Während deiner Main Phase, falls sich diese Karte in deinem Friedhof befindet, 
 Du kannst diesen Effekt von „Schnellbeschwörung“ nur einmal pro Spielzug verwenden."
 100263009,Schnellbeschwörung,str1,Aktivieren
 100263009,Schnellbeschwörung,str2,Der Hand hinzufügen
-100263009,Schnellbeschwörung,str3,"Den Effekt von {CARD} anwenden, um ohne Tribut zu beschwören?"
+100263009,Schnellbeschwörung,str3,"Den Effekt von ""Schnellbeschwörung"" anwenden, um ohne Tribut zu beschwören?"
 100263010,D - Platzen,name,D - Platzen
 100263010,D - Platzen,desc,"Wähle 1 offenen Zauber, den du kontrollierst; zerstöre ihn und falls du dies tust, ziehe 1 Karte, dann, falls du ein „Schicksals-HELD“-Monster kontrollierst, kannst du 1 „Schicksals-HELD“-Monster als Spezialbeschwörung von deiner Hand, deinem Friedhof oder deinen verbannten Karten beschwören.
 Am Ende des Damage Steps, falls ein Monster, das mit einer Ausrüstungskarte ausgerüstet ist oder „Schicksals-HELD - Dogma“, angegriffen hat: Du kannst diese Karte von deinem Friedhof verbannen; das Monster kann sofort einen zweiten Angriff durchführen.
@@ -272,6 +272,7 @@ Du kannst jeden Effekt von „Hexwerker Samen“ nur einmal pro Spielzug verwend
 从自己的手卡·卡组·墓地把1张「具象天使」场地魔法卡在自己场上以表侧表示放置，从额外卡组把1只2·7星「具象天使」怪兽在额外怪兽区域特殊召唤，从额外卡组把1只「具象天使」怪兽当作永续魔法卡使用在自己的魔法与陷阱区域以表侧表示放置。这张卡的发动后，直到下个自己回合的结束时，自己不是同调怪兽不能从额外卡组特殊召唤。"
 101305096,具象天使e4开局,str1,Aktivieren
 101305096,具象天使e4开局,str2,"Aktiviere, indem du den Effekt von {CARD} anwendest."
+101305096,具象天使e4开局,str3,Der Effekt von {CARD} wird derzeit angewendet.
 101305181,弧光衍生物,name,弧光衍生物
 101305181,弧光衍生物,desc,由「远古者的见证人」的效果特殊召唤。
 101305188,欺诈师衍生物,name,欺诈师衍生物
@@ -619,6 +620,17 @@ Falls du richtig vorausgesagt hast, du kannst 1 Monster, das „Dunkler Zeitzaub
 101306076,海龙神的大涡,str1,Beschwörung annullieren
 101306076,海龙神的大涡,str2,Auf den Friedhof legen
 101306076,海龙神的大涡,str3,Dieses Monster zerstören?
+101306080,宾果卡,name,宾果卡
+101306080,宾果卡,desc,"①：选相同纵列全部有卡存在的1只怪兽，那个纵列的卡全部破坏。那之后，双方各自抽1张。
+②：可以把墓地的这张卡除外，从以下效果选择1个发动。
+●自己主要怪兽区域5只怪兽或者自己魔法与陷阱区域5张卡破坏。那之后，自己抽2张。
+●对方主要怪兽区域5只怪兽或者对方魔法与陷阱区域5张卡破坏。那之后，对方抽2张。"
+101306080,宾果卡,str1,Aktivieren
+101306080,宾果卡,str2,Friedhof-Effekt
+101306080,宾果卡,str3,Eigene Karte zerstören
+101306080,宾果卡,str4,Zerstöre eine Karte deines Gegners
+101306080,宾果卡,str5,Main-Monsterzone
+101306080,宾果卡,str6,Zauber- & Fallenzone
 101306149,奇石衍生物,name,奇石衍生物
 101306149,奇石衍生物,desc,由「魔救之辉迹」的效果特殊召唤。
 101306154,Sündenbock-Spielmarke,name,Sündenbock-Spielmarke

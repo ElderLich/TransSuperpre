@@ -60,7 +60,7 @@ Du kannst jeden Effekt von „Puppenhammer“ nur einmal pro Spielzug verwenden.
 100263009,Schnellbeschwörung,"Sofort nachdem dieser Effekt aufgelöst wurde, beschwöre 1 Monster als Normalbeschwörung / setze es Normal.
 Wenn du dies tust, falls dein Gegner ein Monster kontrolliert, kannst du ein Monster der Stufe 5 oder höher als Normalbeschwörung beschwören, ohne Tribut anzubieten.
 Während deiner Main Phase, falls sich diese Karte in deinem Friedhof befindet, außer in dem Spielzug, in dem sie dorthin gelegt wurde: Du kannst sie verbannen; füge deiner Hand 1 Monster der Stufe 5 oder höher, das als Normalbeschwörung beschworen/gesetzt werden kann, von deinem Deck oder Friedhof hinzu, dann, sofort nachdem dieser Effekt aufgelöst wurde, beschwöre das Monster als Tributbeschwörung.
-Du kannst diesen Effekt von „Schnellbeschwörung“ nur einmal pro Spielzug verwenden.",Aktivieren,Der Hand hinzufügen,"Den Effekt von {CARD} anwenden, um ohne Tribut zu beschwören?",,,,,,,,,,,,,
+Du kannst diesen Effekt von „Schnellbeschwörung“ nur einmal pro Spielzug verwenden.",Aktivieren,Der Hand hinzufügen,"Den Effekt von ""Schnellbeschwörung"" anwenden, um ohne Tribut zu beschwören?",,,,,,,,,,,,,
 100263010,D - Platzen,"Wähle 1 offenen Zauber, den du kontrollierst; zerstöre ihn und falls du dies tust, ziehe 1 Karte, dann, falls du ein „Schicksals-HELD“-Monster kontrollierst, kannst du 1 „Schicksals-HELD“-Monster als Spezialbeschwörung von deiner Hand, deinem Friedhof oder deinen verbannten Karten beschwören.
 Am Ende des Damage Steps, falls ein Monster, das mit einer Ausrüstungskarte ausgerüstet ist oder „Schicksals-HELD - Dogma“, angegriffen hat: Du kannst diese Karte von deinem Friedhof verbannen; das Monster kann sofort einen zweiten Angriff durchführen.
 Du kannst nur 1 „D - Platzen“ pro Spielzug aktivieren.",Ziehen,Einen zusätzlichen Angriff durchführen,Als Spezialbeschwörung beschwören?,,,,,,,,,,,,,
@@ -143,7 +143,7 @@ Du kannst jeden Effekt von „Hexwerker Samen“ nur einmal pro Spielzug verwend
 可以从自己墓地把这张卡除外；从卡组把「具象天使之乱」以外的1张「具象天使」魔法·陷阱卡加入手卡。
 「具象天使之乱」的每个效果1回合各能使用1次。",Kontrolle übertragen,Sucheffekt,,,,,,,,,,,,,,
 101305096,具象天使e4开局,"对方先攻的场合，这张卡也能在对方的第1个回合的准备阶段从手卡发动。
-从自己的手卡·卡组·墓地把1张「具象天使」场地魔法卡在自己场上以表侧表示放置，从额外卡组把1只2·7星「具象天使」怪兽在额外怪兽区域特殊召唤，从额外卡组把1只「具象天使」怪兽当作永续魔法卡使用在自己的魔法与陷阱区域以表侧表示放置。这张卡的发动后，直到下个自己回合的结束时，自己不是同调怪兽不能从额外卡组特殊召唤。",Aktivieren,"Aktiviere, indem du den Effekt von {CARD} anwendest.",,,,,,,,,,,,,,
+从自己的手卡·卡组·墓地把1张「具象天使」场地魔法卡在自己场上以表侧表示放置，从额外卡组把1只2·7星「具象天使」怪兽在额外怪兽区域特殊召唤，从额外卡组把1只「具象天使」怪兽当作永续魔法卡使用在自己的魔法与陷阱区域以表侧表示放置。这张卡的发动后，直到下个自己回合的结束时，自己不是同调怪兽不能从额外卡组特殊召唤。",Aktivieren,"Aktiviere, indem du den Effekt von {CARD} anwendest.",Der Effekt von {CARD} wird derzeit angewendet.,,,,,,,,,,,,,
 101305181,弧光衍生物,由「远古者的见证人」的效果特殊召唤。,,,,,,,,,,,,,,,,
 101305188,欺诈师衍生物,由「欺诈转移」的效果特殊召唤。,,,,,,,,,,,,,,,,
 101306001,Flinker Panter-Krieger,"Während der Main Phase (Schnelleffekt): Du kannst 1 anderes Monster von deiner Hand oder Spielfeldseite als Tribut anbieten und dann 1 dieser Effekte aktivieren;
@@ -326,6 +326,10 @@ Falls du richtig vorausgesagt hast, du kannst 1 Monster, das „Dunkler Zeitzaub
 101306076,海龙神的大涡,"这个卡名的①②的效果1回合只能有1次使用其中任意1个。
 ①：自己场上「龙都 亚特兰蒂斯」存在，对方把怪兽召唤·特殊召唤之际才能发动。那个无效，那些怪兽破坏。那之后，自己场上有水属性连接怪兽存在的场合，可以把水属性怪兽以外的场上的怪兽全部破坏。
 ②：把墓地的这张卡除外，把自己场上1张表侧表示的「海」送去墓地，以对方场上1只怪兽为对象才能发动。那只怪兽送去墓地。",Beschwörung annullieren,Auf den Friedhof legen,Dieses Monster zerstören?,,,,,,,,,,,,,
+101306080,宾果卡,"①：选相同纵列全部有卡存在的1只怪兽，那个纵列的卡全部破坏。那之后，双方各自抽1张。
+②：可以把墓地的这张卡除外，从以下效果选择1个发动。
+●自己主要怪兽区域5只怪兽或者自己魔法与陷阱区域5张卡破坏。那之后，自己抽2张。
+●对方主要怪兽区域5只怪兽或者对方魔法与陷阱区域5张卡破坏。那之后，对方抽2张。",Aktivieren,Friedhof-Effekt,Eigene Karte zerstören,Zerstöre eine Karte deines Gegners,Main-Monsterzone,Zauber- & Fallenzone,,,,,,,,,,
 101306149,奇石衍生物,由「魔救之辉迹」的效果特殊召唤。,,,,,,,,,,,,,,,,
 101306154,Sündenbock-Spielmarke,Als Spezialbeschwörung beschworen mit dem Effekt von „Schlafende Sündenböcke“.,,,,,,,,,,,,,,,,
 101306254,Sündenbock-Spielmarke,Als Spezialbeschwörung beschworen mit dem Effekt von „Schlafende Sündenböcke“.,,,,,,,,,,,,,,,,
