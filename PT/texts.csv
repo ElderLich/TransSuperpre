@@ -49,7 +49,7 @@ Se este card for Invocado por Invocação-Especial: você pode Invocar por Invoc
 Se um ou mais monstros são Invocados por Invocação-Especial do seu Cemitério enquanto este card está no seu Cemitério: você pode adicionar este card à sua mão.
 Você só pode usar cada um dos efeitos de ""Martelo de Brinquedo"" uma vez por turno.",Ativar,Recuperar,Mudar a posição de batalha?,,,,,,,,,,,,,
 100263009,Invocação Rápida,"Imediatamente após ativar este efeito, Invoque por Invocação-Normal/Baixe 1 monstros. Quando você o faz dessa forma, se seu oponente controla um monstro, você pode Invocar por Invocação-Normal um monstro de Nível 5 ou maior sem Tributo.
-Durante sua Fase Principal, se este card está no seu Cemitério, exceto no turno que foi enviado para lá: você pode bani-lo; adicione 1 monstro de Nível 5 ou maior do seu Deck ou Cemitério à sua mão que possa ser Invocado por Invocação-Normal/Baixado, então imediatamente após a ativação desse efeito, Invoque-o por Invocação-Tributo. Você só pode usar este efeito de ""Invocação Rápida"" uma vez por turno.",Ativar,Adicionar à mão,Aplicar o efeito de {CARD} para Invocar sem oferecer Tributo?,,,,,,,,,,,,,
+Durante sua Fase Principal, se este card está no seu Cemitério, exceto no turno que foi enviado para lá: você pode bani-lo; adicione 1 monstro de Nível 5 ou maior do seu Deck ou Cemitério à sua mão que possa ser Invocado por Invocação-Normal/Baixado, então imediatamente após a ativação desse efeito, Invoque-o por Invocação-Tributo. Você só pode usar este efeito de ""Invocação Rápida"" uma vez por turno.",Ativar,Adicionar à mão,"Aplicar o efeito de ""Invocação Rápida"" para Invocar sem oferecer Tributo?",,,,,,,,,,,,,
 100263010,D-Explosão,"Você só pode ativar 1 ""D-Explosão"" uma vez por turno.
 Escolha 1 Magia com a face para cima que você controla; destrua-o, e se o fizer, compre 1 card, então se você controla um monstro ""HERÓI do Destino"", você pode Invocar por Invocação-Especial 1 monstro ""HERÓI do Destino"" da sua mão, Cemitério, ou banimento.
 Se um monstro equipado com uma Magia de Equipamento ou ""HERÓI do Destino - Dogma"", atacar, no fim da Etapa de Dano: você pode banir este card do seu Cemitério; aquele monstro pode realizar um segundo ataque em seguida.",Comprar,Fazer outro ataque,Invocação Especial?,,,,,,,,,,,,,
@@ -132,7 +132,7 @@ Você pode banir este card do seu Cemitério; adicione 1 Magia/Armadilha ""Angel
 Você só pode usar cada um dos efeitos de ""Porturbação de Angelechy"" uma vez por turno.",Transferir o controle,Efeito de busca,,,,,,,,,,,,,,
 101305096,Abertura Angelechy ao e4,"Se seu oponente joga primeiro, você também pode ativar este card da sua mão durante a Fase de Apoio do primeiro turno dele.
 Coloque 1 Magia de Campo ""Angelechy"" da sua mão, Deck ou Cemitério, com a face para cima no seu campo, e se fizer, Invoque por Invocação-Especial 1 monstro ""Angelechy"" de Nível 2 ou 7 do seu Deck Adicional à Zona de Monstro Adicional, e se fizer isso, coloque 1 monstro ""Angelechy"" do seu Deck Adicional na sua Zona de Magias & Armadilhas com a face para cima como uma Magia Contínua.
-Até o final do seu próximo turno após a ativação deste card, você não pode Invocar por Invocação-Especial do seu Deck Adicional, exceto Monstros Sincro.",Ativar,Ativar aplicando o efeito de {CARD}.,,,,,,,,,,,,,,
+Até o final do seu próximo turno após a ativação deste card, você não pode Invocar por Invocação-Especial do seu Deck Adicional, exceto Monstros Sincro.",Ativar,Ativar aplicando o efeito de {CARD}.,O efeito de {CARD} está sendo aplicado.,,,,,,,,,,,,,
 101305181,Ficha de Arc,"Invocado por Invocação-Especial pelo efeito de ""Testeminho do Ancião"".",,,,,,,,,,,,,,,,
 101305188,Ficha de Impostor,"Invocado por Invocação-Especial pelo efeito de ""Troca do Impostor"".",,,,,,,,,,,,,,,,
 101306001,Guerreiro Pantera Veloz,"Não pode declarar ataque a menos que um ou mais monstros foram oferecidos como Tributo neste turno.
@@ -305,6 +305,10 @@ Você só pode ativar 1 ""Domnínio Divino de Asutra"" por turno.",Ativar,Invoca
 101306076,Redemoinho Daedalus,"Quando seu oponente Invocaria por Invocação-Normal ou Especial um ou mais monstros enquanto você controla ""Atlantis, a Cidade do Dragão"": negue a Invocação, e se fizer, destrua ataqueles monstros, então se você controla um Monstro Link ÁGUA, você pode destruir todos os monstros não-ÁGUA no campo.
 Você pode banir este card do seu Cemitério e enviar 1 ""Umi"" com a face para cima que você controla para o Cemitério, então escolha 1 monstro que seu oponente controla; envie-o para o Cemitério.
 Você só pode usar 1 dos efeitos de ""Redemoinho Daedalus"", e somente uma vez por turno.",Negar a Invocação,Enviar para o Cemitério,Destruir aquele monstro?,,,,,,,,,,,,,
+101306080,宾果卡,"①：选相同纵列全部有卡存在的1只怪兽，那个纵列的卡全部破坏。那之后，双方各自抽1张。
+②：可以把墓地的这张卡除外，从以下效果选择1个发动。
+●自己主要怪兽区域5只怪兽或者自己魔法与陷阱区域5张卡破坏。那之后，自己抽2张。
+●对方主要怪兽区域5只怪兽或者对方魔法与陷阱区域5张卡破坏。那之后，对方抽2张。",Ativar,Efeito no Cemitério,Destrua seu próprio card,Destruir um card do seu oponente,Zona Principal de Monstros,Zona de Magias & Armadilhas,,,,,,,,,,
 101306149,Ficha de Brilho,"Invocado por Invocação-Especial pelo efeito de ""Luminosa Adamancipador"".",,,,,,,,,,,,,,,,
 101306154,Ficha de Bode Expiatório,"Invocado por Invocação-Especial por efeito de ""Bode Expiatório Dormindo"".
 Se um card que você controla que menciona ""Mago do Tempo Sombrio"" em seu texto seria destruído por batalha ou efeito, em vez disso você pode destruir este card.",,,,,,,,,,,,,,,,

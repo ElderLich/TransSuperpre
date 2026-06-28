@@ -100,7 +100,7 @@ Você só pode usar cada um dos efeitos de ""Martelo de Brinquedo"" uma vez por 
 Durante sua Fase Principal, se este card está no seu Cemitério, exceto no turno que foi enviado para lá: você pode bani-lo; adicione 1 monstro de Nível 5 ou maior do seu Deck ou Cemitério à sua mão que possa ser Invocado por Invocação-Normal/Baixado, então imediatamente após a ativação desse efeito, Invoque-o por Invocação-Tributo. Você só pode usar este efeito de ""Invocação Rápida"" uma vez por turno."
 100263009,Invocação Rápida,str1,Ativar
 100263009,Invocação Rápida,str2,Adicionar à mão
-100263009,Invocação Rápida,str3,Aplicar o efeito de {CARD} para Invocar sem oferecer Tributo?
+100263009,Invocação Rápida,str3,"Aplicar o efeito de ""Invocação Rápida"" para Invocar sem oferecer Tributo?"
 100263010,D-Explosão,name,D-Explosão
 100263010,D-Explosão,desc,"Você só pode ativar 1 ""D-Explosão"" uma vez por turno.
 Escolha 1 Magia com a face para cima que você controla; destrua-o, e se o fizer, compre 1 card, então se você controla um monstro ""HERÓI do Destino"", você pode Invocar por Invocação-Especial 1 monstro ""HERÓI do Destino"" da sua mão, Cemitério, ou banimento.
@@ -261,6 +261,7 @@ Coloque 1 Magia de Campo ""Angelechy"" da sua mão, Deck ou Cemitério, com a fa
 Até o final do seu próximo turno após a ativação deste card, você não pode Invocar por Invocação-Especial do seu Deck Adicional, exceto Monstros Sincro."
 101305096,Abertura Angelechy ao e4,str1,Ativar
 101305096,Abertura Angelechy ao e4,str2,Ativar aplicando o efeito de {CARD}.
+101305096,Abertura Angelechy ao e4,str3,O efeito de {CARD} está sendo aplicado.
 101305181,Ficha de Arc,name,Ficha de Arc
 101305181,Ficha de Arc,desc,"Invocado por Invocação-Especial pelo efeito de ""Testeminho do Ancião""."
 101305188,Ficha de Impostor,name,Ficha de Impostor
@@ -598,6 +599,17 @@ Você só pode usar 1 dos efeitos de ""Redemoinho Daedalus"", e somente uma vez 
 101306076,Redemoinho Daedalus,str1,Negar a Invocação
 101306076,Redemoinho Daedalus,str2,Enviar para o Cemitério
 101306076,Redemoinho Daedalus,str3,Destruir aquele monstro?
+101306080,宾果卡,name,宾果卡
+101306080,宾果卡,desc,"①：选相同纵列全部有卡存在的1只怪兽，那个纵列的卡全部破坏。那之后，双方各自抽1张。
+②：可以把墓地的这张卡除外，从以下效果选择1个发动。
+●自己主要怪兽区域5只怪兽或者自己魔法与陷阱区域5张卡破坏。那之后，自己抽2张。
+●对方主要怪兽区域5只怪兽或者对方魔法与陷阱区域5张卡破坏。那之后，对方抽2张。"
+101306080,宾果卡,str1,Ativar
+101306080,宾果卡,str2,Efeito no Cemitério
+101306080,宾果卡,str3,Destrua seu próprio card
+101306080,宾果卡,str4,Destruir um card do seu oponente
+101306080,宾果卡,str5,Zona Principal de Monstros
+101306080,宾果卡,str6,Zona de Magias & Armadilhas
 101306149,Ficha de Brilho,name,Ficha de Brilho
 101306149,Ficha de Brilho,desc,"Invocado por Invocação-Especial pelo efeito de ""Luminosa Adamancipador""."
 101306154,Ficha de Bode Expiatório,name,Ficha de Bode Expiatório
