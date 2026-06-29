@@ -130,7 +130,7 @@ Vous ne pouvez utiliser chaque effet de ""Graine, Artisanesorcière"" qu'une foi
 ● Invoquez Spécialement 1 monstre depuis un des Cimetières sur votre Terrain.
 Vous ne pouvez activer qu'1 ""Anciens Secrets"" par tour."
 100266001,Anciens Secrets,str1,Activer
-100266001,Anciens Secrets,str2,Appliquer un effet différent ?
+100266001,Anciens Secrets,str2,Appliquer un autre effet ?
 100266001,Anciens Secrets,str3,Détruire un monstre
 100266001,Anciens Secrets,str4,Détruire des cartes Magie/Piège
 100266001,Anciens Secrets,str5,Piocher
@@ -180,7 +180,7 @@ Vous ne pouvez utiliser chaque effet de ""Yomagna le Fantôme du Feu"" qu'une fo
 101305084,Piègevantail du Tonnerre Fracassant,desc,"Chaque fois qu'un ou plusieurs monstres non-Tonnerre sont Invoqués Spécialement face recto, tant que cette carte est dans la Zone Monstre : ces monstres ne peuvent pas attaquer ce tour, et aussi, détruisez-les durant la End Phase.
 Si cette carte est dans votre Cimetière : vous pouvez cibler 1 carte face recto que vous contrôlez ; détruisez-la, et si vous le faites, ajoutez cette carte à votre main.
 Vous ne pouvez utiliser cet effet de ""Piègevantail du Tonnerre Fracassant"" qu'une fois par tour."
-101305084,Piègevantail du Tonnerre Fracassant,str1,Limiter les attaques
+101305084,Piègevantail du Tonnerre Fracassant,str1,Restriction d'attaque
 101305084,Piègevantail du Tonnerre Fracassant,str2,Recycler
 101305084,Piègevantail du Tonnerre Fracassant,str3,L'effet de {CARD} est actuellement appliqué.
 101305085,Muxousia la Déconcerteuse,name,Muxousia la Déconcerteuse
@@ -213,7 +213,7 @@ S'il ne l'a pas fait, annulez l'effet activé.
 Vous pouvez bannir 1 monstre depuis votre Cimetière ; Invoquez Spécialement 1 ""Jeton Imposteur"" (Psychique/TERRE/ATK 800/DEF 800) du même Niveau que le monstre.
 Vous ne pouvez utiliser cet effet de ""Imposteur-Morphe"" qu'une fois par tour."
 101305088,Imposteur-Morphe,str2,Invocation Spéciale
-101305088,Imposteur-Morphe,str3,Bannir la carte ? (Permutation de l'Imposteur)
+101305088,Imposteur-Morphe,str3,Bannir une carte ? ({CARD})
 101305089,Mortilux Heruvur,name,Mortilux Heruvur
 101305089,Mortilux Heruvur,desc,"2+ monstres de Niveau 8
 Si un ou plusieurs monstres sont envoyés au Cimetière de votre adversaire (sauf durant la Damage Step) : vous pouvez en cibler 1 ; attachez-le à cette carte.
@@ -259,7 +259,7 @@ Vous ne pouvez utiliser chaque effet de ""Enrôlé Angetélité"" qu'une fois pa
 101305094,Problème Angetélité,desc,"Une fois par tour : vous pouvez défausser 1 Magie/Piège ; Invoquez Spécialement 1 monstre ""Angetélité"" de Niveau 2 depuis votre Extra Deck, et si vous le faites, placez 1 monstre ""Angetélité"" depuis votre Extra Deck dans votre Zone Magie & Piège comme Magie Continue face recto.
 Si une ou plusieurs Cartes Monstre ""Angetélité"" face recto que vous contrôlez sont détruites au combat ou par un effet de carte : vous pouvez renvoyer 1 Carte Monstre ""Angetélité"" que vous possédez depuis votre Zone Magie & Piège à l'Extra Deck, puis vous pouvez l'Invoquer Spécialement."
 101305094,Problème Angetélité,str1,Invocation Spéciale
-101305094,Problème Angetélité,str2,Renvoyer dans l'Extra Deck
+101305094,Problème Angetélité,str2,Renvoyer à l'Extra Deck
 101305094,Problème Angetélité,str3,Invocation Spéciale?
 101305095,Perturbation Angetélité,name,Perturbation Angetélité
 101305095,Perturbation Angetélité,desc,"Donnez le contrôle d'1 monstre ""Angetélité"" que vous contrôlez à votre adversaire (jusqu'à la End Phase), puis si votre adversaire contrôle une ou plusieurs cartes face recto dans ses Zones Monstre et/ou Zones Magie & Piège adjacentes, leurs effets sont annulés.
@@ -414,12 +414,25 @@ Si un ou plusieurs monstres sont Invoqués Spécialement depuis le Cimetière ta
 101306030,"Hublot, le Registre Sombre de la Mort",str2,Envoyer au Cimetière
 101306030,"Hublot, le Registre Sombre de la Mort",str3,Invocation Xyz
 101306030,"Hublot, le Registre Sombre de la Mort",str4,Ajouter à la main?
+101306031,秘水调查师,name,秘水调查师
+101306031,秘水调查师,desc,"这个卡名的①②的效果1回合各能使用1次。
+①：这张卡在手卡·墓地存在的场合，从手卡把1只其他魔法师族怪兽或1张魔法·陷阱卡丢弃才能发动。这张卡特殊召唤。这个效果特殊召唤的这张卡从场上离开的场合除外。
+②：这张卡召唤·特殊召唤的场合才能发动。从卡组把1只魔法师族·4星怪兽除外。这个回合的结束阶段，除外的那只怪兽加入手卡或特殊召唤。 "
+101306031,秘水调查师,str1,Invocation Spéciale
+101306031,秘水调查师,str2,Effet de bannissement
+101306031,秘水调查师,str3,Bannir par l'effet de {CARD}
 101306032,Père Grizzly,name,Père Grizzly
 101306032,Père Grizzly,desc,"Lorsque cette carte est détruite au combat et envoyée au Cimetière : vous pouvez Invoquer Spécialement 1 monstre de Niveau 4 avec 1400 ATK depuis votre Deck, ou si vous avez min. 2 monstres de Niveau 4 avec 1400 ATK dans votre Cimetière, vous pouvez Invoquer Spécialement 1 Monstre Normal à la place.
 Lorsque votre adversaire active un effet de monstre et que vous contrôlez un monstre face recto (Monstres à Effet exclus) (Effet Rapide) : vous pouvez bannir cette carte depuis votre Cimetière ; annulez l'activation, et si vous le faites, détruisez le monstre.
 Vous ne pouvez utiliser cet effet de ""Père Grizzly"" qu'une fois par tour."
 101306032,Père Grizzly,str1,Invocation Spéciale
 101306032,Père Grizzly,str2,Annuler l'activation
+101306034,卡通阴影,name,卡通阴影
+101306034,卡通阴影,desc,"这张卡不能通常召唤。「卡通阴影」1回合1次，在不能通常召唤的怪兽在场上以表侧表示存在的场合才能特殊召唤。
+①：这张卡特殊召唤的场合才能发动。从卡组把攻击力或守备力是2000的1只不能通常召唤的怪兽加入手卡。
+②：场上的这张卡被解放的场合，以场上1张卡为对象才能发动（自己场上有攻击力或守备力是2000的怪兽存在的场合，这个效果的对象可以变成2张）。那些卡回到手卡。 "
+101306034,卡通阴影,str1,Effet d'ajout à la main
+101306034,卡通阴影,str2,Renvoyer à la main
 101306035,Dragon Myriaday,name,Dragon Myriaday
 101306035,Dragon Myriaday,desc,"Une fois par tour, durant la End Phase : vous pouvez payer 100 LP ; placez 1 Compteur Myriade sur cette carte.
 Une fois par tour, durant votre Main Phase : vous pouvez placer 1 Compteur Myriade sur cette carte pour chaque écart de 1000 points entre vos LP et ceux de votre adversaire.
@@ -625,16 +638,22 @@ Vous ne pouvez utiliser qu'1 effet de ""Maelstrom de Dédale"" par tour, et uniq
 101306076,Maelstrom de Dédale,str1,Annuler l'Invocation
 101306076,Maelstrom de Dédale,str2,Envoyer au Cimetière
 101306076,Maelstrom de Dédale,str3,Détruire ce monstre ?
+101306078,祟纸神的报应,name,祟纸神的报应
+101306078,祟纸神的报应,desc,"这个卡名的①②的效果1回合各能使用1次。
+①：以自己场上1只怪兽和对方场上1张表侧表示卡为对象才能发动。那只自己怪兽破坏，那张对方的卡直到回合结束时无效。
+②：盖放的这张卡被送去墓地的场合，以对方场上1张表侧表示卡为对象才能发动。那张卡的效果无效。"
+101306078,祟纸神的报应,str1,Annuler l'effet
+101306078,祟纸神的报应,str2,Annuler l'effet
 101306080,Carte de Bingo,name,Carte de Bingo
 101306080,Carte de Bingo,desc,"Choisissez 1 monstre dans une colonne dont toutes les zones sont occupées et détruisez autant de cartes dans la colonne que possible, puis chaque joueur pioche 1 carte.
 Vous pouvez bannir cette carte depuis votre Cimetière, puis activez 1 de ces effets ;
 ● Détruisez 5 monstres dans votre Zone Monstre Main ou 5 cartes dans votre Zone Magie & Piège, puis piochez 2 cartes.
 ● Détruisez 5 monstres dans la Zone Monstre Main de votre adversaire ou 5 cartes dans sa Zone Magie & Piège, puis il pioche 2 cartes."
 101306080,Carte de Bingo,str1,Activer
-101306080,Carte de Bingo,str2,Effet du Cimetière
-101306080,Carte de Bingo,str3,Détruire votre propre carte
+101306080,Carte de Bingo,str2,Effet de Cimetière
+101306080,Carte de Bingo,str3,Détruire vos propres cartes
 101306080,Carte de Bingo,str4,Détruire une carte de votre adversaire
-101306080,Carte de Bingo,str5,Zone Monstre Main
+101306080,Carte de Bingo,str5,Zone Monstre Principale
 101306080,Carte de Bingo,str6,Zone Magie & Piège
 101306149,Jeton Miroitement,name,Jeton Miroitement
 101306149,Jeton Miroitement,desc,Invoqué Spécialement par l'effet de « Lumineuse Inflexcipateur ».
