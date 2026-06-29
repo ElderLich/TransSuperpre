@@ -8,7 +8,8 @@ on:
     branches:
       - main
     paths:
-      - "IT/Workspace/Mappings.csv"
+      - "Shared/Mappings.csv"
+      - ".github/scripts/shared_mappings.py"
       - ".github/scripts/tcg_autopr.py"
       - ".github/workflows/it-workspace-sync.yml"
       - "Tools/PromptPatcher.py"
@@ -49,7 +50,7 @@ jobs:
             git checkout -B "$branch" "origin/$branch"
 
             python .github/scripts/tcg_autopr.py --lang it workspace-sync
-            git add -A "IT/Workspace" "IT/Base Files/test-release.cdb" "IT/Base Files/test-strings.conf" Tools/PromptPatcher.py
+            git add -A "IT/Workspace" "IT/Base Files/test-release.cdb" "IT/Base Files/test-strings.conf" "Shared/Mappings.csv" Tools/PromptPatcher.py
             if git diff --cached --quiet; then
               echo "No IT workspace changes to commit."
               exit 0

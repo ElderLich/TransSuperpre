@@ -8,8 +8,9 @@ on:
     branches:
       - main
     paths:
-      - "TH/Workspace/Mappings.csv"
+      - "Shared/Mappings.csv"
       - ".github/scripts/card_text_autofill.py"
+      - ".github/scripts/shared_mappings.py"
       - ".github/scripts/tcg_autopr.py"
       - ".github/workflows/th-workspace-sync.yml"
       - "Tools/PromptPatcher.py"
@@ -50,7 +51,7 @@ jobs:
             git checkout -B "$branch" "origin/$branch"
 
             python .github/scripts/tcg_autopr.py --lang th workspace-sync
-            git add -A "TH/Workspace" "TH/Base Files/test-release.cdb" "TH/Base Files/test-strings.conf" Tools/PromptPatcher.py
+            git add -A "TH/Workspace" "TH/Base Files/test-release.cdb" "TH/Base Files/test-strings.conf" "Shared/Mappings.csv" Tools/PromptPatcher.py
             if git diff --cached --quiet; then
               echo "No TH workspace changes to commit."
               exit 0

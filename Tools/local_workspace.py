@@ -5,7 +5,7 @@
 The GitHub Actions workflows own the real build now. This helper only copies the
 local translator files into the repo Workspace folder, refreshes local raw2 files
 from the latest upstream package, and optionally commits and pushes Workspace
-changes.
+changes. Placeholder mappings are shared in repo-level Shared/Mappings.csv.
 """
 
 from __future__ import annotations
@@ -41,7 +41,6 @@ LANGS = {
 }
 
 REQUIRED_WORKSPACE_FILES = ("test-release.cdb", "test-strings.conf")
-OPTIONAL_ROOT_FILES = ("Mappings.csv",)
 LOCAL_ROOT_ENV = "SUPER_PRE_LOCAL_ROOT"
 
 
@@ -141,20 +140,6 @@ def copy_workspace(args: argparse.Namespace) -> list[Path]:
             log(f"copied {source} -> {target}")
         changed_paths.append(target)
 
-    if not args.no_mappings:
-        for filename in OPTIONAL_ROOT_FILES:
-            source = local_dir / filename
-            target = workspace_dir / filename
-            if not source.exists():
-                log(f"optional file not found, skipping: {source}")
-                continue
-            if args.dry_run:
-                log(f"would copy {source} -> {target}")
-            else:
-                shutil.copy2(source, target)
-                log(f"copied {source} -> {target}")
-            changed_paths.append(target)
-
     return changed_paths
 
 
@@ -177,20 +162,6 @@ def pull_workspace_to_local(args: argparse.Namespace) -> list[Path]:
             shutil.copy2(source, target)
             log(f"copied {source} -> {target}")
         changed_paths.append(target)
-
-    if not args.no_mappings:
-        for filename in OPTIONAL_ROOT_FILES:
-            source = workspace_dir / filename
-            target = local_dir / filename
-            if not source.exists():
-                log(f"optional repo workspace file not found, skipping: {source}")
-                continue
-            if args.dry_run:
-                log(f"would copy {source} -> {target}")
-            else:
-                shutil.copy2(source, target)
-                log(f"copied {source} -> {target}")
-            changed_paths.append(target)
 
     return changed_paths
 
@@ -266,7 +237,7 @@ def command_refresh(args: argparse.Namespace) -> None:
     env[f"{prefix}_BASE_DIR"] = str(local_dir / "Base Files")
     env[f"{prefix}_WORK_DIR"] = str(source_dir)
     env[f"{prefix}_TOOLS_DIR"] = str(repo_root / "Tools")
-    env[f"{prefix}_MAPPINGS_PATH"] = str(local_dir / "Mappings.csv")
+    env[f"{prefix}_MAPPINGS_PATH"] = str(repo_root / "Shared" / "Mappings.csv")
 
     run(automation_script_command(repo_root, args.lang), repo_root, env=env)
     log(f"refreshed local {config.folder}/{args.source_dir} from the latest upstream package")
@@ -330,7 +301,7 @@ def build_parser() -> argparse.ArgumentParser:
     upload = subparsers.add_parser("upload", help="Copy local files into <lang>/Workspace")
     upload.add_argument("--lang", choices=sorted(LANGS), required=True)
     upload.add_argument("--source-dir", default="raw2", help="Local source folder inside the locale folder")
-    upload.add_argument("--no-mappings", action="store_true", help="Do not copy Mappings.csv")
+    upload.add_argument("--no-mappings", action="store_true", help="Accepted for compatibility; mappings are shared in Shared/Mappings.csv")
     upload.add_argument("--push", action="store_true", help="Commit and push copied Workspace files")
     upload.add_argument("--pull-first", action="store_true", help="Run git pull --ff-only before copying")
     upload.add_argument("--message", help="Commit message when --push is used")
@@ -352,7 +323,7 @@ def build_parser() -> argparse.ArgumentParser:
     pull = subparsers.add_parser("pull", help="Fast-forward local TransSuperpre main, then optionally copy <lang>/Workspace to local raw2")
     pull.add_argument("--lang", choices=sorted(LANGS), help="Language Workspace to copy back into the local folder")
     pull.add_argument("--source-dir", default="raw2", help="Local target folder inside the locale folder")
-    pull.add_argument("--no-mappings", action="store_true", help="Do not copy Mappings.csv")
+    pull.add_argument("--no-mappings", action="store_true", help="Accepted for compatibility; mappings are shared in Shared/Mappings.csv")
     pull.add_argument("--dry-run", action="store_true", help="Show what would be copied")
     pull.set_defaults(func=command_pull)
 

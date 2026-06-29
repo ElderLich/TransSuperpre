@@ -8,8 +8,9 @@ on:
     branches:
       - main
     paths:
-      - "ES/Workspace/Mappings.csv"
+      - "Shared/Mappings.csv"
       - ".github/scripts/es_autopr.py"
+      - ".github/scripts/shared_mappings.py"
       - ".github/workflows/es-workspace-sync.yml"
       - "Tools/PromptPatcher.py"
 
@@ -49,7 +50,7 @@ jobs:
             git checkout -B "$branch" "origin/$branch"
 
             python .github/scripts/es_autopr.py workspace-sync
-            git add -A "ES/Workspace" "ES/Base Files/test-release.cdb" "ES/Base Files/test-strings.conf" Tools/PromptPatcher.py
+            git add -A "ES/Workspace" "ES/Base Files/test-release.cdb" "ES/Base Files/test-strings.conf" "Shared/Mappings.csv" Tools/PromptPatcher.py
             if git diff --cached --quiet; then
               echo "No ES workspace changes to commit."
               exit 0

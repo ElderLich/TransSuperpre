@@ -1,5 +1,35 @@
 [
   {
+    "name": "Cartoon Shade",
+    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) while a face-up monster that cannot be Normal Summoned/Set is on the field. You can only Special Summon \"Cartoon Shade\" once per turn this way. If this card is Special Summoned: You can add 1 monster with 2000 ATK or DEF that cannot be Normal Summoned/Set from your Deck to your hand. If this card on the field is Tributed: You can target 1 card on the field, or you can target 2 if you control a monster with 2000 ATK or DEF; return that card(s) to the hand.",
+    "overallString": "[Monster|Effect|Special Summon] Illusion/Dark  [★1] 0/2000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306034.jpg?version=19.7"
+  },
+  {
+    "name": "Misstic Call",
+    "desc": "If this card is in your hand or GY: You can discard 1 other Spellcaster monster or 1 Spell/Trap; Special Summon this card, but banish it when it leaves the field. If this card is Normal or Special Summoned: You can banish 1 Level 4 Spellcaster monster from your Deck, and if you do, during the End Phase of this turn, add it to your hand or Special Summon it. You can only use each effect of \"Misstic Call\" once per turn.",
+    "overallString": "[Monster|Effect|Tuner] Spellcaster/Water  [★5] 1600/800",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306031.jpg?version=19.7"
+  },
+  {
+    "name": "Cursed Paper Retribution",
+    "desc": "Target 1 monster you control and 1 face-up card your opponent controls; destroy your monster, and if you do, negate the effects of that opponent's card until the end of this turn. If this Set card is sent to the GY: You can target 1 face-up card your opponent controls; negate its effects. You can only use each effect of \"Cursed Paper Retribution\" once per turn.",
+    "overallString": "[Trap]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306078.jpg?version=19.7"
+  },
+  {
+    "name": "Bingo Card",
+    "desc": "Choose 1 monster in a column with all zones occupied and destroy as many cards in that column as possible, then each player draws 1 card. You can banish this card from your GY, then activate 1 of these effects;\n● Destroy 5 monsters in your Main Monster Zone or 5 cards in your Spell & Trap Zone, then draw 2 cards.\n● Destroy 5 monsters in your opponent's Main Monster Zone or 5 cards in their Spell & Trap Zone, then they draw 2 cards.",
+    "overallString": "[Trap]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306080.jpg?version=19.7"
+  },
+  {
+    "name": "Emissaries from Darkness",
+    "desc": "If you take battle or effect damage: You can Special Summon this card from your hand, and if you do, gain 2000 LP, then you can apply 1 of these effects.\n● Special Summon 1 \"Emissaries from Darkness\" from your hand, Deck, or GY.\n● Destroy up to 2 Attack Position monsters your opponent controls.\nDuring the End Phase, if this card was Special Summoned this turn: You can target 1 Trap in your GY; Set it. You can only use each effect of \"Emissaries from Darkness\" once per turn.",
+    "overallString": "[Monster|Effect] Fiend/Dark  [★7] 2700/2500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100266003.jpg?version=19.7"
+  },
+  {
     "name": "Father Grizzly",
     "desc": "When this card is destroyed by battle and sent to the GY: You can Special Summon 1 Level 4 monster with 1400 ATK from your Deck, or if you have 2 or more Level 4 monsters with 1400 ATK in your GY, you can Special Summon 1 Normal Monster instead. When your opponent activates a monster effect and you control a face-up non-Effect Monster (Quick Effect): You can banish this card from your GY; negate the activation, and if you do, destroy that monster. You can only use this effect of \"Father Grizzly\" once per turn.",
     "overallString": "[Monster|Effect] Beast-Warrior/Water  [★4] 1400/1000",
@@ -294,28 +324,10 @@
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306063.jpg?version=19.7"
   },
   {
-    "name": "Capsule Monster Chess",
-    "desc": "During the Main Phase: The turn player can target 1 monster in their GY; they place it face-up in their Spell & Trap Zone as a Continuous Spell. During the End Phase: The turn player can send 1 face-up Monster Card they control to the GY; they Special Summon 1 monster from their Deck with the same original Type and Attribute, but 1, 2, or 3 original Levels higher. You can only use each effect of \"Capsule Monster Chess\" once per turn.",
-    "overallString": "[Spell|Field]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100200291.jpg?version=19.7"
-  },
-  {
     "name": "Swickelavee the Brilliantly Crowned Heavy Cavalry",
     "desc": "2 Level 3 monsters\nOnce per turn, you can also Xyz Summon \"Swickelavee the Brilliantly Crowned Heavy Cavalry\" by using 1 Beast monster you control with 2000 or less ATK (transfer its materials). Cannot be used as material for an Xyz Summon. If this card destroys a monster by battle: Place 1 Crown Counter on it, then apply this effect based on the number of Crown Counters on it.\n● 1: This card gains 400 ATK.\n● 2: This card gains 600 ATK.\n● 3: Return this card to the Extra Deck, and if you do, draw 3 cards.",
     "overallString": "[Monster|Effect|Xyz] Beast-Warrior/Light  [☆3] 2000/2000",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306045.jpg?version=19.7"
-  },
-  {
-    "name": "Unchained Malevolent Magistrate Kamura",
-    "desc": "You can target up to 3 cards you control; destroy them, and if you do, Special Summon this card from your hand, then you can apply any of the following effects, in sequence, based on the original types of the destroyed cards.\n● Monster: Draw 1 card.\n● Spell: Change the battle position of 1 monster on the field.\n● Trap: Destroy 1 other card on the field.\nIf this card on the field is destroyed by card effect: You can destroy all monsters on the field. You can only use each effect of \"Unchained Malevolent Magistrate Kamura\" once per turn.",
-    "overallString": "[Monster|Effect] Fiend/Dark  [★8] 2000/2500",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261049.jpg?version=19.7"
-  },
-  {
-    "name": "Reincarnation of the Unchained",
-    "desc": "When this card is activated: You can add 1 \"Unchained\" Spell (except \"Reincarnation of the Unchained\") or 1 \"Abomination's Prison\" from your Deck to your hand. Once per turn: You can target up to 3 \"Unchained\" cards in your GY, except \"Reincarnation of the Unchained\"; shuffle them into the Deck, then you can destroy other cards you control up to the number shuffled. You can only activate 1 \"Reincarnation of the Unchained\" per turn.",
-    "overallString": "[Spell|Continuous]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261052.jpg?version=19.7"
   },
   {
     "name": "Thoroughbred Elf",
@@ -370,24 +382,6 @@
     "desc": "Each time you Special Summon a Level 8 or higher \"Destiny HERO\" monster(s): All Warrior monsters you currently control gain 300 ATK. You can only use each of the following effects of \"Dark City at Midnight\" once per turn. During your Main Phase, if this card was activated this turn: You can add 1 \"Destiny HERO\" monster, or 1 card that mentions a \"Destiny HERO\" monster's card name, from your Deck to your hand. If this card is destroyed: You can Special Summon 1 \"Destiny HERO\" monster from your Deck (this is treated as a Special Summon with \"Clock Tower Prison\").",
     "overallString": "[Spell|Field]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306062.jpg?version=19.7"
-  },
-  {
-    "name": "Archfiend's Origin",
-    "desc": "If this card is in your hand: You can Tribute 1 other \"Archfiend\" monster from your hand or field; Special Summon this card. If this card is Normal or Special Summoned: You can Special Summon 1 Level 6 Fiend monster with 2500 ATK from your hand, Deck, or GY. When your opponent activates a monster effect and you control \"Summoned Skull\" (Quick Effect): You can negate the activation, and if you do, destroy that card. You can only use each effect of \"Archfiend's Origin\" once per turn.",
-    "overallString": "[Monster|Effect] Fiend/Dark  [★7] 2500/1200",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100264002.jpg?version=19.7"
-  },
-  {
-    "name": "Makourai, the Lightning Strike",
-    "desc": "(This card is always treated as an \"Archfiend\" card.)\nTarget 1 \"Archfiend\" monster you control; it gains 600 ATK, then you can destroy all monsters your opponent controls with lower original ATK than that monster's ATK. During your Main Phase: You can banish this card from your GY, then target 1 Level 6 Fiend monster with 2500 ATK in your GY; add it to your hand. You can only use each effect of \"Makourai, the Lightning Strike\" once per turn.",
-    "overallString": "[Spell|Quick-Play]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100264003.jpg?version=19.7"
-  },
-  {
-    "name": "Stage of Destiny",
-    "desc": "You can activate this card the turn it was Set, by revealing 1 Normal Monster in your hand. Special Summon up to 5 Normal Monsters from your hand and/or GY in Attack Position, also you cannot Special Summon from the Extra Deck for the rest of this turn after this card resolves. You can only activate 1 \"Stage of Destiny\" per turn.",
-    "overallString": "[Trap]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100200290.jpg?version=19.7"
   },
   {
     "name": "Swiftwind Panther Warrior",
@@ -450,60 +444,6 @@
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306071.jpg?version=19.7"
   },
   {
-    "name": "Unchained Ogre Shara",
-    "desc": "During the Main Phase (Quick Effect): You can discard this card; Special Summon 1 Fiend monster from your hand, then destroy 1 card you control. If a card(s) on the field is destroyed by card effect, except by the effect of \"Unchained Ogre Shara\", or by battle, while this card is in your GY: You can Special Summon this card (but place it on the bottom of the Deck when it leaves the field) or add it to your hand. You can only use each effect of \"Unchained Ogre Shara\" once per turn.",
-    "overallString": "[Monster|Effect] Fiend/Fire  [★4] 1500/2000",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261047.jpg?version=19.7"
-  },
-  {
-    "name": "Unchained Ogre Shma",
-    "desc": "If this card is Normal Summoned: You can Special Summon 1 Level 4 or lower \"Unchained\" monster from your Deck, except \"Unchained Ogre Shma\", then destroy 1 card you control, also you cannot Special Summon for the rest of this turn, except Fiend monsters. If this card on the field is destroyed by card effect, except \"Unchained Ogre Shma\", or by battle: You can Special Summon 1 \"Unchained\" monster from your hand or Deck, except \"Unchained Ogre Shma\". You can only use each effect of \"Unchained Ogre Shma\" once per turn.",
-    "overallString": "[Monster|Effect] Fiend/Water  [★4] 1500/2000",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261048.jpg?version=19.7"
-  },
-  {
-    "name": "Unchained Enma Lord Yama",
-    "desc": "2+ monsters, including an \"Unchained Soul\" monster\nDuring your End Phase: You can target up to 2 Fiend monsters in your GY that were destroyed and sent there this turn; Special Summon them, but you cannot Special Summon, except Fiend monsters, while you control either of those face-up monsters. If this card on the field would be destroyed by battle or card effect, you can destroy 1 face-up card on either field instead. You can only use each effect of \"Unchained Enma Lord Yama\" once per turn.",
-    "overallString": "[Monster|Effect|Link] Fiend/Dark  [LINK-4] 3000/-  [↑][↙][↓][↘]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261050.jpg?version=19.7"
-  },
-  {
-    "name": "Unchained Soul Rage Abominator",
-    "desc": "2+ monsters, including a Fiend monster\nIf your opponent Special Summons a monster(s) face-up (except during the Damage Step): You can target 1 of them; destroy 1 Fiend monster you control, and if you do, negate the targeted monster's effects until the end of this turn. When a monster effect is activated on the field and you control a Link-4 or higher \"Unchained\" Link Monster (Quick Effect): You can banish this card from your GY; destroy the monster that activated that effect. You can only use each effect of \"Unchained Soul Rage Abominator\" once per turn.",
-    "overallString": "[Monster|Effect|Link] Fiend/Dark  [LINK-3] 2100/-  [←][→][↓]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261051.jpg?version=19.7"
-  },
-  {
-    "name": "Unchained Syncretism",
-    "desc": "Target 2 face-up monsters on the field, including an \"Unchained Soul\" Link Monster you control; immediately after this effect resolves, Link Summon 1 Fiend monster using only those 2 monsters. If this Set card is destroyed by card effect: You can Special Summon 1 \"Unchained\" monster from your Deck. You can only use each effect of \"Unchained Syncretism\" once per turn.",
-    "overallString": "[Trap]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261053.jpg?version=19.7"
-  },
-  {
-    "name": "Witchcrafter Marka",
-    "desc": "You can Tribute this card from your hand or field; add 1 \"Witchcrafter\" Field or Continuous Spell from your Deck to your hand. If a face-up \"Witchcrafter\" monster(s) you control leaves the field by an opponent's card effect, while this card is in your GY (except during the Damage Step): You can Special Summon this card (but banish it when it leaves the field), and if you do, Tribute 1 monster your opponent controls. You can only use each effect of \"Witchcrafter Marka\" once per turn.",
-    "overallString": "[Monster|Effect] Spellcaster/Dark  [★6] 2500/0",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261024.jpg?version=19.7"
-  },
-  {
-    "name": "Witchcrafter Pupils",
-    "desc": "1 \"Witchcrafter\" monster + 1 Spellcaster monster\nDuring the Main or Battle Phase (Quick Effect): You can activate 1 of these effects;\n● Add 1 \"Witchcrafter\" Spell from your Deck to your hand.\n● Reveal 1 \"Witchcrafter\" Normal or Quick-Play Spell in your hand; apply that Spell's activation effect.\nDuring your End Phase: You can return 1 of your banished \"Witchcrafter\" cards to the GY. You can only use each effect of \"Witchcrafter Pupils\" once per turn.",
-    "overallString": "[Monster|Effect|Fusion] Spellcaster/Fire  [★8] 1800/2100",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261026.jpg?version=19.7"
-  },
-  {
-    "name": "Dark-Eyes Illusionist Faceless Mage",
-    "desc": "If this card battles a monster, neither can be destroyed by that battle. You can discard this card, then activate 1 of these effects (but you can only use each of these effects of \"Dark-Eyes Illusionist Faceless Mage\" once per turn);\n● Place 1 \"Mind Scan\" from your hand or Deck face-up on your field.\n● Add 1 other monster from your GY to your hand that mentions \"Toon World\", then you can Special Summon it, ignoring its Summoning conditions.",
-    "overallString": "[Monster|Effect] Illusion/Dark  [★4] 0/0",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261004.jpg?version=19.7"
-  },
-  {
-    "name": "Mind Scan",
-    "desc": "While you have a \"Toon\" card in your field or GY, your opponent must keep their hand revealed, also you can look at their Set cards at any time. If you have a Toon monster and a \"Toon\" Spell in your field and/or GY: You can declare 1 card name that is not among the cards/effects activated in this Chain; negate the activated effects of cards with that original name until the end of this turn, while this card is face-up on the field. You can only use this effect of \"Mind Scan\" once per turn.",
-    "overallString": "[Trap|Continuous]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261007.jpg?version=19.7"
-  },
-  {
     "name": "Dark Tyranno",
     "desc": "Can attack directly if all monsters your opponent controls are in Defense Position. You can only use each of the following effects of \"Dark Tyranno\" once per turn. During your Main Phase, if a Spell Card or effect was activated this turn: You can Special Summon this card from your hand. If this card is sent to the GY: You can add 1 Level 8 or higher Dinosaur monster from your Deck to your hand, then you can Special Summon it if your opponent controls a monster.",
     "overallString": "[Monster|Effect] Dinosaur/Earth  [★7] 2600/1800",
@@ -564,69 +504,15 @@
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100263010.jpg?version=19.7"
   },
   {
-    "name": "Witchcrafter Terracottan",
-    "desc": "If this card is in your hand: You can target 1 \"Witchcrafter\" card in your GY, except \"Witchcrafter Terracottan\"; add it to your hand, and if you do, Special Summon this card, also you cannot Special Summon from the Extra Deck for the rest of this turn, except \"Witchcrafter\" monsters. During your Main Phase: You can Fusion Summon 1 \"Witchcrafter\" Fusion Monster from your Extra Deck, using monsters from your hand or field. You can only use each effect of \"Witchcrafter Terracottan\" once per turn.",
-    "overallString": "[Monster|Effect] Spellcaster/Earth  [★2] 0/2000",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261023.jpg?version=19.7"
-  },
-  {
-    "name": "Witchcrafter Madame Rilliona",
-    "desc": "\"Witchcrafter Madame Verre\" + 2 Spellcaster monsters\nIf this card is Fusion Summoned: You can Special Summon up to 3 Level 7 or lower \"Witchcrafter\" monsters with different Attributes from each other from your hand and/or Deck, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Fusion Monsters. During your End Phase, if this card is in your GY: You can reveal 1 Spell in your hand; Special Summon this card in Defense Position. You can only use each effect of \"Witchcrafter Madame Rilliona\" once per turn.",
-    "overallString": "[Monster|Effect|Fusion] Spellcaster/Light  [★8] 3800/2800",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261025.jpg?version=19.7"
-  },
-  {
-    "name": "Witchcrafter Celebration",
-    "desc": "Activate 1 of these effects;\n● Destroy 1 \"Witchcrafter\" monster you control and 1 card your opponent controls.\n● Fusion Summon 1 \"Witchcrafter\" Fusion Monster from your Extra Deck, by shuffling Spellcaster monsters from your GY and/or banishment into the Deck.\nDuring your End Phase, if you control a \"Witchcrafter\" monster, while this card is in your GY: You can add this card to your hand. You can only use 1 \"Witchcrafter Celebration\" effect per turn, and only once that turn.",
-    "overallString": "[Spell|Quick-Play]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261027.jpg?version=19.7"
-  },
-  {
-    "name": "Witchcrafter Walpurgis",
-    "desc": "During your Main Phase: You can add 1 \"Witchcrafter\" monster from your Deck to your hand, then discard 1 card. You can only use this effect of \"Witchcrafter Walpurgis\" once per turn. During your turn, if you would discard to activate the effect of a \"Witchcrafter\" monster you control, you can send 1 \"Witchcrafter\" Spell/Trap from your Deck to the GY instead, except \"Witchcrafter Walpurgis\".",
-    "overallString": "[Spell|Field]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261028.jpg?version=19.7"
-  },
-  {
-    "name": "Witchcrafter Distortion",
-    "desc": "When a Spell/Trap Card, or monster effect, is activated and you control a Level 5 or higher \"Witchcrafter\" monster: Negate the activation, and if you do, destroy that card. If this card is in your GY, except the turn it was sent there: You can banish it; add 1 Level 5 or higher Spellcaster monster from your Deck to your hand, then discard 1 card. You can only use each effect of \"Witchcrafter Distortion\" once per turn.",
-    "overallString": "[Trap|Counter]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261029.jpg?version=19.7"
-  },
-  {
-    "name": "Funny Dark Rabbit",
-    "desc": "After this card is Normal or Special Summoned, you can Normal Summon 1 monster that mentions \"Toon World\" during your Main Phase this turn, in addition to your Normal Summon/Set (you can only gain this effect once per turn). This card is treated as a Toon monster while \"Toon World\" is on the field. Once per turn: You can add to your hand or place face-up on your field, 1 \"Toon\" Field or Continuous Spell from your Deck.",
-    "overallString": "[Monster|Effect] Beast/Dark  [★4] 1100/1500",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261001.jpg?version=19.7"
-  },
-  {
-    "name": "Comic Cat",
-    "desc": "This card is treated as a Toon monster while \"Toon World\" is on the field. During the Main Phase (Quick Effect): You can Tribute 1 monster (if you control \"Toon World\", you can Tribute 1 monster your opponent controls, even though you do not control it), and if you do, Special Summon 1 monster that mentions \"Toon World\" from your hand or Deck, ignoring its Summoning conditions. You can only use this effect of \"Comic Cat\" once per turn.",
-    "overallString": "[Monster|Effect] Beast/Dark  [★1] 0/0",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261002.jpg?version=19.7"
-  },
-  {
-    "name": "Evil Box",
-    "desc": "If you control \"Toon World\": You can Special Summon this card from your hand, then you can add to your hand or Set 1 \"Toon\" Trap from your Deck. You can only use this effect of \"Evil Box\" once per turn. This card is treated as a Toon monster while \"Toon World\" is on the field. Once per turn (Quick Effect): You can target 1 card in either GY; place it on the bottom of the Deck.",
-    "overallString": "[Monster|Effect] Fiend/Dark  [★6] 2300/2000",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261003.jpg?version=19.7"
-  },
-  {
-    "name": "Blue-Eyes Toon Ultimate Dragon",
-    "desc": "\"Blue-Eyes Toon Dragon\" + 2 Toon monsters\nMust be Special Summoned (from your Extra Deck) by shuffling the above cards from your hand, field, and/or GY into the Deck/Extra Deck. Your Toon monsters can attack directly. Once per turn: You can add 1 \"Toon\" card, or 1 card that mentions a \"Toon\" card's name, from your GY to your hand. During damage calculation, if your Toon monster is attacked: You can banish it until the end of the Damage Step.",
-    "overallString": "[Monster|Effect|Fusion|Toon] Dragon/Light  [★12] 4500/3800",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261005.jpg?version=19.7"
-  },
-  {
-    "name": "Toon World the Perfect World",
-    "desc": "This card's name becomes \"Toon World\" while in the Field Zone. Once per turn: You can add 1 \"Toon\" card, or 1 card that mentions a \"Toon\" card's name, from your Deck to your hand. You can only use this effect of \"Toon World the Perfect World\" thrice per turn. Before resolving another activated card or effect, you can banish 1 Toon monster you control until immediately after that card/effect resolves, also you cannot banish monsters with that same original name with this effect of \"Toon World the Perfect World\" for the rest of this turn.",
-    "overallString": "[Spell|Field]",
-    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100261006.jpg?version=19.7"
-  },
-  {
     "name": "Clown Crew Cappello",
     "desc": "Pendulum Scale = 7\n[ Pendulum Effect ]\nDuring your Main Phase: You can send 1 \"Clown Crew\" card from your Deck to your GY, except a Pendulum Monster, and if you do, Special Summon this card, also you cannot activate the effects of monsters Special Summoned from the Deck or Extra Deck until the end of the next turn. You can only use this effect of \"Clown Crew Cappello\" once per turn.\n----------------------------------------\n[ Monster Effect ]\nMonsters your opponent controls lose 1500 DEF while you control a Tribute Summoned monster. If this card is Tributed: You can activate 1 of these effects (but you can only use each of these effects of \"Clown Crew Cappello\" once per turn);\n● Shuffle all Pendulum Monsters on the field and face-up in the Extra Decks into the Deck.\n● Special Summon 1 non-Pendulum \"Clown Crew\" monster from your Deck or Extra Deck, ignoring its Summoning conditions.",
     "overallString": "[Monster|Effect|Pendulum] Beast-Warrior/Light  [★5] 1900/800  7/7",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100260001.jpg?version=19.7"
+  },
+  {
+    "name": "The Magical King of Dimension Zeta",
+    "desc": "An observer from an empty world. They survey everything in the universe through every distortion in space and time. Take care. If you gaze long into your dreams, Zeta also gazes into you.",
+    "overallString": "[Monster|Normal|Tuner] Spellcaster/Dark  [★4] 1600/1600",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100262101.jpg?version=19.7"
   }
 ]

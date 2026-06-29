@@ -5,7 +5,6 @@
 from __future__ import annotations
 
 import argparse
-import csv
 import json
 import os
 import re
@@ -18,12 +17,14 @@ import urllib.request
 import zipfile
 from pathlib import Path
 
+from shared_mappings import load_locale_mappings_csv
+
 ROOT = Path(__file__).resolve().parents[2]
 ES_DIR = Path(os.environ.get("ES_AUTOPR_OUTPUT_DIR", ROOT / "ES")).resolve()
 BASE_DIR = Path(os.environ.get("ES_AUTOPR_BASE_DIR", ES_DIR / "Base Files")).resolve()
 WORK_DIR = Path(os.environ.get("ES_AUTOPR_WORK_DIR", ES_DIR / "Workspace")).resolve()
 TOOLS_DIR = Path(os.environ.get("ES_AUTOPR_TOOLS_DIR", ROOT / "Tools")).resolve()
-MAPPINGS_PATH = Path(os.environ.get("ES_AUTOPR_MAPPINGS_PATH", WORK_DIR / "Mappings.csv")).resolve()
+MAPPINGS_PATH = Path(os.environ.get("ES_AUTOPR_MAPPINGS_PATH", ROOT / "Shared" / "Mappings.csv")).resolve()
 
 YPK_URL = os.environ.get(
     "ES_AUTOPR_YPK_URL",
@@ -320,33 +321,11 @@ def parse_card_ids(cell: object) -> list[str]:
 
 
 def load_mappings_csv(path: Path) -> dict[int, dict[str, str]]:
-    if not path.exists():
-        return {}
-    rows = {}
-    with path.open("r", encoding="utf-8-sig", newline="") as handle:
-        reader = csv.DictReader(handle)
-        for row in reader:
-            try:
-                card_id = int(str(row.get("id", "")).strip())
-            except ValueError:
-                continue
-            rows[card_id] = {"id": str(card_id), "name": clean_cell(row.get("name"))}
-            for index in range(1, 17):
-                rows[card_id][f"str{index}"] = clean_cell(row.get(f"str{index}"))
-    return rows
+    return load_locale_mappings_csv(path)
 
 
 def save_mappings_csv(path: Path, rows: dict[int, dict[str, str]]) -> None:
-    fields = ["id", "name"] + [f"str{i}" for i in range(1, 17)]
-    path.parent.mkdir(parents=True, exist_ok=True)
-    with path.open("w", encoding="utf-8-sig", newline="") as handle:
-        writer = csv.DictWriter(handle, fieldnames=fields, lineterminator="\n")
-        writer.writeheader()
-        for card_id in sorted(rows):
-            row = {field: "" for field in fields}
-            row.update(rows[card_id])
-            row["id"] = card_id
-            writer.writerow(row)
+    _ = path, rows
 
 
 def scan_cdb_placeholders(cdb_path: Path) -> tuple[dict[int, dict], set[int]]:
