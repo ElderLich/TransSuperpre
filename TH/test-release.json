@@ -1,511 +1,511 @@
 [
   {
-    "name": "卡通阴影",
-    "desc": "这张卡不能通常召唤。「卡通阴影」1回合1次，在不能通常召唤的怪兽在场上以表侧表示存在的场合才能特殊召唤。\r\n①：这张卡特殊召唤的场合才能发动。从卡组把攻击力或守备力是2000的1只不能通常召唤的怪兽加入手卡。\r\n②：场上的这张卡被解放的场合，以场上1张卡为对象才能发动（自己场上有攻击力或守备力是2000的怪兽存在的场合，这个效果的对象可以变成2张）。那些卡回到手卡。 ",
+    "name": "Cartoon Shade",
+    "desc": "ไม่สามารถ Normal Summoned/Set ได้. ต้องถูก Special Summoned (from your hand) ในขณะที่มีมอนสเตอร์หงายหน้าอยู่บนสนามที่ไม่สามารถ Normal Summoned/Set ได้. คุณสามารถ Special Summon \"Cartoon Shade\" ด้วยวิธีนี้ได้เพียงครั้งเดียวต่อเทิร์น. ถ้าการ์ดใบนี้ถูก Special Summoned: คุณสามารถนำมอนสเตอร์ที่มี 2000 ATK หรือ DEF ที่ไม่สามารถ Normal Summoned/Set ได้ 1 ใบจาก Deck ของคุณขึ้น hand. ถ้าการ์ดใบนี้บนสนามถูก Tributed: คุณสามารถ target การ์ด 1 ใบบนสนาม, หรือคุณสามารถ target 2 ใบได้หากคุณควบคุมมอนสเตอร์ที่มี 2000 ATK หรือ DEF; นำ card(s) นั้นกลับขึ้น hand.",
     "overallString": "[Monster|Effect|Special Summon] Illusion/Dark  [★1] 0/2000",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306034.jpg?version=19.7"
   },
   {
-    "name": "秘水调查师",
-    "desc": "这个卡名的①②的效果1回合各能使用1次。\r\n①：这张卡在手卡·墓地存在的场合，从手卡把1只其他魔法师族怪兽或1张魔法·陷阱卡丢弃才能发动。这张卡特殊召唤。这个效果特殊召唤的这张卡从场上离开的场合除外。\r\n②：这张卡召唤·特殊召唤的场合才能发动。从卡组把1只魔法师族·4星怪兽除外。这个回合的结束阶段，除外的那只怪兽加入手卡或特殊召唤。 ",
+    "name": "Misstic Call",
+    "desc": "ถ้าการ์ดใบนี้อยู่ใน hand หรือ GY ของคุณ: คุณสามารถ discard มอนสเตอร์ Spellcaster อื่น 1 ใบ หรือ Spell/Trap 1 ใบ; Special Summon การ์ดใบนี้, แต่ banish มันเมื่อออกจากสนาม. ถ้าการ์ดใบนี้ถูก Normal หรือ Special Summon: คุณสามารถ banish มอนสเตอร์ Spellcaster Level 4 1 ใบจาก Deck ของคุณ, และถ้าทำสำเร็จ, ในช่วง End Phase ของเทิร์นนี้, นำการ์ดนั้นขึ้น hand ของคุณ หรือ Special Summon การ์ดนั้น. คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Misstic Call\" ได้เพียงครั้งเดียวต่อเทิร์น.",
     "overallString": "[Monster|Effect|Tuner] Spellcaster/Water  [★5] 1600/800",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306031.jpg?version=19.7"
   },
   {
-    "name": "祟纸神的报应",
-    "desc": "这个卡名的①②的效果1回合各能使用1次。\r\n①：以自己场上1只怪兽和对方场上1张表侧表示卡为对象才能发动。那只自己怪兽破坏，那张对方的卡直到回合结束时无效。\r\n②：盖放的这张卡被送去墓地的场合，以对方场上1张表侧表示卡为对象才能发动。那张卡的效果无效。",
+    "name": "Cursed Paper Retribution",
+    "desc": "target มอนสเตอร์ที่คุณควบคุม 1 ใบและการ์ดหงายหน้าของคู่แข่ง 1 ใบ; ทำลายมอนสเตอร์ของคุณ, และถ้าทำสำเร็จ, negate เอฟเฟกต์ของการ์ดของคู่แข่งใบนั้นจนกว่าจะจบเทิร์นนี้. ถ้าการ์ดที่ Set ใบนี้ถูกส่งไปยัง GY: คุณสามารถ target การ์ดหงายหน้าของคู่แข่ง 1 ใบ; negate เอฟเฟกต์ของการ์ดนั้น. คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Cursed Paper Retribution\" ได้เพียงครั้งเดียวต่อเทิร์น.",
     "overallString": "[Trap]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306078.jpg?version=19.7"
   },
   {
     "name": "Bingo Card",
-    "desc": "Choose 1 monster in a column with all zones occupied and destroy as many cards in that column as possible, then each player draws 1 card. You can banish this card from your GY, then activate 1 of these effects;\n● Destroy 5 monsters in your Main Monster Zone or 5 cards in your Spell & Trap Zone, then draw 2 cards.\n● Destroy 5 monsters in your opponent's Main Monster Zone or 5 cards in their Spell & Trap Zone, then they draw 2 cards.",
+    "desc": "เลือกมอนสเตอร์ 1 ใบใน column ที่มี zone ทั้งหมดถูกครอบครอง และทำลายการ์ดใน column นั้นให้ได้มากที่สุด, จากนั้นผู้เล่นแต่ละคน draw การ์ด 1 ใบ. คุณสามารถ banish การ์ดใบนี้จาก GY ของคุณ, จากนั้น activate 1 ในเอฟเฟกต์เหล่านี้;\n● ทำลายมอนสเตอร์ 5 ใบใน Main Monster Zone ของคุณ หรือการ์ด 5 ใบใน Spell & Trap Zone ของคุณ, จากนั้น draw การ์ด 2 ใบ.\n● ทำลายมอนสเตอร์ 5 ใบใน Main Monster Zone ของคู่แข่ง หรือการ์ด 5 ใบใน Spell & Trap Zone ของพวกเขา, จากนั้นพวกเขา draw การ์ด 2 ใบ.",
     "overallString": "[Trap]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306080.jpg?version=19.7"
   },
   {
     "name": "Emissaries from Darkness",
-    "desc": "If you take battle or effect damage: You can Special Summon this card from your hand, and if you do, gain 2000 LP, then you can apply 1 of these effects.\n● Special Summon 1 \"Emissaries from Darkness\" from your hand, Deck, or GY.\n● Destroy up to 2 Attack Position monsters your opponent controls.\nDuring the End Phase, if this card was Special Summoned this turn: You can target 1 Trap in your GY; Set it. You can only use each effect of \"Emissaries from Darkness\" once per turn.",
+    "desc": "ถ้าคุณได้รับ Battle Damage หรือ Effect Damage: คุณสามารถ Special Summon การ์ดใบนี้จากมือของคุณ, และถ้าทำได้, คุณจะได้รับ LP 2000 จุด, จากนั้น คุณสามารถเลือกใช้ 1 ในเอฟเฟกต์เหล่านี้\n● Special Summon 1 ใบ \"Emissaries from Darkness\" จากมือ, Deck, หรือ GY ของคุณ\n● ทำลายมอนสเตอร์ใน Attack Position สูงสุด 2 ใบที่อีกฝ่ายควบคุมอยู่\nในช่วง End Phase, ถ้าการ์ดใบนี้ถูก Special Summon ในเทิร์นนี้: คุณสามารถ Target การ์ด Trap 1 ใบใน GY ของคุณ; Set การ์ดใบนั้น คุณสามารถใช้แต่ละเอฟเฟกต์ของ \"Emissaries from Darkness\" ได้เทิร์นละครั้งเท่านั้น",
     "overallString": "[Monster|Effect] Fiend/Dark  [★7] 2700/2500",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100266003.jpg?version=19.7"
   },
   {
-    "name": "Father Grizzly",
-    "desc": "When this card is destroyed by battle and sent to the GY: You can Special Summon 1 Level 4 monster with 1400 ATK from your Deck, or if you have 2 or more Level 4 monsters with 1400 ATK in your GY, you can Special Summon 1 Normal Monster instead. When your opponent activates a monster effect and you control a face-up non-Effect Monster (Quick Effect): You can banish this card from your GY; negate the activation, and if you do, destroy that monster. You can only use this effect of \"Father Grizzly\" once per turn.",
+    "name": "Grizzly Father",
+    "desc": "คุณสามารถใช้ผลของชื่อการ์ดนี้ในเอฟเฟกต์ที่ 2 ได้เทิร์นละ 1 ครั้งเท่านั้น\n①：เมื่อการ์ดนี้ถูกทำลายจากการต่อสู้และถูกส่งลงสุสาน: คุณสามารถอัญเชิญพิเศษมอนสเตอร์เลเวล 4 ที่มีพลังโจมตี 1400 จากเด็คของคุณ 1 ใบ หรือถ้าคุณมีมอนสเตอร์เลเวล 4 ที่มีพลังโจมตี 1400 อยู่ในสุสานตั้งแต่ 2 ใบขึ้นไป คุณสามารถเปลี่ยนเป็นการอัญเชิญพิเศษ Normal Monster แทนได้\n②：เมื่อคู่ต่อสู้ของคุณใช้งานเอฟเฟกต์มอนสเตอร์และคุณควบคุมมอนสเตอร์ที่ไม่ใช่เอฟเฟกต์มอนสเตอร์ที่หงายหน้าอยู่ (Quick Effect): คุณสามารถนำการ์ดนี้ออกจากเกมจากสุสานของคุณ; ยกเลิกการใช้งานนั้น และถ้าทำเช่นนั้น ทำลายมอนสเตอร์ใบนั้น",
     "overallString": "[Monster|Effect] Beast-Warrior/Water  [★4] 1400/1000",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306032.jpg?version=19.7"
   },
   {
     "name": "Myriaday Dragon",
-    "desc": "Once per turn, during the End Phase: You can pay 100 LP; place 1 Myriad Counter on this card. Once per turn, during your Main Phase: You can place 1 Myriad Counter on this card for every 1000 points difference between your LP and your opponent's. Gains 10,000 ATK/DEF while it has 10 or more Myriad Counters. If this card would be destroyed by battle or card effect, remove 1 Myriad Counter from it instead.",
+    "desc": "①：เทิร์นละ 1 ครั้ง ในช่วง End Phase: คุณสามารถจ่าย LP 100; วาง Myriad Counter บนการ์ดนี้ 1 เม็ด\n②：เทิร์นละ 1 ครั้ง: คุณสามารถวาง Myriad Counter บนการ์ดนี้ได้ตามจำนวนทุกๆ ผลต่างของ LP ของคุณและคู่ต่อสู้ 1000 แต้ม\n③：การ์ดนี้จะได้รับพลังโจมตี/ป้องกัน 10,000 ขณะที่มี Myriad Counter ตั้งแต่ 10 เม็ดขึ้นไป\n④：หากการ์ดนี้กำลังจะถูกทำลายจากการต่อสู้หรือเอฟเฟกต์ของการ์ด ให้เอา Myriad Counter ออกจากการ์ดนี้ 1 เม็ดแทน",
     "overallString": "[Monster|Effect] Dragon/Light  [★1] 0/0",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306035.jpg?version=19.7"
   },
   {
     "name": "Destratification Dino Stratiae",
-    "desc": "2 monsters, including a Dinosaur monster\nIf this card is Link Summoned: You can make this card gain ATK equal to half the total original ATK of the Dinosaur monsters used as its material. During your Main Phase: You can Fusion Summon 1 Dinosaur Fusion Monster from your Extra Deck, by banishing its materials from your field and/or GY, also you cannot Special Summon from the Extra Deck for the rest of this turn, except Dinosaur monsters. You can only use this effect of \"Destratification Dino Stratiae\" once per turn.",
+    "desc": "มอนสเตอร์ 2 ใบ โดยต้องมีมอนสเตอร์เผ่า Dinosaur รวมอยู่ด้วย\nถ้าการ์ดนี้ถูก Link Summon: คุณสามารถทำให้การ์ดนี้ได้รับ ATK เพิ่มขึ้นเท่ากับครึ่งหนึ่งของผลรวม ATK ดั้งเดิมของมอนสเตอร์เผ่า Dinosaur ทั้งหมดที่ใช้เป็นวัสดุการ์ดนี้ ในช่วง Main Phase ของคุณ: คุณสามารถ Fusion Summon มอนสเตอร์ Fusion เผ่า Dinosaur 1 ใบจาก Extra Deck ของคุณ โดยการนำวัสดุการ์ดของมันออกจากสนามและ/หรือ GY ของคุณ และคุณจะไม่สามารถ Special Summon จาก Extra Deck ได้อีกตลอดเทิร์นนี้ ยกเว้นมอนสเตอร์เผ่า Dinosaur คุณสามารถใช้เอฟเฟกต์นี้ของ \"Destratification Dino Stratiae\" ได้เทิร์นละ 1 ครั้งเท่านั้น",
     "overallString": "[Monster|Effect|Link] Dinosaur/Fire  [LINK-2] 0/-  [↓][↘]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306051.jpg?version=19.7"
   },
   {
     "name": "Hublot the Dark Directory of Death",
-    "desc": "You can Normal Summon this card without Tributing. You can only use each of the following effects of \"Hublot the Dark Directory of Death\" once per turn. If this card is Normal or Special Summoned: You can send 1 Level 6 or higher Zombie monster from your Deck to the GY, except \"Hublot the Dark Directory of Death\", then you can add 1 Level 6 or higher Zombie monster from your GY to your hand. If a monster(s) is Special Summoned from the GY while this card is in the Monster Zone, you can: Immediately after this effect resolves, Xyz Summon 1 Zombie Xyz Monster.",
+    "desc": "คุณสามารถ Normal Summon การ์ดใบนี้ได้โดยไม่ต้องสังเวย คุณสามารถใช้เอฟเฟกต์แต่ละอย่างต่อไปนี้ของ \"Hublot the Dark Directory of Death\" ได้เทิร์นละ 1 ครั้งเท่านั้น: ถ้าการ์ดใบนี้ถูก Normal หรือ Special Summon: คุณสามารถส่งมอนสเตอร์เผ่าซอมบี้ เลเวล 6 หรือสูงกว่าจากเด็คของคุณลง GY 1 ใบ ยกเว้น \"Hublot the Dark Directory of Death\" จากนั้นคุณสามารถเพิ่มมอนสเตอร์เผ่าซอมบี้ เลเวล 6 หรือสูงกว่าจาก GY ของคุณขึ้นมือ 1 ใบ ถ้ามอนสเตอร์ถูก Special Summon จาก GY ขณะที่การ์ดใบนี้อยู่ใน Monster Zone คุณสามารถ: ทำการ Xyz Summon มอนสเตอร์ Xyz เผ่าซอมบี้ 1 ใบในทันทีหลังจากเอฟเฟกต์นี้ทำงานเสร็จสิ้น",
     "overallString": "[Monster|Effect] Zombie/Dark  [★6] 1300/1800",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306030.jpg?version=19.7"
   },
   {
     "name": "Witness of the Ancient",
-    "desc": "If you have a Synchro Monster in your field or GY: You can Special Summon this card from your hand. If this card is Special Summoned: You can place up to 3 Synchro Monsters with different names from your Extra Deck and/or GY in your Spell & Trap Zone as face-up Continuous Spells, and Special Summon 1 \"Arc Token\" (Machine/LIGHT/ATK 0/DEF 0) with a Level equal to the number placed, also for the rest of this turn, you cannot Special Summon from the Extra Deck, except Synchro Monsters. You can only use each effect of \"Witness of the Ancient\" once per turn.",
+    "desc": "ถ้าคุณมีมอนสเตอร์ซิงโครอยู่บนสนามหรือในสุสาน: คุณสามารถอัญเชิญพิเศษการ์ดใบนี้จากบนมือได้ ถ้าการ์ดใบนี้ถูกอัญเชิญพิเศษ: คุณสามารถนำมอนสเตอร์ซิงโครที่มีชื่อต่างกันสูงสุด 3 ใบจากเอ็กซ์ตร้าเด็คและ/หรือสุสานของคุณมาวางไว้ในช่องเวทมนตร์และกับดักในสภาพเวทมนตร์ต่อเนื่องหงายหน้า และอัญเชิญพิเศษ \"Arc Token\" (เครื่องจักร/แสง/พลังโจมตี 0/พลังป้องกัน 0) 1 ใบที่มีเลเวลเท่ากับจำนวนที่วางไว้ อีกทั้งในส่วนที่เหลือของเทิร์นนี้ คุณไม่สามารถอัญเชิญพิเศษจากเอ็กซ์ตร้าเด็คได้ ยกเว้นมอนสเตอร์ซิงโคร คุณสามารถใช้ผลแต่ละอย่างของ \"Witness of the Ancient\" ได้เทิร์นละ 1 ครั้งเท่านั้น",
     "overallString": "[Monster|Effect|Tuner] Machine/Light  [★8] 0/3000",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305081.jpg?version=19.7"
   },
   {
     "name": "Distrust Paranoia",
-    "desc": "Take control of all your opponent's monsters in this card's column. If this Set card in its owner's control has left the field by an opponent's effect, and is now in the GY or banished: You can Special Summon this card as an Effect Monster (Fiend/DARK/Level 10/ATK 4000/DEF 4000) with the following effect (this card is NOT treated as a Trap).\n● Unaffected by your opponent's card effects activated in the same column.\nYou can only activate 1 \"Distrust Paranoia\" per turn.",
+    "desc": "ยึดการควบคุมมอนสเตอร์ทั้งหมดของคู่แข่งที่อยู่ในคอลัมน์เดียวกับการ์ดใบนี้ ถ้าการ์ดที่หมอบอยู่นี้ในการควบคุมของเจ้าของได้ออกจากสนามโดยผลของการ์ดของคู่แข่ง และตอนนี้อยู่ในสุสานหรือถูกนำออกนอกเกม: คุณสามารถอัญเชิญพิเศษการ์ดใบนี้มาในฐานะมอนสเตอร์เอฟเฟกต์ (ปีศาจ/มืด/เลเวล 10/พลังโจมตี 4000/พลังป้องกัน 4000) พร้อมผลดังต่อไปนี้ (การ์ดใบนี้จะไม่ถูกนับว่าเป็นกับดัก)\n● ไม่ได้รับผลของการ์ดของคู่แข่งที่สั่งใช้งานในคอลัมน์เดียวกัน\nคุณสามารถสั่งใช้งาน \"Distrust Paranoia\" ได้เทิร์นละ 1 ครั้งเท่านั้น",
     "overallString": "[Trap]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305082.jpg?version=19.7"
   },
   {
     "name": "Yomagna the Fire Phantom",
-    "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by shuffling 3 cards of the same type (Monster, Spell, or Trap) from your GY into the Deck/Extra Deck. If this card is Special Summoned: You can declare 1 Monster Type; this card becomes that Type until the end of this turn. During your Main Phase: You can Fusion Summon 1 Fusion Monster from your Extra Deck using monsters on either field, including this card. You can only use each effect of \"Yomagna the Fire Phantom\" once per turn.",
+    "desc": "ไม่สามารถอัญเชิญปกติ/หมอบได้ ต้องอัญเชิญพิเศษ (จากบนมือของคุณ) โดยการสับการ์ดประเภทเดียวกัน 3 ใบ (มอนสเตอร์, เวทมนตร์ หรือกับดัก) จากสุสานของคุณกลับเข้าเด็ค/เอ็กซ์ตร้าเด็คก่อนเท่านั้น ถ้าการ์ดใบนี้ถูกอัญเชิญพิเศษ: คุณสามารถประกาศประเภทของมอนสเตอร์ 1 อย่าง; การ์ดใบนี้จะกลายเป็นประเภทนั้นจนกว่าจะจบเทิร์นนี้ ในช่วงเมนเฟสของคุณ: คุณสามารถอัญเชิญฟิวชั่นมอนสเตอร์ 1 ใบจากเอ็กซ์ตร้าเด็คของคุณโดยใช้มอนสเตอร์บนสนามของใครก็ได้รวมถึงการ์ดใบนี้ด้วย คุณสามารถใช้ผลแต่ละอย่างของ \"Yomagna the Fire Phantom\" ได้เทิร์นละ 1 ครั้งเท่านั้น",
     "overallString": "[Monster|Effect|Special Summon] Pyro/Dark  [★10] 3300/0",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305083.jpg?version=19.7"
   },
   {
     "name": "Thundercrash Snarecrow",
-    "desc": "Each time a non-Thunder monster(s) is Special Summoned face-up, while this card is in the Monster Zone: That monster(s) cannot attack this turn, also destroy it during the End Phase. If this card is in your GY: You can target 1 face-up card you control; destroy it, and if you do, add this card to your hand. You can only use this effect of \"Thundercrash Snarecrow\" once per turn.",
+    "desc": "ทุกครั้งที่มีมอนสเตอร์ (ที่ไม่ใช่ธาตุสายฟ้า) ถูกอัญเชิญพิเศษในสภาพหงายหน้า ขณะที่การ์ดใบนี้อยู่ในโซนมอนสเตอร์: มอนสเตอร์เหล่านั้นจะไม่สามารถโจมตีได้ในเทิร์นนี้ อีกทั้งให้ทำลายมันในช่วงเอ็นด์เฟส ถ้าการ์ดใบนี้อยู่ในสุสานของคุณ: คุณสามารถเลือกเป้าหมายการ์ดหงายหน้า 1 ใบที่คุณควบคุม; ทำลายการ์ดใบนั้น และถ้าทำสำเร็จ ให้นำการ์ดใบนี้ขึ้นมือ คุณสามารถใช้ผลของ \"Thundercrash Snarecrow\" ได้เทิร์นละ 1 ครั้งเท่านั้น",
     "overallString": "[Monster|Effect] Thunder/Light  [★8] 1600/2800",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305084.jpg?version=19.7"
   },
   {
     "name": "Mixousia the Confounder",
-    "desc": "1 Spellcaster monster + 1 non-Spellcaster monster\nYou can target 1 face-up monster on the field and declare 1 Attribute; it becomes that Attribute. During your opponent's Main Phase (Quick Effect): You can Fusion Summon 1 Fusion Monster from your Extra Deck, by banishing this card you control and monsters from your field or GY as material. If this card is in your GY: You can declare 1 Attribute; this card in the GY becomes that Attribute until the end of this turn. You can only use each effect of \"Mixousia the Confounder\" once per turn.",
+    "desc": "มอนสเตอร์จอมเวท 1 ใบ + มอนสเตอร์ที่ไม่ใช่จอมเวท 1 ใบ\nคุณสามารถเลือกเป้าหมายมอนสเตอร์หงายหน้า 1 ใบบนสนามและประกาศธาตุ 1 อย่าง; มอนสเตอร์นั้นจะกลายเป็นธาตุนั้น ในช่วงเมนเฟสของคู่แข่ง (เอฟเฟกต์เร็ว): คุณสามารถอัญเชิญฟิวชั่นมอนสเตอร์ 1 ใบจากเอ็กซ์ตร้าเด็คของคุณ โดยนำการ์ดใบนี้ที่คุณควบคุมและมอนสเตอร์จากบนสนามหรือในสุสานของคุณออกนอกเกมเพื่อใช้เป็นวัตถุดิบ ถ้าการ์ดใบนี้อยู่ในสุสานของคุณ: คุณสามารถประกาศธาตุ 1 อย่าง; การ์ดใบนี้ในสุสานจะกลายเป็นธาตุนั้นจนกว่าจะจบเทิร์นนี้ คุณสามารถใช้ผลแต่ละอย่างของ \"Mixousia the Confounder\" ได้เทิร์นละ 1 ครั้งเท่านั้น",
     "overallString": "[Monster|Effect|Fusion] Spellcaster/Dark  [★8] 2700/1500",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305085.jpg?version=19.7"
   },
   {
     "name": "Shamanite Shamanknight",
-    "desc": "2+ Level 3 monsters\nIf this card is Xyz Summoned, or if a Trap you own is banished: You can target 1 of your banished Traps; attach it to this card. You can detach any number of materials from this card, then target 1 DARK monster in your GY or banishment with a Level equal to the number detached; Special Summon it. You can only use each effect of \"Shamanite Shamanknight\" once per turn.",
+    "desc": "มอนสเตอร์เลเวล 3 ขึ้นไป 2 ใบ\nถ้าการ์ดใบนี้ถูกอัญเชิญเอ็กซ์ซีส หรือถ้ากับดักที่คุณเป็นเจ้าของถูกนำออกนอกเกม: คุณสามารถเลือกเป้าหมายกับดักที่ถูกนำออกนอกเกมของคุณ 1 ใบ; นำมาติดไว้กับการ์ดใบนี้ คุณสามารถถอดวัตถุดิบกี่ใบก็ได้ออกจากการ์ดใบนี้ จากนั้นเลือกเป้าหมายมอนสเตอร์ธาตุมืด 1 ใบในสุสานหรือในโซนที่ถูกนำออกนอกเกมของคุณที่มีเลเวลเท่ากับจำนวนที่ถอดออก; อัญเชิญพิเศษมอนสเตอร์ใบนั้น คุณสามารถใช้ผลแต่ละอย่างของ \"Shamanite Shamanknight\" ได้เทิร์นละ 1 ครั้งเท่านั้น",
     "overallString": "[Monster|Effect|Xyz] Warrior/Dark  [☆3] 1700/2400",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305086.jpg?version=19.7"
   },
   {
     "name": "Cerynemesia, Mystical Beast of the Forest",
-    "desc": "If this card is Normal or Special Summoned: You can banish (face-up) 1 Beast monster from your hand or face-up field until the End Phase; Special Summon 1 EARTH Beast monster from your Deck or GY, with an equal or lower Level than that monster's original Level, then your opponent can Special Summon 1 monster from their hand. You can only use this effect of \"Cerynemesia, Mystical Beast of the Forest\" once per turn. Your opponent's monsters that can attack must attack the monster you control with the highest ATK (their choice, if tied).",
+    "desc": "ถ้าการ์ดใบนี้ถูกอัญเชิญปกติหรืออัญเชิญพิเศษ: คุณสามารถนำมอนสเตอร์เผ่าสัตว์ 1 ใบจากบนมือหรือที่หงายหน้าอยู่บนสนามของคุณออกนอกเกม (แบบหงายหน้า) จนกว่าจะถึงเอ็นด์เฟส; อัญเชิญพิเศษมอนสเตอร์เผ่าสัตว์ธาตุดิน 1 ใบจากเด็คหรือสุสานของคุณที่มีเลเวลเท่ากับหรือต่ำกว่าเลเวลเดิมของมอนสเตอร์ใบนั้น จากนั้นคู่แข่งของคุณสามารถอัญเชิญพิเศษมอนสเตอร์ 1 ใบจากบนมือของพวกเขา คุณสามารถใช้ผลของ \"Cerynemesia, Mystical Beast of the Forest\" ได้เทิร์นละ 1 ครั้งเท่านั้น มอนสเตอร์ของคู่แข่งที่สามารถโจมตีได้จะต้องโจมตีมอนสเตอร์ที่คุณควบคุมที่มีพลังโจมตีสูงที่สุด (เลือกโดยคู่แข่ง หากมีค่าเท่ากัน)",
     "overallString": "[Monster|Effect] Beast/Earth  [★2] 0/1600",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305087.jpg?version=19.7"
   },
   {
     "name": "Imposter Shift",
-    "desc": "When a monster effect that was activated on your opponent's field by targeting a card(s) on the field resolves, if any of those targets are in a different column than that opponent's monster, they can banish 1 card from their GY. If they did not, negate the activated effect. You can banish 1 monster from your GY; Special Summon 1 \"Imposter Token\" (Psychic/EARTH/ATK 800/DEF 800) with the same Level as that monster. You can only use this effect of \"Imposter Shift\" once per turn.",
+    "desc": "เมื่อผลของมอนสเตอร์ที่สั่งใช้งานบนสนามของคู่แข่งโดยเลือกเป้าหมายการ์ดบนสนามทำงาน ถ้าเป้าหมายเหล่านั้นใบใดใบหนึ่งอยู่ในคอลัมน์ที่ต่างจากมอนสเตอร์ของคู่แข่งใบนั้น พวกเขาสามารถนำการ์ด 1 ใบจากสุสานของพวกเขาออกนอกเกมได้ หากพวกเขาไม่ได้ทำเช่นนั้น ให้ยกเลิกผลที่สั่งใช้งานนั้น คุณสามารถนำมอนสเตอร์ 1 ใบจากสุสานของคุณออกนอกเกม; อัญเชิญพิเศษ \"Imposter Token\" (พลังจิต/ดิน/พลังโจมตี 800/พลังป้องกัน 800) 1 ใบที่มีเลเวลเท่ากับมอนสเตอร์ใบนั้น คุณสามารถใช้ผลของ \"Imposter Shift\" ได้เทิร์นละ 1 ครั้งเท่านั้น",
     "overallString": "[Spell|Continuous]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305088.jpg?version=19.7"
   },
   {
     "name": "Mortilux Heruvur",
-    "desc": "2+ Level 8 monsters\nIf a monster(s) is sent to your opponent's GY (except during the Damage Step): You can target 1 of them; attach it to this card. You can only use this effect of \"Mortilux Heruvur\" once per turn. This card gains effects based on the number of materials attached to it.\n● 2+: Cannot be destroyed by battle or card effects.\n● 3+: Your opponent cannot target cards in the GYs with card effects.\n● 4+: You can detach 3 materials from this card; send 1 monster on the field to the GY.",
+    "desc": "มอนสเตอร์ Level 8 จำนวน 2 ตัวขึ้นไป\nถ้ามีมอนสเตอร์ถูกส่งลง GY ของคู่แข่ง (ยกเว้นในช่วง Damage Step): คุณสามารถเลือกเป้าหมายมอนสเตอร์เหล่านั้น 1 ตัว; นำมาติดไว้กับการ์ดใบนี้ คุณสามารถใช้เอฟเฟกต์นี้ของ \"Mortilux Heruvur\" ได้เทิร์นละ 1 ครั้งเท่านั้น การ์ดใบนี้จะได้รับเอฟเฟกต์ตามจำนวนวัตถุดิบที่ติดอยู่\n● 2+ : ไม่สามารถถูกทำลายจากการต่อสู้หรือเอฟเฟกต์ของการ์ด\n● 3+ : คู่แข่งไม่สามารถเลือกเป้าหมายการ์ดใน GY ด้วยเอฟเฟกต์ของการ์ดได้\n● 4+ : คุณสามารถถอดวัตถุดิบ 3 ใบออกจากการ์ดใบนี้; ส่งมอนสเตอร์บนสนาม 1 ตัวลง GY",
     "overallString": "[Monster|Effect|Xyz] Winged Beast/Light  [☆8] 3000/2100",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305089.jpg?version=19.7"
   },
   {
     "name": "Angelechy Shatranga",
-    "desc": "1 Tuner + 1+ non-Tuners\nYou can target 1 monster your opponent controls; banish it. If this card is placed in the Spell & Trap Zone as a Continuous Spell: You can add 1 \"Angelechy\" Trap from your Deck or GY to your hand. You can only use each of the preceding effects of \"Angelechy Shatranga\" once per turn. While this card is treated as a Continuous Spell, your opponent can only attempt to activate up to 5 monster effects per turn.",
+    "desc": "Tuner 1 ตัว + มอนสเตอร์ที่ไม่ใช่ Tuner 1 ตัวขึ้นไป\nคุณสามารถเลือกเป้าหมายมอนสเตอร์ที่คู่แข่งควบคุมอยู่ 1 ตัว; นำออกนอกเกม ถ้าการ์ดใบนี้ถูกวางในโซน Spell & Trap ในฐานะ Continuous Spell: คุณสามารถเพิ่ม \"Angelechy\" Trap 1 ใบจากเด็คหรือ GY ของคุณขึ้นมือ คุณสามารถใช้เอฟเฟกต์ก่อนหน้านี้แต่ละอย่างของ \"Angelechy Shatranga\" ได้เทิร์นละ 1 ครั้งเท่านั้น ในขณะที่การ์ดใบนี้ถูกนับว่าเป็น Continuous Spell คู่แข่งของคุณจะสามารถพยายามเปิดใช้งานเอฟเฟกต์มอนสเตอร์ได้สูงสุด 5 ครั้งต่อเทิร์นเท่านั้น",
     "overallString": "[Monster|Effect|Synchro] Fairy/Light  [★10] 3000/0",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305090.jpg?version=19.7"
   },
   {
     "name": "Angelechy Bastion",
-    "desc": "1 Tuner + 1+ non-Tuners\nYou can target 1 other card in this card's column; banish it. If this card is placed in the Spell & Trap Zone as a Continuous Spell: You can place 1 \"Angelechy Shatranga\" from your Extra Deck in your Spell & Trap Zone as a face-up Continuous Spell. You can only use each of the preceding effects of \"Angelechy Bastion\" once per turn. While this card is treated as a Continuous Spell, other \"Angelechy\" cards on the field cannot be destroyed by your opponent's card effects.",
+    "desc": "Tuner 1 ตัว + มอนสเตอร์ที่ไม่ใช่ Tuner 1 ตัวขึ้นไป\nคุณสามารถเลือกเป้าหมายการ์ดใบอื่นในคอลัมน์เดียวกันกับการ์ดใบนี้ 1 ใบ; นำออกนอกเกม ถ้าการ์ดใบนี้ถูกวางในโซน Spell & Trap ในฐานะ Continuous Spell: คุณสามารถวาง \"Angelechy Shatranga\" จาก Extra Deck ของคุณลงในโซน Spell & Trap ในฐานะ Continuous Spell แบบหงายหน้า คุณสามารถใช้เอฟเฟกต์ก่อนหน้านี้แต่ละอย่างของ \"Angelechy Bastion\" ได้เทิร์นละ 1 ครั้งเท่านั้น ในขณะที่การ์ดใบนี้ถูกนับว่าเป็น Continuous Spell การ์ด \"Angelechy\" ใบอื่นบนสนามจะไม่สามารถถูกทำลายด้วยเอฟเฟกต์การ์ดของคู่แข่งได้",
     "overallString": "[Monster|Effect|Synchro] Fairy/Light  [★8] 3000/2500",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305091.jpg?version=19.7"
   },
   {
     "name": "Angelechy Destrier",
-    "desc": "1 Tuner + 1+ non-Tuners\nYou can target 1 monster in another column; banish it. If this card is placed in the Spell & Trap Zone as a Continuous Spell: You can add 1 \"Angelechy\" Spell from your Deck to your hand. You can only use each of the preceding effects of \"Angelechy Destrier\" once per turn. While this card is treated as a Continuous Spell, each time your opponent activates a card or effect, inflict 500 damage to your opponent when it resolves.",
+    "desc": "Tuner 1 ตัว + มอนสเตอร์ที่ไม่ใช่ Tuner 1 ตัวขึ้นไป\nคุณสามารถเลือกเป้าหมายมอนสเตอร์ในคอลัมน์อื่น 1 ตัว; นำออกนอกเกม ถ้าการ์ดใบนี้ถูกวางในโซน Spell & Trap ในฐานะ Continuous Spell: คุณสามารถเพิ่ม \"Angelechy\" Spell 1 ใบจากเด็คของคุณขึ้นมือ คุณสามารถใช้เอฟเฟกต์ก่อนหน้านี้แต่ละอย่างของ \"Angelechy Destrier\" ได้เทิร์นละ 1 ครั้งเท่านั้น ในขณะที่การ์ดใบนี้ถูกนับว่าเป็น Continuous Spell ทุกครั้งที่คู่แข่งเปิดใช้งานการ์ดหรือเอฟเฟกต์ จะสร้างความเสียหาย 500 หน่วยให้แก่คู่แข่งเมื่อเอฟเฟกต์นั้นได้รับการแก้ไข",
     "overallString": "[Monster|Effect|Synchro] Fairy/Light  [★7] 2500/2000",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305092.jpg?version=19.7"
   },
   {
     "name": "Angelechy Enlisted",
-    "desc": "1 Tuner + 1 non-Tuner\nYou can target 1 opponent's monster in this card's adjacent column; banish it, then change control of this card by moving it to one of your opponent's Main Monster Zones in this card's adjacent columns. If the control of this face-up card changes: Return this card to the Extra Deck, then the owner of this card Special Summons 1 \"Angelechy\" monster from their Extra Deck. You can only use each effect of \"Angelechy Enlisted\" once per turn.",
+    "desc": "Tuner 1 ตัว + มอนสเตอร์ที่ไม่ใช่ Tuner 1 ตัว\nคุณสามารถเลือกเป้าหมายมอนสเตอร์ของคู่แข่งในคอลัมน์ที่อยู่ติดกันกับการ์ดใบนี้ 1 ตัว; นำออกนอกเกม จากนั้นเปลี่ยนการควบคุมของการ์ดใบนี้โดยการย้ายมันไปยัง Main Monster Zone ของคู่แข่งในคอลัมน์ที่อยู่ติดกันกับการ์ดใบนี้ ถ้าการควบคุมของการ์ดใบนี้ที่หงายหน้าอยู่มีการเปลี่ยนแปลง: นำการ์ดใบนี้กลับเข้า Extra Deck จากนั้นเจ้าของของการ์ดใบนี้จะทำการ Special Summon มอนสเตอร์ \"Angelechy\" 1 ตัวจาก Extra Deck ของพวกเขา คุณสามารถใช้เอฟเฟกต์แต่ละอย่างของ \"Angelechy Enlisted\" ได้เทิร์นละ 1 ครั้งเท่านั้น",
     "overallString": "[Monster|Effect|Tuner|Synchro] Fairy/Light  [★2] 1500/1500",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305093.jpg?version=19.7"
   },
   {
     "name": "Angelechy Problem",
-    "desc": "Once per turn: You can discard 1 Spell/Trap; Special Summon 1 Level 2 \"Angelechy\" monster from your Extra Deck, and if you do, place 1 \"Angelechy\" monster from your Extra Deck to your Spell & Trap Zone as a face-up Continuous Spell. If a face-up \"Angelechy\" Monster Card(s) you control is destroyed by battle or card effect: You can return 1 \"Angelechy\" Monster Card you own from your Spell & Trap Zone to the Extra Deck, then you can Special Summon it.",
+    "desc": "เทิร์นละ 1 ครั้ง: คุณสามารถทิ้ง Spell/Trap 1 ใบ; Special Summon มอนสเตอร์ \"Angelechy\" เลเวล 2 จาก Extra Deck ของคุณ 1 ตัว และถ้าทำสำเร็จ ให้วางมอนสเตอร์ \"Angelechy\" จาก Extra Deck ของคุณลงในโซน Spell & Trap ในฐานะ Continuous Spell แบบหงายหน้า 1 ใบ ถ้าการ์ดมอนสเตอร์ \"Angelechy\" ที่หงายหน้าอยู่บนสนามของคุณถูกทำลายจากการต่อสู้หรือเอฟเฟกต์การ์ด: คุณสามารถนำการ์ดมอนสเตอร์ \"Angelechy\" ที่คุณเป็นเจ้าของจากโซน Spell & Trap ของคุณกลับเข้า Extra Deck จากนั้นคุณสามารถ Special Summon การ์ดนั้นได้",
     "overallString": "[Spell|Field]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305094.jpg?version=19.7"
   },
   {
     "name": "Angelechy Disturbance",
-    "desc": "Give control of 1 \"Angelechy\" monster you control to your opponent (until the End Phase), then if your opponent controls a face-up card(s) in its adjacent Monster Zones and/or Spell & Trap Zones, their effects are negated. You can banish this card from your GY; add 1 \"Angelechy\" Spell/Trap from your Deck to your hand, except \"Angelechy Disturbance\". You can only use each effect of \"Angelechy Disturbance\" once per turn.",
+    "desc": "มอบการควบคุมมอนสเตอร์ \"Angelechy\" 1 ตัวที่คุณควบคุมให้แก่คู่แข่ง (จนกว่าจะถึง End Phase) จากนั้นถ้าคู่แข่งของคุณควบคุมการ์ดที่หงายหน้าอยู่ในโซน Monster Zone และ/หรือโซน Spell & Trap ที่อยู่ติดกัน เอฟเฟกต์ของการ์ดเหล่านั้นจะถูกทำให้ไร้ผล คุณสามารถนำการ์ดใบนี้ออกจาก GY ของคุณ; เพิ่ม \"Angelechy\" Spell/Trap 1 ใบจากเด็คของคุณขึ้นมือ ยกเว้น \"Angelechy Disturbance\" คุณสามารถใช้เอฟเฟกต์แต่ละอย่างของ \"Angelechy Disturbance\" ได้เทิร์นละ 1 ครั้งเท่านั้น",
     "overallString": "[Trap]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305095.jpg?version=19.7"
   },
   {
     "name": "Angelechy Opening to e4",
-    "desc": "If your opponent goes first, you can also activate this card from your hand during the Standby Phase of their first turn. Place 1 \"Angelechy\" Field Spell from your hand, Deck, or GY, face-up on your field, and if you do, Special Summon 1 Level 2 or 7 \"Angelechy\" monster from your Extra Deck to the Extra Monster Zone, and if you do that, place 1 \"Angelechy\" monster from your Extra Deck in your Spell & Trap Zone as a face-up Continuous Spell. Until the end of your next turn after this card resolves, you cannot Special Summon from the Extra Deck, except Synchro Monsters.",
+    "desc": "ถ้าคู่แข่งของคุณเริ่มเล่นก่อน คุณสามารถเปิดใช้งานการ์ดใบนี้จากบนมือของคุณได้ในช่วง Standby Phase ของเทิร์นแรกของพวกเขา วาง \"Angelechy\" Field Spell 1 ใบจากมือ เด็ค หรือ GY ของคุณ ลงบนสนามของคุณแบบหงายหน้า และถ้าทำสำเร็จ ให้ Special Summon มอนสเตอร์ \"Angelechy\" เลเวล 2 หรือ 7 จาก Extra Deck ของคุณลงใน Extra Monster Zone และถ้าทำสำเร็จให้วางมอนสเตอร์ \"Angelechy\" จาก Extra Deck ของคุณลงในโซน Spell & Trap ในฐานะ Continuous Spell แบบหงายหน้า 1 ใบ จนกว่าจะสิ้นสุดเทิร์นถัดไปของคุณหลังจากที่การ์ดใบนี้ได้รับการแก้ไข คุณจะไม่สามารถ Special Summon จาก Extra Deck ได้ ยกเว้นมอนสเตอร์ประเภท Synchro",
     "overallString": "[Trap]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101305096.jpg?version=19.7"
   },
   {
     "name": "Helping Robo for Underwater Combat",
-    "desc": "2 Machine monsters\nIf this card is Link Summoned: You can target 1 monster your opponent controls; destroy it, also this card, then you can Special Summon 1 non-WATER Machine monster with 1600 or less ATK from your GY. If this card is banished: You can add 1 Machine monster whose ATK equals its own DEF from your Deck to your hand. You can only use each effect of \"Helping Robo for Underwater Combat\" once per turn, also you cannot Special Summon the turn you activate either of this card's effects, except Machine monsters.",
+    "desc": "มอนสเตอร์ Machine 2 ใบ\nถ้าการ์ดนี้ถูก Link Summon: คุณสามารถเลือกเป้าหมายมอนสเตอร์ที่คู่แข่งควบคุม 1 ใบ; ทำลายมอนสเตอร์ใบนั้น และทำลายการ์ดใบนี้ด้วย จากนั้นคุณสามารถ Special Summon มอนสเตอร์เผ่า Machine ที่ไม่ใช่ธาตุ WATER ที่มี ATK 1600 หรือน้อยกว่า 1 ใบจาก GY ของคุณ ถ้าการ์ดนี้ถูกนำออกนอกเกม: คุณสามารถเพิ่มมอนสเตอร์ Machine ที่มีค่า ATK เท่ากับค่า DEF ของตัวมันเองจาก Deck ขึ้นมือของคุณ 1 ใบ คุณสามารถใช้เอฟเฟกต์แต่ละอย่างของ \"Helping Robo for Underwater Combat\" ได้เทิร์นละ 1 ครั้งเท่านั้น และคุณจะไม่สามารถ Special Summon ได้ในเทิร์นที่คุณสั่งใช้งานเอฟเฟกต์ของการ์ดใบนี้ ยกเว้นมอนสเตอร์เผ่า Machine",
     "overallString": "[Monster|Effect|Link] Machine/Water  [LINK-2] 800/-  [→][↘]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306050.jpg?version=19.7"
   },
   {
     "name": "Mind Mirror Force",
-    "desc": "If your opponent controls 5 or more face-up cards, this card's activation and effect cannot be negated, also you can activate this card the turn it was Set. At any of the following timings: Negate the effects of as many face-up cards your opponent controls as possible, and if you do, destroy them, also your monsters cannot attack directly until the end of the next turn after this card resolves.\n● When the monster your opponent controls with the highest ATK (even if tied) declares an attack.\n● When your opponent activates a monster effect that would destroy a card(s) on the field.\n● When your opponent activates a monster effect in the hand or field during your turn.",
+    "desc": "ถ้าคู่แข่งควบคุมการ์ดที่หงายหน้าอยู่ตั้งแต่ 5 ใบขึ้นไป การสั่งใช้งานและการแสดงผลของการ์ดใบนี้จะไม่ถูกยกเลิก อีกทั้งคุณยังสามารถสั่งใช้งานการ์ดใบนี้ได้ในเทิร์นที่หมอบไว้ โดยสั่งใช้งานในช่วงเวลาใดเวลาหนึ่งดังต่อไปนี้: ยกเลิกผลของการ์ดที่หงายหน้าอยู่บนสนามของคู่แข่งให้ได้มากที่สุดเท่าที่จะทำได้ และถ้าทำสำเร็จ ให้ทำลายการ์ดเหล่านั้น อีกทั้งมอนสเตอร์ของคุณจะไม่สามารถโจมตีโดยตรงได้จนกว่าจะจบเทิร์นถัดจากที่การ์ดใบนี้แสดงผลเสร็จสิ้น\n● เมื่อมอนสเตอร์ที่มีพลังโจมตีสูงที่สุดบนสนามของคู่แข่ง (กรณีที่เท่ากันก็นับ) ประกาศโจมตี\n● เมื่อคู่แข่งสั่งใช้งานผลของมอนสเตอร์ที่ส่งผลทำลายการ์ดบนสนาม\n● เมื่อคู่แข่งสั่งใช้งานผลของมอนสเตอร์บนมือหรือบนสนามในระหว่างเทิร์นของคุณ",
     "overallString": "[Trap]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100266002.jpg?version=19.7"
   },
   {
     "name": "Ancient Secrets",
-    "desc": "Special Summon 1 Normal Monster from your hand, Deck, or GY in Defense Position (if you Special Summon from the Deck, it must be Level 4 or lower), or if you control a Normal Monster Card, you can apply 1 of these effects instead.\n● Destroy all monsters your opponent controls.\n● Destroy all Spells/Traps your opponent controls.\n● Draw 2 cards.\n● Special Summon 1 monster from either GY to your field.\nYou can only activate 1 \"Ancient Secrets\" per turn.",
+    "desc": "อัญเชิญพิเศษมอนสเตอร์ปกติ 1 ใบจากบนมือ, เด็ค หรือสุสานของคุณมาในสภาพหงายหน้าตั้งรับ (ถ้าอัญเชิญพิเศษจากเด็ค ต้องเป็นเลเวล 4 หรือต่ำกว่า) หรือถ้าคุณควบคุมการ์ดมอนสเตอร์ปกติอยู่ คุณสามารถเลือกใช้ผลอย่างใดอย่างหนึ่งดังต่อไปนี้แทนได้:\n● ทำลายมอนสเตอร์ทั้งหมดที่คู่แข่งควบคุม\n● ทำลายเวทมนตร์/กับดักทั้งหมดที่คู่แข่งควบคุม\n● จั่วการ์ด 2 ใบ\n● อัญเชิญพิเศษมอนสเตอร์ 1 ใบจากสุสานของใครก็ได้มาบนสนามของคุณ\nคุณสามารถใช้งาน \"Ancient Secrets\" ได้เทิร์นละ 1 ครั้งเท่านั้น",
     "overallString": "[Spell]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100266001.jpg?version=19.7"
   },
   {
     "name": "Spatial Trunade",
-    "desc": "Return up to 2 cards on the field to the hand, then each player places cards from their hand on the bottom of the Deck in any order equal to the number returned to their hand. You can only activate 1 \"Spatial Trunade\" per turn.",
+    "desc": "นำการ์ดบนสนามสูงสุด 2 ใบกลับขึ้นมือ จากนั้นผู้เล่นแต่ละฝ่ายนำการ์ดจากบนมือลงไปไว้ใต้เด็คตามจำนวนที่นำกลับขึ้นมือโดยเรียงลำดับตามใจชอบ คุณสามารถเปิดใช้งาน \"Spatial Trunade\" ได้เทิร์นละครั้งเท่านั้น",
     "overallString": "[Spell]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306068.jpg?version=19.7"
   },
   {
     "name": "Akasuna the Battle Ashtra",
-    "desc": "You can Special Summon this card (from your hand) by revealing 1 face-down card you control and returning it to the hand/Extra Deck. You can only Special Summon \"Akasuna the Battle Ashtra\" once per turn this way. You can only use each of the following effects of \"Akasuna the Battle Ashtra\" once per turn. During the Main Phase (Quick Effect): You can send 1 Trap from your hand or face-down field to the GY; change all face-up monsters your opponent controls to face-down Defense Position. During your End Phase: You can Set 1 \"Ashtra\" Trap from your Deck.",
+    "desc": "คุณสามารถ Special Summon การ์ดใบนี้ (จากบนมือของคุณ) โดยการเปิดเผยการ์ดที่คว่ำหน้าอยู่ 1 ใบที่คุณควบคุมอยู่แล้วนำการ์ดใบนั้นกลับขึ้นมือ/Extra Deck คุณสามารถ Special Summon \"Akasuna the Battle Ashtra\" ได้เพียงเทิร์นละ 1 ครั้งด้วยวิธีนี้ คุณสามารถใช้งานเอฟเฟกต์แต่ละอย่างของ \"Akasuna the Battle Ashtra\" ได้เพียงเทิร์นละ 1 ครั้งเท่านั้น ในช่วง Main Phase (Quick Effect): คุณสามารถส่งการ์ดกับดักจากบนมือหรือที่คว่ำหน้าอยู่บนสนามของคุณ 1 ใบลงสุสาน; เปลี่ยนมอนสเตอร์ที่หงายหน้าอยู่ทั้งหมดที่ฝ่ายตรงข้ามควบคุมอยู่ให้เป็นรูปแบบป้องกันแบบคว่ำหน้า ในช่วง End Phase ของคุณ: คุณสามารถ Set การ์ด \"Ashtra\" กับดักจากใน Deck ของคุณ 1 ใบ",
     "overallString": "[Monster|Effect] Fiend/Fire  [★8] 3000/300",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306009.jpg?version=19.7"
   },
   {
     "name": "Kuzuha the Bewitching Deity Ashtra",
-    "desc": "You can Special Summon this card (from your hand) by revealing 1 face-down card you control and returning it to the hand/Extra Deck. You can only Special Summon \"Kuzuha the Bewitching Deity Ashtra\" once per turn this way. You can only use each of the following effects of \"Kuzuha the Bewitching Deity Ashtra\" once per turn. You can target up to 1 card on the field for every 2 face-down cards on the field; destroy them. During your End Phase: You can target 1 \"Ashtra\" Trap in your GY; Set it.",
+    "desc": "คุณสามารถ Special Summon การ์ดใบนี้ (จากบนมือของคุณ) โดยการเปิดเผยการ์ดที่คว่ำหน้าอยู่ 1 ใบที่คุณควบคุมอยู่แล้วนำการ์ดใบนั้นกลับขึ้นมือ/Extra Deck คุณสามารถ Special Summon \"Kuzuha the Bewitching Deity Ashtra\" ได้เพียงเทิร์นละ 1 ครั้งด้วยวิธีนี้ คุณสามารถใช้งานเอฟเฟกต์แต่ละอย่างของ \"Kuzuha the Bewitching Deity Ashtra\" ได้เพียงเทิร์นละ 1 ครั้งเท่านั้น คุณสามารถเลือกเป้าหมายการ์ดบนสนามได้สูงสุด 1 ใบต่อจำนวนการ์ดที่คว่ำหน้าอยู่บนสนามทุกๆ 2 ใบ; ทำลายการ์ดเหล่านั้น ในช่วง End Phase ของคุณ: คุณสามารถเลือกเป้าหมายการ์ด \"Ashtra\" กับดักในสุสานของคุณ 1 ใบ; ทำการ Set การ์ดใบนั้น",
     "overallString": "[Monster|Effect] Insect/Earth  [★8] 2800/1500",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306010.jpg?version=19.7"
   },
   {
     "name": "Yoa the Plague Deity Ashtra",
-    "desc": "You can Special Summon this card (from your hand) by revealing 1 face-down card you control and returning it to the hand/Extra Deck. You can only Special Summon \"Yoa the Plague Deity Ashtra\" once per turn this way. You can only use each of the following effects of \"Yoa the Plague Deity Ashtra\" once per turn. During your Main Phase: You can Set 1 \"Ashtra\" Spell/Trap from your Deck. During your opponent's turn (Quick Effect): You can target 1 face-up monster on the field; increase or decrease its Level by 1.",
+    "desc": "คุณสามารถ Special Summon การ์ดใบนี้ (จากบนมือของคุณ) โดยการเปิดเผยการ์ดที่คว่ำหน้าอยู่ 1 ใบที่คุณควบคุมอยู่แล้วนำการ์ดใบนั้นกลับขึ้นมือ/Extra Deck คุณสามารถ Special Summon \"Yoa the Plague Deity Ashtra\" ได้เพียงเทิร์นละ 1 ครั้งด้วยวิธีนี้ คุณสามารถใช้งานเอฟเฟกต์แต่ละอย่างของ \"Yoa the Plague Deity Ashtra\" ได้เพียงเทิร์นละ 1 ครั้งเท่านั้น ในช่วง Main Phase ของคุณ: คุณสามารถ Set การ์ด \"Ashtra\" เวทมนตร์/กับดักจากใน Deck ของคุณ 1 ใบ ในช่วงเทิร์นของฝ่ายตรงข้าม (Quick Effect): คุณสามารถเลือกเป้าหมายมอนสเตอร์ที่หงายหน้าอยู่บนสนาม 1 ใบ; เพิ่มหรือลดเลเวลของมอนสเตอร์ใบนั้นลง 1",
     "overallString": "[Monster|Effect] Spellcaster/Wind  [★7] 2400/1500",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306011.jpg?version=19.7"
   },
   {
     "name": "Mikumari the Sealing Deity Ashtra",
-    "desc": "You can Special Summon this card (from your hand) by revealing 1 face-down card you control and returning it to the hand/Extra Deck. You can only Special Summon \"Mikumari the Sealing Deity Ashtra\" once per turn this way. You can only use each of the following effects of \"Mikumari the Sealing Deity Ashtra\" once per turn. During your Main Phase: You can add 1 non-Wyrm \"Ashtra\" monster from your Deck to your hand. If this card is sent to the GY as Synchro Material for an \"Ashtra\" monster: You can target 1 Normal Trap in your GY; Set it.",
+    "desc": "คุณสามารถ Special Summon การ์ดใบนี้ (จากบนมือของคุณ) โดยการเปิดเผยการ์ดที่คว่ำหน้าอยู่ 1 ใบที่คุณควบคุมอยู่แล้วนำการ์ดใบนั้นกลับขึ้นมือ/Extra Deck คุณสามารถ Special Summon \"Mikumari the Sealing Deity Ashtra\" ได้เพียงเทิร์นละ 1 ครั้งด้วยวิธีนี้ คุณสามารถใช้งานเอฟเฟกต์แต่ละอย่างของ \"Mikumari the Sealing Deity Ashtra\" ได้เพียงเทิร์นละ 1 ครั้งเท่านั้น ในช่วง Main Phase ของคุณ: คุณสามารถนำมอนสเตอร์ \"Ashtra\" ที่ไม่ใช่เผ่า Wyrm จากใน Deck ของคุณขึ้นมือ 1 ใบ หากการ์ดใบนี้ถูกส่งลงสุสานเพื่อเป็นวัตถุดิบในการ Synchro Summon มอนสเตอร์ \"Ashtra\": คุณสามารถเลือกเป้าหมายการ์ดกับดักปกติในสุสานของคุณ 1 ใบ; ทำการ Set การ์ดใบนั้น",
     "overallString": "[Monster|Effect] Wyrm/Water  [★7] 2000/2500",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306012.jpg?version=19.7"
   },
   {
     "name": "Ashtraja Susanoo",
-    "desc": "1 Tuner + 1+ non-Tuners\nIf this card is Synchro Summoned: You can banish any number of Traps from your GY; banish that many cards on the field. During the End Phase: You can target up to 2 \"Ashtra\" monsters and/or \"Ashtra\" Traps in your GY and/or banishment; for each of them, add it to your hand or Set it, then if you targeted 2 cards, return this card to the Extra Deck. You can only use each effect of \"Ashtraja Susanoo\" once per turn.",
+    "desc": "Tuner 1 ใบ + non-Tuner 1 ใบขึ้นไป\nถ้าการ์ดนี้ถูก Synchro Summon: คุณสามารถนำ Traps จำนวนเท่าใดก็ได้จาก GY ของคุณออกนอกเกม; นำการ์ดบนสนามออกนอกเกมเป็นจำนวนเท่ากับที่นำออกไปนั้น ในช่วง End Phase: คุณสามารถเลือกเป้าหมายมอนสเตอร์ \"Ashtra\" และ/หรือ Traps \"Ashtra\" ใน GY และ/หรือที่ถูกนำออกนอกเกมของคุณได้สูงสุด 2 ใบ; นำการ์ดเหล่านั้นกลับขึ้นมือหรือ Set ลงสนามตามจำนวนที่เลือกมา จากนั้นถ้าคุณเลือกเป้าหมายครบ 2 ใบ ให้ส่งการ์ดนี้กลับเข้า Extra Deck คุณสามารถใช้เอฟเฟกต์แต่ละอย่างของ \"Ashtraja Susanoo\" ได้เทิร์นละ 1 ครั้งเท่านั้น",
     "overallString": "[Monster|Effect|Synchro] Fiend/Fire  [★9] 3300/0",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306039.jpg?version=19.7"
   },
   {
     "name": "Ashtraya Mikumari-no-Mikoto",
-    "desc": "1 Tuner + 1+ non-Tuners\nIf this card is Special Summoned: You can send 1 \"Ashtra\" card from your Deck to the GY, and if you do, send 1 card on the field to the GY. You can only use this effect of \"Ashtraya Mikumari-no-Mikoto\" once per turn. If your opponent activates a monster effect: You can target 1 \"Ashtra\" Trap in your GY or banishment, or if there are 3 or more face-down cards on the field, you can target 1 Trap in your GY instead; Set it.",
+    "desc": "Tuner 1 ใบ + non-Tuner 1 ใบขึ้นไป\nถ้าการ์ดนี้ถูก Special Summon: คุณสามารถส่งการ์ด \"Ashtra\" 1 ใบจาก Deck ของคุณลง GY และถ้าทำสำเร็จ ให้ส่งการ์ด 1 ใบบนสนามลง GY คุณสามารถใช้เอฟเฟกต์นี้ของ \"Ashtraya Mikumari-no-Mikoto\" ได้เทิร์นละ 1 ครั้งเท่านั้น ถ้าคู่แข่งของคุณสั่งใช้งานเอฟเฟกต์มอนสเตอร์: คุณสามารถเลือกเป้าหมาย Trap \"Ashtra\" 1 ใบใน GY หรือที่ถูกนำออกนอกเกมของคุณ หรือถ้ามีการ์ดที่คว่ำหน้าอยู่บนสนาม 3 ใบขึ้นไป คุณสามารถเปลี่ยนไปเลือกเป้าหมาย Trap 1 ใบใน GY ของคุณแทนได้; Set การ์ดใบนั้น",
     "overallString": "[Monster|Effect|Synchro] Wyrm/Water  [★8] 3000/2500",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306040.jpg?version=19.7"
   },
   {
     "name": "Ashtrashen - Gateway to the Worlds Beyond",
-    "desc": "You can target any number of face-down cards you control; add \"Ashtra\" cards from your Deck to your hand with different names from each other, except Field Spells, equal to the number of those targeted cards that are still face-down, then send those face-down cards to the GY. If a card(s) becomes Set on the field, while you control an \"Ashtra\" monster and a face-down card: You can target 1 card on the field; return it to the hand. You can only use each effect of \"Ashtrashen - Gateway to the Worlds Beyond\" once per turn.",
+    "desc": "คุณสามารถเลือกเป้าหมายการ์ดที่คว่ำหน้าอยู่กี่ใบก็ได้ที่คุณควบคุมอยู่ นำการ์ด \"Ashtra\" ที่มีชื่อต่างกันจากเด็คขึ้นมือตามจำนวนการ์ดที่เลือกเป้าหมายและยังคงคว่ำหน้าอยู่ (ยกเว้น Field Spells) จากนั้นส่งการ์ดที่คว่ำหน้าเหล่านั้นลงสุสาน หากมีการ์ดถูกเซตลงบนสนามในขณะที่คุณควบคุมมอนสเตอร์ \"Ashtra\" และการ์ดที่คว่ำหน้าอยู่: คุณสามารถเลือกเป้าหมายการ์ดบนสนาม 1 ใบ; นำมันกลับขึ้นมือ คุณสามารถใช้เอฟเฟกต์แต่ละอย่างของ \"Ashtrashen - Gateway to the Worlds Beyond\" ได้เทิร์นละครั้งเท่านั้น",
     "overallString": "[Spell|Field]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306057.jpg?version=19.7"
   },
   {
     "name": "Ashtra Insect Poison",
-    "desc": "Activate 1 of these effects;\n● Special Summon this card as a Normal Monster (Insect/Tuner/DARK/Level 1/ATK 0/DEF 0) (this card is NOT treated as a Trap), then immediately after this effect resolves, you can Synchro Summon 1 Synchro Monster.\n● Target 1 \"Ashtra\" monster in your GY; Special Summon it.\nYou can only activate 1 \"Ashtra Insect Poison\" per turn.",
+    "desc": "เลือกใช้งาน 1 ในเอฟเฟกต์ต่อไปนี้;\n● อัญเชิญพิเศษการ์ดใบนี้ในฐานะมอนสเตอร์ปกติ (เผ่าแมลง/จูนเนอร์/ธาตุมืด/เลเวล 1/ATK 0/DEF 0) (การ์ดใบนี้จะไม่ถูกนับว่าเป็นกับดัก) จากนั้นทันทีหลังจากเอฟเฟกต์นี้ทำงานเสร็จสิ้น คุณสามารถซิงโครซัมมอนมอนสเตอร์ซิงโคร 1 ตัว\n● เลือกเป้าหมายมอนสเตอร์ \"Ashtra\" ในสุสานของคุณ 1 ตัว; อัญเชิญพิเศษมอนสเตอร์ตัวนั้น\nคุณสามารถใช้งาน \"Ashtra Insect Poison\" ได้เทิร์นละ 1 ครั้งเท่านั้น",
     "overallString": "[Trap]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306073.jpg?version=19.7"
   },
   {
     "name": "Ashtra Cursed Roar",
-    "desc": "Activate 1 of these effects;\n● Special Summon this card as a Normal Monster (Spellcaster/Tuner/DARK/Level 1/ATK 0/DEF 0) (this card is NOT treated as a Trap), then immediately after this effect resolves, you can Synchro Summon 1 Synchro Monster.\n● If you have an \"Ashtra\" monster in your field or GY: Target 1 monster your opponent controls; destroy it.\nYou can only activate 1 \"Ashtra Cursed Roar\" per turn.",
+    "desc": "เลือกใช้งาน 1 ในเอฟเฟกต์ต่อไปนี้;\n● อัญเชิญพิเศษการ์ดใบนี้ในฐานะมอนสเตอร์ปกติ (เผ่าจอมเวทย์/จูนเนอร์/ธาตุมืด/เลเวล 1/ATK 0/DEF 0) (การ์ดใบนี้จะไม่ถูกนับว่าเป็นกับดัก) จากนั้นทันทีหลังจากเอฟเฟกต์นี้ทำงานเสร็จสิ้น คุณสามารถซิงโครซัมมอนมอนสเตอร์ซิงโคร 1 ตัว\n● หากคุณมีมอนสเตอร์ \"Ashtra\" บนสนามหรือในสุสานของคุณ: เลือกเป้าหมายมอนสเตอร์ที่ฝั่งตรงข้ามควบคุม 1 ตัว; ทำลายมอนสเตอร์ตัวนั้น\nคุณสามารถใช้งาน \"Ashtra Cursed Roar\" ได้เทิร์นละ 1 ครั้งเท่านั้น",
     "overallString": "[Trap]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306074.jpg?version=19.7"
   },
   {
     "name": "Ashtra Divine Domain",
-    "desc": "Activate 1 of these effects;\n● Special Summon this card as a Normal Monster (Aqua/Tuner/DARK/Level 1/ATK 0/DEF 0) (this card is NOT treated as a Trap), then immediately after this effect resolves, you can Synchro Summon 1 Synchro Monster.\n● When your opponent activates a Spell/Trap Card or effect and they control no face-down cards: Negate that effect.\nYou can only activate 1 \"Ashtra Divine Domain\" per turn.",
+    "desc": "เลือกใช้งาน 1 ในเอฟเฟกต์ต่อไปนี้;\n● อัญเชิญพิเศษการ์ดใบนี้ในฐานะมอนสเตอร์ปกติ (เผ่าสัตว์น้ำ/จูนเนอร์/ธาตุมืด/เลเวล 1/ATK 0/DEF 0) (การ์ดใบนี้จะไม่ถูกนับว่าเป็นกับดัก) จากนั้นทันทีหลังจากเอฟเฟกต์นี้ทำงานเสร็จสิ้น คุณสามารถซิงโครซัมมอนมอนสเตอร์ซิงโคร 1 ตัว\n● เมื่อฝั่งตรงข้ามใช้งานการ์ดเวทมนตร์/กับดัก หรือเอฟเฟกต์ของการ์ดเหล่านั้น และฝั่งตรงข้ามไม่มีการ์ดที่คว่ำหน้าอยู่บนสนาม: ทำให้เอฟเฟกต์นั้นไร้ผล\nคุณสามารถใช้งาน \"Ashtra Divine Domain\" ได้เทิร์นละ 1 ครั้งเท่านั้น",
     "overallString": "[Trap]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306075.jpg?version=19.7"
   },
   {
     "name": "Leviathan of Atlantis - Daedalus",
-    "desc": "This card's name becomes \"Umi\" while in the Monster Zone. You can only use each of the following effects of \"Leviathan of Atlantis - Daedalus\" once per turn. If you control \"Atlantis, City of the Sea Dragon\" or \"Umi\": You can Special Summon this card from your hand. You can send up to 3 face-up \"Umi\" you control to the GY; add that many cards that mention \"Atlantis, City of the Sea Dragon\" from your Deck to your hand, except Level 7 monsters, then you can send 1 card on the field to the GY.",
+    "desc": "ชื่อของการ์ดใบนี้จะเป็น \"Umi\" ในขณะที่อยู่บน Monster Zone คุณสามารถใช้งานเอฟเฟกต์แต่ละอย่างของ \"Leviathan of Atlantis - Daedalus\" ได้เพียงเทิร์นละ 1 ครั้งเท่านั้น หากคุณควบคุม \"Atlantis, City of the Sea Dragon\" หรือ \"Umi\" อยู่: คุณสามารถ Special Summon การ์ดใบนี้จากบนมือของคุณ คุณสามารถส่งการ์ด \"Umi\" ที่หงายหน้าอยู่ที่คุณควบคุมอยู่ลงสุสานได้สูงสุด 3 ใบ; นำการ์ดที่ระบุชื่อ \"Atlantis, City of the Sea Dragon\" จากใน Deck ของคุณขึ้นมือตามจำนวนนั้น ยกเว้นมอนสเตอร์เลเวล 7 จากนั้นคุณสามารถส่งการ์ดบนสนาม 1 ใบลงสุสานได้",
     "overallString": "[Monster|Effect] Sea Serpent/Water  [★7] 2600/1500",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306013.jpg?version=19.7"
   },
   {
     "name": "General of Atlantis",
-    "desc": "This card's name becomes \"Umi\" while in the Monster Zone. You can only use each of the following effects of \"General of Atlantis\" once per turn. You can discard this card; add 1 Spell/Trap that mentions \"Atlantis, City of the Sea Dragon\" from your Deck to your hand. If this card is in your GY and you control \"Umi\": You can Special Summon this card.",
+    "desc": "ชื่อของการ์ดใบนี้จะเป็น \"Umi\" ในขณะที่อยู่บน Monster Zone คุณสามารถใช้งานเอฟเฟกต์แต่ละอย่างของ \"General of Atlantis\" ได้เพียงเทิร์นละ 1 ครั้งเท่านั้น คุณสามารถทิ้งการ์ดใบนี้จากบนมือ: นำการ์ดเวทมนตร์/กับดักที่ระบุชื่อ \"Atlantis, City of the Sea Dragon\" จากใน Deck ของคุณขึ้นมือ 1 ใบ หากการ์ดใบนี้อยู่ในสุสานของคุณและคุณควบคุม \"Umi\" อยู่: คุณสามารถ Special Summon การ์ดใบนี้",
     "overallString": "[Monster|Effect] Sea Serpent/Water  [★5] 2100/1400",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306014.jpg?version=19.7"
   },
   {
     "name": "Monstrous Arms of Atlantis",
-    "desc": "This card's name becomes \"Umi\" while in the Monster Zone. You can only use each of the following effects of \"Monstrous Arms of Atlantis\" once per turn. If this card is Normal or Special Summoned: You can target 1 monster in your GY that mentions \"Atlantis, City of the Sea Dragon\"; Special Summon it in Defense Position. When your opponent activates a monster effect (Quick Effect): You can banish this card from your field or GY and send 1 face-up \"Umi\" you control to the GY; negate that effect.",
+    "desc": "ชื่อของการ์ดใบนี้จะกลายเป็น \"Umi\" ขณะที่อยู่ใน Monster Zone คุณสามารถใช้เอฟเฟกต์แต่ละอย่างต่อไปนี้ของ \"Monstrous Arms of Atlantis\" ได้เทิร์นละ 1 ครั้งเท่านั้น: ถ้าการ์ดใบนี้ถูก Normal หรือ Special Summon: คุณสามารถเลือกเป้าหมายมอนสเตอร์ใน GY ของคุณที่ระบุชื่อ \"Atlantis, City of the Sea Dragon\" 1 ใบ; Special Summon มันลงในสภาพตั้งรับ เมื่อคู่แข่งของคุณใช้งานเอฟเฟกต์มอนสเตอร์ (Quick Effect): คุณสามารถนำการ์ดใบนี้จากสนามหรือ GY ของคุณออกนอกเกม และส่ง \"Umi\" ที่หงายหน้าอยู่บนสนามของคุณ 1 ใบลง GY; ยกเลิกเอฟเฟกต์นั้น",
     "overallString": "[Monster|Effect] Sea Serpent/Water  [★4] 1500/1200",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306015.jpg?version=19.7"
   },
   {
     "name": "Fiendish Vortex of Atlantis",
-    "desc": "This card's name becomes \"Umi\" while in the Monster Zone. You can only use each of the following effects of \"Fiendish Vortex of Atlantis\" once per turn. If this card is Normal or Special Summoned: You can send 1 card that mentions \"Atlantis, City of the Sea Dragon\" from your Deck to the GY, except \"Fiendish Vortex of Atlantis\". If this card is sent to the GY and you control \"Umi\": You can Special Summon 1 WATER monster from your hand.",
+    "desc": "ชื่อของการ์ดใบนี้จะกลายเป็น \"Umi\" ขณะที่อยู่ใน Monster Zone คุณสามารถใช้เอฟเฟกต์แต่ละอย่างต่อไปนี้ของ \"Fiendish Vortex of Atlantis\" ได้เทิร์นละ 1 ครั้งเท่านั้น: ถ้าการ์ดใบนี้ถูก Normal หรือ Special Summon: คุณสามารถส่งการ์ดที่ระบุชื่อ \"Atlantis, City of the Sea Dragon\" จากเด็คของคุณลง GY ได้ 1 ใบ ยกเว้น \"Fiendish Vortex of Atlantis\" ถ้าการ์ดใบนี้ถูกส่งลง GY และคุณควบคุม \"Umi\" อยู่: คุณสามารถ Special Summon มอนสเตอร์ธาตุน้ำจากบนมือของคุณได้ 1 ใบ",
     "overallString": "[Monster|Effect] Sea Serpent/Water  [★4] 1400/1800",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306016.jpg?version=19.7"
   },
   {
     "name": "Azure Ocean Dragon Lord - Neo-Daedalus Rage",
-    "desc": "4 monsters\nIf this card is Link Summoned: You can Special Summon up to 3 monsters that mention \"Atlantis, City of the Sea Dragon\" from your GY to your zones this card points to, also you cannot Special Summon for the rest of this turn. This card's name becomes \"Umi\" while in the Monster Zone. Once per turn (Quick Effect): You can send 1 face-up \"Umi\" you control to the GY; send all cards on the field to the GY, except \"Umi\".",
+    "desc": "มอนสเตอร์ 4 ใบ\nถ้าการ์ดนี้ถูก Link Summon: คุณสามารถ Special Summon มอนสเตอร์ที่ระบุถึง \"Atlantis, City of the Sea Dragon\" จาก GY ของคุณได้สูงสุด 3 ใบ ลงในโซนที่การ์ดนี้ชี้ไป และคุณจะไม่สามารถ Special Summon ได้อีกตลอดเทิร์นนี้ ชื่อของการ์ดใบนี้จะกลายเป็น \"Umi\" ขณะอยู่บน Monster Zone เทิร์นละหนึ่งครั้ง (Quick Effect): คุณสามารถส่ง \"Umi\" ที่หงายหน้าอยู่บนสนามของคุณ 1 ใบลง GY; ส่งการ์ดทั้งหมดบนสนามลง GY ยกเว้น \"Umi\"",
     "overallString": "[Monster|Effect|Link] Sea Serpent/Water  [LINK-4] 2900/-  [↑][↙][↓][↘]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306046.jpg?version=19.7"
   },
   {
     "name": "Levia-Dragoon - Daedalus",
-    "desc": "3 WATER monsters\nThis card's name becomes \"Umi\" while in the Monster Zone. You can only use each of the following effects of \"Levia-Dragoon - Daedalus\" once per turn. If this card is Link Summoned: You can Special Summon 1 monster that mentions \"Atlantis, City of the Sea Dragon\" from your Deck. During the Main Phase (Quick Effect): You can send 1 face-up \"Umi\" you control to the GY; discard your opponent's entire hand, and if you do, they draw the same number of cards. Neither player can activate cards or effects in response to this effect's activation.",
+    "desc": "มอนสเตอร์ธาตุ WATER 3 ใบ\nชื่อของการ์ดใบนี้จะกลายเป็น \"Umi\" ขณะอยู่บน Monster Zone คุณสามารถใช้เอฟเฟกต์ต่อไปนี้ของ \"Levia-Dragoon - Daedalus\" ได้เทิร์นละ 1 ครั้งเท่านั้น ถ้าการ์ดนี้ถูก Link Summon: คุณสามารถ Special Summon มอนสเตอร์ที่ระบุถึง \"Atlantis, City of the Sea Dragon\" จาก Deck ของคุณ 1 ใบ ในช่วง Main Phase (Quick Effect): คุณสามารถส่ง \"Umi\" ที่หงายหน้าอยู่บนสนามของคุณ 1 ใบลง GY; ทิ้งการ์ดบนมือคู่แข่งทั้งหมด และถ้าทำสำเร็จ พวกเขาจะจั่วการ์ดตามจำนวนที่ทิ้งไป ทั้งสองฝ่ายไม่สามารถใช้งานการ์ดหรือเอฟเฟกต์ใดๆ ตอบโต้การสั่งใช้งานเอฟเฟกต์นี้ได้",
     "overallString": "[Monster|Effect|Link] Sea Serpent/Water  [LINK-3] 2600/-  [↙][↓][↘]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306047.jpg?version=19.7"
   },
   {
     "name": "Atlantis, City of the Sea Dragon",
-    "desc": "While a monster that mentions \"Atlantis, City of the Sea Dragon\" is on the field, reduce the Levels of all monsters in both players' hands and fields by 1. If you Link Summon a \"Daedalus\" monster, you can reduce the material requirement listed on it by 1 and Link Summon it with 1 less material. If this card is in your GY and you control \"Umi\": You can place this card face-up on your field. You can only use this effect of \"Atlantis, City of the Sea Dragon\" once per turn.",
+    "desc": "ในขณะที่มีมอนสเตอร์ที่ระบุถึง \"Atlantis, City of the Sea Dragon\" อยู่บนสนาม ให้ลดเลเวลของมอนสเตอร์ทั้งหมดในมือและบนสนามของผู้เล่นทั้งสองฝ่ายลง 1 เลเวล หากคุณอัญเชิญ Link Summon มอนสเตอร์ \"Daedalus\" คุณสามารถลดจำนวนวัตถุดิบที่ระบุบนการ์ดนั้นลง 1 อย่าง และทำการ Link Summon โดยใช้วัตถุดิบน้อยลง 1 อย่างได้ หากการ์ดใบนี้อยู่ในสุสานของคุณและคุณควบคุม \"Umi\" อยู่: คุณสามารถวางการ์ดใบนี้ในสภาพหงายหน้าบนสนามของคุณได้ คุณสามารถใช้เอฟเฟกต์นี้ของ \"Atlantis, City of the Sea Dragon\" ได้เทิร์นละครั้งเท่านั้น",
     "overallString": "[Spell|Field]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306058.jpg?version=19.7"
   },
   {
     "name": "Atlantis Call",
-    "desc": "Add 1 monster that mentions \"Atlantis, City of the Sea Dragon\" from your Deck to your hand, then if you control \"Atlantis, City of the Sea Dragon\", you can negate the effects of 1 Effect Monster your opponent controls until the end of this turn. If you control \"Umi\": You can banish this card from your GY; all WATER monsters you currently control gain 500 ATK/DEF. You can only use each effect of \"Atlantis Call\" once per turn.",
+    "desc": "นำมอนสเตอร์ 1 ตัวที่ระบุถึง \"Atlantis, City of the Sea Dragon\" จากเด็คขึ้นมือ จากนั้นหากคุณควบคุม \"Atlantis, City of the Sea Dragon\" อยู่ คุณสามารถยกเลิกเอฟเฟกต์ของมอนสเตอร์เอฟเฟกต์ 1 ตัวที่ฝ่ายตรงข้ามควบคุมจนจบเทิร์นนี้ หากคุณควบคุม \"Umi\" อยู่: คุณสามารถนำการ์ดใบนี้จากสุสานของคุณออกนอกเกม มอนสเตอร์ธาตุน้ำทั้งหมดที่คุณควบคุมอยู่จะได้รับ ATK/DEF เพิ่มขึ้น 500 คุณสามารถใช้เอฟเฟกต์แต่ละอย่างของ \"Atlantis Call\" ได้เทิร์นละครั้งเท่านั้น",
     "overallString": "[Spell]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306059.jpg?version=19.7"
   },
   {
     "name": "Advent of Atlantis",
-    "desc": "This card's name becomes \"Umi\" while in the Spell & Trap Zone. You can only use each of the following effects of \"Advent of Atlantis\" once per turn. During your Main Phase: You can place 1 \"Atlantis, City of the Sea Dragon\" or \"Umi\" from your Deck face-up in your Field Zone. If this card is sent to the GY: You can add 1 Level 7 Sea Serpent monster from your Deck to your hand.",
+    "desc": "ชื่อของการ์ดใบนี้จะกลายเป็น \"Umi\" ในขณะที่อยู่ในโซนเวทมนตร์และกับดัก คุณสามารถใช้เอฟเฟกต์ต่อไปนี้ของ \"Advent of Atlantis\" ได้เทิร์นละครั้งเท่านั้น ในระหว่างเมนเฟสของคุณ: คุณสามารถวาง \"Atlantis, City of the Sea Dragon\" หรือ \"Umi\" จากเด็คลงในโซนสนามของคุณในสภาพหงายหน้า หากการ์ดใบนี้ถูกส่งลงสุสาน: คุณสามารถนำมอนสเตอร์เผ่า Sea Serpent เลเวล 7 จากเด็คขึ้นมือได้ 1 ตัว",
     "overallString": "[Spell|Continuous]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306060.jpg?version=19.7"
   },
   {
     "name": "Daedalus Maelstrom",
-    "desc": "When your opponent would Normal or Special Summon a monster(s) while you control \"Atlantis, City of the Sea Dragon\": Negate the Summon, and if you do, destroy that monster(s), then if you control a WATER Link Monster, you can destroy all non-WATER monsters on the field. You can banish this card from your GY and send 1 face-up \"Umi\" you control to the GY, then target 1 monster your opponent controls; send it to the GY. You can only use 1 \"Daedalus Maelstrom\" effect per turn, and only once that turn.",
+    "desc": "เมื่อฝั่งตรงข้ามพยายามจะอัญเชิญปกติหรืออัญเชิญพิเศษมอนสเตอร์ ในขณะที่คุณควบคุม \"Atlantis, City of the Sea Dragon\": ทำให้การอัญเชิญนั้นไร้ผล และถ้าทำเช่นนั้น ให้ทำลายมอนสเตอร์ตัวนั้น จากนั้นหากคุณควบคุมมอนสเตอร์ลิงก์ธาตุน้ำ คุณสามารถทำลายมอนสเตอร์ที่ไม่ใช่ธาตุน้ำทั้งหมดบนสนาม คุณสามารถนำการ์ดใบนี้ในสุสานของคุณออกนอกเกมและส่งการ์ด \"Umi\" ที่หงายหน้าอยู่บนสนามของคุณ 1 ใบลงสุสาน จากนั้นเลือกเป้าหมายมอนสเตอร์ที่ฝั่งตรงข้ามควบคุม 1 ตัว; ส่งมอนสเตอร์ตัวนั้นลงสุสาน คุณสามารถใช้เอฟเฟกต์ของ \"Daedalus Maelstrom\" ได้เทิร์นละ 1 ครั้ง และใช้ได้เพียงครั้งเดียวในเทิร์นนั้น",
     "overallString": "[Trap|Counter]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306076.jpg?version=19.7"
   },
   {
     "name": "Adamancipator Conductor",
-    "desc": "If this card is in your hand: You can place 1 other \"Adamancipator\" card from your hand on top of the Deck; Special Summon this card. During your Main Phase: You can excavate the top 5 cards of your Deck, and if you do, you can Special Summon 1 excavated Level 4 or lower Rock monster, also place the rest on the bottom of the Deck in any order. You can only use each effect of \"Adamancipator Conductor\" once per turn.",
+    "desc": "ถ้าการ์ดใบนี้อยู่บนมือของคุณ: คุณสามารถวางการ์ด \"Adamancipator\" ใบอื่นจากบนมือของคุณไว้บนสุดของเด็ค; Special Summon การ์ดใบนี้ ในช่วง Main Phase ของคุณ: คุณสามารถขุดการ์ด 5 ใบจากบนสุดของเด็คของคุณ และถ้าคุณทำเช่นนั้น คุณสามารถ Special Summon มอนสเตอร์เผ่าหิน เลเวล 4 หรือต่ำกว่าที่ขุดได้ 1 ใบ ส่วนการ์ดที่เหลือให้นำไปวางไว้ใต้สุดของเด็คตามลำดับที่คุณต้องการ คุณสามารถใช้เอฟเฟกต์แต่ละอย่างของ \"Adamancipator Conductor\" ได้เทิร์นละ 1 ครั้งเท่านั้น",
     "overallString": "[Monster|Effect|Tuner] Rock/Earth  [★6] 1400/1100",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306024.jpg?version=19.7"
   },
   {
     "name": "Adamancipator Crystal - Tiamite",
-    "desc": "If this card is Special Summoned by an \"Adamancipator\" card's effect: You can add 1 \"Adamancipator\" card from your Deck to your hand, except \"Adamancipator Crystal - Tiamite\", then you can Special Summon 1 Rock monster from your hand. If this card is in your GY: You can target 1 Rock Synchro Monster in your field or GY; return it to the Extra Deck, and if you do, place this card on top of the Deck. You can only use each effect of \"Adamancipator Crystal - Tiamite\" once per turn.",
+    "desc": "ถ้าการ์ดใบนี้ถูก Special Summon ด้วยเอฟเฟกต์ของการ์ด \"Adamancipator\": คุณสามารถเพิ่มการ์ด \"Adamancipator\" จากเด็คของคุณขึ้นมือ 1 ใบ ยกเว้น \"Adamancipator Crystal - Tiamite\" จากนั้นคุณสามารถ Special Summon มอนสเตอร์เผ่าหินจากบนมือของคุณได้ 1 ใบ ถ้าการ์ดใบนี้อยู่ใน GY ของคุณ: คุณสามารถเลือกเป้าหมายมอนสเตอร์ซิงโครเผ่าหินในสนามหรือใน GY ของคุณ 1 ใบ; นำมันกลับเข้า Extra Deck และถ้าคุณทำเช่นนั้น ให้นำการ์ดใบนี้ไปวางไว้บนสุดของเด็ค คุณสามารถใช้เอฟเฟกต์แต่ละอย่างของ \"Adamancipator Crystal - Tiamite\" ได้เทิร์นละ 1 ครั้งเท่านั้น",
     "overallString": "[Monster|Effect] Rock/Dark  [★4] 0/2200",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306025.jpg?version=19.7"
   },
   {
     "name": "Adamancipator Risen - Tiamite",
-    "desc": "1 Tuner + 1+ non-Tuners\nIf you have a DARK monster in your GY: You can add 1 \"Adamancipator\" Spell/Trap from your Deck to your hand. When your opponent activates a monster effect on the field (Quick Effect): You can excavate the top 5 cards of your Deck, and if you do, you can return cards your opponent controls to the hand, up to the number of excavated Rock monsters, also place the excavated cards on the bottom of the Deck in any order. You can only use each effect of \"Adamancipator Risen - Tiamite\" once per turn.",
+    "desc": "Tuner 1 ใบ + non-Tuner 1 ใบขึ้นไป\nถ้าคุณมีมอนสเตอร์ DARK อยู่ใน GY ของคุณ: คุณสามารถเพิ่ม Spell/Trap \"Adamancipator\" 1 ใบจาก Deck ขึ้นมือของคุณ เมื่อคู่แข่งของคุณสั่งใช้งานเอฟเฟกต์มอนสเตอร์บนสนาม (Quick Effect): คุณสามารถขุดการ์ด 5 ใบจากบนสุดของ Deck ของคุณ และถ้าทำสำเร็จ คุณสามารถนำการ์ดที่คู่แข่งควบคุมกลับขึ้นมือได้สูงสุดเท่ากับจำนวนมอนสเตอร์ Rock ที่ขุดเจอ จากนั้นวางการ์ดที่ขุดเจอทั้งหมดไว้ที่ด้านล่างของ Deck ตามลำดับที่คุณต้องการ คุณสามารถใช้เอฟเฟกต์แต่ละอย่างของ \"Adamancipator Risen - Tiamite\" ได้เทิร์นละ 1 ครั้งเท่านั้น",
     "overallString": "[Monster|Effect|Synchro] Rock/Dark  [★10] 3300/2200",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306041.jpg?version=19.7"
   },
   {
     "name": "Adamancipator Luminous",
-    "desc": "2 Effect Monsters, including a Synchro Monster\nIf this card is Link Summoned, or a monster(s) is Special Summoned to a zone(s) this card points to: You can target 1 monster in your field or GY that has a Level; Special Summon 1 \"Glimmer Token\" (Rock/LIGHT/ATK 0/DEF 0) with the same Level. When another monster on the field activates its effect (Quick Effect): You can place it on top of the Deck. You can only use each effect of \"Adamancipator Luminous\" once per turn.",
+    "desc": "มอนสเตอร์เอฟเฟกต์ 2 ใบ โดยต้องมีมอนสเตอร์ Synchro รวมอยู่ด้วย\nถ้าการ์ดนี้ถูก Link Summon หรือมีมอนสเตอร์ถูก Special Summon ลงโซนที่การ์ดนี้ชี้ไป: คุณสามารถเลือกเป้าหมายมอนสเตอร์ที่มีเลเวลในสนามหรือใน GY ของคุณ 1 ใบ; Special Summon \"Glimmer Token\" (Rock/LIGHT/ATK 0/DEF 0) ที่มีเลเวลเดียวกัน 1 ใบ เมื่อมอนสเตอร์ใบอื่นบนสนามสั่งใช้งานเอฟเฟกต์ (Quick Effect): คุณสามารถนำมอนสเตอร์ใบนั้นไปวางไว้บนสุดของ Deck คุณสามารถใช้เอฟเฟกต์แต่ละอย่างของ \"Adamancipator Luminous\" ได้เทิร์นละ 1 ครั้งเท่านั้น",
     "overallString": "[Monster|Effect|Link] Rock/Light  [LINK-2] 1800/-  [←][↓]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306049.jpg?version=19.7"
   },
   {
     "name": "Adamancipator Mates",
-    "desc": "Add 1 \"Adamancipator\" monster from your Deck to your hand. If this card is in your GY: You can place 1 card from your hand on top of the Deck; add this card to your hand. You can only use each effect of \"Adamancipator Mates\" once per turn.",
+    "desc": "นำมอนสเตอร์ \"Adamancipator\" 1 ตัวจากเด็คขึ้นมือ หากการ์ดใบนี้อยู่ในสุสานของคุณ: คุณสามารถนำการ์ด 1 ใบจากบนมือวางไว้บนสุดของเด็ค นำการ์ดใบนี้ขึ้นมือ คุณสามารถใช้เอฟเฟกต์แต่ละอย่างของ \"Adamancipator Mates\" ได้เทิร์นละครั้งเท่านั้น",
     "overallString": "[Spell]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306063.jpg?version=19.7"
   },
   {
     "name": "Swickelavee the Brilliantly Crowned Heavy Cavalry",
-    "desc": "2 Level 3 monsters\nOnce per turn, you can also Xyz Summon \"Swickelavee the Brilliantly Crowned Heavy Cavalry\" by using 1 Beast monster you control with 2000 or less ATK (transfer its materials). Cannot be used as material for an Xyz Summon. If this card destroys a monster by battle: Place 1 Crown Counter on it, then apply this effect based on the number of Crown Counters on it.\n● 1: This card gains 400 ATK.\n● 2: This card gains 600 ATK.\n● 3: Return this card to the Extra Deck, and if you do, draw 3 cards.",
+    "desc": "มอนสเตอร์ Level 3 จำนวน 2 ใบ\nเทิร์นละหนึ่งครั้ง คุณสามารถ Xyz Summon \"Swickelavee the Brilliantly Crowned Heavy Cavalry\" โดยใช้นำมอนสเตอร์ Beast ที่คุณควบคุมที่มี ATK 2000 หรือน้อยกว่า 1 ใบ (โอนถ่ายวัสดุการ์ดของมันมาด้วย) ไม่สามารถใช้เป็นการ์ดวัสดุสำหรับการ Xyz Summon ได้ ถ้าการ์ดนี้ทำลายมอนสเตอร์จากการต่อสู้: วาง Crown Counter 1 เม็ดบนการ์ดใบนี้ จากนั้นปรับใช้เอฟเฟกต์ตามจำนวน Crown Counter ที่อยู่บนการ์ดใบนี้\n● 1: การ์ดนี้ได้รับ ATK 400\n● 2: การ์ดนี้ได้รับ ATK 600\n● 3: ส่งการ์ดนี้กลับเข้า Extra Deck และถ้าทำสำเร็จ จั่วการ์ด 3 ใบ",
     "overallString": "[Monster|Effect|Xyz] Beast-Warrior/Light  [☆3] 2000/2000",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306045.jpg?version=19.7"
   },
   {
     "name": "Thoroughbred Elf",
-    "desc": "During your Main Phase: You can send 1 Equip Spell from your Deck to the GY, then this card gains 500 ATK until the end of your opponent's turn. You can only use this effect of \"Thoroughbred Elf\" once per turn. When this card destroys an opponent's monster by battle: You can add to your hand, or Special Summon, 1 Level 4 or lower LIGHT Spellcaster monster from your Deck, except \"Thoroughbred Elf\".",
+    "desc": "ในช่วง Main Phase ของคุณ: คุณสามารถส่ง Equip Spell 1 ใบจากเด็คไปยังสุสาน จากนั้นการ์ดใบนี้จะได้รับ ATK 500 จนถึงช่วงจบเทิร์นของคู่แข่ง คุณสามารถใช้งานเอฟเฟกต์นี้ของ \"Thoroughbred Elf\" ได้เทิร์นละ 1 ครั้งเท่านั้น เมื่อการ์ดใบนี้ทำลายมอนสเตอร์ของคู่แข่งจากการต่อสู้: คุณสามารถนำมอนสเตอร์เผ่า Spellcaster ธาตุ LIGHT เลเวล 4 หรือต่ำกว่า 1 ใบจากเด็คขึ้นมือหรือทำการ Special Summon โดยที่ยกเว้น \"Thoroughbred Elf\"",
     "overallString": "[Monster|Effect] Spellcaster/Light  [★4] 1800/1500",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100200292.jpg?version=19.7"
   },
   {
     "name": "Assault Lion",
-    "desc": "You can Tribute Summon this card face-up by Tributing 1 Beast-Warrior monster. If this card battles a monster, any battle damage it inflicts to your opponent is doubled. If a Beast-Warrior monster(s) is Normal or Special Summoned to your field while this card is in your GY: You can add this card to your hand, then immediately after this effect resolves, you can Tribute Summon this card face-up, and if you do, it gains 500 ATK, also banish it when it leaves the field. You can only use this effect of \"Assault Lion\" once per turn.",
+    "desc": "คุณสามารถ Tribute Summon การ์ดใบนี้แบบหงายหน้าได้โดยการสังเวยมอนสเตอร์เผ่า Beast-Warrior 1 ใบ ถ้าการ์ดใบนี้ต่อสู้กับมอนสเตอร์ ความเสียหายจากการต่อสู้ที่ทำกับคู่แข่งจะเพิ่มขึ้นเป็นสองเท่า หากมีมอนสเตอร์เผ่า Beast-Warrior ถูก Normal หรือ Special Summon ลงบนสนามของคุณในขณะที่การ์ดใบนี้อยู่ในสุสานของคุณ: คุณสามารถนำการ์ดใบนี้ขึ้นมือ จากนั้นทันทีหลังจากที่เอฟเฟกต์นี้ทำงานเสร็จสิ้น คุณสามารถทำการ Tribute Summon การ์ดใบนี้แบบหงายหน้า และถ้าทำเช่นนั้น การ์ดใบนี้จะได้รับ ATK 500 อีกทั้งให้เนรเทศการ์ดใบนี้เมื่อมันออกจากสนาม คุณสามารถใช้งานเอฟเฟกต์นี้ของ \"Assault Lion\" ได้เทิร์นละ 1 ครั้งเท่านั้น",
     "overallString": "[Monster|Effect] Beast-Warrior/Earth  [★7] 2600/2500",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100200293.jpg?version=19.7"
   },
   {
     "name": "Power Connection",
-    "desc": "Target any number of face-up monsters you control (if you target 2 or more monsters, they must have the same Type); they gain 500 ATK for each monster targeted, until the end of this turn. If you activated \"Armament Reincarnation\" this turn: You can add this card from your GY to your hand. You can only use each effect of \"Power Connection\" once per turn.",
+    "desc": "เลือกเป้าหมายมอนสเตอร์หงายหน้าจำนวนเท่าใดก็ได้ที่คุณควบคุม (หากเลือกมอนสเตอร์ 2 ใบขึ้นไป ต้องมีประเภทเดียวกัน): มอนสเตอร์เหล่านั้นจะได้รับ ATK 500 ต่อจำนวนมอนสเตอร์ที่เลือก จนถึงช่วงจบเทิร์นนี้ หากคุณได้ใช้งาน \"Armament Reincarnation\" ในเทิร์นนี้: คุณสามารถนำการ์ดใบนี้จากสุสานขึ้นมือได้ คุณสามารถใช้งานเอฟเฟกต์แต่ละอย่างของ \"Power Connection\" ได้เทิร์นละ 1 ครั้งเท่านั้น",
     "overallString": "[Spell]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100200294.jpg?version=19.7"
   },
   {
     "name": "Witchcrafter Seed",
-    "desc": "If this card is Normal or Special Summoned and you control a \"Witchcrafter\" monster other than \"Witchcrafter Seed\", or \"Regulus, the Prince of Endymion\": You can target 1 face-up card on the field; return it to the hand. You can banish this card from your GY; reveal any number of cards in your hand, including a Spell, and shuffle them into the Deck, then draw that many cards. You can only use each effect of \"Witchcrafter Seed\" once per turn.",
+    "desc": "หากการ์ดใบนี้ถูกอัญเชิญปกติหรือพิเศษ และคุณควบคุมมอนสเตอร์ \"Witchcrafter\" ตัวอื่นที่ไม่ใช่ \"Witchcrafter Seed\" หรือ \"Regulus, the Prince of Endymion\": คุณสามารถเลือกเป้าหมายการ์ดหงายหน้าที่อยู่บนสนาม 1 ใบ; นำการ์ดใบนั้นกลับขึ้นมือ คุณสามารถนำการ์ดใบนี้จากสุสานออกนอกเกม; เปิดการ์ดในมือของคุณกี่ใบก็ได้ รวมถึงเวทมนตร์ 1 ใบ แล้วสับการ์ดเหล่านั้นกลับเข้าเด็ค จากนั้นจั่วการ์ดจำนวนเท่ากับจำนวนการ์ดที่สับกลับเข้าไป คุณสามารถใช้เอฟเฟกต์แต่ละอย่างของ \"Witchcrafter Seed\" ได้เทิร์นละ 1 ครั้งเท่านั้น",
     "overallString": "[Monster|Effect] Spellcaster/Wind  [★4] 1300/1500",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100265002.jpg?version=19.7"
   },
   {
     "name": "Destiny HERO - Destro-Dogma",
-    "desc": "Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand or GY) by banishing 3 Warrior and/or DARK monsters from your GY. You can only Special Summon \"Destiny HERO - Destro-Dogma\" once per turn this way. If Summoned this way: You can activate this effect; inflict 2000 damage to your opponent during the next Standby Phase. Once per turn, when your opponent activates a card or effect (Quick Effect): You can Fusion Summon 1 DARK or Warrior Fusion Monster from your Extra Deck, by shuffling its materials from your hand, field, and/or GY into the Deck.",
+    "desc": "ไม่สามารถ Normal Summon/Set ได้ ต้อง Special Summon (จากบนมือหรือ GY ของคุณ) โดยนำมอนสเตอร์เผ่า Warrior และ/หรือ มอนสเตอร์ธาตุมืดจาก GY ของคุณออกนอกเกม 3 ใบ คุณสามารถ Special Summon \"Destiny HERO - Destro-Dogma\" ได้เทิร์นละ 1 ครั้งด้วยวิธีนี้เท่านั้น ถ้าถูก Summon ด้วยวิธีนี้: คุณสามารถใช้งานเอฟเฟกต์นี้; สร้างความเสียหาย 2000 ดาเมจให้คู่แข่งของคุณในช่วง Standby Phase ถัดไป เทิร์นละ 1 ครั้ง เมื่อคู่แข่งของคุณใช้งานการ์ดหรือเอฟเฟกต์ (Quick Effect): คุณสามารถ Fusion Summon มอนสเตอร์ฟิวชั่นเผ่ามืดหรือเผ่า Warrior จาก Extra Deck ของคุณ 1 ใบ โดยการสับวัตถุดิบจากการ์ดบนมือ, สนาม และ/หรือ ใน GY กลับเข้าเด็ค",
     "overallString": "[Monster|Effect|Special Summon] Warrior/Dark  [★8] 3400/2400",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306021.jpg?version=19.7"
   },
   {
     "name": "Destiny HERO - Doom Overlord",
-    "desc": "If this card is Normal or Special Summoned: You can target 1 monster your opponent controls; banish it until the next Standby Phase. You can send 1 \"Destiny HERO\" monster from your Deck to the GY; add 1 \"Clock Tower Prison\" or \"Dark City at Midnight\" from your Deck or GY to your hand, also you cannot Special Summon for the rest of this turn, except DARK \"HERO\" monsters. You can only use each effect of \"Destiny HERO - Doom Overlord\" once per turn.",
+    "desc": "ถ้าการ์ดใบนี้ถูก Normal หรือ Special Summon: คุณสามารถเลือกเป้าหมายมอนสเตอร์ที่คู่แข่งของคุณควบคุม 1 ใบ; นำมันออกนอกเกมจนถึงช่วง Standby Phase ถัดไป คุณสามารถส่งมอนสเตอร์ \"Destiny HERO\" จากเด็คของคุณลง GY 1 ใบ; เพิ่ม \"Clock Tower Prison\" หรือ \"Dark City at Midnight\" จากเด็คหรือ GY ของคุณขึ้นมือ 1 ใบ นอกจากนี้ คุณจะไม่สามารถ Special Summon มอนสเตอร์ได้ตลอดช่วงที่เหลือของเทิร์นนี้ ยกเว้นมอนสเตอร์ \"HERO\" ธาตุมืด คุณสามารถใช้เอฟเฟกต์แต่ละอย่างของ \"Destiny HERO - Doom Overlord\" ได้เทิร์นละ 1 ครั้งเท่านั้น",
     "overallString": "[Monster|Effect] Warrior/Dark  [★3] 600/800",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306022.jpg?version=19.7"
   },
   {
     "name": "Destiny HERO - Dreadnought Servant",
-    "desc": "If you control a \"Destiny HERO\" monster or a face-up Field Spell: You can Special Summon this card from your hand, then you can destroy 1 card you control, and if you do, add 1 \"Polymerization\" from your Deck to your hand. If you Special Summon a Level 8 \"Destiny HERO\" monster(s): You can banish this card from your GY, then target 1 card your opponent controls; place it on top of the Deck. You can only use each effect of \"Destiny HERO - Dreadnought Servant\" once per turn.",
+    "desc": "ถ้าคุณควบคุมมอนสเตอร์ \"Destiny HERO\" หรือ Field Spell ที่หงายหน้าอยู่: คุณสามารถ Special Summon การ์ดใบนี้จากบนมือของคุณ จากนั้นคุณสามารถทำลายการ์ดที่คุณควบคุมได้ 1 ใบ และถ้าคุณทำเช่นนั้น ให้เพิ่ม \"Polymerization\" จากเด็คของคุณขึ้นมือ 1 ใบ ถ้าคุณ Special Summon มอนสเตอร์ \"Destiny HERO\" เลเวล 8: คุณสามารถนำการ์ดใบนี้จาก GY ของคุณออกนอกเกม จากนั้นเลือกเป้าหมายการ์ดที่คู่แข่งของคุณควบคุม 1 ใบ; นำการ์ดนั้นวางไว้บนสุดของเด็ค คุณสามารถใช้เอฟเฟกต์แต่ละอย่างของ \"Destiny HERO - Dreadnought Servant\" ได้เทิร์นละ 1 ครั้งเท่านั้น",
     "overallString": "[Monster|Effect] Warrior/Dark  [★3] 400/700",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306023.jpg?version=19.7"
   },
   {
     "name": "Destiny HERO - Dreadnought Master",
-    "desc": "2 Level 5 or higher \"Destiny HERO\" monsters\nMust be either Fusion Summoned, or Special Summoned (from your Extra Deck) by Tributing 1 \"Destiny HERO - Dreadmaster\". You can only Special Summon \"Destiny HERO - Dreadnought Master\" once per turn this way, no matter which method you use. If this card is Special Summoned: You can add 2 \"Destiny HERO\" monsters and/or cards that mention a \"Destiny HERO\" monster's card name from your Deck to your hand. This card's ATK becomes the total original ATK of all other \"Destiny HERO\" monsters in your field and GY.",
+    "desc": "มอนสเตอร์ \"Destiny HERO\" เลเวล 5 หรือสูงกว่า 2 ใบ ต้องทำการ Fusion Summon หรือ Special Summon (จาก Extra Deck ของคุณ) โดยการสังเวย \"Destiny HERO - Dreadmaster\" 1 ใบเท่านั้น คุณสามารถ Special Summon \"Destiny HERO - Dreadnought Master\" ได้เทิร์นละ 1 ครั้งด้วยวิธีนี้ ไม่ว่าจะใช้วิธีใดก็ตาม ถ้าการ์ดใบนี้ถูก Special Summon: คุณสามารถเพิ่มมอนสเตอร์ \"Destiny HERO\" และ/หรือ การ์ดที่ระบุชื่อมอนสเตอร์ \"Destiny HERO\" จากเด็คของคุณขึ้นมือรวมกันได้ 2 ใบ พลังโจมตีของการ์ดใบนี้จะเท่ากับผลรวมของพลังโจมติดั้งเดิมของมอนสเตอร์ \"Destiny HERO\" ใบอื่นทั้งหมดในสนามและใน GY ของคุณ",
     "overallString": "[Monster|Effect|Fusion] Warrior/Dark  [★8] ?/2800",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306037.jpg?version=19.7"
   },
   {
     "name": "Dark City at Midnight",
-    "desc": "Each time you Special Summon a Level 8 or higher \"Destiny HERO\" monster(s): All Warrior monsters you currently control gain 300 ATK. You can only use each of the following effects of \"Dark City at Midnight\" once per turn. During your Main Phase, if this card was activated this turn: You can add 1 \"Destiny HERO\" monster, or 1 card that mentions a \"Destiny HERO\" monster's card name, from your Deck to your hand. If this card is destroyed: You can Special Summon 1 \"Destiny HERO\" monster from your Deck (this is treated as a Special Summon with \"Clock Tower Prison\").",
+    "desc": "ทุกครั้งที่คุณอัญเชิญพิเศษมอนสเตอร์ \"Destiny HERO\" เลเวล 8 ขึ้นไป: มอนสเตอร์เผ่า Warrior ทั้งหมดที่คุณควบคุมจะได้รับ ATK เพิ่มขึ้น 300 คุณสามารถใช้เอฟเฟกต์ต่อไปนี้ของ \"Dark City at Midnight\" ได้เทิร์นละครั้งเท่านั้น ในระหว่างเมนเฟสของคุณ หากการ์ดใบนี้ถูกเปิดใช้งานในเทิร์นนี้: คุณสามารถนำมอนสเตอร์ \"Destiny HERO\" 1 ตัว หรือการ์ดที่ระบุชื่อการ์ดของมอนสเตอร์ \"Destiny HERO\" 1 ใบจากเด็คขึ้นมือ หากการ์ดใบนี้ถูกทำลาย: คุณสามารถอัญเชิญพิเศษมอนสเตอร์ \"Destiny HERO\" 1 ตัวจากเด็คของคุณ (ถือว่าเป็นการอัญเชิญพิเศษด้วย \"Clock Tower Prison\")",
     "overallString": "[Spell|Field]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306062.jpg?version=19.7"
   },
   {
     "name": "Swiftwind Panther Warrior",
-    "desc": "During the Main Phase (Quick Effect): You can Tribute 1 other monster from your hand or field, then activate 1 of these effects;\n● Special Summon 1 monster that mentions \"Dark Time Wizard\" from your hand or Deck, except \"Swiftwind Panther Warrior\".\n● Send 1 Spell/Trap that mentions \"Dark Time Wizard\" from your Deck to the GY.\nYou can only use this effect of \"Swiftwind Panther Warrior\" once per turn. Cannot declare an attack unless a monster(s) was Tributed this turn.",
+    "desc": "ในช่วง Main Phase (Quick Effect): คุณสามารถ Tributed มอนสเตอร์อื่น 1 ใบจากบนมือหรือบนสนามของคุณ จากนั้นเลือกใช้งานเอฟเฟกต์ 1 อย่างดังต่อไปนี้:\n● Special Summon มอนสเตอร์ที่ระบุชื่อ \"Dark Time Wizard\" จากบนมือหรือใน Deck ของคุณ 1 ใบ ยกเว้น \"Swiftwind Panther Warrior\"\n● ส่งการ์ดเวทมนตร์/กับดักที่ระบุชื่อ \"Dark Time Wizard\" จากใน Deck ของคุณ 1 ใบลงสุสาน\nคุณสามารถใช้งานเอฟเฟกต์ของ \"Swiftwind Panther Warrior\" ได้เพียงเทิร์นละ 1 ครั้งเท่านั้น ไม่สามารถประกาศโจมตีได้หากไม่มีมอนสเตอร์ที่ถูก Tributed ในเทิร์นนี้",
     "overallString": "[Monster|Effect] Beast-Warrior/Earth  [★4] 2000/1600",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306001.jpg?version=19.7"
   },
   {
     "name": "Alligator's Dragon Knight",
-    "desc": "Can attack directly. You can only use each of the following effects of \"Alligator's Dragon Knight\" once per turn. If this card is in your hand: You can reveal 1 other card in your hand that mentions \"Dark Time Wizard\"; Special Summon this card. If this card is Normal or Special Summoned: You can add up to 2 Spells/Traps with different names from each other that mention \"Dark Time Wizard\" from your Deck to your hand, then discard 1 card.",
+    "desc": "สามารถโจมตีโดยตรงได้ คุณสามารถใช้งานเอฟเฟกต์แต่ละอย่างของ \"Alligator's Dragon Knight\" ได้เพียงเทิร์นละ 1 ครั้งเท่านั้น หากการ์ดใบนี้อยู่ในมือของคุณ: คุณสามารถเปิดเผยการ์ดใบอื่นในมือของคุณที่ระบุชื่อ \"Dark Time Wizard\" 1 ใบ; Special Summon การ์ดใบนี้ หากการ์ดใบนี้ถูก Normal หรือ Special Summon: คุณสามารถนำการ์ดเวทมนตร์/กับดักที่มีชื่อต่างกันที่ระบุชื่อ \"Dark Time Wizard\" จากใน Deck ของคุณขึ้นมือสูงสุด 2 ใบ จากนั้นทิ้งการ์ด 1 ใบ",
     "overallString": "[Monster|Effect] Dragon/Wind  [★5] 1700/1500",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306002.jpg?version=19.7"
   },
   {
     "name": "Jinzo - Energy Shocker",
-    "desc": "This card's name becomes \"Jinzo\" while in the field or GY. If this card is Normal or Special Summoned: You can destroy as many Traps your opponent controls as possible (if a card is Set, reveal it), then this card gains 300 ATK for each card destroyed this way. You can only use this effect of \"Jinzo - Energy Shocker\" once per turn. Your opponent cannot activate Trap Cards or effects while you have another monster in your field or GY that mentions \"Dark Time Wizard\".",
+    "desc": "ชื่อของการ์ดใบนี้จะเป็น \"Jinzo\" ในขณะที่อยู่บนสนามหรือในสุสาน หากการ์ดใบนี้ถูก Normal หรือ Special Summon: คุณสามารถทำลายการ์ดกับดักที่ฝ่ายตรงข้ามควบคุมอยู่ได้เท่าที่จะทำได้ (หากการ์ดใบนั้นถูก Set อยู่ ให้เปิดเผยการ์ดนั้นด้วย) จากนั้นการ์ดใบนี้จะได้รับ ATK เพิ่มขึ้น 300 ต่อจำนวนการ์ดที่ถูกทำลายด้วยวิธีนี้ คุณสามารถใช้งานเอฟเฟกต์ของ \"Jinzo - Energy Shocker\" ได้เพียงเทิร์นละ 1 ครั้งเท่านั้น ฝ่ายตรงข้ามไม่สามารถใช้งานการ์ดกับดักหรือเอฟเฟกต์ของกับการ์ดกับดักได้ตราบใดที่คุณมีมอนสเตอร์ใบอื่นที่ระบุชื่อ \"Dark Time Wizard\" อยู่บนสนามหรือในสุสานของคุณ",
     "overallString": "[Monster|Effect] Machine/Dark  [★7] 2400/1500",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306003.jpg?version=19.7"
   },
   {
     "name": "Fisherman of Legend",
-    "desc": "If your opponent activates a monster effect on the field, or when their monster declares an attack, and \"Umi\" or a card that mentions \"Dark Time Wizard\" other than \"Fisherman of Legend\" is on the field: You can Special Summon this card from your hand. If this card is Special Summoned: You can target 1 monster your opponent controls; destroy it, also return this card from the field to the hand during the End Phase of this turn. You can only use each effect of \"Fisherman of Legend\" once per turn.",
+    "desc": "หากฝ่ายตรงข้ามใช้งานเอฟเฟกต์มอนสเตอร์บนสนาม หรือเมื่อมอนสเตอร์ของฝ่ายตรงข้ามประกาศโจมตี และมีการ์ด \"Umi\" หรือการ์ดที่ระบุชื่อ \"Dark Time Wizard\" อื่นนอกเหนือจาก \"Fisherman of Legend\" อยู่บนสนาม: คุณสามารถ Special Summon การ์ดใบนี้จากบนมือของคุณ หากการ์ดใบนี้ถูก Special Summon: คุณสามารถเลือกเป้าหมายมอนสเตอร์ที่ฝ่ายตรงข้ามควบคุมอยู่ 1 ใบ; ทำลายมอนสเตอร์ใบนั้น และในระหว่าง End Phase ของเทิร์นนี้ ให้นำการ์ดใบนี้จากบนสนามกลับขึ้นมือ คุณสามารถใช้งานเอฟเฟกต์แต่ละอย่างของ \"Fisherman of Legend\" ได้เพียงเทิร์นละ 1 ครั้งเท่านั้น",
     "overallString": "[Monster|Effect] Warrior/Water  [★4] 1850/1600",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306004.jpg?version=19.7"
   },
   {
     "name": "Red-Eyes Black Dragon Exceed",
-    "desc": "\"Red-Eyes Black Dragon\" + 1 monster that mentions \"Dark Time Wizard\"\nMust be either Fusion Summoned, or Special Summoned (from your Extra Deck) by Tributing 1 face-up monster on either field during the turn a monster(s) was destroyed by the effect of \"Dark Time Wizard\". You can only Special Summon \"Red-Eyes Black Dragon Exceed\" once per turn this way, no matter which method you use. If this card is Special Summoned: You can Special Summon 1 Level 8 or lower monster from your hand or GY. Unaffected by your opponent's activated monster and Spell effects.",
+    "desc": "\"Red-Eyes Black Dragon\" + มอนสเตอร์ที่ระบุชื่อ \"Dark Time Wizard\" 1 ใบ ต้องทำการ Fusion Summon หรือ Special Summon (จาก Extra Deck ของคุณ) โดยการสังเวยมอนสเตอร์ที่หงายหน้าอยู่ 1 ใบในสนามของฝ่ายใดฝ่ายหนึ่ง ในระหว่างเทิร์นที่มีมอนสเตอร์ถูกทำลายด้วยเอฟเฟกต์ของ \"Dark Time Wizard\" เท่านั้น คุณสามารถ Special Summon \"Red-Eyes Black Dragon Exceed\" ได้เทิร์นละ 1 ครั้งด้วยวิธีนี้ ไม่ว่าจะใช้วิธีใดก็ตาม ถ้าการ์ดใบนี้ถูก Special Summon: คุณสามารถ Special Summon มอนสเตอร์เลเวล 8 หรือต่ำกว่าจากบนมือหรือ GY ของคุณได้ 1 ใบ การ์ดใบนี้จะไม่ได้รับผลกระทบจากเอฟเฟกต์มอนสเตอร์และเวทมนตร์ของคู่แข่ง",
     "overallString": "[Monster|Effect|Fusion] Dragon/Dark  [★9] 3400/3000",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306036.jpg?version=19.7"
   },
   {
     "name": "Dark Time Wizard",
-    "desc": "Activate 1 of these effects (but you can only use each effect of \"Dark Time Wizard\" once per turn);\n● Add 1 card that mentions \"Dark Time Wizard\" from your Deck to your hand, except \"Dark Time Wizard\", also add 1 \"Dark Time Wizard\" from your GY to your hand during the End Phase of this turn.\n● Toss a coin and call it. If you call it right, destroy as many monsters your opponent controls as possible, and if you do, inflict damage to your opponent equal to half the total original ATK of those monsters. If you call it wrong, destroy all monsters you control.",
+    "desc": "สั่งใช้งาน 1 ในเอฟเฟกต์ต่อไปนี้ (คุณสามารถใช้เอฟเฟกต์แต่ละอย่างของ \"Dark Time Wizard\" ได้เทิร์นละ 1 ครั้งเท่านั้น);\n● เพิ่มการ์ดที่ระบุถึง \"Dark Time Wizard\" จาก Deck ขึ้นมือของคุณ 1 ใบ ยกเว้น \"Dark Time Wizard\" และเพิ่ม \"Dark Time Wizard\" จาก GY ขึ้นมือของคุณ 1 ใบในช่วง End Phase ของเทิร์นนี้\n● โยนเหรียญและทายหัวหรือก้อย ถ้าคุณทายถูก ทำลายมอนสเตอร์ของคู่แข่งให้มากที่สุดเท่าที่จะทำได้ และถ้าทำสำเร็จ สร้างความเสียหายให้คู่แข่งเท่ากับครึ่งหนึ่งของผลรวม ATK ดั้งเดิมของมอนสเตอร์เหล่านั้น ถ้าคุณทายผิด ทำลายมอนสเตอร์ทั้งหมดที่คุณควบคุม",
     "overallString": "[Spell|Quick-Play]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306052.jpg?version=19.7"
   },
   {
     "name": "Graceful & Skull Dice",
-    "desc": "Roll a six-sided die twice and apply these effects for the rest of this turn.\n● Monsters you control that mention \"Dark Time Wizard\" gain ATK/DEF equal to the total x 200.\n● Monsters your opponent controls lose ATK/DEF equal to the total x 200.\nIf your opponent Normal or Special Summons a monster(s) while this card is in your GY: You can banish this card, then target 1 of those monsters; roll a six-sided die twice, and if the total is 6 or more, destroy that monster.",
+    "desc": "ทอยลูกเต๋าหกเหลี่ยม 2 ครั้ง และใช้ผลลัพธ์นี้ไปจนจบเทิร์นนี้ ● มอนสเตอร์ที่คุณควบคุมที่มีชื่อระบุถึง \"Dark Time Wizard\" จะได้รับ ATK/DEF เพิ่มขึ้นเท่ากับผลรวมของลูกเต๋าทั้งสองคูณด้วย 200 ● มอนสเตอร์ที่ฝ่ายตรงข้ามควบคุมจะเสีย ATK/DEF เท่ากับผลรวมของลูกเต๋าทั้งสองคูณด้วย 200 หากฝ่ายตรงข้ามทำการอัญเชิญแบบปกติหรืออัญเชิญพิเศษมอนสเตอร์ในขณะที่การ์ดใบนี้อยู่ในสุสานของคุณ: คุณสามารถนำการ์ดใบนี้ออกจากเกม จากนั้นเลือกเป้าหมายมอนสเตอร์เหล่านั้น 1 ตัว ทอยลูกเต๋าหกเหลี่ยม 2 ครั้ง และหากผลรวมเท่ากับ 6 ขึ้นไป ให้ทำลายมอนสเตอร์ตัวนั้น",
     "overallString": "[Spell|Quick-Play]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306053.jpg?version=19.7"
   },
   {
     "name": "Sleepy Scapegoats",
-    "desc": "Special Summon up to 4 \"Scapegoat Tokens\" (Beast/EARTH/Level 1/ATK 0/DEF 0) in Defense Position, then if your opponent controls a monster, you can Special Summon 1 \"Swiftwind Panther Warrior\" from your Deck, also for the rest of this turn, these Tokens cannot be Tributed for a Tribute Summon, also you cannot Special Summon from the Extra Deck, except Fusion Monsters. If a card(s) you control that mentions \"Dark Time Wizard\" would be destroyed by battle or card effect, you can destroy 1 Token you control that was Special Summoned by this effect instead.",
+    "desc": "อัญเชิญพิเศษ \"Scapegoat Tokens\" (Beast/EARTH/Level 1/ATK 0/DEF 0) สูงสุด 4 ตัวในสภาพตั้งรับ จากนั้นหากฝ่ายตรงข้ามควบคุมมอนสเตอร์อยู่ คุณสามารถอัญเชิญพิเศษ 1 \"Swiftwind Panther Warrior\" จากเด็คของคุณได้ อีกทั้งในช่วงที่เหลือของเทิร์นนี้ Tokens เหล่านี้ไม่สามารถใช้สังเวยเพื่อการอัญเชิญแบบ Tribute Summon ได้ และคุณไม่สามารถอัญเชิญพิเศษจาก Extra Deck ได้ ยกเว้น Fusion Monsters หากการ์ดที่คุณควบคุมที่มีชื่อระบุถึง \"Dark Time Wizard\" กำลังจะถูกทำลายจากการต่อสู้หรือเอฟเฟกต์ของการ์ด คุณสามารถทำลาย 1 Token ที่คุณควบคุมซึ่งถูกอัญเชิญพิเศษด้วยเอฟเฟกต์นี้แทนได้",
     "overallString": "[Spell|Quick-Play]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306054.jpg?version=19.7"
   },
   {
     "name": "Foolish Graverobber",
-    "desc": "Send 1 card that mentions \"Dark Time Wizard\" from your Deck to the GY, except \"Foolish Graverobber\", then you can Special Summon 1 monster from either GY to your field. You can banish this card from your GY; Set to your field, 1 Spell/Trap that mentions \"Dark Time Wizard\" from your GY, except \"Foolish Graverobber\", or 1 Spell/Trap from your opponent's GY. You can only use each effect of \"Foolish Graverobber\" once per turn.",
+    "desc": "ส่งการ์ดที่ระบุถึง \"Dark Time Wizard\" จากเด็คลงสุสาน 1 ใบ (ยกเว้น \"Foolish Graverobber\") จากนั้นคุณสามารถอัญเชิญพิเศษมอนสเตอร์ 1 ตัวจากสุสานของฝ่ายใดก็ได้ลงบนสนามของคุณ คุณสามารถนำการ์ดใบนี้จากสุสานของคุณออกนอกเกม; เซตการ์ดเวทมนตร์/กับดักที่ระบุถึง \"Dark Time Wizard\" จากสุสานของคุณ (ยกเว้น \"Foolish Graverobber\") หรือการ์ดเวทมนตร์/กับดักจากสุสานของฝ่ายตรงข้ามลงบนสนามของคุณ คุณสามารถใช้เอฟเฟกต์แต่ละอย่างของ \"Foolish Graverobber\" ได้เทิร์นละครั้งเท่านั้น",
     "overallString": "[Trap]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306070.jpg?version=19.7"
   },
   {
     "name": "Reversal Box",
-    "desc": "Once per turn, during the Standby Phase: Roll a six-sided die and place counters on this card equal to the result (max. 6). When a monster effect is activated on your opponent's field, or once per battle, during damage calculation, if an opponent's monster attacks: You can remove 1 counter from this card, then target 1 of those monsters; toss a coin and call it. If you call it right, you can Special Summon 1 monster that mentions \"Dark Time Wizard\" from your Deck, and if you do, until the end of this turn, change the targeted monster's ATK to 0, also its effects are negated.",
+    "desc": "เทิร์นละหนึ่งครั้ง ในระหว่าง Standby Phase: ทอยลูกเต๋า 1 ลูกและวาง Counter บนการ์ดใบนี้ตามจำนวนที่ทอยได้ (สูงสุด 6) เมื่อเอฟเฟกต์ของมอนสเตอร์บนสนามฝั่งตรงข้ามถูกใช้งาน หรือเทิร์นละหนึ่งครั้งในระหว่างคำนวณความเสียหาย หากมอนสเตอร์ของฝั่งตรงข้ามโจมตี: คุณสามารถนำ Counter 1 เม็ดออกจากใบนี้ จากนั้นเลือกเป้าหมายมอนสเตอร์เหล่านั้น 1 ตัว; โยนเหรียญและทายผล หากคุณทายถูก คุณสามารถอัญเชิญพิเศษมอนสเตอร์ที่มีชื่อ \"Dark Time Wizard\" ในข้อความการ์ดจากเด็คของคุณ 1 ตัว และถ้าทำเช่นนั้น เปลี่ยนค่า ATK ของมอนสเตอร์ที่เป็นเป้าหมายให้เป็น 0 จนกว่าจะจบเทิร์นนี้ และเอฟเฟกต์ของมอนสเตอร์ตัวนั้นจะถูกทำให้ไร้ผล",
     "overallString": "[Trap|Continuous]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306071.jpg?version=19.7"
   },
   {
     "name": "Dark Tyranno",
-    "desc": "Can attack directly if all monsters your opponent controls are in Defense Position. You can only use each of the following effects of \"Dark Tyranno\" once per turn. During your Main Phase, if a Spell Card or effect was activated this turn: You can Special Summon this card from your hand. If this card is sent to the GY: You can add 1 Level 8 or higher Dinosaur monster from your Deck to your hand, then you can Special Summon it if your opponent controls a monster.",
+    "desc": "สามารถโจมตีโดยตรงได้หากมอนสเตอร์ทั้งหมดที่คู่ต่อสู้ของคุณควบคุมอยู่ในรูปแบบป้องกัน คุณสามารถใช้เอฟเฟกต์ต่อไปนี้ของ \"Dark Tyranno\" ได้เทิร์นละครั้งเท่านั้น ในช่วง Main Phase ของคุณ หากการ์ดเวทมนตร์หรือเอฟเฟกต์ถูกใช้งานในเทิร์นนี้: คุณสามารถอัญเชิญพิเศษการ์ดใบนี้จากบนมือ หากการ์ดใบนี้ถูกส่งลงสุสาน: คุณสามารถเพิ่มมอนสเตอร์ประเภท Dinosaur เลเวล 8 ขึ้นไป 1 ใบจาก Deck ขึ้นมือ จากนั้นคุณสามารถอัญเชิญพิเศษมอนสเตอร์ใบนั้นได้หากคู่ต่อสู้ของคุณควบคุมมอนสเตอร์อยู่",
     "overallString": "[Monster|Effect] Dinosaur/Earth  [★7] 2600/1800",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100263001.jpg?version=19.7"
   },
   {
     "name": "Arcana Force XII - The Hangman",
-    "desc": "When a card or effect is activated (Quick Effect): You can reveal this card in your hand; Special Summon 1 \"Arcana Force\" monster from your hand in Defense Position. You can only use this effect of \"Arcana Force XII - The Hangman\" once per turn. If this card is Summoned: Toss a coin.\n● Heads: Destroy 1 monster you control, and if you do, take damage equal to its original ATK.\n● Tails: Destroy 1 monster your opponent controls, and if you do, inflict damage to your opponent equal to its original ATK.",
+    "desc": "เมื่อการ์ดหรือเอฟเฟกต์ถูกใช้งาน (Quick Effect): คุณสามารถเปิดเผยการ์ดใบนี้ในมือของคุณ; อัญเชิญพิเศษมอนสเตอร์ \"Arcana Force\" 1 ใบจากบนมือในรูปแบบป้องกัน คุณสามารถใช้เอฟเฟกต์ของ \"Arcana Force XII - The Hangman\" นี้ได้เทิร์นละครั้งเท่านั้น หากการ์ดใบนี้ถูกอัญเชิญ: ให้โยนเหรียญ\n● หัว: ทำลายมอนสเตอร์ที่คุณควบคุม 1 ใบ และถ้าทำเช่นนั้น ให้รับความเสียหายเท่ากับพลังโจมตีดั้งเดิมของมอนสเตอร์ใบนั้น\n● ก้อย: ทำลายมอนสเตอร์ที่คู่ต่อสู้ของคุณควบคุม 1 ใบ และถ้าทำเช่นนั้น ให้สร้างความเสียหายให้คู่ต่อสู้ของคุณเท่ากับพลังโจมตีดั้งเดิมของมอนสเตอร์ใบนั้น",
     "overallString": "[Monster|Effect] Fairy/Light  [★6] 2200/2200",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100263002.jpg?version=19.7"
   },
   {
     "name": "Candelato, the Beast of Light",
-    "desc": "(This card is always treated as a \"Phantom Beast\" card.)\nGains 1000 ATK/DEF for each card in your hand. You can only use each of the following effects of \"Candelato, the Beast of Light\" once per turn. You can discard 2 other cards; Special Summon this card from your hand, then you can add 1 card from your Deck to your hand that has a coin tossing effect. When a card or effect is activated that includes an effect that adds a card(s) from the Deck to the hand (Quick Effect): You can negate that effect.",
+    "desc": "(การ์ดใบนี้จะถูกนับว่าเป็นมอนสเตอร์ \"Phantom Beast\" เสมอ)\nได้รับพลังโจมตี/ป้องกัน 1000 สำหรับการ์ดแต่ละใบในมือของคุณ คุณสามารถใช้เอฟเฟกต์แต่ละอย่างต่อไปนี้ของ \"Candelato, the Beast of Light\" ได้เทิร์นละครั้งเท่านั้น คุณสามารถทิ้งการ์ดใบอื่น 2 ใบ; อัญเชิญพิเศษการ์ดใบนี้จากบนมือ จากนั้นคุณสามารถเพิ่มการ์ดที่มีเอฟเฟกต์เกี่ยวกับการโยนเหรียญ 1 ใบจาก Deck ขึ้นมือของคุณ เมื่อการ์ดหรือเอฟเฟกต์ที่รวมถึงเอฟเฟกต์ในการเพิ่มการ์ดจาก Deck ขึ้นมือถูกใช้งาน (Quick Effect): คุณสามารถยกเลิกเอฟเฟกต์นั้นได้",
     "overallString": "[Monster|Effect] Beast/Light  [★12] 0/0",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100263003.jpg?version=19.7"
   },
   {
     "name": "Plasma Warrior Eitom",
-    "desc": "(This card is always treated as a \"Magna Warrior\" card.)\nCannot be Normal Summoned/Set. Must be Special Summoned (from your hand or GY) by Tributing 1 Level 7 or higher monster. You can only Special Summon \"Plasma Warrior Eitom\" once per turn this way. Once per turn: You can send 1 \"Magnet Warrior\" or \"Magna Warrior\" monster from your Deck to the GY, except \"Plasma Warrior Eitom\"; for the rest of this turn, this card's original ATK becomes 1500, also it can attack directly.",
+    "desc": "(This card is always treated as a \"Magna Warrior\" card.)\nไม่สามารถอัญเชิญปกติ/เซตคว่ำได้ ต้องอัญเชิญพิเศษ (จากบนมือหรือสุสานของคุณ) โดยการสังเวยมอนสเตอร์เลเวล 7 ขึ้นไป 1 ใบ คุณสามารถอัญเชิญพิเศษ \"Plasma Warrior Eitom\" ได้เพียงเทิร์นละ 1 ครั้งด้วยวิธีนี้ เทิร์นละ 1 ครั้ง: คุณสามารถส่งมอนสเตอร์ \"Magnet Warrior\" หรือ \"Magna Warrior\" 1 ใบจากเด็คของคุณลงสุสาน (ยกเว้น \"Plasma Warrior Eitom\") พลังโจมตีเดิมของการ์ดใบนี้จะกลายเป็น 1500 จนกว่าจะจบเทิร์นนี้ และการ์ดใบนี้สามารถโจมตีโดยตรงได้",
     "overallString": "[Monster|Effect|Special Summon] Thunder/Light  [★8] 3000/2500",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100263004.jpg?version=19.7"
   },
   {
     "name": "White Knight Lord",
-    "desc": "You can banish 3 monsters from your GY; Special Summon this card from your hand, then you can apply 1 of these effects.\n● Special Summon 1 \"White Knight\" or \"White Night\" monster from your hand or Deck.\n● Add 1 \"White Veil\" from your Deck to your hand.\nYou can only use this effect of \"White Knight Lord\" once per turn. When an attack is declared involving this card and an opponent's monster: Change that opponent's monster's ATK to 0. If this card in its owner's possession is destroyed by an opponent's card: Inflict 1000 damage to your opponent.",
+    "desc": "คุณสามารถนำมอนสเตอร์ 3 ใบจากสุสานของคุณออกนอกเกม; อัญเชิญพิเศษการ์ดใบนี้จากบนมือ จากนั้นคุณสามารถเลือกใช้ผลอย่างใดอย่างหนึ่งดังต่อไปนี้:\n● อัญเชิญพิเศษมอนสเตอร์ \"White Knight\" หรือ \"White Night\" 1 ใบจากบนมือหรือเด็คของคุณ\n● เพิ่ม \"White Veil\" 1 ใบจากเด็คของคุณขึ้นมือ\nคุณสามารถใช้ผลของ \"White Knight Lord\" ได้เพียงเทิร์นละ 1 ครั้งเท่านั้น เมื่อมีการประกาศโจมตีที่มีการ์ดใบนี้และมอนสเตอร์ของคู่ต่อสู้เกี่ยวข้อง: เปลี่ยนพลังโจมตีของมอนสเตอร์ตัวนั้นของคู่ต่อสู้ให้กลายเป็น 0 หากการ์ดใบนี้ที่อยู่ในการควบคุมของคุณถูกทำลายโดยการ์ดของคู่ต่อสู้: สร้างความเสียหาย 1000 ให้กับคู่ต่อสู้ของคุณ",
     "overallString": "[Monster|Effect] Warrior/Light  [★7] 2000/2000",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100263005.jpg?version=19.7"
   },
   {
     "name": "Invincible Demise Lord",
-    "desc": "During the End Phase, if a monster(s) was destroyed by battle this turn: You can Special Summon this card from your hand or GY, and if \"Invincible Demise Lord\" was destroyed by battle this turn, this card's original ATK becomes 3000, also it cannot be destroyed by card effects. During your Main Phase: You can reveal cards in your Deck, including \"Slash Draw\", equal to the number of cards your opponent controls +1 and place those revealed cards on top of the Deck in any order. You can only use each effect of \"Invincible Demise Lord\" once per turn.",
+    "desc": "ในช่วง End Phase หากมีมอนสเตอร์ถูกทำลายจากการต่อสู้ในเทิร์นนี้: คุณสามารถ Special Summon การ์ดใบนี้จากบนมือหรือในสุสานของคุณ และถ้าหาก \"Invincible Demise Lord\" ถูกทำลายจากการต่อสู้ในเทิร์นนี้ พลังโจมตีตั้งต้นของการ์ดใบนี้จะกลายเป็น 3000 และการ์ดใบนี้จะไม่ถูกทำลายจากเอฟเฟกต์ของการ์ด ในช่วง Main Phase ของคุณ: คุณสามารถเปิดดูการ์ดในเด็คของคุณ รวมถึง \"Slash Draw\" ตามจำนวนการ์ดที่คู่แข่งควบคุมอยู่ +1 ใบ จากนั้นวางการ์ดเหล่านั้นไว้บนสุดของเด็คในลำดับใดก็ได้ตามที่คุณต้องการ คุณสามารถใช้เอฟเฟกต์แต่ละอย่างของ \"Invincible Demise Lord\" ได้เทิร์นละ 1 ครั้งเท่านั้น",
     "overallString": "[Monster|Effect] Fiend/Dark  [★6] 1300/2000",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100263006.jpg?version=19.7"
   },
   {
     "name": "Elemental HERO Clay Guardian",
-    "desc": "1 \"Elemental HERO\" monster + 1 Warrior monster\n(This card is not treated as a \"Guardian\" card.)\nIf this card is Special Summoned: You can Special Summon 1 \"Elemental HERO\" monster from your Deck, then if your opponent controls a card, you can inflict 400 damage to your opponent for each, also you cannot Special Summon from the Extra Deck for the rest of this turn, except \"HERO\" monsters. You can only use this effect of \"Elemental HERO Clay Guardian\" once per turn. Other \"Elemental HERO\" monsters you control cannot be destroyed by battle or card effects.",
+    "desc": "มอนสเตอร์ \"Elemental HERO\" 1 ใบ + มอนสเตอร์ Warrior 1 ใบ\n(การ์ดใบนี้ไม่นับว่าเป็น \"Guardian\")\nหากการ์ดใบนี้ถูก Special Summon: คุณสามารถ Special Summon มอนสเตอร์ \"Elemental HERO\" 1 ใบจากเด็คของคุณ จากนั้นถ้าคู่แข่งควบคุมการ์ดอยู่ คุณสามารถสร้างความเสียหาย 400 ให้กับคู่แข่งตามจำนวนการ์ดเหล่านั้น และคุณไม่สามารถ Special Summon มอนสเตอร์จาก Extra Deck ได้ในเทิร์นนี้ ยกเว้นมอนสเตอร์ \"HERO\" คุณสามารถใช้เอฟเฟกต์นี้ของ \"Elemental HERO Clay Guardian\" ได้เทิร์นละ 1 ครั้งเท่านั้น มอนสเตอร์ \"Elemental HERO\" ใบอื่นที่คุณควบคุมอยู่จะไม่ถูกทำลายจากการต่อสู้หรือเอฟเฟกต์ของการ์ด",
     "overallString": "[Monster|Effect|Fusion] Warrior/Earth  [★4] 0/2800",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100263007.jpg?version=19.7"
   },
   {
     "name": "Doll Hammer",
-    "desc": "Target 1 monster you control; destroy it, and if you do, draw 2 cards, then you can change the battle position of 1 monster your opponent controls. If a monster(s) is Special Summoned from your GY while this card is in your GY: You can add this card to your hand. You can only use each effect of \"Doll Hammer\" once per turn.",
+    "desc": "เลือกเป้าหมายมอนสเตอร์ที่คุณควบคุม 1 ใบ ทำลายการ์ดใบนั้น และถ้าคุณทำสำเร็จ ให้จั่วการ์ด 2 ใบ จากนั้นคุณสามารถเปลี่ยนรูปแบบการต่อสู้ของมอนสเตอร์ฝ่ายตรงข้าม 1 ใบ ถ้ามีการอัญเชิญพิเศษมอนสเตอร์จากสุสานของคุณในขณะที่การ์ดใบนี้อยู่ในสุสานของคุณ: คุณสามารถนำการ์ดใบนี้กลับขึ้นมือ คุณสามารถใช้เอฟเฟกต์แต่ละอย่างของ \"Doll Hammer\" ได้เทิร์นละ 1 ครั้งเท่านั้น",
     "overallString": "[Spell]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100263008.jpg?version=19.7"
   },
   {
     "name": "Quick Summon",
-    "desc": "Immediately after this effect resolves, Normal Summon/Set 1 monster. When you do, if your opponent controls a monster, you can Normal Summon a Level 5 or higher monster without Tributing. During your Main Phase, if this card is in your GY, except the turn it was sent there: You can banish it; add 1 Level 5 or higher monster that can be Normal Summoned/Set from your Deck or GY to your hand, then immediately after this effect resolves, Tribute Summon it. You can only use this effect of \"Quick Summon\" once per turn.",
+    "desc": "ทันทีหลังจากที่เอฟเฟกต์นี้ทำงาน ให้อัญเชิญปกติ/เซต มอนสเตอร์ 1 ใบ เมื่อคุณทำเช่นนั้น หากฝ่ายตรงข้ามควบคุมมอนสเตอร์อยู่ คุณสามารถอัญเชิญปกติมอนสเตอร์เลเวล 5 ขึ้นไปโดยไม่ต้องสังเวย ระหว่างเมนเฟสของคุณ หากการ์ดใบนี้อยู่ในสุสานของคุณ ยกเว้นเทิร์นที่การ์ดใบนี้ถูกส่งลงสุสาน: คุณสามารถนำการ์ดใบนี้ออกนอกเกม; เพิ่มมอนสเตอร์เลเวล 5 ขึ้นไปที่สามารถอัญเชิญปกติ/เซต ได้จากเด็คหรือสุสานของคุณขึ้นมือ จากนั้นอัญเชิญขั้นสูงการ์ดใบนั้นทันทีหลังจากเอฟเฟกต์นี้ทำงาน คุณสามารถใช้เอฟเฟกต์ของ \"Quick Summon\" ได้เทิร์นละ 1 ครั้งเท่านั้น",
     "overallString": "[Spell|Quick-Play]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100263009.jpg?version=19.7"
   },
   {
     "name": "D - Burst",
-    "desc": "Target 1 face-up Spell you control; destroy it, and if you do, draw 1 card, then if you control a \"Destiny HERO\" monster, you can Special Summon 1 \"Destiny HERO\" monster from your hand, GY, or banishment. At the end of the Damage Step, if a monster equipped with an Equip Card, or \"Destiny HERO - Dogma\", attacked: You can banish this card from your GY; that monster can make a second attack in a row. You can only activate 1 \"D - Burst\" per turn.",
+    "desc": "เลือกเป้าหมายเวทมนตร์หงายหน้าที่คุณควบคุม 1 ใบ ทำลายการ์ดใบนั้น และถ้าคุณทำสำเร็จ ให้จั่วการ์ด 1 ใบ จากนั้นหากคุณควบคุมมอนสเตอร์ \"Destiny HERO\" อยู่ คุณสามารถอัญเชิญพิเศษมอนสเตอร์ \"Destiny HERO\" 1 ใบจากมือ, สุสาน หรือการ์ดที่ถูกนำออกนอกเกม ในช่วงจบความเสียหาย หากมอนสเตอร์ที่สวมใส่การ์ดสวมใส่ หรือ \"Destiny HERO - Dogma\" ได้ทำการโจมตี: คุณสามารถนำการ์ดใบนี้จากสุสานออกนอกเกม; มอนสเตอร์ตัวนั้นสามารถโจมตีต่อเนื่องได้เป็นครั้งที่สอง คุณสามารถใช้งาน \"D - Burst\" ได้เทิร์นละ 1 ใบเท่านั้น",
     "overallString": "[Spell]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100263010.jpg?version=19.7"
   },
   {
     "name": "Clown Crew Cappello",
-    "desc": "Pendulum Scale = 7\n[ Pendulum Effect ]\nDuring your Main Phase: You can send 1 \"Clown Crew\" card from your Deck to your GY, except a Pendulum Monster, and if you do, Special Summon this card, also you cannot activate the effects of monsters Special Summoned from the Deck or Extra Deck until the end of the next turn. You can only use this effect of \"Clown Crew Cappello\" once per turn.\n----------------------------------------\n[ Monster Effect ]\nMonsters your opponent controls lose 1500 DEF while you control a Tribute Summoned monster. If this card is Tributed: You can activate 1 of these effects (but you can only use each of these effects of \"Clown Crew Cappello\" once per turn);\n● Shuffle all Pendulum Monsters on the field and face-up in the Extra Decks into the Deck.\n● Special Summon 1 non-Pendulum \"Clown Crew\" monster from your Deck or Extra Deck, ignoring its Summoning conditions.",
+    "desc": "Pendulum Scale = 7\n[ Pendulum Effect ]\nในช่วง Main Phase ของคุณ: คุณสามารถส่งการ์ด \"Clown Crew\" 1 ใบจากเด็คไปยังสุสาน โดยต้องไม่ใช่ Pendulum Monster และถ้าทำเช่นนั้น ให้ทำการ Special Summon การ์ดใบนี้ อีกทั้งคุณไม่สามารถใช้งานเอฟเฟกต์ของมอนสเตอร์ที่ถูก Special Summon จากเด็คหรือ Extra Deck ได้จนกว่าจะจบเทิร์นถัดไป คุณสามารถใช้งานเอฟเฟกต์นี้ของ \"Clown Crew Cappello\" ได้เทิร์นละ 1 ครั้งเท่านั้น\n----------------------------------------\n[ Monster Effect ]\nมอนสเตอร์ที่คู่แข่งควบคุมจะเสีย DEF 1500 ในขณะที่คุณควบคุมมอนสเตอร์ที่ได้จากการ Tribute Summon หากการ์ดใบนี้ถูกสังเวย: คุณสามารถใช้งานเอฟเฟกต์อย่างใดอย่างหนึ่งต่อไปนี้ได้ (คุณสามารถใช้งานเอฟเฟกต์ของ \"Clown Crew Cappello\" แต่ละอย่างได้เทิร์นละ 1 ครั้งเท่านั้น)\n● สับการ์ด Pendulum Monster ทั้งหมดบนสนามและที่หงายหน้าอยู่ใน Extra Deck กลับเข้าเด็ค\n● ทำการ Special Summon มอนสเตอร์ \"Clown Crew\" ที่ไม่ใช่ Pendulum จากเด็คหรือ Extra Deck ของคุณ 1 ใบ โดยไม่ต้องสนใจเงื่อนไขการอัญเชิญ",
     "overallString": "[Monster|Effect|Pendulum] Beast-Warrior/Light  [★5] 1900/800  7/7",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100260001.jpg?version=19.7"
   },
