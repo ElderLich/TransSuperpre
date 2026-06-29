@@ -125,7 +125,7 @@ Puoi utilizzare ciascun effetto di ""Stregartigiana Seed"" una sola volta per tu
 ● Evoca Specialmente 1 mostro da uno dei Cimiteri sul tuo Terreno.
 Puoi attivare solo 1 ""Segreti Antichi"" per turno."
 100266001,Segreti Antichi,str1,Attiva
-100266001,Segreti Antichi,str2,Applicare un effetto differente?
+100266001,Segreti Antichi,str2,Applicare un altro effetto?
 100266001,Segreti Antichi,str3,Distruggi 1 mostro
 100266001,Segreti Antichi,str4,Distruggi Carte Magia/Trappola
 100266001,Segreti Antichi,str5,Pescare
@@ -174,7 +174,7 @@ Puoi utilizzare ciascun effetto di ""Yomagna il Fantasma di Fuoco"" una sola vol
 101305084,Spaventapasseri Schiantotuono,desc,"Ogni volta che uno o più mostri non-TUONO vengono Evocati Specialmente scoperti, mentre questa carta è nella Zona Mostri: quei mostri non possono attaccare in questo turno, inoltre distruggili durante la End Phase.
 Se questa carta è nel tuo Cimitero: puoi scegliere come bersaglio 1 carta scoperta che controlli; distruggila e, se lo fai, aggiungi questa carta alla tua mano.
 Puoi utilizzare questo effetto di ""Spaventapasseri Schiantotuono"" una sola volta per turno."
-101305084,Spaventapasseri Schiantotuono,str1,Limitare gli attacchi
+101305084,Spaventapasseri Schiantotuono,str1,Restrizione d'attacco
 101305084,Spaventapasseri Schiantotuono,str2,Recuperare
 101305084,Spaventapasseri Schiantotuono,str3,L'effetto di {CARD} si sta applicando.
 101305085,Mixousia la Confonditrice,name,Mixousia la Confonditrice
@@ -206,7 +206,7 @@ I mostri del tuo avversario che possono attaccare devono attaccare il mostro che
 Puoi bandire 1 mostro dal tuo Cimitero; Evoca Specialmente 1 ""Segna-Impostore"" (Psichico/TERRA/Livello 800/DEF 800) con lo stesso Livello di quel mostro.
 Puoi utilizzare questo effetto di ""Sostituzione dell'Impostore"" una sola volta per turno."
 101305088,Sostituzione dell'Impostore,str2,Evocazione Speciale
-101305088,Sostituzione dell'Impostore,str3,Bandire la carta? (Sostituzione dell'Impostore)
+101305088,Sostituzione dell'Impostore,str3,Bandire una carta? ({CARD})
 101305089,Mortilux Heruvur,name,Mortilux Heruvur
 101305089,Mortilux Heruvur,desc,"2+ mostri di Livello 8
 Se uno o più mostri vengono mandati al Cimitero del tuo avversario (eccetto durante il Damage Step): puoi scegliere come bersaglio 1 di essi; attaccalo a questa carta come materiale. Puoi utilizzare questo effetto di ""Mortilux Heruvur"" una sola volta per turno.
@@ -251,7 +251,7 @@ Puoi utilizzare ciascun effetto di ""Angelechy Arruolato"" una sola volta per tu
 101305094,Problema Angelechy,desc,"Una volta per turno: puoi scartare 1 Magia/Trappola; Evoca Specialmente 1 mostro ""Angelechy"" di Livello 2 dal tuo Extra Deck e, se lo fai, posiziona 1 mostro ""Angelechy"" dal tuo Extra Deck nella tua Zona Magie & Trappole come Magia Continua scoperta.
 Se una o più Carte Mostro ""Angelechy"" scoperte che controlli vengono distrutte in battaglia o dall'effetto di una carta: puoi far ritornare 1 Carta Mostro ""Angelechy"" che controlli dalla tua Zona Magie & Trappole all'Extra Deck, poi puoi Evocarla Specialmente."
 101305094,Problema Angelechy,str1,Evocazione Speciale
-101305094,Problema Angelechy,str2,Rimandare all'Extra Deck
+101305094,Problema Angelechy,str2,Rimettere nell'Extra Deck
 101305094,Problema Angelechy,str3,Evocazione Speciale?
 101305095,Disturbo Angelechy,name,Disturbo Angelechy
 101305095,Disturbo Angelechy,desc,"Cedi il controllo di 1 mostro ""Angelechy"" che controlli al tuo avversario (fino alla End Phase), poi, se il tuo avversario controlla una o più carte scoperte nelle Zone Mostri e/o Zone Magie & Trappole adiacenti, i loro effetti vengono annullati.
@@ -405,7 +405,7 @@ Se questa carta viene Evocata Normalmente o Specialmente: puoi bandire 1 mostro 
 Puoi utilizzare ciascun effetto di ""Richiamo Misstico"" una sola volta per turno."
 101306031,Richiamo Misstico,str1,Evocazione Speciale
 101306031,Richiamo Misstico,str2,Effetto di bandire
-101306031,Richiamo Misstico,str3,"Effetto di ""Richiamo Misstico"""
+101306031,Richiamo Misstico,str3,Bandire tramite l'effetto di {CARD}
 101306032,Padre Grizzly,name,Padre Grizzly
 101306032,Padre Grizzly,desc,"Quando questa carta viene distrutta in battaglia e mandata al Cimitero: puoi Evocare Specialmente 1 mostro di Livello 4 con 1400 ATK dal tuo Deck, oppure, se hai 2 o più mostri di Livello 4 con 1400 ATK nel tuo Cimitero, puoi invece Evocare Specialmente 1 Mostro Normale.
 Quando il tuo avversario attiva un effetto mostro e controlli un Mostro non-con Effetto scoperto (Effetto Rapido): puoi bandire questa carta dal tuo Cimitero; annulla l'attivazione e, se lo fai, distruggi quel mostro.
@@ -629,8 +629,8 @@ Puoi bandire questa carta dal tuo Cimitero; attiva 1 di questi effetti;
 ● Distruggi 5 mostri nella tua Zona Mostri Main oppure 5 carte nella tua Zona Magie & Trappole, poi pesca 2 carte.
 ● Distruggi 5 mostri nella Zona Mostri Main del tuo avversario oppure 5 carte nella sua Zona Magie & Trappole, poi il tuo avversario pesca 2 carte."
 101306080,Carta Bingo,str1,Attiva
-101306080,Carta Bingo,str2,Effetto nel Cimitero
-101306080,Carta Bingo,str3,Distruggi una tua carta
+101306080,Carta Bingo,str2,Effetto Cimitero
+101306080,Carta Bingo,str3,Distruggere le tue carte
 101306080,Carta Bingo,str4,Distruggere una carta del tuo avversario
 101306080,Carta Bingo,str5,Zona Mostri Principale
 101306080,Carta Bingo,str6,Zona Magie & Trappole
