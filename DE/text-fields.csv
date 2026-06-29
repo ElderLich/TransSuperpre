@@ -182,7 +182,7 @@ Du kannst jeden Effekt von „Hexwerker Samen“ nur einmal pro Spielzug verwend
 101305084,设陷雷轰稻草人,desc,"这张卡在怪兽区域存在的状态，每次雷族以外的怪兽表侧表示特殊召唤：那些怪兽这个回合不能攻击，结束阶段破坏。
 这张卡在墓地存在的场合：可以以自己场上1张表侧表示卡为对象；那张卡破坏，这张卡加入手卡。
 「设陷雷轰稻草人」的这个效果1回合只能使用1次。"
-101305084,设陷雷轰稻草人,str1,Angriffe einschränken
+101305084,设陷雷轰稻草人,str1,Angriffsbeschränkung
 101305084,设陷雷轰稻草人,str2,Zurückholen
 101305084,设陷雷轰稻草人,str3,Der Effekt von {CARD} wird derzeit angewendet.
 101305085,权柄交络者 米克修希亚,name,权柄交络者 米克修希亚
@@ -214,7 +214,7 @@ Du kannst jeden Effekt von „Hexwerker Samen“ nur einmal pro Spielzug verwend
 可以从自己墓地把1只怪兽除外；在自己场上把持有那只怪兽相同等级的1只「欺诈师衍生物」（念动力族·地·攻800/守800）特殊召唤。
 「欺诈转移」的这个效果1回合只能使用1次。"
 101305088,欺诈转移,str2,Als Spezialbeschwörung beschwören
-101305088,欺诈转移,str3,Die Karte verbannen? (Hochstapler-Tausch)
+101305088,欺诈转移,str3,Eine Karte verbannen? ({CARD})
 101305089,悼光之希路伯,name,悼光之希路伯
 101305089,悼光之希路伯,desc,"8星怪兽×2只以上
 怪兽被送去对方墓地的场合（伤害步骤除外）：可以以那之内的1只为对象；那只怪兽作为这张卡的超量素材。「悼光之希路伯」的这个效果1回合只能使用1次。
@@ -409,12 +409,25 @@ Du kannst jeden Effekt von „Schicksals-HELD - Dreadnought Servant“ nur einma
 101306030,死相之冥鉴 修布罗,str2,Auf den Friedhof legen
 101306030,死相之冥鉴 修布罗,str3,Als Xyz-Beschwörung beschwören
 101306030,死相之冥鉴 修布罗,str4,Der Hand hinzufügen?
+101306031,秘水调查师,name,秘水调查师
+101306031,秘水调查师,desc,"这个卡名的①②的效果1回合各能使用1次。
+①：这张卡在手卡·墓地存在的场合，从手卡把1只其他魔法师族怪兽或1张魔法·陷阱卡丢弃才能发动。这张卡特殊召唤。这个效果特殊召唤的这张卡从场上离开的场合除外。
+②：这张卡召唤·特殊召唤的场合才能发动。从卡组把1只魔法师族·4星怪兽除外。这个回合的结束阶段，除外的那只怪兽加入手卡或特殊召唤。 "
+101306031,秘水调查师,str1,Als Spezialbeschwörung beschwören
+101306031,秘水调查师,str2,Verbannungseffekt
+101306031,秘水调查师,str3,Durch den Effekt von {CARD} verbannen
 101306032,公灰熊,name,公灰熊
 101306032,公灰熊,desc,"这个卡名的②的效果1回合只能使用1次。
 ①：这张卡被战斗破坏送去墓地时才能发动。从卡组把1只攻击力1400的4星怪兽特殊召唤。自己墓地有攻击力1400的4星怪兽2只以上存在的场合，可以作为代替把1只通常怪兽特殊召唤。
 ②：自己场上有效果怪兽以外的怪兽存在，对方把怪兽的效果发动时，把墓地的这张卡除外才能发动。那个发动无效并破坏。"
 101306032,公灰熊,str1,Als Spezialbeschwörung beschwören
 101306032,公灰熊,str2,Aktivierung annullieren
+101306034,卡通阴影,name,卡通阴影
+101306034,卡通阴影,desc,"这张卡不能通常召唤。「卡通阴影」1回合1次，在不能通常召唤的怪兽在场上以表侧表示存在的场合才能特殊召唤。
+①：这张卡特殊召唤的场合才能发动。从卡组把攻击力或守备力是2000的1只不能通常召唤的怪兽加入手卡。
+②：场上的这张卡被解放的场合，以场上1张卡为对象才能发动（自己场上有攻击力或守备力是2000的怪兽存在的场合，这个效果的对象可以变成2张）。那些卡回到手卡。 "
+101306034,卡通阴影,str1,Sucheffekt
+101306034,卡通阴影,str2,Auf die Hand zurückgeben
 101306035,一日万倍龙,name,一日万倍龙
 101306035,一日万倍龙,desc,"①：自己·对方的结束阶段，支付100基本分才能发动。给这张卡放置1个万倍指示物。
 ②：1回合1次，自己主要阶段才能发动。双方基本分之差每有1000，给这张卡放置1个万倍指示物。
@@ -620,16 +633,22 @@ Falls du richtig vorausgesagt hast, du kannst 1 Monster, das „Dunkler Zeitzaub
 101306076,海龙神的大涡,str1,Beschwörung annullieren
 101306076,海龙神的大涡,str2,Auf den Friedhof legen
 101306076,海龙神的大涡,str3,Dieses Monster zerstören?
+101306078,祟纸神的报应,name,祟纸神的报应
+101306078,祟纸神的报应,desc,"这个卡名的①②的效果1回合各能使用1次。
+①：以自己场上1只怪兽和对方场上1张表侧表示卡为对象才能发动。那只自己怪兽破坏，那张对方的卡直到回合结束时无效。
+②：盖放的这张卡被送去墓地的场合，以对方场上1张表侧表示卡为对象才能发动。那张卡的效果无效。"
+101306078,祟纸神的报应,str1,Effekt annullieren
+101306078,祟纸神的报应,str2,Effekt annullieren
 101306080,宾果卡,name,宾果卡
 101306080,宾果卡,desc,"①：选相同纵列全部有卡存在的1只怪兽，那个纵列的卡全部破坏。那之后，双方各自抽1张。
 ②：可以把墓地的这张卡除外，从以下效果选择1个发动。
 ●自己主要怪兽区域5只怪兽或者自己魔法与陷阱区域5张卡破坏。那之后，自己抽2张。
 ●对方主要怪兽区域5只怪兽或者对方魔法与陷阱区域5张卡破坏。那之后，对方抽2张。"
 101306080,宾果卡,str1,Aktivieren
-101306080,宾果卡,str2,Friedhof-Effekt
-101306080,宾果卡,str3,Eigene Karte zerstören
+101306080,宾果卡,str2,Friedhofseffekt
+101306080,宾果卡,str3,Eigene Karten zerstören
 101306080,宾果卡,str4,Zerstöre eine Karte deines Gegners
-101306080,宾果卡,str5,Main-Monsterzone
+101306080,宾果卡,str5,Hauptmonsterzone
 101306080,宾果卡,str6,Zauber- & Fallenzone
 101306149,奇石衍生物,name,奇石衍生物
 101306149,奇石衍生物,desc,由「魔救之辉迹」的效果特殊召唤。
