@@ -122,7 +122,7 @@ Você só pode usar cada um dos efeitos de ""Fazticeira Semente"" uma vez por tu
 ● Invoque por Invocação-Especial 1 monstro de qualquer Cemitério para o seu campo.
 Você só pode ativar 1 ""Segredos Ancestrais"" por turno."
 100266001,Segredos Ancestrais,str1,Ativar
-100266001,Segredos Ancestrais,str2,Aplicar um efeito diferente?
+100266001,Segredos Ancestrais,str2,Aplicar outro efeito?
 100266001,Segredos Ancestrais,str3,Destruir 1 monstro
 100266001,Segredos Ancestrais,str4,Destruir Cards de Magia/Armadilha
 100266001,Segredos Ancestrais,str5,Comprar
@@ -171,7 +171,7 @@ Você só pode usar cada efeito de ""Yomagna, o Fantasma do Fogo"" uma vez por t
 101305084,Thundercrash Snarecrow,desc,"Toda vez que um ou mais monstros não-Trovão é Invocado por Invocação-Especial com a face para cima, enquanto este card está na Zona de Monstros: aquele(s) monstro(s) não pode atacar neste turno, também destrua-o durante a Fase Final.
 Se este card está no seu Cemitério: você pode escolher 1 card com a face para cima que você controla; destrua-o, e se fizer, adicione este card à sua mão.
 Você só pode usar este efeito de ""Thundercrash Snarecrow"" uma vez por turno."
-101305084,Thundercrash Snarecrow,str1,Restringir ataques
+101305084,Thundercrash Snarecrow,str1,Restrição de ataque
 101305084,Thundercrash Snarecrow,str2,Recuperar
 101305084,Thundercrash Snarecrow,str3,O efeito de {CARD} está sendo aplicado.
 101305085,"Mixousia, o Que Confunde",name,"Mixousia, o Que Confunde"
@@ -190,7 +190,7 @@ Você pode desassociar qualquer número de matérias deste card, então escolha 
 Você só pode usar cada um dos efeitos de ""Shamanite Shamancavaleiro"" uma vez por turno."
 101305086,Shamanite Shamancavaleiro,str1,Associar Matéria Xyz
 101305086,Shamanite Shamancavaleiro,str2,Invocação Especial
-101305086,Shamanite Shamancavaleiro,str3,Selecione a quantidade de Matérias Xyz para desassociar
+101305086,Shamanite Shamancavaleiro,str3,Escolha a quantidade de Matérias Xyz a desassociar
 101305087,"Cerynemesia, Besta Mística da Floresta",name,"Cerynemesia, Besta Mística da Floresta"
 101305087,"Cerynemesia, Besta Mística da Floresta",desc,"Se este card for Invocado por Invocação-Normal ou Especial: você pode banir (com a face para cima) 1 monstro Besta da sua mão ou com a face para cima no campo até a Fase Final; Invoque por Invocação-Especial 1 monstro Besta de TERRA do seu Deck ou Cemitério, com um Nível igual ou menor que  o Nível original daquele monstro, então seu oponente pode Invocar por Invocação-Especial 1 monstro da mão dele. Você só pode usar este efeito de ""Cerynemesia, Besta Mística da Floresta"" uma vez por turno.
 Os monstros do seu oponente que podem atacar, devem atacar o monstro que você controla com o maior ATK (ele escolhe, se empatado)."
@@ -202,7 +202,7 @@ Os monstros do seu oponente que podem atacar, devem atacar o monstro que você c
 Você pode banir 1 monstro do seu Cemitério; Invoque por Invocação-Especial 1 ""Ficha de Impostor"" (Psíquico/TERRA/ATK 800/DEF 800) 
 com o mesmo Nível daquele monstro. Você só pode usar este efeito de ""Troca do Impostor"" uma vez por turno."
 101305088,Troca do Impostor,str2,Invocação Especial
-101305088,Troca do Impostor,str3,Banir o card? (Troca do Impostore)
+101305088,Troca do Impostor,str3,Banir 1 card? ({CARD})
 101305089,Mortilux Heruvur,name,Mortilux Heruvur
 101305089,Mortilux Heruvur,desc,"2+ monstros de Nível 8
 Se um ou mais monstros é enviado para o Cemitério do seu oponente (exceto durante a Etada de Dano): você pode escolher 1 deles; associe-o neste card. Você só pode usar este efeito de ""Mortilux Heruvur"" uma vez por turno.
@@ -395,11 +395,24 @@ Se um ou mais monstros é Invocado por Invocação-Especial do seu Cemitério en
 101306030,"Hublot, o Diretório Escuro da Morte",str2,Enviar para o Cemitério
 101306030,"Hublot, o Diretório Escuro da Morte",str3,Invocação Xyz
 101306030,"Hublot, o Diretório Escuro da Morte",str4,Adicionar à mão?
+101306031,Misstic Call,name,Misstic Call
+101306031,Misstic Call,desc,"Se este card está na sua mão ou Cemitério: você pode descartar 1 outro monstro Mago ou 1 Magia/Armadilha; Invoque por Invocação-Especial este card, mas bana-o quando ele deixar o campo.
+Se este card é Invocado por Invocação-Especial: você pode banir 1 monstro Mago de Nível 4 do seu Deck, e se fizer, durante a Fase Final deste turno, adicione-o à sua mão ou Invoque-o por Invocação-Especial.
+Você só pode usar cada efeito de ""Misstic Call"" uma vez por turno."
+101306031,Misstic Call,str1,Invocação Especial
+101306031,Misstic Call,str2,Efeito de banimento
+101306031,Misstic Call,str3,Banir pelo efeito de {CARD}
 101306032,Urso Pai,name,Urso Pai
 101306032,Urso Pai,desc,"Quando este card é destruído por batalha e enviado para o Cemitério: você pode Invocar por Invocação-Especial 1 monstro de Nível 4 com 1400 de ATK do seu Deck, ou se você tem 2 ou mais monstros de Nível 4 com 1400 de ATK no seu Cemitério, em vez disso você pode Invocar por Invocação-Especial 1 Monstro Normal.
 Quando seu oponente ativar um efeito de monstro e você controla um Monstro sem efeito com a face ara cima (Efeito Rápido): você pode banir este card do seu Cemitério; negue a ativação, e se fizer, destrua aquele monstro. Você só pode usar este efeito de ""Urso Pai"" uma vez por turno."
 101306032,Urso Pai,str1,Invocação Especial
 101306032,Urso Pai,str2,Negar a ativação
+101306034,Sombra de Cartoon,name,Sombra de Cartoon
+101306034,Sombra de Cartoon,desc,"Não pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial (da sua mão) enquanto um monstro que não pode ser Invocado por Invocação-Normal/Baixado está no campo com a face para cima. Você só pode Invocar por Invocação-Especial ""Sombra de Cartoon"" uma vez por turno dessa forma.
+Se este card é Invocado por Invocação-Especial: você pode adicionar 1 monstro com 2000 de ATK ou DEF que não pode ser Invocado por Invocação-Normal/Baixado do seu Deck à sua mão.
+Se este card for oferecido como Tributo no campo: você pode escolher 1 card no campo, ou você pode escolher 2 se você controal um monstro com 2000 de ATK ou DEF; retorne aquele(s) card(s) para à mão."
+101306034,Sombra de Cartoon,str1,Efeito de busca
+101306034,Sombra de Cartoon,str2,Retornar para a mão
 101306035,Dragão Myriaday,name,Dragão Myriaday
 101306035,Dragão Myriaday,desc,"Uma vez por turno, durante a Fase Final: você pode pagar 100 PV; coloque 1 Marcador de Miríade neste card.
 Uma vez por turno, durante sua Fase Principal: você pode colocar 1 Marcador de Miríade neste card para cada 1000 pontos de diferente entre seu PV e do seu oponente.
@@ -599,17 +612,23 @@ Você só pode usar 1 dos efeitos de ""Redemoinho Daedalus"", e somente uma vez 
 101306076,Redemoinho Daedalus,str1,Negar a Invocação
 101306076,Redemoinho Daedalus,str2,Enviar para o Cemitério
 101306076,Redemoinho Daedalus,str3,Destruir aquele monstro?
-101306080,宾果卡,name,宾果卡
-101306080,宾果卡,desc,"①：选相同纵列全部有卡存在的1只怪兽，那个纵列的卡全部破坏。那之后，双方各自抽1张。
-②：可以把墓地的这张卡除外，从以下效果选择1个发动。
-●自己主要怪兽区域5只怪兽或者自己魔法与陷阱区域5张卡破坏。那之后，自己抽2张。
-●对方主要怪兽区域5只怪兽或者对方魔法与陷阱区域5张卡破坏。那之后，对方抽2张。"
-101306080,宾果卡,str1,Ativar
-101306080,宾果卡,str2,Efeito no Cemitério
-101306080,宾果卡,str3,Destrua seu próprio card
-101306080,宾果卡,str4,Destruir um card do seu oponente
-101306080,宾果卡,str5,Zona Principal de Monstros
-101306080,宾果卡,str6,Zona de Magias & Armadilhas
+101306078,Papel Amaldiçoado de Retribuição,name,Papel Amaldiçoado de Retribuição
+101306078,Papel Amaldiçoado de Retribuição,desc,"Escolha 1 monstro que você controla e 1 card com a face para cima que seu oponente control; destrua seu monstro, e se fizer, negue os efeitos daquele card do oponente até o fim deste turno.
+Se este card Baixado for enviado para o Cemitério: você pode escolher 1 card com a face para cima que seu oponente controla, negue seus efeitos.
+Você só pode usar cada um dos efeitos de ""Papel Amaldiçoado de Retribuição"" uma vez por turno."
+101306078,Papel Amaldiçoado de Retribuição,str1,Negar o efeito
+101306078,Papel Amaldiçoado de Retribuição,str2,Negar o efeito
+101306080,Card de Bingo,name,Card de Bingo
+101306080,Card de Bingo,desc,"Escolha 1 monstro em uma coluna com todas as zonas ocupadas e destrua quantos cards naquela coluna possível, então cada jogador compra 1 card.
+Você pode banir este card do seu Cemitério, então ative 1 desses efeitos;
+● Destrua 5 monstros na sua Zona de Monstros Principal ou 5 cards na Zona de Magia & Armadilha, então compre 2 cards.
+● Destrua 5 monstros na Zona de Monstros Principal do seu oponente ou 5 cards na Zona de Magia & Armadilha dele, então ele compra 2 cards."
+101306080,Card de Bingo,str1,Ativar
+101306080,Card de Bingo,str2,Efeito do Cemitério
+101306080,Card de Bingo,str3,Destruir seus próprios cards
+101306080,Card de Bingo,str4,Destruir um card do seu oponente
+101306080,Card de Bingo,str5,Zona de Monstros Principal
+101306080,Card de Bingo,str6,Zona de Magia & Armadilha
 101306149,Ficha de Brilho,name,Ficha de Brilho
 101306149,Ficha de Brilho,desc,"Invocado por Invocação-Especial pelo efeito de ""Luminosa Adamancipador""."
 101306154,Ficha de Bode Expiatório,name,Ficha de Bode Expiatório
