@@ -97,7 +97,7 @@ If this card is Special Summoned: You can Special Summon 1 ""Elemental HERO"" mo
 ● Special Summon 1 monster from either GY to your field.
 You can only activate 1 ""Ancient Secrets"" per turn."
 100266001,Ancient Secrets,str1,Activate
-100266001,Ancient Secrets,str2,Apply a different effect?
+100266001,Ancient Secrets,str2,Apply another effect?
 100266001,Ancient Secrets,str3,Destroy a monster
 100266001,Ancient Secrets,str4,Destroy Spell/Trap Card(s)
 100266001,Ancient Secrets,str5,Draw
@@ -136,7 +136,7 @@ You can only activate 1 ""Distrust Paranoia"" per turn."
 101305083,Yomagna the Fire Phantom,str3,Fusion effect
 101305084,Thundercrash Snarecrow,name,Thundercrash Snarecrow
 101305084,Thundercrash Snarecrow,desc,"Each time a non-Thunder monster(s) is Special Summoned face-up, while this card is in the Monster Zone: That monster(s) cannot attack this turn, also destroy it during the End Phase. If this card is in your GY: You can target 1 face-up card you control; destroy it, and if you do, add this card to your hand. You can only use this effect of ""Thundercrash Snarecrow"" once per turn."
-101305084,Thundercrash Snarecrow,str1,Restrict attacks
+101305084,Thundercrash Snarecrow,str1,Attack restriction
 101305084,Thundercrash Snarecrow,str2,Recycle
 101305084,Thundercrash Snarecrow,str3,The effect of {CARD} is currently being applied.
 101305085,Mixousia the Confounder,name,Mixousia the Confounder
@@ -159,7 +159,7 @@ If this card is Xyz Summoned, or if a Trap you own is banished: You can target 1
 101305088,Imposter Shift,name,Imposter Shift
 101305088,Imposter Shift,desc,"When a monster effect that was activated on your opponent's field by targeting a card(s) on the field resolves, if any of those targets are in a different column than that opponent's monster, they can banish 1 card from their GY. If they did not, negate the activated effect. You can banish 1 monster from your GY; Special Summon 1 ""Imposter Token"" (Psychic/EARTH/ATK 800/DEF 800) with the same Level as that monster. You can only use this effect of ""Imposter Shift"" once per turn."
 101305088,Imposter Shift,str2,Special Summon
-101305088,Imposter Shift,str3,Banish the card? (Imposter Shift)
+101305088,Imposter Shift,str3,Banish a card? ({CARD})
 101305089,Mortilux Heruvur,name,Mortilux Heruvur
 101305089,Mortilux Heruvur,desc,"2+ Level 8 monsters
 If a monster(s) is sent to your opponent's GY (except during the Damage Step): You can target 1 of them; attach it to this card. You can only use this effect of ""Mortilux Heruvur"" once per turn. This card gains effects based on the number of materials attached to it.
@@ -291,20 +291,16 @@ You can only use this effect of ""Swiftwind Panther Warrior"" once per turn. Can
 101306030,Hublot the Dark Directory of Death,str3,Xyz Summon
 101306030,Hublot the Dark Directory of Death,str4,Add to hand?
 101306031,Misstic Call,name,Misstic Call
-101306031,Misstic Call,desc,"You can only use the 1st and 2nd effect of this card’s name each once per turn.
-(1) If this card is in your hand or GY: You can discard 1 other Spellcaster monster or 1 Spell/Trap; Special Summon this card, but banish it when it leaves the field.
-(2) If this card is Normal or Special Summoned: You can banish 1 Level 4 Spellcaster monster from your Deck, and if you do, during the End Phase of this turn, add it to your hand or Special Summon it."
+101306031,Misstic Call,desc,"If this card is in your hand or GY: You can discard 1 other Spellcaster monster or 1 Spell/Trap; Special Summon this card, but banish it when it leaves the field. If this card is Normal or Special Summoned: You can banish 1 Level 4 Spellcaster monster from your Deck, and if you do, during the End Phase of this turn, add it to your hand or Special Summon it. You can only use each effect of ""Misstic Call"" once per turn."
 101306031,Misstic Call,str1,Special Summon
 101306031,Misstic Call,str2,Banish effect
-101306031,Misstic Call,str3,"Banished by the effect of ""Misstic Call"""
+101306031,Misstic Call,str3,Banish by the effect of {CARD}
 101306032,Father Grizzly,name,Father Grizzly
 101306032,Father Grizzly,desc,"When this card is destroyed by battle and sent to the GY: You can Special Summon 1 Level 4 monster with 1400 ATK from your Deck, or if you have 2 or more Level 4 monsters with 1400 ATK in your GY, you can Special Summon 1 Normal Monster instead. When your opponent activates a monster effect and you control a face-up non-Effect Monster (Quick Effect): You can banish this card from your GY; negate the activation, and if you do, destroy that monster. You can only use this effect of ""Father Grizzly"" once per turn."
 101306032,Father Grizzly,str1,Special Summon
 101306032,Father Grizzly,str2,Negate the activation
 101306034,Cartoon Shade,name,Cartoon Shade
-101306034,Cartoon Shade,desc,"Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) if a monster that cannot be Normal Summoned/Set is on the field. You can only Special Summon “Cartoon Shade” once per turn this way.
-(1) If this card is Special Summoned: You can add 1 monster with 2000 ATK or DEF from your Deck to your hand that cannot be Normal Summoned/Set.
-(2) If this card on the field is Tributed: You can can target 1 card on the field, or up to 2 if you control a monster with 2000 ATK or DEF; return it to the hand."
+101306034,Cartoon Shade,desc,"Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) while a face-up monster that cannot be Normal Summoned/Set is on the field. You can only Special Summon ""Cartoon Shade"" once per turn this way. If this card is Special Summoned: You can add 1 monster with 2000 ATK or DEF that cannot be Normal Summoned/Set from your Deck to your hand. If this card on the field is Tributed: You can target 1 card on the field, or you can target 2 if you control a monster with 2000 ATK or DEF; return that card(s) to the hand."
 101306034,Cartoon Shade,str1,Search effect
 101306034,Cartoon Shade,str2,Return to the hand
 101306035,Myriaday Dragon,name,Myriaday Dragon
@@ -461,9 +457,7 @@ You can only activate 1 ""Ashtra Divine Domain"" per turn."
 101306076,Daedalus Maelstrom,str2,Send to the GY
 101306076,Daedalus Maelstrom,str3,Destroy that monster?
 101306078,Cursed Paper Retribution,name,Cursed Paper Retribution
-101306078,Cursed Paper Retribution,desc,"You can only use the 1st and 2nd effect of this card’s name each once per turn.
-(1) Target 1 monster you control and 1 face-up card your opponent controls; destroy your monster, and if you do, negate that opponent’s cards’ effects until the end of this turn.
-(2) If this Set card is sent to the GY: You can target 1 face-up card your opponent controls; negate its effects."
+101306078,Cursed Paper Retribution,desc,"Target 1 monster you control and 1 face-up card your opponent controls; destroy your monster, and if you do, negate the effects of that opponent's card until the end of this turn. If this Set card is sent to the GY: You can target 1 face-up card your opponent controls; negate its effects. You can only use each effect of ""Cursed Paper Retribution"" once per turn."
 101306078,Cursed Paper Retribution,str1,Negate the effect
 101306078,Cursed Paper Retribution,str2,Negate the effect
 101306080,Bingo Card,name,Bingo Card
@@ -472,7 +466,7 @@ You can only activate 1 ""Ashtra Divine Domain"" per turn."
 ● Destroy 5 monsters in your opponent's Main Monster Zone or 5 cards in their Spell & Trap Zone, then they draw 2 cards."
 101306080,Bingo Card,str1,Activate
 101306080,Bingo Card,str2,GY effect
-101306080,Bingo Card,str3,Destroy your own card
+101306080,Bingo Card,str3,Destroy your own cards
 101306080,Bingo Card,str4,Destroy an opponent's card
 101306080,Bingo Card,str5,Main Monster Zone
 101306080,Bingo Card,str6,Spell & Trap Zone
