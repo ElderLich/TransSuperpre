@@ -284,6 +284,9 @@ You can only use this effect of ""Swiftwind Panther Warrior"" once per turn. Can
 101306025,Adamancipator Crystal - Tiamite,str1,Search effect
 101306025,Adamancipator Crystal - Tiamite,str2,Return to the Deck
 101306025,Adamancipator Crystal - Tiamite,str3,Special Summon?
+101306029,Coralianektes the Shimmering Shining Dragon,name,Coralianektes the Shimmering Shining Dragon
+101306029,Coralianektes the Shimmering Shining Dragon,desc,"If this card is added to your hand, except by drawing it: You can reveal this card and 1 other WATER monster in your hand; Special Summon both, also you cannot Special Summon for the rest of this turn, except WATER monsters. You can only use this effect of ""Coralianektes the Shimmering Shining Dragon"" once per turn. While you control ""Umi"", your opponent cannot target WATER Link Monsters you control with card effects."
+101306029,Coralianektes the Shimmering Shining Dragon,str1,Special Summon
 101306030,Hublot the Dark Directory of Death,name,Hublot the Dark Directory of Death
 101306030,Hublot the Dark Directory of Death,desc,"You can Normal Summon this card without Tributing. You can only use each of the following effects of ""Hublot the Dark Directory of Death"" once per turn. If this card is Normal or Special Summoned: You can send 1 Level 6 or higher Zombie monster from your Deck to the GY, except ""Hublot the Dark Directory of Death"", then you can add 1 Level 6 or higher Zombie monster from your GY to your hand. If a monster(s) is Special Summoned from the GY while this card is in the Monster Zone, you can: Immediately after this effect resolves, Xyz Summon 1 Zombie Xyz Monster."
 101306030,Hublot the Dark Directory of Death,str1,Normal Summon without Tributing
@@ -295,12 +298,10 @@ You can only use this effect of ""Swiftwind Panther Warrior"" once per turn. Can
 101306031,Misstic Call,str1,Special Summon
 101306031,Misstic Call,str2,Banish effect
 101306031,Misstic Call,str3,Banish by the effect of {CARD}
-101306032,Grizzly Father,name,Grizzly Father
-101306032,Grizzly Father,desc,"คุณสามารถใช้ผลของชื่อการ์ดนี้ในเอฟเฟกต์ที่ 2 ได้เทิร์นละ 1 ครั้งเท่านั้น
-①：เมื่อการ์ดนี้ถูกทำลายจากการต่อสู้และถูกส่งลงสุสาน: คุณสามารถอัญเชิญพิเศษมอนสเตอร์เลเวล 4 ที่มีพลังโจมตี 1400 จากเด็คของคุณ 1 ใบ หรือถ้าคุณมีมอนสเตอร์เลเวล 4 ที่มีพลังโจมตี 1400 อยู่ในสุสานตั้งแต่ 2 ใบขึ้นไป คุณสามารถเปลี่ยนเป็นการอัญเชิญพิเศษ Normal Monster แทนได้
-②：เมื่อคู่ต่อสู้ของคุณใช้งานเอฟเฟกต์มอนสเตอร์และคุณควบคุมมอนสเตอร์ที่ไม่ใช่เอฟเฟกต์มอนสเตอร์ที่หงายหน้าอยู่ (Quick Effect): คุณสามารถนำการ์ดนี้ออกจากเกมจากสุสานของคุณ; ยกเลิกการใช้งานนั้น และถ้าทำเช่นนั้น ทำลายมอนสเตอร์ใบนั้น"
-101306032,Grizzly Father,str1,Special Summon
-101306032,Grizzly Father,str2,Negate the activation
+101306032,Father Grizzly,name,Father Grizzly
+101306032,Father Grizzly,desc,"When this card is destroyed by battle and sent to the GY: You can Special Summon 1 Level 4 monster with 1400 ATK from your Deck, or if you have 2 or more Level 4 monsters with 1400 ATK in your GY, you can Special Summon 1 Normal Monster instead. When your opponent activates a monster effect and you control a face-up non-Effect Monster (Quick Effect): You can banish this card from your GY; negate the activation, and if you do, destroy that monster. You can only use this effect of ""Father Grizzly"" once per turn."
+101306032,Father Grizzly,str1,Special Summon
+101306032,Father Grizzly,str2,Negate the activation
 101306034,Cartoon Shade,name,Cartoon Shade
 101306034,Cartoon Shade,desc,"Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) while a face-up monster that cannot be Normal Summoned/Set is on the field. You can only Special Summon ""Cartoon Shade"" once per turn this way. If this card is Special Summoned: You can add 1 monster with 2000 ATK or DEF that cannot be Normal Summoned/Set from your Deck to your hand. If this card on the field is Tributed: You can target 1 card on the field, or you can target 2 if you control a monster with 2000 ATK or DEF; return that card(s) to the hand."
 101306034,Cartoon Shade,str1,Search effect
@@ -422,7 +423,7 @@ If your opponent Normal or Special Summons a monster(s) while this card is in yo
 101306070,Foolish Graverobber,str2,Set
 101306070,Foolish Graverobber,str3,Special Summon?
 101306071,Reversal Box,name,Reversal Box
-101306071,Reversal Box,desc,"Once per turn, during the Standby Phase: Roll a six-sided die and place counters on this card equal to the result (max. 6). When a monster effect is activated on your opponent's field, or once per battle, during damage calculation, if an opponent's monster attacks: You can remove 1 counter from this card, then target 1 of those monsters; toss a coin and call it. If you call it right, you can Special Summon 1 monster that mentions ""Dark Time Wizard"" from your Deck, and if you do, until the end of this turn, change the targeted monster's ATK to 0, also its effects are negated."
+101306071,Reversal Box,desc,"Once per turn, during the Standby Phase: Roll a six-sided die and place counters on this card up to the result (max. 6). When a monster effect is activated on your opponent's field, or once per battle, during damage calculation, if an opponent's monster attacks: You can remove 1 counter from this card, then target 1 of those monsters; toss a coin and call it. If you call it right, you can Special Summon 1 monster that mentions ""Dark Time Wizard"" from your Deck, and if you do, until the end of this turn, change the targeted monster's ATK to 0, also its effects are negated."
 101306071,Reversal Box,str1,Place a counter
 101306071,Reversal Box,str2,Toss a coin
 101306071,Reversal Box,str3,Select the number of counters to place
