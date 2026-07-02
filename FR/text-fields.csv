@@ -154,12 +154,14 @@ Vous ne pouvez utiliser chaque effet de ""Émissaires des Ténèbres"" qu'une fo
 100266003,Émissaires des Ténèbres,str3,Invocation Spéciale
 100266003,Émissaires des Ténèbres,str4,Effet de destruction
 100266003,Émissaires des Ténèbres,str5,Ne rien faire
-100266004,暗黑武装龙·击灭,name,暗黑武装龙·击灭
-100266004,暗黑武装龙·击灭,desc,"这张卡不能通常召唤。自己墓地的暗属性怪兽是3只的场合才能特殊召唤。这个卡名的①②的效果1回合各能使用1次。
-①：把手卡的这张卡给对方出示才能发动。从手卡把1只6星以下的暗属性怪兽特殊召唤。这个回合，自己不是暗属性怪兽不能特殊召唤。
-②：自己·对方的主要阶段，从自己墓地把最多3只暗属性怪兽除外，以那个数量的场上的卡为对象才能发动。那些卡破坏。"
-100266004,暗黑武装龙·击灭,str1,Invocation Spéciale
-100266004,暗黑武装龙·击灭,str2,Détruire
+100266004,Dragon Armé des Ténèbres Punisseur,name,Dragon Armé des Ténèbres Punisseur
+100266004,Dragon Armé des Ténèbres Punisseur,desc,"Ni Invocable Normalement ni Posable Normalement.
+Uniquement Invocable Spécialement (depuis votre main) en ayant exactement 3 monstres TÉNÈBRES dans votre Cimetière.
+Vous pouvez révéler cette carte dans votre main ; Invoquez Spécialement 1 monstre TÉNÈBRES de max. Niveau 6 depuis votre main, et aussi, vous ne pouvez pas Invoquer Spécialement (monstres TÉNÈBRES exclus) le reste de ce tour.
+Durant la Main Phase (Effet Rapide) : vous pouvez bannir max. 3 monstres TÉNÈBRES depuis votre Cimetière, puis ciblez autant de cartes sur le Terrain ; détruisez-les.
+Vous ne pouvez utiliser chaque effet ""Dragon Armé des Ténèbres Punisseur"" qu'une fois par tour."
+100266004,Dragon Armé des Ténèbres Punisseur,str1,Invocation Spéciale
+100266004,Dragon Armé des Ténèbres Punisseur,str2,Détruire
 101305081,Témoin de l'Ancien,name,Témoin de l'Ancien
 101305081,Témoin de l'Ancien,desc,"Si vous avez un Monstre Synchro dans votre Terrain ou Cimetière : vous pouvez Invoquer Spécialement cette carte depuis votre main.
 Si cette carte est Invoquée Spécialement : vous pouvez placer max. 3 Monstres Synchro de noms différents depuis votre Extra Deck et/ou Cimetière dans votre Zone Magie & Piège comme Magies Continues face recto, et Invoquez Spécialement 1 ""Jeton Arc"" (Machine/LUMIÈRE/ATK 0/DEF 0) de Niveau égal au nombre placé, et aussi, vous ne pouvez pas Invoquer Spécialement (Monstres Synchro exclus) depuis l'Extra Deck le reste de ce tour.
@@ -411,6 +413,14 @@ Vous ne pouvez utiliser chaque effet de ""Cristal Inflexcipateur - Tiamite"" qu'
 101306025,Cristal Inflexcipateur - Tiamite,str1,Effet d'ajout à la main
 101306025,Cristal Inflexcipateur - Tiamite,str2,Renvoyer au Deck
 101306025,Cristal Inflexcipateur - Tiamite,str3,Invocation Spéciale?
+101306027,Le Plus Grand Voleur Galant au Monde,name,Le Plus Grand Voleur Galant au Monde
+101306027,Le Plus Grand Voleur Galant au Monde,desc,"Si vous ne contrôlez aucun monstre, vous pouvez Invoquer par Sacrifice cette carte face recto en Sacrifiant des monstres depuis votre main et/ou le Terrain de votre adversaire.
+Vous ne pouvez utiliser chacun des effets suivants de ""Le Plus Grand Voleur Galant au Monde"" qu'une fois par tour.
+Lorsqu'un adversaire active un effet de carte dans la main, Cimetière ou bannissement, tant que vous contrôlez cette carte Invoquée/Posée Normalement (Effet Rapide) : vous pouvez annuler l'effet, et si vous le faites, détruisez la carte.
+Durant la Battle Phase (Effet Rapide) : vous pouvez révéler toute votre main ; changez tous les monstres contrôlés par votre adversaire en Position de Défense."
+101306027,Le Plus Grand Voleur Galant au Monde,str1,Invoquer par Sacrifice en Sacrifiant des monstres depuis votre main et/ou le Terrain de votre adversaire
+101306027,Le Plus Grand Voleur Galant au Monde,str2,Annuler l'effet
+101306027,Le Plus Grand Voleur Galant au Monde,str3,Position de combat
 101306029,Corailianektes le Dragon Brillant Chatoyant,name,Corailianektes le Dragon Brillant Chatoyant
 101306029,Corailianektes le Dragon Brillant Chatoyant,desc,"Si cette carte est ajoutée à votre main, sauf en la piochant : vous pouvez révéler cette carte et 1 autre monstre EAU dans votre main ; Invoquez Spécialement les deux, et aussi, vous ne pouvez pas Invoquer Spécialement (monstres EAU exclus) le reste de ce tour.
 Vous ne pouvez utiliser cet effet de ""Corailianektes le Dragon Brillant Chatoyant"" qu'une fois par tour.
