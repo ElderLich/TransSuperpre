@@ -854,6 +854,16 @@ def build_translation_pack(lang: str):
 
     # Extra phrases (keep phrase-level; avoid single-word glue)
     extras = {
+        "解放手卡以及对方怪兽上级召唤": {
+            "en": "Tribute Summon by Tributing monsters from your hand and your opponent's field",
+            "fr": "Invoquer par Sacrifice en Sacrifiant des monstres depuis votre main et le Terrain de votre adversaire",
+            "de": "Als Tributbeschwörung beschwören, indem du Monster von deiner Hand und vom Spielfeld deines Gegners als Tribut anbietest",
+            "es": "Invocar por Sacrificio Sacrificando monstruos desde tu mano y el Campo de tu adversario",
+            "pt": "Invocar por Tributo oferecendo monstros da sua mão e do campo do seu oponente como Tributo",
+            "it": "Evocare tramite Tributo offrendo come Tributo mostri dalla tua mano e dal Terreno del tuo avversario",
+            "ja": "手札および相手フィールドのモンスターをリリースしてアドバンス召喚",
+            "kr": "패 및 상대 필드의 몬스터를 릴리스하여 어드밴스 소환",
+        },
         "是否适用其他效果?": {
             "en": "Apply another effect?",
             "fr": "Appliquer un autre effet ?",
