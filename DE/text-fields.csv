@@ -145,7 +145,7 @@ Du kannst jeden Effekt von „Hexwerker Samen“ nur einmal pro Spielzug verwend
 ●要把场上的卡破坏的怪兽的效果由对方发动时
 ●自己回合对方把手卡·场上的怪兽的效果发动时"
 100266002,圣心防护罩 -心灵之力-,str1,Aktivieren
-100266002,圣心防护罩 -心灵之力-,str2,"Aktiviere, indem du den Effekt von {CARD} anwendest."
+100266002,圣心防护罩 -心灵之力-,str2,"Aktiviere, indem du den Effekt von ""圣心防护罩 -心灵之力-"" anwendest."
 100266003,来自冥府的使者,name,来自冥府的使者
 100266003,来自冥府的使者,desc,"这个卡名的①②的效果1回合各能使用1次。
 ①：自己受到战斗·效果伤害的场合才能发动。这张卡从手卡特殊召唤，自己回复2000基本分。那之后，可以从以下效果选1个适用。
@@ -190,7 +190,7 @@ Du kannst jeden Effekt von „Hexwerker Samen“ nur einmal pro Spielzug verwend
 「设陷雷轰稻草人」的这个效果1回合只能使用1次。"
 101305084,设陷雷轰稻草人,str1,Angriffsbeschränkung
 101305084,设陷雷轰稻草人,str2,Zurückholen
-101305084,设陷雷轰稻草人,str3,Der Effekt von {CARD} wird derzeit angewendet.
+101305084,设陷雷轰稻草人,str3,"Der Effekt von ""设陷雷轰稻草人"" wird derzeit angewendet."
 101305085,权柄交络者 米克修希亚,name,权柄交络者 米克修希亚
 101305085,权柄交络者 米克修希亚,desc,"魔法师族怪兽+魔法师族以外的怪兽
 可以以场上1只表侧表示怪兽为对象，宣言1个属性；那只怪兽变成那个属性。
@@ -220,7 +220,7 @@ Du kannst jeden Effekt von „Hexwerker Samen“ nur einmal pro Spielzug verwend
 可以从自己墓地把1只怪兽除外；在自己场上把持有那只怪兽相同等级的1只「欺诈师衍生物」（念动力族·地·攻800/守800）特殊召唤。
 「欺诈转移」的这个效果1回合只能使用1次。"
 101305088,欺诈转移,str2,Als Spezialbeschwörung beschwören
-101305088,欺诈转移,str3,Eine Karte verbannen? ({CARD})
+101305088,欺诈转移,str3,Eine Karte verbannen? (欺诈转移)
 101305089,悼光之希路伯,name,悼光之希路伯
 101305089,悼光之希路伯,desc,"8星怪兽×2只以上
 怪兽被送去对方墓地的场合（伤害步骤除外）：可以以那之内的1只为对象；那只怪兽作为这张卡的超量素材。「悼光之希路伯」的这个效果1回合只能使用1次。
@@ -277,8 +277,8 @@ Du kannst jeden Effekt von „Hexwerker Samen“ nur einmal pro Spielzug verwend
 101305096,具象天使e4开局,desc,"对方先攻的场合，这张卡也能在对方的第1个回合的准备阶段从手卡发动。
 从自己的手卡·卡组·墓地把1张「具象天使」场地魔法卡在自己场上以表侧表示放置，从额外卡组把1只2·7星「具象天使」怪兽在额外怪兽区域特殊召唤，从额外卡组把1只「具象天使」怪兽当作永续魔法卡使用在自己的魔法与陷阱区域以表侧表示放置。这张卡的发动后，直到下个自己回合的结束时，自己不是同调怪兽不能从额外卡组特殊召唤。"
 101305096,具象天使e4开局,str1,Aktivieren
-101305096,具象天使e4开局,str2,"Aktiviere, indem du den Effekt von {CARD} anwendest."
-101305096,具象天使e4开局,str3,Der Effekt von {CARD} wird derzeit angewendet.
+101305096,具象天使e4开局,str2,"Aktiviere, indem du den Effekt von ""具象天使e4开局"" anwendest."
+101305096,具象天使e4开局,str3,"Der Effekt von ""具象天使e4开局"" wird derzeit angewendet."
 101305181,弧光衍生物,name,弧光衍生物
 101305181,弧光衍生物,desc,由「远古者的见证人」的效果特殊召唤。
 101305188,欺诈师衍生物,name,欺诈师衍生物
@@ -406,6 +406,13 @@ Du kannst jeden Effekt von „Schicksals-HELD - Dreadnought Servant“ nur einma
 101306025,魔救之奇石-海蛇晶石,str1,Sucheffekt
 101306025,魔救之奇石-海蛇晶石,str2,Ins Deck zurücklegen
 101306025,魔救之奇石-海蛇晶石,str3,Als Spezialbeschwörung beschwören?
+101306027,天下独步的大义贼,name,天下独步的大义贼
+101306027,天下独步的大义贼,desc,"自己场上没有怪兽存在的场合，这张卡可以从自己手卡以及对方场上之中把怪兽解放，以表侧表示作上级召唤。这个卡名的①②的效果1回合各能使用1次。
+①：这张卡是已通常召唤的场合，对方把手卡·墓地·除外状态的卡的效果发动时才能发动。那个效果无效并破坏。
+②：自己·对方的战斗阶段，把手卡全部给对方观看才能发动。对方场上的怪兽全部变成守备表示。"
+101306027,天下独步的大义贼,str1,"Als Tributbeschwörung beschwören, indem du Monster von deiner Hand und vom Spielfeld deines Gegners als Tribut anbietest"
+101306027,天下独步的大义贼,str2,Effekt annullieren
+101306027,天下独步的大义贼,str3,Kampfposition
 101306029,耀烂龙 珊瑚海游龙,name,耀烂龙 珊瑚海游龙
 101306029,耀烂龙 珊瑚海游龙,desc,"这个卡名的①的效果1回合只能使用1次。
 ①：这张卡用抽卡以外的方法加入手卡的场合，把这张卡和手卡1只水属性怪兽给对方出示才能发动。那2只特殊召唤。这个效果的发动后，直到回合结束时自己不是水属性怪兽不能特殊召唤。
@@ -426,7 +433,7 @@ Du kannst jeden Effekt von „Schicksals-HELD - Dreadnought Servant“ nur einma
 ②：这张卡召唤·特殊召唤的场合才能发动。从卡组把1只魔法师族·4星怪兽除外。这个回合的结束阶段，除外的那只怪兽加入手卡或特殊召唤。 "
 101306031,秘水调查师,str1,Als Spezialbeschwörung beschwören
 101306031,秘水调查师,str2,Verbannungseffekt
-101306031,秘水调查师,str3,Durch den Effekt von {CARD} verbannen
+101306031,秘水调查师,str3,"Durch den Effekt von ""秘水调查师"" verbannen"
 101306032,公灰熊,name,公灰熊
 101306032,公灰熊,desc,"这个卡名的②的效果1回合只能使用1次。
 ①：这张卡被战斗破坏送去墓地时才能发动。从卡组把1只攻击力1400的4星怪兽特殊召唤。自己墓地有攻击力1400的4星怪兽2只以上存在的场合，可以作为代替把1只通常怪兽特殊召唤。
@@ -496,7 +503,7 @@ Die ATK dieser Karte werden gleich der Summe der Grund-ATK aller anderen „Schi
 ①：这张卡连接召唤的场合才能发动。从自己墓地把有「龙都 亚特兰蒂斯」的卡名记述的最多3只怪兽在作为这张卡所连接区的自己场上特殊召唤。这个效果的发动后，直到回合结束时自己不能把怪兽特殊召唤。
 ②：这张卡只要在怪兽区域存在，卡名当作「海」使用。
 ③：自己·对方回合1次，把自己场上1张表侧表示的「海」送去墓地才能发动。「海」以外的场上的卡全部送去墓地。"
-101306046,苍海龙神-尼奥泰达路斯之怒,str1,Als Link-3 für eine Linkbeschwörung anwenden ({CARD})
+101306046,苍海龙神-尼奥泰达路斯之怒,str1,Als Link-3 für eine Linkbeschwörung anwenden (苍海龙神-尼奥泰达路斯之怒)
 101306046,苍海龙神-尼奥泰达路斯之怒,str2,Als Spezialbeschwörung beschwören
 101306046,苍海龙神-尼奥泰达路斯之怒,str3,Auf den Friedhof legen
 101306047,真海龙骑-泰达路斯,name,真海龙骑-泰达路斯
@@ -505,7 +512,7 @@ Die ATK dieser Karte werden gleich der Summe der Grund-ATK aller anderen „Schi
 ①：这张卡连接召唤的场合才能发动。从卡组把有「龙都 亚特兰蒂斯」的卡名记述的1只怪兽特殊召唤。
 ②：这张卡只要在怪兽区域存在，卡名当作「海」使用。
 ③：自己·对方回合，从自己场上把1张表侧表示的「海」送去墓地才能发动（双方不能对应这个效果的发动把效果发动）。对方手卡全部丢弃，对方抽出那个数量。"
-101306047,真海龙骑-泰达路斯,str1,Als Link-2 für eine Linkbeschwörung anwenden ({CARD})
+101306047,真海龙骑-泰达路斯,str1,Als Link-2 für eine Linkbeschwörung anwenden (真海龙骑-泰达路斯)
 101306047,真海龙骑-泰达路斯,str2,Als Spezialbeschwörung beschwören
 101306047,真海龙骑-泰达路斯,str3,Dein Gegner wirft ab und zieht
 101306049,魔救之辉迹,name,魔救之辉迹
@@ -659,7 +666,7 @@ Falls du richtig vorausgesagt hast, du kannst 1 Monster, das „Dunkler Zeitzaub
 101306079,卖尸的鸟嘴人,str3,Als Spezialbeschwörung beschwören
 101306079,卖尸的鸟嘴人,str4,Setzen
 101306079,卖尸的鸟嘴人,str5,Kein Effekt
-101306079,卖尸的鸟嘴人,str6,"Aktiviere, indem du den Effekt von {CARD} anwendest."
+101306079,卖尸的鸟嘴人,str6,"Aktiviere, indem du den Effekt von ""卖尸的鸟嘴人"" anwendest."
 101306080,宾果卡,name,宾果卡
 101306080,宾果卡,desc,"①：选相同纵列全部有卡存在的1只怪兽，那个纵列的卡全部破坏。那之后，双方各自抽1张。
 ②：可以把墓地的这张卡除外，从以下效果选择1个发动。
