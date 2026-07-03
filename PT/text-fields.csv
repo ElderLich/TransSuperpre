@@ -134,7 +134,7 @@ Em qualquer dos seguintes momentos: negue os efeitos de tantos cards com a face 
 ● Quando seu oponente ativar um efeito de monstro que detruiria um ou mais cards no campo.
 ● Quando seu oponente ativar um efeito de monstro na mão ou campo durante o seu turno."
 100266002,Força do Espelho da Mente,str1,Ativar
-100266002,Força do Espelho da Mente,str2,Ativar aplicando o efeito de {CARD}.
+100266002,Força do Espelho da Mente,str2,"Ativar aplicando o efeito de ""Força do Espelho da Mente""."
 100266003,Emissários das Trevas,name,Emissários das Trevas
 100266003,Emissários das Trevas,desc,"Se você sofrer dando de batalha ou efeito: você pode Invocar por Invocação-Especial este card da sua mão, e se fizer, ganhe 2000 PV, então você pode aplicar 1 desses efeitos.
 ● Invoque por Invocação-Especial 1 ""Emissários das Trevas"" da sua mão, Deck ou Cemitério.
@@ -179,7 +179,7 @@ Se este card está no seu Cemitério: você pode escolher 1 card com a face para
 Você só pode usar este efeito de ""Thundercrash Snarecrow"" uma vez por turno."
 101305084,Thundercrash Snarecrow,str1,Restrição de ataque
 101305084,Thundercrash Snarecrow,str2,Recuperar
-101305084,Thundercrash Snarecrow,str3,O efeito de {CARD} está sendo aplicado.
+101305084,Thundercrash Snarecrow,str3,"O efeito de ""Thundercrash Snarecrow"" está sendo aplicado."
 101305085,"Mixousia, o Que Confunde",name,"Mixousia, o Que Confunde"
 101305085,"Mixousia, o Que Confunde",desc,"1 monstro Mago + 1 monstro não-Mago
 Você pode escolher 1 monstro com a face para cima no campo e declarar 1 Atributo; ele se torna daquele Atributo.
@@ -208,7 +208,7 @@ Os monstros do seu oponente que podem atacar, devem atacar o monstro que você c
 Você pode banir 1 monstro do seu Cemitério; Invoque por Invocação-Especial 1 ""Ficha de Impostor"" (Psíquico/TERRA/ATK 800/DEF 800) 
 com o mesmo Nível daquele monstro. Você só pode usar este efeito de ""Troca do Impostor"" uma vez por turno."
 101305088,Troca do Impostor,str2,Invocação Especial
-101305088,Troca do Impostor,str3,Banir 1 card? ({CARD})
+101305088,Troca do Impostor,str3,Banir 1 card? (Troca do Impostor)
 101305089,Mortilux Heruvur,name,Mortilux Heruvur
 101305089,Mortilux Heruvur,desc,"2+ monstros de Nível 8
 Se um ou mais monstros é enviado para o Cemitério do seu oponente (exceto durante a Etada de Dano): você pode escolher 1 deles; associe-o neste card. Você só pode usar este efeito de ""Mortilux Heruvur"" uma vez por turno.
@@ -266,8 +266,8 @@ Você só pode usar cada um dos efeitos de ""Porturbação de Angelechy"" uma ve
 Coloque 1 Magia de Campo ""Angelechy"" da sua mão, Deck ou Cemitério, com a face para cima no seu campo, e se fizer, Invoque por Invocação-Especial 1 monstro ""Angelechy"" de Nível 2 ou 7 do seu Deck Adicional à Zona de Monstro Adicional, e se fizer isso, coloque 1 monstro ""Angelechy"" do seu Deck Adicional na sua Zona de Magias & Armadilhas com a face para cima como uma Magia Contínua.
 Até o final do seu próximo turno após a ativação deste card, você não pode Invocar por Invocação-Especial do seu Deck Adicional, exceto Monstros Sincro."
 101305096,Abertura Angelechy ao e4,str1,Ativar
-101305096,Abertura Angelechy ao e4,str2,Ativar aplicando o efeito de {CARD}.
-101305096,Abertura Angelechy ao e4,str3,O efeito de {CARD} está sendo aplicado.
+101305096,Abertura Angelechy ao e4,str2,"Ativar aplicando o efeito de ""Abertura Angelechy ao e4""."
+101305096,Abertura Angelechy ao e4,str3,"O efeito de ""Abertura Angelechy ao e4"" está sendo aplicado."
 101305181,Ficha de Arc,name,Ficha de Arc
 101305181,Ficha de Arc,desc,"Invocado por Invocação-Especial pelo efeito de ""Testeminho do Ancião""."
 101305188,Ficha de Impostor,name,Ficha de Impostor
@@ -392,6 +392,13 @@ Você só pode usar cada um dos efeitos de ""Cristal Adamancipador - Tiamite"" u
 101306025,Cristal Adamancipador - Tiamite,str1,Efeito de busca
 101306025,Cristal Adamancipador - Tiamite,str2,Retornar ao Deck
 101306025,Cristal Adamancipador - Tiamite,str3,Invocação Especial?
+101306027,天下独步的大义贼,name,天下独步的大义贼
+101306027,天下独步的大义贼,desc,"自己场上没有怪兽存在的场合，这张卡可以从自己手卡以及对方场上之中把怪兽解放，以表侧表示作上级召唤。这个卡名的①②的效果1回合各能使用1次。
+①：这张卡是已通常召唤的场合，对方把手卡·墓地·除外状态的卡的效果发动时才能发动。那个效果无效并破坏。
+②：自己·对方的战斗阶段，把手卡全部给对方观看才能发动。对方场上的怪兽全部变成守备表示。"
+101306027,天下独步的大义贼,str1,Invocar por Tributo oferecendo monstros da sua mão e do campo do seu oponente como Tributo
+101306027,天下独步的大义贼,str2,Negar o efeito
+101306027,天下独步的大义贼,str3,Posição de batalha
 101306029,"Coralianektes, o Dragão Brilhante e Cintilante",name,"Coralianektes, o Dragão Brilhante e Cintilante"
 101306029,"Coralianektes, o Dragão Brilhante e Cintilante",desc,"Se este card é adicionado à sua mão, excepto por compra-lo: você pode revelar este card e 1 outro monstro ÁGUA na sua mão; Invoque-os por Invocação-Especial, também você não pode Invocar por Invocação-Especial pelo resto do turno, exceto monstros ÁGUA. Você só pode usar este efeito de ""Coralianektes, o Dragão Brilhante e Cintilante"" uma vez por turno.
 Enquanto você controla ""Umi"", seu oponente não pode escolher Monstros Link ÁGUA que você controla com efeitos de cards."
@@ -411,7 +418,7 @@ Se este card é Invocado por Invocação-Especial: você pode banir 1 monstro Ma
 Você só pode usar cada efeito de ""Misstic Call"" uma vez por turno."
 101306031,Misstic Call,str1,Invocação Especial
 101306031,Misstic Call,str2,Efeito de banimento
-101306031,Misstic Call,str3,Banir pelo efeito de {CARD}
+101306031,Misstic Call,str3,"Banir pelo efeito de ""Misstic Call"""
 101306032,Urso Pai,name,Urso Pai
 101306032,Urso Pai,desc,"Quando este card é destruído por batalha e enviado para o Cemitério: você pode Invocar por Invocação-Especial 1 monstro de Nível 4 com 1400 de ATK do seu Deck, ou se você tem 2 ou mais monstros de Nível 4 com 1400 de ATK no seu Cemitério, em vez disso você pode Invocar por Invocação-Especial 1 Monstro Normal.
 Quando seu oponente ativar um efeito de monstro e você controla um Monstro sem efeito com a face ara cima (Efeito Rápido): você pode banir este card do seu Cemitério; negue a ativação, e se fizer, destrua aquele monstro. Você só pode usar este efeito de ""Urso Pai"" uma vez por turno."
@@ -477,7 +484,7 @@ Se este card destruir um monstro por batalha: Coloque 1 Marcador de Coroa nele, 
 O nome deste card se torna ""Umi"" enquanto está na Zona de Monstros.
 Se este card for Invocado por Invocação-Link: você pode Invocar por Invocação-Especial até 3 monstros que mencionam ""Atlantis, a Cidade do Dragão"" do seu Cemitério para as zonas que este card aponta, você também não pode Invocar por Invocação-Especial monstros pelo resto deste turno.
 Uma vez por turno (Efeito Rápdio): você pode enviar 1 ""Umi"" com a face para cima que você controla para o Cemitério; envie todos os cards no campo para o Cemitério, exceto ""Umi""."
-101306046,Senhor Dragão do Oceano Azul - Neo-Daedalus Furioso,str1,Aplicar como Link-3 para uma Invocação-Link ({CARD})
+101306046,Senhor Dragão do Oceano Azul - Neo-Daedalus Furioso,str1,Aplicar como Link-3 para uma Invocação-Link (Senhor Dragão do Oceano Azul - Neo-Daedalus Furioso)
 101306046,Senhor Dragão do Oceano Azul - Neo-Daedalus Furioso,str2,Invocação Especial
 101306046,Senhor Dragão do Oceano Azul - Neo-Daedalus Furioso,str3,Enviar para o Cemitério
 101306047,Levia-Dragoon - Daedalus,name,Levia-Dragoon - Daedalus
@@ -486,7 +493,7 @@ O nome deste card se torna ""Umi"" enquanto está na Zona de Monstros.
 Você só pode usar cada um dos seguintes efeitos de ""Levia-Dragoon - Daedalus"" uma vez por turno.
 Se este card for Invocado por Invocação-Link: você pode Invocar por Invocação-Especial 1 monstro que mencione ""Atlantis, a Cidade do Dragão"" do seu Deck.
 Durante a Fase Principal (Efeito Rápido): você pode enviar 1 ""Umi"" com a face para cima que você controla para o Cemitério; descarte a mão do seu oponente, e se fizer, ele compra a mesma quantia de cards. Nenhum jogador pode ativar cards ou efeitos em resposta a ativação deste efeito."
-101306047,Levia-Dragoon - Daedalus,str1,Aplicar como Link-2 para uma Invocação-Link ({CARD})
+101306047,Levia-Dragoon - Daedalus,str1,Aplicar como Link-2 para uma Invocação-Link (Levia-Dragoon - Daedalus)
 101306047,Levia-Dragoon - Daedalus,str2,Invocação Especial
 101306047,Levia-Dragoon - Daedalus,str3,Seu oponente descarta e compra
 101306049,Luminosa Adamancipador,name,Luminosa Adamancipador
@@ -637,7 +644,7 @@ Você só pode usar cada um dos efeitos de ""Papel Amaldiçoado de Retribuição
 101306079,Corvo Vendedor de Cadáveres,str3,Invocação Especial
 101306079,Corvo Vendedor de Cadáveres,str4,Baixar
 101306079,Corvo Vendedor de Cadáveres,str5,Sem efeito
-101306079,Corvo Vendedor de Cadáveres,str6,Ativar aplicando o efeito de {CARD}.
+101306079,Corvo Vendedor de Cadáveres,str6,"Ativar aplicando o efeito de ""Corvo Vendedor de Cadáveres""."
 101306080,Card de Bingo,name,Card de Bingo
 101306080,Card de Bingo,desc,"Escolha 1 monstro em uma coluna com todas as zonas ocupadas e destrua quantos cards naquela coluna possível, então cada jogador compra 1 card.
 Você pode banir este card do seu Cemitério, então ative 1 desses efeitos;
