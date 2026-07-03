@@ -142,7 +142,7 @@ Vous ne pouvez activer qu'1 ""Anciens Secrets"" par tour."
 ● Lorsque votre adversaire active un effet de monstre qui va détruire une ou plusieurs cartes sur le Terrain.
 ● Lorsque votre adversaire active un effet de monstre dans la main ou Terrain durant votre tour."
 100266002,Force de Miroir de l'Esprit,str1,Activer
-100266002,Force de Miroir de l'Esprit,str2,Activer en appliquant l'effet de {CARD}.
+100266002,Force de Miroir de l'Esprit,str2,"Activer en appliquant l'effet de ""Force de Miroir de l'Esprit""."
 100266003,Émissaires des Ténèbres,name,Émissaires des Ténèbres
 100266003,Émissaires des Ténèbres,desc,"Si vous recevez des dommages de combat ou d'effet : vous pouvez Invoquer Spécialement cette carte depuis votre main, et si vous le faites, gagnez 2000 LP, puis vous pouvez appliquer 1 de ces effets.
 ● Invoquez Spécialement 1 ""Émissaires des Ténèbres"" depuis votre main, Deck ou Cimetière.
@@ -190,7 +190,7 @@ Si cette carte est dans votre Cimetière : vous pouvez cibler 1 carte face recto
 Vous ne pouvez utiliser cet effet de ""Piègevantail du Tonnerre Fracassant"" qu'une fois par tour."
 101305084,Piègevantail du Tonnerre Fracassant,str1,Restriction d'attaque
 101305084,Piègevantail du Tonnerre Fracassant,str2,Recycler
-101305084,Piègevantail du Tonnerre Fracassant,str3,L'effet de {CARD} est actuellement appliqué.
+101305084,Piègevantail du Tonnerre Fracassant,str3,"L'effet de ""Piègevantail du Tonnerre Fracassant"" est actuellement appliqué."
 101305085,Muxousia la Déconcerteuse,name,Muxousia la Déconcerteuse
 101305085,Muxousia la Déconcerteuse,desc,"1 monstre Magicien + 1 monstre non-Magicien
 Vous pouvez cibler 1 monstre face recto sur le Terrain, et déclarez 1 Attribut ; il devient cet Attribut.
@@ -221,7 +221,7 @@ S'il ne l'a pas fait, annulez l'effet activé.
 Vous pouvez bannir 1 monstre depuis votre Cimetière ; Invoquez Spécialement 1 ""Jeton Imposteur"" (Psychique/TERRE/ATK 800/DEF 800) du même Niveau que le monstre.
 Vous ne pouvez utiliser cet effet de ""Imposteur-Morphe"" qu'une fois par tour."
 101305088,Imposteur-Morphe,str2,Invocation Spéciale
-101305088,Imposteur-Morphe,str3,Bannir une carte ? ({CARD})
+101305088,Imposteur-Morphe,str3,Bannir une carte ? (Imposteur-Morphe)
 101305089,Mortilux Heruvur,name,Mortilux Heruvur
 101305089,Mortilux Heruvur,desc,"2+ monstres de Niveau 8
 Si un ou plusieurs monstres sont envoyés au Cimetière de votre adversaire (sauf durant la Damage Step) : vous pouvez en cibler 1 ; attachez-le à cette carte.
@@ -280,8 +280,8 @@ Vous ne pouvez utiliser chaque effet de ""Perturbation Angetélité"" qu'une foi
 Placez face recto 1 Magie de Terrain ""Angetélité"" depuis votre main, Deck ou Cimetière sur votre Terrain, et si vous le faites, Invoquez Spécialement 1 monstre ""Angetélité"" de Niveau 2 ou 7 depuis votre Extra Deck dans la Zone Monstre Extra, et si vous faites ça, placez 1 monstre ""Angetélité"" depuis votre Extra Deck dans votre Zone Magie & Piège comme Magie Continue face recto.
 Jusqu'à la fin de votre prochain tour après la résolution de cette carte, vous ne pouvez pas Invoquer Spécialement (Monstres Synchro exclus) depuis l'Extra Deck."
 101305096,Ouverture en e4 Angetélité,str1,Activer
-101305096,Ouverture en e4 Angetélité,str2,Activer en appliquant l'effet de {CARD}.
-101305096,Ouverture en e4 Angetélité,str3,L'effet de {CARD} est actuellement appliqué.
+101305096,Ouverture en e4 Angetélité,str2,"Activer en appliquant l'effet de ""Ouverture en e4 Angetélité""."
+101305096,Ouverture en e4 Angetélité,str3,"L'effet de ""Ouverture en e4 Angetélité"" est actuellement appliqué."
 101305181,Jeton Arc,name,Jeton Arc
 101305181,Jeton Arc,desc,Invoqué spécialement par l'effet de « Témoin de l'Ancien ».
 101305188,Jeton Imposteur,name,Jeton Imposteur
@@ -418,7 +418,7 @@ Vous ne pouvez utiliser chaque effet de ""Cristal Inflexcipateur - Tiamite"" qu'
 Vous ne pouvez utiliser chacun des effets suivants de ""Le Plus Grand Voleur Galant au Monde"" qu'une fois par tour.
 Lorsqu'un adversaire active un effet de carte dans la main, Cimetière ou bannissement, tant que vous contrôlez cette carte Invoquée/Posée Normalement (Effet Rapide) : vous pouvez annuler l'effet, et si vous le faites, détruisez la carte.
 Durant la Battle Phase (Effet Rapide) : vous pouvez révéler toute votre main ; changez tous les monstres contrôlés par votre adversaire en Position de Défense."
-101306027,Le Plus Grand Voleur Galant au Monde,str1,Invoquer par Sacrifice en Sacrifiant des monstres depuis votre main et/ou le Terrain de votre adversaire
+101306027,Le Plus Grand Voleur Galant au Monde,str1,Invoquer par Sacrifice en Sacrifiant des monstres depuis votre main et le Terrain de votre adversaire
 101306027,Le Plus Grand Voleur Galant au Monde,str2,Annuler l'effet
 101306027,Le Plus Grand Voleur Galant au Monde,str3,Position de combat
 101306029,Corailianektes le Dragon Brillant Chatoyant,name,Corailianektes le Dragon Brillant Chatoyant
@@ -441,7 +441,7 @@ Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez bannir 1
 Vous ne pouvez utiliser chaque effet de ""Appel Misstique"" qu'une fois par tour."
 101306031,Appel Misstique,str1,Invocation Spéciale
 101306031,Appel Misstique,str2,Effet de bannissement
-101306031,Appel Misstique,str3,Bannir par l'effet de {CARD}
+101306031,Appel Misstique,str3,"Bannir par l'effet de ""Appel Misstique"""
 101306032,Père Grizzly,name,Père Grizzly
 101306032,Père Grizzly,desc,"Lorsque cette carte est détruite au combat et envoyée au Cimetière : vous pouvez Invoquer Spécialement 1 monstre de Niveau 4 avec 1400 ATK depuis votre Deck, ou si vous avez min. 2 monstres de Niveau 4 avec 1400 ATK dans votre Cimetière, vous pouvez Invoquer Spécialement 1 Monstre Normal à la place.
 Lorsque votre adversaire active un effet de monstre et que vous contrôlez un monstre face recto (Monstres à Effet exclus) (Effet Rapide) : vous pouvez bannir cette carte depuis votre Cimetière ; annulez l'activation, et si vous le faites, détruisez le monstre.
@@ -513,7 +513,7 @@ Si cette carte détruit un monstre au combat : placez 1 Compteur Couronne sur el
 Si cette carte est Invoquée par Lien : vous pouvez Invoquer Spécialement max. 3 monstres qui mentionnent ""Atlantis, la Ville du Dragon"" depuis votre Cimetière dans vos zones pointées par cette carte, et aussi, vous ne pouvez pas Invoquer Spécialement le reste de ce tour.
 Le nom de cette carte devient ""Umi"" tant qu'elle est dans la Zone Monstre.
 Une fois par tour (Effet Rapide) : vous pouvez envoyer 1 ""Umi"" face recto que vous contrôlez au Cimetière ; envoyez toutes les cartes sur le Terrain au Cimetière (""Umi"" exclu)."
-101306046,eigneur Dragon Océan Bleu - Néo-Dédale Rage,str1,Appliquer comme Link-3 pour une Invocation Lien ({CARD})
+101306046,eigneur Dragon Océan Bleu - Néo-Dédale Rage,str1,Appliquer comme Link-3 pour une Invocation Lien (eigneur Dragon Océan Bleu - Néo-Dédale Rage)
 101306046,eigneur Dragon Océan Bleu - Néo-Dédale Rage,str2,Invocation Spéciale
 101306046,eigneur Dragon Océan Bleu - Néo-Dédale Rage,str3,Envoyer au Cimetière
 101306047,Soldat Dragon-Levia - Dédale,name,Soldat Dragon-Levia - Dédale
@@ -523,7 +523,7 @@ Vous ne pouvez utiliser chacun des effets suivants de ""Soldat Dragon-Levia - D�
 Si cette carte est Invoquée par Lien : vous pouvez Invoquer Spécialement 1 monstre qui mentionne ""Atlantis, la Ville du Dragon"" depuis votre Deck.
 Durant la Main Phase (Effet Rapide) : vous pouvez envoyer 1 ""Umi"" face recto que vous contrôlez au Cimetière ; défaussez toute la main de votre adversaire, et s'il le fait, il pioche le même nombre de cartes.
 Aucun joueur ne peut activer ni de cartes ni d'effets en réponse à l'activation de cet effet."
-101306047,Soldat Dragon-Levia - Dédale,str1,Appliquer comme Link-2 pour une Invocation Lien ({CARD})
+101306047,Soldat Dragon-Levia - Dédale,str1,Appliquer comme Link-2 pour une Invocation Lien (Soldat Dragon-Levia - Dédale)
 101306047,Soldat Dragon-Levia - Dédale,str2,Invocation Spéciale
 101306047,Soldat Dragon-Levia - Dédale,str3,Votre adversaire défausse et pioche
 101306049,Lumineuse Inflexcipateur,name,Lumineuse Inflexcipateur
@@ -675,7 +675,7 @@ Vous ne pouvez utiliser chaque effet de ""Châtiment du Papier Maudit"" qu'une f
 101306079,Corbeau Vendeur de Cadavres,str3,Invocation Spéciale
 101306079,Corbeau Vendeur de Cadavres,str4,Poser
 101306079,Corbeau Vendeur de Cadavres,str5,Aucun effet
-101306079,Corbeau Vendeur de Cadavres,str6,Activer en appliquant l'effet de {CARD}.
+101306079,Corbeau Vendeur de Cadavres,str6,"Activer en appliquant l'effet de ""Corbeau Vendeur de Cadavres""."
 101306080,Carte de Bingo,name,Carte de Bingo
 101306080,Carte de Bingo,desc,"Choisissez 1 monstre dans une colonne dont toutes les zones sont occupées et détruisez autant de cartes dans la colonne que possible, puis chaque joueur pioche 1 carte.
 Vous pouvez bannir cette carte depuis votre Cimetière, puis activez 1 de ces effets ;
