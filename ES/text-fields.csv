@@ -141,7 +141,7 @@ Puedes activar este efecto en uno de los siguientes momentos: niega los efectos 
 ● Cuando tu adversario activa un efecto de monstruo que destruiría una o más cartas en el Campo.
 ● Cuando tu adversario activa un efecto de monstruo en la mano o Campo durante tu turno."
 100266002,Fuerza de Espejo Mental,str1,Activar
-100266002,Fuerza de Espejo Mental,str2,Activar aplicando el efecto de {CARD}.
+100266002,Fuerza de Espejo Mental,str2,"Activar aplicando el efecto de ""Fuerza de Espejo Mental""."
 100266003,Emisarios de la Oscuridad,name,Emisarios de la Oscuridad
 100266003,Emisarios de la Oscuridad,desc,"Si recibes daño de batalla o de efecto: puedes Invocar esta carta de Modo Especial desde tu mano y, si lo haces, ganas 2000 LP, y después puedes aplicar 1 de los siguientes efectos;
 ● Invoca de Modo Especial 1 ""Emisarios de la Oscuridad"" desde tu mano, Deck o Cementerio.
@@ -189,7 +189,7 @@ Si esta carta está en tu Cementerio: puedes seleccionar 1 carta boca arriba que
 Sólo puedes usar este efecto de ""Espantapájaros de Trueno Impactante"" una vez por turno."
 101305084,Espantapájaros de Trueno Impactante,str1,Restricción de ataque
 101305084,Espantapájaros de Trueno Impactante,str2,Recuperar
-101305084,Espantapájaros de Trueno Impactante,str3,El efecto de {CARD} se está aplicando.
+101305084,Espantapájaros de Trueno Impactante,str3,"El efecto de ""Espantapájaros de Trueno Impactante"" se está aplicando."
 101305085,Mixousa la Confundidora,name,Mixousa la Confundidora
 101305085,Mixousa la Confundidora,desc,"1 monstruo Lanzador de Conjuros + 1 monstruo que no sea Lanzador de Conjuros	
 Puedes seleccionar 1 monstruo boca arriba en el Campo y declarar 1 Atributo; se convierte en ese Atributo. 
@@ -219,7 +219,7 @@ Los monstruos de tu adversario que puedan atacar deben atacar al monstruo que co
 Puedes desterrar 1 monstruo en tu Cementerio; Invoca de Modo Especial 1 ""Ficha Impostor"" (Psíquico/TIERRA/ATK 800/DEF 800) con el mismo Nivel que ese monstruo. 
 Sólo puedes usar este efecto de ""Cambio Impostor"" una vez por turno."
 101305088,Cambio Impostor,str2,Invocación Especial
-101305088,Cambio Impostor,str3,¿Desterrar una carta? ({CARD})
+101305088,Cambio Impostor,str3,¿Desterrar una carta? (Cambio Impostor)
 101305089,Mortilux Heruvur,name,Mortilux Heruvur
 101305089,Mortilux Heruvur,desc,"2+ monstruos de Nivel 8	
 Sólo puedes usar el siguiente efecto de ""Mortilux Heruvur"" una vez por turno. 
@@ -278,8 +278,8 @@ Sólo puedes usar cada efecto de ""Perturbación Angelechy"" una vez por turno."
 Coloca 1 Mágica de Campo ""Angelechy"" desde tu mano, Deck o Cementerio boca arriba en tu Campo y, si lo haces, Invoca de Modo Especial 1 monstruo ""Angelechy"" de Nivel 2 o 7 desde tu Deck Extra a la Zona de Monstruos de Enlace, y si lo haces, Coloca 1 monstruo ""Angelechy"" desde tu Deck Extra en tu Zona de Mágicas y Trampas como una Mágica Continua boca arriba. 
 Hasta el final de tu próximo turno después de que esta carta se resuelva, no puedes Invocar de Modo Especial desde el Deck Extra, excepto Monstruos de Sincronía."
 101305096,Apertura Angelechy a E4,str1,Activar
-101305096,Apertura Angelechy a E4,str2,Activar aplicando el efecto de {CARD}.
-101305096,Apertura Angelechy a E4,str3,El efecto de {CARD} se está aplicando.
+101305096,Apertura Angelechy a E4,str2,"Activar aplicando el efecto de ""Apertura Angelechy a E4""."
+101305096,Apertura Angelechy a E4,str3,"El efecto de ""Apertura Angelechy a E4"" se está aplicando."
 101305181,Ficha de Arco,name,Ficha de Arco
 101305181,Ficha de Arco,desc,"Invocada de Modo Especial con el efecto de ""Testigo de lo Ancestral""."
 101305188,Ficha Impostor,name,Ficha Impostor
@@ -411,6 +411,13 @@ Sólo puedes usar cada efecto de ""Cristal Adamancipador - Tiamita"" una vez por
 101306025,Cristal Adamancipador - Tiamita,str1,Efecto de añadir a la mano
 101306025,Cristal Adamancipador - Tiamita,str2,Devolver al Deck
 101306025,Cristal Adamancipador - Tiamita,str3,Invocación Especial?
+101306027,天下独步的大义贼,name,天下独步的大义贼
+101306027,天下独步的大义贼,desc,"自己场上没有怪兽存在的场合，这张卡可以从自己手卡以及对方场上之中把怪兽解放，以表侧表示作上级召唤。这个卡名的①②的效果1回合各能使用1次。
+①：这张卡是已通常召唤的场合，对方把手卡·墓地·除外状态的卡的效果发动时才能发动。那个效果无效并破坏。
+②：自己·对方的战斗阶段，把手卡全部给对方观看才能发动。对方场上的怪兽全部变成守备表示。"
+101306027,天下独步的大义贼,str1,Invocar por Sacrificio Sacrificando monstruos desde tu mano y el Campo de tu adversario
+101306027,天下独步的大义贼,str2,Negar el efecto
+101306027,天下独步的大义贼,str3,Posición de batalla
 101306029,Coralianectes el Dragón Centelleante,name,Coralianectes el Dragón Centelleante
 101306029,Coralianectes el Dragón Centelleante,desc,"Si esta carta es añadida a tu mano, excepto robándola: puedes revelar esta carta y 1 monstruo de AGUA en tu mano; Invoca ambos de Modo Especial, pero por el resto de este turno, no puedes Invocar de Modo Especial, excepto monstruos de AGUA. 
 Sólo puedes usar este efecto de ""Coralianectes el Dragón Centelleante"" una vez por turno. 
@@ -431,7 +438,7 @@ Si esta carta es Invocada de Modo Normal o Especial: puedes desterrar 1 monstruo
 Sólo puedes usar cada efecto de ""Llamada Mística"" una vez por turno."
 101306031,Llamada Mística,str1,Invocación Especial
 101306031,Llamada Mística,str2,Efecto de destierro
-101306031,Llamada Mística,str3,Desterrar por el efecto de {CARD}
+101306031,Llamada Mística,str3,"Desterrar por el efecto de ""Llamada Mística"""
 101306032,Padre Oso Pardo,name,Padre Oso Pardo
 101306032,Padre Oso Pardo,desc,"Si esta carta es destruida en batalla y mandada al Cementerio: puedes Invocar de Modo Especial 1 monstruo de Nivel 4 con 1400 ATK desde tu Deck. Si tienes dos o más monstruos con 1400 ATK en tu Cementerio, puedes Invocar de Modo Especial un Monstruo Normal en su lugar. 
 Si controlas un Monstruo que no sea de Efecto boca arriba cuando tu adversario activa un efecto de monstruo, puedes desterrar esta carta en tu Cementerio; niega la activación y destruye esa carta. 
@@ -503,7 +510,7 @@ Si esta carta destruye un monstruo en batalla: pon 1 Contador de Corona en ella,
 (El nombre de esta carta se convierte en ""Umi"" mientras esté en la Zona de Monstruos).	
 Si esta carta es Invocada por Enlace: puedes Invocar de Modo Especial hasta 3 monstruos que mencionen ""Atlantis, la Ciudad Dragón"" desde tu Cementerio a zonas a las que apunte esta carta, y además no puedes Invocar de Modo Especial por el resto de este turno. 
 Una vez por turno (Efecto Rápido): puedes mandar al Cementerio 1 ""Umi"" boca arriba que controles; manda al Cementerio todas las cartas en el Campo, excepto ""Umi""."
-101306046,Señor Dragón del Océano Azul - Némesis de Neo-Dédalo,str1,Aplicar como Link-3 para una Invocación por Enlace ({CARD})
+101306046,Señor Dragón del Océano Azul - Némesis de Neo-Dédalo,str1,Aplicar como Link-3 para una Invocación por Enlace (Señor Dragón del Océano Azul - Némesis de Neo-Dédalo)
 101306046,Señor Dragón del Océano Azul - Némesis de Neo-Dédalo,str2,Invocación Especial
 101306046,Señor Dragón del Océano Azul - Némesis de Neo-Dédalo,str3,Enviar al Cementerio
 101306047,Levia-Dragoon - Dédalo,name,Levia-Dragoon - Dédalo
@@ -512,7 +519,7 @@ Una vez por turno (Efecto Rápido): puedes mandar al Cementerio 1 ""Umi"" boca a
 Si esta carta es Invocada por Enlace: puedes Invocar de Modo Especial 1 monstruo que mencione ""Atlantis, la Ciudad Dragón"" desde tu Deck. 
 (Efecto Rápido): Durante la Main Phase: puedes mandar al Cementerio 1 ""Umi"" boca arriba que controles; tu adversario descarta toda su mano y, si lo hace, roba la misma cantidad de cartas. Ningún jugador puede activar cartas o efectos en respuesta a la activación de este efecto. 
 Sólo puedes usar cada uno de los efectos de ""Levia-Dragoon - Dédalo"" una vez por turno."
-101306047,Levia-Dragoon - Dédalo,str1,Aplicar como Link-2 para una Invocación por Enlace ({CARD})
+101306047,Levia-Dragoon - Dédalo,str1,Aplicar como Link-2 para una Invocación por Enlace (Levia-Dragoon - Dédalo)
 101306047,Levia-Dragoon - Dédalo,str2,Invocación Especial
 101306047,Levia-Dragoon - Dédalo,str3,Tu adversario descarta y roba
 101306049,Luminoso Adamancipador,name,Luminoso Adamancipador
@@ -666,7 +673,7 @@ Sólo puedes usar cada efecto de ""Informe de Desliz Maldito"" una vez por turno
 101306079,Cuervo Vendedor de Cadáveres,str3,Invocación Especial
 101306079,Cuervo Vendedor de Cadáveres,str4,Colocar
 101306079,Cuervo Vendedor de Cadáveres,str5,Ningún efecto
-101306079,Cuervo Vendedor de Cadáveres,str6,Activar aplicando el efecto de {CARD}.
+101306079,Cuervo Vendedor de Cadáveres,str6,"Activar aplicando el efecto de ""Cuervo Vendedor de Cadáveres""."
 101306080,Carta de Bingo,name,Carta de Bingo
 101306080,Carta de Bingo,desc,"Elige 1 monstruo en una columna que esté completamente ocupada y destruye todas las cartas en esa columna, y después cada jugador roba 1 carta. 
 Puedes desterrar esta carta, y después activar 1 de estos efectos;
