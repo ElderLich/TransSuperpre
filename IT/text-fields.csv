@@ -137,7 +137,7 @@ In uno qualsiasi dei seguenti momenti: annulla gli effetti di quante più carte 
 ● Quando il tuo avversario attiva un effetto di un mostro che distruggerebbe una o più carte sul Terreno.
 ● Quando il tuo avversario attiva un effetto di un mostro nella mano o sul Terreno durante il tuo turno."
 100266002,Forza Riflessa Mentale,str1,Attiva
-100266002,Forza Riflessa Mentale,str2,Attivare applicando l'effetto di {CARD}.
+100266002,Forza Riflessa Mentale,str2,"Attivare applicando l'effetto di ""Forza Riflessa Mentale""."
 100266003,Emissari dall'Oscurità,name,Emissari dall'Oscurità
 100266003,Emissari dall'Oscurità,desc,"Se subisci danno da battaglia o da effetto: puoi Evocare Specialmente questa carta dalla tua mano e, se lo fai, guadagni 2000 LP, poi puoi applicare 1 di questi effetti.
 ● Evoca Specialmente 1 ""Emissari dall'Oscurità"" dalla tua mano, Deck o Cimitero.
@@ -183,7 +183,7 @@ Se questa carta è nel tuo Cimitero: puoi scegliere come bersaglio 1 carta scope
 Puoi utilizzare questo effetto di ""Spaventapasseri Schiantotuono"" una sola volta per turno."
 101305084,Spaventapasseri Schiantotuono,str1,Restrizione d'attacco
 101305084,Spaventapasseri Schiantotuono,str2,Recuperare
-101305084,Spaventapasseri Schiantotuono,str3,L'effetto di {CARD} si sta applicando.
+101305084,Spaventapasseri Schiantotuono,str3,"L'effetto di ""Spaventapasseri Schiantotuono"" si sta applicando."
 101305085,Mixousia la Confonditrice,name,Mixousia la Confonditrice
 101305085,Mixousia la Confonditrice,desc,"1 mostro Incantatore + 1 mostro non-Incantatore
 Puoi scegliere come bersaglio 1 mostro scoperto sul Terreno e dichiarare 1 Attributo; quel mostro diventa di quell'Attributo.
@@ -213,7 +213,7 @@ I mostri del tuo avversario che possono attaccare devono attaccare il mostro che
 Puoi bandire 1 mostro dal tuo Cimitero; Evoca Specialmente 1 ""Segna-Impostore"" (Psichico/TERRA/Livello 800/DEF 800) con lo stesso Livello di quel mostro.
 Puoi utilizzare questo effetto di ""Sostituzione dell'Impostore"" una sola volta per turno."
 101305088,Sostituzione dell'Impostore,str2,Evocazione Speciale
-101305088,Sostituzione dell'Impostore,str3,Bandire una carta? ({CARD})
+101305088,Sostituzione dell'Impostore,str3,Bandire una carta? (Sostituzione dell'Impostore)
 101305089,Mortilux Heruvur,name,Mortilux Heruvur
 101305089,Mortilux Heruvur,desc,"2+ mostri di Livello 8
 Se uno o più mostri vengono mandati al Cimitero del tuo avversario (eccetto durante il Damage Step): puoi scegliere come bersaglio 1 di essi; attaccalo a questa carta come materiale. Puoi utilizzare questo effetto di ""Mortilux Heruvur"" una sola volta per turno.
@@ -271,8 +271,8 @@ Puoi utilizzare ciascun effetto di ""Disturbo Angelechy"" una sola volta per tur
 Posiziona 1 Magia Terreno ""Angelechy"" dalla tua mano, Deck o Cimitero scoperta sul tuo Terreno e, se lo fai, Evoca Specialmente 1 mostro ""Angelechy"" di Livello 2 o 7 dal tuo Extra Deck nella Zona Mostri Extra, e, se lo fai, posiziona 1 mostro ""Angelechy"" dal tuo Extra Deck nella tua Zona Magie & Trappole come Magia Continua scoperta.
 Fino alla fine del tuo prossimo turno dopo la risoluzione di questa carta, non puoi Evocare Specialmente dall'Extra Deck, eccetto Mostri Synchro."
 101305096,Apertura Angelechy e4,str1,Attiva
-101305096,Apertura Angelechy e4,str2,Attivare applicando l'effetto di {CARD}.
-101305096,Apertura Angelechy e4,str3,L'effetto di {CARD} si sta applicando.
+101305096,Apertura Angelechy e4,str2,"Attivare applicando l'effetto di ""Apertura Angelechy e4""."
+101305096,Apertura Angelechy e4,str3,"L'effetto di ""Apertura Angelechy e4"" si sta applicando."
 101305181,Segna-Arco,name,Segna-Arco
 101305181,Segna-Arco,desc,"Evocato Specialmente dall'effetto di ""Testimone dell'Antico""."
 101305188,Segna-Impostore,name,Segna-Impostore
@@ -402,7 +402,7 @@ Puoi utilizzare ciascun effetto di ""Irremovibilatore Cristallo - Tiamite"" una 
 Puoi utilizzare ciascuno dei seguenti effetti di ""Il Più Grande Ladro Galante al Mondo"" una sola volta per turno.
 Quando il tuo avversario attiva l'effetto di una carta nella mano, nel Cimitero o carte bandite, mentre controlli questa carta Evocata/Posizionata Normalmente (Effetto Rapido): puoi annullare quell'effetto e, se lo fai, distruggi quella carta.
 Durante la Battle Phase (Effetto Rapido): puoi rivelare tutta la tua mano; cambia tutti i mostri controllati dal tuo avversario in Posizione di Difesa."
-101306027,Il Più Grande Ladro Galante al Mondo,str1,Evocazione tramite Tributo usando carte dalla tua mano e mostri del tuo avversario
+101306027,Il Più Grande Ladro Galante al Mondo,str1,Evocare tramite Tributo offrendo come Tributo mostri dalla tua mano e dal Terreno del tuo avversario
 101306027,Il Più Grande Ladro Galante al Mondo,str2,Annullare l'effetto
 101306027,Il Più Grande Ladro Galante al Mondo,str3,Posizione di battaglia
 101306029,Drago Splendilucente Coralianektes,name,Drago Splendilucente Coralianektes
@@ -424,7 +424,7 @@ Se questa carta viene Evocata Normalmente o Specialmente: puoi bandire 1 mostro 
 Puoi utilizzare ciascun effetto di ""Richiamo Misstico"" una sola volta per turno."
 101306031,Richiamo Misstico,str1,Evocazione Speciale
 101306031,Richiamo Misstico,str2,Effetto di bandire
-101306031,Richiamo Misstico,str3,Bandire tramite l'effetto di {CARD}
+101306031,Richiamo Misstico,str3,"Bandire tramite l'effetto di ""Richiamo Misstico"""
 101306032,Padre Grizzly,name,Padre Grizzly
 101306032,Padre Grizzly,desc,"Quando questa carta viene distrutta in battaglia e mandata al Cimitero: puoi Evocare Specialmente 1 mostro di Livello 4 con 1400 ATK dal tuo Deck, oppure, se hai 2 o più mostri di Livello 4 con 1400 ATK nel tuo Cimitero, puoi invece Evocare Specialmente 1 Mostro Normale.
 Quando il tuo avversario attiva un effetto mostro e controlli un Mostro non-con Effetto scoperto (Effetto Rapido): puoi bandire questa carta dal tuo Cimitero; annulla l'attivazione e, se lo fai, distruggi quel mostro.
@@ -491,7 +491,7 @@ Se questa carta distrugge un mostro in battaglia: Metti 1 Segnalino Corona su di
 Se questa carta viene Evocata tramite Link: Puoi Evocare Specialmente fino a 3 mostri che menzionano ""Atlantide, la Città dei Draghi"" dal tuo Cimitero nelle zone a cui questa carta punta, inoltre non puoi Evocare Specialmente per il resto di questo turno.
 Il nome di questa carta diventa ""Umi"" mentre si trova nella Zona Mostri.
 Una volta per turno (Effetto Rapido): Puoi mandare al Cimitero 1 ""Umi"" scoperto che controlli; manda al Cimitero tutte le carte sul Terreno, eccetto ""Umi""."
-101306046,Signore Drago dell'Oceano Blu - Neo-Dedalo Furia,str1,Applicare come Link-3 per un'Evocazione Link ({CARD})
+101306046,Signore Drago dell'Oceano Blu - Neo-Dedalo Furia,str1,Applicare come Link-3 per un'Evocazione Link (Signore Drago dell'Oceano Blu - Neo-Dedalo Furia)
 101306046,Signore Drago dell'Oceano Blu - Neo-Dedalo Furia,str2,Evocazione Speciale
 101306046,Signore Drago dell'Oceano Blu - Neo-Dedalo Furia,str3,Mandare al Cimitero
 101306047,Levia-Dragone - Dedalo,name,Levia-Dragone - Dedalo
@@ -501,7 +501,7 @@ Puoi utilizzare ciascuno dei seguenti effetti di ""Levia-Dragone - Dedalo"" una 
 Se questa carta viene Evocata tramite Link: Puoi Evocare Specialmente 1 mostro che menziona ""Atlantide, la Città dei Draghi"" dal tuo Deck.
 Durante la Main Phase (Effetto Rapido): Puoi mandare al Cimitero 1 ""Umi"" scoperto che controlli; il tuo avversario scarta tutta la sua mano e, se lo fa, pesca lo stesso numero di carte.
 Nessun giocatore può attivare carte o effetti in risposta all'attivazione di questo effetto."
-101306047,Levia-Dragone - Dedalo,str1,Applicare come Link-2 per un'Evocazione Link ({CARD})
+101306047,Levia-Dragone - Dedalo,str1,Applicare come Link-2 per un'Evocazione Link (Levia-Dragone - Dedalo)
 101306047,Levia-Dragone - Dedalo,str2,Evocazione Speciale
 101306047,Levia-Dragone - Dedalo,str3,Il tuo avversario scarta e pesca
 101306049,Irremovibilatrice Luminosa,name,Irremovibilatrice Luminosa
@@ -651,7 +651,7 @@ Puoi utilizzare ciascun effetto di ""Ritorsione della Carta Maledetta"" una sola
 101306079,Corvo Vendicadaveri,str3,Evocazione Speciale
 101306079,Corvo Vendicadaveri,str4,Posiziona
 101306079,Corvo Vendicadaveri,str5,Nessun effetto
-101306079,Corvo Vendicadaveri,str6,Attivare applicando l'effetto di {CARD}.
+101306079,Corvo Vendicadaveri,str6,"Attivare applicando l'effetto di ""Corvo Vendicadaveri""."
 101306080,Carta Bingo,name,Carta Bingo
 101306080,Carta Bingo,desc,"Scegli 1 mostro in una colonna con tutte le Zone occupate e distruggi quante più carte possibile in quella colonna, poi ciascun giocatore pesca 1 carta.
 Puoi bandire questa carta dal tuo Cimitero; attiva 1 di questi effetti;
