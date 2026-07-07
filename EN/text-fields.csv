@@ -12,6 +12,17 @@ id,name,field,value
 100200294,Power Connection,desc,"Target any number of face-up monsters you control (if you target 2 or more monsters, they must have the same Type); they gain 500 ATK for each monster targeted, until the end of this turn. If you activated ""Armament Reincarnation"" this turn: You can add this card from your GY to your hand. You can only use each effect of ""Power Connection"" once per turn."
 100200294,Power Connection,str1,Activate
 100200294,Power Connection,str2,Recycle
+100200295,Evil Lord – Zorc,name,Evil Lord – Zorc
+100200295,Evil Lord – Zorc,desc,"You can only use the (1), (2) and (3) effect of this card’s name each once per turn.
+(1) You can discard 2 cards, including this card; add 1 Level 8 Fiend monster from your Deck to your hand.
+(2) When your Fiend monster is destroyed by battle: You can Special Summon this card from your GY.
+(3) During your Main Phase: You can roll a six-sided die and apply this effect based on the result.
+● 1, 2, 3, or 4: Take control of, or destroy, 1 monster your opponent controls.
+● 5 or 6: Destroy 1 card you control."
+100200295,Evil Lord – Zorc,str1,Search effect
+100200295,Evil Lord – Zorc,str2,Special Summon
+100200295,Evil Lord – Zorc,str3,Dice Effect
+100200295,Evil Lord – Zorc,str4,Take control?
 100260001,Clown Crew Cappello,name,Clown Crew Cappello
 100260001,Clown Crew Cappello,desc,"Pendulum Scale = 7
 [ Pendulum Effect ]
@@ -333,6 +344,16 @@ Must be either Fusion Summoned, or Special Summoned (from your Extra Deck) by Tr
 101306037,Destiny HERO - Dreadnought Master,desc,"2 Level 5 or higher ""Destiny HERO"" monsters
 Must be either Fusion Summoned, or Special Summoned (from your Extra Deck) by Tributing 1 ""Destiny HERO - Dreadmaster"". You can only Special Summon ""Destiny HERO - Dreadnought Master"" once per turn this way, no matter which method you use. If this card is Special Summoned: You can add 2 ""Destiny HERO"" monsters and/or cards that mention a ""Destiny HERO"" monster's card name from your Deck to your hand. This card's ATK becomes the total original ATK of all other ""Destiny HERO"" monsters in your field and GY."
 101306037,Destiny HERO - Dreadnought Master,str1,Add to hand
+101306038,Invoked Dee Anima,name,Invoked Dee Anima
+101306038,Invoked Dee Anima,desc,"1 ""Aleister"" monster + 1 monster Special Summoned from the Extra Deck
+If this card is Special Summoned: You can activate 1 of these effects;
+● Destroy all monsters your opponent controls that were Special Summoned from the Extra Deck.
+● Destroy all Spells/Traps your opponent controls.
+When your opponent activates a card effect in the GY (Quick Effect): You can banish this card; Special Summon 1 ""Aleister"" monster from your Deck, and if you do, negate that effect. You can only use each effect of ""Invoked Dee Anima"" once per turn."
+101306038,Invoked Dee Anima,str1,Choose an effect
+101306038,Invoked Dee Anima,str2,Special Summon then negate its effects.
+101306038,Invoked Dee Anima,str3,Destroy a monster
+101306038,Invoked Dee Anima,str4,Destroy Spell/Trap
 101306039,Ashtraja Susanoo,name,Ashtraja Susanoo
 101306039,Ashtraja Susanoo,desc,"1 Tuner + 1+ non-Tuners
 If this card is Synchro Summoned: You can banish any number of Traps from your GY; banish that many cards on the field. During the End Phase: You can target up to 2 ""Ashtra"" monsters and/or ""Ashtra"" Traps in your GY and/or banishment; for each of them, add it to your hand or Set it, then if you targeted 2 cards, return this card to the Extra Deck. You can only use each effect of ""Ashtraja Susanoo"" once per turn."
@@ -429,6 +450,14 @@ If your opponent Normal or Special Summons a monster(s) while this card is in yo
 101306063,Adamancipator Mates,desc,"Add 1 ""Adamancipator"" monster from your Deck to your hand. If this card is in your GY: You can place 1 card from your hand on top of the Deck; add this card to your hand. You can only use each effect of ""Adamancipator Mates"" once per turn."
 101306063,Adamancipator Mates,str1,Search effect
 101306063,Adamancipator Mates,str2,Return to the hand
+101306067,"Invocation - ""Chalice""",name,"Invocation - ""Chalice"""
+101306067,"Invocation - ""Chalice""",desc,"If you have an ""Aleister"" monster in your field, GY, or banishment: Activate 1 of these effects;
+● Fusion Summon 1 ""Invoked"" Fusion Monster from your Extra Deck, by banishing 1 monster from your hand or field and 1 monster from your Deck.
+● Fusion Summon 1 ""Invoked"" Fusion Monster from your Extra Deck, by banishing 1 monster you control and 1 face-up monster your opponent controls.
+You can only activate 1 ""Invocation - ""Chalice"""" per turn."
+101306067,"Invocation - ""Chalice""",str1,Activate
+101306067,"Invocation - ""Chalice""",str2,"Fusion using cards from your hand, field, or Deck."
+101306067,"Invocation - ""Chalice""",str3,Fusion using monsters on either player's field.
 101306068,Spatial Trunade,name,Spatial Trunade
 101306068,Spatial Trunade,desc,"Return up to 2 cards on the field to the hand, then each player places cards from their hand on the bottom of the Deck in any order equal to the number returned to their hand. You can only activate 1 ""Spatial Trunade"" per turn."
 101306068,Spatial Trunade,str1,Activate
