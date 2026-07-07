@@ -18,6 +18,20 @@ Se hai attivato ""Reincarnazione dell'Armamento"" in questo turno: Puoi aggiunge
 Puoi utilizzare ciascun effetto di ""Connessione Potente"" una sola volta per turno."
 100200294,Connessione Potente,str1,Attiva
 100200294,Connessione Potente,str2,Recuperare
+100200295,Signore del Male - Zorc,name,Signore del Male - Zorc
+100200295,Signore del Male - Zorc,desc,"Puoi scartare 2 carte, inclusa questa carta; aggiungi 1 mostro Demone di Livello 8 dal tuo Deck alla tua mano.
+Quando un tuo mostro Demone viene distrutto in battaglia: puoi Evocare Specialmente questa carta dal tuo Cimitero.
+Durante la tua Main Phase: puoi lanciare un dado a 6 facce e applicare questo effetto, in base al risultato.
+
+● 1, 2, 3 o 4: prendi il controllo di 1 mostro controllato dal tuo avversario, oppure distruggilo.
+
+● 5 o 6: distruggi 1 carta che controlli.
+
+Puoi utilizzare ogni effetto di ""Signore del Male - Zorc"" una sola volta per turno."
+100200295,Signore del Male - Zorc,str1,Effetto di aggiunta alla mano
+100200295,Signore del Male - Zorc,str2,Evocazione Speciale
+100200295,Signore del Male - Zorc,str3,Effetto del dado
+100200295,Signore del Male - Zorc,str4,Prendere il controllo?
 100260001,Compagnia di Clown Hat,name,Compagnia di Clown Hat
 100260001,Compagnia di Clown Hat,desc,"Valore Pendulum = 7
 [ Effetto Pendulum ]
@@ -431,15 +445,15 @@ Quando il tuo avversario attiva un effetto mostro e controlli un Mostro non-con 
 Puoi utilizzare questo effetto di ""Padre Grizzly"" una sola volta per turno."
 101306032,Padre Grizzly,str1,Evocazione Speciale
 101306032,Padre Grizzly,str2,Annullare l'attivazione
-101306033,垃圾石人,name,垃圾石人
-101306033,垃圾石人,desc,"这个卡名的①②③的效果1回合各能使用1次。
-①：自己场上有攻击力或守备力是0的怪兽存在的场合才能发动。这张卡从手卡特殊召唤。
-②：把阶级不同的额外卡组3只超量怪兽给对方出示，以场上1张其他卡为对象才能发动。那张卡和这张卡破坏。
-③：把墓地的这张卡除外才能发动。自己场上1个超量素材取除。那之后，可以从自己的手卡·墓地把1只攻击力或守备力是0的怪兽特殊召唤。"
-101306033,垃圾石人,str1,Evocazione Speciale
-101306033,垃圾石人,str2,Effetto di distruzione
-101306033,垃圾石人,str3,Staccare Materiale Xyz
-101306033,垃圾石人,str4,Evocazione Speciale?
+101306033,Golem Spazzatura,name,Golem Spazzatura
+101306033,Golem Spazzatura,desc,"Se controlli un mostro con 0 ATK o DEF: puoi Evocare Specialmente questa carta dalla tua mano.
+Puoi rivelare 3 Mostri Xyz con Rango differente nel tuo Extra Deck, poi scegliere come bersaglio 1 altra carta sul Terreno; distruggi sia quella carta che questa carta.
+Puoi bandire questa carta dal tuo Cimitero; stacca 1 Materiale Xyz da un mostro che controlli, poi puoi Evocare Specialmente 1 mostro con 0 ATK o DEF dalla tua mano o Cimitero.
+Puoi utilizzare ogni effetto di ""Golem Spazzatura"" una sola volta per turno."
+101306033,Golem Spazzatura,str1,Evocazione Speciale
+101306033,Golem Spazzatura,str2,Effetto di distruzione
+101306033,Golem Spazzatura,str3,Staccare Materiale Xyz
+101306033,Golem Spazzatura,str4,Evocazione Speciale?
 101306034,Ombra Cartoon,name,Ombra Cartoon
 101306034,Ombra Cartoon,desc,"Non può essere Evocato Normalmente/Posizionato. Deve essere prima Evocato Specialmente (dalla tua mano) mentre un mostro scoperto che non può essere Evocato Normalmente/Posizionato è sul Terreno. Puoi Evocare Specialmente ""Ombra Cartoon"" in questo modo una sola volta per turno.
 Se questa carta viene Evocata Specialmente: puoi aggiungere 1 mostro con 2000 ATK o DEF che non può essere Evocato Normalmente/Posizionato dal tuo Deck alla tua mano.
@@ -464,6 +478,21 @@ Deve essere Evocato tramite Fusione, oppure Evocato Specialmente (dal tuo Extra 
 Se questa carta viene Evocata Specialmente: Puoi aggiungere 2 mostri ""EROE del Destino"" e/o carte che menzionano il nome di una carta ""EROE del Destino"" dal tuo Deck alla tua mano.
 L'ATK di questa carta diventa pari alla somma degli ATK originali di tutti gli altri mostri ""EROE del Destino"" nel tuo Terreno e Cimitero."
 101306037,Corazzata del Terrore - EROE del Destino,str1,Aggiungere alla mano
+101306038,Invokato Dee Anima,name,Invokato Dee Anima
+101306038,Invokato Dee Anima,desc,"1 mostro ""Aleister"" + 1 mostro Evocato Specialmente dall'Extra Deck
+
+
+Se questa carta viene Evocata Specialmente: puoi attivare 1 di questi effetti;
+
+● Distruggi tutti i mostri controllati dal tuo avversario che sono stati Evocati Specialmente dall'Extra Deck.
+
+● Distruggi tutte le Magie/Trappole controllate dal tuo avversario.
+Quando il tuo avversario attiva l'effetto di una carta nel Cimitero (Effetto Rapido): puoi bandire questa carta; Evoca Specialmente 1 mostro ""Aleister"" dal tuo Deck e, se lo fai, annulla quell'effetto.
+Puoi utilizzare ogni effetto di ""Invokato Dee Anima"" una sola volta per turno."
+101306038,Invokato Dee Anima,str1,Scegli un effetto
+101306038,Invokato Dee Anima,str2,Evoca Specialmente e annulla
+101306038,Invokato Dee Anima,str3,Distruggi 1 mostro
+101306038,Invokato Dee Anima,str4,Distruggi Magia/Trappola
 101306039,Asutraja Susanoo,name,Asutraja Susanoo
 101306039,Asutraja Susanoo,desc,"1 Tuner + 1+ non-Tuner
 Se questa carta viene Evocata Synchro: Puoi bandire un qualsiasi numero di Trappole dal tuo Cimitero; bandisci altrettante carte sul Terreno.
@@ -594,6 +623,16 @@ Se questa carta è nel tuo Cimitero: Puoi mettere 1 carta dalla tua mano in cima
 Puoi utilizzare ciascun effetto di ""Compagni Irremovibilatore"" una sola volta per turno."
 101306063,Compagni Irremovibilatore,str1,Effetto di aggiunta alla mano
 101306063,Compagni Irremovibilatore,str2,Rimettere in mano
+101306067,Invokazione - Calice,name,Invokazione - Calice
+101306067,Invokazione - Calice,desc,"Se hai un mostro ""Aleister"" sul tuo Terreno, nel tuo Cimitero o tra le tue carte bandite: attiva 1 di questi effetti;
+
+● Evoca tramite Fusione 1 Mostro Fusione ""Invokato"" dal tuo Extra Deck, bandendo 1 mostro dalla tua mano o Terreno e 1 mostro dal tuo Deck.
+
+● Evoca tramite Fusione 1 Mostro Fusione ""Invokato"" dal tuo Extra Deck, bandendo 1 mostro che controlli e 1 mostro scoperto controllato dal tuo avversario.
+Puoi attivare solo 1 ""Invokazione - Calice"" per turno."
+101306067,Invokazione - Calice,str1,Attiva
+101306067,Invokazione - Calice,str2,"Fusione usando la tua mano, Terreno e Deck"
+101306067,Invokazione - Calice,str3,Fusione usando il tuo Terreno e quello del tuo avversario
 101306068,Ritorno Spaziale,name,Ritorno Spaziale
 101306068,Ritorno Spaziale,desc,"Fai ritornare fino a 2 carte sul Terreno alla mano, poi ciascun giocatore mette in fondo al Deck, in qualsiasi ordine, un numero di carte dalla propria mano pari al numero di carte ritornate alla propria mano.
 Puoi attivare solo 1 ""Ritorno Spaziale"" per turno."
