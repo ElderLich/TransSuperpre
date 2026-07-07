@@ -34216,6 +34216,46 @@ def build_translation_pack(lang: str):
             "ja": "相手は捨ててドローする",
             "kr": "상대는 버리고 드로우한다",
         },
+        "骰子效果": {
+            "en": "Dice effect",
+            "fr": "Effet du dé",
+            "de": "Würfeleffekt",
+            "es": "Efecto del dado",
+            "pt": "Efeito do dado",
+            "it": "Effetto del dado",
+            "ja": "ダイス効果",
+            "kr": "주사위 효과"
+        },
+        "特殊召唤并无效": {
+            "en": "Special Summon and negate",
+            "fr": "Invoquer Spécialement et annuler",
+            "de": "Als Spezialbeschwörung beschwören und annullieren",
+            "es": "Invocar de Modo Especial y negar",
+            "pt": "Invocar por Invocação-Especial e negar",
+            "it": "Evoca Specialmente e annulla",
+            "ja": "特殊召喚して無効",
+            "kr": "특수 소환하고 무효"
+        },
+        "手卡场上卡组融合": {
+            "en": "Fusion using your hand, field, and Deck",
+            "fr": "Fusion avec votre main, Terrain et Deck",
+            "de": "Fusion mit Hand, Spielfeld und Deck",
+            "es": "Fusión usando tu mano, Campo y Deck",
+            "pt": "Fusão usando sua mão, Campo e Deck",
+            "it": "Fusione usando la tua mano, Terreno e Deck",
+            "ja": "手札・フィールド・デッキで融合",
+            "kr": "패, 필드, 덱으로 융합"
+        },
+        "自己对方场上融合": {
+            "en": "Fusion using your field and your opponent's field",
+            "fr": "Fusion avec votre Terrain et celui de votre adversaire",
+            "de": "Fusion mit deinem Spielfeld und dem Spielfeld deines Gegners",
+            "es": "Fusión usando tu Campo y el Campo de tu adversario",
+            "pt": "Fusão usando seu Campo e o Campo do oponente",
+            "it": "Fusione usando il tuo Terreno e quello del tuo avversario",
+            "ja": "自分・相手フィールドで融合",
+            "kr": "자신과 상대 필드로 융합"
+        },
 
     }
     for cn, out in extras.items():
