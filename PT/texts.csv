@@ -7,12 +7,12 @@ Se um ou mais monstros Besta-Guerreiro for Invocado por Invocação-Normal ou Es
 100200294,Conexão Poderosa,"Escolha qualquer número de monstros com a face para cima que você controla (se você escolher 2 ou mais monstros, eles devem ter o mesmo Tipo); eles ganham 500 de ATK para cada monstro escolhido, até o final deste turno.
 Se você ativou ""Armamento da Reencarnação"" neste turno: você pode adicionar este card do seu Cemitério  à sua mão.
 Você só pode usar cada um dos efeitos de ""Conexão Poderosa"" uma vez por turno.",Ativar,Recuperar,,,,,,,,,,,,,,
-100200295,邪恶的魔王-佐克,"这个卡名的①②③的效果1回合各能使用1次。
-①：把包含这张卡的2张手卡丢弃才能发动。从卡组把1只8星的恶魔族怪兽加入手卡。
-②：自己的恶魔族怪兽被战斗破坏时才能发动。这张卡从墓地特殊召唤。
-③：自己主要阶段才能发动。掷1次骰子，出现的数目的以下效果适用。
-●1~4：选对方场上1只怪兽得到控制权或破坏。
-●5·6：自己场上1张卡破坏。",Efeito de busca,Invocação Especial,Efeito de dado,Tomar controle?,,,,,,,,,,,,
+100200295,Senhor Maligno – Zorc,"Você pode descartar 2 cards, incluindo este card; adicione 1 monstro Demônio de Nível 8 do seu Deck à sua mão.
+Quando seu monstro Demônio é destruído por batalha: você pode Invocar por Invocação-Especial este card do seu Cemitério.
+Durante a sua Fase Principal: você pode rolar um dado e aplicar este efeito baseado no resultado.
+● 1, 2, 3, ou 4: tome controle ou destrua, 1 monstro que seu oponente controla.
+● 5 ou 6: destrua 1 card que você controla.
+Você só pode usar cada um dos efeitos de ""Senhor Maligno – Zorc"" uma vez por turno.",Efeito de busca,Invocação Especial,Efeito de dado,Tomar controle?,,,,,,,,,,,,
 100260001,Chapéu da Companhia de Palhaços,"Escala de Pêndulo = 7
 [ Efeito de Pêndulo ]
 Você só pode usar o Efeito de Pêndulo de ""Chapéu da Companhia de Palhaços"" uma vez por turno.
@@ -192,6 +192,24 @@ Quando seu oponente ativar um efeito de monstro (Efeito Rápido): você pode ban
 Você só pode usar cada um dos seguintes efeitos de ""Vórtice Demoníaco de Atlantis"" uma vez por turno.
 Se este card for Invocado por Invocação-Normal ou Especial: você pode enviar 1 card que mencione ""Atlantis, a Cidade do Dragão"" do seu Deck para o Cemitério, exceto ""Vórtice Demoníaco de Atlantis""
 Se este card for enviado para o Cemitério e você controla ""Umi"": você pode Invocar por Invocação-Especial 1 monstro ÁGUA da sua mão.",Enviar para o Cemitério,Invocação Especial,,,,,,,,,,,,,,
+101306017,Teorealizar Medius,"(Este card é sempre considerado como um card ""Patrono(a) do Poder"".)
+Se um card ""Patrono(a) do Poder"" está no campo: você pode Invocar por Invocação-Especial este card da sua mão, então você pode adicionar 1 Magia/Armadilha ""Teorealizar"" do seu Deck à sua mão.
+Se um ou mais monstros é banido com a face para cima: você pode ativar 1 desses efeitos;
+● Adicione 1 card ""Ars Magna"" do seu Deck à sua mão.
+● Bana este card, e se fizer, Invoque por Invocação-Especial 1 monstro ""Diactorus"" do seu Deck Adicional.
+Você só pode usar cada um dos efeitos de ""Teorealizar Medius"" uma vez por turno.",Invocação Especial,Escolher um efeito,Adicionar à mão?,Efeito de busca,Invocação Especial,,,,,,,,,,,
+101306018,Ars Magna da Finidade e Infinidade,"Você pode banir este card da sua mão; adicione 1 monstro não-Guerreiro ""Ars Magna"" do seu Deck à sua mão, também o ATK original do Link ""Patrono(a) do Poder"".
+Se um ou mais Monstros Link e/ou Fusão são Invocados por Invocação-Especial enquanto este card está banido: você pode Invocar este card por Invocação-Especial.
+Se você controla um Monstro Link ""Patrono(a) do Poder"": você pode escolher 1 monstro no campo; bana-o.
+Você só pode usar cada um dos efeitos de ""Ars Magna da Finidade e Infinidade"" uma vez por turno.",Efeito de busca,Invocação Especial,Efeito de banimento,,,,,,,,,,,,,
+101306019,Ars Magna da Corrupção e Purificação,"Você pode banir este card da sua mão; adicione 1 Magia/Armadilha ""Ars Magna"" do seu Deck à sua mão, também até o final do seu próximo turno, as 3 primeiras vezes que cada um dos seus Monstros Link ""Patrono(a) do Poder"" seria destruído por batalha todo turno, ele não é destruído.
+Se um ou mais Monstros Link e/ou Xyz são Invocados por Invocação-Especial enquanto este card está banido: você pode Invocar este card por Invocação-Especial.
+Você pode escolher Magias/Armadilhas no campo até o número de Monstros Link ""Patrono(a) do Poder"" que você controla; bana-os.
+Você só pode usar cada um dos efeitos de ""Ars Magna da Corrupção e Purificação"" uma vez por turno.",Efeito de busca,Invocação Especial,Efeito de banimento,O efeito de {CARD} está sendo aplicado.,,,,,,,,,,,,
+101306020,Ars Magna da Separação e Unificação,"Você pode banir este card da sua mão; Invoque por Invocação-Especial 1 monstro não-Mago ""Ars Magna"" do seu Cemitério ou banimento, também seus Monstros Link ""Patrono(a) do Poder"" podem fazer até 3 ataques em monstros durante cada Fase de Batalha nesse turno.
+Se um ou mais Monstros Link e/ou Sinchro são Invocados por Invocação-Especial enquanto este card está banido: você pode Invocar este card por Invocação-Especial.
+Você pode banir 1 card ""Ars Magna"" do seu Cemitério; compre 1 card.
+Você só pode usar cada um dos efeitos de ""Ars Magna da Separação e Unificação"" uma vez por turno.",Invocação Especial,Invocação Especial,Comprar,,,,,,,,,,,,,
 101306021,HERÓI do Destino – Dogma Morte,"Não pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial (da sua mão ou Cemitério) banindo 3 monstros Guereiros e/ou TREVAS do seu Cemitério. Você só pode Invocar por Invocação-Especial ""HERÓI do Destino – Dogma Morte"" uma vez por turno dessa forma.
 Se for Invocado dessa forma: você pode ativar este efeito; cause 2000 de dano ao seu oponente durante a próxima Fase de Apoio.
 Uma vez por turno, quando seu oponente ativar um card ou efeito (Efeito Rápido): você pode Invocar por Invocação-Fusão 1 monstro Guerreiro ou TREVAS do seu Deck Adicional, ao embaralhar suas matérias da sua mão, campo e/ou Cemitério no Deck.",,Causar dano,Invocação Fusão,,,,,,,,,,,,,
@@ -222,10 +240,10 @@ Se este card é Invocado por Invocação-Especial: você pode banir 1 monstro Ma
 Você só pode usar cada efeito de ""Misstic Call"" uma vez por turno.",Invocação Especial,Efeito de banimento,"Banir pelo efeito de ""Misstic Call""",,,,,,,,,,,,,
 101306032,Urso Pai,"Quando este card é destruído por batalha e enviado para o Cemitério: você pode Invocar por Invocação-Especial 1 monstro de Nível 4 com 1400 de ATK do seu Deck, ou se você tem 2 ou mais monstros de Nível 4 com 1400 de ATK no seu Cemitério, em vez disso você pode Invocar por Invocação-Especial 1 Monstro Normal.
 Quando seu oponente ativar um efeito de monstro e você controla um Monstro sem efeito com a face ara cima (Efeito Rápido): você pode banir este card do seu Cemitério; negue a ativação, e se fizer, destrua aquele monstro. Você só pode usar este efeito de ""Urso Pai"" uma vez por turno.",Invocação Especial,Negar a ativação,,,,,,,,,,,,,,
-101306033,垃圾石人,"这个卡名的①②③的效果1回合各能使用1次。
-①：自己场上有攻击力或守备力是0的怪兽存在的场合才能发动。这张卡从手卡特殊召唤。
-②：把阶级不同的额外卡组3只超量怪兽给对方出示，以场上1张其他卡为对象才能发动。那张卡和这张卡破坏。
-③：把墓地的这张卡除外才能发动。自己场上1个超量素材取除。那之后，可以从自己的手卡·墓地把1只攻击力或守备力是0的怪兽特殊召唤。",Invocação Especial,Efeito de destruição,Desassociar Matéria Xyz,Invocação Especial?,,,,,,,,,,,,
+101306033,Golem de Lixo,"Se você controla um monstro com 0 de ATK ou DEF: você pode Invocar por Invocação-Especial este card da sua mão.
+Você pode revelar 3 Monstros Xyz com Classes diferentes no seu Deck Adicional, então escolha 1 outro card no campo; destrua ambos ele e este card.
+Você pode banir este card do seu Cemitério; desassocie 1 matéria de um monstro que você controla, então você pode Invocar por Invocação-Especial 1 monstro com 0 de ATK ou DEF da sua mão ou Cemitério.
+Você só pode usar cada um dos efeitos de ""Golem de Lixo"" uma vez por turno.",Invocação Especial,Efeito de destruição,Desassociar Matéria Xyz,Invocação Especial?,,,,,,,,,,,,
 101306034,Sombra de Cartoon,"Não pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial (da sua mão) enquanto um monstro que não pode ser Invocado por Invocação-Normal/Baixado está no campo com a face para cima. Você só pode Invocar por Invocação-Especial ""Sombra de Cartoon"" uma vez por turno dessa forma.
 Se este card é Invocado por Invocação-Especial: você pode adicionar 1 monstro com 2000 de ATK ou DEF que não pode ser Invocado por Invocação-Normal/Baixado do seu Deck à sua mão.
 Se este card for oferecido como Tributo no campo: você pode escolher 1 card no campo, ou você pode escolher 2 se você controal um monstro com 2000 de ATK ou DEF; retorne aquele(s) card(s) para à mão.",Efeito de busca,Retornar para a mão,,,,,,,,,,,,,,
@@ -241,12 +259,12 @@ Não é afetado pelos efeitos ativados dos monstros e efeitos de Magias do seu o
 Deve ser Invocado por Invocação-Fusão ou Especial (do seu Deck Adicional) oferecendo como Tributo 1 ""HERÓI do Destino - Mestre do Horror"". Você só pode Invocar por Invocação-Especial ""HERÓI do Destino - Mestre do Horror"" uma vez por turno dessa forma, não importa qual método use.
 Se este card for Invocado por Invocação-Especial: você pode adicionar 2 monstro ""HERÓI do Destino"" e/ou cards que mencione o nome de um card ""HERÓI do Destino"" do seu Deck à sua mão.
 O ATK deste card se tornal o total original do ATK de todos os monstros ""HERÓI do Destino"" no seu campo e Cemitério.",Adicionar à mão,,,,,,,,,,,,,,,
-101306038,召唤兽 黑曜岩灵,"「阿莱斯特」怪兽＋从额外卡组特殊召唤的怪兽
-这个卡名的①②的效果1回合各能使用1次。
-①：这张卡特殊召唤的场合，可以从以下效果选择1个发动。
-●从额外卡组特殊召唤的对方场上的怪兽全部破坏。
-●对方场上的魔法·陷阱卡全部破坏。
-②：对方把墓地的卡的效果发动时，把场上的这张卡除外才能发动。从卡组把1只「阿莱斯特」怪兽特殊召唤，那个发动的效果无效。",Escolher um efeito,Invocar por Invocação Especial e negar,Destruir 1 monstro,Destruir Magia/Armadilha,,,,,,,,,,,,
+101306038,Invokado Dee Anima,"1 monstro ""Aleister"" + 1 monstro Invocado por Invocação-Especial do Deck Adicional
+Se este card é Invocado por Invocação-Especial: você pode ativar 1 desses efeitos;
+● Destrói todos os monstros que seu oponente controla que foram Invocados por Invocação-Especial do Deck Adicional.
+● Destrói todas as Magias/Armadilhas que seu oponente controla.
+Quando seu oponente ativa um efeito de card no Cemitério (Efeito Rápido): você pode banir este card; Invoque por Invocação-Especial 1 monstro ""Aliester"" do seu Deck, e se o fizer, negue aquele efeito.
+Você só pode usar cada efeito de ""Invokado Dee Anima"" uma vez por turno.",Escolher um efeito,Invocar por Invocação Especial e negar,Destruir 1 monstro,Destruir Magia/Armadilha,,,,,,,,,,,,
 101306039,Asutraja Susanoo,"1 Regulador + 1+ não-Reguladores
 Se este card for Invocado por Invocação-Sincro: você pode banir qualquer número de Armadilhas do seu Cemitério; bana aquela quantia de cards no campo.
 Durante a Fase Final: você pode escolher até 2 monstros ""Asutra"" e/ou Armadilhas ""Asutra"" no seu Cemitério e/ou banimento; para cada um deles, adicione-o à sua mão ou Baixe-o, então se você escolheu 2 cards, retorne este card para o Deck Adicional.
@@ -273,6 +291,11 @@ O nome deste card se torna ""Umi"" enquanto está na Zona de Monstros.
 Você só pode usar cada um dos seguintes efeitos de ""Levia-Dragoon - Daedalus"" uma vez por turno.
 Se este card for Invocado por Invocação-Link: você pode Invocar por Invocação-Especial 1 monstro que mencione ""Atlantis, a Cidade do Dragão"" do seu Deck.
 Durante a Fase Principal (Efeito Rápido): você pode enviar 1 ""Umi"" com a face para cima que você controla para o Cemitério; descarte a mão do seu oponente, e se fizer, ele compra a mesma quantia de cards. Nenhum jogador pode ativar cards ou efeitos em resposta a ativação deste efeito.",Aplicar como Link-2 para uma Invocação-Link (Levia-Dragoon - Daedalus),Invocação Especial,Seu oponente descarta e compra,,,,,,,,,,,,,
+101306048,Medicurius o Patrono do Poder das Ilusões,"2+ monstros, incluindo um Monstro Fusão, Sincro, Xyz ou Link
+Ganha estes efeitos baseado no número de monstros para qual aponta.
+● 1+: Uma vez por turno: você pode negar os efeitos de todos os monstros com a face para cima que seu oponente atualmente controla, também até o final deste turno, os ATKs deles são reduzidos.
+● 2+: Não é afetado pelos efeitos ativados do seu oponente.
+● 3: Uma vez por turno do oponente (Efeito Rápido): você pode banir este card, também bana todos os cards que seu oponente controla.",Negar o efeito,Efeito de banimento,,,,,,,,,,,,,,
 101306049,Luminosa Adamancipador,"2 Monstros de Efeito, incluindo um Monstro Sincro
 Se este card for Invocado por Invocação-Link, ou um ou mais monstros forem Invocados por Invocação-Especial para uma ou mais zonas que este card aponta: você pode escolher 1 monstro no seu campo ou Cemitério que tenha um Nível; Invoque por Invocação-Especial 1 ""Ficha de Brilho"" (Rocha/LUZ/ATK 0/DEF 0) com o mesmo Nível.
 Quando outro monstro no campo ativa seu efeito (Efeito Rápido): você pode coloca-lo no topo do Deck.
@@ -306,6 +329,9 @@ Você só pode usar cada um dos efeitos de ""Chamado de Atlantis"" uma vez por t
 Você só pode usar cada um dos seguintes efeitos de ""Advento de Atlantis"" uma vez por turno.
 Durante a sua Fase Principal: você pode colocar 1 ""Atlantis, a Cidade do Dragão"" ou ""Umi"" do seu Deck na sua Zona de Campo com a face para cima.
 Se este card for enviado para o Cemitério: você pode adicionar 1 monstro Serpente Marinha de Nível 7 do seu Deck à sua mão.",Efeito de colocar,Efeito de busca,,,,,,,,,,,,,,
+101306061,"Ars Magna - ""Citrinitas""","(Este card é sempre considerado como um card ""Artmage"", ""DoomZ"" e ""Elfnota"".)
+Você pode ativar os efeitos de monstros que você controla com ""Ars Magna"" em seus normais originais como Efeitos Rápido enquanto você controlar um Monstro Link ""Patrono(a) do Poder"".
+Uma vez enquanto está com a face para cima no campo: você pode adicionar 1 monstro ""Medius"" ou ""Ars Magna"" do seu Deck à sua mão. Você só pode usar este efeito de ""Ars Magna - ""Citrinitas"""" uma vez por turno.",,Efeito de busca,Efeito já ativado,,,,,,,,,,,,,
 101306062,Prisão da Torre do Relógio da Cidade – Cidade Sombria,"Toda vez que você Invoca por Invocação-Especial um ou mais monstros ""HERÓI do Destino"" de Nível 8 ou maior: todos os monstros Guerreiro que você atualmente controla ganham 300 de ATK.
 Você só pode usar cada um dos seguintes efeitos de ""Prisão da Torre do Relógio da Cidade – Cidade Sombria"" uma vez por turno.
 Se este card for ativado neste turno: você pode adicionar 1 monstro ""HERÓI do Destino"" ou 1 card que menciona o nome de um monstro ""HERÓI do Destino"", do seu Deck à sua mão.
@@ -313,10 +339,12 @@ Se este card for destruído: você pode Invocar por Invocação-Especial 1 monst
 101306063,Companheiras Adamancipador,"Adicione 1 monstro ""Adamancipador"" do seu Deck à sua mão.
 Se este card está no seu Cemitério: você pode colocar 1 card da sua mão no topo do Deck; adicione este card à sua mão.
 Você só pode usar cada um dos efeitos de ""Companheiras Adamancipador"" uma vez por turno.",Efeito de busca,Retornar para a mão,,,,,,,,,,,,,,
-101306067,召唤魔术-「杯」,"这个卡名的卡在1回合只能发动1张。
-①：自己的场上·墓地·除外状态有「阿莱斯特」怪兽存在的场合，可以从以下效果选择1个发动。
-●自己的手卡·场上的1只怪兽和自己卡组的1只怪兽作为融合素材除外，把1只「召唤兽」融合怪兽融合召唤。
-●自己场上的1只怪兽和对方场上的1只表侧表示怪兽作为融合素材除外，把1只「召唤兽」融合怪兽融合召唤。",Ativar,"Invocar por Invocação Fusão usando a mão, o campo e o Deck",Invocar por Invocação Fusão usando monstros nos dois campos,,,,,,,,,,,,,
+101306066,Blitzclique - Sobretensão,"Escolhe 1 card com a face para cima no campo; destrua-o, também pelo resto deste turno, você não pode Invocar por Invocação-Especial Monstros de Efeito, exceto da mão.
+Se um ou mais cards são destruídos pelos efeitos dos seus cards ""Blitzclique"", enquanto este card está no seu Cemitério (exceto durante a Etapa de Dano): você pode adicionar este card à sua mão. Você só pode usar este efeito de ""Blitzclique - Sobretensão"" uma vez por turno.",Ativar,Recuperar,,,,,,,,,,,,,,
+101306067,"Invokação - ""Cálice""","Se você tem um monstro ""Aleister"" no seu campo, Cemitério ou banimento: ative 1 desses efeitos;
+● Invoque por Invocação-Fusão 1 Monstro Fusão ""Invokado"" do seu Deck Adicional, ao banir 1 monstro da sua mão ou campo e 1 monstro do seu Deck.
+● Invoque por Invocação-Fusão 1 Monstro Fusão ""Invokado"" do seu Deck Adicional, ao banir 1 monstro que você controla e 1 monstro com a face para cima que seu oponente controla.
+Você só pode ativar 1 ""Invokação - ""Cálice"""" uma vez por turno.",Ativar,"Invocar por Invocação Fusão usando a mão, o campo e o Deck",Invocar por Invocação Fusão usando monstros nos dois campos,,,,,,,,,,,,,
 101306068,Tornado Espacial,"Retorne até 2 cards no campo para a mão, então cada jogar coloca cards das suas mãos no fundo do Deck em qualquer ordem igual ao número de cards retornado de suas mãos.
 Você só pode ativar 1 ""Tornado Espacial"" por turno.",Ativar,,,,,,,,,,,,,,,
 101306069,Obtenção de Poder Mágico,"Adicione 1 card do seu Deck ou Cemitério à sua mão que mencione ""Marcador de Magia"" em seu texto, exceto ""Obtenção de Poder Mágico"", então se você controla um Card de Monstro ""Endymion"" de Nível 7 ou maior, você pode removar qualquer número de Marcador de Magia do seu campo, e se fizer, negue os efeitos daquela quantia de cards com a face para cima que seu oponente controla, e se fizer isso, destrua-os.
@@ -343,6 +371,9 @@ Você só pode ativar 1 ""Domnínio Divino de Asutra"" por turno.",Ativar,Invoca
 101306076,Redemoinho Daedalus,"Quando seu oponente Invocaria por Invocação-Normal ou Especial um ou mais monstros enquanto você controla ""Atlantis, a Cidade do Dragão"": negue a Invocação, e se fizer, destrua ataqueles monstros, então se você controla um Monstro Link ÁGUA, você pode destruir todos os monstros não-ÁGUA no campo.
 Você pode banir este card do seu Cemitério e enviar 1 ""Umi"" com a face para cima que você controla para o Cemitério, então escolha 1 monstro que seu oponente controla; envie-o para o Cemitério.
 Você só pode usar 1 dos efeitos de ""Redemoinho Daedalus"", e somente uma vez por turno.",Negar a Invocação,Enviar para o Cemitério,Destruir aquele monstro?,,,,,,,,,,,,,
+101306077,"Ars Magna - ""Philosophirum""","Escolha até 3 monstros ""Ars Magna"" no seu campo e/ou Cemitério; bana-os, então você pode negar os efeitos de até o mesmo número de cards com a face para cima no campo até o final deste turno.
+Você pode banir este card do seu Cemitério; retorne 1 Monstro Link ""Patrono(a) do Poder"" do seu Cemitério ao Deck Adicional, então você pode Invoca-lo por Invocação-Especial.
+Você só pode usar um dos efeitos de  ""Ars Magna - ""Philosophirum"""" e somente uma vez por turno.",Efeito de banimento,Retornar ao Deck Adicional,Negar os efeitos do card?,Invocação Especial?,,,,,,,,,,,,
 101306078,Papel Amaldiçoado de Retribuição,"Escolha 1 monstro que você controla e 1 card com a face para cima que seu oponente control; destrua seu monstro, e se fizer, negue os efeitos daquele card do oponente até o fim deste turno.
 Se este card Baixado for enviado para o Cemitério: você pode escolher 1 card com a face para cima que seu oponente controla, negue seus efeitos.
 Você só pode usar cada um dos efeitos de ""Papel Amaldiçoado de Retribuição"" uma vez por turno.",Negar o efeito,Negar o efeito,,,,,,,,,,,,,,
