@@ -17,6 +17,17 @@ Se você ativou ""Armamento da Reencarnação"" neste turno: você pode adiciona
 Você só pode usar cada um dos efeitos de ""Conexão Poderosa"" uma vez por turno."
 100200294,Conexão Poderosa,str1,Ativar
 100200294,Conexão Poderosa,str2,Recuperar
+100200295,邪恶的魔王-佐克,name,邪恶的魔王-佐克
+100200295,邪恶的魔王-佐克,desc,"这个卡名的①②③的效果1回合各能使用1次。
+①：把包含这张卡的2张手卡丢弃才能发动。从卡组把1只8星的恶魔族怪兽加入手卡。
+②：自己的恶魔族怪兽被战斗破坏时才能发动。这张卡从墓地特殊召唤。
+③：自己主要阶段才能发动。掷1次骰子，出现的数目的以下效果适用。
+●1~4：选对方场上1只怪兽得到控制权或破坏。
+●5·6：自己场上1张卡破坏。"
+100200295,邪恶的魔王-佐克,str1,Efeito de busca
+100200295,邪恶的魔王-佐克,str2,Invocação Especial
+100200295,邪恶的魔王-佐克,str3,Efeito de dado
+100200295,邪恶的魔王-佐克,str4,Tomar controle?
 100260001,Chapéu da Companhia de Palhaços,name,Chapéu da Companhia de Palhaços
 100260001,Chapéu da Companhia de Palhaços,desc,"Escala de Pêndulo = 7
 [ Efeito de Pêndulo ]
@@ -460,6 +471,17 @@ Deve ser Invocado por Invocação-Fusão ou Especial (do seu Deck Adicional) ofe
 Se este card for Invocado por Invocação-Especial: você pode adicionar 2 monstro ""HERÓI do Destino"" e/ou cards que mencione o nome de um card ""HERÓI do Destino"" do seu Deck à sua mão.
 O ATK deste card se tornal o total original do ATK de todos os monstros ""HERÓI do Destino"" no seu campo e Cemitério."
 101306037,HERÓI do Destino – Dreadnought,str1,Adicionar à mão
+101306038,召唤兽 黑曜岩灵,name,召唤兽 黑曜岩灵
+101306038,召唤兽 黑曜岩灵,desc,"「阿莱斯特」怪兽＋从额外卡组特殊召唤的怪兽
+这个卡名的①②的效果1回合各能使用1次。
+①：这张卡特殊召唤的场合，可以从以下效果选择1个发动。
+●从额外卡组特殊召唤的对方场上的怪兽全部破坏。
+●对方场上的魔法·陷阱卡全部破坏。
+②：对方把墓地的卡的效果发动时，把场上的这张卡除外才能发动。从卡组把1只「阿莱斯特」怪兽特殊召唤，那个发动的效果无效。"
+101306038,召唤兽 黑曜岩灵,str1,Escolher um efeito
+101306038,召唤兽 黑曜岩灵,str2,Invocar por Invocação Especial e negar
+101306038,召唤兽 黑曜岩灵,str3,Destruir 1 monstro
+101306038,召唤兽 黑曜岩灵,str4,Destruir Magia/Armadilha
 101306039,Asutraja Susanoo,name,Asutraja Susanoo
 101306039,Asutraja Susanoo,desc,"1 Regulador + 1+ não-Reguladores
 Se este card for Invocado por Invocação-Sincro: você pode banir qualquer número de Armadilhas do seu Cemitério; bana aquela quantia de cards no campo.
@@ -587,6 +609,14 @@ Se este card está no seu Cemitério: você pode colocar 1 card da sua mão no t
 Você só pode usar cada um dos efeitos de ""Companheiras Adamancipador"" uma vez por turno."
 101306063,Companheiras Adamancipador,str1,Efeito de busca
 101306063,Companheiras Adamancipador,str2,Retornar para a mão
+101306067,召唤魔术-「杯」,name,召唤魔术-「杯」
+101306067,召唤魔术-「杯」,desc,"这个卡名的卡在1回合只能发动1张。
+①：自己的场上·墓地·除外状态有「阿莱斯特」怪兽存在的场合，可以从以下效果选择1个发动。
+●自己的手卡·场上的1只怪兽和自己卡组的1只怪兽作为融合素材除外，把1只「召唤兽」融合怪兽融合召唤。
+●自己场上的1只怪兽和对方场上的1只表侧表示怪兽作为融合素材除外，把1只「召唤兽」融合怪兽融合召唤。"
+101306067,召唤魔术-「杯」,str1,Ativar
+101306067,召唤魔术-「杯」,str2,"Invocar por Invocação Fusão usando a mão, o campo e o Deck"
+101306067,召唤魔术-「杯」,str3,Invocar por Invocação Fusão usando monstros nos dois campos
 101306068,Tornado Espacial,name,Tornado Espacial
 101306068,Tornado Espacial,desc,"Retorne até 2 cards no campo para a mão, então cada jogar coloca cards das suas mãos no fundo do Deck em qualquer ordem igual ao número de cards retornado de suas mãos.
 Você só pode ativar 1 ""Tornado Espacial"" por turno."
@@ -595,8 +625,8 @@ Você só pode ativar 1 ""Tornado Espacial"" por turno."
 101306069,Obtenção de Poder Mágico,desc,"Adicione 1 card do seu Deck ou Cemitério à sua mão que mencione ""Marcador de Magia"" em seu texto, exceto ""Obtenção de Poder Mágico"", então se você controla um Card de Monstro ""Endymion"" de Nível 7 ou maior, você pode removar qualquer número de Marcador de Magia do seu campo, e se fizer, negue os efeitos daquela quantia de cards com a face para cima que seu oponente controla, e se fizer isso, destrua-os.
 Você só pode ativar 1 ""Obtenção de Poder Mágico"" por turno."
 101306069,Obtenção de Poder Mágico,str1,Ativar
-101306069,Obtenção de Poder Mágico,str2,Remover Marcadores de Magia?
-101306069,Obtenção de Poder Mágico,str3,Selecione a quantidade de Marcadores de Magia a remover
+101306069,Obtenção de Poder Mágico,str2,Remover marcadores?
+101306069,Obtenção de Poder Mágico,str3,Escolha a quantidade de marcadores a remover
 101306070,Ladrão de Túmulos Tolo,name,Ladrão de Túmulos Tolo
 101306070,Ladrão de Túmulos Tolo,desc,"Envie 1 card que menciona ""Mago do Tempo Sombrio"" do seu Deck ao Cemitério, exceto ""Ladrão de Túmulos Tolo"", então você pode Invocar por Invocação-Especial 1 monstro de qualquer Cemitério para o seu campo.
 Você pode banir este card do seu Cemitério; Baixe 1 destes cards para o seu campo.
