@@ -377,6 +377,48 @@ Se questa carta viene Evocata Normalmente o Specialmente: Puoi mandare al Cimite
 Se questa carta viene mandata al Cimitero e controlli ""Umi"": Puoi Evocare Specialmente 1 mostro ACQUA dalla tua mano."
 101306016,Vortice Demoniaco di Atlantide,str1,Mandare al Cimitero
 101306016,Vortice Demoniaco di Atlantide,str2,Evocazione Speciale
+101306017,Teorealizzare Medius,name,Teorealizzare Medius
+101306017,Teorealizzare Medius,desc,"(Questa carta è sempre trattata come una carta ""Patrono Potente"".)
+
+
+Se una carta ""Patrono Potente"" è sul Terreno: puoi Evocare Specialmente questa carta dalla tua mano, poi puoi aggiungere 1 Magia/Trappola ""Teorealizzare"" dal tuo Deck alla tua mano.
+Se uno o più mostri vengono banditi scoperti: puoi attivare 1 di questi effetti;
+
+● Aggiungi 1 carta ""Ars Magna"" dal tuo Deck alla tua mano.
+
+● Bandisci questa carta e, se lo fai, Evoca Specialmente 1 mostro ""Diactorus"" dal tuo Extra Deck.
+
+Puoi utilizzare ogni effetto di ""Teorealizzare Medius"" una sola volta per turno."
+101306017,Teorealizzare Medius,str1,Evocazione Speciale
+101306017,Teorealizzare Medius,str2,Scegli un effetto
+101306017,Teorealizzare Medius,str3,Aggiungere alla mano?
+101306017,Teorealizzare Medius,str4,Effetto di aggiunta alla mano
+101306017,Teorealizzare Medius,str5,Evocazione Speciale
+101306018,Ars Magna dell'Infinito e del Finito,name,Ars Magna dell'Infinito e del Finito
+101306018,Ars Magna dell'Infinito e del Finito,desc,"Puoi bandire questa carta dalla tua mano; aggiungi 1 mostro ""Ars Magna"" non-Guerriero dal tuo Deck alla tua mano, inoltre l'ATK originale dei Mostri Link ""Patrono Potente"" che controlli diventa il triplo fino alla fine di questo turno.
+Se uno o più Mostri Fusione e/o Link vengono Evocati Specialmente mentre questa carta è bandita: puoi Evocare Specialmente questa carta.
+Se controlli un Mostro Link ""Patrono Potente"": puoi scegliere come bersaglio 1 mostro sul Terreno; bandiscilo.
+Puoi utilizzare ogni effetto di ""Ars Magna dell'Infinito e del Finito"" una sola volta per turno."
+101306018,Ars Magna dell'Infinito e del Finito,str1,Effetto di aggiunta alla mano
+101306018,Ars Magna dell'Infinito e del Finito,str2,Evocazione Speciale
+101306018,Ars Magna dell'Infinito e del Finito,str3,Effetto di bandire
+101306019,Ars Magna della Purificazione e della Corruzione,name,Ars Magna della Purificazione e della Corruzione
+101306019,Ars Magna della Purificazione e della Corruzione,desc,"Puoi bandire questa carta dalla tua mano; aggiungi 1 Magia/Trappola ""Ars Magna"" dal tuo Deck alla tua mano, inoltre, fino alla fine del prossimo turno, le prime 3 volte in cui ciascuno dei tuoi Mostri Link ""Patrono Potente"" verrebbe distrutto in battaglia ogni turno, non viene distrutto.
+Se uno o più Mostri Xyz e/o Link vengono Evocati Specialmente mentre questa carta è bandita: puoi Evocare Specialmente questa carta.
+Puoi scegliere come bersaglio Magie/Trappole sul Terreno in numero pari o inferiore al numero di Mostri Link ""Patrono Potente"" che controlli; bandiscile.
+Puoi utilizzare ogni effetto di ""Ars Magna della Purificazione e della Corruzione"" una sola volta per turno."
+101306019,Ars Magna della Purificazione e della Corruzione,str1,Effetto di aggiunta alla mano
+101306019,Ars Magna della Purificazione e della Corruzione,str2,Evocazione Speciale
+101306019,Ars Magna della Purificazione e della Corruzione,str3,Effetto di bandire
+101306019,Ars Magna della Purificazione e della Corruzione,str4,L'effetto di {CARD} si sta applicando.
+101306020,Ars Magna dell'Unificazione e della Separazione,name,Ars Magna dell'Unificazione e della Separazione
+101306020,Ars Magna dell'Unificazione e della Separazione,desc,"Puoi bandire questa carta dalla tua mano; Evoca Specialmente 1 mostro ""Ars Magna"" non-Incantatore dal tuo Cimitero o dalle tue carte bandite, inoltre i tuoi Mostri Link ""Patrono Potente"" possono effettuare fino a 3 attacchi ai mostri durante ogni Battle Phase di questo turno.
+Se uno o più Mostri Synchro e/o Link vengono Evocati Specialmente mentre questa carta è bandita: puoi Evocare Specialmente questa carta.
+Puoi bandire 1 carta ""Ars Magna"" dal tuo Cimitero; pesca 1 carta.
+Puoi utilizzare ogni effetto di ""Ars Magna dell'Unificazione e della Separazione"" una sola volta per turno."
+101306020,Ars Magna dell'Unificazione e della Separazione,str1,Evocazione Speciale
+101306020,Ars Magna dell'Unificazione e della Separazione,str2,Evocazione Speciale
+101306020,Ars Magna dell'Unificazione e della Separazione,str3,Pescare
 101306021,Dogma Fatale - EROE del Destino,name,Dogma Fatale - EROE del Destino
 101306021,Dogma Fatale - EROE del Destino,desc,"Non può essere Evocato Normalmente/Posizionato. Deve essere Evocato Specialmente (dalla tua mano o Cimitero) bandendo 3 mostri Guerriero e/o OSCURITÀ dal tuo Cimitero. Puoi Evocare Specialmente ""Dogma Fatale - EROE del Destino"" una sola volta per turno in questo modo.
 Se Evocato in questo modo: Puoi attivare questo effetto; infliggi 2000 danni al tuo avversario durante la prossima Standby Phase.
@@ -542,6 +584,19 @@ Nessun giocatore può attivare carte o effetti in risposta all'attivazione di qu
 101306047,Levia-Dragone - Dedalo,str1,Applicare come Link-2 per un'Evocazione Link (Levia-Dragone - Dedalo)
 101306047,Levia-Dragone - Dedalo,str2,Evocazione Speciale
 101306047,Levia-Dragone - Dedalo,str3,Il tuo avversario scarta e pesca
+101306048,Medicurius Patrono Potente delle Illusioni,name,Medicurius Patrono Potente delle Illusioni
+101306048,Medicurius Patrono Potente delle Illusioni,desc,"2+ mostri, incluso un Mostro Fusione, Synchro, Xyz o Link
+
+
+Guadagna questi effetti in base al numero di mostri a cui punta.
+
+● 1+: Una volta per turno: puoi annullare gli effetti di tutti i mostri scoperti attualmente controllati dal tuo avversario, inoltre, fino alla fine di questo turno, il loro ATK viene dimezzato.
+
+● 2+: Immune agli effetti attivati del tuo avversario.
+
+● 3: Una volta per turno dell'avversario (Effetto Rapido): puoi bandire questa carta, inoltre bandisci tutte le carte controllate dal tuo avversario."
+101306048,Medicurius Patrono Potente delle Illusioni,str1,Annullare l'effetto
+101306048,Medicurius Patrono Potente delle Illusioni,str2,Effetto di bandire
 101306049,Irremovibilatrice Luminosa,name,Irremovibilatrice Luminosa
 101306049,Irremovibilatrice Luminosa,desc,"2 Mostri con Effetto, incluso un Mostro Synchro
 Se questa carta viene Evocata Link, o se uno o più mostri vengono Evocati Specialmente in una o più zone a cui questa carta punta: Puoi scegliere come bersaglio 1 mostro sul tuo Terreno o nel tuo Cimitero che possiede un Livello; Evoca Specialmente 1 ""Segna-Barlume"" (Roccia/LUCE/ATK 0/DEF 0) con lo stesso Livello.
@@ -609,6 +664,14 @@ Durante la tua Main Phase: Puoi Posizionare 1 ""Atlantide, la Città dei Draghi"
 Se questa carta viene mandata al Cimitero: Puoi aggiungere 1 mostro Serpente Marino di Livello 7 dal tuo Deck alla tua mano."
 101306060,Avvento di Atlantide,str1,Effetto di posizionamento
 101306060,Avvento di Atlantide,str2,Effetto di aggiunta alla mano
+101306061,Ars Magna - Citrinitas,name,Ars Magna - Citrinitas
+101306061,Ars Magna - Citrinitas,desc,"(Questa carta è sempre trattata come una carta ""Artmage"", ""DoomZ"" e ""Elfnote"".)
+
+
+Puoi attivare gli effetti dei mostri che controlli con ""Ars Magna"" nei loro nomi originali come Effetti Rapidi mentre controlli un Mostro Link ""Patrono Potente"".
+Una sola volta mentre è scoperta sul Terreno: puoi aggiungere 1 mostro ""Medius"" o ""Ars Magna"" dal tuo Deck alla tua mano. Puoi utilizzare questo effetto di ""Ars Magna - Citrinitas"" una sola volta per turno."
+101306061,Ars Magna - Citrinitas,str2,Effetto di aggiunta alla mano
+101306061,Ars Magna - Citrinitas,str3,Effetto già attivato
 101306062,Città Oscura Prigione della Torre dell'Orologio,name,Città Oscura Prigione della Torre dell'Orologio
 101306062,Città Oscura Prigione della Torre dell'Orologio,desc,"Ogni volta che Evochi Specialmente uno o più mostri ""EROE del Destino"" di Livello 8 o superiore: Tutti i mostri Guerriero che controlli attualmente guadagnano 300 ATK.
 Puoi utilizzare ciascuno dei seguenti effetti di ""Città Oscura Prigione della Torre dell'Orologio"" una sola volta per turno.
@@ -623,6 +686,11 @@ Se questa carta è nel tuo Cimitero: Puoi mettere 1 carta dalla tua mano in cima
 Puoi utilizzare ciascun effetto di ""Compagni Irremovibilatore"" una sola volta per turno."
 101306063,Compagni Irremovibilatore,str1,Effetto di aggiunta alla mano
 101306063,Compagni Irremovibilatore,str2,Rimettere in mano
+101306066,Blitzclique - Sovratensione,name,Blitzclique - Sovratensione
+101306066,Blitzclique - Sovratensione,desc,"Scegli come bersaglio 1 carta scoperta sul Terreno; distruggila, inoltre, per il resto di questo turno, non puoi Evocare Specialmente Mostri Effetto, eccetto dalla mano.
+Se una o più carte vengono distrutte dall'effetto di una tua carta ""Blitzclique"", mentre questa carta è nel tuo Cimitero (eccetto durante il Damage Step): puoi aggiungere questa carta alla tua mano. Puoi utilizzare questo effetto di ""Blitzclique - Sovratensione"" una sola volta per turno."
+101306066,Blitzclique - Sovratensione,str1,Attiva
+101306066,Blitzclique - Sovratensione,str2,Recuperare
 101306067,Invokazione - Calice,name,Invokazione - Calice
 101306067,Invokazione - Calice,desc,"Se hai un mostro ""Aleister"" sul tuo Terreno, nel tuo Cimitero o tra le tue carte bandite: attiva 1 di questi effetti;
 
@@ -690,6 +758,14 @@ Puoi utilizzare solo 1 effetto di ""Maelstrom di Dedalo"" per turno, e solo una 
 101306076,Maelstrom di Dedalo,str1,Annullare l'Evocazione
 101306076,Maelstrom di Dedalo,str2,Mandare al Cimitero
 101306076,Maelstrom di Dedalo,str3,Distruggere quel mostro?
+101306077,Ars Magna - Philosophirum,name,Ars Magna - Philosophirum
+101306077,Ars Magna - Philosophirum,desc,"Scegli come bersaglio fino a 3 mostri ""Ars Magna"" nel tuo Terreno e/o Cimitero; bandiscili, poi puoi annullare gli effetti di un numero di carte scoperte sul Terreno pari o inferiore al numero di quei mostri, fino alla fine di questo turno.
+Puoi bandire questa carta dal tuo Cimitero; mischia 1 Mostro Link ""Patrono Potente"" dal tuo Cimitero nell'Extra Deck, poi puoi Evocarlo Specialmente.
+Puoi utilizzare solo 1 effetto di ""Ars Magna - Philosophirum"" per turno, e solo una volta in quel turno."
+101306077,Ars Magna - Philosophirum,str1,Effetto di bandire
+101306077,Ars Magna - Philosophirum,str2,Rimettere nell'Extra Deck
+101306077,Ars Magna - Philosophirum,str3,Annullare gli effetti della carta?
+101306077,Ars Magna - Philosophirum,str4,Evocazione Speciale?
 101306078,Ritorsione della Carta Maledetta,name,Ritorsione della Carta Maledetta
 101306078,Ritorsione della Carta Maledetta,desc,"Scegli come bersaglio 1 mostro che controlli e 1 carta scoperta controllata dal tuo avversario; distruggi il tuo mostro e, se lo fai, annulla gli effetti di quella carta del tuo avversario fino alla fine di questo turno.
 Se questa Carta Posizionata viene mandata al Cimitero: puoi scegliere come bersaglio 1 carta scoperta controllata dal tuo avversario; annulla i suoi effetti.
