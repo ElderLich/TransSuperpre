@@ -19,6 +19,17 @@ Si activaste ""Reencarnación del Armamento"" este turno: puedes añadir esta ca
 Sólo puedes usar cada uno de los efectos de ""Conexión de Poder"" una vez por turno."
 100200294,Conexión de Poder,str1,Activar
 100200294,Conexión de Poder,str2,Recuperar
+100200295,邪恶的魔王-佐克,name,邪恶的魔王-佐克
+100200295,邪恶的魔王-佐克,desc,"这个卡名的①②③的效果1回合各能使用1次。
+①：把包含这张卡的2张手卡丢弃才能发动。从卡组把1只8星的恶魔族怪兽加入手卡。
+②：自己的恶魔族怪兽被战斗破坏时才能发动。这张卡从墓地特殊召唤。
+③：自己主要阶段才能发动。掷1次骰子，出现的数目的以下效果适用。
+●1~4：选对方场上1只怪兽得到控制权或破坏。
+●5·6：自己场上1张卡破坏。"
+100200295,邪恶的魔王-佐克,str1,Efecto de añadir a la mano
+100200295,邪恶的魔王-佐克,str2,Invocación Especial
+100200295,邪恶的魔王-佐克,str3,Efecto de dado
+100200295,邪恶的魔王-佐克,str4,¿Tomar el control?
 100260001,Sombrero de la Compañía de Payasos,name,Sombrero de la Compañía de Payasos
 100260001,Sombrero de la Compañía de Payasos,desc,"←◊7 Escala 7◊→
 【Efecto de Péndulo】
@@ -483,6 +494,17 @@ Sólo puedes Invocar de Modo Especial ""HÉROE del Destino – Dreadnought"" una
 Si esta carta es Invocada de Modo Especial: puedes añadir a tu mano 2 monstruos ""HÉROE del Destino"" y/o cartas que mencionen el nombre de un monstruo ""HÉROE del Destino"" desde tu Deck. 
 El ATK de esta carta se convierte en el ATK original total de todos los demás monstruos ""HÉROE del Destino"" en tu Campo y Cementerio."
 101306037,HÉROE del Destino – Dreadnought,str1,Añadir a la mano
+101306038,召唤兽 黑曜岩灵,name,召唤兽 黑曜岩灵
+101306038,召唤兽 黑曜岩灵,desc,"「阿莱斯特」怪兽＋从额外卡组特殊召唤的怪兽
+这个卡名的①②的效果1回合各能使用1次。
+①：这张卡特殊召唤的场合，可以从以下效果选择1个发动。
+●从额外卡组特殊召唤的对方场上的怪兽全部破坏。
+●对方场上的魔法·陷阱卡全部破坏。
+②：对方把墓地的卡的效果发动时，把场上的这张卡除外才能发动。从卡组把1只「阿莱斯特」怪兽特殊召唤，那个发动的效果无效。"
+101306038,召唤兽 黑曜岩灵,str1,Elegir un efecto
+101306038,召唤兽 黑曜岩灵,str2,Invocar de Modo Especial y negar
+101306038,召唤兽 黑曜岩灵,str3,Destruye un monstruo
+101306038,召唤兽 黑曜岩灵,str4,Destruir Magia/Trampa
 101306039,Asutraja Susanoo,name,Asutraja Susanoo
 101306039,Asutraja Susanoo,desc,"1 Cantante + 1+ monstruos que no sean Cantantes	
 Si esta carta es Invocada por Sincronía: puedes desterrar cualquier número de Trampas en tu Cementerio; destierra la misma cantidad de cartas en el Campo. 
@@ -615,6 +637,14 @@ Si esta carta está en tu Cementerio: puedes colocar 1 carta de tu mano en la pa
 Sólo puedes usar cada uno de los efectos de ""Compañero Adamancipador"" una vez por turno."
 101306063,Compañero Adamancipador,str1,Efecto de añadir a la mano
 101306063,Compañero Adamancipador,str2,Devolver a la mano
+101306067,召唤魔术-「杯」,name,召唤魔术-「杯」
+101306067,召唤魔术-「杯」,desc,"这个卡名的卡在1回合只能发动1张。
+①：自己的场上·墓地·除外状态有「阿莱斯特」怪兽存在的场合，可以从以下效果选择1个发动。
+●自己的手卡·场上的1只怪兽和自己卡组的1只怪兽作为融合素材除外，把1只「召唤兽」融合怪兽融合召唤。
+●自己场上的1只怪兽和对方场上的1只表侧表示怪兽作为融合素材除外，把1只「召唤兽」融合怪兽融合召唤。"
+101306067,召唤魔术-「杯」,str1,Activar
+101306067,召唤魔术-「杯」,str2,"Invocar por Fusión usando la mano, el Campo y el Deck"
+101306067,召唤魔术-「杯」,str3,Invocar por Fusión usando monstruos en ambos Campos
 101306068,Trunada Espacial,name,Trunada Espacial
 101306068,Trunada Espacial,desc,"Devuelve a la mano hasta 2 cartas en el Campo, y después cada jugador que haya tenido una carta devuelta a la mano de esta forma coloca esa misma cantidad de cartas de su mano en el fondo del Deck en cualquier orden. 
 Sólo puedes activar 1 ""Trunada Espacial"" por turno."
@@ -623,8 +653,8 @@ Sólo puedes activar 1 ""Trunada Espacial"" por turno."
 101306069,Logro de Poder Mágico,desc,"Añade a tu mano 1 carta que mencione Contadores Mágicos desde tu Deck o Cementerio, excepto ""Logro de Poder Mágico"", y después si controlas una Carta de Monstruo ""Endimión"" de Nivel 7 o mayor, puedes retirar cualquier número de Contadores Mágicos de tu Campo y, si lo haces, niega los efectos de esa misma cantidad de cartas boca arriba que controle tu adversario y, si haces eso, destrúyelas. 
 Sólo puedes activar 1 ""Logro de Poder Mágico"" por turno."
 101306069,Logro de Poder Mágico,str1,Activar
-101306069,Logro de Poder Mágico,str2,¿Retirar Contadores Mágicos?
-101306069,Logro de Poder Mágico,str3,Selecciona la cantidad de Contadores Mágicos a retirar
+101306069,Logro de Poder Mágico,str2,¿Retirar contadores?
+101306069,Logro de Poder Mágico,str3,Selecciona la cantidad de contadores a retirar
 101306070,Ladrón de Tumbas Insensato,name,Ladrón de Tumbas Insensato
 101306070,Ladrón de Tumbas Insensato,desc,"Manda al Cementerio 1 carta que mencione ""Mago del Tiempo Oscuro"" (excepto ""Ladrón de Tumbas Insensato"") desde tu Deck, y después puedes Invocar de Modo Especial 1 monstruo de cualquier Cementerio a tu Campo. 
 Puedes desterrar esta carta en tu Cementerio; Coloca 1 de estas cartas en tu Campo:
