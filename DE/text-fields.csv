@@ -19,6 +19,17 @@ Falls du „Kraftverbindung“ in diesen Spielzug aktiviert hast: Du kannst dies
 Du kannst jeden Effekt von „Kraftverbindung“ nur einmal pro Spielzug verwenden."
 100200294,Kraftverbindung,str1,Aktivieren
 100200294,Kraftverbindung,str2,Zurückholen
+100200295,邪恶的魔王-佐克,name,邪恶的魔王-佐克
+100200295,邪恶的魔王-佐克,desc,"这个卡名的①②③的效果1回合各能使用1次。
+①：把包含这张卡的2张手卡丢弃才能发动。从卡组把1只8星的恶魔族怪兽加入手卡。
+②：自己的恶魔族怪兽被战斗破坏时才能发动。这张卡从墓地特殊召唤。
+③：自己主要阶段才能发动。掷1次骰子，出现的数目的以下效果适用。
+●1~4：选对方场上1只怪兽得到控制权或破坏。
+●5·6：自己场上1张卡破坏。"
+100200295,邪恶的魔王-佐克,str1,Sucheffekt
+100200295,邪恶的魔王-佐克,str2,Als Spezialbeschwörung beschwören
+100200295,邪恶的魔王-佐克,str3,Würfeleffekt
+100200295,邪恶的魔王-佐克,str4,Kontrolle übernehmen?
 100260001,Clowntrupp Hut,name,Clowntrupp Hut
 100260001,Clowntrupp Hut,desc,"Pendelbereich = 7
 [ Pendeleffekt ]
@@ -476,6 +487,17 @@ Du kannst „Schicksals-HELD - Dreadnought“ nur einmal pro Spielzug auf diese 
 Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst deiner Hand 2 „Schicksals-HELD“-Monster und/oder Karten, die den Kartennamen eines „Schicksals-HELD“-Monsters in ihrem Text erwähnen, von deinem Deck hinzufügen.
 Die ATK dieser Karte werden gleich der Summe der Grund-ATK aller anderen „Schicksals-HELD“-Monster auf deiner Spielfeldseite und in deinem Friedhof."
 101306037,Schicksals-HELD - Dreadnought,str1,Der Hand hinzufügen
+101306038,召唤兽 黑曜岩灵,name,召唤兽 黑曜岩灵
+101306038,召唤兽 黑曜岩灵,desc,"「阿莱斯特」怪兽＋从额外卡组特殊召唤的怪兽
+这个卡名的①②的效果1回合各能使用1次。
+①：这张卡特殊召唤的场合，可以从以下效果选择1个发动。
+●从额外卡组特殊召唤的对方场上的怪兽全部破坏。
+●对方场上的魔法·陷阱卡全部破坏。
+②：对方把墓地的卡的效果发动时，把场上的这张卡除外才能发动。从卡组把1只「阿莱斯特」怪兽特殊召唤，那个发动的效果无效。"
+101306038,召唤兽 黑曜岩灵,str1,Wähle einen Effekt
+101306038,召唤兽 黑曜岩灵,str2,Als Spezialbeschwörung beschwören und annullieren
+101306038,召唤兽 黑曜岩灵,str3,Zerstöre ein Monster
+101306038,召唤兽 黑曜岩灵,str4,Zauber/Falle zerstören
 101306039,鬼神 朱沙之王,name,鬼神 朱沙之王
 101306039,鬼神 朱沙之王,desc,"调整＋调整以外的怪兽1只以上
 这个卡名的①②的效果1回合各能使用1次。
@@ -608,6 +630,14 @@ Falls diese Karte zerstört wird: Du kannst 1 „Schicksals-HELD“-Monster als 
 ②：这张卡在墓地存在的场合，让1张手卡回到卡组上面才能发动。这张卡加入手卡。"
 101306063,魔救之合缘,str1,Sucheffekt
 101306063,魔救之合缘,str2,Auf die Hand zurückgeben
+101306067,召唤魔术-「杯」,name,召唤魔术-「杯」
+101306067,召唤魔术-「杯」,desc,"这个卡名的卡在1回合只能发动1张。
+①：自己的场上·墓地·除外状态有「阿莱斯特」怪兽存在的场合，可以从以下效果选择1个发动。
+●自己的手卡·场上的1只怪兽和自己卡组的1只怪兽作为融合素材除外，把1只「召唤兽」融合怪兽融合召唤。
+●自己场上的1只怪兽和对方场上的1只表侧表示怪兽作为融合素材除外，把1只「召唤兽」融合怪兽融合召唤。"
+101306067,召唤魔术-「杯」,str1,Aktivieren
+101306067,召唤魔术-「杯」,str2,"Fusionsbeschwörung mit Hand, Spielfeld und Deck durchführen"
+101306067,召唤魔术-「杯」,str3,Fusionsbeschwörung mit Monstern auf beiden Spielfeldseiten durchführen
 101306068,宇宙性飓风,name,宇宙性飓风
 101306068,宇宙性飓风,desc,"这个卡名的卡在1回合只能发动1张。
 ①：场上最多2张卡回到手卡。那之后，双方各自，选回到自身手卡数量的自身手卡用喜欢的顺序回到卡组下面。"
@@ -617,8 +647,8 @@ Falls diese Karte zerstört wird: Du kannst 1 „Schicksals-HELD“-Monster als 
 ①：从自己的卡组·墓地把除「魔力到达」外的，效果文本有魔力指示物记述的1张卡加入手卡。自己场上有7星以上的「恩底弥翁」怪兽卡存在的场合，可以再把以下效果适用。
 ●自己场上的魔力指示物任意数量取除，把那个数量的对方场上的表侧表示卡效果无效并破坏。"
 101306069,魔力到达,str1,Aktivieren
-101306069,魔力到达,str2,Magiezählmarken entfernen?
-101306069,魔力到达,str3,Wähle die Anzahl der zu entfernenden Magiezählmarken
+101306069,魔力到达,str2,Zählmarken entfernen?
+101306069,魔力到达,str3,Wähle die Anzahl der zu entfernenden Zählmarken
 101306070,Törichter Grabräuber,name,Törichter Grabräuber
 101306070,Törichter Grabräuber,desc,"Lege 1 Karte, die „Dunkler Zeitzauberer“ erwähnt, von deinem Deck auf den Friedhof, außer „Törichter Grabräuber“, dann kannst du 1 Monster als Spezialbeschwörung von einem beliebigen Friedhof auf deine Spielfeldseite beschwören.
 Du kannst diese Karte von deinem Friedhof verbannen; setze auf deine Spielfeldseite, 1 Zauber/Falle, der oder die „Dunkler Zeitzauberer“ erwähnt, von deinem Friedhof, außer „Törichter Grabräuber“, oder 1 Zauber/Falle vom Friedhof deines Gegners.
