@@ -381,6 +381,42 @@ Du kannst jeden Effekt von „Fischer, Legende des Meeres“ nur einmal pro Spie
 ③：这张卡被送去墓地的场合，若自己场上有「海」存在则能发动。从手卡把1只水属性怪兽特殊召唤。"
 101306016,亚特兰蒂斯的妖涡,str1,Auf den Friedhof legen
 101306016,亚特兰蒂斯的妖涡,str2,Als Spezialbeschwörung beschwören
+101306017,预幻使 米底乌斯,name,预幻使 米底乌斯
+101306017,预幻使 米底乌斯,desc,"这个卡名在规则上也当作「狱神」卡使用。这个卡名的①②的效果1回合各能使用1次。
+①：场上有「狱神」卡存在的场合才能发动。这张卡从手卡特殊召唤。那之后，可以从卡组把1张「预幻」魔法·陷阱卡加入手卡。
+②：怪兽以表侧被除外的场合，可以从以下效果选择1个发动。
+●从卡组把1张「无垢艺术」卡加入手卡。
+●这张卡除外，从额外卡组把1只「底亚克托罗斯」怪兽特殊召唤。"
+101306017,预幻使 米底乌斯,str1,Als Spezialbeschwörung beschwören
+101306017,预幻使 米底乌斯,str2,Wähle einen Effekt
+101306017,预幻使 米底乌斯,str3,Der Hand hinzufügen?
+101306017,预幻使 米底乌斯,str4,Sucheffekt
+101306017,预幻使 米底乌斯,str5,Als Spezialbeschwörung beschwören
+101306018,无限与有限的无垢艺术,name,无限与有限的无垢艺术
+101306018,无限与有限的无垢艺术,desc,"这个卡名的①②③的效果1回合各能使用1次。
+①：把这张卡从手卡除外才能发动。从卡组把战士族以外的1只「无垢艺术」怪兽加入手卡。这个回合中，自己场上的「狱神」连接怪兽的原本攻击力变成3倍。
+②：这张卡是除外状态，融合·连接怪兽特殊召唤的场合才能发动。这张卡特殊召唤。
+③：自己场上有「狱神」连接怪兽存在的场合，以场上1只怪兽为对象才能发动。那只怪兽除外。"
+101306018,无限与有限的无垢艺术,str1,Sucheffekt
+101306018,无限与有限的无垢艺术,str2,Als Spezialbeschwörung beschwören
+101306018,无限与有限的无垢艺术,str3,Verbannungseffekt
+101306019,净化与腐败的无垢艺术,name,净化与腐败的无垢艺术
+101306019,净化与腐败的无垢艺术,desc,"这个卡名的①②③的效果1回合各能使用1次。
+①：把这张卡从手卡除外才能发动。从卡组把1张「无垢艺术」魔法·陷阱卡加入手卡。直到下个回合的结束时，自己的「狱神」连接怪兽各自在1回合最多3次不会被战斗破坏。
+②：这张卡是除外状态，超量·连接怪兽特殊召唤的场合才能发动。这张卡特殊召唤。
+③：以最多有自己场上的「狱神」连接怪兽数量的，场上的魔法·陷阱卡为对象才能发动。那些卡除外。"
+101306019,净化与腐败的无垢艺术,str1,Sucheffekt
+101306019,净化与腐败的无垢艺术,str2,Als Spezialbeschwörung beschwören
+101306019,净化与腐败的无垢艺术,str3,Verbannungseffekt
+101306019,净化与腐败的无垢艺术,str4,Der Effekt von {CARD} wird derzeit angewendet.
+101306020,结合与乖离的无垢艺术,name,结合与乖离的无垢艺术
+101306020,结合与乖离的无垢艺术,desc,"这个卡名的①②③的效果1回合各能使用1次。
+①：把这张卡从手卡除外才能发动。从自己的墓地·除外状态把魔法师族以外的1只「无垢艺术」怪兽特殊召唤。这个回合中，自己的「狱神」连接怪兽在同1次的战斗阶段中最多3次可以向怪兽攻击。
+②：这张卡是除外状态，同调·连接怪兽特殊召唤的场合才能发动。这张卡特殊召唤。
+③：从自己墓地把1张「无垢艺术」卡除外才能发动。自己抽1张。"
+101306020,结合与乖离的无垢艺术,str1,Als Spezialbeschwörung beschwören
+101306020,结合与乖离的无垢艺术,str2,Als Spezialbeschwörung beschwören
+101306020,结合与乖离的无垢艺术,str3,Ziehen
 101306021,Schicksals-HELD - Death Dogma,name,Schicksals-HELD - Death Dogma
 101306021,Schicksals-HELD - Death Dogma,desc,"Kann nicht als Normalbeschwörung beschworen/gesetzt werden.
 Muss als Spezialbeschwörung (von deiner Hand oder deinem Friedhof) beschworen werden, indem du 3 Krieger- und/oder FINSTERNIS Monster von deinem Friedhof verbannst.
@@ -546,6 +582,14 @@ Die ATK dieser Karte werden gleich der Summe der Grund-ATK aller anderen „Schi
 101306047,真海龙骑-泰达路斯,str1,Als Link-2 für eine Linkbeschwörung anwenden (真海龙骑-泰达路斯)
 101306047,真海龙骑-泰达路斯,str2,Als Spezialbeschwörung beschwören
 101306047,真海龙骑-泰达路斯,str3,Dein Gegner wirft ab und zieht
+101306048,幻狱神 米底丘利,name,幻狱神 米底丘利
+101306048,幻狱神 米底丘利,desc,"包含融合·同调·超量·连接怪兽的怪兽2只以上
+①：根据这张卡所连接区的怪兽数量，这张卡得到以下效果。
+●1只以上：1回合1次，自己主要阶段才能发动。对方场上的全部表侧表示怪兽的效果无效化，那些攻击力直到回合结束时变成一半。
+●2只以上：这张卡不受对方发动的效果影响。
+●3只：对方回合1次，可以发动。这张卡以及对方场上的卡全部除外。"
+101306048,幻狱神 米底丘利,str1,Effekt annullieren
+101306048,幻狱神 米底丘利,str2,Verbannungseffekt
 101306049,魔救之辉迹,name,魔救之辉迹
 101306049,魔救之辉迹,desc,"包含同调怪兽的效果怪兽2只
 这个卡名的①②的效果1回合各能使用1次。
@@ -616,6 +660,12 @@ Falls eine oder mehr Karten, die „Dunkler Zeitzauberer“ erwähnen, die du ko
 ③：这张卡被送去墓地的场合才能发动。从卡组把1只海龙族·7星怪兽加入手卡。"
 101306060,显现的传说之都,str1,Platzierungseffekt
 101306060,显现的传说之都,str2,Sucheffekt
+101306061,无垢艺术-「黄昏之变幻」,name,无垢艺术-「黄昏之变幻」
+101306061,无垢艺术-「黄昏之变幻」,desc,"这个卡名在规则上也当作「神艺」、「终刻」、「耀圣」卡使用。这个卡名的②的效果1回合只能使用1次。
+①：只要自己场上有「狱神」连接怪兽存在，原本卡名包含「无垢艺术」的，自己场上的怪兽发动的效果，变成在对方回合也能发动的效果。
+②：只在这张卡以表侧表示存在才有1次，自己主要阶段才能发动。从卡组把1只「米底乌斯」怪兽或「无垢艺术」怪兽加入手卡。"
+101306061,无垢艺术-「黄昏之变幻」,str2,Sucheffekt
+101306061,无垢艺术-「黄昏之变幻」,str3,Effekt bereits aktiviert
 101306062,Gefängnisuhrturm Stadt - Finstere Stadt,name,Gefängnisuhrturm Stadt - Finstere Stadt
 101306062,Gefängnisuhrturm Stadt - Finstere Stadt,desc,"Jedes Mal, wenn du ein oder mehr „Schicksals-HELD“-Monster der Stufe 8 oder höher als Spezialbeschwörung beschwörst: Alle Krieger-Monster, die du derzeit kontrollierst, erhalten 300 ATK.
 Du kannst jeden der folgenden Effekte von „Gefängnisuhrturm Stadt - Finstere Stadt“ nur einmal pro Spielzug verwenden.
@@ -630,6 +680,12 @@ Falls diese Karte zerstört wird: Du kannst 1 „Schicksals-HELD“-Monster als 
 ②：这张卡在墓地存在的场合，让1张手卡回到卡组上面才能发动。这张卡加入手卡。"
 101306063,魔救之合缘,str1,Sucheffekt
 101306063,魔救之合缘,str2,Auf die Hand zurückgeben
+101306066,雷盟-过电压,name,雷盟-过电压
+101306066,雷盟-过电压,desc,"这个卡名的②的效果1回合只能使用1次。
+①：以场上1张表侧表示卡为对象才能发动。那张卡破坏。这个回合，自己不是从手卡中不能把效果怪兽特殊召唤。
+②：这张卡在墓地存在的状态，自己的「雷盟」卡的效果把卡破坏的场合才能发动。这张卡加入手卡。"
+101306066,雷盟-过电压,str1,Aktivieren
+101306066,雷盟-过电压,str2,Zurückholen
 101306067,召唤魔术-「杯」,name,召唤魔术-「杯」
 101306067,召唤魔术-「杯」,desc,"这个卡名的卡在1回合只能发动1张。
 ①：自己的场上·墓地·除外状态有「阿莱斯特」怪兽存在的场合，可以从以下效果选择1个发动。
@@ -697,6 +753,14 @@ Falls du richtig vorausgesagt hast, du kannst 1 Monster, das „Dunkler Zeitzaub
 101306076,海龙神的大涡,str1,Beschwörung annullieren
 101306076,海龙神的大涡,str2,Auf den Friedhof legen
 101306076,海龙神的大涡,str3,Dieses Monster zerstören?
+101306077,无垢艺术-「幻创之贤者」,name,无垢艺术-「幻创之贤者」
+101306077,无垢艺术-「幻创之贤者」,desc,"这个卡名的①②的效果1回合只能有1次使用其中任意1个。
+①：以自己场上·墓地的最多3只「无垢艺术」怪兽为对象才能发动。那些怪兽除外。那之后，可以把最多有那个数量的场上的其他表侧表示卡的效果直到回合结束时无效。
+②：把墓地的这张卡除外才能发动。从自己墓地让1只「狱神」连接怪兽回到额外卡组。那之后，可以把那只怪兽特殊召唤。"
+101306077,无垢艺术-「幻创之贤者」,str1,Verbannungseffekt
+101306077,无垢艺术-「幻创之贤者」,str2,Ins Extra Deck zurücklegen
+101306077,无垢艺术-「幻创之贤者」,str3,Die Effekte der Karte annullieren?
+101306077,无垢艺术-「幻创之贤者」,str4,Als Spezialbeschwörung beschwören?
 101306078,祟纸神的报应,name,祟纸神的报应
 101306078,祟纸神的报应,desc,"这个卡名的①②的效果1回合各能使用1次。
 ①：以自己场上1只怪兽和对方场上1张表侧表示卡为对象才能发动。那只自己怪兽破坏，那张对方的卡直到回合结束时无效。

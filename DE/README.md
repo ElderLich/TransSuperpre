@@ -2,7 +2,7 @@
 
 Generated from `DE/Workspace/test-release.cdb` so database updates can be reviewed as text diffs.
 
-Cards: `102`
+Cards: `110`
 
 ## Contents
 
@@ -12,4 +12,4 @@ Cards: `102`
 - `datas.csv`: raw CDB `datas` table.
 - `cards/<id>.json`: combined card data and text record.
 
-CDB SHA-256: `2537ad148fc3b5a9baccbb63b8daa3ad0b810cec3b34a5b7266fe8c7aacbe308`
+CDB SHA-256: `c39db6fc9500b352fd9f968d75261e5c1902492ed31596686e39c1fdce0ecc6b`
