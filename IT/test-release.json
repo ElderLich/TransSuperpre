@@ -1,7 +1,91 @@
 [
   {
-    "name": "三幻魔的天坏",
-    "desc": "这个卡名的卡在1回合只能发动1张。\r\n①：可以从以下效果选择1个发动。\r\n●连锁自己的「三幻魔」怪兽的效果的发动，对方把效果发动时才能发动。那个对方的效果无效。\r\n●把手卡1只10星「三幻魔」怪兽给对方出示才能发动。选自己1张手卡丢弃，从卡组把1张「幻魔之扉」加入手卡。\r\n●让自己墓地·除外状态的3张「三幻魔」陷阱卡回到卡组，以对方场上1张卡为对象才能发动。那张卡破坏。",
+    "name": "Ekhajar, Drago Discendente della Barriera di Ghiaccio",
+    "desc": "1 Tuner + 1+ non-Tuner\n\n\r\nSe questa carta viene Synchro Evocata: puoi scartare 1 carta; bandisci 2 carte dal Terreno e/o Cimitero del tuo avversario.\r\nSe il tuo avversario Evoca Specialmente uno o più mostri: puoi bandire 1 carta dalla tua mano; fai ritornare 1 carta sul Terreno o in uno dei Cimiteri alla mano.\r\nSe questa carta Synchro Evocata viene mandata al Cimitero durante il turno del tuo avversario: puoi bandire 1 carta dalla mano del tuo avversario (a caso), Terreno o Cimitero.\r\nPuoi utilizzare ogni effetto di \"Ekhajar, Drago Discendente della Barriera di Ghiaccio\" una sola volta per turno.",
+    "overallString": "[Mostro|Effetto|Synchro] Drago/Acqua  [★9] 3000/1000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100266005.jpg?version=19.7"
+  },
+  {
+    "name": "Orrore Umbral Splendente",
+    "desc": "Se Evochi Normalmente o Specialmente uno o più mostri \"Orrore Umbral\" e/o uno o più Mostri Xyz \"Masquerade\": puoi Evocare Specialmente questa carta dalla tua mano e, se lo fai, pesca 1 carta, poi, se hai pescato un mostro \"Orrore Umbral\", puoi Evocarlo Specialmente.\r\nPuò essere considerata come 2 materiali per l'Evocazione Xyz di un Mostro Xyz \"Numero\" che richiede 3 o più materiali.\r\nPuoi utilizzare ogni effetto di \"Orrore Umbral Splendente\" una sola volta per turno.",
+    "overallString": "[Mostro|Effetto] Demone/Luce  [★4] 0/2000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306005.jpg?version=19.7"
+  },
+  {
+    "name": "V Orrore Umbral",
+    "desc": "Se questa carta viene Evocata Normalmente o Specialmente: puoi aggiungere 1 mostro \"Orrore Umbral\" dal tuo Deck alla tua mano, eccetto \"V Orrore Umbral\".\r\nPuoi bandire questa carta dal tuo Cimitero, poi scegliere come bersaglio 1 Mostro Xyz \"Masquerade\" che controlli; Evoca Specialmente dal tuo Extra Deck 1 mostro \"Numero\" con un Rango superiore di 1 rispetto a quel mostro, utilizzandolo come materiale (questa viene considerata come un'Evocazione Xyz; trasferisci i suoi materiali).\r\nPuoi utilizzare ogni effetto di \"V Orrore Umbral\" una sola volta per turno.",
+    "overallString": "[Mostro|Effetto] Incantatore/Oscurità  [★4] 500/1500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306006.jpg?version=19.7"
+  },
+  {
+    "name": "Orrore Umbral Gorgonico",
+    "desc": "Non puoi Evocare Specialmente dall'Extra Deck, eccetto Mostri Xyz \"Numero\".\r\nPuoi utilizzare ognuno dei seguenti effetti di \"Orrore Umbral Gorgonico\" una sola volta per turno.\r\nSe non controlli alcun mostro, o se tutti i mostri che controlli sono mostri \"Orrore Umbral\": puoi Evocare Specialmente questa carta dalla tua mano e, se lo fai, aggiungi 1 mostro \"Orrore Umbral\" non-Roccia dal tuo Deck alla tua mano.\r\nPuò essere considerata come 2 materiali per l'Evocazione Xyz di un Mostro Xyz \"Numero\" che richiede 3 o più materiali.",
+    "overallString": "[Mostro|Effetto] Roccia/Oscurità  [★4] 1200/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306007.jpg?version=19.7"
+  },
+  {
+    "name": "Orrore Umbral Thousand",
+    "desc": "(Effetto Rapido): puoi mandare questa carta dalla tua mano o Terreno al Cimitero; metti 1 \"Settimo del Barian\" dalla tua mano o Deck scoperto nella tua Zona Terreno, inoltre non puoi Evocare Specialmente dall'Extra Deck fino alla fine del tuo prossimo turno, eccetto Mostri Xyz.\r\nSe uno o più Mostri Xyz vengono Evocati Specialmente mentre questa carta è nel tuo Cimitero: puoi Evocare Specialmente questa carta, inoltre non subisci danni da effetto degli effetti delle tue carte per il resto di questo turno.\r\nPuoi utilizzare ogni effetto di \"Orrore Umbral Thousand\" una sola volta per turno.",
+    "overallString": "[Mostro|Effetto] Demone/Oscurità  [★4] 0/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306008.jpg?version=19.7"
+  },
+  {
+    "name": "Numero 104: Masquerade Vano",
+    "desc": "3 mostri di Livello 4\n\n\r\nUna volta per turno: puoi staccare 1 materiale da questa carta; aggiungi 1 Magia/Trappola \"di Barian\" dal tuo Deck alla tua mano.\r\nUn mostro che è stato Evocato Xyz utilizzando questa carta sul Terreno come materiale guadagna il seguente effetto.\n\r\n● Se viene Evocato Xyz: attiva questo effetto; il tuo avversario può bandire 4 mostri con Attributi diversi e 1 Magia dal suo Deck. Se non lo fa, bandisci le prime 10 carte del suo Deck.\n\r\nPuoi utilizzare questo effetto di \"Numero 104: Masquerade Vano\" una sola volta per turno.",
+    "overallString": "[Mostro|Effetto|Xyz] Incantatore/Luce  [☆4] 2700/1200",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306042.jpg?version=19.7"
+  },
+  {
+    "name": "Numero C104: Orrore Umbral Masquerade Vittoria",
+    "desc": "4 mostri di Livello 5\r\n\n\nUna volta per turno (Effetto Rapido): puoi staccare 1 materiale da questa carta, poi scegliere come bersaglio 1 carta controllata dal tuo avversario; distruggila.\r\nSe questa carta combatte un mostro dell'avversario, durante il calcolo dei danni: l'ATK/DEF di questa carta diventano pari all'ATK o DEF (qualunque sia il valore più alto) di quel mostro dell'avversario +100, solo durante il calcolo dei danni.\r\nSe questa carta distrugge un mostro in battaglia: manda 1 carta casuale dalla mano del tuo avversario al Cimitero e, se lo fai, dimezza gli LP del tuo avversario.",
+    "overallString": "[Mostro|Effetto|Xyz] Incantatore/Oscurità  [☆5] 3000/1500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306043.jpg?version=19.7"
+  },
+  {
+    "name": "Cxyz Drago della Speranza Barian del Chaos",
+    "desc": "3+ mostri di Livello 7\r\nPuoi anche Evocare Xyz questa carta utilizzando 1 mostro \"Numero C\" che controlli con un numero compreso tra \"101\" e \"107\" nel suo nome (trasferisci i suoi materiali).\r\nGuadagna 1000 ATK per ogni materiale ad essa assegnato.\r\nFinché questa carta ha un mostro \"Numero C\" come materiale, il tuo avversario non può aggiungere carte dal Deck alla mano, eccetto pescandole.\r\nUna volta per turno: puoi staccare 1 materiale da questa carta; attacca come materiale a questa carta le prime 2 carte del Deck del tuo avversario.",
+    "overallString": "[Mostro|Effetto|Xyz] Drago/Oscurità  [☆7] 0/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306044.jpg?version=19.7"
+  },
+  {
+    "name": "Settimo di Barian",
+    "desc": "Ogni giocatore può Evocare Specialmente dall'Extra Deck mostri non-\"Numero\" solo due volte per turno mentre questa carta è scoperta sul Terreno.\r\nPuoi utilizzare ognuno dei seguenti effetti di \"Settimo di Barian\" una sola volta per turno.\r\nDurante la tua Main Phase: puoi aggiungere 1 mostro \"Orrore Umbral\" dal tuo Deck alla tua mano, poi scartare 1 carta.\r\nDurante la End Phase: ogni giocatore subisce 400 danni per ogni Mostro Xyz sul Terreno.",
+    "overallString": "[Magia|Terreno]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306055.jpg?version=19.7"
+  },
+  {
+    "name": "Speranza di Barian",
+    "desc": "Evoca Specialmente 1 mostro \"Orrore Umbral\" o Mostro Xyz \"Masquerade\" dalla tua mano o Cimitero, poi puoi rendere i Livelli di tutti i mostri \"Orrore Umbral\" che controlli uguali al Livello di 1 mostro \"Orrore Umbral\" sul tuo Terreno o nel tuo Cimitero.\r\nPuoi bandire questa carta dal tuo Cimitero, poi scegliere come bersaglio 1 Mostro Xyz che controlli; attacca come materiale a quel mostro 1 Mostro Xyz \"Numero\" dal tuo Extra Deck o Cimitero.\r\nPuoi utilizzare ogni effetto di \"Speranza di Barian\" una sola volta per turno.",
+    "overallString": "[Magia]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306056.jpg?version=19.7"
+  },
+  {
+    "name": "Sigillo di Barian",
+    "desc": "Quando il tuo avversario attiva una Carta Magia/Trappola, o l'effetto di un mostro, mentre controlli un mostro \"CXyz\" o un mostro \"Numero C\" con un numero compreso tra \"101\" e \"107\" nel suo nome: annulla l'attivazione, poi puoi attaccare come materiale a 1 Mostro Xyz che controlli 1 mostro dal Terreno o da uno dei Cimiteri.\r\nPuoi bandire questa carta dal tuo Cimitero; Evoca Specialmente 2 mostri \"Orrore Umbral\" dal tuo Cimitero.\r\nPuoi utilizzare solo 1 effetto di \"Sigillo di Barian\" per turno, e solo una volta in quel turno.",
+    "overallString": "[Trappola|Contro]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306072.jpg?version=19.7"
+  },
+  {
+    "name": "Saga Elementale Doriado",
+    "desc": "Nessun giocatore può attivare carte o effetti in risposta all'attivazione degli effetti di questa carta.\r\nSe hai 3 o più Attributi diversi nel tuo Cimitero e questa carta è nella tua mano: puoi scegliere come bersaglio 1 mostro nel tuo Cimitero; Evoca Specialmente sia quel mostro che questa carta.\r\nSe hai 3 o più Attributi diversi nel tuo Cimitero: puoi Evocare Specialmente 1 mostro dal tuo Deck con un Attributo diverso da quelli dei mostri sul tuo Terreno e nel tuo Cimitero.\r\nPuoi utilizzare ogni effetto di \"Saga Elementale Doriado\" una sola volta per turno.",
+    "overallString": "[Mostro|Effetto] Incantatore/Luce  [★7] 2400/2800",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306028.jpg?version=19.7"
+  },
+  {
+    "name": "Drago Teschio Nero il Drago Arcidemone dell'Unità",
+    "desc": "Non può essere Evocato Normalmente/Piazzato. Deve essere prima Evocato Specialmente tramite il suo stesso effetto.\r\n(Effetto Rapido): puoi scartare 1 Magia Rapida o Magia Rituale; Evoca Specialmente questa carta dalla tua mano in Posizione di Difesa. Puoi utilizzare questo effetto di \"Drago Teschio Nero il Drago Arcidemone dell'Unità\" una sola volta per turno.\r\nSe questa carta viene Evocata Specialmente: puoi Posizionare 1 Magia/Trappola che menziona \"Rituale di Luce e Oscurità\" dal tuo Deck o Cimitero.\r\nAll'inizio della Battle Phase: puoi fare perdere 800 LP al tuo avversario e, se lo fai, questa carta guadagna 800 ATK.",
+    "overallString": "[Mostro|Effetto|Evocazione Speciale] Drago/Oscurità  [★9] 3200/2500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306026.jpg?version=19.7"
+  },
+  {
+    "name": "Spada Frantuma-Magia",
+    "desc": "Attiva 1 di questi effetti.\n\r\n● Distruggi tutte le Magie scoperte controllate dal tuo avversario.\n\r\n● Scegli come bersaglio 1 mostro scoperto controllato dal tuo avversario; mostra 1 \"Rituale di Luce e Oscurità\" dalla tua mano o Cimitero, poi l'ATK di quel mostro diventa 0, inoltre annulla i suoi effetti.\r\n\nSe questa carta in possesso del suo proprietario viene distrutta da una carta del tuo avversario: puoi distruggere 1 carta nella mano del tuo avversario (a caso) o sul suo Terreno.\r\nPuoi attivare solo 1 \"Spada Frantuma-Magia\" per turno.",
+    "overallString": "[Magia|Rapida]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306064.jpg?version=19.7"
+  },
+  {
+    "name": "Frantumatore Splendente delle Bestie Sacre",
+    "desc": "Attiva 1 di questi effetti.\n\r\n● Quando il tuo avversario attiva una carta o effetto in risposta all'attivazione dell'effetto di un tuo mostro \"Bestia Sacra\": Annulla quell'effetto del tuo avversario.\n\r\n● Rivela 1 mostro \"Bestia Sacra\" di Livello 10 nella tua mano; scarta 1 carta e, se lo fai, aggiungi 1 \"Cancello Illusione\" dal tuo Deck alla tua mano.\n\r\n● Mischia 3 Trappole \"Bestia Sacra\" dal tuo Cimitero e/o carte bandite nel Deck, poi scegli come bersaglio 1 carta controllata dal tuo avversario; distruggila.\r\n\nPuoi attivare solo 1 \"Frantumatore Splendente delle Bestie Sacre\" per turno.",
     "overallString": "[Magia|Rapida]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306065.jpg?version=19.7"
   },
