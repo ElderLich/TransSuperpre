@@ -12,17 +12,15 @@ id,name,field,value
 100200294,Power Connection,desc,"Target any number of face-up monsters you control (if you target 2 or more monsters, they must have the same Type); they gain 500 ATK for each monster targeted, until the end of this turn. If you activated ""Armament Reincarnation"" this turn: You can add this card from your GY to your hand. You can only use each effect of ""Power Connection"" once per turn."
 100200294,Power Connection,str1,Activate
 100200294,Power Connection,str2,Recycle
-100200295,Evil Lord – Zorc,name,Evil Lord – Zorc
-100200295,Evil Lord – Zorc,desc,"You can only use the (1), ② and ③ effect of this card's name each once per turn.
-①：You can discard 2 cards, including this card; add 1 Level 8 Fiend monster from your Deck to your hand.
-②：When your Fiend monster is destroyed by battle: You can Special Summon this card from your GY.
-③：During your Main Phase: You can roll a six-sided die and apply this effect based on the result.
+100200295,Evil Lord - Zorc,name,Evil Lord - Zorc
+100200295,Evil Lord - Zorc,desc,"You can discard 2 cards, including this card; add 1 Level 8 Fiend monster from your Deck to your hand. When your Fiend monster is destroyed by battle: You can Special Summon this card from your GY. During your Main Phase: You can roll a six-sided die and apply this effect based on the result.
 ● 1, 2, 3, or 4: Take control of, or destroy, 1 monster your opponent controls.
-● 5 or 6: Destroy 1 card you control."
-100200295,Evil Lord – Zorc,str1,Search effect
-100200295,Evil Lord – Zorc,str2,Special Summon
-100200295,Evil Lord – Zorc,str3,Die effect
-100200295,Evil Lord – Zorc,str4,Take control?
+● 5 or 6: Destroy 1 card you control.
+You can only use each effect of ""Evil Lord - Zorc"" once per turn."
+100200295,Evil Lord - Zorc,str1,Search effect
+100200295,Evil Lord - Zorc,str2,Special Summon
+100200295,Evil Lord - Zorc,str3,Dice effect
+100200295,Evil Lord - Zorc,str4,Take control?
 100260001,Clown Crew Cappello,name,Clown Crew Cappello
 100260001,Clown Crew Cappello,desc,"Pendulum Scale = 7
 [ Pendulum Effect ]
@@ -134,6 +132,13 @@ During the End Phase, if this card was Special Summoned this turn: You can targe
 100266004,Dark Armed Dragon Punisher,desc,"Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having exactly 3 DARK monsters in your GY. You can reveal this card in your hand; Special Summon 1 Level 6 or lower DARK monster from your hand, also you cannot Special Summon for the rest of this turn, except DARK monsters. During the Main Phase (Quick Effect): You can banish up to 3 DARK monsters from your GY, then target that many cards on the field; destroy them. You can only use each effect of ""Dark Armed Dragon Punisher"" once per turn."
 100266004,Dark Armed Dragon Punisher,str1,Special Summon
 100266004,Dark Armed Dragon Punisher,str2,Destroy
+100266005,"Ekhajar, Descendant Dragon of the Ice Barrier",name,"Ekhajar, Descendant Dragon of the Ice Barrier"
+100266005,"Ekhajar, Descendant Dragon of the Ice Barrier",desc,"1 Tuner + 1+ non-Tuners
+If this card is Synchro Summoned: You can discard 1 card; banish 2 cards from your opponent's field and/or GY. If your opponent Special Summons a monster(s): You can banish 1 card from your hand; return 1 card in either field or GY to the hand. If this Synchro Summoned card is sent to the GY during your opponent's turn: You can banish 1 card from your opponent's hand (at random), field, or GY. You can only use each effect of ""Ekhajar, Descendant Dragon of the Ice Barrier"" once per turn."
+100266005,"Ekhajar, Descendant Dragon of the Ice Barrier",str1,Banish from the field/GY
+100266005,"Ekhajar, Descendant Dragon of the Ice Barrier",str2,Return to the hand
+100266005,"Ekhajar, Descendant Dragon of the Ice Barrier",str3,Banish from the hand/field/GY
+100266005,"Ekhajar, Descendant Dragon of the Ice Barrier",str4,Banish a card from your hand?
 101305081,Witness of the Ancient,name,Witness of the Ancient
 101305081,Witness of the Ancient,desc,"If you have a Synchro Monster in your field or GY: You can Special Summon this card from your hand. If this card is Special Summoned: You can place up to 3 Synchro Monsters with different names from your Extra Deck and/or GY in your Spell & Trap Zone as face-up Continuous Spells, and Special Summon 1 ""Arc Token"" (Machine/LIGHT/ATK 0/DEF 0) with a Level equal to the number placed, also for the rest of this turn, you cannot Special Summon from the Extra Deck, except Synchro Monsters. You can only use each effect of ""Witness of the Ancient"" once per turn."
 101305081,Witness of the Ancient,str1,Special Summon
@@ -240,6 +245,22 @@ You can only use this effect of ""Swiftwind Panther Warrior"" once per turn. Can
 101306004,Fisherman of Legend,desc,"If your opponent activates a monster effect on the field, or when their monster declares an attack, and ""Umi"" or a card that mentions ""Dark Time Wizard"" other than ""Fisherman of Legend"" is on the field: You can Special Summon this card from your hand. If this card is Special Summoned: You can target 1 monster your opponent controls; destroy it, also return this card from the field to the hand during the End Phase of this turn. You can only use each effect of ""Fisherman of Legend"" once per turn."
 101306004,Fisherman of Legend,str1,Special Summon
 101306004,Fisherman of Legend,str2,Destroy
+101306005,Shining Umbral Horror,name,Shining Umbral Horror
+101306005,Shining Umbral Horror,desc,"If you Normal or Special Summon an ""Umbral Horror"" monster(s) and/or a ""Masquerade"" Xyz Monster(s): You can Special Summon this card from your hand, and if you do, draw 1 card, then if you drew an ""Umbral Horror"" monster, you can Special Summon it. Can be treated as 2 materials for the Xyz Summon of a ""Number"" Xyz Monster that requires 3 or more materials. You can only use each effect of ""Shining Umbral Horror"" once per turn."
+101306005,Shining Umbral Horror,str1,Special Summon
+101306005,Shining Umbral Horror,str2,Special Summon?
+101306006,V Umbral Horror,name,V Umbral Horror
+101306006,V Umbral Horror,desc,"If this card is Normal or Special Summoned: You can add 1 ""Umbral Horror"" monster from your Deck to your hand, except ""V Umbral Horror"". You can banish this card from your GY, then target 1 ""Masquerade"" Xyz Monster you control; Special Summon from your Extra Deck, 1 ""Number"" monster that is 1 Rank higher than that monster you control, by using it as material (this is treated as an Xyz Summon, transfer its materials). You can only use each effect of ""V Umbral Horror"" once per turn."
+101306006,V Umbral Horror,str1,Add to hand
+101306006,V Umbral Horror,str2,Xyz Summon
+101306007,Gorgonic Umbral Horror,name,Gorgonic Umbral Horror
+101306007,Gorgonic Umbral Horror,desc,"You cannot Special Summon from the Extra Deck, except ""Number"" Xyz Monsters. You can only use each of the following effects of ""Gorgonic Umbral Horror"" once per turn. If you control no monsters, or all monsters you control are ""Umbral Horror"" monsters: You can Special Summon this card from your hand, and if you do, add 1 non-Rock ""Umbral Horror"" monster from your Deck to your hand. Can be treated as 2 materials for the Xyz Summon of a ""Number"" Xyz Monster that requires 3 or more materials."
+101306007,Gorgonic Umbral Horror,str1,Special Summon
+101306008,Thousand Umbral Horror,name,Thousand Umbral Horror
+101306008,Thousand Umbral Horror,desc,"(Quick Effect): You can send this card from your hand or field to the GY; place 1 ""Seventh Barian's"" from your hand or Deck face-up in your Field Zone, also you cannot Special Summon from the Extra Deck until the end of your next turn, except Xyz Monsters. If an Xyz Monster(s) is Special Summoned while this card is in your GY: You can Special Summon this card, also you take no effect damage from your card effects for the rest of this turn. You can only use each effect of ""Thousand Umbral Horror"" once per turn."
+101306008,Thousand Umbral Horror,str1,Place in the Field Zone
+101306008,Thousand Umbral Horror,str2,Special Summon
+101306008,Thousand Umbral Horror,str3,The effect of {CARD} is currently being applied.
 101306009,Akasuna the Battle Ashtra,name,Akasuna the Battle Ashtra
 101306009,Akasuna the Battle Ashtra,desc,"You can Special Summon this card (from your hand) by revealing 1 face-down card you control and returning it to the hand/Extra Deck. You can only Special Summon ""Akasuna the Battle Ashtra"" once per turn this way. You can only use each of the following effects of ""Akasuna the Battle Ashtra"" once per turn. During the Main Phase (Quick Effect): You can send 1 Trap from your hand or face-down field to the GY; change all face-up monsters your opponent controls to face-down Defense Position. During your End Phase: You can Set 1 ""Ashtra"" Trap from your Deck."
 101306009,Akasuna the Battle Ashtra,str2,Change to face-down position
@@ -326,11 +347,20 @@ You can only use each effect of ""Theorealize Medius"" once per turn."
 101306025,Adamancipator Crystal - Tiamite,str1,Search effect
 101306025,Adamancipator Crystal - Tiamite,str2,Return to the Deck
 101306025,Adamancipator Crystal - Tiamite,str3,Special Summon?
+101306026,Black Skull Dragon the Archfiend Dragon of Unity,name,Black Skull Dragon the Archfiend Dragon of Unity
+101306026,Black Skull Dragon the Archfiend Dragon of Unity,desc,"Cannot be Normal Summoned/Set. Must be Special Summoned by its own effect. (Quick Effect): You can discard 1 Quick-Play or Ritual Spell; Special Summon this card from your hand in Defense Position. You can only use this effect of ""Black Skull Dragon the Archfiend Dragon of Unity"" once per turn. If this card is Special Summoned: You can Set 1 Spell/Trap that mentions ""Light and Darkness Ritual"" from your Deck or GY. At the start of the Battle Phase: You can make your opponent lose 800 LP, and if you do, this card gains 800 ATK."
+101306026,Black Skull Dragon the Archfiend Dragon of Unity,str1,Special Summon
+101306026,Black Skull Dragon the Archfiend Dragon of Unity,str2,Set
+101306026,Black Skull Dragon the Archfiend Dragon of Unity,str3,Make your opponent lose LP and increase ATK
 101306027,The World's Greatest Gallant Thief,name,The World's Greatest Gallant Thief
 101306027,The World's Greatest Gallant Thief,desc,"If you control no monsters, you can Tribute Summon this card face-up by Tributing monsters from your hand and/or your opponent's field. You can only use each of the following effects of ""The World's Greatest Gallant Thief"" once per turn. When your opponent activates a card effect in the hand, GY, or banishment, while you control this Normal Summoned/Set card (Quick Effect): You can negate that effect, and if you do, destroy that card. During the Battle Phase (Quick Effect): You can reveal your entire hand; change all monsters your opponent controls to Defense Position."
 101306027,The World's Greatest Gallant Thief,str1,Tribute Summon by Tributing monsters from your hand and your opponent's field
 101306027,The World's Greatest Gallant Thief,str2,Negate the effect
 101306027,The World's Greatest Gallant Thief,str3,Battle position
+101306028,Elemental Saga Doriado,name,Elemental Saga Doriado
+101306028,Elemental Saga Doriado,desc,"Neither player can activate cards or effects in response to the activation of this card's effects. If you have 3 or more different Attributes in your GY and this card is in your hand: You can target 1 monster in your GY; Special Summon both it and this card. If you have 3 or more different Attributes in your GY: You can Special Summon 1 monster from your Deck with a different Attribute from the monsters in your field and GY. You can only use each effect of ""Elemental Saga Doriado"" once per turn."
+101306028,Elemental Saga Doriado,str1,Special Summon
+101306028,Elemental Saga Doriado,str2,Special Summon from the Deck
 101306029,Coralianektes the Shimmering Shining Dragon,name,Coralianektes the Shimmering Shining Dragon
 101306029,Coralianektes the Shimmering Shining Dragon,desc,"If this card is added to your hand, except by drawing it: You can reveal this card and 1 other WATER monster in your hand; Special Summon both, also you cannot Special Summon for the rest of this turn, except WATER monsters. You can only use this effect of ""Coralianektes the Shimmering Shining Dragon"" once per turn. While you control ""Umi"", your opponent cannot target WATER Link Monsters you control with card effects."
 101306029,Coralianektes the Shimmering Shining Dragon,str1,Special Summon
@@ -378,7 +408,7 @@ If this card is Special Summoned: You can activate 1 of these effects;
 ● Destroy all Spells/Traps your opponent controls.
 When your opponent activates a card effect in the GY (Quick Effect): You can banish this card; Special Summon 1 ""Aleister"" monster from your Deck, and if you do, negate that effect. You can only use each effect of ""Invoked Dee Anima"" once per turn."
 101306038,Invoked Dee Anima,str1,Choose an effect
-101306038,Invoked Dee Anima,str2,Special Summon and negate
+101306038,Invoked Dee Anima,str2,Special Summon and negate the effect
 101306038,Invoked Dee Anima,str3,Destroy a monster
 101306038,Invoked Dee Anima,str4,Destroy Spell/Trap
 101306039,Ashtraja Susanoo,name,Ashtraja Susanoo
@@ -397,6 +427,26 @@ If you have a DARK monster in your GY: You can add 1 ""Adamancipator"" Spell/Tra
 101306041,Adamancipator Risen - Tiamite,str1,Search effect
 101306041,Adamancipator Risen - Tiamite,str2,Return to the hand
 101306041,Adamancipator Risen - Tiamite,str3,Return a card to the hand?
+101306042,Number 104: Masquerade Vain,name,Number 104: Masquerade Vain
+101306042,Number 104: Masquerade Vain,desc,"3 Level 4 monsters
+Once per turn: You can detach 1 material from this card; add 1 ""Barian's"" Spell/Trap from your Deck to your hand. A monster that was Xyz Summoned using this card on the field as material gains this effect.
+● If it is Xyz Summoned: Activate this effect; your opponent can banish 4 monsters with different Attributes and 1 Spell from their Deck. If they do not, you banish the top 10 cards of their Deck.
+You can only use this effect of ""Number 104: Masquerade Vain"" once per turn."
+101306042,Number 104: Masquerade Vain,str1,Add to hand
+101306042,Number 104: Masquerade Vain,str2,Banish
+101306042,Number 104: Masquerade Vain,str3,Banish effect ({CARD})
+101306042,Number 104: Masquerade Vain,str4,Banish 4 monsters and 1 Spell Card?
+101306043,Number C104: Umbral Horror Masquerade Victory,name,Number C104: Umbral Horror Masquerade Victory
+101306043,Number C104: Umbral Horror Masquerade Victory,desc,"4 Level 5 monsters
+Once per turn (Quick Effect): You can detach 1 material from this card, then target 1 card your opponent controls; destroy it. If this card battles an opponent's monster, during damage calculation: This card's ATK/DEF become that opponent's monster's ATK or DEF (whichever is higher) +100 during damage calculation only. If this card destroys a monster by battle: Send 1 random card from your opponent's hand to the GY, and if you do, halve your opponent's LP."
+101306043,Number C104: Umbral Horror Masquerade Victory,str1,Destroy
+101306043,Number C104: Umbral Horror Masquerade Victory,str2,Change ATK/DEF
+101306043,Number C104: Umbral Horror Masquerade Victory,str3,Send a card from your hand to the GY
+101306044,CXyz Chaos Barian Hope Dragon,name,CXyz Chaos Barian Hope Dragon
+101306044,CXyz Chaos Barian Hope Dragon,desc,"3+ Level 7 monsters
+You can also Xyz Summon this card by using 1 ""Number C"" monster you control with a number between ""101"" and ""107"" in its name (transfer its materials). Gains 1000 ATK for each material attached to it. While this card has a ""Number C"" monster as material, your opponent cannot add cards from the Deck to the hand, except by drawing them. Once per turn: You can detach 1 material from this card; attach the top 2 cards of your opponent's Deck to this card."
+101306044,CXyz Chaos Barian Hope Dragon,str1,Xyz Summon by overlaying on a monster you control?
+101306044,CXyz Chaos Barian Hope Dragon,str2,Attach Xyz material
 101306045,Swickelavee the Brilliantly Crowned Heavy Cavalry,name,Swickelavee the Brilliantly Crowned Heavy Cavalry
 101306045,Swickelavee the Brilliantly Crowned Heavy Cavalry,desc,"2 Level 3 monsters
 Once per turn, you can also Xyz Summon ""Swickelavee the Brilliantly Crowned Heavy Cavalry"" by using 1 Beast monster you control with 2000 or less ATK (transfer its materials). Cannot be used as material for an Xyz Summon. If this card destroys a monster by battle: Place 1 Crown Counter on it, then apply this effect based on the number of Crown Counters on it.
@@ -460,6 +510,15 @@ If your opponent Normal or Special Summons a monster(s) while this card is in yo
 101306054,Sleepy Scapegoats,str1,Activate
 101306054,Sleepy Scapegoats,str2,Select the number of Special Summons
 101306054,Sleepy Scapegoats,str3,Special Summon {CARD}?
+101306055,Seventh Barian's,name,Seventh Barian's
+101306055,Seventh Barian's,desc,"Each player can only Special Summon non-""Number"" monsters from the Extra Deck twice per turn while this card is face-up on the field. You can only use each of the following effects of ""Seventh Barian's"" once per turn. During your Main Phase: You can add 1 ""Umbral Horror"" monster from your Deck to your hand, then discard 1 card. During the End Phase: Each player takes 400 damage for each Xyz Monster on the field."
+101306055,Seventh Barian's,str2,Add to hand
+101306055,Seventh Barian's,str3,Take damage
+101306056,Barian's Hope,name,Barian's Hope
+101306056,Barian's Hope,desc,"Special Summon 1 ""Umbral Horror"" monster or ""Masquerade"" Xyz Monster from your hand or GY, then you can make the Levels of all ""Umbral Horror"" monsters you control become the Level of 1 ""Umbral Horror"" monster in your field or GY. You can banish this card from your GY, then target 1 Xyz Monster you control; attach 1 ""Number"" Xyz Monster from your Extra Deck or GY to it. You can only use each effect of ""Barian's Hope"" once per turn."
+101306056,Barian's Hope,str1,Activate
+101306056,Barian's Hope,str2,As material
+101306056,Barian's Hope,str3,Change Level?
 101306057,Ashtrashen - Gateway to the Worlds Beyond,name,Ashtrashen - Gateway to the Worlds Beyond
 101306057,Ashtrashen - Gateway to the Worlds Beyond,desc,"You can target any number of face-down cards you control; add ""Ashtra"" cards from your Deck to your hand with different names from each other, except Field Spells, equal to the number of those targeted cards that are still face-down, then send those face-down cards to the GY. If a card(s) becomes Set on the field, while you control an ""Ashtra"" monster and a face-down card: You can target 1 card on the field; return it to the hand. You can only use each effect of ""Ashtrashen - Gateway to the Worlds Beyond"" once per turn."
 101306057,Ashtrashen - Gateway to the Worlds Beyond,str1,Add to hand
@@ -490,12 +549,23 @@ You can activate the effects of monsters you control with ""Ars Magna"" in their
 101306063,Adamancipator Mates,desc,"Add 1 ""Adamancipator"" monster from your Deck to your hand. If this card is in your GY: You can place 1 card from your hand on top of the Deck; add this card to your hand. You can only use each effect of ""Adamancipator Mates"" once per turn."
 101306063,Adamancipator Mates,str1,Search effect
 101306063,Adamancipator Mates,str2,Return to the hand
+101306064,Spell Shattering Sword,name,Spell Shattering Sword
+101306064,Spell Shattering Sword,desc,"Activate 1 of these effects;
+● Destroy all face-up Spells your opponent controls.
+● Target 1 face-up monster your opponent controls; show 1 ""Light and Darkness Ritual"" from your hand or GY, then change that monster's ATK to 0, also negate its effects.
+ If this card in its owner's possession is destroyed by an opponent's card: You can destroy 1 card in your opponent's hand (at random) or field. You can only activate 1 ""Spell-Shattering Sword"" per turn."
+101306064,Spell Shattering Sword,str1,Activate
+101306064,Spell Shattering Sword,str2,Destroy all face-up Spell Cards your opponent controls
+101306064,Spell Shattering Sword,str3,Make the targeted monster's ATK 0 and negate its effects
+101306064,Spell Shattering Sword,str4,Destroy 1 card in your opponent's hand or field
+101306064,Spell Shattering Sword,str5,Randomly select a card in your opponent's hand to destroy
+101306064,Spell Shattering Sword,str6,Select 1 card your opponent controls to destroy
 101306065,Shimmering Shatterer of the Sacred Beasts,name,Shimmering Shatterer of the Sacred Beasts
-101306065,Shimmering Shatterer of the Sacred Beasts,desc,"You can only activate a card with this card's name once per turn.
-①：Activate 1 of these effects;
-● When your opponent activates a card or effect in response to the activation of your ""Sacred Beast"" monster's effect: Negate that opponent's effect.
+101306065,Shimmering Shatterer of the Sacred Beasts,desc,"Activate 1 of these effects;
+● When your opponent activates a card or effect in response to your ""Sacred Beast"" monster's effect activation: Negate that opponent's effect.
 ● Reveal 1 Level 10 ""Sacred Beast"" monster in your hand; discard 1 card, and if you do, add 1 ""Illusion Gate"" from your Deck to your hand.
-● Shuffle 3 ""Sacred Beast"" Traps from your GY and/or banishment into the Deck, then target 1 card your opponent controls; destroy it."
+● Shuffle 3 ""Sacred Beast"" Traps from your GY and/or banishment into the Deck, then target 1 card your opponent controls; destroy it.
+You can only activate 1 ""Shimmering Shatterer of the Sacred Beasts"" per turn."
 101306065,Shimmering Shatterer of the Sacred Beasts,str1,Activate
 101306065,Shimmering Shatterer of the Sacred Beasts,str2,Negate the effect
 101306065,Shimmering Shatterer of the Sacred Beasts,str3,Search effect
@@ -510,7 +580,7 @@ You can activate the effects of monsters you control with ""Ars Magna"" in their
 ● Fusion Summon 1 ""Invoked"" Fusion Monster from your Extra Deck, by banishing 1 monster you control and 1 face-up monster your opponent controls.
 You can only activate 1 ""Invocation - ""Chalice"""" per turn."
 101306067,"Invocation - ""Chalice""",str1,Activate
-101306067,"Invocation - ""Chalice""",str2,"Fusion Summon using the hand, field, and Deck"
+101306067,"Invocation - ""Chalice""",str2,"Fusion Summon using your hand, field, and Deck"
 101306067,"Invocation - ""Chalice""",str3,Fusion Summon using monsters on both fields
 101306068,Spatial Trunade,name,Spatial Trunade
 101306068,Spatial Trunade,desc,"Return up to 2 cards on the field to the hand, then each player places cards from their hand on the bottom of the Deck in any order equal to the number returned to their hand. You can only activate 1 ""Spatial Trunade"" per turn."
@@ -530,6 +600,12 @@ You can only activate 1 ""Invocation - ""Chalice"""" per turn."
 101306071,Reversal Box,str1,Place a counter
 101306071,Reversal Box,str2,Toss a coin
 101306071,Reversal Box,str3,Select the number of counters to place
+101306072,Barian's Seal,name,Barian's Seal
+101306072,Barian's Seal,desc,"When your opponent activates a Spell/Trap Card, or monster effect, while you control a ""CXyz"" monster or a ""Number C"" monster with a number between ""101"" and ""107"" in its name: Negate the activation, then you can attach 1 monster from either field or GY to 1 Xyz Monster you control. You can banish this card from your GY; Special Summon 2 ""Umbral Horror"" monsters from your GY. You can only use 1 ""Barian's Seal"" effect per turn, and only once that turn."
+101306072,Barian's Seal,str1,Negate
+101306072,Barian's Seal,str2,Special Summon
+101306072,Barian's Seal,str3,Attach Xyz Material?
+101306072,Barian's Seal,str4,Select 1 Xyz Monster
 101306073,Ashtra Insect Poison,name,Ashtra Insect Poison
 101306073,Ashtra Insect Poison,desc,"Activate 1 of these effects;
 ● Special Summon this card as a Normal Monster (Insect/Tuner/DARK/Level 1/ATK 0/DEF 0) (this card is NOT treated as a Trap), then immediately after this effect resolves, you can Synchro Summon 1 Synchro Monster.
