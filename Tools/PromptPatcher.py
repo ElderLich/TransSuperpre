@@ -34242,7 +34242,7 @@ def build_translation_pack(lang: str):
                 "de": "Deck ausgraben",
                 "es": "Excavar el Deck",
                 "pt": "Escavar o Deck",
-                "it": "Scavare il Deck",
+                "it": "Dissotterra il Deck",
                 "ja": "デッキをめくる",
                 "kr": "덱을 넘긴다",
             },
@@ -34255,6 +34255,136 @@ def build_translation_pack(lang: str):
                 "it": "Il tuo avversario scarta e pesca",
                 "ja": "相手は捨ててドローする",
                 "kr": "상대는 버리고 드로우한다",
+            },
+            "从场上·墓地除外": {
+                "en": "Banish from the field or GY",
+                "fr": "Bannir depuis le Terrain ou le Cimetière",
+                "de": "Vom Spielfeld oder Friedhof verbannen",
+                "es": "Desterrar desde el Campo o el Cementerio",
+                "pt-br": "Banir do Campo ou do Cemitério",
+                "it": "Bandisci dal Terreno o dal Cimitero",
+                "ja": "フィールド・墓地から除外",
+                "kr": "필드 / 묘지에서 제외"
+            },
+            "从手卡·场上·墓地除外": {
+                "en": "Banish from the hand, field, or GY",
+                "fr": "Bannir depuis la main, le Terrain ou le Cimetière",
+                "de": "Von der Hand, dem Spielfeld oder Friedhof verbannen",
+                "es": "Desterrar desde la mano, el Campo o el Cementerio",
+                "pt-br": "Banir da mão, do Campo ou do Cemitério",
+                "it": "Bandisci dalla mano, dal Terreno o dal Cimitero",
+                "ja": "手札・フィールド・墓地から除外",
+                "kr": "패 / 필드 / 묘지에서 제외"
+            },
+            "放置场地": {
+                "en": "Place a Field Spell",
+                "fr": "Placer une Magie de Terrain",
+                "de": "Eine Spielfeldzauberkarte platzieren",
+                "es": "Colocar una Carta de Campo",
+                "pt-br": "Colocar uma Magia de Campo",
+                "it": "Posiziona una Magia Terreno",
+                "ja": "フィールド魔法を置く",
+                "kr": "필드 마법을 놓는다"
+            },
+            "失去基本分·攻击力上升": {
+                "en": "Lose LP / Increase ATK",
+                "fr": "Perdre des LP / Augmenter l'ATK",
+                "de": "LP verlieren / ATK erhöhen",
+                "es": "Perder LP / Aumentar el ATK",
+                "pt-br": "Perder PV / Aumentar o ATK",
+                "it": "Perdi LP / Aumenta l'ATK",
+                "ja": "LPを失う／攻撃力アップ",
+                "kr": "LP를 잃는다 / 공격력 상승"
+            },
+            "除外效果（{CARD}）": {
+                "en": "Banish effect ({CARD})",
+                "fr": "Effet de bannissement ({CARD})",
+                "de": "Verbannungseffekt ({CARD})",
+                "es": "Efecto de destierro ({CARD})",
+                "pt-br": "Efeito de banimento ({CARD})",
+                "it": "Effetto di bandimento ({CARD})",
+                "ja": "除外効果（{CARD}）",
+                "kr": "제외 효과 ({CARD})"
+            },
+            "是否把4只怪兽和1张魔法卡除外？": {
+                "en": "Banish 4 monsters and 1 Spell Card?",
+                "fr": "Bannir 4 monstres et 1 Carte Magie ?",
+                "de": "4 Monster und 1 Zauberkarte verbannen?",
+                "es": "¿Desterrar 4 monstruos y 1 Carta Mágica?",
+                "pt-br": "Banir 4 monstros e 1 Magia?",
+                "it": "Bandire 4 mostri e 1 Carta Magia?",
+                "ja": "モンスター4体と魔法カード1枚を除外しますか？",
+                "kr": "몬스터 4장과 마법 카드 1장을 제외하시겠습니까?"
+            },
+            "变化攻击力·守备力": {
+                "en": "Change ATK / DEF",
+                "fr": "Modifier l'ATK / la DEF",
+                "de": "ATK / DEF ändern",
+                "es": "Cambiar ATK / DEF",
+                "pt-br": "Alterar ATK / DEF",
+                "it": "Modifica ATK / DEF",
+                "ja": "攻撃力・守備力を変更",
+                "kr": "공격력 / 수비력 변경"
+            },
+            "得到超量素材": {
+                "en": "Attach as Xyz Material",
+                "fr": "Attacher comme Matériel Xyz",
+                "de": "Als Xyz-Material anhängen",
+                "es": "Acoplar como Material Xyz",
+                "pt-br": "Anexar como Matéria Xyz",
+                "it": "Attacca come Materiale Xyz",
+                "ja": "エクシーズ素材にする",
+                "kr": "엑시즈 소재로 한다"
+            },
+            "作为素材": {
+                "en": "Use as Material",
+                "fr": "Utiliser comme Matériel",
+                "de": "Als Material verwenden",
+                "es": "Usar como Material",
+                "pt-br": "Usar como Matéria",
+                "it": "Usa come Materiale",
+                "ja": "素材にする",
+                "kr": "소재로 한다"
+            },
+            "对方场上的表侧表示的魔法卡全部破坏": {
+                "en": "Destroy all face-up Spell Cards your opponent controls",
+                "fr": "Détruire toutes les Cartes Magie face recto contrôlées par votre adversaire",
+                "de": "Zerstöre alle offenen Zauberkarten, die dein Gegner kontrolliert",
+                "es": "Destruye todas las Cartas Mágicas boca arriba que controle tu adversario",
+                "pt-br": "Destrua todas as Magias com a face para cima que seu oponente controla",
+                "it": "Distruggi tutte le Carte Magia scoperte controllate dal tuo avversario",
+                "ja": "相手フィールドの表側表示の魔法カードを全て破壊",
+                "kr": "상대 필드의 앞면 표시 마법 카드를 전부 파괴"
+            },
+            "对象怪兽的攻击力变成0，效果无效化": {
+                "en": "Its ATK becomes 0 and its effects are negated",
+                "fr": "Son ATK devient 0 et ses effets sont annulés",
+                "de": "Seine ATK werden zu 0 und seine Effekte werden annulliert",
+                "es": "Su ATK se convierte en 0 y sus efectos son negados",
+                "pt-br": "Seu ATK se torna 0 e seus efeitos são negados",
+                "it": "Il suo ATK diventa 0 e i suoi effetti vengono annullati",
+                "ja": "対象のモンスターの攻撃力は0になり、効果は無効化される",
+                "kr": "대상 몬스터의 공격력은 0이 되고 효과는 무효가 된다"
+            },
+            "对方的手卡·场上1张卡破坏": {
+                "en": "Destroy 1 card in your opponent's hand or on the field",
+                "fr": "Détruire 1 carte dans la main de votre adversaire ou sur son Terrain",
+                "de": "Zerstöre 1 Karte in der Hand oder auf dem Spielfeld deines Gegners",
+                "es": "Destruye 1 carta en la mano o el Campo de tu adversario",
+                "pt-br": "Destrua 1 carta na mão ou no Campo do seu oponente",
+                "it": "Distruggi 1 carta nella mano o sul Terreno del tuo avversario",
+                "ja": "相手の手札・フィールドのカード1枚を破壊",
+                "kr": "상대 패 / 필드의 카드 1장을 파괴"
+            },
+            "是否获得超量素材？": {
+                "en": "Attach it as Xyz Material?",
+                "fr": "L'attacher comme Matériel Xyz ?",
+                "de": "Als Xyz-Material anhängen?",
+                "es": "¿Acoplarla como Material Xyz?",
+                "pt-br": "Anexá-la como Matéria Xyz?",
+                "it": "Attaccarla come Materiale Xyz?",
+                "ja": "エクシーズ素材にしますか？",
+                "kr": "엑시즈 소재로 하시겠습니까?"
             },
 
     }
