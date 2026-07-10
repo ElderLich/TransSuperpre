@@ -34296,7 +34296,7 @@ def build_translation_pack(lang: str):
             "ja": "LPを失う／攻撃力アップ",
             "kr": "LP를 잃는다 / 공격력 상승"
         },
-        "除外效果（{CARD}) ": {
+        "除外效果（{CARD}）": {
             "en": "Banish effect ({CARD})",
             "fr": "Effet de bannissement ({CARD})",
             "de": "Verbannungseffekt ({CARD})",
@@ -35149,18 +35149,6 @@ def build_translation_pack(lang: str):
              "ja": "{CARD}の効果を適用してリリースなしで召喚しますか？",
              "kr": "{CARD}의 효과를 적용하여 릴리스 없이 소환하시겠습니까?",
          }[lang]),
-        
-        (re.compile(r"^除外效果（\{CARD\}）$"),
-        {
-            "en": "Banish effect ({CARD})",
-            "fr": "Effet de bannissement ({CARD})",
-            "de": "Verbannungseffekt ({CARD})",
-            "es": "Efecto de destierro ({CARD})",
-            "pt": "Efeito de banimento ({CARD})",
-            "it": "Effetto di espulsione ({CARD})",
-            "ja": "除外効果（{CARD}）",
-            "kr": "제외 효과 ({CARD})"
-        }[lang]),
 
     ]
     canon_pairs = sorted(_DEFAULT_CANON_PAIRS, key=lambda ab: len(ab[0]), reverse=True)
