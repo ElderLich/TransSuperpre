@@ -34296,7 +34296,7 @@ def build_translation_pack(lang: str):
             "ja": "LPを失う／攻撃力アップ",
             "kr": "LP를 잃는다 / 공격력 상승"
         },
-        "除外效果（{CARD})": {
+        "除外效果（{CARD}) ": {
             "en": "Banish effect ({CARD})",
             "fr": "Effet de bannissement ({CARD})",
             "de": "Verbannungseffekt ({CARD})",
