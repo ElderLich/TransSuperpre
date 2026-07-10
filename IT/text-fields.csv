@@ -170,6 +170,18 @@ Durante la Main Phase (Effetto Rapido): puoi bandire fino a 3 mostri OSCURITÀ d
 Puoi utilizzare ciascun effetto di ""Drago Armato Oscuro Punitore"" una sola volta per turno."
 100266004,Drago Armato Oscuro Punitore,str1,Evocazione Speciale
 100266004,Drago Armato Oscuro Punitore,str2,Distruggere
+100266005,"Ekhajar, Drago Discendente della Barriera di Ghiaccio",name,"Ekhajar, Drago Discendente della Barriera di Ghiaccio"
+100266005,"Ekhajar, Drago Discendente della Barriera di Ghiaccio",desc,"1 Tuner + 1+ non-Tuner
+
+
+Se questa carta viene Synchro Evocata: puoi scartare 1 carta; bandisci 2 carte dal Terreno e/o Cimitero del tuo avversario.
+Se il tuo avversario Evoca Specialmente uno o più mostri: puoi bandire 1 carta dalla tua mano; fai ritornare 1 carta sul Terreno o in uno dei Cimiteri alla mano.
+Se questa carta Synchro Evocata viene mandata al Cimitero durante il turno del tuo avversario: puoi bandire 1 carta dalla mano del tuo avversario (a caso), Terreno o Cimitero.
+Puoi utilizzare ogni effetto di ""Ekhajar, Drago Discendente della Barriera di Ghiaccio"" una sola volta per turno."
+100266005,"Ekhajar, Drago Discendente della Barriera di Ghiaccio",str1,Bandisci dal Terreno o dal Cimitero
+100266005,"Ekhajar, Drago Discendente della Barriera di Ghiaccio",str2,Rimettere in mano
+100266005,"Ekhajar, Drago Discendente della Barriera di Ghiaccio",str3,"Bandisci dalla mano, dal Terreno o dal Cimitero"
+100266005,"Ekhajar, Drago Discendente della Barriera di Ghiaccio",str4,Bandire 1 carta dalla tua mano?
 101305081,Testimone dell'Antico,name,Testimone dell'Antico
 101305081,Testimone dell'Antico,desc,"Se hai un Mostro Synchro sul tuo Terreno o nel tuo Cimitero: puoi Evocare Specialmente questa carta dalla tua mano.
 Se questa carta viene Evocata Specialmente: puoi posizionare fino a 3 Mostri Synchro con nomi diversi dal tuo Extra Deck e/o Cimitero nella tua Zona Magie & Trappole come Magie Continue scoperte ed Evocare Specialmente 1 ""Segna-Arco"" (Macchina/LUCE/ATK 0/DEF 0) con un Livello pari al numero di carte posizionate, inoltre per il resto di questo turno non puoi Evocare Specialmente dall'Extra Deck, eccetto Mostri Synchro. 
@@ -318,6 +330,31 @@ Se questa carta viene Evocata Specialmente: puoi scegliere come bersaglio 1 most
 Puoi utilizzare ciascun effetto di ""Pescatore Leggenda dei Mari"" una sola volta per turno."
 101306004,Pescatore Leggenda dei Mari,str1,Evocazione Speciale
 101306004,Pescatore Leggenda dei Mari,str2,Distruggere
+101306005,Orrore Umbral Splendente,name,Orrore Umbral Splendente
+101306005,Orrore Umbral Splendente,desc,"Se Evochi Normalmente o Specialmente uno o più mostri ""Orrore Umbral"" e/o uno o più Mostri Xyz ""Masquerade"": puoi Evocare Specialmente questa carta dalla tua mano e, se lo fai, pesca 1 carta, poi, se hai pescato un mostro ""Orrore Umbral"", puoi Evocarlo Specialmente.
+Può essere considerata come 2 materiali per l'Evocazione Xyz di un Mostro Xyz ""Numero"" che richiede 3 o più materiali.
+Puoi utilizzare ogni effetto di ""Orrore Umbral Splendente"" una sola volta per turno."
+101306005,Orrore Umbral Splendente,str1,Evocazione Speciale
+101306005,Orrore Umbral Splendente,str2,Evocazione Speciale?
+101306006,V Orrore Umbral,name,V Orrore Umbral
+101306006,V Orrore Umbral,desc,"Se questa carta viene Evocata Normalmente o Specialmente: puoi aggiungere 1 mostro ""Orrore Umbral"" dal tuo Deck alla tua mano, eccetto ""V Orrore Umbral"".
+Puoi bandire questa carta dal tuo Cimitero, poi scegliere come bersaglio 1 Mostro Xyz ""Masquerade"" che controlli; Evoca Specialmente dal tuo Extra Deck 1 mostro ""Numero"" con un Rango superiore di 1 rispetto a quel mostro, utilizzandolo come materiale (questa viene considerata come un'Evocazione Xyz; trasferisci i suoi materiali).
+Puoi utilizzare ogni effetto di ""V Orrore Umbral"" una sola volta per turno."
+101306006,V Orrore Umbral,str1,Aggiungere alla mano
+101306006,V Orrore Umbral,str2,Evocazione Xyz
+101306007,Orrore Umbral Gorgonico,name,Orrore Umbral Gorgonico
+101306007,Orrore Umbral Gorgonico,desc,"Non puoi Evocare Specialmente dall'Extra Deck, eccetto Mostri Xyz ""Numero"".
+Puoi utilizzare ognuno dei seguenti effetti di ""Orrore Umbral Gorgonico"" una sola volta per turno.
+Se non controlli alcun mostro, o se tutti i mostri che controlli sono mostri ""Orrore Umbral"": puoi Evocare Specialmente questa carta dalla tua mano e, se lo fai, aggiungi 1 mostro ""Orrore Umbral"" non-Roccia dal tuo Deck alla tua mano.
+Può essere considerata come 2 materiali per l'Evocazione Xyz di un Mostro Xyz ""Numero"" che richiede 3 o più materiali."
+101306007,Orrore Umbral Gorgonico,str1,Evocazione Speciale
+101306008,Orrore Umbral Thousand,name,Orrore Umbral Thousand
+101306008,Orrore Umbral Thousand,desc,"(Effetto Rapido): puoi mandare questa carta dalla tua mano o Terreno al Cimitero; metti 1 ""Settimo del Barian"" dalla tua mano o Deck scoperto nella tua Zona Terreno, inoltre non puoi Evocare Specialmente dall'Extra Deck fino alla fine del tuo prossimo turno, eccetto Mostri Xyz.
+Se uno o più Mostri Xyz vengono Evocati Specialmente mentre questa carta è nel tuo Cimitero: puoi Evocare Specialmente questa carta, inoltre non subisci danni da effetto degli effetti delle tue carte per il resto di questo turno.
+Puoi utilizzare ogni effetto di ""Orrore Umbral Thousand"" una sola volta per turno."
+101306008,Orrore Umbral Thousand,str1,Posiziona una Magia Terreno
+101306008,Orrore Umbral Thousand,str2,Evocazione Speciale
+101306008,Orrore Umbral Thousand,str3,L'effetto di {CARD} si sta applicando.
 101306009,Akasuna Divinità Dorata Asutra,name,Akasuna Divinità Dorata Asutra
 101306009,Akasuna Divinità Dorata Asutra,desc,"Puoi Evocare Specialmente questa carta (dalla tua mano) rivelando 1 carta coperta che controlli e facendola ritornare alla mano/all'Extra Deck. Puoi Evocare Specialmente ""Akasuna la Divinità Dorata Asutra"" una sola volta per turno in questo modo.
 Puoi utilizzare ciascuno dei seguenti effetti di ""Akasuna Divinità Dorata Asutra"" una sola volta per turno.
@@ -444,7 +481,7 @@ Puoi utilizzare ciascun effetto di ""Servitore della Corazzata del Terrore - ERO
 Durante la tua Main Phase: Puoi dissotterrare le prime 5 carte del tuo Deck, e se lo fai, puoi Evocare Specialmente 1 mostro Roccia di Livello 4 o inferiore tra quelle dissotterrate, inoltre metti il resto in fondo al Deck in un ordine qualsiasi.
 Puoi utilizzare ciascun effetto di ""Irremovibilatrice Conduttrice"" una sola volta per turno."
 101306024,Irremovibilatrice Conduttrice,str1,Evocazione Speciale
-101306024,Irremovibilatrice Conduttrice,str2,Scavare il Deck
+101306024,Irremovibilatrice Conduttrice,str2,Dissotterra il Deck
 101306024,Irremovibilatrice Conduttrice,str3,Evocare Specialmente il mostro?
 101306025,Irremovibilatore Cristallo - Tiamite,name,Irremovibilatore Cristallo - Tiamite
 101306025,Irremovibilatore Cristallo - Tiamite,desc,"Se questa carta viene Evocata Specialmente dall'effetto di una carta ""Irremovibilatore"": Puoi aggiungere 1 carta ""Irremovibilatore"" dal tuo Deck alla tua mano, eccetto ""Irremovibilatore Cristallo - Tiamite"", poi puoi Evocare Specialmente 1 mostro Roccia dalla tua mano.
@@ -453,6 +490,14 @@ Puoi utilizzare ciascun effetto di ""Irremovibilatore Cristallo - Tiamite"" una 
 101306025,Irremovibilatore Cristallo - Tiamite,str1,Effetto di aggiunta alla mano
 101306025,Irremovibilatore Cristallo - Tiamite,str2,Rimettere nel Deck
 101306025,Irremovibilatore Cristallo - Tiamite,str3,Evocazione Speciale?
+101306026,Drago Teschio Nero il Drago Arcidemone dell'Unità,name,Drago Teschio Nero il Drago Arcidemone dell'Unità
+101306026,Drago Teschio Nero il Drago Arcidemone dell'Unità,desc,"Non può essere Evocato Normalmente/Piazzato. Deve essere prima Evocato Specialmente tramite il suo stesso effetto.
+(Effetto Rapido): puoi scartare 1 Magia Rapida o Magia Rituale; Evoca Specialmente questa carta dalla tua mano in Posizione di Difesa. Puoi utilizzare questo effetto di ""Drago Teschio Nero il Drago Arcidemone dell'Unità"" una sola volta per turno.
+Se questa carta viene Evocata Specialmente: puoi Posizionare 1 Magia/Trappola che menziona ""Rituale di Luce e Oscurità"" dal tuo Deck o Cimitero.
+All'inizio della Battle Phase: puoi fare perdere 800 LP al tuo avversario e, se lo fai, questa carta guadagna 800 ATK."
+101306026,Drago Teschio Nero il Drago Arcidemone dell'Unità,str1,Evocazione Speciale
+101306026,Drago Teschio Nero il Drago Arcidemone dell'Unità,str2,Posiziona
+101306026,Drago Teschio Nero il Drago Arcidemone dell'Unità,str3,Perdi LP / Aumenta l'ATK
 101306027,Il Più Grande Ladro Galante al Mondo,name,Il Più Grande Ladro Galante al Mondo
 101306027,Il Più Grande Ladro Galante al Mondo,desc,"Se non controlli mostri, puoi Evocare tramite Tributo questa carta scoperta offrendo come Tributo mostri dalla tua mano e/o dal Terreno del tuo avversario.
 Puoi utilizzare ciascuno dei seguenti effetti di ""Il Più Grande Ladro Galante al Mondo"" una sola volta per turno.
@@ -461,6 +506,13 @@ Durante la Battle Phase (Effetto Rapido): puoi rivelare tutta la tua mano; cambi
 101306027,Il Più Grande Ladro Galante al Mondo,str1,Evocare tramite Tributo offrendo come Tributo mostri dalla tua mano e dal Terreno del tuo avversario
 101306027,Il Più Grande Ladro Galante al Mondo,str2,Annullare l'effetto
 101306027,Il Più Grande Ladro Galante al Mondo,str3,Posizione di battaglia
+101306028,Saga Elementale Doriado,name,Saga Elementale Doriado
+101306028,Saga Elementale Doriado,desc,"Nessun giocatore può attivare carte o effetti in risposta all'attivazione degli effetti di questa carta.
+Se hai 3 o più Attributi diversi nel tuo Cimitero e questa carta è nella tua mano: puoi scegliere come bersaglio 1 mostro nel tuo Cimitero; Evoca Specialmente sia quel mostro che questa carta.
+Se hai 3 o più Attributi diversi nel tuo Cimitero: puoi Evocare Specialmente 1 mostro dal tuo Deck con un Attributo diverso da quelli dei mostri sul tuo Terreno e nel tuo Cimitero.
+Puoi utilizzare ogni effetto di ""Saga Elementale Doriado"" una sola volta per turno."
+101306028,Saga Elementale Doriado,str1,Evocazione Speciale
+101306028,Saga Elementale Doriado,str2,Evoca Specialmente dal Deck
 101306029,Drago Splendilucente Coralianektes,name,Drago Splendilucente Coralianektes
 101306029,Drago Splendilucente Coralianektes,desc,"Se questa carta viene aggiunta alla tua mano, eccetto pescandola: puoi rivelare questa carta e 1 altro mostro ACQUA nella tua mano; Evocali Specialmente entrambi, inoltre, per il resto di questo turno, non puoi Evocare Specialmente, eccetto mostri ACQUA. Puoi utilizzare questo effetto di ""Drago Splendilucente Coralianektes"" una sola volta per turno.
 Mentre controlli ""Umi"", il tuo avversario non può scegliere come bersaglio Mostri Link ACQUA che controlli con gli effetti delle carte."
@@ -556,6 +608,38 @@ Puoi utilizzare ciascun effetto di ""Irremovibilatore Risorto - Tiamite"" una so
 101306041,Irremovibilatore Risorto - Tiamite,str1,Effetto di aggiunta alla mano
 101306041,Irremovibilatore Risorto - Tiamite,str2,Rimettere in mano
 101306041,Irremovibilatore Risorto - Tiamite,str3,Rimandare una carta in mano?
+101306042,Numero 104: Masquerade Vano,name,Numero 104: Masquerade Vano
+101306042,Numero 104: Masquerade Vano,desc,"3 mostri di Livello 4
+
+
+Una volta per turno: puoi staccare 1 materiale da questa carta; aggiungi 1 Magia/Trappola ""di Barian"" dal tuo Deck alla tua mano.
+Un mostro che è stato Evocato Xyz utilizzando questa carta sul Terreno come materiale guadagna il seguente effetto.
+
+● Se viene Evocato Xyz: attiva questo effetto; il tuo avversario può bandire 4 mostri con Attributi diversi e 1 Magia dal suo Deck. Se non lo fa, bandisci le prime 10 carte del suo Deck.
+
+Puoi utilizzare questo effetto di ""Numero 104: Masquerade Vano"" una sola volta per turno."
+101306042,Numero 104: Masquerade Vano,str1,Aggiungere alla mano
+101306042,Numero 104: Masquerade Vano,str2,Bandire
+101306042,Numero 104: Masquerade Vano,str3,Effetto di Bandimento (Numero 104)
+101306042,Numero 104: Masquerade Vano,str4,Bandire 4 mostri e 1 Carta Magia?
+101306043,Numero C104: Orrore Umbral Masquerade Vittoria,name,Numero C104: Orrore Umbral Masquerade Vittoria
+101306043,Numero C104: Orrore Umbral Masquerade Vittoria,desc,"4 mostri di Livello 5
+
+
+Una volta per turno (Effetto Rapido): puoi staccare 1 materiale da questa carta, poi scegliere come bersaglio 1 carta controllata dal tuo avversario; distruggila.
+Se questa carta combatte un mostro dell'avversario, durante il calcolo dei danni: l'ATK/DEF di questa carta diventano pari all'ATK o DEF (qualunque sia il valore più alto) di quel mostro dell'avversario +100, solo durante il calcolo dei danni.
+Se questa carta distrugge un mostro in battaglia: manda 1 carta casuale dalla mano del tuo avversario al Cimitero e, se lo fai, dimezza gli LP del tuo avversario."
+101306043,Numero C104: Orrore Umbral Masquerade Vittoria,str1,Distruggere
+101306043,Numero C104: Orrore Umbral Masquerade Vittoria,str2,Modifica ATK / DEF
+101306043,Numero C104: Orrore Umbral Masquerade Vittoria,str3,Mandare 1 carta dalla tua mano al Cimitero
+101306044,Cxyz Drago della Speranza Barian del Chaos,name,Cxyz Drago della Speranza Barian del Chaos
+101306044,Cxyz Drago della Speranza Barian del Chaos,desc,"3+ mostri di Livello 7
+Puoi anche Evocare Xyz questa carta utilizzando 1 mostro ""Numero C"" che controlli con un numero compreso tra ""101"" e ""107"" nel suo nome (trasferisci i suoi materiali).
+Guadagna 1000 ATK per ogni materiale ad essa assegnato.
+Finché questa carta ha un mostro ""Numero C"" come materiale, il tuo avversario non può aggiungere carte dal Deck alla mano, eccetto pescandole.
+Una volta per turno: puoi staccare 1 materiale da questa carta; attacca come materiale a questa carta le prime 2 carte del Deck del tuo avversario."
+101306044,Cxyz Drago della Speranza Barian del Chaos,str1,Evocare Xyz sovrapponendo su un mostro che controlli?
+101306044,Cxyz Drago della Speranza Barian del Chaos,str2,Attacca come Materiale Xyz
 101306045,Swickelavee Cavalleria Pesante dalla Splendente Corona,name,Swickelavee Cavalleria Pesante dalla Splendente Corona
 101306045,Swickelavee Cavalleria Pesante dalla Splendente Corona,desc,"2 mostri di Livello 3
 Una volta per turno, puoi anche Evocare Xyz ""Swickelavee Cavalleria Pesante dalla Splendente Corona"" utilizzando 1 mostro Bestia che controlli con 2000 ATK o meno come materiale (trasferisci i suoi materiali a questa carta).
@@ -638,6 +722,20 @@ Se una o più carte che controlli che menzionano ""Stregone del Tempo Oscuro"" s
 101306054,Capro Espiatorio Dormiente,str1,Attiva
 101306054,Capro Espiatorio Dormiente,str2,Seleziona il numero di Evocazioni Speciali
 101306054,Capro Espiatorio Dormiente,str3,Evocare Specialmente {CARD}?
+101306055,Settimo di Barian,name,Settimo di Barian
+101306055,Settimo di Barian,desc,"Ogni giocatore può Evocare Specialmente dall'Extra Deck mostri non-""Numero"" solo due volte per turno mentre questa carta è scoperta sul Terreno.
+Puoi utilizzare ognuno dei seguenti effetti di ""Settimo di Barian"" una sola volta per turno.
+Durante la tua Main Phase: puoi aggiungere 1 mostro ""Orrore Umbral"" dal tuo Deck alla tua mano, poi scartare 1 carta.
+Durante la End Phase: ogni giocatore subisce 400 danni per ogni Mostro Xyz sul Terreno."
+101306055,Settimo di Barian,str2,Aggiungere alla mano
+101306055,Settimo di Barian,str3,Subire danni
+101306056,Speranza di Barian,name,Speranza di Barian
+101306056,Speranza di Barian,desc,"Evoca Specialmente 1 mostro ""Orrore Umbral"" o Mostro Xyz ""Masquerade"" dalla tua mano o Cimitero, poi puoi rendere i Livelli di tutti i mostri ""Orrore Umbral"" che controlli uguali al Livello di 1 mostro ""Orrore Umbral"" sul tuo Terreno o nel tuo Cimitero.
+Puoi bandire questa carta dal tuo Cimitero, poi scegliere come bersaglio 1 Mostro Xyz che controlli; attacca come materiale a quel mostro 1 Mostro Xyz ""Numero"" dal tuo Extra Deck o Cimitero.
+Puoi utilizzare ogni effetto di ""Speranza di Barian"" una sola volta per turno."
+101306056,Speranza di Barian,str1,Attiva
+101306056,Speranza di Barian,str2,Usa come Materiale
+101306056,Speranza di Barian,str3,Cambiare il Livello?
 101306057,Trichiliocosmo Asutrashen,name,Trichiliocosmo Asutrashen
 101306057,Trichiliocosmo Asutrashen,desc,"Puoi scegliere come bersaglio un qualsiasi numero di carte coperte che controlli; aggiungi dal tuo Deck alla tua mano carte ""Asutra"" con nomi diversi tra loro, eccetto Magie Terreno, in numero pari a quello delle carte scelte come bersaglio che sono ancora coperte, poi manda quelle carte coperte al Cimitero.
 Se una o più carte vengono Posizionate sul Terreno, mentre controlli un mostro ""Asutra"" e una carta coperta: Puoi scegliere come bersaglio 1 carta sul Terreno; falla ritornare alla mano.
@@ -686,16 +784,35 @@ Se questa carta è nel tuo Cimitero: Puoi mettere 1 carta dalla tua mano in cima
 Puoi utilizzare ciascun effetto di ""Compagni Irremovibilatore"" una sola volta per turno."
 101306063,Compagni Irremovibilatore,str1,Effetto di aggiunta alla mano
 101306063,Compagni Irremovibilatore,str2,Rimettere in mano
-101306065,三幻魔的天坏,name,三幻魔的天坏
-101306065,三幻魔的天坏,desc,"这个卡名的卡在1回合只能发动1张。
-①：可以从以下效果选择1个发动。
-●连锁自己的「三幻魔」怪兽的效果的发动，对方把效果发动时才能发动。那个对方的效果无效。
-●把手卡1只10星「三幻魔」怪兽给对方出示才能发动。选自己1张手卡丢弃，从卡组把1张「幻魔之扉」加入手卡。
-●让自己墓地·除外状态的3张「三幻魔」陷阱卡回到卡组，以对方场上1张卡为对象才能发动。那张卡破坏。"
-101306065,三幻魔的天坏,str1,Attiva
-101306065,三幻魔的天坏,str2,Annullare l'effetto
-101306065,三幻魔的天坏,str3,Effetto di aggiunta alla mano
-101306065,三幻魔的天坏,str4,Effetto di distruzione
+101306064,Spada Frantuma-Magia,name,Spada Frantuma-Magia
+101306064,Spada Frantuma-Magia,desc,"Attiva 1 di questi effetti.
+
+● Distruggi tutte le Magie scoperte controllate dal tuo avversario.
+
+● Scegli come bersaglio 1 mostro scoperto controllato dal tuo avversario; mostra 1 ""Rituale di Luce e Oscurità"" dalla tua mano o Cimitero, poi l'ATK di quel mostro diventa 0, inoltre annulla i suoi effetti.
+
+Se questa carta in possesso del suo proprietario viene distrutta da una carta del tuo avversario: puoi distruggere 1 carta nella mano del tuo avversario (a caso) o sul suo Terreno.
+Puoi attivare solo 1 ""Spada Frantuma-Magia"" per turno."
+101306064,Spada Frantuma-Magia,str1,Attiva
+101306064,Spada Frantuma-Magia,str2,Distruggi tutte le Carte Magia scoperte controllate dal tuo avversario
+101306064,Spada Frantuma-Magia,str3,Il suo ATK diventa 0 e i suoi effetti vengono annullati
+101306064,Spada Frantuma-Magia,str4,Distruggi 1 carta nella mano o sul Terreno del tuo avversario
+101306064,Spada Frantuma-Magia,str5,Seleziona casualmente 1 carta nella mano del tuo avversario da distruggere
+101306064,Spada Frantuma-Magia,str6,Seleziona 1 carta controllata dal tuo avversario da distruggere
+101306065,Frantumatore Splendente delle Bestie Sacre,name,Frantumatore Splendente delle Bestie Sacre
+101306065,Frantumatore Splendente delle Bestie Sacre,desc,"Attiva 1 di questi effetti.
+
+● Quando il tuo avversario attiva una carta o effetto in risposta all'attivazione dell'effetto di un tuo mostro ""Bestia Sacra"": Annulla quell'effetto del tuo avversario.
+
+● Rivela 1 mostro ""Bestia Sacra"" di Livello 10 nella tua mano; scarta 1 carta e, se lo fai, aggiungi 1 ""Cancello Illusione"" dal tuo Deck alla tua mano.
+
+● Mischia 3 Trappole ""Bestia Sacra"" dal tuo Cimitero e/o carte bandite nel Deck, poi scegli come bersaglio 1 carta controllata dal tuo avversario; distruggila.
+
+Puoi attivare solo 1 ""Frantumatore Splendente delle Bestie Sacre"" per turno."
+101306065,Frantumatore Splendente delle Bestie Sacre,str1,Attiva
+101306065,Frantumatore Splendente delle Bestie Sacre,str2,Annullare l'effetto
+101306065,Frantumatore Splendente delle Bestie Sacre,str3,Effetto di aggiunta alla mano
+101306065,Frantumatore Splendente delle Bestie Sacre,str4,Effetto di distruzione
 101306066,Blitzclique - Sovratensione,name,Blitzclique - Sovratensione
 101306066,Blitzclique - Sovratensione,desc,"Scegli come bersaglio 1 carta scoperta sul Terreno; distruggila, inoltre, per il resto di questo turno, non puoi Evocare Specialmente Mostri Effetto, eccetto dalla mano.
 Se una o più carte vengono distrutte dall'effetto di una tua carta ""Blitzclique"", mentre questa carta è nel tuo Cimitero (eccetto durante il Damage Step): puoi aggiungere questa carta alla tua mano. Puoi utilizzare questo effetto di ""Blitzclique - Sovratensione"" una sola volta per turno."
@@ -734,6 +851,14 @@ Quando viene attivato l'effetto di un mostro sul Terreno del tuo avversario, opp
 101306071,Scatola dell'Inversione,str1,Posizionare un Segnalino
 101306071,Scatola dell'Inversione,str2,Lancia una moneta
 101306071,Scatola dell'Inversione,str3,Seleziona il numero di segnalini da piazzare
+101306072,Sigillo di Barian,name,Sigillo di Barian
+101306072,Sigillo di Barian,desc,"Quando il tuo avversario attiva una Carta Magia/Trappola, o l'effetto di un mostro, mentre controlli un mostro ""CXyz"" o un mostro ""Numero C"" con un numero compreso tra ""101"" e ""107"" nel suo nome: annulla l'attivazione, poi puoi attaccare come materiale a 1 Mostro Xyz che controlli 1 mostro dal Terreno o da uno dei Cimiteri.
+Puoi bandire questa carta dal tuo Cimitero; Evoca Specialmente 2 mostri ""Orrore Umbral"" dal tuo Cimitero.
+Puoi utilizzare solo 1 effetto di ""Sigillo di Barian"" per turno, e solo una volta in quel turno."
+101306072,Sigillo di Barian,str1,Annullare
+101306072,Sigillo di Barian,str2,Evocazione Speciale
+101306072,Sigillo di Barian,str3,Attaccarla come Materiale Xyz?
+101306072,Sigillo di Barian,str4,Seleziona 1 Mostro Xyz
 101306073,Veleno d'Insetto Asutra,name,Veleno d'Insetto Asutra
 101306073,Veleno d'Insetto Asutra,desc,"Attiva 1 di questi effetti;
 ● Evoca Specialmente questa carta come Mostro Normale (Insetto/Tuner/OSCURITÀ/Livello 1/ATK 0/DEF 0) (questa carta NON è considerata una Trappola), poi, immediatamente dopo la risoluzione di questo effetto, puoi Evocare Synchro 1 Mostro Synchro.
