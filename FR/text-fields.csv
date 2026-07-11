@@ -173,6 +173,16 @@ Durant la Main Phase (Effet Rapide) : vous pouvez bannir max. 3 monstres TÉNÈB
 Vous ne pouvez utiliser chaque effet ""Dragon Armé des Ténèbres Punisseur"" qu'une fois par tour."
 100266004,Dragon Armé des Ténèbres Punisseur,str1,Invocation Spéciale
 100266004,Dragon Armé des Ténèbres Punisseur,str2,Détruire
+100266005,冰结界的龙胤 三千界龙,name,冰结界的龙胤 三千界龙
+100266005,冰结界的龙胤 三千界龙,desc,"调整+调整以外的怪兽1只以上
+这个卡名的①②③的效果1回合各能使用1次。
+①：这张卡同调召唤的场合，丢弃1张手卡才能发动。从对方的场上·墓地把2张卡除外。
+②：对方把怪兽特殊召唤的场合，把1张手卡除外才能发动。从自己或对方的场上·墓地让1张卡回到手卡。
+③：同调召唤的这张卡在对方回合被送去墓地的场合才能发动。从对方的手卡·场上·墓地把1张卡除外（从手卡的场合是随机选）。"
+100266005,冰结界的龙胤 三千界龙,str1,Bannir depuis le Terrain/Cimetière
+100266005,冰结界的龙胤 三千界龙,str2,Renvoyer à la main
+100266005,冰结界的龙胤 三千界龙,str3,Bannir depuis la main/le Terrain/le Cimetière
+100266005,冰结界的龙胤 三千界龙,str4,Bannir une carte depuis votre main ?
 101305081,Témoin de l'Ancien,name,Témoin de l'Ancien
 101305081,Témoin de l'Ancien,desc,"Si vous avez un Monstre Synchro dans votre Terrain ou Cimetière : vous pouvez Invoquer Spécialement cette carte depuis votre main.
 Si cette carte est Invoquée Spécialement : vous pouvez placer max. 3 Monstres Synchro de noms différents depuis votre Extra Deck et/ou Cimetière dans votre Zone Magie & Piège comme Magies Continues face recto, et Invoquez Spécialement 1 ""Jeton Arc"" (Machine/LUMIÈRE/ATK 0/DEF 0) de Niveau égal au nombre placé, et aussi, vous ne pouvez pas Invoquer Spécialement (Monstres Synchro exclus) depuis l'Extra Deck le reste de ce tour.
@@ -325,6 +335,31 @@ Si cette carte est Invoquée Spécialement : vous pouvez cibler 1 monstre contr�
 Vous ne pouvez utiliser chaque effet de ""Pêcheur, Légende de la Mer"" qu'une fois par tour."
 101306004,"Pêcheur, Légende de la Mer",str1,Invocation Spéciale
 101306004,"Pêcheur, Légende de la Mer",str2,Détruire
+101306005,闪光阴影,name,闪光阴影
+101306005,闪光阴影,desc,"这个卡名的①②的效果1回合各能使用1次。
+①：自己把「阴影」怪兽或「假面魔蹈士」超量怪兽召唤·特殊召唤的场合才能发动。这张卡从手卡特殊召唤，自己抽1张。那张抽到的卡是「阴影」怪兽的场合，可以再把那只怪兽特殊召唤。
+②：以怪兽3只以上为素材的「No.」超量怪兽超量召唤的场合，这张卡可以作为2只数量的超量素材。"
+101306005,闪光阴影,str1,Invocation Spéciale
+101306005,闪光阴影,str2,Invocation Spéciale?
+101306006,V阴影灵,name,V阴影灵
+101306006,V阴影灵,desc,"这个卡名的①②的效果1回合各能使用1次。
+①：这张卡召唤·特殊召唤的场合才能发动。从卡组把「V阴影灵」以外的1只「阴影」怪兽加入手卡。
+②：把墓地的这张卡除外，以自己场上1只「假面魔蹈士」超量怪兽为对象才能发动。从额外卡组把比那只自己怪兽阶级高1的1只「No.」怪兽，在作为对象的怪兽上面重叠当作超量召唤特殊召唤。"
+101306006,V阴影灵,str1,Ajouter à la main
+101306006,V阴影灵,str2,Invocation Xyz
+101306007,蛇头阴影,name,蛇头阴影
+101306007,蛇头阴影,desc,"这个卡名的①③的效果1回合各能使用1次。
+①：自己场上的怪兽，不存在的场合或者只有「阴影」怪兽的场合才能发动。这张卡从手卡特殊召唤，从卡组把岩石族以外的1只「阴影」怪兽加入手卡。
+②：只要这张卡在怪兽区域存在，自己不是「No.」超量怪兽不能从额外卡组特殊召唤。
+③：以怪兽3只以上为素材的「No.」超量怪兽超量召唤的场合，这张卡可以作为2只数量的超量素材。"
+101306007,蛇头阴影,str1,Invocation Spéciale
+101306008,千皇阴影,name,千皇阴影
+101306008,千皇阴影,desc,"这个卡名的①②的效果1回合各能使用1次。
+①：自己·对方回合，把手卡·场上的这张卡送去墓地才能发动。从手卡·卡组把1张「七皇的冀望乡」在自己的场地区域以表侧表示放置。这个效果的发动后，直到下次的自己回合结束时，自己不是超量怪兽不能从额外卡组特殊召唤。
+②：这张卡在墓地存在的状态，超量怪兽特殊召唤的场合才能发动。这张卡特殊召唤。这个回合，自己的效果发生的对自己的效果伤害变成0。"
+101306008,千皇阴影,str1,Placer dans la Zone Terrain
+101306008,千皇阴影,str2,Invocation Spéciale
+101306008,千皇阴影,str3,L'effet de {CARD} est actuellement appliqué.
 101306009,Akasuna l'Asutra Divin Doré,name,Akasuna l'Asutra Divin Doré
 101306009,Akasuna l'Asutra Divin Doré,desc,"Vous pouvez Invoquer Spécialement cette carte (depuis votre main) en révélant 1 carte face verso que vous contrôlez et en la renvoyant à la main/Extra Deck.
 Vous ne pouvez Invoquer Spécialement ""Akasuna l'Asutra Divin Doré"" qu'une fois par tour de cette façon.
@@ -461,6 +496,14 @@ Vous ne pouvez utiliser chaque effet de ""Cristal Inflexcipateur - Tiamite"" qu'
 101306025,Cristal Inflexcipateur - Tiamite,str1,Effet d'ajout à la main
 101306025,Cristal Inflexcipateur - Tiamite,str2,Renvoyer au Deck
 101306025,Cristal Inflexcipateur - Tiamite,str3,Invocation Spéciale?
+101306026,团结之恶魔龙 暗黑魔龙,name,团结之恶魔龙 暗黑魔龙
+101306026,团结之恶魔龙 暗黑魔龙,desc,"这张卡不能通常召唤，用这张卡的效果才能特殊召唤。这个卡名的①的效果1回合只能使用1次。
+①：自己·对方回合，从手卡把1张速攻·仪式魔法卡丢弃才能发动。这张卡从手卡以守备表示特殊召唤。
+②：这张卡特殊召唤的场合才能发动。从自己的卡组·墓地把1张有「光与暗的仪式」的卡名记述的魔法·陷阱卡在自己场上盖放。
+③：双方的战斗阶段开始时才能发动。对方失去800基本分，这张卡的攻击力上升800。"
+101306026,团结之恶魔龙 暗黑魔龙,str1,Invocation Spéciale
+101306026,团结之恶魔龙 暗黑魔龙,str2,Poser
+101306026,团结之恶魔龙 暗黑魔龙,str3,Faire perdre des LP à votre adversaire et augmenter l'ATK
 101306027,Le Plus Grand Voleur Galant au Monde,name,Le Plus Grand Voleur Galant au Monde
 101306027,Le Plus Grand Voleur Galant au Monde,desc,"Si vous ne contrôlez aucun monstre, vous pouvez Invoquer par Sacrifice cette carte face recto en Sacrifiant des monstres depuis votre main et/ou le Terrain de votre adversaire.
 Vous ne pouvez utiliser chacun des effets suivants de ""Le Plus Grand Voleur Galant au Monde"" qu'une fois par tour.
@@ -469,6 +512,12 @@ Durant la Battle Phase (Effet Rapide) : vous pouvez révéler toute votre main ;
 101306027,Le Plus Grand Voleur Galant au Monde,str1,Invoquer par Sacrifice en Sacrifiant des monstres depuis votre main et le Terrain de votre adversaire
 101306027,Le Plus Grand Voleur Galant au Monde,str2,Annuler l'effet
 101306027,Le Plus Grand Voleur Galant au Monde,str3,Position de combat
+101306028,精灵世妃 树精,name,精灵世妃 树精
+101306028,精灵世妃 树精,desc,"这个卡名的①②的效果1回合各能使用1次，不能对应这些效果的发动把魔法·陷阱·怪兽的效果发动。
+①：这张卡在手卡存在，自己墓地的怪兽的属性是3种类以上的场合，以自己墓地1只怪兽为对象才能发动。那只怪兽和这张卡特殊召唤。
+②：自己墓地的怪兽的属性是3种类以上的场合才能发动。从卡组把相同属性的怪兽不在自己场上·墓地存在的1只怪兽特殊召唤。"
+101306028,精灵世妃 树精,str1,Invocation Spéciale
+101306028,精灵世妃 树精,str2,Invoquer Spécialement depuis le Deck
 101306029,Corailianektes le Dragon Brillant Chatoyant,name,Corailianektes le Dragon Brillant Chatoyant
 101306029,Corailianektes le Dragon Brillant Chatoyant,desc,"Si cette carte est ajoutée à votre main, sauf en la piochant : vous pouvez révéler cette carte et 1 autre monstre EAU dans votre main ; Invoquez Spécialement les deux, et aussi, vous ne pouvez pas Invoquer Spécialement (monstres EAU exclus) le reste de ce tour.
 Vous ne pouvez utiliser cet effet de ""Corailianektes le Dragon Brillant Chatoyant"" qu'une fois par tour.
@@ -541,7 +590,7 @@ Si cette carte est Invoquée Spécialement : vous pouvez activer 1 de ces effets
 Lorsque votre adversaire active un effet de carte dans le Cimetière (Effet Rapide) : vous pouvez bannir cette carte ; Invoquez Spécialement 1 monstre ""Aleister"" depuis votre Deck, et si vous le faites, annulez l'effet.
 Vous ne pouvez utiliser chaque effet de ""Dee Anima l'Invokhé"" qu'une fois par tour."
 101306038,Dee Anima l'Invokhé,str1,Choisir un effet
-101306038,Dee Anima l'Invokhé,str2,Invoquer Spécialement et annuler
+101306038,Dee Anima l'Invokhé,str2,Invoquer Spécialement et annuler l'effet
 101306038,Dee Anima l'Invokhé,str3,Détruire un monstre
 101306038,Dee Anima l'Invokhé,str4,Détruire Magie/Piège
 101306039,Susanoo Asutraja,name,Susanoo Asutraja
@@ -566,6 +615,32 @@ Vous ne pouvez utiliser chaque effet de ""Éveillé Inflexcipateur - Tiamite"" q
 101306041,Éveillé Inflexcipateur - Tiamite,str1,Effet d'ajout à la main
 101306041,Éveillé Inflexcipateur - Tiamite,str2,Renvoyer à la main
 101306041,Éveillé Inflexcipateur - Tiamite,str3,Renvoyer une carte à la main ?
+101306042,No.104 假面魔蹈士 闪光·枉然,name,No.104 假面魔蹈士 闪光·枉然
+101306042,No.104 假面魔蹈士 闪光·枉然,desc,"4星怪兽×3
+这个卡名的②的效果1回合只能使用1次。
+①：1回合1次，把这张卡1个超量素材取除才能发动。从卡组把1张「异晶人的」魔法·陷阱卡加入手卡。
+②：场上的这张卡为素材作超量召唤的怪兽得到以下效果。
+●这张卡超量召唤的场合发动。对方可以从自身卡组把4只怪兽（相同属性最多1只）和1张魔法卡除外。没有除外的场合，自己从对方卡组上面把10张卡除外。"
+101306042,No.104 假面魔蹈士 闪光·枉然,str1,Ajouter à la main
+101306042,No.104 假面魔蹈士 闪光·枉然,str2,Bannir
+101306042,No.104 假面魔蹈士 闪光·枉然,str3,Effet de bannissement ({CARD})
+101306042,No.104 假面魔蹈士 闪光·枉然,str4,Bannir 4 monstres et 1 Carte Magie ?
+101306043,混沌No.104 假面魔蹈士 阴影·胜光,name,混沌No.104 假面魔蹈士 阴影·胜光
+101306043,混沌No.104 假面魔蹈士 阴影·胜光,desc,"5星怪兽×4
+①：自己·对方回合1次，把这张卡1个超量素材取除，以对方场上1张卡为对象才能发动。那张卡破坏。
+②：这张卡和对方怪兽进行战斗的伤害计算时发动。这张卡的攻击力·守备力只在那次伤害计算时，变成那只对方怪兽的攻击力和守备力之内，较高方的数值+100。
+③：这张卡战斗破坏怪兽的场合发动。对方手卡随机1张送去墓地，对方基本分变成一半。"
+101306043,混沌No.104 假面魔蹈士 阴影·胜光,str1,Détruire
+101306043,混沌No.104 假面魔蹈士 阴影·胜光,str2,Modifier l'ATK/DEF
+101306043,混沌No.104 假面魔蹈士 阴影·胜光,str3,Envoyer 1 carte de votre main au Cimetière
+101306044,混沌超量 冀望皇龙 混沌异晶龙,name,混沌超量 冀望皇龙 混沌异晶龙
+101306044,混沌超量 冀望皇龙 混沌异晶龙,desc,"7星怪兽×3只以上
+这张卡也能在自己场上的「混沌No.101」～「混沌No.107」之内的任意「混沌No.」怪兽上面重叠来超量召唤。
+①：这张卡的攻击力上升这张卡的超量素材的数量×1000。
+②：只要这张卡有「混沌No.」怪兽作为超量素材中，对方不能用抽卡以外的方法从卡组把卡加入手卡。
+③：1回合1次，把这张卡1个超量素材取除才能发动。从对方卡组上面把2张卡作为这张卡的超量素材。"
+101306044,混沌超量 冀望皇龙 混沌异晶龙,str1,Invocation Xyz en superposant sur un monstre que vous contrôlez ?
+101306044,混沌超量 冀望皇龙 混沌异晶龙,str2,Attacher un Matériel Xyz
 101306045,Rapickelavee la Cavalerie Lourde Brillamment Couronnée,name,Rapickelavee la Cavalerie Lourde Brillamment Couronnée
 101306045,Rapickelavee la Cavalerie Lourde Brillamment Couronnée,desc,"2 monstres de Niveau 3
 Une fois par tour, vous pouvez aussi Invoquer par Xyz ""Rapickelavee la Cavalerie Lourde Brillamment Couronnée"" en utilisant 1 monstre Bête avec max. 2000 ATK que vous contrôlez (transférez ses Matériels).
@@ -644,6 +719,21 @@ Si une ou plusieurs cartes que vous contrôlez qui mentionnent ""Magicien du Tem
 101306054,Bouc Émissaire Endormi,str1,Activer
 101306054,Bouc Émissaire Endormi,str2,Sélectionnez le nombre d'Invocations Spéciales
 101306054,Bouc Émissaire Endormi,str3,Invoquer Spécialement {CARD} ?
+101306055,七皇的冀望乡,name,七皇的冀望乡
+101306055,七皇的冀望乡,desc,"这个卡名的②③的效果1回合各能使用1次。
+①：只要这张卡在场地区域存在，那期间双方1回合最多只能有2次从额外卡组把「No.」怪兽以外的怪兽特殊召唤。
+②：自己主要阶段才能发动。从卡组把1只「阴影」怪兽加入手卡。那之后，选自己1张手卡丢弃。
+③：自己·对方的结束阶段发动。双方受到场上的超量怪兽的数量×400的伤害。"
+101306055,七皇的冀望乡,str2,Ajouter à la main
+101306055,七皇的冀望乡,str3,Subir des dommages
+101306056,异晶人的冀望,name,异晶人的冀望
+101306056,异晶人的冀望,desc,"这个卡名的①②的效果1回合各能使用1次。
+①：从自己的手卡·墓地把1只「阴影」怪兽或「假面魔蹈士」超量怪兽特殊召唤。那之后，可以把自己场上的全部「阴影」怪兽的等级，变成和自己场上·墓地的1只「阴影」怪兽的等级相同。
+②：把墓地的这张卡除外，以自己场上1只超量怪兽为对象才能发动。从自己的额外卡组·墓地把1只「No.」超量怪兽作为对象怪兽的超量素材。
+"
+101306056,异晶人的冀望,str1,Activer
+101306056,异晶人的冀望,str2,Comme Matériel
+101306056,异晶人的冀望,str3,Changer le Niveau?
 101306057,Trichiliocosme Asutrashen,name,Trichiliocosme Asutrashen
 101306057,Trichiliocosme Asutrashen,desc,"Vous pouvez cibler un nombre de votre choix de cartes face verso que vous contrôlez ; ajoutez un nombre de cartes ""Asutra"" de noms différents l'une de l'autre (Magies de Terrain exclues) depuis votre Deck à votre main, égal au nombre de cartes ciblées qui sont toujours face verso, puis envoyez les cartes face verso au Cimetière.
 Si une ou plusieurs cartes deviennent Posées sur le Terrain, tant que vous contrôlez un monstre ""Asutra"" et une carte face verso : vous pouvez cibler 1 carte sur le Terrain ; renvoyez-la à la main.
@@ -691,6 +781,18 @@ Si cette carte est dans votre Cimetière : vous pouvez placer 1 carte depuis vot
 Vous ne pouvez utiliser chaque effet de ""Copains Inflexcipateur"" qu'une fois par tour."
 101306063,Copains Inflexcipateur,str1,Effet d'ajout à la main
 101306063,Copains Inflexcipateur,str2,Renvoyer à la main
+101306064,魔法效果之剑,name,魔法效果之剑
+101306064,魔法效果之剑,desc,"这个卡名的卡在1回合只能发动1张。
+①：可以从以下效果选择1个发动。
+●对方场上的表侧表示的魔法卡全部破坏。
+●以对方场上1只表侧表示怪兽为对象才能发动。选自己手卡·墓地的1张「光与暗的仪式」，给双方确认。那之后，作为对象的怪兽的攻击力变成0，效果无效化。
+②：这张卡被对方破坏的场合才能发动。对方的手卡·场上1张卡破坏（从手卡是随机选）。"
+101306064,魔法效果之剑,str1,Activer
+101306064,魔法效果之剑,str2,Détruire toutes les Cartes Magie face recto contrôlées par votre adversaire
+101306064,魔法效果之剑,str3,L'ATK du monstre ciblé devient 0 et ses effets sont annulés
+101306064,魔法效果之剑,str4,Détruire 1 carte dans la main ou sur le Terrain de votre adversaire
+101306064,魔法效果之剑,str5,Sélectionner au hasard 1 carte dans la main de l'adversaire à détruire
+101306064,魔法效果之剑,str6,Sélectionner 1 carte contrôlée par l'adversaire à détruire
 101306065,三幻魔的天坏,name,三幻魔的天坏
 101306065,三幻魔的天坏,desc,"这个卡名的卡在1回合只能发动1张。
 ①：可以从以下效果选择1个发动。
@@ -713,7 +815,7 @@ Vous ne pouvez utiliser cet effet de ""Blitzclique - Surtension"" qu'une fois pa
 ● Invoquez par Fusion 1 Monstre Fusion ""Invokhé"" depuis votre Extra Deck, en bannissant 1 monstre que vous contrôlez et 1 monstre face recto contrôlé par votre adversaire.
 Vous ne pouvez activer qu'1 ""Invokhation - ""Calice"""" par tour."
 101306067,"Invokhation - ""Calice""",str1,Activer
-101306067,"Invokhation - ""Calice""",str2,"Invoquer par Fusion en utilisant la main, le Terrain et le Deck"
+101306067,"Invokhation - ""Calice""",str2,"Invoquer par Fusion en utilisant votre main, votre Terrain et votre Deck"
 101306067,"Invokhation - ""Calice""",str3,Invoquer par Fusion en utilisant des monstres sur les deux Terrains
 101306068,Trunade Spatiale,name,Trunade Spatiale
 101306068,Trunade Spatiale,desc,"Renvoyez max. 2 cartes sur le Terrain à la main, puis chaque joueur place un nombre de cartes depuis sa main au-dessous de son Deck dans l'ordre de son choix égal au nombre de cartes qui ont été renvoyées à sa main.
@@ -723,8 +825,8 @@ Vous ne pouvez activer qu'1 ""Trunade Spatiale"" par tour."
 101306069,Réalisation de Puissance Magique,desc,"Ajoutez 1 carte depuis votre Deck ou Cimetière à votre main qui mentionne ""Compteur Magie"" dans son texte (""Réalisation de Puissance Magique"" exclue), puis si vous contrôlez une Carte Monstre ""Endymion"" de min. Niveau 7, vous pouvez retirer un nombre de votre choix de Compteurs Magie depuis votre Terrain, et si vous le faites, annulez les effets d'autant de cartes face recto contrôlées par votre adversaire, et si vous faites ça, détruisez-les.
 Vous ne pouvez activer qu'1 ""Réalisation de Puissance Magique"" par tour."
 101306069,Réalisation de Puissance Magique,str1,Activer
-101306069,Réalisation de Puissance Magique,str2,Retirer des marqueurs ?
-101306069,Réalisation de Puissance Magique,str3,Sélectionnez le nombre de marqueurs à retirer
+101306069,Réalisation de Puissance Magique,str2,Retirer des Compteurs ?
+101306069,Réalisation de Puissance Magique,str3,Sélectionnez le nombre de Compteurs à retirer
 101306070,Profanateur de Tombes Inutile,name,Profanateur de Tombes Inutile
 101306070,Profanateur de Tombes Inutile,desc,"Envoyez 1 carte qui mentionne ""Magicien du Temps des Ténèbres"" (""Profanateur de Tombes Inutile"" exclu) depuis votre Deck au Cimetière, puis vous pouvez Invoquer Spécialement 1 monstre depuis l'un des Cimetières sur votre Terrain.
 Vous pouvez bannir cette carte depuis votre Cimetière ; Posez sur votre Terrain, 1 Magie/Piège qui mentionne ""Magicien du Temps des Ténèbres"" (""Profanateur de Tombes Inutile"" exclu) depuis votre Cimetière, ou 1 Magie/Piège depuis le Cimetière de votre adversaire.
@@ -739,6 +841,14 @@ Si vous gagnez, vous pouvez Invoquer Spécialement 1 monstre qui mentionne ""Mag
 101306071,Boîte du Renversement,str1,Placer un marqueur
 101306071,Boîte du Renversement,str2,Lancer une pièce
 101306071,Boîte du Renversement,str3,Sélectionnez le nombre de compteurs à placer
+101306072,异晶人的封印,name,异晶人的封印
+101306072,异晶人的封印,desc,"这个卡名的①②的效果1回合只能有1次使用其中任意1个。
+①：「混沌超量」怪兽或者「混沌No.101」~「混沌No.107」之内的任意「混沌No.」怪兽在自己场上存在，对方把怪兽的效果·魔法·陷阱卡发动时才能发动。那个发动无效。那之后，可以从自己或对方的场上·墓地把1只怪兽作为自己场上1只超量怪兽的超量素材。
+②：把墓地的这张卡除外才能发动。从自己墓地把2只「阴影」怪兽特殊召唤。"
+101306072,异晶人的封印,str1,Annuler
+101306072,异晶人的封印,str2,Invocation Spéciale
+101306072,异晶人的封印,str3,Attacher du Matériel Xyz ?
+101306072,异晶人的封印,str4,Sélectionnez 1 Monstre Xyz
 101306073,Poison d'Insecte Asutra,name,Poison d'Insecte Asutra
 101306073,Poison d'Insecte Asutra,desc,"Activez 1 de ces effets ;
 ● Invoquez Spécialement cette carte comme un Monstre Normal (Insecte/Syntoniseur/TÉNÈBRES/Niveau 1/ATK 0/DEF 0) (cette carte n'est PAS traitée comme un Piège), puis immédiatement après la résolution de cet effet, vous pouvez Invoquer par Synchronisation 1 Monstre Synchro.
