@@ -27,7 +27,7 @@ Durante la tua Main Phase: puoi lanciare un dado a 6 facce e applicare questo ef
 Puoi utilizzare ogni effetto di ""Signore del Male - Zorc"" una sola volta per turno."
 100200295,Signore del Male - Zorc,str1,Effetto di aggiunta alla mano
 100200295,Signore del Male - Zorc,str2,Evocazione Speciale
-100200295,Signore del Male - Zorc,str3,Effetto dado
+100200295,Signore del Male - Zorc,str3,Effetto del dado
 100200295,Signore del Male - Zorc,str4,Prendere il controllo?
 100260001,Compagnia di Clown Hat,name,Compagnia di Clown Hat
 100260001,Compagnia di Clown Hat,desc,"Valore Pendulum = 7
@@ -173,9 +173,9 @@ Se questa carta viene Synchro Evocata: puoi scartare 1 carta; bandisci 2 carte d
 Se il tuo avversario Evoca Specialmente uno o più mostri: puoi bandire 1 carta dalla tua mano; fai ritornare 1 carta sul Terreno o in uno dei Cimiteri alla mano.
 Se questa carta Synchro Evocata viene mandata al Cimitero durante il turno del tuo avversario: puoi bandire 1 carta dalla mano del tuo avversario (a caso), Terreno o Cimitero.
 Puoi utilizzare ogni effetto di ""Ekhajar, Drago Discendente della Barriera di Ghiaccio"" una sola volta per turno."
-100266005,"Ekhajar, Drago Discendente della Barriera di Ghiaccio",str1,Bandisci dal Terreno o dal Cimitero
+100266005,"Ekhajar, Drago Discendente della Barriera di Ghiaccio",str1,Bandire dal Terreno/Cimitero
 100266005,"Ekhajar, Drago Discendente della Barriera di Ghiaccio",str2,Rimettere in mano
-100266005,"Ekhajar, Drago Discendente della Barriera di Ghiaccio",str3,"Bandisci dalla mano, dal Terreno o dal Cimitero"
+100266005,"Ekhajar, Drago Discendente della Barriera di Ghiaccio",str3,Bandire dalla mano/dal Terreno/Cimitero
 100266005,"Ekhajar, Drago Discendente della Barriera di Ghiaccio",str4,Bandire 1 carta dalla tua mano?
 101305081,Testimone dell'Antico,name,Testimone dell'Antico
 101305081,Testimone dell'Antico,desc,"Se hai un Mostro Synchro sul tuo Terreno o nel tuo Cimitero: puoi Evocare Specialmente questa carta dalla tua mano.
@@ -347,7 +347,7 @@ Può essere considerata come 2 materiali per l'Evocazione Xyz di un Mostro Xyz "
 101306008,Orrore Umbral Thousand,desc,"(Effetto Rapido): puoi mandare questa carta dalla tua mano o Terreno al Cimitero; metti 1 ""Settimo del Barian"" dalla tua mano o Deck scoperto nella tua Zona Terreno, inoltre non puoi Evocare Specialmente dall'Extra Deck fino alla fine del tuo prossimo turno, eccetto Mostri Xyz.
 Se uno o più Mostri Xyz vengono Evocati Specialmente mentre questa carta è nel tuo Cimitero: puoi Evocare Specialmente questa carta, inoltre non subisci danni da effetto degli effetti delle tue carte per il resto di questo turno.
 Puoi utilizzare ogni effetto di ""Orrore Umbral Thousand"" una sola volta per turno."
-101306008,Orrore Umbral Thousand,str1,Posiziona una Magia Terreno
+101306008,Orrore Umbral Thousand,str1,Posizionare nella Zona Terreno
 101306008,Orrore Umbral Thousand,str2,Evocazione Speciale
 101306008,Orrore Umbral Thousand,str3,L'effetto di {CARD} si sta applicando.
 101306009,Akasuna Divinità Dorata Asutra,name,Akasuna Divinità Dorata Asutra
@@ -471,7 +471,7 @@ Puoi utilizzare ciascun effetto di ""Servitore della Corazzata del Terrore - ERO
 Durante la tua Main Phase: Puoi dissotterrare le prime 5 carte del tuo Deck, e se lo fai, puoi Evocare Specialmente 1 mostro Roccia di Livello 4 o inferiore tra quelle dissotterrate, inoltre metti il resto in fondo al Deck in un ordine qualsiasi.
 Puoi utilizzare ciascun effetto di ""Irremovibilatrice Conduttrice"" una sola volta per turno."
 101306024,Irremovibilatrice Conduttrice,str1,Evocazione Speciale
-101306024,Irremovibilatrice Conduttrice,str2,Dissotterra il Deck
+101306024,Irremovibilatrice Conduttrice,str2,Scavare il Deck
 101306024,Irremovibilatrice Conduttrice,str3,Evocare Specialmente il mostro?
 101306025,Irremovibilatore Cristallo - Tiamite,name,Irremovibilatore Cristallo - Tiamite
 101306025,Irremovibilatore Cristallo - Tiamite,desc,"Se questa carta viene Evocata Specialmente dall'effetto di una carta ""Irremovibilatore"": Puoi aggiungere 1 carta ""Irremovibilatore"" dal tuo Deck alla tua mano, eccetto ""Irremovibilatore Cristallo - Tiamite"", poi puoi Evocare Specialmente 1 mostro Roccia dalla tua mano.
@@ -487,7 +487,7 @@ Se questa carta viene Evocata Specialmente: puoi Posizionare 1 Magia/Trappola ch
 All'inizio della Battle Phase: puoi fare perdere 800 LP al tuo avversario e, se lo fai, questa carta guadagna 800 ATK."
 101306026,Drago Teschio Nero il Drago Arcidemone dell'Unità,str1,Evocazione Speciale
 101306026,Drago Teschio Nero il Drago Arcidemone dell'Unità,str2,Posiziona
-101306026,Drago Teschio Nero il Drago Arcidemone dell'Unità,str3,Perdi LP / Aumenta l'ATK
+101306026,Drago Teschio Nero il Drago Arcidemone dell'Unità,str3,Far perdere LP al tuo avversario e aumentare l'ATK
 101306027,Il Più Grande Ladro Galante al Mondo,name,Il Più Grande Ladro Galante al Mondo
 101306027,Il Più Grande Ladro Galante al Mondo,desc,"Se non controlli mostri, puoi Evocare tramite Tributo questa carta scoperta offrendo come Tributo mostri dalla tua mano e/o dal Terreno del tuo avversario.
 Puoi utilizzare ciascuno dei seguenti effetti di ""Il Più Grande Ladro Galante al Mondo"" una sola volta per turno.
@@ -570,7 +570,7 @@ Se questa carta viene Evocata Specialmente: puoi attivare 1 di questi effetti;
 Quando il tuo avversario attiva l'effetto di una carta nel Cimitero (Effetto Rapido): puoi bandire questa carta; Evoca Specialmente 1 mostro ""Aleister"" dal tuo Deck e, se lo fai, annulla quell'effetto.
 Puoi utilizzare ogni effetto di ""Invokato Dee Anima"" una sola volta per turno."
 101306038,Invokato Dee Anima,str1,Scegli un effetto
-101306038,Invokato Dee Anima,str2,Evocare Specialmente e annullare
+101306038,Invokato Dee Anima,str2,Evocare Specialmente e annullare l'effetto
 101306038,Invokato Dee Anima,str3,Distruggi 1 mostro
 101306038,Invokato Dee Anima,str4,Distruggi Magia/Trappola
 101306039,Asutraja Susanoo,name,Asutraja Susanoo
@@ -602,7 +602,7 @@ Un mostro che è stato Evocato Xyz utilizzando questa carta sul Terreno come mat
 Puoi utilizzare questo effetto di ""Numero 104: Masquerade Vano"" una sola volta per turno."
 101306042,Numero 104: Masquerade Vano,str1,Aggiungere alla mano
 101306042,Numero 104: Masquerade Vano,str2,Bandire
-101306042,Numero 104: Masquerade Vano,str3,Effetto di Bandimento (Numero 104)
+101306042,Numero 104: Masquerade Vano,str3,Effetto di messa al bando ({CARD})
 101306042,Numero 104: Masquerade Vano,str4,Bandire 4 mostri e 1 Carta Magia?
 101306043,Numero C104: Orrore Umbral Masquerade Vittoria,name,Numero C104: Orrore Umbral Masquerade Vittoria
 101306043,Numero C104: Orrore Umbral Masquerade Vittoria,desc,"4 mostri di Livello 5
@@ -610,7 +610,7 @@ Una volta per turno (Effetto Rapido): puoi staccare 1 materiale da questa carta,
 Se questa carta combatte un mostro dell'avversario, durante il calcolo dei danni: l'ATK/DEF di questa carta diventano pari all'ATK o DEF (qualunque sia il valore più alto) di quel mostro dell'avversario +100, solo durante il calcolo dei danni.
 Se questa carta distrugge un mostro in battaglia: manda 1 carta casuale dalla mano del tuo avversario al Cimitero e, se lo fai, dimezza gli LP del tuo avversario."
 101306043,Numero C104: Orrore Umbral Masquerade Vittoria,str1,Distruggere
-101306043,Numero C104: Orrore Umbral Masquerade Vittoria,str2,Modifica ATK / DEF
+101306043,Numero C104: Orrore Umbral Masquerade Vittoria,str2,Cambiare ATK/DEF
 101306043,Numero C104: Orrore Umbral Masquerade Vittoria,str3,Mandare 1 carta dalla tua mano al Cimitero
 101306044,Cxyz Drago della Speranza Barian del Chaos,name,Cxyz Drago della Speranza Barian del Chaos
 101306044,Cxyz Drago della Speranza Barian del Chaos,desc,"3+ mostri di Livello 7
@@ -619,7 +619,7 @@ Guadagna 1000 ATK per ogni materiale ad essa assegnato.
 Finché questa carta ha un mostro ""Numero C"" come materiale, il tuo avversario non può aggiungere carte dal Deck alla mano, eccetto pescandole.
 Una volta per turno: puoi staccare 1 materiale da questa carta; attacca come materiale a questa carta le prime 2 carte del Deck del tuo avversario."
 101306044,Cxyz Drago della Speranza Barian del Chaos,str1,Evocare Xyz sovrapponendo su un mostro che controlli?
-101306044,Cxyz Drago della Speranza Barian del Chaos,str2,Attacca come Materiale Xyz
+101306044,Cxyz Drago della Speranza Barian del Chaos,str2,Attaccare Materiale Xyz
 101306045,Swickelavee Cavalleria Pesante dalla Splendente Corona,name,Swickelavee Cavalleria Pesante dalla Splendente Corona
 101306045,Swickelavee Cavalleria Pesante dalla Splendente Corona,desc,"2 mostri di Livello 3
 Una volta per turno, puoi anche Evocare Xyz ""Swickelavee Cavalleria Pesante dalla Splendente Corona"" utilizzando 1 mostro Bestia che controlli con 2000 ATK o meno come materiale (trasferisci i suoi materiali a questa carta).
@@ -709,7 +709,7 @@ Durante la End Phase: ogni giocatore subisce 400 danni per ogni Mostro Xyz sul T
 Puoi bandire questa carta dal tuo Cimitero, poi scegliere come bersaglio 1 Mostro Xyz che controlli; attacca come materiale a quel mostro 1 Mostro Xyz ""Numero"" dal tuo Extra Deck o Cimitero.
 Puoi utilizzare ogni effetto di ""Speranza di Barian"" una sola volta per turno."
 101306056,Speranza di Barian,str1,Attiva
-101306056,Speranza di Barian,str2,Usa come Materiale
+101306056,Speranza di Barian,str2,Come materiale
 101306056,Speranza di Barian,str3,Cambiare il Livello?
 101306057,Trichiliocosmo Asutrashen,name,Trichiliocosmo Asutrashen
 101306057,Trichiliocosmo Asutrashen,desc,"Puoi scegliere come bersaglio un qualsiasi numero di carte coperte che controlli; aggiungi dal tuo Deck alla tua mano carte ""Asutra"" con nomi diversi tra loro, eccetto Magie Terreno, in numero pari a quello delle carte scelte come bersaglio che sono ancora coperte, poi manda quelle carte coperte al Cimitero.
@@ -764,9 +764,9 @@ Puoi utilizzare ciascun effetto di ""Compagni Irremovibilatore"" una sola volta 
 Se questa carta in possesso del suo proprietario viene distrutta da una carta del tuo avversario: puoi distruggere 1 carta nella mano del tuo avversario (a caso) o sul suo Terreno.
 Puoi attivare solo 1 ""Spada Frantuma-Magia"" per turno."
 101306064,Spada Frantuma-Magia,str1,Attiva
-101306064,Spada Frantuma-Magia,str2,Distruggi tutte le Carte Magia scoperte controllate dal tuo avversario
-101306064,Spada Frantuma-Magia,str3,Il suo ATK diventa 0 e i suoi effetti vengono annullati
-101306064,Spada Frantuma-Magia,str4,Distruggi 1 carta nella mano o sul Terreno del tuo avversario
+101306064,Spada Frantuma-Magia,str2,Distruggere tutte le Carte Magia scoperte controllate dal tuo avversario
+101306064,Spada Frantuma-Magia,str3,L'ATK del mostro scelto come bersaglio diventa 0 e i suoi effetti sono annullati
+101306064,Spada Frantuma-Magia,str4,Distruggere 1 carta nella mano o sul Terreno del tuo avversario
 101306064,Spada Frantuma-Magia,str5,Seleziona casualmente 1 carta nella mano del tuo avversario da distruggere
 101306064,Spada Frantuma-Magia,str6,Seleziona 1 carta controllata dal tuo avversario da distruggere
 101306065,Frantumatore Splendente delle Bestie Sacre,name,Frantumatore Splendente delle Bestie Sacre
@@ -790,7 +790,7 @@ Se una o più carte vengono distrutte dall'effetto di una tua carta ""Blitzcliqu
 ● Evoca tramite Fusione 1 Mostro Fusione ""Invokato"" dal tuo Extra Deck, bandendo 1 mostro che controlli e 1 mostro scoperto controllato dal tuo avversario.
 Puoi attivare solo 1 ""Invokazione - Calice"" per turno."
 101306067,Invokazione - Calice,str1,Attiva
-101306067,Invokazione - Calice,str2,"Evocare tramite Fusione usando la mano, il Terreno e il Deck"
+101306067,Invokazione - Calice,str2,"Evocare tramite Fusione usando la tua mano, il tuo Terreno e il tuo Deck"
 101306067,Invokazione - Calice,str3,Evocare tramite Fusione usando mostri su entrambi i Terreni
 101306068,Ritorno Spaziale,name,Ritorno Spaziale
 101306068,Ritorno Spaziale,desc,"Fai ritornare fino a 2 carte sul Terreno alla mano, poi ciascun giocatore mette in fondo al Deck, in qualsiasi ordine, un numero di carte dalla propria mano pari al numero di carte ritornate alla propria mano.
@@ -821,7 +821,7 @@ Puoi bandire questa carta dal tuo Cimitero; Evoca Specialmente 2 mostri ""Orrore
 Puoi utilizzare solo 1 effetto di ""Sigillo di Barian"" per turno, e solo una volta in quel turno."
 101306072,Sigillo di Barian,str1,Annullare
 101306072,Sigillo di Barian,str2,Evocazione Speciale
-101306072,Sigillo di Barian,str3,Attaccarla come Materiale Xyz?
+101306072,Sigillo di Barian,str3,Attaccare Materiale Xyz?
 101306072,Sigillo di Barian,str4,Seleziona 1 Mostro Xyz
 101306073,Veleno d'Insetto Asutra,name,Veleno d'Insetto Asutra
 101306073,Veleno d'Insetto Asutra,desc,"Attiva 1 di questi effetti;
