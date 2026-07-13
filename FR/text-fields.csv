@@ -179,9 +179,9 @@ Si cette carte est Invoquée par Synchronisation : vous pouvez défausser 1 cart
 Si votre adversaire Invoque Spécialement un ou plusieurs monstres : vous pouvez bannir 1 carte depuis votre main ; renvoyez 1 carte dans le Terrain ou Cimetière à la main.
 Si cette carte Invoquée par Synchronisation est envoyée au Cimetière durant le tour de votre adversaire : vous pouvez bannir 1 carte depuis la main (au hasard), Terrain ou Cimetière de votre adversaire.
 Vous ne pouvez utiliser chaque effet de ""Ekhajar, Dragon Descendant de la Barrière de Glace"" qu'une fois par tour."
-100266005,"Ekhajar, Dragon Descendant de la Barrière de Glace",str1,Bannissez du terrain ou du Cimetière.
+100266005,"Ekhajar, Dragon Descendant de la Barrière de Glace",str1,Bannir depuis le Terrain/Cimetière
 100266005,"Ekhajar, Dragon Descendant de la Barrière de Glace",str2,Renvoyer à la main
-100266005,"Ekhajar, Dragon Descendant de la Barrière de Glace",str3,"Bannissez de la main, du Terrain ou du Cimetière."
+100266005,"Ekhajar, Dragon Descendant de la Barrière de Glace",str3,Bannir depuis la main/le Terrain/le Cimetière
 100266005,"Ekhajar, Dragon Descendant de la Barrière de Glace",str4,Bannir une carte depuis votre main ?
 101305081,Témoin de l'Ancien,name,Témoin de l'Ancien
 101305081,Témoin de l'Ancien,desc,"Si vous avez un Monstre Synchro dans votre Terrain ou Cimetière : vous pouvez Invoquer Spécialement cette carte depuis votre main.
@@ -357,7 +357,7 @@ Cette carte peut être traitée comme 2 Matériels pour l'Invocation Xyz d'un Mo
 101306008,Horreur de l'Ombre Mille,desc,"(Effet Rapide) : vous pouvez envoyer cette carte depuis votre main ou Terrain au Cimetière ; placez 1 ""Septième de Barian"" depuis votre main ou Deck face recto dans votre Zone Terrain, et aussi, vous ne pouvez pas Invoquer Spécialement depuis l'Extra Deck (Monstres Xyz exclus) jusqu'à la fin de votre prochain tour.
 Si un ou plusieurs Monstres Xyz sont Invoqués Spécialement tant que cette carte est dans votre Cimetière : vous pouvez Invoquer Spécialement cette carte, et aussi, vous ne recevez aucun dommage d'effet de vos effets de carte le reste de ce tour.
 Vous ne pouvez utiliser chaque effet de ""Horreur de l'Ombre Mille"" qu'une fois par tour."
-101306008,Horreur de l'Ombre Mille,str1,Zone Terrain
+101306008,Horreur de l'Ombre Mille,str1,Placer dans la Zone Terrain
 101306008,Horreur de l'Ombre Mille,str2,Invocation Spéciale
 101306008,Horreur de l'Ombre Mille,str3,L'effet de {CARD} est actuellement appliqué.
 101306009,Akasuna l'Asutra Divin Doré,name,Akasuna l'Asutra Divin Doré
@@ -505,7 +505,7 @@ Si cette carte est Invoquée Spécialement : vous pouvez Poser 1 Magie/Piège qu
 Au début de la Battle Phase : vous pouvez faire perdre 800 LP à votre adversaire, et si vous le faites, cette carte gagne 800 ATK."
 101306026,"Dragon Crâne Noir, le Dragon Archdémon de l'Unité",str1,Invocation Spéciale
 101306026,"Dragon Crâne Noir, le Dragon Archdémon de l'Unité",str2,Poser
-101306026,"Dragon Crâne Noir, le Dragon Archdémon de l'Unité",str3,Perdre des LP / Augmenter l'ATK
+101306026,"Dragon Crâne Noir, le Dragon Archdémon de l'Unité",str3,Faire perdre des LP à votre adversaire et augmenter l'ATK
 101306027,Le Plus Grand Voleur Galant au Monde,name,Le Plus Grand Voleur Galant au Monde
 101306027,Le Plus Grand Voleur Galant au Monde,desc,"Si vous ne contrôlez aucun monstre, vous pouvez Invoquer par Sacrifice cette carte face recto en Sacrifiant des monstres depuis votre main et/ou le Terrain de votre adversaire.
 Vous ne pouvez utiliser chacun des effets suivants de ""Le Plus Grand Voleur Galant au Monde"" qu'une fois par tour.
@@ -593,7 +593,7 @@ Si cette carte est Invoquée Spécialement : vous pouvez activer 1 de ces effets
 Lorsque votre adversaire active un effet de carte dans le Cimetière (Effet Rapide) : vous pouvez bannir cette carte ; Invoquez Spécialement 1 monstre ""Aleister"" depuis votre Deck, et si vous le faites, annulez l'effet.
 Vous ne pouvez utiliser chaque effet de ""Dee Anima l'Invokhé"" qu'une fois par tour."
 101306038,Dee Anima l'Invokhé,str1,Choisir un effet
-101306038,Dee Anima l'Invokhé,str2,Invoquer Spécialement et annuler
+101306038,Dee Anima l'Invokhé,str2,Invoquer Spécialement et annuler l'effet
 101306038,Dee Anima l'Invokhé,str3,Détruire un monstre
 101306038,Dee Anima l'Invokhé,str4,Détruire Magie/Piège
 101306039,Susanoo Asutraja,name,Susanoo Asutraja
@@ -626,7 +626,7 @@ Un monstre qui a été Invoqué par Xyz en utilisant cette carte sur le Terrain 
 Vous ne pouvez utiliser cet effet de ""Numéro 104 : Mascarade de la Vanité"" qu'une fois par tour."
 101306042,Numéro 104 : Mascarade de la Vanité,str1,Ajouter à la main
 101306042,Numéro 104 : Mascarade de la Vanité,str2,Bannir
-101306042,Numéro 104 : Mascarade de la Vanité,str3,Effet de bannissement (Numéro 104 : Mascarade de la Vanité)
+101306042,Numéro 104 : Mascarade de la Vanité,str3,Effet de bannissement ({CARD})
 101306042,Numéro 104 : Mascarade de la Vanité,str4,Bannir 4 monstres et 1 Carte Magie ?
 101306043,Numéro C104 : Mascarade Horreur de l'Ombre Victoire,name,Numéro C104 : Mascarade Horreur de l'Ombre Victoire
 101306043,Numéro C104 : Mascarade Horreur de l'Ombre Victoire,desc,"4 monstres de Niveau 5
@@ -634,7 +634,7 @@ Une fois par tour (Effet Rapide) : vous pouvez détacher 1 Matériel de cette ca
 Si cette carte combat un monstre de l'adversaire, durant le calcul des dommages : l'ATK/DEF de cette carte devient l'ATK ou DEF du monstre de l'adversaire (la plus haute valeur) +100 durant le calcul des dommages uniquement.
 Si cette carte détruit un monstre au combat : envoyez 1 carte au hasard depuis la main de votre adversaire au Cimetière, et si vous le faites, divisez par deux les LP de votre adversaire."
 101306043,Numéro C104 : Mascarade Horreur de l'Ombre Victoire,str1,Détruire
-101306043,Numéro C104 : Mascarade Horreur de l'Ombre Victoire,str2,Modifier ATK/DEF
+101306043,Numéro C104 : Mascarade Horreur de l'Ombre Victoire,str2,Modifier l'ATK/DEF
 101306043,Numéro C104 : Mascarade Horreur de l'Ombre Victoire,str3,Envoyer 1 carte de votre main au Cimetière
 101306044,Dragon Espoir Barian du Chaos CXyz,name,Dragon Espoir Barian du Chaos CXyz
 101306044,Dragon Espoir Barian du Chaos CXyz,desc,"3+ monstres de Niveau 7
@@ -734,7 +734,7 @@ Durant la End Phase : chaque joueur reçoit 400 points de dommages pour chaque M
 Vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 Monstre Xyz que vous contrôlez ; attachez-lui 1 Monstre Xyz ""Numéro"" depuis votre Extra Deck ou Cimetière.
 Vous ne pouvez utiliser chaque effet de ""Espoir de Barian"" qu'une fois par tour."
 101306056,Espoir de Barian,str1,Activer
-101306056,Espoir de Barian,str2,Attacher comme matériel
+101306056,Espoir de Barian,str2,Comme Matériel
 101306056,Espoir de Barian,str3,Changer le Niveau?
 101306057,Trichiliocosme Asutrashen,name,Trichiliocosme Asutrashen
 101306057,Trichiliocosme Asutrashen,desc,"Vous pouvez cibler un nombre de votre choix de cartes face verso que vous contrôlez ; ajoutez un nombre de cartes ""Asutra"" de noms différents l'une de l'autre (Magies de Terrain exclues) depuis votre Deck à votre main, égal au nombre de cartes ciblées qui sont toujours face verso, puis envoyez les cartes face verso au Cimetière.
@@ -790,9 +790,9 @@ Vous ne pouvez utiliser chaque effet de ""Copains Inflexcipateur"" qu'une fois p
 Si cette carte en possession de son propriétaire est détruite par une carte de l'adversaire : Vous pouvez détruire 1 carte dans la main (au hasard) ou Terrain de votre adversaire.
 Vous ne pouvez activer qu'1 ""Épée Brise-Sort"" par tour."
 101306064,Épée Brise-Sort,str1,Activer
-101306064,Épée Brise-Sort,str2,Détruisez toutes les Cartes Magie face recto contrôlées par votre adversaire.
-101306064,Épée Brise-Sort,str3,L'ATK du monstre ciblé devient 0 et ses effets sont annulés.
-101306064,Épée Brise-Sort,str4,Détruisez 1 carte dans la main de l'adversaire ou sur le Terrain.
+101306064,Épée Brise-Sort,str2,Détruire toutes les Cartes Magie face recto contrôlées par votre adversaire
+101306064,Épée Brise-Sort,str3,L'ATK du monstre ciblé devient 0 et ses effets sont annulés
+101306064,Épée Brise-Sort,str4,Détruire 1 carte dans la main ou sur le Terrain de votre adversaire
 101306064,Épée Brise-Sort,str5,Sélectionner au hasard 1 carte dans la main de l'adversaire à détruire
 101306064,Épée Brise-Sort,str6,Sélectionner 1 carte contrôlée par l'adversaire à détruire
 101306065,Destruction Chatoyante des Bêtes Sacrées,name,Destruction Chatoyante des Bêtes Sacrées
@@ -817,7 +817,7 @@ Vous ne pouvez utiliser cet effet de ""Blitzclique - Surtension"" qu'une fois pa
 ● Invoquez par Fusion 1 Monstre Fusion ""Invokhé"" depuis votre Extra Deck, en bannissant 1 monstre que vous contrôlez et 1 monstre face recto contrôlé par votre adversaire.
 Vous ne pouvez activer qu'1 ""Invokhation - ""Calice"""" par tour."
 101306067,"Invokhation - ""Calice""",str1,Activer
-101306067,"Invokhation - ""Calice""",str2,"Invoquer par Fusion en utilisant la main, le Terrain et le Deck"
+101306067,"Invokhation - ""Calice""",str2,"Invoquer par Fusion en utilisant votre main, votre Terrain et votre Deck"
 101306067,"Invokhation - ""Calice""",str3,Invoquer par Fusion en utilisant des monstres sur les deux Terrains
 101306068,Trunade Spatiale,name,Trunade Spatiale
 101306068,Trunade Spatiale,desc,"Renvoyez max. 2 cartes sur le Terrain à la main, puis chaque joueur place un nombre de cartes depuis sa main au-dessous de son Deck dans l'ordre de son choix égal au nombre de cartes qui ont été renvoyées à sa main.
@@ -827,8 +827,8 @@ Vous ne pouvez activer qu'1 ""Trunade Spatiale"" par tour."
 101306069,Réalisation de Puissance Magique,desc,"Ajoutez 1 carte depuis votre Deck ou Cimetière à votre main qui mentionne ""Compteur Magie"" dans son texte (""Réalisation de Puissance Magique"" exclue), puis si vous contrôlez une Carte Monstre ""Endymion"" de min. Niveau 7, vous pouvez retirer un nombre de votre choix de Compteurs Magie depuis votre Terrain, et si vous le faites, annulez les effets d'autant de cartes face recto contrôlées par votre adversaire, et si vous faites ça, détruisez-les.
 Vous ne pouvez activer qu'1 ""Réalisation de Puissance Magique"" par tour."
 101306069,Réalisation de Puissance Magique,str1,Activer
-101306069,Réalisation de Puissance Magique,str2,Retirer des marqueurs ?
-101306069,Réalisation de Puissance Magique,str3,Sélectionnez le nombre de marqueurs à retirer
+101306069,Réalisation de Puissance Magique,str2,Retirer des Compteurs ?
+101306069,Réalisation de Puissance Magique,str3,Sélectionnez le nombre de Compteurs à retirer
 101306070,Profanateur de Tombes Inutile,name,Profanateur de Tombes Inutile
 101306070,Profanateur de Tombes Inutile,desc,"Envoyez 1 carte qui mentionne ""Magicien du Temps des Ténèbres"" (""Profanateur de Tombes Inutile"" exclu) depuis votre Deck au Cimetière, puis vous pouvez Invoquer Spécialement 1 monstre depuis l'un des Cimetières sur votre Terrain.
 Vous pouvez bannir cette carte depuis votre Cimetière ; Posez sur votre Terrain, 1 Magie/Piège qui mentionne ""Magicien du Temps des Ténèbres"" (""Profanateur de Tombes Inutile"" exclu) depuis votre Cimetière, ou 1 Magie/Piège depuis le Cimetière de votre adversaire.
@@ -849,7 +849,7 @@ Vous pouvez bannir cette carte depuis votre Cimetière ; Invoquez Spécialement 
 Vous ne pouvez utiliser qu'1 effet de ""Sceau de Barian"" par tour, et uniquement une fois le tour."
 101306072,Sceau de Barian,str1,Annuler
 101306072,Sceau de Barian,str2,Invocation Spéciale
-101306072,Sceau de Barian,str3,Attacher 1 monstre ?
+101306072,Sceau de Barian,str3,Attacher du Matériel Xyz ?
 101306072,Sceau de Barian,str4,Sélectionnez 1 Monstre Xyz
 101306073,Poison d'Insecte Asutra,name,Poison d'Insecte Asutra
 101306073,Poison d'Insecte Asutra,desc,"Activez 1 de ces effets ;
