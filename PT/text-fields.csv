@@ -164,16 +164,87 @@ Durante a Fase Principal (Efeito Rápido): você pode banir até 3 monstros TREV
 Você só pode usar cada um dos efeitos de ""Dragão Negro Armado Punidor"" uma vez por turno."
 100266004,Dragão Negro Armado Punidor,str1,Invocação Especial
 100266004,Dragão Negro Armado Punidor,str2,Destruir
-100266005,冰结界的龙胤 三千界龙,name,冰结界的龙胤 三千界龙
-100266005,冰结界的龙胤 三千界龙,desc,"调整+调整以外的怪兽1只以上
-这个卡名的①②③的效果1回合各能使用1次。
-①：这张卡同调召唤的场合，丢弃1张手卡才能发动。从对方的场上·墓地把2张卡除外。
-②：对方把怪兽特殊召唤的场合，把1张手卡除外才能发动。从自己或对方的场上·墓地让1张卡回到手卡。
-③：同调召唤的这张卡在对方回合被送去墓地的场合才能发动。从对方的手卡·场上·墓地把1张卡除外（从手卡的场合是随机选）。"
-100266005,冰结界的龙胤 三千界龙,str1,Banir do campo/Cemitério
-100266005,冰结界的龙胤 三千界龙,str2,Retornar para a mão
-100266005,冰结界的龙胤 三千界龙,str3,Banir da mão/campo/Cemitério
-100266005,冰结界的龙胤 三千界龙,str4,Banir 1 card da sua mão?
+100266005,"Ekhajar, Dragão Descendente da Barreira de Gelo",name,"Ekhajar, Dragão Descendente da Barreira de Gelo"
+100266005,"Ekhajar, Dragão Descendente da Barreira de Gelo",desc,"1 Regulador + 1+ não-Reguladores
+Se este card for Invocado por Invocação-Sincro: você pode descartar 1 card; banir 2 cards do campo do seu oponente e/ou Cemitério.
+Se seu oponente Invocar por Invocação-Especial um ou mais monstros: você pode banir 1 card da sua mão; retorne 1 card de qualquer campo ou Cemitério para a mão.
+Se este card Invocado por Invocação-Sincro é enviado para o Cemitério durante o turno do seu oponente: você pode banir 1 card da mão (aleatoriamente), campo ou cemitério do seu oponente.
+Você só pode usar cada um dos efeitos de ""Ekhajar, Dragão Descendente da Barreira de Gelo"" uma vez por turno."
+100266005,"Ekhajar, Dragão Descendente da Barreira de Gelo",str1,Banir do campo/Cemitério
+100266005,"Ekhajar, Dragão Descendente da Barreira de Gelo",str2,Retornar para a mão
+100266005,"Ekhajar, Dragão Descendente da Barreira de Gelo",str3,Banir da mão/campo/Cemitério
+100266005,"Ekhajar, Dragão Descendente da Barreira de Gelo",str4,Banir 1 card da sua mão?
+100267001,Profeta Sennet - Nefertari,name,Profeta Sennet - Nefertari
+100267001,Profeta Sennet - Nefertari,desc,"Se este card é Invocado por Invocação-Normal ou Especial: você pode envia-lo para o Cemitério; mostre até 2 Cards de Monstros Normais da sua mão, Deck, campo com a face para cima, e/ou Cemitério, então Baixe aquela quantia de Magias ""Sennet"" do seu Deck.
+Durante o turno do seu oponente (Efeito Rápido): você pode banir este card do seu Cemitério; Equipe 1 Monstro Normal do seu Cemitério à 1 Monstro Ritual que você controla como uma Magia de Equipamento.
+Você só pode usar cada um dos efeitos de ""Profeta Sennet - Nefertari"" uma vez por turno."
+100267001,Profeta Sennet - Nefertari,str1,Baixar
+100267001,Profeta Sennet - Nefertari,str2,Estado
+100267002,Profeta Sennet - Amenhotep,name,Profeta Sennet - Amenhotep
+100267002,Profeta Sennet - Amenhotep,desc,"Se este card é Invocado por Invocação-Normal ou Especial: você pode envia-lo para o Cemitério; mostre até 2 Cards de Monstros Normais da sua mão, Deck, campo com a face para cima, e/ou Cemitério, então Baixe aquela quantia de Armadilhas ""Sennet"" do seu Deck.
+Você pode banir este card do seu Cemitério, então escolha até 3 Monstros Normais no seu Cemitério; embaralhe-os no Deck.
+Você só pode usar cada um dos efeitos de ""Profeta Sennet - Amenhotep"" uma vez por turno."
+100267002,Profeta Sennet - Amenhotep,str1,Baixar
+100267002,Profeta Sennet - Amenhotep,str2,Recuperar
+100267003,Esfinge Sennetnakht,name,Esfinge Sennetnakht
+100267003,Esfinge Sennetnakht,desc,"Você pode Invocar por Invocação-Ritual este card com qualquer card ""Sennet"".
+Este card equipado com uma Magia de Equipamento não é afetado pelos efeitos do seu oponente.
+Você só pode usar cada um dos seguintes efeitos de ""Esfinge Sennetnakht"" uma vez por turno.
+Você pode descartar este card; adicione 1 card ""Sennet"" do seu Deck à sua mão, exceto ""Esfinge Sennetnakht"".
+(Efeito Rápido): você pode enviar 1 Card de Monstro Normal com a face para cima que você controla para o Cemitério; mude quantos monstros seu oponente controlar possível para Posição de Defesa com a face para baixo, então você pode Invocar por Invocação-Especial 1 Monstro Normal do seu Cemitério."
+100267003,Esfinge Sennetnakht,str1,Adicionar à mão
+100267003,Esfinge Sennetnakht,str2,Mudar para Posição de Defesa com a face para baixo
+100267003,Esfinge Sennetnakht,str3,Invocação Especial?
+100267004,Tausennet Wadjet,name,Tausennet Wadjet
+100267004,Tausennet Wadjet,desc,"Você pode Invocar por Invocação-Ritual este card com qualquer card ""Sennet"".
+Este card equipado com uma Magia de Equipamento não pode ser destruído por efeitos.
+Você só pode usar cada um dos seguintes efeitos de ""Tausennet Wadjet"" uma vez por turno.
+Você pode descartar este card; envie 1 card ""Sennet"" do seu Deck para o Cemitério, exceto ""Tausennet Wadjet"".
+(Efeito Rápido): você pode enviar até 3 Cards de Monstro Normais com a face para cima que você controla para o Cemitério, então escolha aquela quantia de cards que seu oponente controla; retorne-as para a mão, então você pode Invocar por Invocação-Especial 1 Monstro Normal do seu Cemitério."
+100267004,Tausennet Wadjet,str1,Enviar para o Cemitério
+100267004,Tausennet Wadjet,str2,Retornar para a mão
+100267004,Tausennet Wadjet,str3,Invocação Especial?
+100267005,Sennetmes Nekhbet,name,Sennetmes Nekhbet
+100267005,Sennetmes Nekhbet,desc,"Você pode Invocar por Invocação-Ritual este card com qualquer card ""Sennet"".
+Este card equipado com uma Magia de Equipamento não pode ser destruído por batalha.
+Você só pode usar cada um dos seguintes efeitos de ""Sennetmes Nekhbet"" uma vez por turno.
+Você pode descartar este card; adicione 1 card ""Sennet"" do seu Cemitério à sua mão, exceto ""Sennetmes Nekhbet"".
+(Efeito Rápido): você pode Invocar por Invocação-Especial 1 Card de Monstro Normal com a face para cima na sua Zona de Magias & Armadilhas, e se fizer, equipe este card que você controla a ele como uma Magia de Equipamento que ganha 2500 de ATK."
+100267005,Sennetmes Nekhbet,str1,Recuperar
+100267005,Sennetmes Nekhbet,str2,Invocação Especial
+100267005,Sennetmes Nekhbet,str3,Invocação Especial?
+100267006,Beresennet Em Heru,name,Beresennet Em Heru
+100267006,Beresennet Em Heru,desc,"Uma vez por turno: você pode Invocar por Invocação-Ritual 1 Monstro Ritual ""Sennet"" da sua mão ou Cemitério, enviando Cards de Monstros Normais com nomes diferentes dentre eles da sua mão, Deck, e/ou campo com a face para cima ao Cemitério cujo Níveis total seja igual ou excedente ao seu Nível, então você pode equipar 1 Monstro Normal do seu Cemitério nele como uma Magia de Equipamento.
+Se você Invocar por Invocação-Especial um ou mais Monstros Normais não-Ficha: você pode comprar 1 card. Você só pode usar este efeito de ""Beresennet Em Heru"" uma vez por turno."
+100267006,Beresennet Em Heru,str1,Invocação Ritual
+100267006,Beresennet Em Heru,str2,Comprar
+100267006,Beresennet Em Heru,str3,Equipar?
+100267007,Sennet Per Akh,name,Sennet Per Akh
+100267007,Sennet Per Akh,desc,"Adicione 1 monstro ""Sennet"" do seu Deck à sua mão.
+Se você descartar um ou mais Monstros Ritual ""Sennet"" enquanto este card está no seu Cemitério: você pode banir este card; Invoque por Invocação-Especial 1 Monstro Fusão de não-Efeito do seu Deck Adicional com ATK menor ou igual a qualquer monstro descartado de um Monstro Normal, mas pelo resto desse turno, ele não pode atacar diretamente, você também não pode ativar efeitos de monstros não-Zumbi.
+Você só pode usar cada um dos efeitos de ""Sennet Per Akh"" uma vez por turno."
+100267007,Sennet Per Akh,str1,Adicionar à mão
+100267007,Sennet Per Akh,str2,Invocação Especial
+100267007,Sennet Per Akh,str3,Tratar como um Card de Monstro Normal
+100267009,Am Duasennet,name,Am Duasennet
+100267009,Am Duasennet,desc,"Invoque por Invocação-Ritual 1 Monstro Ritual ""Sennet"" da sua mão ou Cemitério, enviando Cards de Monstros Normais com nomes diferentes dentre eles da sua mão, Deck, e/ou campo com a face para cima ao Cemitério cujo Níveis totais sejam igual ou excedente do seu Nível, então você pode equipar 1 Monstro Normal do seu Cemitério nele como uma Magia de Equipamento.
+Se um ou mais Cards de Monstro Normal que você controla seriam destruídos por batalha ou efeito, em vez disso você pode banir este card do seu Cemitério.
+Você só pode ativar 1 ""Am Duasennet"" por turno."
+100267009,Am Duasennet,str1,Invocação Ritual
+100267009,Am Duasennet,str3,Equipar?
+100267010,Catarata Sennet,name,Catarata Sennet
+100267010,Catarata Sennet,desc,"Escolha Zonas de Monstros Principal do seu oponente igual até o número de Monstros Normais e Monstros Ritual ""Sennet"" que você controla; negue o primeiro efeito de monstro ativado em cada uma daquelas zonas que seriam ativados neste turno.
+Se o total de ATK de todos os Monstros Normais que você controla é mais de 3000: você pode ativar este card do seu Cemitério, então escolha 1 monstro que seu oponente controla; envie-o para o Cemitério.
+Você só pode usar cada efeito de ""Catarata Sennet"" uma vez por turno."
+100267010,Catarata Sennet,str1,Escolha uma zona
+100267010,Catarata Sennet,str2,Enviar para o Cemitério
+100267010,Catarata Sennet,str3,Continuar selecionando?
+100267011,Trovão Sennet,name,Trovão Sennet
+100267011,Trovão Sennet,desc,"Quando seu oponente ativa uma Magia/Armadilha enquanto você controla um Monstro Normal ou Ritual ""Sennet"": negue a ativação, e se fizer, destrua aquele card.
+Se o ATK total de todos os Monstros Normais que você controla é maior de 3000: você pode banir este card do seu Cemitério; Baixe 1 Magia/Armadilha ""Sennet"" do seu Deck ou Cemitério, exceto ""Trovão Sennet"".
+Você só pode usar cada um dos efeitos de ""Trovão Sennet"" uma vez por turno."
+100267011,Trovão Sennet,str1,Negar a ativação e destruir
+100267011,Trovão Sennet,str2,Baixar
 101305081,Testemunho do Ancião,name,Testemunho do Ancião
 101305081,Testemunho do Ancião,desc,"Se você tem um Monstro Sincro no seu campo ou Cemitério: você pode Invocar por Invocação-Especial este card da sua mão.
 Se este card for Invocado por Invocação-Especial: você pode colocar até 3 Monstros Sincro com nomes diferentes do seu Deck Adicional e/ou Cemitério na sua Zona de Magias & Armadilhas com a face para cima como Magias Contínuas e Invocar por Invocação-Especial 1 ""Ficha de Arc"" (Máquina/LUZ/ATK 0/DEF 0) com um Nível igual ao número colocado, também pelo resto deste turno, você não pode Invocar por Invocação-Especial do seu Deck Adicional, exceto Monstros Sincro.
@@ -321,31 +392,31 @@ Se este card for Invocado por Invocação-Especial: você pode escolher 1 monstr
 Você só pode usar cada um dos efeitos de ""O Pescador, a Lenda do Mar"" uma vez por turno."
 101306004,"O Pescador, a Lenda do Mar",str1,Invocação Especial
 101306004,"O Pescador, a Lenda do Mar",str2,Destruir
-101306005,闪光阴影,name,闪光阴影
-101306005,闪光阴影,desc,"这个卡名的①②的效果1回合各能使用1次。
-①：自己把「阴影」怪兽或「假面魔蹈士」超量怪兽召唤·特殊召唤的场合才能发动。这张卡从手卡特殊召唤，自己抽1张。那张抽到的卡是「阴影」怪兽的场合，可以再把那只怪兽特殊召唤。
-②：以怪兽3只以上为素材的「No.」超量怪兽超量召唤的场合，这张卡可以作为2只数量的超量素材。"
-101306005,闪光阴影,str1,Invocação Especial
-101306005,闪光阴影,str2,Invocação Especial?
-101306006,V阴影灵,name,V阴影灵
-101306006,V阴影灵,desc,"这个卡名的①②的效果1回合各能使用1次。
-①：这张卡召唤·特殊召唤的场合才能发动。从卡组把「V阴影灵」以外的1只「阴影」怪兽加入手卡。
-②：把墓地的这张卡除外，以自己场上1只「假面魔蹈士」超量怪兽为对象才能发动。从额外卡组把比那只自己怪兽阶级高1的1只「No.」怪兽，在作为对象的怪兽上面重叠当作超量召唤特殊召唤。"
-101306006,V阴影灵,str1,Adicionar à mão
-101306006,V阴影灵,str2,Invocação Xyz
-101306007,蛇头阴影,name,蛇头阴影
-101306007,蛇头阴影,desc,"这个卡名的①③的效果1回合各能使用1次。
-①：自己场上的怪兽，不存在的场合或者只有「阴影」怪兽的场合才能发动。这张卡从手卡特殊召唤，从卡组把岩石族以外的1只「阴影」怪兽加入手卡。
-②：只要这张卡在怪兽区域存在，自己不是「No.」超量怪兽不能从额外卡组特殊召唤。
-③：以怪兽3只以上为素材的「No.」超量怪兽超量召唤的场合，这张卡可以作为2只数量的超量素材。"
-101306007,蛇头阴影,str1,Invocação Especial
-101306008,千皇阴影,name,千皇阴影
-101306008,千皇阴影,desc,"这个卡名的①②的效果1回合各能使用1次。
-①：自己·对方回合，把手卡·场上的这张卡送去墓地才能发动。从手卡·卡组把1张「七皇的冀望乡」在自己的场地区域以表侧表示放置。这个效果的发动后，直到下次的自己回合结束时，自己不是超量怪兽不能从额外卡组特殊召唤。
-②：这张卡在墓地存在的状态，超量怪兽特殊召唤的场合才能发动。这张卡特殊召唤。这个回合，自己的效果发生的对自己的效果伤害变成0。"
-101306008,千皇阴影,str1,Colocar na Zona do Campo
-101306008,千皇阴影,str2,Invocação Especial
-101306008,千皇阴影,str3,O efeito de {CARD} está sendo aplicado.
+101306005,Terror Umbral Brilhante,name,Terror Umbral Brilhante
+101306005,Terror Umbral Brilhante,desc,"Se você Invocar por Invocação-Especial um ou mais monstros ""Terror Umbral"" e/ou ""Mascarado"": você pode Invocar por Invocação-Especial este card da sua mão, e se fizer, compre 1 card, então se você comprou um monstro ""Terror Umbral"", você pode Invoca-lo por Invocação-Especial.
+Pode ser considerado como 2 matérias para a Invocação-Xyz de um Monstro Xyz ""Número"" que precise de 3 ou mais matérias.
+Você só pode usar cada um dos efeitos de "
+101306005,Terror Umbral Brilhante,str1,Invocação Especial
+101306005,Terror Umbral Brilhante,str2,Invocação Especial?
+101306006,Terror Umbral V,name,Terror Umbral V
+101306006,Terror Umbral V,desc,"Se este card é Invocado por Invocação-Normal ou Especial: você pode adicionar 1 monstro ""Terror Umbral"" do seu Deck à sua mão, exceto ""Terror Umbral V"".
+Você pode banir este card do seu Cemitério, então escolha 1 Monstro Xyz ""Mascarado"" que você controla; Invoque por Invocação-Especial do seu Deck Adicional, 1 montro ""Número"" que seja 1 Classe maior que o monstro que você controla, usando-o como matéria (isso é considerado uma Invocação-Xyz, transfira suas matérias).
+Você só pode usar cada um dos efeitos de ""Terror Umbral V"" uma vez por turno."
+101306006,Terror Umbral V,str1,Adicionar à mão
+101306006,Terror Umbral V,str2,Invocação Xyz
+101306007,Terror Umbral Gorgônico,name,Terror Umbral Gorgônico
+101306007,Terror Umbral Gorgônico,desc,"Você não pode Invocar por Invocação-Especial do seu Deck Adicional, exceto Monstros Xyz ""Número"".
+Você só pode usar cada um dos seguintes efeitos de ""Terror Umbral Gorgônico"" uma vez por turno.
+Se você não controla monstros, ou todos os monstros que você controla são monstros ""Terror Umbral"": você pode Invocar por Invocação-Especial este card da sua mão, e se fizer, adicione 1 monstro ""Terror Umbral"" não-Rocha do seu Deck à sua mão.
+Pode ser considerado como 2 matérias para a Invocação-Xyz de um Monstro Xyz ""Número"" que precise de 3 ou mais matérias."
+101306007,Terror Umbral Gorgônico,str1,Invocação Especial
+101306008,Terror Umbral Mil,name,Terror Umbral Mil
+101306008,Terror Umbral Mil,desc,"(Efeito Rápido): você pode enviar este card da sua mão ou campo para o Cemitério; coloque 1 ""Barian do Sétimo"" da sua mão ou Deck com a face para cima na sua Zona de Campo, você também não pode Invocar por Invocação-Especial do seu Deck Adicional até o final do seu próximo turno, exceto Monstros Xyz.
+Se um ou mais monstros são Invocados por Invocação-Especial enquanto este card está no seu Cemitério: você pode Invocar por Invocação-Especial este card, você não recebe dano dos efeitos dos seus cards pelo resto deste turno.
+Você só pode usar cada um dos efeitos de ""Terror Umbral Mil"" uma vez por turno."
+101306008,Terror Umbral Mil,str1,Colocar na Zona do Campo
+101306008,Terror Umbral Mil,str2,Invocação Especial
+101306008,Terror Umbral Mil,str3,O efeito de {CARD} está sendo aplicado.
 101306009,"Akasuna, a Divindade Dourada Asutra",name,"Akasuna, a Divindade Dourada Asutra"
 101306009,"Akasuna, a Divindade Dourada Asutra",desc,"Você pode Invocar por Invocação-Especial este card (da sua mão) revelando 1 card com a face para baixo que você controla e o retornando para a mão/Deck Adicional. Você só pode Invocar por Invocação-Especial ""Akasuna, a Divindade Dourada Asutra"" uma vez por turno dessa forma.
 Você só pode usar cada um dos seguintes efeitos de ""Akasuna, a Divindade Dourada Asutra"" uma vez por turno.
@@ -476,14 +547,14 @@ Você só pode usar cada um dos efeitos de ""Cristal Adamancipador - Tiamite"" u
 101306025,Cristal Adamancipador - Tiamite,str1,Efeito de busca
 101306025,Cristal Adamancipador - Tiamite,str2,Retornar ao Deck
 101306025,Cristal Adamancipador - Tiamite,str3,Invocação Especial?
-101306026,团结之恶魔龙 暗黑魔龙,name,团结之恶魔龙 暗黑魔龙
-101306026,团结之恶魔龙 暗黑魔龙,desc,"这张卡不能通常召唤，用这张卡的效果才能特殊召唤。这个卡名的①的效果1回合只能使用1次。
-①：自己·对方回合，从手卡把1张速攻·仪式魔法卡丢弃才能发动。这张卡从手卡以守备表示特殊召唤。
-②：这张卡特殊召唤的场合才能发动。从自己的卡组·墓地把1张有「光与暗的仪式」的卡名记述的魔法·陷阱卡在自己场上盖放。
-③：双方的战斗阶段开始时才能发动。对方失去800基本分，这张卡的攻击力上升800。"
-101306026,团结之恶魔龙 暗黑魔龙,str1,Invocação Especial
-101306026,团结之恶魔龙 暗黑魔龙,str2,Baixar
-101306026,团结之恶魔龙 暗黑魔龙,str3,Fazer seu oponente perder PV e aumentar o ATK
+101306026,Dragão Caveira Negro o Arquidemônio da União,name,Dragão Caveira Negro o Arquidemônio da União
+101306026,Dragão Caveira Negro o Arquidemônio da União,desc,"Não pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial pelo seu próprio efeito.
+(Efeito Rápido): você pode descartar 1 Magia Rápido ou Magia Ritual; Invoque por Invocação-Especial este card da sua mão em Posição de Defesa. Você só pode usar este efeito de ""Dragão Caveira Negro o Arquidemônio da União"" uma vez por turno.
+Se este card é Invocado por Invocação-Especial: você pode Baixar 1 Magia/Armadilha que mencione ""Ritual da Luz e das Trevas"" do seu Deck ou Cemitério.
+No início da Fase de Batalha: você pode fazer seu oponente perder 800 de PV, e se fizer, este card ganha 800 de ATK."
+101306026,Dragão Caveira Negro o Arquidemônio da União,str1,Invocação Especial
+101306026,Dragão Caveira Negro o Arquidemônio da União,str2,Baixar
+101306026,Dragão Caveira Negro o Arquidemônio da União,str3,Fazer seu oponente perder PV e aumentar o ATK
 101306027,O Maior Ladrão Cavalheiro do Mundo,name,O Maior Ladrão Cavalheiro do Mundo
 101306027,O Maior Ladrão Cavalheiro do Mundo,desc,"Se você não controla monstros, você pode Invocar por Invocação-Tributo este card com a face para cima oferecendo como Tributo monstros da sua mãe e/ou campo do seu oponente.
 Você só pode usar cada um dos seguintes efeitos de ""O Maior Ladrão Cavalheiro do Mundo"" uma vez por turno.
@@ -492,12 +563,13 @@ Durante a Fase de Batalha (Efeito Rápido): você pode revelar sua mão inteira;
 101306027,O Maior Ladrão Cavalheiro do Mundo,str1,Invocar por Tributo oferecendo monstros da sua mão e do campo do seu oponente como Tributo
 101306027,O Maior Ladrão Cavalheiro do Mundo,str2,Negar o efeito
 101306027,O Maior Ladrão Cavalheiro do Mundo,str3,Posição de batalha
-101306028,精灵世妃 树精,name,精灵世妃 树精
-101306028,精灵世妃 树精,desc,"这个卡名的①②的效果1回合各能使用1次，不能对应这些效果的发动把魔法·陷阱·怪兽的效果发动。
-①：这张卡在手卡存在，自己墓地的怪兽的属性是3种类以上的场合，以自己墓地1只怪兽为对象才能发动。那只怪兽和这张卡特殊召唤。
-②：自己墓地的怪兽的属性是3种类以上的场合才能发动。从卡组把相同属性的怪兽不在自己场上·墓地存在的1只怪兽特殊召唤。"
-101306028,精灵世妃 树精,str1,Invocação Especial
-101306028,精灵世妃 树精,str2,Invocar por Invocação Especial do Deck
+101306028,Saga Elemental Doriado,name,Saga Elemental Doriado
+101306028,Saga Elemental Doriado,desc,"Nenhum jogador por ativar cards ou efeitos em resposta a ativação dos efeitos deste card.
+Se você tem 3 ou mais diferentes Atributos no seu Cemitério e este card está na sua mão: você pode escolher 1 monstro no seu Cemitério; Invoque por Invocação-Especial ambos ele e este card.
+Se você tem 3 ou mais diferentes Atributos no seu Cemitério: você pode Invocar por Invocação-Especial 1 monstro do seu Deck com um Atributo diferente dos monstros no seu campo e Cemitério.
+Você só pode usar cada um dos efeitos de ""Saga Elemental Doriado"" uma vez por turno."
+101306028,Saga Elemental Doriado,str1,Invocação Especial
+101306028,Saga Elemental Doriado,str2,Invocar por Invocação Especial do Deck
 101306029,"Coralianektes, o Dragão Brilhante e Cintilante",name,"Coralianektes, o Dragão Brilhante e Cintilante"
 101306029,"Coralianektes, o Dragão Brilhante e Cintilante",desc,"Se este card é adicionado à sua mão, excepto por compra-lo: você pode revelar este card e 1 outro monstro ÁGUA na sua mão; Invoque-os por Invocação-Especial, também você não pode Invocar por Invocação-Especial pelo resto do turno, exceto monstros ÁGUA. Você só pode usar este efeito de ""Coralianektes, o Dragão Brilhante e Cintilante"" uma vez por turno.
 Enquanto você controla ""Umi"", seu oponente não pode escolher Monstros Link ÁGUA que você controla com efeitos de cards."
@@ -589,32 +661,31 @@ Você só pode usar cada um dos efeitos de ""Adamancipador Erguido - Tiamite"" u
 101306041,Adamancipador Erguido - Tiamite,str1,Efeito de busca
 101306041,Adamancipador Erguido - Tiamite,str2,Retornar para a mão
 101306041,Adamancipador Erguido - Tiamite,str3,Retornar um card à mão?
-101306042,No.104 假面魔蹈士 闪光·枉然,name,No.104 假面魔蹈士 闪光·枉然
-101306042,No.104 假面魔蹈士 闪光·枉然,desc,"4星怪兽×3
-这个卡名的②的效果1回合只能使用1次。
-①：1回合1次，把这张卡1个超量素材取除才能发动。从卡组把1张「异晶人的」魔法·陷阱卡加入手卡。
-②：场上的这张卡为素材作超量召唤的怪兽得到以下效果。
-●这张卡超量召唤的场合发动。对方可以从自身卡组把4只怪兽（相同属性最多1只）和1张魔法卡除外。没有除外的场合，自己从对方卡组上面把10张卡除外。"
-101306042,No.104 假面魔蹈士 闪光·枉然,str1,Adicionar à mão
-101306042,No.104 假面魔蹈士 闪光·枉然,str2,Banir
-101306042,No.104 假面魔蹈士 闪光·枉然,str3,Efeito de banimento ({CARD})
-101306042,No.104 假面魔蹈士 闪光·枉然,str4,Banir 4 monstros e 1 Card de Magia?
-101306043,混沌No.104 假面魔蹈士 阴影·胜光,name,混沌No.104 假面魔蹈士 阴影·胜光
-101306043,混沌No.104 假面魔蹈士 阴影·胜光,desc,"5星怪兽×4
-①：自己·对方回合1次，把这张卡1个超量素材取除，以对方场上1张卡为对象才能发动。那张卡破坏。
-②：这张卡和对方怪兽进行战斗的伤害计算时发动。这张卡的攻击力·守备力只在那次伤害计算时，变成那只对方怪兽的攻击力和守备力之内，较高方的数值+100。
-③：这张卡战斗破坏怪兽的场合发动。对方手卡随机1张送去墓地，对方基本分变成一半。"
-101306043,混沌No.104 假面魔蹈士 阴影·胜光,str1,Destruir
-101306043,混沌No.104 假面魔蹈士 阴影·胜光,str2,Alterar ATK/DEF
-101306043,混沌No.104 假面魔蹈士 阴影·胜光,str3,Enviar 1 card da sua mão para o Cemitério
-101306044,混沌超量 冀望皇龙 混沌异晶龙,name,混沌超量 冀望皇龙 混沌异晶龙
-101306044,混沌超量 冀望皇龙 混沌异晶龙,desc,"7星怪兽×3只以上
-这张卡也能在自己场上的「混沌No.101」～「混沌No.107」之内的任意「混沌No.」怪兽上面重叠来超量召唤。
-①：这张卡的攻击力上升这张卡的超量素材的数量×1000。
-②：只要这张卡有「混沌No.」怪兽作为超量素材中，对方不能用抽卡以外的方法从卡组把卡加入手卡。
-③：1回合1次，把这张卡1个超量素材取除才能发动。从对方卡组上面把2张卡作为这张卡的超量素材。"
-101306044,混沌超量 冀望皇龙 混沌异晶龙,str1,Invocar por Invocação Xyz sobrepondo um monstro que você controla?
-101306044,混沌超量 冀望皇龙 混沌异晶龙,str2,Associar Matéria Xyz
+101306042,Número 104: Mascarado Vain,name,Número 104: Mascarado Vain
+101306042,Número 104: Mascarado Vain,desc,"3 monstros de Nível 4
+Uma vez por turno: você pode desassociar 1 matéria deste card; adicione 1 Magia/Armadilha ""Barian"" do seu Deck à sua mão.
+Um monstro que foi Invocado por Invocação-Xyz usando este card no campo como matéria ganha este efeito.
+● Se é Invocado por Invocação-Xyz: ative este efeito; seu oponente pode banir 4 monstros com Atributos diferentes e 1 Magia da Deck dele. Se ele não fizer, você bane os 10 cards do topo do Deck dele. Você só pode usar este efeito de ""Número 104: Mascarado Vain"" uma vez por turno."
+101306042,Número 104: Mascarado Vain,str1,Adicionar à mão
+101306042,Número 104: Mascarado Vain,str2,Banir
+101306042,Número 104: Mascarado Vain,str3,Efeito de banimento ({CARD})
+101306042,Número 104: Mascarado Vain,str4,Banir 4 monstros e 1 Card de Magia?
+101306043,Número C104: Terror Umbral Vitória Mascarada,name,Número C104: Terror Umbral Vitória Mascarada
+101306043,Número C104: Terror Umbral Vitória Mascarada,desc,"4 monstros de Nível 5
+Uma vez por turno (Efeito Rápido): você pode desassociar 1 matéria deste card, então escolha 1 card que seu oponente controla; destrua-o.
+Se este card batalhar com um monstro do oponente, durante o cálculo de dano: o ATK/DEF deste card se tornam os ATK ou DEF (o que for maior) do monstro do oponente +100, somente durante o cálculo de dano.
+Se este card destruir um monstro por batalha: envie 1 card aleatório da mão do seu oponente para o Cemitério, ese fizer, reduza os PVs do seu oponente pela metade."
+101306043,Número C104: Terror Umbral Vitória Mascarada,str1,Destruir
+101306043,Número C104: Terror Umbral Vitória Mascarada,str2,Alterar ATK/DEF
+101306043,Número C104: Terror Umbral Vitória Mascarada,str3,Enviar 1 card da sua mão para o Cemitério
+101306044,CXyz Dragão da Esperança do Caos Barian,name,CXyz Dragão da Esperança do Caos Barian
+101306044,CXyz Dragão da Esperança do Caos Barian,desc,"3+ monstros de Nível 7
+Você só pode Invocar por Invocação-Xyz este card usando 1 monstro ""Número C"" que você controla com um número entre ""101"" e ""107"" em seu nome (transfira suas matérias).
+Ganha 1000 de ATK para cada matéria associada nele.
+Enquanto este card tem um monstro ""Número C"" como matéria, se oponente não pode adicionar cards do Deck à mão, exceto por compra-las.
+Uma vez por turno: você pode desassociar 1 matéria deste caard; associe os 2 cards do topo do Deck do seu oponente neste card."
+101306044,CXyz Dragão da Esperança do Caos Barian,str1,Invocar por Invocação Xyz sobrepondo um monstro que você controla?
+101306044,CXyz Dragão da Esperança do Caos Barian,str2,Associar Matéria Xyz
 101306045,"Swickelavee, o Brilhantemente Coroado da Cavalaria Pesada",name,"Swickelavee, o Brilhantemente Coroado da Cavalaria Pesada"
 101306045,"Swickelavee, o Brilhantemente Coroado da Cavalaria Pesada",desc,"2 monstros de Nível 3
 Uma vez por turno, você também pode Invocar por Invocação-Xyz ""Swickelavee, o Brilhantemente Coroado da Cavalaria Pesada"" usando 1 monstro Besta que você controla com 2000 ou menos ATK (transfira suas matérias). Não pode ser usado como matéria para uma Invocação-Xyz.
@@ -690,21 +761,20 @@ Se um ou mais cards que você controla menciona ""Mago do Tempo Sombrio"" seria 
 101306054,Bode Expiatório Dormindo,str1,Ativar
 101306054,Bode Expiatório Dormindo,str2,Selecione o número de Invocações Especiais
 101306054,Bode Expiatório Dormindo,str3,Invocar {CARD} por Invocação Especial?
-101306055,七皇的冀望乡,name,七皇的冀望乡
-101306055,七皇的冀望乡,desc,"这个卡名的②③的效果1回合各能使用1次。
-①：只要这张卡在场地区域存在，那期间双方1回合最多只能有2次从额外卡组把「No.」怪兽以外的怪兽特殊召唤。
-②：自己主要阶段才能发动。从卡组把1只「阴影」怪兽加入手卡。那之后，选自己1张手卡丢弃。
-③：自己·对方的结束阶段发动。双方受到场上的超量怪兽的数量×400的伤害。"
-101306055,七皇的冀望乡,str2,Adicionar à mão
-101306055,七皇的冀望乡,str3,Receber dano
-101306056,异晶人的冀望,name,异晶人的冀望
-101306056,异晶人的冀望,desc,"这个卡名的①②的效果1回合各能使用1次。
-①：从自己的手卡·墓地把1只「阴影」怪兽或「假面魔蹈士」超量怪兽特殊召唤。那之后，可以把自己场上的全部「阴影」怪兽的等级，变成和自己场上·墓地的1只「阴影」怪兽的等级相同。
-②：把墓地的这张卡除外，以自己场上1只超量怪兽为对象才能发动。从自己的额外卡组·墓地把1只「No.」超量怪兽作为对象怪兽的超量素材。
-"
-101306056,异晶人的冀望,str1,Ativar
-101306056,异晶人的冀望,str2,Como matéria
-101306056,异晶人的冀望,str3,Alterar o Nível?
+101306055,Barian do Sétimo,name,Barian do Sétimo
+101306055,Barian do Sétimo,desc,"Cada jogador só pode Invocar por Invocação-Especial monstros não-""Número"" de seu Deck Adicional duas vezes por turno enquanto este card está no campo com a face para cima.
+Você só pode usar cada um dos seguintes efeitos de ""Barian do Sétimo"" uma vez por turno.
+Durante sua Fase Principal: você pode adicionar 1 monstro ""Terror Umbral"" do seu Deck à sua mão, então descarte 1 card.
+Durante a Fase Final: cada jogador recebe 400 de dano para cada Monstro Xyz no campo."
+101306055,Barian do Sétimo,str2,Adicionar à mão
+101306055,Barian do Sétimo,str3,Receber dano
+101306056,Esperança de Barian,name,Esperança de Barian
+101306056,Esperança de Barian,desc,"Invoque por Invocação-Especial 1 monstro ""Terror Umbral"" ou Monstro Xyz ""Mascarado"" da sua mão ou Cemitério, então você pode fazer com que os Níveis de todos os monstros ""Terror Umbral"" que você controla se tornem do Nível de 1 monstro ""Terror Umbral"" no seu campo ou Cemitério.
+Você pode banir este card do seu Cemitério, então escolha 1 Monstro Xyz que você controla; associe 1 Monstro Xyz ""Número"" do seu Deck Adicional ou Cemitério nele.
+Você só pode usar cada um dos efeitos de ""Esperança de Barian"" uma vez por turno."
+101306056,Esperança de Barian,str1,Ativar
+101306056,Esperança de Barian,str2,Como matéria
+101306056,Esperança de Barian,str3,Alterar o Nível?
 101306057,Asutrashen Trichiliocosmo,name,Asutrashen Trichiliocosmo
 101306057,Asutrashen Trichiliocosmo,desc,"Você pode escolher qualquer número de cards com a face para baixo que você controla; adicione cards ""Asutra"" do seu Deck à sua mão com nomes diferentes de cada, exceto Magias de Campo, igual ao número daqueles cards escolhidos que ainda estão com a face para baixo, então envie aqueles cards com a face para baixo para o Cemitério.
 Se um ou mais cards se tornam Baixados no campo, enquanto você controla um monstro ""Asutra"" e um card com a face para baixo: você pode escolher 1 card no campo; retorne-o para a mão.
@@ -750,28 +820,28 @@ Se este card está no seu Cemitério: você pode colocar 1 card da sua mão no t
 Você só pode usar cada um dos efeitos de ""Companheiras Adamancipador"" uma vez por turno."
 101306063,Companheiras Adamancipador,str1,Efeito de busca
 101306063,Companheiras Adamancipador,str2,Retornar para a mão
-101306064,魔法效果之剑,name,魔法效果之剑
-101306064,魔法效果之剑,desc,"这个卡名的卡在1回合只能发动1张。
-①：可以从以下效果选择1个发动。
-●对方场上的表侧表示的魔法卡全部破坏。
-●以对方场上1只表侧表示怪兽为对象才能发动。选自己手卡·墓地的1张「光与暗的仪式」，给双方确认。那之后，作为对象的怪兽的攻击力变成0，效果无效化。
-②：这张卡被对方破坏的场合才能发动。对方的手卡·场上1张卡破坏（从手卡是随机选）。"
-101306064,魔法效果之剑,str1,Ativar
-101306064,魔法效果之剑,str2,Destruir todos os Cards de Magia com a face para cima que seu oponente controla
-101306064,魔法效果之剑,str3,O ATK do monstro alvo se torna 0 e seus efeitos são negados
-101306064,魔法效果之剑,str4,Destruir 1 card na mão ou no campo do seu oponente
-101306064,魔法效果之剑,str5,Escolha aleatoriamente 1 card na mão do seu oponente para destruir
-101306064,魔法效果之剑,str6,Escolha 1 card que o seu oponente controla para destruir
-101306065,三幻魔的天坏,name,三幻魔的天坏
-101306065,三幻魔的天坏,desc,"这个卡名的卡在1回合只能发动1张。
-①：可以从以下效果选择1个发动。
-●连锁自己的「三幻魔」怪兽的效果的发动，对方把效果发动时才能发动。那个对方的效果无效。
-●把手卡1只10星「三幻魔」怪兽给对方出示才能发动。选自己1张手卡丢弃，从卡组把1张「幻魔之扉」加入手卡。
-●让自己墓地·除外状态的3张「三幻魔」陷阱卡回到卡组，以对方场上1张卡为对象才能发动。那张卡破坏。"
-101306065,三幻魔的天坏,str1,Ativar
-101306065,三幻魔的天坏,str2,Negar o efeito
-101306065,三幻魔的天坏,str3,Efeito de busca
-101306065,三幻魔的天坏,str4,Efeito de destruição
+101306064,Espada Destruidora de Magia,name,Espada Destruidora de Magia
+101306064,Espada Destruidora de Magia,desc,"Ative 1 desses efeitos;
+● Destrói todas as Magias com a face para cima que seu oponente controla.
+● Escolha 1 monstro com a face para cima que seu oponente controla; mostre 1 ""Ritual da Luz e das Trevas"" da sua mão ou Cemitério, então altere o ATK do monstro para 0, também negue seus efeitos.
+Se este card na posse de seu dono é destruído por um card do oponente: você pode destruir 1 card na mão do seu oponente (aleatoriamente) ou campo.
+Você só pode ativar 1 ""Espada Destruidora de Magia"" por turno."
+101306064,Espada Destruidora de Magia,str1,Ativar
+101306064,Espada Destruidora de Magia,str2,Destruir todos os Cards de Magia com a face para cima que seu oponente controla
+101306064,Espada Destruidora de Magia,str3,O ATK do monstro alvo se torna 0 e seus efeitos são negados
+101306064,Espada Destruidora de Magia,str4,Destruir 1 card na mão ou no campo do seu oponente
+101306064,Espada Destruidora de Magia,str5,Escolha aleatoriamente 1 card na mão do seu oponente para destruir
+101306064,Espada Destruidora de Magia,str6,Escolha 1 card que o seu oponente controla para destruir
+101306065,Destruidor Cintilante das Feras Sagradas,name,Destruidor Cintilante das Feras Sagradas
+101306065,Destruidor Cintilante das Feras Sagradas,desc,"Ative 1 desses efeitos;
+● Quando seu oponente ativar um card ou efeito em resposta a ativação dos efeitos dos seus monstros ""Bestas Sagradas"": negue aquele efeito do oponente.
+● Revele 1 monstro de Nível 10 ""Besta Sagrada"" na sua mão; descarte 1 card, e se fizer, adicione 1 ""Portão da Ilusão"" do seu Deck à sua mão.
+● Embaralhe 3 Armadilhas ""Besta Sagrada"" do seu Cemitério e/ou banimento no Deck, então escolha 1 card que seu oponente controla; destrua-o.
+Você só pode ativar 1 ""Destruidor Cintilante das Feras Sagradas"" uma vez por turno."
+101306065,Destruidor Cintilante das Feras Sagradas,str1,Ativar
+101306065,Destruidor Cintilante das Feras Sagradas,str2,Negar o efeito
+101306065,Destruidor Cintilante das Feras Sagradas,str3,Efeito de busca
+101306065,Destruidor Cintilante das Feras Sagradas,str4,Efeito de destruição
 101306066,Blitzclique - Sobretensão,name,Blitzclique - Sobretensão
 101306066,Blitzclique - Sobretensão,desc,"Escolhe 1 card com a face para cima no campo; destrua-o, também pelo resto deste turno, você não pode Invocar por Invocação-Especial Monstros de Efeito, exceto da mão.
 Se um ou mais cards são destruídos pelos efeitos dos seus cards ""Blitzclique"", enquanto este card está no seu Cemitério (exceto durante a Etapa de Dano): você pode adicionar este card à sua mão. Você só pode usar este efeito de ""Blitzclique - Sobretensão"" uma vez por turno."
@@ -810,14 +880,14 @@ Uma vez por batalha, se um monstro do oponente ataca, durante o cálculo de dano
 101306071,Carixa da Reversão,str1,Colocar um marcador
 101306071,Carixa da Reversão,str2,Jogar uma moeda
 101306071,Carixa da Reversão,str3,Selecione o número de marcadores a colocar
-101306072,异晶人的封印,name,异晶人的封印
-101306072,异晶人的封印,desc,"这个卡名的①②的效果1回合只能有1次使用其中任意1个。
-①：「混沌超量」怪兽或者「混沌No.101」~「混沌No.107」之内的任意「混沌No.」怪兽在自己场上存在，对方把怪兽的效果·魔法·陷阱卡发动时才能发动。那个发动无效。那之后，可以从自己或对方的场上·墓地把1只怪兽作为自己场上1只超量怪兽的超量素材。
-②：把墓地的这张卡除外才能发动。从自己墓地把2只「阴影」怪兽特殊召唤。"
-101306072,异晶人的封印,str1,Negar
-101306072,异晶人的封印,str2,Invocação Especial
-101306072,异晶人的封印,str3,Associar Matéria Xyz?
-101306072,异晶人的封印,str4,Escolha 1 Monstro Xyz
+101306072,Selo de Barian,name,Selo de Barian
+101306072,Selo de Barian,desc,"Quando seu oponente ativa uma Magia/Armadilha, ou efeito de monstro, enquanto você controla um monstro ""CXyz"" ou um monstro ""Número C"" com um número entre ""101"" e ""107"" em seu nome: negue a ativação, então você pode associar 1 monstro de qualquer campo ou Cemitério à 1 Monstro Xyz que você controla.
+Você pode banir este card do seu Cemitério; Invoque por Invocação-Especial 2 monstros ""Terror Umbral"" do seu Cemitério.
+Você só pode usar 1 dos efeitos de ""Selo de Barian"" e somente uma vez por turno."
+101306072,Selo de Barian,str1,Negar
+101306072,Selo de Barian,str2,Invocação Especial
+101306072,Selo de Barian,str3,Associar Matéria Xyz?
+101306072,Selo de Barian,str4,Escolha 1 Monstro Xyz
 101306073,Inseto Venenoso de Asutra,name,Inseto Venenoso de Asutra
 101306073,Inseto Venenoso de Asutra,desc,"Ative 1 desses efeitos;
 ● Invoque por Invocação-Especial este card como um Monstro Normal (Inseto/Regulador/TREVAS/Nível 1/ATK 0/DEF 0) (este card NÃO é considerado como uma Armadilha), então imediatamente após ativar este efeito, você pode Invocar por Invocação-Sincro 1 Monstro Sincro.
