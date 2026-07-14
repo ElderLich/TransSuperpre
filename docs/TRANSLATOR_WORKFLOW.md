@@ -92,6 +92,7 @@ Recommended local folder shape:
 Super-Pre Translations/
   ES/
     AutoPR.py
+    Mappings.csv
     raw2/
       test-release.cdb
       test-strings.conf
@@ -125,7 +126,8 @@ SUPER_PRE_LOCAL_ROOT=C:\path\to\Super-Pre Translations
 ## Daily translation process
 
 1. Pull the latest `main` branch in the TransSuperpre repo.
-2. Run `AutoPR.py` and choose option `1` to refresh your local `raw2` files.
+2. Run `AutoPR.py` and choose option `1` to refresh your local `raw2` files
+   and local `Mappings.csv`.
 3. Edit your local `raw2/test-release.cdb`.
 4. Edit your local `raw2/test-strings.conf` when prompt strings or archetype
    strings need changes.
@@ -137,7 +139,8 @@ SUPER_PRE_LOCAL_ROOT=C:\path\to\Super-Pre Translations
 The refresh option downloads the latest upstream `.ypk`, extracts fresh
 `test-release.cdb` and `test-strings.conf`, merges new cards into local `raw2`,
 removes stale CDB rows that no longer exist upstream, removes local
-`raw2/test-update.cdb` if it exists, and applies `Shared/Mappings.csv`.
+`raw2/test-update.cdb` if it exists, applies `Shared/Mappings.csv`, and copies
+the shared mapping file to local `<LANG>/Mappings.csv`.
 
 Upload option `2` copies these files into the GitHub repo and pushes them:
 
@@ -166,8 +169,9 @@ There are three workflow types for each workspace-based language.
 
 ### Workspace sync
 
-This runs daily, manually, and when `Shared/Mappings.csv` or automation scripts
-change.
+This runs daily, manually, and when the workflow or automation scripts change.
+Plain `Shared/Mappings.csv` and `Tools/PromptPatcher.py` edits do not start
+workspace syncs by themselves.
 
 It does this:
 

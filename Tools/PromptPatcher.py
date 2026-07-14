@@ -1,5 +1,6 @@
 import sqlite3, re, json, csv
 from collections import Counter, defaultdict
+from datetime import datetime
 from pathlib import Path
 
 # ----------------------------
@@ -854,6 +855,36 @@ def build_translation_pack(lang: str):
 
     # Extra phrases (keep phrase-level; avoid single-word glue)
     extras = {
+        "状态": {
+            "en": "Status",
+            "fr": "État",
+            "de": "Status",
+            "es": "Estado",
+            "pt": "Estado",
+            "it": "Stato",
+            "ja": "状態",
+            "kr": "상태",
+        },
+        "当作通常怪兽卡使用": {
+            "en": "Treat as a Normal Monster Card",
+            "fr": "Traiter comme une Carte Monstre Normal",
+            "de": "Als Normale Monsterkarte behandeln",
+            "es": "Tratar como una Carta de Monstruo Normal",
+            "pt": "Tratar como um Card de Monstro Normal",
+            "it": "Trattare come una Carta Mostro Normale",
+            "ja": "通常モンスターカードとして扱う",
+            "kr": "일반 몬스터 카드로 취급한다",
+        },
+        "指定区域": {
+            "en": "Select a zone",
+            "fr": "Sélectionnez une Zone",
+            "de": "Wähle eine Zone",
+            "es": "Selecciona una zona",
+            "pt": "Escolha uma zona",
+            "it": "Seleziona una Zona",
+            "ja": "ゾーンを指定",
+            "kr": "존을 지정",
+        },
         "骰子效果": {
             "en": "Dice effect",
             "fr": "Effet de dé",
@@ -35315,6 +35346,87 @@ def collect_cn_cells(conn: sqlite3.Connection):
                 out.append((cid, col, v))
     return out
 
+REPORT_LANG_FOLDERS = {
+    "DE": "de",
+    "EN": "en",
+    "ES": "es",
+    "FR": "fr",
+    "IT": "it",
+    "JP": "jp",
+    "KR": "kr",
+    "PT": "pt",
+    "TH": "th",
+    "ZH-TW": "zh-tw",
+}
+
+def _report_cell(value) -> str:
+    return "" if value is None else str(value)
+
+def _infer_report_lang(*paths) -> str:
+    for raw_path in paths:
+        if not raw_path:
+            continue
+        path = Path(str(raw_path))
+        for part in (path.name, *(parent.name for parent in path.parents)):
+            lang = REPORT_LANG_FOLDERS.get(part.upper())
+            if lang:
+                return lang
+    return ""
+
+def _max_text_id(conn: sqlite3.Connection) -> int:
+    row = conn.execute("SELECT MAX(id) FROM texts").fetchone()
+    return int(row[0] or 0) if row else 0
+
+def build_remaining_cn_report(conn: sqlite3.Connection, cdb_file: str, out_path: Path) -> dict:
+    str_cols = [f"str{i}" for i in range(1, 17)]
+    select_cols = ["id", "name", "desc", *str_cols]
+    cur = conn.cursor()
+    cur.execute("SELECT " + ",".join(select_cols) + " FROM texts ORDER BY id")
+
+    freq = Counter()
+    cards = []
+    for row in cur.fetchall():
+        card_id = int(row[0])
+        card = {
+            "id": card_id,
+            "name": _report_cell(row[1]),
+            "desc": _report_cell(row[2]),
+        }
+        flagged_cells = []
+        for col, value in zip(str_cols, row[3:]):
+            text = _report_cell(value)
+            card[col] = text
+            if contains_cn_or_cn_punct(text):
+                freq[text] += 1
+                flagged_cells.append({
+                    "col": col,
+                    "value": text,
+                    "normalized": normalize_cn_prompt(text),
+                })
+        if flagged_cells:
+            card["flagged_cells"] = flagged_cells
+            card["desc_preview"] = card["desc"]
+            cards.append(card)
+
+    return {
+        "meta": {
+            "db": str(cdb_file),
+            "cn_db": "",
+            "lang": _infer_report_lang(out_path, cdb_file),
+            "range_start_after_id": 0,
+            "range_end_id": _max_text_id(conn),
+            "timestamp": datetime.now().strftime("%Y%m%d_%H%M%S"),
+            "rows_in_report": len(cards),
+            "unique_cn_strings": len(freq),
+            "total_cn_cells": sum(freq.values()),
+        },
+        "unique_strings": [
+            {"string": string, "count": count, "is_new": True}
+            for string, count in freq.most_common()
+        ],
+        "cards": cards,
+    }
+
 def patch_cdb(cdb_file: str, lang: str = "fr", log_fn=None, report_limit: int = 25):
     log = log_fn or (lambda msg: print(msg))
     pack = build_translation_pack(lang)
@@ -35373,8 +35485,17 @@ def export_remaining_cn(cdb_file: str, out_path: str, log_fn=None):
     out_path = Path(out_path)
 
     conn = sqlite3.connect(str(cdb_file))
-    cells = collect_cn_cells(conn)
-    conn.close()
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    try:
+        if out_path.suffix.lower() == ".json":
+            report = build_remaining_cn_report(conn, cdb_file, out_path)
+            out_path.write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+            log(f"[Export] {report['meta']['unique_cn_strings']} unique strings -> {out_path}")
+            return
+
+        cells = collect_cn_cells(conn)
+    finally:
+        conn.close()
 
     freq = Counter(v for _, _, v in cells)
     samples = defaultdict(list)
@@ -35389,12 +35510,6 @@ def export_remaining_cn(cdb_file: str, out_path: str, log_fn=None):
             "count": c,
             "samples": [{"id": cid, "col": col} for cid, col in samples[s]],
         })
-
-    out_path.parent.mkdir(parents=True, exist_ok=True)
-    if out_path.suffix.lower() == ".json":
-        out_path.write_text(json.dumps(rows, ensure_ascii=False, indent=2), encoding="utf-8")
-        log(f"[Export] {len(rows)} unique strings -> {out_path}")
-        return
 
     with out_path.open("w", encoding="utf-8", newline="") as f:
         w = csv.writer(f)

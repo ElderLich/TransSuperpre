@@ -42,6 +42,7 @@ LANGS = {
 
 REQUIRED_WORKSPACE_FILES = ("test-release.cdb", "test-strings.conf")
 LOCAL_ROOT_ENV = "SUPER_PRE_LOCAL_ROOT"
+LOCAL_MAPPINGS_FILE = "Mappings.csv"
 
 
 def log(message: str) -> None:
@@ -120,6 +121,19 @@ def local_paths(
     if not repo_root.exists():
         fail(f"TransSuperpre repo not found: {repo_root}")
     return local_dir, source_dir, workspace_dir
+
+
+def sync_shared_mappings_to_local(repo_root: Path, local_dir: Path, *, dry_run: bool = False) -> Path:
+    source = repo_root / "Shared" / LOCAL_MAPPINGS_FILE
+    target = local_dir / LOCAL_MAPPINGS_FILE
+    if not source.exists():
+        fail(f"shared mappings file not found: {source}")
+    if dry_run:
+        log(f"would copy {source} -> {target}")
+    else:
+        shutil.copy2(source, target)
+        log(f"copied {source} -> {target}")
+    return target
 
 
 def copy_workspace(args: argparse.Namespace) -> list[Path]:
@@ -240,6 +254,7 @@ def command_refresh(args: argparse.Namespace) -> None:
     env[f"{prefix}_MAPPINGS_PATH"] = str(repo_root / "Shared" / "Mappings.csv")
 
     run(automation_script_command(repo_root, args.lang), repo_root, env=env)
+    sync_shared_mappings_to_local(repo_root, local_dir)
     log(f"refreshed local {config.folder}/{args.source_dir} from the latest upstream package")
 
 
@@ -247,10 +262,13 @@ def command_pull(args: argparse.Namespace) -> None:
     run(["git", "pull", "--ff-only", "origin", "main"], Path(args.repo_root).expanduser())
     if args.lang:
         changed_paths = pull_workspace_to_local(args)
+        config = LANGS[args.lang]
+        local_dir, _source_dir, _workspace_dir = local_paths(args, config, source_required=False)
+        sync_shared_mappings_to_local(Path(args.repo_root).expanduser(), local_dir, dry_run=args.dry_run)
         if args.dry_run:
             log("dry run completed; no local files were copied")
         else:
-            log(f"pulled latest {LANGS[args.lang].folder} workspace into local {args.source_dir}: files={len(changed_paths)}")
+            log(f"pulled latest {config.folder} workspace into local {args.source_dir}: files={len(changed_paths) + 1}")
 
 
 def command_status(args: argparse.Namespace) -> None:

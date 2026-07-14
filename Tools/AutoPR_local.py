@@ -161,7 +161,7 @@ def menu(lang: str) -> str:
     repo_root = resolve_repo_root()
     print(f"Repo root : {repo_root}")
     print()
-    print("1 = Refresh local raw2 from latest .ypk")
+    print("1 = Refresh local raw2 and Mappings.csv from latest .ypk")
     print("2 = Upload raw2 workspace and push to GitHub")
     print("3 = Copy raw2 workspace into repo only")
     print(f"4 = Pull latest {lang.upper()} workspace from GitHub")
