@@ -9,12 +9,6 @@ Du kannst diesen Effekt von „Angriffslöwe“ nur einmal pro Spielzug verwende
 100200294,Kraftverbindung,"Wähle eine beliebige Anzahl offener Monster, die du kontrolliert, (falls du 2 oder mehr Monster wählst, müssen sie denselben Typ haben); sie erhalten, bis zum Ende dieses Spielzugs, für jedes gewählte Monster 500 ATK.
 Falls du „Kraftverbindung“ in diesen Spielzug aktiviert hast: Du kannst diese Karte von deinem Friedhof deiner Hand hinzufügen.
 Du kannst jeden Effekt von „Kraftverbindung“ nur einmal pro Spielzug verwenden.",Aktivieren,Zurückholen,,,,,,,,,,,,,,
-100200295,邪恶的魔王-佐克,"这个卡名的①②③的效果1回合各能使用1次。
-①：把包含这张卡的2张手卡丢弃才能发动。从卡组把1只8星的恶魔族怪兽加入手卡。
-②：自己的恶魔族怪兽被战斗破坏时才能发动。这张卡从墓地特殊召唤。
-③：自己主要阶段才能发动。掷1次骰子，出现的数目的以下效果适用。
-●1~4：选对方场上1只怪兽得到控制权或破坏。
-●5·6：自己场上1张卡破坏。",Sucheffekt,Als Spezialbeschwörung beschwören,Würfeleffekt,Kontrolle übernehmen?,,,,,,,,,,,,
 100260001,Clowntrupp Hut,"Pendelbereich = 7
 [ Pendeleffekt ]
 Während deiner Main Phase: Du kannst 1 „Clowntrupp“-Karte von deinem Deck auf deinen Friedhof legen, außer einem Pendelmonster und falls du dies tust, beschwöre diese Karte als Spezialbeschwörung, zusätzlich kannst du bis zum Ende des nächsten Spielzugs die Effekte von Monstern die als Spezialbeschwörung vom Deck oder Extra Deck beschworen wurden nicht aktivieren.
@@ -73,129 +67,89 @@ Du kannst nur 1 „D - Platzen“ pro Spielzug aktivieren.",Ziehen,Einen zusätz
 100265002,Hexwerker Samen,"Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird und du ein anderes „Hexwerker“-Monster als „Hexwerker Samen“ oder „Regulus, der Prinz von Endymion“ kontrollierst: Du kannst 1 offene Karte auf dem Spielfeld wählen; gib sie auf die Hand zurück.
 Du kannst diese Karte von deinem Friedhof verbannen; zeige eine beliebige Anzahl Karten in deiner Hand vor, darunter einen Zauber und mische sie ins Deck, ziehe dann so viele Karten.
 Du kannst jeden Effekt von „Hexwerker Samen“ nur einmal pro Spielzug verwenden.",Auf die Hand zurückgeben,Ziehen,,,,,,,,,,,,,,
-100266001,古之秘仪,"这个卡名的卡在1回合只能发动1张。
-①：从自己的手卡·卡组·墓地把1只通常怪兽以守备表示特殊召唤（从卡组特殊召唤的场合必须是4星以下）。自己场上有通常怪兽卡存在的场合，可以作为代替从以下效果选1个适用。
-●对方场上的怪兽全部破坏。
-●对方场上的魔法·陷阱卡全部破坏。
-●自己抽2张。
-●从自己或对方墓地把1只怪兽在自己场上特殊召唤。",Aktivieren,Einen anderen Effekt anwenden?,Zerstöre ein Monster,Zauber-/Fallenkarte(n) zerstören,Ziehen,Als Spezialbeschwörung beschwören,,,,,,,,,,
-100266002,圣心防护罩 -心灵之力-,"对方场上有表侧表示卡5张以上存在的场合，这张卡的发动和效果不会被无效化，这张卡在盖放的回合也能发动。
-①：以下任意时才能发动。对方场上的全部表侧表示卡效果无效并破坏。这张卡的发动后，直到下个回合结束时自己怪兽不能直接攻击。
-●对方场上的攻击力最高的怪兽的攻击宣言时
-●要把场上的卡破坏的怪兽的效果由对方发动时
-●自己回合对方把手卡·场上的怪兽的效果发动时",Aktivieren,"Aktiviere, indem du den Effekt von ""圣心防护罩 -心灵之力-"" anwendest.",,,,,,,,,,,,,,
+100266001,Antike Geheimnisse,"Beschwöre 1 Normales Monster als Spezialbeschwörung von deiner Hand, deinem Deck oder deinem Friedhof in die Verteidigungsposition (falls du als Spezialbeschwörung vom Deck beschwörest, muss es Level 4 oder niedriger sein), oder falls du eine normale Monsterkarte kontrollierst, kannst du stattdessen 1 dieser Effekte anwenden.
+● Zerstöre alle Monster, die dein Gegner kontrolliert.
+● Zerstöre alle Zauber/Fallen, die dein Gegner kontrolliert.
+● Ziehe 2 Karten.
+● Beschwöre 1 Monster als Spezialbeschwörung von einem beliebigen Friedhof auf deine Spielfeldseite.
+Du kannst nur 1 „Antike Geheimnisse“ pro Spielzug aktivieren.",Aktivieren,Einen anderen Effekt anwenden?,Zerstöre ein Monster,Zauber-/Fallenkarte(n) zerstören,Ziehen,Als Spezialbeschwörung beschwören,,,,,,,,,,
+100266002,Gedankenspiegelkraft,"Falls dein Gegner 5 oder mehr offene Karten kontrolliert, kann die Aktivierung und der Effekt dieser Karte nicht annulliert werden, zusätzlich kannst du diese Karte in dem Spielzug aktivieren, in dem sie gesetzt wurde.
+Zu einem der folgenden Zeitpunkte: Annulliere die Effekte von so vielen offenen Karten, die dein Gegner kontrolliert, wie möglich und falls du dies tust, zerstöre sie, zusätzlich können deine Monster bis zum Ende des nächsten Spielzugs, nachdem diese Karte aufgelöst wurde, nicht direkt angreifen.
+● Wenn das Monster mit den höchsten ATK, das dein Gegner kontrolliert (selbst falls es einen Gleichstand gibt) einen Angriff deklariert.
+● Wenn dein Gegner einen Monstereffekt aktiviert, der eine oder mehr Karten auf dem Spielfeld zerstören würde.
+● Wenn dein Gegner, während deines Spielzugs, einen Monstereffekt in der Hand oder auf dem Spielfeld aktiviert.",Aktivieren,"Aktiviere, indem du den Effekt von {CARD} anwendest.",,,,,,,,,,,,,,
 100266003,来自冥府的使者,"这个卡名的①②的效果1回合各能使用1次。
 ①：自己受到战斗·效果伤害的场合才能发动。这张卡从手卡特殊召唤，自己回复2000基本分。那之后，可以从以下效果选1个适用。
 ●从自己的手卡·卡组·墓地把1只「来自冥府的使者」特殊召唤。
 ●对方场上最多2只攻击表示怪兽破坏。
 ②：这张卡特殊召唤的回合的结束阶段，以自己墓地1张陷阱卡为对象才能发动。那张卡在自己场上盖放。",Als Spezialbeschwörung beschwören,Eine Fallenkarte setzen,Als Spezialbeschwörung beschwören,Zerstörungseffekt,Nichts tun,,,,,,,,,,,
-100266004,暗黑武装龙·击灭,"这张卡不能通常召唤。自己墓地的暗属性怪兽是3只的场合才能特殊召唤。这个卡名的①②的效果1回合各能使用1次。
-①：把手卡的这张卡给对方出示才能发动。从手卡把1只6星以下的暗属性怪兽特殊召唤。这个回合，自己不是暗属性怪兽不能特殊召唤。
-②：自己·对方的主要阶段，从自己墓地把最多3只暗属性怪兽除外，以那个数量的场上的卡为对象才能发动。那些卡破坏。",Als Spezialbeschwörung beschwören,Zerstören,,,,,,,,,,,,,,
-100266005,冰结界的龙胤 三千界龙,"调整+调整以外的怪兽1只以上
-这个卡名的①②③的效果1回合各能使用1次。
-①：这张卡同调召唤的场合，丢弃1张手卡才能发动。从对方的场上·墓地把2张卡除外。
-②：对方把怪兽特殊召唤的场合，把1张手卡除外才能发动。从自己或对方的场上·墓地让1张卡回到手卡。
-③：同调召唤的这张卡在对方回合被送去墓地的场合才能发动。从对方的手卡·场上·墓地把1张卡除外（从手卡的场合是随机选）。",Vom Spielfeld/Friedhof verbannen,Auf die Hand zurückgeben,Von der Hand/vom Spielfeld/Friedhof verbannen,Eine Karte aus deiner Hand verbannen?,,,,,,,,,,,,
-100267001,归光之启示者-奈菲尔塔利,"这个卡名的①②的效果1回合各能使用1次。
-①：这张卡召唤·特殊召唤的场合，把这张卡送去墓地才能发动。选自己手卡·卡组·场上（表侧表示）·墓地的最多2张通常怪兽卡，给双方确认。那之后，以那个数量从卡组把「归光」魔法卡在自己场上盖放。
-②：对方回合，把墓地的这张卡除外才能发动。从自己墓地把1只通常怪兽当作装备魔法卡使用给自己场上1只仪式怪兽装备。",Setzen,Status,,,,,,,,,,,,,,
-100267002,归光之启示者-阿蒙霍特普,"这个卡名的①②的效果1回合各能使用1次。
-①：这张卡召唤·特殊召唤的场合，把这张卡送去墓地才能发动。选自己手卡·卡组·场上（表侧表示）·墓地的最多2张通常怪兽卡，给双方确认。那之后，以那个数量从卡组把「归光」陷阱卡在自己场上盖放。
-②：把墓地的这张卡除外，以自己墓地的最多3只通常怪兽为对象才能发动。那些怪兽回到卡组。",Setzen,Zurückholen,,,,,,,,,,,,,,
-100267003,归光伟力·斯芬克斯,"「归光」卡降临。
-这个卡名的①③的效果1回合各能使用1次。
-①：把这张卡从手卡丢弃才能发动。从卡组把「归光伟力·斯芬克斯」以外的1张「归光」卡加入手卡。
-②：有装备卡装备中的这张卡不受对方发动的效果影响。
-③：自己·对方回合，把自己场上的1张表侧表示的通常怪兽卡送去墓地才能发动。对方场上的怪兽全部变成里侧守备表示。那之后，可以从自己墓地把1只通常怪兽特殊召唤。",Der Hand hinzufügen,In verdeckte Verteidigungsposition ändern,Als Spezialbeschwörung beschwören?,,,,,,,,,,,,,
-100267004,归光神爱·瓦吉特,"「归光」卡降临。
-这个卡名的①③的效果1回合各能使用1次。
-①：把这张卡从手卡丢弃才能发动。从卡组把「归光神爱·瓦吉特」以外的1张「归光」卡送去墓地。
-②：有装备卡装备中的这张卡不会被效果破坏。
-③：自己·对方回合，把自己场上表侧表示的最多3张通常怪兽卡送去墓地，以那个数量的对方场上的卡为对象才能发动。那些卡回到手卡。那之后，可以从自己墓地把1只通常怪兽特殊召唤。",Auf den Friedhof legen,Auf die Hand zurückgeben,Als Spezialbeschwörung beschwören?,,,,,,,,,,,,,
-100267005,归光稚子·涅赫贝特,"「归光」卡降临。
-这个卡名的①③的效果1回合各能使用1次。
-①：把这张卡从手卡丢弃才能发动。从自己墓地把「归光稚子·涅赫贝特」以外的1张「归光」卡加入手卡。
-②：有装备卡装备中的这张卡不会被战斗破坏。
-③：自己·对方回合才能发动。自己魔法与陷阱区域的1张表侧表示的通常怪兽卡特殊召唤，自己场上的这张卡当作攻击力上升2500的装备魔法卡使用给那只怪兽装备。",Zurückholen,Als Spezialbeschwörung beschwören,Als Spezialbeschwörung beschwören?,,,,,,,,,,,,,
-100267006,归光葬魂之仪,"这个卡名的②的效果1回合只能使用1次。
-①：1回合1次，可以发动。等级合计直到变成仪式召唤的怪兽的等级以上为止，把自己手卡·卡组·场上（表侧表示）的通常怪兽卡送去墓地（同名卡最多1张），从自己的手卡·墓地把1只「归光」仪式怪兽仪式召唤。那之后，可以从自己墓地把1只通常怪兽当作装备魔法卡使用给那只怪兽装备。
-②：自己把衍生物以外的通常怪兽特殊召唤的场合才能发动。自己抽1张。",Als Ritualbeschwörung beschwören,Ziehen,Ausrüsten?,,,,,,,,,,,,,
-100267007,归光之契,"这个卡名的①②的效果1回合各能使用1次。
-①：从卡组把1只「归光」怪兽加入手卡。
-②：这张卡在墓地存在的状态，自己把「归光」仪式怪兽从手卡丢弃的场合，把这张卡除外才能发动。从额外卡组把持有丢弃怪兽的攻击力以下攻击力的，效果怪兽以外的1只融合怪兽当作通常怪兽卡使用特殊召唤。这个回合，这个效果特殊召唤的怪兽不能直接攻击，自己不能把不死族以外的怪兽的效果发动。",Der Hand hinzufügen,Als Spezialbeschwörung beschwören,Als Normale Monsterkarte behandeln,,,,,,,,,,,,,
-100267009,光器还魂之仪,"这个卡名的卡在1回合只能发动1张。
-①：等级合计直到变成仪式召唤的怪兽的等级以上为止，把自己手卡·卡组·场上（表侧表示）的通常怪兽卡送去墓地（同名卡最多1张），从自己的手卡·墓地把1只「归光」仪式怪兽仪式召唤。那之后，可以从自己墓地把1只通常怪兽当作装备魔法卡使用给那只怪兽装备。
-②：自己场上的通常怪兽卡被战斗·效果破坏的场合，可以作为代替把墓地的这张卡除外。",Als Ritualbeschwörung beschwören,,Ausrüsten?,,,,,,,,,,,,,
-100267010,光器的瀑布,"这个卡名的①②的效果1回合各能使用1次。
-①：指定自己场上的通常怪兽以及「归光」仪式怪兽的数量的对方主要怪兽区域才能发动。这个回合中，在指定区域各自只有1次，发动的怪兽的效果无效化。
-②：自己场上的通常怪兽卡的攻击力合计比3000高的场合，把墓地的这张卡除外，以对方场上1只怪兽为对象才能发动。那只怪兽送去墓地。",Wähle eine Zone,Auf den Friedhof legen,Weiter auswählen?,,,,,,,,,,,,,
-100267011,光器的降雷,"这个卡名的①②的效果1回合各能使用1次。
-①：自己场上有通常怪兽或「归光」仪式怪兽存在，对方把魔法·陷阱卡发动时才能发动。那个发动无效并破坏。
-②：自己场上的通常怪兽卡的攻击力合计比3000高的场合，把墓地的这张卡除外才能发动。从自己的卡组·墓地把「光器的降雷」以外的1张「归光」魔法·陷阱卡在自己场上盖放。",Aktivierung annullieren und zerstören,Setzen,,,,,,,,,,,,,,
-101305081,远古者的见证人,"自己场上或墓地有同调怪兽存在的场合：可以把这张卡从手卡特殊召唤。
-这张卡特殊召唤的场合：可以从自己的额外卡组·墓地把最多3只卡名不同的同调怪兽当作永续魔法卡使用在自己的魔法与陷阱区域以表侧表示放置，在自己场上把持有放置数量相同等级的1只「弧光衍生物」（机械族·光·攻/守0）特殊召唤，这个效果的发动后，直到回合结束时自己不是同调怪兽不能从额外卡组特殊召唤。
-「远古者的见证人」的每个效果1回合各能使用1次。",Als Spezialbeschwörung beschwören,Ein Monster platzieren,,,,,,,,,,,,,,
-101305082,不信妄想症,"得到和这张卡相同纵列的全部对方怪兽的控制权。
-盖放的这张卡因对方的效果从场上离开，被送去墓地的场合或者被除外的场合：可以把这张卡变成持有以下效果的的效果怪兽（恶魔族·暗·10星·攻4000·守4000）在怪兽区域特殊召唤（不当作陷阱卡使用）。
-●这张卡不受和这张卡相同纵列发动的对方的卡的效果影响。
-「不信妄想症」在1回合只能发动1张。",Kontrolle übernehmen,Als Spezialbeschwörung beschwören,,,,,,,,,,,,,,
-101305083,幻影火精 约马格努,"这张卡不能通常召唤。从自己墓地让种类（怪兽·魔法·陷阱）相同的3张卡回到卡组·额外卡组的场合可以从手卡特殊召唤。
-这张卡特殊召唤的场合：可以宣言1个种族；这张卡直到回合结束时变成那个种族。
-自己主要阶段：可以把包含这张卡的自己·对方场上的怪兽作为融合素材，把1只融合怪兽从额外卡组融合召唤。
-「幻影火精 约马格努」的每个效果1回合各能使用1次。",Als Spezialbeschwörung beschwören,Typ ändern,Fusionseffekt,,,,,,,,,,,,,
-101305084,设陷雷轰稻草人,"这张卡在怪兽区域存在的状态，每次雷族以外的怪兽表侧表示特殊召唤：那些怪兽这个回合不能攻击，结束阶段破坏。
-这张卡在墓地存在的场合：可以以自己场上1张表侧表示卡为对象；那张卡破坏，这张卡加入手卡。
-「设陷雷轰稻草人」的这个效果1回合只能使用1次。",Angriffsbeschränkung,Zurückholen,"Der Effekt von ""设陷雷轰稻草人"" wird derzeit angewendet.",,,,,,,,,,,,,
-101305085,权柄交络者 米克修希亚,"魔法师族怪兽+魔法师族以外的怪兽
-可以以场上1只表侧表示怪兽为对象，宣言1个属性；那只怪兽变成那个属性。
-对方主要阶段（诱发即时效果）：可以把包含自己场上的这张卡的自己场上·墓地的怪兽除外作为融合素材，把1只融合怪兽从额外卡组融合召唤。
-这张卡在墓地存在的场合：可以宣言1个属性；墓地的这张卡直到回合结束时变成那个属性。
-「权柄交络者 米克修希亚」的每个效果1回合各能使用1次。",Eigenschaft ändern,Als Fusionsbeschwörung beschwören,Eigenschaft ändern,,,,,,,,,,,,,
-101305086,方解黑骑士,"3星怪兽×2只以上
-这张卡超量召唤的场合，或者自己的陷阱卡被除外的场合：可以以除外状态的自己的1张陷阱卡为对象；那张卡作为这张卡的超量素材。
-可以把这张卡的超量素材任意数量取除，以自己墓地·除外状态的持有取除数量相同等级的1只暗属性怪兽为对象；那只怪兽特殊召唤。
-「方解黑骑士」的每个效果1回合各能使用1次。",Xyz-Material anhängen,Als Spezialbeschwörung beschwören,Wähle die Anzahl der abzuhängenden Xyz-Materialien,,,,,,,,,,,,,
-101305087,森之圣兽 龙面花牝鹿,"这张卡召唤·特殊召唤的场合：可以从自己的手卡·场上（表侧表示）把1只兽族怪兽直到结束阶段以表侧除外；从自己的卡组·墓地把持有那只怪兽原本等级以下等级的1只兽族·地属性怪兽特殊召唤，那之后，对方可以从手卡把1只怪兽特殊召唤。
-「森之圣兽 龙面花牝鹿」的这个效果1回合只能使用1次。
-可以攻击的对方怪兽必须向自己场上攻击力最高的怪兽作出攻击。",Als Spezialbeschwörung beschwören,Als Spezialbeschwörung beschwören?,Bis zur End Phase verbannen,,,,,,,,,,,,,
-101305088,欺诈转移,"场上的卡为对象的对方场上发动的怪兽的效果处理时，作为对象的卡在那只对方怪兽不同纵列存在的场合，对方可以从自身墓地把1张卡除外。不除外的场合，那个效果无效。
-可以从自己墓地把1只怪兽除外；在自己场上把持有那只怪兽相同等级的1只「欺诈师衍生物」（念动力族·地·攻800/守800）特殊召唤。
-「欺诈转移」的这个效果1回合只能使用1次。",,Als Spezialbeschwörung beschwören,Eine Karte verbannen? (欺诈转移),,,,,,,,,,,,,
-101305089,悼光之希路伯,"8星怪兽×2只以上
-怪兽被送去对方墓地的场合（伤害步骤除外）：可以以那之内的1只为对象；那只怪兽作为这张卡的超量素材。「悼光之希路伯」的这个效果1回合只能使用1次。
-这张卡根据素材数量得到以下效果。
-●2个以上：不会被战斗·效果破坏。
-●3个以上：对方不能把墓地的卡作为效果的对象。
-●4个以上：可以把这张卡3个素材取除；场上1只怪兽送去墓地。",Xyz-Material anhängen,Auf den Friedhof legen,,,,,,,,,,,,,,
-101305090,四军之具象天使,"调整+调整以外的怪兽1只以上
-可以以对方场上1只怪兽为对象；那只怪兽除外。
-这张卡被当作永续魔法卡使用在魔法与陷阱区域放置的场合：可以从自己的卡组·墓地把1张「具象天使」陷阱卡加入手卡。
-「四军之具象天使」的以上效果1回合各能使用1次。
-这张卡当作永续魔法卡使用中的场合，对方在1回合最多只能发动5次怪兽的效果。",Verbannungseffekt,Sucheffekt,,,,,,,,,,,,,,
-101305091,牙城之具象天使,"调整+调整以外的怪兽1只以上
-可以以和这张卡相同纵列的1张其他卡为对象；那张卡除外。
-这张卡被当作永续魔法卡使用在魔法与陷阱区域放置的场合：可以从额外卡组把1只「四军之具象天使」当作永续魔法卡使用在自己的魔法与陷阱区域以表侧表示放置。
-「牙城之具象天使」的以上效果1回合各能使用1次。
-这张卡当作永续魔法卡使用中的场合，场上的其他「具象天使」卡不会被对方的卡的效果破坏。",Verbannungseffekt,Platzierungseffekt,,,,,,,,,,,,,,
-101305092,战马之具象天使,"调整+调整以外的怪兽1只以上
-可以以其他纵列1只怪兽为对象；那只怪兽除外。
-这张卡被当作永续魔法卡使用在魔法与陷阱区域放置的场合：可以从卡组把1张「具象天使」魔法卡加入手卡。
-「战马之具象天使」的以上效果1回合各能使用1次。
-这张卡当作永续魔法卡使用中的场合，每次对方把卡的效果发动，给与对方500伤害。",Verbannungseffekt,Sucheffekt,,,,,,,,,,,,,,
-101305093,应召之具象天使,"调整+调整以外的怪兽1只
-可以以这张卡相邻纵列的1只对方怪兽为对象；那只怪兽除外，那之后，这张卡向相邻纵列的对方主要怪兽区域转移控制权。
-表侧表示的这张卡的控制权变更的场合：让这张卡回到额外卡组，那之后，这张卡的原本持有者从自身的额外卡组把1只「具象天使」怪兽特殊召唤。
-「应召之具象天使」的每个效果1回合各能使用1次。",Verbannungseffekt,Als Spezialbeschwörung beschwören,,,,,,,,,,,,,,
-101305094,具象天使之问,"1回合1次：可以丢弃1张魔法·陷阱卡；从额外卡组把1只2星「具象天使」怪兽特殊召唤，从额外卡组把1只「具象天使」怪兽当作永续魔法卡使用在自己的魔法与陷阱区域以表侧表示放置。
-自己场上表侧表示的「具象天使」怪兽卡被战斗·效果破坏的场合：可以让自己魔法与陷阱区域的1张「具象天使」怪兽卡回到额外卡组，那之后，可以把那特殊召唤。",Als Spezialbeschwörung beschwören,Ins Extra Deck zurücklegen,Als Spezialbeschwörung beschwören?,,,,,,,,,,,,,
-101305095,具象天使之乱,"自己场上1只「具象天使」怪兽的控制权直到回合结束时转移给对方，那之后，那只怪兽相邻的怪兽区域或者魔法·陷阱卡区域有表侧表示的对方卡存在的场合，那些卡的效果无效化。
-可以从自己墓地把这张卡除外；从卡组把「具象天使之乱」以外的1张「具象天使」魔法·陷阱卡加入手卡。
-「具象天使之乱」的每个效果1回合各能使用1次。",Kontrolle übertragen,Sucheffekt,,,,,,,,,,,,,,
-101305096,具象天使e4开局,"对方先攻的场合，这张卡也能在对方的第1个回合的准备阶段从手卡发动。
-从自己的手卡·卡组·墓地把1张「具象天使」场地魔法卡在自己场上以表侧表示放置，从额外卡组把1只2·7星「具象天使」怪兽在额外怪兽区域特殊召唤，从额外卡组把1只「具象天使」怪兽当作永续魔法卡使用在自己的魔法与陷阱区域以表侧表示放置。这张卡的发动后，直到下个自己回合的结束时，自己不是同调怪兽不能从额外卡组特殊召唤。",Aktivieren,"Aktiviere, indem du den Effekt von ""具象天使e4开局"" anwendest.","Der Effekt von ""具象天使e4开局"" wird derzeit angewendet.",,,,,,,,,,,,,
-101305181,弧光衍生物,由「远古者的见证人」的效果特殊召唤。,,,,,,,,,,,,,,,,
-101305188,欺诈师衍生物,由「欺诈转移」的效果特殊召唤。,,,,,,,,,,,,,,,,
+101305081,Zeuge der Uralten,"Falls du ein Synchromonster auf deiner Spielfeldseite oder in deinem Friedhof hast: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören.
+Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst bis zu 3 Synchromonster mit unterschiedlichen Namen von deinem Extra Deck und/oder Friedhof als offene Permanente Zauber in deine Zauber- & Fallenzone legen und 1 „Arch-Spielmarke“ (Maschine/LICHT/ATK 0/DEF 0) mit einer Stufe in Höhe der gelegten Anzahl als Spezialbeschwörung beschwören, zusätzlich kannst du für den Rest dieses Spielzugs keine Spezialbeschwörungen vom Extra Deck durchführen, außer von Synchromonstern.
+Du kannst jeden Effekt von „Zeuge der Uralten“ nur einmal pro Spielzug verwenden.",Als Spezialbeschwörung beschwören,Ein Monster platzieren,,,,,,,,,,,,,,
+101305082,Misstrauensparanoia,"Übernimm die Kontrolle über alle Monster deines Gegners in der Spalte dieser Karte.
+Falls diese gesetzte Karte, die ihr Besitzer kontrolliert, das Spielfeld durch einen Effekt eines Gegners verlassen hat und sich jetzt im Friedhof befindet oder verbannt ist: Du kannst diese Karte als Spezialbeschwörung als Effektmonster (Unterweltler/FINSTERNIS/Stufe 10/ATK 4000/DEF 4000) mit dem folgenden Effekt beschwören (diese Karte wird NICHT als Falle behandelt).
+● Bleibt von Karteneffekten deines Gegners unberührt, die in derselben Spalte aktiviert werden.
+Du kannst nur 1 „Misstrauensparanoia“ pro Spielzug aktivieren.",Kontrolle übernehmen,Als Spezialbeschwörung beschwören,,,,,,,,,,,,,,
+101305083,Yomagna das Feuerphantom,"Kann nicht als Normalbeschwörung beschworen/gesetzt werden.
+Muss erst als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 3 Karten desselben Typs (Monster, Zauber oder Falle) von deinem Friedhof ins Deck / Extra Deck mischst.
+Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 Monstertyp deklarieren; diese Karte wird bis zum Ende dieses Spielzugs zu jenem Typ.
+Während deiner Main Phase: Du kannst 1 Fusionsmonster als Fusionsbeschwörung von deinem Extra Deck beschwören, indem du Monster von beliebigen Spielfeldseiten verwendest, darunter diese Karte.
+Du kannst jeden Effekt von „Yomagna das Feuerphantom“ nur einmal pro Spielzug verwenden.",Als Spezialbeschwörung beschwören,Typ ändern,Fusionseffekt,,,,,,,,,,,,,
+101305084,Donnerschlag-Strickscheuche,"Jedes Mal, wenn ein oder mehr Nichtdonner-Monster offen als Spezialbeschwörung beschworen werden, solange diese Karte in der Monsterzone liegt: Jene Monster können in diesem Spielzug nicht angreifen, zusätzlich zerstöre sie während der End Phase.
+Falls sich diese Karte in deinem Friedhof befindet: Du kannst 1 offene Karte wählen, die du kontrollierst; zerstöre sie und falls du dies tust, füge diese Karte deiner Hand hinzu.
+Du kannst diesen Effekt von „Donnerschlag-Strickscheuche“ nur einmal pro Spielzug verwenden.",Angriffsbeschränkung,Zurückholen,Der Effekt von {CARD} wird derzeit angewendet.,,,,,,,,,,,,,
+101305085,Mixousia die Verwirrende,"1 Hexer-Monster + 1 Nichthexer-Monster
+Du kannst 1 offenes Monster auf dem Spielfeld wählen und 1 Eigenschaft deklarieren; es wird zu jener Eigenschaft.
+Während der Main Phase deines Gegners (Schnelleffekt): Du kannst 1 Fusionsmonster als Fusionsbeschwörung von deinem Extra Deck beschwören, indem du diese Karte, die du kontrollierst, und Monster von deiner Spielfeldseite oder deinem Friedhof als Material verbannst.
+Falls sich diese Karte in deinem Friedhof befindet: Du kannst 1 Eigenschaft deklarieren; diese Karte im Friedhof wird bis zum Ende dieses Spielzugs zu jener Eigenschaft.
+Du kannst jeden Effekt von „Mixousia die Verwirrende“ nur einmal pro Spielzug verwenden.",Eigenschaft ändern,Als Fusionsbeschwörung beschwören,Eigenschaft ändern,,,,,,,,,,,,,
+101305086,Schamanit-Schamanenritter,"2+ Monster der Stufe 3
+Falls diese Karte als Xyz-Beschwörung beschworen wird oder falls eine Falle, die du besitzt, verbannt wird: Du kannst 1 deiner verbannten Fallen wählen; hänge sie an diese Karte an.
+Du kannst eine beliebige Anzahl Material von dieser Karte abhängen und dann 1 FINSTERNIS Monster mit einer Stufe in Höhe der abgehängten Anzahl in deinem Friedhof oder von deinen verbannten Karten wählen; beschwöre es als Spezialbeschwörung.
+Du kannst jeden Effekt von „Schamanit-Schamanenritter“ nur einmal pro Spielzug verwenden.",Xyz-Material anhängen,Als Spezialbeschwörung beschwören,Wähle die Anzahl der abzuhängenden Xyz-Materialien,,,,,,,,,,,,,
+101305087,"Cerynemesia, mystisches Ungeheuer des Waldes","Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 Ungeheuer-Monster von deiner Hand oder offen von deiner Spielfeldseite bis zur End Phase (offen) verbannen; beschwöre 1 ERDE Ungeheuer-Monster, dessen Stufe kleiner oder gleich der Grund-Stufe jenes Monsters ist, als Spezialbeschwörung von deinem Deck oder Friedhof, dann kann dein Gegner 1 Monster als Spezialbeschwörung von seiner Hand beschwören.
+Du kannst diesen Effekt von „Cerynemesia, mystisches Ungeheuer des Waldes“ nur einmal pro Spielzug verwenden.
+Monster deines Gegners, die angreifen können, müssen das Monster mit den höchsten ATK angreifen, das du kontrollierst (bei Gleichstand bestimmt er).",Als Spezialbeschwörung beschwören,Als Spezialbeschwörung beschwören?,Bis zur End Phase verbannen,,,,,,,,,,,,,
+101305088,Hochstaplerverschiebung,"Wenn ein Monstereffekt aufgelöst wird, der auf der Spielfeldseite deines Gegners aktiviert wurde, indem eine oder mehr Karten auf dem Spielfeld gewählt wurden, falls eins jener gewählten Ziele in einer unterschiedlichen Spalte als jenes Monster des Gegners liegt, kann er 1 Karte von seinem Friedhof verbannen.
+Falls er dies nicht tut, annulliere den aktivierten Effekt.
+Du kannst 1 Monster von deinem Friedhof verbannen; beschwöre 1 „Hochstapler-Spielmarke“ (Psi/ERDE/ATK 800/DEF 800) mit derselben Stufe wie jenes Monster als Spezialbeschwörung.
+Du kannst diesen Effekt von „Hochstaplerverschiebung“ nur einmal pro Spielzug verwenden.",,Als Spezialbeschwörung beschwören,Eine Karte verbannen? ({CARD}),,,,,,,,,,,,,
+101305089,Mortilux Heruvur,"2+ Monster der Stufe 8
+Falls ein oder mehr Monster auf den Friedhof deines Gegners gelegt werden (außer während des Damage Steps): Du kannst 1 von ihnen wählen; hänge es an diese Karte an.
+Du kannst diesen Effekt von „Mortilux Heruvur“ nur einmal pro Spielzug verwenden.
+Diese Karte erhält Effekte basierend auf der Anzahl des an sie angehängten Materials.
+● 2+: Kann weder durch Kampf noch durch Karteneffekte zerstört werden.
+● 3+: Dein Gegner kann Karten in den Friedhöfen nicht als Ziel für Karteneffekte wählen.
+● 4+: Du kannst 3 Material von dieser Karte abhängen; lege 1 Monster vom Spielfeld auf den Friedhof.",Xyz-Material anhängen,Auf den Friedhof legen,,,,,,,,,,,,,,
+101305090,Engelechy Shatranga,"1 Empfänger + 1+ Nicht-Empfänger
+Du kannst 1 Monster wählen, das dein Gegner kontrolliert; verbanne es.
+Falls diese Karte als Permanenter Zauber in die Zauber- & Fallenzone gelegt wird: Du kannst deiner Hand 1 „Engelechy“-Falle von deinem Deck oder Friedhof hinzufügen.
+Du kannst jeden der vorherigen Effekte von „Engelechy Shatranga“ nur einmal pro Spielzug verwenden.
+Solange diese Karte als Permanenter Zauber behandelt wird, kann dein Gegner nur versuchen, bis zu 5 Monstereffekte pro Spielzug zu aktivieren.",Verbannungseffekt,Sucheffekt,,,,,,,,,,,,,,
+101305091,Engelechy Bastion,"1 Empfänger + 1+ Nicht-Empfänger
+Du kannst 1 andere Karte in der Spalte dieser Karte wählen; verbanne sie.
+Falls diese Karte als Permanenter Zauber in die Zauber- & Fallenzone gelegt wird: Du kannst 1 „Engelechy Shatranga“ von deinem Extra Deck als offenen Permanenten Zauber in deine Zauber- & Fallenzone legen.
+Du kannst jeden der vorherigen Effekte von „Engelechy Bastion“ nur einmal pro Spielzug verwenden.
+Solange diese Karte als Permanenter Zauber behandelt wird, können andere „Engelechy“-Karten auf dem Spielfeld nicht durch Karteneffekte deines Gegners zerstört werden.",Verbannungseffekt,Platzierungseffekt,,,,,,,,,,,,,,
+101305092,Engelechy Destrier,"1 Empfänger + 1+ Nicht-Empfänger
+Du kannst 1 Monster in einer anderen Spalte wählen; verbanne es.
+Falls diese Karte als Permanenter Zauber in die Zauber- & Fallenzone gelegt wird: Du kannst deiner Hand 1 „Engelechy“-Zauber von deinem Deck hinzufügen.
+Du kannst jeden der vorherigen Effekte von „Engelechy Destrier“ nur einmal pro Spielzug verwenden.
+Solange diese Karte als Permanenter Zauber behandelt wird, jedes Mal wenn dein Gegner eine Karte oder einen Effekt aktiviert, füge deinem Gegner 500 Schaden zu, wenn sie oder er aufgelöst wird.",Verbannungseffekt,Sucheffekt,,,,,,,,,,,,,,
+101305093,Engelechy Rekrutiert,"1 Empfänger + 1 Nicht-Empfänger
+Du kannst 1 Monster deines Gegners in einer benachbarten Spalte dieser Karte wählen; verbanne es, dann ändere die Kontrolle über diese Karte, indem du sie in eine der Main-Monsterzonen deines Gegners in den benachbarten Spalten dieser Karte bewegst.
+Falls sich der Beherrscher dieser offenen Karte ändert: Lege sie ins Extra Deck zurück, dann beschwört der Besitzer dieser Karte 1 „Engelechy“-Monster als Spezialbeschwörung von seinem Extra Deck.
+Du kannst jeden Effekt von „Engelechy Rekrutiert“ nur einmal pro Spielzug verwenden.",Verbannungseffekt,Als Spezialbeschwörung beschwören,,,,,,,,,,,,,,
+101305094,Engelechy-Problem,"Einmal pro Spielzug: Du kannst 1 Zauber/Falle abwerfen; beschwöre 1 „Engelechy“-Monster der Stufe 2 als Spezialbeschwörung von deinem Extra Deck und falls du dies tust, lege 1 „Engelechy“-Monster von deinem Extra Deck als offenen Permanenten Zauber in deine Zauber- & Fallenzone.
+Falls eine oder mehr offene „Engelechy“-Monsterkarten, die du kontrollierst, durch Kampf oder einen Karteneffekt zerstört werden: Du kannst 1 „Engelechy“-Monsterkarte, die du besitzt, von deiner Zauber- & Fallenzone ins Extra Deck zurücklegen, dann kannst du sie als Spezialbeschwörung beschwören.",Als Spezialbeschwörung beschwören,Ins Extra Deck zurücklegen,Als Spezialbeschwörung beschwören?,,,,,,,,,,,,,
+101305095,Engelechy-Störung,"Übergib die Kontrolle über 1 „Engelechy“-Monster, das du kontrollierst, (bis zur End Phase) an deinen Gegner, dann, falls dein Gegner eine oder mehr offene Karten in seinen benachbarten Monsterzonen und/oder Zauber- & Fallenzonen kontrolliert, werden ihre Effekte annulliert.
+Du kannst diese Karte von deinem Friedhof verbannen; füge deiner Hand 1 „Engelechy“-Zauber/Falle von deinem Deck hinzu, außer „Engelechy-Störung“.
+Du kannst jeden Effekt von „Engelechy-Störung“ nur einmal pro Spielzug verwenden.",Kontrolle übertragen,Sucheffekt,,,,,,,,,,,,,,
+101305096,Engelechy-Eröffnung auf e4,"Falls dein Gegner das Spiel beginnt, kannst du diese Karte auch während der Standby Phase seines ersten Spielzugs von deiner Hand aktivieren.
+Lege 1 „Engelechy“-Spielfeldzauber von deiner Hand, deinem Deck oder deinem Friedhof offen auf deine Spielfeldseite und falls du dies tust, beschwöre 1 „Engelechy“-Monster der Stufe 2 oder 7 als Spezialbeschwörung von deinem Extra Deck in die Extra-Monsterzone und falls du dies tust, lege 1 „Engelechy“-Monster von deinem Extra Deck als offenen Permanenten Zauber in deine Zauber- & Fallenzone.
+Du kannst bis zum Ende deines nächsten Spielzugs, nachdem diese Karte aufgelöst wurde, keine Spezialbeschwörungen vom Extra Deck durchführen, außer von Synchromonstern.",Aktivieren,"Aktiviere, indem du den Effekt von {CARD} anwendest.",Der Effekt von {CARD} wird derzeit angewendet.,,,,,,,,,,,,,
+101305181,Arch-Spielmarke,Als Spezialbeschwörung beschworen mit dem Effekt von „Zeuge der Uralten“.,,,,,,,,,,,,,,,,
+101305188,Hochstapler-Spielmarke,Als Spezialbeschwörung beschworen mit dem Effekt von „Hochstaplerverschiebung“.,,,,,,,,,,,,,,,,
 101306001,Flinker Panter-Krieger,"Während der Main Phase (Schnelleffekt): Du kannst 1 anderes Monster von deiner Hand oder Spielfeldseite als Tribut anbieten und dann 1 dieser Effekte aktivieren;
 ● Beschwöre 1 Monster, das „Dunkler Zeitzauberer“ erwähnt, als Spezialbeschwörung von deiner Hand oder deinem Deck, außer „Flinker Panter-Krieger“.
 ● Lege 1 Zauber/Falle, die „Dunkler Zeitzauberer“ erwähnt, von deinem Deck auf den Friedhof.
@@ -212,68 +166,42 @@ Dein Gegner kann keine Fallenkarten oder -effekte aktivieren, solange du ein and
 101306004,"Fischer, Legende des Meeres","Falls dein Gegner einen Monstereffekt auf dem Spielfeld aktiviert oder wenn sein Monster einen Angriff deklariert, und „Umi“ oder eine andere Karte als „Fischer, Legende des Meeres“, die „Dunkler Zeitzauberer“ erwähnt, auf dem Spielfeld liegt: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören.
 Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 Monster wählen, das dein Gegner kontrolliert; zerstöre es, zusätzlich gib diese Karte vom Spielfeld auf die Hand zurück während der End Phase dieses Spielzugs.
 Du kannst jeden Effekt von „Fischer, Legende des Meeres“ nur einmal pro Spielzug verwenden.",Als Spezialbeschwörung beschwören,Zerstören,,,,,,,,,,,,,,
-101306005,闪光阴影,"这个卡名的①②的效果1回合各能使用1次。
-①：自己把「阴影」怪兽或「假面魔蹈士」超量怪兽召唤·特殊召唤的场合才能发动。这张卡从手卡特殊召唤，自己抽1张。那张抽到的卡是「阴影」怪兽的场合，可以再把那只怪兽特殊召唤。
-②：以怪兽3只以上为素材的「No.」超量怪兽超量召唤的场合，这张卡可以作为2只数量的超量素材。",Als Spezialbeschwörung beschwören,Als Spezialbeschwörung beschwören?,,,,,,,,,,,,,,
-101306006,V阴影灵,"这个卡名的①②的效果1回合各能使用1次。
-①：这张卡召唤·特殊召唤的场合才能发动。从卡组把「V阴影灵」以外的1只「阴影」怪兽加入手卡。
-②：把墓地的这张卡除外，以自己场上1只「假面魔蹈士」超量怪兽为对象才能发动。从额外卡组把比那只自己怪兽阶级高1的1只「No.」怪兽，在作为对象的怪兽上面重叠当作超量召唤特殊召唤。",Der Hand hinzufügen,Als Xyz-Beschwörung beschwören,,,,,,,,,,,,,,
-101306007,蛇头阴影,"这个卡名的①③的效果1回合各能使用1次。
-①：自己场上的怪兽，不存在的场合或者只有「阴影」怪兽的场合才能发动。这张卡从手卡特殊召唤，从卡组把岩石族以外的1只「阴影」怪兽加入手卡。
-②：只要这张卡在怪兽区域存在，自己不是「No.」超量怪兽不能从额外卡组特殊召唤。
-③：以怪兽3只以上为素材的「No.」超量怪兽超量召唤的场合，这张卡可以作为2只数量的超量素材。",Als Spezialbeschwörung beschwören,,,,,,,,,,,,,,,
-101306008,千皇阴影,"这个卡名的①②的效果1回合各能使用1次。
-①：自己·对方回合，把手卡·场上的这张卡送去墓地才能发动。从手卡·卡组把1张「七皇的冀望乡」在自己的场地区域以表侧表示放置。这个效果的发动后，直到下次的自己回合结束时，自己不是超量怪兽不能从额外卡组特殊召唤。
-②：这张卡在墓地存在的状态，超量怪兽特殊召唤的场合才能发动。这张卡特殊召唤。这个回合，自己的效果发生的对自己的效果伤害变成0。",In die Spielfeldzone legen,Als Spezialbeschwörung beschwören,Der Effekt von {CARD} wird derzeit angewendet.,,,,,,,,,,,,,
-101306009,金神之战鬼 赤砂,"这个卡名的①的方法的特殊召唤1回合只能有1次，②③的效果1回合各能使用1次。
-①：这张卡可以让自己场上1张里侧表示卡给对方确认回到手卡·额外卡组，从手卡特殊召唤。
-②：自己·对方的主要阶段，从自己的手卡·场上（里侧表示）把1张陷阱卡送去墓地才能发动。对方场上的表侧表示怪兽全部变成里侧守备表示。
-③：自己结束阶段才能发动。从卡组把1张「艮鬼」陷阱卡在自己场上盖放。",,In die verdeckte Position ändern,Setzen,,,,,,,,,,,,,
-101306010,蛊神之色鬼 葛叶,"这个卡名的①的方法的特殊召唤1回合只能有1次，②③的效果1回合各能使用1次。
-①：这张卡可以让自己场上1张里侧表示卡给对方确认回到手卡·额外卡组，从手卡特殊召唤。
-②：场上的里侧表示卡每有2张则最多1张，以场上的卡为对象才能发动。那些卡破坏。
-③：自己结束阶段，以自己墓地的1张「艮鬼」陷阱卡为对象才能发动。那张卡在自己场上盖放。",,Zerstören,Setzen,,,,,,,,,,,,,
-101306011,疫神之依鬼 丰吾,"这个卡名的①的方法的特殊召唤1回合只能有1次，②③的效果1回合各能使用1次。
-①：这张卡可以让自己场上1张里侧表示卡给对方出示回到手卡·额外卡组，从手卡特殊召唤。
-②：自己主要阶段才能发动。从卡组把1张「艮鬼」魔法·陷阱卡在自己场上盖放。
-③：对方回合，以场上1只表侧表示怪兽为对象才能发动。那只怪兽的等级上升或下降1。",,Setzen,Stufe ändern,Stufe erhöhen,Stufe verringern,,,,,,,,,,,
-101306012,封神之剑鬼 水分,"这个卡名的①的方法的特殊召唤1回合只能有1次，②③的效果1回合各能使用1次。
-①：这张卡可以让自己场上1张里侧表示卡给对方出示回到手卡·额外卡组，从手卡特殊召唤。
-②：自己主要阶段才能发动。从卡组把幻龙族以外的1只「艮鬼」怪兽加入手卡。
-③：这张卡作为「艮鬼」同调怪兽的同调素材被送去墓地的场合，以自己墓地1张通常陷阱卡为对象才能发动。那张卡在自己场上盖放。",,Der Hand hinzufügen,Setzen,,,,,,,,,,,,,
-101306013,亚特兰蒂斯的龙神-泰达路斯,"这个卡名的①③的效果1回合各能使用1次。
-①：自己场上有「龙都 亚特兰蒂斯」或「海」存在的场合才能发动。这张卡从手卡特殊召唤。
-②：这张卡只要在怪兽区域存在，卡名当作「海」使用。
-③：把自己场上最多3张表侧表示的「海」送去墓地才能发动。把那个数量的7星怪兽以外的有「龙都 亚特兰蒂斯」的卡名记述的卡从卡组加入手卡。那之后，可以把场上1张卡送去墓地。",Als Spezialbeschwörung beschwören,Sucheffekt,Die gewählte Karte auf den Friedhof legen?,,,,,,,,,,,,,
-101306014,亚特兰蒂斯的战将,"这个卡名的①③的效果1回合各能使用1次。
-①：把这张卡从手卡丢弃才能发动。把有「龙都 亚特兰蒂斯」的卡名记述的1张魔法·陷阱卡从卡组加入手卡。
-②：这张卡只要在怪兽区域存在，卡名当作「海」使用。
-③：这张卡在墓地存在，自己场上有「海」存在的场合才能发动。这张卡特殊召唤。",Sucheffekt,Als Spezialbeschwörung beschwören,,,,,,,,,,,,,,
-101306015,亚特兰蒂斯的怪腕,"这个卡名的①③的效果1回合各能使用1次。
-①：这张卡召唤·特殊召唤的场合，以自己墓地的1只有「龙都 亚特兰蒂斯」的卡名记述的怪兽为对象才能发动。那只怪兽守备表示特殊召唤。
-②：这张卡只要在怪兽区域存在，卡名当作「海」使用。
-③：对方把怪兽的效果发动时，把场上·墓地的这张卡除外，把自己场上1张表侧表示的「海」送去墓地才能发动。那个效果无效。",Als Spezialbeschwörung beschwören,Effekt annullieren,,,,,,,,,,,,,,
-101306016,亚特兰蒂斯的妖涡,"这个卡名的①③的效果1回合各能使用1次。
-①：这张卡召唤·特殊召唤的场合才能发动。从卡组把1张「亚特兰蒂斯的妖涡」以外的有「龙都 亚特兰蒂斯」的卡名记述的卡送去墓地。
-②：这张卡只要在怪兽区域存在，卡名当作「海」使用。
-③：这张卡被送去墓地的场合，若自己场上有「海」存在则能发动。从手卡把1只水属性怪兽特殊召唤。",Auf den Friedhof legen,Als Spezialbeschwörung beschwören,,,,,,,,,,,,,,
-101306017,预幻使 米底乌斯,"这个卡名在规则上也当作「狱神」卡使用。这个卡名的①②的效果1回合各能使用1次。
-①：场上有「狱神」卡存在的场合才能发动。这张卡从手卡特殊召唤。那之后，可以从卡组把1张「预幻」魔法·陷阱卡加入手卡。
-②：怪兽以表侧被除外的场合，可以从以下效果选择1个发动。
-●从卡组把1张「无垢艺术」卡加入手卡。
-●这张卡除外，从额外卡组把1只「底亚克托罗斯」怪兽特殊召唤。",Als Spezialbeschwörung beschwören,Wähle einen Effekt,Der Hand hinzufügen?,Sucheffekt,Als Spezialbeschwörung beschwören,,,,,,,,,,,
-101306018,无限与有限的无垢艺术,"这个卡名的①②③的效果1回合各能使用1次。
-①：把这张卡从手卡除外才能发动。从卡组把战士族以外的1只「无垢艺术」怪兽加入手卡。这个回合中，自己场上的「狱神」连接怪兽的原本攻击力变成3倍。
-②：这张卡是除外状态，融合·连接怪兽特殊召唤的场合才能发动。这张卡特殊召唤。
-③：自己场上有「狱神」连接怪兽存在的场合，以场上1只怪兽为对象才能发动。那只怪兽除外。",Sucheffekt,Als Spezialbeschwörung beschwören,Verbannungseffekt,,,,,,,,,,,,,
-101306019,净化与腐败的无垢艺术,"这个卡名的①②③的效果1回合各能使用1次。
-①：把这张卡从手卡除外才能发动。从卡组把1张「无垢艺术」魔法·陷阱卡加入手卡。直到下个回合的结束时，自己的「狱神」连接怪兽各自在1回合最多3次不会被战斗破坏。
-②：这张卡是除外状态，超量·连接怪兽特殊召唤的场合才能发动。这张卡特殊召唤。
-③：以最多有自己场上的「狱神」连接怪兽数量的，场上的魔法·陷阱卡为对象才能发动。那些卡除外。",Sucheffekt,Als Spezialbeschwörung beschwören,Verbannungseffekt,Der Effekt von {CARD} wird derzeit angewendet.,,,,,,,,,,,,
-101306020,结合与乖离的无垢艺术,"这个卡名的①②③的效果1回合各能使用1次。
-①：把这张卡从手卡除外才能发动。从自己的墓地·除外状态把魔法师族以外的1只「无垢艺术」怪兽特殊召唤。这个回合中，自己的「狱神」连接怪兽在同1次的战斗阶段中最多3次可以向怪兽攻击。
-②：这张卡是除外状态，同调·连接怪兽特殊召唤的场合才能发动。这张卡特殊召唤。
-③：从自己墓地把1张「无垢艺术」卡除外才能发动。自己抽1张。",Als Spezialbeschwörung beschwören,Als Spezialbeschwörung beschwören,Ziehen,,,,,,,,,,,,,
+101306009,Akasuna die Kampf Ashtra,"Du kannst diese Karte als Spezialbeschwörung (von deiner Hand) beschwören, indem du 1 verdeckte Karte, die du kontrollierst, vorzeigst und sie auf die Hand/das Extra Deck zurückgibts.
+Du kannst „Akasuna die Kampf Ashtra“ nur einmal pro Spielzug auf diese Art als Spezialbeschwörung beschwören.
+Du kannst jeden der folgenden Effekte von „Akasuna die Kampf Ashtra“ nur einmal pro Spielzug verwenden.
+Während der Main Phase (Schnelleffekt): Du kannst 1 Falle von deiner Hand oder verdeckt von deiner Spielfeldseite auf den Friedhof legen; ändere alle offenen Monster, die dein Gegner kontrolliert, in die verdeckte Verteidigungsposition.
+Während deiner End Phase: Du kannst 1 „Ashtra“-Falle von deinem Deck setzen.",,In die verdeckte Position ändern,Setzen,,,,,,,,,,,,,
+101306010,"Kuzuha, die bezaubernde Gottheit Ashtra","Du kannst diese Karte als Spezialbeschwörung (von deiner Hand) beschwören, indem du 1 verdeckte Karte, die du kontrollierst, vorzeigst und sie auf die Hand/das Extra Deck zurückgibts.
+Du kannst „Kuzuha, die bezaubernde Gottheit Ashtra“ nur einmal pro Spielzug auf diese Art als Spezialbeschwörung beschwören.
+Du kannst jeden der folgenden Effekte von „Kuzuha, die bezaubernde Gottheit Ashtra“ nur einmal pro Spielzug verwenden.
+Du kannst bis zu 1 Karte auf dem Spielfeld wählen für jede 2 verdeckten Karten auf dem Spielfeld; zerstöre sie.
+Während deiner End Phase: Du kannst 1 „Ashtra“-Falle in deinem Friedhof wählen; setze sie.",,Zerstören,Setzen,,,,,,,,,,,,,
+101306011,"Yoa, die Pestgottheit Ashtra","Du kannst diese Karte als Spezialbeschwörung (von deiner Hand) beschwören, indem du 1 verdeckte Karte, die du kontrollierst, vorzeigst und sie auf die Hand/das Extra Deck zurückgibts.
+Du kannst „Yoa, die Pestgottheit Ashtra“ nur einmal pro Spielzug auf diese Art als Spezialbeschwörung beschwören.
+Du kannst jeden der folgenden Effekte von „Yoa, die Pestgottheit Ashtra“ nur einmal pro Spielzug verwenden.
+Während der Main Phase: Du kannst 1 „Ashtra“-Zauber/Falle von deinem Deck setzen.
+Während des Spielzugs deines Gegners (Schnelleffekt): Du kannst 1 offenes Monster auf dem Spielfeld wählen; erhöhe oder verringere seine Stufe um 1.",,Setzen,Stufe ändern,Stufe erhöhen,Stufe verringern,,,,,,,,,,,
+101306012,"Mikumari, die Siegelungsgottheit Ashtra","Du kannst diese Karte als Spezialbeschwörung (von deiner Hand) beschwören, indem du 1 verdeckte Karte, die du kontrollierst, vorzeigst und sie auf die Hand/das Extra Deck zurückgibts.
+Du kannst „Mikumari, die Siegelungsgottheit Ashtra“ nur einmal pro Spielzug auf diese Art als Spezialbeschwörung beschwören.
+Du kannst jeden der folgenden Effekte von „Mikumari, die Siegelungsgottheit Ashtra“ nur einmal pro Spielzug verwenden.
+Während der Main Phase: Du kannst deiner Hand 1 „Ashtra“-Nichtwyrm-Monster von deinem Deck hinzufügen.
+Falls diese Karte als Synchromaterial für ein „Ashtra“-Monster auf den Friedhof gelegt wird: Du kannst 1 Normale Falle in deinem Friedhof wählen; setze sie.",,Der Hand hinzufügen,Setzen,,,,,,,,,,,,,
+101306013,Leviathan von Atlantis - Daedalus,"Der Name dieser Karte wird zu „Umi“, solange sie in der Monsterzone liegt.
+Du kannst jeden der folgenden Effekte von „Leviathan von Atlantis - Daedalus“ nur einmal pro Spielzug verwenden.
+Falls du „Atlantis, die Stadt des Seedrachen“ oder „Umi“ kontrollierst: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören.
+Du kannst bis zu 3 offene „Umi“, die du kontrollierst, auf den Friedhof legen; füge deiner Hand so viele Karten, die „Atlantis, die Stadt des Seedrachen“ erwähnen, von deinem Deck hinzu, außer Monster der Stufe 7, dann kannst du 1 Karte vom Spielfeld auf den Friedhof legen.",Als Spezialbeschwörung beschwören,Sucheffekt,Die gewählte Karte auf den Friedhof legen?,,,,,,,,,,,,,
+101306014,General von Atlantis,"Der Name dieser Karte wird zu „Umi“, solange sie in der Monsterzone liegt.
+Du kannst jeden der folgenden Effekte von „General von Atlantis“ nur einmal pro Spielzug verwenden.
+Du kannst diese Karte abwerfen; füge deiner Hand 1 Zauber/Falle, der oder die „Atlantis, die Stadt des Seedrachen“ erwähnt, von deinem Deck hinzu.
+Falls sich diese Karte in deinem Friedhof befindet und du „Umi“ kontrollierst: Du kannst diese Karte als Spezialbeschwörung beschwören.",Sucheffekt,Als Spezialbeschwörung beschwören,,,,,,,,,,,,,,
+101306015,Monströse Arme von Atlantis,"Der Name dieser Karte wird zu „Umi“, solange sie in der Monsterzone liegt.
+Du kannst jeden der folgenden Effekte von „Monströse Arme von Atlantis“ nur einmal pro Spielzug verwenden.
+Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 Monster, das „Atlantis, die Stadt des Seedrachen“ erwähnt, in deinem Friedhof wählen; beschwöre es als Spezialbeschwörung in die Verteidigungsposition.
+Wenn dein Gegner einen Monstereffekt aktiviert (Schnelleffekt): Du kannst diese Karte von deiner Spielfeldseite oder deinem Friedhof verbannen und 1 offenes „Umi“, das du kontrollierst, auf den Friedhof legen; annulliere jenen Effekt.",Als Spezialbeschwörung beschwören,Effekt annullieren,,,,,,,,,,,,,,
+101306016,Teuflischer Strudel von Atlantis,"Der Name dieser Karte wird zu „Umi“, solange sie in der Monsterzone liegt.
+Du kannst jeden der folgenden Effekte von „Teuflischer Strudel von Atlantis“ nur einmal pro Spielzug verwenden.
+Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 Karte, die „Atlantis, die Stadt des Seedrachen“ erwähnt, von deinem Deck auf den Friedhof legen, außer „Teuflischer Strudel von Atlantis“.
+Falls diese Karte auf den Friedhof gelegt wird und du „Umi“ kontrollierst: Du kannst 1 WASSER Monster als Spezialbeschwörung von deiner Hand beschwören.",Auf den Friedhof legen,Als Spezialbeschwörung beschwören,,,,,,,,,,,,,,
 101306021,Schicksals-HELD - Death Dogma,"Kann nicht als Normalbeschwörung beschworen/gesetzt werden.
 Muss als Spezialbeschwörung (von deiner Hand oder deinem Friedhof) beschworen werden, indem du 3 Krieger- und/oder FINSTERNIS Monster von deinem Friedhof verbannst.
 Du kannst „Schicksals-HELD - Death Dogma“ nur einmal pro Spielzug auf diese Art als Spezialbeschwörung beschwören.
@@ -291,33 +219,16 @@ Du kannst jeden Effekt von „Schicksals-HELD - Dreadnought Servant“ nur einma
 101306025,魔救之奇石-海蛇晶石,"这个卡名的①②的效果1回合只能各使用1次。
 ①：这张卡用「魔救」卡的效果特殊召唤的场合才能发动。从卡组把「魔救之奇石-海蛇晶石」以外的1张「魔救」卡加入手卡。那之后，可以从手卡把1只岩石族怪兽特殊召唤。
 ②：这张卡在墓地存在的场合，以自己的场上·墓地1只岩石族同调怪兽为对象才能发动。那只怪兽回到额外卡组，这张卡回到卡组最上面。",Sucheffekt,Ins Deck zurücklegen,Als Spezialbeschwörung beschwören?,,,,,,,,,,,,,
-101306026,团结之恶魔龙 暗黑魔龙,"这张卡不能通常召唤，用这张卡的效果才能特殊召唤。这个卡名的①的效果1回合只能使用1次。
-①：自己·对方回合，从手卡把1张速攻·仪式魔法卡丢弃才能发动。这张卡从手卡以守备表示特殊召唤。
-②：这张卡特殊召唤的场合才能发动。从自己的卡组·墓地把1张有「光与暗的仪式」的卡名记述的魔法·陷阱卡在自己场上盖放。
-③：双方的战斗阶段开始时才能发动。对方失去800基本分，这张卡的攻击力上升800。",Als Spezialbeschwörung beschwören,Setzen,Die LP des Gegners verringern und ATK erhöhen,,,,,,,,,,,,,
-101306027,天下独步的大义贼,"自己场上没有怪兽存在的场合，这张卡可以从自己手卡以及对方场上之中把怪兽解放，以表侧表示作上级召唤。这个卡名的①②的效果1回合各能使用1次。
-①：这张卡是已通常召唤的场合，对方把手卡·墓地·除外状态的卡的效果发动时才能发动。那个效果无效并破坏。
-②：自己·对方的战斗阶段，把手卡全部给对方观看才能发动。对方场上的怪兽全部变成守备表示。","Als Tributbeschwörung beschwören, indem du Monster von deiner Hand und vom Spielfeld deines Gegners als Tribut anbietest",Effekt annullieren,Kampfposition,,,,,,,,,,,,,
-101306028,精灵世妃 树精,"这个卡名的①②的效果1回合各能使用1次，不能对应这些效果的发动把魔法·陷阱·怪兽的效果发动。
-①：这张卡在手卡存在，自己墓地的怪兽的属性是3种类以上的场合，以自己墓地1只怪兽为对象才能发动。那只怪兽和这张卡特殊召唤。
-②：自己墓地的怪兽的属性是3种类以上的场合才能发动。从卡组把相同属性的怪兽不在自己场上·墓地存在的1只怪兽特殊召唤。",Als Spezialbeschwörung beschwören,Als Spezialbeschwörung vom Deck beschwören,,,,,,,,,,,,,,
-101306029,耀烂龙 珊瑚海游龙,"这个卡名的①的效果1回合只能使用1次。
-①：这张卡用抽卡以外的方法加入手卡的场合，把这张卡和手卡1只水属性怪兽给对方出示才能发动。那2只特殊召唤。这个效果的发动后，直到回合结束时自己不是水属性怪兽不能特殊召唤。
-②：只要自己场上有「海」存在，对方不能把自己场上的水属性连接怪兽作为效果的对象。",Als Spezialbeschwörung beschwören,,,,,,,,,,,,,,,
 101306030,死相之冥鉴 修布罗,"这个卡名的②③的效果1回合各能使用1次。
 ①：这张卡可以不用解放作召唤。
 ②：这张卡召唤·特殊召唤的场合才能发动。从卡组把除「死相之冥鉴 修布罗」外的，1只6星以上的不死族怪兽送去墓地。那之后，可以从自己墓地把1只6星以上的不死族怪兽加入手卡。
 ③：这张卡在怪兽区域存在的状态，从墓地有怪兽特殊召唤的场合才能发动。进行1只不死族超量怪兽的超量召唤。",Normalbeschwörung ohne Tribut,Auf den Friedhof legen,Als Xyz-Beschwörung beschwören,Der Hand hinzufügen?,,,,,,,,,,,,
 101306031,秘水调查师,"这个卡名的①②的效果1回合各能使用1次。
 ①：这张卡在手卡·墓地存在的场合，从手卡把1只其他魔法师族怪兽或1张魔法·陷阱卡丢弃才能发动。这张卡特殊召唤。这个效果特殊召唤的这张卡从场上离开的场合除外。
-②：这张卡召唤·特殊召唤的场合才能发动。从卡组把1只魔法师族·4星怪兽除外。这个回合的结束阶段，除外的那只怪兽加入手卡或特殊召唤。 ",Als Spezialbeschwörung beschwören,Verbannungseffekt,"Durch den Effekt von ""秘水调查师"" verbannen",,,,,,,,,,,,,
+②：这张卡召唤·特殊召唤的场合才能发动。从卡组把1只魔法师族·4星怪兽除外。这个回合的结束阶段，除外的那只怪兽加入手卡或特殊召唤。 ",Als Spezialbeschwörung beschwören,Verbannungseffekt,Durch den Effekt von {CARD} verbannen,,,,,,,,,,,,,
 101306032,公灰熊,"这个卡名的②的效果1回合只能使用1次。
 ①：这张卡被战斗破坏送去墓地时才能发动。从卡组把1只攻击力1400的4星怪兽特殊召唤。自己墓地有攻击力1400的4星怪兽2只以上存在的场合，可以作为代替把1只通常怪兽特殊召唤。
 ②：自己场上有效果怪兽以外的怪兽存在，对方把怪兽的效果发动时，把墓地的这张卡除外才能发动。那个发动无效并破坏。",Als Spezialbeschwörung beschwören,Aktivierung annullieren,,,,,,,,,,,,,,
-101306033,垃圾石人,"这个卡名的①②③的效果1回合各能使用1次。
-①：自己场上有攻击力或守备力是0的怪兽存在的场合才能发动。这张卡从手卡特殊召唤。
-②：把阶级不同的额外卡组3只超量怪兽给对方出示，以场上1张其他卡为对象才能发动。那张卡和这张卡破坏。
-③：把墓地的这张卡除外才能发动。自己场上1个超量素材取除。那之后，可以从自己的手卡·墓地把1只攻击力或守备力是0的怪兽特殊召唤。",Als Spezialbeschwörung beschwören,Zerstörungseffekt,Xyz-Material abhängen,Als Spezialbeschwörung beschwören?,,,,,,,,,,,,
 101306034,卡通阴影,"这张卡不能通常召唤。「卡通阴影」1回合1次，在不能通常召唤的怪兽在场上以表侧表示存在的场合才能特殊召唤。
 ①：这张卡特殊召唤的场合才能发动。从卡组把攻击力或守备力是2000的1只不能通常召唤的怪兽加入手卡。
 ②：场上的这张卡被解放的场合，以场上1张卡为对象才能发动（自己场上有攻击力或守备力是2000的怪兽存在的场合，这个效果的对象可以变成2张）。那些卡回到手卡。 ",Sucheffekt,Auf die Hand zurückgeben,,,,,,,,,,,,,,
@@ -335,58 +246,35 @@ Muss entweder als Fusionsbeschwörung beschworen werden oder als Spezialbeschwö
 Du kannst „Schicksals-HELD - Dreadnought“ nur einmal pro Spielzug auf diese Art als Spezialbeschwörung beschwören, egal welche Methode du verwendest.
 Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst deiner Hand 2 „Schicksals-HELD“-Monster und/oder Karten, die den Kartennamen eines „Schicksals-HELD“-Monsters in ihrem Text erwähnen, von deinem Deck hinzufügen.
 Die ATK dieser Karte werden gleich der Summe der Grund-ATK aller anderen „Schicksals-HELD“-Monster auf deiner Spielfeldseite und in deinem Friedhof.",Der Hand hinzufügen,,,,,,,,,,,,,,,
-101306038,召唤兽 黑曜岩灵,"「阿莱斯特」怪兽＋从额外卡组特殊召唤的怪兽
-这个卡名的①②的效果1回合各能使用1次。
-①：这张卡特殊召唤的场合，可以从以下效果选择1个发动。
-●从额外卡组特殊召唤的对方场上的怪兽全部破坏。
-●对方场上的魔法·陷阱卡全部破坏。
-②：对方把墓地的卡的效果发动时，把场上的这张卡除外才能发动。从卡组把1只「阿莱斯特」怪兽特殊召唤，那个发动的效果无效。",Wähle einen Effekt,Als Spezialbeschwörung beschwören und den Effekt annullieren,Zerstöre ein Monster,Zauber/Falle zerstören,,,,,,,,,,,,
-101306039,鬼神 朱沙之王,"调整＋调整以外的怪兽1只以上
-这个卡名的①②的效果1回合各能使用1次。
-①：这张卡同调召唤的场合，从自己墓地把陷阱卡任意数量除外才能发动。以那个数量把场上的卡除外。
-②：自己·对方的结束阶段，以自己墓地·除外状态的「艮鬼」怪兽·陷阱卡最多2张为对象才能发动。那些卡各自加入手卡或在自己场上盖放。以2张卡为对象来发动的场合，再让这张卡回到额外卡组。",Zerstören,Zurückholen,,,,,,,,,,,,,,
-101306040,鬼神 水子守命,"调整＋调整以外的怪兽1只以上
-这个卡名的①的效果1回合只能使用1次。
-①：这张卡特殊召唤的场合才能发动。从卡组把1张「艮鬼」卡送去墓地，场上1张卡送去墓地。
-②：对方把怪兽的效果发动的场合，以自己墓地·除外状态的1张「艮鬼」陷阱卡为对象才能发动（场上的里侧表示卡是3张以上的场合，可以作为代替以自己墓地1张陷阱卡为对象）。那张卡在自己场上盖放。",Auf den Friedhof legen,Setzen,,,,,,,,,,,,,,
+101306039,Ashtraja Susanoo,"1 Empfänger + 1+ Nicht-Empfänger
+Falls diese Karte als Synchrobeschwörung beschworen wird: Du kannst eine beliebige Anzahl Fallen von deinem Friedhof verbannen; verbanne ebenso viele Karten, auf dem Spielfeld.
+Während deiner End Phase: Du kannst bis zu 2 „Ashtra“-Monster und/oder „Ashtra“-Fallen in deinem Friedhof und/oder von deinen verbannten Karten wählen; für jeden von ihnen, füge sie deiner Hand hinzu oder setze sie, dann, falls du 2 Karten als Ziel gewählt hast, lege diese Karte ins Extra Deck zurück.
+Du kannst jeden Effekt von „Ashtraja Susanoo“ nur einmal pro Spielzug verwenden.",Zerstören,Zurückholen,,,,,,,,,,,,,,
+101306040,Ashtraya Mikumari-no-Mikoto,"1 Empfänger + 1+ Nicht-Empfänger
+Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 „Ashtra“-Karte von deinem Deck auf den Friedhof legen und falls du dies tust, lege 1 Karte vom Spielfeld auf den Friedhof.
+Du kannst diesen Effekt von „Ashtraya Mikumari-no-Mikoto“ nur einmal pro Spielzug verwenden.
+Falls dein Gegner einen Monstereffekt aktiviert: Du kannst 1 „Ashtra“-Falle in deinem Friedhof oder von deinen verbannten Karten wählen, oder falls sich 3 oder mehr verdeckte Karten auf dem Spielfeld befinden, kannst du stattdessen 1 Falle in deinem Friedhof wählen; setze sie.",Auf den Friedhof legen,Setzen,,,,,,,,,,,,,,
 101306041,魔救之奇迹-海蛇晶石,"调整＋调整以外的怪兽1只以上
 这个卡名的①②的效果1回合各能使用1次。
 ①：自己墓地有暗属性怪兽存在的场合才能发动。从卡组把1张「魔救」魔法·陷阱卡加入手卡。
 ②：对方把场上的怪兽的效果发动时才能发动。从自己卡组上面把5张卡翻开。可以让最多有那之中的岩石族怪兽数量的对方场上的卡回到手卡。翻开的卡用喜欢的顺序回到卡组下面。",Sucheffekt,Auf die Hand zurückgeben,Eine Karte auf die Hand zurückgeben?,,,,,,,,,,,,,
-101306042,No.104 假面魔蹈士 闪光·枉然,"4星怪兽×3
-这个卡名的②的效果1回合只能使用1次。
-①：1回合1次，把这张卡1个超量素材取除才能发动。从卡组把1张「异晶人的」魔法·陷阱卡加入手卡。
-②：场上的这张卡为素材作超量召唤的怪兽得到以下效果。
-●这张卡超量召唤的场合发动。对方可以从自身卡组把4只怪兽（相同属性最多1只）和1张魔法卡除外。没有除外的场合，自己从对方卡组上面把10张卡除外。",Der Hand hinzufügen,Verbannen,Verbannungseffekt ({CARD}),4 Monster und 1 Zauberkarte verbannen?,,,,,,,,,,,,
-101306043,混沌No.104 假面魔蹈士 阴影·胜光,"5星怪兽×4
-①：自己·对方回合1次，把这张卡1个超量素材取除，以对方场上1张卡为对象才能发动。那张卡破坏。
-②：这张卡和对方怪兽进行战斗的伤害计算时发动。这张卡的攻击力·守备力只在那次伤害计算时，变成那只对方怪兽的攻击力和守备力之内，较高方的数值+100。
-③：这张卡战斗破坏怪兽的场合发动。对方手卡随机1张送去墓地，对方基本分变成一半。",Zerstören,ATK/DEF ändern,Sende 1 Karte von deiner Hand auf den Friedhof,,,,,,,,,,,,,
-101306044,混沌超量 冀望皇龙 混沌异晶龙,"7星怪兽×3只以上
-这张卡也能在自己场上的「混沌No.101」～「混沌No.107」之内的任意「混沌No.」怪兽上面重叠来超量召唤。
-①：这张卡的攻击力上升这张卡的超量素材的数量×1000。
-②：只要这张卡有「混沌No.」怪兽作为超量素材中，对方不能用抽卡以外的方法从卡组把卡加入手卡。
-③：1回合1次，把这张卡1个超量素材取除才能发动。从对方卡组上面把2张卡作为这张卡的超量素材。","Xyz-Beschwörung durchführen, indem du auf ein Monster, das du kontrollierst, überlagerst?",Xyz-Material anhängen,,,,,,,,,,,,,,
-101306045,灿冠乘骑 疾驱海人马,"3星怪兽×2
-「灿冠乘骑 疾驱海人马」1回合1次也能在自己场上的攻击力2000以下的兽族怪兽上面重叠来超量召唤。这张卡不能作为超量召唤的素材。
-①：这张卡战斗破坏怪兽的场合发动。给这张卡放置1个冠指示物。那之后，根据这张卡的冠指示物数量适用以下效果。
-●1个：这张卡的攻击力上升400。
-●2个：这张卡的攻击力上升600。
-●3个：这张卡回到额外卡组，自己抽3张。","Als Xyz-Beschwörung beschwören, indem du ein Ungeheuer-Monster als Material verwendest?",Zählmarke platzieren,,,,,,,,,,,,,,
-101306046,苍海龙神-尼奥泰达路斯之怒,"怪兽4只
-①：这张卡连接召唤的场合才能发动。从自己墓地把有「龙都 亚特兰蒂斯」的卡名记述的最多3只怪兽在作为这张卡所连接区的自己场上特殊召唤。这个效果的发动后，直到回合结束时自己不能把怪兽特殊召唤。
-②：这张卡只要在怪兽区域存在，卡名当作「海」使用。
-③：自己·对方回合1次，把自己场上1张表侧表示的「海」送去墓地才能发动。「海」以外的场上的卡全部送去墓地。",Als Link-3 für eine Linkbeschwörung anwenden (苍海龙神-尼奥泰达路斯之怒),Als Spezialbeschwörung beschwören,Auf den Friedhof legen,,,,,,,,,,,,,
-101306047,真海龙骑-泰达路斯,"水属性怪兽3只
-这个卡名的①③的效果1回合各能使用1次。
-①：这张卡连接召唤的场合才能发动。从卡组把有「龙都 亚特兰蒂斯」的卡名记述的1只怪兽特殊召唤。
-②：这张卡只要在怪兽区域存在，卡名当作「海」使用。
-③：自己·对方回合，从自己场上把1张表侧表示的「海」送去墓地才能发动（双方不能对应这个效果的发动把效果发动）。对方手卡全部丢弃，对方抽出那个数量。",Als Link-2 für eine Linkbeschwörung anwenden (真海龙骑-泰达路斯),Als Spezialbeschwörung beschwören,Dein Gegner wirft ab und zieht,,,,,,,,,,,,,
-101306048,幻狱神 米底丘利,"包含融合·同调·超量·连接怪兽的怪兽2只以上
-①：根据这张卡所连接区的怪兽数量，这张卡得到以下效果。
-●1只以上：1回合1次，自己主要阶段才能发动。对方场上的全部表侧表示怪兽的效果无效化，那些攻击力直到回合结束时变成一半。
-●2只以上：这张卡不受对方发动的效果影响。
-●3只：对方回合1次，可以发动。这张卡以及对方场上的卡全部除外。",Effekt annullieren,Verbannungseffekt,,,,,,,,,,,,,,
+101306045,"Swickelavee, die strahlend gekrönte schwere Kavallerie","2 Monster der Stufe 3
+Einmal pro Spielzug kannst du „Swickelavee, die strahlend gekrönte schwere Kavallerie“ auch als Xyz-Beschwörung beschwören, indem du 1 Ungeheuer-Monster mit 2000 oder weniger ATK verwendest, das du kontrollierst (transferiere sein Material an diese Karte).
+Diese Karte kann nicht als Material für eine Xyz-Beschwörung verwendet werden.
+Falls diese Karte ein Monster durch Kampf zerstört: Lege 1 Kronen-Zählmarke darauf, dann wende diesen Effekt an, basierend auf der Anzahl der Kronen-Zählmarken auf ihr.
+● 1: Diese Karte erhält 400 ATK.
+● 2: Diese Karte erhält 600 ATK.
+● 3: Lege diese Karte ins Extra Deck zurück und falls du dies tust, ziehe 3 Karten.","Als Xyz-Beschwörung beschwören, indem du ein Ungeheuer-Monster als Material verwendest?",Zählmarke platzieren,,,,,,,,,,,,,,
+101306046,Azurblauer Ozean-Drachenlord – Neo-Daedalus-Wut,"4 Monster
+Falls diese Karte als Linkbeschwörung beschworen wird: Du kannst bis zu 3 Monster, die „Atlantis, die Stadt des Seedrachen“ erwähnen, als Spezialbeschwörung von deinem Friedhof in deine Zonen beschwören, auf die diese Karte zeigt, zusätzlich kannst du für den Rest dieses Spielzugs keine Monster als Spezialbeschwörung beschwören.
+Der Name dieser Karte wird zu „Umi“, solange sie in der Monsterzone liegt.
+Einmal pro Spielzug (Schnelleffekt): Du kannst 1 offenes „Umi“, das du kontrollierst, auf den Friedhof legen; lege alle Karten auf dem Spielfeld auf den Friedhof, außer „Umi“.",Als Link-3 für eine Linkbeschwörung anwenden ({CARD}),Als Spezialbeschwörung beschwören,Auf den Friedhof legen,,,,,,,,,,,,,
+101306047,Leviadragoner - Daedalus,"3 WASSER Monster
+Der Name dieser Karte wird zu „Umi“, solange sie in der Monsterzone liegt.
+Du kannst jeden der folgenden Effekte von „Leviadragoner - Daedalus“ nur einmal pro Spielzug verwenden.
+Falls diese Karte als Linkbeschwörung beschworen wird: Du kannst 1 Monster, das „Atlantis, die Stadt des Seedrachen“ erwähnt, als Spezialbeschwörung von deinem Deck beschwören.
+Während der Main Phase (Schnelleffekt): Du kannst 1 offenes „Umi“, das du kontrollierst, auf den Friedhof legen; wirf die gesamte Hand deines Gegners ab und falls du dies tust, zieht er dieselbe Anzahl Karten.
+Kein Spieler kann Karten oder Effekte als Reaktion auf die Aktivierung dieses Effekts aktivieren.",Als Link-2 für eine Linkbeschwörung anwenden ({CARD}),Als Spezialbeschwörung beschwören,Dein Gegner wirft ab und zieht,,,,,,,,,,,,,
 101306049,魔救之辉迹,"包含同调怪兽的效果怪兽2只
 这个卡名的①②的效果1回合各能使用1次。
 ①：这张卡连接召唤的场合，或者这张卡所连接区有怪兽特殊召唤的场合，以自己场上·墓地的1只怪兽为对象才能发动。在自己场上把1只持有和那只怪兽相同等级的「奇石衍生物」（岩石族·光·攻/守0）特殊召唤。
@@ -410,31 +298,20 @@ Falls nicht, zerstöre alle Monster, die du kontrollierst.",Aktivieren,Der Hand 
 Falls dein Gegner ein oder mehr Monster als Normal- oder Spezialbeschwörung beschwört, solange sich diese Karte in deinem Friedhof befindet: Du kannst diese Karte verbannen, dann wähle 1 jener Monster; wirf zweimal einen sechsseitigen Würfel und falls die Summe 6 oder mehr ist, zerstöre das Monster.",Aktivieren,Einen Würfel werfen,,,,,,,,,,,,,,
 101306054,Schlafende Sündenböcke,"Beschwöre bis zu 4 „Sündenbock-Spielmarken“ (Ungeheuer/ERDE/Stufe 1/ATK 0/DEF 0) als Spezialbeschwörung in die Verteidigungsposition, dann, falls dein Gegner ein Monster kontrolliert, kannst du 1 „Flinker Panter-Krieger“ als Spezialbeschwörung von deinem Deck beschwören, zusätzlich kannst du für den Rest dieses Spielzugs diese Spielmarken nicht als Tribut für eine Tributbeschwörung angebieten, zusätzlich kannst du keine Monster als Spezialbeschwörung vom Extra Deck beschwören, außer Fusionsmonstern.
 Falls eine oder mehr Karten, die „Dunkler Zeitzauberer“ erwähnen, die du kontrollierst, durch Kampf oder einen Karteneffekt zerstört würden, kannst du stattdessen 1 Spielmarke, die du kontrollierst, die durch diese Effekt als Spezialbeschwörung beschworen wurde zerstören.",Aktivieren,Wähle die Anzahl der Spezialbeschwörungen,{CARD} als Spezialbeschwörung beschwören?,,,,,,,,,,,,,
-101306055,七皇的冀望乡,"这个卡名的②③的效果1回合各能使用1次。
-①：只要这张卡在场地区域存在，那期间双方1回合最多只能有2次从额外卡组把「No.」怪兽以外的怪兽特殊召唤。
-②：自己主要阶段才能发动。从卡组把1只「阴影」怪兽加入手卡。那之后，选自己1张手卡丢弃。
-③：自己·对方的结束阶段发动。双方受到场上的超量怪兽的数量×400的伤害。",,Der Hand hinzufügen,Schaden erleiden,,,,,,,,,,,,,
-101306056,异晶人的冀望,"这个卡名的①②的效果1回合各能使用1次。
-①：从自己的手卡·墓地把1只「阴影」怪兽或「假面魔蹈士」超量怪兽特殊召唤。那之后，可以把自己场上的全部「阴影」怪兽的等级，变成和自己场上·墓地的1只「阴影」怪兽的等级相同。
-②：把墓地的这张卡除外，以自己场上1只超量怪兽为对象才能发动。从自己的额外卡组·墓地把1只「No.」超量怪兽作为对象怪兽的超量素材。
-",Aktivieren,Als Material,Stufe ändern?,,,,,,,,,,,,,
-101306057,艮神鬼门 三千世界,"这个卡名的①②的效果1回合各能使用1次。
-①：以自己场上的里侧表示卡任意数量为对象才能发动。从卡组把那些里侧表示卡数量的，场地魔法卡以外的「艮鬼」卡加入手卡（同名卡最多1张）。那之后，作为对象的里侧表示卡送去墓地。
-②：自己场上有「艮鬼」怪兽以及里侧表示卡存在的状态，场上有卡盖放的场合，以场上1张卡为对象才能发动。那张卡回到手卡。",Der Hand hinzufügen,Auf die Hand zurückgeben,,,,,,,,,,,,,,
-101306058,龙都 亚特兰蒂斯,"这个卡名的③的效果1回合只能使用1次。
-①：只要有「龙都 亚特兰蒂斯」的卡名记述的怪兽在场上存在，双方的手卡·场上的怪兽的等级下降1星。
-②：只要这张卡在场地区域存在，自己要把「泰达路斯」连接怪兽连接召唤的场合，必要的连接素材数量可以减少1个，连接素材的条件可以减少1只。
-③：这张卡在墓地存在，自己场上有「海」存在的场合才能发动。这张卡在自己场上表侧表示放置。",,Platzieren,,,,,,,,,,,,,,
-101306059,呼应的传说之都,"这个卡名的①②的效果1回合各能使用1次。
-①：从卡组把有「龙都 亚特兰蒂斯」的卡名记述的1只怪兽加入手卡。自己场上有「龙都 亚特兰蒂斯」存在的场合，可以再把对方场上1只效果怪兽的效果直到回合结束时无效。
-②：自己场上有「海」存在的场合，把墓地的这张卡除外才能发动。自己场上的全部水属性怪兽的攻击力·守备力上升500。",Sucheffekt,ATK/DEF erhöhen,Ein Monster annullieren?,,,,,,,,,,,,,
-101306060,显现的传说之都,"这个卡名的②③的效果1回合各能使用1次。
-①：这张卡只要在魔法与陷阱区域存在，卡名当作「海」使用。
-②：自己主要阶段才能发动。从卡组把1张「龙都  亚特兰蒂斯」或「海」在自己的场地区域表侧表示放置。
-③：这张卡被送去墓地的场合才能发动。从卡组把1只海龙族·7星怪兽加入手卡。",Platzierungseffekt,Sucheffekt,,,,,,,,,,,,,,
-101306061,无垢艺术-「黄昏之变幻」,"这个卡名在规则上也当作「神艺」、「终刻」、「耀圣」卡使用。这个卡名的②的效果1回合只能使用1次。
-①：只要自己场上有「狱神」连接怪兽存在，原本卡名包含「无垢艺术」的，自己场上的怪兽发动的效果，变成在对方回合也能发动的效果。
-②：只在这张卡以表侧表示存在才有1次，自己主要阶段才能发动。从卡组把1只「米底乌斯」怪兽或「无垢艺术」怪兽加入手卡。",,Sucheffekt,Effekt bereits aktiviert,,,,,,,,,,,,,
+101306057,Ashtrashen - Portal zu den Welten jenseits,"Du kannst eine beliebige Anzahl verdeckte Karten wählen, die du kontrollierst; füge deiner Hand „Ashtra“-Karten mit unterschiedlichen Namen voneinander von deinem Deck hinzu, außer Spielfeldzauber, in Höhe der Anzahl der gewählten Karten die weiterhin verdeckt sind, dann lege diese verdeckten Karten auf den Friedhof.
+Falls eine oder mehr Karten aufs Spielfeld gesetzt werden, solange du ein „Ashtra“-Monster und eine verdeckte Karte kontrollierst: Du kannst 1 Karte auf dem Spielfeld wählen; gib sie auf die Hand zurück.
+Du kannst jeden Effekt von „Ashtrashen - Portal zu den Welten jenseits“ nur einmal pro Spielzug verwenden.",Der Hand hinzufügen,Auf die Hand zurückgeben,,,,,,,,,,,,,,
+101306058,"Atlantis, die Stadt des Seedrachen","Solange ein Monster, das „Atlantis, die Stadt des Seedrachen“ erwähnt, auf dem Spielfeld liegt, verringere die Stufen aller Monster in den Händen und auf den Spielfeldseiten beider Spieler um 1.
+Falls du ein „Daedalus“-Monster als Linkbeschwörung beschwörst, kanns du das auf ihm aufgeführte Materialerfordernis um 1 verringern und es mit 1 Material weniger als Linkbeschwörung beschwören.
+Falls sich diese Karte in deinem Friedhof befindet und du „Umi“ kontrollierst: Du kannst diese Karte offen auf deine Spielfeldseite legen.
+Du kannst diesen Effekt von „Atlantis, die Stadt des Seedrachen“ nur einmal pro Spielzug verwenden.",,Platzieren,,,,,,,,,,,,,,
+101306059,Atlantis-ruf,"Füge deiner Hand 1 Monster, das „Atlantis, die Stadt des Seedrachen“ erwähnt, von deinem Deck hinzu, dann, falls du „Atlantis, die Stadt des Seedrachen“ kontrollierst, kannst du bis zum Ende dieses Spielzugs die Effekte von 1 Effektmonster annullieren, das dein Gegner kontrolliert.
+Falls du „Umi“ kontrollierst: Du kannst diese Karte von deinem Friedhof verbannen; alle WASSER Monster, die du derzeit kontrollierst, erhalten 500 ATK/DEF.
+Du kannst jeden Effekt von „Atlantis-ruf“ nur einmal pro Spielzug verwenden.",Sucheffekt,ATK/DEF erhöhen,Ein Monster annullieren?,,,,,,,,,,,,,
+101306060,Aufbruch von Atlantis,"Der Name dieser Karte wird zu „Umi“, solange sie in der Zauber- & Fallenzone liegt.
+Du kannst jeden der folgenden Effekte von „Aufbruch von Atlantis“ nur einmal pro Spielzug verwenden.
+Während deiner Main Phase: Du kannst 1 „Atlantis, die Stadt des Seedrachen“ oder „Umi“ von deinem Deck offen in deine Spielfeldzone legen.
+Falls diese Karte auf den Friedhof gelegt wird: Du kannst deiner Hand 1 Seeschlange-Monster der Stufe 7 von deinem Deck hinzufügen.",Platzierungseffekt,Sucheffekt,,,,,,,,,,,,,,
 101306062,Gefängnisuhrturm Stadt - Finstere Stadt,"Jedes Mal, wenn du ein oder mehr „Schicksals-HELD“-Monster der Stufe 8 oder höher als Spezialbeschwörung beschwörst: Alle Krieger-Monster, die du derzeit kontrollierst, erhalten 300 ATK.
 Du kannst jeden der folgenden Effekte von „Gefängnisuhrturm Stadt - Finstere Stadt“ nur einmal pro Spielzug verwenden.
 Während deiner Main Phase, falls diese Karte in diesem Spielzug aktiviert wurde: Du kannst deiner Hand 1 „Schicksals-HELD“-Monster oder 1 Karte, die den Kartennamen eines „Schicksals-HELD“-Monsters in ihrem Text erwähnt, von deinem Deck hinzufügen.
@@ -442,61 +319,32 @@ Falls diese Karte zerstört wird: Du kannst 1 „Schicksals-HELD“-Monster als 
 101306063,魔救之合缘,"这个卡名的①②的效果1回合各能使用1次。
 ①：从卡组把1只「魔救」怪兽加入手卡。
 ②：这张卡在墓地存在的场合，让1张手卡回到卡组上面才能发动。这张卡加入手卡。",Sucheffekt,Auf die Hand zurückgeben,,,,,,,,,,,,,,
-101306064,魔法效果之剑,"这个卡名的卡在1回合只能发动1张。
-①：可以从以下效果选择1个发动。
-●对方场上的表侧表示的魔法卡全部破坏。
-●以对方场上1只表侧表示怪兽为对象才能发动。选自己手卡·墓地的1张「光与暗的仪式」，给双方确认。那之后，作为对象的怪兽的攻击力变成0，效果无效化。
-②：这张卡被对方破坏的场合才能发动。对方的手卡·场上1张卡破坏（从手卡是随机选）。",Aktivieren,"Alle offenen Zauberkarten zerstören, die dein Gegner kontrolliert",Die ATK des als Ziel gewählten Monsters wird zu 0 und seine Effekte werden annulliert,1 Karte in der Hand oder auf dem Spielfeld deines Gegners zerstören,Wähle zufällig 1 Karte in der Hand deines Gegners und zerstöre sie,"Wähle 1 Karte, die dein Gegner kontrolliert, und zerstöre sie",,,,,,,,,,
-101306065,三幻魔的天坏,"这个卡名的卡在1回合只能发动1张。
-①：可以从以下效果选择1个发动。
-●连锁自己的「三幻魔」怪兽的效果的发动，对方把效果发动时才能发动。那个对方的效果无效。
-●把手卡1只10星「三幻魔」怪兽给对方出示才能发动。选自己1张手卡丢弃，从卡组把1张「幻魔之扉」加入手卡。
-●让自己墓地·除外状态的3张「三幻魔」陷阱卡回到卡组，以对方场上1张卡为对象才能发动。那张卡破坏。",Aktivieren,Effekt annullieren,Sucheffekt,Zerstörungseffekt,,,,,,,,,,,,
-101306066,雷盟-过电压,"这个卡名的②的效果1回合只能使用1次。
-①：以场上1张表侧表示卡为对象才能发动。那张卡破坏。这个回合，自己不是从手卡中不能把效果怪兽特殊召唤。
-②：这张卡在墓地存在的状态，自己的「雷盟」卡的效果把卡破坏的场合才能发动。这张卡加入手卡。",Aktivieren,Zurückholen,,,,,,,,,,,,,,
-101306067,召唤魔术-「杯」,"这个卡名的卡在1回合只能发动1张。
-①：自己的场上·墓地·除外状态有「阿莱斯特」怪兽存在的场合，可以从以下效果选择1个发动。
-●自己的手卡·场上的1只怪兽和自己卡组的1只怪兽作为融合素材除外，把1只「召唤兽」融合怪兽融合召唤。
-●自己场上的1只怪兽和对方场上的1只表侧表示怪兽作为融合素材除外，把1只「召唤兽」融合怪兽融合召唤。",Aktivieren,"Fusionsbeschwörung mit deiner Hand, deinem Spielfeld und deinem Deck",Fusionsbeschwörung mit Monstern auf beiden Spielfeldseiten,,,,,,,,,,,,,
-101306068,宇宙性飓风,"这个卡名的卡在1回合只能发动1张。
-①：场上最多2张卡回到手卡。那之后，双方各自，选回到自身手卡数量的自身手卡用喜欢的顺序回到卡组下面。",Aktivieren,,,,,,,,,,,,,,,
-101306069,魔力到达,"这个卡名的卡在1回合只能发动1张。
-①：从自己的卡组·墓地把除「魔力到达」外的，效果文本有魔力指示物记述的1张卡加入手卡。自己场上有7星以上的「恩底弥翁」怪兽卡存在的场合，可以再把以下效果适用。
-●自己场上的魔力指示物任意数量取除，把那个数量的对方场上的表侧表示卡效果无效并破坏。",Aktivieren,Zählmarken entfernen?,Wähle die Anzahl der zu entfernenden Zählmarken,,,,,,,,,,,,,
+101306068,Räumliche-Trunade,"Gib bis zu 2 Karten vom Spielfeld auf die Hand zurück, dann legt jeder Spieler Karten von seiner Hand in beliebiger Reihenfolge unters Deck in Höhe der Anzahl der auf seine Hand zurückgegebene Karten.
+Du kannst nur 1 „Räumliche-Trunade“ pro Spielzug aktivieren.",Aktivieren,,,,,,,,,,,,,,,
 101306070,Törichter Grabräuber,"Lege 1 Karte, die „Dunkler Zeitzauberer“ erwähnt, von deinem Deck auf den Friedhof, außer „Törichter Grabräuber“, dann kannst du 1 Monster als Spezialbeschwörung von einem beliebigen Friedhof auf deine Spielfeldseite beschwören.
 Du kannst diese Karte von deinem Friedhof verbannen; setze auf deine Spielfeldseite, 1 Zauber/Falle, der oder die „Dunkler Zeitzauberer“ erwähnt, von deinem Friedhof, außer „Törichter Grabräuber“, oder 1 Zauber/Falle vom Friedhof deines Gegners.
 Du kannst jeden Effekt von „Törichter Grabräuber“ nur einmal pro Spielzug verwenden.",Auf den Friedhof legen,Setzen,Als Spezialbeschwörung beschwören?,,,,,,,,,,,,,
 101306071,Umkehrbox,"Einmal pro Spielzug, während der Standby Phase: Wirf einen sechsseitigen Würfel und lege Zählmarken gleich dem Ergebnis auf diese Karte (max. 6).
 Wenn ein Monstereffekt auf der Spielfeldseite deines Gegners aktiviert wird oder einmal pro Kampf, während der Schadensberechnung, falls ein Monster deines Gegners angreift: Du kannst 1 Zählmarke von dieser Karte entfernen, dann wähle 1 jener Monster; wirf eine Münze und sage das Ergebnis voraus.
 Falls du richtig vorausgesagt hast, du kannst 1 Monster, das „Dunkler Zeitzauberer“ erwähnt, als Spezialbeschwörung von deinem Deck beschwören und falls du dies tust, bis zum Ende dieses Spielzugs, ändere die ATK des als Ziel gewählten Monsters bis zum Ende dieses Spielzugs zu 0, zusätzlich werden ihre Effekte annulliert.",Zählmarke platzieren,Eine Münze werfen,Wähle die Anzahl der zu platzierenden Spielmarken,,,,,,,,,,,,,
-101306072,异晶人的封印,"这个卡名的①②的效果1回合只能有1次使用其中任意1个。
-①：「混沌超量」怪兽或者「混沌No.101」~「混沌No.107」之内的任意「混沌No.」怪兽在自己场上存在，对方把怪兽的效果·魔法·陷阱卡发动时才能发动。那个发动无效。那之后，可以从自己或对方的场上·墓地把1只怪兽作为自己场上1只超量怪兽的超量素材。
-②：把墓地的这张卡除外才能发动。从自己墓地把2只「阴影」怪兽特殊召唤。",Annullieren,Als Spezialbeschwörung beschwören,Xyz-Material anlegen?,Wähle 1 Xyz-Monster,,,,,,,,,,,,
-101306073,色鬼之虫毒,"这个卡名的卡在1回合只能发动1张。
-①：可以从以下效果选择1个发动。
-●这张卡当作通常怪兽（昆虫族·调整·暗·1星·攻/守0）在怪兽区域特殊召唤（不当作陷阱卡使用）。那之后，可以进行1只同调怪兽的同调召唤。
-●以自己墓地1只「艮鬼」怪兽为对象才能发动。那只怪兽特殊召唤。",Aktivieren,Als Monster als Spezialbeschwörung beschwören,Beschwöre 1 Monster als Spezialbeschwörung vom Friedhof,Als Synchrobeschwörung beschwören?,,,,,,,,,,,,
-101306074,依鬼之咒咆,"这个卡名的卡在1回合只能发动1张。
-①：可以从以下效果选择1个发动。
-●这张卡当作通常怪兽（魔法师族·调整·暗·1星·攻/守0）在怪兽区域特殊召唤（不当作陷阱卡使用）。那之后，可以进行1只同调怪兽的同调召唤。
-●自己场上或墓地有「艮鬼」怪兽存在的场合，以对方场上1只怪兽为对象才能发动。那只怪兽破坏。",Aktivieren,Als Monster als Spezialbeschwörung beschwören,Zerstörungseffekt,Als Synchrobeschwörung beschwören?,,,,,,,,,,,,
-101306075,剑鬼之神域,"这个卡名的卡在1回合只能发动1张。
-①：可以从以下效果选择1个发动。
-●这张卡当作通常怪兽（水族·调整·水·1星·攻/守0）在怪兽区域特殊召唤（不当作陷阱卡使用）。那之后，可以进行1只同调怪兽的同调召唤。
-●对方把魔法·陷阱卡的效果发动时，若对方场上没有里侧表示卡存在则能发动。那个效果无效。",Aktivieren,Als Monster als Spezialbeschwörung beschwören,Effekt annullieren,Als Synchrobeschwörung beschwören?,,,,,,,,,,,,
-101306076,海龙神的大涡,"这个卡名的①②的效果1回合只能有1次使用其中任意1个。
-①：自己场上「龙都 亚特兰蒂斯」存在，对方把怪兽召唤·特殊召唤之际才能发动。那个无效，那些怪兽破坏。那之后，自己场上有水属性连接怪兽存在的场合，可以把水属性怪兽以外的场上的怪兽全部破坏。
-②：把墓地的这张卡除外，把自己场上1张表侧表示的「海」送去墓地，以对方场上1只怪兽为对象才能发动。那只怪兽送去墓地。",Beschwörung annullieren,Auf den Friedhof legen,Dieses Monster zerstören?,,,,,,,,,,,,,
-101306077,无垢艺术-「幻创之贤者」,"这个卡名的①②的效果1回合只能有1次使用其中任意1个。
-①：以自己场上·墓地的最多3只「无垢艺术」怪兽为对象才能发动。那些怪兽除外。那之后，可以把最多有那个数量的场上的其他表侧表示卡的效果直到回合结束时无效。
-②：把墓地的这张卡除外才能发动。从自己墓地让1只「狱神」连接怪兽回到额外卡组。那之后，可以把那只怪兽特殊召唤。",Verbannungseffekt,Ins Extra Deck zurücklegen,Die Effekte der Karte annullieren?,Als Spezialbeschwörung beschwören?,,,,,,,,,,,,
+101306073,Ashtra Insektengift,"Aktiviere 1 dieser Effekte;
+● Beschwöre diese Karte als Spezialbeschwörung als Normales Monster (Insekt/Empfänger/FINSTERNIS/Stufe 1/ATK 0/DEF 0) (diese Karte wird NICHT als Falle behandelt), dann, sofort nachdem dieser Effekt aufgelöst wurde, kannst du 1 Synchromonster als Synchrobeschwörung beschwören.
+● Wähle 1 „Ashtra“-Monster in deinem Friedhof; beschwöre es als Spezialbeschwörung.
+Du kannst nur 1 „Ashtra Insektengift“ pro Spielzug aktivieren.",Aktivieren,Als Monster als Spezialbeschwörung beschwören,Beschwöre 1 Monster als Spezialbeschwörung vom Friedhof,Als Synchrobeschwörung beschwören?,,,,,,,,,,,,
+101306074,Ashtra verfluchtes Brüllen,"Aktiviere 1 dieser Effekte;
+● Beschwöre diese Karte als Spezialbeschwörung als Normales Monster (Hexer/Empfänger/FINSTERNIS/Stufe 1/ATK 0/DEF 0) (diese Karte wird NICHT als Falle behandelt), dann, sofort nachdem dieser Effekt aufgelöst wurde, kannst du 1 Synchromonster als Synchrobeschwörung beschwören.
+● Falls du ein „Ashtra“-Monster auf deiner Spielfeldseite oder in deinem Friedhof hast: Wähle 1 Monster, das dein Gegner kontrolliert; zerstöre es.
+Du kannst nur 1 „Ashtra verfluchtes Brüllen“ pro Spielzug aktivieren.",Aktivieren,Als Monster als Spezialbeschwörung beschwören,Zerstörungseffekt,Als Synchrobeschwörung beschwören?,,,,,,,,,,,,
+101306075,Ashtra Göttliche Domäne,"Aktiviere 1 dieser Effekte;
+● Beschwöre diese Karte als Spezialbeschwörung als Normales Monster (Aqua/Empfänger/FINSTERNIS/Stufe 1/ATK 0/DEF 0) (diese Karte wird NICHT als Falle behandelt), dann, sofort nachdem dieser Effekt aufgelöst wurde, kannst du 1 Synchromonster als Synchrobeschwörung beschwören.
+● Wenn dein Gegner eine Zauber-/Fallenkarte oder einen Zauber-/Falleneffekt aktiviert und er keine verdeckten Karten kontrolliert: Annulliere jenen Effekt.
+Du kannst nur 1 „Ashtra Göttliche Domäne“ pro Spielzug aktivieren.",Aktivieren,Als Monster als Spezialbeschwörung beschwören,Effekt annullieren,Als Synchrobeschwörung beschwören?,,,,,,,,,,,,
+101306076,Daedalus Mahlstrom,"Wenn dein Gegner ein oder mehr Monster als Normal- oder Spezialbeschwörung beschwören würde, solange du „Atlantis, die Stadt des Seedrachen“ kontrollierst: Annulliere die Beschwörung und falls du dies tust, zerstöre die Monster, dann, falls du ein WASSER Linkmonster kontrollierst, kannst du alle Nicht-WASSER Monster auf dem Spielfeld zerstören.
+Du kannst diese Karte von deinem Friedhof verbannen und 1 offenes „Umi“, das du kontrollierst, auf den Friedhof legen und dann 1 Monster wählen, das dein Gegner kontrolliert; lege es auf den Friedhof.
+Du kannst nur 1 Effekt von „Daedalus Mahlstrom“ pro Spielzug verwenden und in jenem Spielzug nur einmal.",Beschwörung annullieren,Auf den Friedhof legen,Dieses Monster zerstören?,,,,,,,,,,,,,
 101306078,祟纸神的报应,"这个卡名的①②的效果1回合各能使用1次。
 ①：以自己场上1只怪兽和对方场上1张表侧表示卡为对象才能发动。那只自己怪兽破坏，那张对方的卡直到回合结束时无效。
 ②：盖放的这张卡被送去墓地的场合，以对方场上1张表侧表示卡为对象才能发动。那张卡的效果无效。",Effekt annullieren,Effekt annullieren,,,,,,,,,,,,,,
-101306079,卖尸的鸟嘴人,"①：从自己卡组上面把最多为双方墓地的陷阱卡种类数量+1张的卡送去墓地（最多4张）。那之后，可以从以下效果选1个适用。
-●从送去墓地的卡之中把1只怪兽特殊召唤。
-●从送去墓地的卡之中把「卖尸的鸟嘴人」以外的1张魔法·陷阱卡在自己场上盖放。把速攻魔法·陷阱卡盖放的场合，那张卡在盖放的回合也能发动。",Aktivieren,"Wähle die Anzahl der Karten, die auf den Friedhof gelegt werden sollen",Als Spezialbeschwörung beschwören,Setzen,Kein Effekt,"Aktiviere, indem du den Effekt von ""卖尸的鸟嘴人"" anwendest.",,,,,,,,,,
 101306080,宾果卡,"①：选相同纵列全部有卡存在的1只怪兽，那个纵列的卡全部破坏。那之后，双方各自抽1张。
 ②：可以把墓地的这张卡除外，从以下效果选择1个发动。
 ●自己主要怪兽区域5只怪兽或者自己魔法与陷阱区域5张卡破坏。那之后，自己抽2张。
