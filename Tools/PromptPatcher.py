@@ -955,6 +955,16 @@ def build_translation_pack(lang: str):
             "ja": "除外効果（{CARD}）",
             "kr": "제외 효과 ({CARD})",
         },
+        "除外效果（No.104 假面魔蹈士 闪光V枉然）": {
+            "en": "Banish effect ({CARD})",
+            "fr": "Effet de bannissement ({CARD})",
+            "de": "Verbannungseffekt ({CARD})",
+            "es": "Efecto de destierro ({CARD})",
+            "pt": "Efeito de banimento ({CARD})",
+            "it": "Effetto di messa al bando ({CARD})",
+            "ja": "除外効果（{CARD}）",
+            "kr": "제외 효과 ({CARD})",
+        },
         "是否把4只怪兽和1张魔法卡除外？": {
             "en": "Banish 4 monsters and 1 Spell Card?",
             "fr": "Bannir 4 monstres et 1 Carte Magie ?",
@@ -34434,7 +34444,7 @@ def build_translation_pack(lang: str):
 
     # Regex templates (applied after normalization)
     regex_rules = [
-        (re.compile(r"^适用作为link(?P<N>[23])进行连接召唤\(\{CARD\}\)$"),
+        (re.compile(r"^适用作为(?:link|连接)(?P<N>[23])进行连接召唤\(\{CARD\}\)$"),
          lambda m: {
              "en": "Apply as a Link-{N} for a Link Summon ({CARD})",
              "fr": "Appliquer comme Link-{N} pour une Invocation Lien ({CARD})",
