@@ -177,6 +177,21 @@ Puoi utilizzare ogni effetto di ""Ekhajar, Drago Discendente della Barriera di G
 100266005,"Ekhajar, Drago Discendente della Barriera di Ghiaccio",str2,Rimettere in mano
 100266005,"Ekhajar, Drago Discendente della Barriera di Ghiaccio",str3,Bandire dalla mano/dal Terreno/Cimitero
 100266005,"Ekhajar, Drago Discendente della Barriera di Ghiaccio",str4,Bandire 1 carta dalla tua mano?
+100266006,Numero 101: ARCA Onore Silente - Rifugio dell'Anima,name,Numero 101: ARCA Onore Silente - Rifugio dell'Anima
+100266006,Numero 101: ARCA Onore Silente - Rifugio dell'Anima,desc,"2 mostri di Livello 4
+
+
+Puoi staccare 1 materiale da questa carta, poi attivare 1 di questi effetti.
+
+● Scegli 1 mostro di Livello 4 nel tuo Cimitero, eccetto il materiale staccato, e aggiungi dal tuo Deck alla tua mano 1 mostro di Livello 4 con lo stesso Tipo e Attributo, ma con un nome diverso.
+
+● Scegli come bersaglio 1 mostro controllato dal tuo avversario; attaccalo come materiale a questa carta.
+
+Puoi utilizzare questo effetto di ""Numero 101: ARCA Onore Silente - Rifugio dell'Anima"" una sola volta per turno.
+Se questa carta sta per essere distrutta, puoi invece staccare 1 materiale da questa carta."
+100266006,Numero 101: ARCA Onore Silente - Rifugio dell'Anima,str1,Attiva
+100266006,Numero 101: ARCA Onore Silente - Rifugio dell'Anima,str2,Aggiungere alla mano
+100266006,Numero 101: ARCA Onore Silente - Rifugio dell'Anima,str3,Come Materiale Xyz
 100267001,Profeta Sennet - Nefertari,name,Profeta Sennet - Nefertari
 100267001,Profeta Sennet - Nefertari,desc,"Se questa carta viene Evocata Normalmente o Specialmente: puoi mandarla al Cimitero; mostra fino a 2 Carte Mostro Normale dalla tua mano, Deck, Terreno scoperto e/o Cimitero, poi Posiziona altrettante Magie ""Sennet"" dal tuo Deck.
 Durante il turno del tuo avversario (Effetto Rapido): puoi bandire questa carta dal tuo Cimitero; equipaggia 1 Mostro Normale dal tuo Cimitero a 1 Mostro Rituale che controlli come Magia Equipaggiamento.
@@ -249,6 +264,18 @@ Se l'ATK totale di tutte le Carte Mostro Normale che controlli è superiore a 30
 Puoi utilizzare ogni effetto di ""Caduta del Tuono Sennet"" una sola volta per turno."
 100267011,Caduta del Tuono Sennet,str1,Annulla l'attivazione e distruggi
 100267011,Caduta del Tuono Sennet,str2,Posiziona
+100268201,Paladino Oscuro - Onde Soniche,name,Paladino Oscuro - Onde Soniche
+100268201,Paladino Oscuro - Onde Soniche,desc,"""Mago Nero"" + 1 mostro di Livello 7 o superiore
+
+
+Deve essere Evocato tramite Fusione.
+Guadagna 500 ATK per ogni altro mostro sul Terreno.
+Può attaccare tutti i mostri controllati dal tuo avversario, una volta ciascuno.
+Una volta per turno, quando il tuo avversario attiva una Carta Magia o un suo effetto (Effetto Rapido): puoi annullare quell'effetto, poi puoi distruggere 1 carta sul Terreno.
+Dopo che questa carta distrugge una carta in battaglia o con il suo effetto e la manda al Cimitero, nessun giocatore può attivarne gli effetti mentre si trova nel Cimitero."
+100268201,Paladino Oscuro - Onde Soniche,str1,Annullare l'effetto
+100268201,Paladino Oscuro - Onde Soniche,str2,Distruggere la carta?
+100268201,Paladino Oscuro - Onde Soniche,str3,L'effetto di {CARD} si sta applicando.
 101305081,Testimone dell'Antico,name,Testimone dell'Antico
 101305081,Testimone dell'Antico,desc,"Se hai un Mostro Synchro sul tuo Terreno o nel tuo Cimitero: puoi Evocare Specialmente questa carta dalla tua mano.
 Se questa carta viene Evocata Specialmente: puoi posizionare fino a 3 Mostri Synchro con nomi diversi dal tuo Extra Deck e/o Cimitero nella tua Zona Magie & Trappole come Magie Continue scoperte ed Evocare Specialmente 1 ""Segna-Arco"" (Macchina/LUCE/ATK 0/DEF 0) con un Livello pari al numero di carte posizionate, inoltre per il resto di questo turno non puoi Evocare Specialmente dall'Extra Deck, eccetto Mostri Synchro. 
@@ -674,7 +701,7 @@ Un mostro che è stato Evocato Xyz utilizzando questa carta sul Terreno come mat
 Puoi utilizzare questo effetto di ""Numero 104: Masquerade Vano"" una sola volta per turno."
 101306042,Numero 104: Masquerade Vano,str1,Aggiungere alla mano
 101306042,Numero 104: Masquerade Vano,str2,Bandire
-101306042,Numero 104: Masquerade Vano,str3,除外效果（No.104 假面魔蹈士 闪光V枉然）
+101306042,Numero 104: Masquerade Vano,str3,Effetto di messa al bando ({CARD})
 101306042,Numero 104: Masquerade Vano,str4,Bandire 4 mostri e 1 Carta Magia?
 101306043,Numero C104: Orrore Umbral Masquerade Vittoria,name,Numero C104: Orrore Umbral Masquerade Vittoria
 101306043,Numero C104: Orrore Umbral Masquerade Vittoria,desc,"4 mostri di Livello 5
@@ -707,7 +734,7 @@ Se questa carta distrugge un mostro in battaglia: Metti 1 Segnalino Corona su di
 Se questa carta viene Evocata tramite Link: Puoi Evocare Specialmente fino a 3 mostri che menzionano ""Atlantide, la Città dei Draghi"" dal tuo Cimitero nelle zone a cui questa carta punta, inoltre non puoi Evocare Specialmente per il resto di questo turno.
 Il nome di questa carta diventa ""Umi"" mentre si trova nella Zona Mostri.
 Una volta per turno (Effetto Rapido): Puoi mandare al Cimitero 1 ""Umi"" scoperto che controlli; manda al Cimitero tutte le carte sul Terreno, eccetto ""Umi""."
-101306046,Signore Drago dell'Oceano Blu - Neo-Dedalo Furia,str1,适用作为连接3进行连接召唤（龙都 亚特兰蒂斯）
+101306046,Signore Drago dell'Oceano Blu - Neo-Dedalo Furia,str1,Applicare come Link-3 per un'Evocazione Link (Signore Drago dell'Oceano Blu - Neo-Dedalo Furia)
 101306046,Signore Drago dell'Oceano Blu - Neo-Dedalo Furia,str2,Evocazione Speciale
 101306046,Signore Drago dell'Oceano Blu - Neo-Dedalo Furia,str3,Mandare al Cimitero
 101306047,Levia-Dragone - Dedalo,name,Levia-Dragone - Dedalo
@@ -717,7 +744,7 @@ Puoi utilizzare ciascuno dei seguenti effetti di ""Levia-Dragone - Dedalo"" una 
 Se questa carta viene Evocata tramite Link: Puoi Evocare Specialmente 1 mostro che menziona ""Atlantide, la Città dei Draghi"" dal tuo Deck.
 Durante la Main Phase (Effetto Rapido): Puoi mandare al Cimitero 1 ""Umi"" scoperto che controlli; il tuo avversario scarta tutta la sua mano e, se lo fa, pesca lo stesso numero di carte.
 Nessun giocatore può attivare carte o effetti in risposta all'attivazione di questo effetto."
-101306047,Levia-Dragone - Dedalo,str1,适用作为连接2进行连接召唤（龙都 亚特兰蒂斯）
+101306047,Levia-Dragone - Dedalo,str1,Applicare come Link-2 per un'Evocazione Link (Levia-Dragone - Dedalo)
 101306047,Levia-Dragone - Dedalo,str2,Evocazione Speciale
 101306047,Levia-Dragone - Dedalo,str3,Il tuo avversario scarta e pesca
 101306048,Medicurius Patrono Potente delle Illusioni,name,Medicurius Patrono Potente delle Illusioni
