@@ -184,6 +184,16 @@ Zu einem der folgenden Zeitpunkte: Annulliere die Effekte von so vielen offenen 
 100266005,冰结界的龙胤 三千界龙,str2,Auf die Hand zurückgeben
 100266005,冰结界的龙胤 三千界龙,str3,Von der Hand/vom Spielfeld/Friedhof verbannen
 100266005,冰结界的龙胤 三千界龙,str4,Eine Karte aus deiner Hand verbannen?
+100266006,No.101 寂静荣誉方舟骑士-灵魂圣所,name,No.101 寂静荣誉方舟骑士-灵魂圣所
+100266006,No.101 寂静荣誉方舟骑士-灵魂圣所,desc,"4星怪兽×2
+这个卡名的①的效果1回合只能使用1次。
+①：可以把这张卡1个超量素材取除，从以下效果选择1个发动。
+●选除取除的超量素材外的自己墓地1只4星怪兽，从卡组把和那只怪兽卡名不同，种族·属性相同的1只4星怪兽加入手卡。
+●以对方场上1只怪兽为对象才能发动。那只怪兽作为这张卡的超量素材。
+②：这张卡被破坏的场合，可以作为代替把这张卡1个超量素材取除。"
+100266006,No.101 寂静荣誉方舟骑士-灵魂圣所,str1,Aktivieren
+100266006,No.101 寂静荣誉方舟骑士-灵魂圣所,str2,Der Hand hinzufügen
+100266006,No.101 寂静荣誉方舟骑士-灵魂圣所,str3,Als Xyz-Material
 100267001,归光之启示者-奈菲尔塔利,name,归光之启示者-奈菲尔塔利
 100267001,归光之启示者-奈菲尔塔利,desc,"这个卡名的①②的效果1回合各能使用1次。
 ①：这张卡召唤·特殊召唤的场合，把这张卡送去墓地才能发动。选自己手卡·卡组·场上（表侧表示）·墓地的最多2张通常怪兽卡，给双方确认。那之后，以那个数量从卡组把「归光」魔法卡在自己场上盖放。
@@ -256,6 +266,16 @@ Zu einem der folgenden Zeitpunkte: Annulliere die Effekte von so vielen offenen 
 ②：自己场上的通常怪兽卡的攻击力合计比3000高的场合，把墓地的这张卡除外才能发动。从自己的卡组·墓地把「光器的降雷」以外的1张「归光」魔法·陷阱卡在自己场上盖放。"
 100267011,光器的降雷,str1,Aktivierung annullieren und zerstören
 100267011,光器的降雷,str2,Setzen
+100268201,波动之超魔导剑士-黑魔导剑士,name,波动之超魔导剑士-黑魔导剑士
+100268201,波动之超魔导剑士-黑魔导剑士,desc,"「黑魔术师」+7星以上的怪兽
+这张卡不用融合召唤不能特殊召唤。
+①：这张卡的攻击力上升场上的其他怪兽的数量×500。
+②：这张卡可以向对方怪兽全部各作1次攻击。
+③：1回合1次，对方把魔法卡的效果发动时才能发动。那个效果无效。那之后，可以把场上1张卡破坏。
+④：这张卡用战斗·效果把卡破坏送去墓地时适用。只要那些卡在墓地存在，那些效果不能发动。"
+100268201,波动之超魔导剑士-黑魔导剑士,str1,Effekt annullieren
+100268201,波动之超魔导剑士-黑魔导剑士,str2,Die Karte zerstören?
+100268201,波动之超魔导剑士-黑魔导剑士,str3,Der Effekt von {CARD} wird derzeit angewendet.
 101305081,Zeuge der Uralten,name,Zeuge der Uralten
 101305081,Zeuge der Uralten,desc,"Falls du ein Synchromonster auf deiner Spielfeldseite oder in deinem Friedhof hast: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören.
 Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst bis zu 3 Synchromonster mit unterschiedlichen Namen von deinem Extra Deck und/oder Friedhof als offene Permanente Zauber in deine Zauber- & Fallenzone legen und 1 „Arch-Spielmarke“ (Maschine/LICHT/ATK 0/DEF 0) mit einer Stufe in Höhe der gelegten Anzahl als Spezialbeschwörung beschwören, zusätzlich kannst du für den Rest dieses Spielzugs keine Spezialbeschwörungen vom Extra Deck durchführen, außer von Synchromonstern.
@@ -693,7 +713,7 @@ Falls dein Gegner einen Monstereffekt aktiviert: Du kannst 1 „Ashtra“-Falle 
 ●这张卡超量召唤的场合发动。对方可以从自身卡组把4只怪兽（相同属性最多1只）和1张魔法卡除外。没有除外的场合，自己从对方卡组上面把10张卡除外。"
 101306042,No.104 假面魔蹈士 闪光·枉然,str1,Der Hand hinzufügen
 101306042,No.104 假面魔蹈士 闪光·枉然,str2,Verbannen
-101306042,No.104 假面魔蹈士 闪光·枉然,str3,除外效果（No.104 假面魔蹈士 闪光V枉然）
+101306042,No.104 假面魔蹈士 闪光·枉然,str3,Verbannungseffekt ({CARD})
 101306042,No.104 假面魔蹈士 闪光·枉然,str4,4 Monster und 1 Zauberkarte verbannen?
 101306043,混沌No.104 假面魔蹈士 阴影·胜光,name,混沌No.104 假面魔蹈士 阴影·胜光
 101306043,混沌No.104 假面魔蹈士 阴影·胜光,desc,"5星怪兽×4
@@ -726,7 +746,7 @@ Falls diese Karte ein Monster durch Kampf zerstört: Lege 1 Kronen-Zählmarke da
 Falls diese Karte als Linkbeschwörung beschworen wird: Du kannst bis zu 3 Monster, die „Atlantis, die Stadt des Seedrachen“ erwähnen, als Spezialbeschwörung von deinem Friedhof in deine Zonen beschwören, auf die diese Karte zeigt, zusätzlich kannst du für den Rest dieses Spielzugs keine Monster als Spezialbeschwörung beschwören.
 Der Name dieser Karte wird zu „Umi“, solange sie in der Monsterzone liegt.
 Einmal pro Spielzug (Schnelleffekt): Du kannst 1 offenes „Umi“, das du kontrollierst, auf den Friedhof legen; lege alle Karten auf dem Spielfeld auf den Friedhof, außer „Umi“."
-101306046,Azurblauer Ozean-Drachenlord – Neo-Daedalus-Wut,str1,适用作为连接3进行连接召唤（龙都 亚特兰蒂斯）
+101306046,Azurblauer Ozean-Drachenlord – Neo-Daedalus-Wut,str1,Als Link-3 für eine Linkbeschwörung anwenden (Azurblauer Ozean-Drachenlord – Neo-Daedalus-Wut)
 101306046,Azurblauer Ozean-Drachenlord – Neo-Daedalus-Wut,str2,Als Spezialbeschwörung beschwören
 101306046,Azurblauer Ozean-Drachenlord – Neo-Daedalus-Wut,str3,Auf den Friedhof legen
 101306047,Leviadragoner - Daedalus,name,Leviadragoner - Daedalus
@@ -736,7 +756,7 @@ Du kannst jeden der folgenden Effekte von „Leviadragoner - Daedalus“ nur ein
 Falls diese Karte als Linkbeschwörung beschworen wird: Du kannst 1 Monster, das „Atlantis, die Stadt des Seedrachen“ erwähnt, als Spezialbeschwörung von deinem Deck beschwören.
 Während der Main Phase (Schnelleffekt): Du kannst 1 offenes „Umi“, das du kontrollierst, auf den Friedhof legen; wirf die gesamte Hand deines Gegners ab und falls du dies tust, zieht er dieselbe Anzahl Karten.
 Kein Spieler kann Karten oder Effekte als Reaktion auf die Aktivierung dieses Effekts aktivieren."
-101306047,Leviadragoner - Daedalus,str1,适用作为连接2进行连接召唤（龙都 亚特兰蒂斯）
+101306047,Leviadragoner - Daedalus,str1,Als Link-2 für eine Linkbeschwörung anwenden (Leviadragoner - Daedalus)
 101306047,Leviadragoner - Daedalus,str2,Als Spezialbeschwörung beschwören
 101306047,Leviadragoner - Daedalus,str3,Dein Gegner wirft ab und zieht
 101306048,幻狱神 米底丘利,name,幻狱神 米底丘利
