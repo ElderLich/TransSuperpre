@@ -183,6 +183,16 @@ Vous ne pouvez utiliser chaque effet de ""Ekhajar, Dragon Descendant de la Barri
 100266005,"Ekhajar, Dragon Descendant de la Barrière de Glace",str2,Renvoyer à la main
 100266005,"Ekhajar, Dragon Descendant de la Barrière de Glace",str3,Bannir depuis la main/le Terrain/le Cimetière
 100266005,"Ekhajar, Dragon Descendant de la Barrière de Glace",str4,Bannir une carte depuis votre main ?
+100266006,No.101 寂静荣誉方舟骑士-灵魂圣所,name,No.101 寂静荣誉方舟骑士-灵魂圣所
+100266006,No.101 寂静荣誉方舟骑士-灵魂圣所,desc,"4星怪兽×2
+这个卡名的①的效果1回合只能使用1次。
+①：可以把这张卡1个超量素材取除，从以下效果选择1个发动。
+●选除取除的超量素材外的自己墓地1只4星怪兽，从卡组把和那只怪兽卡名不同，种族·属性相同的1只4星怪兽加入手卡。
+●以对方场上1只怪兽为对象才能发动。那只怪兽作为这张卡的超量素材。
+②：这张卡被破坏的场合，可以作为代替把这张卡1个超量素材取除。"
+100266006,No.101 寂静荣誉方舟骑士-灵魂圣所,str1,Activer
+100266006,No.101 寂静荣誉方舟骑士-灵魂圣所,str2,Ajouter à la main
+100266006,No.101 寂静荣誉方舟骑士-灵魂圣所,str3,Comme Matériel Xyz
 100267001,Prophète Sennet - Néfertari,name,Prophète Sennet - Néfertari
 100267001,Prophète Sennet - Néfertari,desc,"Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez l'envoyer au Cimetière ; montrez max. 2 Cartes Monstre Normal depuis votre main, Deck, Terrain face recto et/ou Cimetière, puis Posez autant de Magies ""Sennet"" depuis votre Deck.
 Durant le tour de votre adversaire (Effet Rapide) : vous pouvez bannir cette carte depuis votre Cimetière ; équipez 1 Monstre Normal depuis votre Cimetière à 1 Monstre Rituel que vous contrôlez comme Magie d'Équipement.
@@ -255,6 +265,16 @@ Si la somme des ATK de toutes les Cartes Monstre Normal que vous contrôlez est 
 Vous ne pouvez utiliser chaque effet de ""Chute de Foudre Sennet"" qu'une fois par tour."
 100267011,Chute de Foudre Sennet,str1,Annuler l'activation et détruire
 100267011,Chute de Foudre Sennet,str2,Poser
+100268201,波动之超魔导剑士-黑魔导剑士,name,波动之超魔导剑士-黑魔导剑士
+100268201,波动之超魔导剑士-黑魔导剑士,desc,"「黑魔术师」+7星以上的怪兽
+这张卡不用融合召唤不能特殊召唤。
+①：这张卡的攻击力上升场上的其他怪兽的数量×500。
+②：这张卡可以向对方怪兽全部各作1次攻击。
+③：1回合1次，对方把魔法卡的效果发动时才能发动。那个效果无效。那之后，可以把场上1张卡破坏。
+④：这张卡用战斗·效果把卡破坏送去墓地时适用。只要那些卡在墓地存在，那些效果不能发动。"
+100268201,波动之超魔导剑士-黑魔导剑士,str1,Annuler l'effet
+100268201,波动之超魔导剑士-黑魔导剑士,str2,Détruire la carte ?
+100268201,波动之超魔导剑士-黑魔导剑士,str3,L'effet de {CARD} est actuellement appliqué.
 101305081,Témoin de l'Ancien,name,Témoin de l'Ancien
 101305081,Témoin de l'Ancien,desc,"Si vous avez un Monstre Synchro dans votre Terrain ou Cimetière : vous pouvez Invoquer Spécialement cette carte depuis votre main.
 Si cette carte est Invoquée Spécialement : vous pouvez placer max. 3 Monstres Synchro de noms différents depuis votre Extra Deck et/ou Cimetière dans votre Zone Magie & Piège comme Magies Continues face recto, et Invoquez Spécialement 1 ""Jeton Arc"" (Machine/LUMIÈRE/ATK 0/DEF 0) de Niveau égal au nombre placé, et aussi, vous ne pouvez pas Invoquer Spécialement (Monstres Synchro exclus) depuis l'Extra Deck le reste de ce tour.
@@ -698,7 +718,7 @@ Un monstre qui a été Invoqué par Xyz en utilisant cette carte sur le Terrain 
 Vous ne pouvez utiliser cet effet de ""Numéro 104 : Mascarade de la Vanité"" qu'une fois par tour."
 101306042,Numéro 104 : Mascarade de la Vanité,str1,Ajouter à la main
 101306042,Numéro 104 : Mascarade de la Vanité,str2,Bannir
-101306042,Numéro 104 : Mascarade de la Vanité,str3,除外效果（No.104 假面魔蹈士 闪光V枉然）
+101306042,Numéro 104 : Mascarade de la Vanité,str3,Effet de bannissement ({CARD})
 101306042,Numéro 104 : Mascarade de la Vanité,str4,Bannir 4 monstres et 1 Carte Magie ?
 101306043,Numéro C104 : Mascarade Horreur de l'Ombre Victoire,name,Numéro C104 : Mascarade Horreur de l'Ombre Victoire
 101306043,Numéro C104 : Mascarade Horreur de l'Ombre Victoire,desc,"4 monstres de Niveau 5
@@ -731,7 +751,7 @@ Si cette carte détruit un monstre au combat : placez 1 Compteur Couronne sur el
 Si cette carte est Invoquée par Lien : vous pouvez Invoquer Spécialement max. 3 monstres qui mentionnent ""Atlantis, la Ville du Dragon"" depuis votre Cimetière dans vos zones pointées par cette carte, et aussi, vous ne pouvez pas Invoquer Spécialement le reste de ce tour.
 Le nom de cette carte devient ""Umi"" tant qu'elle est dans la Zone Monstre.
 Une fois par tour (Effet Rapide) : vous pouvez envoyer 1 ""Umi"" face recto que vous contrôlez au Cimetière ; envoyez toutes les cartes sur le Terrain au Cimetière (""Umi"" exclu)."
-101306046,eigneur Dragon Océan Bleu - Néo-Dédale Rage,str1,适用作为连接3进行连接召唤（龙都 亚特兰蒂斯）
+101306046,eigneur Dragon Océan Bleu - Néo-Dédale Rage,str1,Appliquer comme Link-3 pour une Invocation Lien (eigneur Dragon Océan Bleu - Néo-Dédale Rage)
 101306046,eigneur Dragon Océan Bleu - Néo-Dédale Rage,str2,Invocation Spéciale
 101306046,eigneur Dragon Océan Bleu - Néo-Dédale Rage,str3,Envoyer au Cimetière
 101306047,Soldat Dragon-Levia - Dédale,name,Soldat Dragon-Levia - Dédale
@@ -741,7 +761,7 @@ Vous ne pouvez utiliser chacun des effets suivants de ""Soldat Dragon-Levia - D�
 Si cette carte est Invoquée par Lien : vous pouvez Invoquer Spécialement 1 monstre qui mentionne ""Atlantis, la Ville du Dragon"" depuis votre Deck.
 Durant la Main Phase (Effet Rapide) : vous pouvez envoyer 1 ""Umi"" face recto que vous contrôlez au Cimetière ; défaussez toute la main de votre adversaire, et s'il le fait, il pioche le même nombre de cartes.
 Aucun joueur ne peut activer ni de cartes ni d'effets en réponse à l'activation de cet effet."
-101306047,Soldat Dragon-Levia - Dédale,str1,适用作为连接2进行连接召唤（龙都 亚特兰蒂斯）
+101306047,Soldat Dragon-Levia - Dédale,str1,Appliquer comme Link-2 pour une Invocation Lien (Soldat Dragon-Levia - Dédale)
 101306047,Soldat Dragon-Levia - Dédale,str2,Invocation Spéciale
 101306047,Soldat Dragon-Levia - Dédale,str3,Votre adversaire défausse et pioche
 101306048,Medicurius le Mécène du Pouvoir des Illusions,name,Medicurius le Mécène du Pouvoir des Illusions
