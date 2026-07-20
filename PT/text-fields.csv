@@ -174,6 +174,16 @@ Você só pode usar cada um dos efeitos de ""Ekhajar, Dragão Descendente da Bar
 100266005,"Ekhajar, Dragão Descendente da Barreira de Gelo",str2,Retornar para a mão
 100266005,"Ekhajar, Dragão Descendente da Barreira de Gelo",str3,Banir da mão/campo/Cemitério
 100266005,"Ekhajar, Dragão Descendente da Barreira de Gelo",str4,Banir 1 card da sua mão?
+100266006,No.101 寂静荣誉方舟骑士-灵魂圣所,name,No.101 寂静荣誉方舟骑士-灵魂圣所
+100266006,No.101 寂静荣誉方舟骑士-灵魂圣所,desc,"4星怪兽×2
+这个卡名的①的效果1回合只能使用1次。
+①：可以把这张卡1个超量素材取除，从以下效果选择1个发动。
+●选除取除的超量素材外的自己墓地1只4星怪兽，从卡组把和那只怪兽卡名不同，种族·属性相同的1只4星怪兽加入手卡。
+●以对方场上1只怪兽为对象才能发动。那只怪兽作为这张卡的超量素材。
+②：这张卡被破坏的场合，可以作为代替把这张卡1个超量素材取除。"
+100266006,No.101 寂静荣誉方舟骑士-灵魂圣所,str1,Ativar
+100266006,No.101 寂静荣誉方舟骑士-灵魂圣所,str2,Adicionar à mão
+100266006,No.101 寂静荣誉方舟骑士-灵魂圣所,str3,Como Matéria Xyz
 100267001,Profeta Sennet - Nefertari,name,Profeta Sennet - Nefertari
 100267001,Profeta Sennet - Nefertari,desc,"Se este card é Invocado por Invocação-Normal ou Especial: você pode envia-lo para o Cemitério; mostre até 2 Cards de Monstros Normais da sua mão, Deck, campo com a face para cima, e/ou Cemitério, então Baixe aquela quantia de Magias ""Sennet"" do seu Deck.
 Durante o turno do seu oponente (Efeito Rápido): você pode banir este card do seu Cemitério; Equipe 1 Monstro Normal do seu Cemitério à 1 Monstro Ritual que você controla como uma Magia de Equipamento.
@@ -245,6 +255,16 @@ Se o ATK total de todos os Monstros Normais que você controla é maior de 3000:
 Você só pode usar cada um dos efeitos de ""Trovão Sennet"" uma vez por turno."
 100267011,Trovão Sennet,str1,Negar a ativação e destruir
 100267011,Trovão Sennet,str2,Baixar
+100268201,波动之超魔导剑士-黑魔导剑士,name,波动之超魔导剑士-黑魔导剑士
+100268201,波动之超魔导剑士-黑魔导剑士,desc,"「黑魔术师」+7星以上的怪兽
+这张卡不用融合召唤不能特殊召唤。
+①：这张卡的攻击力上升场上的其他怪兽的数量×500。
+②：这张卡可以向对方怪兽全部各作1次攻击。
+③：1回合1次，对方把魔法卡的效果发动时才能发动。那个效果无效。那之后，可以把场上1张卡破坏。
+④：这张卡用战斗·效果把卡破坏送去墓地时适用。只要那些卡在墓地存在，那些效果不能发动。"
+100268201,波动之超魔导剑士-黑魔导剑士,str1,Negar o efeito
+100268201,波动之超魔导剑士-黑魔导剑士,str2,Destruir o card?
+100268201,波动之超魔导剑士-黑魔导剑士,str3,O efeito de {CARD} está sendo aplicado.
 101305081,Testemunho do Ancião,name,Testemunho do Ancião
 101305081,Testemunho do Ancião,desc,"Se você tem um Monstro Sincro no seu campo ou Cemitério: você pode Invocar por Invocação-Especial este card da sua mão.
 Se este card for Invocado por Invocação-Especial: você pode colocar até 3 Monstros Sincro com nomes diferentes do seu Deck Adicional e/ou Cemitério na sua Zona de Magias & Armadilhas com a face para cima como Magias Contínuas e Invocar por Invocação-Especial 1 ""Ficha de Arc"" (Máquina/LUZ/ATK 0/DEF 0) com um Nível igual ao número colocado, também pelo resto deste turno, você não pode Invocar por Invocação-Especial do seu Deck Adicional, exceto Monstros Sincro.
@@ -668,7 +688,7 @@ Um monstro que foi Invocado por Invocação-Xyz usando este card no campo como m
 ● Se é Invocado por Invocação-Xyz: ative este efeito; seu oponente pode banir 4 monstros com Atributos diferentes e 1 Magia da Deck dele. Se ele não fizer, você bane os 10 cards do topo do Deck dele. Você só pode usar este efeito de ""Número 104: Mascarado Vain"" uma vez por turno."
 101306042,Número 104: Mascarado Vain,str1,Adicionar à mão
 101306042,Número 104: Mascarado Vain,str2,Banir
-101306042,Número 104: Mascarado Vain,str3,除外效果（No.104 假面魔蹈士 闪光V枉然）
+101306042,Número 104: Mascarado Vain,str3,Efeito de banimento ({CARD})
 101306042,Número 104: Mascarado Vain,str4,Banir 4 monstros e 1 Card de Magia?
 101306043,Número C104: Terror Umbral Vitória Mascarada,name,Número C104: Terror Umbral Vitória Mascarada
 101306043,Número C104: Terror Umbral Vitória Mascarada,desc,"4 monstros de Nível 5
@@ -700,7 +720,7 @@ Se este card destruir um monstro por batalha: Coloque 1 Marcador de Coroa nele, 
 O nome deste card se torna ""Umi"" enquanto está na Zona de Monstros.
 Se este card for Invocado por Invocação-Link: você pode Invocar por Invocação-Especial até 3 monstros que mencionam ""Atlantis, a Cidade do Dragão"" do seu Cemitério para as zonas que este card aponta, você também não pode Invocar por Invocação-Especial monstros pelo resto deste turno.
 Uma vez por turno (Efeito Rápdio): você pode enviar 1 ""Umi"" com a face para cima que você controla para o Cemitério; envie todos os cards no campo para o Cemitério, exceto ""Umi""."
-101306046,Senhor Dragão do Oceano Azul - Neo-Daedalus Furioso,str1,适用作为连接3进行连接召唤（龙都 亚特兰蒂斯）
+101306046,Senhor Dragão do Oceano Azul - Neo-Daedalus Furioso,str1,Aplicar como Link-3 para uma Invocação-Link (Senhor Dragão do Oceano Azul - Neo-Daedalus Furioso)
 101306046,Senhor Dragão do Oceano Azul - Neo-Daedalus Furioso,str2,Invocação Especial
 101306046,Senhor Dragão do Oceano Azul - Neo-Daedalus Furioso,str3,Enviar para o Cemitério
 101306047,Levia-Dragoon - Daedalus,name,Levia-Dragoon - Daedalus
@@ -709,7 +729,7 @@ O nome deste card se torna ""Umi"" enquanto está na Zona de Monstros.
 Você só pode usar cada um dos seguintes efeitos de ""Levia-Dragoon - Daedalus"" uma vez por turno.
 Se este card for Invocado por Invocação-Link: você pode Invocar por Invocação-Especial 1 monstro que mencione ""Atlantis, a Cidade do Dragão"" do seu Deck.
 Durante a Fase Principal (Efeito Rápido): você pode enviar 1 ""Umi"" com a face para cima que você controla para o Cemitério; descarte a mão do seu oponente, e se fizer, ele compra a mesma quantia de cards. Nenhum jogador pode ativar cards ou efeitos em resposta a ativação deste efeito."
-101306047,Levia-Dragoon - Daedalus,str1,适用作为连接2进行连接召唤（龙都 亚特兰蒂斯）
+101306047,Levia-Dragoon - Daedalus,str1,Aplicar como Link-2 para uma Invocação-Link (Levia-Dragoon - Daedalus)
 101306047,Levia-Dragoon - Daedalus,str2,Invocação Especial
 101306047,Levia-Dragoon - Daedalus,str3,Seu oponente descarta e compra
 101306048,Medicurius o Patrono do Poder das Ilusões,name,Medicurius o Patrono do Poder das Ilusões
