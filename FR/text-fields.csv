@@ -275,6 +275,30 @@ Après que cette carte détruit une carte au combat ou par un effet de carte et 
 100268201,Paladin des Ténèbres - Ondulatoire,str1,Annuler l'effet
 100268201,Paladin des Ténèbres - Ondulatoire,str2,Détruire la carte ?
 100268201,Paladin des Ténèbres - Ondulatoire,str3,L'effet de {CARD} est actuellement appliqué.
+100269038,异色眼超驭龙,name,异色眼超驭龙
+100269038,异色眼超驭龙,desc,"包含灵摆怪兽的怪兽2只以上
+可以以自己场上1张其他卡为对象；那张卡破坏，自己抽1张。
+自己回合，对方把卡的效果发动时（诱发即时效果）：可以丢弃1张手卡；那个效果无效。
+「异色眼超驭龙」的前述效果1回合各能使用1次。
+这张卡的第一个效果把灵摆怪兽卡破坏的回合，自己在通常的灵摆召唤外加上只有1次，自己主要阶段可以把「娱乐伙伴」怪兽、「魔术师」灵摆怪兽、「异色眼」怪兽灵摆召唤（这个效果1回合只能适用1次）。"
+100269038,异色眼超驭龙,str1,Détruire
+100269038,异色眼超驭龙,str2,Annuler l'effet
+100269038,异色眼超驭龙,str3,Invocation Pendule en utilisant l'effet de {CARD}
+100269113,月光绯虎,name,月光绯虎
+100269113,月光绯虎,desc,"自己把「月光」怪兽的效果发动的场合（伤害步骤除外）：可以把这张卡从手卡特殊召唤，那之后，这个效果是在对方发动过卡的效果的回合发动的场合，可以从自己的卡组·墓地把1张「融合」加入手卡。
+这张卡被卡的效果送去墓地的场合：可以从自己的额外卡组（表侧）·墓地把1只5星以外的「月光」怪兽特殊召唤，这个效果特殊召唤的怪兽不能把效果发动。
+「月光绯虎」的每个效果1回合各能使用1次。"
+100269113,月光绯虎,str1,Invocation Spéciale
+100269113,月光绯虎,str2,Invocation Spéciale
+100269113,月光绯虎,str3,Ajouter {CARD} à votre main ?
+100269113,月光绯虎,str4,Invoqué Spécialement par l'effet de {CARD}
+100269215,疾行机人 达磨打落人,name,疾行机人 达磨打落人
+100269215,疾行机人 达磨打落人,desc,"这张卡在手卡存在的场合：可以从卡组把「疾行机人 达磨打落人」以外的1张「疾行机人」卡送去墓地；这张卡特殊召唤。这个效果的发动后，直到回合结束时自己不是风属性怪兽不能特殊召唤。
+这张卡从场上被送去墓地的场合：可以从卡组把1张「疾行机人」魔法·陷阱卡加入手卡，那之后，自己场上有「幻透翼」怪兽存在的场合，可以把场上1只怪兽破坏。
+「疾行机人 达磨打落人」的每个效果1回合各能使用1次。"
+100269215,疾行机人 达磨打落人,str1,Invocation Spéciale
+100269215,疾行机人 达磨打落人,str2,Ajouter à la main
+100269215,疾行机人 达磨打落人,str3,Détruire ce monstre ?
 101305081,Témoin de l'Ancien,name,Témoin de l'Ancien
 101305081,Témoin de l'Ancien,desc,"Si vous avez un Monstre Synchro dans votre Terrain ou Cimetière : vous pouvez Invoquer Spécialement cette carte depuis votre main.
 Si cette carte est Invoquée Spécialement : vous pouvez placer max. 3 Monstres Synchro de noms différents depuis votre Extra Deck et/ou Cimetière dans votre Zone Magie & Piège comme Magies Continues face recto, et Invoquez Spécialement 1 ""Jeton Arc"" (Machine/LUMIÈRE/ATK 0/DEF 0) de Niveau égal au nombre placé, et aussi, vous ne pouvez pas Invoquer Spécialement (Monstres Synchro exclus) depuis l'Extra Deck le reste de ce tour.
