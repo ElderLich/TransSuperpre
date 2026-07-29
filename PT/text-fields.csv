@@ -264,7 +264,7 @@ Uma vez por turno, quando seu oponente ativar um Card de Magia ou efeito (Efeito
 Após este card destruir um car por batalha ou efeito e evia-lo para o Cemitério, nenhum jogador pode ativar seus efeitos enquanto ele está no Cemitério."
 100268201,Paladino Negro - Onda Oscilante,str1,Negar o efeito
 100268201,Paladino Negro - Onda Oscilante,str2,Destruir o card?
-100268201,Paladino Negro - Onda Oscilante,str3,O efeito de {CARD} está sendo aplicado.
+100268201,Paladino Negro - Onda Oscilante,str3,"O efeito de ""Paladino Negro - Onda Oscilante"" está sendo aplicado."
 100269038,Dragão Sobreescrevedor de Olhos Anômalos,name,Dragão Sobreescrevedor de Olhos Anômalos
 100269038,Dragão Sobreescrevedor de Olhos Anômalos,desc,"2+ monstros, incluindo um Monstro Pêndulo
 Você pode escolher 1 outro card que você controla; destrua-o, e se fizer, compre 1 card.
@@ -273,15 +273,15 @@ Você só pode usar cada um dos efeitos precedentes de ""Dragão Sobreescrevedor
 Se você destruiu um card de Monstro Pêndulo pelo primeiro efeito deste card, durante a sua Fase Principal deste turno, você pode conduzir 1 Invocação-Pêndulo de um ou mais Monstros Pêndulo ""Camarartista"", ""Magos"" e/ou ""Olhos Anômalos"", em adição a sua Invocação-Pêndulo (você só pode ganhar este efeito uma vez por turno)."
 100269038,Dragão Sobreescrevedor de Olhos Anômalos,str1,Destruir
 100269038,Dragão Sobreescrevedor de Olhos Anômalos,str2,Negar o efeito
-100269038,Dragão Sobreescrevedor de Olhos Anômalos,str3,Invocação Pêndulo usando o efeito de {CARD}
+100269038,Dragão Sobreescrevedor de Olhos Anômalos,str3,"Invocação Pêndulo usando o efeito de ""Dragão Sobreescrevedor de Olhos Anômalos"""
 100269113,Tigre Carmesin Luzlunar,name,Tigre Carmesin Luzlunar
 100269113,Tigre Carmesin Luzlunar,desc,"Se você ativar um efeito de monstro ""Luzlunar"" (exceto durante a Etapa de Dano): você pode Invocar por Invocação-Especial este card da sua mão, então se você ativou este efeito durante o turno que seu oponente ativou um card ou efeito, você pode adicionar 1 ""Polymerização"" do seu Deck ou Cemitério à sua mão.
 Se este card é enviado para o Cemitério por um efeito: você pode Invocar por Invocação-Especial 1 monstro ""Luzlunar"" com a face para cima do seu Deck Adicional ou Cemitério, exceto um monstro Nível 5, mas ele não pode ativar seus efeitos.
 Você só pode usar cada um dos efeitos de ""Tigre Carmesin Luzlunar"" uma vez por turno."
 100269113,Tigre Carmesin Luzlunar,str1,Invocação Especial
 100269113,Tigre Carmesin Luzlunar,str2,Invocação Especial
-100269113,Tigre Carmesin Luzlunar,str3,Adicionar {CARD} à sua mão?
-100269113,Tigre Carmesin Luzlunar,str4,Invocado por Invocação Especial pelo efeito de {CARD}
+100269113,Tigre Carmesin Luzlunar,str3,"Adicionar ""Polimerização"" à sua mão?"
+100269113,Tigre Carmesin Luzlunar,str4,"Invocado por Invocação Especial pelo efeito de ""Tigre Carmesin Luzlunar"""
 100269215,Velocidaroide Darumaknocker,name,Velocidaroide Darumaknocker
 100269215,Velocidaroide Darumaknocker,desc,"Se este card está na sua mão: você pode enviar 1 card ""Velocidaroide"" do seu Deck para o Cemitério, exceto ""Velocidaroide Darumaknocker""; Invoque por Invocação-Especial aquele card, você não pode Invocar por Invocação-Especial pelo resto desse turno, exceto monstros de VENTO.
 Se este card é enviado do campo para o Cemitério: você pode adicionar 1 Magia/Armadilha ""Velocidaroide"" do seu Deck à sua mão, então se você controla um monstro ""Asas Transparentes"", você pode destruir 1 monstro no campo.
@@ -460,7 +460,7 @@ Se um ou mais monstros são Invocados por Invocação-Especial enquanto este car
 Você só pode usar cada um dos efeitos de ""Terror Umbral Mil"" uma vez por turno."
 101306008,Terror Umbral Mil,str1,Colocar na Zona do Campo
 101306008,Terror Umbral Mil,str2,Invocação Especial
-101306008,Terror Umbral Mil,str3,O efeito de {CARD} está sendo aplicado.
+101306008,Terror Umbral Mil,str3,"O efeito de ""Terror Umbral Mil"" está sendo aplicado."
 101306009,"Akasuna, a Divindade Dourada Asutra",name,"Akasuna, a Divindade Dourada Asutra"
 101306009,"Akasuna, a Divindade Dourada Asutra",desc,"Você pode Invocar por Invocação-Especial este card (da sua mão) revelando 1 card com a face para baixo que você controla e o retornando para a mão/Deck Adicional. Você só pode Invocar por Invocação-Especial ""Akasuna, a Divindade Dourada Asutra"" uma vez por turno dessa forma.
 Você só pode usar cada um dos seguintes efeitos de ""Akasuna, a Divindade Dourada Asutra"" uma vez por turno.
@@ -548,7 +548,7 @@ Você só pode usar cada um dos efeitos de ""Ars Magna da Corrupção e Purifica
 101306019,Ars Magna da Corrupção e Purificação,str1,Efeito de busca
 101306019,Ars Magna da Corrupção e Purificação,str2,Invocação Especial
 101306019,Ars Magna da Corrupção e Purificação,str3,Efeito de banimento
-101306019,Ars Magna da Corrupção e Purificação,str4,O efeito de {CARD} está sendo aplicado.
+101306019,Ars Magna da Corrupção e Purificação,str4,"O efeito de ""Ars Magna da Corrupção e Purificação"" está sendo aplicado."
 101306020,Ars Magna da Separação e Unificação,name,Ars Magna da Separação e Unificação
 101306020,Ars Magna da Separação e Unificação,desc,"Você pode banir este card da sua mão; Invoque por Invocação-Especial 1 monstro não-Mago ""Ars Magna"" do seu Cemitério ou banimento, também seus Monstros Link ""Patrono(a) do Poder"" podem fazer até 3 ataques em monstros durante cada Fase de Batalha nesse turno.
 Se um ou mais Monstros Link e/ou Sinchro são Invocados por Invocação-Especial enquanto este card está banido: você pode Invocar este card por Invocação-Especial.
@@ -712,7 +712,7 @@ Um monstro que foi Invocado por Invocação-Xyz usando este card no campo como m
 ● Se é Invocado por Invocação-Xyz: ative este efeito; seu oponente pode banir 4 monstros com Atributos diferentes e 1 Magia da Deck dele. Se ele não fizer, você bane os 10 cards do topo do Deck dele. Você só pode usar este efeito de ""Número 104: Mascarado Vain"" uma vez por turno."
 101306042,Número 104: Mascarado Vain,str1,Adicionar à mão
 101306042,Número 104: Mascarado Vain,str2,Banir
-101306042,Número 104: Mascarado Vain,str3,Efeito de banimento ({CARD})
+101306042,Número 104: Mascarado Vain,str3,Efeito de banimento (Número 104: Mascarado Vain)
 101306042,Número 104: Mascarado Vain,str4,Banir 4 monstros e 1 Card de Magia?
 101306043,Número C104: Terror Umbral Vitória Mascarada,name,Número C104: Terror Umbral Vitória Mascarada
 101306043,Número C104: Terror Umbral Vitória Mascarada,desc,"4 monstros de Nível 5
@@ -804,7 +804,7 @@ Se seu oponente Invoca um ou mais monstros por Invocação-Normal ou Especial en
 Se um ou mais cards que você controla menciona ""Mago do Tempo Sombrio"" seria destruído por batalha ou efeito, em vez disso você pode destruir 1 das suas Fichas Invocadas."
 101306054,Bode Expiatório Dormindo,str1,Ativar
 101306054,Bode Expiatório Dormindo,str2,Selecione o número de Invocações Especiais
-101306054,Bode Expiatório Dormindo,str3,Invocar {CARD} por Invocação Especial?
+101306054,Bode Expiatório Dormindo,str3,"Invocar ""Guerreiro Pantera Veloz"" por Invocação Especial?"
 101306055,Barian do Sétimo,name,Barian do Sétimo
 101306055,Barian do Sétimo,desc,"Cada jogador só pode Invocar por Invocação-Especial monstros não-""Número"" de seu Deck Adicional duas vezes por turno enquanto este card está no campo com a face para cima.
 Você só pode usar cada um dos seguintes efeitos de ""Barian do Sétimo"" uma vez por turno.
