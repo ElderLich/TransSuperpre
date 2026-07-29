@@ -275,7 +275,7 @@ Zu einem der folgenden Zeitpunkte: Annulliere die Effekte von so vielen offenen 
 ④：这张卡用战斗·效果把卡破坏送去墓地时适用。只要那些卡在墓地存在，那些效果不能发动。"
 100268201,波动之超魔导剑士-黑魔导剑士,str1,Effekt annullieren
 100268201,波动之超魔导剑士-黑魔导剑士,str2,Die Karte zerstören?
-100268201,波动之超魔导剑士-黑魔导剑士,str3,Der Effekt von {CARD} wird derzeit angewendet.
+100268201,波动之超魔导剑士-黑魔导剑士,str3,"Der Effekt von ""波动之超魔导剑士-黑魔导剑士"" wird derzeit angewendet."
 100269038,异色眼超驭龙,name,异色眼超驭龙
 100269038,异色眼超驭龙,desc,"包含灵摆怪兽的怪兽2只以上
 可以以自己场上1张其他卡为对象；那张卡破坏，自己抽1张。
@@ -284,15 +284,15 @@ Zu einem der folgenden Zeitpunkte: Annulliere die Effekte von so vielen offenen 
 这张卡的第一个效果把灵摆怪兽卡破坏的回合，自己在通常的灵摆召唤外加上只有1次，自己主要阶段可以把「娱乐伙伴」怪兽、「魔术师」灵摆怪兽、「异色眼」怪兽灵摆召唤（这个效果1回合只能适用1次）。"
 100269038,异色眼超驭龙,str1,Zerstören
 100269038,异色眼超驭龙,str2,Effekt annullieren
-100269038,异色眼超驭龙,str3,Pendelbeschwörung mithilfe des Effekts von {CARD}
+100269038,异色眼超驭龙,str3,"Pendelbeschwörung mithilfe des Effekts von ""异色眼超驭龙"""
 100269113,月光绯虎,name,月光绯虎
 100269113,月光绯虎,desc,"自己把「月光」怪兽的效果发动的场合（伤害步骤除外）：可以把这张卡从手卡特殊召唤，那之后，这个效果是在对方发动过卡的效果的回合发动的场合，可以从自己的卡组·墓地把1张「融合」加入手卡。
 这张卡被卡的效果送去墓地的场合：可以从自己的额外卡组（表侧）·墓地把1只5星以外的「月光」怪兽特殊召唤，这个效果特殊召唤的怪兽不能把效果发动。
 「月光绯虎」的每个效果1回合各能使用1次。"
 100269113,月光绯虎,str1,Als Spezialbeschwörung beschwören
 100269113,月光绯虎,str2,Als Spezialbeschwörung beschwören
-100269113,月光绯虎,str3,{CARD} deiner Hand hinzufügen?
-100269113,月光绯虎,str4,Als Spezialbeschwörung durch den Effekt von {CARD} beschworen
+100269113,月光绯虎,str3,"""Polymerisation"" deiner Hand hinzufügen?"
+100269113,月光绯虎,str4,"Als Spezialbeschwörung durch den Effekt von ""月光绯虎"" beschworen"
 100269215,疾行机人 达磨打落人,name,疾行机人 达磨打落人
 100269215,疾行机人 达磨打落人,desc,"这张卡在手卡存在的场合：可以从卡组把「疾行机人 达磨打落人」以外的1张「疾行机人」卡送去墓地；这张卡特殊召唤。这个效果的发动后，直到回合结束时自己不是风属性怪兽不能特殊召唤。
 这张卡从场上被送去墓地的场合：可以从卡组把1张「疾行机人」魔法·陷阱卡加入手卡，那之后，自己场上有「幻透翼」怪兽存在的场合，可以把场上1只怪兽破坏。
@@ -476,7 +476,7 @@ Falls ein oder mehr Xyz-Monster als Spezialbeschwörung beschworen wird, solange
 Du kannst jeden Effekt von „Tausend Schattenhorror“ nur einmal pro Spielzug verwenden."
 101306008,Tausend Schattenhorror,str1,In die Spielfeldzone legen
 101306008,Tausend Schattenhorror,str2,Als Spezialbeschwörung beschwören
-101306008,Tausend Schattenhorror,str3,Der Effekt von {CARD} wird derzeit angewendet.
+101306008,Tausend Schattenhorror,str3,"Der Effekt von ""Tausend Schattenhorror"" wird derzeit angewendet."
 101306009,Akasuna die Kampf Ashtra,name,Akasuna die Kampf Ashtra
 101306009,Akasuna die Kampf Ashtra,desc,"Du kannst diese Karte als Spezialbeschwörung (von deiner Hand) beschwören, indem du 1 verdeckte Karte, die du kontrollierst, vorzeigst und sie auf die Hand/das Extra Deck zurückgibts.
 Du kannst „Akasuna die Kampf Ashtra“ nur einmal pro Spielzug auf diese Art als Spezialbeschwörung beschwören.
@@ -568,7 +568,7 @@ Du kannst jeden Effekt von „Ars Magna der Reinigung und Verderbnis“ nur einm
 101306019,Ars Magna der Reinigung und Verderbnis,str1,Sucheffekt
 101306019,Ars Magna der Reinigung und Verderbnis,str2,Als Spezialbeschwörung beschwören
 101306019,Ars Magna der Reinigung und Verderbnis,str3,Verbannungseffekt
-101306019,Ars Magna der Reinigung und Verderbnis,str4,Der Effekt von {CARD} wird derzeit angewendet.
+101306019,Ars Magna der Reinigung und Verderbnis,str4,"Der Effekt von ""Ars Magna der Reinigung und Verderbnis"" wird derzeit angewendet."
 101306020,Ars Magna der Vereinigung und Trennung,name,Ars Magna der Vereinigung und Trennung
 101306020,Ars Magna der Vereinigung und Trennung,desc,"Du kannst diese Karte von deiner Hand verbannen; beschwöre 1 „Ars Magna“-Nichthexer-Monster als Spezialbeschwörung von deinem Friedhof oder deinen verbannten Karten, zusätzlich können deine „Machtpatron“-Linkmonster in diesem Spielzug während jeder Battle Phase bis zu 3 Angriffe gegen Monster durchführen.
 Falls ein oder mehr Synchro- und/oder Linkmonster als Spezialbeschwörung beschworen wird, solange diese Karte verbannt ist (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung beschwören.
@@ -744,7 +744,7 @@ Falls er dies nicht tut, verbannst du die obersten 10 Karten seines Decks.
 Du kannst diesen Effekt von „Nummer 104: Maskerade der Eitelkeit“ nur einmal pro Spielzug verwenden."
 101306042,Nummer 104: Maskerade der Eitelkeit,str1,Der Hand hinzufügen
 101306042,Nummer 104: Maskerade der Eitelkeit,str2,Verbannen
-101306042,Nummer 104: Maskerade der Eitelkeit,str3,Verbannungseffekt ({CARD})
+101306042,Nummer 104: Maskerade der Eitelkeit,str3,Verbannungseffekt (Nummer 104: Maskerade der Eitelkeit)
 101306042,Nummer 104: Maskerade der Eitelkeit,str4,4 Monster und 1 Zauberkarte verbannen?
 101306043,Nummer C104: Schattenhorror Maskerade Sieg,name,Nummer C104: Schattenhorror Maskerade Sieg
 101306043,Nummer C104: Schattenhorror Maskerade Sieg,desc,"4 Monster der Stufe 5
@@ -841,7 +841,7 @@ Falls dein Gegner ein oder mehr Monster als Normal- oder Spezialbeschwörung bes
 Falls eine oder mehr Karten, die „Dunkler Zeitzauberer“ erwähnen, die du kontrollierst, durch Kampf oder einen Karteneffekt zerstört würden, kannst du stattdessen 1 Spielmarke, die du kontrollierst, die durch diese Effekt als Spezialbeschwörung beschworen wurde zerstören."
 101306054,Schlafende Sündenböcke,str1,Aktivieren
 101306054,Schlafende Sündenböcke,str2,Wähle die Anzahl der Spezialbeschwörungen
-101306054,Schlafende Sündenböcke,str3,{CARD} als Spezialbeschwörung beschwören?
+101306054,Schlafende Sündenböcke,str3,"""Flinker Panter-Krieger"" als Spezialbeschwörung beschwören?"
 101306055,Sieben Barians,name,Sieben Barians
 101306055,Sieben Barians,desc,"Jeder Spieler kann nur zweimal pro Spielzug Nicht-„Nummer“-Monster als Spezialbeschwörung vom Extra Deck beschwören, solange diese Karte offen auf dem Spielfeld liegt.
 Du kannst jeden der folgenden Effekte von „Sieben Barians“ nur einmal pro Spielzug verwenden.
