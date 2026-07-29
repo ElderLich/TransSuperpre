@@ -1,3 +1,6 @@
+-- table: android_metadata
+CREATE TABLE android_metadata (locale TEXT);
+
 -- table: datas
 CREATE TABLE datas(id integer primary key,ot integer,alias integer,setcode integer,type integer,atk integer,def integer,level integer,race integer,attribute integer,category integer);
 
