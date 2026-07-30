@@ -99,7 +99,8 @@ Während deiner Main Phase: Du kannst Karten in Höhe der Anzahl der Karten, die
 Du kannst jeden Effekt von „Unbesiegbarer Untergangslord“ nur einmal pro Spielzug verwenden."
 100263006,Unbesiegbarer Untergangslord,str1,Als Spezialbeschwörung beschwören
 100263006,Unbesiegbarer Untergangslord,str2,Auf das Deck legen
-100263006,Unbesiegbarer Untergangslord,str3,"Wähle eine Karte, die auf das Deck gelegt werden soll."
+100263006,Unbesiegbarer Untergangslord,str3,Diese Karte durch ihren eigenen Effekt als Spezialbeschwörung beschwören
+100263006,Unbesiegbarer Untergangslord,str4,"Wähle eine Karte, die auf das Deck gelegt werden soll."
 100263007,Elementar-HELD Clay Wächter,name,Elementar-HELD Clay Wächter
 100263007,Elementar-HELD Clay Wächter,desc,"1 „Elementar-HELD“-Monster + 1 Krieger-Monster
 (Diese Karte wird nicht als eine „Wächter“-Karte behandelt.)
@@ -194,6 +195,13 @@ Zu einem der folgenden Zeitpunkte: Annulliere die Effekte von so vielen offenen 
 100266006,No.101 寂静荣誉方舟骑士-灵魂圣所,str1,Aktivieren
 100266006,No.101 寂静荣誉方舟骑士-灵魂圣所,str2,Der Hand hinzufügen
 100266006,No.101 寂静荣誉方舟骑士-灵魂圣所,str3,Als Xyz-Material
+100266007,月女神的至天,name,月女神的至天
+100266007,月女神的至天,desc,"①：对方场上的怪兽的数量比自己场上的怪兽多的场合，可以从以下效果选择1个发动（这个卡名的以下的效果1回合各能使用1次）。
+●以最多有对方场上的表侧表示怪兽数量的，场上的表侧表示卡为对象，支付作为对象的数量×800的基本分才能发动。那些卡的效果直到回合结束时无效。
+●对方把手卡·墓地的怪兽的效果发动时才能发动。那个效果无效。"
+100266007,月女神的至天,str1,Aktivieren
+100266007,月女神的至天,str2,Die Effekte offener Karten auf dem Spielfeld annullieren
+100266007,月女神的至天,str3,"Einen Monstereffekt annullieren, der in der Hand oder im Friedhof aktiviert wurde"
 100267001,归光之启示者-奈菲尔塔利,name,归光之启示者-奈菲尔塔利
 100267001,归光之启示者-奈菲尔塔利,desc,"这个卡名的①②的效果1回合各能使用1次。
 ①：这张卡召唤·特殊召唤的场合，把这张卡送去墓地才能发动。选自己手卡·卡组·场上（表侧表示）·墓地的最多2张通常怪兽卡，给双方确认。那之后，以那个数量从卡组把「归光」魔法卡在自己场上盖放。
