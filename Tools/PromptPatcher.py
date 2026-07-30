@@ -855,6 +855,36 @@ def build_translation_pack(lang: str):
 
     # Extra phrases (keep phrase-level; avoid single-word glue)
     extras = {
+        "自身的效果特殊召唤": {
+            "en": "Special Summon this card by its own effect",
+            "fr": "Invoquer Spécialement cette carte par son propre effet",
+            "de": "Diese Karte durch ihren eigenen Effekt als Spezialbeschwörung beschwören",
+            "es": "Invocar esta carta de Modo Especial por su propio efecto",
+            "pt": "Invocar este card por Invocação-Especial pelo seu próprio efeito",
+            "it": "Evocare Specialmente questa carta tramite il suo stesso effetto",
+            "ja": "自身の効果でこのカードを特殊召喚",
+            "kr": "자신의 효과로 이 카드를 특수 소환",
+        },
+        "把场上表侧表示卡的效果无效": {
+            "en": "Negate the effects of face-up cards on the field",
+            "fr": "Annuler les effets des cartes face recto sur le Terrain",
+            "de": "Die Effekte offener Karten auf dem Spielfeld annullieren",
+            "es": "Negar los efectos de las cartas boca arriba en el Campo",
+            "pt": "Negar os efeitos dos cards com a face para cima no campo",
+            "it": "Annullare gli effetti delle carte scoperte sul Terreno",
+            "ja": "フィールドの表側表示カードの効果を無効にする",
+            "kr": "필드의 앞면 표시 카드의 효과를 무효화",
+        },
+        "手卡墓地发动的怪兽效果无效": {
+            "en": "Negate a monster effect activated in the hand or GY",
+            "fr": "Annuler un effet de monstre activé depuis la main ou le Cimetière",
+            "de": "Einen Monstereffekt annullieren, der in der Hand oder im Friedhof aktiviert wurde",
+            "es": "Negar un efecto de monstruo activado en la mano o el Cementerio",
+            "pt": "Negar um efeito de monstro ativado na mão ou no Cemitério",
+            "it": "Annullare l'effetto di un mostro attivato nella mano o nel Cimitero",
+            "ja": "手札・墓地で発動したモンスター効果を無効にする",
+            "kr": "패/묘지에서 발동한 몬스터 효과를 무효화",
+        },
         "状态": {
             "en": "Status",
             "fr": "État",
@@ -946,6 +976,16 @@ def build_translation_pack(lang: str):
             "kr": "특수 소환하고 그 효과를 무효로 한다",
         },
         "除外效果（No.104 假面魔蹈士 闪光·枉然）": {
+            "en": "Banish effect ({CARD})",
+            "fr": "Effet de bannissement ({CARD})",
+            "de": "Verbannungseffekt ({CARD})",
+            "es": "Efecto de destierro ({CARD})",
+            "pt": "Efeito de banimento ({CARD})",
+            "it": "Effetto di messa al bando ({CARD})",
+            "ja": "除外効果（{CARD}）",
+            "kr": "제외 효과 ({CARD})",
+        },
+        "除外效果（No.104 假面魔蹈士 闪光V枉然）": {
             "en": "Banish effect ({CARD})",
             "fr": "Effet de bannissement ({CARD})",
             "de": "Verbannungseffekt ({CARD})",
@@ -34434,7 +34474,7 @@ def build_translation_pack(lang: str):
 
     # Regex templates (applied after normalization)
     regex_rules = [
-        (re.compile(r"^适用作为link(?P<N>[23])进行连接召唤\(\{CARD\}\)$"),
+        (re.compile(r"^适用作为(?:link|连接)(?P<N>[23])进行连接召唤\(\{CARD\}\)$"),
          lambda m: {
              "en": "Apply as a Link-{N} for a Link Summon ({CARD})",
              "fr": "Appliquer comme Link-{N} pour une Invocation Lien ({CARD})",
