@@ -19,6 +19,15 @@ Si vous avez activé ""Réincarnation d'Armement"" ce tour : vous pouvez ajouter
 Vous ne pouvez utiliser chaque effet de ""Connexion de Puissance"" qu'une fois par tour."
 100200294,Connexion de Puissance,str1,Activer
 100200294,Connexion de Puissance,str2,Recycler
+100200296,Duel Destiné,name,Duel Destiné
+100200296,Duel Destiné,desc,"Lorsque cette carte est activée : chaque joueur peut Invoquer Spécialement 1 monstre depuis sa main en Position d'Attaque, puis s'il y a d'autres monstres face recto sur le Terrain, changez-les tous en Position de Défense face verso.
+Le reste de ce tour après la résolution de cette carte, vous ne pouvez Invoquer ni Normalement ni Spécialement.
+Une fois par tour, lorsque votre monstre déclare une attaque : vous pouvez annuler l'attaque, et si vous le faites, détruisez 1 carte face verso contrôlée par votre adversaire.
+Une fois par tour, durant la End Phase de votre adversaire : renvoyez cette carte à la main."
+100200296,Duel Destiné,str1,Activer
+100200296,Duel Destiné,str2,Détruire
+100200296,Duel Destiné,str3,Renvoyer à la main
+100200296,Duel Destiné,str4,Invocation Spéciale?
 100266001,Anciens Secrets,name,Anciens Secrets
 100266001,Anciens Secrets,desc,"Invoquez Spécialement 1 Monstre Normal depuis votre main, Deck ou Cimetière en Position de Défense (si vous Invoquez Spécialement depuis le Deck, il doit être de max. Niveau 4), ou si vous contrôlez une Carte Monstre Normal, vous pouvez appliquer 1 de ces effets à la place.
 ● Détruisez tous les monstres contrôlés par votre adversaire.
@@ -167,6 +176,13 @@ Si la somme des ATK de toutes les Cartes Monstre Normal que vous contrôlez est 
 Vous ne pouvez utiliser chaque effet de ""Chute de Foudre Sennet"" qu'une fois par tour."
 100267011,Chute de Foudre Sennet,str1,Annuler l'activation et détruire
 100267011,Chute de Foudre Sennet,str2,Poser
+100268004,"Dragon Ultime aux Yeux Bleus, le Serviteur qui Surpasse Dieu",name,"Dragon Ultime aux Yeux Bleus, le Serviteur qui Surpasse Dieu"
+100268004,"Dragon Ultime aux Yeux Bleus, le Serviteur qui Surpasse Dieu",desc,"""Dragon Blanc aux Yeux Bleus"" + ""Dragon Blanc aux Yeux Bleus"" + ""Dragon Blanc aux Yeux Bleus""
+Non destructible par des effets de carte, et aussi, non affectée par les effets activés de votre adversaire durant le tour de votre adversaire.
+Peut faire max. 3 attaques durant chaque Battle Phase.
+Une fois par Chaîne, durant la Battle Phase (Effet Rapide) : vous pouvez cibler 1 monstre qui a été Invoqué Spécialement ce tour, ou 1 carte face verso, qui est contrôlé par votre adversaire ; détruisez-le.
+Vous ne pouvez utiliser cet effet de ""Dragon Ultime aux Yeux Bleus, le Serviteur qui Surpasse Dieu"" que trois fois par tour."
+100268004,"Dragon Ultime aux Yeux Bleus, le Serviteur qui Surpasse Dieu",str2,Effet de destruction
 100268201,Paladin des Ténèbres - Ondulatoire,name,Paladin des Ténèbres - Ondulatoire
 100268201,Paladin des Ténèbres - Ondulatoire,desc,"""Magicien Sombre"" + 1 monstre de min. Niveau 7
 Uniquement Invocable par Fusion.

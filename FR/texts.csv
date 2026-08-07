@@ -9,6 +9,10 @@ Vous ne pouvez utiliser cet effet de ""Lion d'Assaut"" qu'une fois par tour.",In
 100200294,Connexion de Puissance,"Ciblez un nombre de votre choix de monstres face recto que vous contrôlez (si vous ciblez min. 2 monstres, ils doivent avoir le même Type) ; ils gagnent 500 ATK pour chaque monstre ciblé, jusqu'à la fin de ce tour.
 Si vous avez activé ""Réincarnation d'Armement"" ce tour : vous pouvez ajouter cette carte depuis votre Cimetière à votre main.
 Vous ne pouvez utiliser chaque effet de ""Connexion de Puissance"" qu'une fois par tour.",Activer,Recycler,,,,,,,,,,,,,,
+100200296,Duel Destiné,"Lorsque cette carte est activée : chaque joueur peut Invoquer Spécialement 1 monstre depuis sa main en Position d'Attaque, puis s'il y a d'autres monstres face recto sur le Terrain, changez-les tous en Position de Défense face verso.
+Le reste de ce tour après la résolution de cette carte, vous ne pouvez Invoquer ni Normalement ni Spécialement.
+Une fois par tour, lorsque votre monstre déclare une attaque : vous pouvez annuler l'attaque, et si vous le faites, détruisez 1 carte face verso contrôlée par votre adversaire.
+Une fois par tour, durant la End Phase de votre adversaire : renvoyez cette carte à la main.",Activer,Détruire,Renvoyer à la main,Invocation Spéciale?,,,,,,,,,,,,
 100266001,Anciens Secrets,"Invoquez Spécialement 1 Monstre Normal depuis votre main, Deck ou Cimetière en Position de Défense (si vous Invoquez Spécialement depuis le Deck, il doit être de max. Niveau 4), ou si vous contrôlez une Carte Monstre Normal, vous pouvez appliquer 1 de ces effets à la place.
 ● Détruisez tous les monstres contrôlés par votre adversaire.
 ● Détruisez toutes les Magies/Pièges contrôlés par votre adversaire.
@@ -85,6 +89,11 @@ Vous ne pouvez utiliser chaque effet de ""Cataracte Sennet"" qu'une fois par tou
 100267011,Chute de Foudre Sennet,"Lorsque votre adversaire active une Carte Magie/Piège tant que vous contrôlez un Monstre Rituel ""Sennet"" ou un Monstre Normal : annulez l'activation, et si vous le faites, détruisez la carte.
 Si la somme des ATK de toutes les Cartes Monstre Normal que vous contrôlez est supérieure à 3000 : vous pouvez bannir cette carte depuis votre Cimetière ; Posez 1 Magie/Piège ""Sennet"" (""Chute de Foudre Sennet"" exclu) depuis votre Deck ou Cimetière.
 Vous ne pouvez utiliser chaque effet de ""Chute de Foudre Sennet"" qu'une fois par tour.",Annuler l'activation et détruire,Poser,,,,,,,,,,,,,,
+100268004,"Dragon Ultime aux Yeux Bleus, le Serviteur qui Surpasse Dieu","""Dragon Blanc aux Yeux Bleus"" + ""Dragon Blanc aux Yeux Bleus"" + ""Dragon Blanc aux Yeux Bleus""
+Non destructible par des effets de carte, et aussi, non affectée par les effets activés de votre adversaire durant le tour de votre adversaire.
+Peut faire max. 3 attaques durant chaque Battle Phase.
+Une fois par Chaîne, durant la Battle Phase (Effet Rapide) : vous pouvez cibler 1 monstre qui a été Invoqué Spécialement ce tour, ou 1 carte face verso, qui est contrôlé par votre adversaire ; détruisez-le.
+Vous ne pouvez utiliser cet effet de ""Dragon Ultime aux Yeux Bleus, le Serviteur qui Surpasse Dieu"" que trois fois par tour.",,Effet de destruction,,,,,,,,,,,,,,
 100268201,Paladin des Ténèbres - Ondulatoire,"""Magicien Sombre"" + 1 monstre de min. Niveau 7
 Uniquement Invocable par Fusion.
 Gagne 500 ATK pour tous les autres monstres sur le Terrain.
