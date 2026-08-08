@@ -11,7 +11,7 @@ CREATE TABLE datas(
     "race" INTEGER,
     "attribute" INTEGER,
     "category" INTEGER
-);
+) STRICT;
 
 -- table: texts
 CREATE TABLE texts(
@@ -33,6 +33,7 @@ CREATE TABLE texts(
     "str13" TEXT,
     "str14" TEXT,
     "str15" TEXT,
-    "str16" TEXT
-);
+    "str16" TEXT,
+    FOREIGN KEY("id") REFERENCES datas("id") DEFERRABLE INITIALLY DEFERRED
+) STRICT;
 
