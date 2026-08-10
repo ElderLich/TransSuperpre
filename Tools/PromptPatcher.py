@@ -855,6 +855,26 @@ def build_translation_pack(lang: str):
 
     # Extra phrases (keep phrase-level; avoid single-word glue)
     extras = {
+        "是否让怪兽回到卡组？": {
+            "en": "Return the monster to the Deck?",
+            "fr": "Renvoyer le monstre au Deck ?",
+            "de": "Das Monster ins Deck zurücklegen?",
+            "es": "¿Devolver el monstruo al Deck?",
+            "pt": "Retornar o monstro para o Deck?",
+            "it": "Rimettere il mostro nel Deck?",
+            "ja": "モンスターをデッキに戻しますか？",
+            "kr": "몬스터를 덱으로 되돌리시겠습니까?",
+        },
+        "是否除外墓地的卡来发动？": {
+            "en": "Banish cards from the GY to activate?",
+            "fr": "Bannir des cartes du Cimetière pour activer ?",
+            "de": "Karten vom Friedhof verbannen, um zu aktivieren?",
+            "es": "¿Desterrar cartas del Cementerio para activar?",
+            "pt": "Banir cards do Cemitério para ativar?",
+            "it": "Bandire carte dal Cimitero per attivare?",
+            "ja": "墓地のカードを除外して発動しますか？",
+            "kr": "묘지의 카드를 제외하고 발동하시겠습니까?",
+        },
         "自身的效果特殊召唤": {
             "en": "Special Summon this card by its own effect",
             "fr": "Invoquer Spécialement cette carte par son propre effet",
