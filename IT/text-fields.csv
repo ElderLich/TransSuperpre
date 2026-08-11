@@ -93,7 +93,6 @@ Se questa carta sta per essere distrutta, puoi invece staccare 1 materiale da qu
 100266006,Numero 101: ARCA Onore Silente - Rifugio dell'Anima,str3,Come Materiale Xyz
 100266007,Cielo Supremo,name,Cielo Supremo
 100266007,Cielo Supremo,desc,"Se il tuo avversario controlla più mostri di te: attiva 1 di questi effetti (ma puoi utilizzare ogni effetto di ""Cielo Supremo"" una sola volta per turno);
-
 ● Scegli come bersaglio carte scoperte sul Terreno, fino al numero di mostri scoperti controllati dal tuo avversario, e paga 800 LP per ogni bersaglio; annulla i loro effetti fino alla fine di questo turno.
 ● Quando il tuo avversario attiva l'effetto di un mostro nella mano o nel Cimitero: annulla quell'effetto."
 100266007,Cielo Supremo,str1,Attiva
@@ -179,6 +178,95 @@ Se l'ATK totale di tutte le Carte Mostro Normale che controlli è superiore a 30
 Puoi utilizzare ogni effetto di ""Caduta del Tuono Sennet"" una sola volta per turno."
 100267011,Caduta del Tuono Sennet,str1,Annulla l'attivazione e distruggi
 100267011,Caduta del Tuono Sennet,str2,Posiziona
+100267016,Rilancio Lunare Velo Cielo,name,Rilancio Lunare Velo Cielo
+100267016,Rilancio Lunare Velo Cielo,desc,"Quando peschi questa carta: puoi rivelarla; Evoca Specialmente questa carta.
+Se questa carta è nella tua mano: puoi mettere 1 altra carta dalla tua mano o scoperta che controlli in fondo al Deck; Evoca Specialmente questa carta.
+Durante la Main Phase (Effetto Rapido): puoi pescare 1 carta. Non puoi aggiungere carte dal Deck alla mano durante il turno in cui attivi questo effetto, eccetto pescandole. Puoi utilizzare questo effetto di ""Rilancio Lunare Velo Cielo"" una sola volta per turno."
+100267016,Rilancio Lunare Velo Cielo,str1,Evocazione Speciale
+100267016,Rilancio Lunare Velo Cielo,str2,Rimettere nel Deck ed Evocare Specialmente
+100267016,Rilancio Lunare Velo Cielo,str3,Pescare
+100267017,Rilancio Lunare Eleganza Carol,name,Rilancio Lunare Eleganza Carol
+100267017,Rilancio Lunare Eleganza Carol,desc,"Quando peschi questa carta: puoi rivelarla; Evoca Specialmente questa carta.
+Puoi Evocare Normalmente questa carta senza offrire Tributi, ma il suo ATK originale diventa 700.
+Se questa carta viene Evocata Normalmente o Specialmente dalla mano: puoi pescare 1 carta, inoltre non puoi Evocare Specialmente dall'Extra Deck per il resto di questo turno, eccetto Mostri Xyz LUCE.
+Non puoi aggiungere carte dal Deck alla mano durante il turno in cui attivi questo effetto, eccetto pescandole."
+100267017,Rilancio Lunare Eleganza Carol,str1,Evocazione Speciale
+100267017,Rilancio Lunare Eleganza Carol,str2,Evocare Normalmente senza Tributi
+100267017,Rilancio Lunare Eleganza Carol,str3,Pescare
+100267018,Rilancio Lunare Ali Rapi,name,Rilancio Lunare Ali Rapi
+100267018,Rilancio Lunare Ali Rapi,desc,"Quando peschi questa carta: puoi rivelarla; Evoca Specialmente questa carta.
+Se questa carta viene Evocata Normalmente o Specialmente dalla mano: puoi pescare 1 carta, inoltre non puoi Evocare Specialmente dall'Extra Deck per il resto di questo turno, eccetto Mostri Xyz LUCE. Non puoi aggiungere carte dal Deck alla mano durante il turno in cui attivi questo effetto, eccetto pescandole.
+Una volta per turno dell'avversario, puoi (Effetto Rapido): subito dopo che questo effetto si è risolto, Evoca Xyz 1 mostro LUCE di Rango 7."
+100267018,Rilancio Lunare Ali Rapi,str1,Evocazione Speciale
+100267018,Rilancio Lunare Ali Rapi,str2,Pescare
+100267018,Rilancio Lunare Ali Rapi,str3,Evocazione Xyz
+100267019,Rilancio Lunare Lama Shayna,name,Rilancio Lunare Lama Shayna
+100267019,Rilancio Lunare Lama Shayna,desc,"Quando peschi questa carta: puoi rivelarla; Evoca Specialmente questa carta.
+Se viene Evocata in questo modo: puoi scegliere come bersaglio 1 mostro controllato dal tuo avversario; mettilo in fondo al Deck.
+Puoi scartare questa carta; pesca 1 carta. Non puoi aggiungere carte dal Deck alla mano durante il turno in cui attivi questo effetto, eccetto pescandole. Puoi utilizzare questo effetto di ""Rilancio Lunare Lama Shayna"" una sola volta per turno."
+100267019,Rilancio Lunare Lama Shayna,str1,Evocazione Speciale
+100267019,Rilancio Lunare Lama Shayna,str2,Rimettere nel Deck
+100267019,Rilancio Lunare Lama Shayna,str3,Pescare
+100267020,Rilancio Lunare Lampada Croucier,name,Rilancio Lunare Lampada Croucier
+100267020,Rilancio Lunare Lampada Croucier,desc,"Quando peschi questa carta: puoi rivelarla; Evoca Specialmente questa carta.
+Se viene Evocata in questo modo: puoi scegliere come bersaglio 1 Magia/Trappola controllata dal tuo avversario; mettila in fondo al Deck.
+Puoi scartare questa carta; pesca 1 carta. Non puoi aggiungere carte dal Deck alla mano durante il turno in cui attivi questo effetto, eccetto pescandole. Puoi utilizzare questo effetto di ""Rilancio Lunare Lampada Croucier"" una sola volta per turno."
+100267020,Rilancio Lunare Lampada Croucier,str1,Evocazione Speciale
+100267020,Rilancio Lunare Lampada Croucier,str2,Rimettere nel Deck
+100267020,Rilancio Lunare Lampada Croucier,str3,Pescare
+100267021,Rilancio Lunare Iniziatore Squeeze,name,Rilancio Lunare Iniziatore Squeeze
+100267021,Rilancio Lunare Iniziatore Squeeze,desc,"(Effetto Rapido): puoi scartare questa carta, poi attivare 1 dei seguenti effetti (ma puoi utilizzare ciascuno dei seguenti effetti di ""Rilancio Lunare Iniziatore Squeeze"" una sola volta per turno).
+
+● Non puoi Evocare Specialmente dall'Extra Deck fino alla fine del prossimo turno, eccetto Mostri Xyz di Rango 7, inoltre, durante questo turno, ogni volta che una o più carte vengono aggiunte alla mano del tuo avversario, eccetto pescandole, pesca immediatamente 1 carta.
+
+● Pesca 1 carta.
+
+Non puoi aggiungere carte dal Deck alla mano durante il Duello in cui attivi questo effetto, eccetto pescandole."
+100267021,Rilancio Lunare Iniziatore Squeeze,str2,Pesca continua
+100267021,Rilancio Lunare Iniziatore Squeeze,str3,Pesca 1 carta(e)
+100267021,Rilancio Lunare Iniziatore Squeeze,str4,"Mentre si applica l'effetto di {CARD}, non puoi cercare nel tuo Deck."
+100267021,Rilancio Lunare Iniziatore Squeeze,str5,"Mentre si applica l'effetto di {CARD}, non puoi Evocare Specialmente."
+100267022,Rilancio Lunare Cielo Celeste - Niente Più Puntate,name,Rilancio Lunare Cielo Celeste - Niente Più Puntate
+100267022,Rilancio Lunare Cielo Celeste - Niente Più Puntate,desc,"2 mostri ""Rilancio Lunare"" di Livello 7
+Non può essere utilizzato come materiale per un'Evocazione tramite Fusione, Xyz o Link.
+Se questa carta sotto il tuo comando viene mandata al Cimitero dall'effetto di una carta del tuo avversario: puoi pescare 1 carta.
+Applica i seguenti effetti mentre questa carta è nella Zona Mostri Extra.
+
+● Immune agli effetti delle altre carte.
+
+● Quando si risolve una carta o un effetto attivato dal tuo avversario che include un effetto che aggiunge una o più carte dal Deck alla mano, puoi far diventare quell'effetto ""Pesca 1 carta"".
+
+● Una volta per turno (Effetto Rapido): puoi staccare 1 materiale da questa carta; pesca 1 carta."
+100267022,Rilancio Lunare Cielo Celeste - Niente Più Puntate,str2,Cambiare l'effetto?
+100267022,Rilancio Lunare Cielo Celeste - Niente Più Puntate,str3,Pescare
+100267022,Rilancio Lunare Cielo Celeste - Niente Più Puntate,str4,Pescare
+100267023,Rilancio Lunare Speranza Squeeze - Jackpot,name,Rilancio Lunare Speranza Squeeze - Jackpot
+100267023,Rilancio Lunare Speranza Squeeze - Jackpot,desc,"2+ mostri di Livello 7
+
+I mostri del tuo avversario non possono scegliere come bersaglio i mostri per gli attacchi, eccetto questa carta.
+Se questa carta viene Evocata Xyz, o se uno o più mostri vengono Evocati Specialmente dalla mano: puoi staccare un qualsiasi numero di materiali da questa carta; metti un numero di carte controllate dal tuo avversario pari a quello staccato in fondo al Deck, in qualsiasi ordine. Puoi utilizzare questo effetto di ""Rilancio Lunare Speranza Squeeze - Jackpot"" una sola volta per turno.
+Ogni volta che una o più carte lasciano il Deck del tuo avversario, eccetto pescandole: puoi attaccare la prima carta del suo Deck a questa carta."
+100267023,Rilancio Lunare Speranza Squeeze - Jackpot,str2,Rimettere nel Deck
+100267023,Rilancio Lunare Speranza Squeeze - Jackpot,str3,Attaccare Materiale Xyz
+100267025,Rilancio Lunare - La Città che Non Dorme Mai,name,Rilancio Lunare - La Città che Non Dorme Mai
+100267025,Rilancio Lunare - La Città che Non Dorme Mai,desc,"La prima volta ogni turno che un mostro ""Rilancio Lunare"" di Livello 7 che controlli sta per essere distrutto dall'effetto di una carta, non viene distrutto.
+Una volta per turno, durante la End Phase: Mischia nel Deck tutte le carte ""Rilancio Lunare"" nel tuo Cimitero e bandite.
+Una volta per turno: puoi attivare 1 dei seguenti effetti.
+● Metti 1 carta dalla tua mano in cima o in fondo al Deck, poi pesca 1 carta.
+● Se controlli un Mostro Xyz ""Rilancio Lunare"" Incantatore: puoi pescare 1 carta."
+100267025,Rilancio Lunare - La Città che Non Dorme Mai,str1,Attiva
+100267025,Rilancio Lunare - La Città che Non Dorme Mai,str2,Rimettere nel Deck e pescare 1 carta
+100267025,Rilancio Lunare - La Città che Non Dorme Mai,str3,Pescare
+100267025,Rilancio Lunare - La Città che Non Dorme Mai,str4,Rimettere nel Deck
+100267025,Rilancio Lunare - La Città che Non Dorme Mai,str5,In cima al Deck
+100267025,Rilancio Lunare - La Città che Non Dorme Mai,str6,In fondo al Deck
+100267026,Lo Scintillio del Rilancio Lunare,name,Lo Scintillio del Rilancio Lunare
+100267026,Lo Scintillio del Rilancio Lunare,desc,"Evoca Specialmente 1 Mostro Xyz ""Rilancio Lunare"" dal tuo Extra Deck e, se lo fai, attacca questa carta ad esso, poi puoi mischiare nel Deck tutte le carte ""Rilancio Lunare"" nel tuo Cimitero.
+Puoi bandire questa carta dal tuo Cimitero; pesca 1 carta. Puoi utilizzare questo effetto de ""Lo Scintillio del Rilancio Lunare"" una sola volta per turno.
+Non puoi aggiungere carte dal Deck alla mano durante il Duello in cui attivi uno degli effetti di questa carta, eccetto pescandole."
+100267026,Lo Scintillio del Rilancio Lunare,str1,Evocazione Speciale
+100267026,Lo Scintillio del Rilancio Lunare,str2,Pescare
+100267026,Lo Scintillio del Rilancio Lunare,str3,Rimettere la carta nel Deck?
 100267031,Xenoinvasore del Vuoto Gehenna,name,Xenoinvasore del Vuoto Gehenna
 100267031,Xenoinvasore del Vuoto Gehenna,desc,"Se questa carta viene Evocata Normalmente o Specialmente: bandisci coperta la prima carta del tuo Deck.
 Puoi utilizzare ciascuno dei seguenti effetti di ""Xenoinvasore del Vuoto Gehenna"" una sola volta per turno.
@@ -254,8 +342,6 @@ Una volta per battaglia, durante il calcolo dei danni, se un tuo mostro ""Xenoin
 100267041,Giudizio Xenoinvasore,str2,L'ATK diventa 0
 100268004,"Drago Occhi Blu Finale, il Servo che Trascende gli Dei",name,"Drago Occhi Blu Finale, il Servo che Trascende gli Dei"
 100268004,"Drago Occhi Blu Finale, il Servo che Trascende gli Dei",desc,"""Drago Bianco Occhi Blu"" + ""Drago Bianco Occhi Blu"" + ""Drago Bianco Occhi Blu""
-
-
 Non può essere distrutto dagli effetti delle carte, inoltre è immune agli effetti attivati del tuo avversario durante il turno del tuo avversario.
 Può effettuare fino a 3 attacchi durante ogni Battle Phase.
 Una volta per Catena, durante la Battle Phase (Effetto Rapido): puoi scegliere come bersaglio 1 mostro che è stato Evocato Specialmente in questo turno, oppure 1 carta coperta controllata dal tuo avversario; distruggila.
@@ -263,8 +349,6 @@ Puoi utilizzare questo effetto di ""Drago Occhi Blu Finale, il Servo che Trascen
 100268004,"Drago Occhi Blu Finale, il Servo che Trascende gli Dei",str2,Effetto di distruzione
 100268201,Paladino Oscuro - Onde Soniche,name,Paladino Oscuro - Onde Soniche
 100268201,Paladino Oscuro - Onde Soniche,desc,"""Mago Nero"" + 1 mostro di Livello 7 o superiore
-
-
 Deve essere Evocato tramite Fusione.
 Guadagna 500 ATK per ogni altro mostro sul Terreno.
 Può attaccare tutti i mostri controllati dal tuo avversario, una volta ciascuno.
