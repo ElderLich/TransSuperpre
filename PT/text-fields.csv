@@ -171,6 +171,86 @@ Se o ATK total de todos os Monstros Normais que você controla é maior de 3000:
 Você só pode usar cada um dos efeitos de ""Trovão Sennet"" uma vez por turno."
 100267011,Trovão Sennet,str1,Negar a ativação e destruir
 100267011,Trovão Sennet,str2,Baixar
+100267016,Raise Moon Veil Cielo,name,Raise Moon Veil Cielo
+100267016,Raise Moon Veil Cielo,desc,"Quando você compra este card: você pode revela-lo; Invoque-o por Invocação-Especial.
+Se este card está na sua mão: você pode colocar 1 outro card da sua mão ou no campo com a face para cima no fundo do Deck; Invoque este card por Invocação-Especial.
+Durante a Fase Principal (Efeito Rápido): você pode comprar 1 card. Você não pode adicionar cards do Deck à mão no turno que você ativa este efeito, exceto por compra-los. Você só pode usar este efeito de ""Raise Moon Veil Cielo"" uma vez por turno."
+100267016,Raise Moon Veil Cielo,str1,Invocação Especial
+100267016,Raise Moon Veil Cielo,str2,Retornar ao Deck e Invocar por Invocação Especial
+100267016,Raise Moon Veil Cielo,str3,Comprar
+100267017,Raise Moon Elegance Carol,name,Raise Moon Elegance Carol
+100267017,Raise Moon Elegance Carol,desc,"Quando você compra este card: você pode revela-lo; Invoque-o por Invocação-Especial.
+Você pode Invocar por Invocação-Normal este card sem oferecer Tributo, mas seu ATK original se torna 700.
+Se este card é Invocado por Invocação-Normal ou Especial da sua mão: você pode comprar 1 card, você também não pode Invocar por Invocação-Especial do Deck Adicional pelo resto deste turno, exceto Monstros Xyz de LUZ. Você não pode adicionar cards do Deck à mão no turno que você ativa este efeito, exceto por compra-lo."
+100267017,Raise Moon Elegance Carol,str1,Invocação Especial
+100267017,Raise Moon Elegance Carol,str2,Invocação Normal sem Tributo
+100267017,Raise Moon Elegance Carol,str3,Comprar
+100267018,Raise Moon Wings Rapi,name,Raise Moon Wings Rapi
+100267018,Raise Moon Wings Rapi,desc,"Quando você compra este card: você pode revela-lo; Invoque-o por Invocação-Especial.
+Se este card é Invocado por Invocação-Normal ou Especial da mão: você pode comprar 1 card, você também não pode Invocar por Invocação-Especial do Deck Adicional pelo resto deste turno, exceto Monstros Xyz de LUZ. Você não pode adicionar cards do Deck à mão no turno que você ativar este efeito, exceto por compra-los.
+Uma vez por turno do oponente, você pode (Efeito Rápido): imediatamente após ativar este efeito, Invoque por Invocação-Xyz 1 monstro Classe 7 de LUZ."
+100267018,Raise Moon Wings Rapi,str1,Invocação Especial
+100267018,Raise Moon Wings Rapi,str2,Comprar
+100267018,Raise Moon Wings Rapi,str3,Invocação Xyz
+100267019,Raise Moon Blade Shayna,name,Raise Moon Blade Shayna
+100267019,Raise Moon Blade Shayna,desc,"Quando você compra este card: você pode revela-lo; Invoque-o por Invocação-Especial.
+Se foi Invocado dessa forma: você pode escolher 1 monstro que seu oponente controla; coloque-o no fundo do Deck.
+Você pode descartar este card; compre 1 card. Você não pode adicionar cards do Deck à mão no turno que você ativa este efeito, exceto por compra-lo. Você só pode usar este efeito de ""Raise Moon Blade Shayna"" uma vez por turno."
+100267019,Raise Moon Blade Shayna,str1,Invocação Especial
+100267019,Raise Moon Blade Shayna,str2,Retornar ao Deck
+100267019,Raise Moon Blade Shayna,str3,Comprar
+100267020,Raise Moon Lamp Croucier,name,Raise Moon Lamp Croucier
+100267020,Raise Moon Lamp Croucier,desc,"Quando você compra este card: você pode revela-lo; Invoque-o por Invocação-Especial.
+Se Invocado dessa forma: você pode escolher 1 Magia/Armadilha que seu oponente controla; coloque-o no fundo do Deck.
+Você pode descartar este card; compre 1 card. Você não pode adicionar cards do Deck à mão no turno que você ativa este efeito, exceto por compra-lo. Você só pode usar este efeito de ""Raise Moon Lamp Croucier"" uma vez por turno."
+100267020,Raise Moon Lamp Croucier,str1,Invocação Especial
+100267020,Raise Moon Lamp Croucier,str2,Retornar ao Deck
+100267020,Raise Moon Lamp Croucier,str3,Comprar
+100267021,Raise Moon Starter Squeeze,name,Raise Moon Starter Squeeze
+100267021,Raise Moon Starter Squeeze,desc,"(Efeito Rápido): você pode descartar este card, então ative 1 desses efeitos (mas você só pode usar cada um desses efeitos de ""Raise Moon Starter Squeeze"" uma vez por turno);
+● Você não pode Invocar por Invocação-Especial do Deck Adicional até o final do próximo turno, exceto Monstros Xyz de Classe 7, também neste turno, cada vez que um ou mais cards é adicionado a mão do seu oponente, exceto por compra-lo, imediatamente compre 1 card.
+● Compre 1 card.
+Você não pode adicionar cards do Deck à mão durante o Duelo que você ativa este efeito, exceto por compra-los."
+100267021,Raise Moon Starter Squeeze,str2,Compra contínua
+100267021,Raise Moon Starter Squeeze,str3,Compre 1 card(s)
+100267021,Raise Moon Starter Squeeze,str4,"Enquanto o efeito de {CARD} estiver sendo aplicado, você não pode procurar no seu Deck."
+100267021,Raise Moon Starter Squeeze,str5,"Enquanto o efeito de {CARD} estiver sendo aplicado, você não pode Invocar por Invocação-Especial."
+100267022,Raise Moon Sky Cielo - No More Bets,name,Raise Moon Sky Cielo - No More Bets
+100267022,Raise Moon Sky Cielo - No More Bets,desc,"2 monstros ""Raise Moon"" de Classe 7
+Não pode ser usado como matéria para Invocação-Fusão, Xyz ou Link.
+Se este card na sua posse é enviado para o Cemitério por um efeito do oponente: você pode comprar 1 card.
+Ganha estes efeitos enquanto está na Zona de Monstro Adicional.
+● Não é afetado por outros efeitos.
+● Quando um card ou efeito ativado pelo seu oponente resolve que inclui um efeito que adiciona um ou mais cards do Deck à mão, você pode alterar aquele efeito para ""Compre 1 card"".
+● Uma vez por turno (Efeito Rápido): você pode desassociar 1 matéria deste card; compre 1 card."
+100267022,Raise Moon Sky Cielo - No More Bets,str2,Alterar o efeito?
+100267022,Raise Moon Sky Cielo - No More Bets,str3,Comprar
+100267022,Raise Moon Sky Cielo - No More Bets,str4,Comprar
+100267023,Raise Moon Hope Squeeze - Jackpot,name,Raise Moon Hope Squeeze - Jackpot
+100267023,Raise Moon Hope Squeeze - Jackpot,desc,"2+ monstros de Nível 7
+Os monstros do seu oponente não pode escolher monstros para atacar, exceto este.
+Se este card é Invocado por Invocação-Xyz, ou um ou mais monstros é Invocado por Invocação-Especial da mão: você pode desassociar qualquer número de matérias deste card; coloque aquela quantidade de cards que seu oponente controla no fundo do Deck em qualquer ordem. Você só pode usar este efeito de ""Raise Moon Hope Squeeze - Jackpot"" uma vez por turno.
+Toda vez que seu oponente faz um ou mais cards dele sair do Deck, exceto por compra-los: você pode associar o card do topo do Deck dele neste card."
+100267023,Raise Moon Hope Squeeze - Jackpot,str2,Retornar ao Deck
+100267023,Raise Moon Hope Squeeze - Jackpot,str3,Associar Matéria Xyz
+100267025,"""Raise Moon"", a Cidade que Nunca Dorme",name,"""Raise Moon"", a Cidade que Nunca Dorme"
+100267025,"""Raise Moon"", a Cidade que Nunca Dorme",desc,"A primeira vez que cada monstro ""Raise Moon"" de Nível 7 que você controla seria destruído por efeito cada turno, ele não é destruído.
+Uma vez por turno, durante a Fase Final: embaralhe todos os cards ""Raise Moon"" do seu Cemitério e banimento no Deck.
+Uma vez por turno: você pode ativar 1 desses efeitos;
+● Coloque 1 card da sua mão no topo ou fundo do Deck, então compre 1 card.
+● Se você controla um Monstro Xyz ""Raise Moon"" Mago: você pode comprar 1 card."
+100267025,"""Raise Moon"", a Cidade que Nunca Dorme",str1,Ativar
+100267025,"""Raise Moon"", a Cidade que Nunca Dorme",str2,Retornar ao Deck e comprar 1 card
+100267025,"""Raise Moon"", a Cidade que Nunca Dorme",str3,Comprar
+100267025,"""Raise Moon"", a Cidade que Nunca Dorme",str4,Retornar ao Deck
+100267025,"""Raise Moon"", a Cidade que Nunca Dorme",str5,Topo do Deck
+100267025,"""Raise Moon"", a Cidade que Nunca Dorme",str6,Fundo do Deck
+100267026,O Brilho de Raise Moon,name,O Brilho de Raise Moon
+100267026,O Brilho de Raise Moon,desc,"Invoque por Invocação-Especial 1 Monstro Xyz ""Raise Moon"" do seu Deck Adicional, e se fizer, associe-o neste card, então você pode embaralhar todos os cards ""Raise Moon"" do seu Cemitério no Deck.
+Você pode banir este card do seu Cemitério; compre 1 card. Você só pode usar este efeito de ""O Brilho de Raise Moon"" uma vez por turno. Você não pode adicionar cards do Deck à mão durante o Duelo que você ativa qualquer efeito deste card, exceto por compra-los."
+100267026,O Brilho de Raise Moon,str1,Invocação Especial
+100267026,O Brilho de Raise Moon,str2,Comprar
+100267026,O Brilho de Raise Moon,str3,Retornar o card para o Deck?
 100267031,"Gehenna, Xenovasor△ do Vazio",name,"Gehenna, Xenovasor△ do Vazio"
 100267031,"Gehenna, Xenovasor△ do Vazio",desc,"Se este card é Invocado por Invocação-Especial: bana (com a face para baixo) o card do topo do seu Deck.
 Você só pode usar cada um dos seguintes efeitos de ""Gehenna, Xenovasor△ do Vazio"" uma vez por turno.
