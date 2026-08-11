@@ -8,9 +8,10 @@ Puoi utilizzare questo effetto di ""Leone d'Assalto"" una sola volta per turno."
 100200294,Connessione Potente,"Scegli come bersaglio un qualsiasi numero di mostri scoperti che controlli (se scegli come bersaglio 2 o più mostri, devono avere lo stesso Tipo); essi guadagnano 500 ATK per ogni mostro scelto come bersaglio, fino alla fine di questo turno.
 Se hai attivato ""Reincarnazione dell'Armamento"" in questo turno: Puoi aggiungere questa carta dal tuo Cimitero alla tua mano.
 Puoi utilizzare ciascun effetto di ""Connessione Potente"" una sola volta per turno.",Attiva,Recuperare,,,,,,,,,,,,,,
-100200296,宿命的决斗,"①：作为这张卡发动时的效果处理，双方各自可以从自身手卡把1只怪兽以攻击表示特殊召唤。那之后，这个效果特殊召唤的怪兽以外的表侧表示怪兽在场上存在的场合，那些全部变成里侧守备表示。这张卡的发动后，直到回合结束时自己不能把怪兽召唤·特殊召唤。
-②：1回合1次，自己怪兽的攻击宣言时才能发动。那次攻击无效，对方场上1张里侧表示卡破坏。
-③：对方结束阶段发动。这张卡回到手卡。",Attiva,Distruggere,Rimettere in mano,Evocazione Speciale?,,,,,,,,,,,,
+100200296,Duello Destinato,"Quando questa carta viene attivata: ogni giocatore può Evocare Specialmente 1 mostro dalla propria mano in Posizione di Attacco, poi, se ci sono altri mostri scoperti sul Terreno, mettili tutti coperti in Posizione di Difesa.
+Per il resto di questo turno dopo che questa carta si è risolta, non puoi Evocare Normalmente o Specialmente.
+Una volta per turno, quando un tuo mostro dichiara un attacco: puoi annullare l'attacco e, se lo fai, distruggi 1 carta coperta controllata dal tuo avversario.
+Una volta per turno, durante l'End Phase del tuo avversario: puoi aggiungere questa carta alla mano.",Attiva,Distruggere,Rimettere in mano,Evocazione Speciale?,,,,,,,,,,,,
 100266001,Segreti Antichi,"Evoca Specialmente 1 Mostro Normale dalla tua mano, Deck o Cimitero in Posizione di Difesa (se lo Evochi Specialmente dal Deck, deve essere di Livello 4 o inferiore), oppure, se controlli una Carta Mostro Normale, puoi invece applicare 1 di questi effetti.
 ● Distruggi tutti i mostri controllati dal tuo avversario.
 ● Distruggi tutte le Magie/Trappole controllate dal tuo avversario.
@@ -91,11 +92,48 @@ Puoi utilizzare ogni effetto di ""Cataratta Sennet"" una sola volta per turno.",
 100267011,Caduta del Tuono Sennet,"Quando il tuo avversario attiva una Carta Magia/Trappola mentre controlli un Mostro Normale o un Mostro Rituale ""Sennet"": annulla l'attivazione e, se lo fai, distruggi quella carta.
 Se l'ATK totale di tutte le Carte Mostro Normale che controlli è superiore a 3000: puoi bandire questa carta dal tuo Cimitero; Posiziona 1 Magia/Trappola ""Sennet"" dal tuo Deck o Cimitero, eccetto ""Caduta del Tuono Sennet"".
 Puoi utilizzare ogni effetto di ""Caduta del Tuono Sennet"" una sola volta per turno.",Annulla l'attivazione e distruggi,Posiziona,,,,,,,,,,,,,,
-100268004,超越神明的仆人-青眼究极龙,"「青眼白龙」＋「青眼白龙」＋「青眼白龙」
-这个卡名的③的效果1回合可以使用最多3次。
-①：这张卡只要在怪兽区域存在，不会被效果破坏，在对方回合期间不受对方发动的效果影响。
-②：这张卡在同1次的战斗阶段中可以作3次攻击。
-③：自己·对方的战斗阶段，以对方场上的，这个回合特殊召唤的1只怪兽或者1张里侧表示卡为对象才能发动（同一连锁上最多1次）。那张卡破坏。",,Effetto di distruzione,,,,,,,,,,,,,,
+100267031,Xenoinvasore del Vuoto Gehenna,"Se questa carta viene Evocata Normalmente o Specialmente: bandisci coperta la prima carta del tuo Deck.
+Puoi utilizzare ciascuno dei seguenti effetti di ""Xenoinvasore del Vuoto Gehenna"" una sola volta per turno.
+Se questa carta è nella tua mano e non controlli mostri: puoi Evocare Specialmente questa carta.
+Durante la tua Main Phase: puoi aggiungere alla tua mano fino a 2 dei tuoi mostri ""Xenoinvasore"" banditi coperti con nomi diversi, eccetto ""Xenoinvasore del Vuoto Gehenna"", inoltre non puoi attivare carte o effetti per il resto di questo turno, eccetto carte o effetti ""Xenoinvasore"".",Evocazione Speciale,Bandire,Recuperare,,,,,,,,,,,,,
+100267032,Xenoinvasore dello Sheol Celeste,"Se questa carta viene Evocata Normalmente o Specialmente: bandiscin coperte le prime 2 carte del tuo Deck. Puoi utilizzare ciascuno dei seguenti effetti di ""Xenoinvasore dello Sheol Celeste"" una sola volta per turno.
+Se questa carta è nella tua mano e controlli un mostro ""Xenoinvasore"": puoi Evocare Specialmente questa carta.
+Durante la tua Main Phase: puoi aggiungere alla tua mano fino a 2 Magie/Trappole ""Xenoinvasore"" bandite coperte con nomi diversi, inoltre non puoi attivare carte o effetti per il resto di questo turno, eccetto carte o effetti ""Xenoinvasore"".",Evocazione Speciale,Bandire,Recuperare,,,,,,,,,,,,,
+100267033,Xenoinvasore di Tuonela Blu,"Se questa carta viene Evocata Normalmente o Specialmente: bandisci coperte le prime 3 carte del tuo Deck.
+Puoi utilizzare ciascuno dei seguenti effetti di ""Xenoinvasore di Tuonela Blu"" una sola volta per turno.
+Se questa carta è nella tua mano e il tuo avversario controlla più mostri di te: puoi Evocare Specialmente questa carta.
+Durante la tua Main Phase: puoi Evocare Specialmente 1 dei tuoi mostri ""Xenoinvasore"" di Livello 5 o superiore banditi coperti, inoltre non puoi attivare carte o effetti per il resto di questo turno, eccetto carte o effetti ""Xenoinvasore"".",Evocazione Speciale,Bandire,Evocazione Speciale,,,,,,,,,,,,,
+100267034,Xenoinvasore del Naraka Scarlatto,"Se questa carta viene Evocata Normalmente o Specialmente: bandisci coperte le prime 4 carte del tuo Deck.
+Puoi utilizzare ciascuno dei seguenti effetti di ""Xenoinvasore del Naraka Scarlatto"" una sola volta per turno.
+Se il tuo avversario Evoca Specialmente uno o più mostri: puoi Evocare Specialmente questa carta dalla tua mano.
+Durante la Main Phase del tuo avversario (Effetto Rapido): puoi Evocare Specialmente 1 dei tuoi mostri ""Xenoinvasore"" di Livello 5 o superiore banditi coperti, inoltre non puoi attivare carte o effetti per il resto di questo turno, eccetto carte o effetti ""Xenoinvasore"".",Evocazione Speciale,Bandire,Evocazione Speciale,,,,,,,,,,,,,
+100267035,Xenoinvasore Tuono Celeste Yomi,"Puoi rivelare questa carta nella tua mano; bandiscila coperta e, se lo fai, aggiungi 1 delle tue carte ""Xenoinvasore"" bandite coperte alla tua mano, eccetto un mostro di Livello 5. Puoi utilizzare questo effetto di ""Xenoinvasore Tuono Celeste Yomi"" una sola volta per turno.
+Se questa carta viene Evocata Normalmente o Specialmente: bandisci coperte le prime 5 carte del tuo Deck.
+Una volta per turno, quando il tuo avversario attiva l'effetto di un mostro (Effetto Rapido): puoi mischiare nel Deck 1 dei tuoi mostri ""Xenoinvasore"" banditi coperti con lo stesso Attributo e, se lo fai, annulla l'attivazione.",Aggiungere alla mano,Bandire,Annullare l'attivazione,,,,,,,,,,,,,
+100267036,Xenoinvasore Cima Sepolcrale Helheim,"Durante la Main Phase (Effetto Rapido): puoi rivelare questa carta nella tua mano; bandiscila coperta e, se lo fai, puoi Evocare Specialmente 1 dei tuoi mostri ""Xenoinvasore"" banditi coperti, eccetto un mostro di Livello 6. Puoi utilizzare questo effetto di ""Xenoinvasore Cima Sepolcrale Helheim"" una sola volta per turno.
+Se questa carta viene Evocata Normalmente o Specialmente: bandisci coperte le prime 6 carte del tuo Deck.
+Le altre carte ""Xenoinvasore"" che controlli non possono essere distrutte dagli effetti delle carte del tuo avversario, inoltre il tuo avversario non può sceglierle come bersaglio con gli effetti delle carte.",Evocazione Speciale,Bandire,,,,,,,,,,,,,,
+100267037,Xenoinvasore Tempesta Furiosa Ploutonion,"(Effetto Rapido): puoi rivelare questa carta e 1 altra carta ""Xenoinvasore"" nella tua mano; bandiscile entrambe coperte e, se lo fai, pesca 2 carte. Puoi utilizzare questo effetto di ""Xenoinvasore Tempesta Furiosa Ploutonion"" una sola volta per turno.
+Se questa carta viene Evocata Normalmente o Specialmente: bandisci coperte le prime 7 carte del tuo Deck.
+Una volta per turno (Effetto Rapido): puoi mischiare nel Deck 1 dei tuoi mostri ""Xenoinvasore"" banditi coperti, poi puoi mischiare nel Deck 1 mostro controllato dal tuo avversario con lo stesso Attributo.",Pescare,Bandire,Rimettere nel Deck,Rivelata dall'effetto di {CARD},Rimettere il mostro nel Deck?,,,,,,,,,,,
+100267038,Xenoinvasore Divoratore del Vuoto Jahannam,"Se questa carta viene Evocata Normalmente o Specialmente: bandisci coperte le prime 8 carte del tuo Deck.
+Questa carta guadagna questi effetti in base al numero totale di carte bandite coperte.
+● 10+: Non può essere distrutta in battaglia.
+● 20+: Una volta per turno (Effetto Rapido): puoi scegliere come bersaglio 1 carta sul Terreno; distruggila.
+● 30+: Una volta per turno, durante la End Phase del tuo avversario: puoi aggiungere 1 delle tue carte bandite coperte alla tua mano.
+● 40+: Salta le Draw Phase di entrambi i giocatori.",Bandire,Distruggere,Recuperare,,,,,,,,,,,,,
+100267039,Territorio Xenoinvasore - Valvols,"Attiva questa carta bandendo coperte 5 carte dal tuo Cimitero e/o dalla cima del tuo Deck.
+Durante la tua Main Phase: puoi aggiungere 1 delle tue carte ""Xenoinvasore"" bandite coperte alla tua mano, eccetto ""Territorio Xenoinvasore - Valvols"". Puoi utilizzare questo effetto di ""Territorio Xenoinvasore - Valvols"" una sola volta per turno.
+Mentre controlli un mostro ""Xenoinvasore"" di Livello 5 o superiore e non hai carte nel tuo Deck, il tuo avversario non può attivare carte o effetti durante il tuo turno.",Bandire carte dal Cimitero per attivare?,,,,,,,,,,,,,,,
+100267041,Giudizio Xenoinvasore,"Se il tuo avversario Evoca Normalmente o Specialmente uno o più mostri: puoi scegliere come bersaglio 1 di essi; scegli 1 dei tuoi mostri ""Xenoinvasore"" banditi coperti con lo stesso Attributo, poi aggiungilo alla tua mano oppure Evocalo Specialmente, inoltre, per il resto di questo turno, non puoi scegliere nuovamente lo stesso Attributo con questo effetto di ""Giudizio Xenoinvasore"" e non puoi attivare carte o effetti, eccetto carte o effetti ""Xenoinvasore"".
+Una volta per battaglia, durante il calcolo dei danni, se un tuo mostro ""Xenoinvasore"" combatte con un mostro del tuo avversario e non hai carte nel tuo Deck: puoi far diventare 0 l'ATK di quel mostro dell'avversario.",Recuperare,L'ATK diventa 0,,,,,,,,,,,,,,
+100268004,"Drago Occhi Blu Finale, il Servo che Trascende gli Dei","""Drago Bianco Occhi Blu"" + ""Drago Bianco Occhi Blu"" + ""Drago Bianco Occhi Blu""
+
+
+Non può essere distrutto dagli effetti delle carte, inoltre è immune agli effetti attivati del tuo avversario durante il turno del tuo avversario.
+Può effettuare fino a 3 attacchi durante ogni Battle Phase.
+Una volta per Catena, durante la Battle Phase (Effetto Rapido): puoi scegliere come bersaglio 1 mostro che è stato Evocato Specialmente in questo turno, oppure 1 carta coperta controllata dal tuo avversario; distruggila.
+Puoi utilizzare questo effetto di ""Drago Occhi Blu Finale, il Servo che Trascende gli Dei"" solo 3 volte per turno.",,Effetto di distruzione,,,,,,,,,,,,,,
 100268201,Paladino Oscuro - Onde Soniche,"""Mago Nero"" + 1 mostro di Livello 7 o superiore
 
 
@@ -115,3 +153,7 @@ Puoi utilizzare ogni effetto di ""Tigre Scarlatta della Lucelunare"" una sola vo
 100269215,Velociroid Darumabattitore,"Se questa carta è nella tua mano: puoi mandare 1 carta ""Velociroid"" dal tuo Deck al Cimitero, eccetto ""Velociroid Darumabattitore""; Evoca Specialmente questa carta, inoltre, per il resto di questo turno, non puoi Evocare Specialmente, eccetto mostri VENTO.
 Se questa carta viene mandata dal Terreno al Cimitero: puoi aggiungere 1 Magia/Trappola ""Velociroid"" dal tuo Deck alla tua mano, poi, se controlli un mostro ""Ala Chiara"", puoi distruggere 1 mostro sul Terreno.
 Puoi utilizzare ogni effetto di ""Velociroid Darumabattitore"" una sola volta per turno.",Evocazione Speciale,Aggiungere alla mano,Distruggere quel mostro?,,,,,,,,,,,,,
+101306281,"Audhumla, Progenitrice dell'Estensione Ghiacciata","Se ci sono 4 o più carte sul Terreno: puoi Evocare Specialmente questa carta dalla tua mano.
+Puoi mandare al Cimitero fino a 2 Magie/Trappole che controlli; pesca un numero di carte pari a quelle mandate, poi puoi Evocare Specialmente 1 mostro ACQUA dalla tua mano.
+Quando il tuo avversario attiva una carta o un effetto (Effetto Rapido): puoi mettere questa carta coperta in Posizione di Difesa, inoltre, per il resto di questo turno, tutte le carte coperte che controlli non possono essere distrutte dagli effetti delle carte del tuo avversario, e il tuo avversario non può sceglierle come bersaglio con gli effetti delle carte.
+Puoi utilizzare ogni effetto di ""Audhumla, Progenitrice dell'Estensione Ghiacciata"" una sola volta per turno.",Evocazione Speciale,Pescare,Cambiare in Posizione coperta,Evocazione Speciale?,,,,,,,,,,,,
