@@ -183,7 +183,7 @@ Durant la Main Phase (Effet Rapide) : vous pouvez piocher 1 carte.
 Vous ne pouvez pas ajouter de cartes depuis le Deck à la main le tour où vous activez cet effet, sauf en les piochant.
 Vous ne pouvez utiliser cet effet de ""Cielo, Voile de Lune Relancée"" qu'une fois par tour."
 100267016,"Cielo, Voile de Lune Relancée",str1,Invocation Spéciale
-100267016,"Cielo, Voile de Lune Relancée",str2,Renvoyer au Deck et Invoquer Spécialement.
+100267016,"Cielo, Voile de Lune Relancée",str2,Renvoyer au Deck et Invoquer Spécialement
 100267016,"Cielo, Voile de Lune Relancée",str3,Piocher
 100267017,"Carol, Élégance de Lune Relancée",name,"Carol, Élégance de Lune Relancée"
 100267017,"Carol, Élégance de Lune Relancée",desc,"Lorsque vous piochez cette carte : vous pouvez la révéler ; Invoquez-la Spécialement.
@@ -224,10 +224,10 @@ Vous ne pouvez utiliser cet effet de ""Croucier, Lampe de Lune Relancée"" qu'un
 ● Vous ne pouvez pas Invoquer Spécialement depuis l'Extra Deck (Monstres Xyz de Rang 7 exclus) jusqu'à la fin du prochain tour, et aussi, ce tour, chaque fois qu'une ou plusieurs cartes sont ajoutées à la main de votre adversaire, sauf en les piochant, piochez immédiatement 1 carte.
 ● Piochez 1 carte.
 Vous ne pouvez pas ajouter de cartes depuis le Deck à la main durant le Duel où vous activez cet effet, sauf en les piochant."
-100267021,"Squeeze, Démarreur de Lune Relancée",str2,Piocher des cartes à chaque ajout.
+100267021,"Squeeze, Démarreur de Lune Relancée",str2,Pioche continue
 100267021,"Squeeze, Démarreur de Lune Relancée",str3,Piochez 1 carte(s)
-100267021,"Squeeze, Démarreur de Lune Relancée",str4,"L'effet de « Squeeze, Démarreur de Lune Relancée » s'applique actuellement ; Vous ne pouvez pas ajouter de cartes depuis le Deck à la main."
-100267021,"Squeeze, Démarreur de Lune Relancée",str5,"L'effet de « Squeeze, Démarreur de Lune Relancée » s'applique actuellement ; les Invocations Spéciales ne sont pas autorisées."
+100267021,"Squeeze, Démarreur de Lune Relancée",str4,Vous ne pouvez pas chercher dans votre Deck tant que l'effet de {CARD} est appliqué.
+100267021,"Squeeze, Démarreur de Lune Relancée",str5,Vous ne pouvez pas Invoquer Spécialement tant que l'effet de {CARD} est appliqué.
 100267022,"Cielo, Ciel de Lune Relancée - Les Jeux Sont Faits",name,"Cielo, Ciel de Lune Relancée - Les Jeux Sont Faits"
 100267022,"Cielo, Ciel de Lune Relancée - Les Jeux Sont Faits",desc,"2 monstres ""Lune Relancée"" de Niveau 7
 Non utilisable comme Matériel pour une Invocation Fusion, Xyz ou Lien.
@@ -236,7 +236,7 @@ Gagne ces effets tant qu'elle est dans la Zone Monstre Extra.
 ● Non affectée par les effets d'autres cartes.
 ● Lorsqu'une carte ou un effet activé par votre adversaire qui inclut un effet qui ajoute une ou plusieurs cartes depuis le Deck à la main est résolu, vous pouvez faire devenir l'effet ""Piochez 1 carte"".
 ● Une fois par tour (Effet Rapide) : vous pouvez détacher 1 Matériel de cette carte ; piochez 1 carte."
-100267022,"Cielo, Ciel de Lune Relancée - Les Jeux Sont Faits",str2,Modifier l'effet ?
+100267022,"Cielo, Ciel de Lune Relancée - Les Jeux Sont Faits",str2,Changer l'effet ?
 100267022,"Cielo, Ciel de Lune Relancée - Les Jeux Sont Faits",str3,Piocher
 100267022,"Cielo, Ciel de Lune Relancée - Les Jeux Sont Faits",str4,Piocher
 100267023,"Squeeze, Espoir de Lune Relancée - Jackpot",name,"Squeeze, Espoir de Lune Relancée - Jackpot"
@@ -254,7 +254,7 @@ Une fois par tour : vous pouvez activer 1 de ces effets ;
 ● Placez 1 carte depuis votre main au-dessus ou au-dessous du Deck, puis piochez 1 carte.
 ● Si vous contrôlez un Monstre Xyz ""Lune Relancée"" Magicien : vous pouvez piocher 1 carte."
 100267025,"""Lune Relancée"" la Ville qui ne Dort Jamais",str1,Activer
-100267025,"""Lune Relancée"" la Ville qui ne Dort Jamais",str2,Renvoyer au Deck et piocher une carte.
+100267025,"""Lune Relancée"" la Ville qui ne Dort Jamais",str2,Renvoyer au Deck et piocher 1 carte
 100267025,"""Lune Relancée"" la Ville qui ne Dort Jamais",str3,Piocher
 100267025,"""Lune Relancée"" la Ville qui ne Dort Jamais",str4,Renvoyer au Deck
 100267025,"""Lune Relancée"" la Ville qui ne Dort Jamais",str5,Au-dessus du Deck
@@ -323,7 +323,7 @@ Une fois par tour (Effet Rapide) : vous pouvez mélanger 1 de vos monstres ""Xé
 100267037,Ploutonion Xénovahisseur△ de la Tempête Folle,str2,Bannir
 100267037,Ploutonion Xénovahisseur△ de la Tempête Folle,str3,Renvoyer au Deck
 100267037,Ploutonion Xénovahisseur△ de la Tempête Folle,str4,Révélé par l'effet de {CARD}
-100267037,Ploutonion Xénovahisseur△ de la Tempête Folle,str5,Renvoyer le monstre dans le Deck ?
+100267037,Ploutonion Xénovahisseur△ de la Tempête Folle,str5,Renvoyer le monstre au Deck ?
 100267038,Jahannam Xénovahisseur△ Dévorant le Vide,name,Jahannam Xénovahisseur△ Dévorant le Vide
 100267038,Jahannam Xénovahisseur△ Dévorant le Vide,desc,"Si cette carte est Invoquée Normalement ou Spécialement : bannissez (face verso) les 8 cartes du dessus de votre Deck.
 Gagne ces effets selon le nombre total de cartes bannies face verso.
@@ -339,7 +339,7 @@ Gagne ces effets selon le nombre total de cartes bannies face verso.
 Durant votre Main Phase : vous pouvez ajouter 1 de vos cartes ""Xénovahisseur△"" bannies face verso (""Territoire Xénovahisseur△ - Valvols"" exclue) à votre main.
 Vous ne pouvez utiliser cet effet de ""Territoire Xénovahisseur△ - Valvols"" qu'une fois par tour.
 Tant que vous contrôlez un monstre ""Xénovahisseur△"" de min. Niveau 5 et que vous n'avez aucune carte dans votre Deck, votre adversaire ne peut activer ni de cartes ni d'effets durant votre tour."
-100267039,Territoire Xénovahisseur△ - Valvols,str1,Bannir depuis le Cimetière pour l'activer ?
+100267039,Territoire Xénovahisseur△ - Valvols,str1,Bannir des cartes du Cimetière pour activer ?
 100267041,Jugement Xénovahisseur△,name,Jugement Xénovahisseur△
 100267041,Jugement Xénovahisseur△,desc,"Si votre adversaire Invoque Normalement ou Spécialement un ou plusieurs monstres : vous pouvez en cibler 1 ; choisissez 1 de vos monstres ""Xénovahisseur△"" bannis face verso du même Attribut, et soit ajoutez-le à votre main soit Invoquez-le Spécialement, et aussi, le reste de ce tour, vous ne pouvez pas choisir à nouveau le même Attribut avec cet effet de ""Jugement Xénovahisseur△"", et vous ne pouvez activer ni de cartes ni d'effets (cartes et effets ""Xénovahisseur△"" exclus).
 Une fois par combat, durant le calcul des dommages, si votre monstre ""Xénovahisseur△"" combat un monstre de l'adversaire et que vous n'avez aucune carte dans votre Deck : vous pouvez faire devenir 0 l'ATK du monstre de l'adversaire."
