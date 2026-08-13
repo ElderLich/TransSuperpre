@@ -126,11 +126,11 @@ You can only use this effect of ""Number 101: Silent Honor ARK - Soul Asylum"" o
 100267011,Sennet Thunderfall,desc,"When your opponent activates a Spell/Trap Card while you control a Normal Monster or ""Sennet"" Ritual Monster: Negate the activation, and if you do, destroy that card. If the total ATK of all Normal Monster Cards you control is more than 3000: You can banish this card from your GY; Set 1 ""Sennet"" Spell/Trap from your Deck or GY, except ""Sennet Thunderfall"". You can only use each effect of ""Sennet Thunderfall"" once per turn."
 100267011,Sennet Thunderfall,str1,Negate the activation and destroy
 100267011,Sennet Thunderfall,str2,Set
-100267016,Raise Moon Veil Cielo,name,Raise Moon Veil Cielo
-100267016,Raise Moon Veil Cielo,desc,"When you draw this card: You can reveal it; Special Summon it. If this card is in your hand: You can place 1 other card from your hand or face-up field on the bottom of the Deck; Special Summon this card. During the Main Phase (Quick Effect): You can draw 1 card. You cannot add cards from the Deck to the hand the turn you activate this effect, except by drawing them. You can only use this effect of ""Raise Moon Veil Cielo"" once per turn."
-100267016,Raise Moon Veil Cielo,str1,Special Summon
-100267016,Raise Moon Veil Cielo,str2,Return to the Deck and Special Summon
-100267016,Raise Moon Veil Cielo,str3,Draw
+100267016,"Cielo, the Veil of Raise Moon",name,"Cielo, the Veil of Raise Moon"
+100267016,"Cielo, the Veil of Raise Moon",desc,"When you draw this card: You can reveal it; Special Summon it. If this card is in your hand: You can place 1 other card from your hand or face-up field on the bottom of the Deck; Special Summon this card. During the Main Phase (Quick Effect): You can draw 1 card. You cannot add cards from the Deck to the hand the turn you activate this effect, except by drawing them. You can only use this effect of ""Cielo, the Veil of Raise Moon"" once per turn."
+100267016,"Cielo, the Veil of Raise Moon",str1,Special Summon
+100267016,"Cielo, the Veil of Raise Moon",str2,Return to the Deck and Special Summon
+100267016,"Cielo, the Veil of Raise Moon",str3,Draw
 100267017,Raise Moon Elegance Carol,name,Raise Moon Elegance Carol
 100267017,Raise Moon Elegance Carol,desc,"When you draw this card: You can reveal it; Special Summon it. You can Normal Summon this card without Tributing, but its original ATK becomes 700. If this card is Normal or Special Summoned from the hand: You can draw 1 card, also you cannot Special Summon from the Extra Deck for the rest of this turn, except LIGHT Xyz Monsters. You cannot add cards from the Deck to the hand the turn you activate this effect, except by drawing them."
 100267017,Raise Moon Elegance Carol,str1,Special Summon
@@ -245,6 +245,51 @@ Your opponent's monsters cannot target monsters for attacks, except this one. If
 100268004,"Blue-Eyes Ultimate Dragon, the God-Surpassing Servant",desc,"""Blue-Eyes White Dragon"" + ""Blue-Eyes White Dragon"" + ""Blue-Eyes White Dragon""
 Cannot be destroyed by card effects, also unaffected by your opponent's activated effects during your opponent's turn. Can make up to 3 attacks during each Battle Phase. Once per Chain, during the Battle Phase (Quick Effect): You can target 1 monster that was Special Summoned this turn, or 1 face-down card, that your opponent controls; destroy it. You can only use this effect of ""Blue-Eyes Ultimate Dragon, the God-Surpassing Servant"" thrice per turn."
 100268004,"Blue-Eyes Ultimate Dragon, the God-Surpassing Servant",str2,Destruction effect
+100268005,Barrel Dragon the Machine Dragon,name,Barrel Dragon the Machine Dragon
+100268005,Barrel Dragon the Machine Dragon,desc,"If you control no monsters, you can Normal Summon this card without Tributing. You can only use each of the following effects of ""Barrel Dragon the Machine Dragon"" once per turn. During your Main Phase: You can add 1 DARK Machine monster from your Deck to your hand, except ""Barrel Dragon the Machine Dragon"". During the Battle Phase, if this card is in your GY because it was sent there from the field this turn (Quick Effect): You can Special Summon it, and if you do, toss a coin 3 times, then you can destroy monsters on the field up to the number of heads."
+100268005,Barrel Dragon the Machine Dragon,str1,Normal Summon without Tributing
+100268005,Barrel Dragon the Machine Dragon,str2,Add to hand
+100268005,Barrel Dragon the Machine Dragon,str3,Special Summon
+100268005,Barrel Dragon the Machine Dragon,str4,Destroy that monster?
+100268006,Relinquished the Wicked Eye of Illusion,name,Relinquished the Wicked Eye of Illusion
+100268006,Relinquished the Wicked Eye of Illusion,desc,"You can Ritual Summon this card with ""Relinquished the Wicked Eye of Illusion"". Your opponent takes any battle damage you would have taken from battles involving this card. You can only use each of the following effects of ""Relinquished the Wicked Eye of Illusion"" once per turn. If this card is in your hand: You can Tribute 2 monsters; Special Summon this card (this is treated as a Ritual Summon). During the Main Phase (Quick Effect): You can target 1 Effect Monster your opponent controls; negate its effects, and if you do, equip it to this card as an Equip Spell that gives it 2000 ATK."
+100268006,Relinquished the Wicked Eye of Illusion,str1,Special Summon
+100268006,Relinquished the Wicked Eye of Illusion,str2,Equip
+100268008,"Gilford the Lightning, the Warrior of Thunderbolts",name,"Gilford the Lightning, the Warrior of Thunderbolts"
+100268008,"Gilford the Lightning, the Warrior of Thunderbolts",desc,"You can Special Summon this card (from your hand) by Tributing 3 monsters, and if you Tributed a monster(s) that is owned by your opponent, your opponent cannot activate cards or effects when this card is Special Summoned this way. If Summoned this way: Your opponent must send all monsters they control to the GY. If this card is sent to the GY: You can activate this effect; during the End Phase of this turn, add 1 Warrior monster from your Deck to your hand. You can only use this effect of ""Gilford the Lightning, the Warrior of Thunderbolts"" once per turn."
+100268008,"Gilford the Lightning, the Warrior of Thunderbolts",str2,Send to the GY
+100268008,"Gilford the Lightning, the Warrior of Thunderbolts",str3,Add to hand
+100268011,"Penalty Game ""GREED, the Illusion of Avarice""",name,"Penalty Game ""GREED, the Illusion of Avarice"""
+100268011,"Penalty Game ""GREED, the Illusion of Avarice""",desc,"If your opponent added a card(s) from the Deck to the hand this turn, except during the Draw Phase: Inflict 400 damage to your opponent for each card in their hand, then if the total number of cards in their hand, field, and GY is 20 or more, you can banish their entire hand. You can only activate 1 ""Penalty Game ""GREED, the Illusion of Avarice"""" per turn."
+100268011,"Penalty Game ""GREED, the Illusion of Avarice""",str1,Activate
+100268011,"Penalty Game ""GREED, the Illusion of Avarice""",str2,Banish?
+100268012,Zombyra,name,Zombyra
+100268012,Zombyra,desc,"When this card declares an attack: You lose 500 LP, and if you do, this card gains 500 ATK. When a monster is destroyed by battle: You can equip this card from your GY to the monster that destroyed that monster, then you can destroy the 1 monster your opponent controls with the highest ATK (your choice, if tied). The equipped monster's name becomes ""Zombyra"", also its effects are negated. When the equipped monster declares an attack: Its controller loses 500 LP, and if they do, the equipped monster gains 500 ATK."
+100268012,Zombyra,str1,Increase ATK
+100268012,Zombyra,str2,Equip
+100268012,Zombyra,str3,Increase ATK
+100268012,Zombyra,str4,Destroy that monster?
+100268013,Evil Dragon Cards - Earth Dragon,name,Evil Dragon Cards - Earth Dragon
+100268013,Evil Dragon Cards - Earth Dragon,desc,"Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by revealing 3 EARTH monsters in your hand, including this card. You can reveal this card in your hand; add 1 ""Dragon Card"" card from your Deck to your hand, then discard 1 card. When your opponent activates a monster effect on the field (Quick Effect): You can negate that effect, then if a WATER monster is on the field, this card cannot be destroyed by battle or card effects this turn. You can only use each effect of ""Evil Dragon Cards - Earth Dragon"" once per turn."
+100268013,Evil Dragon Cards - Earth Dragon,str2,Add to hand
+100268013,Evil Dragon Cards - Earth Dragon,str3,Negate the effect
+100268014,Evil Dragon Cards - Metal Dragon,name,Evil Dragon Cards - Metal Dragon
+100268014,Evil Dragon Cards - Metal Dragon,desc,"Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by revealing 3 LIGHT monsters in your hand, including this card. You can reveal this card in your hand; add 1 ""Dragon Card"" card from your Deck to your hand, then discard 1 card. During the Main Phase (Quick Effect): You can destroy 1 monster your opponent controls, and if you do, send this card to the GY, then if an EARTH monster is on the field, you can draw 1 card. You can only use each effect of ""Evil Dragon Cards - Metal Dragon"" once per turn."
+100268014,Evil Dragon Cards - Metal Dragon,str2,Add to hand
+100268014,Evil Dragon Cards - Metal Dragon,str3,Destroy
+100268014,Evil Dragon Cards - Metal Dragon,str4,Draw a card?
+100268015,Super Critical,name,Super Critical
+100268015,Super Critical,desc,"When this card is activated: You can add 1 card with an effect that requires a die roll from your Deck to your hand. Once per Chain per player, if either player rolls a 1 for a card effect's die roll: They can activate 1 of these effects;
+● They destroy up to 3 monsters their opponent controls.
+● They destroy 1 monster their opponent controls, and if they do, they negate the effects of 1 monster their opponent controls.
+● They Special Summon 1 monster from their GY.
+You can only activate 1 ""Super Critical"" per turn."
+100268015,Super Critical,str1,Activate
+100268015,Super Critical,str2,Choose an effect to activate
+100268015,Super Critical,str3,Add to hand?
+100268015,Super Critical,str4,Destroy a monster
+100268015,Super Critical,str5,Destroy a monster and negate another monster's effects
+100268015,Super Critical,str6,Special Summon
 100268201,Dark Paladin - Wave-Motion,name,Dark Paladin - Wave-Motion
 100268201,Dark Paladin - Wave-Motion,desc,"""Dark Magician"" + 1 Level 7 or higher monster
 Must be Fusion Summoned. Gains 500 ATK for every other monster on the field. Can attack all your opponent's monsters, once each. Once per turn, when your opponent activates a Spell Card or effect (Quick Effect): You can negate that effect, then you can destroy 1 card on the field. After this card destroys a card by battle or card effect and sends it to the GY, neither player can activate its effects while it is in the GY."
