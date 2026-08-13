@@ -1,5 +1,53 @@
 [
   {
+    "name": "Super Critique",
+    "desc": "Lorsque cette carte est activée : vous pouvez ajouter 1 carte avec un effet qui nécessite un lancer de dé depuis votre Deck à votre main.\r\nUne fois par Chaîne par joueur, si le résultat d'un lancer de dé d'un joueur pour un effet de carte est 1 : il peut activer 1 de ces effets ;\r\n● Il détruit max. 3 monstres contrôlés par son adversaire.\r\n● Il détruit 1 monstre contrôlé par son adversaire, et s'il le fait, il annule les effets d'1 monstre contrôlé par son adversaire.\r\n● Il Invoque Spécialement 1 monstre depuis son Cimetière.\r\nVous ne pouvez activer qu'1 \"Super Critique\" par tour.",
+    "overallString": "[Magie|Continu]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268015.jpg?version=19.7"
+  },
+  {
+    "name": "Revolver Dragon le Dragon Machine",
+    "desc": "Si vous ne contrôlez aucun monstre, vous pouvez Invoquer Normalement cette carte sans Sacrifice.\r\nVous ne pouvez utiliser chacun des effets suivants de \"Revolver Dragon le Dragon Machine\" qu'une fois par tour.\r\nDurant votre Main Phase : vous pouvez ajouter 1 monstre TÉNÈBRES Machine (\"Revolver Dragon le Dragon Machine\" exclu) depuis votre Deck à votre main.\r\nDurant la Battle Phase, si cette carte est dans votre Cimetière parce qu'elle y a été envoyée depuis le Terrain ce tour (Effet Rapide) : vous pouvez l'Invoquer Spécialement, et si vous le faites, lancez une pièce 3 fois, puis vous pouvez détruire un nombre de monstres sur le Terrain inférieur ou égal au nombre de faces.",
+    "overallString": "[Monstre|Effet] Machine/Ténébres  [★7] 2600/2200",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268005.jpg?version=19.7"
+  },
+  {
+    "name": "Le Renoncé l'Œil Maléfique de l'Illusion",
+    "desc": "Vous pouvez Invoquer Rituellement cette carte avec \"Le Renoncé l'Œil Maléfique de l'Illusion\".\r\nVotre adversaire reçoit les dommages de combat que vous auriez dû recevoir de combats impliquant cette carte.\r\nVous ne pouvez utiliser chacun des effets suivants de \"Le Renoncé l'Œil Maléfique de l'Illusion\" qu'une fois par tour.\r\nSi cette carte est dans votre main : vous pouvez Sacrifier 2 monstres ; Invoquez Spécialement cette carte (ceci est traité comme une Invocation Rituelle).\r\nDurant la Main Phase (Effet Rapide) : vous pouvez cibler 1 Monstre à Effet contrôlé par votre adversaire ; annulez ses effets, et si vous le faites, équipez-le à cette carte comme Magie d'Équipement qui lui donne 2000 ATK.",
+    "overallString": "[Monstre|Effet|Rituel] Illusion/Ténébres  [★1] 0/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268006.jpg?version=19.7"
+  },
+  {
+    "name": "Gilford l'Éclair, le Guerrier des Coups de Tonnerre",
+    "desc": "Vous pouvez Invoquer Spécialement cette carte (depuis votre main) en Sacrifiant 3 monstres, et si vous avez Sacrifié un ou plusieurs monstres dont le propriétaire est votre adversaire, votre adversaire ne peut activer ni de cartes ni d'effets lorsque cette carte est Invoquée Spécialement de cette façon.\r\nSi elle est Invoquée de cette façon : votre adversaire doit envoyer tous les monstres qu'il contrôle au Cimetière.\r\nSi cette carte est envoyée au Cimetière : vous pouvez activer cet effet ; durant la End Phase de ce tour, ajoutez 1 monstre Guerrier depuis votre Deck à votre main.\r\nVous ne pouvez utiliser cet effet de \"Gilford l'Éclair, le Guerrier des Coups de Tonnerre\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet] Guerrier/Lumiére  [★8] 2800/1400",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268008.jpg?version=19.7"
+  },
+  {
+    "name": "Jeu de la Sanction \"CUPIDITÉ, l'Illusion de l'Avarice\"",
+    "desc": "Si votre adversaire a ajouté une ou plusieurs cartes depuis le Deck à la main ce tour, sauf durant la Draw Phase : infligez 400 points de dommages à votre adversaire pour chaque carte dans sa main, puis si le nombre total de cartes dans sa main, Terrain et Cimetière est min. 20, vous pouvez bannir toute sa main.\r\nVous ne pouvez activer qu'1 \"Jeu de la Sanction \"CUPIDITÉ, l'Illusion de l'Avarice\"\" par tour.",
+    "overallString": "[Piège]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268011.jpg?version=19.7"
+  },
+  {
+    "name": "Zombyra",
+    "desc": "Lorsque cette carte déclare une attaque : vous perdez 500 LP, et si vous le faites, cette carte gagne 500 ATK.\r\nLorsqu'un monstre est détruit au combat : vous pouvez équiper cette carte depuis votre Cimetière au monstre qui a détruit le monstre, puis vous pouvez détruire 1 monstre contrôlé par votre adversaire avec la plus haute ATK (en cas d'égalité, vous choisissez).\r\nLe nom du monstre équipé devient \"Zombyra\", et aussi, ses effets sont annulés.\r\nLorsque le monstre équipé déclare une attaque : son contrôleur perd 500 LP, et s'il le fait, le monstre équipé gagne 500 ATK.",
+    "overallString": "[Monstre|Effet] Guerrier/Ténébres  [★4] 2100/500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268012.jpg?version=19.7"
+  },
+  {
+    "name": "Carte du Dragon Diabolique - Dragon de Terre",
+    "desc": "Ni Invocable Normalement ni Posable Normalement.\r\nDoit d'abord être Invoquée Spécialement (depuis votre main) en révélant 3 monstres TERRE (cette carte incluse) dans votre main.\r\nVous pouvez révéler cette carte dans votre main ; ajoutez 1 carte \"Carte du Dragon\" depuis votre Deck à votre main, puis défaussez 1 carte.\r\nLorsque votre adversaire active un effet de monstre sur le Terrain (Effet Rapide) : vous pouvez annuler l'effet, puis si un monstre EAU est sur le Terrain, cette carte ne peut être détruite ni au combat ni par des effets de carte ce tour.\r\nVous ne pouvez utiliser chaque effet de \"Carte du Dragon Diabolique - Dragon de Terre\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet|Invocation Spéciale] Dragon/Terre  [★4] 1200/2000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268013.jpg?version=19.7"
+  },
+  {
+    "name": "Carte du Dragon Diabolique - Dragon de Métal",
+    "desc": "Ni Invocable Normalement ni Posable Normalement.\r\nDoit d'abord être Invoquée Spécialement (depuis votre main) en révélant 3 monstres LUMIÈRE (cette carte incluse) dans votre main.\r\nVous pouvez révéler cette carte dans votre main ; ajoutez 1 carte \"Carte du Dragon\" depuis votre Deck à votre main, puis défaussez 1 carte.\r\nDurant la Main Phase (Effet Rapide) : vous pouvez détruire 1 monstre contrôlé par votre adversaire, et si vous le faites, envoyez cette carte au Cimetière, puis si un monstre TERRE est sur le Terrain, vous pouvez piocher 1 carte.\r\nVous ne pouvez utiliser chaque effet de \"Carte du Dragon Diabolique - Dragon de Métal\" qu'une fois par tour.",
+    "overallString": "[Monstre|Effet|Invocation Spéciale] Dragon/Lumiére  [★5] 2100/1500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268014.jpg?version=19.7"
+  },
+  {
     "name": "Cielo, Voile de Lune Relancée",
     "desc": "Lorsque vous piochez cette carte : vous pouvez la révéler ; Invoquez-la Spécialement.\r\nSi cette carte est dans votre main : vous pouvez placer 1 autre carte depuis votre main ou Terrain face recto au-dessous du Deck ; Invoquez Spécialement cette carte.\r\nDurant la Main Phase (Effet Rapide) : vous pouvez piocher 1 carte.\r\nVous ne pouvez pas ajouter de cartes depuis le Deck à la main le tour où vous activez cet effet, sauf en les piochant.\r\nVous ne pouvez utiliser cet effet de \"Cielo, Voile de Lune Relancée\" qu'une fois par tour.",
     "overallString": "[Monstre|Effet] Magicien/Lumiére  [★7] 2100/2100",
