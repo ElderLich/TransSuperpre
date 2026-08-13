@@ -352,6 +352,74 @@ Peut faire max. 3 attaques durant chaque Battle Phase.
 Une fois par Chaîne, durant la Battle Phase (Effet Rapide) : vous pouvez cibler 1 monstre qui a été Invoqué Spécialement ce tour, ou 1 carte face verso, qui est contrôlé par votre adversaire ; détruisez-le.
 Vous ne pouvez utiliser cet effet de ""Dragon Ultime aux Yeux Bleus, le Serviteur qui Surpasse Dieu"" que trois fois par tour."
 100268004,"Dragon Ultime aux Yeux Bleus, le Serviteur qui Surpasse Dieu",str2,Effet de destruction
+100268005,Revolver Dragon le Dragon Machine,name,Revolver Dragon le Dragon Machine
+100268005,Revolver Dragon le Dragon Machine,desc,"Si vous ne contrôlez aucun monstre, vous pouvez Invoquer Normalement cette carte sans Sacrifice.
+Vous ne pouvez utiliser chacun des effets suivants de ""Revolver Dragon le Dragon Machine"" qu'une fois par tour.
+Durant votre Main Phase : vous pouvez ajouter 1 monstre TÉNÈBRES Machine (""Revolver Dragon le Dragon Machine"" exclu) depuis votre Deck à votre main.
+Durant la Battle Phase, si cette carte est dans votre Cimetière parce qu'elle y a été envoyée depuis le Terrain ce tour (Effet Rapide) : vous pouvez l'Invoquer Spécialement, et si vous le faites, lancez une pièce 3 fois, puis vous pouvez détruire un nombre de monstres sur le Terrain inférieur ou égal au nombre de faces."
+100268005,Revolver Dragon le Dragon Machine,str1,Invocation Normale sans Sacrifice
+100268005,Revolver Dragon le Dragon Machine,str2,Ajouter à la main
+100268005,Revolver Dragon le Dragon Machine,str3,Invocation Spéciale
+100268005,Revolver Dragon le Dragon Machine,str4,Détruire ce monstre ?
+100268006,Le Renoncé l'Œil Maléfique de l'Illusion,name,Le Renoncé l'Œil Maléfique de l'Illusion
+100268006,Le Renoncé l'Œil Maléfique de l'Illusion,desc,"Vous pouvez Invoquer Rituellement cette carte avec ""Le Renoncé l'Œil Maléfique de l'Illusion"".
+Votre adversaire reçoit les dommages de combat que vous auriez dû recevoir de combats impliquant cette carte.
+Vous ne pouvez utiliser chacun des effets suivants de ""Le Renoncé l'Œil Maléfique de l'Illusion"" qu'une fois par tour.
+Si cette carte est dans votre main : vous pouvez Sacrifier 2 monstres ; Invoquez Spécialement cette carte (ceci est traité comme une Invocation Rituelle).
+Durant la Main Phase (Effet Rapide) : vous pouvez cibler 1 Monstre à Effet contrôlé par votre adversaire ; annulez ses effets, et si vous le faites, équipez-le à cette carte comme Magie d'Équipement qui lui donne 2000 ATK."
+100268006,Le Renoncé l'Œil Maléfique de l'Illusion,str1,Invocation Spéciale
+100268006,Le Renoncé l'Œil Maléfique de l'Illusion,str2,Équiper
+100268008,"Gilford l'Éclair, le Guerrier des Coups de Tonnerre",name,"Gilford l'Éclair, le Guerrier des Coups de Tonnerre"
+100268008,"Gilford l'Éclair, le Guerrier des Coups de Tonnerre",desc,"Vous pouvez Invoquer Spécialement cette carte (depuis votre main) en Sacrifiant 3 monstres, et si vous avez Sacrifié un ou plusieurs monstres dont le propriétaire est votre adversaire, votre adversaire ne peut activer ni de cartes ni d'effets lorsque cette carte est Invoquée Spécialement de cette façon.
+Si elle est Invoquée de cette façon : votre adversaire doit envoyer tous les monstres qu'il contrôle au Cimetière.
+Si cette carte est envoyée au Cimetière : vous pouvez activer cet effet ; durant la End Phase de ce tour, ajoutez 1 monstre Guerrier depuis votre Deck à votre main.
+Vous ne pouvez utiliser cet effet de ""Gilford l'Éclair, le Guerrier des Coups de Tonnerre"" qu'une fois par tour."
+100268008,"Gilford l'Éclair, le Guerrier des Coups de Tonnerre",str2,Envoyer au Cimetière
+100268008,"Gilford l'Éclair, le Guerrier des Coups de Tonnerre",str3,Ajouter à la main
+100268011,"Jeu de la Sanction ""CUPIDITÉ, l'Illusion de l'Avarice""",name,"Jeu de la Sanction ""CUPIDITÉ, l'Illusion de l'Avarice"""
+100268011,"Jeu de la Sanction ""CUPIDITÉ, l'Illusion de l'Avarice""",desc,"Si votre adversaire a ajouté une ou plusieurs cartes depuis le Deck à la main ce tour, sauf durant la Draw Phase : infligez 400 points de dommages à votre adversaire pour chaque carte dans sa main, puis si le nombre total de cartes dans sa main, Terrain et Cimetière est min. 20, vous pouvez bannir toute sa main.
+Vous ne pouvez activer qu'1 ""Jeu de la Sanction ""CUPIDITÉ, l'Illusion de l'Avarice"""" par tour."
+100268011,"Jeu de la Sanction ""CUPIDITÉ, l'Illusion de l'Avarice""",str1,Activer
+100268011,"Jeu de la Sanction ""CUPIDITÉ, l'Illusion de l'Avarice""",str2,Bannir?
+100268012,Zombyra,name,Zombyra
+100268012,Zombyra,desc,"Lorsque cette carte déclare une attaque : vous perdez 500 LP, et si vous le faites, cette carte gagne 500 ATK.
+Lorsqu'un monstre est détruit au combat : vous pouvez équiper cette carte depuis votre Cimetière au monstre qui a détruit le monstre, puis vous pouvez détruire 1 monstre contrôlé par votre adversaire avec la plus haute ATK (en cas d'égalité, vous choisissez).
+Le nom du monstre équipé devient ""Zombyra"", et aussi, ses effets sont annulés.
+Lorsque le monstre équipé déclare une attaque : son contrôleur perd 500 LP, et s'il le fait, le monstre équipé gagne 500 ATK."
+100268012,Zombyra,str1,Augmenter l'ATK
+100268012,Zombyra,str2,Équiper
+100268012,Zombyra,str3,Augmenter l'ATK
+100268012,Zombyra,str4,Détruire ce monstre ?
+100268013,Carte du Dragon Diabolique - Dragon de Terre,name,Carte du Dragon Diabolique - Dragon de Terre
+100268013,Carte du Dragon Diabolique - Dragon de Terre,desc,"Ni Invocable Normalement ni Posable Normalement.
+Doit d'abord être Invoquée Spécialement (depuis votre main) en révélant 3 monstres TERRE (cette carte incluse) dans votre main.
+Vous pouvez révéler cette carte dans votre main ; ajoutez 1 carte ""Carte du Dragon"" depuis votre Deck à votre main, puis défaussez 1 carte.
+Lorsque votre adversaire active un effet de monstre sur le Terrain (Effet Rapide) : vous pouvez annuler l'effet, puis si un monstre EAU est sur le Terrain, cette carte ne peut être détruite ni au combat ni par des effets de carte ce tour.
+Vous ne pouvez utiliser chaque effet de ""Carte du Dragon Diabolique - Dragon de Terre"" qu'une fois par tour."
+100268013,Carte du Dragon Diabolique - Dragon de Terre,str2,Ajouter à la main
+100268013,Carte du Dragon Diabolique - Dragon de Terre,str3,Annuler l'effet
+100268014,Carte du Dragon Diabolique - Dragon de Métal,name,Carte du Dragon Diabolique - Dragon de Métal
+100268014,Carte du Dragon Diabolique - Dragon de Métal,desc,"Ni Invocable Normalement ni Posable Normalement.
+Doit d'abord être Invoquée Spécialement (depuis votre main) en révélant 3 monstres LUMIÈRE (cette carte incluse) dans votre main.
+Vous pouvez révéler cette carte dans votre main ; ajoutez 1 carte ""Carte du Dragon"" depuis votre Deck à votre main, puis défaussez 1 carte.
+Durant la Main Phase (Effet Rapide) : vous pouvez détruire 1 monstre contrôlé par votre adversaire, et si vous le faites, envoyez cette carte au Cimetière, puis si un monstre TERRE est sur le Terrain, vous pouvez piocher 1 carte.
+Vous ne pouvez utiliser chaque effet de ""Carte du Dragon Diabolique - Dragon de Métal"" qu'une fois par tour."
+100268014,Carte du Dragon Diabolique - Dragon de Métal,str2,Ajouter à la main
+100268014,Carte du Dragon Diabolique - Dragon de Métal,str3,Détruire
+100268014,Carte du Dragon Diabolique - Dragon de Métal,str4,Piocher 1 carte ?
+100268015,Super Critique,name,Super Critique
+100268015,Super Critique,desc,"Lorsque cette carte est activée : vous pouvez ajouter 1 carte avec un effet qui nécessite un lancer de dé depuis votre Deck à votre main.
+Une fois par Chaîne par joueur, si le résultat d'un lancer de dé d'un joueur pour un effet de carte est 1 : il peut activer 1 de ces effets ;
+● Il détruit max. 3 monstres contrôlés par son adversaire.
+● Il détruit 1 monstre contrôlé par son adversaire, et s'il le fait, il annule les effets d'1 monstre contrôlé par son adversaire.
+● Il Invoque Spécialement 1 monstre depuis son Cimetière.
+Vous ne pouvez activer qu'1 ""Super Critique"" par tour."
+100268015,Super Critique,str1,Activer
+100268015,Super Critique,str2,Choisir l'effet
+100268015,Super Critique,str3,Ajouter à la main?
+100268015,Super Critique,str4,Détruire un monstre
+100268015,Super Critique,str5,Détruire et Annuler
+100268015,Super Critique,str6,Invocation Spéciale
 100268201,Paladin des Ténèbres - Ondulatoire,name,Paladin des Ténèbres - Ondulatoire
 100268201,Paladin des Ténèbres - Ondulatoire,desc,"""Magicien Sombre"" + 1 monstre de min. Niveau 7
 Uniquement Invocable par Fusion.
