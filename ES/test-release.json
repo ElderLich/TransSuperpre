@@ -1,5 +1,53 @@
 [
   {
+    "name": "Súper Crítico",
+    "desc": "Cuando esta carta se resuelve: puedes añadir a tu mano, desde tu Deck, 1 carta cuyo efecto requiera un lanzamiento de dado. \nUna vez por Cadena por jugador, si cualquier jugador obtiene un 1 en un lanzamiento de dado por el efecto de una carta: puede activar 1 de estos efectos;\n● Destruye hasta 3 monstruos que controle su adversario.\n● Destruye 1 monstruo que controle su adversario y, si lo haces, niega los efectos de 1 monstruo que controle su adversario.\n● Invoca de Modo Especial 1 monstruo desde su Cementerio. \t \nSólo puedes activar 1 \"Súper Crítico\" por turno.",
+    "overallString": "[Mágica|Continua]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268015.jpg?version=19.7"
+  },
+  {
+    "name": "Dragón Cañón, el Dragón Máquina",
+    "desc": "Si no controlas monstruos, puedes Invocar esta carta de Modo Normal sin Sacrificio. \nSólo puedes usar los siguientes efectos de \"Dragón Cañón, el Dragón Máquina\" una vez por turno. \nDurante tu Main Phase: puedes añadir a tu mano 1 monstruo Máquina de OSCURIDAD desde tu Deck, excepto \"Dragón Cañón, el Dragón Máquina\". \n(Efecto Rápido): Durante la Battle Phase, si esta carta está en tu Cementerio porque fue mandada allí desde el Campo este turno: puedes Invocarla de Modo Especial y, si lo haces, lanza una moneda 3 veces, y después puedes destruir monstruos en el Campo hasta el número de caras obtenidas.",
+    "overallString": "[Monstruo|Efecto] Máquina/OSCURIDAD  [★7] 2600/2200",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268005.jpg?version=19.7"
+  },
+  {
+    "name": "Renunciado, el Ojo Malvado de la Ilusión",
+    "desc": "Puedes Invocar esta carta por Ritual con \"Renunciado, el Ojo Malvado de la Ilusión\". \nTu adversario recibe cualquier daño que fueras a recibir de batallas que involucren a esta carta. \nSólo puedes usar los siguientes efectos  de \"Renunciado, el Ojo Malvado de la Ilusión\" una vez por turno. \nPuedes Sacrificar 2 monstruos; Invoca esta carta de Modo Especial desde tu mano (esto se trata como una Invocación por Ritual). \n(Efecto Rápido): Durante la Main Phase: puedes seleccionar 1 Monstruo de Efecto que controle tu adversario; niega sus efectos y, si lo haces, equípalo a esta carta como una Mágica de Equipo que le da 2000 ATK.",
+    "overallString": "[Monstruo|Efecto|Ritual] Ilusión/OSCURIDAD  [★1] 0/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268006.jpg?version=19.7"
+  },
+  {
+    "name": "Gilford el Relámpago, el Guerrero de los Rayos",
+    "desc": "Puedes Invocar esta carta de Modo Especial (desde tu mano) Sacrificando 3 monstruos. \nTu adversario no puede activar cartas o efectos cuando es Invocada de esta forma si Sacrificas un monstruo que sea de su propiedad. \nSi esta carta es Invocada de Modo Especial por su efecto: tu adversario manda al Cementerio todos los monstruos que controle. \nSi esta carta es mandada al Cementerio: puedes activar este efecto; durante la End Phase de este turno, añade a tu mano 1 monstruo Guerrero desde tu Deck. \nSólo puedes usar este efecto de \"Gilford el Relámpago, el Guerrero de los Rayos\" una vez por turno.",
+    "overallString": "[Monstruo|Efecto] Guerrero/LUZ  [★8] 2800/1400",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268008.jpg?version=19.7"
+  },
+  {
+    "name": "Juego de Penitencia \"AVARICIA, la Ilusión de la Codicia\"",
+    "desc": "Sólo puedes activar 1 \"Juego de Penitencia \"AVARICIA, la Ilusión de la Codicia\"\" por turno. \nSi tu adversario añadió una o más cartas del Deck a su mano este turno, excepto durante la Draw Phase: inflige 400 puntos de daño a tu adversario por cada carta en su mano, y después, si el número total de cartas en su mano, Campo y Cementerio es 20 o más, puedes desterrar toda su mano.",
+    "overallString": "[Trampa]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268011.jpg?version=19.7"
+  },
+  {
+    "name": "Zombia",
+    "desc": "Cuando esta carta declara un ataque: pierdes 500 LP y, si lo haces, esta carta gana 500 ATK. \nCuando un monstruo es destruido en batalla: puedes equipar esta carta en tu Cementerio al monstruo que destruyó a ese monstruo, y después puedes destruir al monstruo que controle tu adversario con el ATK más alto (tu eliges si hay empate). \nEl monstruo equipado con esta carta ve su nombre cambiado a \"Zombia\", y además sus efectos son negados. \nCuando el monstruo equipado declara un ataque: su controlador pierde 500 LP y, si lo hace, el monstruo equipado gana 500 ATK.",
+    "overallString": "[Monstruo|Efecto] Guerrero/OSCURIDAD  [★4] 2100/500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268012.jpg?version=19.7"
+  },
+  {
+    "name": "Carta Dragón Malvado – Dragón Terrestre",
+    "desc": "No puede ser Invocado de Modo Normal/Colocado. \nDebe ser primero Invocado de Modo Especial (desde tu mano) revelando 3 monstruos de TIERRA en tu mano, incluyendo esta carta. \nPuedes revelar esta carta en tu mano; añade a tu mano 1 carta \"Carta Dragón\" desde tu Deck, y después descarta 1 carta. \n(Efecto Rápido): Cuando tu adversario activa un efecto de monstruo en el Campo: puedes negar ese efecto, y después si hay un monstruo de AGUA en el Campo, esta carta no puede ser destruida en batalla ni por efectos de cartas este turno. \nSólo puedes usar los efectos de \"Carta Dragón Malvado – Dragón Terrestre\" una vez por turno.",
+    "overallString": "[Monstruo|Efecto|Invocación Especial] Dragón/TIERRA  [★4] 1200/2000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268013.jpg?version=19.7"
+  },
+  {
+    "name": "Carta Dragón Malvado – Dragón Metálico",
+    "desc": "No puede ser Invocado de Modo Normal/Colocado. \nDebe ser primero Invocado de Modo Especial (desde tu mano) revelando 3 monstruos de LUZ en tu mano, incluyendo esta carta.  \nPuedes revelar esta carta en tu mano; añade a tu mano 1 carta \"Carta Dragón\" desde tu Deck, y después descarta 1 carta. \n(Efecto Rápido): Durante la Main Phase: puedes destruir 1 monstruo que controle tu adversario y, si lo haces, manda esta carta al Cementerio, y después si hay un monstruo de TIERRA en el Campo, puedes robar 1 carta. \nSólo puedes usar los efectos de \"Carta Dragón Malvado – Dragón Metálico\" una vez por turno.",
+    "overallString": "[Monstruo|Efecto|Invocación Especial] Dragón/LUZ  [★5] 2100/1500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268014.jpg?version=19.7"
+  },
+  {
     "name": "Cielo, Velo de Raise Moon",
     "desc": "Si robas esta carta: puedes revelarla; Invócala de Modo Especial. \nPuedes colocar 1 otra carta de tu mano o Campo boca arriba en el fondo del Deck; Invoca esta carta de Modo Especial desde tu mano. \nDurante la Main Phase (Efecto Rápido): puedes robar 1 carta. \nNo puedes añadir cartas de tu Deck a tu mano el turno en que activas este efecto, excepto robándolas. \nSólo puedes usar este efecto de \"Cielo, Velo de Raise Moon\" una vez por turno.",
     "overallString": "[Monstruo|Efecto] Lanzador de Conjuros/LUZ  [★7] 2100/2100",
@@ -31,25 +79,25 @@
   },
   {
     "name": "Squeeze, la Nueva Raise Moon",
-    "desc": "(Efecto Rápido): Puedes descartar esta carta; activa 1 de estos efectos (pero sólo puedes usar cada efecto de \"Squeeze, la Nueva Raise Moon\" una vez por turno).\n● Hasta el final de este turno, cada vez que se añade una carta a la mano de tu adversario, excepto robándola, inmediatamente roba 1 carta, y además no puedes Invocar de Modo Especial desde el Deck Extra hasta el final del próximo turno, excepto Monstruos Xyz de Rango 7.\n● Roba 1 carta.\r\nNo puedes añadir cartas de tu Deck a tu mano durante el Duelo en que activas los efectos de esta carta, excepto robándolas.",
+    "desc": "(Efecto Rápido): Puedes descartar esta carta; activa 1 de estos efectos (pero sólo puedes usar cada efecto de \"Squeeze, la Nueva Raise Moon\" una vez por turno);\r\n● Hasta el final de este turno, cada vez que se añade una carta a la mano de tu adversario, excepto robándola, inmediatamente roba 1 carta, y además no puedes Invocar de Modo Especial desde el Deck Extra hasta el final del próximo turno, excepto Monstruos Xyz de Rango 7.\r\n● Roba 1 carta.\t\r\nNo puedes añadir cartas de tu Deck a tu mano durante el Duelo en que activas los efectos de esta carta, excepto robándolas.",
     "overallString": "[Monstruo|Efecto] Aqua/AGUA  [★7] 700/1400",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100267021.jpg?version=19.7"
   },
   {
     "name": "Cielo - No Más Apuestas, Cielo de Raise Moon",
-    "desc": "2 monstruos \"Raise Moon\" de Nivel 7\r\nNo puede ser usado como material para una Invocación por Fusión, Xyz o Enlace. \nGana los siguientes efectos mientras está en la Zona de Monstruos de Enlace.\n● No es afectada por otros efectos de cartas.\n● Cuando el efecto activado de tu adversario que incluye un efecto de añadir una o más cartas de su Deck a su mano se resuelve, puedes hacer que ese efecto se convierta en \"Roba 1 carta\".\n● Una vez por turno (Efecto Rápido): puedes desacoplar 1 material de esta carta; roba 1 carta.\r\nSi esta carta es enviada al Cementerio por tu adversario: puedes robar 1 carta.",
+    "desc": "2 monstruos \"Raise Moon\" de Nivel 7\t\r\nNo puede ser usado como material para una Invocación por Fusión, Xyz o Enlace. \r\nGana los siguientes efectos mientras está en la Zona de Monstruos de Enlace;\r\n● No es afectada por otros efectos de cartas.\r\n● Cuando el efecto activado de tu adversario que incluye un efecto de añadir una o más cartas de su Deck a su mano se resuelve, puedes hacer que ese efecto se convierta en \"Roba 1 carta\".\r\n● Una vez por turno (Efecto Rápido): puedes desacoplar 1 material de esta carta; roba 1 carta.\t\r\nSi esta carta es enviada al Cementerio por tu adversario: puedes robar 1 carta.",
     "overallString": "[Monstruo|Efecto|Xyz] Lanzador de Conjuros/LUZ  [☆7] 2100/2100",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100267022.jpg?version=19.7"
   },
   {
     "name": "Squeeze Jackpot, la Luna Llena de Raise Moon",
-    "desc": "2+ monstruos de Nivel 7\r\nTu adversario no puede seleccionar otros monstruos que controles para ataques. \nSi esta carta es Invocada Xyz, o un monstruo es Invocado de Modo Especial desde tu mano: puedes desacoplar cualquier número de materiales de esta carta; coloca esa misma cantidad de cartas que controle tu adversario en el fondo del Deck en cualquier orden. \nSólo puedes usar este efecto de \"Squeeze Jackpot, la Luna Llena de Raise Moon\" una vez por turno. \nSi una carta del adversario deja el Deck, excepto robándola: puedes acoplar la carta de la parte superior del Deck de tu adversario a esta carta como material.",
+    "desc": "2+ monstruos de Nivel 7\t\r\nTu adversario no puede seleccionar otros monstruos que controles para ataques. \r\nSi esta carta es Invocada Xyz, o un monstruo es Invocado de Modo Especial desde tu mano: puedes desacoplar cualquier número de materiales de esta carta; coloca esa misma cantidad de cartas que controle tu adversario en el fondo del Deck en cualquier orden. \r\nSólo puedes usar este efecto de \"Squeeze Jackpot, la Luna Llena de Raise Moon\" una vez por turno. \r\nSi una carta del adversario deja el Deck, excepto robándola: puedes acoplar la carta de la parte superior del Deck de tu adversario a esta carta como material.",
     "overallString": "[Monstruo|Efecto|Xyz] Máquina/LUZ  [☆7] 1400/2800",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100267023.jpg?version=19.7"
   },
   {
     "name": "\"Raise Moon\", la Ciudad que Nunca Duerme",
-    "desc": "La primera vez que cada uno de tus monstruos \"Raise Moon\" de Nivel 7 fuera a ser destruido por efecto de carta cada turno, no es destruido. \nUna vez por turno: puedes activar 1 de estos efectos.\n● Coloca 1 carta de tu mano en la parte superior o inferior del Deck, y después roba 1 carta.\n● Si controlas un Monstruo Xyz \"Raise Moon\" Lanzador de Conjuros: puedes robar 1 carta.\r\nUna vez por turno, durante la End Phase: baraja al Deck todas las cartas \"Raise Moon\" y en en tu Cementerio y destierro.",
+    "desc": "La primera vez que cada uno de tus monstruos \"Raise Moon\" de Nivel 7 fuera a ser destruido por efecto de carta cada turno, no es destruido. \r\nUna vez por turno: puedes activar 1 de estos efectos;\r\n● Coloca 1 carta de tu mano en la parte superior o inferior del Deck, y después roba 1 carta.\r\n● Si controlas un Monstruo Xyz \"Raise Moon\" Lanzador de Conjuros: puedes robar 1 carta.\t\r\nUna vez por turno, durante la End Phase: baraja al Deck todas las cartas \"Raise Moon\" y en en tu Cementerio y destierro.",
     "overallString": "[Mágica|Continua]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100267025.jpg?version=19.7"
   },
@@ -85,7 +133,7 @@
   },
   {
     "name": "Naraka – Xenovader△ Carmesí",
-    "desc": "Si esta carta es Invocada de Modo Normal o Especial: destierra las 4 cartas de la parte superior de tu Deck boca abajo. \nSólo puedes usar cada uno de los siguientes efectos de \"Naraka – Xenovader△ Carmesí\" una vez por turno. \nSi tu adversario Invoca de Modo Especial uno o más monstruos: puedes Invocar esta carta de Modo Especial desde tu mano. \nDurante la Main Phase de tu adversario (Efecto Rápido): puedes Invocar de Modo Especial 1 monstruo \"Xenovader△\" de Nivel 5 o mayor desde tu destierro boca abajo, y además no puedes activar cartas o efectos por el resto de este turno, excepto cartas \"Xenovader△\"",
+    "desc": "Si esta carta es Invocada de Modo Normal o Especial: destierra las 4 cartas de la parte superior de tu Deck boca abajo. \r\nSólo puedes usar cada uno de los siguientes efectos de \"Naraka – Xenovader△ Carmesí\" una vez por turno. \r\nSi tu adversario Invoca de Modo Especial uno o más monstruos: puedes Invocar esta carta de Modo Especial desde tu mano. \r\nDurante la Main Phase de tu adversario (Efecto Rápido): puedes Invocar de Modo Especial 1 monstruo \"Xenovader△\" de Nivel 5 o mayor desde tu destierro boca abajo, y además no puedes activar cartas o efectos por el resto de este turno, excepto cartas \"Xenovader△\".",
     "overallString": "[Monstruo|Efecto] Psíquico/FUEGO  [★4] 1700/400",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100267034.jpg?version=19.7"
   },
@@ -109,7 +157,7 @@
   },
   {
     "name": "Jahannam – Xenovader△ del Vacío",
-    "desc": "Si esta carta es Invocada de Modo Normal o Especial: destierra las 8 cartas de la parte superior de tu Deck boca abajo. \nGana los siguientes efectos basados en el número de cartas desterradas boca abajo.\n● 10+: No puede ser destruida en batalla.\n● 20+: Una vez por turno (Efecto Rápido): puedes seleccionar 1 carta en el Campo; destrúyela.\n● 30+: Una vez por turno, durante la End Phase de tu adversario: puedes añadir a tu mano 1 carta de tu destierro boca abajo.\n● 40+: Sáltate la Draw Phase de ambos jugadores.",
+    "desc": "Si esta carta es Invocada de Modo Normal o Especial: destierra las 8 cartas de la parte superior de tu Deck boca abajo. \r\nGana los siguientes efectos basados en el número de cartas desterradas boca abajo;\r\n● 10+: No puede ser destruida en batalla.\r\n● 20+: Una vez por turno (Efecto Rápido): puedes seleccionar 1 carta en el Campo; destrúyela.\r\n● 30+: Una vez por turno, durante la End Phase de tu adversario: puedes añadir a tu mano 1 carta de tu destierro boca abajo.\r\n● 40+: Sáltate la Draw Phase de ambos jugadores.",
     "overallString": "[Monstruo|Efecto] Psíquico/OSCURIDAD  [★8] 3000/2400",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100267038.jpg?version=19.7"
   },
@@ -127,7 +175,7 @@
   },
   {
     "name": "Duelo del Destino",
-    "desc": "Cuando esta carta se resuelve, cada jugador puede Invocar de Modo Especial 1 monstruo desde su mano en Posición de Ataque, y después si hay otros monstruos boca arriba en el Campo, cámbialos a todos a Posición de Defensa boca abajo. No puedes Invocar de Modo Normal o Especial por el resto de este turno después de que esta carta se resuelva (pero puedes Colocar de Modo Normal). \nUna vez por turno, cuando tu monstruo declara un ataque: puedes negar ese ataque y, si lo haces, destruye 1 carta boca abajo que controle tu adversario. \nUna vez por turno, durante la End Phase de tu adversario: devuelve esta carta a la mano. \nSólo puedes activar 1 \"Duelo del Destino\" por turno.",
+    "desc": "Cuando esta carta se resuelve, cada jugador puede Invocar de Modo Especial 1 monstruo desde su mano en Posición de Ataque, y después si hay otros monstruos boca arriba en el Campo, cámbialos a todos a Posición de Defensa boca abajo. \r\nNo puedes Invocar de Modo Normal o Especial por el resto de este turno después de que esta carta se resuelva (pero puedes Colocar de Modo Normal). \r\nUna vez por turno, cuando tu monstruo declara un ataque: puedes negar ese ataque y, si lo haces, destruye 1 carta boca abajo que controle tu adversario. \r\nUna vez por turno, durante la End Phase de tu adversario: devuelve esta carta a la mano. \r\nSólo puedes activar 1 \"Duelo del Destino\" por turno.",
     "overallString": "[Mágica|Continua]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100200296.jpg?version=19.7"
   },
@@ -259,7 +307,7 @@
   },
   {
     "name": "Fuerza de Espejo Mental",
-    "desc": "Si tu adversario controla 5 o más cartas boca arriba, la activación y el efecto de esta carta no pueden ser negados, y además puede ser activada en el turno en que fue Colocada. \r\nPuedes activar este efecto en uno de los siguientes momentos: niega los efectos de tantas cartas boca arriba que controle tu adversario como sea posible y, si lo haces, destrúyelas. Tus monstruos no pueden atacar directamente hasta el final del próximo turno después de que esta carta se resuelva.\r\n● Cuando un monstruo del adversario con el ATK más alto declara un ataque.\r\n● Cuando tu adversario activa un efecto de monstruo que destruiría una o más cartas en el Campo.\r\n● Cuando tu adversario activa un efecto de monstruo en la mano o Campo durante tu turno.",
+    "desc": "Si tu adversario controla 5 o más cartas boca arriba, la activación y el efecto de esta carta no pueden ser negados, y además puede ser activada en el turno en que fue Colocada. \r\nPuedes activar este efecto en uno de los siguientes momentos: niega los efectos de tantas cartas boca arriba que controle tu adversario como sea posible y, si lo haces, destrúyelas.\r\n● Cuando un monstruo del adversario con el ATK más alto declara un ataque.\r\n● Cuando tu adversario activa un efecto de monstruo que destruiría una o más cartas en el Campo.\r\n● Cuando tu adversario activa un efecto de monstruo en la mano o Campo durante tu turno.\t\r\nTus monstruos no pueden atacar directamente hasta el final del próximo turno después de que esta carta se resuelva.",
     "overallString": "[Trampa]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100266002.jpg?version=19.7"
   },
