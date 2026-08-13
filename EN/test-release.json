@@ -1,7 +1,55 @@
 [
   {
-    "name": "Raise Moon Veil Cielo",
-    "desc": "When you draw this card: You can reveal it; Special Summon it. If this card is in your hand: You can place 1 other card from your hand or face-up field on the bottom of the Deck; Special Summon this card. During the Main Phase (Quick Effect): You can draw 1 card. You cannot add cards from the Deck to the hand the turn you activate this effect, except by drawing them. You can only use this effect of \"Raise Moon Veil Cielo\" once per turn.",
+    "name": "Super Critical",
+    "desc": "When this card is activated: You can add 1 card with an effect that requires a die roll from your Deck to your hand. Once per Chain per player, if either player rolls a 1 for a card effect's die roll: They can activate 1 of these effects;\n● They destroy up to 3 monsters their opponent controls.\n● They destroy 1 monster their opponent controls, and if they do, they negate the effects of 1 monster their opponent controls.\n● They Special Summon 1 monster from their GY.\nYou can only activate 1 \"Super Critical\" per turn.",
+    "overallString": "[Spell|Continuous]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268015.jpg?version=19.7"
+  },
+  {
+    "name": "Barrel Dragon the Machine Dragon",
+    "desc": "If you control no monsters, you can Normal Summon this card without Tributing. You can only use each of the following effects of \"Barrel Dragon the Machine Dragon\" once per turn. During your Main Phase: You can add 1 DARK Machine monster from your Deck to your hand, except \"Barrel Dragon the Machine Dragon\". During the Battle Phase, if this card is in your GY because it was sent there from the field this turn (Quick Effect): You can Special Summon it, and if you do, toss a coin 3 times, then you can destroy monsters on the field up to the number of heads.",
+    "overallString": "[Monster|Effect] Machine/Dark  [★7] 2600/2200",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268005.jpg?version=19.7"
+  },
+  {
+    "name": "Relinquished the Wicked Eye of Illusion",
+    "desc": "You can Ritual Summon this card with \"Relinquished the Wicked Eye of Illusion\". Your opponent takes any battle damage you would have taken from battles involving this card. You can only use each of the following effects of \"Relinquished the Wicked Eye of Illusion\" once per turn. If this card is in your hand: You can Tribute 2 monsters; Special Summon this card (this is treated as a Ritual Summon). During the Main Phase (Quick Effect): You can target 1 Effect Monster your opponent controls; negate its effects, and if you do, equip it to this card as an Equip Spell that gives it 2000 ATK.",
+    "overallString": "[Monster|Effect|Ritual] Illusion/Dark  [★1] 0/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268006.jpg?version=19.7"
+  },
+  {
+    "name": "Gilford the Lightning, the Warrior of Thunderbolts",
+    "desc": "You can Special Summon this card (from your hand) by Tributing 3 monsters, and if you Tributed a monster(s) that is owned by your opponent, your opponent cannot activate cards or effects when this card is Special Summoned this way. If Summoned this way: Your opponent must send all monsters they control to the GY. If this card is sent to the GY: You can activate this effect; during the End Phase of this turn, add 1 Warrior monster from your Deck to your hand. You can only use this effect of \"Gilford the Lightning, the Warrior of Thunderbolts\" once per turn.",
+    "overallString": "[Monster|Effect] Warrior/Light  [★8] 2800/1400",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268008.jpg?version=19.7"
+  },
+  {
+    "name": "Penalty Game \"GREED, the Illusion of Avarice\"",
+    "desc": "If your opponent added a card(s) from the Deck to the hand this turn, except during the Draw Phase: Inflict 400 damage to your opponent for each card in their hand, then if the total number of cards in their hand, field, and GY is 20 or more, you can banish their entire hand. You can only activate 1 \"Penalty Game \"GREED, the Illusion of Avarice\"\" per turn.",
+    "overallString": "[Trap]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268011.jpg?version=19.7"
+  },
+  {
+    "name": "Zombyra",
+    "desc": "When this card declares an attack: You lose 500 LP, and if you do, this card gains 500 ATK. When a monster is destroyed by battle: You can equip this card from your GY to the monster that destroyed that monster, then you can destroy the 1 monster your opponent controls with the highest ATK (your choice, if tied). The equipped monster's name becomes \"Zombyra\", also its effects are negated. When the equipped monster declares an attack: Its controller loses 500 LP, and if they do, the equipped monster gains 500 ATK.",
+    "overallString": "[Monster|Effect] Warrior/Dark  [★4] 2100/500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268012.jpg?version=19.7"
+  },
+  {
+    "name": "Evil Dragon Cards - Earth Dragon",
+    "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by revealing 3 EARTH monsters in your hand, including this card. You can reveal this card in your hand; add 1 \"Dragon Card\" card from your Deck to your hand, then discard 1 card. When your opponent activates a monster effect on the field (Quick Effect): You can negate that effect, then if a WATER monster is on the field, this card cannot be destroyed by battle or card effects this turn. You can only use each effect of \"Evil Dragon Cards - Earth Dragon\" once per turn.",
+    "overallString": "[Monster|Effect|Special Summon] Dragon/Earth  [★4] 1200/2000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268013.jpg?version=19.7"
+  },
+  {
+    "name": "Evil Dragon Cards - Metal Dragon",
+    "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by revealing 3 LIGHT monsters in your hand, including this card. You can reveal this card in your hand; add 1 \"Dragon Card\" card from your Deck to your hand, then discard 1 card. During the Main Phase (Quick Effect): You can destroy 1 monster your opponent controls, and if you do, send this card to the GY, then if an EARTH monster is on the field, you can draw 1 card. You can only use each effect of \"Evil Dragon Cards - Metal Dragon\" once per turn.",
+    "overallString": "[Monster|Effect|Special Summon] Dragon/Light  [★5] 2100/1500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268014.jpg?version=19.7"
+  },
+  {
+    "name": "Cielo, the Veil of Raise Moon",
+    "desc": "When you draw this card: You can reveal it; Special Summon it. If this card is in your hand: You can place 1 other card from your hand or face-up field on the bottom of the Deck; Special Summon this card. During the Main Phase (Quick Effect): You can draw 1 card. You cannot add cards from the Deck to the hand the turn you activate this effect, except by drawing them. You can only use this effect of \"Cielo, the Veil of Raise Moon\" once per turn.",
     "overallString": "[Monster|Effect] Spellcaster/Light  [★7] 2100/2100",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100267016.jpg?version=19.7"
   },

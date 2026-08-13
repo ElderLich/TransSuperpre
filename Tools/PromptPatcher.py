@@ -855,6 +855,26 @@ def build_translation_pack(lang: str):
 
     # Extra phrases (keep phrase-level; avoid single-word glue)
     extras = {
+        "诱发选择效果": {
+            "en": "Choose an effect to activate",
+            "fr": "Choisir un effet à activer",
+            "de": "Wähle einen Effekt zum Aktivieren",
+            "es": "Elige un efecto para activar",
+            "pt": "Escolha um efeito para ativar",
+            "it": "Scegli un effetto da attivare",
+            "ja": "発動する効果を選ぶ",
+            "kr": "발동할 효과를 선택",
+        },
+        "破坏并无效": {
+            "en": "Destroy a monster and negate another monster's effects",
+            "fr": "Détruire un monstre et annuler les effets d'un autre monstre",
+            "de": "Zerstöre ein Monster und annulliere die Effekte eines anderen Monsters",
+            "es": "Destruir un monstruo y negar los efectos de otro monstruo",
+            "pt": "Destruir um monstro e negar os efeitos de outro monstro",
+            "it": "Distruggere un mostro e annullare gli effetti di un altro mostro",
+            "ja": "モンスター1体を破壊し、別のモンスター1体の効果を無効にする",
+            "kr": "몬스터 1장을 파괴하고 다른 몬스터 1장의 효과를 무효화",
+        },
         "回卡组并特殊召唤": {
             "en": "Return to the Deck and Special Summon",
             "fr": "Renvoyer au Deck et Invoquer Spécialement",
