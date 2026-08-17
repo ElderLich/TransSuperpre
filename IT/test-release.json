@@ -1,54 +1,162 @@
 [
   {
-    "name": "Rilancio Lunare Velo Cielo",
-    "desc": "Quando peschi questa carta: puoi rivelarla; Evoca Specialmente questa carta.\r\nSe questa carta è nella tua mano: puoi mettere 1 altra carta dalla tua mano o scoperta che controlli in fondo al Deck; Evoca Specialmente questa carta.\r\nDurante la Main Phase (Effetto Rapido): puoi pescare 1 carta. Non puoi aggiungere carte dal Deck alla mano durante il turno in cui attivi questo effetto, eccetto pescandole. Puoi utilizzare questo effetto di \"Rilancio Lunare Velo Cielo\" una sola volta per turno.",
+    "name": "Il Poeta della Divinità del Sole - Helpoemer",
+    "desc": "Puoi scartare 1 altra carta; Evoca Specialmente questa carta dalla tua mano.\r\nSe questa carta viene Evocata Specialmente: puoi aggiungere 1 carta \"Divinità del Sole\" dal tuo Deck alla tua mano, eccetto \"Il Poeta della Divinità del Sole - Helpoemer\", poi, se i LP del tuo avversario sono superiori ai tuoi di almeno 2000, puoi scartare 1 carta casuale dalla sua mano.\r\nDurante la End Phase, se \"La Divinità del Sole Immortale\" è stata mandata nel tuo Cimitero in questo turno: puoi aggiungere questa carta dal tuo Cimitero alla tua mano.\r\nPuoi utilizzare ciascun effetto de \"Il Poeta della Divinità del Sole - Helpoemer\" una sola volta per turno.",
+    "overallString": "[Mostro|Effetto] Demone/Oscurità  [★5] 2000/1400",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101307001.jpg?version=19.7"
+  },
+  {
+    "name": "Il Distruttore della Divinità del Sole - Makyura",
+    "desc": "Se questa carta viene Evocata Normalmente o Specialmente, oppure mandata dalla mano o dal Terreno al Cimitero: puoi Posizionare 1 Magia/Trappola \"Divinità del Sole\" dalla tua mano o Deck e, se hai Posizionato una Trappola o una Magia Rapida, essa può essere attivata in questo turno.\r\nDurante la End Phase, se \"La Divinità del Sole Immortale\" è stata mandata nel tuo Cimitero in questo turno: puoi aggiungere questa carta dal tuo Cimitero alla tua mano.\r\nPuoi utilizzare ciascun effetto de \"Il Distruttore della Divinità del Sole - Makyura\" una sola volta per turno.",
+    "overallString": "[Mostro|Effetto] Guerriero/Oscurità  [★4] 1600/1200",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101307002.jpg?version=19.7"
+  },
+  {
+    "name": "La Macchina del Terrore della Divinità del Sole - Gilgarth",
+    "desc": "Se questa carta è nella tua mano e controlli una carta \"Divinità del Sole\": puoi Evocare Specialmente questa carta.\r\nPuoi offrire come Tributo questa carta, poi scegliere come bersaglio 1 altra carta in uno dei due Cimiteri; manda 1 carta \"Divinità del Sole\" dal tuo Deck al Cimitero e, se lo fai, metti la carta scelta come bersaglio in fondo al Deck.\r\nDurante la End Phase, se \"La Divinità del Sole Immortale\" è stata mandata nel tuo Cimitero in questo turno: puoi aggiungere questa carta dal tuo Cimitero alla tua mano.\r\nPuoi utilizzare ciascun effetto de \"La Macchina del Terrore della Divinità del Sole - Gilgarth\" una sola volta per turno.",
+    "overallString": "[Mostro|Effetto] Demone/Oscurità  [★4] 1800/1200",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101307003.jpg?version=19.7"
+  },
+  {
+    "name": "Il Dispositivo di Tortura della Divinità del Sole - Des Viser Shock",
+    "desc": "Non può essere distrutta in battaglia.\r\nPuoi utilizzare ciascuno dei seguenti effetti de \"Il Dispositivo di Tortura della Divinità del Sole - Des Viser Shock\" una sola volta per turno.\r\nSe uno o più mostri vengono mandati al Cimitero del tuo avversario e controlli una carta \"Divinità del Sole\", anche durante il Damage Step: puoi Evocare Specialmente questa carta dalla tua mano e, se lo fai, fai ritornare 1 altra carta sul Terreno nella mano/Extra Deck e, se lo fai, infliggi 800 danni al tuo avversario.\r\nDurante la End Phase, se \"La Divinità del Sole Immortale\" è stata mandata nel tuo Cimitero in questo turno: puoi aggiungere questa carta dal tuo Cimitero alla tua mano.",
+    "overallString": "[Mostro|Effetto] Demone/Oscurità  [★4] 800/1200",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101307004.jpg?version=19.7"
+  },
+  {
+    "name": "La Divinità del Sole e dell'Oscurità - Drago Alato di Ra",
+    "desc": "\"Drago Alato di Ra\" + 3 mostri \"Divinità del Sole\"\r\nImmune agli effetti delle altre carte.\r\nUna volta per turno, durante la Main Phase (Effetto Rapido): puoi scartare un qualsiasi numero di carte \"Divinità del Sole\", poi scegli quel numero di Zone Mostro Main occupate del tuo avversario; il tuo avversario deve mandare i mostri in quelle zone al Cimitero.\r\nQuando viene dichiarato un attacco che coinvolge questa carta: puoi pagare LP in modo da rimanere con 1 LP; questa carta guadagna ATK/DEF pari all'ammontare di LP pagati e all'ATK totale di tutti i mostri \"Divinità del Sole\" attualmente nel tuo Cimitero.",
+    "overallString": "[Mostro|Effetto|Fusione] Bestia Divina/Divino  [★10] ?/?",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101307030.jpg?version=19.7"
+  },
+  {
+    "name": "La Gabbia d'Acciaio della Divinità del Sole - Lava Golem",
+    "desc": "1 mostro \"Divinità del Sole\" che controlli + 2 mostri scoperti sul Terreno\r\nNon può essere utilizzato come Materiale da Fusione.\r\nDeve essere Evocato tramite Fusione, oppure Evocato Specialmente (dal tuo Extra Deck) nella Zona Mostro Main del tuo avversario mandando le carte sopra indicate da qualsiasi Terreno al Cimitero, ma se Evochi Specialmente questa carta con il secondo metodo, puoi effettuare solo 1 Evocazione Speciale per il resto di questo turno. Puoi Evocare Specialmente \"La Gabbia d'Acciaio della Divinità del Sole - Lava Golem\" una sola volta per turno in questo modo, indipendentemente dal metodo utilizzato.\r\nUna volta per turno, durante la Standby Phase: subisci 1000 danni.",
+    "overallString": "[Mostro|Effetto|Fusione] Demone/Fuoco  [★8] 3000/2500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101307031.jpg?version=19.7"
+  },
+  {
+    "name": "La Divinità del Sole Immortale",
+    "desc": "Evoca Specialmente 1 mostro \"Drago Alato di Ra\" dal tuo Cimitero o dalle tue carte bandite, ignorando le sue condizioni di Evocazione, poi, se hai Evocato Specialmente \"Drago Alato di Ra\" con questo effetto, mandalo al Cimitero e, se lo fai, puoi Evocare Specialmente 1 mostro \"Drago Alato di Ra\" dal tuo Extra Deck. Durante la End Phase, manda i mostri Evocati Specialmente con questo effetto al Cimitero.\r\nDurante la tua Main Phase, se questa carta è nel tuo Cimitero: puoi scartare 1 carta \"Divinità del Sole\"; aggiungi questa carta alla tua mano.\r\nPuoi utilizzare ciascun effetto di \"La Divinità del Sole Immortale\" una sola volta per turno.",
+    "overallString": "[Magia|Rapida]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101307051.jpg?version=19.7"
+  },
+  {
+    "name": "La Divinità del Sole che Conduce nell'Oscurità",
+    "desc": "Attiva questa carta mandando 1 mostro \"Drago Alato di Ra\" dalla tua mano, Deck o Terreno scoperto al Cimitero.\r\nDurante la tua Main Phase, se questa carta è stata attivata in questo turno: puoi aggiungere 1 mostro \"Divinità del Sole\" dal tuo Deck alla tua mano.\r\nSe uno o più mostri vengono distrutti in battaglia: il loro controllore subisce danno pari al loro ATK originale, poi, se hai \"Drago Alato di Ra\" nel tuo Cimitero, guadagni 1000 LP.\r\nPuoi utilizzare ciascun effetto di \"La Divinità del Sole che Conduce nell'Oscurità\" una sola volta per turno.",
+    "overallString": "[Magia|Continua]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101307052.jpg?version=19.7"
+  },
+  {
+    "name": "Dominio della Divinità del Sole",
+    "desc": "Se un mostro \"Drago Alato di Ra\" è sul Terreno: applica i seguenti effetti in ordine.\r\n● Evoca Specialmente 1 mostro da ogni Cimitero sul tuo Terreno.\r\n● Se \"Drago Alato di Ra\" è sul Terreno, prendi il controllo di tutti i mostri controllati dal tuo avversario.\r\nPuoi bandire questa carta dal tuo Cimitero e offrire come Tributo 1 mostro \"Drago Alato di Ra\"; guadagni LP pari all'ATK che aveva sul Terreno.\r\nPuoi utilizzare ciascun effetto di \"Dominio della Divinità del Sole\" una sola volta per turno.",
+    "overallString": "[Trappola]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101307072.jpg?version=19.7"
+  },
+  {
+    "name": "Il Protettore della Divinità del Sole - Poltiglia Divinità Egizia",
+    "desc": "Evoca Specialmente questa carta in Posizione di Difesa come Mostro con Effetto (Acqua/ACQUA/Livello 10/ATK 3000/DEF 3000) con i seguenti effetti (questa carta è ancora anche una Trappola).\r\n● Se questa carta viene Evocata Specialmente: puoi aggiungere 1 carta \"Divinità del Sole\" dal tuo Deck alla tua mano, poi, se hai aggiunto un mostro con questo effetto durante il turno del tuo avversario, puoi Evocarlo Specialmente.\r\n● Non può essere distrutto dagli effetti delle carte.\r\nPuoi attivare solo 1 \"Il Protettore della Divinità del Sole - Poltiglia Divinità Egizia\" per turno.",
+    "overallString": "[Trappola|Continua]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101307073.jpg?version=19.7"
+  },
+  {
+    "name": "Supercritico",
+    "desc": "Quando questa carta viene attivata: puoi aggiungere 1 carta con un effetto che richiede un tiro di dado dal tuo Deck alla tua mano.\r\nUna volta per Catena per giocatore, se uno dei due giocatori ottiene 1 con il tiro del dado di un effetto di una carta: quel giocatore può attivare 1 dei seguenti effetti;\r\n● Distrugge fino a 3 mostri controllati dal suo avversario.\r\n● Distrugge 1 mostro controllato dal suo avversario e, se lo fa, annulla gli effetti di 1 mostro controllato dal suo avversario.\r\n● Evoca Specialmente 1 mostro dal suo Cimitero.\r\nPuoi attivare solo 1 \"Supercritico\" per turno.",
+    "overallString": "[Magia|Continua]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268015.jpg?version=19.7"
+  },
+  {
+    "name": "Drago Revolver, il Drago Macchina",
+    "desc": "Se non controlli nessun mostro, puoi Evocare Normalmente questa carta senza offrire Tributi.\r\nPuoi utilizzare ciascuno dei seguenti effetti di \"Drago Revolver, il Drago Macchina\" una sola volta per turno.\r\nDurante la tua Main Phase: puoi aggiungere 1 mostro OSCURITÀ Macchina dal tuo Deck alla tua mano, eccetto \"Drago Revolver, il Drago Macchina\".\r\nDurante la Battle Phase, se questa carta è nel tuo Cimitero perché è stata mandata lì dal Terreno in questo turno (Effetto Rapido): puoi Evocare Specialmente questa carta e, se lo fai, lancia una moneta 3 volte, poi puoi distruggere mostri sul Terreno fino al numero di volte in cui è uscita testa.",
+    "overallString": "[Mostro|Effetto] Macchina/Oscurità  [★7] 2600/2200",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268005.jpg?version=19.7"
+  },
+  {
+    "name": "Abbandono, l'Occhio Malvagio dell'Illusione",
+    "desc": "Puoi Evocare tramite Rituale questa carta con \"Abbandono, l'Occhio Malvagio dell'Illusione\".\r\nIl tuo avversario subisce qualsiasi danno da combattimento che avresti subito dalle battaglie che coinvolgono questa carta.\r\nPuoi utilizzare ciascuno dei seguenti effetti di \"Abbandono, l'Occhio Malvagio dell'Illusione\" una sola volta per turno.\r\nSe questa carta è nella tua mano: puoi offrire come Tributo 2 mostri; Evoca Specialmente questa carta (questa viene considerata come un'Evocazione tramite Rituale).\r\nDurante la Main Phase (Effetto Rapido): puoi scegliere come bersaglio 1 Mostro con Effetto controllato dal tuo avversario; annulla i suoi effetti e, se lo fai, equipaggialo a questa carta come una Magia Equipaggiamento che le fa guadagnare 2000 ATK.",
+    "overallString": "[Mostro|Effetto|Rituale] Illusione/Oscurità  [★1] 0/0",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268006.jpg?version=19.7"
+  },
+  {
+    "name": "Gilford il Fulmine, il Guerriero dei Lampi",
+    "desc": "Puoi Evocare Specialmente questa carta (dalla tua mano) offrendo come Tributo 3 mostri e, se hai offerto come Tributo uno o più mostri di proprietà del tuo avversario, il tuo avversario non può attivare carte o effetti quando questa carta viene Evocata Specialmente in questo modo.\r\nSe viene Evocata in questo modo: il tuo avversario deve mandare tutti i mostri che controlla al Cimitero.\r\nSe questa carta viene mandata al Cimitero: puoi attivare questo effetto; durante la End Phase di questo turno, aggiungi 1 mostro Guerriero dal tuo Deck alla tua mano. Puoi utilizzare questo effetto di \"Gilford il Fulmine, il Guerriero dei Lampi\" una sola volta per turno.",
+    "overallString": "[Mostro|Effetto] Guerriero/Luce  [★8] 2800/1400",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268008.jpg?version=19.7"
+  },
+  {
+    "name": "Gioco di Penalità - AVIDITÀ, l'Illusione dell'Avarizia",
+    "desc": "Se il tuo avversario ha aggiunto una o più carte dal Deck alla mano in questo turno, eccetto durante la Draw Phase: infliggi 400 danni al tuo avversario per ogni carta nella sua mano, poi, se il numero totale di carte nella sua mano, sul suo Terreno e nel suo Cimitero è 20 o più, puoi bandire tutta la sua mano.\r\nPuoi attivare solo 1 \"Gioco di Penalità - AVIDITÀ, l'Illusione dell'Avarizia\" per turno.",
+    "overallString": "[Trappola]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268011.jpg?version=19.7"
+  },
+  {
+    "name": "Zombyra",
+    "desc": "Quando questa carta dichiara un attacco: perdi 500 LP e, se lo fai, questa carta guadagna 500 ATK.\r\nQuando un mostro viene distrutto in battaglia: puoi equipaggiare questa carta dal tuo Cimitero al mostro che ha distrutto quel mostro, poi puoi distruggere il mostro controllato dal tuo avversario con l'ATK più alto (a tua scelta, se c'è un pareggio).\r\nIl nome del mostro equipaggiato diventa \"Zombyra\", inoltre i suoi effetti sono annullati.\r\nQuando il mostro equipaggiato dichiara un attacco: il suo controllore perde 500 LP e, se lo fa, il mostro equipaggiato guadagna 500 ATK.",
+    "overallString": "[Mostro|Effetto] Guerriero/Oscurità  [★4] 2100/500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268012.jpg?version=19.7"
+  },
+  {
+    "name": "Carta Drago Malvagia - Drago di Terra",
+    "desc": "Non può essere Evocato Normalmente/Posizionato. Deve prima essere Evocato Specialmente (dalla tua mano) rivelando 3 mostri TERRA nella tua mano, incluso questa carta.\r\nPuoi rivelare questa carta nella tua mano; aggiungi 1 carta \"Carta Drago\" dal tuo Deck alla tua mano, poi scarta 1 carta.\r\nQuando il tuo avversario attiva l'effetto di un mostro sul Terreno (Effetto Rapido): puoi annullare quell'effetto, poi, se c'è un mostro ACQUA sul Terreno, questa carta non può essere distrutta in battaglia o dagli effetti delle carte in questo turno.\r\nPuoi utilizzare ciascun effetto di \"Carta Drago Malvagia - Drago di Terra\" una sola volta per turno.",
+    "overallString": "[Mostro|Effetto|Evocazione Speciale] Drago/Terra  [★4] 1200/2000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268013.jpg?version=19.7"
+  },
+  {
+    "name": "Carta Drago Malvagia - Drago di Metallo",
+    "desc": "Non può essere Evocato Normalmente/Posizionato. Deve prima essere Evocato Specialmente (dalla tua mano) rivelando 3 mostri LUCE nella tua mano, incluso questa carta.\r\nPuoi rivelare questa carta nella tua mano; aggiungi 1 carta \"Carta Drago\" dal tuo Deck alla tua mano, poi scarta 1 carta.\r\nDurante la Main Phase (Effetto Rapido): puoi distruggere 1 mostro controllato dal tuo avversario e, se lo fai, manda questa carta al Cimitero, poi, se c'è un mostro TERRA sul Terreno, puoi pescare 1 carta.\r\nPuoi utilizzare ciascun effetto di \"Carta Drago Malvagia - Drago di Metallo\" una sola volta per turno.",
+    "overallString": "[Mostro|Effetto|Evocazione Speciale] Drago/Luce  [★5] 2100/1500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268014.jpg?version=19.7"
+  },
+  {
+    "name": "Cielo, Velo del Rilancio Lunare",
+    "desc": "Quando peschi questa carta: puoi rivelarla; Evoca Specialmente questa carta.\r\nSe questa carta è nella tua mano: puoi mettere 1 altra carta dalla tua mano o scoperta che controlli in fondo al Deck; Evoca Specialmente questa carta.\r\nDurante la Main Phase (Effetto Rapido): puoi pescare 1 carta. Non puoi aggiungere carte dal Deck alla mano durante il turno in cui attivi questo effetto, eccetto pescandole. Puoi utilizzare questo effetto di \"Cielo, Velo del Rilancio Lunare\" una sola volta per turno.",
     "overallString": "[Mostro|Effetto] Incantatore/Luce  [★7] 2100/2100",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100267016.jpg?version=19.7"
   },
   {
-    "name": "Rilancio Lunare Eleganza Carol",
+    "name": "Carol, Eleganza del Rilancio Lunare",
     "desc": "Quando peschi questa carta: puoi rivelarla; Evoca Specialmente questa carta.\r\nPuoi Evocare Normalmente questa carta senza offrire Tributi, ma il suo ATK originale diventa 700.\r\nSe questa carta viene Evocata Normalmente o Specialmente dalla mano: puoi pescare 1 carta, inoltre non puoi Evocare Specialmente dall'Extra Deck per il resto di questo turno, eccetto Mostri Xyz LUCE.\r\nNon puoi aggiungere carte dal Deck alla mano durante il turno in cui attivi questo effetto, eccetto pescandole.",
     "overallString": "[Mostro|Effetto] Zombie/Oscurità  [★7] 1400/1400",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100267017.jpg?version=19.7"
   },
   {
-    "name": "Rilancio Lunare Ali Rapi",
+    "name": "Rapi, Ali del Rilancio Lunare",
     "desc": "Quando peschi questa carta: puoi rivelarla; Evoca Specialmente questa carta.\r\nSe questa carta viene Evocata Normalmente o Specialmente dalla mano: puoi pescare 1 carta, inoltre non puoi Evocare Specialmente dall'Extra Deck per il resto di questo turno, eccetto Mostri Xyz LUCE. Non puoi aggiungere carte dal Deck alla mano durante il turno in cui attivi questo effetto, eccetto pescandole.\r\nUna volta per turno dell'avversario, puoi (Effetto Rapido): subito dopo che questo effetto si è risolto, Evoca Xyz 1 mostro LUCE di Rango 7.",
     "overallString": "[Mostro|Effetto] Bestia/Terra  [★7] 700/2100",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100267018.jpg?version=19.7"
   },
   {
-    "name": "Rilancio Lunare Lama Shayna",
-    "desc": "Quando peschi questa carta: puoi rivelarla; Evoca Specialmente questa carta.\r\nSe viene Evocata in questo modo: puoi scegliere come bersaglio 1 mostro controllato dal tuo avversario; mettilo in fondo al Deck.\r\nPuoi scartare questa carta; pesca 1 carta. Non puoi aggiungere carte dal Deck alla mano durante il turno in cui attivi questo effetto, eccetto pescandole. Puoi utilizzare questo effetto di \"Rilancio Lunare Lama Shayna\" una sola volta per turno.",
+    "name": "Shayna, Lama del Rilancio Lunare",
+    "desc": "Quando peschi questa carta: puoi rivelarla; Evoca Specialmente questa carta.\r\nSe viene Evocata in questo modo: puoi scegliere come bersaglio 1 mostro controllato dal tuo avversario; mettilo in fondo al Deck.\r\nPuoi scartare questa carta; pesca 1 carta. Non puoi aggiungere carte dal Deck alla mano durante il turno in cui attivi questo effetto, eccetto pescandole. Puoi utilizzare questo effetto di \"Shayna, Lama del Rilancio Lunare\" una sola volta per turno.",
     "overallString": "[Mostro|Effetto] Guerriero/Vento  [★7] 2800/1400",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100267019.jpg?version=19.7"
   },
   {
-    "name": "Rilancio Lunare Lampada Croucier",
-    "desc": "Quando peschi questa carta: puoi rivelarla; Evoca Specialmente questa carta.\r\nSe viene Evocata in questo modo: puoi scegliere come bersaglio 1 Magia/Trappola controllata dal tuo avversario; mettila in fondo al Deck.\r\nPuoi scartare questa carta; pesca 1 carta. Non puoi aggiungere carte dal Deck alla mano durante il turno in cui attivi questo effetto, eccetto pescandole. Puoi utilizzare questo effetto di \"Rilancio Lunare Lampada Croucier\" una sola volta per turno.",
+    "name": "Croucier, Lampada del Rilancio Lunare",
+    "desc": "Quando peschi questa carta: puoi rivelarla; Evoca Specialmente questa carta.\r\nSe viene Evocata in questo modo: puoi scegliere come bersaglio 1 Magia/Trappola controllata dal tuo avversario; mettila in fondo al Deck.\r\nPuoi scartare questa carta; pesca 1 carta. Non puoi aggiungere carte dal Deck alla mano durante il turno in cui attivi questo effetto, eccetto pescandole. Puoi utilizzare questo effetto di \"Croucier, Lampada del Rilancio Lunare\" una sola volta per turno.",
     "overallString": "[Mostro|Effetto] Drago/Fuoco  [★7] 2800/700",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100267020.jpg?version=19.7"
   },
   {
-    "name": "Rilancio Lunare Iniziatore Squeeze",
-    "desc": "(Effetto Rapido): puoi scartare questa carta, poi attivare 1 dei seguenti effetti (ma puoi utilizzare ciascuno dei seguenti effetti di \"Rilancio Lunare Iniziatore Squeeze\" una sola volta per turno).\n\r\n● Non puoi Evocare Specialmente dall'Extra Deck fino alla fine del prossimo turno, eccetto Mostri Xyz di Rango 7, inoltre, durante questo turno, ogni volta che una o più carte vengono aggiunte alla mano del tuo avversario, eccetto pescandole, pesca immediatamente 1 carta.\r\n\n● Pesca 1 carta.\n\r\nNon puoi aggiungere carte dal Deck alla mano durante il Duello in cui attivi questo effetto, eccetto pescandole.",
+    "name": "Squeeze, Iniziatore del Rilancio Lunare",
+    "desc": "(Effetto Rapido): puoi scartare questa carta, poi attivare 1 dei seguenti effetti (ma puoi utilizzare ciascuno dei seguenti effetti di \"Squeeze, Iniziatore del Rilancio Lunare\" una sola volta per turno).\r\n● Non puoi Evocare Specialmente dall'Extra Deck fino alla fine del prossimo turno, eccetto Mostri Xyz di Rango 7, inoltre, durante questo turno, ogni volta che una o più carte vengono aggiunte alla mano del tuo avversario, eccetto pescandole, pesca immediatamente 1 carta.\r\n● Pesca 1 carta.\r\nNon puoi aggiungere carte dal Deck alla mano durante il Duello in cui attivi questo effetto, eccetto pescandole.",
     "overallString": "[Mostro|Effetto] Acqua/Acqua  [★7] 700/1400",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100267021.jpg?version=19.7"
   },
   {
-    "name": "Rilancio Lunare Cielo Celeste - Niente Più Puntate",
-    "desc": "2 mostri \"Rilancio Lunare\" di Livello 7\r\nNon può essere utilizzato come materiale per un'Evocazione tramite Fusione, Xyz o Link.\r\nSe questa carta sotto il tuo comando viene mandata al Cimitero dall'effetto di una carta del tuo avversario: puoi pescare 1 carta.\r\nApplica i seguenti effetti mentre questa carta è nella Zona Mostri Extra.\n\r\n● Immune agli effetti delle altre carte.\r\n\n● Quando si risolve una carta o un effetto attivato dal tuo avversario che include un effetto che aggiunge una o più carte dal Deck alla mano, puoi far diventare quell'effetto \"Pesca 1 carta\".\n\r\n● Una volta per turno (Effetto Rapido): puoi staccare 1 materiale da questa carta; pesca 1 carta.",
+    "name": "Cielo, Notte Celeste del Rilancio Lunare - Niente Più Puntate",
+    "desc": "2 mostri \"Rilancio Lunare\" di Livello 7\r\nNon può essere utilizzato come materiale per un'Evocazione tramite Fusione, Xyz o Link.\r\nSe questa carta sotto il tuo comando viene mandata al Cimitero dall'effetto di una carta del tuo avversario: puoi pescare 1 carta.\r\nApplica i seguenti effetti mentre questa carta è nella Zona Mostri Extra.\r\n● Immune agli effetti delle altre carte.\r\n● Quando si risolve una carta o un effetto attivato dal tuo avversario che include un effetto che aggiunge una o più carte dal Deck alla mano, puoi far diventare quell'effetto \"Pesca 1 carta\".\r\n● Una volta per turno (Effetto Rapido): puoi staccare 1 materiale da questa carta; pesca 1 carta.",
     "overallString": "[Mostro|Effetto|Xyz] Incantatore/Luce  [☆7] 2100/2100",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100267022.jpg?version=19.7"
   },
   {
-    "name": "Rilancio Lunare Speranza Squeeze - Jackpot",
-    "desc": "2+ mostri di Livello 7\r\n\nI mostri del tuo avversario non possono scegliere come bersaglio i mostri per gli attacchi, eccetto questa carta.\r\nSe questa carta viene Evocata Xyz, o se uno o più mostri vengono Evocati Specialmente dalla mano: puoi staccare un qualsiasi numero di materiali da questa carta; metti un numero di carte controllate dal tuo avversario pari a quello staccato in fondo al Deck, in qualsiasi ordine. Puoi utilizzare questo effetto di \"Rilancio Lunare Speranza Squeeze - Jackpot\" una sola volta per turno.\r\nOgni volta che una o più carte lasciano il Deck del tuo avversario, eccetto pescandole: puoi attaccare la prima carta del suo Deck a questa carta.",
+    "name": "Squeeze, Speranza del Rilancio Lunare - Jackpot",
+    "desc": "2+ mostri di Livello 7\r\nI mostri del tuo avversario non possono scegliere come bersaglio i mostri per gli attacchi, eccetto questa carta.\r\nSe questa carta viene Evocata Xyz, o se uno o più mostri vengono Evocati Specialmente dalla mano: puoi staccare un qualsiasi numero di materiali da questa carta; metti un numero di carte controllate dal tuo avversario pari a quello staccato in fondo al Deck, in qualsiasi ordine. Puoi utilizzare questo effetto di \"Squeeze, Speranza del Rilancio Lunare - Jackpot\" una sola volta per turno.\r\nOgni volta che una o più carte lasciano il Deck del tuo avversario, eccetto pescandole: puoi attaccare la prima carta del suo Deck a questa carta.",
     "overallString": "[Mostro|Effetto|Xyz] Macchina/Luce  [☆7] 1400/2800",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100267023.jpg?version=19.7"
   },
   {
-    "name": "Rilancio Lunare - La Città che Non Dorme Mai",
+    "name": "La Città che Non Dorme Mai del Rilancio Lunare",
     "desc": "La prima volta ogni turno che un mostro \"Rilancio Lunare\" di Livello 7 che controlli sta per essere distrutto dall'effetto di una carta, non viene distrutto.\r\nUna volta per turno, durante la End Phase: Mischia nel Deck tutte le carte \"Rilancio Lunare\" nel tuo Cimitero e bandite.\r\nUna volta per turno: puoi attivare 1 dei seguenti effetti.\r\n● Metti 1 carta dalla tua mano in cima o in fondo al Deck, poi pesca 1 carta.\r\n● Se controlli un Mostro Xyz \"Rilancio Lunare\" Incantatore: puoi pescare 1 carta.",
     "overallString": "[Magia|Continua]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100267025.jpg?version=19.7"
@@ -66,62 +174,62 @@
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306281.jpg?version=19.7"
   },
   {
-    "name": "Xenoinvasore del Vuoto Gehenna",
-    "desc": "Se questa carta viene Evocata Normalmente o Specialmente: bandisci coperta la prima carta del tuo Deck.\r\nPuoi utilizzare ciascuno dei seguenti effetti di \"Xenoinvasore del Vuoto Gehenna\" una sola volta per turno.\r\nSe questa carta è nella tua mano e non controlli mostri: puoi Evocare Specialmente questa carta.\r\nDurante la tua Main Phase: puoi aggiungere alla tua mano fino a 2 dei tuoi mostri \"Xenoinvasore\" banditi coperti con nomi diversi, eccetto \"Xenoinvasore del Vuoto Gehenna\", inoltre non puoi attivare carte o effetti per il resto di questo turno, eccetto carte o effetti \"Xenoinvasore\".",
+    "name": "Fenditura dei Tre Regni del Vuoto Gehenna",
+    "desc": "Se questa carta viene Evocata Normalmente o Specialmente: bandisci coperta la prima carta del tuo Deck.\r\nPuoi utilizzare ciascuno dei seguenti effetti di \"Fenditura dei Tre Regni del Vuoto Gehenna\" una sola volta per turno.\r\nSe questa carta è nella tua mano e non controlli mostri: puoi Evocare Specialmente questa carta.\r\nDurante la tua Main Phase: puoi aggiungere alla tua mano fino a 2 dei tuoi mostri \"Fenditura dei Tre Regni\" banditi coperti con nomi diversi, eccetto \"Fenditura dei Tre Regni del Vuoto Gehenna\", inoltre non puoi attivare carte o effetti per il resto di questo turno, eccetto carte o effetti \"Fenditura dei Tre Regni\".",
     "overallString": "[Mostro|Effetto] Psichico/Oscurità  [★1] 100/1000",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100267031.jpg?version=19.7"
   },
   {
-    "name": "Xenoinvasore dello Sheol Celeste",
-    "desc": "Se questa carta viene Evocata Normalmente o Specialmente: bandiscin coperte le prime 2 carte del tuo Deck. Puoi utilizzare ciascuno dei seguenti effetti di \"Xenoinvasore dello Sheol Celeste\" una sola volta per turno.\r\nSe questa carta è nella tua mano e controlli un mostro \"Xenoinvasore\": puoi Evocare Specialmente questa carta.\r\nDurante la tua Main Phase: puoi aggiungere alla tua mano fino a 2 Magie/Trappole \"Xenoinvasore\" bandite coperte con nomi diversi, inoltre non puoi attivare carte o effetti per il resto di questo turno, eccetto carte o effetti \"Xenoinvasore\".",
+    "name": "Fenditura dei Tre Regni dello Sheol Celeste",
+    "desc": "Se questa carta viene Evocata Normalmente o Specialmente: bandiscin coperte le prime 2 carte del tuo Deck. Puoi utilizzare ciascuno dei seguenti effetti di \"Fenditura dei Tre Regni dello Sheol Celeste\" una sola volta per turno.\r\nSe questa carta è nella tua mano e controlli un mostro \"Fenditura dei Tre Regni\": puoi Evocare Specialmente questa carta.\r\nDurante la tua Main Phase: puoi aggiungere alla tua mano fino a 2 Magie/Trappole \"Fenditura dei Tre Regni\" bandite coperte con nomi diversi, inoltre non puoi attivare carte o effetti per il resto di questo turno, eccetto carte o effetti \"Fenditura dei Tre Regni\".",
     "overallString": "[Mostro|Effetto] Psichico/Luce  [★2] 1200/200",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100267032.jpg?version=19.7"
   },
   {
-    "name": "Xenoinvasore di Tuonela Blu",
-    "desc": "Se questa carta viene Evocata Normalmente o Specialmente: bandisci coperte le prime 3 carte del tuo Deck.\r\nPuoi utilizzare ciascuno dei seguenti effetti di \"Xenoinvasore di Tuonela Blu\" una sola volta per turno.\r\nSe questa carta è nella tua mano e il tuo avversario controlla più mostri di te: puoi Evocare Specialmente questa carta.\r\nDurante la tua Main Phase: puoi Evocare Specialmente 1 dei tuoi mostri \"Xenoinvasore\" di Livello 5 o superiore banditi coperti, inoltre non puoi attivare carte o effetti per il resto di questo turno, eccetto carte o effetti \"Xenoinvasore\".",
+    "name": "Fenditura dei Tre Regni di Tuonela Blu",
+    "desc": "Se questa carta viene Evocata Normalmente o Specialmente: bandisci coperte le prime 3 carte del tuo Deck.\r\nPuoi utilizzare ciascuno dei seguenti effetti di \"Fenditura dei Tre Regni di Tuonela Blu\" una sola volta per turno.\r\nSe questa carta è nella tua mano e il tuo avversario controlla più mostri di te: puoi Evocare Specialmente questa carta.\r\nDurante la tua Main Phase: puoi Evocare Specialmente 1 dei tuoi mostri \"Fenditura dei Tre Regni\" di Livello 5 o superiore banditi coperti, inoltre non puoi attivare carte o effetti per il resto di questo turno, eccetto carte o effetti \"Fenditura dei Tre Regni\".",
     "overallString": "[Mostro|Effetto] Psichico/Acqua  [★3] 300/2000",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100267033.jpg?version=19.7"
   },
   {
-    "name": "Xenoinvasore del Naraka Scarlatto",
-    "desc": "Se questa carta viene Evocata Normalmente o Specialmente: bandisci coperte le prime 4 carte del tuo Deck.\r\nPuoi utilizzare ciascuno dei seguenti effetti di \"Xenoinvasore del Naraka Scarlatto\" una sola volta per turno.\r\nSe il tuo avversario Evoca Specialmente uno o più mostri: puoi Evocare Specialmente questa carta dalla tua mano.\r\nDurante la Main Phase del tuo avversario (Effetto Rapido): puoi Evocare Specialmente 1 dei tuoi mostri \"Xenoinvasore\" di Livello 5 o superiore banditi coperti, inoltre non puoi attivare carte o effetti per il resto di questo turno, eccetto carte o effetti \"Xenoinvasore\".",
+    "name": "Fenditura dei Tre Regni del Naraka Scarlatto",
+    "desc": "Se questa carta viene Evocata Normalmente o Specialmente: bandisci coperte le prime 4 carte del tuo Deck.\r\nPuoi utilizzare ciascuno dei seguenti effetti di \"Fenditura dei Tre Regni del Naraka Scarlatto\" una sola volta per turno.\r\nSe il tuo avversario Evoca Specialmente uno o più mostri: puoi Evocare Specialmente questa carta dalla tua mano.\r\nDurante la Main Phase del tuo avversario (Effetto Rapido): puoi Evocare Specialmente 1 dei tuoi mostri \"Fenditura dei Tre Regni\" di Livello 5 o superiore banditi coperti, inoltre non puoi attivare carte o effetti per il resto di questo turno, eccetto carte o effetti \"Fenditura dei Tre Regni\".",
     "overallString": "[Mostro|Effetto] Psichico/Fuoco  [★4] 1700/400",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100267034.jpg?version=19.7"
   },
   {
-    "name": "Xenoinvasore Tuono Celeste Yomi",
-    "desc": "Puoi rivelare questa carta nella tua mano; bandiscila coperta e, se lo fai, aggiungi 1 delle tue carte \"Xenoinvasore\" bandite coperte alla tua mano, eccetto un mostro di Livello 5. Puoi utilizzare questo effetto di \"Xenoinvasore Tuono Celeste Yomi\" una sola volta per turno.\r\nSe questa carta viene Evocata Normalmente o Specialmente: bandisci coperte le prime 5 carte del tuo Deck.\r\nUna volta per turno, quando il tuo avversario attiva l'effetto di un mostro (Effetto Rapido): puoi mischiare nel Deck 1 dei tuoi mostri \"Xenoinvasore\" banditi coperti con lo stesso Attributo e, se lo fai, annulla l'attivazione.",
+    "name": "Fenditura dei Tre Regni Tuono Celeste Yomi",
+    "desc": "Puoi rivelare questa carta nella tua mano; bandiscila coperta e, se lo fai, aggiungi 1 delle tue carte \"Fenditura dei Tre Regni\" bandite coperte alla tua mano, eccetto un mostro di Livello 5. Puoi utilizzare questo effetto di \"Fenditura dei Tre Regni Tuono Celeste Yomi\" una sola volta per turno.\r\nSe questa carta viene Evocata Normalmente o Specialmente: bandisci coperte le prime 5 carte del tuo Deck.\r\nUna volta per turno, quando il tuo avversario attiva l'effetto di un mostro (Effetto Rapido): puoi mischiare nel Deck 1 dei tuoi mostri \"Fenditura dei Tre Regni\" banditi coperti con lo stesso Attributo e, se lo fai, annulla l'attivazione.",
     "overallString": "[Mostro|Effetto] Psichico/Luce  [★5] 1000/2500",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100267035.jpg?version=19.7"
   },
   {
-    "name": "Xenoinvasore Cima Sepolcrale Helheim",
-    "desc": "Durante la Main Phase (Effetto Rapido): puoi rivelare questa carta nella tua mano; bandiscila coperta e, se lo fai, puoi Evocare Specialmente 1 dei tuoi mostri \"Xenoinvasore\" banditi coperti, eccetto un mostro di Livello 6. Puoi utilizzare questo effetto di \"Xenoinvasore Cima Sepolcrale Helheim\" una sola volta per turno.\r\nSe questa carta viene Evocata Normalmente o Specialmente: bandisci coperte le prime 6 carte del tuo Deck.\r\nLe altre carte \"Xenoinvasore\" che controlli non possono essere distrutte dagli effetti delle carte del tuo avversario, inoltre il tuo avversario non può sceglierle come bersaglio con gli effetti delle carte.",
+    "name": "Fenditura dei Tre Regni Cima Sepolcrale Helheim",
+    "desc": "Durante la Main Phase (Effetto Rapido): puoi rivelare questa carta nella tua mano; bandiscila coperta e, se lo fai, puoi Evocare Specialmente 1 dei tuoi mostri \"Fenditura dei Tre Regni\" banditi coperti, eccetto un mostro di Livello 6. Puoi utilizzare questo effetto di \"Fenditura dei Tre Regni Cima Sepolcrale Helheim\" una sola volta per turno.\r\nSe questa carta viene Evocata Normalmente o Specialmente: bandisci coperte le prime 6 carte del tuo Deck.\r\nLe altre carte \"Fenditura dei Tre Regni\" che controlli non possono essere distrutte dagli effetti delle carte del tuo avversario, inoltre il tuo avversario non può sceglierle come bersaglio con gli effetti delle carte.",
     "overallString": "[Mostro|Effetto] Psichico/Terra  [★6] 2400/1200",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100267036.jpg?version=19.7"
   },
   {
-    "name": "Xenoinvasore Tempesta Furiosa Ploutonion",
-    "desc": "(Effetto Rapido): puoi rivelare questa carta e 1 altra carta \"Xenoinvasore\" nella tua mano; bandiscile entrambe coperte e, se lo fai, pesca 2 carte. Puoi utilizzare questo effetto di \"Xenoinvasore Tempesta Furiosa Ploutonion\" una sola volta per turno.\r\nSe questa carta viene Evocata Normalmente o Specialmente: bandisci coperte le prime 7 carte del tuo Deck.\r\nUna volta per turno (Effetto Rapido): puoi mischiare nel Deck 1 dei tuoi mostri \"Xenoinvasore\" banditi coperti, poi puoi mischiare nel Deck 1 mostro controllato dal tuo avversario con lo stesso Attributo.",
+    "name": "Fenditura dei Tre Regni Tempesta Furiosa Ploutonion",
+    "desc": "(Effetto Rapido): puoi rivelare questa carta e 1 altra carta \"Fenditura dei Tre Regni\" nella tua mano; bandiscile entrambe coperte e, se lo fai, pesca 2 carte. Puoi utilizzare questo effetto di \"Fenditura dei Tre Regni Tempesta Furiosa Ploutonion\" una sola volta per turno.\r\nSe questa carta viene Evocata Normalmente o Specialmente: bandisci coperte le prime 7 carte del tuo Deck.\r\nUna volta per turno (Effetto Rapido): puoi mischiare nel Deck 1 dei tuoi mostri \"Fenditura dei Tre Regni\" banditi coperti, poi puoi mischiare nel Deck 1 mostro controllato dal tuo avversario con lo stesso Attributo.",
     "overallString": "[Mostro|Effetto] Psichico/Vento  [★7] 2100/2800",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100267037.jpg?version=19.7"
   },
   {
-    "name": "Xenoinvasore Divoratore del Vuoto Jahannam",
+    "name": "Fenditura dei Tre Regni dell'Oscurità",
     "desc": "Se questa carta viene Evocata Normalmente o Specialmente: bandisci coperte le prime 8 carte del tuo Deck.\r\nQuesta carta guadagna questi effetti in base al numero totale di carte bandite coperte.\r\n● 10+: Non può essere distrutta in battaglia.\r\n● 20+: Una volta per turno (Effetto Rapido): puoi scegliere come bersaglio 1 carta sul Terreno; distruggila.\r\n● 30+: Una volta per turno, durante la End Phase del tuo avversario: puoi aggiungere 1 delle tue carte bandite coperte alla tua mano.\r\n● 40+: Salta le Draw Phase di entrambi i giocatori.",
     "overallString": "[Mostro|Effetto] Psichico/Oscurità  [★8] 3000/2400",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100267038.jpg?version=19.7"
   },
   {
-    "name": "Territorio Xenoinvasore - Valvols",
-    "desc": "Attiva questa carta bandendo coperte 5 carte dal tuo Cimitero e/o dalla cima del tuo Deck.\r\nDurante la tua Main Phase: puoi aggiungere 1 delle tue carte \"Xenoinvasore\" bandite coperte alla tua mano, eccetto \"Territorio Xenoinvasore - Valvols\". Puoi utilizzare questo effetto di \"Territorio Xenoinvasore - Valvols\" una sola volta per turno.\r\nMentre controlli un mostro \"Xenoinvasore\" di Livello 5 o superiore e non hai carte nel tuo Deck, il tuo avversario non può attivare carte o effetti durante il tuo turno.",
+    "name": "Territorio Fenditura dei Tre Regni - Valvols",
+    "desc": "Attiva questa carta bandendo coperte 5 carte dal tuo Cimitero e/o dalla cima del tuo Deck.\r\nDurante la tua Main Phase: puoi aggiungere 1 delle tue carte \"Fenditura dei Tre Regni\" bandite coperte alla tua mano, eccetto \"Territorio Fenditura dei Tre Regni - Valvols\". Puoi utilizzare questo effetto di \"Territorio Fenditura dei Tre Regni - Valvols\" una sola volta per turno.\r\nMentre controlli un mostro \"Fenditura dei Tre Regni\" di Livello 5 o superiore e non hai carte nel tuo Deck, il tuo avversario non può attivare carte o effetti durante il tuo turno.",
     "overallString": "[Magia|Terreno]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100267039.jpg?version=19.7"
   },
   {
-    "name": "Giudizio Xenoinvasore",
-    "desc": "Se il tuo avversario Evoca Normalmente o Specialmente uno o più mostri: puoi scegliere come bersaglio 1 di essi; scegli 1 dei tuoi mostri \"Xenoinvasore\" banditi coperti con lo stesso Attributo, poi aggiungilo alla tua mano oppure Evocalo Specialmente, inoltre, per il resto di questo turno, non puoi scegliere nuovamente lo stesso Attributo con questo effetto di \"Giudizio Xenoinvasore\" e non puoi attivare carte o effetti, eccetto carte o effetti \"Xenoinvasore\".\r\nUna volta per battaglia, durante il calcolo dei danni, se un tuo mostro \"Xenoinvasore\" combatte con un mostro del tuo avversario e non hai carte nel tuo Deck: puoi far diventare 0 l'ATK di quel mostro dell'avversario.",
+    "name": "Giudizio Fenditura dei Tre Regni",
+    "desc": "Se il tuo avversario Evoca Normalmente o Specialmente uno o più mostri: puoi scegliere come bersaglio 1 di essi; scegli 1 dei tuoi mostri \"Fenditura dei Tre Regni\" banditi coperti con lo stesso Attributo, poi aggiungilo alla tua mano oppure Evocalo Specialmente, inoltre, per il resto di questo turno, non puoi scegliere nuovamente lo stesso Attributo con questo effetto di \"Giudizio Fenditura dei Tre Regni\" e non puoi attivare carte o effetti, eccetto carte o effetti \"Fenditura dei Tre Regni\".\r\nUna volta per battaglia, durante il calcolo dei danni, se un tuo mostro \"Fenditura dei Tre Regni\" combatte con un mostro del tuo avversario e non hai carte nel tuo Deck: puoi far diventare 0 l'ATK di quel mostro dell'avversario.",
     "overallString": "[Trappola|Continua]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100267041.jpg?version=19.7"
   },
@@ -175,67 +283,67 @@
   },
   {
     "name": "Numero 101: ARCA Onore Silente - Rifugio dell'Anima",
-    "desc": "2 mostri di Livello 4\n\n\r\nPuoi staccare 1 materiale da questa carta, poi attivare 1 di questi effetti.\n\r\n● Scegli 1 mostro di Livello 4 nel tuo Cimitero, eccetto il materiale staccato, e aggiungi dal tuo Deck alla tua mano 1 mostro di Livello 4 con lo stesso Tipo e Attributo, ma con un nome diverso.\n\r\n● Scegli come bersaglio 1 mostro controllato dal tuo avversario; attaccalo come materiale a questa carta.\n\r\nPuoi utilizzare questo effetto di \"Numero 101: ARCA Onore Silente - Rifugio dell'Anima\" una sola volta per turno.\r\nSe questa carta sta per essere distrutta, puoi invece staccare 1 materiale da questa carta.",
+    "desc": "2 mostri di Livello 4\r\nPuoi staccare 1 materiale da questa carta, poi attivare 1 di questi effetti.\r\n● Scegli 1 mostro di Livello 4 nel tuo Cimitero, eccetto il materiale staccato, e aggiungi dal tuo Deck alla tua mano 1 mostro di Livello 4 con lo stesso Tipo e Attributo, ma con un nome diverso.\r\n● Scegli come bersaglio 1 mostro controllato dal tuo avversario; attaccalo come materiale a questa carta.\r\nPuoi utilizzare questo effetto di \"Numero 101: ARCA Onore Silente - Rifugio dell'Anima\" una sola volta per turno.\r\nSe questa carta sta per essere distrutta, puoi invece staccare 1 materiale da questa carta.",
     "overallString": "[Mostro|Effetto|Xyz] Acqua/Acqua  [☆4] 2100/1000",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100266006.jpg?version=19.7"
   },
   {
-    "name": "Profeta Sennet - Nefertari",
-    "desc": "Se questa carta viene Evocata Normalmente o Specialmente: puoi mandarla al Cimitero; mostra fino a 2 Carte Mostro Normale dalla tua mano, Deck, Terreno scoperto e/o Cimitero, poi Posiziona altrettante Magie \"Sennet\" dal tuo Deck.\r\nDurante il turno del tuo avversario (Effetto Rapido): puoi bandire questa carta dal tuo Cimitero; equipaggia 1 Mostro Normale dal tuo Cimitero a 1 Mostro Rituale che controlli come Magia Equipaggiamento.\r\nPuoi utilizzare ogni effetto di \"Profeta Sennet - Nefertari\" una sola volta per turno.",
+    "name": "Profeta Zenet - Nefertari",
+    "desc": "Se questa carta viene Evocata Normalmente o Specialmente: puoi mandarla al Cimitero; mostra fino a 2 Carte Mostro Normale dalla tua mano, Deck, Terreno scoperto e/o Cimitero, poi Posiziona altrettante Magie \"Zenet\" dal tuo Deck.\r\nDurante il turno del tuo avversario (Effetto Rapido): puoi bandire questa carta dal tuo Cimitero; equipaggia 1 Mostro Normale dal tuo Cimitero a 1 Mostro Rituale che controlli come Magia Equipaggiamento.\r\nPuoi utilizzare ogni effetto di \"Profeta Zenet - Nefertari\" una sola volta per turno.",
     "overallString": "[Mostro|Effetto] Zombie/Luce  [★4] 0/1000",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100267001.jpg?version=19.7"
   },
   {
-    "name": "Profeta Sennet - Amenhotep",
-    "desc": "Se questa carta viene Evocata Normalmente o Specialmente: puoi mandarla al Cimitero; mostra fino a 2 Carte Mostro Normale dalla tua mano, Deck, Terreno scoperto e/o Cimitero, poi Posiziona altrettante Trappole \"Sennet\" dal tuo Deck.\r\nPuoi bandire questa carta dal tuo Cimitero, poi scegliere come bersaglio fino a 3 Mostri Normali nel tuo Cimitero; mischiali nel Deck.\r\nPuoi utilizzare ogni effetto di \"Profeta Sennet - Amenhotep\" una sola volta per turno.",
+    "name": "Profeta Zenet - Amenhotep",
+    "desc": "Se questa carta viene Evocata Normalmente o Specialmente: puoi mandarla al Cimitero; mostra fino a 2 Carte Mostro Normale dalla tua mano, Deck, Terreno scoperto e/o Cimitero, poi Posiziona altrettante Trappole \"Zenet\" dal tuo Deck.\r\nPuoi bandire questa carta dal tuo Cimitero, poi scegliere come bersaglio fino a 3 Mostri Normali nel tuo Cimitero; mischiali nel Deck.\r\nPuoi utilizzare ogni effetto di \"Profeta Zenet - Amenhotep\" una sola volta per turno.",
     "overallString": "[Mostro|Effetto] Zombie/Luce  [★4] 0/1500",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100267002.jpg?version=19.7"
   },
   {
-    "name": "Sfinge Sennetnakht",
-    "desc": "Puoi Evocare tramite Rituale questa carta con una qualsiasi carta \"Sennet\".\r\nQuesta carta equipaggiata con una Carta Equipaggiamento è immune agli effetti attivati del tuo avversario.\r\nPuoi utilizzare ognuno dei seguenti effetti di \"Sfinge Sennetnakht\" una sola volta per turno.\r\nPuoi scartare questa carta; aggiungi 1 carta \"Sennet\" dal tuo Deck alla tua mano, eccetto \"Sfinge Sennetnakht\".\r\n(Effetto Rapido): puoi mandare 1 Carta Mostro Normale scoperta che controlli al Cimitero; cambia in Posizione di Difesa coperta quanti più mostri controllati dal tuo avversario possibile, poi puoi Evocare Specialmente 1 Mostro Normale dal tuo Cimitero.",
+    "name": "Sfinge Zenetnakht",
+    "desc": "Puoi Evocare tramite Rituale questa carta con una qualsiasi carta \"Zenet\".\r\nQuesta carta equipaggiata con una Carta Equipaggiamento è immune agli effetti attivati del tuo avversario.\r\nPuoi utilizzare ognuno dei seguenti effetti di \"Sfinge Zenetnakht\" una sola volta per turno.\r\nPuoi scartare questa carta; aggiungi 1 carta \"Zenet\" dal tuo Deck alla tua mano, eccetto \"Sfinge Zenetnakht\".\r\n(Effetto Rapido): puoi mandare 1 Carta Mostro Normale scoperta che controlli al Cimitero; cambia in Posizione di Difesa coperta quanti più mostri controllati dal tuo avversario possibile, poi puoi Evocare Specialmente 1 Mostro Normale dal tuo Cimitero.",
     "overallString": "[Mostro|Effetto|Rituale] Zombie/Oscurità  [★12] 5000/2500",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100267003.jpg?version=19.7"
   },
   {
-    "name": "Tausennet Wadjet",
-    "desc": "Puoi Evocare tramite Rituale questa carta con una qualsiasi carta \"Sennet\".\r\nQuesta carta equipaggiata con una Carta Equipaggiamento non può essere distrutta dagli effetti delle carte.\r\nPuoi utilizzare ognuno dei seguenti effetti di \"Tausennet Wadjet\" una sola volta per turno.\r\nPuoi scartare questa carta; manda 1 carta \"Sennet\" dal tuo Deck al Cimitero, eccetto \"Tausennet Wadjet\".\r\n(Effetto Rapido): puoi mandare fino a 3 Carte Mostro Normale scoperte che controlli al Cimitero, poi scegli come bersaglio altrettante carte controllate dal tuo avversario; falle ritornare alla mano, poi puoi Evocare Specialmente 1 Mostro Normale dal tuo Cimitero.",
+    "name": "Tauzenet Wadjet",
+    "desc": "Puoi Evocare tramite Rituale questa carta con una qualsiasi carta \"Zenet\".\r\nQuesta carta equipaggiata con una Carta Equipaggiamento non può essere distrutta dagli effetti delle carte.\r\nPuoi utilizzare ognuno dei seguenti effetti di \"Tauzenet Wadjet\" una sola volta per turno.\r\nPuoi scartare questa carta; manda 1 carta \"Zenet\" dal tuo Deck al Cimitero, eccetto \"Tauzenet Wadjet\".\r\n(Effetto Rapido): puoi mandare fino a 3 Carte Mostro Normale scoperte che controlli al Cimitero, poi scegli come bersaglio altrettante carte controllate dal tuo avversario; falle ritornare alla mano, poi puoi Evocare Specialmente 1 Mostro Normale dal tuo Cimitero.",
     "overallString": "[Mostro|Effetto|Rituale] Zombie/Oscurità  [★8] 3200/2500",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100267004.jpg?version=19.7"
   },
   {
-    "name": "Sennetmes Nekhbet",
-    "desc": "Puoi Evocare tramite Rituale questa carta con una qualsiasi carta \"Sennet\".\r\nQuesta carta equipaggiata con una Carta Equipaggiamento non può essere distrutta in battaglia.\r\nPuoi utilizzare ognuno dei seguenti effetti di \"Sennetmes Nekhbet\" una sola volta per turno.\r\nPuoi scartare questa carta; aggiungi 1 carta \"Sennet\" dal tuo Cimitero alla tua mano, eccetto \"Sennetmes Nekhbet\".\r\n(Effetto Rapido): puoi Evocare Specialmente 1 Carta Mostro Normale scoperta dalla tua Zona Magie & Trappole e, se lo fai, equipaggia questa carta che controlli ad essa come Magia Equipaggiamento che le fa guadagnare 2500 ATK.",
+    "name": "Zenetmes Nekhbet",
+    "desc": "Puoi Evocare tramite Rituale questa carta con una qualsiasi carta \"Zenet\".\r\nQuesta carta equipaggiata con una Carta Equipaggiamento non può essere distrutta in battaglia.\r\nPuoi utilizzare ognuno dei seguenti effetti di \"Zenetmes Nekhbet\" una sola volta per turno.\r\nPuoi scartare questa carta; aggiungi 1 carta \"Zenet\" dal tuo Cimitero alla tua mano, eccetto \"Zenetmes Nekhbet\".\r\n(Effetto Rapido): puoi Evocare Specialmente 1 Carta Mostro Normale scoperta dalla tua Zona Magie & Trappole e, se lo fai, equipaggia questa carta che controlli ad essa come Magia Equipaggiamento che le fa guadagnare 2500 ATK.",
     "overallString": "[Mostro|Effetto|Rituale] Zombie/Oscurità  [★6] 2800/1500",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100267005.jpg?version=19.7"
   },
   {
-    "name": "Beresennet Em Heru",
-    "desc": "Una volta per turno: puoi Evocare tramite Rituale 1 Mostro Rituale \"Sennet\" dalla tua mano o Cimitero, mandando al Cimitero Carte Mostro Normale con nomi diversi tra loro dalla tua mano, Deck e/o Terreno scoperto i cui Livelli totali siano pari o superiori al suo Livello, poi puoi equipaggiare ad esso 1 Mostro Normale dal tuo Cimitero come Magia Equipaggiamento.\r\nSe Evochi Specialmente uno o più Mostri Normali non-Segna-Mostro: puoi pescare 1 carta.\r\nPuoi utilizzare questo effetto di \"Beresennet Em Heru\" una sola volta per turno.",
+    "name": "Berezenet Em Heru",
+    "desc": "Una volta per turno: puoi Evocare tramite Rituale 1 Mostro Rituale \"Zenet\" dalla tua mano o Cimitero, mandando al Cimitero Carte Mostro Normale con nomi diversi tra loro dalla tua mano, Deck e/o Terreno scoperto i cui Livelli totali siano pari o superiori al suo Livello, poi puoi equipaggiare ad esso 1 Mostro Normale dal tuo Cimitero come Magia Equipaggiamento.\r\nSe Evochi Specialmente uno o più Mostri Normali non-Segna-Mostro: puoi pescare 1 carta.\r\nPuoi utilizzare questo effetto di \"Berezenet Em Heru\" una sola volta per turno.",
     "overallString": "[Magia|Terreno]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100267006.jpg?version=19.7"
   },
   {
-    "name": "Sennet Per Akh",
-    "desc": "Aggiungi 1 mostro \"Sennet\" dal tuo Deck alla tua mano.\r\nSe scarti uno o più Mostri Rituale \"Sennet\" mentre questa carta è nel tuo Cimitero: puoi bandire questa carta; Evoca Specialmente 1 Mostro Fusione non-con Effetto dal tuo Extra Deck come Carta Mostro Normale con ATK pari o inferiori a quelli di uno qualsiasi dei mostri scartati, ma per il resto di questo turno esso non può attaccare direttamente, inoltre non puoi attivare gli effetti di mostri non-Zombie.\r\nPuoi utilizzare ogni effetto di \"Sennet Per Akh\" una sola volta per turno.",
+    "name": "Zenet Per Akh",
+    "desc": "Aggiungi 1 mostro \"Zenet\" dal tuo Deck alla tua mano.\r\nSe scarti uno o più Mostri Rituale \"Zenet\" mentre questa carta è nel tuo Cimitero: puoi bandire questa carta; Evoca Specialmente 1 Mostro Fusione non-con Effetto dal tuo Extra Deck come Carta Mostro Normale con ATK pari o inferiori a quelli di uno qualsiasi dei mostri scartati, ma per il resto di questo turno esso non può attaccare direttamente, inoltre non puoi attivare gli effetti di mostri non-Zombie.\r\nPuoi utilizzare ogni effetto di \"Zenet Per Akh\" una sola volta per turno.",
     "overallString": "[Magia]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100267007.jpg?version=19.7"
   },
   {
-    "name": "Am Duasennet",
-    "desc": "Evoca tramite Rituale 1 Mostro Rituale \"Sennet\" dalla tua mano o Cimitero, mandando al Cimitero Carte Mostro Normale con nomi diversi tra loro dalla tua mano, Deck e/o Terreno scoperto i cui Livelli totali siano pari o superiori al suo Livello, poi puoi equipaggiare ad esso 1 Mostro Normale dal tuo Cimitero come Magia Equipaggiamento.\r\nSe una o più Carte Mostro Normale che controlli stanno per essere distrutte in battaglia o dall'effetto di una carta, puoi bandire invece questa carta dal tuo Cimitero.\r\nPuoi attivare solo 1 \"Am Duasennet\" per turno.",
+    "name": "Am Duazenet",
+    "desc": "Evoca tramite Rituale 1 Mostro Rituale \"Zenet\" dalla tua mano o Cimitero, mandando al Cimitero Carte Mostro Normale con nomi diversi tra loro dalla tua mano, Deck e/o Terreno scoperto i cui Livelli totali siano pari o superiori al suo Livello, poi puoi equipaggiare ad esso 1 Mostro Normale dal tuo Cimitero come Magia Equipaggiamento.\r\nSe una o più Carte Mostro Normale che controlli stanno per essere distrutte in battaglia o dall'effetto di una carta, puoi bandire invece questa carta dal tuo Cimitero.\r\nPuoi attivare solo 1 \"Am Duazenet\" per turno.",
     "overallString": "[Trappola]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100267009.jpg?version=19.7"
   },
   {
-    "name": "Cataratta Sennet",
-    "desc": "Scegli un numero di Zone Mostri Main del tuo avversario pari al numero di Mostri Normali e Mostri Rituale \"Sennet\" che controlli; annulla il primo effetto di un mostro attivato in ognuna di quelle zone che si risolve in questo turno.\r\nSe l'ATK totale di tutte le Carte Mostro Normale che controlli è superiore a 3000: puoi bandire questa carta dal tuo Cimitero, poi scegliere come bersaglio 1 mostro controllato dal tuo avversario; mandalo al Cimitero.\r\nPuoi utilizzare ogni effetto di \"Cataratta Sennet\" una sola volta per turno.",
+    "name": "Cataratta Zenet",
+    "desc": "Scegli un numero di Zone Mostri Main del tuo avversario pari al numero di Mostri Normali e Mostri Rituale \"Zenet\" che controlli; annulla il primo effetto di un mostro attivato in ognuna di quelle zone che si risolve in questo turno.\r\nSe l'ATK totale di tutte le Carte Mostro Normale che controlli è superiore a 3000: puoi bandire questa carta dal tuo Cimitero, poi scegliere come bersaglio 1 mostro controllato dal tuo avversario; mandalo al Cimitero.\r\nPuoi utilizzare ogni effetto di \"Cataratta Zenet\" una sola volta per turno.",
     "overallString": "[Trappola]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100267010.jpg?version=19.7"
   },
   {
-    "name": "Caduta del Tuono Sennet",
-    "desc": "Quando il tuo avversario attiva una Carta Magia/Trappola mentre controlli un Mostro Normale o un Mostro Rituale \"Sennet\": annulla l'attivazione e, se lo fai, distruggi quella carta.\r\nSe l'ATK totale di tutte le Carte Mostro Normale che controlli è superiore a 3000: puoi bandire questa carta dal tuo Cimitero; Posiziona 1 Magia/Trappola \"Sennet\" dal tuo Deck o Cimitero, eccetto \"Caduta del Tuono Sennet\".\r\nPuoi utilizzare ogni effetto di \"Caduta del Tuono Sennet\" una sola volta per turno.",
+    "name": "Caduta del Tuono Zenet",
+    "desc": "Quando il tuo avversario attiva una Carta Magia/Trappola mentre controlli un Mostro Normale o un Mostro Rituale \"Zenet\": annulla l'attivazione e, se lo fai, distruggi quella carta.\r\nSe l'ATK totale di tutte le Carte Mostro Normale che controlli è superiore a 3000: puoi bandire questa carta dal tuo Cimitero; Posiziona 1 Magia/Trappola \"Zenet\" dal tuo Deck o Cimitero, eccetto \"Caduta del Tuono Zenet\".\r\nPuoi utilizzare ogni effetto di \"Caduta del Tuono Zenet\" una sola volta per turno.",
     "overallString": "[Trappola|Contro]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100267011.jpg?version=19.7"
   },

@@ -855,6 +855,36 @@ def build_translation_pack(lang: str):
 
     # Extra phrases (keep phrase-level; avoid single-word glue)
     extras = {
+        "是否丢弃对方手卡？": {
+            "en": "Randomly discard 1 card from your opponent's hand?",
+            "fr": "Défausser au hasard 1 carte de la main de votre adversaire ?",
+            "de": "Zufällig 1 Karte aus der Hand deines Gegners abwerfen?",
+            "es": "¿Descartar al azar 1 carta de la mano de tu adversario?",
+            "pt": "Descartar aleatoriamente 1 card da mão do seu oponente?",
+            "it": "Scartare a caso 1 carta dalla mano del tuo avversario?",
+            "ja": "相手の手札をランダムに1枚捨てますか？",
+            "kr": "상대의 패를 무작위로 1장 버리시겠습니까?",
+        },
+        "是否送墓并特殊召唤？": {
+            "en": "Send to the GY and Special Summon?",
+            "fr": "Envoyer au Cimetière et Invoquer Spécialement ?",
+            "de": "Auf den Friedhof senden und als Spezialbeschwörung beschwören?",
+            "es": "¿Mandar al Cementerio e Invocar de Modo Especial?",
+            "pt": "Enviar para o Cemitério e Invocar por Invocação Especial?",
+            "it": "Mandare al Cimitero ed Evocare Specialmente?",
+            "ja": "墓地へ送り、特殊召喚しますか？",
+            "kr": "묘지로 보내고 특수 소환하시겠습니까?",
+        },
+        "回复效果": {
+            "en": "LP recovery effect",
+            "fr": "Effet de gain de LP",
+            "de": "LP-Wiederherstellungseffekt",
+            "es": "Efecto de recuperación de LP",
+            "pt": "Efeito de recuperação de PV",
+            "it": "Effetto di recupero LP",
+            "ja": "LP回復効果",
+            "kr": "LP 회복 효과",
+        },
         "诱发选择效果": {
             "en": "Choose an effect to activate",
             "fr": "Choisir un effet à activer",
