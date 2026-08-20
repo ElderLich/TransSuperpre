@@ -1,373 +1,380 @@
 id,name,field,value
 100200292,Thoroughbred Elf,name,Thoroughbred Elf
-100200292,Thoroughbred Elf,desc,"ในช่วง Main Phase ของคุณ: คุณสามารถส่ง Equip Spell 1 ใบจากเด็คไปยังสุสาน จากนั้นการ์ดใบนี้จะได้รับ ATK 500 จนถึงช่วงจบเทิร์นของคู่แข่ง คุณสามารถใช้งานเอฟเฟกต์นี้ของ ""Thoroughbred Elf"" ได้เทิร์นละ 1 ครั้งเท่านั้น เมื่อการ์ดใบนี้ทำลายมอนสเตอร์ของคู่แข่งจากการต่อสู้: คุณสามารถนำมอนสเตอร์เผ่า Spellcaster ธาตุ LIGHT เลเวล 4 หรือต่ำกว่า 1 ใบจากเด็คขึ้นมือหรือทำการ Special Summon โดยที่ยกเว้น ""Thoroughbred Elf"""
-100200292,Thoroughbred Elf,str1,ส่งสุสาน
-100200292,Thoroughbred Elf,str2,จัดการเด็ค
+100200292,Thoroughbred Elf,desc,"During your Main Phase: You can send 1 Equip Spell from your Deck to the GY, then this card gains 500 ATK until the end of your opponent's turn. You can only use this effect of ""Thoroughbred Elf"" once per turn. When this card destroys an opponent's monster by battle: You can add to your hand, or Special Summon, 1 Level 4 or lower LIGHT Spellcaster monster from your Deck, except ""Thoroughbred Elf""."
+100200292,Thoroughbred Elf,str1,Send to the GY
+100200292,Thoroughbred Elf,str2,Deck manipulation
 100200293,Assault Lion,name,Assault Lion
-100200293,Assault Lion,desc,"คุณสามารถ Tribute Summon การ์ดใบนี้แบบหงายหน้าได้โดยการสังเวยมอนสเตอร์เผ่า Beast-Warrior 1 ใบ ถ้าการ์ดใบนี้ต่อสู้กับมอนสเตอร์ ความเสียหายจากการต่อสู้ที่ทำกับคู่แข่งจะเพิ่มขึ้นเป็นสองเท่า หากมีมอนสเตอร์เผ่า Beast-Warrior ถูก Normal หรือ Special Summon ลงบนสนามของคุณในขณะที่การ์ดใบนี้อยู่ในสุสานของคุณ: คุณสามารถนำการ์ดใบนี้ขึ้นมือ จากนั้นทันทีหลังจากที่เอฟเฟกต์นี้ทำงานเสร็จสิ้น คุณสามารถทำการ Tribute Summon การ์ดใบนี้แบบหงายหน้า และถ้าทำเช่นนั้น การ์ดใบนี้จะได้รับ ATK 500 อีกทั้งให้เนรเทศการ์ดใบนี้เมื่อมันออกจากสนาม คุณสามารถใช้งานเอฟเฟกต์นี้ของ ""Assault Lion"" ได้เทิร์นละ 1 ครั้งเท่านั้น"
-100200293,Assault Lion,str1,เรียกแบบสละโดยสละมอนสเตอร์นักรบสัตว์ป่า 1 ตัว
-100200293,Assault Lion,str2,เพิ่มเข้ามือ
-100200293,Assault Lion,str3,เรียกแบบสละ?
+100200293,Assault Lion,desc,"You can Tribute Summon this card face-up by Tributing 1 Beast-Warrior monster. If this card battles a monster, any battle damage it inflicts to your opponent is doubled. If a Beast-Warrior monster(s) is Normal or Special Summoned to your field while this card is in your GY: You can add this card to your hand, then immediately after this effect resolves, you can Tribute Summon this card face-up, and if you do, it gains 500 ATK, also banish it when it leaves the field. You can only use this effect of ""Assault Lion"" once per turn."
+100200293,Assault Lion,str1,Tribute Summon using 1 Beast-Warrior monster
+100200293,Assault Lion,str2,Add to hand
+100200293,Assault Lion,str3,Tribute Summon?
 100200294,Power Connection,name,Power Connection
-100200294,Power Connection,desc,"เลือกเป้าหมายมอนสเตอร์หงายหน้าจำนวนเท่าใดก็ได้ที่คุณควบคุม (หากเลือกมอนสเตอร์ 2 ใบขึ้นไป ต้องมีประเภทเดียวกัน): มอนสเตอร์เหล่านั้นจะได้รับ ATK 500 ต่อจำนวนมอนสเตอร์ที่เลือก จนถึงช่วงจบเทิร์นนี้ หากคุณได้ใช้งาน ""Armament Reincarnation"" ในเทิร์นนี้: คุณสามารถนำการ์ดใบนี้จากสุสานขึ้นมือได้ คุณสามารถใช้งานเอฟเฟกต์แต่ละอย่างของ ""Power Connection"" ได้เทิร์นละ 1 ครั้งเท่านั้น"
-100200294,Power Connection,str1,เปิดใช้งาน
-100200294,Power Connection,str2,รีไซเคิล
+100200294,Power Connection,desc,"Target any number of face-up monsters you control (if you target 2 or more monsters, they must have the same Type); they gain 500 ATK for each monster targeted, until the end of this turn. If you activated ""Armament Reincarnation"" this turn: You can add this card from your GY to your hand. You can only use each effect of ""Power Connection"" once per turn."
+100200294,Power Connection,str1,Activate
+100200294,Power Connection,str2,Recycle
 100200296,Destined Duel,name,Destined Duel
-100200296,Destined Duel,desc,เมื่อการ์ดใบนี้ถูกสั่งใช้งาน: ผู้เล่นแต่ละฝ่ายสามารถอัญเชิญพิเศษมอนสเตอร์ 1 ตัวจากบนมือของตนในสภาพหงายหน้าโจมตี จากนั้นหากมีมอนสเตอร์หงายหน้าตัวอื่นอยู่บนสนาม ให้เปลี่ยนมอนสเตอร์เหล่านั้นทั้งหมดเป็นสภาพคว่ำหน้าป้องกัน สำหรับช่วงที่เหลือของเทิร์นนี้หลังจากที่เอฟเฟกต์ของการ์ดใบนี้ทำงานเสร็จสิ้น คุณจะไม่สามารถอัญเชิญปกติหรืออัญเชิญพิเศษได้ เทิร์นละหนึ่งครั้ง เมื่อมอนสเตอร์ของคุณประกาศโจมตี: คุณสามารถทำให้การโจมตีนั้นไร้ผล และถ้าคุณทำเช่นนั้น ให้ทำลายการ์ดคว่ำหน้า 1 ใบที่คู่แข่งควบคุม เทิร์นละหนึ่งครั้ง ในระหว่าง End Phase ของคู่แข่ง: นำการ์ดใบนี้กลับขึ้นมือ
-100200296,Destined Duel,str1,เปิดใช้งาน
-100200296,Destined Duel,str2,ทำลาย
-100200296,Destined Duel,str3,กลับมือ
-100200296,Destined Duel,str4,เรียกพิเศษ?
+100200296,Destined Duel,desc,"When this card is activated: Each player can Special Summon 1 monster from their hand in Attack Position, then if there are any other face-up monsters on the field, change all of them to face-down Defense Position. For the rest of this turn after this card resolves, you cannot Normal or Special Summon. Once per turn, when your monster declares an attack: You can negate the attack, and if you do, destroy 1 face-down card your opponent controls. Once per turn, during your opponent's End Phase: Return this card to the hand."
+100200296,Destined Duel,str1,Activate
+100200296,Destined Duel,str2,Destroy
+100200296,Destined Duel,str3,Return to the hand
+100200296,Destined Duel,str4,Special Summon?
 100266001,Ancient Secrets,name,Ancient Secrets
-100266001,Ancient Secrets,desc,"อัญเชิญพิเศษมอนสเตอร์ปกติ 1 ใบจากบนมือ, เด็ค หรือสุสานของคุณมาในสภาพหงายหน้าตั้งรับ (ถ้าอัญเชิญพิเศษจากเด็ค ต้องเป็นเลเวล 4 หรือต่ำกว่า) หรือถ้าคุณควบคุมการ์ดมอนสเตอร์ปกติอยู่ คุณสามารถเลือกใช้ผลอย่างใดอย่างหนึ่งดังต่อไปนี้แทนได้:
-● ทำลายมอนสเตอร์ทั้งหมดที่คู่แข่งควบคุม
-● ทำลายเวทมนตร์/กับดักทั้งหมดที่คู่แข่งควบคุม
-● จั่วการ์ด 2 ใบ
-● อัญเชิญพิเศษมอนสเตอร์ 1 ใบจากสุสานของใครก็ได้มาบนสนามของคุณ
-คุณสามารถใช้งาน ""Ancient Secrets"" ได้เทิร์นละ 1 ครั้งเท่านั้น"
-100266001,Ancient Secrets,str1,เปิดใช้งาน
-100266001,Ancient Secrets,str2,ใช้เอฟเฟกต์อื่น
-100266001,Ancient Secrets,str3,ทำลายมอนสเตอร์
-100266001,Ancient Secrets,str4,ทำลายการ์ดเวทย์/กับดัก
-100266001,Ancient Secrets,str5,จั่ว
-100266001,Ancient Secrets,str6,เรียกพิเศษ
+100266001,Ancient Secrets,desc,"Special Summon 1 Normal Monster from your hand, Deck, or GY in Defense Position (if you Special Summon from the Deck, it must be Level 4 or lower), or if you control a Normal Monster Card, you can apply 1 of these effects instead.
+● Destroy all monsters your opponent controls.
+● Destroy all Spells/Traps your opponent controls.
+● Draw 2 cards.
+● Special Summon 1 monster from either GY to your field.
+You can only activate 1 ""Ancient Secrets"" per turn."
+100266001,Ancient Secrets,str1,Activate
+100266001,Ancient Secrets,str2,Apply another effect?
+100266001,Ancient Secrets,str3,Destroy a monster
+100266001,Ancient Secrets,str4,Destroy Spell/Trap Card(s)
+100266001,Ancient Secrets,str5,Draw
+100266001,Ancient Secrets,str6,Special Summon
 100266002,Mind Mirror Force,name,Mind Mirror Force
-100266002,Mind Mirror Force,desc,"ถ้าคู่แข่งควบคุมการ์ดที่หงายหน้าอยู่ตั้งแต่ 5 ใบขึ้นไป การสั่งใช้งานและการแสดงผลของการ์ดใบนี้จะไม่ถูกยกเลิก อีกทั้งคุณยังสามารถสั่งใช้งานการ์ดใบนี้ได้ในเทิร์นที่หมอบไว้ โดยสั่งใช้งานในช่วงเวลาใดเวลาหนึ่งดังต่อไปนี้: ยกเลิกผลของการ์ดที่หงายหน้าอยู่บนสนามของคู่แข่งให้ได้มากที่สุดเท่าที่จะทำได้ และถ้าทำสำเร็จ ให้ทำลายการ์ดเหล่านั้น อีกทั้งมอนสเตอร์ของคุณจะไม่สามารถโจมตีโดยตรงได้จนกว่าจะจบเทิร์นถัดจากที่การ์ดใบนี้แสดงผลเสร็จสิ้น
-● เมื่อมอนสเตอร์ที่มีพลังโจมตีสูงที่สุดบนสนามของคู่แข่ง (กรณีที่เท่ากันก็นับ) ประกาศโจมตี
-● เมื่อคู่แข่งสั่งใช้งานผลของมอนสเตอร์ที่ส่งผลทำลายการ์ดบนสนาม
-● เมื่อคู่แข่งสั่งใช้งานผลของมอนสเตอร์บนมือหรือบนสนามในระหว่างเทิร์นของคุณ"
-100266002,Mind Mirror Force,str1,เปิดใช้งาน
-100266002,Mind Mirror Force,str2,"ทำงานโดยใช้เอฟเฟกต์ของ ""Mind Mirror Force"""
+100266002,Mind Mirror Force,desc,"If your opponent controls 5 or more face-up cards, this card's activation and effect cannot be negated, also you can activate this card the turn it was Set. At any of the following timings: Negate the effects of as many face-up cards your opponent controls as possible, and if you do, destroy them, also your monsters cannot attack directly until the end of the next turn after this card resolves.
+● When the monster your opponent controls with the highest ATK (even if tied) declares an attack.
+● When your opponent activates a monster effect that would destroy a card(s) on the field.
+● When your opponent activates a monster effect in the hand or field during your turn."
+100266002,Mind Mirror Force,str1,Activate
+100266002,Mind Mirror Force,str2,"Activate by applying the effect of ""Mind Mirror Force""."
 100266003,Emissaries from Darkness,name,Emissaries from Darkness
-100266003,Emissaries from Darkness,desc,"ถ้าคุณได้รับ Battle Damage หรือ Effect Damage: คุณสามารถ Special Summon การ์ดใบนี้จากมือของคุณ, และถ้าทำได้, คุณจะได้รับ LP 2000 จุด, จากนั้น คุณสามารถเลือกใช้ 1 ในเอฟเฟกต์เหล่านี้
-● Special Summon 1 ใบ ""Emissaries from Darkness"" จากมือ, Deck, หรือ GY ของคุณ
-● ทำลายมอนสเตอร์ใน Attack Position สูงสุด 2 ใบที่อีกฝ่ายควบคุมอยู่
-ในช่วง End Phase, ถ้าการ์ดใบนี้ถูก Special Summon ในเทิร์นนี้: คุณสามารถ Target การ์ด Trap 1 ใบใน GY ของคุณ; Set การ์ดใบนั้น คุณสามารถใช้แต่ละเอฟเฟกต์ของ ""Emissaries from Darkness"" ได้เทิร์นละครั้งเท่านั้น"
-100266003,Emissaries from Darkness,str1,เรียกพิเศษ
-100266003,Emissaries from Darkness,str2,หมอบกับดัก
-100266003,Emissaries from Darkness,str3,เรียกพิเศษ
-100266003,Emissaries from Darkness,str4,เอฟเฟกต์ทำลาย
-100266003,Emissaries from Darkness,str5,ไม่ทำอะไร
+100266003,Emissaries from Darkness,desc,"If you take battle or effect damage: You can Special Summon this card from your hand, and if you do, gain 2000 LP, then you can apply 1 of these effects.
+● Special Summon 1 ""Emissaries from Darkness"" from your hand, Deck, or GY.
+● Destroy up to 2 Attack Position monsters your opponent controls.
+During the End Phase, if this card was Special Summoned this turn: You can target 1 Trap in your GY; Set it. You can only use each effect of ""Emissaries from Darkness"" once per turn."
+100266003,Emissaries from Darkness,str1,Special Summon
+100266003,Emissaries from Darkness,str2,Set a Trap
+100266003,Emissaries from Darkness,str3,Special Summon
+100266003,Emissaries from Darkness,str4,Destruction effect
+100266003,Emissaries from Darkness,str5,Do nothing
 100266004,Dark Armed Dragon Punisher,name,Dark Armed Dragon Punisher
-100266004,Dark Armed Dragon Punisher,desc,"ไม่สามารถ Normal Summon/Set การ์ดนี้ได้ ต้อง Special Summon (จากบนมือ) โดยใน GY ของคุณต้องมีมอนสเตอร์ DARK ตรงตามจำนวนที่กำหนดคือ 3 ใบเท่านั้น คุณสามารถเปิดเผยการ์ดนี้บนมือของคุณ; Special Summon มอนสเตอร์ DARK เลเวล 6 หรือต่ำกว่า 1 ใบจากบนมือของคุณ และคุณจะไม่สามารถ Special Summon ได้อีกในเทิร์นนี้ ยกเว้นมอนสเตอร์ DARK ในช่วง Main Phase (Quick Effect): คุณสามารถเลือก Banished มอนสเตอร์ DARK จาก GY ของคุณได้สูงสุด 3 ใบ จากนั้นเลือกเป้าหมายการ์ดบนสนามตามจำนวนนั้น; ทำลายการ์ดเหล่านั้น คุณสามารถใช้เอฟเฟกต์ของ ""Dark Armed Dragon Punisher"" ได้แต่ละเอฟเฟกต์เพียงเทิร์นละ 1 ครั้งเท่านั้น"
-100266004,Dark Armed Dragon Punisher,str1,เรียกพิเศษ
-100266004,Dark Armed Dragon Punisher,str2,ทำลาย
+100266004,Dark Armed Dragon Punisher,desc,"Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having exactly 3 DARK monsters in your GY. You can reveal this card in your hand; Special Summon 1 Level 6 or lower DARK monster from your hand, also you cannot Special Summon for the rest of this turn, except DARK monsters. During the Main Phase (Quick Effect): You can banish up to 3 DARK monsters from your GY, then target that many cards on the field; destroy them. You can only use each effect of ""Dark Armed Dragon Punisher"" once per turn."
+100266004,Dark Armed Dragon Punisher,str1,Special Summon
+100266004,Dark Armed Dragon Punisher,str2,Destroy
 100266005,"Ekhajar, Descendant Dragon of the Ice Barrier",name,"Ekhajar, Descendant Dragon of the Ice Barrier"
-100266005,"Ekhajar, Descendant Dragon of the Ice Barrier",desc,"จูนเนอร์ 1 ใบ + มอนสเตอร์ที่ไม่ใช่จูนเนอร์ 1 ใบขึ้นไป
-ถ้าการ์ดนี้ถูก Synchro Summon สำเร็จ: คุณสามารถทิ้งการ์ด 1 ใบ; นำการ์ด 2 ใบจากบนฟิลด์ของอีกฝ่ายและ/หรือใน GY ของอีกฝ่ายออกนอกเกม ถ้าอีกฝ่าย Special Summon มอนสเตอร์: คุณสามารถนำการ์ด 1 ใบจากบนมือคุณออกนอกเกม; นำการ์ด 1 ใบจากบนฟิลด์หรือใน GY กลับขึ้นมือ ถ้าการ์ดที่ถูก Synchro Summon สำเร็จนี้ถูกส่งลง GY ในเทิร์นของอีกฝ่าย: คุณสามารถนำการ์ด 1 ใบจากบนมือของอีกฝ่าย (สุ่ม), บนฟิลด์, หรือใน GY ของอีกฝ่ายออกนอกเกม คุณสามารถใช้เอฟเฟกต์แต่ละอย่างของ ""Ekhajar, Descendant Dragon of the Ice Barrier"" ได้เทิร์นละครั้งเท่านั้น"
-100266005,"Ekhajar, Descendant Dragon of the Ice Barrier",str1,นำออกนอกเกมจากสนาม/สุสาน
-100266005,"Ekhajar, Descendant Dragon of the Ice Barrier",str2,กลับมือ
-100266005,"Ekhajar, Descendant Dragon of the Ice Barrier",str3,นำออกนอกเกมจากมือ/สนาม/สุสาน
-100266005,"Ekhajar, Descendant Dragon of the Ice Barrier",str4,ลบการ์ด 1 ใบจากบนมือคุณออกหรือไม่?
+100266005,"Ekhajar, Descendant Dragon of the Ice Barrier",desc,"1 Tuner + 1+ non-Tuners
+If this card is Synchro Summoned: You can discard 1 card; banish 2 cards from your opponent's field and/or GY. If your opponent Special Summons a monster(s) (except during the Damage Step): You can banish 1 card from your hand; return 1 card in either field or GY to the hand. If this Synchro Summoned card is sent to the GY during your opponent's turn: You can banish 1 card from your opponent's hand (at random), field, or GY. You can only use each effect of ""Ekhajar, Descendant Dragon of the Ice Barrier"" once per turn."
+100266005,"Ekhajar, Descendant Dragon of the Ice Barrier",str1,Banish from the field/GY
+100266005,"Ekhajar, Descendant Dragon of the Ice Barrier",str2,Return to the hand
+100266005,"Ekhajar, Descendant Dragon of the Ice Barrier",str3,Banish from the hand/field/GY
+100266005,"Ekhajar, Descendant Dragon of the Ice Barrier",str4,Banish a card from your hand?
 100266006,Number 101: Silent Honor ARK - Soul Asylum,name,Number 101: Silent Honor ARK - Soul Asylum
-100266006,Number 101: Silent Honor ARK - Soul Asylum,desc,"มอนสเตอร์เลเวล 4 จำนวน 2 ตัว
-คุณสามารถถอดวัตถุดิบ 1 ชนิดออกจากการ์ดใบนี้ จากนั้นเลือกใช้งาน 1 ในเอฟเฟกต์ต่อไปนี้;
-● เลือกมอนสเตอร์เลเวล 4 ในสุสานของคุณ 1 ตัว (ยกเว้นวัตถุดิบที่เพิ่งถอดออก) แล้วนำมอนสเตอร์เลเวล 4 ที่มีเผ่าและคุณสมบัติเดียวกัน แต่มีชื่อต่างกัน จากในเด็คของคุณขึ้นมือ 1 ตัว
-● เลือกเป้าหมายมอนสเตอร์ที่ฝ่ายตรงข้ามควบคุม 1 ตัว นำการ์ดใบนั้นมาเป็นวัตถุดิบของการ์ดใบนี้
-คุณสามารถใช้งานเอฟเฟกต์ของ ""Number 101: Silent Honor ARK - Soul Asylum"" ได้เทิร์นละ 1 ครั้งเท่านั้น หากการ์ดใบนี้กำลังจะถูกทำลาย คุณสามารถถอดวัตถุดิบ 1 ชนิดออกแทนการทำลายได้"
-100266006,Number 101: Silent Honor ARK - Soul Asylum,str1,เปิดใช้งาน
-100266006,Number 101: Silent Honor ARK - Soul Asylum,str2,เพิ่มเข้ามือ
-100266006,Number 101: Silent Honor ARK - Soul Asylum,str3,ในฐานะวัตถุดิบเอ็กซิส
+100266006,Number 101: Silent Honor ARK - Soul Asylum,desc,"2 Level 4 monsters
+You can detach 1 material from this card, then activate 1 of these effects;
+● Choose 1 Level 4 monster in your GY, except the detached material, and add 1 Level 4 monster with the same Type and Attribute, but a different name, from your Deck to your hand.
+● Target 1 monster your opponent controls; attach it to this card.
+You can only use this effect of ""Number 101: Silent Honor ARK - Soul Asylum"" once per turn. If this card would be destroyed, you can detach 1 material from this card instead."
+100266006,Number 101: Silent Honor ARK - Soul Asylum,str1,Activate
+100266006,Number 101: Silent Honor ARK - Soul Asylum,str2,Add to hand
+100266006,Number 101: Silent Honor ARK - Soul Asylum,str3,As Xyz Material
 100266007,Ultimate Sky,name,Ultimate Sky
-100266007,Ultimate Sky,desc,"ถ้าคู่ต่อสู้ของคุณควบคุมมอนสเตอร์มากกว่าคุณ: เลือกใช้งาน 1 ในเอฟเฟกต์ต่อไปนี้ (คุณสามารถใช้เอฟเฟกต์ของ ""Ultimate Sky"" ได้แต่ละอย่างเพียงเทิร์นละ 1 ครั้งเท่านั้น);
-● เลือกเป้าหมายการ์ดหงายหน้าบนสนามสูงสุดเท่ากับจำนวนมอนสเตอร์หงายหน้าที่คู่ต่อสู้ควบคุม และจ่าย LP 800 ต่อ 1 เป้าหมาย; ทำการยกเลิกเอฟเฟกต์ของการ์ดเหล่านั้นจนกว่าจะจบเทิร์นนี้
-● เมื่อคู่ต่อสู้ใช้งานเอฟเฟกต์มอนสเตอร์บนมือหรือใน GY: ทำการยกเลิกเอฟเฟกต์นั้น"
-100266007,Ultimate Sky,str1,เปิดใช้งาน
-100266007,Ultimate Sky,str2,ยกเลิกผลของหงายหน้าบนสนาม
-100266007,Ultimate Sky,str3,ยกเลิกผลมอนสเตอร์บนมือหรือสุสาน
+100266007,Ultimate Sky,desc,"If your opponent controls more monsters than you do: Activate 1 of these effects (but you can only use each effect of ""Ultimate Sky"" once per turn);
+● Target face-up cards on the field up to the number of face-up monsters your opponent controls and pay 800 LP for each target; negate their effects until the end of this turn.
+● When your opponent activates a monster effect in the hand or GY: Negate that effect."
+100266007,Ultimate Sky,str1,Activate
+100266007,Ultimate Sky,str2,Negate the effects of face-up cards on the field
+100266007,Ultimate Sky,str3,Negate a monster effect activated in the hand or GY
 100266008,Dominusteer Rosepamela,name,Dominusteer Rosepamela
-100266008,Dominusteer Rosepamela,desc,"การ์ดที่คว่ำอยู่ใน Spell & Trap Zone ของคุณจะไม่ถูกทำลายจากเอฟเฟกต์ของการ์ด คุณสามารถใช้เอฟเฟกต์แต่ละอย่างต่อไปนี้ของ ""Dominusteer Rosepamela"" ได้เทิร์นละหนึ่งครั้งเท่านั้น ในระหว่างเทิร์นของคู่แข่ง (Quick Effect): คุณสามารถเปิดเผยการ์ดใบนี้บนมือของคุณ; นำการ์ด ""Dominus Purge"" 1 ใบจาก Deck ขึ้นมือของคุณ จากนั้นทิ้งการ์ด 1 ใบ หากการ์ดใบนี้ถูก Normal หรือ Special Summon: คุณสามารถ Set การ์ด Trap ""Dominators"" หรือ ""Dominus Purge"" 1 ใบจาก Deck หรือ GY ของคุณได้ และการ์ดนั้นสามารถสั่งใช้งานได้ในเทิร์นนี้"
-100266008,Dominusteer Rosepamela,str1,เอฟเฟกต์ค้นหา
-100266008,Dominusteer Rosepamela,str2,หมอบเอฟเฟกต์
-100266008,Dominusteer Rosepamela,str3,"ใช้งานโดยใช้เอฟเฟกต์ของ ""Dominusteer Rosepamela"""
-100267001,Sennet Prophet - Nefertari,name,Sennet Prophet - Nefertari
-100267001,Sennet Prophet - Nefertari,desc,"ถ้าการ์ดนี้ถูก Normal หรือ Special Summon: คุณสามารถส่งการ์ดนี้ลง GY; แสดง Normal Monster Cards สูงสุด 2 ใบจากบนมือ, เด็ค, สนามที่หงายหน้าอยู่, และ/หรือ GY ของคุณ จากนั้น Set ""Sennet"" Spells จำนวนเท่ากันจากเด็คของคุณ ในช่วงเทิร์นของคู่แข่ง (Quick Effect): คุณสามารถนำการ์ดนี้ออกจากเกมจาก GY ของคุณ; สวม Normal Monster 1 ใบจาก GY ของคุณให้กับ Ritual Monster 1 ใบที่คุณควบคุมในฐานะ Equip Spell คุณสามารถใช้เอฟเฟกต์แต่ละอย่างของ ""Sennet Prophet - Nefertari"" ได้เทิร์นละครั้งเท่านั้น"
-100267001,Sennet Prophet - Nefertari,str1,หมอบ
-100267001,Sennet Prophet - Nefertari,str2,สถานะ
-100267002,Sennet Prophet - Amenhotep,name,Sennet Prophet - Amenhotep
-100267002,Sennet Prophet - Amenhotep,desc,"ถ้าการ์ดนี้ถูก Normal หรือ Special Summon: คุณสามารถส่งการ์ดนี้ลง GY; แสดง Normal Monster Cards สูงสุด 2 ใบจากบนมือ, เด็ค, สนามที่หงายหน้าอยู่, และ/หรือ GY ของคุณ จากนั้น Set ""Sennet"" Traps จำนวนเท่ากันจากเด็คของคุณ คุณสามารถนำการ์ดนี้ออกจากเกมจาก GY ของคุณ จากนั้นเลือกเป้าหมายเป็น Normal Monsters ใน GY ของคุณสูงสุด 3 ใบ; สับการ์ดเหล่านั้นกลับเข้าเด็ค คุณสามารถใช้เอฟเฟกต์แต่ละอย่างของ ""Sennet Prophet - Amenhotep"" ได้เทิร์นละครั้งเท่านั้น"
-100267002,Sennet Prophet - Amenhotep,str1,หมอบ
-100267002,Sennet Prophet - Amenhotep,str2,รีไซเคิล
-100267003,Sennetnakht Sphinx,name,Sennetnakht Sphinx
-100267003,Sennetnakht Sphinx,desc,"คุณสามารถ Ritual Summon การ์ดใบนี้ด้วยการ์ด ""Sennet"" ใดก็ได้ การ์ดใบนี้ที่ถูกสวมด้วย Equip Card จะไม่ได้รับผลจากเอฟเฟกต์ของคู่แข่งที่ทำงานอยู่ คุณสามารถใช้เอฟเฟกต์แต่ละอย่างต่อไปนี้ของ ""Sennetnakht Sphinx"" ได้เทิร์นละครั้งเท่านั้น คุณสามารถทิ้งการ์ดนี้; เพิ่มการ์ด ""Sennet"" 1 ใบจากเด็คของคุณขึ้นมือ ยกเว้น ""Sennetnakht Sphinx"" (Quick Effect): คุณสามารถส่ง Normal Monster Card ที่หงายหน้าอยู่ที่คุณควบคุม 1 ใบลง GY; เปลี่ยนมอนสเตอร์ที่คู่แข่งควบคุมเท่าที่จะทำได้ให้เป็นสภาพป้องกันแบบคว่ำหน้า จากนั้นคุณสามารถ Special Summon Normal Monster 1 ใบจาก GY ของคุณ"
-100267003,Sennetnakht Sphinx,str1,เพิ่มเข้ามือ
-100267003,Sennetnakht Sphinx,str2,เปลี่ยนเป็นรูปแบบป้องกันคว่ำหน้า
-100267003,Sennetnakht Sphinx,str3,เรียกพิเศษ?
-100267004,Tausennet Wadjet,name,Tausennet Wadjet
-100267004,Tausennet Wadjet,desc,"คุณสามารถ Ritual Summon การ์ดใบนี้ด้วยการ์ด ""Sennet"" ใดก็ได้ การ์ดใบนี้ที่ถูกสวมด้วย Equip Card จะไม่ถูกทำลายจากเอฟเฟกต์ของการ์ด คุณสามารถใช้เอฟเฟกต์แต่ละอย่างต่อไปนี้ของ ""Tausennet Wadjet"" ได้เทิร์นละครั้งเท่านั้น คุณสามารถทิ้งการ์ดนี้; ส่งการ์ด ""Sennet"" 1 ใบจากเด็คของคุณลง GY ยกเว้น ""Tausennet Wadjet"" (Quick Effect): คุณสามารถส่ง Normal Monster Cards ที่หงายหน้าอยู่ที่คุณควบคุมสูงสุด 3 ใบลง GY จากนั้นเลือกเป้าหมายเป็นจำนวนการ์ดเท่ากันที่คู่แข่งควบคุม; นำการ์ดเหล่านั้นกลับขึ้นมือ จากนั้นคุณสามารถ Special Summon Normal Monster 1 ใบจาก GY ของคุณ"
-100267004,Tausennet Wadjet,str1,ส่งสุสาน
-100267004,Tausennet Wadjet,str2,กลับมือ
-100267004,Tausennet Wadjet,str3,เรียกพิเศษ?
-100267005,Sennetmes Nekhbet,name,Sennetmes Nekhbet
-100267005,Sennetmes Nekhbet,desc,"คุณสามารถ Ritual Summon การ์ดใบนี้ด้วยการ์ด ""Sennet"" ใดก็ได้ การ์ดใบนี้ที่ถูกสวมด้วย Equip Card จะไม่ถูกทำลายจากการต่อสู้ คุณสามารถใช้เอฟเฟกต์แต่ละอย่างต่อไปนี้ของ ""Sennetmes Nekhbet"" ได้เทิร์นละครั้งเท่านั้น คุณสามารถทิ้งการ์ดนี้; เพิ่มการ์ด ""Sennet"" 1 ใบจาก GY ของคุณขึ้นมือ ยกเว้น ""Sennetmes Nekhbet"" (Quick Effect): คุณสามารถ Special Summon Normal Monster Card ที่หงายหน้าอยู่ 1 ใบจากโซน Spell & Trap ของคุณ และถ้าทำเช่นนั้น ให้สวมการ์ดนี้ที่คุณควบคุมให้กับมอนสเตอร์ใบนั้นในฐานะ Equip Spell ที่เพิ่ม ATK ให้ 2500"
-100267005,Sennetmes Nekhbet,str1,รีไซเคิล
-100267005,Sennetmes Nekhbet,str2,เรียกพิเศษ
-100267005,Sennetmes Nekhbet,str3,เรียกพิเศษ?
-100267006,Beresennet Em Heru,name,Beresennet Em Heru
-100267006,Beresennet Em Heru,desc,"เทิร์นละครั้ง: คุณสามารถ Ritual Summon ""Sennet"" Ritual Monster 1 ใบจากบนมือหรือ GY โดยส่ง Normal Monster Cards ที่มีชื่อแตกต่างกันจากบนมือ, เด็ค, และ/หรือสนามที่หงายหน้าอยู่ของคุณลง GY โดยที่ผลรวมของ Level เท่ากับหรือมากกว่า Level ของมอนสเตอร์ตัวนั้น จากนั้นคุณสามารถสวม Normal Monster 1 ใบจาก GY ของคุณให้กับมอนสเตอร์ตัวนั้นในฐานะ Equip Spell ถ้าคุณ Special Summon มอนสเตอร์ที่ไม่ใช่ Token Normal Monster: คุณสามารถจั่วการ์ด 1 ใบ คุณสามารถใช้เอฟเฟกต์นี้ของ ""Beresennet Em Heru"" ได้เทิร์นละครั้งเท่านั้น"
-100267006,Beresennet Em Heru,str1,อัญเชิญพิธีกรรม
-100267006,Beresennet Em Heru,str2,จั่ว
-100267006,Beresennet Em Heru,str3,ติดตั้งหรือไม่?
-100267007,Sennet Per Akh,name,Sennet Per Akh
-100267007,Sennet Per Akh,desc,"เพิ่ม ""Sennet"" มอนสเตอร์ 1 ใบจากเด็คของคุณขึ้นมือ ถ้าคุณทิ้ง ""Sennet"" Ritual Monster ในขณะที่การ์ดนี้อยู่ใน GY ของคุณ: คุณสามารถนำการ์ดนี้ออกจากเกม; Special Summon Non-Effect Fusion Monster 1 ใบจาก Extra Deck ของคุณที่มี ATK น้อยกว่าหรือเท่ากับมอนสเตอร์ที่ถูกทิ้งใบใดใบหนึ่ง ในฐานะ Normal Monster Card แต่ในช่วงที่เหลือของเทิร์นนี้ มอนสเตอร์นั้นจะไม่สามารถโจมตีโดยตรงได้ และคุณจะไม่สามารถใช้งานเอฟเฟกต์ของมอนสเตอร์ที่ไม่ใช่เผ่า Zombie ได้ คุณสามารถใช้เอฟเฟกต์แต่ละอย่างของ ""Sennet Per Akh"" ได้เทิร์นละครั้งเท่านั้น"
-100267007,Sennet Per Akh,str1,เพิ่มเข้ามือ
-100267007,Sennet Per Akh,str2,เรียกพิเศษ
-100267007,Sennet Per Akh,str3,ถือเป็นมอนสเตอร์ปกติ
+100266008,Dominusteer Rosepamela,desc,"Face-down cards in your Spell & Trap Zone cannot be destroyed by card effects. You can only use each of the following effects of ""Dominusteer Rosepamela"" once per turn. During your opponent's turn (Quick Effect): You can reveal this card in your hand; add 1 ""Dominus Purge"" card from your Deck to your hand, then discard 1 card. If this card is Normal or Special Summoned: You can Set 1 ""Dominators"" or ""Dominus Purge"" Trap from your Deck or GY. It can be activated this turn."
+100266008,Dominusteer Rosepamela,str1,Search effect
+100266008,Dominusteer Rosepamela,str2,Set effect
+100266008,Dominusteer Rosepamela,str3,"Activate by applying the effect of ""Dominusteer Rosepamela""."
+100267001,Zenet Prophet - Nefertari,name,Zenet Prophet - Nefertari
+100267001,Zenet Prophet - Nefertari,desc,"If this card is Normal or Special Summoned: You can send it to the GY; show up to 2 Normal Monster Cards from your hand, Deck, face-up field, and/or GY, then Set that many ""Zenet"" Spells from your Deck. During your opponent's turn (Quick Effect): You can banish this card from your GY; equip 1 Normal Monster from your GY to 1 Ritual Monster you control as an Equip Spell. You can only use each effect of ""Zenet Prophet - Nefertari"" once per turn."
+100267001,Zenet Prophet - Nefertari,str1,Set
+100267001,Zenet Prophet - Nefertari,str2,Status
+100267002,Zenet Prophet - Amenhotep,name,Zenet Prophet - Amenhotep
+100267002,Zenet Prophet - Amenhotep,desc,"If this card is Normal or Special Summoned: You can send it to the GY; show up to 2 Normal Monster Cards from your hand, Deck, face-up field, and/or GY, then Set that many ""Zenet"" Traps from your Deck. You can banish this card from your GY, then target up to 3 Normal Monsters in your GY; shuffle them into the Deck. You can only use each effect of ""Zenet Prophet - Amenhotep"" once per turn."
+100267002,Zenet Prophet - Amenhotep,str1,Set
+100267002,Zenet Prophet - Amenhotep,str2,Recycle
+100267003,Zenetnakht Sphinx,name,Zenetnakht Sphinx
+100267003,Zenetnakht Sphinx,desc,"You can Ritual Summon this card with any ""Zenet"" card. This card equipped with an Equip Card is unaffected by your opponent's activated effects. You can only use each of the following effects of ""Zenetnakht Sphinx"" once per turn. You can discard this card; add 1 ""Zenet"" card from your Deck to your hand, except ""Zenetnakht Sphinx"". (Quick Effect): You can send 1 face-up Normal Monster Card you control to the GY; change as many monsters your opponent controls as possible to face-down Defense Position, then you can Special Summon 1 Normal Monster from your GY."
+100267003,Zenetnakht Sphinx,str1,Add to hand
+100267003,Zenetnakht Sphinx,str2,Change to face-down Defense Position
+100267003,Zenetnakht Sphinx,str3,Special Summon?
+100267004,Tauzenet Wadjet,name,Tauzenet Wadjet
+100267004,Tauzenet Wadjet,desc,"You can Ritual Summon this card with any ""Zenet"" card. This card equipped with an Equip Card cannot be destroyed by card effects. You can only use each of the following effects of ""Tauzenet Wadjet"" once per turn. You can discard this card; send 1 ""Zenet"" card from your Deck to the GY, except ""Tauzenet Wadjet"". (Quick Effect): You can send up to 3 face-up Normal Monster Cards you control to the GY, then target that many cards your opponent controls; return them to the hand, then you can Special Summon 1 Normal Monster from your GY."
+100267004,Tauzenet Wadjet,str1,Send to the GY
+100267004,Tauzenet Wadjet,str2,Return to the hand
+100267004,Tauzenet Wadjet,str3,Special Summon?
+100267005,Zenetmes Nekhbet,name,Zenetmes Nekhbet
+100267005,Zenetmes Nekhbet,desc,"You can Ritual Summon this card with any ""Zenet"" card. This card equipped with an Equip Card cannot be destroyed by battle. You can only use each of the following effects of ""Zenetmes Nekhbet"" once per turn. You can discard this card; add 1 ""Zenet"" card from your GY to your hand, except ""Zenetmes Nekhbet"". (Quick Effect): You can Special Summon 1 face-up Normal Monster Card from your Spell & Trap Zone, and if you do, equip this card you control to it as an Equip Spell that gives it 2500 ATK."
+100267005,Zenetmes Nekhbet,str1,Recycle
+100267005,Zenetmes Nekhbet,str2,Special Summon
+100267005,Zenetmes Nekhbet,str3,Special Summon?
+100267006,Pere-Zenet Em Heru,name,Pere-Zenet Em Heru
+100267006,Pere-Zenet Em Heru,desc,"Once per turn: You can Ritual Summon 1 ""Zenet"" Ritual Monster from your hand or GY, by sending Normal Monster Cards with different names from each other from your hand, Deck, and/or face-up field to the GY whose total Levels equal or exceed its Level, then you can equip 1 Normal Monster from your GY to it as an Equip Spell. If you Special Summon a non-Token Normal Monster(s): You can draw 1 card. You can only use this effect of ""Pere-Zenet Em Heru"" once per turn."
+100267006,Pere-Zenet Em Heru,str1,Ritual Summon
+100267006,Pere-Zenet Em Heru,str2,Draw
+100267006,Pere-Zenet Em Heru,str3,Equip?
+100267007,Zenet Per Akh,name,Zenet Per Akh
+100267007,Zenet Per Akh,desc,"Add 1 ""Zenet"" monster from your Deck to your hand. If you discard a ""Zenet"" Ritual Monster(s) while this card is in your GY: You can banish this card; Special Summon 1 non-Effect Fusion Monster from your Extra Deck with ATK less than or equal to any of the discarded monsters' as a Normal Monster Card, but for the rest of this turn, it cannot attack directly, also you cannot activate non-Zombie monster effects. You can only use each effect of ""Zenet Per Akh"" once per turn."
+100267007,Zenet Per Akh,str1,Add to hand
+100267007,Zenet Per Akh,str2,Special Summon
+100267007,Zenet Per Akh,str3,Treat as a Normal Monster Card
 100267008,"A Journey Back to the Light - ""Zenet""",name,"A Journey Back to the Light - ""Zenet"""
-100267008,"A Journey Back to the Light - ""Zenet""",desc,"แสดง Normal Monster Card 2 หรือ 3 ใบจากบนมือ, ใน Deck, บนฟิลด์หงายหน้า และ/หรือ ใน GY ของคุณ, จากนั้นใช้เอฟเฟกต์ที่เหมาะสมตามจำนวนที่แสดง, จากนั้น ถ้าคุณแสดงการ์ดจากบนมือ คุณสามารถจั่วการ์ด 1 ใบ
-● 2 ใบ: Special Summon non-Effect Fusion Monster เลเวล 8 หรือต่ำกว่า 1 ใบจาก Extra Deck ของคุณโดยถือว่าเป็น Normal Monster Card
-● 3 ใบ: Special Summon ""Zenet"" monster 1 ใบจาก Deck ของคุณ หรือ Normal Monster 1 ใบจาก GY ของคุณ
-คุณสามารถ activate ""A Journey Back to the Light - ""Zenet"""" ได้เทิร์นละครั้งเท่านั้น"
-100267008,"A Journey Back to the Light - ""Zenet""",str1,เปิดใช้งาน
-100267008,"A Journey Back to the Light - ""Zenet""",str2,จั่วการ์ด 1 ใบ?
-100267009,Am Duasennet,name,Am Duasennet
-100267009,Am Duasennet,desc,"Ritual Summon ""Sennet"" Ritual Monster 1 ใบจากบนมือหรือ GY โดยส่ง Normal Monster Cards ที่มีชื่อแตกต่างกันจากบนมือ, เด็ค, และ/หรือสนามที่หงายหน้าอยู่ของคุณลง GY โดยที่ผลรวมของ Level เท่ากับหรือมากกว่า Level ของมอนสเตอร์ตัวนั้น จากนั้นคุณสามารถสวม Normal Monster 1 ใบจาก GY ของคุณให้กับมอนสเตอร์ตัวนั้นในฐานะ Equip Spell ถ้า Normal Monster Card ที่คุณควบคุมกำลังจะถูกทำลายจากการต่อสู้หรือเอฟเฟกต์ของการ์ด คุณสามารถนำการ์ดนี้ออกจากเกมจาก GY ของคุณแทนได้ คุณสามารถใช้งาน ""Am Duasennet"" ได้เทิร์นละครั้งเท่านั้น"
-100267009,Am Duasennet,str1,อัญเชิญพิธีกรรม
-100267009,Am Duasennet,str3,ติดตั้งหรือไม่?
-100267010,Sennet Cataract,name,Sennet Cataract
-100267010,Sennet Cataract,desc,"เลือก Main Monster Zone ของคู่แข่งตามจำนวน Normal Monsters และ ""Sennet"" Ritual Monsters ที่คุณควบคุม; ปฏิเสธเอฟเฟกต์ของมอนสเตอร์ใบแรกที่ทำงานในโซนเหล่านั้นที่แสดงผลในเทิร์นนี้ ถ้าผลรวม ATK ของ Normal Monster Cards ทั้งหมดที่คุณควบคุมมากกว่า 3000: คุณสามารถนำการ์ดนี้ออกจากเกมจาก GY ของคุณ จากนั้นเลือกเป้าหมายเป็นมอนสเตอร์ 1 ใบที่คู่แข่งควบคุม; ส่งมอนสเตอร์ใบนั้นลง GY คุณสามารถใช้เอฟเฟกต์แต่ละอย่างของ ""Sennet Cataract"" ได้เทิร์นละครั้งเท่านั้น"
-100267010,Sennet Cataract,str1,เลือกโซน
-100267010,Sennet Cataract,str2,ส่งสุสาน
-100267010,Sennet Cataract,str3,เลือกต่อ?
-100267011,Sennet Thunderfall,name,Sennet Thunderfall
-100267011,Sennet Thunderfall,desc,"เมื่อคู่แข่งใช้งาน Spell/Trap Card ในขณะที่คุณควบคุม Normal Monster หรือ ""Sennet"" Ritual Monster: ปฏิเสธการใช้งานการ์ดนั้น และถ้าทำเช่นนั้น ให้ทำลายการ์ดนั้น ถ้าผลรวม ATK ของ Normal Monster Cards ทั้งหมดที่คุณควบคุมมากกว่า 3000: คุณสามารถนำการ์ดนี้ออกจากเกมจาก GY ของคุณ; Set ""Sennet"" Spell/Trap 1 ใบจากเด็คหรือ GY ของคุณ ยกเว้น ""Sennet Thunderfall"" คุณสามารถใช้เอฟเฟกต์แต่ละอย่างของ ""Sennet Thunderfall"" ได้เทิร์นละครั้งเท่านั้น"
-100267011,Sennet Thunderfall,str1,ยกเลิกการเปิดใช้งานและทำลาย
-100267011,Sennet Thunderfall,str2,หมอบ
-100267016,Raise Moon Veil Cielo,name,Raise Moon Veil Cielo
-100267016,Raise Moon Veil Cielo,desc,"เมื่อคุณจั่วการ์ดใบนี้: คุณสามารถเปิดเผยมัน; อัญเชิญพิเศษมัน หากการ์ดใบนี้อยู่ในมือของคุณ: คุณสามารถนำการ์ดอีก 1 ใบจากมือของคุณหรือจากสนามที่หงายหน้าอยู่ไปไว้ที่ใต้สุดของ Deck; อัญเชิญพิเศษการ์ดใบนี้ ในช่วง Main Phase (Quick Effect): คุณสามารถจั่วการ์ด 1 ใบ คุณไม่สามารถเพิ่มการ์ดจาก Deck ขึ้นมือได้ในเทิร์นที่คุณใช้งานเอฟเฟกต์นี้ ยกเว้นการจั่วการ์ดเท่านั้น คุณสามารถใช้งานเอฟเฟกต์นี้ของ ""Raise Moon Veil Cielo"" ได้เทิร์นละครั้งเท่านั้น"
-100267016,Raise Moon Veil Cielo,str1,เรียกพิเศษ
-100267016,Raise Moon Veil Cielo,str2,กลับเด็คและเรียกพิเศษ
-100267016,Raise Moon Veil Cielo,str3,จั่ว
+100267008,"A Journey Back to the Light - ""Zenet""",desc,"Show 2 or 3 Normal Monster Cards in your hand, Deck, face-up field, and/or GY, then apply the appropriate effect based on the number shown, then if you showed a card(s) in the hand, you can draw 1 card.
+● 2: Special Summon 1 Level 8 or lower non-Effect Fusion Monster from your Extra Deck as a Normal Monster Card.
+● 3: Special Summon 1 ""Zenet"" monster from your Deck or 1 Normal Monster from your GY.
+You can only activate 1 ""A Journey Back to the Light - ""Zenet"""" per turn."
+100267008,"A Journey Back to the Light - ""Zenet""",str1,Activate
+100267008,"A Journey Back to the Light - ""Zenet""",str2,Draw a card?
+100267009,Am Duazenet,name,Am Duazenet
+100267009,Am Duazenet,desc,"Ritual Summon 1 ""Zenet"" Ritual Monster from your hand or GY, by sending Normal Monster Cards with different names from each other from your hand, Deck, and/or face-up field to the GY whose total Levels equal or exceed its Level, then you can equip 1 Normal Monster from your GY to it as an Equip Spell. If a Normal Monster Card(s) you control would be destroyed by battle or card effect, you can banish this card from your GY instead. You can only activate 1 ""Am Duazenet"" per turn."
+100267009,Am Duazenet,str1,Ritual Summon
+100267009,Am Duazenet,str3,Equip?
+100267010,Zenet Cataract,name,Zenet Cataract
+100267010,Zenet Cataract,desc,"Choose opponent's Main Monster Zones equal to the number of Normal Monsters and ""Zenet"" Ritual Monsters you control; negate the first monster effect activated in each of those zones that resolves this turn. If the total ATK of all Normal Monster Cards you control is more than 3000: You can banish this card from your GY, then target 1 monster your opponent controls; send it to the GY. You can only use each effect of ""Zenet Cataract"" once per turn."
+100267010,Zenet Cataract,str1,Select a zone
+100267010,Zenet Cataract,str2,Send to the GY
+100267010,Zenet Cataract,str3,Continue selecting?
+100267011,Zenet Thunderfall,name,Zenet Thunderfall
+100267011,Zenet Thunderfall,desc,"When your opponent activates a Spell/Trap Card while you control a Normal Monster or ""Zenet"" Ritual Monster: Negate the activation, and if you do, destroy that card. If the total ATK of all Normal Monster Cards you control is more than 3000: You can banish this card from your GY; Set 1 ""Zenet"" Spell/Trap from your Deck or GY, except ""Zenet Thunderfall"". You can only use each effect of ""Zenet Thunderfall"" once per turn."
+100267011,Zenet Thunderfall,str1,Negate the activation and destroy
+100267011,Zenet Thunderfall,str2,Set
+100267016,"Cielo, the Veil of Raise Moon",name,"Cielo, the Veil of Raise Moon"
+100267016,"Cielo, the Veil of Raise Moon",desc,"When you draw this card: You can reveal it; Special Summon it. If this card is in your hand: You can place 1 other card from your hand or face-up field on the bottom of the Deck; Special Summon this card. During the Main Phase (Quick Effect): You can draw 1 card. You cannot add cards from the Deck to the hand the turn you activate this effect, except by drawing them. You can only use this effect of ""Cielo, the Veil of Raise Moon"" once per turn."
+100267016,"Cielo, the Veil of Raise Moon",str1,Special Summon
+100267016,"Cielo, the Veil of Raise Moon",str2,Return to the Deck and Special Summon
+100267016,"Cielo, the Veil of Raise Moon",str3,Draw
 100267017,Raise Moon Elegance Carol,name,Raise Moon Elegance Carol
-100267017,Raise Moon Elegance Carol,desc,เมื่อคุณจั่วการ์ดใบนี้: คุณสามารถเปิดเผยมัน; อัญเชิญพิเศษมัน คุณสามารถอัญเชิญปกติการ์ดใบนี้โดยไม่ต้องสังเวย แต่ ATK ดั้งเดิมของมันจะกลายเป็น 700 หากการ์ดใบนี้ถูกอัญเชิญปกติหรืออัญเชิญพิเศษจากมือ: คุณสามารถจั่วการ์ด 1 ใบ และคุณไม่สามารถอัญเชิญพิเศษจาก Extra Deck ได้ในช่วงที่เหลือของเทิร์นนี้ ยกเว้นมอนสเตอร์ Xyz ธาตุแสง คุณไม่สามารถเพิ่มการ์ดจาก Deck ขึ้นมือได้ในเทิร์นที่คุณใช้งานเอฟเฟกต์นี้ ยกเว้นการจั่วการ์ดเท่านั้น
-100267017,Raise Moon Elegance Carol,str1,เรียกพิเศษ
-100267017,Raise Moon Elegance Carol,str2,เรียกปกติโดยไม่สละ
-100267017,Raise Moon Elegance Carol,str3,จั่ว
+100267017,Raise Moon Elegance Carol,desc,"When you draw this card: You can reveal it; Special Summon it. You can Normal Summon this card without Tributing, but its original ATK becomes 700. If this card is Normal or Special Summoned from the hand: You can draw 1 card, also you cannot Special Summon from the Extra Deck for the rest of this turn, except LIGHT Xyz Monsters. You cannot add cards from the Deck to the hand the turn you activate this effect, except by drawing them."
+100267017,Raise Moon Elegance Carol,str1,Special Summon
+100267017,Raise Moon Elegance Carol,str2,Normal Summon without Tributing
+100267017,Raise Moon Elegance Carol,str3,Draw
 100267018,Raise Moon Wings Rapi,name,Raise Moon Wings Rapi
-100267018,Raise Moon Wings Rapi,desc,เมื่อคุณจั่วการ์ดใบนี้: คุณสามารถเปิดเผยมัน; อัญเชิญพิเศษมัน หากการ์ดใบนี้ถูกอัญเชิญปกติหรืออัญเชิญพิเศษจากมือ: คุณสามารถจั่วการ์ด 1 ใบ และคุณไม่สามารถอัญเชิญพิเศษจาก Extra Deck ได้ในช่วงที่เหลือของเทิร์นนี้ ยกเว้นมอนสเตอร์ Xyz ธาตุแสง คุณไม่สามารถเพิ่มการ์ดจาก Deck ขึ้นมือได้ในเทิร์นที่คุณใช้งานเอฟเฟกต์นี้ ยกเว้นการจั่วการ์ดเท่านั้น หนึ่งครั้งต่อเทิร์นของคู่แข่ง คุณสามารถ (Quick Effect): ทันทีหลังจากเอฟเฟกต์นี้ทำงานเสร็จสิ้น ให้อัญเชิญ Xyz มอนสเตอร์ Rank 7 ธาตุแสง 1 ใบ
-100267018,Raise Moon Wings Rapi,str1,เรียกพิเศษ
-100267018,Raise Moon Wings Rapi,str2,จั่ว
-100267018,Raise Moon Wings Rapi,str3,เรียกเอ็กซิส
+100267018,Raise Moon Wings Rapi,desc,"When you draw this card: You can reveal it; Special Summon it. If this card is Normal or Special Summoned from the hand: You can draw 1 card, also you cannot Special Summon from the Extra Deck for the rest of this turn, except LIGHT Xyz Monsters. You cannot add cards from the Deck to the hand the turn you activate this effect, except by drawing them. Once per opponent's turn, you can (Quick Effect): Immediately after this effect resolves, Xyz Summon 1 Rank 7 LIGHT monster."
+100267018,Raise Moon Wings Rapi,str1,Special Summon
+100267018,Raise Moon Wings Rapi,str2,Draw
+100267018,Raise Moon Wings Rapi,str3,Xyz Summon
 100267019,Raise Moon Blade Shayna,name,Raise Moon Blade Shayna
-100267019,Raise Moon Blade Shayna,desc,"เมื่อคุณจั่วการ์ดใบนี้: คุณสามารถเปิดเผยมัน; อัญเชิญพิเศษมัน หากถูกอัญเชิญด้วยวิธีนี้: คุณสามารถเลือกเป้าหมายมอนสเตอร์ที่คู่แข่งควบคุม 1 ใบ; นำการ์ดนั้นไปไว้ที่ใต้สุดของ Deck คุณสามารถทิ้งการ์ดใบนี้; จั่วการ์ด 1 ใบ คุณไม่สามารถเพิ่มการ์ดจาก Deck ขึ้นมือได้ในเทิร์นที่คุณใช้งานเอฟเฟกต์นี้ ยกเว้นการจั่วการ์ดเท่านั้น คุณสามารถใช้งานเอฟเฟกต์นี้ของ ""Raise Moon Blade Shayna"" ได้เทิร์นละครั้งเท่านั้น"
-100267019,Raise Moon Blade Shayna,str1,เรียกพิเศษ
-100267019,Raise Moon Blade Shayna,str2,กลับเด็ค
-100267019,Raise Moon Blade Shayna,str3,จั่ว
+100267019,Raise Moon Blade Shayna,desc,"When you draw this card: You can reveal it; Special Summon it. If Summoned this way: You can target 1 monster your opponent controls; place it on the bottom of the Deck. You can discard this card; draw 1 card. You cannot add cards from the Deck to the hand the turn you activate this effect, except by drawing them. You can only use this effect of ""Raise Moon Blade Shayna"" once per turn."
+100267019,Raise Moon Blade Shayna,str1,Special Summon
+100267019,Raise Moon Blade Shayna,str2,Return to the Deck
+100267019,Raise Moon Blade Shayna,str3,Draw
 100267020,Raise Moon Lamp Croucier,name,Raise Moon Lamp Croucier
-100267020,Raise Moon Lamp Croucier,desc,"เมื่อคุณจั่วการ์ดใบนี้: คุณสามารถเปิดเผยมัน; อัญเชิญพิเศษมัน หากถูกอัญเชิญด้วยวิธีนี้: คุณสามารถเลือกเป้าหมายเวทมนตร์/กับดักที่คู่แข่งควบคุม 1 ใบ; นำการ์ดนั้นไปไว้ที่ใต้สุดของ Deck คุณสามารถทิ้งการ์ดใบนี้; จั่วการ์ด 1 ใบ คุณไม่สามารถเพิ่มการ์ดจาก Deck ขึ้นมือได้ในเทิร์นที่คุณใช้งานเอฟเฟกต์นี้ ยกเว้นการจั่วการ์ดเท่านั้น คุณสามารถใช้งานเอฟเฟกต์นี้ของ ""Raise Moon Lamp Croucier"" ได้เทิร์นละครั้งเท่านั้น"
-100267020,Raise Moon Lamp Croucier,str1,เรียกพิเศษ
-100267020,Raise Moon Lamp Croucier,str2,กลับเด็ค
-100267020,Raise Moon Lamp Croucier,str3,จั่ว
+100267020,Raise Moon Lamp Croucier,desc,"When you draw this card: You can reveal it; Special Summon it. If Summoned this way: You can target 1 Spell/Trap your opponent controls; place it on the bottom of the Deck. You can discard this card; draw 1 card. You cannot add cards from the Deck to the hand the turn you activate this effect, except by drawing them. You can only use this effect of ""Raise Moon Lamp Croucier"" once per turn."
+100267020,Raise Moon Lamp Croucier,str1,Special Summon
+100267020,Raise Moon Lamp Croucier,str2,Return to the Deck
+100267020,Raise Moon Lamp Croucier,str3,Draw
 100267021,Raise Moon Starter Squeeze,name,Raise Moon Starter Squeeze
-100267021,Raise Moon Starter Squeeze,desc,"(Quick Effect): คุณสามารถทิ้งการ์ดใบนี้ จากนั้นใช้งาน 1 ในเอฟเฟกต์ต่อไปนี้ (แต่คุณสามารถใช้งานแต่ละเอฟเฟกต์ของ ""Raise Moon Starter Squeeze"" ได้เทิร์นละครั้งเท่านั้น);
-● คุณไม่สามารถอัญเชิญพิเศษจาก Extra Deck ได้จนกว่าจะจบเทิร์นถัดไป ยกเว้นมอนสเตอร์ Xyz Rank 7 อีกทั้งในเทิร์นนี้ ทุกครั้งที่มีการเพิ่มการ์ดเข้ามือของคู่แข่งด้วยวิธีอื่นที่ไม่ใช่การจั่ว ให้คุณจั่วการ์ด 1 ใบในทันที
-● จั่วการ์ด 1 ใบ
-คุณไม่สามารถเพิ่มการ์ดจาก Deck ขึ้นมือได้ตลอดช่วง Duel ที่คุณใช้งานเอฟเฟกต์นี้ ยกเว้นการจั่วการ์ดเท่านั้น"
-100267021,Raise Moon Starter Squeeze,str2,ดรอว์ต่อเนื่อง
-100267021,Raise Moon Starter Squeeze,str3,จั่วการ์ด 1 ใบ
-100267021,Raise Moon Starter Squeeze,str4,ห้ามเสิร์ชเด็คขณะ {CARD} มีผล
-100267021,Raise Moon Starter Squeeze,str5,ห้ามเรียกพิเศษขณะ {CARD} มีผล
-100267022,Raise Moon Sky Cielo - No More Bets,name,Raise Moon Sky Cielo - No More Bets
-100267022,Raise Moon Sky Cielo - No More Bets,desc,"มอนสเตอร์ ""Raise Moon"" เลเวล 7 จำนวน 2 ใบ
-ไม่สามารถใช้เป็นวัตถุดิบในการอัญเชิญฟิวชั่น, Xyz หรือลิงก์ได้ หากการ์ดใบนี้ที่คุณครอบครองถูกส่งลงสุสานโดยเอฟเฟกต์ของการ์ดคู่แข่ง: คุณสามารถจั่วการ์ด 1 ใบ ได้รับเอฟเฟกต์เหล่านี้ในขณะที่อยู่ใน Extra Monster Zone
-● ไม่ได้รับผลกระทบจากเอฟเฟกต์ของการ์ดใบอื่น
-● เมื่อมีการใช้งานการ์ดหรือเอฟเฟกต์โดยคู่แข่งของคุณที่รวมถึงเอฟเฟกต์ในการเพิ่มการ์ดจาก Deck ขึ้นมือ ให้คุณเปลี่ยนเอฟเฟกต์นั้นเป็น ""จั่วการ์ด 1 ใบ""
-● หนึ่งครั้งต่อเทิร์น (Quick Effect): คุณสามารถถอดวัตถุดิบออกจากกระดานนี้ 1 ใบ; จั่วการ์ด 1 ใบ"
-100267022,Raise Moon Sky Cielo - No More Bets,str2,เปลี่ยนเอฟเฟกต์?
-100267022,Raise Moon Sky Cielo - No More Bets,str3,จั่ว
-100267022,Raise Moon Sky Cielo - No More Bets,str4,จั่ว
+100267021,Raise Moon Starter Squeeze,desc,"(Quick Effect): You can discard this card, then activate 1 of these effects (but you can only use each of these effects of ""Raise Moon Starter Squeeze"" once per turn);
+● You cannot Special Summon from the Extra Deck until the end of the next turn, except Rank 7 Xyz Monsters, also this turn, each time a card(s) is added to your opponent's hand, except by drawing it, immediately draw 1 card.
+● Draw 1 card.
+You cannot add cards from the Deck to the hand during the Duel you activate this effect, except by drawing them."
+100267021,Raise Moon Starter Squeeze,str2,Continuous draw
+100267021,Raise Moon Starter Squeeze,str3,Draw 1 card(s)
+100267021,Raise Moon Starter Squeeze,str4,You cannot search your Deck while {CARD}'s effect is being applied.
+100267021,Raise Moon Starter Squeeze,str5,You cannot Special Summon while {CARD}'s effect is being applied.
+100267022,"Cielo, the Night Sky of Raise Moon - No More Bets!",name,"Cielo, the Night Sky of Raise Moon - No More Bets!"
+100267022,"Cielo, the Night Sky of Raise Moon - No More Bets!",desc,"2 Level 7 ""Raise Moon"" monsters
+Cannot be used as material for a Fusion, Xyz, or Link Summon. If this card in your possession is sent to your GY by an opponent's card: You can draw 1 card. Gains these effects while in the Extra Monster Zone.
+● Unaffected by other cards' effects.
+● When a card or effect activated by your opponent resolves that includes an effect that adds a card(s) from the Deck to the hand, you can make that effect become ""Draw 1 card"".
+● Once per turn (Quick Effect): You can detach 1 material from this card; draw 1 card."
+100267022,"Cielo, the Night Sky of Raise Moon - No More Bets!",str2,Change the effect?
+100267022,"Cielo, the Night Sky of Raise Moon - No More Bets!",str3,Draw
+100267022,"Cielo, the Night Sky of Raise Moon - No More Bets!",str4,Draw
 100267023,Raise Moon Hope Squeeze - Jackpot,name,Raise Moon Hope Squeeze - Jackpot
-100267023,Raise Moon Hope Squeeze - Jackpot,desc,"มอนสเตอร์เลเวล 7 จำนวน 2 ใบขึ้นไป
-มอนสเตอร์ของคู่แข่งไม่สามารถเลือกเป้าหมายการโจมตีได้ ยกเว้นมอนสเตอร์ใบนี้ หากการ์ดใบนี้ถูกอัญเชิญ Xyz หรือมีการอัญเชิญพิเศษมอนสเตอร์จากมือ: คุณสามารถถอดวัตถุดิบจำนวนเท่าใดก็ได้จากการ์ดใบนี้; นำการ์ดที่คู่แข่งควบคุมจำนวนเท่ากับจำนวนที่ถอดไปไว้ที่ใต้สุดของ Deck ตามลำดับที่คุณต้องการ คุณสามารถใช้งานเอฟเฟกต์นี้ของ ""Raise Moon Hope Squeeze - Jackpot"" ได้เทิร์นละครั้งเท่านั้น ทุกครั้งที่คู่แข่งของคุณทำให้การ์ดออกจาก Deck ด้วยวิธีอื่นที่ไม่ใช่การจั่ว: คุณสามารถนำการ์ดใบบนสุดของ Deck ของคู่แข่งมาเป็นวัตถุดิบให้กับการ์ดใบนี้"
-100267023,Raise Moon Hope Squeeze - Jackpot,str2,กลับเด็ค
-100267023,Raise Moon Hope Squeeze - Jackpot,str3,แนบวัตถุดิบเอ็กซิส
+100267023,Raise Moon Hope Squeeze - Jackpot,desc,"2+ Level 7 monsters
+Your opponent's monsters cannot target monsters for attacks, except this one. If this card is Xyz Summoned, or a monster(s) is Special Summoned from the hand: You can detach any number of materials from this card; place that many cards your opponent controls on the bottom of the Deck in any order. You can only use this effect of ""Raise Moon Hope Squeeze - Jackpot"" once per turn. Each time your opponent makes a card(s) leave their Deck, except by drawing them: You can attach the top card of their Deck to this card."
+100267023,Raise Moon Hope Squeeze - Jackpot,str2,Return to the Deck
+100267023,Raise Moon Hope Squeeze - Jackpot,str3,Attach Xyz material
 100267025,"""Raise Moon"" the City that Never Sleeps",name,"""Raise Moon"" the City that Never Sleeps"
-100267025,"""Raise Moon"" the City that Never Sleeps",desc,"มอนสเตอร์ ""Raise Moon"" เลเวล 7 แต่ละใบที่คุณควบคุมจะไม่ถูกทำลายจากการ์ดในครั้งแรกของแต่ละเทิร์น หนึ่งครั้งต่อเทิร์น ในช่วง End Phase: สับการ์ด ""Raise Moon"" ทั้งหมดในสุสานและที่ถูกเนรเทศของคุณกลับเข้า Deck หนึ่งครั้งต่อเทิร์น: คุณสามารถใช้งาน 1 ในเอฟเฟกต์ต่อไปนี้;
-● นำการ์ด 1 ใบจากมือของคุณไปไว้บนสุดหรือใต้สุดของ Deck จากนั้นจั่วการ์ด 1 ใบ
-● หากคุณควบคุมมอนสเตอร์ Xyz ""Raise Moon"" เผ่าจอมเวทย์: คุณสามารถจั่วการ์ด 1 ใบ"
-100267025,"""Raise Moon"" the City that Never Sleeps",str1,เปิดใช้งาน
-100267025,"""Raise Moon"" the City that Never Sleeps",str2,กลับเด็คแล้วจั่วการ์ด 1 ใบ
-100267025,"""Raise Moon"" the City that Never Sleeps",str3,จั่ว
-100267025,"""Raise Moon"" the City that Never Sleeps",str4,กลับเด็ค
-100267025,"""Raise Moon"" the City that Never Sleeps",str5,บนสุดเด็ค
-100267025,"""Raise Moon"" the City that Never Sleeps",str6,ก้นเด็ค
+100267025,"""Raise Moon"" the City that Never Sleeps",desc,"The first time each Level 7 ""Raise Moon"" monster you control would be destroyed by card effect each turn, it is not destroyed. Once per turn, during the End Phase: Shuffle all ""Raise Moon"" cards in your GY and banishment into the Deck. Once per turn: You can activate 1 of these effects;
+● Place 1 card from your hand on the top or bottom of the Deck, then draw 1 card.
+● If you control a Spellcaster ""Raise Moon"" Xyz Monster: You can draw 1 card."
+100267025,"""Raise Moon"" the City that Never Sleeps",str1,Activate
+100267025,"""Raise Moon"" the City that Never Sleeps",str2,Return to the Deck and draw 1 card
+100267025,"""Raise Moon"" the City that Never Sleeps",str3,Draw
+100267025,"""Raise Moon"" the City that Never Sleeps",str4,Return to the Deck
+100267025,"""Raise Moon"" the City that Never Sleeps",str5,Top of the Deck
+100267025,"""Raise Moon"" the City that Never Sleeps",str6,Bottom of the Deck
 100267026,The Glitter of Raise Moon,name,The Glitter of Raise Moon
-100267026,The Glitter of Raise Moon,desc,"อัญเชิญพิเศษมอนสเตอร์ Xyz ""Raise Moon"" จาก Extra Deck ของคุณ 1 ใบ จากนั้นติดการ์ดนี้ไว้กับมอนสเตอร์ใบนั้น แล้วคุณสามารถสับการ์ด ""Raise Moon"" ทั้งหมดในสุสานของคุณกลับเข้า Deck คุณสามารถเนรเทศการ์ดใบนี้จากสุสานของคุณ; จั่วการ์ด 1 ใบ คุณสามารถใช้งานเอฟเฟกต์นี้ของ ""The Glitter of Raise Moon"" ได้เทิร์นละครั้งเท่านั้น คุณไม่สามารถเพิ่มการ์ดจาก Deck ขึ้นมือได้ตลอดช่วง Duel ที่คุณใช้งานเอฟเฟกต์ใดเอฟเฟกต์หนึ่งของการ์ดใบนี้ ยกเว้นการจั่วการ์ดเท่านั้น"
-100267026,The Glitter of Raise Moon,str1,เรียกพิเศษ
-100267026,The Glitter of Raise Moon,str2,จั่ว
-100267026,The Glitter of Raise Moon,str3,กลับการ์ดใบนั้นเด็คหรือไม่?
+100267026,The Glitter of Raise Moon,desc,"Special Summon 1 ""Raise Moon"" Xyz Monster from your Extra Deck, and if you do, attach this card to it, then you can shuffle all ""Raise Moon"" cards in your GY into the Deck. You can banish this card from your GY; draw 1 card. You can only use this effect of ""The Glitter of Raise Moon"" once per turn. You cannot add cards from the Deck to the hand during the Duel you activate either of this card's effects, except by drawing them."
+100267026,The Glitter of Raise Moon,str1,Special Summon
+100267026,The Glitter of Raise Moon,str2,Draw
+100267026,The Glitter of Raise Moon,str3,Return the card to the Deck?
 100267031,Xenovader△ of Emptiness Gehenna,name,Xenovader△ of Emptiness Gehenna
-100267031,Xenovader△ of Emptiness Gehenna,desc,"หากการ์ดนี้ถูก Normal Summon หรือ Special Summon: เนรเทศการ์ดใบบนสุดจาก Deck ของคุณ (คว่ำหน้า) คุณสามารถใช้เอฟเฟกต์แต่ละอย่างของ ""Xenovader△ of Emptiness Gehenna"" ได้เทิร์นละครั้งเท่านั้น หากการ์ดนี้อยู่ในมือของคุณและคุณไม่ควบคุมมอนสเตอร์: คุณสามารถ Special Summon การ์ดนี้ได้ ในระหว่าง Main Phase ของคุณ: คุณสามารถเพิ่ม ""Xenovader△"" monsters ที่ถูกเนรเทศ (คว่ำหน้า) ของคุณสูงสุด 2 ใบที่มีชื่อต่างกันไปยังมือของคุณ ยกเว้น ""Xenovader△ of Emptiness Gehenna"" โดยคุณจะไม่สามารถเปิดใช้การ์ดหรือเอฟเฟกต์อื่นๆ ได้ในเทิร์นนี้ ยกเว้นการ์ดหรือเอฟเฟกต์ ""Xenovader△"""
-100267031,Xenovader△ of Emptiness Gehenna,str1,เรียกพิเศษ
-100267031,Xenovader△ of Emptiness Gehenna,str2,ลบออก
-100267031,Xenovader△ of Emptiness Gehenna,str3,รีไซเคิล
+100267031,Xenovader△ of Emptiness Gehenna,desc,"If this card is Normal or Special Summoned: Banish (face-down) the top card of your Deck. You can only use each of the following effects of ""Xenovader△ of Emptiness Gehenna"" once per turn. If this card is in your hand and you control no monsters: You can Special Summon this card. During your Main Phase: You can add up to 2 of your face-down banished ""Xenovader△"" monsters with different names to your hand, except ""Xenovader△ of Emptiness Gehenna"", also you cannot activate cards or effects for the rest of this turn, except ""Xenovader△"" cards or effects."
+100267031,Xenovader△ of Emptiness Gehenna,str1,Special Summon
+100267031,Xenovader△ of Emptiness Gehenna,str2,Banish
+100267031,Xenovader△ of Emptiness Gehenna,str3,Recycle
 100267032,Xenovader△ of Sky Sheol,name,Xenovader△ of Sky Sheol
-100267032,Xenovader△ of Sky Sheol,desc,"หากการ์ดนี้ถูก Normal Summon หรือ Special Summon: เนรเทศการ์ด 2 ใบบนสุดจาก Deck ของคุณ (คว่ำหน้า) คุณสามารถใช้เอฟเฟกต์แต่ละอย่างของ ""Xenovader△ of Sky Sheol"" ได้เทิร์นละครั้งเท่านั้น หากการ์ดนี้อยู่ในมือของคุณและคุณควบคุม ""Xenovader△"" monster: คุณสามารถ Special Summon การ์ดนี้ได้ ในระหว่าง Main Phase ของคุณ: คุณสามารถเพิ่ม ""Xenovader△"" Spells/Traps ที่ถูกเนรเทศ (คว่ำหน้า) ของคุณสูงสุด 2 ใบที่มีชื่อต่างกันไปยังมือของคุณ โดยคุณจะไม่สามารถเปิดใช้การ์ดหรือเอฟเฟกต์อื่นๆ ได้ในเทิร์นนี้ ยกเว้นการ์ดหรือเอฟเฟกต์ ""Xenovader△"""
-100267032,Xenovader△ of Sky Sheol,str1,เรียกพิเศษ
-100267032,Xenovader△ of Sky Sheol,str2,ลบออก
-100267032,Xenovader△ of Sky Sheol,str3,รีไซเคิล
+100267032,Xenovader△ of Sky Sheol,desc,"If this card is Normal or Special Summoned: Banish (face-down) the top 2 cards of your Deck. You can only use each of the following effects of ""Xenovader△ of Sky Sheol"" once per turn. If this card is in your hand and you control a ""Xenovader△"" monster: You can Special Summon this card. During your Main Phase: You can add up to 2 of your face-down banished ""Xenovader△"" Spells/Traps with different names to your hand, also you cannot activate cards or effects for the rest of this turn, except ""Xenovader△"" cards or effects."
+100267032,Xenovader△ of Sky Sheol,str1,Special Summon
+100267032,Xenovader△ of Sky Sheol,str2,Banish
+100267032,Xenovader△ of Sky Sheol,str3,Recycle
 100267033,Xenovader△ of Blue Tuonela,name,Xenovader△ of Blue Tuonela
-100267033,Xenovader△ of Blue Tuonela,desc,"หากการ์ดนี้ถูก Normal Summon หรือ Special Summon: เนรเทศการ์ด 3 ใบบนสุดจาก Deck ของคุณ (คว่ำหน้า) คุณสามารถใช้เอฟเฟกต์แต่ละอย่างของ ""Xenovader△ of Blue Tuonela"" ได้เทิร์นละครั้งเท่านั้น หากการ์ดนี้อยู่ในมือของคุณและคู่ต่อสู้ของคุณควบคุมมอนสเตอร์มากกว่าที่คุณควบคุม: คุณสามารถ Special Summon การ์ดนี้ได้ ในระหว่าง Main Phase ของคุณ: คุณสามารถ Special Summon ""Xenovader△"" monster ที่ถูกเนรเทศ (คว่ำหน้า) Level 5 หรือสูงกว่าของคุณ 1 ใบ โดยคุณจะไม่สามารถเปิดใช้การ์ดหรือเอฟเฟกต์อื่นๆ ได้ในเทิร์นนี้ ยกเว้นการ์ดหรือเอฟเฟกต์ ""Xenovader△"""
-100267033,Xenovader△ of Blue Tuonela,str1,เรียกพิเศษ
-100267033,Xenovader△ of Blue Tuonela,str2,ลบออก
-100267033,Xenovader△ of Blue Tuonela,str3,เรียกพิเศษ
+100267033,Xenovader△ of Blue Tuonela,desc,"If this card is Normal or Special Summoned: Banish (face-down) the top 3 cards of your Deck. You can only use each of the following effects of ""Xenovader△ of Blue Tuonela"" once per turn. If this card is in your hand and your opponent controls more monsters than you do: You can Special Summon this card. During your Main Phase: You can Special Summon 1 of your face-down banished Level 5 or higher ""Xenovader△"" monsters, also you cannot activate cards or effects for the rest of this turn, except ""Xenovader△"" cards or effects."
+100267033,Xenovader△ of Blue Tuonela,str1,Special Summon
+100267033,Xenovader△ of Blue Tuonela,str2,Banish
+100267033,Xenovader△ of Blue Tuonela,str3,Special Summon
 100267034,Xenovader△ of Scarlet Naraka,name,Xenovader△ of Scarlet Naraka
-100267034,Xenovader△ of Scarlet Naraka,desc,"หากการ์ดนี้ถูก Normal Summon หรือ Special Summon: เนรเทศการ์ด 4 ใบบนสุดจาก Deck ของคุณ (คว่ำหน้า) คุณสามารถใช้เอฟเฟกต์แต่ละอย่างของ ""Xenovader△ of Scarlet Naraka"" ได้เทิร์นละครั้งเท่านั้น หากคู่ต่อสู้ของคุณ Special Summon มอนสเตอร์: คุณสามารถ Special Summon การ์ดนี้จากมือของคุณได้ ในระหว่าง Main Phase ของคู่ต่อสู้ของคุณ (Quick Effect): คุณสามารถ Special Summon ""Xenovader△"" monster ที่ถูกเนรเทศ (คว่ำหน้า) Level 5 หรือสูงกว่าของคุณ 1 ใบ โดยคุณจะไม่สามารถเปิดใช้การ์ดหรือเอฟเฟกต์อื่นๆ ได้ในเทิร์นนี้ ยกเว้นการ์ดหรือเอฟเฟกต์ ""Xenovader△"""
-100267034,Xenovader△ of Scarlet Naraka,str1,เรียกพิเศษ
-100267034,Xenovader△ of Scarlet Naraka,str2,ลบออก
-100267034,Xenovader△ of Scarlet Naraka,str3,เรียกพิเศษ
+100267034,Xenovader△ of Scarlet Naraka,desc,"If this card is Normal or Special Summoned: Banish (face-down) the top 4 cards of your Deck. You can only use each of the following effects of ""Xenovader△ of Scarlet Naraka"" once per turn. If your opponent Special Summons a monster(s): You can Special Summon this card from your hand. During your opponent's Main Phase (Quick Effect): You can Special Summon 1 of your face-down banished Level 5 or higher ""Xenovader△"" monsters, also you cannot activate cards or effects for the rest of this turn, except ""Xenovader△"" cards or effects."
+100267034,Xenovader△ of Scarlet Naraka,str1,Special Summon
+100267034,Xenovader△ of Scarlet Naraka,str2,Banish
+100267034,Xenovader△ of Scarlet Naraka,str3,Special Summon
 100267035,Sky Thunder Xenovader△ Yomi,name,Sky Thunder Xenovader△ Yomi
-100267035,Sky Thunder Xenovader△ Yomi,desc,"คุณสามารถเปิดเผยการ์ดนี้ในมือของคุณ; เนรเทศการ์ดนี้ (คว่ำหน้า) และถ้าทำได้ เพิ่ม ""Xenovader△"" card ที่ถูกเนรเทศ (คว่ำหน้า) ของคุณ 1 ใบไปยังมือของคุณ ยกเว้น Level 5 monster คุณสามารถใช้เอฟเฟกต์นี้ของ ""Sky Thunder Xenovader△ Yomi"" ได้เทิร์นละครั้งเท่านั้น หากการ์ดนี้ถูก Normal Summon หรือ Special Summon: เนรเทศการ์ด 5 ใบบนสุดจาก Deck ของคุณ (คว่ำหน้า) เทิร์นละครั้ง เมื่อคู่ต่อสู้ของคุณเปิดใช้เอฟเฟกต์มอนสเตอร์ (Quick Effect): คุณสามารถสับ ""Xenovader△"" monster ที่ถูกเนรเทศ (คว่ำหน้า) ของคุณ 1 ใบที่มี Attribute เดียวกันกลับเข้าสู่ Deck และถ้าทำได้ ยกเลิกการเปิดใช้นั้น"
-100267035,Sky Thunder Xenovader△ Yomi,str1,เพิ่มเข้ามือ
-100267035,Sky Thunder Xenovader△ Yomi,str2,ลบออก
-100267035,Sky Thunder Xenovader△ Yomi,str3,ยกเลิกการสั่งใช้งาน
+100267035,Sky Thunder Xenovader△ Yomi,desc,"You can reveal this card in your hand; banish it (face-down), and if you do, add 1 of your face-down banished ""Xenovader△"" cards to your hand, except a Level 5 monster. You can only use this effect of ""Sky Thunder Xenovader△ Yomi"" once per turn. If this card is Normal or Special Summoned: Banish (face-down) the top 5 cards of your Deck. Once per turn, when your opponent activates a monster effect (Quick Effect): You can shuffle 1 of your face-down banished ""Xenovader△"" monsters with the same Attribute into the Deck, and if you do, negate the activation."
+100267035,Sky Thunder Xenovader△ Yomi,str1,Add to hand
+100267035,Sky Thunder Xenovader△ Yomi,str2,Banish
+100267035,Sky Thunder Xenovader△ Yomi,str3,Negate the activation
 100267036,Burial Summit Xenovader△ Helheim,name,Burial Summit Xenovader△ Helheim
-100267036,Burial Summit Xenovader△ Helheim,desc,"ในระหว่าง Main Phase (Quick Effect): คุณสามารถเปิดเผยการ์ดนี้ในมือของคุณ; เนรเทศการ์ดนี้ (คว่ำหน้า) และถ้าทำได้ Special Summon ""Xenovader△"" monster ที่ถูกเนรเทศ (คว่ำหน้า) ของคุณ 1 ใบ ยกเว้น Level 6 monster คุณสามารถใช้เอฟเฟกต์นี้ของ ""Burial Summit Xenovader△ Helheim"" ได้เทิร์นละครั้งเท่านั้น หากการ์ดนี้ถูก Normal Summon หรือ Special Summon: เนรเทศการ์ด 6 ใบบนสุดจาก Deck ของคุณ (คว่ำหน้า) ""Xenovader△"" cards ใบอื่นที่คุณควบคุมจะไม่ถูกทำลายด้วยเอฟเฟกต์การ์ดของคู่ต่อสู้ของคุณ และคู่ต่อสู้ของคุณจะไม่สามารถเลือกเป็นเป้าหมายด้วยเอฟเฟกต์การ์ดได้"
-100267036,Burial Summit Xenovader△ Helheim,str1,เรียกพิเศษ
-100267036,Burial Summit Xenovader△ Helheim,str2,ลบออก
+100267036,Burial Summit Xenovader△ Helheim,desc,"During the Main Phase (Quick Effect): You can reveal this card in your hand; banish it (face-down), and if you do, Special Summon 1 of your face-down banished ""Xenovader△"" monsters, except a Level 6 monster. You can only use this effect of ""Burial Summit Xenovader△ Helheim"" once per turn. If this card is Normal or Special Summoned: Banish (face-down) the top 6 cards of your Deck. Other ""Xenovader△"" cards you control cannot be destroyed by your opponent's card effects, also your opponent cannot target them with card effects."
+100267036,Burial Summit Xenovader△ Helheim,str1,Special Summon
+100267036,Burial Summit Xenovader△ Helheim,str2,Banish
 100267037,Mad Tempest Xenovader△ Ploutonion,name,Mad Tempest Xenovader△ Ploutonion
-100267037,Mad Tempest Xenovader△ Ploutonion,desc,"(Quick Effect): คุณสามารถเปิดเผยการ์ดนี้และ ""Xenovader△"" card อื่นๆ 1 ใบในมือของคุณ; เนรเทศทั้งสองใบ (คว่ำหน้า) และถ้าทำได้ จั่วการ์ด 2 ใบ คุณสามารถใช้เอฟเฟกต์นี้ของ ""Mad Tempest Xenovader△ Ploutonion"" ได้เทิร์นละครั้งเท่านั้น หากการ์ดนี้ถูก Normal Summon หรือ Special Summon: เนรเทศการ์ด 7 ใบบนสุดจาก Deck ของคุณ (คว่ำหน้า) เทิร์นละครั้ง (Quick Effect): คุณสามารถสับ ""Xenovader△"" monster ที่ถูกเนรเทศ (คว่ำหน้า) ของคุณ 1 ใบกลับเข้าสู่ Deck จากนั้น คุณสามารถสับมอนสเตอร์ที่คู่ต่อสู้ของคุณควบคุม 1 ใบที่มี Attribute เดียวกันกลับเข้าสู่ Deck"
-100267037,Mad Tempest Xenovader△ Ploutonion,str1,จั่ว
-100267037,Mad Tempest Xenovader△ Ploutonion,str2,ลบออก
-100267037,Mad Tempest Xenovader△ Ploutonion,str3,กลับเด็ค
-100267037,Mad Tempest Xenovader△ Ploutonion,str4,แสดงด้วยเอฟเฟกต์ของ {CARD}
-100267037,Mad Tempest Xenovader△ Ploutonion,str5,ส่งมอนสเตอร์กลับเด็ค?
+100267037,Mad Tempest Xenovader△ Ploutonion,desc,"(Quick Effect): You can reveal this card and 1 other ""Xenovader△"" card in your hand; banish both (face-down), and if you do, draw 2 cards. You can only use this effect of ""Mad Tempest Xenovader△ Ploutonion"" once per turn. If this card is Normal or Special Summoned: Banish (face-down) the top 7 cards of your Deck. Once per turn (Quick Effect): You can shuffle 1 of your face-down banished ""Xenovader△"" monsters into the Deck, then you can shuffle 1 monster your opponent controls with the same Attribute into the Deck."
+100267037,Mad Tempest Xenovader△ Ploutonion,str1,Draw
+100267037,Mad Tempest Xenovader△ Ploutonion,str2,Banish
+100267037,Mad Tempest Xenovader△ Ploutonion,str3,Return to the Deck
+100267037,Mad Tempest Xenovader△ Ploutonion,str4,Revealed by the effect of {CARD}
+100267037,Mad Tempest Xenovader△ Ploutonion,str5,Return the monster to the Deck?
 100267038,Emptiness Devouring Xenovader△ Jahannam,name,Emptiness Devouring Xenovader△ Jahannam
-100267038,Emptiness Devouring Xenovader△ Jahannam,desc,หากการ์ดนี้ถูก Normal Summon หรือ Special Summon: เนรเทศการ์ด 8 ใบบนสุดจาก Deck ของคุณ (คว่ำหน้า) ได้รับเอฟเฟกต์เหล่านี้ตามจำนวนรวมของการ์ดที่ถูกเนรเทศ (คว่ำหน้า) ทั้งหมด ● 10+: ไม่สามารถถูกทำลายจากการต่อสู้ ● 20+: เทิร์นละครั้ง (Quick Effect): คุณสามารถเลือกการ์ดบนฟิลด์ 1 ใบเป็นเป้าหมาย; ทำลายการ์ดนั้น ● 30+: เทิร์นละครั้ง ในระหว่าง End Phase ของคู่ต่อสู้ของคุณ: คุณสามารถเพิ่มการ์ดที่ถูกเนรเทศ (คว่ำหน้า) ของคุณ 1 ใบไปยังมือของคุณ ● 40+: ข้าม Draw Phases ของผู้เล่นทั้งสองฝ่าย
-100267038,Emptiness Devouring Xenovader△ Jahannam,str1,ลบออก
-100267038,Emptiness Devouring Xenovader△ Jahannam,str2,ทำลาย
-100267038,Emptiness Devouring Xenovader△ Jahannam,str3,รีไซเคิล
+100267038,Emptiness Devouring Xenovader△ Jahannam,desc,"If this card is Normal or Special Summoned: Banish (face-down) the top 8 cards of your Deck. Gains these effects based on the total number of face-down banished cards.
+● 10+: Cannot be destroyed by battle.
+● 20+: Once per turn (Quick Effect): You can target 1 card on the field; destroy it.
+● 30+: Once per turn, during your opponent's End Phase: You can add 1 of your face-down banished cards to your hand.
+● 40+: Skip both players' Draw Phases."
+100267038,Emptiness Devouring Xenovader△ Jahannam,str1,Banish
+100267038,Emptiness Devouring Xenovader△ Jahannam,str2,Destroy
+100267038,Emptiness Devouring Xenovader△ Jahannam,str3,Recycle
 100267039,Xenovader△ Territory - Valvols,name,Xenovader△ Territory - Valvols
-100267039,Xenovader△ Territory - Valvols,desc,"เปิดใช้การ์ดนี้โดยเนรเทศการ์ด 5 ใบจาก GY ของคุณและ/หรือใบบนสุดจาก Deck ของคุณ (คว่ำหน้า) ในระหว่าง Main Phase ของคุณ: คุณสามารถเพิ่ม ""Xenovader△"" card ที่ถูกเนรเทศ (คว่ำหน้า) ของคุณ 1 ใบไปยังมือของคุณ ยกเว้น ""Xenovader△ Territory - Valvols"" คุณสามารถใช้เอฟเฟกต์นี้ของ ""Xenovader△ Territory - Valvols"" ได้เทิร์นละครั้งเท่านั้น ตราบใดที่คุณควบคุม ""Xenovader△"" monster Level 5 หรือสูงกว่าและคุณไม่มีการ์ดอยู่ใน Deck คู่ต่อสู้ของคุณจะไม่สามารถเปิดใช้การ์ดหรือเอฟเฟกต์ได้ในเทิร์นของคุณ"
-100267039,Xenovader△ Territory - Valvols,str1,แบนิชการ์ดจากสุสานเพื่อเปิดใช้?
+100267039,Xenovader△ Territory - Valvols,desc,"Activate this card by banishing (face-down) 5 cards from your GY and/or the top of your Deck. During your Main Phase: You can add 1 of your face-down banished ""Xenovader△"" cards to your hand, except ""Xenovader△ Territory - Valvols"". You can only use this effect of ""Xenovader△ Territory - Valvols"" once per turn. While you control a Level 5 or higher ""Xenovader△"" monster and you have no cards in your Deck, your opponent cannot activate cards or effects during your turn."
+100267039,Xenovader△ Territory - Valvols,str1,Banish cards from the GY to activate?
 100267041,Xenovader△ Judgment,name,Xenovader△ Judgment
-100267041,Xenovader△ Judgment,desc,"หากคู่ต่อสู้ของคุณ Normal Summon หรือ Special Summon มอนสเตอร์: คุณสามารถเลือกมอนสเตอร์นั้น 1 ใบเป็นเป้าหมาย; เลือก ""Xenovader△"" monster ที่ถูกเนรเทศ (คว่ำหน้า) ของคุณ 1 ใบที่มี Attribute เดียวกัน และเพิ่มไปยังมือของคุณหรือ Special Summon การ์ดนั้น โดยสำหรับเทิร์นนี้ที่เหลือ คุณจะไม่สามารถเลือก Attribute เดียวกันได้อีกครั้งด้วยเอฟเฟกต์นี้ของ ""Xenovader△ Judgment"" และคุณจะไม่สามารถเปิดใช้การ์ดหรือเอฟเฟกต์อื่นๆ ได้ ยกเว้นการ์ดหรือเอฟเฟกต์ ""Xenovader△"" เทิร์นละครั้ง ในระหว่าง damage calculation หาก ""Xenovader△"" monster ของคุณต่อสู้กับมอนสเตอร์ของคู่ต่อสู้และคุณไม่มีการ์ดอยู่ใน Deck: คุณสามารถทำให้ ATK ของมอนสเตอร์ของคู่ต่อสู้ตัวนั้นกลายเป็น 0"
-100267041,Xenovader△ Judgment,str1,รีไซเคิล
-100267041,Xenovader△ Judgment,str2,พลังโจมตีเป็น 0
+100267041,Xenovader△ Judgment,desc,"If your opponent Normal or Special Summons a monster(s): You can target 1 of them; choose 1 of your face-down banished ""Xenovader△"" monsters with the same Attribute, and either add it to your hand or Special Summon it, also for the rest of this turn, you cannot choose the same Attribute again with this effect of ""Xenovader△ Judgment"", and you cannot activate cards or effects, except ""Xenovader△"" cards or effects. Once per battle, during damage calculation, if your ""Xenovader△"" monster battles an opponent's monster and you have no cards in your Deck: You can make that opponent's monster's ATK become 0."
+100267041,Xenovader△ Judgment,str1,Recycle
+100267041,Xenovader△ Judgment,str2,ATK becomes 0
 100268004,"Blue-Eyes Ultimate Dragon, the God-Surpassing Servant",name,"Blue-Eyes Ultimate Dragon, the God-Surpassing Servant"
 100268004,"Blue-Eyes Ultimate Dragon, the God-Surpassing Servant",desc,"""Blue-Eyes White Dragon"" + ""Blue-Eyes White Dragon"" + ""Blue-Eyes White Dragon""
-ไม่สามารถถูกทำลายได้ด้วยเอฟเฟกต์ของการ์ด และยังไม่มีผลจากเอฟเฟกต์ที่คู่แข่งสั่งใช้งานในระหว่างเทิร์นของคู่แข่ง สามารถโจมตีได้สูงสุด 3 ครั้งในแต่ละ Battle Phase เทิร์นละหนึ่งครั้งต่อเชน ในระหว่าง Battle Phase (Quick Effect): คุณสามารถเลือกเป้าหมายมอนสเตอร์ที่ถูกอัญเชิญพิเศษในเทิร์นนี้ 1 ตัว หรือการ์ดคว่ำหน้า 1 ใบที่คู่แข่งควบคุม จากนั้นทำลายการ์ดใบนั้น คุณสามารถใช้เอฟเฟกต์นี้ของ ""Blue-Eyes Ultimate Dragon, the God-Surpassing Servant"" ได้สูงสุด 3 ครั้งต่อเทิร์น"
-100268004,"Blue-Eyes Ultimate Dragon, the God-Surpassing Servant",str2,เอฟเฟกต์ทำลาย
+Cannot be destroyed by card effects, also unaffected by your opponent's activated effects during your opponent's turn. Can make up to 3 attacks during each Battle Phase. Once per Chain, during the Battle Phase (Quick Effect): You can target 1 monster that was Special Summoned this turn, or 1 face-down card, that your opponent controls; destroy it. You can only use this effect of ""Blue-Eyes Ultimate Dragon, the God-Surpassing Servant"" thrice per turn."
+100268004,"Blue-Eyes Ultimate Dragon, the God-Surpassing Servant",str2,Destruction effect
 100268005,Barrel Dragon the Machine Dragon,name,Barrel Dragon the Machine Dragon
-100268005,Barrel Dragon the Machine Dragon,desc,"ถ้าคุณไม่ควบคุมมอนสเตอร์เลย คุณสามารถ Normal Summon การ์ดใบนี้ได้โดยไม่ต้องสังเวย คุณสามารถใช้เอฟเฟกต์ต่อไปนี้ของ ""Barrel Dragon the Machine Dragon"" ได้อย่างละ 1 ครั้งต่อเทิร์นเท่านั้น ในระหว่าง Main Phase ของคุณ: คุณสามารถเพิ่มมอนสเตอร์ DARK Machine 1 ใบจาก Deck ขึ้นมือของคุณ ยกเว้น ""Barrel Dragon the Machine Dragon"" ในระหว่าง Battle Phase หากการ์ดใบนี้อยู่ใน GY ของคุณเนื่องจากถูกส่งลงไปจากสนามในเทิร์นนี้ (Quick Effect): คุณสามารถ Special Summon มัน และถ้าคุณทำเช่นนั้น ให้โยนเหรียญ 3 ครั้ง จากนั้นคุณสามารถทำลายมอนสเตอร์บนสนามได้สูงสุดตามจำนวนครั้งที่ออกหัว"
-100268005,Barrel Dragon the Machine Dragon,str1,เรียกปกติโดยไม่สละ
-100268005,Barrel Dragon the Machine Dragon,str2,เพิ่มเข้ามือ
-100268005,Barrel Dragon the Machine Dragon,str3,เรียกพิเศษ
-100268005,Barrel Dragon the Machine Dragon,str4,ทำลายมอนสเตอร์ตัวนั้น?
+100268005,Barrel Dragon the Machine Dragon,desc,"If you control no monsters, you can Normal Summon this card without Tributing. You can only use each of the following effects of ""Barrel Dragon the Machine Dragon"" once per turn. During your Main Phase: You can add 1 DARK Machine monster from your Deck to your hand, except ""Barrel Dragon the Machine Dragon"". During the Battle Phase, if this card is in your GY because it was sent there from the field this turn (Quick Effect): You can Special Summon it, and if you do, toss a coin 3 times, then you can destroy monsters on the field up to the number of heads."
+100268005,Barrel Dragon the Machine Dragon,str1,Normal Summon without Tributing
+100268005,Barrel Dragon the Machine Dragon,str2,Add to hand
+100268005,Barrel Dragon the Machine Dragon,str3,Special Summon
+100268005,Barrel Dragon the Machine Dragon,str4,Destroy that monster?
 100268006,Relinquished the Wicked Eye of Illusion,name,Relinquished the Wicked Eye of Illusion
-100268006,Relinquished the Wicked Eye of Illusion,desc,"คุณสามารถ Ritual Summon การ์ดใบนี้ด้วย ""Relinquished the Wicked Eye of Illusion"" คู่แข่งของคุณจะต้องรับ Damage จากการต่อสู้ทั้งหมดที่คุณควรจะได้รับจากการต่อสู้ที่เกี่ยวข้องกับการ์ดใบนี้ คุณสามารถใช้เอฟเฟกต์ต่อไปนี้ของ ""Relinquished the Wicked Eye of Illusion"" ได้อย่างละ 1 ครั้งต่อเทิร์นเท่านั้น หากการ์ดใบนี้อยู่ในมือของคุณ: คุณสามารถสังเวยมอนสเตอร์ 2 ใบ; Special Summon การ์ดใบนี้ (ถือว่าเป็นการ Ritual Summon) ในระหว่าง Main Phase (Quick Effect): คุณสามารถเลือกเป้าหมายมอนสเตอร์ Effect 1 ใบที่คู่แข่งควบคุมอยู่; ยกเลิกเอฟเฟกต์ของมอนสเตอร์ตัวนั้น และถ้าคุณทำเช่นนั้น ให้สวมใส่มันเข้ากับการ์ดใบนี้ในฐานะ Equip Spell ที่เพิ่ม ATK ให้มัน 2000"
-100268006,Relinquished the Wicked Eye of Illusion,str1,เรียกพิเศษ
-100268006,Relinquished the Wicked Eye of Illusion,str2,สวมใส่
+100268006,Relinquished the Wicked Eye of Illusion,desc,"You can Ritual Summon this card with ""Relinquished the Wicked Eye of Illusion"". Your opponent takes any battle damage you would have taken from battles involving this card. You can only use each of the following effects of ""Relinquished the Wicked Eye of Illusion"" once per turn. If this card is in your hand: You can Tribute 2 monsters; Special Summon this card (this is treated as a Ritual Summon). During the Main Phase (Quick Effect): You can target 1 Effect Monster your opponent controls; negate its effects, and if you do, equip it to this card as an Equip Spell that gives it 2000 ATK."
+100268006,Relinquished the Wicked Eye of Illusion,str1,Special Summon
+100268006,Relinquished the Wicked Eye of Illusion,str2,Equip
 100268008,"Gilford the Lightning, the Warrior of Thunderbolts",name,"Gilford the Lightning, the Warrior of Thunderbolts"
-100268008,"Gilford the Lightning, the Warrior of Thunderbolts",desc,"คุณสามารถ Special Summon การ์ดใบนี้ (จากมือของคุณ) โดยการสังเวยมอนสเตอร์ 3 ใบ และถ้าคุณสังเวยมอนสเตอร์ที่เป็นของคู่แข่ง คู่แข่งของคุณจะไม่สามารถใช้งานการ์ดหรือเอฟเฟกต์ใดๆ ได้เมื่อการ์ดใบนี้ถูก Special Summon ด้วยวิธีนี้ หากถูกอัญเชิญด้วยวิธีนี้: คู่แข่งของคุณต้องส่งมอนสเตอร์ทั้งหมดที่พวกเขาควบคุมอยู่ลง GY หากการ์ดใบนี้ถูกส่งลง GY: คุณสามารถใช้งานเอฟเฟกต์นี้ได้; ในระหว่าง End Phase ของเทิร์นนี้ ให้เพิ่มมอนสเตอร์ Warrior 1 ใบจาก Deck ของคุณขึ้นมือ คุณสามารถใช้เอฟเฟกต์นี้ของ ""Gilford the Lightning, the Warrior of Thunderbolts"" ได้เพียง 1 ครั้งต่อเทิร์นเท่านั้น"
-100268008,"Gilford the Lightning, the Warrior of Thunderbolts",str2,ส่งสุสาน
-100268008,"Gilford the Lightning, the Warrior of Thunderbolts",str3,เพิ่มเข้ามือ
+100268008,"Gilford the Lightning, the Warrior of Thunderbolts",desc,"You can Special Summon this card (from your hand) by Tributing 3 monsters, and if you Tributed a monster(s) that is owned by your opponent, your opponent cannot activate cards or effects when this card is Special Summoned this way. If Summoned this way: Your opponent must send all monsters they control to the GY. If this card is sent to the GY: You can activate this effect; during the End Phase of this turn, add 1 Warrior monster from your Deck to your hand. You can only use this effect of ""Gilford the Lightning, the Warrior of Thunderbolts"" once per turn."
+100268008,"Gilford the Lightning, the Warrior of Thunderbolts",str2,Send to the GY
+100268008,"Gilford the Lightning, the Warrior of Thunderbolts",str3,Add to hand
 100268011,"Penalty Game ""GREED, the Illusion of Avarice""",name,"Penalty Game ""GREED, the Illusion of Avarice"""
-100268011,"Penalty Game ""GREED, the Illusion of Avarice""",desc,"หากคู่แข่งของคุณเพิ่มการ์ดจาก Deck ขึ้นมือในเทิร์นนี้ ยกเว้นในระหว่าง Draw Phase: สร้างความเสียหาย 400 ให้แก่คู่แข่งของคุณตามจำนวนการ์ดในมือของพวกเขา จากนั้นหากจำนวนการ์ดรวมในมือ, บนสนาม และใน GY ของพวกเขาเท่ากับ 20 ใบขึ้นไป คุณสามารถนำการ์ดทั้งมือของพวกเขาออกนอกเกม คุณสามารถใช้งาน ""Penalty Game ""GREED, the Illusion of Avarice"""" ได้เพียง 1 ใบต่อเทิร์นเท่านั้น"
-100268011,"Penalty Game ""GREED, the Illusion of Avarice""",str1,เปิดใช้งาน
-100268011,"Penalty Game ""GREED, the Illusion of Avarice""",str2,เนรเทศ?
+100268011,"Penalty Game ""GREED, the Illusion of Avarice""",desc,"If your opponent added a card(s) from the Deck to the hand this turn, except during the Draw Phase: Inflict 400 damage to your opponent for each card in their hand, then if the total number of cards in their hand, field, and GY is 20 or more, you can banish their entire hand. You can only activate 1 ""Penalty Game ""GREED, the Illusion of Avarice"""" per turn."
+100268011,"Penalty Game ""GREED, the Illusion of Avarice""",str1,Activate
+100268011,"Penalty Game ""GREED, the Illusion of Avarice""",str2,Banish?
 100268012,Zombyra,name,Zombyra
-100268012,Zombyra,desc,"เมื่อการ์ดใบนี้ประกาศโจมตี: คุณเสีย 500 LP และถ้าคุณทำเช่นนั้น การ์ดใบนี้จะได้รับ ATK 500 เมื่อมอนสเตอร์ถูกทำลายจากการต่อสู้: คุณสามารถสวมใส่การ์ดใบนี้จาก GY ของคุณเข้ากับมอนสเตอร์ที่ทำลายมอนสเตอร์ตัวนั้น จากนั้นคุณสามารถทำลายมอนสเตอร์ 1 ใบที่คู่แข่งควบคุมอยู่ที่มี ATK สูงที่สุดได้ (คุณเป็นคนเลือกหากมีค่า ATK เท่ากัน) ชื่อของการ์ดมอนสเตอร์ที่ถูกสวมใส่จะกลายเป็น ""Zombyra"" และเอฟเฟกต์ของมันจะถูกยกเลิก เมื่อมอนสเตอร์ที่ถูกสวมใส่ประกาศโจมตี: ผู้ควบคุมของมันจะเสีย 500 LP และถ้าทำเช่นนั้น มอนสเตอร์ที่ถูกสวมใส่จะได้รับ ATK 500"
-100268012,Zombyra,str1,เพิ่มพลังโจมตี
-100268012,Zombyra,str2,สวมใส่
-100268012,Zombyra,str3,เพิ่มพลังโจมตี
-100268012,Zombyra,str4,ทำลายมอนสเตอร์ตัวนั้น?
+100268012,Zombyra,desc,"When this card declares an attack: You lose 500 LP, and if you do, this card gains 500 ATK. When a monster is destroyed by battle: You can equip this card from your GY to the monster that destroyed that monster, then you can destroy the 1 monster your opponent controls with the highest ATK (your choice, if tied). The equipped monster's name becomes ""Zombyra"", also its effects are negated. When the equipped monster declares an attack: Its controller loses 500 LP, and if they do, the equipped monster gains 500 ATK."
+100268012,Zombyra,str1,Increase ATK
+100268012,Zombyra,str2,Equip
+100268012,Zombyra,str3,Increase ATK
+100268012,Zombyra,str4,Destroy that monster?
 100268013,Evil Dragon Cards - Earth Dragon,name,Evil Dragon Cards - Earth Dragon
-100268013,Evil Dragon Cards - Earth Dragon,desc,"ไม่สามารถ Normal Summon/Set ได้ ต้องทำการ Special Summon (จากมือ) โดยการเปิดเผยการ์ดมอนสเตอร์ EARTH 3 ใบในมือของคุณก่อน ซึ่งรวมถึงการ์ดใบนี้ด้วย คุณสามารถเปิดเผยการ์ดใบนี้ในมือของคุณ; เพิ่มการ์ด ""Dragon Card"" 1 ใบจาก Deck ขึ้นมือของคุณ จากนั้นทิ้งการ์ด 1 ใบ เมื่อคู่แข่งของคุณใช้งานเอฟเฟกต์มอนสเตอร์บนสนาม (Quick Effect): คุณสามารถยกเลิกเอฟเฟกต์นั้นได้ จากนั้นถ้ามีมอนสเตอร์ WATER อยู่บนสนาม การ์ดใบนี้จะไม่ถูกทำลายจากการต่อสู้หรือเอฟเฟกต์ของการ์ดในเทิร์นนี้ คุณสามารถใช้เอฟเฟกต์แต่ละอย่างของ ""Evil Dragon Cards - Earth Dragon"" ได้เพียง 1 ครั้งต่อเทิร์นเท่านั้น"
-100268013,Evil Dragon Cards - Earth Dragon,str2,เพิ่มเข้ามือ
-100268013,Evil Dragon Cards - Earth Dragon,str3,ยกเลิกเอฟเฟกต์
+100268013,Evil Dragon Cards - Earth Dragon,desc,"Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by revealing 3 EARTH monsters in your hand, including this card. You can reveal this card in your hand; add 1 ""Dragon Card"" card from your Deck to your hand, then discard 1 card. When your opponent activates a monster effect on the field (Quick Effect): You can negate that effect, then if a WATER monster is on the field, this card cannot be destroyed by battle or card effects this turn. You can only use each effect of ""Evil Dragon Cards - Earth Dragon"" once per turn."
+100268013,Evil Dragon Cards - Earth Dragon,str2,Add to hand
+100268013,Evil Dragon Cards - Earth Dragon,str3,Negate the effect
 100268014,Evil Dragon Cards - Metal Dragon,name,Evil Dragon Cards - Metal Dragon
-100268014,Evil Dragon Cards - Metal Dragon,desc,"ไม่สามารถ Normal Summon/Set ได้ ต้องทำการ Special Summon (จากมือ) โดยการเปิดเผยการ์ดมอนสเตอร์ LIGHT 3 ใบในมือของคุณก่อน ซึ่งรวมถึงการ์ดใบนี้ด้วย คุณสามารถเปิดเผยการ์ดใบนี้ในมือของคุณ; เพิ่มการ์ด ""Dragon Card"" 1 ใบจาก Deck ขึ้นมือของคุณ จากนั้นทิ้งการ์ด 1 ใบ ในระหว่าง Main Phase (Quick Effect): คุณสามารถทำลายมอนสเตอร์ 1 ใบที่คู่แข่งควบคุมอยู่ และถ้าคุณทำเช่นนั้น ให้ส่งการ์ดใบนี้ลง GY จากนั้นถ้ามีมอนสเตอร์ EARTH อยู่บนสนาม คุณสามารถจั่วการ์ด 1 ใบ คุณสามารถใช้เอฟเฟกต์แต่ละอย่างของ ""Evil Dragon Cards - Metal Dragon"" ได้เพียง 1 ครั้งต่อเทิร์นเท่านั้น"
-100268014,Evil Dragon Cards - Metal Dragon,str2,เพิ่มเข้ามือ
-100268014,Evil Dragon Cards - Metal Dragon,str3,ทำลาย
-100268014,Evil Dragon Cards - Metal Dragon,str4,จั่วการ์ด 1 ใบ?
+100268014,Evil Dragon Cards - Metal Dragon,desc,"Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by revealing 3 LIGHT monsters in your hand, including this card. You can reveal this card in your hand; add 1 ""Dragon Card"" card from your Deck to your hand, then discard 1 card. During the Main Phase (Quick Effect): You can destroy 1 monster your opponent controls, and if you do, send this card to the GY, then if an EARTH monster is on the field, you can draw 1 card. You can only use each effect of ""Evil Dragon Cards - Metal Dragon"" once per turn."
+100268014,Evil Dragon Cards - Metal Dragon,str2,Add to hand
+100268014,Evil Dragon Cards - Metal Dragon,str3,Destroy
+100268014,Evil Dragon Cards - Metal Dragon,str4,Draw a card?
 100268015,Super Critical,name,Super Critical
-100268015,Super Critical,desc,"เมื่อการ์ดใบนี้ถูกใช้งาน: คุณสามารถเพิ่มการ์ดที่มีเอฟเฟกต์ที่ต้องใช้การทอยลูกเต๋า 1 ใบจาก Deck ขึ้นมือของคุณ ครั้งละ 1 ครั้งต่อ Chain ต่อผู้เล่นหนึ่งคน หากผู้เล่นคนใดคนหนึ่งทอยลูกเต๋าได้ 1 สำหรับเอฟเฟกต์ของการ์ด: พวกเขาสามารถเลือกใช้งาน 1 ในเอฟเฟกต์เหล่านี้; 
-● ทำลายมอนสเตอร์ที่คู่แข่งควบคุมอยู่สูงสุด 3 ใบ 
-● ทำลายมอนสเตอร์ที่คู่แข่งควบคุมอยู่ 1 ใบ และถ้าทำเช่นนั้น ให้ยกเลิกเอฟเฟกต์ของมอนสเตอร์ 1 ใบที่คู่แข่งควบคุมอยู่ 
-● Special Summon มอนสเตอร์ 1 ใบจาก GY ของพวกเขา 
-คุณสามารถใช้งาน ""Super Critical"" ได้เพียง 1 ใบต่อเทิร์นเท่านั้น"
-100268015,Super Critical,str1,เปิดใช้งาน
-100268015,Super Critical,str2,เลือกใช้เอฟเฟกต์
-100268015,Super Critical,str3,เพิ่มเข้ามือ?
-100268015,Super Critical,str4,ทำลายมอนสเตอร์
-100268015,Super Critical,str5,ทำลายมอนสเตอร์ 1 ใบ และยกเลิกเอฟเฟกต์มอนสเตอร์อีกใบ
-100268015,Super Critical,str6,เรียกพิเศษ
+100268015,Super Critical,desc,"When this card is activated: You can add 1 card with an effect that requires a die roll from your Deck to your hand. Once per Chain per player, if either player rolls a 1 for a card effect's die roll: They can activate 1 of these effects;
+● They destroy up to 3 monsters their opponent controls.
+● They destroy 1 monster their opponent controls, and if they do, they negate the effects of 1 monster their opponent controls.
+● They Special Summon 1 monster from their GY.
+You can only activate 1 ""Super Critical"" per turn."
+100268015,Super Critical,str1,Activate
+100268015,Super Critical,str2,Choose an effect to activate
+100268015,Super Critical,str3,Add to hand?
+100268015,Super Critical,str4,Destroy a monster
+100268015,Super Critical,str5,Destroy a monster and negate another monster's effects
+100268015,Super Critical,str6,Special Summon
 100268201,Dark Paladin - Wave-Motion,name,Dark Paladin - Wave-Motion
-100268201,Dark Paladin - Wave-Motion,desc,"""Dark Magician"" + มอนสเตอร์เลเวล 7 หรือสูงกว่า 1 ตัว
-ต้องอัญเชิญด้วยการอัญเชิญฟิวชั่นเท่านั้น การ์ดใบนี้ได้รับพลังโจมตีเพิ่มขึ้น 500 ตามจำนวนมอนสเตอร์ตัวอื่นบนสนาม การ์ดใบนี้สามารถโจมตีมอนสเตอร์ของฝ่ายตรงข้ามได้ทุกตัว ตัวละ 1 ครั้ง เทิร์นละ 1 ครั้ง เมื่อฝ่ายตรงข้ามใช้งานการ์ดเวทมนตร์หรือเอฟเฟกต์ (Quick Effect): คุณสามารถทำให้เอฟเฟกต์นั้นเป็นโมฆะ จากนั้นคุณสามารถทำลายการ์ดบนสนาม 1 ใบ หลังจากที่การ์ดใบนี้ทำลายการ์ดด้วยการต่อสู้หรือเอฟเฟกต์การ์ดและส่งลงสุสาน ทั้งสองฝ่ายจะไม่สามารถใช้งานเอฟเฟกต์ของการ์ดใบนั้นได้ตราบใดที่มันยังอยู่ในสุสาน"
-100268201,Dark Paladin - Wave-Motion,str1,ยกเลิกเอฟเฟกต์
-100268201,Dark Paladin - Wave-Motion,str2,ทำลายการ์ดใบนี้?
-100268201,Dark Paladin - Wave-Motion,str3,"ผลของ ""Dark Paladin - Wave-Motion"" กำลังทำงานอยู่"
+100268201,Dark Paladin - Wave-Motion,desc,"""Dark Magician"" + 1 Level 7 or higher monster
+Must be Fusion Summoned. Gains 500 ATK for every other monster on the field. Can attack all your opponent's monsters, once each. Once per turn, when your opponent activates a Spell Card or effect (Quick Effect): You can negate that effect, then you can destroy 1 card on the field. After this card destroys a card by battle or card effect and sends it to the GY, neither player can activate its effects while it is in the GY."
+100268201,Dark Paladin - Wave-Motion,str1,Negate the effect
+100268201,Dark Paladin - Wave-Motion,str2,Destroy the card?
+100268201,Dark Paladin - Wave-Motion,str3,"The effect of ""Dark Paladin - Wave-Motion"" is currently being applied."
 100269038,Odd-Eyes Override Dragon,name,Odd-Eyes Override Dragon
-100269038,Odd-Eyes Override Dragon,desc,"มอนสเตอร์ 2 ใบขึ้นไป รวมถึง Pendulum Monster
-คุณสามารถเลือกเป้าหมายการ์ดใบอื่นที่คุณควบคุม 1 ใบ; ทำลายการ์ดใบนั้น และถ้าทำเช่นนั้น ให้จั่วการ์ด 1 ใบ ในระหว่างเทิร์นของคุณ เมื่อคู่ต่อสู้เปิดใช้งานการ์ดหรือเอฟเฟกต์ (Quick Effect): คุณสามารถทิ้งการ์ด 1 ใบ; ทำให้เอฟเฟกต์นั้นไร้ผล คุณสามารถใช้เอฟเฟกต์แต่ละอย่างของ ""Odd-Eyes Override Dragon"" ได้เทิร์นละ 1 ครั้งเท่านั้น ถ้าคุณทำลาย Pendulum Monster Card ด้วยเอฟเฟกต์แรกของการ์ดใบนี้ ในระหว่าง Main Phase ของเทิร์นนี้ คุณสามารถทำการ Pendulum Summon มอนสเตอร์ ""Performapal"", ""Magician"" Pendulum Monster และ/หรือ มอนสเตอร์ ""Odd-Eyes"" ได้อีก 1 ครั้ง นอกเหนือจากการ Pendulum Summon ปกติของคุณ (คุณจะได้รับเอฟเฟกต์นี้ได้เพียงเทิร์นละ 1 ครั้งเท่านั้น)"
-100269038,Odd-Eyes Override Dragon,str1,ทำลาย
-100269038,Odd-Eyes Override Dragon,str2,ยกเลิกเอฟเฟกต์
-100269038,Odd-Eyes Override Dragon,str3,"อัญเชิญเพนดูลัมด้วยผลของ ""Odd-Eyes Override Dragon"""
+100269038,Odd-Eyes Override Dragon,desc,"2+ monsters, including a Pendulum Monster
+You can target 1 other card you control; destroy it, and if you do, draw 1 card. During your turn, when your opponent activates a card or effect (Quick Effect): You can discard 1 card; negate that effect. You can only use each of the preceding effects of ""Odd-Eyes Override Dragon"" once per turn. If you destroyed a Pendulum Monster Card by this card's first effect, during your Main Phase this turn, you can conduct 1 Pendulum Summon of a ""Performapal"" monster(s), ""Magician"" Pendulum Monster(s), and/or ""Odd-Eyes"" monster(s), in addition to your Pendulum Summon (you can only gain this effect once per turn)."
+100269038,Odd-Eyes Override Dragon,str1,Destroy
+100269038,Odd-Eyes Override Dragon,str2,Negate the effect
+100269038,Odd-Eyes Override Dragon,str3,"Pendulum Summon using the effect of ""Odd-Eyes Override Dragon"""
 100269113,Lunalight Scarlet Tiger,name,Lunalight Scarlet Tiger
-100269113,Lunalight Scarlet Tiger,desc,"ถ้าคุณเปิดใช้งานเอฟเฟกต์ของมอนสเตอร์ ""Lunalight"" (ยกเว้นในช่วง Damage Step): คุณสามารถอัญเชิญพิเศษการ์ดใบนี้จากบนมือของคุณ จากนั้นถ้าคุณเปิดใช้งานเอฟเฟกต์นี้ในเทิร์นที่คู่ต่อสู้เปิดใช้งานการ์ดหรือเอฟเฟกต์ คุณสามารถเพิ่ม ""Polymerization"" 1 ใบจากเด็คหรือสุสานของคุณขึ้นมือ ถ้าการ์ดใบนี้ถูกส่งลงสุสานด้วยเอฟเฟกต์การ์ด: คุณสามารถอัญเชิญพิเศษมอนสเตอร์ ""Lunalight"" 1 ใบจาก Extra Deck ที่หงายหน้าอยู่หรือจากสุสานของคุณ ยกเว้นมอนสเตอร์เลเวล 5 แต่จะไม่อาจเปิดใช้งานเอฟเฟกต์ของมอนสเตอร์ตัวนั้นได้ คุณสามารถใช้เอฟเฟกต์แต่ละอย่างของ ""Lunalight Scarlet Tiger"" ได้เทิร์นละ 1 ครั้งเท่านั้น"
-100269113,Lunalight Scarlet Tiger,str1,เรียกพิเศษ
-100269113,Lunalight Scarlet Tiger,str2,เรียกพิเศษ
-100269113,Lunalight Scarlet Tiger,str3,"เพิ่ม ""Polymerization"" เข้ามือ?"
-100269113,Lunalight Scarlet Tiger,str4,"เรียกพิเศษด้วยผลของ ""Lunalight Scarlet Tiger"""
+100269113,Lunalight Scarlet Tiger,desc,"If you activate a ""Lunalight"" monster's effect (except during the Damage Step): You can Special Summon this card from your hand, then if you activated this effect during the turn your opponent activated a card or effect, you can add 1 ""Polymerization"" from your Deck or GY to your hand. If this card is sent to the GY by card effect: You can Special Summon 1 ""Lunalight"" monster from your face-up Extra Deck or GY, except a Level 5 monster, but it cannot activate its effects. You can only use each effect of ""Lunalight Scarlet Tiger"" once per turn."
+100269113,Lunalight Scarlet Tiger,str1,Special Summon
+100269113,Lunalight Scarlet Tiger,str2,Special Summon
+100269113,Lunalight Scarlet Tiger,str3,"Add ""Polymerization"" to your hand?"
+100269113,Lunalight Scarlet Tiger,str4,"Special Summoned by the effect of ""Lunalight Scarlet Tiger"""
 100269215,Speedroid Darumaknocker,name,Speedroid Darumaknocker
-100269215,Speedroid Darumaknocker,desc,"ถ้าการ์ดใบนี้อยู่ในมือของคุณ: คุณสามารถส่งการ์ด ""Speedroid"" 1 ใบจากเด็คของคุณลงสุสาน ยกเว้น ""Speedroid Darumaknocker""; อัญเชิญพิเศษการ์ดใบนี้ และในเทิร์นนี้คุณจะไม่สามารถอัญเชิญพิเศษมอนสเตอร์ใบอื่นได้อีก ยกเว้นมอนสเตอร์ธาตุ WIND ถ้าการ์ดใบนี้ถูกส่งจากสนามลงสุสาน: คุณสามารถเพิ่มการ์ดเวทมนตร์/กับดัก ""Speedroid"" 1 ใบจากเด็คของคุณขึ้นมือ จากนั้นถ้าคุณควบคุมมอนสเตอร์ ""Clear Wing"" อยู่ คุณสามารถทำลายมอนสเตอร์บนสนามได้ 1 ใบ คุณสามารถใช้เอฟเฟกต์แต่ละอย่างของ ""Speedroid Darumaknocker"" ได้เทิร์นละ 1 ครั้งเท่านั้น"
-100269215,Speedroid Darumaknocker,str1,เรียกพิเศษ
-100269215,Speedroid Darumaknocker,str2,เพิ่มเข้ามือ
-100269215,Speedroid Darumaknocker,str3,ทำลายมอนสเตอร์ตัวนั้น?
+100269215,Speedroid Darumaknocker,desc,"If this card is in your hand: You can send 1 ""Speedroid"" card from your Deck to the GY, except ""Speedroid Darumaknocker""; Special Summon this card, also you cannot Special Summon for the rest of this turn, except WIND monsters. If this card is sent from the field to the GY: You can add 1 ""Speedroid"" Spell/Trap from your Deck to your hand, then if you control a ""Clear Wing"" monster, you can destroy 1 monster on the field. You can only use each effect of ""Speedroid Darumaknocker"" once per turn."
+100269215,Speedroid Darumaknocker,str1,Special Summon
+100269215,Speedroid Darumaknocker,str2,Add to hand
+100269215,Speedroid Darumaknocker,str3,Destroy that monster?
 101306281,"Audhumla, Progenitor of the Frozen Expanse",name,"Audhumla, Progenitor of the Frozen Expanse"
-101306281,"Audhumla, Progenitor of the Frozen Expanse",desc,"ถ้ามีการ์ดบนฟิลด์ 4 ใบขึ้นไป: คุณสามารถ Special Summon การ์ดใบนี้จากบนมือ คุณสามารถส่ง Spells/Traps ที่คุณควบคุมไม่เกิน 2 ใบไปยัง GY; จั่วการ์ดตามจำนวนนั้น จากนั้น คุณสามารถ Special Summon มอนสเตอร์ธาตุ WATER 1 ใบจากบนมือ เมื่อคู่ต่อสู้ของคุณเปิดใช้งานการ์ดหรือเอฟเฟกต์ (Quick Effect): คุณสามารถเปลี่ยนการ์ดใบนี้เป็นรูปแบบป้องกันคว่ำหน้า (face-down Defense Position) และสำหรับช่วงที่เหลือของเทิร์นนี้ การ์ดคว่ำหน้าทั้งหมดที่คุณควบคุมจะไม่ถูกทำลายโดยเอฟเฟกต์การ์ดของคู่ต่อสู้ และคู่ต่อสู้ของคุณไม่สามารถเลือกเป้าหมายการ์ดเหล่านั้นด้วยเอฟเฟกต์การ์ดได้ คุณสามารถใช้แต่ละเอฟเฟกต์ของ ""Audhumla, Progenitor of the Frozen Expanse"" ได้เทิร์นละครั้งเท่านั้น"
-101306281,"Audhumla, Progenitor of the Frozen Expanse",str1,เรียกพิเศษ
-101306281,"Audhumla, Progenitor of the Frozen Expanse",str2,จั่ว
-101306281,"Audhumla, Progenitor of the Frozen Expanse",str3,เปลี่ยนเป็นตำแหน่งคว่ำหน้า
-101306281,"Audhumla, Progenitor of the Frozen Expanse",str4,เรียกพิเศษ?
+101306281,"Audhumla, Progenitor of the Frozen Expanse",desc,"If 4 or more cards are on the field: You can Special Summon this card from your hand. You can send up to 2 Spells/Traps you control to the GY; draw that many cards, then you can Special Summon 1 WATER monster from your hand. When your opponent activates a card or effect (Quick Effect): You can change this card to face-down Defense Position, also for the rest of this turn, all face-down cards you control cannot be destroyed by your opponent's card effects, and your opponent cannot target them with card effects. You can only use each effect of ""Audhumla, Progenitor of the Frozen Expanse"" once per turn."
+101306281,"Audhumla, Progenitor of the Frozen Expanse",str1,Special Summon
+101306281,"Audhumla, Progenitor of the Frozen Expanse",str2,Draw
+101306281,"Audhumla, Progenitor of the Frozen Expanse",str3,Change to face-down position
+101306281,"Audhumla, Progenitor of the Frozen Expanse",str4,Special Summon?
 101307001,The Sun God's Poet - Helpoemer,name,The Sun God's Poet - Helpoemer
-101307001,The Sun God's Poet - Helpoemer,desc,"คุณสามารถทิ้งการ์ดอื่น 1 ใบ; Special Summon การ์ดใบนี้จากบนมือของคุณ ถ้าการ์ดใบนี้ถูก Special Summon: คุณสามารถเพิ่ม ""Sun God"" card 1 ใบจาก Deck ของคุณขึ้นมือ, ยกเว้น ""The Sun God's Poet - Helpoemer"", จากนั้น ถ้า LP ของคู่ต่อสู้อย่างน้อย 2000 สูงกว่าของคุณ, คุณสามารถทิ้งการ์ดสุ่ม 1 ใบจากบนมือของพวกเขา ในช่วง End Phase, ถ้า ""The Immortal Sun God"" ถูกส่งลง GY ของคุณในเทิร์นนี้: คุณสามารถเพิ่มการ์ดใบนี้จาก GY ของคุณขึ้นมือ คุณสามารถใช้แต่ละเอฟเฟกต์ของ ""The Sun God's Poet - Helpoemer"" ได้เทิร์นละครั้งเท่านั้น"
-101307001,The Sun God's Poet - Helpoemer,str1,เรียกพิเศษ
-101307001,The Sun God's Poet - Helpoemer,str2,เอฟเฟกต์ค้นหา
-101307001,The Sun God's Poet - Helpoemer,str3,กลับมือ
-101307001,The Sun God's Poet - Helpoemer,str4,สุ่มทิ้งการ์ด 1 ใบจากมือคู่ต่อสู้
+101307001,The Sun God's Poet - Helpoemer,desc,"You can discard 1 other card; Special Summon this card from your hand. If this card is Special Summoned: You can add 1 ""Sun God"" card from your Deck to your hand, except ""The Sun God's Poet - Helpoemer"", then if your opponent's LP are at least 2000 higher than yours, you can discard 1 random card from their hand. During the End Phase, if ""The Immortal Sun God"" was sent to your GY this turn: You can add this card from your GY to your hand. You can only use each effect of ""The Sun God's Poet - Helpoemer"" once per turn."
+101307001,The Sun God's Poet - Helpoemer,str1,Special Summon
+101307001,The Sun God's Poet - Helpoemer,str2,Search effect
+101307001,The Sun God's Poet - Helpoemer,str3,Return to the hand
+101307001,The Sun God's Poet - Helpoemer,str4,Randomly discard 1 card from your opponent's hand?
 101307002,The Sun God's Destructor - Makyura,name,The Sun God's Destructor - Makyura
-101307002,The Sun God's Destructor - Makyura,desc,"ถ้าการ์ดใบนี้ถูก Normal หรือ Special Summon, หรือถูกส่งจากบนมือหรือบนฟิลด์ลง GY: คุณสามารถ Set ""Sun God"" Spell/Trap 1 ใบจากบนมือหรือ Deck ของคุณ, และถ้าคุณ Set Trap หรือ Quick-Play Spell, การ์ดนั้นสามารถ activate ได้ในเทิร์นนี้ ในช่วง End Phase, ถ้า ""The Immortal Sun God"" ถูกส่งลง GY ของคุณในเทิร์นนี้: คุณสามารถเพิ่มการ์ดใบนี้จาก GY ของคุณขึ้นมือ คุณสามารถใช้แต่ละเอฟเฟกต์ของ ""The Sun God's Destructor - Makyura"" ได้เทิร์นละครั้งเท่านั้น"
-101307002,The Sun God's Destructor - Makyura,str1,หมอบเอฟเฟกต์
-101307002,The Sun God's Destructor - Makyura,str2,กลับมือ
-101307002,The Sun God's Destructor - Makyura,str3,เปิดใช้งานโดยใช้เอฟเฟกต์ของ {CARD}
+101307002,The Sun God's Destructor - Makyura,desc,"If this card is Normal or Special Summoned, or sent from the hand or field to the GY: You can Set 1 ""Sun God"" Spell/Trap from your hand or Deck, and if you Set a Trap or Quick-Play Spell, it can be activated this turn. During the End Phase, if ""The Immortal Sun God"" was sent to your GY this turn: You can add this card from your GY to your hand. You can only use each effect of ""The Sun God's Destructor - Makyura"" once per turn."
+101307002,The Sun God's Destructor - Makyura,str1,Set effect
+101307002,The Sun God's Destructor - Makyura,str2,Return to the hand
+101307002,The Sun God's Destructor - Makyura,str3,Activate by applying the effect of {CARD}.
 101307003,The Sun God's Terror Machine - Gil Garth,name,The Sun God's Terror Machine - Gil Garth
-101307003,The Sun God's Terror Machine - Gil Garth,desc,"ถ้าการ์ดใบนี้อยู่บนมือของคุณและคุณควบคุม ""Sun God"" card: คุณสามารถ Special Summon การ์ดใบนี้ คุณสามารถ Tribute การ์ดใบนี้, จากนั้น target การ์ดอื่น 1 ใบใน GY ฝ่ายใดก็ได้; ส่ง ""Sun God"" card 1 ใบจาก Deck ของคุณลง GY, และถ้าทำสำเร็จ, วางการ์ดที่ถูก target ไว้ใต้สุดของ Deck ในช่วง End Phase, ถ้า ""The Immortal Sun God"" ถูกส่งลง GY ของคุณในเทิร์นนี้: คุณสามารถเพิ่มการ์ดใบนี้จาก GY ของคุณขึ้นมือ คุณสามารถใช้แต่ละเอฟเฟกต์ของ ""The Sun God's Terror Machine - Gil Garth"" ได้เทิร์นละครั้งเท่านั้น"
-101307003,The Sun God's Terror Machine - Gil Garth,str1,เรียกพิเศษ
-101307003,The Sun God's Terror Machine - Gil Garth,str2,กลับเด็ค
-101307003,The Sun God's Terror Machine - Gil Garth,str3,กลับมือ
+101307003,The Sun God's Terror Machine - Gil Garth,desc,"If this card is in your hand and you control a ""Sun God"" card: You can Special Summon this card. You can Tribute this card, then target 1 other card in either GY; send 1 ""Sun God"" card from your Deck to the GY, and if you do, place the targeted card on the bottom of the Deck. During the End Phase, if ""The Immortal Sun God"" was sent to your GY this turn: You can add this card from your GY to your hand. You can only use each effect of ""The Sun God's Terror Machine - Gil Garth"" once per turn."
+101307003,The Sun God's Terror Machine - Gil Garth,str1,Special Summon
+101307003,The Sun God's Terror Machine - Gil Garth,str2,Return to the Deck
+101307003,The Sun God's Terror Machine - Gil Garth,str3,Return to the hand
 101307004,The Sun God's Torture Device - Viser Des Shock,name,The Sun God's Torture Device - Viser Des Shock
-101307004,The Sun God's Torture Device - Viser Des Shock,desc,"ไม่ถูกทำลายจากการต่อสู้ คุณสามารถใช้แต่ละเอฟเฟกต์ต่อไปนี้ของ ""The Sun God's Torture Device - Viser Des Shock"" ได้เทิร์นละครั้งเท่านั้น ถ้า monster ถูกส่งลง GY ของคู่ต่อสู้และคุณควบคุม ""Sun God"" card, แม้ในช่วง Damage Step: คุณสามารถ Special Summon การ์ดใบนี้จากบนมือของคุณ, และถ้าทำสำเร็จ, นำการ์ดอื่น 1 ใบในฟิลด์กลับขึ้นมือ/Extra Deck, และถ้าทำสำเร็จ, สร้างความเสียหาย 800 แก่คู่ต่อสู้ของคุณ ในช่วง End Phase, ถ้า ""The Immortal Sun God"" ถูกส่งลง GY ของคุณในเทิร์นนี้: คุณสามารถเพิ่มการ์ดใบนี้จาก GY ของคุณขึ้นมือ"
-101307004,The Sun God's Torture Device - Viser Des Shock,str1,เรียกพิเศษ
-101307004,The Sun God's Torture Device - Viser Des Shock,str2,กลับมือ
+101307004,The Sun God's Torture Device - Viser Des Shock,desc,"Cannot be destroyed by battle. You can only use each of the following effects of ""The Sun God's Torture Device - Viser Des Shock"" once per turn. If a monster(s) is sent to your opponent's GY and you control a ""Sun God"" card, even during the Damage Step: You can Special Summon this card from your hand, and if you do, return 1 other card on the field to the hand/Extra Deck, and if you do that, inflict 800 damage to your opponent. During the End Phase, if ""The Immortal Sun God"" was sent to your GY this turn: You can add this card from your GY to your hand."
+101307004,The Sun God's Torture Device - Viser Des Shock,str1,Special Summon
+101307004,The Sun God's Torture Device - Viser Des Shock,str2,Return to the hand
 101307030,The Sun God of Darkness - The Winged Dragon of Ra,name,The Sun God of Darkness - The Winged Dragon of Ra
-101307030,The Sun God of Darkness - The Winged Dragon of Ra,desc,"""The Winged Dragon of Ra"" + ""Sun God"" monster 3 ใบ
-ไม่ได้รับผลกระทบจากเอฟเฟกต์ของการ์ดอื่น เทิร์นละครั้ง, ในช่วง Main Phase (Quick Effect): คุณสามารถทิ้ง ""Sun God"" card จำนวนเท่าใดก็ได้, จากนั้นเลือก Main Monster Zones ของคู่ต่อสู้ที่ถูกใช้จำนวนเท่ากัน; คู่ต่อสู้ของคุณต้องส่ง monster ในโซนเหล่านั้นลง GY เมื่อมีการประกาศโจมตีที่เกี่ยวข้องกับการ์ดใบนี้: คุณสามารถจ่าย LP เพื่อให้เหลือ 1; การ์ดใบนี้จะได้รับ ATK/DEF เท่ากับ LP ที่จ่ายไปและ ATK รวมของ ""Sun God"" monster ทั้งหมดที่อยู่ใน GY ของคุณในปัจจุบัน"
-101307030,The Sun God of Darkness - The Winged Dragon of Ra,str1,ส่งสุสาน
-101307030,The Sun God of Darkness - The Winged Dragon of Ra,str2,เพิ่มพลังโจมตี
+101307030,The Sun God of Darkness - The Winged Dragon of Ra,desc,"""The Winged Dragon of Ra"" + 3 ""Sun God"" monsters
+Unaffected by other cards' effects. Once per turn, during the Main Phase (Quick Effect): You can discard any number of ""Sun God"" cards, then choose that many of your opponent's occupied Main Monster Zones; your opponent must send the monsters in those zones to the GY. When an attack is declared involving this card: You can pay LP so that you only have 1 left; this card gains ATK/DEF equal to the amount of LP paid and the total ATK of all ""Sun God"" monsters currently in your GY."
+101307030,The Sun God of Darkness - The Winged Dragon of Ra,str1,Send to the GY
+101307030,The Sun God of Darkness - The Winged Dragon of Ra,str2,Increase ATK
 101307031,The Sun God's Steelcage - Lava Golem,name,The Sun God's Steelcage - Lava Golem
-101307031,The Sun God's Steelcage - Lava Golem,desc,"""Sun God"" monster 1 ใบที่คุณควบคุม + monster หงายหน้า 2 ใบในฟิลด์
-ไม่สามารถใช้เป็น Fusion Material ได้ ต้องถูก Fusion Summon, หรือ Special Summon (จาก Extra Deck ของคุณ) ไปยัง Main Monster Zone ของคู่ต่อสู้โดยการส่งการ์ดด้านบนจากฟิลด์ฝ่ายใดก็ได้ลง GY, แต่ถ้าคุณ Special Summon การ์ดใบนี้ด้วยวิธีที่สอง, คุณสามารถ Special Summon ได้เพียงครั้งเดียวตลอดช่วงที่เหลือของเทิร์นนี้ คุณสามารถ Special Summon ""The Sun God's Steelcage - Lava Golem"" ได้เทิร์นละครั้งด้วยวิธีนี้, ไม่ว่าจะใช้วิธีใดก็ตาม เทิร์นละครั้ง, ในช่วง Standby Phase ของคุณ: รับความเสียหาย 1000"
-101307031,The Sun God's Steelcage - Lava Golem,str2,เอฟเฟกต์ดาเมจ
+101307031,The Sun God's Steelcage - Lava Golem,desc,"1 ""Sun God"" monster you control + 2 face-up monsters on the field
+Cannot be used as Fusion Material. Must be either Fusion Summoned, or Special Summoned (from your Extra Deck) to your opponent's Main Monster Zone by sending the above cards from either field to the GY, but if you Special Summon this card with the second method, you can only Special Summon once for the rest of this turn. You can only Special Summon ""The Sun God's Steelcage - Lava Golem"" once per turn this way, no matter which method you use. Once per turn, during your Standby Phase: Take 1000 damage."
+101307031,The Sun God's Steelcage - Lava Golem,str2,Damage effect
 101307051,The Immortal Sun God,name,The Immortal Sun God
-101307051,The Immortal Sun God,desc,"Special Summon ""The Winged Dragon of Ra"" monster 1 ใบจาก GY หรือ banishment ของคุณ, โดยไม่ต้องสนใจ Summoning conditions ของมัน, จากนั้น ถ้าคุณ Special Summon ""The Winged Dragon of Ra"" ด้วยเอฟเฟกต์นี้, คุณสามารถส่งมันลง GY, และถ้าทำสำเร็จ, Special Summon ""The Winged Dragon of Ra"" monster 1 ใบจาก Extra Deck ของคุณ ในช่วง End Phase, ส่ง monster ที่ Special Summon ด้วยเอฟเฟกต์นี้ลง GY ในช่วง Main Phase ของคุณ, ถ้าการ์ดใบนี้อยู่ใน GY ของคุณ: คุณสามารถทิ้ง ""Sun God"" card 1 ใบ; เพิ่มการ์ดใบนี้ขึ้นมือ คุณสามารถใช้แต่ละเอฟเฟกต์ของ ""The Immortal Sun God"" ได้เทิร์นละครั้งเท่านั้น"
-101307051,The Immortal Sun God,str1,เรียกพิเศษ
-101307051,The Immortal Sun God,str2,กลับมือ
-101307051,The Immortal Sun God,str3,ส่งลงสุสานและเรียกพิเศษ
+101307051,The Immortal Sun God,desc,"Special Summon 1 ""The Winged Dragon of Ra"" monster from your GY or banishment, ignoring its Summoning conditions, then if you Special Summoned ""The Winged Dragon of Ra"" by this effect, you can send it to the GY, and if you do, Special Summon 1 ""The Winged Dragon of Ra"" monster from your Extra Deck. During the End Phase, send the monsters Special Summoned by this effect to the GY. During your Main Phase, if this card is in your GY: You can discard 1 ""Sun God"" card; add this card to your hand. You can only use each effect of ""The Immortal Sun God"" once per turn."
+101307051,The Immortal Sun God,str1,Special Summon
+101307051,The Immortal Sun God,str2,Return to the hand
+101307051,The Immortal Sun God,str3,Send to the GY and Special Summon?
 101307052,The Sun God Leading Down into Darkness,name,The Sun God Leading Down into Darkness
-101307052,The Sun God Leading Down into Darkness,desc,"activate การ์ดใบนี้โดยการส่ง ""The Winged Dragon of Ra"" monster 1 ใบจากบนมือ, Deck หรือฟิลด์หงายหน้าของคุณลง GY ในช่วง Main Phase ของคุณ, ถ้าการ์ดใบนี้ถูก activate ในเทิร์นนี้: คุณสามารถเพิ่ม ""Sun God"" monster 1 ใบจาก Deck ของคุณขึ้นมือ ถ้า monster ถูกทำลายจากการต่อสู้: ผู้ควบคุมการ์ดนั้นได้รับความเสียหายเท่ากับ original ATK ของมัน, จากนั้น ถ้าคุณมี ""The Winged Dragon of Ra"" อยู่ใน GY ของคุณ, คุณได้รับ 1000 LP คุณสามารถใช้แต่ละเอฟเฟกต์ของ ""The Sun God Leading Down into Darkness"" ได้เทิร์นละครั้งเท่านั้น"
-101307052,The Sun God Leading Down into Darkness,str1,เอฟเฟกต์ค้นหา
-101307052,The Sun God Leading Down into Darkness,str2,เอฟเฟกต์ดาเมจ
+101307052,The Sun God Leading Down into Darkness,desc,"Activate this card by sending 1 ""The Winged Dragon of Ra"" monster from your hand, Deck, or face-up field to the GY. During your Main Phase, if this card was activated this turn: You can add 1 ""Sun God"" monster from your Deck to your hand. If a monster(s) is destroyed by battle: Its controller takes damage equal to its original ATK, then if you have ""The Winged Dragon of Ra"" in your GY, you gain 1000 LP. You can only use each effect of ""The Sun God Leading Down into Darkness"" once per turn."
+101307052,The Sun God Leading Down into Darkness,str1,Search effect
+101307052,The Sun God Leading Down into Darkness,str2,Damage effect
 101307072,Sun God Domination,name,Sun God Domination
-101307072,Sun God Domination,desc,"ถ้า ""The Winged Dragon of Ra"" monster อยู่บนฟิลด์: ใช้เอฟเฟกต์เหล่านี้ตามลำดับ
-● Special Summon monster 1 ใบจากแต่ละ GY ไปยังฟิลด์ของคุณ
-● ถ้า ""The Winged Dragon of Ra"" อยู่บนฟิลด์, ควบคุม monster ทั้งหมดที่คู่ต่อสู้ของคุณควบคุม
-คุณสามารถ banish การ์ดใบนี้จาก GY ของคุณและ Tribute ""The Winged Dragon of Ra"" monster 1 ใบ; ได้รับ LP เท่ากับ ATK ที่มีอยู่ในฟิลด์ คุณสามารถใช้แต่ละเอฟเฟกต์ของ ""Sun God Domination"" ได้เทิร์นละครั้งเท่านั้น"
-101307072,Sun God Domination,str1,เปิดใช้งานเอฟเฟกต์
-101307072,Sun God Domination,str2,เพิ่ม LP
+101307072,Sun God Domination,desc,"If a ""The Winged Dragon of Ra"" monster is on the field: Apply these effects in sequence.
+● Special Summon 1 monster from each GY to your field.
+● If ""The Winged Dragon of Ra"" is on the field, take control of all monsters your opponent controls.
+You can banish this card from your GY and Tribute 1 ""The Winged Dragon of Ra"" monster; gain LP equal to the ATK it had on the field. You can only use each effect of ""Sun God Domination"" once per turn."
+101307072,Sun God Domination,str1,Activate the effect
+101307072,Sun God Domination,str2,LP recovery effect
 101307073,The Sun God's Protector - Egyptian God Slime,name,The Sun God's Protector - Egyptian God Slime
-101307073,The Sun God's Protector - Egyptian God Slime,desc,"อัญเชิญพิเศษการ์ดใบนี้ใน Defense Position ในฐานะ Effect Monster (Aqua/WATER/Level 10/ATK 3000/DEF 3000) โดยมีเอฟเฟกต์ดังต่อไปนี้ (this card is also still a Trap) ● เมื่อการ์ดใบนี้ถูก Special Summon: คุณสามารถเพิ่มการ์ด ""Sun God"" 1 ใบจาก Deck ของคุณขึ้นมือ, หลังจากนั้น ถ้าคุณเพิ่ม monster ด้วยเอฟเฟกต์นี้ในเทิร์นคู่แข่ง, คุณสามารถ Special Summon การ์ดใบนั้นได้. ● ไม่สามารถถูกทำลายด้วย card effects ได้. คุณสามารถ activate ""The Sun God's Protector - Egyptian God Slime"" ได้เพียง 1 ครั้งต่อเทิร์นเท่านั้น."
-101307073,The Sun God's Protector - Egyptian God Slime,str2,เอฟเฟกต์ค้นหา
-101307073,The Sun God's Protector - Egyptian God Slime,str3,เรียกพิเศษ?
+101307073,The Sun God's Protector - Egyptian God Slime,desc,"Special Summon this card in Defense Position as an Effect Monster (Aqua/WATER/Level 10/ATK 3000/DEF 3000) with the following effects (this card is also still a Trap).
+● If this card is Special Summoned: You can add 1 ""Sun God"" card from your Deck to your hand, then if you added a monster by this effect during your opponent's turn, you can Special Summon it.
+● Cannot be destroyed by card effects.
+You can only activate 1 ""The Sun God's Protector - Egyptian God Slime"" per turn."
+101307073,The Sun God's Protector - Egyptian God Slime,str2,Search effect
+101307073,The Sun God's Protector - Egyptian God Slime,str3,Special Summon?
