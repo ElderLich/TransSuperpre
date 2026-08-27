@@ -220,8 +220,8 @@ Você pode descartar este card; compre 1 card. Você não pode adicionar cards d
 Você não pode adicionar cards do Deck à mão durante o Duelo que você ativa este efeito, exceto por compra-los."
 100267021,Raise Moon Starter Squeeze,str2,Compra contínua
 100267021,Raise Moon Starter Squeeze,str3,Compre 1 card(s)
-100267021,Raise Moon Starter Squeeze,str4,"Enquanto o efeito de {CARD} estiver sendo aplicado, você não pode procurar no seu Deck."
-100267021,Raise Moon Starter Squeeze,str5,"Enquanto o efeito de {CARD} estiver sendo aplicado, você não pode Invocar por Invocação-Especial."
+100267021,Raise Moon Starter Squeeze,str4,"Enquanto o efeito de ""Raise Moon Starter Squeeze"" estiver sendo aplicado, você não pode procurar no seu Deck."
+100267021,Raise Moon Starter Squeeze,str5,"Enquanto o efeito de ""Raise Moon Starter Squeeze"" estiver sendo aplicado, você não pode Invocar por Invocação-Especial."
 100267022,Raise Moon Sky Cielo - No More Bets,name,Raise Moon Sky Cielo - No More Bets
 100267022,Raise Moon Sky Cielo - No More Bets,desc,"2 monstros ""Raise Moon"" de Classe 7
 Não pode ser usado como matéria para Invocação-Fusão, Xyz ou Link.
@@ -311,7 +311,7 @@ Uma vez por turno (Efeito Rápido): você pode embaralhar 1 dos seus monstros ba
 100267037,"Ploutonion, Xenovasor△ Tempestado Furiosa",str1,Comprar
 100267037,"Ploutonion, Xenovasor△ Tempestado Furiosa",str2,Banir
 100267037,"Ploutonion, Xenovasor△ Tempestado Furiosa",str3,Retornar ao Deck
-100267037,"Ploutonion, Xenovasor△ Tempestado Furiosa",str4,Revelado pelo efeito de {CARD}
+100267037,"Ploutonion, Xenovasor△ Tempestado Furiosa",str4,"Revelado pelo efeito de ""Ploutonion, Xenovasor△ Tempestado Furiosa"""
 100267037,"Ploutonion, Xenovasor△ Tempestado Furiosa",str5,Retornar o monstro para o Deck?
 100267038,"Jahannam, Xenovasor△ Devorador do Vazio",name,"Jahannam, Xenovasor△ Devorador do Vazio"
 100267038,"Jahannam, Xenovasor△ Devorador do Vazio",desc,"Se este card é Invocado por Invocação-Especial ou Normal: bana (com a face para baixo) os 8 cards do topo do seu Deck.
@@ -469,7 +469,7 @@ Durante a Fase Final, se ""Deus do Sol Imortal"" foi enviado para o seu Cemitér
 Você só pode usar cada efeito de ""O Destruidor do Deus do Sol - Makyura"" uma vez por turno."
 101307002,O Destruidor do Deus do Sol - Makyura,str1,Efeito de Baixar
 101307002,O Destruidor do Deus do Sol - Makyura,str2,Retornar para a mão
-101307002,O Destruidor do Deus do Sol - Makyura,str3,Ativar aplicando o efeito de {CARD}.
+101307002,O Destruidor do Deus do Sol - Makyura,str3,"Ativar aplicando o efeito de ""O Destruidor do Deus do Sol - Makyura""."
 101307003,A Máquina do Terror do Deus do Sol - Gil Garth,name,A Máquina do Terror do Deus do Sol - Gil Garth
 101307003,A Máquina do Terror do Deus do Sol - Gil Garth,desc,"Se este card está na sua mão e você controla um card ""Deus do Sol"": você pode Invocar este card por Invocação-Especial.
 Você pode oferecer este card como Tributo, então escolha 1 outro card em qualquer Cemitério; envie 1 card ""Deus do Sol"" do seu Deck ao Cemitério, e se fizer, coloque o card escolhido no fundo do Deck.
