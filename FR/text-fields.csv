@@ -233,8 +233,8 @@ Vous ne pouvez utiliser cet effet de ""Croucier, Lampe de Lune Relancée"" qu'un
 Vous ne pouvez pas ajouter de cartes depuis le Deck à la main durant le Duel où vous activez cet effet, sauf en les piochant."
 100267021,"Squeeze, Démarreur de Lune Relancée",str2,Pioche continue
 100267021,"Squeeze, Démarreur de Lune Relancée",str3,Piochez 1 carte(s)
-100267021,"Squeeze, Démarreur de Lune Relancée",str4,"Vous ne pouvez pas chercher dans votre Deck tant que l'effet de ""Squeeze, Démarreur de Lune Relancée"" est appliqué."
-100267021,"Squeeze, Démarreur de Lune Relancée",str5,"Vous ne pouvez pas Invoquer Spécialement tant que l'effet de ""Squeeze, Démarreur de Lune Relancée"" est appliqué."
+100267021,"Squeeze, Démarreur de Lune Relancée",str4,Vous ne pouvez pas chercher dans votre Deck tant que l'effet de {CARD} est appliqué.
+100267021,"Squeeze, Démarreur de Lune Relancée",str5,Vous ne pouvez pas Invoquer Spécialement tant que l'effet de {CARD} est appliqué.
 100267022,"Cielo, Ciel de Lune Relancée - Les Jeux Sont Faits",name,"Cielo, Ciel de Lune Relancée - Les Jeux Sont Faits"
 100267022,"Cielo, Ciel de Lune Relancée - Les Jeux Sont Faits",desc,"2 monstres ""Lune Relancée"" de Niveau 7
 Non utilisable comme Matériel pour une Invocation Fusion, Xyz ou Lien.
@@ -329,7 +329,7 @@ Une fois par tour (Effet Rapide) : vous pouvez mélanger 1 de vos monstres ""Xé
 100267037,Ploutonion Xénovahisseur△ de la Tempête Folle,str1,Piocher
 100267037,Ploutonion Xénovahisseur△ de la Tempête Folle,str2,Bannir
 100267037,Ploutonion Xénovahisseur△ de la Tempête Folle,str3,Renvoyer au Deck
-100267037,Ploutonion Xénovahisseur△ de la Tempête Folle,str4,"Révélé par l'effet de ""Ploutonion Xénovahisseur△ de la Tempête Folle"""
+100267037,Ploutonion Xénovahisseur△ de la Tempête Folle,str4,Révélé par l'effet de {CARD}
 100267037,Ploutonion Xénovahisseur△ de la Tempête Folle,str5,Renvoyer le monstre au Deck ?
 100267038,Jahannam Xénovahisseur△ Dévorant le Vide,name,Jahannam Xénovahisseur△ Dévorant le Vide
 100267038,Jahannam Xénovahisseur△ Dévorant le Vide,desc,"Si cette carte est Invoquée Normalement ou Spécialement : bannissez (face verso) les 8 cartes du dessus de votre Deck.
@@ -347,13 +347,14 @@ Durant votre Main Phase : vous pouvez ajouter 1 de vos cartes ""Xénovahisseur�
 Vous ne pouvez utiliser cet effet de ""Territoire Xénovahisseur△ - Valvols"" qu'une fois par tour.
 Tant que vous contrôlez un monstre ""Xénovahisseur△"" de min. Niveau 5 et que vous n'avez aucune carte dans votre Deck, votre adversaire ne peut activer ni de cartes ni d'effets durant votre tour."
 100267039,Territoire Xénovahisseur△ - Valvols,str1,Bannir des cartes du Cimetière pour activer ?
-100267040,异解△福音,name,异解△福音
-100267040,异解△福音,desc,"从自己的卡组上面·墓地把合计5张卡以里侧除外才能把这张卡发动。这个卡名的②的效果1回合只能使用1次。
-①：只要这张卡在魔法与陷阱区域存在，自己在通常召唤外加上只有1次，自己主要阶段可以把1只「异解△」怪兽召唤。
-②：自己主要阶段才能发动。自己场上的原本等级是4以下的1只「异解△」怪兽以里侧除外，自己除外状态（里侧）的5星以上的1只「异解△」怪兽特殊召唤。"
-100267040,异解△福音,str1,Bannir des cartes du Cimetière pour activer ?
-100267040,异解△福音,str2,Invoquer par l'effet de {CARD}
-100267040,异解△福音,str3,Invocation Spéciale
+100267040,Évangile de la Faille Tri-Royaume,name,Évangile de la Faille Tri-Royaume
+100267040,Évangile de la Faille Tri-Royaume,desc,"Activez cette carte en bannissant (face verso) 5 cartes depuis votre Cimetière et/ou du dessus de votre Deck.
+Durant votre Main Phase, vous pouvez Invoquer Normalement 1 monstre ""Faille Tri-Royaume"", en plus de votre Invocation/Pose Normale (vous ne pouvez gagner cet effet qu'une fois par tour).
+Durant votre Main Phase : vous pouvez bannir (face verso) 1 monstre ""Faille Tri-Royaume"" que vous contrôlez dont le Niveau d'origine est max. 4, et si vous le faites, Invoquez Spécialement 1 de vos monstres ""Faille Tri-Royaume"" de min. Niveau 5 bannis face verso.
+Vous ne pouvez utiliser cet effet de ""Évangile de la Faille Tri-Royaume"" qu'une fois par tour."
+100267040,Évangile de la Faille Tri-Royaume,str1,Bannir des cartes du Cimetière pour activer ?
+100267040,Évangile de la Faille Tri-Royaume,str2,Invoquer par l'effet de {CARD}
+100267040,Évangile de la Faille Tri-Royaume,str3,Invocation Spéciale
 100267041,Jugement Xénovahisseur△,name,Jugement Xénovahisseur△
 100267041,Jugement Xénovahisseur△,desc,"Si votre adversaire Invoque Normalement ou Spécialement un ou plusieurs monstres : vous pouvez en cibler 1 ; choisissez 1 de vos monstres ""Xénovahisseur△"" bannis face verso du même Attribut, et soit ajoutez-le à votre main soit Invoquez-le Spécialement, et aussi, le reste de ce tour, vous ne pouvez pas choisir à nouveau le même Attribut avec cet effet de ""Jugement Xénovahisseur△"", et vous ne pouvez activer ni de cartes ni d'effets (cartes et effets ""Xénovahisseur△"" exclus).
 Une fois par combat, durant le calcul des dommages, si votre monstre ""Xénovahisseur△"" combat un monstre de l'adversaire et que vous n'avez aucune carte dans votre Deck : vous pouvez faire devenir 0 l'ATK du monstre de l'adversaire."
@@ -492,7 +493,7 @@ Durant la End Phase, si ""Le Dieu du Soleil Immortel"" a été envoyée à votre
 Vous ne pouvez utiliser chaque effet de ""Le Destructeur du Dieu du Soleil - Makyura"" qu'une fois par tour."
 101307002,Le Destructeur du Dieu du Soleil - Makyura,str1,Poser l'effet
 101307002,Le Destructeur du Dieu du Soleil - Makyura,str2,Renvoyer à la main
-101307002,Le Destructeur du Dieu du Soleil - Makyura,str3,"Activer en appliquant l'effet de ""Le Destructeur du Dieu du Soleil - Makyura""."
+101307002,Le Destructeur du Dieu du Soleil - Makyura,str3,Activer en appliquant l'effet de {CARD}.
 101307003,La Machine Redoutable du Dieu du Soleil - Gil Garth,name,La Machine Redoutable du Dieu du Soleil - Gil Garth
 101307003,La Machine Redoutable du Dieu du Soleil - Gil Garth,desc,"Si cette carte est dans votre main et que vous contrôlez une carte ""Dieu du Soleil"" : vous pouvez Invoquer Spécialement cette carte.
 Vous pouvez Sacrifier cette carte, puis ciblez 1 autre carte dans l'un des Cimetières ; envoyez 1 carte ""Dieu du Soleil"" depuis votre Deck au Cimetière, et si vous le faites, placez la carte ciblée au-dessous du Deck.

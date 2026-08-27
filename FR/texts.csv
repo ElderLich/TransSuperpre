@@ -119,7 +119,7 @@ Vous ne pouvez utiliser cet effet de ""Croucier, Lampe de Lune Relancée"" qu'un
 100267021,"Squeeze, Démarreur de Lune Relancée","(Effet Rapide) : vous pouvez défausser cette carte, puis activez 1 de ces effets (mais vous ne pouvez utiliser chacun de ces effets de ""Squeeze, Démarreur de Lune Relancée"" qu'une fois par tour) ;
 ● Vous ne pouvez pas Invoquer Spécialement depuis l'Extra Deck (Monstres Xyz de Rang 7 exclus) jusqu'à la fin du prochain tour, et aussi, ce tour, chaque fois qu'une ou plusieurs cartes sont ajoutées à la main de votre adversaire, sauf en les piochant, piochez immédiatement 1 carte.
 ● Piochez 1 carte.
-Vous ne pouvez pas ajouter de cartes depuis le Deck à la main durant le Duel où vous activez cet effet, sauf en les piochant.",,Pioche continue,Piochez 1 carte(s),"Vous ne pouvez pas chercher dans votre Deck tant que l'effet de ""Squeeze, Démarreur de Lune Relancée"" est appliqué.","Vous ne pouvez pas Invoquer Spécialement tant que l'effet de ""Squeeze, Démarreur de Lune Relancée"" est appliqué.",,,,,,,,,,,
+Vous ne pouvez pas ajouter de cartes depuis le Deck à la main durant le Duel où vous activez cet effet, sauf en les piochant.",,Pioche continue,Piochez 1 carte(s),Vous ne pouvez pas chercher dans votre Deck tant que l'effet de {CARD} est appliqué.,Vous ne pouvez pas Invoquer Spécialement tant que l'effet de {CARD} est appliqué.,,,,,,,,,,,
 100267022,"Cielo, Ciel de Lune Relancée - Les Jeux Sont Faits","2 monstres ""Lune Relancée"" de Niveau 7
 Non utilisable comme Matériel pour une Invocation Fusion, Xyz ou Lien.
 Si cette carte en votre possession est envoyée à votre Cimetière par une carte de l'adversaire : vous pouvez piocher 1 carte.
@@ -168,7 +168,7 @@ Les autres cartes ""Xénovahisseur△"" que vous contrôlez ne peuvent être dé
 100267037,Ploutonion Xénovahisseur△ de la Tempête Folle,"(Effet Rapide) : vous pouvez révéler cette carte et 1 autre carte ""Xénovahisseur△"" dans votre main ; bannissez les deux (face verso), et si vous le faites, piochez 2 cartes.
 Vous ne pouvez utiliser cet effet de ""Ploutonion Xénovahisseur△ de la Tempête Folle"" qu'une fois par tour.
 Si cette carte est Invoquée Normalement ou Spécialement : bannissez (face verso) les 7 cartes du dessus de votre Deck.
-Une fois par tour (Effet Rapide) : vous pouvez mélanger 1 de vos monstres ""Xénovahisseur△"" bannis face verso dans le Deck, puis vous pouvez mélanger 1 monstre contrôlé par votre adversaire du même Attribut dans le Deck.",Piocher,Bannir,Renvoyer au Deck,"Révélé par l'effet de ""Ploutonion Xénovahisseur△ de la Tempête Folle""",Renvoyer le monstre au Deck ?,,,,,,,,,,,
+Une fois par tour (Effet Rapide) : vous pouvez mélanger 1 de vos monstres ""Xénovahisseur△"" bannis face verso dans le Deck, puis vous pouvez mélanger 1 monstre contrôlé par votre adversaire du même Attribut dans le Deck.",Piocher,Bannir,Renvoyer au Deck,Révélé par l'effet de {CARD},Renvoyer le monstre au Deck ?,,,,,,,,,,,
 100267038,Jahannam Xénovahisseur△ Dévorant le Vide,"Si cette carte est Invoquée Normalement ou Spécialement : bannissez (face verso) les 8 cartes du dessus de votre Deck.
 Gagne ces effets selon le nombre total de cartes bannies face verso.
 ● 10+ : Non destructible au combat.
@@ -179,9 +179,10 @@ Gagne ces effets selon le nombre total de cartes bannies face verso.
 Durant votre Main Phase : vous pouvez ajouter 1 de vos cartes ""Xénovahisseur△"" bannies face verso (""Territoire Xénovahisseur△ - Valvols"" exclue) à votre main.
 Vous ne pouvez utiliser cet effet de ""Territoire Xénovahisseur△ - Valvols"" qu'une fois par tour.
 Tant que vous contrôlez un monstre ""Xénovahisseur△"" de min. Niveau 5 et que vous n'avez aucune carte dans votre Deck, votre adversaire ne peut activer ni de cartes ni d'effets durant votre tour.",Bannir des cartes du Cimetière pour activer ?,,,,,,,,,,,,,,,
-100267040,异解△福音,"从自己的卡组上面·墓地把合计5张卡以里侧除外才能把这张卡发动。这个卡名的②的效果1回合只能使用1次。
-①：只要这张卡在魔法与陷阱区域存在，自己在通常召唤外加上只有1次，自己主要阶段可以把1只「异解△」怪兽召唤。
-②：自己主要阶段才能发动。自己场上的原本等级是4以下的1只「异解△」怪兽以里侧除外，自己除外状态（里侧）的5星以上的1只「异解△」怪兽特殊召唤。",Bannir des cartes du Cimetière pour activer ?,Invoquer par l'effet de {CARD},Invocation Spéciale,,,,,,,,,,,,,
+100267040,Évangile de la Faille Tri-Royaume,"Activez cette carte en bannissant (face verso) 5 cartes depuis votre Cimetière et/ou du dessus de votre Deck.
+Durant votre Main Phase, vous pouvez Invoquer Normalement 1 monstre ""Faille Tri-Royaume"", en plus de votre Invocation/Pose Normale (vous ne pouvez gagner cet effet qu'une fois par tour).
+Durant votre Main Phase : vous pouvez bannir (face verso) 1 monstre ""Faille Tri-Royaume"" que vous contrôlez dont le Niveau d'origine est max. 4, et si vous le faites, Invoquez Spécialement 1 de vos monstres ""Faille Tri-Royaume"" de min. Niveau 5 bannis face verso.
+Vous ne pouvez utiliser cet effet de ""Évangile de la Faille Tri-Royaume"" qu'une fois par tour.",Bannir des cartes du Cimetière pour activer ?,Invoquer par l'effet de {CARD},Invocation Spéciale,,,,,,,,,,,,,
 100267041,Jugement Xénovahisseur△,"Si votre adversaire Invoque Normalement ou Spécialement un ou plusieurs monstres : vous pouvez en cibler 1 ; choisissez 1 de vos monstres ""Xénovahisseur△"" bannis face verso du même Attribut, et soit ajoutez-le à votre main soit Invoquez-le Spécialement, et aussi, le reste de ce tour, vous ne pouvez pas choisir à nouveau le même Attribut avec cet effet de ""Jugement Xénovahisseur△"", et vous ne pouvez activer ni de cartes ni d'effets (cartes et effets ""Xénovahisseur△"" exclus).
 Une fois par combat, durant le calcul des dommages, si votre monstre ""Xénovahisseur△"" combat un monstre de l'adversaire et que vous n'avez aucune carte dans votre Deck : vous pouvez faire devenir 0 l'ATK du monstre de l'adversaire.",Recycler,L'ATK devient 0,,,,,,,,,,,,,,
 100268004,"Dragon Ultime aux Yeux Bleus, le Serviteur qui Surpasse Dieu","""Dragon Blanc aux Yeux Bleus"" + ""Dragon Blanc aux Yeux Bleus"" + ""Dragon Blanc aux Yeux Bleus""
@@ -251,7 +252,7 @@ Durant la End Phase, si ""Le Dieu du Soleil Immortel"" a été envoyée à votre
 Vous ne pouvez utiliser chaque effet de ""Le Poète du Dieu du Soleil - Helpoemer"" qu'une fois par tour.",Invocation Spéciale,Effet d'ajout à la main,Renvoyer à la main,Défausser au hasard 1 carte de la main de votre adversaire ?,,,,,,,,,,,,
 101307002,Le Destructeur du Dieu du Soleil - Makyura,"Si cette carte est Invoquée Normalement ou Spécialement, ou envoyée depuis la main ou Terrain au Cimetière : vous pouvez Poser 1 Magie/Piège ""Dieu du Soleil"" depuis votre main ou Deck, et si vous avez Posé un Piège ou une Magie Jeu-Rapide, il peut être activé ce tour.
 Durant la End Phase, si ""Le Dieu du Soleil Immortel"" a été envoyée à votre Cimetière ce tour : vous pouvez ajouter cette carte depuis votre Cimetière à votre main.
-Vous ne pouvez utiliser chaque effet de ""Le Destructeur du Dieu du Soleil - Makyura"" qu'une fois par tour.",Poser l'effet,Renvoyer à la main,"Activer en appliquant l'effet de ""Le Destructeur du Dieu du Soleil - Makyura"".",,,,,,,,,,,,,
+Vous ne pouvez utiliser chaque effet de ""Le Destructeur du Dieu du Soleil - Makyura"" qu'une fois par tour.",Poser l'effet,Renvoyer à la main,Activer en appliquant l'effet de {CARD}.,,,,,,,,,,,,,
 101307003,La Machine Redoutable du Dieu du Soleil - Gil Garth,"Si cette carte est dans votre main et que vous contrôlez une carte ""Dieu du Soleil"" : vous pouvez Invoquer Spécialement cette carte.
 Vous pouvez Sacrifier cette carte, puis ciblez 1 autre carte dans l'un des Cimetières ; envoyez 1 carte ""Dieu du Soleil"" depuis votre Deck au Cimetière, et si vous le faites, placez la carte ciblée au-dessous du Deck.
 Durant la End Phase, si ""Le Dieu du Soleil Immortel"" a été envoyée à votre Cimetière ce tour : vous pouvez ajouter cette carte depuis votre Cimetière à votre main.
