@@ -165,8 +165,8 @@ You can only activate 1 ""A Journey Back to the Light - ""Zenet"""" per turn."
 You cannot add cards from the Deck to the hand during the Duel you activate this effect, except by drawing them."
 100267021,Raise Moon Starter Squeeze,str2,Continuous draw
 100267021,Raise Moon Starter Squeeze,str3,Draw 1 card(s)
-100267021,Raise Moon Starter Squeeze,str4,You cannot search your Deck while {CARD}'s effect is being applied.
-100267021,Raise Moon Starter Squeeze,str5,You cannot Special Summon while {CARD}'s effect is being applied.
+100267021,Raise Moon Starter Squeeze,str4,"You cannot search your Deck while ""Raise Moon Starter Squeeze""'s effect is being applied."
+100267021,Raise Moon Starter Squeeze,str5,"You cannot Special Summon while ""Raise Moon Starter Squeeze""'s effect is being applied."
 100267022,"Cielo, the Night Sky of Raise Moon - No More Bets!",name,"Cielo, the Night Sky of Raise Moon - No More Bets!"
 100267022,"Cielo, the Night Sky of Raise Moon - No More Bets!",desc,"2 Level 7 ""Raise Moon"" monsters
 Cannot be used as material for a Fusion, Xyz, or Link Summon. If this card in your possession is sent to your GY by an opponent's card: You can draw 1 card. Gains these effects while in the Extra Monster Zone.
@@ -230,7 +230,7 @@ Your opponent's monsters cannot target monsters for attacks, except this one. If
 100267037,Mad Tempest Xenovader△ Ploutonion,str1,Draw
 100267037,Mad Tempest Xenovader△ Ploutonion,str2,Banish
 100267037,Mad Tempest Xenovader△ Ploutonion,str3,Return to the Deck
-100267037,Mad Tempest Xenovader△ Ploutonion,str4,Revealed by the effect of {CARD}
+100267037,Mad Tempest Xenovader△ Ploutonion,str4,"Revealed by the effect of ""Mad Tempest Xenovader△ Ploutonion"""
 100267037,Mad Tempest Xenovader△ Ploutonion,str5,Return the monster to the Deck?
 100267038,Emptiness Devouring Xenovader△ Jahannam,name,Emptiness Devouring Xenovader△ Jahannam
 100267038,Emptiness Devouring Xenovader△ Jahannam,desc,"If this card is Normal or Special Summoned: Banish (face-down) the top 8 cards of your Deck. Gains these effects based on the total number of face-down banished cards.
@@ -244,6 +244,11 @@ Your opponent's monsters cannot target monsters for attacks, except this one. If
 100267039,Xenovader△ Territory - Valvols,name,Xenovader△ Territory - Valvols
 100267039,Xenovader△ Territory - Valvols,desc,"Activate this card by banishing (face-down) 5 cards from your GY and/or the top of your Deck. During your Main Phase: You can add 1 of your face-down banished ""Xenovader△"" cards to your hand, except ""Xenovader△ Territory - Valvols"". You can only use this effect of ""Xenovader△ Territory - Valvols"" once per turn. While you control a Level 5 or higher ""Xenovader△"" monster and you have no cards in your Deck, your opponent cannot activate cards or effects during your turn."
 100267039,Xenovader△ Territory - Valvols,str1,Banish cards from the GY to activate?
+100267040,Trirealm Rift Gospel,name,Trirealm Rift Gospel
+100267040,Trirealm Rift Gospel,desc,"Activate this card by banishing (face-down) 5 cards from your GY and/or the top of your Deck. During your Main Phase, you can Normal Summon 1 ""Trirealm Rift"" monster, in addition to your Normal Summon/Set (you can only gain this effect once per turn). During your Main Phase: You can banish (face-down) 1 ""Trirealm Rift"" monster you control whose original Level is 4 or lower, and if you do, Special Summon 1 of your face-down banished Level 5 or higher ""Trirealm Rift"" monsters. You can only use this effect of ""Trirealm Rift Gospel"" once per turn."
+100267040,Trirealm Rift Gospel,str1,Banish cards from the GY to activate?
+100267040,Trirealm Rift Gospel,str2,Summoned by the effect of {CARD}
+100267040,Trirealm Rift Gospel,str3,Special Summon
 100267041,Xenovader△ Judgment,name,Xenovader△ Judgment
 100267041,Xenovader△ Judgment,desc,"If your opponent Normal or Special Summons a monster(s): You can target 1 of them; choose 1 of your face-down banished ""Xenovader△"" monsters with the same Attribute, and either add it to your hand or Special Summon it, also for the rest of this turn, you cannot choose the same Attribute again with this effect of ""Xenovader△ Judgment"", and you cannot activate cards or effects, except ""Xenovader△"" cards or effects. Once per battle, during damage calculation, if your ""Xenovader△"" monster battles an opponent's monster and you have no cards in your Deck: You can make that opponent's monster's ATK become 0."
 100267041,Xenovader△ Judgment,str1,Recycle
@@ -336,7 +341,7 @@ You can target 1 other card you control; destroy it, and if you do, draw 1 card.
 101307002,The Sun God's Destructor - Makyura,desc,"If this card is Normal or Special Summoned, or sent from the hand or field to the GY: You can Set 1 ""Sun God"" Spell/Trap from your hand or Deck, and if you Set a Trap or Quick-Play Spell, it can be activated this turn. During the End Phase, if ""The Immortal Sun God"" was sent to your GY this turn: You can add this card from your GY to your hand. You can only use each effect of ""The Sun God's Destructor - Makyura"" once per turn."
 101307002,The Sun God's Destructor - Makyura,str1,Set effect
 101307002,The Sun God's Destructor - Makyura,str2,Return to the hand
-101307002,The Sun God's Destructor - Makyura,str3,Activate by applying the effect of {CARD}.
+101307002,The Sun God's Destructor - Makyura,str3,"Activate by applying the effect of ""The Sun God's Destructor - Makyura""."
 101307003,The Sun God's Terror Machine - Gil Garth,name,The Sun God's Terror Machine - Gil Garth
 101307003,The Sun God's Terror Machine - Gil Garth,desc,"If this card is in your hand and you control a ""Sun God"" card: You can Special Summon this card. You can Tribute this card, then target 1 other card in either GY; send 1 ""Sun God"" card from your Deck to the GY, and if you do, place the targeted card on the bottom of the Deck. During the End Phase, if ""The Immortal Sun God"" was sent to your GY this turn: You can add this card from your GY to your hand. You can only use each effect of ""The Sun God's Terror Machine - Gil Garth"" once per turn."
 101307003,The Sun God's Terror Machine - Gil Garth,str1,Special Summon
