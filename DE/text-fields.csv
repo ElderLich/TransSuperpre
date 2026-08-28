@@ -176,8 +176,8 @@ Du kannst diesen Effekt von „Nummer 101: Lautlose Ehre ARK – Seelenasyl“ n
 In dem Duell, in dem du diesen Effekt aktivierst, kannst du keine Karten vom Deck deiner Hand hinzufügen, außer indem du sie ziehst."
 100267021,Raise Moon Starter Squeeze,str2,Fortlaufendes Ziehen
 100267021,Raise Moon Starter Squeeze,str3,Ziehe 1 Karte(n)
-100267021,Raise Moon Starter Squeeze,str4,"Solange der Effekt von {CARD} angewendet wird, kannst du dein Deck nicht durchsuchen."
-100267021,Raise Moon Starter Squeeze,str5,"Solange der Effekt von {CARD} angewendet wird, kannst du keine Spezialbeschwörungen durchführen."
+100267021,Raise Moon Starter Squeeze,str4,"Solange der Effekt von ""Raise Moon Starter Squeeze"" angewendet wird, kannst du dein Deck nicht durchsuchen."
+100267021,Raise Moon Starter Squeeze,str5,"Solange der Effekt von ""Raise Moon Starter Squeeze"" angewendet wird, kannst du keine Spezialbeschwörungen durchführen."
 100267022,"Cielo, der Nachthimmel von Raise Moon - No More Bets!",name,"Cielo, der Nachthimmel von Raise Moon - No More Bets!"
 100267022,"Cielo, der Nachthimmel von Raise Moon - No More Bets!",desc,"2 „Raise Moon“-Monster der Stufe 7
 
@@ -247,7 +247,7 @@ Monster deines Gegners können Monster nicht als Angriffsziel für Angriffe wäh
 100267037,Verrückter Sturm Xenovader△ Ploutonion,str1,Ziehen
 100267037,Verrückter Sturm Xenovader△ Ploutonion,str2,Verbannen
 100267037,Verrückter Sturm Xenovader△ Ploutonion,str3,Ins Deck zurücklegen
-100267037,Verrückter Sturm Xenovader△ Ploutonion,str4,Durch den Effekt von {CARD} aufgedeckt
+100267037,Verrückter Sturm Xenovader△ Ploutonion,str4,"Durch den Effekt von ""Verrückter Sturm Xenovader△ Ploutonion"" aufgedeckt"
 100267037,Verrückter Sturm Xenovader△ Ploutonion,str5,Das Monster ins Deck zurücklegen?
 100267038,Die Leere verschlingender Xenovader△ Jahannam,name,Die Leere verschlingender Xenovader△ Jahannam
 100267038,Die Leere verschlingender Xenovader△ Jahannam,desc,"Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Verbanne die obersten 8 Karten deines Decks verdeckt. Erhält diese Effekte basierend auf der Gesamtanzahl der verdeckt verbannten Karten.
@@ -265,6 +265,13 @@ Monster deines Gegners können Monster nicht als Angriffsziel für Angriffe wäh
 100267039,Xenovader△ Territorium - Valvols,name,Xenovader△ Territorium - Valvols
 100267039,Xenovader△ Territorium - Valvols,desc,"Aktiviere diese Karte, indem du 5 Karten von deinem Friedhof und/oder von der Oberseite deines Decks verdeckt verbannst. Während deiner Main Phase: Du kannst 1 deiner verdeckt verbannten „Xenovader△“-Karten deiner Hand hinzufügen, außer „Xenovader△ Territorium - Valvols“. Du kannst diesen Effekt von „Xenovader△ Territorium - Valvols`“ nur einmal pro Spielzug verwenden. Solange du ein „Xenovader△“-Monster der Stufe 5 oder höher kontrollierst und du keine Karten in deinem Deck hast, kann dein Gegner während deines Spielzugs keine Karten oder Effekte aktivieren."
 100267039,Xenovader△ Territorium - Valvols,str1,"Karten vom Friedhof verbannen, um zu aktivieren?"
+100267040,异解△福音,name,异解△福音
+100267040,异解△福音,desc,"从自己的卡组上面·墓地把合计5张卡以里侧除外才能把这张卡发动。这个卡名的②的效果1回合只能使用1次。
+①：只要这张卡在魔法与陷阱区域存在，自己在通常召唤外加上只有1次，自己主要阶段可以把1只「异解△」怪兽召唤。
+②：自己主要阶段才能发动。自己场上的原本等级是4以下的1只「异解△」怪兽以里侧除外，自己除外状态（里侧）的5星以上的1只「异解△」怪兽特殊召唤。"
+100267040,异解△福音,str1,"Karten vom Friedhof verbannen, um zu aktivieren?"
+100267040,异解△福音,str2,Durch den Effekt von {CARD} beschworen
+100267040,异解△福音,str3,Als Spezialbeschwörung beschwören
 100267041,Xenovader△ Urteil,name,Xenovader△ Urteil
 100267041,Xenovader△ Urteil,desc,"Falls dein Gegner ein oder mehrere Monster als Normal- oder Spezialbeschwörung beschwört: Du kannst 1 von ihnen wählen; bestimme 1 deiner verdeckt verbannten „Xenovader△“-Monster mit demselben Attribut und füge es entweder deiner Hand hinzu oder beschwöre es als Spezialbeschwörung, zusätzlich kannst du für den Rest dieses Spielzugs mit diesem Effekt von „Xenovader△ Urteil“ nicht dasselbe Attribut noch einmal bestimmen und du kannst keine Karten oder Effekte aktivieren, außer „Xenovader△“-Karten oder -Effekten. Einmal pro Kampf, während der Schadensberechnung, falls dein „Xenovader△“-Monster gegen ein Monster deines Gegners kämpft und du keine Karten in deinem Deck hast: Du kannst bestimmen, dass die ATK jenes Monsters deines Gegners zu 0 werden."
 100267041,Xenovader△ Urteil,str1,Zurückholen
@@ -363,7 +370,7 @@ Du kannst 1 andere Karte wählen, die du kontrollierst; zerstöre sie und falls 
 101307002,Der Zerstörer des Sonnengotts – Makyura,desc,"Falls diese Karte als Normal- oder Spezialbeschwörung beschworen oder von der Hand oder dem Spielfeld auf den Friedhof gelegt wird: Du kannst 1 „Sonnengott“-Zauber-/Fallenkarte von deiner Hand oder deinem Deck setzen, und falls du eine Fallenkarte oder Schnellzauberkarte setzt, kann sie in diesem Spielzug aktiviert werden. Während der End Phase, falls „Der unsterbliche Sonnengott“ in diesem Spielzug auf deinen Friedhof gelegt wurde: Du kannst diese Karte von deinem Friedhof deiner Hand hinzufügen. Du kannst jeden Effekt von „Der Zerstörer des Sonnengotts – Makyura“ nur einmal pro Spielzug verwenden."
 101307002,Der Zerstörer des Sonnengotts – Makyura,str1,Setzeffekt
 101307002,Der Zerstörer des Sonnengotts – Makyura,str2,Auf die Hand zurückgeben
-101307002,Der Zerstörer des Sonnengotts – Makyura,str3,"Aktiviere, indem du den Effekt von {CARD} anwendest."
+101307002,Der Zerstörer des Sonnengotts – Makyura,str3,"Aktiviere, indem du den Effekt von ""Der Zerstörer des Sonnengotts – Makyura"" anwendest."
 101307003,Die Schreckensmaschine des Sonnengotts – Gil Garth,name,Die Schreckensmaschine des Sonnengotts – Gil Garth
 101307003,Die Schreckensmaschine des Sonnengotts – Gil Garth,desc,"Falls sich diese Karte in deiner Hand befindet und du eine „Sonnengott“-Karte kontrollierst: Du kannst diese Karte als Spezialbeschwörung beschwören. Du kannst diese Karte als Tribut anbieten und dann 1 andere Karte in einem beliebigen Friedhof wählen; lege 1 „Sonnengott“-Karte von deinem Deck auf den Friedhof und falls du dies tust, lege die gewählte Karte unters Deck. Während der End Phase, falls „Der unsterbliche Sonnengott“ in diesem Spielzug auf deinen Friedhof gelegt wurde: Du kannst diese Karte von deinem Friedhof deiner Hand hinzufügen. Du kannst jeden Effekt von „Die Schreckensmaschine des Sonnengotts – Gil Garth“ nur einmal pro Spielzug verwenden."
 101307003,Die Schreckensmaschine des Sonnengotts – Gil Garth,str1,Als Spezialbeschwörung beschwören
