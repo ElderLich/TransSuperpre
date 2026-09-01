@@ -19,91 +19,6 @@ Si vous avez activé ""Réincarnation d'Armement"" ce tour : vous pouvez ajouter
 Vous ne pouvez utiliser chaque effet de ""Connexion de Puissance"" qu'une fois par tour."
 100200294,Connexion de Puissance,str1,Activer
 100200294,Connexion de Puissance,str2,Recycler
-100200296,Duel Destiné,name,Duel Destiné
-100200296,Duel Destiné,desc,"Lorsque cette carte est activée : chaque joueur peut Invoquer Spécialement 1 monstre depuis sa main en Position d'Attaque, puis s'il y a d'autres monstres face recto sur le Terrain, changez-les tous en Position de Défense face verso.
-Le reste de ce tour après la résolution de cette carte, vous ne pouvez Invoquer ni Normalement ni Spécialement.
-Une fois par tour, lorsque votre monstre déclare une attaque : vous pouvez annuler l'attaque, et si vous le faites, détruisez 1 carte face verso contrôlée par votre adversaire.
-Une fois par tour, durant la End Phase de votre adversaire : renvoyez cette carte à la main."
-100200296,Duel Destiné,str1,Activer
-100200296,Duel Destiné,str2,Détruire
-100200296,Duel Destiné,str3,Renvoyer à la main
-100200296,Duel Destiné,str4,Invocation Spéciale?
-100266001,Anciens Secrets,name,Anciens Secrets
-100266001,Anciens Secrets,desc,"Invoquez Spécialement 1 Monstre Normal depuis votre main, Deck ou Cimetière en Position de Défense (si vous Invoquez Spécialement depuis le Deck, il doit être de max. Niveau 4), ou si vous contrôlez une Carte Monstre Normal, vous pouvez appliquer 1 de ces effets à la place.
-● Détruisez tous les monstres contrôlés par votre adversaire.
-● Détruisez toutes les Magies/Pièges contrôlés par votre adversaire.
-● Piochez 2 cartes.
-● Invoquez Spécialement 1 monstre depuis un des Cimetières sur votre Terrain.
-Vous ne pouvez activer qu'1 ""Anciens Secrets"" par tour."
-100266001,Anciens Secrets,str1,Activer
-100266001,Anciens Secrets,str2,Appliquer un autre effet ?
-100266001,Anciens Secrets,str3,Détruire un monstre
-100266001,Anciens Secrets,str4,Détruire des cartes Magie/Piège
-100266001,Anciens Secrets,str5,Piocher
-100266001,Anciens Secrets,str6,Invocation Spéciale
-100266002,Force de Miroir de l'Esprit,name,Force de Miroir de l'Esprit
-100266002,Force de Miroir de l'Esprit,desc,"Si votre adversaire contrôle min. 5 cartes face recto, l'activation et l'effet de cette carte ne peuvent pas être annulés, et aussi, vous pouvez activer cette carte le tour où elle a été Posée.
-À l'un des moments suivants : annulez les effets d'autant de cartes face recto contrôlées par votre adversaire que possible, et si vous le faites, détruisez-les, et aussi, vos monstres ne peuvent pas attaquer directement jusqu'à la fin du prochain tour après la résolution de cette carte.
-● Lorsque le monstre contrôlé par votre adversaire avec la plus haute ATK (même en cas d'égalité) déclare une attaque.
-● Lorsque votre adversaire active un effet de monstre qui va détruire une ou plusieurs cartes sur le Terrain.
-● Lorsque votre adversaire active un effet de monstre dans la main ou Terrain durant votre tour."
-100266002,Force de Miroir de l'Esprit,str1,Activer
-100266002,Force de Miroir de l'Esprit,str2,"Activer en appliquant l'effet de ""Force de Miroir de l'Esprit""."
-100266003,Émissaires des Ténèbres,name,Émissaires des Ténèbres
-100266003,Émissaires des Ténèbres,desc,"Si vous recevez des dommages de combat ou d'effet : vous pouvez Invoquer Spécialement cette carte depuis votre main, et si vous le faites, gagnez 2000 LP, puis vous pouvez appliquer 1 de ces effets.
-● Invoquez Spécialement 1 ""Émissaires des Ténèbres"" depuis votre main, Deck ou Cimetière.
-● Détruisez max. 2 monstres en Position d'Attaque contrôlés par votre adversaire.
-Durant la End Phase, si cette carte a été Invoquée Spécialement ce tour : vous pouvez cibler 1 Piège dans votre Cimetière ; Posez-le.
-Vous ne pouvez utiliser chaque effet de ""Émissaires des Ténèbres"" qu'une fois par tour."
-100266003,Émissaires des Ténèbres,str1,Invocation Spéciale
-100266003,Émissaires des Ténèbres,str2,Poser un Piège
-100266003,Émissaires des Ténèbres,str3,Invocation Spéciale
-100266003,Émissaires des Ténèbres,str4,Effet de destruction
-100266003,Émissaires des Ténèbres,str5,Ne rien faire
-100266004,Dragon Armé des Ténèbres Punisseur,name,Dragon Armé des Ténèbres Punisseur
-100266004,Dragon Armé des Ténèbres Punisseur,desc,"Ni Invocable Normalement ni Posable Normalement.
-Uniquement Invocable Spécialement (depuis votre main) en ayant exactement 3 monstres TÉNÈBRES dans votre Cimetière.
-Vous pouvez révéler cette carte dans votre main ; Invoquez Spécialement 1 monstre TÉNÈBRES de max. Niveau 6 depuis votre main, et aussi, vous ne pouvez pas Invoquer Spécialement (monstres TÉNÈBRES exclus) le reste de ce tour.
-Durant la Main Phase (Effet Rapide) : vous pouvez bannir max. 3 monstres TÉNÈBRES depuis votre Cimetière, puis ciblez autant de cartes sur le Terrain ; détruisez-les.
-Vous ne pouvez utiliser chaque effet ""Dragon Armé des Ténèbres Punisseur"" qu'une fois par tour."
-100266004,Dragon Armé des Ténèbres Punisseur,str1,Invocation Spéciale
-100266004,Dragon Armé des Ténèbres Punisseur,str2,Détruire
-100266005,"Ekhajar, Dragon Descendant de la Barrière de Glace",name,"Ekhajar, Dragon Descendant de la Barrière de Glace"
-100266005,"Ekhajar, Dragon Descendant de la Barrière de Glace",desc,"1 Syntoniseur + 1+ non-Syntoniseur
-Si cette carte est Invoquée par Synchronisation : vous pouvez défausser 1 carte ; bannissez 2 cartes depuis le Terrain et/ou Cimetière de votre adversaire.
-Si votre adversaire Invoque Spécialement un ou plusieurs monstres : vous pouvez bannir 1 carte depuis votre main ; renvoyez 1 carte dans le Terrain ou Cimetière à la main.
-Si cette carte Invoquée par Synchronisation est envoyée au Cimetière durant le tour de votre adversaire : vous pouvez bannir 1 carte depuis la main (au hasard), Terrain ou Cimetière de votre adversaire.
-Vous ne pouvez utiliser chaque effet de ""Ekhajar, Dragon Descendant de la Barrière de Glace"" qu'une fois par tour."
-100266005,"Ekhajar, Dragon Descendant de la Barrière de Glace",str1,Bannir depuis le Terrain/Cimetière
-100266005,"Ekhajar, Dragon Descendant de la Barrière de Glace",str2,Renvoyer à la main
-100266005,"Ekhajar, Dragon Descendant de la Barrière de Glace",str3,Bannir depuis la main/le Terrain/le Cimetière
-100266005,"Ekhajar, Dragon Descendant de la Barrière de Glace",str4,Bannir une carte depuis votre main ?
-100266006,Numéro 101 : Honneur Silencieux ARCHE - Asile de l'Âme,name,Numéro 101 : Honneur Silencieux ARCHE - Asile de l'Âme
-100266006,Numéro 101 : Honneur Silencieux ARCHE - Asile de l'Âme,desc,"2 monstres de Niveau 4
-Vous pouvez détacher 1 Matériel de cette carte, puis activez 1 de ces effets ;
-● Choisissez 1 monstre de Niveau 4 (le monstre détaché exclu) dans votre Cimetière, et ajoutez 1 monstre de Niveau 4 du même Type et Attribut, mais de nom différent, depuis votre Deck à votre main.
-● Ciblez 1 monstre contrôlé par votre adversaire ; attachez-le à cette carte.
-Vous ne pouvez utiliser cet effet de ""Numéro 101 : Honneur Silencieux ARCHE - Asile de l'Âme"" qu'une fois par tour. 
-Si cette carte va être détruite, vous pouvez détacher 1 Matériel de cette carte à la place."
-100266006,Numéro 101 : Honneur Silencieux ARCHE - Asile de l'Âme,str1,Activer
-100266006,Numéro 101 : Honneur Silencieux ARCHE - Asile de l'Âme,str2,Ajouter à la main
-100266006,Numéro 101 : Honneur Silencieux ARCHE - Asile de l'Âme,str3,Comme Matériel Xyz
-100266007,Ciel Ultime,name,Ciel Ultime
-100266007,Ciel Ultime,desc,"Si votre adversaire contrôle plus de monstres que vous : activez 1 de ces effets (mais vous ne pouvez utiliser chaque effet de ""Ciel Ultime"" qu'une fois par tour) ;
-● Ciblez un nombre de cartes face recto sur le Terrain inférieur ou égal au nombre de monstres face recto contrôlés par votre adversaire et payez 800 LP pour chaque cible ; annulez leurs effets jusqu'à la fin de ce tour.
-● Lorsque votre adversaire active un effet de monstre depuis la main ou Cimetière : annulez l'effet."
-100266007,Ciel Ultime,str1,Activer
-100266007,Ciel Ultime,str2,Annuler les effets des cartes face recto sur le Terrain
-100266007,Ciel Ultime,str3,Annuler un effet de monstre activé depuis la main ou le Cimetière
-100266008,Rosepamela Dominusteer,name,Rosepamela Dominusteer
-100266008,Rosepamela Dominusteer,desc,"Les cartes face verso dans votre Zone Magie & Piège ne peuvent pas être détruites par des effets de carte.
-Vous ne pouvez utiliser chacun des effets suivants de ""Rosepamela Dominusteer"" qu'une fois par tour.
-Durant le tour de votre adversaire (Effet Rapide) : vous pouvez révéler cette carte dans votre main ; ajoutez 1 carte ""Purge Dominus"" depuis votre Deck à votre main, puis défaussez 1 carte.
-Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez Poser 1 Piège ""Purge Dominus"" ou ""Dominateurs"" depuis votre Deck ou Cimetière.
-Il peut être activé ce tour."
-100266008,Rosepamela Dominusteer,str1,Effet d'ajout à la main
-100266008,Rosepamela Dominusteer,str2,Poser l'effet
-100266008,Rosepamela Dominusteer,str3,"Activer en appliquant l'effet de ""Rosepamela Dominusteer""."
 100267001,Prophète Sennet - Néfertari,name,Prophète Sennet - Néfertari
 100267001,Prophète Sennet - Néfertari,desc,"Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez l'envoyer au Cimetière ; montrez max. 2 Cartes Monstre Normal depuis votre main, Deck, Terrain face recto et/ou Cimetière, puis Posez autant de Magies ""Sennet"" depuis votre Deck.
 Durant le tour de votre adversaire (Effet Rapide) : vous pouvez bannir cette carte depuis votre Cimetière ; équipez 1 Monstre Normal depuis votre Cimetière à 1 Monstre Rituel que vous contrôlez comme Magie d'Équipement.
@@ -445,30 +360,6 @@ Après que cette carte détruit une carte au combat ou par un effet de carte et 
 100268201,Paladin des Ténèbres - Ondulatoire,str1,Annuler l'effet
 100268201,Paladin des Ténèbres - Ondulatoire,str2,Détruire la carte ?
 100268201,Paladin des Ténèbres - Ondulatoire,str3,"L'effet de ""Paladin des Ténèbres - Ondulatoire"" est actuellement appliqué."
-100269038,Dragon Forçage aux Yeux Impairs,name,Dragon Forçage aux Yeux Impairs
-100269038,Dragon Forçage aux Yeux Impairs,desc,"2+ monstres (un Monstre Pendule inclus)
-Vous pouvez cibler 1 autre carte que vous contrôlez ; détruisez-la, et si vous le faites, piochez 1 carte.
-Durant votre tour, lorsque votre adversaire active une carte ou un effet (Effet Rapide) : vous pouvez défausser 1 carte ; annulez l'effet.
-Vous ne pouvez utiliser chacun des effets précédents de ""Dragon Forçage aux Yeux Impairs"" qu'une fois par tour.
-Si vous avez détruit une Carte Monstre Pendule par le premier effet de cette carte, durant votre Main Phase ce tour, vous pouvez mener 1 Invocation Pendule d'un ou plusieurs monstres ""Potartiste"", d'un ou plusieurs Monstres Pendule ""Magicien"" et/ou d'un ou plusieurs monstres ""Yeux Impairs"", en plus de votre Invocation Pendule (vous ne pouvez gagner cet effet qu'une fois par tour)."
-100269038,Dragon Forçage aux Yeux Impairs,str1,Détruire
-100269038,Dragon Forçage aux Yeux Impairs,str2,Annuler l'effet
-100269038,Dragon Forçage aux Yeux Impairs,str3,"Invocation Pendule en utilisant l'effet de ""Dragon Forçage aux Yeux Impairs"""
-100269113,Tigre Écarlate de Clair de Lune,name,Tigre Écarlate de Clair de Lune
-100269113,Tigre Écarlate de Clair de Lune,desc,"Si vous activez un effet de monstre ""Clair de Lune"" (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte depuis votre main, puis si vous avez activé cet effet durant le tour où votre adversaire a activé une carte ou un effet, vous pouvez ajouter 1 ""Polymérisation"" depuis votre Deck ou Cimetière à votre main.
-Si cette carte est envoyée au Cimetière par un effet de carte : vous pouvez Invoquer Spécialement 1 monstre ""Clair de Lune"" (monstres de Niveau 5 exclus) depuis votre Extra Deck face recto ou Cimetière, mais il ne peut pas activer ses effets ce tour.
-Vous ne pouvez utiliser chaque effet de ""Tigre Écarlate de Clair de Lune"" qu'une fois par tour."
-100269113,Tigre Écarlate de Clair de Lune,str1,Invocation Spéciale
-100269113,Tigre Écarlate de Clair de Lune,str2,Invocation Spéciale
-100269113,Tigre Écarlate de Clair de Lune,str3,"Ajouter ""Polymérisation"" à votre main ?"
-100269113,Tigre Écarlate de Clair de Lune,str4,"Invoqué Spécialement par l'effet de ""Tigre Écarlate de Clair de Lune"""
-100269215,Frappeur de Daruma Vitesseroid,name,Frappeur de Daruma Vitesseroid
-100269215,Frappeur de Daruma Vitesseroid,desc,"Si cette carte est dans votre main : vous pouvez envoyer 1 carte ""Vitesseroid"" ('""Frappeur de Daruma Vitesseroid"" exclu) depuis votre Deck au Cimetière ; Invoquez Spécialement cette carte, et aussi, vous ne pouvez pas Invoquer Spécialement (monstres VENT exclus) le reste de ce tour.
-Si cette carte est envoyée depuis le Terrain au Cimetière : vous pouvez ajouter 1 Magie/Piège ""Vitesseroid"" depuis votre Deck à votre main, puis si vous contrôlez un monstre ""Aile Claire"", vous pouvez détruire 1 monstre sur le Terrain.
-Vous ne pouvez utiliser chaque effet de ""Frappeur de Daruma Vitesseroid"" qu'une fois par tour."
-100269215,Frappeur de Daruma Vitesseroid,str1,Invocation Spéciale
-100269215,Frappeur de Daruma Vitesseroid,str2,Ajouter à la main
-100269215,Frappeur de Daruma Vitesseroid,str3,Détruire ce monstre ?
 101306281,"Audhumla, Progéniteur de l'Étendue Gelée",name,"Audhumla, Progéniteur de l'Étendue Gelée"
 101306281,"Audhumla, Progéniteur de l'Étendue Gelée",desc,"Si min. 4 cartes sont sur le Terrain : vous pouvez Invoquer Spécialement cette carte depuis votre main.
 Vous pouvez envoyer max. 2 Magies/Pièges que vous contrôlez au Cimetière ; piochez autant de cartes, puis vous pouvez Invoquer Spécialement 1 monstre EAU depuis votre main.
