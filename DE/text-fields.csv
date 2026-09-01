@@ -19,75 +19,6 @@ Falls du „Kraftverbindung“ in diesen Spielzug aktiviert hast: Du kannst dies
 Du kannst jeden Effekt von „Kraftverbindung“ nur einmal pro Spielzug verwenden."
 100200294,Kraftverbindung,str1,Aktivieren
 100200294,Kraftverbindung,str2,Zurückholen
-100200296,Vorherbestimmtes Duell,name,Vorherbestimmtes Duell
-100200296,Vorherbestimmtes Duell,desc,"Wenn diese Karte aktiviert wird: Jeder Spieler kann ein Monster von seiner Hand als Spezialbeschwörung beschwören, dann, falls sich andere offene Monster auf dem Spielfeld befinden, ändere alle in die verdeckte Verteidigungsposition. Für den Rest dieses Spielzugs kannst du Monster weder als Normalbeschwörung beschwören/setzen noch als Spezialbeschwörung beschwören. Einmal pro Spielzug, wenn ein Monster einen Angriff deklariert: Annulliere den Angriff und falls du dies tust, zerstöre eine verdeckte Karte, die dein Gegner kontrolliert. Einmal pro Spielzug, während der End Phase deines Gegners: Gib diese Karte auf die Hand zurück."
-100200296,Vorherbestimmtes Duell,str1,Aktivieren
-100200296,Vorherbestimmtes Duell,str2,Zerstören
-100200296,Vorherbestimmtes Duell,str3,Auf die Hand zurückgeben
-100200296,Vorherbestimmtes Duell,str4,Als Spezialbeschwörung beschwören?
-100266001,Antike Geheimnisse,name,Antike Geheimnisse
-100266001,Antike Geheimnisse,desc,"Beschwöre 1 Normales Monster als Spezialbeschwörung von deiner Hand, deinem Deck oder deinem Friedhof in die Verteidigungsposition (falls du als Spezialbeschwörung vom Deck beschwörest, muss es Level 4 oder niedriger sein), oder falls du eine normale Monsterkarte kontrollierst, kannst du stattdessen 1 dieser Effekte anwenden.
-● Zerstöre alle Monster, die dein Gegner kontrolliert.
-● Zerstöre alle Zauber/Fallen, die dein Gegner kontrolliert.
-● Ziehe 2 Karten.
-● Beschwöre 1 Monster als Spezialbeschwörung von einem beliebigen Friedhof auf deine Spielfeldseite.
-Du kannst nur 1 „Antike Geheimnisse“ pro Spielzug aktivieren."
-100266001,Antike Geheimnisse,str1,Aktivieren
-100266001,Antike Geheimnisse,str2,Einen anderen Effekt anwenden?
-100266001,Antike Geheimnisse,str3,Zerstöre ein Monster
-100266001,Antike Geheimnisse,str4,Zauber-/Fallenkarte(n) zerstören
-100266001,Antike Geheimnisse,str5,Ziehen
-100266001,Antike Geheimnisse,str6,Als Spezialbeschwörung beschwören
-100266002,Gedankenspiegelkraft,name,Gedankenspiegelkraft
-100266002,Gedankenspiegelkraft,desc,"Falls dein Gegner 5 oder mehr offene Karten kontrolliert, kann die Aktivierung und der Effekt dieser Karte nicht annulliert werden, zusätzlich kannst du diese Karte in dem Spielzug aktivieren, in dem sie gesetzt wurde.
-Zu einem der folgenden Zeitpunkte: Annulliere die Effekte von so vielen offenen Karten, die dein Gegner kontrolliert, wie möglich und falls du dies tust, zerstöre sie, zusätzlich können deine Monster bis zum Ende des nächsten Spielzugs, nachdem diese Karte aufgelöst wurde, nicht direkt angreifen.
-● Wenn das Monster mit den höchsten ATK, das dein Gegner kontrolliert (selbst falls es einen Gleichstand gibt) einen Angriff deklariert.
-● Wenn dein Gegner einen Monstereffekt aktiviert, der eine oder mehr Karten auf dem Spielfeld zerstören würde.
-● Wenn dein Gegner, während deines Spielzugs, einen Monstereffekt in der Hand oder auf dem Spielfeld aktiviert."
-100266002,Gedankenspiegelkraft,str1,Aktivieren
-100266002,Gedankenspiegelkraft,str2,"Aktiviere, indem du den Effekt von ""Gedankenspiegelkraft"" anwendest."
-100266003,Abgesandte der Dunkelheit,name,Abgesandte der Dunkelheit
-100266003,Abgesandte der Dunkelheit,desc,"Falls du Kampf- oder Effektschaden erhältst: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören und falls du dies tust, erhalte 2000 LP, dann kannst du 1 dieser Effekte ausführen.
-● Beschwöre 1 „Abgesandte der Dunkelheit“ als Spezialbeschwörung von deiner Hand, deinem Deck oder deinem Friedhof.
-● Zerstöre bis zu 2 Monster in Angriffsposition, die dein Gegner kontrolliert.
-Während der End Phase, falls diese Karte in diesem Spielzug als Spezialbeschwörung beschworen wurde: Du kannst 1 Falle in deinem Friedhof wählen; setze sie. Du kannst jeden Effekt von „Abgesandte der Dunkelheit“ nur einmal pro Spielzug verwenden. "
-100266003,Abgesandte der Dunkelheit,str1,Als Spezialbeschwörung beschwören
-100266003,Abgesandte der Dunkelheit,str2,Eine Fallenkarte setzen
-100266003,Abgesandte der Dunkelheit,str3,Als Spezialbeschwörung beschwören
-100266003,Abgesandte der Dunkelheit,str4,Zerstörungseffekt
-100266003,Abgesandte der Dunkelheit,str5,Nichts tun
-100266004,Finsterer bewaffneter Drache - Bestrafer,name,Finsterer bewaffneter Drache - Bestrafer
-100266004,Finsterer bewaffneter Drache - Bestrafer,desc,"Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du genau 3 FINSTERNIS Monster in deinem Friedhof hast. Du kannst diese Karte in deiner Hand vorzeigen; beschwöre 1 FINSTERNIS Monster der Stufe 6 oder niedriger als Spezialbeschwörung von deiner Hand, außerdem kannst du für den Rest dieses Spielzugs keine Monster als Spezialbeschwörung beschwören, außer FINSTERNIS Monstern. Während der Main Phase (Schnelleffekt): Du kannst bis zu 3 FINSTERNIS Monster von deinem Friedhof verbannen und dann so viele Karten auf dem Spielfeld wählen; zerstöre sie. Du kannst jeden Effekt von „Finsterer bewaffneter Drache - Bestrafer“ nur einmal pro Spielzug verwenden."
-100266004,Finsterer bewaffneter Drache - Bestrafer,str1,Als Spezialbeschwörung beschwören
-100266004,Finsterer bewaffneter Drache - Bestrafer,str2,Zerstören
-100266005,"Ekhajar, Nachfahr-Drache der Eisbarriere",name,"Ekhajar, Nachfahr-Drache der Eisbarriere"
-100266005,"Ekhajar, Nachfahr-Drache der Eisbarriere",desc,"1 Empfänger + 1+ Nicht-Empfänger-Monster
-Falls diese Karte als Synchrobeschwörung beschworen wird: Du kannst 1 Karte abwerfen; verbanne 2 Karten von der Spielfeldseite deines Gegners und/oder aus seinem Friedhof. Falls dein Gegner ein oder mehr Monster als Spezialbeschwörung beschwört (außer während des Damage Steps): Du kannst 1 Karte von deiner Hand verbannen; gib 1 Karte von einer beliebigen Spielfeldseite oder aus einem beliebigen Friedhof auf die Hand zurück. Falls diese als Synchrobeschwörung beschworene Karte während des Spielzugs deines Gegners auf den Friedhof gelegt wird: Du kannst 1 Karte von der Hand (zufällig), der Spielfeldseite oder dem Friedhof deines Gegners verbannen. Du kannst jeden Effekt von „Ekhajar, Nachfahr-Drache der Eisbarriere“ nur einmal pro Spielzug verwenden."
-100266005,"Ekhajar, Nachfahr-Drache der Eisbarriere",str1,Vom Spielfeld/Friedhof verbannen
-100266005,"Ekhajar, Nachfahr-Drache der Eisbarriere",str2,Auf die Hand zurückgeben
-100266005,"Ekhajar, Nachfahr-Drache der Eisbarriere",str3,Von der Hand/vom Spielfeld/Friedhof verbannen
-100266005,"Ekhajar, Nachfahr-Drache der Eisbarriere",str4,Eine Karte aus deiner Hand verbannen?
-100266006,Nummer 101: Lautlose Ehre ARK – Seelenasyl,name,Nummer 101: Lautlose Ehre ARK – Seelenasyl
-100266006,Nummer 101: Lautlose Ehre ARK – Seelenasyl,desc,"2 Monster der Stufe 4
-Du kannst 1 Material von dieser Karte abhängen und dann 1 dieser Effekte aktivieren;
-● Wähle 1 Monster der Stufe 4 in deinem Friedhof, außer dem abgehängten Material, und füge deiner Hand 1 Monster der Stufe 4 mit demselben Typ und Attribut, aber einem anderen Namen, von deinem Deck hinzu.
-● Wähle 1 Monster, das dein Gegner kontrolliert; hänge es als Material an diese Karte an.
-Du kannst diesen Effekt von „Nummer 101: Lautlose Ehre ARK – Seelenasyl“ nur einmal pro Spielzug verwenden. Falls diese Karte zerstört würde, kannst du stattdessen 1 Material von dieser Karte abhängen."
-100266006,Nummer 101: Lautlose Ehre ARK – Seelenasyl,str1,Aktivieren
-100266006,Nummer 101: Lautlose Ehre ARK – Seelenasyl,str2,Der Hand hinzufügen
-100266006,Nummer 101: Lautlose Ehre ARK – Seelenasyl,str3,Als Xyz-Material
-100266007,Ultimativer Himmel,name,Ultimativer Himmel
-100266007,Ultimativer Himmel,desc,"Falls dein Gegner mehr Monster kontrolliert als du: Aktiviere 1 dieser Effekte (aber du kannst jeden Effekt von „Ultimativer Himmel“ nur einmal pro Spielzug verwenden);
-● Wähle offene Karten auf dem Spielfeld bis zu der Anzahl an offenen Monstern, die dein Gegner kontrolliert, und zahle 800 LP für jedes gewählte Ziel; annulliere ihre Effekte bis zum Ende dieses Spielzugs.
-● Wenn dein Gegner einen Monstereffekt in der Hand oder im Friedhof aktiviert: Annulliere jenen Effekt."
-100266007,Ultimativer Himmel,str1,Aktivieren
-100266007,Ultimativer Himmel,str2,Die Effekte offener Karten auf dem Spielfeld annullieren
-100266007,Ultimativer Himmel,str3,"Einen Monstereffekt annullieren, der in der Hand oder im Friedhof aktiviert wurde"
-100266008,Dominustier Rosepamela,name,Dominustier Rosepamela
-100266008,Dominustier Rosepamela,desc,"Verdeckte Karten in deiner Zauber- & Fallenkartezone können nicht durch Karteneffekte zerstört werden. Du kannst jeden der folgenden Effekte von „Dominustier Rosepamela“ nur einmal pro Spielzug verwenden. Während des Spielzugs deines Gegners (Schnelleffekt): Du kannst diese Karte in deiner Hand vorzeigen; füge deiner Hand 1 „Dominus-Säuberung“-Karte von deinem Deck hinzu, dann wirf 1 Karte ab. Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 „Beherrscher“- oder „Dominus-Säuberung“-Falle von deinem Deck oder Friedhof setzen. Sie kann in diesem Spielzug aktiviert werden."
-100266008,Dominustier Rosepamela,str1,Sucheffekt
-100266008,Dominustier Rosepamela,str2,Setzeffekt
-100266008,Dominustier Rosepamela,str3,"Aktiviere, indem du den Effekt von ""Dominustier Rosepamela"" anwendest."
 100267001,Sennet-Prophetin – Nefertari,name,Sennet-Prophetin – Nefertari
 100267001,Sennet-Prophetin – Nefertari,desc,"Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst sie auf den Friedhof legen; zeige bis zu 2 Normale Monsterkarten von deiner Hand, deinem Deck, deiner offenen Spielfeldseite und/oder aus deinem Friedhof, dann setze so viele „Sennet“-Zauberkarten von deinem Deck. Während des Spielzugs deines Gegners (Schnelleffekt): Du kannst diese Karte von deinem Friedhof verbannen; rüste 1 Normales Monster von deinem Friedhof als Ausrüstungszauberkarte an 1 Ritualmonster aus, das du kontrollierst. Du kannst jeden Effekt von „Sennet-Prophetin – Nefertari“ nur einmal pro Spielzug verwenden."
 100267001,Sennet-Prophetin – Nefertari,str1,Setzen
@@ -336,24 +267,6 @@ Muss als Fusionsbeschwörung beschworen werden. Erhält 500 ATK für jedes ander
 100268201,Dunkler Paladin – Wellenbewegung,str1,Effekt annullieren
 100268201,Dunkler Paladin – Wellenbewegung,str2,Die Karte zerstören?
 100268201,Dunkler Paladin – Wellenbewegung,str3,"Der Effekt von ""Dunkler Paladin – Wellenbewegung"" wird derzeit angewendet."
-100269038,Buntäugiger Übersteuerungs-Drache,name,Buntäugiger Übersteuerungs-Drache
-100269038,Buntäugiger Übersteuerungs-Drache,desc,"2+ Monster, darunter ein Pendelmonster
-
-Du kannst 1 andere Karte wählen, die du kontrollierst; zerstöre sie und falls du dies tust, ziehe 1 Karte. Während deines Spielzugs, wenn dein Gegner eine Karte oder einen Effekt aktiviert (Schnelleffekt): Du kannst 1 Karte abwerfen; annulliere jenen Effekt. Du kannst jeden der vorangegangenen Effekte von „Buntäugiger Übersteuerungs-Drache“ nur einmal pro Spielzug verwenden. Falls du durch den ersten Effekt dieser Karte eine Pendelmonsterkarte zerstört hast, kannst du während deiner Main Phase in diesem Spielzug zusätzlich zu deiner Pendelbeschwörung 1 Pendelbeschwörung eines oder mehrerer „Künstlerkumpel“-Monster, „Magier“-Pendelmonster und/oder „Buntäugig“-Monster durchführen (du kannst diesen Effekt nur einmal pro Spielzug erhalten)."
-100269038,Buntäugiger Übersteuerungs-Drache,str1,Zerstören
-100269038,Buntäugiger Übersteuerungs-Drache,str2,Effekt annullieren
-100269038,Buntäugiger Übersteuerungs-Drache,str3,"Pendelbeschwörung mithilfe des Effekts von ""Buntäugiger Übersteuerungs-Drache"""
-100269113,Lunalicht Scharlachroter Tiger,name,Lunalicht Scharlachroter Tiger
-100269113,Lunalicht Scharlachroter Tiger,desc,"Falls du den Effekt eines „Lunalicht“-Monsters aktivierst (außer während des Damage Steps): Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören, dann, falls du diesen Effekt während des Spielzugs aktiviert hast, in dem dein Gegner eine Karte oder einen Effekt aktiviert hat, kannst du deiner Hand 1 „Polymerisation“ von deinem Deck oder Friedhof hinzufügen. Falls diese Karte durch einen Karteneffekt auf den Friedhof gelegt wird: Du kannst 1 „Lunalicht“-Monster als Spezialbeschwörung von deinem offenen Extra Deck oder aus deinem Friedhof beschwören, außer einem Monster der Stufe 5, aber seine Effekte können nicht aktiviert werden. Du kannst jeden Effekt von „Lunalicht Scharlachroter Tiger“ nur einmal pro Spielzug verwenden."
-100269113,Lunalicht Scharlachroter Tiger,str1,Als Spezialbeschwörung beschwören
-100269113,Lunalicht Scharlachroter Tiger,str2,Als Spezialbeschwörung beschwören
-100269113,Lunalicht Scharlachroter Tiger,str3,"""Polymerisation"" deiner Hand hinzufügen?"
-100269113,Lunalicht Scharlachroter Tiger,str4,"Als Spezialbeschwörung durch den Effekt von ""Lunalicht Scharlachroter Tiger"" beschworen"
-100269215,Geschwindigkeitsroid Darumaklopfer,name,Geschwindigkeitsroid Darumaklopfer
-100269215,Geschwindigkeitsroid Darumaklopfer,desc,"Falls sich diese Karte in deiner Hand befindet: Du kannst 1 „Geschwindigkeitsroid“-Karte von deinem Deck auf den Friedhof legen, außer „Geschwindigkeitsroid Darumaklopfer“; beschwöre diese Karte als Spezialbeschwörung, außerdem kannst du für den Rest dieses Spielzugs keine Monster als Spezialbeschwörung beschwören, außer WIND Monstern. Falls diese Karte vom Spielfeld auf den Friedhof gelegt wird: Du kannst 1 „Geschwindigkeitsroid“-Zauber-/Fallenkarte von deinem Deck deiner Hand hinzufügen, dann, falls du ein „Glasflügel“-Monster kontrollierst, kannst du 1 Monster auf dem Spielfeld zerstören. Du kannst jeden Effekt von „Geschwindigkeitsroid Darumaklopfer“ nur einmal pro Spielzug verwenden."
-100269215,Geschwindigkeitsroid Darumaklopfer,str1,Als Spezialbeschwörung beschwören
-100269215,Geschwindigkeitsroid Darumaklopfer,str2,Der Hand hinzufügen
-100269215,Geschwindigkeitsroid Darumaklopfer,str3,Dieses Monster zerstören?
 101306281,"Audhumla, Ahnherr der gefrorenen Weite",name,"Audhumla, Ahnherr der gefrorenen Weite"
 101306281,"Audhumla, Ahnherr der gefrorenen Weite",desc,"Falls 4 oder mehr Karten auf dem Spielfeld liegen: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Du kannst bis zu 2 Zauber-/Fallenkarten, die du kontrollierst, auf den Friedhof legen; ziehe so viele Karten, dann kannst du 1 WASSER Monster als Spezialbeschwörung von deiner Hand beschwören. Wenn dein Gegner eine Karte oder einen Effekt aktiviert (Schnelleffekt): Du kannst diese Karte in die verdeckte Verteidigungsposition ändern, zusätzlich können für den Rest dieses Spielzugs alle verdeckten Karten, die du kontrollierst, nicht durch Karteneffekte deines Gegners zerstört werden und dein Gegner kann sie nicht als Ziel für Karteneffekte wählen. Du kannst jeden Effekt von „Audhumla, Ahnherr der gefrorenen Weite“ nur einmal pro Spielzug verwenden."
 101306281,"Audhumla, Ahnherr der gefrorenen Weite",str1,Als Spezialbeschwörung beschwören
