@@ -157,6 +157,16 @@ Se este card é Invocado por Invocação-Xyz, ou um ou mais monstros é Invocado
 Toda vez que seu oponente faz um ou mais cards dele sair do Deck, exceto por compra-los: você pode associar o card do topo do Deck dele neste card."
 100267023,Raise Moon Hope Squeeze - Jackpot,str2,Retornar ao Deck
 100267023,Raise Moon Hope Squeeze - Jackpot,str3,Associar Matéria Xyz
+100267024,As Estrelas de Raise Moon,name,As Estrelas de Raise Moon
+100267024,As Estrelas de Raise Moon,desc,"Coloque 1 card ""Raise Moon"" do seu Deck no topo do Deck, exceto ""As Estrelas de Raise Moon"", mas pelo resto deste turno, você não pode colocar outro card com o mesmo nome com este efeito deste card, também nenhum jogador pode adicionar cards do Deck à mão depois de ativar este efeito, exceto por compra-los.
+Você pode banir este card do seu Cemitério, então ative 1 desses efeitos;
+● Cada jogador compra 1 card.
+● Se você controla um Monstro Xyz ""Raise Moon"" Mago: compre 1 card."
+100267024,As Estrelas de Raise Moon,str1,Ativar
+100267024,As Estrelas de Raise Moon,str2,Comprar
+100267024,As Estrelas de Raise Moon,str3,Escolha o card a ser colocada no topo do Deck
+100267024,As Estrelas de Raise Moon,str4,Ambos jogadores compram
+100267024,As Estrelas de Raise Moon,str5,Comprar um card
 100267025,"""Raise Moon"", a Cidade que Nunca Dorme",name,"""Raise Moon"", a Cidade que Nunca Dorme"
 100267025,"""Raise Moon"", a Cidade que Nunca Dorme",desc,"A primeira vez que cada monstro ""Raise Moon"" de Nível 7 que você controla seria destruído por efeito cada turno, ele não é destruído.
 Uma vez por turno, durante a Fase Final: embaralhe todos os cards ""Raise Moon"" do seu Cemitério e banimento no Deck.
