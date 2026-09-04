@@ -36,12 +36,12 @@ id,name,field,value
 100267005,Zenetmes Nekhbet,str2,Special Summon
 100267005,Zenetmes Nekhbet,str3,Special Summon?
 100267006,Pere-Zenet Em Heru,name,Pere-Zenet Em Heru
-100267006,Pere-Zenet Em Heru,desc,"Once per turn: You can Ritual Summon 1 ""Zenet"" Ritual Monster from your hand or GY, by sending Normal Monster Cards with different names from each other from your hand, Deck, and/or face-up field to the GY whose total Levels equal or exceed its Level, then you can equip 1 Normal Monster from your GY to it as an Equip Spell. If you Special Summon a non-Token Normal Monster(s): You can draw 1 card. You can only use this effect of ""Pere-Zenet Em Heru"" once per turn."
+100267006,Pere-Zenet Em Heru,desc,"Once per turn: You can Ritual Summon 1 ""Zenet"" Ritual Monster from your hand or GY, by sending Normal Monster Cards with different names from each other from your hand, Deck, and/or face-up field to the GY whose total Levels equal or exceed its Level, then you can equip 1 Normal Monster from your GY to it as an Equip Spell. If you Special Summon a non-Token Normal Monster(s) (except during the Damage Step): You can draw 1 card. You can only use this effect of ""Pere-Zenet Em Heru"" once per turn."
 100267006,Pere-Zenet Em Heru,str1,Ritual Summon
 100267006,Pere-Zenet Em Heru,str2,Draw
 100267006,Pere-Zenet Em Heru,str3,Equip?
 100267007,Zenet Per Akh,name,Zenet Per Akh
-100267007,Zenet Per Akh,desc,"Add 1 ""Zenet"" monster from your Deck to your hand. If you discard a ""Zenet"" Ritual Monster(s) while this card is in your GY: You can banish this card; Special Summon 1 non-Effect Fusion Monster from your Extra Deck with ATK less than or equal to any of the discarded monsters' as a Normal Monster Card, but for the rest of this turn, it cannot attack directly, also you cannot activate non-Zombie monster effects. You can only use each effect of ""Zenet Per Akh"" once per turn."
+100267007,Zenet Per Akh,desc,"Add 1 ""Zenet"" monster from your Deck to your hand. If you discard a ""Zenet"" Ritual Monster(s) while this card is in your GY (except during the Damage Step): You can banish this card; Special Summon 1 non-Effect Fusion Monster from your Extra Deck with ATK less than or equal to any of the discarded monsters' as a Normal Monster Card, but for the rest of this turn, it cannot attack directly, also you cannot activate non-Zombie monster effects. You can only use each effect of ""Zenet Per Akh"" once per turn."
 100267007,Zenet Per Akh,str1,Add to hand
 100267007,Zenet Per Akh,str2,Special Summon
 100267007,Zenet Per Akh,str3,Treat as a Normal Monster Card
@@ -110,7 +110,7 @@ Cannot be used as material for a Fusion, Xyz, or Link Summon. If this card in yo
 100267022,"Cielo, the Night Sky of Raise Moon - No More Bets!",str4,Draw
 100267023,Raise Moon Hope Squeeze - Jackpot,name,Raise Moon Hope Squeeze - Jackpot
 100267023,Raise Moon Hope Squeeze - Jackpot,desc,"2+ Level 7 monsters
-Your opponent's monsters cannot target monsters for attacks, except this one. If this card is Xyz Summoned, or a monster(s) is Special Summoned from the hand: You can detach any number of materials from this card; place that many cards your opponent controls on the bottom of the Deck in any order. You can only use this effect of ""Raise Moon Hope Squeeze - Jackpot"" once per turn. Each time your opponent makes a card(s) leave their Deck, except by drawing them: You can attach the top card of their Deck to this card."
+Your opponent's monsters cannot target monsters for attacks, except this one. If this card is Xyz Summoned, or a monster(s) is Special Summoned from the hand: You can detach any number of materials from this card; place that many cards your opponent controls on the bottom of the Deck in any order. You can only use this effect of ""Raise Moon Hope Squeeze - Jackpot"" once per turn. Each time your opponent makes a card(s) leave their Deck, except by drawing them (except during the Damage Step): You can attach the top card of their Deck to this card."
 100267023,Raise Moon Hope Squeeze - Jackpot,str2,Return to the Deck
 100267023,Raise Moon Hope Squeeze - Jackpot,str3,Attach Xyz material
 100267024,The Stars of Raise Moon,name,The Stars of Raise Moon
@@ -153,7 +153,7 @@ Your opponent's monsters cannot target monsters for attacks, except this one. If
 100267033,Xenovader△ of Blue Tuonela,str2,Banish
 100267033,Xenovader△ of Blue Tuonela,str3,Special Summon
 100267034,Xenovader△ of Scarlet Naraka,name,Xenovader△ of Scarlet Naraka
-100267034,Xenovader△ of Scarlet Naraka,desc,"If this card is Normal or Special Summoned: Banish (face-down) the top 4 cards of your Deck. You can only use each of the following effects of ""Xenovader△ of Scarlet Naraka"" once per turn. If your opponent Special Summons a monster(s): You can Special Summon this card from your hand. During your opponent's Main Phase (Quick Effect): You can Special Summon 1 of your face-down banished Level 5 or higher ""Xenovader△"" monsters, also you cannot activate cards or effects for the rest of this turn, except ""Xenovader△"" cards or effects."
+100267034,Xenovader△ of Scarlet Naraka,desc,"If this card is Normal or Special Summoned: Banish (face-down) the top 4 cards of your Deck. You can only use each of the following effects of ""Xenovader△ of Scarlet Naraka"" once per turn. If your opponent Special Summons a monster(s) (except during the Damage Step): You can Special Summon this card from your hand. During your opponent's Main Phase (Quick Effect): You can Special Summon 1 of your face-down banished Level 5 or higher ""Xenovader△"" monsters, also you cannot activate cards or effects for the rest of this turn, except ""Xenovader△"" cards or effects."
 100267034,Xenovader△ of Scarlet Naraka,str1,Special Summon
 100267034,Xenovader△ of Scarlet Naraka,str2,Banish
 100267034,Xenovader△ of Scarlet Naraka,str3,Special Summon
@@ -191,7 +191,7 @@ Your opponent's monsters cannot target monsters for attacks, except this one. If
 100267040,Trirealm Rift Gospel,str2,Summoned by the effect of {CARD}
 100267040,Trirealm Rift Gospel,str3,Special Summon
 100267041,Xenovader△ Judgment,name,Xenovader△ Judgment
-100267041,Xenovader△ Judgment,desc,"If your opponent Normal or Special Summons a monster(s): You can target 1 of them; choose 1 of your face-down banished ""Xenovader△"" monsters with the same Attribute, and either add it to your hand or Special Summon it, also for the rest of this turn, you cannot choose the same Attribute again with this effect of ""Xenovader△ Judgment"", and you cannot activate cards or effects, except ""Xenovader△"" cards or effects. Once per battle, during damage calculation, if your ""Xenovader△"" monster battles an opponent's monster and you have no cards in your Deck: You can make that opponent's monster's ATK become 0."
+100267041,Xenovader△ Judgment,desc,"If your opponent Normal or Special Summons a monster(s) (except during the Damage Step): You can target 1 of them; choose 1 of your face-down banished ""Xenovader△"" monsters with the same Attribute, and either add it to your hand or Special Summon it, also for the rest of this turn, you cannot choose the same Attribute again with this effect of ""Xenovader△ Judgment"", and you cannot activate cards or effects, except ""Xenovader△"" cards or effects. Once per battle, during damage calculation, if your ""Xenovader△"" monster battles an opponent's monster and you have no cards in your Deck: You can make that opponent's monster's ATK become 0."
 100267041,Xenovader△ Judgment,str1,Recycle
 100267041,Xenovader△ Judgment,str2,ATK becomes 0
 100268004,"Blue-Eyes Ultimate Dragon, the God-Surpassing Servant",name,"Blue-Eyes Ultimate Dragon, the God-Surpassing Servant"
