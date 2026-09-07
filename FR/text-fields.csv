@@ -19,6 +19,13 @@ Si vous avez activé ""Réincarnation d'Armement"" ce tour : vous pouvez ajouter
 Vous ne pouvez utiliser chaque effet de ""Connexion de Puissance"" qu'une fois par tour."
 100200294,Connexion de Puissance,str1,Activer
 100200294,Connexion de Puissance,str2,Recycler
+100200297,装甲魔导士 帕智,name,装甲魔导士 帕智
+100200297,装甲魔导士 帕智,desc,"这个卡名的①的效果1回合只能使用1次。
+①：这张卡在手卡·墓地存在的场合，以自己场上1只表侧表示怪兽为对象才能发动。这张卡当作持有以下效果的装备魔法卡使用给那只怪兽装备。
+●只要自己的基本分在4000以下，装备怪兽的攻击力·守备力上升2100。
+●对方发动的卡的效果的处理时，持有掷骰子效果的卡在自己场上存在的场合，可以把那个发动的效果无效。那之后，这张卡除外。"
+100200297,装甲魔导士 帕智,str1,Équiper
+100200297,装甲魔导士 帕智,str3,是否把效果无效？（装甲魔导士 帕智）
 100267001,Prophète Sennet - Néfertari,name,Prophète Sennet - Néfertari
 100267001,Prophète Sennet - Néfertari,desc,"Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez l'envoyer au Cimetière ; montrez max. 2 Cartes Monstre Normal depuis votre main, Deck, Terrain face recto et/ou Cimetière, puis Posez autant de Magies ""Sennet"" depuis votre Deck.
 Durant le tour de votre adversaire (Effet Rapide) : vous pouvez bannir cette carte depuis votre Cimetière ; équipez 1 Monstre Normal depuis votre Cimetière à 1 Monstre Rituel que vous contrôlez comme Magie d'Équipement.
@@ -79,6 +86,7 @@ Vous ne pouvez utiliser chaque effet de ""Sennet Per Akh"" qu'une fois par tour.
 Vous ne pouvez activer qu'1 ""Un Voyage de Retour vers la Lumière - ""Zenet"""" par tour."
 100267008,"Un Voyage de Retour vers la Lumière - ""Zenet""",str1,Activer
 100267008,"Un Voyage de Retour vers la Lumière - ""Zenet""",str2,Piocher 1 carte ?
+100267008,"Un Voyage de Retour vers la Lumière - ""Zenet""",str3,Traiter comme une Carte Monstre Normal
 100267009,Am Duasennet,name,Am Duasennet
 100267009,Am Duasennet,desc,"Invoquez Rituellement 1 Monstre Rituel ""Sennet"" depuis votre main ou Cimetière, en envoyant des Cartes Monstre Normal de noms différents les unes des autres depuis votre main, Deck et/ou Terrain face recto au Cimetière dont la somme des Niveaux est supérieure ou égale à son Niveau, puis vous pouvez lui équiper 1 Monstre Normal depuis votre Cimetière comme Magie d'Équipement.
 Si une ou plusieurs Cartes Monstre Normal que vous contrôlez vont être détruites au combat ou par un effet de carte, vous pouvez bannir cette carte depuis votre Cimetière à la place.
@@ -146,6 +154,7 @@ Vous ne pouvez utiliser cet effet de ""Croucier, Lampe de Lune Relancée"" qu'un
 ● Vous ne pouvez pas Invoquer Spécialement depuis l'Extra Deck (Monstres Xyz de Rang 7 exclus) jusqu'à la fin du prochain tour, et aussi, ce tour, chaque fois qu'une ou plusieurs cartes sont ajoutées à la main de votre adversaire, sauf en les piochant, piochez immédiatement 1 carte.
 ● Piochez 1 carte.
 Vous ne pouvez pas ajouter de cartes depuis le Deck à la main durant le Duel où vous activez cet effet, sauf en les piochant."
+100267021,"Squeeze, Démarreur de Lune Relancée",str1,Activer
 100267021,"Squeeze, Démarreur de Lune Relancée",str2,Pioche continue
 100267021,"Squeeze, Démarreur de Lune Relancée",str3,Piochez 1 carte(s)
 100267021,"Squeeze, Démarreur de Lune Relancée",str4,"Vous ne pouvez pas chercher dans votre Deck tant que l'effet de ""Squeeze, Démarreur de Lune Relancée"" est appliqué."
