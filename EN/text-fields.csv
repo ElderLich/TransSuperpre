@@ -12,6 +12,13 @@ id,name,field,value
 100200294,Power Connection,desc,"Target any number of face-up monsters you control (if you target 2 or more monsters, they must have the same Type); they gain 500 ATK for each monster targeted, until the end of this turn. If you activated ""Armament Reincarnation"" this turn: You can add this card from your GY to your hand. You can only use each effect of ""Power Connection"" once per turn."
 100200294,Power Connection,str1,Activate
 100200294,Power Connection,str2,Recycle
+100200297,Armor Wizard Pazoo,name,Armor Wizard Pazoo
+100200297,Armor Wizard Pazoo,desc,"(This card is always treated as a ""Prophecy"" card.)
+If this card is in your hand or GY: You can target 1 face-up monster you control; equip this card to it as an Equip Spell with the following effects. You can only use this effect of ""Armor Wizard Pazoo"" once per turn.
+● The equipped monster gains 2100 ATK/DEF while your LP are 4000 or less.
+● When a card or effect activated by your opponent resolves, if you control a card with an effect that requires a die roll, you can negate the activated effect, then banish this card."
+100200297,Armor Wizard Pazoo,str1,Equip
+100200297,Armor Wizard Pazoo,str3,是否把效果无效？（装甲魔导士 帕智）
 100267001,Zenet Prophet - Nefertari,name,Zenet Prophet - Nefertari
 100267001,Zenet Prophet - Nefertari,desc,"If this card is Normal or Special Summoned: You can send it to the GY; show up to 2 Normal Monster Cards from your hand, Deck, face-up field, and/or GY, then Set that many ""Zenet"" Spells from your Deck. During your opponent's turn (Quick Effect): You can banish this card from your GY; equip 1 Normal Monster from your GY to 1 Ritual Monster you control as an Equip Spell. You can only use each effect of ""Zenet Prophet - Nefertari"" once per turn."
 100267001,Zenet Prophet - Nefertari,str1,Set
@@ -52,12 +59,13 @@ id,name,field,value
 You can only activate 1 ""A Journey Back to the Light - ""Zenet"""" per turn."
 100267008,"A Journey Back to the Light - ""Zenet""",str1,Activate
 100267008,"A Journey Back to the Light - ""Zenet""",str2,Draw a card?
+100267008,"A Journey Back to the Light - ""Zenet""",str3,Treat as a Normal Monster Card
 100267009,Am Duazenet,name,Am Duazenet
 100267009,Am Duazenet,desc,"Ritual Summon 1 ""Zenet"" Ritual Monster from your hand or GY, by sending Normal Monster Cards with different names from each other from your hand, Deck, and/or face-up field to the GY whose total Levels equal or exceed its Level, then you can equip 1 Normal Monster from your GY to it as an Equip Spell. If a Normal Monster Card(s) you control would be destroyed by battle or card effect, you can banish this card from your GY instead. You can only activate 1 ""Am Duazenet"" per turn."
 100267009,Am Duazenet,str1,Ritual Summon
 100267009,Am Duazenet,str3,Equip?
 100267010,Zenet Cataract,name,Zenet Cataract
-100267010,Zenet Cataract,desc,"Choose opponent's Main Monster Zones equal to the number of Normal Monsters and ""Zenet"" Ritual Monsters you control; negate the first monster effect activated in each of those zones that resolves this turn. If the total ATK of all Normal Monster Cards you control is more than 3000: You can banish this card from your GY, then target 1 monster your opponent controls; send it to the GY. You can only use each effect of ""Zenet Cataract"" once per turn."
+100267010,Zenet Cataract,desc,"Choose opponent's Main Monster Zones equal to the number of Normal Monsters and ""Zenet"" Ritual Monsters you control; negate the first activated monster effect that resolves in each of those zones this turn. If the total ATK of all Normal Monster Cards you control is more than 3000: You can banish this card from your GY, then target 1 monster your opponent controls; send it to the GY. You can only use each effect of ""Zenet Cataract"" once per turn."
 100267010,Zenet Cataract,str1,Select a zone
 100267010,Zenet Cataract,str2,Send to the GY
 100267010,Zenet Cataract,str3,Continue selecting?
@@ -95,6 +103,7 @@ You can only activate 1 ""A Journey Back to the Light - ""Zenet"""" per turn."
 ● You cannot Special Summon from the Extra Deck until the end of the next turn, except Rank 7 Xyz Monsters, also this turn, each time a card(s) is added to your opponent's hand, except by drawing it, immediately draw 1 card.
 ● Draw 1 card.
 You cannot add cards from the Deck to the hand during the Duel you activate this effect, except by drawing them."
+100267021,Raise Moon Starter Squeeze,str1,Activate
 100267021,Raise Moon Starter Squeeze,str2,Continuous draw
 100267021,Raise Moon Starter Squeeze,str3,Draw 1 card(s)
 100267021,Raise Moon Starter Squeeze,str4,"You cannot search your Deck while ""Raise Moon Starter Squeeze""'s effect is being applied."
