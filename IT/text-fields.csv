@@ -18,6 +18,13 @@ Se hai attivato ""Reincarnazione dell'Armamento"" in questo turno: Puoi aggiunge
 Puoi utilizzare ciascun effetto di ""Connessione Potente"" una sola volta per turno."
 100200294,Connessione Potente,str1,Attiva
 100200294,Connessione Potente,str2,Recuperare
+100200297,装甲魔导士 帕智,name,装甲魔导士 帕智
+100200297,装甲魔导士 帕智,desc,"这个卡名的①的效果1回合只能使用1次。
+①：这张卡在手卡·墓地存在的场合，以自己场上1只表侧表示怪兽为对象才能发动。这张卡当作持有以下效果的装备魔法卡使用给那只怪兽装备。
+●只要自己的基本分在4000以下，装备怪兽的攻击力·守备力上升2100。
+●对方发动的卡的效果的处理时，持有掷骰子效果的卡在自己场上存在的场合，可以把那个发动的效果无效。那之后，这张卡除外。"
+100200297,装甲魔导士 帕智,str1,Equipaggiare
+100200297,装甲魔导士 帕智,str3,是否把效果无效？（装甲魔导士 帕智）
 100267001,Profeta Zenet - Nefertari,name,Profeta Zenet - Nefertari
 100267001,Profeta Zenet - Nefertari,desc,"Se questa carta viene Evocata Normalmente o Specialmente: puoi mandarla al Cimitero; mostra fino a 2 Carte Mostro Normale dalla tua mano, Deck, Terreno scoperto e/o Cimitero, poi Posiziona altrettante Magie ""Zenet"" dal tuo Deck.
 Durante il turno del tuo avversario (Effetto Rapido): puoi bandire questa carta dal tuo Cimitero; equipaggia 1 Mostro Normale dal tuo Cimitero a 1 Mostro Rituale che controlli come Magia Equipaggiamento.
@@ -78,6 +85,7 @@ Puoi utilizzare ogni effetto di ""Zenet Per Akh"" una sola volta per turno."
 Puoi attivare solo 1 ""Viaggio di Ritorno alla Luce Zenet"" per turno."
 100267008,Viaggio di Ritorno alla Luce Zenet,str1,Attiva
 100267008,Viaggio di Ritorno alla Luce Zenet,str2,Pescare 1 carta?
+100267008,Viaggio di Ritorno alla Luce Zenet,str3,Trattare come una Carta Mostro Normale
 100267009,Am Duazenet,name,Am Duazenet
 100267009,Am Duazenet,desc,"Evoca tramite Rituale 1 Mostro Rituale ""Zenet"" dalla tua mano o Cimitero, mandando al Cimitero Carte Mostro Normale con nomi diversi tra loro dalla tua mano, Deck e/o Terreno scoperto i cui Livelli totali siano pari o superiori al suo Livello, poi puoi equipaggiare ad esso 1 Mostro Normale dal tuo Cimitero come Magia Equipaggiamento.
 Se una o più Carte Mostro Normale che controlli stanno per essere distrutte in battaglia o dall'effetto di una carta, puoi bandire invece questa carta dal tuo Cimitero.
@@ -138,6 +146,7 @@ Puoi scartare questa carta; pesca 1 carta. Non puoi aggiungere carte dal Deck al
 ● Non puoi Evocare Specialmente dall'Extra Deck fino alla fine del prossimo turno, eccetto Mostri Xyz di Rango 7, inoltre, durante questo turno, ogni volta che una o più carte vengono aggiunte alla mano del tuo avversario, eccetto pescandole, pesca immediatamente 1 carta.
 ● Pesca 1 carta.
 Non puoi aggiungere carte dal Deck alla mano durante il Duello in cui attivi questo effetto, eccetto pescandole."
+100267021,"Squeeze, Iniziatore del Rilancio Lunare",str1,Attiva
 100267021,"Squeeze, Iniziatore del Rilancio Lunare",str2,Pesca continua
 100267021,"Squeeze, Iniziatore del Rilancio Lunare",str3,Pesca 1 carta(e)
 100267021,"Squeeze, Iniziatore del Rilancio Lunare",str4,"Mentre si applica l'effetto di ""Squeeze, Iniziatore del Rilancio Lunare"", non puoi cercare nel tuo Deck."
