@@ -7,6 +7,10 @@ Se um ou mais monstros Besta-Guerreiro for Invocado por Invocação-Normal ou Es
 100200294,Conexão Poderosa,"Escolha qualquer número de monstros com a face para cima que você controla (se você escolher 2 ou mais monstros, eles devem ter o mesmo Tipo); eles ganham 500 de ATK para cada monstro escolhido, até o final deste turno.
 Se você ativou ""Armamento da Reencarnação"" neste turno: você pode adicionar este card do seu Cemitério  à sua mão.
 Você só pode usar cada um dos efeitos de ""Conexão Poderosa"" uma vez por turno.",Ativar,Recuperar,,,,,,,,,,,,,,
+100200297,装甲魔导士 帕智,"这个卡名的①的效果1回合只能使用1次。
+①：这张卡在手卡·墓地存在的场合，以自己场上1只表侧表示怪兽为对象才能发动。这张卡当作持有以下效果的装备魔法卡使用给那只怪兽装备。
+●只要自己的基本分在4000以下，装备怪兽的攻击力·守备力上升2100。
+●对方发动的卡的效果的处理时，持有掷骰子效果的卡在自己场上存在的场合，可以把那个发动的效果无效。那之后，这张卡除外。",Equipar,,是否把效果无效？（装甲魔导士 帕智）,,,,,,,,,,,,,
 100267001,Profeta Sennet - Nefertari,"Se este card é Invocado por Invocação-Normal ou Especial: você pode envia-lo para o Cemitério; mostre até 2 Cards de Monstros Normais da sua mão, Deck, campo com a face para cima, e/ou Cemitério, então Baixe aquela quantia de Magias ""Sennet"" do seu Deck.
 Durante o turno do seu oponente (Efeito Rápido): você pode banir este card do seu Cemitério; Equipe 1 Monstro Normal do seu Cemitério à 1 Monstro Ritual que você controla como uma Magia de Equipamento.
 Você só pode usar cada um dos efeitos de ""Profeta Sennet - Nefertari"" uma vez por turno.",Baixar,Estado,,,,,,,,,,,,,,
@@ -36,7 +40,7 @@ Você só pode usar cada um dos efeitos de ""Sennet Per Akh"" uma vez por turno.
 100267008,"Uma Jornada de Volta à Luz - ""Zenet""","Mostre 2 ou 3 Cards de Monstro Normal na sua mão, Deck, com a face para cima no campo, e/ou Cemitério, então aplique o efeito apropriado baseado no número mostrado, então se você mostrou um ou mais cards na sua mão, você pode comprar 1 card.
 ● 2: Invoque por Invocação-Especial 1 Monstro Fusão não-Efeito de Nível 8 ou menor do seu Deck Adicional como um Card de Monstro normal.
 ● 3: Invoque por Invocação-Especial 1 monstro ""Zenet"" do seu Deck ou 1 Monstro Normal do seu Cemitério.
-Você só pode ativar 1 ""Uma Jornada de Volta à Luz - ""Zenet"""" por turno.",Ativar,Comprar 1 card?,,,,,,,,,,,,,,
+Você só pode ativar 1 ""Uma Jornada de Volta à Luz - ""Zenet"""" por turno.",Ativar,Comprar 1 card?,Tratar como um Card de Monstro Normal,,,,,,,,,,,,,
 100267009,Am Duasennet,"Invoque por Invocação-Ritual 1 Monstro Ritual ""Sennet"" da sua mão ou Cemitério, enviando Cards de Monstros Normais com nomes diferentes dentre eles da sua mão, Deck, e/ou campo com a face para cima ao Cemitério cujo Níveis totais sejam igual ou excedente do seu Nível, então você pode equipar 1 Monstro Normal do seu Cemitério nele como uma Magia de Equipamento.
 Se um ou mais Cards de Monstro Normal que você controla seriam destruídos por batalha ou efeito, em vez disso você pode banir este card do seu Cemitério.
 Você só pode ativar 1 ""Am Duasennet"" por turno.",Invocação Ritual,,Equipar?,,,,,,,,,,,,,
@@ -64,7 +68,7 @@ Você pode descartar este card; compre 1 card. Você não pode adicionar cards d
 100267021,Raise Moon Starter Squeeze,"(Efeito Rápido): você pode descartar este card, então ative 1 desses efeitos (mas você só pode usar cada um desses efeitos de ""Raise Moon Starter Squeeze"" uma vez por turno);
 ● Você não pode Invocar por Invocação-Especial do Deck Adicional até o final do próximo turno, exceto Monstros Xyz de Classe 7, também neste turno, cada vez que um ou mais cards é adicionado a mão do seu oponente, exceto por compra-lo, imediatamente compre 1 card.
 ● Compre 1 card.
-Você não pode adicionar cards do Deck à mão durante o Duelo que você ativa este efeito, exceto por compra-los.",,Compra contínua,Compre 1 card(s),"Enquanto o efeito de ""Raise Moon Starter Squeeze"" estiver sendo aplicado, você não pode procurar no seu Deck.","Enquanto o efeito de ""Raise Moon Starter Squeeze"" estiver sendo aplicado, você não pode Invocar por Invocação-Especial.",,,,,,,,,,,
+Você não pode adicionar cards do Deck à mão durante o Duelo que você ativa este efeito, exceto por compra-los.",Ativar,Compra contínua,Compre 1 card(s),"Enquanto o efeito de ""Raise Moon Starter Squeeze"" estiver sendo aplicado, você não pode procurar no seu Deck.","Enquanto o efeito de ""Raise Moon Starter Squeeze"" estiver sendo aplicado, você não pode Invocar por Invocação-Especial.",,,,,,,,,,,
 100267022,Raise Moon Sky Cielo - No More Bets,"2 monstros ""Raise Moon"" de Classe 7
 Não pode ser usado como matéria para Invocação-Fusão, Xyz ou Link.
 Se este card na sua posse é enviado para o Cemitério por um efeito do oponente: você pode comprar 1 card.
