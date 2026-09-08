@@ -18,13 +18,13 @@ Se hai attivato ""Reincarnazione dell'Armamento"" in questo turno: Puoi aggiunge
 Puoi utilizzare ciascun effetto di ""Connessione Potente"" una sola volta per turno."
 100200294,Connessione Potente,str1,Attiva
 100200294,Connessione Potente,str2,Recuperare
-100200297,装甲魔导士 帕智,name,装甲魔导士 帕智
-100200297,装甲魔导士 帕智,desc,"这个卡名的①的效果1回合只能使用1次。
-①：这张卡在手卡·墓地存在的场合，以自己场上1只表侧表示怪兽为对象才能发动。这张卡当作持有以下效果的装备魔法卡使用给那只怪兽装备。
-●只要自己的基本分在4000以下，装备怪兽的攻击力·守备力上升2100。
-●对方发动的卡的效果的处理时，持有掷骰子效果的卡在自己场上存在的场合，可以把那个发动的效果无效。那之后，这张卡除外。"
-100200297,装甲魔导士 帕智,str1,Equipaggiare
-100200297,装甲魔导士 帕智,str3,是否把效果无效？（装甲魔导士 帕智）
+100200297,Mago Corazzato Pazoo,name,Mago Corazzato Pazoo
+100200297,Mago Corazzato Pazoo,desc,"(Questa carta viene sempre considerata una carta ""Profezia"".)
+Se questa carta è nella tua mano o Cimitero: puoi scegliere come bersaglio 1 mostro scoperto che controlli; equipaggia questa carta a quel mostro come una Magia Equipaggiamento con i seguenti effetti. Puoi utilizzare questo effetto di ""Mago Corazzato Pazoo"" una sola volta per turno.
+● Il mostro equipaggiato guadagna 2100 ATK/DEF mentre i tuoi LP sono 4000 o meno.
+● Quando una carta o un effetto attivato dal tuo avversario si risolve, se controlli una carta con un effetto che richiede un tiro di dado, puoi annullare l'effetto attivato, poi bandire questa carta."
+100200297,Mago Corazzato Pazoo,str1,Equipaggiare
+100200297,Mago Corazzato Pazoo,str3,"Annullare l'effetto? (""Mago Corazzato Pazoo"")"
 100267001,Profeta Zenet - Nefertari,name,Profeta Zenet - Nefertari
 100267001,Profeta Zenet - Nefertari,desc,"Se questa carta viene Evocata Normalmente o Specialmente: puoi mandarla al Cimitero; mostra fino a 2 Carte Mostro Normale dalla tua mano, Deck, Terreno scoperto e/o Cimitero, poi Posiziona altrettante Magie ""Zenet"" dal tuo Deck.
 Durante il turno del tuo avversario (Effetto Rapido): puoi bandire questa carta dal tuo Cimitero; equipaggia 1 Mostro Normale dal tuo Cimitero a 1 Mostro Rituale che controlli come Magia Equipaggiamento.
@@ -271,7 +271,7 @@ Mentre controlli un mostro ""Fenditura dei Tre Regni"" di Livello 5 o superiore 
 Durante la tua Main Phase, puoi Evocare Normalmente 1 mostro ""Fenditura dei Tre Regni"", in aggiunta alla tua Evocazione Normalmente/Posizionamento (puoi ottenere questo effetto una sola volta per turno).
 Durante la tua Main Phase: puoi bandire coperto 1 mostro ""Fenditura dei Tre Regni"" che controlli con Livello originale 4 o inferiore e, se lo fai, Evoca Specialmente 1 tuo mostro ""Fenditura dei Tre Regni"" di Livello 5 o superiore bandito coperto. Puoi utilizzare questo effetto di ""Vangelo della Fenditura dei Tre Regni"" una sola volta per turno."
 100267040,Vangelo della Fenditura dei Tre Regni,str1,Bandire carte dal Cimitero per attivare?
-100267040,Vangelo della Fenditura dei Tre Regni,str2,Evocare tramite l'effetto di {CARD}
+100267040,Vangelo della Fenditura dei Tre Regni,str2,"Evocare tramite l'effetto di ""Vangelo della Fenditura dei Tre Regni"""
 100267040,Vangelo della Fenditura dei Tre Regni,str3,Evocazione Speciale
 100267041,Giudizio Fenditura dei Tre Regni,name,Giudizio Fenditura dei Tre Regni
 100267041,Giudizio Fenditura dei Tre Regni,desc,"Se il tuo avversario Evoca Normalmente o Specialmente uno o più mostri: puoi scegliere come bersaglio 1 di essi; scegli 1 dei tuoi mostri ""Fenditura dei Tre Regni"" banditi coperti con lo stesso Attributo, poi aggiungilo alla tua mano oppure Evocalo Specialmente, inoltre, per il resto di questo turno, non puoi scegliere nuovamente lo stesso Attributo con questo effetto di ""Giudizio Fenditura dei Tre Regni"" e non puoi attivare carte o effetti, eccetto carte o effetti ""Fenditura dei Tre Regni"".
@@ -350,6 +350,80 @@ Puoi attivare solo 1 ""Supercritico"" per turno."
 100268015,Supercritico,str4,Distruggi un mostro
 100268015,Supercritico,str5,Distruggere un mostro e annullare gli effetti di un altro mostro
 100268015,Supercritico,str6,Evocazione Speciale
+100268016,Bonus di Potenza del Terreno,name,Bonus di Potenza del Terreno
+100268016,Bonus di Potenza del Terreno,desc,"Se uno o più mostri vengono Evocati Normalmente o Specialmente e ci sono un più mostri sul Terreno con lo stesso Tipo: quei mostri Evocati guadagnano 1000 ATK/DEF.
+Se questa carta viene distrutta: annulla gli effetti di tutti i mostri scoperti attualmente sul Terreno, inoltre i loro ATK/DEF diventano i loro ATK/DEF originali.
+Una volta per turno, durante la Standby Phase, se questa carta è nel tuo Cimitero e non ci sono carte nelle Zone Terreno: puoi mettere questa carta scoperta sul tuo Terreno."
+100268016,Bonus di Potenza del Terreno,str1,Aumentare ATK
+100268016,Bonus di Potenza del Terreno,str2,Annullare
+100268016,Bonus di Potenza del Terreno,str3,Posiziona
+100268017,Strategia Aromatica,name,Strategia Aromatica
+100268017,Strategia Aromatica,desc,"Una volta per turno: puoi dichiarare il nome di 1 carta; rivela la prima carta del tuo Deck e, se è la carta dichiarata, puoi applicare questo effetto in base al suo tipo di carta. Se non lo è, distruggi questa carta.
+● Mostro: Evocalo Specialmente.
+● Magia/Trappola: Posizionala.
+Se questa carta viene distrutta dall'effetto di una carta: puoi Evocare Specialmente 1 mostro ""Arpia"" dal tuo Deck o Cimitero."
+100268017,Strategia Aromatica,str1,Attiva
+100268017,Strategia Aromatica,str2,Evocazione Speciale
+100268017,Strategia Aromatica,str3,Applicare l'effetto?
+100268018,Re di Yamimado,name,Re di Yamimado
+100268018,Re di Yamimado,desc,"Mentre controlli una carta coperta, questa carta non può essere distrutta dagli effetti delle carte del tuo avversario, inoltre il tuo avversario non può sceglierla come bersaglio con gli effetti delle carte.
+Puoi utilizzare ciascuno dei seguenti effetti di ""Re di Yamimado"" una sola volta per turno.
+Se questa carta è nella tua mano e ci sono 2 o più carte coperte e/o ""Yami"" sul Terreno: puoi Evocare Specialmente questa carta.
+Quando un mostro sul Terreno con ATK inferiore a quello di questa carta attiva il suo effetto o dichiara un attacco (Effetto Rapido): puoi distruggere quel mostro."
+100268018,Re di Yamimado,str1,Evocazione Speciale
+100268018,Re di Yamimado,str3,Distruggere
+100268019,Rigetto dell'Attributo,name,Rigetto dell'Attributo
+100268019,Rigetto dell'Attributo,desc,"Scegli come bersaglio 1 mostro scoperto controllato dal tuo avversario che è stato Evocato Specialmente dall'Extra Deck; manda 1 mostro OSCURITÀ o Zombie dalla tua mano, Deck o Terreno scoperto al Cimitero e, se lo fai, il mostro scelto come bersaglio perde ATK pari all'ATK originale del mostro mandato, poi, se il mostro scelto come bersaglio è LUCE, annulla i suoi effetti.
+Puoi attivare solo 1 ""Rigetto dell'Attributo"" per turno.
+Se questa carta è stata attivata come Anello 3 o più di una catena, il tuo avversario non può attivare carte o effetti in risposta all'attivazione di questa carta."
+100268019,Rigetto dell'Attributo,str1,Attiva
+100268020,Cavaliere delle Spade Gemelle,name,Cavaliere delle Spade Gemelle
+100268020,Cavaliere delle Spade Gemelle,desc,"Può effettuare fino a 2 attacchi su mostri durante ogni Battle Phase.
+Puoi utilizzare ciascuno dei seguenti effetti di ""Cavaliere delle Spade Gemelle"" una sola volta per turno.
+Se questa carta è nella tua mano e controlli una carta con un effetto che richiede un tiro di dado: puoi Evocare Specialmente questa carta.
+Durante la tua Main Phase: puoi tirare un dado a 6 facce 3 volte e, se lo fai, questa carta guadagna ATK pari al totale dei risultati x 350 (fino alla fine di questo turno), poi, se 2 o più dei risultati sono uguali, puoi Evocare Specialmente 1 mostro dalla tua mano."
+100268020,Cavaliere delle Spade Gemelle,str1,Evocazione Speciale
+100268020,Cavaliere delle Spade Gemelle,str2,Tirare un dado
+100268020,Cavaliere delle Spade Gemelle,str3,Evocare Specialmente un mostro?
+100268021,Spada della Forza Fulminea,name,Spada della Forza Fulminea
+100268021,Spada della Forza Fulminea,desc,"Bandisci, scoperta, 1 carta casuale dalla mano del tuo avversario (fino alla Standby Phase del prossimo turno), poi, se questa carta era Posizionata prima dell'attivazione e ha bandito un mostro, puoi applicare questo effetto in base al suo Livello.
+● 4 o inferiore: il tuo avversario bandisce tutti i mostri con lo stesso nome dalla sua mano, Deck e Cimitero.
+● 5 o superiore: aggiungi 1 mostro di Livello 5 o superiore con lo stesso Tipo, Attributo e/o Livello dal tuo Deck alla tua mano.
+Puoi attivare solo 1 ""Spada della Forza Fulminea"" per turno."
+100268021,Spada della Forza Fulminea,str1,Attiva
+100268021,Spada della Forza Fulminea,str2,"Bandita da ""Spada della Forza Fulminea"""
+100268021,Spada della Forza Fulminea,str3,Applicare l'effetto?
+100268022,Arcidemone di Gilfer - Attacco Fiammeggiante,name,Arcidemone di Gilfer - Attacco Fiammeggiante
+100268022,Arcidemone di Gilfer - Attacco Fiammeggiante,desc,"Durante la Main Phase (Effetto Rapido): puoi mandare questa carta dalla tua mano al Cimitero; pesca 1 carta, poi scarta 1 carta, inoltre tutti i mostri controllati dal tuo avversario perdono 500 ATK in questo turno.
+Quando un mostro viene distrutto in una battaglia che coinvolge il tuo mostro Demone, mentre questa carta è nel tuo Cimitero: puoi Evocare Specialmente questa carta, ma bandiscila quando lascia il Terreno.
+Puoi utilizzare ogni effetto di ""Arcidemone di Gilfer - Attacco Fiammeggiante"" una sola volta per turno."
+100268022,Arcidemone di Gilfer - Attacco Fiammeggiante,str1,Pescare
+100268022,Arcidemone di Gilfer - Attacco Fiammeggiante,str2,Evocazione Speciale
+100268023,Gearfried il Cavaliere d'Acciaio,name,Gearfried il Cavaliere d'Acciaio
+100268023,Gearfried il Cavaliere d'Acciaio,desc,"Se uno o più mostri che controlli sono stati distrutti in battaglia o dall'effetto di una carta in questo turno (Effetto Rapido): puoi Evocare Specialmente questa carta dalla tua mano e, se lo fai, equipaggia 1 mostro dal tuo Cimitero a essa come una Magia Equipaggiamento che le fa guadagnare 800 ATK.
+Durante la tua Main Phase: puoi distruggere quante più carte equipaggiate a questa carta possibile, poi, se hai distrutto una Carta Mostro con questo effetto, puoi aggiungere 1 mostro dal tuo Deck alla tua mano con lo stesso Attributo e Tipo di 1 di esse, ma con un Livello diverso.
+Puoi utilizzare ogni effetto di ""Gearfried il Cavaliere d'Acciaio"" una sola volta per turno."
+100268023,Gearfried il Cavaliere d'Acciaio,str1,Evocazione Speciale
+100268023,Gearfried il Cavaliere d'Acciaio,str2,Distruggi Carte Equipaggiamento
+100268023,Gearfried il Cavaliere d'Acciaio,str3,Aggiungere alla mano?
+100268024,"Carta Magia ""Controlla-Avversario""",name,"Carta Magia ""Controlla-Avversario"""
+100268024,"Carta Magia ""Controlla-Avversario""",desc,"Paga 1000 LP, poi scegli come bersaglio 1 mostro scoperto controllato dal tuo avversario; applica 1 di questi effetti.
+● Distruggilo.
+● Immediatamente dopo che questo effetto si è risolto, Evoca tramite Tributo 1 mostro offrendo come Tributo mostri, incluso il mostro dell'avversario scelto come bersaglio, anche se non lo controlli.
+Durante la tua Main Phase: puoi bandire questa carta dal tuo Cimitero; aggiungi 1 ""Carta Magia ""Controlla-Avversario"""" dal tuo Deck alla tua mano.
+Puoi utilizzare solo 1 effetto di ""Carta Magia ""Controlla-Avversario"""" per turno, e solo una volta in quel turno."
+100268024,"Carta Magia ""Controlla-Avversario""",str1,Attiva
+100268024,"Carta Magia ""Controlla-Avversario""",str2,Aggiungere alla mano
+100268024,"Carta Magia ""Controlla-Avversario""",str3,Effetto di distruzione
+100268024,"Carta Magia ""Controlla-Avversario""",str4,Evocazione tramite Tributo
+100268025,Viaggio Finale dell'Anima,name,Viaggio Finale dell'Anima
+100268025,Viaggio Finale dell'Anima,desc,"Quando il tuo avversario attiva una carta o un effetto che include un effetto che Evoca Specialmente una o più Carte Mostro dal Cimitero: annulla quell'effetto e, se lo fai, Evoca Specialmente 1 mostro dal Cimitero del tuo avversario sul suo Terreno, poi manda al Cimitero un qualsiasi numero di mostri scoperti che controlla il cui ATK totale è pari o inferiore a 6000.
+Se questa carta viene bandita: puoi aggiungerla alla tua mano, poi, immediatamente dopo che questo effetto si è risolto, puoi Evocare Normalmente 1 mostro dalla tua mano che richiede 1 o più Tributi senza offrire Tributi.
+Puoi utilizzare ogni effetto di ""Viaggio Finale dell'Anima"" una sola volta per turno."
+100268025,Viaggio Finale dell'Anima,str1,Attiva
+100268025,Viaggio Finale dell'Anima,str2,Rimettere in mano
+100268025,Viaggio Finale dell'Anima,str3,Mandare quel mostro al Cimitero?
+100268025,Viaggio Finale dell'Anima,str4,Evocare senza Tributare?
 100268201,Paladino Oscuro - Onde Soniche,name,Paladino Oscuro - Onde Soniche
 100268201,Paladino Oscuro - Onde Soniche,desc,"""Mago Nero"" + 1 mostro di Livello 7 o superiore
 Deve essere Evocato tramite Fusione.
