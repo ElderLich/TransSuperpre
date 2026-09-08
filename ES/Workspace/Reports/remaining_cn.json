@@ -5,11 +5,47 @@
     "lang": "es",
     "range_start_after_id": 0,
     "range_end_id": 101307073,
-    "timestamp": "20260907_132004",
-    "rows_in_report": 0,
-    "unique_cn_strings": 0,
-    "total_cn_cells": 0
+    "timestamp": "20260908_120033",
+    "rows_in_report": 1,
+    "unique_cn_strings": 1,
+    "total_cn_cells": 1
   },
-  "unique_strings": [],
-  "cards": []
+  "unique_strings": [
+    {
+      "string": "是否把效果无效？（装甲魔导士 帕智）",
+      "count": 1,
+      "is_new": true
+    }
+  ],
+  "cards": [
+    {
+      "id": 100200297,
+      "name": "Mago Armadura Pazoo",
+      "desc": "(Esta carta siempre se trata como una carta \"Profecía\").\t\nSi esta carta está en tu mano o Cementerio: puedes seleccionar 1 monstruo boca arriba que controles; equipa esta carta a él como una Mágica de Equipo con estos efectos.\n● El monstruo equipado gana 2100 ATK/DEF mientras tus LP sean 4000 o menos.\n● Cuando el efecto de una carta activada del adversario se resuelve, si controlas una carta que requiera un lanzamiento de dado, puedes negar ese efecto, y después desterrar esta carta.\t\nSólo puedes usar este efecto de \"Mago Armadura Pazoo\" una vez por turno.",
+      "str1": "Equipar",
+      "str2": "",
+      "str3": "是否把效果无效？（装甲魔导士 帕智）",
+      "str4": "",
+      "str5": "",
+      "str6": "",
+      "str7": "",
+      "str8": "",
+      "str9": "",
+      "str10": "",
+      "str11": "",
+      "str12": "",
+      "str13": "",
+      "str14": "",
+      "str15": "",
+      "str16": "",
+      "flagged_cells": [
+        {
+          "col": "str3",
+          "value": "是否把效果无效？（装甲魔导士 帕智）",
+          "normalized": "是否把效果无效?({CARD})"
+        }
+      ],
+      "desc_preview": "(Esta carta siempre se trata como una carta \"Profecía\").\t\nSi esta carta está en tu mano o Cementerio: puedes seleccionar 1 monstruo boca arriba que controles; equipa esta carta a él como una Mágica de Equipo con estos efectos.\n● El monstruo equipado gana 2100 ATK/DEF mientras tus LP sean 4000 o menos.\n● Cuando el efecto de una carta activada del adversario se resuelve, si controlas una carta que requiera un lanzamiento de dado, puedes negar ese efecto, y después desterrar esta carta.\t\nSólo puedes usar este efecto de \"Mago Armadura Pazoo\" una vez por turno."
+    }
+  ]
 }
