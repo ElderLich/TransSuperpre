@@ -1,7 +1,67 @@
 [
   {
-    "name": "装甲魔导士 帕智",
-    "desc": "这个卡名的①的效果1回合只能使用1次。\r\n①：这张卡在手卡·墓地存在的场合，以自己场上1只表侧表示怪兽为对象才能发动。这张卡当作持有以下效果的装备魔法卡使用给那只怪兽装备。\r\n●只要自己的基本分在4000以下，装备怪兽的攻击力·守备力上升2100。\r\n●对方发动的卡的效果的处理时，持有掷骰子效果的卡在自己场上存在的场合，可以把那个发动的效果无效。那之后，这张卡除外。",
+    "name": "Bonus di Potenza del Terreno",
+    "desc": "Se uno o più mostri vengono Evocati Normalmente o Specialmente e ci sono un più mostri sul Terreno con lo stesso Tipo: quei mostri Evocati guadagnano 1000 ATK/DEF.\r\nSe questa carta viene distrutta: annulla gli effetti di tutti i mostri scoperti attualmente sul Terreno, inoltre i loro ATK/DEF diventano i loro ATK/DEF originali.\r\nUna volta per turno, durante la Standby Phase, se questa carta è nel tuo Cimitero e non ci sono carte nelle Zone Terreno: puoi mettere questa carta scoperta sul tuo Terreno.",
+    "overallString": "[Magia|Terreno]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268016.jpg?version=19.7"
+  },
+  {
+    "name": "Strategia Aromatica",
+    "desc": "Una volta per turno: puoi dichiarare il nome di 1 carta; rivela la prima carta del tuo Deck e, se è la carta dichiarata, puoi applicare questo effetto in base al suo tipo di carta. Se non lo è, distruggi questa carta.\r\n● Mostro: Evocalo Specialmente.\r\n● Magia/Trappola: Posizionala.\r\nSe questa carta viene distrutta dall'effetto di una carta: puoi Evocare Specialmente 1 mostro \"Arpia\" dal tuo Deck o Cimitero.",
+    "overallString": "[Trappola|Continua]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268017.jpg?version=19.7"
+  },
+  {
+    "name": "Re di Yamimado",
+    "desc": "Mentre controlli una carta coperta, questa carta non può essere distrutta dagli effetti delle carte del tuo avversario, inoltre il tuo avversario non può sceglierla come bersaglio con gli effetti delle carte.\r\nPuoi utilizzare ciascuno dei seguenti effetti di \"Re di Yamimado\" una sola volta per turno.\r\nSe questa carta è nella tua mano e ci sono 2 o più carte coperte e/o \"Yami\" sul Terreno: puoi Evocare Specialmente questa carta.\r\nQuando un mostro sul Terreno con ATK inferiore a quello di questa carta attiva il suo effetto o dichiara un attacco (Effetto Rapido): puoi distruggere quel mostro.",
+    "overallString": "[Mostro|Effetto] Demone/Oscurità  [★7] 2600/2300",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268018.jpg?version=19.7"
+  },
+  {
+    "name": "Rigetto dell'Attributo",
+    "desc": "Scegli come bersaglio 1 mostro scoperto controllato dal tuo avversario che è stato Evocato Specialmente dall'Extra Deck; manda 1 mostro OSCURITÀ o Zombie dalla tua mano, Deck o Terreno scoperto al Cimitero e, se lo fai, il mostro scelto come bersaglio perde ATK pari all'ATK originale del mostro mandato, poi, se il mostro scelto come bersaglio è LUCE, annulla i suoi effetti.\r\nPuoi attivare solo 1 \"Rigetto dell'Attributo\" per turno.\r\nSe questa carta è stata attivata come Anello 3 o più di una catena, il tuo avversario non può attivare carte o effetti in risposta all'attivazione di questa carta.",
+    "overallString": "[Magia|Rapida]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268019.jpg?version=19.7"
+  },
+  {
+    "name": "Cavaliere delle Spade Gemelle",
+    "desc": "Può effettuare fino a 2 attacchi su mostri durante ogni Battle Phase.\r\nPuoi utilizzare ciascuno dei seguenti effetti di \"Cavaliere delle Spade Gemelle\" una sola volta per turno.\r\nSe questa carta è nella tua mano e controlli una carta con un effetto che richiede un tiro di dado: puoi Evocare Specialmente questa carta.\r\nDurante la tua Main Phase: puoi tirare un dado a 6 facce 3 volte e, se lo fai, questa carta guadagna ATK pari al totale dei risultati x 350 (fino alla fine di questo turno), poi, se 2 o più dei risultati sono uguali, puoi Evocare Specialmente 1 mostro dalla tua mano.",
+    "overallString": "[Mostro|Effetto] Guerriero/Terra  [★3] 350/200",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268020.jpg?version=19.7"
+  },
+  {
+    "name": "Spada della Forza Fulminea",
+    "desc": "Bandisci, scoperta, 1 carta casuale dalla mano del tuo avversario (fino alla Standby Phase del prossimo turno), poi, se questa carta era Posizionata prima dell'attivazione e ha bandito un mostro, puoi applicare questo effetto in base al suo Livello.\r\n● 4 o inferiore: il tuo avversario bandisce tutti i mostri con lo stesso nome dalla sua mano, Deck e Cimitero.\r\n● 5 o superiore: aggiungi 1 mostro di Livello 5 o superiore con lo stesso Tipo, Attributo e/o Livello dal tuo Deck alla tua mano.\r\nPuoi attivare solo 1 \"Spada della Forza Fulminea\" per turno.",
+    "overallString": "[Magia|Rapida]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268021.jpg?version=19.7"
+  },
+  {
+    "name": "Arcidemone di Gilfer - Attacco Fiammeggiante",
+    "desc": "Durante la Main Phase (Effetto Rapido): puoi mandare questa carta dalla tua mano al Cimitero; pesca 1 carta, poi scarta 1 carta, inoltre tutti i mostri controllati dal tuo avversario perdono 500 ATK in questo turno.\r\nQuando un mostro viene distrutto in una battaglia che coinvolge il tuo mostro Demone, mentre questa carta è nel tuo Cimitero: puoi Evocare Specialmente questa carta, ma bandiscila quando lascia il Terreno.\r\nPuoi utilizzare ogni effetto di \"Arcidemone di Gilfer - Attacco Fiammeggiante\" una sola volta per turno.",
+    "overallString": "[Mostro|Effetto] Demone/Oscurità  [★6] 2200/2500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268022.jpg?version=19.7"
+  },
+  {
+    "name": "Gearfried il Cavaliere d'Acciaio",
+    "desc": "Se uno o più mostri che controlli sono stati distrutti in battaglia o dall'effetto di una carta in questo turno (Effetto Rapido): puoi Evocare Specialmente questa carta dalla tua mano e, se lo fai, equipaggia 1 mostro dal tuo Cimitero a essa come una Magia Equipaggiamento che le fa guadagnare 800 ATK.\r\nDurante la tua Main Phase: puoi distruggere quante più carte equipaggiate a questa carta possibile, poi, se hai distrutto una Carta Mostro con questo effetto, puoi aggiungere 1 mostro dal tuo Deck alla tua mano con lo stesso Attributo e Tipo di 1 di esse, ma con un Livello diverso.\r\nPuoi utilizzare ogni effetto di \"Gearfried il Cavaliere d'Acciaio\" una sola volta per turno.",
+    "overallString": "[Mostro|Effetto] Guerriero/Terra  [★4] 1800/1600",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268023.jpg?version=19.7"
+  },
+  {
+    "name": "Carta Magia \"Controlla-Avversario\"",
+    "desc": "Paga 1000 LP, poi scegli come bersaglio 1 mostro scoperto controllato dal tuo avversario; applica 1 di questi effetti.\r\n● Distruggilo.\r\n● Immediatamente dopo che questo effetto si è risolto, Evoca tramite Tributo 1 mostro offrendo come Tributo mostri, incluso il mostro dell'avversario scelto come bersaglio, anche se non lo controlli.\r\nDurante la tua Main Phase: puoi bandire questa carta dal tuo Cimitero; aggiungi 1 \"Carta Magia \"Controlla-Avversario\"\" dal tuo Deck alla tua mano.\r\nPuoi utilizzare solo 1 effetto di \"Carta Magia \"Controlla-Avversario\"\" per turno, e solo una volta in quel turno.",
+    "overallString": "[Magia|Rapida]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268024.jpg?version=19.7"
+  },
+  {
+    "name": "Viaggio Finale dell'Anima",
+    "desc": "Quando il tuo avversario attiva una carta o un effetto che include un effetto che Evoca Specialmente una o più Carte Mostro dal Cimitero: annulla quell'effetto e, se lo fai, Evoca Specialmente 1 mostro dal Cimitero del tuo avversario sul suo Terreno, poi manda al Cimitero un qualsiasi numero di mostri scoperti che controlla il cui ATK totale è pari o inferiore a 6000.\r\nSe questa carta viene bandita: puoi aggiungerla alla tua mano, poi, immediatamente dopo che questo effetto si è risolto, puoi Evocare Normalmente 1 mostro dalla tua mano che richiede 1 o più Tributi senza offrire Tributi.\r\nPuoi utilizzare ogni effetto di \"Viaggio Finale dell'Anima\" una sola volta per turno.",
+    "overallString": "[Trappola]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268025.jpg?version=19.7"
+  },
+  {
+    "name": "Mago Corazzato Pazoo",
+    "desc": "(Questa carta viene sempre considerata una carta \"Profezia\".)\r\nSe questa carta è nella tua mano o Cimitero: puoi scegliere come bersaglio 1 mostro scoperto che controlli; equipaggia questa carta a quel mostro come una Magia Equipaggiamento con i seguenti effetti. Puoi utilizzare questo effetto di \"Mago Corazzato Pazoo\" una sola volta per turno.\r\n● Il mostro equipaggiato guadagna 2100 ATK/DEF mentre i tuoi LP sono 4000 o meno.\r\n● Quando una carta o un effetto attivato dal tuo avversario si risolve, se controlli una carta con un effetto che richiede un tiro di dado, puoi annullare l'effetto attivato, poi bandire questa carta.",
     "overallString": "[Mostro|Effetto] Incantatore/Luce  [★3] 0/700",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100200297.jpg?version=19.7"
   },
