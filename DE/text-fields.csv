@@ -25,7 +25,7 @@ Du kannst jeden Effekt von „Kraftverbindung“ nur einmal pro Spielzug verwend
 ●只要自己的基本分在4000以下，装备怪兽的攻击力·守备力上升2100。
 ●对方发动的卡的效果的处理时，持有掷骰子效果的卡在自己场上存在的场合，可以把那个发动的效果无效。那之后，这张卡除外。"
 100200297,装甲魔导士 帕智,str1,Ausrüsten
-100200297,装甲魔导士 帕智,str3,是否把效果无效？（装甲魔导士 帕智）
+100200297,装甲魔导士 帕智,str3,Den Effekt annullieren? (装甲魔导士 帕智)
 100267001,Sennet-Prophetin – Nefertari,name,Sennet-Prophetin – Nefertari
 100267001,Sennet-Prophetin – Nefertari,desc,"Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst sie auf den Friedhof legen; zeige bis zu 2 Normale Monsterkarten von deiner Hand, deinem Deck, deiner offenen Spielfeldseite und/oder aus deinem Friedhof, dann setze so viele „Sennet“-Zauberkarten von deinem Deck. Während des Spielzugs deines Gegners (Schnelleffekt): Du kannst diese Karte von deinem Friedhof verbannen; rüste 1 Normales Monster von deinem Friedhof als Ausrüstungszauberkarte an 1 Ritualmonster aus, das du kontrollierst. Du kannst jeden Effekt von „Sennet-Prophetin – Nefertari“ nur einmal pro Spielzug verwenden."
 100267001,Sennet-Prophetin – Nefertari,str1,Setzen
@@ -220,7 +220,7 @@ Monster deines Gegners können Monster nicht als Angriffsziel für Angriffe wäh
 ①：只要这张卡在魔法与陷阱区域存在，自己在通常召唤外加上只有1次，自己主要阶段可以把1只「异解△」怪兽召唤。
 ②：自己主要阶段才能发动。自己场上的原本等级是4以下的1只「异解△」怪兽以里侧除外，自己除外状态（里侧）的5星以上的1只「异解△」怪兽特殊召唤。"
 100267040,异解△福音,str1,"Karten vom Friedhof verbannen, um zu aktivieren?"
-100267040,异解△福音,str2,Durch den Effekt von {CARD} beschworen
+100267040,异解△福音,str2,"Durch den Effekt von ""异解△福音"" beschworen"
 100267040,异解△福音,str3,Als Spezialbeschwörung beschwören
 100267041,Xenovader△ Urteil,name,Xenovader△ Urteil
 100267041,Xenovader△ Urteil,desc,"Falls dein Gegner ein oder mehrere Monster als Normal- oder Spezialbeschwörung beschwört: Du kannst 1 von ihnen wählen; bestimme 1 deiner verdeckt verbannten „Xenovader△“-Monster mit demselben Attribut und füge es entweder deiner Hand hinzu oder beschwöre es als Spezialbeschwörung, zusätzlich kannst du für den Rest dieses Spielzugs mit diesem Effekt von „Xenovader△ Urteil“ nicht dasselbe Attribut noch einmal bestimmen und du kannst keine Karten oder Effekte aktivieren, außer „Xenovader△“-Karten oder -Effekten. Einmal pro Kampf, während der Schadensberechnung, falls dein „Xenovader△“-Monster gegen ein Monster deines Gegners kämpft und du keine Karten in deinem Deck hast: Du kannst bestimmen, dass die ATK jenes Monsters deines Gegners zu 0 werden."
@@ -279,6 +279,79 @@ Du kannst nur 1 „Superkritisch“ pro Spielzug aktivieren."
 100268015,Superkritisch,str4,Ein Monster zerstören
 100268015,Superkritisch,str5,Zerstöre ein Monster und annulliere die Effekte eines anderen Monsters
 100268015,Superkritisch,str6,Als Spezialbeschwörung beschwören
+100268016,环境适应力,name,环境适应力
+100268016,环境适应力,desc,"①：怪兽召唤·特殊召唤的场合，若和那只怪兽相同种族的其他怪兽在场上存在则发动。那些召唤·特殊召唤的怪兽的攻击力·守备力上升1000。
+②：这张卡被破坏的场合发动。场上的全部表侧表示怪兽的效果无效化，那些攻击力·守备力变成原本数值。
+③：自己·对方的准备阶段，这张卡在墓地存在，双方的场地区域没有卡存在的场合才能发动。这张卡在自己场上以表侧表示放置。"
+100268016,环境适应力,str1,ATK erhöhen
+100268016,环境适应力,str2,Annullieren
+100268016,环境适应力,str3,Platzieren
+100268017,香水战术,name,香水战术
+100268017,香水战术,desc,"①：1回合1次，宣言1个卡名才能发动。自己卡组最上面的卡给双方确认，是宣言的卡的场合，可以根据那个种类适用以下效果。不是的场合，这张卡破坏。
+●怪兽：那只怪兽特殊召唤。
+●魔法·陷阱：那张卡在自己场上盖放。
+②：这张卡被效果破坏的场合才能发动。从自己的卡组·墓地把1只「鹰身」怪兽特殊召唤。"
+100268017,香水战术,str1,Aktivieren
+100268017,香水战术,str2,Als Spezialbeschwörung beschwören
+100268017,香水战术,str3,Den Effekt anwenden?
+100268018,暗魔导之霸王,name,暗魔导之霸王
+100268018,暗魔导之霸王,desc,"这个卡名的①③的效果1回合各能使用1次。
+①：这张卡在手卡存在，场上有里侧表示卡2张以上或「暗」存在的场合才能发动。这张卡特殊召唤。
+②：只要自己场上有里侧表示卡存在，这张卡不会被对方的效果破坏，对方不能把这张卡作为效果的对象。
+③：持有比这张卡低的攻击力的场上的怪兽，把效果发动时或者攻击宣言时才能发动。那只怪兽破坏。"
+100268018,暗魔导之霸王,str1,Als Spezialbeschwörung beschwören
+100268018,暗魔导之霸王,str3,Zerstören
+100268019,属性回弹作用,name,属性回弹作用
+100268019,属性回弹作用,desc,"这个卡名的卡在1回合只能发动1张，连锁3以后发动的场合，对方不能对应这张卡的发动把效果发动。
+①：以从额外卡组特殊召唤的对方场上1只表侧表示怪兽为对象才能发动。从自己的手卡·卡组·场上（表侧表示）把1只不死族或暗属性怪兽送去墓地，以那个原本攻击力数值让作为对象的怪兽的攻击力下降。作为对象的怪兽是光属性的场合，再把那个效果无效化。"
+100268019,属性回弹作用,str1,Aktivieren
+100268020,双剑之公爵骑士,name,双剑之公爵骑士
+100268020,双剑之公爵骑士,desc,"这个卡名的①②的效果1回合各能使用1次。
+①：这张卡在手卡存在，持有掷骰子效果的卡在自己场上存在的场合才能发动。这张卡特殊召唤。
+②：自己主要阶段才能发动。掷3次骰子。这张卡的攻击力直到回合结束时上升出现数目的合计×350。相同数目出现2个以上的场合，可以再从手卡把1只怪兽特殊召唤。
+③：这张卡在同1次的战斗阶段中最多2次可以向怪兽攻击。"
+100268020,双剑之公爵骑士,str1,Als Spezialbeschwörung beschwören
+100268020,双剑之公爵骑士,str2,Einen Würfel werfen
+100268020,双剑之公爵骑士,str3,Ein Monster als Spezialbeschwörung beschwören?
+100268021,闪光之封杀剑,name,闪光之封杀剑
+100268021,闪光之封杀剑,desc,"这个卡名的卡在1回合只能发动1张。
+①：对方手卡随机选1张，直到下个回合的准备阶段以表侧除外。把盖放的这张卡发动，用那个效果把怪兽除外的场合，可以再根据那个等级适用以下效果。
+●4星以下：对方从自身的手卡·卡组·墓地把那些同名怪兽全部除外。
+●5星以上：自己从卡组把种族·属性·等级之内有1个以上和那只怪兽相同的，5星以上的1只怪兽加入手卡。"
+100268021,闪光之封杀剑,str1,Aktivieren
+100268021,闪光之封杀剑,str2,"Durch ""闪光之封杀剑"" verbannt"
+100268021,闪光之封杀剑,str3,Den Effekt anwenden?
+100268022,暗黑魔族 基尔法恶魔-暗黑魔炎葬,name,暗黑魔族 基尔法恶魔-暗黑魔炎葬
+100268022,暗黑魔族 基尔法恶魔-暗黑魔炎葬,desc,"这个卡名的①②的效果1回合各能使用1次。
+①：自己·对方的主要阶段，把这张卡从手卡送去墓地才能发动。自己抽1张。那之后，选自己1张手卡丢弃。这个回合中，对方场上的怪兽的攻击力下降500。
+②：这张卡在墓地存在的状态，自己的恶魔族怪兽的战斗让怪兽被破坏时才能发动。这张卡特殊召唤。这个效果特殊召唤的这张卡从场上离开的场合除外。"
+100268022,暗黑魔族 基尔法恶魔-暗黑魔炎葬,str1,Ziehen
+100268022,暗黑魔族 基尔法恶魔-暗黑魔炎葬,str2,Als Spezialbeschwörung beschwören
+100268023,钢铁骑士 基亚·弗里德,name,钢铁骑士 基亚·弗里德
+100268023,钢铁骑士 基亚·弗里德,desc,"这个卡名的①②的效果1回合各能使用1次。
+①：自己场上的怪兽被战斗·效果破坏的自己·对方回合才能发动。这张卡从手卡特殊召唤，从自己墓地把1只怪兽当作攻击力上升800的装备魔法卡使用给这张卡装备。
+②：自己主要阶段才能发动。这张卡的装备卡全部破坏。这个效果把怪兽卡破坏的场合，可以再从卡组把和那之内的1只等级不同、种族·属性相同的1只怪兽加入手卡。"
+100268023,钢铁骑士 基亚·弗里德,str1,Als Spezialbeschwörung beschwören
+100268023,钢铁骑士 基亚·弗里德,str2,Ausrüstungskarte(n) zerstören
+100268023,钢铁骑士 基亚·弗里德,str3,Der Hand hinzufügen?
+100268024,魔法卡「敌人操纵器」,name,魔法卡「敌人操纵器」
+100268024,魔法卡「敌人操纵器」,desc,"这个卡名的①②的效果1回合只能有1次使用其中任意1个。
+①：支付1000基本分，以对方场上1只表侧表示怪兽为对象才能发动。从以下效果选1个适用。
+●作为对象的怪兽破坏。
+●进行1只怪兽的上级召唤。那之际，必须作为自己场上1只怪兽的代替而把作为对象的对方怪兽解放。
+②：自己主要阶段把墓地的这张卡除外才能发动。从卡组把1张「魔法卡「敌人操纵器」」加入手卡。"
+100268024,魔法卡「敌人操纵器」,str1,Aktivieren
+100268024,魔法卡「敌人操纵器」,str2,Der Hand hinzufügen
+100268024,魔法卡「敌人操纵器」,str3,Zerstörungseffekt
+100268024,魔法卡「敌人操纵器」,str4,Tributbeschwörung
+100268025,向魂的引导,name,向魂的引导
+100268025,向魂的引导,desc,"这个卡名的①②的效果1回合各能使用1次。
+①：包含从墓地把怪兽特殊召唤的效果的，卡的效果由对方发动时才能发动。那个效果无效。从对方墓地把1只怪兽在对方场上特殊召唤。那之后，可以把对方场上的表侧表示怪兽任意数量送去墓地（攻击力合计最多6000）。
+②：这张卡被除外的场合才能发动。这张卡加入手卡。那之后，可以不用解放来进行需要1只以上解放的手卡1只怪兽的召唤。"
+100268025,向魂的引导,str1,Aktivieren
+100268025,向魂的引导,str2,Auf die Hand zurückgeben
+100268025,向魂的引导,str3,Dieses Monster auf den Friedhof legen?
+100268025,向魂的引导,str4,Ohne Tribut beschwören?
 100268201,Dunkler Paladin – Wellenbewegung,name,Dunkler Paladin – Wellenbewegung
 100268201,Dunkler Paladin – Wellenbewegung,desc,"„Dunkler Magier“ + 1 Monster der Stufe 7 oder höher
 
