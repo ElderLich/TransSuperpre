@@ -203,6 +203,10 @@ Your opponent's monsters cannot target monsters for attacks, except this one. If
 100267041,Xenovader△ Judgment,desc,"If your opponent Normal or Special Summons a monster(s) (except during the Damage Step): You can target 1 of them; choose 1 of your face-down banished ""Xenovader△"" monsters with the same Attribute, and either add it to your hand or Special Summon it, also for the rest of this turn, you cannot choose the same Attribute again with this effect of ""Xenovader△ Judgment"", and you cannot activate cards or effects, except ""Xenovader△"" cards or effects. Once per battle, during damage calculation, if your ""Xenovader△"" monster battles an opponent's monster and you have no cards in your Deck: You can make that opponent's monster's ATK become 0."
 100267041,Xenovader△ Judgment,str1,Recycle
 100267041,Xenovader△ Judgment,str2,ATK becomes 0
+100268002,Perfect Eclosion - Perfectly Ultimate Great Moth,name,Perfect Eclosion - Perfectly Ultimate Great Moth
+100268002,Perfect Eclosion - Perfectly Ultimate Great Moth,desc,"Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by having 6 or more Insect monsters in your GY. You can only Special Summon ""Perfect Eclosion - Perfectly Ultimate Great Moth"" once per turn this way. If this card is Special Summoned: You can return as many cards your opponent controls as possible to the hand, then if you have a Normal Monster in your GY, you can make this card gain 300 ATK for each Insect monster in your GY. Each time your opponent Normal or Special Summons a monster(s): All monsters your opponent currently controls lose ATK equal to their own Level x 100."
+100268002,Perfect Eclosion - Perfectly Ultimate Great Moth,str1,Return to the hand
+100268002,Perfect Eclosion - Perfectly Ultimate Great Moth,str2,Decrease ATK
 100268004,"Blue-Eyes Ultimate Dragon, the God-Surpassing Servant",name,"Blue-Eyes Ultimate Dragon, the God-Surpassing Servant"
 100268004,"Blue-Eyes Ultimate Dragon, the God-Surpassing Servant",desc,"""Blue-Eyes White Dragon"" + ""Blue-Eyes White Dragon"" + ""Blue-Eyes White Dragon""
 Cannot be destroyed by card effects, also unaffected by your opponent's activated effects during your opponent's turn. Can make up to 3 attacks during each Battle Phase. Once per Chain, during the Battle Phase (Quick Effect): You can target 1 monster that was Special Summoned this turn, or 1 face-down card, that your opponent controls; destroy it. You can only use this effect of ""Blue-Eyes Ultimate Dragon, the God-Surpassing Servant"" thrice per turn."
@@ -266,7 +270,7 @@ If this card is destroyed by card effect: You can Special Summon 1 ""Harpie"" mo
 100268017,Aroma Strategy,str2,Special Summon
 100268017,Aroma Strategy,str3,Apply the effect?
 100268018,King of Yamimado,name,King of Yamimado
-100268018,King of Yamimado,desc,"While you control a face-down card, this card cannot be destroyed by your opponent's card effects, also your opponent cannot target it with card effects. You can only use each of the following effects of ""King of Yamimado"" once per turn. If this card is in your hand and 2 or more face-down cards and/or ""Yami"" are on the field: You can Special Summon this card. When a monster on the field with less ATK than this card activates its effect or declares an attack (Quick Effect): You can destroy that monster."
+100268018,King of Yamimado,desc,"While you control a face-down card, this card cannot be destroyed by your opponent's card effects, also your opponent cannot target it with card effects. You can only use each of the following effects of ""King of Yamimado"" once per turn. If this card is in your hand and 2 or more face-down cards, and/or ""Yami"", are on the field: You can Special Summon this card. When a monster on the field with less ATK than this card activates its effect or declares an attack (Quick Effect): You can destroy that monster."
 100268018,King of Yamimado,str1,Special Summon
 100268018,King of Yamimado,str3,Destroy
 100268019,Attribute Rejection,name,Attribute Rejection
@@ -315,6 +319,15 @@ Must be Fusion Summoned. Gains 500 ATK for every other monster on the field. Can
 100268201,Dark Paladin - Wave-Motion,str1,Negate the effect
 100268201,Dark Paladin - Wave-Motion,str2,Destroy the card?
 100268201,Dark Paladin - Wave-Motion,str3,"The effect of ""Dark Paladin - Wave-Motion"" is currently being applied."
+100270002,Wicked Canon,name,Wicked Canon
+100270002,Wicked Canon,desc,"Each time an opponent's monster declares an attack, place 1 Sinister Doctrine Counter on this card. You can only use each of the following effects of ""Wicked Canon"" once per turn. During your Main Phase, if this card was activated this turn: You can add 1 DARK Fiend monster from your Deck to your hand, then discard 1 Fiend monster. You can send this card with 4 or more Sinister Doctrine Counters to the GY; Special Summon 1 Fiend monster from your Deck, then you can add 1 ""Super Polymerization"" from your Deck to your hand."
+100270002,Wicked Canon,str1,Add to hand
+100270002,Wicked Canon,str2,Special Summon
+100270002,Wicked Canon,str3,Add to hand?
+100270003,Hope for the Future,name,Hope for the Future
+100270003,Hope for the Future,desc,"If you control a ""Neos"" Fusion Monster or ""Elemental HERO Neos"": Discard 1 card; Fusion Summon 1 Fusion Monster from your Extra Deck that mentions a ""HERO"" monster as material, using monsters from your hand, Deck, or field. If you control a ""Neos"" Fusion Monster: You can banish this card from your GY, then target 1 face-up card your opponent controls; negate its effects until the end of this turn. You can only use each effect of ""Hope for the Future"" once per turn."
+100270003,Hope for the Future,str1,Activate
+100270003,Hope for the Future,str2,Negate the effect
 101306281,"Audhumla, Progenitor of the Frozen Expanse",name,"Audhumla, Progenitor of the Frozen Expanse"
 101306281,"Audhumla, Progenitor of the Frozen Expanse",desc,"If 4 or more cards are on the field: You can Special Summon this card from your hand. You can send up to 2 Spells/Traps you control to the GY; draw that many cards, then you can Special Summon 1 WATER monster from your hand. When your opponent activates a card or effect (Quick Effect): You can change this card to face-down Defense Position, also for the rest of this turn, all face-down cards you control cannot be destroyed by your opponent's card effects, and your opponent cannot target them with card effects. You can only use each effect of ""Audhumla, Progenitor of the Frozen Expanse"" once per turn."
 101306281,"Audhumla, Progenitor of the Frozen Expanse",str1,Special Summon
@@ -341,6 +354,28 @@ Must be Fusion Summoned. Gains 500 ATK for every other monster on the field. Can
 101307004,The Sun God's Torture Device - Viser Des Shock,desc,"Cannot be destroyed by battle. You can only use each of the following effects of ""The Sun God's Torture Device - Viser Des Shock"" once per turn. If a monster(s) is sent to your opponent's GY and you control a ""Sun God"" card, even during the Damage Step: You can Special Summon this card from your hand, and if you do, return 1 other card on the field to the hand/Extra Deck, and if you do that, inflict 800 damage to your opponent. During the End Phase, if ""The Immortal Sun God"" was sent to your GY this turn: You can add this card from your GY to your hand."
 101307004,The Sun God's Torture Device - Viser Des Shock,str1,Special Summon
 101307004,The Sun God's Torture Device - Viser Des Shock,str2,Return to the hand
+101307024,Reindsurm Amurusa,name,Reindsurm Amurusa
+101307024,Reindsurm Amurusa,desc,"You can Ritual Summon this card with ""Reindsurm Conquest"". If this card is Ritual Summoned: You can add 2 non-WIND ""Reindsurm"" monsters from your Deck to your hand. If this card is sent to the GY, except by battle: You can Ritual Summon 1 Insect Ritual Monster from your hand, by Tributing monsters from your hand or field, and/or shuffling Insect and/or Dragon monsters from your GY into the Deck, whose total Levels equal or exceed its Level. You can only use each effect of ""Reindsurm Amurusa"" once per turn."
+101307024,Reindsurm Amurusa,str1,Add to hand
+101307024,Reindsurm Amurusa,str2,Ritual Summon
+101307025,Reindsurm Luvian,name,Reindsurm Luvian
+101307025,Reindsurm Luvian,desc,"You can Ritual Summon this card with ""Reindsurm Conquest"". If this card is Ritual Summoned: You can add 2 ""Reindsurm"" Spells/Traps from your Deck to your hand. If this card is sent to the GY, except by battle: You can Ritual Summon 1 Insect Ritual Monster from your hand, by Tributing monsters from your hand or field, and/or shuffling Insect and/or Dragon monsters from your GY into the Deck, whose total Levels equal or exceed its Level. You can only use each effect of ""Reindsurm Luvian"" once per turn."
+101307025,Reindsurm Luvian,str1,Add to hand
+101307025,Reindsurm Luvian,str2,Ritual Summon
+101307026,Reindsurm Carcasas,name,Reindsurm Carcasas
+101307026,Reindsurm Carcasas,desc,"You can Ritual Summon this card with ""Reindsurm Conquest"". If this card is Ritual Summoned: You can send 2 ""Reindsurm"" cards from your Deck to the GY. If this card is sent to the GY, except by battle: You can Ritual Summon 1 Insect Ritual Monster from your hand, by Tributing monsters from your hand or field, and/or shuffling Insect and/or Dragon monsters from your GY into the Deck, whose total Levels equal or exceed its Level. You can only use each effect of ""Reindsurm Carcasas"" once per turn."
+101307026,Reindsurm Carcasas,str1,Send to the GY
+101307026,Reindsurm Carcasas,str2,Ritual Summon
+101307027,Reindsurm Gigalovendra,name,Reindsurm Gigalovendra
+101307027,Reindsurm Gigalovendra,desc,"You can Ritual Summon this card with ""Reindsurm Conquest"". (Quick Effect): You can send 2 cards from your hand to the GY, including this card; add 1 non-FIRE ""Reindsurm"" monster from your Deck to your hand. If this card is Ritual Summoned, or your opponent Special Summons a monster(s): You can shuffle up to 2 monsters on the field into the Deck. If this card and a WATER ""Reindsurm"" monster are in your GY: You can add this card to your hand. You can only use each effect of ""Reindsurm Gigalovendra"" once per turn."
+101307027,Reindsurm Gigalovendra,str1,Add to hand
+101307027,Reindsurm Gigalovendra,str2,Return to the Deck
+101307027,Reindsurm Gigalovendra,str3,Add to hand
+101307028,Reindsurm Giriakarma,name,Reindsurm Giriakarma
+101307028,Reindsurm Giriakarma,desc,"You can Ritual Summon this card with ""Reindsurm Conquest"". When your opponent activates a monster effect in the field or GY and you control this Ritual Summoned card (Quick Effect): You can negate the activation, then you can shuffle 1 monster each from both your opponent's field and GY into the Deck, also if either of them was a Dragon monster, double this card's ATK. If this card and a LIGHT ""Reindsurm"" monster are in your GY: You can add this card to your hand. You can only use each effect of ""Reindsurm Giriakarma"" once per turn."
+101307028,Reindsurm Giriakarma,str1,Negate the activation
+101307028,Reindsurm Giriakarma,str2,Add to hand
+101307028,Reindsurm Giriakarma,str3,Select monsters to return to the Deck?
 101307030,The Sun God of Darkness - The Winged Dragon of Ra,name,The Sun God of Darkness - The Winged Dragon of Ra
 101307030,The Sun God of Darkness - The Winged Dragon of Ra,desc,"""The Winged Dragon of Ra"" + 3 ""Sun God"" monsters
 Unaffected by other cards' effects. Once per turn, during the Main Phase (Quick Effect): You can discard any number of ""Sun God"" cards, then choose that many of your opponent's occupied Main Monster Zones; your opponent must send the monsters in those zones to the GY. When an attack is declared involving this card: You can pay LP so that you only have 1 left; this card gains ATK/DEF equal to the amount of LP paid and the total ATK of all ""Sun God"" monsters currently in your GY."
@@ -359,6 +394,23 @@ Cannot be used as Fusion Material. Must be either Fusion Summoned, or Special Su
 101307052,The Sun God Leading Down into Darkness,desc,"Activate this card by sending 1 ""The Winged Dragon of Ra"" monster from your hand, Deck, or face-up field to the GY. During your Main Phase, if this card was activated this turn: You can add 1 ""Sun God"" monster from your Deck to your hand. If a monster(s) is destroyed by battle: Its controller takes damage equal to its original ATK, then if you have ""The Winged Dragon of Ra"" in your GY, you gain 1000 LP. You can only use each effect of ""The Sun God Leading Down into Darkness"" once per turn."
 101307052,The Sun God Leading Down into Darkness,str1,Search effect
 101307052,The Sun God Leading Down into Darkness,str2,Damage effect
+101307055,Reindsurm Conquest,name,Reindsurm Conquest
+101307055,Reindsurm Conquest,desc,"This card can be used to Ritual Summon any number of Insect Ritual Monsters. You must also shuffle Insect and/or Dragon monsters from the GY(s) into the Deck whose total Levels equal or exceed the total Levels of the Ritual Monsters. If this card is in your GY: You can send 1 Insect monster from your hand or face-up field to the GY; add this card to your hand. You can only use each effect of ""Reindsurm Conquest"" once per turn."
+101307055,Reindsurm Conquest,str1,Activate
+101307055,Reindsurm Conquest,str2,Add to hand
+101307056,Reindsurm Carnation,name,Reindsurm Carnation
+101307056,Reindsurm Carnation,desc,"While you control a ""Reindsurm"" monster whose original Level is 8 or higher or your opponent has a Dragon monster in their field or GY, the activated effects of your ""Reindsurm"" monsters cannot be negated. Once per turn: You can send 1 ""Reindsurm"" monster or Dragon monster from your hand or face-up field to the GY; add 1 Insect monster from your Deck to your hand with the same original Level, but a different original name."
+101307056,Reindsurm Carnation,str1,Add to hand
+101307057,Reindsurm Butterfly,name,Reindsurm Butterfly
+101307057,Reindsurm Butterfly,desc,"Send 2 monsters from your Deck to the GY, including an Insect monster, also you cannot Special Summon until the end of the next turn after this card resolves, except Insect monsters. If you Ritual Summon an Insect monster(s) while this card is in your GY: You can banish this card; all ""Reindsurm"" monsters you currently control gain 800 ATK/DEF. You can only use 1 ""Reindsurm Butterfly"" effect per turn, and only once that turn."
+101307057,Reindsurm Butterfly,str1,Activate
+101307057,Reindsurm Butterfly,str2,Increase ATK/DEF
+101307057,Reindsurm Butterfly,str3,The effect of {CARD} is currently being applied.
+101307058,Reindsurm Practice,name,Reindsurm Practice
+101307058,Reindsurm Practice,desc,"Add 2 ""Reindsurm"" monsters from your Deck to your hand, then send 1 card from your hand to the GY, then if your opponent has a Dragon monster in their field or GY, you can add 1 Insect monster from your GY to your hand. If you Ritual Summon an Insect monster(s) while this card is in your GY: You can banish this card; place 1 ""Reindsurm"" Field Spell from your Deck face-up on your field. You can only use each effect of ""Reindsurm Practice"" once per turn."
+101307058,Reindsurm Practice,str1,Activate
+101307058,Reindsurm Practice,str2,Place face-up
+101307058,Reindsurm Practice,str3,Add to hand?
 101307072,Sun God Domination,name,Sun God Domination
 101307072,Sun God Domination,desc,"If a ""The Winged Dragon of Ra"" monster is on the field: Apply these effects in sequence.
 ● Special Summon 1 monster from each GY to your field.
@@ -373,3 +425,7 @@ You can banish this card from your GY and Tribute 1 ""The Winged Dragon of Ra"" 
 You can only activate 1 ""The Sun God's Protector - Egyptian God Slime"" per turn."
 101307073,The Sun God's Protector - Egyptian God Slime,str2,Search effect
 101307073,The Sun God's Protector - Egyptian God Slime,str3,Special Summon?
+101307076,Reindsurm Encounter,name,Reindsurm Encounter
+101307076,Reindsurm Encounter,desc,"When a Spell/Trap Card, or monster effect, is activated while you control a ""Reindsurm"" monster: Negate the activation, then you can add 1 ""Reindsurm"" monster from your Deck or GY to your hand, and if you do, send 1 Insect monster you control to the GY. If a ""Reindsurm"" monster(s) you control would be destroyed by battle or card effect, you can place this card from your GY on the bottom of the Deck instead. You can only use each effect of ""Reindsurm Encounter"" once per turn."
+101307076,Reindsurm Encounter,str1,Activate
+101307076,Reindsurm Encounter,str3,Add to hand?
