@@ -855,6 +855,16 @@ def build_translation_pack(lang: str):
 
     # Extra phrases (keep phrase-level; avoid single-word glue)
     extras = {
+        "是否选怪兽回到卡组？": {
+            "en": "Select monsters to return to the Deck?",
+            "fr": "Sélectionner des monstres à renvoyer au Deck ?",
+            "de": "Monster wählen, die ins Deck zurückgelegt werden?",
+            "es": "¿Seleccionar monstruos para devolverlos al Deck?",
+            "pt": "Selecionar monstros para retornar ao Deck?",
+            "it": "Selezionare mostri da rimettere nel Deck?",
+            "ja": "デッキに戻すモンスターを選択しますか？",
+            "kr": "덱으로 되돌릴 몬스터를 선택하시겠습니까?",
+        },
         "是否适用效果？": {
             "en": "Apply the effect?",
             "fr": "Appliquer l'effet ?",
