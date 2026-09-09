@@ -1,5 +1,65 @@
 [
   {
+    "name": "Bonificación de Poder de Campo",
+    "desc": "Si uno o más monstruos son Invocados de Modo Normal o Especial y hay otro monstruo en el Campo con el mismo Tipo: ese o esos monstruos Invocados ganan 1000 ATK/DEF. \r\nSi esta carta es destruida: niega los efectos de todos los monstruos boca arriba en el Campo en este momento, y además su ATK/DEF se convierte en su ATK/DEF original. \r\nUna vez por turno, durante la Standby Phase, si esta carta está en tu Cementerio y no hay cartas en ninguna Zona del Campo: puedes Colocar esta carta boca arriba en tu Campo.",
+    "overallString": "[Mágica|Campo]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268016.jpg?version=19.7"
+  },
+  {
+    "name": "Estrategia Aroma",
+    "desc": "Una vez por turno: puedes declarar 1 nombre de carta; revela la carta de la parte superior de tu Deck, y si es la carta declarada, puedes aplicar este efecto basado en su tipo. Si no lo es, destruye esta carta.\r\n● Monstruo: Invócala de Modo Especial.\r\n● Mágica/Trampa: Colócala.\t\r\nSi esta carta es destruida por efecto de carta: puedes Invocar de Modo Especial 1 monstruo \"Arpía\" desde tu Deck o Cementerio.",
+    "overallString": "[Trampa|Continua]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268017.jpg?version=19.7"
+  },
+  {
+    "name": "Rey de Yamimado",
+    "desc": "Mientras controles una carta boca abajo, esta carta no puede ser destruida por efectos de cartas de tu adversario, y además tu adversario no puede seleccionarla con efectos de cartas. \r\nSólo puedes usar los siguientes efectos de \"Rey de Yamimado\" una vez por turno. \r\nSi hay 2 o más cartas boca abajo y/o \"Yami\" en el Campo: puedes Invocar esta carta de Modo Especial desde tu mano. \r\n(Efecto Rápido): Cuando un monstruo en el Campo con ATK menor que esta carta activa su efecto o declara un ataque: puedes destruir ese monstruo.",
+    "overallString": "[Monstruo|Efecto] Demonio/OSCURIDAD  [★7] 2600/2300",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268018.jpg?version=19.7"
+  },
+  {
+    "name": "Rechazo de Atributo",
+    "desc": "Tu adversario no puede activar cartas o efectos en respuesta a la activación de esta carta si fue activada como Eslabón de Cadena 3 o mayor. \r\nSelecciona 1 monstruo boca arriba del adversario Invocado de Modo Especial desde el Deck Extra; manda al Cementerio 1 monstruo de OSCURIDAD o Zombi desde tu mano, Deck o Campo boca arriba y, si lo haces, el monstruo seleccionado pierde ATK igual al ATK original del monstruo mandado, y después si es de LUZ, sus efectos son negados. \r\nSólo puedes activar 1 \"Rechazo de Atributo\" por turno. ",
+    "overallString": "[Mágica|Juego Rápido]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268019.jpg?version=19.7"
+  },
+  {
+    "name": "Caballero de Espadas Gemelas",
+    "desc": "Si controlas una carta con un efecto que requiera un lanzamiento de dado: puedes Invocar esta carta de Modo Especial desde tu mano. \r\nDurante tu Main Phase: puedes lanzar un dado de seis caras tres veces y esta carta gana ATK igual al total x 350 hasta el final de este turno, y después si 2 o más de los resultados son iguales, puedes Invocar de Modo Especial 1 monstruo desde tu mano. \r\nSólo puedes usar estos efectos de \"Caballero de Espadas Gemelas\" una vez por turno. \r\nPuede hacer hasta 2 ataques a monstruos durante cada Battle Phase.",
+    "overallString": "[Monstruo|Efecto] Guerrero/TIERRA  [★3] 350/200",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268020.jpg?version=19.7"
+  },
+  {
+    "name": "Espada Fuerza Relámpago",
+    "desc": "Destierra (boca arriba) 1 carta al azar de la mano de tu adversario (hasta la Standby Phase del próximo turno), y después si esta carta fue Colocada antes de la activación y desterró un monstruo, aplica este efecto basado en su Nivel.\r\n● 4 o menor: tu adversario destierra todos los monstruos con el mismo nombre de su mano, Deck y Cementerio.\r\n● 5 o mayor: añade a tu mano 1 monstruo de Nivel 5 o mayor con el mismo Tipo, Atributo y/o Nivel desde tu Deck. \t\r\nSólo puedes activar 1 \"Espada Fuerza Relámpago\" por turno.",
+    "overallString": "[Mágica|Juego Rápido]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268021.jpg?version=19.7"
+  },
+  {
+    "name": "Archidemonio de Gilfer - Ataque de Llama",
+    "desc": "(Efecto Rápido): Durante la Main Phase: puedes mandar esta carta de la mano al Cementerio; roba 1 carta, y después descarta 1 carta, y además todos los monstruos boca arriba que controle tu adversario pierden 500 ATK por el resto de este turno. \r\nSi uno o más monstruos son destruidos en una batalla que involucre a tu(s) monstruo(s) Demonio mientras esta carta está en tu Cementerio: puedes Invocar esta carta de Modo Especial, pero destiérrala cuando deje el Campo. \r\nSólo puedes usar los efectos de \"Archidemonio de Gilfer - Ataque de Llama\" una vez por turno.",
+    "overallString": "[Monstruo|Efecto] Demonio/OSCURIDAD  [★6] 2200/2500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268022.jpg?version=19.7"
+  },
+  {
+    "name": "Gearfried el Caballero de Acero",
+    "desc": "(Efecto Rápido): Si uno o más monstruos que controlas fueron destruidos en batalla o por efecto este turno: puedes Invocar esta carta de Modo Especial desde tu mano y, si lo haces, equipa 1 monstruo desde tu Cementerio a ella como una Mágica de Equipo que le da 800 ATK. \r\nDurante tu Main Phase: puedes destruir tantas cartas equipadas a esta carta como sea posible, y después si destruiste una Carta de Monstruo con este efecto, puedes añadir a tu mano 1 monstruo desde tu Deck con el mismo Atributo y Tipo que 1 de ellas, pero un Nivel diferente. \r\nSólo puedes usar los efectos de \"Gearfried el Caballero de Acero\" una vez por turno.",
+    "overallString": "[Monstruo|Efecto] Guerrero/TIERRA  [★4] 1800/1600",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268023.jpg?version=19.7"
+  },
+  {
+    "name": "Carta Mágica \"Controlador Enemigo\"",
+    "desc": "Paga 1000 LP, y después selecciona 1 monstruo boca arriba que controle tu adversario; aplica 1 de estos efectos.\r\n● Destrúyelo.\r\n● Inmediatamente después de que este efecto se resuelva, Invoca por Sacrificio 1 monstruo Sacrificando monstruos incluyendo el monstruo seleccionado (aunque no lo controles).\t\r\nDurante tu Main Phase: puedes desterrar esta carta en tu Cementerio; añade a tu mano 1 \"Carta Mágica \"Controlador Enemigo\"\" desde tu Deck. \r\nSólo puedes usar 1 efecto de los efectos de \"Carta Mágica \"Controlador Enemigo\"\" por turno, y sólo una vez ese turno.",
+    "overallString": "[Mágica|Juego Rápido]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268024.jpg?version=19.7"
+  },
+  {
+    "name": "Viaje Final del Alma",
+    "desc": "Cuando tu adversario activa una carta o efecto que incluya un efecto para Invocar de Modo Especial una o más Cartas de Monstruo desde el Cementerio: niega ese efecto y, si lo haces, Invoca de Modo Especial 1 monstruo del Cementerio de tu adversario a su Campo, y después manda al Cementerio cualquier número de monstruos boca arriba que controle cuyo ATK total sea 6000 o menos. \r\nSi esta carta es desterrada: puedes añadirla a tu mano, y después inmediatamente después de que este efecto se resuelva, puedes Invocar de Modo Normal 1 monstruo desde tu mano que requiera 1 o más Sacrificios sin Sacrificar. \r\nSólo puedes usar cada uno de los efectos de \"Viaje Final del Alma\" una vez por turno.",
+    "overallString": "[Trampa]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268025.jpg?version=19.7"
+  },
+  {
     "name": "Mago Armadura Pazoo",
     "desc": "(Esta carta siempre se trata como una carta \"Profecía\").\t\nSi esta carta está en tu mano o Cementerio: puedes seleccionar 1 monstruo boca arriba que controles; equipa esta carta a él como una Mágica de Equipo con estos efectos.\n● El monstruo equipado gana 2100 ATK/DEF mientras tus LP sean 4000 o menos.\n● Cuando el efecto de una carta activada del adversario se resuelve, si controlas una carta que requiera un lanzamiento de dado, puedes negar ese efecto, y después desterrar esta carta.\t\nSólo puedes usar este efecto de \"Mago Armadura Pazoo\" una vez por turno.",
     "overallString": "[Monstruo|Efecto] Lanzador de Conjuros/LUZ  [★3] 0/700",
