@@ -1,5 +1,65 @@
 [
   {
+    "name": "Field Power Bonus",
+    "desc": "If a monster(s) is Normal or Special Summoned and there is another monster(s) on the field with the same Type: That Summoned monster(s) gains 1000 ATK/DEF. If this card is destroyed: Negate the effects of all face-up monsters currently on the field, also their ATK/DEF become their original ATK/DEF. Once per turn, during the Standby Phase, if this card is in your GY and there are no cards in the Field Zones: You can place this card face-up on your field.",
+    "overallString": "[Spell|Field]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268016.jpg?version=19.7"
+  },
+  {
+    "name": "Aroma Strategy",
+    "desc": "Once per turn: You can declare 1 card name; reveal the top card of your Deck, and if it is the declared card, you can apply this effect based on its card type. If it is not, destroy this card.\n● Monster: Special Summon it.\n● Spell/Trap: Set it.\nIf this card is destroyed by card effect: You can Special Summon 1 \"Harpie\" monster from your Deck or GY.",
+    "overallString": "[Trap|Continuous]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268017.jpg?version=19.7"
+  },
+  {
+    "name": "King of Yamimado",
+    "desc": "While you control a face-down card, this card cannot be destroyed by your opponent's card effects, also your opponent cannot target it with card effects. You can only use each of the following effects of \"King of Yamimado\" once per turn. If this card is in your hand and 2 or more face-down cards and/or \"Yami\" are on the field: You can Special Summon this card. When a monster on the field with less ATK than this card activates its effect or declares an attack (Quick Effect): You can destroy that monster.",
+    "overallString": "[Monster|Effect] Fiend/Dark  [★7] 2600/2300",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268018.jpg?version=19.7"
+  },
+  {
+    "name": "Attribute Rejection",
+    "desc": "Target 1 face-up monster your opponent controls that was Special Summoned from the Extra Deck; send 1 DARK or Zombie monster from your hand, Deck, or face-up field to the GY, and if you do, the targeted monster loses ATK equal to the sent monster's original ATK, then if the targeted monster is LIGHT, negate its effects. You can only activate 1 \"Attribute Rejection\" per turn. If this card was activated as Chain Link 3 or higher, your opponent cannot activate cards or effects in response to this card's activation.",
+    "overallString": "[Spell|Quick-Play]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268019.jpg?version=19.7"
+  },
+  {
+    "name": "Knight of Twin Swords",
+    "desc": "Can make up to 2 attacks on monsters during each Battle Phase. You can only use each of the following effects of Knight of Twin Swords\" once per turn. If this card is in your hand and you control a card with an effect that requires a die roll: You can Special Summon this card. During your Main Phase: You can roll a six-sided die 3 times, and if you do, this card gains ATK equal to the total x 350 (until the end of this turn), then if 2 or more of the results were the same, you can Special Summon 1 monster from your hand.",
+    "overallString": "[Monster|Effect] Warrior/Earth  [★3] 350/200",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268020.jpg?version=19.7"
+  },
+  {
+    "name": "Flashforce Sword",
+    "desc": "Banish (face-up) 1 random card from your opponent's hand (until the Standby Phase of the next turn), then if this card was Set before activation and it banished a monster, you can apply this effect based on its Level.\n● 4 or lower: Your opponent banishes all monsters with its same name from their hand, Deck, and GY.\n● 5 or higher: Add 1 Level 5 or higher monster with the same Type, Attribute, and/or Level from your Deck to your hand.\nYou can only activate 1 \"Flashforce Sword\" per turn.",
+    "overallString": "[Spell|Quick-Play]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268021.jpg?version=19.7"
+  },
+  {
+    "name": "Archfiend of Gilfer - Flame Attack",
+    "desc": "During the Main Phase (Quick Effect): You can send this card from your hand to the GY; draw 1 card, then discard 1 card, also all monsters your opponent controls lose 500 ATK this turn. When a monster is destroyed by battle involving your Fiend monster, while this card is in your GY: You can Special Summon this card, but banish it when it leaves the field. You can only use each effect of \"Archfiend of Gilfer - Flame Attack\" once per turn.",
+    "overallString": "[Monster|Effect] Fiend/Dark  [★6] 2200/2500",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268022.jpg?version=19.7"
+  },
+  {
+    "name": "Gearfried the Steel Knight",
+    "desc": "If a monster(s) you control was destroyed by battle or card effect this turn (Quick Effect): You can Special Summon this card from your hand, and if you do, equip 1 monster from your GY to it as an Equip Spell that gives it 800 ATK. During your Main Phase: You can destroy as many cards equipped to this card as possible, then if you destroyed a Monster Card by this effect, you can add 1 monster from your Deck to your hand with the same Attribute and Type as 1 of them, but a different Level. You can only use each effect of \"Gearfried the Steel Knight\" once per turn.",
+    "overallString": "[Monster|Effect] Warrior/Earth  [★4] 1800/1600",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268023.jpg?version=19.7"
+  },
+  {
+    "name": "Spell Card \"Enemy Controller\"",
+    "desc": "Pay 1000 LP, then target 1 face-up monster your opponent controls; apply 1 of these effects.\n● Destroy it.\n● Immediately after this effect resolves, Tribute Summon 1 monster by Tributing monsters including the targeted opponent's monster, even though you do not control it.\nDuring your Main Phase: You can banish this card from your GY; add 1 \"Spell Card \"Enemy Controller\"\" from your Deck to your hand. You can only use 1 \"Spell Card \"Enemy Controller\"\" effect per turn, and only once that turn.",
+    "overallString": "[Spell|Quick-Play]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268024.jpg?version=19.7"
+  },
+  {
+    "name": "Final Journey of the Soul",
+    "desc": "When your opponent activates a card or effect that includes an effect that Special Summons a Monster Card(s) from the GY: Negate that effect, and if you do, Special Summon 1 monster from your opponent's GY to their field, then send any number of face-up monsters they control to the GY whose total ATK equal 6000 or less. If this card is banished: You can add it to your hand, then immediately after this effect resolves, you can Normal Summon 1 monster from your hand that requires 1 or more Tributes without Tributing. You can only use each effect of \"Final Journey of the Soul\" once per turn.",
+    "overallString": "[Trap]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268025.jpg?version=19.7"
+  },
+  {
     "name": "Armor Wizard Pazoo",
     "desc": "(This card is always treated as a \"Prophecy\" card.)\nIf this card is in your hand or GY: You can target 1 face-up monster you control; equip this card to it as an Equip Spell with the following effects. You can only use this effect of \"Armor Wizard Pazoo\" once per turn.\n● The equipped monster gains 2100 ATK/DEF while your LP are 4000 or less.\n● When a card or effect activated by your opponent resolves, if you control a card with an effect that requires a die roll, you can negate the activated effect, then banish this card.",
     "overallString": "[Monster|Effect] Spellcaster/Light  [★3] 0/700",
