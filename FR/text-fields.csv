@@ -287,7 +287,7 @@ Durant votre Main Phase, vous pouvez Invoquer Normalement 1 monstre ""Faille Tri
 Durant votre Main Phase : vous pouvez bannir (face verso) 1 monstre ""Faille Tri-Royaume"" que vous contrôlez dont le Niveau d'origine est max. 4, et si vous le faites, Invoquez Spécialement 1 de vos monstres ""Faille Tri-Royaume"" de min. Niveau 5 bannis face verso.
 Vous ne pouvez utiliser cet effet de ""Évangile de la Faille Tri-Royaume"" qu'une fois par tour."
 100267040,Évangile de la Faille Tri-Royaume,str1,Bannir des cartes du Cimetière pour activer ?
-100267040,Évangile de la Faille Tri-Royaume,str2,Invoquer par l'effet de {CARD}
+100267040,Évangile de la Faille Tri-Royaume,str2,"Invoquer par l'effet de ""Évangile de la Faille Tri-Royaume"""
 100267040,Évangile de la Faille Tri-Royaume,str3,Invocation Spéciale
 100267041,Jugement Xénovahisseur△,name,Jugement Xénovahisseur△
 100267041,Jugement Xénovahisseur△,desc,"Si votre adversaire Invoque Normalement ou Spécialement un ou plusieurs monstres : vous pouvez en cibler 1 ; choisissez 1 de vos monstres ""Xénovahisseur△"" bannis face verso du même Attribut, et soit ajoutez-le à votre main soit Invoquez-le Spécialement, et aussi, le reste de ce tour, vous ne pouvez pas choisir à nouveau le même Attribut avec cet effet de ""Jugement Xénovahisseur△"", et vous ne pouvez activer ni de cartes ni d'effets (cartes et effets ""Xénovahisseur△"" exclus).
@@ -391,7 +391,7 @@ Si ce n'est pas la carte déclarée, détruisez cette carte.
 Si cette carte est détruite par un effet de carte : vous pouvez Invoquer Spécialement 1 monstre ""Harpie"" depuis votre Deck ou Cimetière."
 100268017,Stratégie du Parfum,str1,Activer
 100268017,Stratégie du Parfum,str2,Invocation Spéciale
-100268017,Stratégie du Parfum,str3,Activer ?
+100268017,Stratégie du Parfum,str3,Appliquer l'effet ?
 100268018,Roi de Yamimado,name,Roi de Yamimado
 100268018,Roi de Yamimado,desc,"Tant que vous contrôlez une carte face verso, cette carte ne peut être détruite par des effets de carte de votre adversaire, et aussi, votre adversaire ne peut pas la cibler avec des effets de carte.
 Vous ne pouvez utiliser chacun des effets suivants de ""Roi de Yamimado"" qu'une fois par tour.
@@ -418,7 +418,7 @@ Durant votre Main Phase : vous pouvez lancer un dé à six faces 3 fois, et si v
 ● Min. Niveau 5 : Ajoutez 1 monstre de min. Niveau 5 du même Type, Attribut et/ou Niveau depuis votre Deck à votre main.
 Vous ne pouvez activer qu'1 ""Épée de la Force du Flash"" par tour."
 100268021,Épée de la Force du Flash,str1,Activer
-100268021,Épée de la Force du Flash,str2,Banni par « Épée de la Force du Flash »
+100268021,Épée de la Force du Flash,str2,"Bannie par ""Épée de la Force du Flash"""
 100268021,Épée de la Force du Flash,str3,Appliquer l'effet ?
 100268022,Archdémon de Gilfer - Attaque de Flammes,name,Archdémon de Gilfer - Attaque de Flammes
 100268022,Archdémon de Gilfer - Attaque de Flammes,desc,"Durant la Main Phase (Effet Rapide) : vous pouvez envoyer cette carte depuis votre main au Cimetière ; piochez 1 carte, puis défaussez 1 carte, et aussi, tous les monstres contrôlés par votre adversaire perdent 500 ATK ce tour.
@@ -431,7 +431,7 @@ Vous ne pouvez utiliser chaque effet de ""Archdémon de Gilfer - Attaque de Flam
 Durant votre Main Phase : vous pouvez détruire autant de cartes équipées à cette carte que possible, puis si vous avez détruit une Carte Monstre avec cet effet, vous pouvez ajouter 1 monstre depuis votre Deck à votre main du même Type et Attribut qu'1 d'elles, mais de Niveau différent.
 Vous ne pouvez utiliser chaque effet de ""Gearfried le Chevalier d'Acier"" qu'une fois par tour."
 100268023,Gearfried le Chevalier d'Acier,str1,Invocation Spéciale
-100268023,Gearfried le Chevalier d'Acier,str2,Détruire un équipement
+100268023,Gearfried le Chevalier d'Acier,str2,Détruire des Cartes d'Équipement
 100268023,Gearfried le Chevalier d'Acier,str3,Ajouter à la main?
 100268024,"Carte Magie ""Contrôleur d'Ennemi""",name,"Carte Magie ""Contrôleur d'Ennemi"""
 100268024,"Carte Magie ""Contrôleur d'Ennemi""",desc,"Payez 1000 LP, puis ciblez 1 monstre face recto contrôlé par votre adversaire ; appliquez 1 de ces effets.
@@ -552,7 +552,7 @@ Si cette carte et un monstre ""Réindsurm"" LUMIÈRE sont dans votre Cimetière 
 Vous ne pouvez utiliser chaque effet de ""Giriakarma Réindsurm"" qu'une fois par tour."
 101307028,Giriakarma Réindsurm,str1,Annuler l'activation
 101307028,Giriakarma Réindsurm,str2,Ajouter à la main
-101307028,Giriakarma Réindsurm,str3,Renvoyer un monstre dans le Deck ?
+101307028,Giriakarma Réindsurm,str3,Sélectionner des monstres à renvoyer au Deck ?
 101307030,Dieu du Soleil des Ténèbres - Le Dragon Ailé de Râ,name,Dieu du Soleil des Ténèbres - Le Dragon Ailé de Râ
 101307030,Dieu du Soleil des Ténèbres - Le Dragon Ailé de Râ,desc,"""Le Dragon Ailé de Râ"" + 3 monstres ""Dieu du Soleil""
 Non affectée par les effets d'autres cartes.
@@ -598,7 +598,7 @@ Si vous Invoquez Rituellement un ou plusieurs monstres Insecte tant que cette ca
 Vous ne pouvez utiliser qu'1 effet de ""Papillon Réindsurm"" par tour, et uniquement une fois le tour."
 101307057,Papillon Réindsurm,str1,Activer
 101307057,Papillon Réindsurm,str2,Augmenter l'ATK/DEF
-101307057,Papillon Réindsurm,str3,L'effet de {CARD} est actuellement appliqué.
+101307057,Papillon Réindsurm,str3,"L'effet de ""Papillon Réindsurm"" est actuellement appliqué."
 101307058,Entraînement Réindsurm,name,Entraînement Réindsurm
 101307058,Entraînement Réindsurm,desc,"Ajoutez 2 monstres ""Réindsurm"" depuis votre Deck à votre main, puis envoyez 1 carte depuis votre main au Cimetière, puis si votre adversaire a un monstre Dragon dans son Terrain ou Cimetière, vous pouvez ajouter 1 monstre Insecte depuis votre Cimetière à votre main.
 Si vous Invoquez Rituellement un ou plusieurs monstres Insecte tant que cette carte est dans votre Cimetière : vous pouvez bannir cette carte ; placez 1 Magie de Terrain ""Réindsurm"" depuis votre Deck face recto sur votre Terrain.
