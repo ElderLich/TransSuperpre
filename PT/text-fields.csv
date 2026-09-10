@@ -17,13 +17,13 @@ Se você ativou ""Armamento da Reencarnação"" neste turno: você pode adiciona
 Você só pode usar cada um dos efeitos de ""Conexão Poderosa"" uma vez por turno."
 100200294,Conexão Poderosa,str1,Ativar
 100200294,Conexão Poderosa,str2,Recuperar
-100200297,装甲魔导士 帕智,name,装甲魔导士 帕智
-100200297,装甲魔导士 帕智,desc,"这个卡名的①的效果1回合只能使用1次。
-①：这张卡在手卡·墓地存在的场合，以自己场上1只表侧表示怪兽为对象才能发动。这张卡当作持有以下效果的装备魔法卡使用给那只怪兽装备。
-●只要自己的基本分在4000以下，装备怪兽的攻击力·守备力上升2100。
-●对方发动的卡的效果的处理时，持有掷骰子效果的卡在自己场上存在的场合，可以把那个发动的效果无效。那之后，这张卡除外。"
-100200297,装甲魔导士 帕智,str1,Equipar
-100200297,装甲魔导士 帕智,str3,Negar o efeito? (装甲魔导士 帕智)
+100200297,Armadura Feiticeira Pazoo,name,Armadura Feiticeira Pazoo
+100200297,Armadura Feiticeira Pazoo,desc,"(Este card é sempre considerado um card ""Profecia"".)
+Se este card está na sua mão ou Cemitério: você pode escolher 1 monstro com a face para cima que você controla; equipe este card a ele como uma Magia de Equipamento com os seguintes efeitos. Você só pode usar este efeito de ""Armadura Feiticeira Pazoo"" uma vez por turno.
+● O monstro equipado ganha 2100 de ATK/DEF enquanto seus PV são 4000 ou menor.
+● Quando um card ou efeito ativado pelo seu oponente resolve, se você controla um card com um efeito que requer rolar um dado, você pode negar o efeito ativado, então bana este card."
+100200297,Armadura Feiticeira Pazoo,str1,Equipar
+100200297,Armadura Feiticeira Pazoo,str3,Negar o efeito? (Armadura Feiticeira Pazoo)
 100267001,Profeta Sennet - Nefertari,name,Profeta Sennet - Nefertari
 100267001,Profeta Sennet - Nefertari,desc,"Se este card é Invocado por Invocação-Normal ou Especial: você pode envia-lo para o Cemitério; mostre até 2 Cards de Monstros Normais da sua mão, Deck, campo com a face para cima, e/ou Cemitério, então Baixe aquela quantia de Magias ""Sennet"" do seu Deck.
 Durante o turno do seu oponente (Efeito Rápido): você pode banir este card do seu Cemitério; Equipe 1 Monstro Normal do seu Cemitério à 1 Monstro Ritual que você controla como uma Magia de Equipamento.
@@ -276,12 +276,13 @@ Durante sua Fase Principal: você pode banir (com a face para baixo) 1 monstro "
 Uma vez por batalha, durante o cálculo de dano, se seu monstro ""Xenovasor△"" batalhar com um monstro do oponente e você não tem cards no seu Deck: você pode tornar o ATK daquele monstro em 0."
 100267041,Julgamento Xenovasor△,str1,Recuperar
 100267041,Julgamento Xenovasor△,str2,ATK torna-se 0
-100268002,完美羽化-究极完全态大飞蛾,name,完美羽化-究极完全态大飞蛾
-100268002,完美羽化-究极完全态大飞蛾,desc,"这张卡不能通常召唤。「完美羽化-究极完全态大飞蛾」1回合1次，在自己墓地的昆虫族怪兽是6只以上的场合才能特殊召唤。
-①：这张卡特殊召唤的场合才能发动。对方场上的卡全部回到手卡。那之后，自己墓地有通常怪兽存在的场合，这张卡的攻击力上升自己墓地的昆虫族怪兽的数量×300。
-②：每次对方把怪兽召唤·特殊召唤发动。对方场上的全部怪兽的攻击力下降自身的等级×100。"
-100268002,完美羽化-究极完全态大飞蛾,str1,Retornar para a mão
-100268002,完美羽化-究极完全态大飞蛾,str2,Reduzir ATK
+100268002,Eclosão Perfeita - Última Perfeitamente Grande Moth,name,Eclosão Perfeita - Última Perfeitamente Grande Moth
+100268002,Eclosão Perfeita - Última Perfeitamente Grande Moth,desc,"Não pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial (da sua mão) por ter 6 ou mais monstros Insetos no seu Cemitério. Você só pode Invocar por Invocação-Especial ""Eclosão Perfeita - Última Perfeitamente Grande Moth"" uma vez por turno dessa forma.
+Se este card é Invocado por Invocação-Especial: você pode retornar quantos cards seu oponente controla for possível para a mão, então se você tem um Monstro Normal no seu Cemitério, você pode fazer este card ganhar 300 de ATK para cada monstro Inseto no seu Cemitério.
+Toda vez que seu oponente Invocar por Invocação-Normal ou Especial um ou mais monstros: todos os monstros que seu oponente controla atualmente perdem ATK igual ao seu Nível x100."
+100268002,Eclosão Perfeita - Última Perfeitamente Grande Moth,str1,Retornar para a mão
+100268002,Eclosão Perfeita - Última Perfeitamente Grande Moth,str2,Reduzir ATK
+100268002,Eclosão Perfeita - Última Perfeitamente Grande Moth,str3,Aumentar ATK?
 100268004,"Dragão Definitivo de Olhos Azuis, o Servo que Supera um Deus",name,"Dragão Definitivo de Olhos Azuis, o Servo que Supera um Deus"
 100268004,"Dragão Definitivo de Olhos Azuis, o Servo que Supera um Deus",desc,"""Dragão Branco de Olhos Azuis"" + ""Dragão Branco de Olhos Azuis"" + ""Dragão Branco de Olhos Azuis""
 Não pode ser destruído por efeitos, também não é afetado pelos efeitos do oponente ativados durante o turno do oponente.
@@ -353,79 +354,80 @@ Você só pode ativar 1 ""Super Crítico"" por turno."
 100268015,Super Crítico,str4,Destruir um monstro
 100268015,Super Crítico,str5,Destruir um monstro e negar os efeitos de outro monstro
 100268015,Super Crítico,str6,Invocação Especial
-100268016,环境适应力,name,环境适应力
-100268016,环境适应力,desc,"①：怪兽召唤·特殊召唤的场合，若和那只怪兽相同种族的其他怪兽在场上存在则发动。那些召唤·特殊召唤的怪兽的攻击力·守备力上升1000。
-②：这张卡被破坏的场合发动。场上的全部表侧表示怪兽的效果无效化，那些攻击力·守备力变成原本数值。
-③：自己·对方的准备阶段，这张卡在墓地存在，双方的场地区域没有卡存在的场合才能发动。这张卡在自己场上以表侧表示放置。"
-100268016,环境适应力,str1,Aumentar ATK
-100268016,环境适应力,str2,Negar
-100268016,环境适应力,str3,Colocar
-100268017,香水战术,name,香水战术
-100268017,香水战术,desc,"①：1回合1次，宣言1个卡名才能发动。自己卡组最上面的卡给双方确认，是宣言的卡的场合，可以根据那个种类适用以下效果。不是的场合，这张卡破坏。
-●怪兽：那只怪兽特殊召唤。
-●魔法·陷阱：那张卡在自己场上盖放。
-②：这张卡被效果破坏的场合才能发动。从自己的卡组·墓地把1只「鹰身」怪兽特殊召唤。"
-100268017,香水战术,str1,Ativar
-100268017,香水战术,str2,Invocação Especial
-100268017,香水战术,str3,Aplicar o efeito?
-100268018,暗魔导之霸王,name,暗魔导之霸王
-100268018,暗魔导之霸王,desc,"这个卡名的①③的效果1回合各能使用1次。
-①：这张卡在手卡存在，场上有里侧表示卡2张以上或「暗」存在的场合才能发动。这张卡特殊召唤。
-②：只要自己场上有里侧表示卡存在，这张卡不会被对方的效果破坏，对方不能把这张卡作为效果的对象。
-③：持有比这张卡低的攻击力的场上的怪兽，把效果发动时或者攻击宣言时才能发动。那只怪兽破坏。"
-100268018,暗魔导之霸王,str1,Invocação Especial
-100268018,暗魔导之霸王,str3,Destruir
-100268019,属性回弹作用,name,属性回弹作用
-100268019,属性回弹作用,desc,"这个卡名的卡在1回合只能发动1张，连锁3以后发动的场合，对方不能对应这张卡的发动把效果发动。
-①：以从额外卡组特殊召唤的对方场上1只表侧表示怪兽为对象才能发动。从自己的手卡·卡组·场上（表侧表示）把1只不死族或暗属性怪兽送去墓地，以那个原本攻击力数值让作为对象的怪兽的攻击力下降。作为对象的怪兽是光属性的场合，再把那个效果无效化。"
-100268019,属性回弹作用,str1,Ativar
-100268020,双剑之公爵骑士,name,双剑之公爵骑士
-100268020,双剑之公爵骑士,desc,"这个卡名的①②的效果1回合各能使用1次。
-①：这张卡在手卡存在，持有掷骰子效果的卡在自己场上存在的场合才能发动。这张卡特殊召唤。
-②：自己主要阶段才能发动。掷3次骰子。这张卡的攻击力直到回合结束时上升出现数目的合计×350。相同数目出现2个以上的场合，可以再从手卡把1只怪兽特殊召唤。
-③：这张卡在同1次的战斗阶段中最多2次可以向怪兽攻击。"
-100268020,双剑之公爵骑士,str1,Invocação Especial
-100268020,双剑之公爵骑士,str2,Rolar um dado
-100268020,双剑之公爵骑士,str3,Invocar um monstro por Invocação Especial?
-100268021,闪光之封杀剑,name,闪光之封杀剑
-100268021,闪光之封杀剑,desc,"这个卡名的卡在1回合只能发动1张。
-①：对方手卡随机选1张，直到下个回合的准备阶段以表侧除外。把盖放的这张卡发动，用那个效果把怪兽除外的场合，可以再根据那个等级适用以下效果。
-●4星以下：对方从自身的手卡·卡组·墓地把那些同名怪兽全部除外。
-●5星以上：自己从卡组把种族·属性·等级之内有1个以上和那只怪兽相同的，5星以上的1只怪兽加入手卡。"
-100268021,闪光之封杀剑,str1,Ativar
-100268021,闪光之封杀剑,str2,"Banido por ""闪光之封杀剑"""
-100268021,闪光之封杀剑,str3,Aplicar o efeito?
-100268022,暗黑魔族 基尔法恶魔-暗黑魔炎葬,name,暗黑魔族 基尔法恶魔-暗黑魔炎葬
-100268022,暗黑魔族 基尔法恶魔-暗黑魔炎葬,desc,"这个卡名的①②的效果1回合各能使用1次。
-①：自己·对方的主要阶段，把这张卡从手卡送去墓地才能发动。自己抽1张。那之后，选自己1张手卡丢弃。这个回合中，对方场上的怪兽的攻击力下降500。
-②：这张卡在墓地存在的状态，自己的恶魔族怪兽的战斗让怪兽被破坏时才能发动。这张卡特殊召唤。这个效果特殊召唤的这张卡从场上离开的场合除外。"
-100268022,暗黑魔族 基尔法恶魔-暗黑魔炎葬,str1,Comprar
-100268022,暗黑魔族 基尔法恶魔-暗黑魔炎葬,str2,Invocação Especial
-100268023,钢铁骑士 基亚·弗里德,name,钢铁骑士 基亚·弗里德
-100268023,钢铁骑士 基亚·弗里德,desc,"这个卡名的①②的效果1回合各能使用1次。
-①：自己场上的怪兽被战斗·效果破坏的自己·对方回合才能发动。这张卡从手卡特殊召唤，从自己墓地把1只怪兽当作攻击力上升800的装备魔法卡使用给这张卡装备。
-②：自己主要阶段才能发动。这张卡的装备卡全部破坏。这个效果把怪兽卡破坏的场合，可以再从卡组把和那之内的1只等级不同、种族·属性相同的1只怪兽加入手卡。"
-100268023,钢铁骑士 基亚·弗里德,str1,Invocação Especial
-100268023,钢铁骑士 基亚·弗里德,str2,Destruir Cards de Equipamento
-100268023,钢铁骑士 基亚·弗里德,str3,Adicionar à mão?
-100268024,魔法卡「敌人操纵器」,name,魔法卡「敌人操纵器」
-100268024,魔法卡「敌人操纵器」,desc,"这个卡名的①②的效果1回合只能有1次使用其中任意1个。
-①：支付1000基本分，以对方场上1只表侧表示怪兽为对象才能发动。从以下效果选1个适用。
-●作为对象的怪兽破坏。
-●进行1只怪兽的上级召唤。那之际，必须作为自己场上1只怪兽的代替而把作为对象的对方怪兽解放。
-②：自己主要阶段把墓地的这张卡除外才能发动。从卡组把1张「魔法卡「敌人操纵器」」加入手卡。"
-100268024,魔法卡「敌人操纵器」,str1,Ativar
-100268024,魔法卡「敌人操纵器」,str2,Adicionar à mão
-100268024,魔法卡「敌人操纵器」,str3,Efeito de destruição
-100268024,魔法卡「敌人操纵器」,str4,Invocação Tributo
-100268025,向魂的引导,name,向魂的引导
-100268025,向魂的引导,desc,"这个卡名的①②的效果1回合各能使用1次。
-①：包含从墓地把怪兽特殊召唤的效果的，卡的效果由对方发动时才能发动。那个效果无效。从对方墓地把1只怪兽在对方场上特殊召唤。那之后，可以把对方场上的表侧表示怪兽任意数量送去墓地（攻击力合计最多6000）。
-②：这张卡被除外的场合才能发动。这张卡加入手卡。那之后，可以不用解放来进行需要1只以上解放的手卡1只怪兽的召唤。"
-100268025,向魂的引导,str1,Ativar
-100268025,向魂的引导,str2,Retornar para a mão
-100268025,向魂的引导,str3,Enviar aquele monstro para o Cemitério?
-100268025,向魂的引导,str4,Invocar sem oferecer Tributo?
+100268016,Força Extra de Campo,name,Força Extra de Campo
+100268016,Força Extra de Campo,desc,"Se um ou mais monstros é Invocado por Invocação-Normal ou Especial e há um ou mais outros monstros no campo com o mesmo Tipo: aquele(s) monstro(s) Invocado recebe 1000 de ATK/DEF.
+Se este card é destruído: negue os efeitos de todos os monstros com a face para cima atualmente no campo, seus ATK/DEF se tornam o ATK/DEF original deles.
+Uma vez por turno, durante a Fase de Apoio, se este card está no seu Cemitério e não há cards nas Zonas de Campo: você pode colocar este card com a face para cima no seu campo."
+100268016,Força Extra de Campo,str1,Aumentar ATK
+100268016,Força Extra de Campo,str2,Negar
+100268016,Força Extra de Campo,str3,Colocar
+100268017,Estratégia do Aroma,name,Estratégia do Aroma
+100268017,Estratégia do Aroma,desc,"Uma vez por turno: você pode declarar 1 nome de um card; revele o card do topo do seu Deck, e se for o card declarado, você pode aplicar este efeito baseado no seu tipo de card. Se não for, destrua este card.
+● Monstro: Invoque-o por Invocação-Especial.
+● Magie/Armadilha: Baixe-a.
+Se este card for destruído por um efeito: você pode Invocar por Invocação-Especial 1 monstro ""Harpia"" do seu Deck ou Cemitério."
+100268017,Estratégia do Aroma,str1,Ativar
+100268017,Estratégia do Aroma,str2,Invocação Especial
+100268017,Estratégia do Aroma,str3,Aplicar o efeito?
+100268018,Rei de Yamimado,name,Rei de Yamimado
+100268018,Rei de Yamimado,desc,"Enquanto você controla um card com a face para baixo, este card não pode ser destruído pelos efeitos do seu oponente, seu oponente também não pode escolhe-lo com efeitos.
+Você só pode usar cada um dos seguintes efeitos de ""Rei de Yamimado"" uma vez por turno.
+Se este card está na sua mão e 2 ou mais cards com a face para baixo, e/ou ""Yami"", estão no campo: você pode Invocar por Invocação-Especial este card.
+Quando um monstro no campo com menos ATK que este card ativa seus efeitos ou declara um ataque (Efeito Rápido): você pode destruir aquele monstro."
+100268018,Rei de Yamimado,str1,Invocação Especial
+100268018,Rei de Yamimado,str3,Destruir
+100268019,Rejeição de Atributo,name,Rejeição de Atributo
+100268019,Rejeição de Atributo,desc,"Escolha 1 monstro com a face para cima que seu oponente controla que foi Invocado por Invocação-Especial do Deck Adicional; envie 1 monstro Zumbi ou de TREVAS da sua mão, Deck, ou face para cima no campo para o Cemitério, e se fizer, o monstro escolhido perde ATK igual ao ATK original do monstro enviado para o Cemitério, então se o monstro escolhido é de LUZ, negue seus efeitos.
+Você só pode ativar 1 ""Rejeição de Atributo"" por turno.
+Se este card for ativado como Elo de Corrente 3 ou maior, seu oponente não pode ativar cards ou efeitos em resposta a ativação deste card."
+100268019,Rejeição de Atributo,str1,Ativar
+100268020,Cavaleiro das Espadas Gêmeas,name,Cavaleiro das Espadas Gêmeas
+100268020,Cavaleiro das Espadas Gêmeas,desc,"Pode atacar até 2 vezes os monstros durante cada Fase de Batalha.
+Você só pode usar cada um dos seguintes efeitos de ""Cavaleiro das Espadas Gêmeas"" uma vez por turno.
+Se este card está na sua mão e você controla um card com um efeito que requer rolar um dado: você pode Invocar este card por Invocação-Especial.
+Durante sua Fase Principal: você pode rolar um dado D6 até 3 vezes, e se fizer, este card ganha ATK igual ao total x350 (até o final deste turno), então se 2 ou mais dos resultados foram iguais, você pode Invocar por Invocação-Especial 1 monstro da sua mão."
+100268020,Cavaleiro das Espadas Gêmeas,str1,Invocação Especial
+100268020,Cavaleiro das Espadas Gêmeas,str2,Rolar um dado
+100268020,Cavaleiro das Espadas Gêmeas,str3,Invocar um monstro por Invocação Especial?
+100268021,Espada Flashforce,name,Espada Flashforce
+100268021,Espada Flashforce,desc,"Bana (com a face para cima) 1 card aleatório da mão do seu oponente (até a Fase de Apoio do próximo turno), então se este card foi Baixado antes e ele baniu um monstro, você pode aplicar este efeito baseado Nível dele.
+● 4 ou menor: seu oponente bane todos os monstros com o mesmo nome da mão, Deck e Cemitério.
+● 5 ou maior: adicione 1 monstro de Nível 5 ou maior com o mesmo Tipo, Atributo, e/ou Nível do seu Deck à sua mão.
+Você só pode ativar 1 ""Espada Flashforce"" por turno."
+100268021,Espada Flashforce,str1,Ativar
+100268021,Espada Flashforce,str2,"Banido por ""Espada Flashforce"""
+100268021,Espada Flashforce,str3,Aplicar o efeito?
+100268022,Arquidemônio de Gilfer - Ataque Flamejante,name,Arquidemônio de Gilfer - Ataque Flamejante
+100268022,Arquidemônio de Gilfer - Ataque Flamejante,desc,"Durante a Fase Principal (Efeito Rápido): você pode enviar este card da sua mão ao Cemitério; compre 1 card, então descarte 1 card, todos os monstros que seu oponente controla perdem 500 de ATK neste turno.
+Quando um monstro é destruído por batalha envolvendo seu monstro Demônio, enquanto este card está no seu Cemitério: você pode Invocar por Invocação-Especial este card, mas bana-o quando deixar o campo.
+Você só pode usar cada efeito de ""Arquidemônio de Gilfer - Ataque Flamejante"" uma vez por turno."
+100268022,Arquidemônio de Gilfer - Ataque Flamejante,str1,Comprar
+100268022,Arquidemônio de Gilfer - Ataque Flamejante,str2,Invocação Especial
+100268023,Gearfried o Cavaleiro de Aço,name,Gearfried o Cavaleiro de Aço
+100268023,Gearfried o Cavaleiro de Aço,desc,"Se um ou mais monstros que você controla seriam destruídos por batalha ou efeito neste turno (Efeito Rápido): você pode Invocar por Invocação-Especial este card da sua mão, e se fizer, equipe 1 monstro do seu Cemitério a ele como uma Magia de Equipamento que da 800 de ATK.
+Durante sua Fase Principal: você pode destruir quantos cards equipados a este card for possível, então se você destruiu um Monstro por este efeito, você pode adicionar 1 monstro do seu Deck à sua mão com o mesmo Tipo e Atributo como 1 deles, mas com Nível diferente.
+Você só pode usar cada efeito de ""Gearfried o Cavaleiro de Aço"" uma vez por turno."
+100268023,Gearfried o Cavaleiro de Aço,str1,Invocação Especial
+100268023,Gearfried o Cavaleiro de Aço,str2,Destruir Cards de Equipamento
+100268023,Gearfried o Cavaleiro de Aço,str3,Adicionar à mão?
+100268024,"Card de Magia ""Controlador de Inimigo""",name,"Card de Magia ""Controlador de Inimigo"""
+100268024,"Card de Magia ""Controlador de Inimigo""",desc,"Pague 1000 PV, então escolha 1 monstro com a face para cima que seu oponente controla; aplique 1 desses efeitos.
+● Destrua-o
+● Imediatamente após resolver este efeito, Invoque por Invocação-Tributo 1 monstro oferecendo monstros incluindo o monstro escolhido do oponente, mesmo que você não o controle.
+Durante sua Fase Principal: você pode banir este card do seu Cemitério; adicione 1 ""Card de Magia ""Controlador de Inimigo"""" do seu Deck à sua mão.
+Você só pode usar 1 dos efeitos de ""Card de Magia ""Controlador de Inimigo"""" por turno, e somente uma vez naquele turno."
+100268024,"Card de Magia ""Controlador de Inimigo""",str1,Ativar
+100268024,"Card de Magia ""Controlador de Inimigo""",str2,Adicionar à mão
+100268024,"Card de Magia ""Controlador de Inimigo""",str3,Efeito de destruição
+100268024,"Card de Magia ""Controlador de Inimigo""",str4,Invocação Tributo
+100268025,Jornada Final da Alma,name,Jornada Final da Alma
+100268025,Jornada Final da Alma,desc,"Quando seu oponente ativa um card ou efeito que inclui um efeito que Invoca por Invocação-Especial um ou mais Monstros do Cemitério: negue aquele efeito, e se fizer, Invoque por Invocação-Especial 1 monstro do Cemitério do seu oponente para o campo dele, então envie qualquer número de monstros com a face para cima que ele controla para o Cemitério cujo total de ATK seja 6000 ou menor.
+Se este card é banido: você pode adiciona-lo à sua mão, então imediatamente após ativar este efeito, você pode Invocar por Invocação-Normal 1 monstro da sua mão que requer 1 ou mais Tributos sem oferecer Tributo.
+Você só pode usar cada efeito de ""Jornada Final da Alma"" uma vez por turno."
+100268025,Jornada Final da Alma,str1,Ativar
+100268025,Jornada Final da Alma,str2,Retornar para a mão
+100268025,Jornada Final da Alma,str3,Enviar aquele monstro para o Cemitério?
+100268025,Jornada Final da Alma,str4,Invocar sem oferecer Tributo?
 100268201,Paladino Negro - Onda Oscilante,name,Paladino Negro - Onda Oscilante
 100268201,Paladino Negro - Onda Oscilante,desc,"""Mago Negro"" + 1 monstro Nível 7 ou maior
 Deve ser Invocado por Invocação-Fusão.
@@ -436,20 +438,20 @@ Após este card destruir um car por batalha ou efeito e evia-lo para o Cemitéri
 100268201,Paladino Negro - Onda Oscilante,str1,Negar o efeito
 100268201,Paladino Negro - Onda Oscilante,str2,Destruir o card?
 100268201,Paladino Negro - Onda Oscilante,str3,"O efeito de ""Paladino Negro - Onda Oscilante"" está sendo aplicado."
-100270002,邪心教典,name,邪心教典
-100270002,邪心教典,desc,"这个卡名的①②的效果1回合各能使用1次。
-①：这张卡发动的回合的自己主要阶段才能发动。从卡组把1只恶魔族·暗属性怪兽加入手卡。那之后，从手卡选1只恶魔族怪兽丢弃。
-②：每次对方怪兽攻击宣言，给这张卡放置1个邪心教义指示物。
-③：把有邪心教义指示物4个以上放置中的这张卡送去墓地才能发动。从卡组把1只恶魔族怪兽特殊召唤。那之后，可以从卡组把1张「超融合」加入手卡。"
-100270002,邪心教典,str1,Adicionar à mão
-100270002,邪心教典,str2,Invocação Especial
-100270002,邪心教典,str3,Adicionar à mão?
-100270003,对未来的希望-永望荣合,name,对未来的希望-永望荣合
-100270003,对未来的希望-永望荣合,desc,"这个卡名的①②的效果1回合各能使用1次。
-①：自己场上有「新宇」融合怪兽或「元素英雄 新宇侠」存在的场合，丢弃1张手卡才能发动。自己手卡·卡组·场上的怪兽作为融合素材，把「英雄」怪兽为融合素材的1只融合怪兽融合召唤。
-②：自己场上有「新宇」融合怪兽存在的场合，把墓地的这张卡除外，以对方场上1张表侧表示卡为对象才能发动。那张卡的效果直到回合结束时无效。"
-100270003,对未来的希望-永望荣合,str1,Ativar
-100270003,对未来的希望-永望荣合,str2,Negar o efeito
+100270002,Cânone Perverso,name,Cânone Perverso
+100270002,Cânone Perverso,desc,"Toda vez que um monstro do oponente declara um ataque, coloque 1 Marcador de Doutrina Sinistra neste card.
+Você só pode usar cada um dos seguintes efeitos de ""Cânone Perverso"" uma vez por turno.
+Durante sua Fase Principal, se este card foi ativado neste turno: você pode adicionar 1 monstro Demônio de TREVAS do seu Deck à sua mão, então descarte 1 monstro Demônio.
+Você pode enviar este card com 4 ou mais Marcadores de Doutrina Sinistra para o Cemitério; Invoque por Invocação-Especial 1 monstro Demônio do seu Deck, então você pode adicionar 1 ""Super Polimerização"" do seu Deck à sua mão."
+100270002,Cânone Perverso,str1,Adicionar à mão
+100270002,Cânone Perverso,str2,Invocação Especial
+100270002,Cânone Perverso,str3,Adicionar à mão?
+100270003,Esperança do Futuro,name,Esperança do Futuro
+100270003,Esperança do Futuro,desc,"Se você controla um Monstro Fusão ""Neos"" ou ""HERÓI do Elemento Neos"": descarte 1 card; Invoque por Invocação-Fusão 1 Monstro Fusão do seu Deck Adicional que mencione um monstro ""HERÓI"" como matéria, usando monstros da sua mão, Deck, ou campo.
+Se você controla um Monstro Fusão ""Neos"": você pode banir este card do seu Cemitério, então escolha 1 card com a face para cima que seu oponente controla; negue seus efeitos até o final deste turno.
+Você só pode usar cada um dos efeitos de ""Esperança do Futuro"" uma vez por turno."
+100270003,Esperança do Futuro,str1,Ativar
+100270003,Esperança do Futuro,str2,Negar o efeito
 101306281,"Audhumla, Progenitor da Imensidão Congelada",name,"Audhumla, Progenitor da Imensidão Congelada"
 101306281,"Audhumla, Progenitor da Imensidão Congelada",desc,"Se 4 ou mais cards estão no campo: você pode Invocar por Invocação-Especial este card da sua mão.
 Você pode enviar até 2 Magias/Armadilhas que você controla para o Cemitério; compre aquela quantia de cards, então você pode Invocar por Invocação-Especial 1 monstro de  ÁGUA da sua mão.
@@ -490,44 +492,59 @@ Se um ou mais monstros é enviado para o Cemitério do seu oponente e você cont
 Durante a Fase Final, se ""Deus do Sol Imortal"" foi enviado para o seu Cemitério neste turno: você pode adicionar este card do seu Cemitério à sua mão."
 101307004,O Dispositivo de Tortura do Deus do Sol - Viser Des Shock,str1,Invocação Especial
 101307004,O Dispositivo de Tortura do Deus do Sol - Viser Des Shock,str2,Retornar para a mão
-101307024,轮回虫龙 大紫蛱蝶,name,轮回虫龙 大紫蛱蝶
-101307024,轮回虫龙 大紫蛱蝶,desc,"「龙之骸歌」降临。
-这个卡名的①②的效果1回合各能使用1次。
-①：这张卡仪式召唤的场合才能发动。从卡组把风属性以外的2只「轮回虫龙」怪兽加入手卡。
-②：这张卡因战斗以外被送去墓地的场合才能发动。等级合计直到变成仪式召唤的怪兽的等级以上为止，把自己手卡·场上的怪兽解放，或者作为解放的代替让自己墓地的昆虫族·龙族怪兽回到卡组，从手卡把1只昆虫族仪式怪兽仪式召唤。"
-101307024,轮回虫龙 大紫蛱蝶,str1,Adicionar à mão
-101307024,轮回虫龙 大紫蛱蝶,str2,Invocação Ritual
-101307025,轮回虫龙 秘鲁蜈蚣,name,轮回虫龙 秘鲁蜈蚣
-101307025,轮回虫龙 秘鲁蜈蚣,desc,"「龙之骸歌」降临。
-这个卡名的①②的效果1回合各能使用1次。
-①：这张卡仪式召唤的场合才能发动。从卡组把2张「轮回虫龙」魔法·陷阱卡加入手卡。
-②：这张卡因战斗以外被送去墓地的场合才能发动。等级合计直到变成仪式召唤的怪兽的等级以上为止，把自己手卡·场上的怪兽解放，或者作为解放的代替让自己墓地的昆虫族·龙族怪兽回到卡组，从手卡把1只昆虫族仪式怪兽仪式召唤。"
-101307025,轮回虫龙 秘鲁蜈蚣,str1,Adicionar à mão
-101307025,轮回虫龙 秘鲁蜈蚣,str2,Invocação Ritual
-101307026,轮回虫龙 ‌高加索南洋大兜虫,name,轮回虫龙 ‌高加索南洋大兜虫
-101307026,轮回虫龙 ‌高加索南洋大兜虫,desc,"「龙之骸歌」降临。
-这个卡名的①②的效果1回合各能使用1次。
-①：这张卡仪式召唤的场合才能发动。从卡组把2张「轮回虫龙」卡送去墓地。
-②：这张卡因战斗以外被送去墓地的场合才能发动。等级合计直到变成仪式召唤的怪兽的等级以上为止，把自己手卡·场上的怪兽解放，或者作为解放的代替让自己墓地的昆虫族·龙族怪兽回到卡组，从手卡把1只昆虫族仪式怪兽仪式召唤。"
-101307026,轮回虫龙 ‌高加索南洋大兜虫,str1,Enviar para o Cemitério
-101307026,轮回虫龙 ‌高加索南洋大兜虫,str2,Invocação Ritual
-101307027,轮回虫龙 秘鲁巨人蜈蚣,name,轮回虫龙 秘鲁巨人蜈蚣
-101307027,轮回虫龙 秘鲁巨人蜈蚣,desc,"「龙之骸歌」降临。
-这个卡名的①②③的效果1回合各能使用1次。
-①：自己·对方回合，把包含这张卡的2张手卡送去墓地才能发动。从卡组把炎属性以外的1只「轮回虫龙」怪兽加入手卡。
-②：这张卡仪式召唤的场合，或者对方把怪兽特殊召唤的场合才能发动。场上最多2只怪兽回到卡组。
-③：自己墓地有这张卡和水属性「轮回虫龙」怪兽存在的场合才能发动。这张卡加入手卡。"
-101307027,轮回虫龙 秘鲁巨人蜈蚣,str1,Adicionar à mão
-101307027,轮回虫龙 秘鲁巨人蜈蚣,str2,Retornar ao Deck
-101307027,轮回虫龙 秘鲁巨人蜈蚣,str3,Adicionar à mão
-101307028,轮回虫龙 奇伦南洋大兜虫,name,轮回虫龙 奇伦南洋大兜虫
-101307028,轮回虫龙 奇伦南洋大兜虫,desc,"「龙之骸歌」降临。
-这个卡名的①②的效果1回合各能使用1次。
-①：这张卡是已仪式召唤的场合，对方把场上·墓地的怪兽的效果发动时才能发动。那个发动无效。那之后，可以让对方场上以及墓地的怪兽各1只回到卡组。这个效果选的是龙族怪兽的场合，这张卡的攻击力变成2倍。
-②：自己墓地有这张卡和光属性「轮回虫龙」怪兽存在的场合才能发动。这张卡加入手卡。"
-101307028,轮回虫龙 奇伦南洋大兜虫,str1,Negar a ativação
-101307028,轮回虫龙 奇伦南洋大兜虫,str2,Adicionar à mão
-101307028,轮回虫龙 奇伦南洋大兜虫,str3,Selecionar monstros para retornar ao Deck?
+101307013,Salamagrande Markhor,name,Salamagrande Markhor
+101307013,Salamagrande Markhor,desc,"Se este card é Invocado por Invocação-Normal ou Especial: você pode adicionar 1 Magia/Armadilha ""Salamagrande"" do seu Deck ou Cemitério à sua mão.
+Se este card for enviado ao Cemitério como matéria para um Monstro Link de FOGO Link-3 ou maior: você pode Invocar por Invocação-Especial 1 monstro Ciberso de FOGO do seu Deck.
+Você só pode usar cada um dos efeitos de ""Salamagrande Markhor"" uma vez por turno, você também não pode Invocar por Invocação-Especial no turno que ativar qualquer efeito deste card, exceto monstros de FOGO."
+101307013,Salamagrande Markhor,str1,Adicionar à mão
+101307013,Salamagrande Markhor,str2,Invocação Especial
+101307014,Salamagrande Bastella,name,Salamagrande Bastella
+101307014,Salamagrande Bastella,desc,"Se você não controla monstros, ou todos os monstros que você controla são monstros ""Salamagrande"": você pode Invocar por Invocação-Especial este card da sua mão, então você pode aumentar ou reduzir o Nível de 1 monstro no campo em 1.
+Se você Invocar por Invocação-Link um Monstro Link de FOGO de Link-3 ou maior enquanto este card está no seu Cemitério: você pode banir este card; Baixe 1 Armadilha ""Salamagrande"" do seu Deck.
+Você só pode usar cada efeitos de ""Salamagrande Bastella"" uma vez por turno."
+101307014,Salamagrande Bastella,str1,Invocação Especial
+101307014,Salamagrande Bastella,str2,Baixar
+101307014,Salamagrande Bastella,str3,Alterar o Nível?
+101307014,Salamagrande Bastella,str4,Aumentar
+101307014,Salamagrande Bastella,str5,Reduzir
+101307024,Reindsurm Amurusa,name,Reindsurm Amurusa
+101307024,Reindsurm Amurusa,desc,"Você pode Invocar por Invocação-Ritual este card com ""Conquista Reindsurm"".
+Se este card é Invocado por Invocação-Ritual: você pode adicionar 2 monstros ""Reindsurm"" de não-VENTO do seu Deck à sua mão.
+Se este card é enviado ao Cemitério, exceto por batalha: você pode Invocar por Invocação-Ritual 1 Monstro Ritual Inseto da sua mão, oferecendo como Tributo monstros da sua mão ou campo, e/ou embaralhando monstros Inseto e/ou Dragão do seu Cemitério no Deck, cujo Nível total seja igual ou excedente ao seu Nível.
+Você só pode usar cada efeito de ""Reindsurm Amurusa"" uma vez por turno."
+101307024,Reindsurm Amurusa,str1,Adicionar à mão
+101307024,Reindsurm Amurusa,str2,Invocação Ritual
+101307025,Reindsurm Luvian,name,Reindsurm Luvian
+101307025,Reindsurm Luvian,desc,"Você pode Invocar por Invocação-Ritual este card com ""Conquista Reindsurm"".
+Se este card é Invocado por Invocação-Ritual: você pode adicionar 2 Magias/Armadilhas ""Reindsurm"" do seu Deck à sua mão.
+Se este card é enviado ao Cemitério, exceto por batalha: você pode Invocar por Invocação-Ritual 1 Monstro Ritual Inseto da sua mão, oferecendo como Tributo monstros da sua mão ou campo, e/ou embaralhando monstros Inseto e/ou Dragão do seu Cemitério no Deck, cujo Nível total seja igual ou excedente ao seu Nível.
+Você só pode usar cada um dos efeitos de ""Reindsurm Luvian"" uma vez por turno."
+101307025,Reindsurm Luvian,str1,Adicionar à mão
+101307025,Reindsurm Luvian,str2,Invocação Ritual
+101307026,Reindsurm Carcasas,name,Reindsurm Carcasas
+101307026,Reindsurm Carcasas,desc,"Você pode Invocar por Invocação-Ritual este card com ""Conquista Reindsurm"".
+Se este card é Invocado por Invocação-Ritual: você pode enviar 2 cards ""Reindsurm"" do seu Deck ao Cemitério.
+Se este card é enviado ao Cemitério, exceto por batalha: você pode Invocar por Invocação-Ritual 1 Monstro Ritual Inseto da sua mão, oferecendo como Tributo monstros da sua mão ou campo, e/ou embaralhando monstros Inseto e/ou Dragão do seu Cemitério no Deck, cujo Nível total seja igual ou excedente ao seu Nível.
+Você só pode usar cada um dos efeitos de ""Reindsurm Carcasas"" uma vez por turno."
+101307026,Reindsurm Carcasas,str1,Enviar para o Cemitério
+101307026,Reindsurm Carcasas,str2,Invocação Ritual
+101307027,Reindsurm Gigalovendra,name,Reindsurm Gigalovendra
+101307027,Reindsurm Gigalovendra,desc,"Você pode Invocar por Invocação-Ritual este card com ""Conquista Reindsurm"".
+(Efeito Rápido): você pode enviar 2 cards da sua mão ao Cemitério, incluindo este card; adicione 1 monstro ""Reindsurm"" de não-FOGO do seu Deck à sua mão.
+Se este card é Invocado por Invocação-Ritual ou seu oponente Invocou por Invocação-Especial um ou mais monstros: você pode embaralhar até 2 do campo no Deck.
+Se este card e um monstro ""Reindsurm"" de ÁGUA estão no seu Cemitério: você pode adicionar este card à sua mão.
+Você só pode usar cada um dos efeitos de ""Reindsurm Gigalovendra"" uma vez por turno."
+101307027,Reindsurm Gigalovendra,str1,Adicionar à mão
+101307027,Reindsurm Gigalovendra,str2,Retornar ao Deck
+101307027,Reindsurm Gigalovendra,str3,Adicionar à mão
+101307028,Reindsurm Giriakarma,name,Reindsurm Giriakarma
+101307028,Reindsurm Giriakarma,desc,"Você pode Invocar por Invocação-Ritual este card com ""Conquista Reindsurm"".
+Quando seu oponente ativar um efeito de monstro no campo ou Cemitério e você controla este card Invocado por Invocação-Ritual (Efeito Rápido): você pode negar a ativação, então você pode embaralhar 1 monstro de cada de ambos o campo e Cemitério do seu oponente no Deck, também se algum deles era um monstro Dragão, dobre o ATK deste card.
+Se este card e um monstro ""Reindsurm"" de LUZ estão no seu Cemitério: você pode adicionar este card à sua mão.
+Você só pode usar cada um dos efeitos de ""Reindsurm Giriakarma"" uma vez por turno."
+101307028,Reindsurm Giriakarma,str1,Negar a ativação
+101307028,Reindsurm Giriakarma,str2,Adicionar à mão
+101307028,Reindsurm Giriakarma,str3,Selecionar monstros para retornar ao Deck?
 101307030,O Deus do Sol Sombrio - O Dragão Alado de Rá,name,O Deus do Sol Sombrio - O Dragão Alado de Rá
 101307030,O Deus do Sol Sombrio - O Dragão Alado de Rá,desc,"""O Dragão Alado de Rá"" + 3 monstros ""Deus do Sol"" 
 Não é afetado por outros efeitos.
@@ -541,6 +558,14 @@ Não pode ser usado como Matéria de Fusão.
 Deve ser Invocado por Invocação-Fusão, ou Especial (do seu Deck Adicional) para a Zona de Monstros Principal do seu oponente ao enviar os cards acima de qualquer campo para o Cemitério, mas se você Invocar por Invocação-Especial este card com o segundo método, você só pode Invocar por Invocação-Especial uma vez pelo resto deste turno. Você só pode Invocar por Invocação-Especial ""Gaiola de Ferro do Deus do Sol - Golem de Lava"" uma vez por turno desta forma, não importa qual método usar.
 Uma vez por turno, durante a sua Fase de Apoio: receba 1000 de dano."
 101307031,Gaiola de Ferro do Deus do Sol - Golem de Lava,str2,Efeito de dano
+101307048,O Rei das Bestas que Emergem do Vale das Chamas,name,O Rei das Bestas que Emergem do Vale das Chamas
+101307048,O Rei das Bestas que Emergem do Vale das Chamas,desc,"3 Monstros de Efeito de FOGO
+(Este card é sempre considerado como ""Salamagrande Leardor"".)
+Monstros com a face para cima no campo se tornam de FOGO.
+Durante a Fase Principal, se este card foi Invocado por Invocação-Link usando ""Salamagrande Leardor"" (Efeito Rápido): você pode escolher 1 card que seu oponente controla; embaralhe-o no Deck, então você pode fazer o ATK de 1 monstro de FOGO que seu oponente controla se torne o ATK de 1 monstro no Cemitério. Você só pode usar este efeito de ""O Rei das Bestas que Emergem do Vale das Chamas"" uma vez por turno."
+101307048,O Rei das Bestas que Emergem do Vale das Chamas,str2,Retornar ao Deck
+101307048,O Rei das Bestas que Emergem do Vale das Chamas,str3,Alterar o ATK?
+101307048,O Rei das Bestas que Emergem do Vale das Chamas,str4,"Invocado por Invocação Link usando ""O Rei das Bestas que Emergem do Vale das Chamas"" como matéria"
 101307051,Deus do Sol Imortal,name,Deus do Sol Imortal
 101307051,Deus do Sol Imortal,desc,"Invoque por Invocação-Especial 1 monstro ""O Dragão Alado de Rá"" do seu Cemitério ou banimento, ignorando suas condições de Invocação, então se você Invocou por Invocação-Especial ""O Dragão Alado de Rá"" por este efeito, envie-o para o Cemitério, e se fizer, você pode Invocar por Invocação-Especial 1 monstro ""O Dragão Alado de Rá"" do seu Deck Adicional. Durante a Fase Final, envie os monstros Invocados por Invocação-Especial por este efeito para o Cemitério.
 Durante sua Fase Principal, se este card está no seu Cemitério: você pode descartar 1 card ""Deus do Sol""; adicione este card à sua mão.
@@ -555,30 +580,47 @@ Se um ou mais monstros é destruído por batalha: seu controlados recebe dano ig
 Você só pode usar cada um dos efeitos de ""O Deus do Sol Liderando Diretamente à Escuridão"" uma vez por turno."
 101307052,O Deus do Sol Liderando Diretamente à Escuridão,str1,Efeito de busca
 101307052,O Deus do Sol Liderando Diretamente à Escuridão,str2,Efeito de dano
-101307055,龙之骸歌,name,龙之骸歌
-101307055,龙之骸歌,desc,"这个卡名的①②的效果1回合各能使用1次。
-①：等级合计直到变成仪式召唤的怪兽的等级合计以上为止，让自己·对方墓地的昆虫族·龙族怪兽回到卡组，从手卡把昆虫族仪式怪兽任意数量仪式召唤。
-②：这张卡在墓地存在的场合，从自己的手卡·场上（表侧表示）把1只昆虫族怪兽送去墓地才能发动。这张卡加入手卡。"
-101307055,龙之骸歌,str1,Ativar
-101307055,龙之骸歌,str2,Adicionar à mão
-101307056,无死之龙的鼓动,name,无死之龙的鼓动
-101307056,无死之龙的鼓动,desc,"①：只要自己场上有原本等级是8以上的「轮回虫龙」怪兽存在，或者对方场上或墓地有龙族怪兽存在，自己发动的「轮回虫龙」怪兽的效果不会被无效化。
-②：1回合1次，从自己的手卡·场上（表侧表示）把1只「轮回虫龙」怪兽或龙族怪兽送去墓地才能发动。从卡组把和那只怪兽原本卡名不同，原本等级相同的1只昆虫族怪兽加入手卡。"
-101307056,无死之龙的鼓动,str1,Adicionar à mão
-101307057,翅龙的羽击,name,翅龙的羽击
-101307057,翅龙的羽击,desc,"这个卡名的①②的效果1回合只能有1次使用其中任意1个。
-①：从卡组把包含昆虫族怪兽的2只怪兽送去墓地。这张卡的发动后，直到下个回合的结束时，自己不是昆虫族怪兽不能特殊召唤。
-②：这张卡在墓地存在的状态，自己把昆虫族怪兽仪式召唤的场合，把这张卡除外才能发动。自己场上的全部的「轮回虫龙」怪兽的攻击力·守备力上升800。"
-101307057,翅龙的羽击,str1,Ativar
-101307057,翅龙的羽击,str2,Aumentar ATK/DEF
-101307057,翅龙的羽击,str3,"O efeito de ""翅龙的羽击"" está sendo aplicado."
-101307058,角龙的修炼,name,角龙的修炼
-101307058,角龙的修炼,desc,"这个卡名的①②的效果1回合各能使用1次。
-①：从卡组把2张「轮回虫龙」怪兽加入手卡。那之后，选自己1张手卡送去墓地。那之后，对方场上或墓地有龙族怪兽存在的场合，可以从自己墓地把1只昆虫族怪兽加入手卡。
-②：这张卡在墓地存在的状态，自己把昆虫族怪兽仪式召唤的场合，把这张卡除外才能发动。从卡组把1张「轮回虫龙」场地魔法卡在自己场上表侧表示放置。"
-101307058,角龙的修炼,str1,Ativar
-101307058,角龙的修炼,str2,Colocar com a face para cima
-101307058,角龙的修炼,str3,Adicionar à mão?
+101307055,Conquista Reindsurm,name,Conquista Reindsurm
+101307055,Conquista Reindsurm,desc,"Este card pode ser usado para Invocação-Ritual de qualquer número de Monstros Ritual Inseto.
+Você também deve embaralhar monstros Inseto e/ou Dragão de Cemitérios no Deck cujo Níveis totais sejam iguais ou excedentes aos Níveis totais dos Monstros Rituais.
+Se este card está no seu Cemitério: você pode enviar 1 monstro Inseto da sua mão ou com a face para cima no campo ao Cemitério; adicione este card à sua mão.
+Você só pode usar cada um dos efeitos de ""Conquista Reindsurm"" por turno."
+101307055,Conquista Reindsurm,str1,Ativar
+101307055,Conquista Reindsurm,str2,Adicionar à mão
+101307056,Carnação Reindsurm,name,Carnação Reindsurm
+101307056,Carnação Reindsurm,desc,"Enquanto você controla um monstro ""Reindsurm"" cujo Nível original é 8 ou maior ou seu oponente tem um monstro Dragão no campo ou Cemitério, os efeitos ativados dos seus monstros ""Reindsurm"" não podem ser negados.
+Uma vez por turno: você pode enviar 1 monstro ""Reindsurm"" ou um monstro Dragão da sua mão ou com a face para cima no campo ao Cemitério; adicione 1 monstro Inseto do seu Deck à sua mão com o mesmo Nível original, mas com nome original diferente."
+101307056,Carnação Reindsurm,str1,Adicionar à mão
+101307057,Borboleta Reindsurm,name,Borboleta Reindsurm
+101307057,Borboleta Reindsurm,desc,"Envie 2 monstros do seu Deck ao Cemitério, incluind um monstro Inseto, você também não pode Invocar por Invocação-Especial até o final do seu próximo turno após ativar este card, exceto monstros Insetos.
+Se você Invocar por Invocação-Ritual um ou mais monstros Inseto enquanto este card está no seu Cemitério: você pode banir este card; todos os monstros ""Reindsurm"" que você atualmente controla ganham 800 de ATK/DEF.
+Você só pode usar 1 dos efeitos de ""Borboleta Reindsurm"" por turno e somente uma vez naquele turno."
+101307057,Borboleta Reindsurm,str1,Ativar
+101307057,Borboleta Reindsurm,str2,Aumentar ATK/DEF
+101307057,Borboleta Reindsurm,str3,"O efeito de ""Borboleta Reindsurm"" está sendo aplicado."
+101307058,Prtática Reindsurm,name,Prtática Reindsurm
+101307058,Prtática Reindsurm,desc,"Adicione 2 monstros ""Reindsurm"" do seu Deck à sua mão, então envie 1 card da sua mão ao Cemitério, então se seu oponente tem um monstro Dragão no campo ou Cemitério, você pode adicionar 1 monstro Inseto do seu Cemitério à sua mão.
+Se você Invocar por Invocação-Ritual um ou mais monstros Inseto enquanto este card está no seu Cemitério: você pode banir este card; coloque 1 Magia de Campo ""Reindsurm"" do seu Deck com a face para cima no seu Campo.
+Você só pode usar cada um dos efeitos de ""Prtática Reindsurm"" uma vez por turno."
+101307058,Prtática Reindsurm,str1,Ativar
+101307058,Prtática Reindsurm,str2,Colocar com a face para cima
+101307058,Prtática Reindsurm,str3,Adicionar à mão?
+101307062,Templo Salamagrande,name,Templo Salamagrande
+101307062,Templo Salamagrande,desc,"(Este card é sempre considerado como ""Salamagrande Santuário"".)
+Monstros ""Salamagrande"" que você controla não são afetados por efeitos ativados dos monstros de FOGO do seu oponente.
+Você só pode usar cada um dos seguintes efeitos de ""Templo Salamagrande"" uma vez por turno.
+Se você Invocar por Invocação-Link um Monstro Link ""Salamagrande"", você pode usar 1 Monstro Link ""Salamagrande"" que você controla com o mesmo nome como toda a máteria.
+Durante sua Fase Principal: você pode embaralhar qualquer número de cards ""Salamagrande"" da sua mão no Deck, então compre aquele mesmo número de cards."
+101307062,Templo Salamagrande,str1,"Invocação Link pelo efeito de ""Templo Salamagrande"""
+101307062,Templo Salamagrande,str2,Trocar cards da sua mão
+101307063,Salamagrande Gearblade,name,Salamagrande Gearblade
+101307063,Salamagrande Gearblade,desc,"Invoque por Invocação-Especial 1 monstro ""Salamagrande"" da sua mão ou Cemitério, se fizer, equipe este card nele.
+Você pode enviar 1 monstro ""Salamagrande"" do seu Deck ao Cemitério; o monstro equipado ganha ATK igual ao Nível do monstro enviado x300.
+Se este card está no seu Cemitério: você pode embaralhar 3 cards ""Salamagrande"" do seu Cemitério no Deck, exceto Magias de Equipamento, e se fizer, adicione este card à sua mão.
+Você só pode usar cada efeito de ""Salamagrande Gearblade"" uma vez por turno."
+101307063,Salamagrande Gearblade,str1,Ativar
+101307063,Salamagrande Gearblade,str2,Aumentar ATK
+101307063,Salamagrande Gearblade,str3,Retornar para a mão
 101307072,Dominação do Deus do Sol,name,Dominação do Deus do Sol
 101307072,Dominação do Deus do Sol,desc,"Se um monstro ""O Dragão Alado de Rá"" está no campo: aplique esses efeitos em sequência.
 ● Invoque por Invocação-Especial 1 monstro de cada Cemitério para o seu campo.
@@ -594,10 +636,9 @@ Você só pode usar cada um dos efeitos de ""Dominação do Deus do Sol"" uma ve
 Você só pode ativar 1 ""O Protetor do Deus do Sol - Deus Egípcio Limo"" por turno."
 101307073,O Protetor do Deus do Sol - Deus Egípcio Limo,str2,Efeito de busca
 101307073,O Protetor do Deus do Sol - Deus Egípcio Limo,str3,Invocação Especial?
-101307076,百龙的交战,name,百龙的交战
-101307076,百龙的交战,desc,"这个卡名的①②的效果1回合各能使用1次。
-①：自己场上有「轮回虫龙」怪兽存在，怪兽的效果·魔法·陷阱卡发动时才能发动。那个发动无效。那之后，可以适用以下效果。
-●从自己的卡组·墓地把1只「轮回虫龙」怪兽加入手卡，自己场上1只昆虫族怪兽送去墓地。
-②：自己场上的「轮回虫龙」怪兽被战斗·效果破坏的场合，可以作为代替让墓地的这张卡回到卡组最下面。"
-101307076,百龙的交战,str1,Ativar
-101307076,百龙的交战,str3,Adicionar à mão?
+101307076,Encontro Reindsurm,name,Encontro Reindsurm
+101307076,Encontro Reindsurm,desc,"Quando uma Magia/Armadilha, ou um efeito de um monstro, é ativado enquanto você controla um monstro ""Reindsurm"": negue a ativação, então você pode adicionar 1 monstro ""Reindsurm"" do seu Deck ou Cemitério à sua mão, e se fizer, envie 1 monstro Inseto que você controla ao Cemitério.
+Se um ou mais monstros ""Reindsurm"" que você controla seriam destruídos por batalha ou efeito, em vez disso você pode colocar este card do seu Cemitério no fundo do seu Deck.
+Você só pode usar cada um dos efeitos de ""Encontro Reindsurm"" uma vez por turno."
+101307076,Encontro Reindsurm,str1,Ativar
+101307076,Encontro Reindsurm,str3,Adicionar à mão?
