@@ -278,6 +278,12 @@ Durante la tua Main Phase: puoi bandire coperto 1 mostro ""Fenditura dei Tre Reg
 Una volta per battaglia, durante il calcolo dei danni, se un tuo mostro ""Fenditura dei Tre Regni"" combatte con un mostro del tuo avversario e non hai carte nel tuo Deck: puoi far diventare 0 l'ATK di quel mostro dell'avversario."
 100267041,Giudizio Fenditura dei Tre Regni,str1,Recuperare
 100267041,Giudizio Fenditura dei Tre Regni,str2,L'ATK diventa 0
+100268002,完美羽化-究极完全态大飞蛾,name,完美羽化-究极完全态大飞蛾
+100268002,完美羽化-究极完全态大飞蛾,desc,"这张卡不能通常召唤。「完美羽化-究极完全态大飞蛾」1回合1次，在自己墓地的昆虫族怪兽是6只以上的场合才能特殊召唤。
+①：这张卡特殊召唤的场合才能发动。对方场上的卡全部回到手卡。那之后，自己墓地有通常怪兽存在的场合，这张卡的攻击力上升自己墓地的昆虫族怪兽的数量×300。
+②：每次对方把怪兽召唤·特殊召唤发动。对方场上的全部怪兽的攻击力下降自身的等级×100。"
+100268002,完美羽化-究极完全态大飞蛾,str1,Rimettere in mano
+100268002,完美羽化-究极完全态大飞蛾,str2,Diminuire ATK
 100268004,"Drago Occhi Blu Finale, il Servo che Trascende gli Dei",name,"Drago Occhi Blu Finale, il Servo che Trascende gli Dei"
 100268004,"Drago Occhi Blu Finale, il Servo che Trascende gli Dei",desc,"""Drago Bianco Occhi Blu"" + ""Drago Bianco Occhi Blu"" + ""Drago Bianco Occhi Blu""
 Non può essere distrutto dagli effetti delle carte, inoltre è immune agli effetti attivati del tuo avversario durante il turno del tuo avversario.
@@ -434,6 +440,20 @@ Dopo che questa carta distrugge una carta in battaglia o con il suo effetto e la
 100268201,Paladino Oscuro - Onde Soniche,str1,Annullare l'effetto
 100268201,Paladino Oscuro - Onde Soniche,str2,Distruggere la carta?
 100268201,Paladino Oscuro - Onde Soniche,str3,"L'effetto di ""Paladino Oscuro - Onde Soniche"" si sta applicando."
+100270002,邪心教典,name,邪心教典
+100270002,邪心教典,desc,"这个卡名的①②的效果1回合各能使用1次。
+①：这张卡发动的回合的自己主要阶段才能发动。从卡组把1只恶魔族·暗属性怪兽加入手卡。那之后，从手卡选1只恶魔族怪兽丢弃。
+②：每次对方怪兽攻击宣言，给这张卡放置1个邪心教义指示物。
+③：把有邪心教义指示物4个以上放置中的这张卡送去墓地才能发动。从卡组把1只恶魔族怪兽特殊召唤。那之后，可以从卡组把1张「超融合」加入手卡。"
+100270002,邪心教典,str1,Aggiungere alla mano
+100270002,邪心教典,str2,Evocazione Speciale
+100270002,邪心教典,str3,Aggiungere alla mano?
+100270003,对未来的希望-永望荣合,name,对未来的希望-永望荣合
+100270003,对未来的希望-永望荣合,desc,"这个卡名的①②的效果1回合各能使用1次。
+①：自己场上有「新宇」融合怪兽或「元素英雄 新宇侠」存在的场合，丢弃1张手卡才能发动。自己手卡·卡组·场上的怪兽作为融合素材，把「英雄」怪兽为融合素材的1只融合怪兽融合召唤。
+②：自己场上有「新宇」融合怪兽存在的场合，把墓地的这张卡除外，以对方场上1张表侧表示卡为对象才能发动。那张卡的效果直到回合结束时无效。"
+100270003,对未来的希望-永望荣合,str1,Attiva
+100270003,对未来的希望-永望荣合,str2,Annullare l'effetto
 101306281,"Audhumla, Progenitrice dell'Estensione Ghiacciata",name,"Audhumla, Progenitrice dell'Estensione Ghiacciata"
 101306281,"Audhumla, Progenitrice dell'Estensione Ghiacciata",desc,"Se ci sono 4 o più carte sul Terreno: puoi Evocare Specialmente questa carta dalla tua mano.
 Puoi mandare al Cimitero fino a 2 Magie/Trappole che controlli; pesca un numero di carte pari a quelle mandate, poi puoi Evocare Specialmente 1 mostro ACQUA dalla tua mano.
@@ -474,6 +494,44 @@ Se uno o più mostri vengono mandati al Cimitero del tuo avversario e controlli 
 Durante la End Phase, se ""La Divinità del Sole Immortale"" è stata mandata nel tuo Cimitero in questo turno: puoi aggiungere questa carta dal tuo Cimitero alla tua mano."
 101307004,Il Dispositivo di Tortura della Divinità del Sole - Des Viser Shock,str1,Evocazione Speciale
 101307004,Il Dispositivo di Tortura della Divinità del Sole - Des Viser Shock,str2,Rimettere in mano
+101307024,轮回虫龙 大紫蛱蝶,name,轮回虫龙 大紫蛱蝶
+101307024,轮回虫龙 大紫蛱蝶,desc,"「龙之骸歌」降临。
+这个卡名的①②的效果1回合各能使用1次。
+①：这张卡仪式召唤的场合才能发动。从卡组把风属性以外的2只「轮回虫龙」怪兽加入手卡。
+②：这张卡因战斗以外被送去墓地的场合才能发动。等级合计直到变成仪式召唤的怪兽的等级以上为止，把自己手卡·场上的怪兽解放，或者作为解放的代替让自己墓地的昆虫族·龙族怪兽回到卡组，从手卡把1只昆虫族仪式怪兽仪式召唤。"
+101307024,轮回虫龙 大紫蛱蝶,str1,Aggiungere alla mano
+101307024,轮回虫龙 大紫蛱蝶,str2,Evocazione Rituale
+101307025,轮回虫龙 秘鲁蜈蚣,name,轮回虫龙 秘鲁蜈蚣
+101307025,轮回虫龙 秘鲁蜈蚣,desc,"「龙之骸歌」降临。
+这个卡名的①②的效果1回合各能使用1次。
+①：这张卡仪式召唤的场合才能发动。从卡组把2张「轮回虫龙」魔法·陷阱卡加入手卡。
+②：这张卡因战斗以外被送去墓地的场合才能发动。等级合计直到变成仪式召唤的怪兽的等级以上为止，把自己手卡·场上的怪兽解放，或者作为解放的代替让自己墓地的昆虫族·龙族怪兽回到卡组，从手卡把1只昆虫族仪式怪兽仪式召唤。"
+101307025,轮回虫龙 秘鲁蜈蚣,str1,Aggiungere alla mano
+101307025,轮回虫龙 秘鲁蜈蚣,str2,Evocazione Rituale
+101307026,轮回虫龙 ‌高加索南洋大兜虫,name,轮回虫龙 ‌高加索南洋大兜虫
+101307026,轮回虫龙 ‌高加索南洋大兜虫,desc,"「龙之骸歌」降临。
+这个卡名的①②的效果1回合各能使用1次。
+①：这张卡仪式召唤的场合才能发动。从卡组把2张「轮回虫龙」卡送去墓地。
+②：这张卡因战斗以外被送去墓地的场合才能发动。等级合计直到变成仪式召唤的怪兽的等级以上为止，把自己手卡·场上的怪兽解放，或者作为解放的代替让自己墓地的昆虫族·龙族怪兽回到卡组，从手卡把1只昆虫族仪式怪兽仪式召唤。"
+101307026,轮回虫龙 ‌高加索南洋大兜虫,str1,Mandare al Cimitero
+101307026,轮回虫龙 ‌高加索南洋大兜虫,str2,Evocazione Rituale
+101307027,轮回虫龙 秘鲁巨人蜈蚣,name,轮回虫龙 秘鲁巨人蜈蚣
+101307027,轮回虫龙 秘鲁巨人蜈蚣,desc,"「龙之骸歌」降临。
+这个卡名的①②③的效果1回合各能使用1次。
+①：自己·对方回合，把包含这张卡的2张手卡送去墓地才能发动。从卡组把炎属性以外的1只「轮回虫龙」怪兽加入手卡。
+②：这张卡仪式召唤的场合，或者对方把怪兽特殊召唤的场合才能发动。场上最多2只怪兽回到卡组。
+③：自己墓地有这张卡和水属性「轮回虫龙」怪兽存在的场合才能发动。这张卡加入手卡。"
+101307027,轮回虫龙 秘鲁巨人蜈蚣,str1,Aggiungere alla mano
+101307027,轮回虫龙 秘鲁巨人蜈蚣,str2,Rimettere nel Deck
+101307027,轮回虫龙 秘鲁巨人蜈蚣,str3,Aggiungere alla mano
+101307028,轮回虫龙 奇伦南洋大兜虫,name,轮回虫龙 奇伦南洋大兜虫
+101307028,轮回虫龙 奇伦南洋大兜虫,desc,"「龙之骸歌」降临。
+这个卡名的①②的效果1回合各能使用1次。
+①：这张卡是已仪式召唤的场合，对方把场上·墓地的怪兽的效果发动时才能发动。那个发动无效。那之后，可以让对方场上以及墓地的怪兽各1只回到卡组。这个效果选的是龙族怪兽的场合，这张卡的攻击力变成2倍。
+②：自己墓地有这张卡和光属性「轮回虫龙」怪兽存在的场合才能发动。这张卡加入手卡。"
+101307028,轮回虫龙 奇伦南洋大兜虫,str1,Annullare l'attivazione
+101307028,轮回虫龙 奇伦南洋大兜虫,str2,Aggiungere alla mano
+101307028,轮回虫龙 奇伦南洋大兜虫,str3,Selezionare mostri da rimettere nel Deck?
 101307030,La Divinità del Sole e dell'Oscurità - Drago Alato di Ra,name,La Divinità del Sole e dell'Oscurità - Drago Alato di Ra
 101307030,La Divinità del Sole e dell'Oscurità - Drago Alato di Ra,desc,"""Drago Alato di Ra"" + 3 mostri ""Divinità del Sole""
 Immune agli effetti delle altre carte.
@@ -501,6 +559,30 @@ Se uno o più mostri vengono distrutti in battaglia: il loro controllore subisce
 Puoi utilizzare ciascun effetto di ""La Divinità del Sole che Conduce nell'Oscurità"" una sola volta per turno."
 101307052,La Divinità del Sole che Conduce nell'Oscurità,str1,Effetto di aggiunta alla mano
 101307052,La Divinità del Sole che Conduce nell'Oscurità,str2,Effetto di danno
+101307055,龙之骸歌,name,龙之骸歌
+101307055,龙之骸歌,desc,"这个卡名的①②的效果1回合各能使用1次。
+①：等级合计直到变成仪式召唤的怪兽的等级合计以上为止，让自己·对方墓地的昆虫族·龙族怪兽回到卡组，从手卡把昆虫族仪式怪兽任意数量仪式召唤。
+②：这张卡在墓地存在的场合，从自己的手卡·场上（表侧表示）把1只昆虫族怪兽送去墓地才能发动。这张卡加入手卡。"
+101307055,龙之骸歌,str1,Attiva
+101307055,龙之骸歌,str2,Aggiungere alla mano
+101307056,无死之龙的鼓动,name,无死之龙的鼓动
+101307056,无死之龙的鼓动,desc,"①：只要自己场上有原本等级是8以上的「轮回虫龙」怪兽存在，或者对方场上或墓地有龙族怪兽存在，自己发动的「轮回虫龙」怪兽的效果不会被无效化。
+②：1回合1次，从自己的手卡·场上（表侧表示）把1只「轮回虫龙」怪兽或龙族怪兽送去墓地才能发动。从卡组把和那只怪兽原本卡名不同，原本等级相同的1只昆虫族怪兽加入手卡。"
+101307056,无死之龙的鼓动,str1,Aggiungere alla mano
+101307057,翅龙的羽击,name,翅龙的羽击
+101307057,翅龙的羽击,desc,"这个卡名的①②的效果1回合只能有1次使用其中任意1个。
+①：从卡组把包含昆虫族怪兽的2只怪兽送去墓地。这张卡的发动后，直到下个回合的结束时，自己不是昆虫族怪兽不能特殊召唤。
+②：这张卡在墓地存在的状态，自己把昆虫族怪兽仪式召唤的场合，把这张卡除外才能发动。自己场上的全部的「轮回虫龙」怪兽的攻击力·守备力上升800。"
+101307057,翅龙的羽击,str1,Attiva
+101307057,翅龙的羽击,str2,Aumentare ATK/DEF
+101307057,翅龙的羽击,str3,"L'effetto di ""翅龙的羽击"" si sta applicando."
+101307058,角龙的修炼,name,角龙的修炼
+101307058,角龙的修炼,desc,"这个卡名的①②的效果1回合各能使用1次。
+①：从卡组把2张「轮回虫龙」怪兽加入手卡。那之后，选自己1张手卡送去墓地。那之后，对方场上或墓地有龙族怪兽存在的场合，可以从自己墓地把1只昆虫族怪兽加入手卡。
+②：这张卡在墓地存在的状态，自己把昆虫族怪兽仪式召唤的场合，把这张卡除外才能发动。从卡组把1张「轮回虫龙」场地魔法卡在自己场上表侧表示放置。"
+101307058,角龙的修炼,str1,Attiva
+101307058,角龙的修炼,str2,Posiziona scoperta
+101307058,角龙的修炼,str3,Aggiungere alla mano?
 101307072,Dominio della Divinità del Sole,name,Dominio della Divinità del Sole
 101307072,Dominio della Divinità del Sole,desc,"Se un mostro ""Drago Alato di Ra"" è sul Terreno: applica i seguenti effetti in ordine.
 ● Evoca Specialmente 1 mostro da ogni Cimitero sul tuo Terreno.
@@ -516,3 +598,10 @@ Puoi utilizzare ciascun effetto di ""Dominio della Divinità del Sole"" una sola
 Puoi attivare solo 1 ""Il Protettore della Divinità del Sole - Poltiglia Divinità Egizia"" per turno."
 101307073,Il Protettore della Divinità del Sole - Poltiglia Divinità Egizia,str2,Effetto di aggiunta alla mano
 101307073,Il Protettore della Divinità del Sole - Poltiglia Divinità Egizia,str3,Evocazione Speciale?
+101307076,百龙的交战,name,百龙的交战
+101307076,百龙的交战,desc,"这个卡名的①②的效果1回合各能使用1次。
+①：自己场上有「轮回虫龙」怪兽存在，怪兽的效果·魔法·陷阱卡发动时才能发动。那个发动无效。那之后，可以适用以下效果。
+●从自己的卡组·墓地把1只「轮回虫龙」怪兽加入手卡，自己场上1只昆虫族怪兽送去墓地。
+②：自己场上的「轮回虫龙」怪兽被战斗·效果破坏的场合，可以作为代替让墓地的这张卡回到卡组最下面。"
+101307076,百龙的交战,str1,Attiva
+101307076,百龙的交战,str3,Aggiungere alla mano?
