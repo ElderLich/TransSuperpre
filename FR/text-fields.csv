@@ -302,6 +302,7 @@ Si cette carte est Invoquée Spécialement : vous pouvez renvoyer autant de cart
 Chaque fois que votre adversaire Invoque Normalement ou Spécialement un ou plusieurs monstres : tous les monstres actuellement contrôlés par votre adversaire perdent une ATK égale à leur propre Niveau x 100."
 100268002,Éclosion Parfaite - Grand Moth Ultimement Parfait,str1,Renvoyer à la main
 100268002,Éclosion Parfaite - Grand Moth Ultimement Parfait,str2,Diminuer l'ATK
+100268002,Éclosion Parfaite - Grand Moth Ultimement Parfait,str3,Augmenter l'ATK ?
 100268004,"Dragon Ultime aux Yeux Bleus, le Serviteur qui Surpasse Dieu",name,"Dragon Ultime aux Yeux Bleus, le Serviteur qui Surpasse Dieu"
 100268004,"Dragon Ultime aux Yeux Bleus, le Serviteur qui Surpasse Dieu",desc,"""Dragon Blanc aux Yeux Bleus"" + ""Dragon Blanc aux Yeux Bleus"" + ""Dragon Blanc aux Yeux Bleus""
 Non destructible par des effets de carte, et aussi, non affectée par les effets activés de votre adversaire durant le tour de votre adversaire.
@@ -515,6 +516,21 @@ Si un ou plusieurs monstres sont envoyés au Cimetière de votre adversaire et q
 Durant la End Phase, si ""Le Dieu du Soleil Immortel"" a été envoyée à votre Cimetière ce tour : vous pouvez ajouter cette carte depuis votre Cimetière à votre main."
 101307004,L'Instrument de Torture du Dieu du Soleil - Viser Des Choc,str1,Invocation Spéciale
 101307004,L'Instrument de Torture du Dieu du Soleil - Viser Des Choc,str2,Renvoyer à la main
+101307013,转生炎兽 捻角山羊,name,转生炎兽 捻角山羊
+101307013,转生炎兽 捻角山羊,desc,"这个卡名的①②的效果1回合各能使用1次，这些效果发动的回合，自己不是炎属性怪兽不能特殊召唤。
+①：这张卡召唤·特殊召唤的场合才能发动。从自己的卡组·墓地把1张「转生炎兽」魔法·陷阱卡加入手卡。
+②：这张卡作为连接3以上的炎属性连接怪兽的连接素材被送去墓地的场合才能发动。从卡组把1只电子界族·炎属性怪兽特殊召唤。"
+101307013,转生炎兽 捻角山羊,str1,Ajouter à la main
+101307013,转生炎兽 捻角山羊,str2,Invocation Spéciale
+101307014,转生炎兽 宽耳蝠,name,转生炎兽 宽耳蝠
+101307014,转生炎兽 宽耳蝠,desc,"这个卡面的①②的效果1回合各能使用1次。
+①：自己场上的怪兽，不存在的场合或者只有「转生炎兽」怪兽存在的场合才能发动。这张卡从手卡特殊召唤。那之后，可以让场上1只怪兽的等级上升或下降1。
+②：这张卡在墓地存在的状态，自己把连接3以上的炎属性连接怪兽连接召唤的场合，把这张卡除外才能发动。从卡组把1张「转生炎兽」陷阱卡在自己场上盖放。"
+101307014,转生炎兽 宽耳蝠,str1,Invocation Spéciale
+101307014,转生炎兽 宽耳蝠,str2,Poser
+101307014,转生炎兽 宽耳蝠,str3,Changer le Niveau?
+101307014,转生炎兽 宽耳蝠,str4,Augmenter
+101307014,转生炎兽 宽耳蝠,str5,Diminuer
 101307024,Amurusa Réindsurm,name,Amurusa Réindsurm
 101307024,Amurusa Réindsurm,desc,"Vous pouvez Invoquer Rituellement cette carte avec ""Conquête Réindsurm"".
 Si cette carte est Invoquée Rituellement : vous pouvez ajouter 2 monstres ""Réindsurm"" non-VENT depuis votre Deck à votre main.
@@ -566,6 +582,14 @@ Non utilisable comme Matériel Fusion. Uniquement soit Invocable par Fusion soit
 Vous ne pouvez Invoquer Spécialement ""La Cage d'Acier du Dieu du Soleil - Golem de Lave"" qu'une fois par tour de cette façon, peu importe la méthode que vous utilisez.
 Une fois par tour, durant votre Standby Phase : recevez 1000 points de dommages."
 101307031,La Cage d'Acier du Dieu du Soleil - Golem de Lave,str2,Effet de dommages
+101307048,驰驱于火炎平原的百兽之王,name,驰驱于火炎平原的百兽之王
+101307048,驰驱于火炎平原的百兽之王,desc,"炎属性效果怪兽3只
+这个卡名在规则上当作「转生炎兽 炽热多头狮」使用。这个卡名的②的效果1回合只能使用1次。
+①：场上的表侧表示怪兽变成炎属性。
+②：这张卡是已用「转生炎兽 炽热多头狮」为素材作连接召唤的场合，自己·对方的主要阶段，以对方场上1张卡为对象才能发动。那张卡回到卡组。那之后，可以把对方场上1只炎属性怪兽的攻击力，变成和自己墓地1只怪兽的攻击力相同。"
+101307048,驰驱于火炎平原的百兽之王,str2,Renvoyer au Deck
+101307048,驰驱于火炎平原的百兽之王,str3,Modifier l'ATK ?
+101307048,驰驱于火炎平原的百兽之王,str4,"Invoqué par Lien en utilisant ""驰驱于火炎平原的百兽之王"" comme Matériel"
 101307051,Le Dieu du Soleil Immortel,name,Le Dieu du Soleil Immortel
 101307051,Le Dieu du Soleil Immortel,desc,"Invoquez Spécialement 1 monstre ""Le Dragon Ailé de Râ"" depuis votre Cimetière ou bannissement, en ignorant ses conditions d'Invocation, puis si vous avez Invoqué Spécialement ""Le Dragon Ailé de Râ"" avec cet effet, envoyez-le au Cimetière, et si vous le faites, vous pouvez Invoquer Spécialement 1 monstre ""Le Dragon Ailé de Râ"" depuis votre Extra Deck.
 Durant la End Phase, envoyez les monstres Invoqués Spécialement par cet effet au Cimetière.
@@ -606,6 +630,21 @@ Vous ne pouvez utiliser chaque effet de ""Entraînement Réindsurm"" qu'une fois
 101307058,Entraînement Réindsurm,str1,Activer
 101307058,Entraînement Réindsurm,str2,Placer face recto
 101307058,Entraînement Réindsurm,str3,Ajouter à la main?
+101307062,转生炎兽的神域,name,转生炎兽的神域
+101307062,转生炎兽的神域,desc,"这个卡名在规则上当作「转生炎兽的圣域」使用。这个卡名的①③的效果1回合各能使用1次。
+①：自己把「转生炎兽」连接怪兽连接召唤的场合，可以只用自己场上1只同名「转生炎兽」连接怪兽为素材作连接召唤。
+②：自己场上的「转生炎兽」怪兽不受对方的炎属性怪兽发动的效果的影响。
+③：自己主要阶段才能发动。手卡的「转生炎兽」卡任意数量回到卡组。那之后，自己抽出回去数量。"
+101307062,转生炎兽的神域,str1,"Invocation Lien par l'effet de ""转生炎兽的神域"""
+101307062,转生炎兽的神域,str2,Échanger des cartes de votre main
+101307063,转生炎兽的神剑,name,转生炎兽的神剑
+101307063,转生炎兽的神剑,desc,"这个卡名的①②③的效果1回合各能使用1次。
+①：从自己的手卡·墓地把1只「转生炎兽」怪兽特殊召唤，把这张卡装备。
+②：从卡组把1只「转生炎兽」怪兽送去墓地才能发动。装备怪兽的攻击力，上升送去墓地的怪兽的等级×300。
+③：这张卡在墓地存在的场合才能发动。从自己墓地让装备魔法卡以外的3张「转生炎兽」卡回到卡组，这张卡加入手卡。"
+101307063,转生炎兽的神剑,str1,Activer
+101307063,转生炎兽的神剑,str2,Augmenter l'ATK
+101307063,转生炎兽的神剑,str3,Renvoyer à la main
 101307072,Domination du Dieu du Soleil,name,Domination du Dieu du Soleil
 101307072,Domination du Dieu du Soleil,desc,"Si un monstre ""Le Dragon Ailé de Râ"" est sur le Terrain : appliquez ces effets dans l'ordre.
 ● Invoquez Spécialement 1 monstre depuis chaque Cimetière sur votre Terrain.

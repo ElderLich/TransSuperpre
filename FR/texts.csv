@@ -153,7 +153,7 @@ Une fois par combat, durant le calcul des dommages, si votre monstre ""Xénovahi
 Uniquement Invocable Spécialement (depuis votre main) en ayant min. 6 monstres Insecte dans votre Cimetière.
 Vous ne pouvez Invoquer Spécialement ""Éclosion Parfaite - Grand Moth Ultimement Parfait"" qu'une fois par tour de cette façon.
 Si cette carte est Invoquée Spécialement : vous pouvez renvoyer autant de cartes contrôlées par votre adversaire que possible à la main, puis si vous avez un Monstre Normal dans votre Cimetière, vous pouvez faire gagner 300 ATK à cette carte pour chaque monstre Insecte dans votre Cimetière.
-Chaque fois que votre adversaire Invoque Normalement ou Spécialement un ou plusieurs monstres : tous les monstres actuellement contrôlés par votre adversaire perdent une ATK égale à leur propre Niveau x 100.",Renvoyer à la main,Diminuer l'ATK,,,,,,,,,,,,,,
+Chaque fois que votre adversaire Invoque Normalement ou Spécialement un ou plusieurs monstres : tous les monstres actuellement contrôlés par votre adversaire perdent une ATK égale à leur propre Niveau x 100.",Renvoyer à la main,Diminuer l'ATK,Augmenter l'ATK ?,,,,,,,,,,,,,
 100268004,"Dragon Ultime aux Yeux Bleus, le Serviteur qui Surpasse Dieu","""Dragon Blanc aux Yeux Bleus"" + ""Dragon Blanc aux Yeux Bleus"" + ""Dragon Blanc aux Yeux Bleus""
 Non destructible par des effets de carte, et aussi, non affectée par les effets activés de votre adversaire durant le tour de votre adversaire.
 Peut faire max. 3 attaques durant chaque Battle Phase.
@@ -262,6 +262,12 @@ Vous ne pouvez utiliser chaque effet de ""Le Machine Redoutable du Dieu du Solei
 Vous ne pouvez utiliser chacun des effets suivants de ""L'Instrument de Torture du Dieu du Soleil - Viser Des Choc"" qu'une fois par tour.
 Si un ou plusieurs monstres sont envoyés au Cimetière de votre adversaire et que vous contrôlez une carte ""Dieu du Soleil"", même durant la Damage Step : vous pouvez Invoquer Spécialement cette carte depuis votre main, et si vous le faites, renvoyez 1 autre carte sur le Terrain à la main/Extra Deck, et si vous faites ça, infligez 800 points de dommages à votre adversaire.
 Durant la End Phase, si ""Le Dieu du Soleil Immortel"" a été envoyée à votre Cimetière ce tour : vous pouvez ajouter cette carte depuis votre Cimetière à votre main.",Invocation Spéciale,Renvoyer à la main,,,,,,,,,,,,,,
+101307013,转生炎兽 捻角山羊,"这个卡名的①②的效果1回合各能使用1次，这些效果发动的回合，自己不是炎属性怪兽不能特殊召唤。
+①：这张卡召唤·特殊召唤的场合才能发动。从自己的卡组·墓地把1张「转生炎兽」魔法·陷阱卡加入手卡。
+②：这张卡作为连接3以上的炎属性连接怪兽的连接素材被送去墓地的场合才能发动。从卡组把1只电子界族·炎属性怪兽特殊召唤。",Ajouter à la main,Invocation Spéciale,,,,,,,,,,,,,,
+101307014,转生炎兽 宽耳蝠,"这个卡面的①②的效果1回合各能使用1次。
+①：自己场上的怪兽，不存在的场合或者只有「转生炎兽」怪兽存在的场合才能发动。这张卡从手卡特殊召唤。那之后，可以让场上1只怪兽的等级上升或下降1。
+②：这张卡在墓地存在的状态，自己把连接3以上的炎属性连接怪兽连接召唤的场合，把这张卡除外才能发动。从卡组把1张「转生炎兽」陷阱卡在自己场上盖放。",Invocation Spéciale,Poser,Changer le Niveau?,Augmenter,Diminuer,,,,,,,,,,,
 101307024,Amurusa Réindsurm,"Vous pouvez Invoquer Rituellement cette carte avec ""Conquête Réindsurm"".
 Si cette carte est Invoquée Rituellement : vous pouvez ajouter 2 monstres ""Réindsurm"" non-VENT depuis votre Deck à votre main.
 Si cette carte est envoyée au Cimetière, sauf au combat : vous pouvez Invoquer Rituellement 1 Monstre Rituel Insecte depuis votre main, en Sacrifiant des monstres depuis votre main ou Terrain, et/ou en mélangeant des monstres Insecte et/ou Dragon depuis votre Cimetière dans le Deck, dont la somme des Niveaux est supérieure ou égale à son Niveau.
@@ -291,6 +297,10 @@ Lorsqu'une attaque impliquant cette carte est déclarée : vous pouvez payer des
 Non utilisable comme Matériel Fusion. Uniquement soit Invocable par Fusion soit Invocable Spécialement (depuis votre Extra Deck) dans la Zone Monstre Main de votre adversaire en envoyant les cartes ci-dessus depuis au moins l'un des Terrains au Cimetière, mais si vous Invoquez Spécialement cette carte avec la seconde méthode, vous ne pouvez Invoquer Spécialement qu'une fois le reste de ce tour.
 Vous ne pouvez Invoquer Spécialement ""La Cage d'Acier du Dieu du Soleil - Golem de Lave"" qu'une fois par tour de cette façon, peu importe la méthode que vous utilisez.
 Une fois par tour, durant votre Standby Phase : recevez 1000 points de dommages.",,Effet de dommages,,,,,,,,,,,,,,
+101307048,驰驱于火炎平原的百兽之王,"炎属性效果怪兽3只
+这个卡名在规则上当作「转生炎兽 炽热多头狮」使用。这个卡名的②的效果1回合只能使用1次。
+①：场上的表侧表示怪兽变成炎属性。
+②：这张卡是已用「转生炎兽 炽热多头狮」为素材作连接召唤的场合，自己·对方的主要阶段，以对方场上1张卡为对象才能发动。那张卡回到卡组。那之后，可以把对方场上1只炎属性怪兽的攻击力，变成和自己墓地1只怪兽的攻击力相同。",,Renvoyer au Deck,Modifier l'ATK ?,"Invoqué par Lien en utilisant ""驰驱于火炎平原的百兽之王"" comme Matériel",,,,,,,,,,,,
 101307051,Le Dieu du Soleil Immortel,"Invoquez Spécialement 1 monstre ""Le Dragon Ailé de Râ"" depuis votre Cimetière ou bannissement, en ignorant ses conditions d'Invocation, puis si vous avez Invoqué Spécialement ""Le Dragon Ailé de Râ"" avec cet effet, envoyez-le au Cimetière, et si vous le faites, vous pouvez Invoquer Spécialement 1 monstre ""Le Dragon Ailé de Râ"" depuis votre Extra Deck.
 Durant la End Phase, envoyez les monstres Invoqués Spécialement par cet effet au Cimetière.
 Durant votre Main Phase, si cette carte est dans votre Cimetière : vous pouvez défausser 1 carte ""Dieu du Soleil"" ; ajoutez cette carte à votre main.
@@ -311,6 +321,14 @@ Vous ne pouvez utiliser qu'1 effet de ""Papillon Réindsurm"" par tour, et uniqu
 101307058,Entraînement Réindsurm,"Ajoutez 2 monstres ""Réindsurm"" depuis votre Deck à votre main, puis envoyez 1 carte depuis votre main au Cimetière, puis si votre adversaire a un monstre Dragon dans son Terrain ou Cimetière, vous pouvez ajouter 1 monstre Insecte depuis votre Cimetière à votre main.
 Si vous Invoquez Rituellement un ou plusieurs monstres Insecte tant que cette carte est dans votre Cimetière : vous pouvez bannir cette carte ; placez 1 Magie de Terrain ""Réindsurm"" depuis votre Deck face recto sur votre Terrain.
 Vous ne pouvez utiliser chaque effet de ""Entraînement Réindsurm"" qu'une fois par tour.",Activer,Placer face recto,Ajouter à la main?,,,,,,,,,,,,,
+101307062,转生炎兽的神域,"这个卡名在规则上当作「转生炎兽的圣域」使用。这个卡名的①③的效果1回合各能使用1次。
+①：自己把「转生炎兽」连接怪兽连接召唤的场合，可以只用自己场上1只同名「转生炎兽」连接怪兽为素材作连接召唤。
+②：自己场上的「转生炎兽」怪兽不受对方的炎属性怪兽发动的效果的影响。
+③：自己主要阶段才能发动。手卡的「转生炎兽」卡任意数量回到卡组。那之后，自己抽出回去数量。","Invocation Lien par l'effet de ""转生炎兽的神域""",Échanger des cartes de votre main,,,,,,,,,,,,,,
+101307063,转生炎兽的神剑,"这个卡名的①②③的效果1回合各能使用1次。
+①：从自己的手卡·墓地把1只「转生炎兽」怪兽特殊召唤，把这张卡装备。
+②：从卡组把1只「转生炎兽」怪兽送去墓地才能发动。装备怪兽的攻击力，上升送去墓地的怪兽的等级×300。
+③：这张卡在墓地存在的场合才能发动。从自己墓地让装备魔法卡以外的3张「转生炎兽」卡回到卡组，这张卡加入手卡。",Activer,Augmenter l'ATK,Renvoyer à la main,,,,,,,,,,,,,
 101307072,Domination du Dieu du Soleil,"Si un monstre ""Le Dragon Ailé de Râ"" est sur le Terrain : appliquez ces effets dans l'ordre.
 ● Invoquez Spécialement 1 monstre depuis chaque Cimetière sur votre Terrain.
 ● Si ""Le Dragon Ailé de Râ"" est sur le Terrain, prenez le contrôle de tous les monstres contrôlés par votre adversaire.
