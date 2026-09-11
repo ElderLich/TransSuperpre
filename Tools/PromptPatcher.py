@@ -855,6 +855,46 @@ def build_translation_pack(lang: str):
 
     # Extra phrases (keep phrase-level; avoid single-word glue)
     extras = {
+        "是否变化攻击力？": {
+            "en": "Change the ATK?",
+            "fr": "Modifier l'ATK ?",
+            "de": "Die ATK ändern?",
+            "es": "¿Cambiar el ATK?",
+            "pt": "Alterar o ATK?",
+            "it": "Cambiare l'ATK?",
+            "ja": "攻撃力を変更しますか？",
+            "kr": "공격력을 변경하시겠습니까?",
+        },
+        "已用{CARD}为素材作连接召唤": {
+            "en": "Link Summoned using {CARD} as material",
+            "fr": "Invoqué par Lien en utilisant {CARD} comme Matériel",
+            "de": "Mit {CARD} als Material als Linkbeschwörung beschworen",
+            "es": "Invocado por Enlace usando {CARD} como material",
+            "pt": "Invocado por Invocação Link usando {CARD} como matéria",
+            "it": "Evocato Link usando {CARD} come Materiale",
+            "ja": "{CARD}を素材としてリンク召喚されている",
+            "kr": "{CARD}를 소재로 링크 소환됨",
+        },
+        "{CARD}的效果连接召唤": {
+            "en": "Link Summon by the effect of {CARD}",
+            "fr": "Invocation Lien par l'effet de {CARD}",
+            "de": "Linkbeschwörung durch den Effekt von {CARD}",
+            "es": "Invocación por Enlace por el efecto de {CARD}",
+            "pt": "Invocação Link pelo efeito de {CARD}",
+            "it": "Evocazione Link tramite l'effetto di {CARD}",
+            "ja": "{CARD}の効果でリンク召喚する",
+            "kr": "{CARD}의 효과로 링크 소환한다",
+        },
+        "更换手卡": {
+            "en": "Exchange cards in your hand",
+            "fr": "Échanger des cartes de votre main",
+            "de": "Karten in deiner Hand austauschen",
+            "es": "Intercambiar cartas de tu mano",
+            "pt": "Trocar cards da sua mão",
+            "it": "Scambiare carte dalla tua mano",
+            "ja": "手札を入れ替える",
+            "kr": "패를 교환한다",
+        },
         "是否选怪兽回到卡组？": {
             "en": "Select monsters to return to the Deck?",
             "fr": "Sélectionner des monstres à renvoyer au Deck ?",

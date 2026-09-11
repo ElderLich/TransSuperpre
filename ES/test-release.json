@@ -1,5 +1,35 @@
 [
   {
+    "name": "Salamangrande Marcall",
+    "desc": "Si esta carta es Invocada de Modo Normal o Especial: puedes añadir a tu mano 1 Mágica/Trampa \"Salamangrande\" desde tu Deck o Cementerio. \r\nSi esta carta es mandada al Cementerio como material para la Invocación por Enlace de un monstruo de FUEGO de Enlace-3 o mayor: puedes Invocar de Modo Especial 1 monstruo Ciberso de FUEGO desde tu Deck. \r\nSólo puedes usar los efectos de \"Salamangrande Marcall\" una vez por turno cada uno. No puedes Invocar de Modo Especial el turno en que activas cualquiera de los efectos de esta carta, excepto monstruos de FUEGO.",
+    "overallString": "[Monstruo|Efecto] Ciberso/FUEGO  [★4] 300/2100",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101307013.jpg?version=19.7"
+  },
+  {
+    "name": "Salamangrande Bastera",
+    "desc": "Si no controlas monstruos, o todos los monstruos que controlas son monstruos \"Salamangrande\": puedes Invocar esta carta de Modo Especial desde tu mano, y después puedes aumentar o reducir en 1 el Nivel de 1 monstruo en el Campo. \r\nSi Invocas por Enlace un monstruo de FUEGO de Link-3 o mayor mientras esta carta está en tu Cementerio: puedes desterrar esta carta; Coloca 1 Trampa \"Salamangrande\" desde tu Deck. \r\nSólo puedes usar los efectos de \"Salamangrande Bastera\" una vez por turno cada uno.",
+    "overallString": "[Monstruo|Efecto|Cantante] Ciberso/FUEGO  [★3] 1600/1000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101307014.jpg?version=19.7"
+  },
+  {
+    "name": "El Rey de las Bestias que Emerge del Valle de las Llamas",
+    "desc": "3 Monstruos de Efecto de FUEGO\t\r\n(Esta carta se trata siempre como \"Salamangrande Calienteleón\").\t\r\nLos monstruos boca arriba en el Campo se convierten en FUEGO. \r\n(Efecto Rápido): Durante la Main Phase, si esta carta fue Invocada por Enlace usando \"Salamangrande León de Fuego\": puedes seleccionar 1 carta que controle tu adversario; barájala al Deck, y después puedes hacer que el ATK de 1 monstruo de FUEGO que controle tu adversario se convierta en el ATK de 1 monstruo en tu Cementerio. \r\nSólo puedes usar este efecto de \"El Rey de las Bestias que Emerge del Valle de las Llamas\" una vez por turno.",
+    "overallString": "[Monstruo|Efecto|Enlace] Ciberso/FUEGO  [LINK-3] 2300/-  [↑][↙][↘]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101307048.jpg?version=19.7"
+  },
+  {
+    "name": "Templo Salamangrande",
+    "desc": "(Esta carta se trata siempre como \"Santuario Salamangrande\").\t\r\nLos monstruos \"Salamangrande\" que controles no son afectados por los efectos activados de los monstruos de FUEGO de tu adversario. \r\nSólo puedes usar los siguientes efectos de \"Templo Salamangrande\" una vez por turno. \r\nSi Invocas por Enlace un monstruo \"Salamangrande\", puedes usar 1 Monstruo de Enlace \"Salamangrande\" que controles con su mismo nombre como el material completo. \r\nDurante tu Main Phase: puedes barajar al Deck cualquier número de cartas \"Salamangrande\" de tu mano, y después robar la misma cantidad de cartas.",
+    "overallString": "[Mágica|Campo]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101307062.jpg?version=19.7"
+  },
+  {
+    "name": "Hoja Mecánica Salamangrande",
+    "desc": "Invoca de Modo Especial 1 monstruo \"Salamangrande\" desde tu mano o Cementerio y, si lo haces, equipa esta carta a él. \r\nPuedes mandar al Cementerio 1 monstruo \"Salamangrande\" desde tu Deck; el monstruo equipado gana ATK igual al Nivel del monstruo mandado x 300. \r\nSi esta carta está en tu Cementerio: puedes barajar al Deck 3 cartas \"Salamangrande\" de tu Cementerio, excepto Mágicas de Equipo y, si lo haces, añade esta carta a tu mano. \r\nSólo puedes usar cada efecto de \"Hoja Mecánica Salamangrande\" una vez por turno.",
+    "overallString": "[Mágica|Equipo]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101307063.jpg?version=19.7"
+  },
+  {
     "name": "Cañón Malvado",
     "desc": "Cada vez que un monstruo del adversario declara un ataque, pon 1 Contador de Doctrina Siniestra en esta carta. \r\nSólo puedes usar los siguientes efectos de \"Cañón Malvado\" una vez por turno. \r\nDurante la Main Phase del turno en que esta carta fue activada: puedes añadir a tu mano 1 monstruo Demonio de OSCURIDAD desde tu Deck, y después descarta 1 monstruo Demonio. \r\nPuedes mandar al Cementerio esta carta con 4 o más Contadores de Doctrina Siniestra; Invoca de Modo Especial 1 monstruo Demonio desde tu Deck, y después puedes añadir a tu mano 1 \"Súper Polimerización\" desde tu Deck.",
     "overallString": "[Mágica|Continua]",
@@ -139,7 +169,7 @@
   },
   {
     "name": "Mago Armadura Pazoo",
-    "desc": "(Esta carta siempre se trata como una carta \"Profecía\").\t\nSi esta carta está en tu mano o Cementerio: puedes seleccionar 1 monstruo boca arriba que controles; equipa esta carta a él como una Mágica de Equipo con estos efectos.\n● El monstruo equipado gana 2100 ATK/DEF mientras tus LP sean 4000 o menos.\n● Cuando el efecto de una carta activada del adversario se resuelve, si controlas una carta que requiera un lanzamiento de dado, puedes negar ese efecto, y después desterrar esta carta.\t\nSólo puedes usar este efecto de \"Mago Armadura Pazoo\" una vez por turno.",
+    "desc": "(Esta carta se trata siempre como una carta \"Profecía\").\t\r\nSi esta carta está en tu mano o Cementerio: puedes seleccionar 1 monstruo boca arriba que controles; equipa esta carta a él como una Mágica de Equipo con estos efectos.\r\n● El monstruo equipado gana 2100 ATK/DEF mientras tus LP sean 4000 o menos.\r\n● Cuando el efecto de una carta activada del adversario se resuelve, si controlas una carta que requiera un lanzamiento de dado, puedes negar ese efecto, y después desterrar esta carta.\t\r\nSólo puedes usar este efecto de \"Mago Armadura Pazoo\" una vez por turno.",
     "overallString": "[Monstruo|Efecto] Lanzador de Conjuros/LUZ  [★3] 0/700",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100200297.jpg?version=19.7"
   },
