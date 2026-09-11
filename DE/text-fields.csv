@@ -232,6 +232,7 @@ Monster deines Gegners können Monster nicht als Angriffsziel für Angriffe wäh
 ②：每次对方把怪兽召唤·特殊召唤发动。对方场上的全部怪兽的攻击力下降自身的等级×100。"
 100268002,完美羽化-究极完全态大飞蛾,str1,Auf die Hand zurückgeben
 100268002,完美羽化-究极完全态大飞蛾,str2,ATK verringern
+100268002,完美羽化-究极完全态大飞蛾,str3,ATK erhöhen?
 100268004,"Blauäugiger ultimativer Drache, der gottübertreffende Diener",name,"Blauäugiger ultimativer Drache, der gottübertreffende Diener"
 100268004,"Blauäugiger ultimativer Drache, der gottübertreffende Diener",desc,"„Blauäugiger weißer Drache“ + „Blauäugiger weißer Drache“ + „Blauäugiger weißer Drache“
 
@@ -405,6 +406,21 @@ Muss als Fusionsbeschwörung beschworen werden. Erhält 500 ATK für jedes ander
 101307004,Das Foltergerät des Sonnengotts – Viser Des,desc,"Kann nicht durch Kampf zerstört werden. Du kannst jeden der folgenden Effekte von „Das Foltergerät des Sonnengotts – Viser Des“ nur einmal pro Spielzug verwenden. Falls ein oder mehrere Monster auf dem Friedhof deines Gegners gelegt werden und du eine „Sonnengott“-Karte kontrollierst, selbst während des Damage Steps: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören und falls du dies tust, gib 1 andere Karte auf dem Spielfeld auf die Hand oder ins Extra Deck zurück, und falls du dies tust, füge deinem Gegner 800 Schaden zu. Während der End Phase, falls „Der unsterbliche Sonnengott“ in diesem Spielzug auf deinen Friedhof gelegt wurde: Du kannst diese Karte von deinem Friedhof deiner Hand hinzufügen."
 101307004,Das Foltergerät des Sonnengotts – Viser Des,str1,Als Spezialbeschwörung beschwören
 101307004,Das Foltergerät des Sonnengotts – Viser Des,str2,Auf die Hand zurückgeben
+101307013,转生炎兽 捻角山羊,name,转生炎兽 捻角山羊
+101307013,转生炎兽 捻角山羊,desc,"这个卡名的①②的效果1回合各能使用1次，这些效果发动的回合，自己不是炎属性怪兽不能特殊召唤。
+①：这张卡召唤·特殊召唤的场合才能发动。从自己的卡组·墓地把1张「转生炎兽」魔法·陷阱卡加入手卡。
+②：这张卡作为连接3以上的炎属性连接怪兽的连接素材被送去墓地的场合才能发动。从卡组把1只电子界族·炎属性怪兽特殊召唤。"
+101307013,转生炎兽 捻角山羊,str1,Der Hand hinzufügen
+101307013,转生炎兽 捻角山羊,str2,Als Spezialbeschwörung beschwören
+101307014,转生炎兽 宽耳蝠,name,转生炎兽 宽耳蝠
+101307014,转生炎兽 宽耳蝠,desc,"这个卡面的①②的效果1回合各能使用1次。
+①：自己场上的怪兽，不存在的场合或者只有「转生炎兽」怪兽存在的场合才能发动。这张卡从手卡特殊召唤。那之后，可以让场上1只怪兽的等级上升或下降1。
+②：这张卡在墓地存在的状态，自己把连接3以上的炎属性连接怪兽连接召唤的场合，把这张卡除外才能发动。从卡组把1张「转生炎兽」陷阱卡在自己场上盖放。"
+101307014,转生炎兽 宽耳蝠,str1,Als Spezialbeschwörung beschwören
+101307014,转生炎兽 宽耳蝠,str2,Setzen
+101307014,转生炎兽 宽耳蝠,str3,Stufe ändern?
+101307014,转生炎兽 宽耳蝠,str4,Erhöhen
+101307014,转生炎兽 宽耳蝠,str5,Verringern
 101307024,轮回虫龙 大紫蛱蝶,name,轮回虫龙 大紫蛱蝶
 101307024,轮回虫龙 大紫蛱蝶,desc,"「龙之骸歌」降临。
 这个卡名的①②的效果1回合各能使用1次。
@@ -454,6 +470,14 @@ Bleibt von den Effekten anderer Karten unberührt. Einmal pro Spielzug, während
 
 Kann nicht als Fusionsmaterial verwendet werden. Muss entweder als Fusionsbeschwörung beschworen werden oder als Spezialbeschwörung (von deinem Extra Deck) auf eine Main-Monsterzone deines Gegners beschworen werden, indem du die oben aufgeführten Karten von einem beliebigen Spielfeld auf den Friedhof legst, aber falls du diese Karte mit der zweiten Methode als Spezialbeschwörung beschwörst, kannst du für den Rest dieses Spielzugs nur noch einmal als Spezialbeschwörung beschwören. Du kannst „Der Stahlkäfig des Sonnengotts – Lava-Golem“ auf diese Art nur einmal pro Spielzug als Spezialbeschwörung beschwören, unabhängig von der Methode. Einmal pro Spielzug, während deiner Standby Phase: Du erhältst 1000 Schaden."
 101307031,Der Stahlkäfig des Sonnengotts – Lava-Golem,str2,Schadenseffekt
+101307048,驰驱于火炎平原的百兽之王,name,驰驱于火炎平原的百兽之王
+101307048,驰驱于火炎平原的百兽之王,desc,"炎属性效果怪兽3只
+这个卡名在规则上当作「转生炎兽 炽热多头狮」使用。这个卡名的②的效果1回合只能使用1次。
+①：场上的表侧表示怪兽变成炎属性。
+②：这张卡是已用「转生炎兽 炽热多头狮」为素材作连接召唤的场合，自己·对方的主要阶段，以对方场上1张卡为对象才能发动。那张卡回到卡组。那之后，可以把对方场上1只炎属性怪兽的攻击力，变成和自己墓地1只怪兽的攻击力相同。"
+101307048,驰驱于火炎平原的百兽之王,str2,Ins Deck zurücklegen
+101307048,驰驱于火炎平原的百兽之王,str3,Die ATK ändern?
+101307048,驰驱于火炎平原的百兽之王,str4,"Mit ""驰驱于火炎平原的百兽之王"" als Material als Linkbeschwörung beschworen"
 101307051,Der unsterbliche Sonnengott,name,Der unsterbliche Sonnengott
 101307051,Der unsterbliche Sonnengott,desc,"Beschwöre 1 „Der geflügelte Drache von Ra“-Monster als Spezialbeschwörung von deinem Friedhof oder deinen verbannten Karten, ungeachtet seiner Beschwörungsbedingungen, dann, falls du „Der geflügelte Drache von Ra“ durch diesen Effekt als Spezialbeschwörung beschworen hast, kannst du ihn auf den Friedhof legen und falls du dies tust, beschwöre 1 „Der geflügelte Drache von Ra“-Monster als Spezialbeschwörung von deinem Extra Deck. Während der End Phase, lege die durch diesen Effekt als Spezialbeschwörung beschworenen Monster auf den Friedhof. Während deiner Main Phase, falls sich diese Karte in deinem Friedhof befindet: Du kannst 1 „Sonnengott“-Karte abwerfen; füge diese Karte deiner Hand hinzu. Du kannst jeden Effekt von „Der unsterbliche Sonnengott“ nur einmal pro Spielzug verwenden."
 101307051,Der unsterbliche Sonnengott,str1,Als Spezialbeschwörung beschwören
@@ -487,6 +511,21 @@ Kann nicht als Fusionsmaterial verwendet werden. Muss entweder als Fusionsbeschw
 101307058,角龙的修炼,str1,Aktivieren
 101307058,角龙的修炼,str2,Offen legen
 101307058,角龙的修炼,str3,Der Hand hinzufügen?
+101307062,转生炎兽的神域,name,转生炎兽的神域
+101307062,转生炎兽的神域,desc,"这个卡名在规则上当作「转生炎兽的圣域」使用。这个卡名的①③的效果1回合各能使用1次。
+①：自己把「转生炎兽」连接怪兽连接召唤的场合，可以只用自己场上1只同名「转生炎兽」连接怪兽为素材作连接召唤。
+②：自己场上的「转生炎兽」怪兽不受对方的炎属性怪兽发动的效果的影响。
+③：自己主要阶段才能发动。手卡的「转生炎兽」卡任意数量回到卡组。那之后，自己抽出回去数量。"
+101307062,转生炎兽的神域,str1,"Linkbeschwörung durch den Effekt von ""转生炎兽的神域"""
+101307062,转生炎兽的神域,str2,Karten in deiner Hand austauschen
+101307063,转生炎兽的神剑,name,转生炎兽的神剑
+101307063,转生炎兽的神剑,desc,"这个卡名的①②③的效果1回合各能使用1次。
+①：从自己的手卡·墓地把1只「转生炎兽」怪兽特殊召唤，把这张卡装备。
+②：从卡组把1只「转生炎兽」怪兽送去墓地才能发动。装备怪兽的攻击力，上升送去墓地的怪兽的等级×300。
+③：这张卡在墓地存在的场合才能发动。从自己墓地让装备魔法卡以外的3张「转生炎兽」卡回到卡组，这张卡加入手卡。"
+101307063,转生炎兽的神剑,str1,Aktivieren
+101307063,转生炎兽的神剑,str2,ATK erhöhen
+101307063,转生炎兽的神剑,str3,Auf die Hand zurückgeben
 101307072,Sonnengott-Beherrschung,name,Sonnengott-Beherrschung
 101307072,Sonnengott-Beherrschung,desc,"Falls ein „Der geflügelte Drache von Ra“-Monster auf dem Spielfeld liegt: Führe diese Effekte nacheinander aus.
 
