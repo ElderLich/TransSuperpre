@@ -470,6 +470,49 @@ Se controlli un Mostro Fusione ""Neos"": puoi bandire questa carta dal tuo Cimit
 Puoi utilizzare ogni effetto di ""Speranza per il Futuro"" una sola volta per turno."
 100270003,Speranza per il Futuro,str1,Attiva
 100270003,Speranza per il Futuro,str2,Annullare l'effetto
+100271000,"Diabellstar, Cercatrice delle Spoglie del Peccato",name,"Diabellstar, Cercatrice delle Spoglie del Peccato"
+100271000,"Diabellstar, Cercatrice delle Spoglie del Peccato",desc,"Se ""Spoglie del Peccato della Sovversione - Occhi di Serpente"" o ""Occhi di Serpente Pioppo"" è nel Cimitero di uno dei due giocatori, puoi Evocare Specialmente questa carta dalla tua mano. Puoi Evocare Specialmente ""Diabellstar, Cercatrice delle Spoglie del Peccato"" una sola volta per turno in questo modo.
+Puoi utilizzare ciascuno dei seguenti effetti di ""Diabellstar, Cercatrice delle Spoglie del Peccato"" una sola volta per turno.
+Puoi bandire 1 ""Spoglie del Peccato del Destino - Rciela"" dal tuo Cimitero; distruggi tutte le Magie/Trappole controllate dal tuo avversario.
+Durante il turno del tuo avversario (Effetto Rapido): puoi bandire 1 ""Spoglie del Peccato del Tradimento - Silvera"" dal tuo Cimitero; distruggi tutti i mostri controllati dal tuo avversario."
+100271000,"Diabellstar, Cercatrice delle Spoglie del Peccato",str1,Evocazione Speciale
+100271000,"Diabellstar, Cercatrice delle Spoglie del Peccato",str2,Distruggi Carte Magia/Trappola
+100271000,"Diabellstar, Cercatrice delle Spoglie del Peccato",str3,Distruggi 1 mostro
+100272001,Pritima il Vascello Cubico dell'Infinito,name,Pritima il Vascello Cubico dell'Infinito
+100272001,Pritima il Vascello Cubico dell'Infinito,desc,"Una volta per turno, durante la Battle Phase (Effetto Rapido): puoi Evocare tramite Fusione 1 Mostro Fusione ""Cubico"" dal tuo Extra Deck, utilizzando mostri dalla tua mano o Terreno come materiale.
+Puoi utilizzare ciascuno dei seguenti effetti di ""Pritima il Vascello Cubico dell'Infinito"" una sola volta per turno, inoltre non puoi Evocare Specialmente dall'Extra Deck nel turno in cui attivi uno dei due effetti, eccetto Mostri Fusione.
+Durante la tua Main Phase: puoi Evocare Specialmente questa carta dalla tua mano.
+Se questa carta viene Evocata Normalmente o Specialmente: puoi scartare 1 carta; aggiungi fino a 2 Magie/Trappole ""Cubico"" dal tuo Deck alla tua mano."
+100272001,Pritima il Vascello Cubico dell'Infinito,str1,Evocazione Speciale
+100272001,Pritima il Vascello Cubico dell'Infinito,str2,Aggiungere alla mano
+100272001,Pritima il Vascello Cubico dell'Infinito,str3,Evocazione tramite Fusione
+100272002,Alditia Fiamma Infernale il Signore Ardente Cubico,name,Alditia Fiamma Infernale il Signore Ardente Cubico
+100272002,Alditia Fiamma Infernale il Signore Ardente Cubico,desc,"1 mostro ""Cubico"" + ""Vijam il Seme Cubico""
+Deve essere Evocato Specialmente (dal tuo Extra Deck) mandando le carte sopra indicate dalla tua mano e/o Terreno al Cimitero.
+Guadagna 800 ATK per ogni ""Vijam il Seme Cubico"" nel tuo Cimitero.
+(Effetto Rapido): puoi far ritornare questa carta nell'Extra Deck e, se lo fai, Evoca Specialmente 2 mostri ""Cubico"" dal tuo Cimitero e, se lo fai, aggiungi 1 carta ""Cubico"" dal tuo Deck alla tua mano. Puoi utilizzare questo effetto di ""Alditia Fiamma Infernale il Signore Ardente Cubico"" una sola volta per turno, inoltre non puoi Evocare Specialmente dall'Extra Deck nel turno in cui attivi questo effetto, eccetto Mostri Fusione."
+100272002,Alditia Fiamma Infernale il Signore Ardente Cubico,str2,Evocazione Speciale
+100272003,Abyss Vagrada il Signore Abissale Cubico,name,Abyss Vagrada il Signore Abissale Cubico
+100272003,Abyss Vagrada il Signore Abissale Cubico,desc,"3 mostri ""Cubico""
+Guadagna 1000 ATK per ogni ""Vijam il Seme Cubico"" nel tuo Cimitero, inoltre è immune agli effetti attivati dei mostri con ATK inferiore a quello di questa carta.
+(Effetto Rapido): puoi far ritornare questa carta nell'Extra Deck e, se lo fai, Evoca Specialmente 3 mostri ""Cubico"" dal tuo Cimitero e, se lo fai, aggiungi 1 carta ""Cubico"" dal tuo Deck alla tua mano. Puoi utilizzare questo effetto di ""Abyss Vagrada il Signore Abissale Cubico"" una sola volta per turno, inoltre non puoi Evocare Specialmente dall'Extra Deck nel turno in cui attivi questo effetto, eccetto Mostri Fusione."
+100272003,Abyss Vagrada il Signore Abissale Cubico,str2,Evocazione Speciale
+100272004,Anima Divina Infinita il Supremo Cubico della Creazione,name,Anima Divina Infinita il Supremo Cubico della Creazione
+100272004,Anima Divina Infinita il Supremo Cubico della Creazione,desc,"4 mostri ""Cubico""
+Deve essere Evocato tramite Fusione. Guadagna 1500 ATK per ogni ""Vijam il Seme Cubico"" nel tuo Cimitero, inoltre è immune agli effetti attivati dei mostri con ATK inferiore a quello di questa carta.
+Una volta per turno (Effetto Rapido): puoi mischiare tutte le tue carte ""Cubico"" bandite nel Deck e, se lo fai, distruggi 1 carta controllata dal tuo avversario.
+Se questa carta scoperta sotto il controllo del suo proprietario lascia il Terreno per l'effetto di una carta dell'avversario: puoi Evocare Specialmente fino a 3 ""Vijam il Seme Cubico"" dal tuo Cimitero."
+100272004,Anima Divina Infinita il Supremo Cubico della Creazione,str1,Distruggere
+100272004,Anima Divina Infinita il Supremo Cubico della Creazione,str2,Evocazione Speciale
+100272006,Bodhi Cubico,name,Bodhi Cubico
+100272006,Bodhi Cubico,desc,"Quando questa carta viene attivata: puoi mandare 1 carta ""Cubico"" dal tuo Deck al Cimitero.
+Una volta per turno: puoi scartare 1 carta; metti 1 Segnalino Cubico su 1 mostro scoperto controllato dal tuo avversario (i mostri con un Segnalino Cubico non possono attaccare, inoltre i loro effetti sono annullati).
+Se uno o più mostri ""Cubico"" vengono Evocati Specialmente sul tuo Terreno: puoi Evocare tramite Fusione 1 Mostro Fusione ""Cubico"" dal tuo Extra Deck, utilizzando mostri dalla tua mano o Terreno come materiale.
+Puoi attivare solo 1 ""Bodhi Cubico"" per turno."
+100272006,Bodhi Cubico,str1,Attiva
+100272006,Bodhi Cubico,str2,Posizionare un Segnalino
+100272006,Bodhi Cubico,str3,Evocazione tramite Fusione
+100272006,Bodhi Cubico,str4,Mandare la carta al Cimitero?
 101306281,"Audhumla, Progenitrice dell'Estensione Ghiacciata",name,"Audhumla, Progenitrice dell'Estensione Ghiacciata"
 101306281,"Audhumla, Progenitrice dell'Estensione Ghiacciata",desc,"Se ci sono 4 o più carte sul Terreno: puoi Evocare Specialmente questa carta dalla tua mano.
 Puoi mandare al Cimitero fino a 2 Magie/Trappole che controlli; pesca un numero di carte pari a quelle mandate, poi puoi Evocare Specialmente 1 mostro ACQUA dalla tua mano.
@@ -600,13 +643,13 @@ Non può essere utilizzato come Materiale da Fusione.
 Deve essere Evocato tramite Fusione, oppure Evocato Specialmente (dal tuo Extra Deck) nella Zona Mostro Main del tuo avversario mandando le carte sopra indicate da qualsiasi Terreno al Cimitero, ma se Evochi Specialmente questa carta con il secondo metodo, puoi effettuare solo 1 Evocazione Speciale per il resto di questo turno. Puoi Evocare Specialmente ""La Gabbia d'Acciaio della Divinità del Sole - Golem di Lava"" una sola volta per turno in questo modo, indipendentemente dal metodo utilizzato.
 Una volta per turno, durante la Standby Phase: subisci 1000 danni."
 101307031,La Gabbia d'Acciaio della Divinità del Sole - Golem di Lava,str2,Effetto di danno
-101307034,"Diabellze, la Padrona della Foresta del Corvo Bianco",name,"Diabellze, la Padrona della Foresta del Corvo Bianco"
-101307034,"Diabellze, la Padrona della Foresta del Corvo Bianco",desc,"1 Mostro Fusione o Synchro + 1 mostro Incantatore o Illusione
-Se questa carta viene Evocata Specialmente: puoi mettere scoperti un qualsiasi numero di mostri che controlli nelle Zone Magie & Trappole dei rispettivi proprietari come Magie Continue, poi puoi far ritornare nella mano carte sul Terreno fino al numero di Magie/Trappole che controlli. Puoi utilizzare questo effetto di ""Diabellze, la Padrona della Foresta del Corvo Bianco"" una sola volta per turno.
+101307034,"Diabellze, Padrona della Foresta del Corvo Bianco",name,"Diabellze, Padrona della Foresta del Corvo Bianco"
+101307034,"Diabellze, Padrona della Foresta del Corvo Bianco",desc,"1 Mostro Fusione o Synchro + 1 mostro Incantatore o Illusione
+Se questa carta viene Evocata Specialmente: puoi mettere scoperti un qualsiasi numero di mostri che controlli nelle Zone Magie & Trappole dei rispettivi proprietari come Magie Continue, poi puoi far ritornare nella mano carte sul Terreno fino al numero di Magie/Trappole che controlli. Puoi utilizzare questo effetto di ""Diabellze, Padrona della Foresta del Corvo Bianco"" una sola volta per turno.
 Guadagna 700 ATK/DEF per ogni Magia/Trappola sul Terreno.
 Questa carta scoperta Evocata tramite Fusione non può essere utilizzata come Materiale da Fusione."
-101307034,"Diabellze, la Padrona della Foresta del Corvo Bianco",str1,Posiziona
-101307034,"Diabellze, la Padrona della Foresta del Corvo Bianco",str3,Far ritornare la carta in mano?
+101307034,"Diabellze, Padrona della Foresta del Corvo Bianco",str1,Posiziona
+101307034,"Diabellze, Padrona della Foresta del Corvo Bianco",str3,Far ritornare la carta in mano?
 101307037,"Zaltys, il Cavaliere del Corvo Bianco",name,"Zaltys, il Cavaliere del Corvo Bianco"
 101307037,"Zaltys, il Cavaliere del Corvo Bianco",desc,"1 Tuner Illusione + 1+ mostri non-Tuner
 Se questa carta viene Evocata Specialmente: puoi scegliere come bersaglio fino a 2 Magie/Trappole sul Terreno; falle ritornare nella mano.
