@@ -18,7 +18,7 @@ If this card is in your hand or GY: You can target 1 face-up monster you control
 ● The equipped monster gains 2100 ATK/DEF while your LP are 4000 or less.
 ● When a card or effect activated by your opponent resolves, if you control a card with an effect that requires a die roll, you can negate the activated effect, then banish this card."
 100200297,Armor Wizard Pazoo,str1,Equip
-100200297,Armor Wizard Pazoo,str3,Negate the effect? (装甲魔导士 帕智)
+100200297,Armor Wizard Pazoo,str3,Negate the effect? (Armor Wizard Pazoo)
 100267001,Zenet Prophet - Nefertari,name,Zenet Prophet - Nefertari
 100267001,Zenet Prophet - Nefertari,desc,"If this card is Normal or Special Summoned: You can send it to the GY; show up to 2 Normal Monster Cards from your hand, Deck, face-up field, and/or GY, then Set that many ""Zenet"" Spells from your Deck. During your opponent's turn (Quick Effect): You can banish this card from your GY; equip 1 Normal Monster from your GY to 1 Ritual Monster you control as an Equip Spell. You can only use each effect of ""Zenet Prophet - Nefertari"" once per turn."
 100267001,Zenet Prophet - Nefertari,str1,Set
@@ -303,7 +303,7 @@ If this card is destroyed by card effect: You can Special Summon 1 ""Harpie"" mo
 ● 5 or higher: Add 1 Level 5 or higher monster with the same Type, Attribute, and/or Level from your Deck to your hand.
 You can only activate 1 ""Flashforce Sword"" per turn."
 100268021,Flashforce Sword,str1,Activate
-100268021,Flashforce Sword,str2,"Banished by ""闪光之封杀剑"""
+100268021,Flashforce Sword,str2,"Banished by ""Flashforce Sword"""
 100268021,Flashforce Sword,str3,Apply the effect?
 100268022,Archfiend of Gilfer - Flame Attack,name,Archfiend of Gilfer - Flame Attack
 100268022,Archfiend of Gilfer - Flame Attack,desc,"During the Main Phase (Quick Effect): You can send this card from your hand to the GY; draw 1 card, then discard 1 card, also all monsters your opponent controls lose 500 ATK this turn. When a monster is destroyed by battle involving your Fiend monster, while this card is in your GY: You can Special Summon this card, but banish it when it leaves the field. You can only use each effect of ""Archfiend of Gilfer - Flame Attack"" once per turn."
@@ -345,46 +345,33 @@ Must be Fusion Summoned. Gains 500 ATK for every other monster on the field. Can
 100270003,Hope for the Future,str1,Activate
 100270003,Hope for the Future,str2,Negate the effect
 100271000,"Diabellstar, the Seeker of Sinful Spoils",name,"Diabellstar, the Seeker of Sinful Spoils"
-100271000,"Diabellstar, the Seeker of Sinful Spoils",desc,"You can only Special Summon with the way in this card's (1) effect once per turn. You can only use this card name's (2) and (3) effects once per turn each.
-(1) If ""Sinful Spoils of Subversion - Snake-Eye"" or ""Snake-Eyes Poplar"" is in either GY, you can Special Summon this card (from your hand).
-(2) You can banish 1 ""Sinful Spoils of Doom - Rciela"" from your GY; destroy all Spells and Traps your opponent controls.
-(3) During your opponent's turn (Quick Effect): You can banish 1 ""Sinful Spoils of Betrayal - Silvera"" from your GY; destroy all monsters your opponent controls."
+100271000,"Diabellstar, the Seeker of Sinful Spoils",desc,"You can only Special Summon with the way in this card's ① effect once per turn. You can only use this card name's ② and ③ effects once per turn each.
+①：If ""Sinful Spoils of Subversion - Snake-Eye"" or ""Snake-Eyes Poplar"" is in either GY, you can Special Summon this card (from your hand).
+②：You can banish 1 ""Sinful Spoils of Doom - Rciela"" from your GY; destroy all Spells and Traps your opponent controls.
+③：During your opponent's turn (Quick Effect): You can banish 1 ""Sinful Spoils of Betrayal - Silvera"" from your GY; destroy all monsters your opponent controls."
 100271000,"Diabellstar, the Seeker of Sinful Spoils",str1,Special Summon
 100271000,"Diabellstar, the Seeker of Sinful Spoils",str2,Destroy Spell/Trap Card(s)
 100271000,"Diabellstar, the Seeker of Sinful Spoils",str3,Destroy a monster
 100272001,Pritima the Infinity Cubic Vessel,name,Pritima the Infinity Cubic Vessel
-100272001,Pritima the Infinity Cubic Vessel,desc,"You can only use this card name's (1) and (2) effects once per turn each. You cannot Special Summon from the Extra Deck the turn you activate this card's (1) or (2) effects, except Fusion Monsters.
-(1) During your Main Phase: You can Special Summon this card from your hand.
-(2) If this card is Normal or Special Summoned: You can discard 1 card; add up to 2 ""Cubic"" Spells/Traps from your Deck to your hand.
-(3) Once per turn, during the Battle Phase (Quick Effect): You can Fusion Summon 1 ""Cubic"" monster from your Extra Deck, using monsters from your hand or field."
+100272001,Pritima the Infinity Cubic Vessel,desc,"Once per turn, during the Battle Phase (Quick Effect): You can Fusion Summon 1 ""Cubic"" Fusion Monster from your Extra Deck, using monsters from your hand or field. You can only use each of the following effects of ""Pritima the Infinity Cubic Vessel"" once per turn, also you cannot Special Summon from the Extra Deck the turn you activate either effect, except Fusion Monsters. During your Main Phase: You can Special Summon this card from your hand. If this card is Normal or Special Summoned: You can discard 1 card; add up to 2 ""Cubic"" Spells/Traps from your Deck to your hand."
 100272001,Pritima the Infinity Cubic Vessel,str1,Special Summon
 100272001,Pritima the Infinity Cubic Vessel,str2,Add to hand
 100272001,Pritima the Infinity Cubic Vessel,str3,Fusion Summon
 100272002,Alditia Hell Blaze the Burning Cubic Lord,name,Alditia Hell Blaze the Burning Cubic Lord
 100272002,Alditia Hell Blaze the Burning Cubic Lord,desc,"1 ""Cubic"" monster + ""Vijam the Cubic Seed""
-Must be Special Summoned (from your Extra Deck) by sending the above cards on your hand and/or field to the GY. You can only use this card name's (2) effect once per turn. You cannot Special Summon from the Extra Deck the turn you activate this card name's (2) effect, except Fusion Monsters.
-(1) Gains 800 ATK for each ""Vijam the Cubic Seed"" in your GY.
-(2) (Quick Effect): You can return this card to the Extra Deck, and if you do, Special Summon 2 ""Cubic"" monsters from your GY, and if you do that, add 1 ""Cubic"" card from your Deck to your hand."
+Must be Special Summoned (from your Extra Deck) by sending the above cards from your hand and/or field to the GY. Gains 800 ATK for each ""Vijam the Cubic Seed"" in your GY. (Quick Effect): You can return this card to the Extra Deck, and if you do, Special Summon 2 ""Cubic"" monsters from your GY, and if you do that, add 1 ""Cubic"" card from your Deck to your hand. You can only use this effect of ""Alditia Hell Blaze the Burning Cubic Lord"" once per turn, also you cannot Special Summon from the Extra Deck the turn you activate this effect, except Fusion Monsters."
 100272002,Alditia Hell Blaze the Burning Cubic Lord,str2,Special Summon
 100272003,Abyss Vagrada the Abyssal Cubic Lord,name,Abyss Vagrada the Abyssal Cubic Lord
 100272003,Abyss Vagrada the Abyssal Cubic Lord,desc,"3 ""Cubic"" monsters
-You can only use this card name's (2) effect once per turn. You cannot Special Summon from the Extra Deck the turn you activate this card name's (2) effect, except Fusion Monsters.
-(1) Gains 1000 ATK for each ""Vijam the Cubic Seed"" in your GY. Unaffected by activated effects from any monster whose ATK is lower than this card's.
-(2) (Quick Effect): You can return this card to the Extra Deck, and if you do, Special Summon 3 ""Cubic"" monsters from your GY, and if you do that, add 1 ""Cubic"" card from your Deck to your hand."
+Gains 1000 ATK for each ""Vijam the Cubic Seed"" in your GY, also unaffected by the activated effects of monsters with ATK less than this card. (Quick Effect): You can return this card to the Extra Deck, and if you do, Special Summon 3 ""Cubic"" monsters from your GY, and if you do that, add 1 ""Cubic"" card from your Deck to your hand. You can only use this effect of ""Abyss Vagrada the Abyssal Cubic Lord"" once per turn, also you cannot Special Summon from the Extra Deck the turn you activate this effect, except Fusion Monsters."
 100272003,Abyss Vagrada the Abyssal Cubic Lord,str2,Special Summon
 100272004,Divine Anima Infinity the Creation Cubic Overlord,name,Divine Anima Infinity the Creation Cubic Overlord
 100272004,Divine Anima Infinity the Creation Cubic Overlord,desc,"4 ""Cubic"" monsters
-Must be Fusion Summoned.
-(1) Gains 1500 ATK for each ""Vijam the Cubic Seed"" in your GY. Unaffected by activated effects from any monster whose ATK is lower than this card's.
-(2) Once per turn (Quick Effect): You can shuffle all your banished ""Cubic"" cards into the Deck, and if you do, destroy 1 card your opponent controls.
-(3) If this face-up card in its owner's control leaves the field because of your opponent: You can Special Summon up to 3 ""Vijam the Cubic Seed"" from your GY."
+Must be Fusion Summoned. Gains 1500 ATK for each ""Vijam the Cubic Seed"" in your GY, also unaffected by the activated effects of monsters with ATK less than this card. Once per turn (Quick Effect): You can shuffle all your banished ""Cubic"" cards into the Deck, and if you do, destroy 1 card your opponent controls. If this face-up card in its owner's control leaves the field by an opponent's card: You can Special Summon up to 3 ""Vijam the Cubic Seed"" from your GY."
 100272004,Divine Anima Infinity the Creation Cubic Overlord,str1,Destroy
 100272004,Divine Anima Infinity the Creation Cubic Overlord,str2,Special Summon
 100272006,Cubic Bodhi,name,Cubic Bodhi
-100272006,Cubic Bodhi,desc,"You can activate only 1 card with this card's name per turn.
-(1) When this card resolves, you can send 1 ""Cubic"" card from your Deck to the GY.
-(2) Once per turn: You can discard 1 card; place 1 Cubic Counter on 1 face-up monster your opponent controls. (Monsters with a Cubic Counter cannot attack, also negate their effects.)
-(3) If a ""Cubic"" monster(s) is Special Summoned to your field: You can Fusion Summon 1 ""Cubic"" monster from your Extra Deck, using monsters from your hand or field."
+100272006,Cubic Bodhi,desc,"When this card is activated: You can send 1 ""Cubic"" card from your Deck to the GY. Once per turn: You can discard 1 card; place 1 Cubic Counter on 1 face-up monster your opponent controls (monsters with a Cubic Counter cannot attack, also negate their effects). If a ""Cubic"" monster(s) is Special Summoned to your field: You can Fusion Summon 1 ""Cubic"" Fusion Monster from your Extra Deck, using monsters from your hand or field. You can only activate 1 ""Cubic Bodhi"" per turn."
 100272006,Cubic Bodhi,str1,Activate
 100272006,Cubic Bodhi,str2,Place a counter
 100272006,Cubic Bodhi,str3,Fusion Summon
@@ -502,7 +489,7 @@ You can only use each effect of ""Aitvaras the White Crow Knight"" once per turn
 Face-up monsters on the field become FIRE. During the Main Phase, if this card was Link Summoned using ""Salamangreat Heatleo"" (Quick Effect): You can target 1 card your opponent controls; shuffle it into the Deck, then you can make the ATK of 1 FIRE monster your opponent controls become the ATK of 1 monster in your GY. You can only use this effect of ""The King of Beasts that Rises from the Valley of Flames"" once per turn."
 101307048,The King of Beasts that Rises from the Valley of Flames,str2,Return to the Deck
 101307048,The King of Beasts that Rises from the Valley of Flames,str3,Change the ATK?
-101307048,The King of Beasts that Rises from the Valley of Flames,str4,"Link Summoned using ""驰驱于火炎平原的百兽之王"" as material"
+101307048,The King of Beasts that Rises from the Valley of Flames,str4,"Link Summoned using ""The King of Beasts that Rises from the Valley of Flames"" as material"
 101307051,The Immortal Sun God,name,The Immortal Sun God
 101307051,The Immortal Sun God,desc,"Special Summon 1 ""The Winged Dragon of Ra"" monster from your GY or banishment, ignoring its Summoning conditions, then if you Special Summoned ""The Winged Dragon of Ra"" by this effect, you can send it to the GY, and if you do, Special Summon 1 ""The Winged Dragon of Ra"" monster from your Extra Deck. During the End Phase, send the monsters Special Summoned by this effect to the GY. During your Main Phase, if this card is in your GY: You can discard 1 ""Sun God"" card; add this card to your hand. You can only use each effect of ""The Immortal Sun God"" once per turn."
 101307051,The Immortal Sun God,str1,Special Summon
@@ -523,7 +510,7 @@ Face-up monsters on the field become FIRE. During the Main Phase, if this card w
 101307057,Reindsurm Butterfly,desc,"Send 2 monsters from your Deck to the GY, including an Insect monster, also you cannot Special Summon until the end of the next turn after this card resolves, except Insect monsters. If you Ritual Summon an Insect monster(s) while this card is in your GY: You can banish this card; all ""Reindsurm"" monsters you currently control gain 800 ATK/DEF. You can only use 1 ""Reindsurm Butterfly"" effect per turn, and only once that turn."
 101307057,Reindsurm Butterfly,str1,Activate
 101307057,Reindsurm Butterfly,str2,Increase ATK/DEF
-101307057,Reindsurm Butterfly,str3,"The effect of ""翅龙的羽击"" is currently being applied."
+101307057,Reindsurm Butterfly,str3,"The effect of ""Reindsurm Butterfly"" is currently being applied."
 101307058,Reindsurm Practice,name,Reindsurm Practice
 101307058,Reindsurm Practice,desc,"Add 2 ""Reindsurm"" monsters from your Deck to your hand, then send 1 card from your hand to the GY, then if your opponent has a Dragon monster in their field or GY, you can add 1 Insect monster from your GY to your hand. If you Ritual Summon an Insect monster(s) while this card is in your GY: You can banish this card; place 1 ""Reindsurm"" Field Spell from your Deck face-up on your field. You can only use each effect of ""Reindsurm Practice"" once per turn."
 101307058,Reindsurm Practice,str1,Activate
@@ -536,7 +523,7 @@ Face-up monsters on the field become FIRE. During the Main Phase, if this card w
 101307062,Salamangreat Shrine,name,Salamangreat Shrine
 101307062,Salamangreat Shrine,desc,"(This card is always treated as ""Salamangreat Sanctuary"".)
 ""Salamangreat"" monsters you control are unaffected by your opponent's activated FIRE monsters' effects. You can only use each of the following effects of ""Salamangreat Shrine"" once per turn. If you Link Summon a ""Salamangreat"" Link Monster, you can use 1 ""Salamangreat"" Link Monster you control with its same name as the entire material. During your Main Phase: You can shuffle any number of ""Salamangreat"" cards from your hand into the Deck, then draw the same number of cards."
-101307062,Salamangreat Shrine,str1,"Link Summon by the effect of ""转生炎兽的神域"""
+101307062,Salamangreat Shrine,str1,"Link Summon by the effect of ""Salamangreat Shrine"""
 101307062,Salamangreat Shrine,str2,Exchange cards in your hand
 101307063,Salamangreat Gearblade,name,Salamangreat Gearblade
 101307063,Salamangreat Gearblade,desc,"Special Summon 1 ""Salamangreat"" monster from your hand or GY, and if you do, equip this card to it. You can send 1 ""Salamangreat"" monster from your Deck to the GY; the equipped monster gains ATK equal to the sent monster's Level x 300. If this card is in your GY: You can shuffle 3 ""Salamangreat"" cards from your GY into the Deck, except Equip Spells, and if you do, add this card to your hand. You can only use each effect of ""Salamangreat Gearblade"" once per turn."
