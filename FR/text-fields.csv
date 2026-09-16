@@ -342,6 +342,13 @@ Si cette carte est dans votre main : vous pouvez Sacrifier 2 monstres ; Invoquez
 Durant la Main Phase (Effet Rapide) : vous pouvez cibler 1 Monstre à Effet contrôlé par votre adversaire ; annulez ses effets, et si vous le faites, équipez-le à cette carte comme Magie d'Équipement qui lui donne 2000 ATK."
 100268006,Le Renoncé l'Œil Maléfique de l'Illusion,str1,Invocation Spéciale
 100268006,Le Renoncé l'Œil Maléfique de l'Illusion,str2,Équiper
+100268007,死亡世界支配者-暗黑妮可罗菲娅,name,死亡世界支配者-暗黑妮可罗菲娅
+100268007,死亡世界支配者-暗黑妮可罗菲娅,desc,"这张卡不能通常召唤，用卡的效果才能特殊召唤。这个卡名的①②的效果1回合各能使用1次。
+①：自己墓地有恶魔族·不死族怪兽3只以上存在的场合才能发动。这张卡从手卡特殊召唤。
+②：场上的这张卡被破坏的场合才能发动。这张卡加入手卡，对方场上1只怪兽的控制权直到结束阶段得到。那之后，可以给予对方这个效果得到控制权的怪兽的攻击力一半数值的伤害。"
+100268007,死亡世界支配者-暗黑妮可罗菲娅,str1,Invocation Spéciale
+100268007,死亡世界支配者-暗黑妮可罗菲娅,str2,Recycler
+100268007,死亡世界支配者-暗黑妮可罗菲娅,str3,Infliger des dommages ?
 100268008,"Gilford l'Éclair, le Guerrier des Coups de Tonnerre",name,"Gilford l'Éclair, le Guerrier des Coups de Tonnerre"
 100268008,"Gilford l'Éclair, le Guerrier des Coups de Tonnerre",desc,"Vous pouvez Invoquer Spécialement cette carte (depuis votre main) en Sacrifiant 3 monstres, et si vous avez Sacrifié un ou plusieurs monstres dont le propriétaire est votre adversaire, votre adversaire ne peut activer ni de cartes ni d'effets lorsque cette carte est Invoquée Spécialement de cette façon.
 Si elle est Invoquée de cette façon : votre adversaire doit envoyer tous les monstres qu'il contrôle au Cimetière.
@@ -491,6 +498,51 @@ Si vous contrôlez un Monstre Fusion ""Néos"" : vous pouvez bannir cette carte 
 Vous ne pouvez utiliser chaque effet de ""Espoir pour le Futur"" qu'une fois par tour."
 100270003,Espoir pour le Futur,str1,Activer
 100270003,Espoir pour le Futur,str2,Annuler l'effet
+100271000,“罪宝狩猎之恶魔”迪亚贝尔斯塔尔,name,“罪宝狩猎之恶魔”迪亚贝尔斯塔尔
+100271000,“罪宝狩猎之恶魔”迪亚贝尔斯塔尔,desc,"这个卡名的①的方法的特殊召唤1回合只能有1次，②③的效果1回合各能使用1次。
+①：自己或对方的墓地有「叛逆之罪宝-蛇眼」或「蛇眼炎磷」存在的场合，这张卡可以从手卡特殊召唤。
+②：从自己墓地把1张「死之罪宝-濡血蝠」除外才能发动。对方场上的魔法·陷阱卡全部破坏。
+③：对方回合，从自己墓地把1张「背叛之罪宝-森厄狼」除外才能发动。对方场上的怪兽全部破坏。"
+100271000,“罪宝狩猎之恶魔”迪亚贝尔斯塔尔,str1,Invocation Spéciale
+100271000,“罪宝狩猎之恶魔”迪亚贝尔斯塔尔,str2,Détruire des cartes Magie/Piège
+100271000,“罪宝狩猎之恶魔”迪亚贝尔斯塔尔,str3,Détruire un monstre
+100272001,无穷方界器 地天,name,无穷方界器 地天
+100272001,无穷方界器 地天,desc,"这个卡名的①②的效果1回合各能使用1次，这些效果发动的回合，自己不是融合怪兽不能从额外卡组特殊召唤。
+①：自己主要阶段才能发动。这张卡从手卡特殊召唤。
+②：这张卡召唤·特殊召唤的场合，丢弃1张手卡才能发动。从卡组把最多2张「方界」魔法·陷阱卡加入手卡。
+③：1回合1次，自己·对方的战斗阶段才能发动。自己的手卡·场上的怪兽作为融合素材，把1只「方界」融合怪兽融合召唤。"
+100272001,无穷方界器 地天,str1,Invocation Spéciale
+100272001,无穷方界器 地天,str2,Ajouter à la main
+100272001,无穷方界器 地天,str3,Invocation Fusion
+100272002,燎炎方界神 狱焰之阿底提,name,燎炎方界神 狱焰之阿底提
+100272002,燎炎方界神 狱焰之阿底提,desc,"「方界」怪兽＋「方界胤 毗贾姆」
+把自己手卡·场上的上记卡送去墓地的场合才能特殊召唤。这个卡名的②的效果1回合只能使用1次，这个效果发动的回合，自己不是融合怪兽不能从额外卡组特殊召唤。
+①：这张卡的攻击力上升自己墓地的「方界胤 毗贾姆」的数量×800。
+②：自己·对方回合可以发动。这张卡回到额外卡组，从自己墓地把2只「方界」怪兽特殊召唤，从卡组把1张「方界」卡加入手卡。"
+100272002,燎炎方界神 狱焰之阿底提,str2,Invocation Spéciale
+100272003,溟渊方界神 深渊伐萝陀,name,溟渊方界神 深渊伐萝陀
+100272003,溟渊方界神 深渊伐萝陀,desc,"「方界」怪兽×3
+这个卡名的②的效果1回合只能使用1次，这个效果发动的回合，自己不是融合怪兽不能从额外卡组特殊召唤。
+①：这张卡，攻击力上升自己墓地的「方界胤 毗贾姆」的数量×1000，不受比这张卡攻击力低的怪兽所发动的效果影响。
+②：自己·对方回合可以发动。这张卡回到额外卡组，从自己墓地把3只「方界」怪兽特殊召唤，从卡组把1张「方界」卡加入手卡。"
+100272003,溟渊方界神 深渊伐萝陀,str2,Invocation Spéciale
+100272004,创世方界超神 无穷圣魂,name,创世方界超神 无穷圣魂
+100272004,创世方界超神 无穷圣魂,desc,"「方界」怪兽×4
+这张卡不用融合召唤不能特殊召唤。
+①：这张卡，攻击力上升自己墓地的「方界胤 毗贾姆」的数量×1500，不受比这张卡攻击力低的怪兽所发动的效果影响。
+②：自己·对方回合1次，可以发动。自己除外状态的「方界」卡全部回到卡组，把对方场上1张卡破坏。
+③：表侧表示的这张卡因对方从场上离开的场合才能发动。从自己墓地把最多3只「方界胤 毗贾姆」特殊召唤。"
+100272004,创世方界超神 无穷圣魂,str1,Détruire
+100272004,创世方界超神 无穷圣魂,str2,Invocation Spéciale
+100272006,方界觉,name,方界觉
+100272006,方界觉,desc,"这个卡名的卡在1回合只能发动1张。
+①：作为这张卡发动时的效果处理，可以从卡组把1张「方界」卡送去墓地。
+②：1回合1次，丢弃1张手卡才能发动。给对方场上1只表侧表示怪兽放置1个方界指示物。有方界指示物放置的怪兽不能攻击，效果无效化。
+③：自己场上有「方界」怪兽特殊召唤的场合才能发动。自己手卡·场上的怪兽作为融合素材，把1只「方界」融合怪兽融合召唤。"
+100272006,方界觉,str1,Activer
+100272006,方界觉,str2,Placer un marqueur
+100272006,方界觉,str3,Invocation Fusion
+100272006,方界觉,str4,Envoyer la carte au Cimetière ?
 101306281,"Audhumla, Progéniteur de l'Étendue Gelée",name,"Audhumla, Progéniteur de l'Étendue Gelée"
 101306281,"Audhumla, Progéniteur de l'Étendue Gelée",desc,"Si min. 4 cartes sont sur le Terrain : vous pouvez Invoquer Spécialement cette carte depuis votre main.
 Vous pouvez envoyer max. 2 Magies/Pièges que vous contrôlez au Cimetière ; piochez autant de cartes, puis vous pouvez Invoquer Spécialement 1 monstre EAU depuis votre main.
@@ -660,7 +712,7 @@ Durant la Main Phase, si cette carte a été Invoquée par Lien en utilisant ""S
 Vous ne pouvez utiliser cet effet de ""Le Roi des Bêtes Surgissant de la Vallée des Flammes"" qu'une fois par tour."
 101307048,Le Roi des Bêtes Surgissant de la Vallée des Flammes,str2,Renvoyer au Deck
 101307048,Le Roi des Bêtes Surgissant de la Vallée des Flammes,str3,Modifier l'ATK ?
-101307048,Le Roi des Bêtes Surgissant de la Vallée des Flammes,str4,"Invoqué par Lien en utilisant ""Salamangrande Chaleurléo"" comme Matériel"
+101307048,Le Roi des Bêtes Surgissant de la Vallée des Flammes,str4,"Invoqué par Lien en utilisant ""Le Roi des Bêtes Surgissant de la Vallée des Flammes"" comme Matériel"
 101307051,Le Dieu du Soleil Immortel,name,Le Dieu du Soleil Immortel
 101307051,Le Dieu du Soleil Immortel,desc,"Invoquez Spécialement 1 monstre ""Le Dragon Ailé de Râ"" depuis votre Cimetière ou bannissement, en ignorant ses conditions d'Invocation, puis si vous avez Invoqué Spécialement ""Le Dragon Ailé de Râ"" avec cet effet, envoyez-le au Cimetière, et si vous le faites, vous pouvez Invoquer Spécialement 1 monstre ""Le Dragon Ailé de Râ"" depuis votre Extra Deck.
 Durant la End Phase, envoyez les monstres Invoqués Spécialement par cet effet au Cimetière.
@@ -715,7 +767,7 @@ Les monstres ""Salamangrande"" que vous contrôlez ne sont pas affectés par les
 Vous ne pouvez utiliser chacun des effets suivants de ""Mausolée Salamangrande"" qu'une fois par tour.
 Si vous Invoquez par Lien un Monstre Lien ""Salamangrande"", vous pouvez utiliser 1 Monstre Lien ""Salamangrande"" que vous contrôlez du même nom que celui-ci comme tout le Matériel.
 Durant votre Main Phase : vous pouvez mélanger un nombre de votre choix de cartes ""Salamangrande"" depuis votre main dans le Deck, puis piochez le même nombre de cartes."
-101307062,Mausolée Salamangrande,str1,"Invocation Lien par l'effet de ""Sanctuaire Salamangrande"""
+101307062,Mausolée Salamangrande,str1,"Invocation Lien par l'effet de ""Mausolée Salamangrande"""
 101307062,Mausolée Salamangrande,str2,Échanger des cartes de votre main
 101307063,Gearblade Salamangrande,name,Gearblade Salamangrande
 101307063,Gearblade Salamangrande,desc,"Invoquez Spécialement 1 monstre ""Salamangrande"" depuis votre main ou Cimetière, et si vous le faites, équipez-le avec cette carte.
