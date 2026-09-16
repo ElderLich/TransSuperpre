@@ -855,6 +855,46 @@ def build_translation_pack(lang: str):
 
     # Extra phrases (keep phrase-level; avoid single-word glue)
     extras = {
+        "因{CARD}被里侧除外": {
+            "en": "Banished face-down by {CARD}",
+            "fr": "Banni face verso par {CARD}",
+            "de": "Durch {CARD} verdeckt verbannt",
+            "es": "Desterrada boca abajo por {CARD}",
+            "pt": "Banido com a face para baixo por {CARD}",
+            "it": "Bandita coperta da {CARD}",
+            "ja": "{CARD}によって裏側表示で除外",
+            "kr": "{CARD}에 의해 뒷면 표시로 제외됨",
+        },
+        "因{CARD}①被里侧除外": {
+            "en": "Banished face-down by effect ① of {CARD}",
+            "fr": "Banni face verso par l'effet ① de {CARD}",
+            "de": "Durch Effekt ① von {CARD} verdeckt verbannt",
+            "es": "Desterrada boca abajo por el efecto ① de {CARD}",
+            "pt": "Banido com a face para baixo pelo efeito ① de {CARD}",
+            "it": "Bandita coperta dall'effetto ① di {CARD}",
+            "ja": "{CARD}の①の効果で裏側表示で除外",
+            "kr": "{CARD}의 ① 효과로 뒷면 표시로 제외됨",
+        },
+        "因{CARD}②被里侧除外": {
+            "en": "Banished face-down by effect ② of {CARD}",
+            "fr": "Banni face verso par l'effet ② de {CARD}",
+            "de": "Durch Effekt ② von {CARD} verdeckt verbannt",
+            "es": "Desterrada boca abajo por el efecto ② de {CARD}",
+            "pt": "Banido com a face para baixo pelo efeito ② de {CARD}",
+            "it": "Bandita coperta dall'effetto ② di {CARD}",
+            "ja": "{CARD}の②の効果で裏側表示で除外",
+            "kr": "{CARD}의 ② 효과로 뒷면 표시로 제외됨",
+        },
+        "因{CARD}发动被里侧除外": {
+            "en": "Banished face-down by the activation of {CARD}",
+            "fr": "Banni face verso par l'activation de {CARD}",
+            "de": "Durch die Aktivierung von {CARD} verdeckt verbannt",
+            "es": "Desterrada boca abajo por la activación de {CARD}",
+            "pt": "Banido com a face para baixo pela ativação de {CARD}",
+            "it": "Bandita coperta dall'attivazione di {CARD}",
+            "ja": "{CARD}の発動によって裏側表示で除外",
+            "kr": "{CARD}의 발동으로 뒷면 표시로 제외됨",
+        },
         "是否变化攻击力？": {
             "en": "Change the ATK?",
             "fr": "Modifier l'ATK ?",
