@@ -19,13 +19,13 @@ Falls du „Kraftverbindung“ in diesen Spielzug aktiviert hast: Du kannst dies
 Du kannst jeden Effekt von „Kraftverbindung“ nur einmal pro Spielzug verwenden."
 100200294,Kraftverbindung,str1,Aktivieren
 100200294,Kraftverbindung,str2,Zurückholen
-100200297,装甲魔导士 帕智,name,装甲魔导士 帕智
-100200297,装甲魔导士 帕智,desc,"这个卡名的①的效果1回合只能使用1次。
-①：这张卡在手卡·墓地存在的场合，以自己场上1只表侧表示怪兽为对象才能发动。这张卡当作持有以下效果的装备魔法卡使用给那只怪兽装备。
-●只要自己的基本分在4000以下，装备怪兽的攻击力·守备力上升2100。
-●对方发动的卡的效果的处理时，持有掷骰子效果的卡在自己场上存在的场合，可以把那个发动的效果无效。那之后，这张卡除外。"
-100200297,装甲魔导士 帕智,str1,Ausrüsten
-100200297,装甲魔导士 帕智,str3,Den Effekt annullieren? (装甲魔导士 帕智)
+100200297,Rüstungsmagier Pazoo,name,Rüstungsmagier Pazoo
+100200297,Rüstungsmagier Pazoo,desc,"(Diese Karte wird immer als „Prophezeiung“-Karte behandelt.)
+Falls sich diese Karte in deiner Hand oder deinem Friedhof befindet: Du kannst 1 offenes Monster wählen, das du kontrollierst; rüste es mit dieser Karte als Ausrüstungszauber mit den folgenden Effekten aus. Du kannst diesen Effekt von „Rüstungsmagier Pazoo“ nur einmal pro Spielzug verwenden.
+● Solange deine LP 4000 oder weniger betragen, erhält das ausgerüstete Monster 2100 ATK/DEF.
+● Wenn ein von deinem Gegner aktivierter Karteneffekt aufgelöst wird und du eine Karte mit einem Effekt kontrollierst, der einen Würfelwurf erfordert, kannst du jenen aktivierten Effekt annullieren, dann verbanne diese Karte."
+100200297,Rüstungsmagier Pazoo,str1,Ausrüsten
+100200297,Rüstungsmagier Pazoo,str3,Den Effekt annullieren? (Rüstungsmagier Pazoo)
 100267001,Sennet-Prophetin – Nefertari,name,Sennet-Prophetin – Nefertari
 100267001,Sennet-Prophetin – Nefertari,desc,"Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst sie auf den Friedhof legen; zeige bis zu 2 Normale Monsterkarten von deiner Hand, deinem Deck, deiner offenen Spielfeldseite und/oder aus deinem Friedhof, dann setze so viele „Sennet“-Zauberkarten von deinem Deck. Während des Spielzugs deines Gegners (Schnelleffekt): Du kannst diese Karte von deinem Friedhof verbannen; rüste 1 Normales Monster von deinem Friedhof als Ausrüstungszauberkarte an 1 Ritualmonster aus, das du kontrollierst. Du kannst jeden Effekt von „Sennet-Prophetin – Nefertari“ nur einmal pro Spielzug verwenden."
 100267001,Sennet-Prophetin – Nefertari,str1,Setzen
@@ -59,14 +59,14 @@ Du kannst jeden Effekt von „Kraftverbindung“ nur einmal pro Spielzug verwend
 100267007,Sennet Per Akh,str1,Der Hand hinzufügen
 100267007,Sennet Per Akh,str2,Als Spezialbeschwörung beschwören
 100267007,Sennet Per Akh,str3,Als Normale Monsterkarte behandeln
-100267008,归光之旅-『塞尼特』,name,归光之旅-『塞尼特』
-100267008,归光之旅-『塞尼特』,desc,"这个卡名的卡在1回合只能发动1张。
-①：从自己的手卡·卡组·场上（表侧表示）·墓地选以下数量的通常怪兽卡，给双方确认。那之后，根据那个数量适用以下效果。这个效果把手卡的卡确认的场合，再让自己可以抽1张。
-●2张：除效果怪兽外的，8星以下的1只融合怪兽从额外卡组当作通常怪兽卡特殊召唤。
-●3张：卡组1只「归光」怪兽或者自己墓地1只通常怪兽特殊召唤。"
-100267008,归光之旅-『塞尼特』,str1,Aktivieren
-100267008,归光之旅-『塞尼特』,str2,1 Karte ziehen?
-100267008,归光之旅-『塞尼特』,str3,Als Normale Monsterkarte behandeln
+100267008,Eine Reise zurück ins Licht – „Sennet“,name,Eine Reise zurück ins Licht – „Sennet“
+100267008,Eine Reise zurück ins Licht – „Sennet“,desc,"Zeige 2 oder 3 Normale Monsterkarten von deiner Hand, deinem Deck, deiner offenen Spielfeldseite und/oder deinem Friedhof vor, dann führe abhängig von der Anzahl der vorgezeigten Karten den entsprechenden Effekt aus, dann, falls du durch diesen Effekt eine oder mehr Karten von deiner Hand vorgezeigt hast, kannst du 1 Karte ziehen.
+● 2: Beschwöre 1 Nicht-Effekt-Fusionsmonster der Stufe 8 oder niedriger als Spezialbeschwörung von deinem Extra Deck als eine Normale Monsterkarte.
+● 3: Beschwöre 1 „Sennet“-Monster von deinem Deck oder 1 Normales Monster von deinem Friedhof als Spezialbeschwörung.
+Du kannst nur 1 „Eine Reise zurück ins Licht – „Sennet““ pro Spielzug aktivieren."
+100267008,Eine Reise zurück ins Licht – „Sennet“,str1,Aktivieren
+100267008,Eine Reise zurück ins Licht – „Sennet“,str2,1 Karte ziehen?
+100267008,Eine Reise zurück ins Licht – „Sennet“,str3,Als Normale Monsterkarte behandeln
 100267009,Am Duasennet,name,Am Duasennet
 100267009,Am Duasennet,desc,"Beschwöre 1 „Sennet“-Ritualmonster als Ritualbeschwörung von deiner Hand oder deinem Friedhof, indem du Normale Monsterkarten mit unterschiedlichen Namen voneinander von deiner Hand, deinem Deck und/oder deiner offenen Spielfeldseite auf den Friedhof legst, deren gemeinsame Stufe größer oder gleich der Stufe des Ritualmonsters ist, dann kannst du 1 Normales Monster von deinem Friedhof als Ausrüstungszauberkarte an es ausrüsten. Falls eine oder mehr Normale Monsterkarten, die du kontrollierst, durch Kampf oder einen Karteneffekt zerstört würden, kannst du stattdessen diese Karte von deinem Friedhof verbannen. Du kannst nur 1 „Am Duasennet“ pro Spielzug aktivieren."
 100267009,Am Duasennet,str1,Als Ritualbeschwörung beschwören
@@ -136,16 +136,15 @@ Kann nicht als Material für eine Fusions-, Xyz- oder Linkbeschwörung verwendet
 Monster deines Gegners können Monster nicht als Angriffsziel für Angriffe wählen, außer dieses. Falls diese Karte als Xyz-Beschwörung beschworen wird oder ein oder mehrere Monster als Spezialbeschwörung von der Hand beschworen werden: Du kannst eine beliebige Anzahl Material von dieser Karte abhängen; lege so viele Karten, die dein Gegner kontrolliert, in beliebiger Reihenfolge unter das Deck. Du kannst diesen Effekt von „Raise Moon Hoffnung Squeeze - Jackpot“ nur einmal pro Spielzug verwenden. Jedes Mal, wenn dein Gegner eine oder mehrere Karten sein Deck verlassen lässt, außer indem er sie zieht: Du kannst die oberste Karte seines Decks an diese Karte als Material anhängen."
 100267023,Raise Moon Hoffnung Squeeze - Jackpot,str2,Ins Deck zurücklegen
 100267023,Raise Moon Hoffnung Squeeze - Jackpot,str3,Xyz-Material anhängen
-100267024,升辉月的群星,name,升辉月的群星
-100267024,升辉月的群星,desc,"①：从卡组选「升辉月的群星」以外的1张「升辉月」卡，在卡组最上面放置（这个回合，这个卡名的这个效果不能选同名卡）。这张卡的发动后，直到回合结束时双方不能用抽卡以外的方法从卡组把卡加入手卡。
-②：可以把墓地的这张卡除外，从以下效果选择1个发动。
-●双方抽1张。
-●自己场上有魔法师族「升辉月」超量怪兽存在的场合才能发动。自己抽1张。"
-100267024,升辉月的群星,str1,Aktivieren
-100267024,升辉月的群星,str2,Ziehen
-100267024,升辉月的群星,str3,"Wähle die Karte, die du oben aufs Deck legen möchtest"
-100267024,升辉月的群星,str4,Beide Spieler ziehen
-100267024,升辉月的群星,str5,Ziehen
+100267024,Die Sterne von Raise Moon,name,Die Sterne von Raise Moon
+100267024,Die Sterne von Raise Moon,desc,"Lege 1 „Raise Moon“-Karte von deinem Deck auf dein Deck, außer „Die Sterne von Raise Moon“, aber für den Rest dieses Spielzugs kann durch diesen Effekt von „Die Sterne von Raise Moon“ keine weitere Karte mit demselben Namen gewählt werden, zusätzlich kann für den Rest dieses Spielzugs, nachdem diese Karte aufgelöst wurde, kein Spieler Karten vom Deck der Hand hinzufügen, außer indem er sie zieht. Du kannst diese Karte von deinem Friedhof verbannen und dann 1 dieser Effekte aktivieren;
+● Jeder Spieler zieht 1 Karte.
+● Falls du ein Hexer-„Raise Moon“-Xyz-Monster kontrollierst: Ziehe 1 Karte."
+100267024,Die Sterne von Raise Moon,str1,Aktivieren
+100267024,Die Sterne von Raise Moon,str2,Ziehen
+100267024,Die Sterne von Raise Moon,str3,"Wähle die Karte, die du oben aufs Deck legen möchtest"
+100267024,Die Sterne von Raise Moon,str4,Beide Spieler ziehen
+100267024,Die Sterne von Raise Moon,str5,Ziehen
 100267025,"„Raise Moon“ die Stadt, die niemals schläft",name,"„Raise Moon“ die Stadt, die niemals schläft"
 100267025,"„Raise Moon“ die Stadt, die niemals schläft",desc,"Das erste Mal in jedem Spielzug, dass jedes „Raise Moon“-Monster der Stufe 7, das du kontrollierst, durch einen Karteneffekt zerstört würde, wird es nicht zerstört. Einmal pro Spielzug, während der End Phase: Mische alle „Raise Moon“-Karten in deinem Friedhof und deinen verbannten Karten ins Deck. Einmal pro Spielzug: Du kannst 1 dieser Effekte aktivieren;
 
@@ -228,33 +227,26 @@ Monster deines Gegners können Monster nicht als Angriffsziel für Angriffe wäh
 100267039,Xenovader△ Territorium - Valvols,str1,"Karten vom Friedhof verbannen, um zu aktivieren?"
 100267039,Xenovader△ Territorium - Valvols,str2,Der Hand hinzufügen
 100267039,Xenovader△ Territorium - Valvols,str3,"Durch ""Xenovader△ Territorium - Valvols"" verdeckt verbannt"
-100267040,异解△福音,name,异解△福音
-100267040,异解△福音,desc,"从自己的卡组上面·墓地把合计5张卡以里侧除外才能把这张卡发动。这个卡名的②的效果1回合只能使用1次。
-①：只要这张卡在魔法与陷阱区域存在，自己在通常召唤外加上只有1次，自己主要阶段可以把1只「异解△」怪兽召唤。
-②：自己主要阶段才能发动。自己场上的原本等级是4以下的1只「异解△」怪兽以里侧除外，自己除外状态（里侧）的5星以上的1只「异解△」怪兽特殊召唤。"
-100267040,异解△福音,str1,"Karten vom Friedhof verbannen, um zu aktivieren?"
-100267040,异解△福音,str2,"Durch den Effekt von ""异解△福音"" beschworen"
-100267040,异解△福音,str3,Als Spezialbeschwörung beschwören
-100267040,异解△福音,str4,"Durch die Aktivierung von ""异解△福音"" verdeckt verbannt"
-100267040,异解△福音,str5,"Durch Effekt ② von ""异解△福音"" verdeckt verbannt"
+100267040,Xenovader△-Evangelium,name,Xenovader△-Evangelium
+100267040,Xenovader△-Evangelium,desc,"Aktiviere diese Karte, indem du insgesamt 5 Karten von deinem Friedhof und/oder von der Oberseite deines Decks verdeckt verbannst. Während deiner Main Phase kannst du zusätzlich zu deiner Normalbeschwörung / deinem Setzen 1 „Xenovader△“-Monster als Normalbeschwörung beschwören. (Du kannst diesen Effekt nur einmal pro Spielzug erhalten.) Während deiner Main Phase: Du kannst 1 „Xenovader△“-Monster, das du kontrollierst und dessen Grund-Stufe 4 oder niedriger ist, verdeckt verbannen und falls du dies tust, beschwöre 1 deiner verdeckt verbannten „Xenovader△“-Monster der Stufe 5 oder höher als Spezialbeschwörung. Du kannst diesen Effekt von „Xenovader△-Evangelium“ nur einmal pro Spielzug verwenden."
+100267040,Xenovader△-Evangelium,str1,"Karten vom Friedhof verbannen, um zu aktivieren?"
+100267040,Xenovader△-Evangelium,str2,Durch den Effekt von „Xenovader△-Evangelium“ beschworen
+100267040,Xenovader△-Evangelium,str3,Als Spezialbeschwörung beschwören
+100267040,Xenovader△-Evangelium,str4,Durch die Aktivierung von „Xenovader△-Evangelium“ verdeckt verbannt
+100267040,Xenovader△-Evangelium,str5,Durch den zweiten Effekt von „Xenovader△-Evangelium“ verdeckt verbannt
 100267041,Xenovader△ Urteil,name,Xenovader△ Urteil
 100267041,Xenovader△ Urteil,desc,"Falls dein Gegner ein oder mehrere Monster als Normal- oder Spezialbeschwörung beschwört: Du kannst 1 von ihnen wählen; bestimme 1 deiner verdeckt verbannten „Xenovader△“-Monster mit demselben Attribut und füge es entweder deiner Hand hinzu oder beschwöre es als Spezialbeschwörung, zusätzlich kannst du für den Rest dieses Spielzugs mit diesem Effekt von „Xenovader△ Urteil“ nicht dasselbe Attribut noch einmal bestimmen und du kannst keine Karten oder Effekte aktivieren, außer „Xenovader△“-Karten oder -Effekten. Einmal pro Kampf, während der Schadensberechnung, falls dein „Xenovader△“-Monster gegen ein Monster deines Gegners kämpft und du keine Karten in deinem Deck hast: Du kannst bestimmen, dass die ATK jenes Monsters deines Gegners zu 0 werden."
 100267041,Xenovader△ Urteil,str1,Zurückholen
 100267041,Xenovader△ Urteil,str2,ATK wird 0
-100268002,完美羽化-究极完全态大飞蛾,name,完美羽化-究极完全态大飞蛾
-100268002,完美羽化-究极完全态大飞蛾,desc,"这张卡不能通常召唤。「完美羽化-究极完全态大飞蛾」1回合1次，在自己墓地的昆虫族怪兽是6只以上的场合才能特殊召唤。
-①：这张卡特殊召唤的场合才能发动。对方场上的卡全部回到手卡。那之后，自己墓地有通常怪兽存在的场合，这张卡的攻击力上升自己墓地的昆虫族怪兽的数量×300。
-②：每次对方把怪兽召唤·特殊召唤发动。对方场上的全部怪兽的攻击力下降自身的等级×100。"
-100268002,完美羽化-究极完全态大飞蛾,str1,Auf die Hand zurückgeben
-100268002,完美羽化-究极完全态大飞蛾,str2,ATK verringern
-100268002,完美羽化-究极完全态大飞蛾,str3,ATK erhöhen?
-100268003,鹰身女郎-华丽的分身-,name,鹰身女郎-华丽的分身-
-100268003,鹰身女郎-华丽的分身-,desc,"这个卡名的②③的效果1回合各能使用1次。
-①：这张卡的卡名，只要在场上·墓地存在当作「鹰身女郎」使用。
-②：这张卡在手卡存在，自己场上有风·地属性怪兽之内任意种存在的场合才能发动。这张卡特殊召唤。
-③：这张卡特殊召唤的场合才能发动。从自己的手卡·卡组·墓地把最多2只5星「鹰身」怪兽特殊召唤。这个效果的发动后，直到回合结束时自己不是风·地属性怪兽不能特殊召唤。"
-100268003,鹰身女郎-华丽的分身-,str2,Diese Karte als Spezialbeschwörung beschören
-100268003,鹰身女郎-华丽的分身-,str3,Als Spezialbeschwörung beschwören
+100268002,Vollkommener Schlupf – Perfekte ultimative große Motte,name,Vollkommener Schlupf – Perfekte ultimative große Motte
+100268002,Vollkommener Schlupf – Perfekte ultimative große Motte,desc,"Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss als Spezialbeschwörung (von deiner Hand) beschworen werden, indem du 6 oder mehr Insekt-Monster in deinem Friedhof hast. Du kannst „Vollkommener Schlupf – Perfekte ultimative große Motte“ auf diese Art nur einmal pro Spielzug als Spezialbeschwörung beschwören. Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst alle Karten, die dein Gegner kontrolliert, auf die Hand zurückgeben, dann, falls sich ein Normales Monster in deinem Friedhof befindet, kann diese Karte für jedes Insekt-Monster in deinem Friedhof 300 ATK erhalten. Jedes Mal, wenn dein Gegner ein oder mehr Monster als Normal- oder Spezialbeschwörung beschwört: Alle Monster, die dein Gegner derzeit kontrolliert, verlieren ATK in Höhe ihrer eigenen Stufe x 100."
+100268002,Vollkommener Schlupf – Perfekte ultimative große Motte,str1,Auf die Hand zurückgeben
+100268002,Vollkommener Schlupf – Perfekte ultimative große Motte,str2,ATK verringern
+100268002,Vollkommener Schlupf – Perfekte ultimative große Motte,str3,ATK erhöhen?
+100268003,Harpyie – Vornehmer Egotist,name,Harpyie – Vornehmer Egotist
+100268003,Harpyie – Vornehmer Egotist,desc,"Der Name dieser Karte wird zu „Harpyie“, solange sie auf dem Spielfeld oder im Friedhof liegt. Du kannst jeden der folgenden Effekte von „Harpyie – Vornehmer Egotist“ nur einmal pro Spielzug verwenden. Falls sich diese Karte in deiner Hand befindet und du ein WIND oder ERDE Monster kontrollierst: Du kannst diese Karte als Spezialbeschwörung beschwören. Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst bis zu 2 „Harpyie“-Monster der Stufe 5 als Spezialbeschwörung von deiner Hand, deinem Deck und/oder deinem Friedhof beschwören, zusätzlich kannst du für den Rest dieses Spielzugs keine Monster als Spezialbeschwörung beschwören, außer WIND oder ERDE Monstern."
+100268003,Harpyie – Vornehmer Egotist,str2,Diese Karte als Spezialbeschwörung beschören
+100268003,Harpyie – Vornehmer Egotist,str3,Als Spezialbeschwörung beschwören
 100268004,"Blauäugiger ultimativer Drache, der gottübertreffende Diener",name,"Blauäugiger ultimativer Drache, der gottübertreffende Diener"
 100268004,"Blauäugiger ultimativer Drache, der gottübertreffende Diener",desc,"„Blauäugiger weißer Drache“ + „Blauäugiger weißer Drache“ + „Blauäugiger weißer Drache“
 
@@ -270,13 +262,11 @@ Kann nicht durch Karteneffekte zerstört werden, bleibt außerdem während des S
 100268006,"Aufgegeben, das böse Auge der Illusion",desc,"Du kannst diese Karte mit „Aufgegeben, das böse Auge der Illusion“ als Ritualbeschwörung beschwören. Dein Gegner erhält sämtlichen Kampfschaden, den du aus Kämpfen mit dieser Karte erlitten hättest. Du kannst jeden der folgenden Effekte von „Aufgegeben, das böse Auge der Illusion“ nur einmal pro Spielzug verwenden. Falls sich diese Karte in deiner Hand befindet: Du kannst 2 Monster als Tribut anbieten; beschwöre diese Karte als Spezialbeschwörung (dies wird als Ritualbeschwörung behandelt). Während der Main Phase (Schnelleffekt): Du kannst 1 Effektmonster wählen, das dein Gegner kontrolliert; annulliere seine Effekte und falls du dies tust, rüste diese Karte mit ihm als Ausrüstungszauber aus, die ihr 2000 ATK gibt."
 100268006,"Aufgegeben, das böse Auge der Illusion",str1,Als Spezialbeschwörung beschwören
 100268006,"Aufgegeben, das böse Auge der Illusion",str2,Ausrüsten
-100268007,死亡世界支配者-暗黑妮可罗菲娅,name,死亡世界支配者-暗黑妮可罗菲娅
-100268007,死亡世界支配者-暗黑妮可罗菲娅,desc,"这张卡不能通常召唤，用卡的效果才能特殊召唤。这个卡名的①②的效果1回合各能使用1次。
-①：自己墓地有恶魔族·不死族怪兽3只以上存在的场合才能发动。这张卡从手卡特殊召唤。
-②：场上的这张卡被破坏的场合才能发动。这张卡加入手卡，对方场上1只怪兽的控制权直到结束阶段得到。那之后，可以给予对方这个效果得到控制权的怪兽的攻击力一半数值的伤害。"
-100268007,死亡世界支配者-暗黑妮可罗菲娅,str1,Als Spezialbeschwörung beschwören
-100268007,死亡世界支配者-暗黑妮可罗菲娅,str2,Zurückholen
-100268007,死亡世界支配者-暗黑妮可罗菲娅,str3,Schaden zufügen?
+100268007,"Dunkle Todesfurcht, Herrscherin der Totenwelt",name,"Dunkle Todesfurcht, Herrscherin der Totenwelt"
+100268007,"Dunkle Todesfurcht, Herrscherin der Totenwelt",desc,"Kann nicht als Normalbeschwörung beschworen/gesetzt werden. Muss durch einen Karteneffekt als Spezialbeschwörung beschworen werden. Falls sich 3 oder mehr Unterweltler- und/oder Zombie-Monster in deinem Friedhof befinden: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Falls diese Karte auf dem Spielfeld zerstört wird: Du kannst diese Karte deiner Hand hinzufügen und falls du dies tust, übernimm bis zur End Phase die Kontrolle über 1 Monster, das dein Gegner kontrolliert, dann kannst du deinem Gegner Schaden in Höhe der Hälfte der ATK jenes Monsters zufügen. Du kannst jeden Effekt von „Dunkle Todesfurcht, Herrscherin der Totenwelt“ nur einmal pro Spielzug verwenden."
+100268007,"Dunkle Todesfurcht, Herrscherin der Totenwelt",str1,Als Spezialbeschwörung beschwören
+100268007,"Dunkle Todesfurcht, Herrscherin der Totenwelt",str2,Zurückholen
+100268007,"Dunkle Todesfurcht, Herrscherin der Totenwelt",str3,Schaden zufügen?
 100268008,"Gilford der Blitz, der Krieger der Blitzschläge",name,"Gilford der Blitz, der Krieger der Blitzschläge"
 100268008,"Gilford der Blitz, der Krieger der Blitzschläge",desc,"Du kannst diese Karte (von deiner Hand) als Spezialbeschwörung beschwören, indem du 3 Monster als Tribut anbietest, und falls du ein oder mehrere Monster als Tribut angeboten hast, die deinem Gegner gehören, kann dein Gegner keine Karten oder Effekte aktivieren, wenn diese Karte auf diese Art als Spezialbeschwörung beschworen wird. Falls sie auf diese Art beschworen wird: Dein Gegner muss alle Monster, die er kontrolliert, auf den Friedhof legen. Falls diese Karte auf den Friedhof gelegt wird: Du kannst diesen Effekt aktivieren; füge deiner Hand während der End Phase dieses Spielzugs 1 Krieger-Monster von deinem Deck hinzu. Du kannst diesen Effekt von „Gilford der Blitz, der Krieger der Blitzschläge“ nur einmal pro Spielzug verwenden."
 100268008,"Gilford der Blitz, der Krieger der Blitzschläge",str2,Auf den Friedhof legen
@@ -315,79 +305,63 @@ Du kannst nur 1 „Superkritisch“ pro Spielzug aktivieren."
 100268015,Superkritisch,str4,Ein Monster zerstören
 100268015,Superkritisch,str5,Zerstöre ein Monster und annulliere die Effekte eines anderen Monsters
 100268015,Superkritisch,str6,Als Spezialbeschwörung beschwören
-100268016,环境适应力,name,环境适应力
-100268016,环境适应力,desc,"①：怪兽召唤·特殊召唤的场合，若和那只怪兽相同种族的其他怪兽在场上存在则发动。那些召唤·特殊召唤的怪兽的攻击力·守备力上升1000。
-②：这张卡被破坏的场合发动。场上的全部表侧表示怪兽的效果无效化，那些攻击力·守备力变成原本数值。
-③：自己·对方的准备阶段，这张卡在墓地存在，双方的场地区域没有卡存在的场合才能发动。这张卡在自己场上以表侧表示放置。"
-100268016,环境适应力,str1,ATK erhöhen
-100268016,环境适应力,str2,Annullieren
-100268016,环境适应力,str3,Platzieren
-100268017,香水战术,name,香水战术
-100268017,香水战术,desc,"①：1回合1次，宣言1个卡名才能发动。自己卡组最上面的卡给双方确认，是宣言的卡的场合，可以根据那个种类适用以下效果。不是的场合，这张卡破坏。
-●怪兽：那只怪兽特殊召唤。
-●魔法·陷阱：那张卡在自己场上盖放。
-②：这张卡被效果破坏的场合才能发动。从自己的卡组·墓地把1只「鹰身」怪兽特殊召唤。"
-100268017,香水战术,str1,Aktivieren
-100268017,香水战术,str2,Als Spezialbeschwörung beschwören
-100268017,香水战术,str3,Den Effekt anwenden?
-100268018,暗魔导之霸王,name,暗魔导之霸王
-100268018,暗魔导之霸王,desc,"这个卡名的①③的效果1回合各能使用1次。
-①：这张卡在手卡存在，场上有里侧表示卡2张以上或「暗」存在的场合才能发动。这张卡特殊召唤。
-②：只要自己场上有里侧表示卡存在，这张卡不会被对方的效果破坏，对方不能把这张卡作为效果的对象。
-③：持有比这张卡低的攻击力的场上的怪兽，把效果发动时或者攻击宣言时才能发动。那只怪兽破坏。"
-100268018,暗魔导之霸王,str1,Als Spezialbeschwörung beschwören
-100268018,暗魔导之霸王,str3,Zerstören
-100268019,属性回弹作用,name,属性回弹作用
-100268019,属性回弹作用,desc,"这个卡名的卡在1回合只能发动1张，连锁3以后发动的场合，对方不能对应这张卡的发动把效果发动。
-①：以从额外卡组特殊召唤的对方场上1只表侧表示怪兽为对象才能发动。从自己的手卡·卡组·场上（表侧表示）把1只不死族或暗属性怪兽送去墓地，以那个原本攻击力数值让作为对象的怪兽的攻击力下降。作为对象的怪兽是光属性的场合，再把那个效果无效化。"
-100268019,属性回弹作用,str1,Aktivieren
-100268020,双剑之公爵骑士,name,双剑之公爵骑士
-100268020,双剑之公爵骑士,desc,"这个卡名的①②的效果1回合各能使用1次。
-①：这张卡在手卡存在，持有掷骰子效果的卡在自己场上存在的场合才能发动。这张卡特殊召唤。
-②：自己主要阶段才能发动。掷3次骰子。这张卡的攻击力直到回合结束时上升出现数目的合计×350。相同数目出现2个以上的场合，可以再从手卡把1只怪兽特殊召唤。
-③：这张卡在同1次的战斗阶段中最多2次可以向怪兽攻击。"
-100268020,双剑之公爵骑士,str1,Als Spezialbeschwörung beschwören
-100268020,双剑之公爵骑士,str2,Einen Würfel werfen
-100268020,双剑之公爵骑士,str3,Ein Monster als Spezialbeschwörung beschwören?
-100268021,闪光之封杀剑,name,闪光之封杀剑
-100268021,闪光之封杀剑,desc,"这个卡名的卡在1回合只能发动1张。
-①：对方手卡随机选1张，直到下个回合的准备阶段以表侧除外。把盖放的这张卡发动，用那个效果把怪兽除外的场合，可以再根据那个等级适用以下效果。
-●4星以下：对方从自身的手卡·卡组·墓地把那些同名怪兽全部除外。
-●5星以上：自己从卡组把种族·属性·等级之内有1个以上和那只怪兽相同的，5星以上的1只怪兽加入手卡。"
-100268021,闪光之封杀剑,str1,Aktivieren
-100268021,闪光之封杀剑,str2,"Durch ""闪光之封杀剑"" verbannt"
-100268021,闪光之封杀剑,str3,Den Effekt anwenden?
-100268022,暗黑魔族 基尔法恶魔-暗黑魔炎葬,name,暗黑魔族 基尔法恶魔-暗黑魔炎葬
-100268022,暗黑魔族 基尔法恶魔-暗黑魔炎葬,desc,"这个卡名的①②的效果1回合各能使用1次。
-①：自己·对方的主要阶段，把这张卡从手卡送去墓地才能发动。自己抽1张。那之后，选自己1张手卡丢弃。这个回合中，对方场上的怪兽的攻击力下降500。
-②：这张卡在墓地存在的状态，自己的恶魔族怪兽的战斗让怪兽被破坏时才能发动。这张卡特殊召唤。这个效果特殊召唤的这张卡从场上离开的场合除外。"
-100268022,暗黑魔族 基尔法恶魔-暗黑魔炎葬,str1,Ziehen
-100268022,暗黑魔族 基尔法恶魔-暗黑魔炎葬,str2,Als Spezialbeschwörung beschwören
-100268023,钢铁骑士 基亚·弗里德,name,钢铁骑士 基亚·弗里德
-100268023,钢铁骑士 基亚·弗里德,desc,"这个卡名的①②的效果1回合各能使用1次。
-①：自己场上的怪兽被战斗·效果破坏的自己·对方回合才能发动。这张卡从手卡特殊召唤，从自己墓地把1只怪兽当作攻击力上升800的装备魔法卡使用给这张卡装备。
-②：自己主要阶段才能发动。这张卡的装备卡全部破坏。这个效果把怪兽卡破坏的场合，可以再从卡组把和那之内的1只等级不同、种族·属性相同的1只怪兽加入手卡。"
-100268023,钢铁骑士 基亚·弗里德,str1,Als Spezialbeschwörung beschwören
-100268023,钢铁骑士 基亚·弗里德,str2,Ausrüstungskarte(n) zerstören
-100268023,钢铁骑士 基亚·弗里德,str3,Der Hand hinzufügen?
-100268024,魔法卡「敌人操纵器」,name,魔法卡「敌人操纵器」
-100268024,魔法卡「敌人操纵器」,desc,"这个卡名的①②的效果1回合只能有1次使用其中任意1个。
-①：支付1000基本分，以对方场上1只表侧表示怪兽为对象才能发动。从以下效果选1个适用。
-●作为对象的怪兽破坏。
-●进行1只怪兽的上级召唤。那之际，必须作为自己场上1只怪兽的代替而把作为对象的对方怪兽解放。
-②：自己主要阶段把墓地的这张卡除外才能发动。从卡组把1张「魔法卡「敌人操纵器」」加入手卡。"
-100268024,魔法卡「敌人操纵器」,str1,Aktivieren
-100268024,魔法卡「敌人操纵器」,str2,Der Hand hinzufügen
-100268024,魔法卡「敌人操纵器」,str3,Zerstörungseffekt
-100268024,魔法卡「敌人操纵器」,str4,Tributbeschwörung
-100268025,向魂的引导,name,向魂的引导
-100268025,向魂的引导,desc,"这个卡名的①②的效果1回合各能使用1次。
-①：包含从墓地把怪兽特殊召唤的效果的，卡的效果由对方发动时才能发动。那个效果无效。从对方墓地把1只怪兽在对方场上特殊召唤。那之后，可以把对方场上的表侧表示怪兽任意数量送去墓地（攻击力合计最多6000）。
-②：这张卡被除外的场合才能发动。这张卡加入手卡。那之后，可以不用解放来进行需要1只以上解放的手卡1只怪兽的召唤。"
-100268025,向魂的引导,str1,Aktivieren
-100268025,向魂的引导,str2,Auf die Hand zurückgeben
-100268025,向魂的引导,str3,Dieses Monster auf den Friedhof legen?
-100268025,向魂的引导,str4,Ohne Tribut beschwören?
+100268016,Feldstärkebonus,name,Feldstärkebonus
+100268016,Feldstärkebonus,desc,"Falls ein oder mehr Monster als Normal- oder Spezialbeschwörung beschworen werden und sich ein anderes Monster mit demselben Typ auf dem Spielfeld befindet: Jene beschworenen Monster erhalten 1000 ATK/DEF. Falls diese Karte zerstört wird: Annulliere die Effekte aller offenen Monster, die sich derzeit auf dem Spielfeld befinden, zusätzlich werden ihre ATK/DEF zu ihren Grund-ATK/DEF. Einmal pro Spielzug, während der Standby Phase, falls sich diese Karte in deinem Friedhof befindet und sich keine Karten in den Spielfeldzonen befinden: Du kannst diese Karte offen auf deine Spielfeldseite legen."
+100268016,Feldstärkebonus,str1,ATK erhöhen
+100268016,Feldstärkebonus,str2,Annullieren
+100268016,Feldstärkebonus,str3,Platzieren
+100268017,Parfümstrategie,name,Parfümstrategie
+100268017,Parfümstrategie,desc,"Einmal pro Spielzug: Du kannst 1 Kartennamen deklarieren; zeige die oberste Karte deines Decks vor und falls es die deklarierte Karte ist, kannst du abhängig von ihrem Kartentyp den folgenden Effekt ausführen. Falls es nicht die deklarierte Karte ist, zerstöre diese Karte.
+● Monster: Beschwöre es als Spezialbeschwörung.
+● Zauber/Falle: Setze sie auf deine Spielfeldseite.
+Falls diese Karte durch einen Karteneffekt zerstört wird: Du kannst 1 „Harpyie“-Monster als Spezialbeschwörung von deinem Deck oder Friedhof beschwören."
+100268017,Parfümstrategie,str1,Aktivieren
+100268017,Parfümstrategie,str2,Als Spezialbeschwörung beschwören
+100268017,Parfümstrategie,str3,Den Effekt anwenden?
+100268018,König der dunklen Magie,name,König der dunklen Magie
+100268018,König der dunklen Magie,desc,"Solange du eine verdeckte Karte kontrollierst, kann diese Karte nicht durch Karteneffekte deines Gegners zerstört werden, zusätzlich kann dein Gegner sie nicht als Ziel für Karteneffekte wählen. Du kannst jeden der folgenden Effekte von „König der dunklen Magie“ nur einmal pro Spielzug verwenden. Falls sich diese Karte in deiner Hand befindet und sich 2 oder mehr verdeckte Karten oder „Yami“ auf dem Spielfeld befinden: Du kannst diese Karte als Spezialbeschwörung beschwören. Wenn ein Monster auf dem Spielfeld mit weniger ATK als diese Karte seinen Effekt aktiviert oder einen Angriff deklariert (Schnelleffekt): Du kannst jenes Monster zerstören."
+100268018,König der dunklen Magie,str1,Als Spezialbeschwörung beschwören
+100268018,König der dunklen Magie,str3,Zerstören
+100268019,Attributabstoßung,name,Attributabstoßung
+100268019,Attributabstoßung,desc,"Wähle 1 offenes Monster, das dein Gegner kontrolliert und das als Spezialbeschwörung vom Extra Deck beschworen wurde; lege 1 Zombie- oder FINSTERNIS Monster von deiner Hand, deinem Deck oder deiner offenen Spielfeldseite auf den Friedhof und falls du dies tust, verliert das als Ziel gewählte Monster ATK in Höhe der Grund-ATK des auf den Friedhof gelegten Monsters, dann, falls das als Ziel gewählte Monster ein LICHT Monster ist, annulliere seine Effekte. Du kannst nur 1 „Attributabstoßung“ pro Spielzug aktivieren. Falls diese Karte als Kettenglied 3 oder höher aktiviert wird, kann dein Gegner als Reaktion auf die Aktivierung dieser Karte weder Karten noch Effekte aktivieren."
+100268019,Attributabstoßung,str1,Aktivieren
+100268020,Ritter der Zwillingsschwerter,name,Ritter der Zwillingsschwerter
+100268020,Ritter der Zwillingsschwerter,desc,"Diese Karte kann während jeder Battle Phase bis zu 2 Angriffe gegen Monster durchführen. Du kannst jeden der folgenden Effekte von „Ritter der Zwillingsschwerter“ nur einmal pro Spielzug verwenden. Falls sich diese Karte in deiner Hand befindet und du eine Karte mit einem Effekt kontrollierst, der einen Würfelwurf erfordert: Du kannst diese Karte als Spezialbeschwörung beschwören. Während deiner Main Phase: Du kannst dreimal einen sechsseitigen Würfel werfen und falls du dies tust, erhält diese Karte bis zum Ende dieses Spielzugs ATK in Höhe der Summe der Ergebnisse x 350, dann, falls 2 oder mehr der Ergebnisse gleich waren, kannst du 1 Monster als Spezialbeschwörung von deiner Hand beschwören."
+100268020,Ritter der Zwillingsschwerter,str1,Als Spezialbeschwörung beschwören
+100268020,Ritter der Zwillingsschwerter,str2,Einen Würfel werfen
+100268020,Ritter der Zwillingsschwerter,str3,Ein Monster als Spezialbeschwörung beschwören?
+100268021,Lichtblitz-Versiegelungsschwert,name,Lichtblitz-Versiegelungsschwert
+100268021,Lichtblitz-Versiegelungsschwert,desc,"Verbanne 1 zufällige Karte von der Hand deines Gegners offen bis zur Standby Phase des nächsten Spielzugs, dann, falls diese Karte vor ihrer Aktivierung gesetzt war und durch ihren Effekt ein Monster verbannt wurde, kannst du abhängig von dessen Stufe den folgenden Effekt ausführen.
+● 4 oder niedriger: Dein Gegner verbannt alle Monster mit demselben Namen von seiner Hand, seinem Deck und seinem Friedhof.
+● 5 oder höher: Füge deiner Hand 1 Monster der Stufe 5 oder höher von deinem Deck hinzu, dessen Typ, Eigenschaft und/oder Stufe mit dem verbannten Monster übereinstimmen.
+Du kannst nur 1 „Lichtblitz-Versiegelungsschwert“ pro Spielzug aktivieren."
+100268021,Lichtblitz-Versiegelungsschwert,str1,Aktivieren
+100268021,Lichtblitz-Versiegelungsschwert,str2,Durch „Lichtblitz-Versiegelungsschwert“ verbannt
+100268021,Lichtblitz-Versiegelungsschwert,str3,Den Effekt anwenden?
+100268022,Erzunterweltler von Gilfer – Dunkler Flammenangriff,name,Erzunterweltler von Gilfer – Dunkler Flammenangriff
+100268022,Erzunterweltler von Gilfer – Dunkler Flammenangriff,desc,"Während der Main Phase (Schnelleffekt): Du kannst diese Karte von deiner Hand auf den Friedhof legen; ziehe 1 Karte, dann wirf 1 Karte ab, zusätzlich verlieren alle Monster, die dein Gegner kontrolliert, in diesem Spielzug 500 ATK. Wenn ein Monster durch einen Kampf zerstört wird, an dem dein Unterweltler-Monster beteiligt ist, solange sich diese Karte in deinem Friedhof befindet: Du kannst diese Karte als Spezialbeschwörung beschwören, aber verbanne sie, wenn sie das Spielfeld verlässt. Du kannst jeden Effekt von „Erzunterweltler von Gilfer – Dunkler Flammenangriff“ nur einmal pro Spielzug verwenden."
+100268022,Erzunterweltler von Gilfer – Dunkler Flammenangriff,str1,Ziehen
+100268022,Erzunterweltler von Gilfer – Dunkler Flammenangriff,str2,Als Spezialbeschwörung beschwören
+100268023,"Gerfried, Stahlritter",name,"Gerfried, Stahlritter"
+100268023,"Gerfried, Stahlritter",desc,"Falls in diesem Spielzug ein oder mehr Monster, die du kontrolliert hast, durch Kampf oder einen Karteneffekt zerstört wurden (Schnelleffekt): Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören und falls du dies tust, rüste sie mit 1 Monster von deinem Friedhof als Ausrüstungszauber aus, der ihr 800 ATK gibt. Während deiner Main Phase: Du kannst alle Karten zerstören, mit denen diese Karte ausgerüstet ist, dann, falls du durch diesen Effekt eine Monsterkarte zerstört hast, kannst du deiner Hand 1 Monster von deinem Deck hinzufügen, das denselben Typ und dieselbe Eigenschaft, aber eine andere Stufe als eine jener zerstörten Monsterkarten hat. Du kannst jeden Effekt von „Gerfried, Stahlritter“ nur einmal pro Spielzug verwenden."
+100268023,"Gerfried, Stahlritter",str1,Als Spezialbeschwörung beschwören
+100268023,"Gerfried, Stahlritter",str2,Ausrüstungskarte(n) zerstören
+100268023,"Gerfried, Stahlritter",str3,Der Hand hinzufügen?
+100268024,Zauberkarte „Feindkontrolle“,name,Zauberkarte „Feindkontrolle“
+100268024,Zauberkarte „Feindkontrolle“,desc,"Zahle 1000 LP und wähle dann 1 offenes Monster, das dein Gegner kontrolliert; führe 1 dieser Effekte aus.
+● Zerstöre es.
+● Sofort nachdem dieser Effekt aufgelöst wurde, beschwöre 1 Monster als Tributbeschwörung, indem du Monster als Tribut anbietest, darunter das als Ziel gewählte Monster deines Gegners, obwohl du es nicht kontrollierst.
+Während deiner Main Phase: Du kannst diese Karte von deinem Friedhof verbannen; füge deiner Hand 1 „Zauberkarte „Feindkontrolle““ von deinem Deck hinzu. Du kannst nur 1 Effekt von „Zauberkarte „Feindkontrolle““ pro Spielzug verwenden und in jenem Spielzug nur einmal."
+100268024,Zauberkarte „Feindkontrolle“,str1,Aktivieren
+100268024,Zauberkarte „Feindkontrolle“,str2,Der Hand hinzufügen
+100268024,Zauberkarte „Feindkontrolle“,str3,Zerstörungseffekt
+100268024,Zauberkarte „Feindkontrolle“,str4,Tributbeschwörung
+100268025,Letzte Reise der Seele,name,Letzte Reise der Seele
+100268025,Letzte Reise der Seele,desc,"Wenn dein Gegner eine Karte oder einen Effekt aktiviert, die oder der einen Effekt enthält, der ein oder mehr Monster als Spezialbeschwörung vom Friedhof beschwört: Du kannst jenen Effekt annullieren und falls du dies tust, beschwöre 1 Monster als Spezialbeschwörung vom Friedhof deines Gegners auf seine Spielfeldseite, dann kannst du eine beliebige Anzahl offener Monster, die er kontrolliert und deren gemeinsame ATK höchstens 6000 betragen, auf den Friedhof legen. Falls diese Karte verbannt wird: Du kannst sie deiner Hand hinzufügen, dann, sofort nachdem dieser Effekt aufgelöst wurde, kannst du 1 Monster von deiner Hand, das 1 oder mehr Tribute erfordert, als Normalbeschwörung beschwören, ohne Tribut anzubieten. Du kannst jeden Effekt von „Letzte Reise der Seele“ nur einmal pro Spielzug verwenden."
+100268025,Letzte Reise der Seele,str1,Aktivieren
+100268025,Letzte Reise der Seele,str2,Auf die Hand zurückgeben
+100268025,Letzte Reise der Seele,str3,Dieses Monster auf den Friedhof legen?
+100268025,Letzte Reise der Seele,str4,Ohne Tribut beschwören?
 100268201,Dunkler Paladin – Wellenbewegung,name,Dunkler Paladin – Wellenbewegung
 100268201,Dunkler Paladin – Wellenbewegung,desc,"„Dunkler Magier“ + 1 Monster der Stufe 7 oder höher
 
@@ -395,65 +369,44 @@ Muss als Fusionsbeschwörung beschworen werden. Erhält 500 ATK für jedes ander
 100268201,Dunkler Paladin – Wellenbewegung,str1,Effekt annullieren
 100268201,Dunkler Paladin – Wellenbewegung,str2,Die Karte zerstören?
 100268201,Dunkler Paladin – Wellenbewegung,str3,"Der Effekt von ""Dunkler Paladin – Wellenbewegung"" wird derzeit angewendet."
-100270002,邪心教典,name,邪心教典
-100270002,邪心教典,desc,"这个卡名的①②的效果1回合各能使用1次。
-①：这张卡发动的回合的自己主要阶段才能发动。从卡组把1只恶魔族·暗属性怪兽加入手卡。那之后，从手卡选1只恶魔族怪兽丢弃。
-②：每次对方怪兽攻击宣言，给这张卡放置1个邪心教义指示物。
-③：把有邪心教义指示物4个以上放置中的这张卡送去墓地才能发动。从卡组把1只恶魔族怪兽特殊召唤。那之后，可以从卡组把1张「超融合」加入手卡。"
-100270002,邪心教典,str1,Der Hand hinzufügen
-100270002,邪心教典,str2,Als Spezialbeschwörung beschwören
-100270002,邪心教典,str3,Der Hand hinzufügen?
-100270003,对未来的希望-永望荣合,name,对未来的希望-永望荣合
-100270003,对未来的希望-永望荣合,desc,"这个卡名的①②的效果1回合各能使用1次。
-①：自己场上有「新宇」融合怪兽或「元素英雄 新宇侠」存在的场合，丢弃1张手卡才能发动。自己手卡·卡组·场上的怪兽作为融合素材，把「英雄」怪兽为融合素材的1只融合怪兽融合召唤。
-②：自己场上有「新宇」融合怪兽存在的场合，把墓地的这张卡除外，以对方场上1张表侧表示卡为对象才能发动。那张卡的效果直到回合结束时无效。"
-100270003,对未来的希望-永望荣合,str1,Aktivieren
-100270003,对未来的希望-永望荣合,str2,Effekt annullieren
-100271000,“罪宝狩猎之恶魔”迪亚贝尔斯塔尔,name,“罪宝狩猎之恶魔”迪亚贝尔斯塔尔
-100271000,“罪宝狩猎之恶魔”迪亚贝尔斯塔尔,desc,"这个卡名的①的方法的特殊召唤1回合只能有1次，②③的效果1回合各能使用1次。
-①：自己或对方的墓地有「叛逆之罪宝-蛇眼」或「蛇眼炎磷」存在的场合，这张卡可以从手卡特殊召唤。
-②：从自己墓地把1张「死之罪宝-濡血蝠」除外才能发动。对方场上的魔法·陷阱卡全部破坏。
-③：对方回合，从自己墓地把1张「背叛之罪宝-森厄狼」除外才能发动。对方场上的怪兽全部破坏。"
-100271000,“罪宝狩猎之恶魔”迪亚贝尔斯塔尔,str1,Als Spezialbeschwörung beschwören
-100271000,“罪宝狩猎之恶魔”迪亚贝尔斯塔尔,str2,Zauber-/Fallenkarte(n) zerstören
-100271000,“罪宝狩猎之恶魔”迪亚贝尔斯塔尔,str3,Zerstöre ein Monster
-100272001,无穷方界器 地天,name,无穷方界器 地天
-100272001,无穷方界器 地天,desc,"这个卡名的①②的效果1回合各能使用1次，这些效果发动的回合，自己不是融合怪兽不能从额外卡组特殊召唤。
-①：自己主要阶段才能发动。这张卡从手卡特殊召唤。
-②：这张卡召唤·特殊召唤的场合，丢弃1张手卡才能发动。从卡组把最多2张「方界」魔法·陷阱卡加入手卡。
-③：1回合1次，自己·对方的战斗阶段才能发动。自己的手卡·场上的怪兽作为融合素材，把1只「方界」融合怪兽融合召唤。"
-100272001,无穷方界器 地天,str1,Als Spezialbeschwörung beschwören
-100272001,无穷方界器 地天,str2,Der Hand hinzufügen
-100272001,无穷方界器 地天,str3,Als Fusionsbeschwörung beschwören
-100272002,燎炎方界神 狱焰之阿底提,name,燎炎方界神 狱焰之阿底提
-100272002,燎炎方界神 狱焰之阿底提,desc,"「方界」怪兽＋「方界胤 毗贾姆」
-把自己手卡·场上的上记卡送去墓地的场合才能特殊召唤。这个卡名的②的效果1回合只能使用1次，这个效果发动的回合，自己不是融合怪兽不能从额外卡组特殊召唤。
-①：这张卡的攻击力上升自己墓地的「方界胤 毗贾姆」的数量×800。
-②：自己·对方回合可以发动。这张卡回到额外卡组，从自己墓地把2只「方界」怪兽特殊召唤，从卡组把1张「方界」卡加入手卡。"
-100272002,燎炎方界神 狱焰之阿底提,str2,Als Spezialbeschwörung beschwören
-100272003,溟渊方界神 深渊伐萝陀,name,溟渊方界神 深渊伐萝陀
-100272003,溟渊方界神 深渊伐萝陀,desc,"「方界」怪兽×3
-这个卡名的②的效果1回合只能使用1次，这个效果发动的回合，自己不是融合怪兽不能从额外卡组特殊召唤。
-①：这张卡，攻击力上升自己墓地的「方界胤 毗贾姆」的数量×1000，不受比这张卡攻击力低的怪兽所发动的效果影响。
-②：自己·对方回合可以发动。这张卡回到额外卡组，从自己墓地把3只「方界」怪兽特殊召唤，从卡组把1张「方界」卡加入手卡。"
-100272003,溟渊方界神 深渊伐萝陀,str2,Als Spezialbeschwörung beschwören
-100272004,创世方界超神 无穷圣魂,name,创世方界超神 无穷圣魂
-100272004,创世方界超神 无穷圣魂,desc,"「方界」怪兽×4
-这张卡不用融合召唤不能特殊召唤。
-①：这张卡，攻击力上升自己墓地的「方界胤 毗贾姆」的数量×1500，不受比这张卡攻击力低的怪兽所发动的效果影响。
-②：自己·对方回合1次，可以发动。自己除外状态的「方界」卡全部回到卡组，把对方场上1张卡破坏。
-③：表侧表示的这张卡因对方从场上离开的场合才能发动。从自己墓地把最多3只「方界胤 毗贾姆」特殊召唤。"
-100272004,创世方界超神 无穷圣魂,str1,Zerstören
-100272004,创世方界超神 无穷圣魂,str2,Als Spezialbeschwörung beschwören
-100272006,方界觉,name,方界觉
-100272006,方界觉,desc,"这个卡名的卡在1回合只能发动1张。
-①：作为这张卡发动时的效果处理，可以从卡组把1张「方界」卡送去墓地。
-②：1回合1次，丢弃1张手卡才能发动。给对方场上1只表侧表示怪兽放置1个方界指示物。有方界指示物放置的怪兽不能攻击，效果无效化。
-③：自己场上有「方界」怪兽特殊召唤的场合才能发动。自己手卡·场上的怪兽作为融合素材，把1只「方界」融合怪兽融合召唤。"
-100272006,方界觉,str1,Aktivieren
-100272006,方界觉,str2,Zählmarke platzieren
-100272006,方界觉,str3,Als Fusionsbeschwörung beschwören
-100272006,方界觉,str4,Die Karte auf den Friedhof legen?
+100270002,Finsteres Glaubensbuch,name,Finsteres Glaubensbuch
+100270002,Finsteres Glaubensbuch,desc,"Jedes Mal, wenn ein Monster deines Gegners einen Angriff deklariert, lege 1 Finstere-Lehre-Zählmarke auf diese Karte. Du kannst jeden der folgenden Effekte von „Finsteres Glaubensbuch“ nur einmal pro Spielzug verwenden. Während deiner Main Phase, falls diese Karte in diesem Spielzug aktiviert wurde: Du kannst deiner Hand 1 FINSTERNIS Unterweltler-Monster von deinem Deck hinzufügen, dann wirf 1 Unterweltler-Monster ab. Du kannst diese Karte mit 4 oder mehr Finstere-Lehre-Zählmarken auf den Friedhof legen; beschwöre 1 Unterweltler-Monster als Spezialbeschwörung von deinem Deck, dann kannst du deiner Hand 1 „Superpolymerisation“ von deinem Deck hinzufügen."
+100270002,Finsteres Glaubensbuch,str1,Der Hand hinzufügen
+100270002,Finsteres Glaubensbuch,str2,Als Spezialbeschwörung beschwören
+100270002,Finsteres Glaubensbuch,str3,Der Hand hinzufügen?
+100270003,Hoffnung für die Zukunft,name,Hoffnung für die Zukunft
+100270003,Hoffnung für die Zukunft,desc,"Falls du ein „Neos“-Fusionsmonster oder „Elementar-HELD Neos“ kontrollierst: Wirf 1 Karte ab; beschwöre 1 Fusionsmonster, das ein „HELD“-Monster als Material erwähnt, als Fusionsbeschwörung von deinem Extra Deck, indem du Monster von deiner Hand, deinem Deck oder deiner Spielfeldseite als Material verwendest. Falls du ein „Neos“-Fusionsmonster kontrollierst: Du kannst diese Karte von deinem Friedhof verbannen und dann 1 offene Karte wählen, die dein Gegner kontrolliert; annulliere bis zum Ende dieses Spielzugs ihre Effekte. Du kannst jeden Effekt von „Hoffnung für die Zukunft“ nur einmal pro Spielzug verwenden."
+100270003,Hoffnung für die Zukunft,str1,Aktivieren
+100270003,Hoffnung für die Zukunft,str2,Effekt annullieren
+100271000,"Diabellstar, Jägerin der sündhaften Beute",name,"Diabellstar, Jägerin der sündhaften Beute"
+100271000,"Diabellstar, Jägerin der sündhaften Beute",desc,"Falls sich „Sündhafte Beute des Verrats - Schlangenauge“ oder „Schlangenauge Pappel“ in einem beliebigen Friedhof befindet, kannst du diese Karte als Spezialbeschwörung (von deiner Hand) beschwören. Du kannst „Diabellstar, Jägerin der sündhaften Beute“ auf diese Art nur einmal pro Spielzug als Spezialbeschwörung beschwören. Du kannst jeden der folgenden Effekte von „Diabellstar, Jägerin der sündhaften Beute“ nur einmal pro Spielzug verwenden. Du kannst 1 „Sündhafte Beute des Schicksals - Rciela“ von deinem Friedhof verbannen; zerstöre alle Zauber/Fallen, die dein Gegner kontrolliert. Während des Spielzugs deines Gegners (Schnelleffekt): Du kannst 1 „Sündhafte Beute des Verrats - Silvera“ von deinem Friedhof verbannen; zerstöre alle Monster, die dein Gegner kontrolliert."
+100271000,"Diabellstar, Jägerin der sündhaften Beute",str1,Als Spezialbeschwörung beschwören
+100271000,"Diabellstar, Jägerin der sündhaften Beute",str2,Zauber-/Fallenkarte(n) zerstören
+100271000,"Diabellstar, Jägerin der sündhaften Beute",str3,Zerstöre ein Monster
+100272001,Pritima das unendliche kubische Gefäß,name,Pritima das unendliche kubische Gefäß
+100272001,Pritima das unendliche kubische Gefäß,desc,"Einmal pro Spielzug, während der Battle Phase (Schnelleffekt): Du kannst 1 „Kubisch“-Fusionsmonster als Fusionsbeschwörung von deinem Extra Deck beschwören, indem du Monster von deiner Hand oder deiner Spielfeldseite als Material verwendest. Du kannst jeden der folgenden Effekte von „Pritima das unendliche kubische Gefäß“ nur einmal pro Spielzug verwenden, zusätzlich kannst du in dem Spielzug, in dem du einen dieser Effekte aktivierst, keine Monster als Spezialbeschwörung vom Extra Deck beschwören, außer Fusionsmonstern. Während deiner Main Phase: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 Karte abwerfen; füge deiner Hand bis zu 2 „Kubisch“-Zauber/Fallen von deinem Deck hinzu."
+100272001,Pritima das unendliche kubische Gefäß,str1,Als Spezialbeschwörung beschwören
+100272001,Pritima das unendliche kubische Gefäß,str2,Der Hand hinzufügen
+100272001,Pritima das unendliche kubische Gefäß,str3,Als Fusionsbeschwörung beschwören
+100272002,Alditia Höllenflamme der brennende kubische Herrscher,name,Alditia Höllenflamme der brennende kubische Herrscher
+100272002,Alditia Höllenflamme der brennende kubische Herrscher,desc,"1 „Kubisch“-Monster + „Vijam der kubische Samen“
+Muss als Spezialbeschwörung (von deinem Extra Deck) beschworen werden, indem du die oben aufgeführten Karten von deiner Hand und/oder deiner Spielfeldseite auf den Friedhof legst. Erhält für jeden „Vijam der kubische Samen“ in deinem Friedhof 800 ATK. (Schnelleffekt): Du kannst diese Karte ins Extra Deck zurücklegen und falls du dies tust, beschwöre 2 „Kubisch“-Monster als Spezialbeschwörung von deinem Friedhof und falls du dies tust, füge deiner Hand 1 „Kubisch“-Karte von deinem Deck hinzu. Du kannst diesen Effekt von „Alditia Höllenflamme der brennende kubische Herrscher“ nur einmal pro Spielzug verwenden, zusätzlich kannst du in dem Spielzug, in dem du diesen Effekt aktivierst, keine Monster als Spezialbeschwörung vom Extra Deck beschwören, außer Fusionsmonstern."
+100272002,Alditia Höllenflamme der brennende kubische Herrscher,str2,Als Spezialbeschwörung beschwören
+100272003,Abgrund-Vagrada der kubische Herrscher der Tiefe,name,Abgrund-Vagrada der kubische Herrscher der Tiefe
+100272003,Abgrund-Vagrada der kubische Herrscher der Tiefe,desc,"3 „Kubisch“-Monster
+Erhält für jeden „Vijam der kubische Samen“ in deinem Friedhof 1000 ATK, zusätzlich bleibt diese Karte von den aktivierten Effekten von Monstern mit weniger ATK als diese Karte unberührt. (Schnelleffekt): Du kannst diese Karte ins Extra Deck zurücklegen und falls du dies tust, beschwöre 3 „Kubisch“-Monster als Spezialbeschwörung von deinem Friedhof und falls du dies tust, füge deiner Hand 1 „Kubisch“-Karte von deinem Deck hinzu. Du kannst diesen Effekt von „Abgrund-Vagrada der kubische Herrscher der Tiefe“ nur einmal pro Spielzug verwenden, zusätzlich kannst du in dem Spielzug, in dem du diesen Effekt aktivierst, keine Monster als Spezialbeschwörung vom Extra Deck beschwören, außer Fusionsmonstern."
+100272003,Abgrund-Vagrada der kubische Herrscher der Tiefe,str2,Als Spezialbeschwörung beschwören
+100272004,Unendliche heilige Seele der kubische Schöpfungsoberherrscher,name,Unendliche heilige Seele der kubische Schöpfungsoberherrscher
+100272004,Unendliche heilige Seele der kubische Schöpfungsoberherrscher,desc,"4 „Kubisch“-Monster
+Muss als Fusionsbeschwörung beschworen werden. Erhält für jeden „Vijam der kubische Samen“ in deinem Friedhof 1500 ATK, zusätzlich bleibt diese Karte von den aktivierten Effekten von Monstern mit weniger ATK als diese Karte unberührt. Einmal pro Spielzug (Schnelleffekt): Du kannst alle deine verbannten „Kubisch“-Karten ins Deck mischen und falls du dies tust, zerstöre 1 Karte, die dein Gegner kontrolliert. Falls diese offene Karte unter der Kontrolle ihres Besitzers durch eine Karte eines Gegners das Spielfeld verlässt: Du kannst bis zu 3 „Vijam der kubische Samen“ als Spezialbeschwörung von deinem Friedhof beschwören."
+100272004,Unendliche heilige Seele der kubische Schöpfungsoberherrscher,str1,Zerstören
+100272004,Unendliche heilige Seele der kubische Schöpfungsoberherrscher,str2,Als Spezialbeschwörung beschwören
+100272006,Kubisches Erwachen,name,Kubisches Erwachen
+100272006,Kubisches Erwachen,desc,"Wenn diese Karte aktiviert wird: Du kannst 1 „Kubisch“-Karte von deinem Deck auf den Friedhof legen. Einmal pro Spielzug: Du kannst 1 Karte abwerfen; lege 1 Kubisch-Zählmarke auf 1 offenes Monster, das dein Gegner kontrolliert. (Monster mit einer Kubisch-Zählmarke können nicht angreifen, zusätzlich werden ihre Effekte annulliert.) Falls ein oder mehr „Kubisch“-Monster als Spezialbeschwörung auf deine Spielfeldseite beschworen werden: Du kannst 1 „Kubisch“-Fusionsmonster als Fusionsbeschwörung von deinem Extra Deck beschwören, indem du Monster von deiner Hand oder deiner Spielfeldseite als Material verwendest. Du kannst nur 1 „Kubisches Erwachen“ pro Spielzug aktivieren."
+100272006,Kubisches Erwachen,str1,Aktivieren
+100272006,Kubisches Erwachen,str2,Zählmarke platzieren
+100272006,Kubisches Erwachen,str3,Als Fusionsbeschwörung beschwören
+100272006,Kubisches Erwachen,str4,Die Karte auf den Friedhof legen?
 101306281,"Audhumla, Ahnherr der gefrorenen Weite",name,"Audhumla, Ahnherr der gefrorenen Weite"
 101306281,"Audhumla, Ahnherr der gefrorenen Weite",desc,"Falls 4 oder mehr Karten auf dem Spielfeld liegen: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören. Du kannst bis zu 2 Zauber-/Fallenkarten, die du kontrollierst, auf den Friedhof legen; ziehe so viele Karten, dann kannst du 1 WASSER Monster als Spezialbeschwörung von deiner Hand beschwören. Wenn dein Gegner eine Karte oder einen Effekt aktiviert (Schnelleffekt): Du kannst diese Karte in die verdeckte Verteidigungsposition ändern, zusätzlich können für den Rest dieses Spielzugs alle verdeckten Karten, die du kontrollierst, nicht durch Karteneffekte deines Gegners zerstört werden und dein Gegner kann sie nicht als Ziel für Karteneffekte wählen. Du kannst jeden Effekt von „Audhumla, Ahnherr der gefrorenen Weite“ nur einmal pro Spielzug verwenden."
 101306281,"Audhumla, Ahnherr der gefrorenen Weite",str1,Als Spezialbeschwörung beschwören
@@ -480,84 +433,55 @@ Muss als Fusionsbeschwörung beschworen werden. Erhält 500 ATK für jedes ander
 101307004,Das Foltergerät des Sonnengotts – Viser Des,desc,"Kann nicht durch Kampf zerstört werden. Du kannst jeden der folgenden Effekte von „Das Foltergerät des Sonnengotts – Viser Des“ nur einmal pro Spielzug verwenden. Falls ein oder mehrere Monster auf dem Friedhof deines Gegners gelegt werden und du eine „Sonnengott“-Karte kontrollierst, selbst während des Damage Steps: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören und falls du dies tust, gib 1 andere Karte auf dem Spielfeld auf die Hand oder ins Extra Deck zurück, und falls du dies tust, füge deinem Gegner 800 Schaden zu. Während der End Phase, falls „Der unsterbliche Sonnengott“ in diesem Spielzug auf deinen Friedhof gelegt wurde: Du kannst diese Karte von deinem Friedhof deiner Hand hinzufügen."
 101307004,Das Foltergerät des Sonnengotts – Viser Des,str1,Als Spezialbeschwörung beschwören
 101307004,Das Foltergerät des Sonnengotts – Viser Des,str2,Auf die Hand zurückgeben
-101307009,白鸦之森的炎魔,name,白鸦之森的炎魔
-101307009,白鸦之森的炎魔,desc,"这个卡名的，①的方法的特殊召唤1回合只能有1次，②③的效果1回合各能使用1次。
-①：自己场上有「白鸦」卡存在的场合，这张卡可以从手卡特殊召唤。
-②：这张卡召唤·特殊召唤的场合才能发动。从卡组把1张「白鸦」魔法·陷阱卡或「罪宝」卡加入手卡。
-③：以自己或对方的魔法与陷阱区域的1张「白鸦」怪兽卡或者7·8星怪兽卡为对象才能发动。那张卡在自己场上特殊召唤。"
-101307009,白鸦之森的炎魔,str1,Diese Karte als Spezialbeschwörung beschören
-101307009,白鸦之森的炎魔,str2,Der Hand hinzufügen
-101307009,白鸦之森的炎魔,str3,Als Spezialbeschwörung beschwören
-101307010,白鸦骑士 马特,name,白鸦骑士 马特
-101307010,白鸦骑士 马特,desc,"这个卡名的①②的效果1回合各能使用1次。
-①：把场上的这张卡以外的自己手卡·场上1张卡送去墓地才能发动。这张卡当作永续魔法卡使用在原本持有者的魔法与陷阱区域以表侧表示放置，从卡组把「白鸦骑士 马特」以外的最多2只「白鸦」怪兽特殊召唤（同名卡最多1张）。
-②：这张卡当作永续魔法卡使用的场合，怪兽的攻击宣言时以自己魔法与陷阱区的1张「白鸦」怪兽卡为对象才能发动。那张卡特殊召唤。"
-101307010,白鸦骑士 马特,str1,Als Spezialbeschwörung vom Deck beschwören
-101307010,白鸦骑士 马特,str2,Als Spezialbeschwörung beschwören
-101307011,白鸦骑士 安,name,白鸦骑士 安
-101307011,白鸦骑士 安,desc,"这个卡名的①②的效果1回合各能使用1次。
-①：把手卡的这张卡给对方观看才能发动。从手卡把「白鸦骑士 安」以外的1只「白鸦」怪兽特殊召唤。
-②：自己·对方的主要阶段，以自己场上1只「白鸦」怪兽为对象才能发动。那只怪兽当作永续魔法卡使用在原本持有者的魔法与陷阱区域以表侧表示放置，从自己的手卡·墓地把「白鸦骑士 安」以外的1只「白鸦」怪兽特殊召唤。"
-101307011,白鸦骑士 安,str1,Als Spezialbeschwörung von der Hand beschwören
-101307011,白鸦骑士 安,str2,Als Spezialbeschwörung beschwören
-101307012,白鸦之森的罪宝,name,白鸦之森的罪宝
-101307012,白鸦之森的罪宝,desc,"这个卡名的，①的方法的特殊召唤1回合只能有1次，②的效果1回合只能使用1次。
-①：这张卡可以让自己场上（表侧表示）·墓地的1张炎属性·1星怪兽卡回到卡组最下面，从手卡特殊召唤。
-②：对方把效果发动时，让场上的这张卡回到手卡，以自己或对方场上（表侧表示）·墓地1只怪兽为对象才能发动。那只怪兽当作永续魔法卡使用在原本持有者的魔法与陷阱区域以表侧表示放置。"
-101307012,白鸦之森的罪宝,str2,Platzieren
-101307013,转生炎兽 捻角山羊,name,转生炎兽 捻角山羊
-101307013,转生炎兽 捻角山羊,desc,"这个卡名的①②的效果1回合各能使用1次，这些效果发动的回合，自己不是炎属性怪兽不能特殊召唤。
-①：这张卡召唤·特殊召唤的场合才能发动。从自己的卡组·墓地把1张「转生炎兽」魔法·陷阱卡加入手卡。
-②：这张卡作为连接3以上的炎属性连接怪兽的连接素材被送去墓地的场合才能发动。从卡组把1只电子界族·炎属性怪兽特殊召唤。"
-101307013,转生炎兽 捻角山羊,str1,Der Hand hinzufügen
-101307013,转生炎兽 捻角山羊,str2,Als Spezialbeschwörung beschwören
-101307014,转生炎兽 宽耳蝠,name,转生炎兽 宽耳蝠
-101307014,转生炎兽 宽耳蝠,desc,"这个卡面的①②的效果1回合各能使用1次。
-①：自己场上的怪兽，不存在的场合或者只有「转生炎兽」怪兽存在的场合才能发动。这张卡从手卡特殊召唤。那之后，可以让场上1只怪兽的等级上升或下降1。
-②：这张卡在墓地存在的状态，自己把连接3以上的炎属性连接怪兽连接召唤的场合，把这张卡除外才能发动。从卡组把1张「转生炎兽」陷阱卡在自己场上盖放。"
-101307014,转生炎兽 宽耳蝠,str1,Als Spezialbeschwörung beschwören
-101307014,转生炎兽 宽耳蝠,str2,Setzen
-101307014,转生炎兽 宽耳蝠,str3,Stufe ändern?
-101307014,转生炎兽 宽耳蝠,str4,Erhöhen
-101307014,转生炎兽 宽耳蝠,str5,Verringern
-101307024,轮回虫龙 大紫蛱蝶,name,轮回虫龙 大紫蛱蝶
-101307024,轮回虫龙 大紫蛱蝶,desc,"「龙之骸歌」降临。
-这个卡名的①②的效果1回合各能使用1次。
-①：这张卡仪式召唤的场合才能发动。从卡组把风属性以外的2只「轮回虫龙」怪兽加入手卡。
-②：这张卡因战斗以外被送去墓地的场合才能发动。等级合计直到变成仪式召唤的怪兽的等级以上为止，把自己手卡·场上的怪兽解放，或者作为解放的代替让自己墓地的昆虫族·龙族怪兽回到卡组，从手卡把1只昆虫族仪式怪兽仪式召唤。"
-101307024,轮回虫龙 大紫蛱蝶,str1,Der Hand hinzufügen
-101307024,轮回虫龙 大紫蛱蝶,str2,Als Ritualbeschwörung beschwören
-101307025,轮回虫龙 秘鲁蜈蚣,name,轮回虫龙 秘鲁蜈蚣
-101307025,轮回虫龙 秘鲁蜈蚣,desc,"「龙之骸歌」降临。
-这个卡名的①②的效果1回合各能使用1次。
-①：这张卡仪式召唤的场合才能发动。从卡组把2张「轮回虫龙」魔法·陷阱卡加入手卡。
-②：这张卡因战斗以外被送去墓地的场合才能发动。等级合计直到变成仪式召唤的怪兽的等级以上为止，把自己手卡·场上的怪兽解放，或者作为解放的代替让自己墓地的昆虫族·龙族怪兽回到卡组，从手卡把1只昆虫族仪式怪兽仪式召唤。"
-101307025,轮回虫龙 秘鲁蜈蚣,str1,Der Hand hinzufügen
-101307025,轮回虫龙 秘鲁蜈蚣,str2,Als Ritualbeschwörung beschwören
-101307026,轮回虫龙 ‌高加索南洋大兜虫,name,轮回虫龙 ‌高加索南洋大兜虫
-101307026,轮回虫龙 ‌高加索南洋大兜虫,desc,"「龙之骸歌」降临。
-这个卡名的①②的效果1回合各能使用1次。
-①：这张卡仪式召唤的场合才能发动。从卡组把2张「轮回虫龙」卡送去墓地。
-②：这张卡因战斗以外被送去墓地的场合才能发动。等级合计直到变成仪式召唤的怪兽的等级以上为止，把自己手卡·场上的怪兽解放，或者作为解放的代替让自己墓地的昆虫族·龙族怪兽回到卡组，从手卡把1只昆虫族仪式怪兽仪式召唤。"
-101307026,轮回虫龙 ‌高加索南洋大兜虫,str1,Auf den Friedhof legen
-101307026,轮回虫龙 ‌高加索南洋大兜虫,str2,Als Ritualbeschwörung beschwören
-101307027,轮回虫龙 秘鲁巨人蜈蚣,name,轮回虫龙 秘鲁巨人蜈蚣
-101307027,轮回虫龙 秘鲁巨人蜈蚣,desc,"「龙之骸歌」降临。
-这个卡名的①②③的效果1回合各能使用1次。
-①：自己·对方回合，把包含这张卡的2张手卡送去墓地才能发动。从卡组把炎属性以外的1只「轮回虫龙」怪兽加入手卡。
-②：这张卡仪式召唤的场合，或者对方把怪兽特殊召唤的场合才能发动。场上最多2只怪兽回到卡组。
-③：自己墓地有这张卡和水属性「轮回虫龙」怪兽存在的场合才能发动。这张卡加入手卡。"
-101307027,轮回虫龙 秘鲁巨人蜈蚣,str1,Der Hand hinzufügen
-101307027,轮回虫龙 秘鲁巨人蜈蚣,str2,Ins Deck zurücklegen
-101307027,轮回虫龙 秘鲁巨人蜈蚣,str3,Der Hand hinzufügen
-101307028,轮回虫龙 奇伦南洋大兜虫,name,轮回虫龙 奇伦南洋大兜虫
-101307028,轮回虫龙 奇伦南洋大兜虫,desc,"「龙之骸歌」降临。
-这个卡名的①②的效果1回合各能使用1次。
-①：这张卡是已仪式召唤的场合，对方把场上·墓地的怪兽的效果发动时才能发动。那个发动无效。那之后，可以让对方场上以及墓地的怪兽各1只回到卡组。这个效果选的是龙族怪兽的场合，这张卡的攻击力变成2倍。
-②：自己墓地有这张卡和光属性「轮回虫龙」怪兽存在的场合才能发动。这张卡加入手卡。"
-101307028,轮回虫龙 奇伦南洋大兜虫,str1,Aktivierung annullieren
-101307028,轮回虫龙 奇伦南洋大兜虫,str2,Der Hand hinzufügen
-101307028,轮回虫龙 奇伦南洋大兜虫,str3,"Monster wählen, die ins Deck zurückgelegt werden?"
+101307009,Feuerteufel des Weißkrähenwaldes,name,Feuerteufel des Weißkrähenwaldes
+101307009,Feuerteufel des Weißkrähenwaldes,desc,"Falls du eine „Weißkrähe“-Karte kontrollierst, kannst du diese Karte als Spezialbeschwörung (von deiner Hand) beschwören. Du kannst „Feuerteufel des Weißkrähenwaldes“ auf diese Art nur einmal pro Spielzug als Spezialbeschwörung beschwören. Du kannst jeden der folgenden Effekte von „Feuerteufel des Weißkrähenwaldes“ nur einmal pro Spielzug verwenden. Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst deiner Hand 1 „Weißkrähe“-Zauber/Falle oder 1 „Sündhafte Beute“-Karte von deinem Deck hinzufügen. Du kannst 1 „Weißkrähe“-Monsterkarte oder 1 Monsterkarte der Stufe 7 oder 8 in einer beliebigen Zauber- & Fallenzone wählen; beschwöre sie als Spezialbeschwörung auf deine Spielfeldseite."
+101307009,Feuerteufel des Weißkrähenwaldes,str1,Diese Karte als Spezialbeschwörung beschören
+101307009,Feuerteufel des Weißkrähenwaldes,str2,Der Hand hinzufügen
+101307009,Feuerteufel des Weißkrähenwaldes,str3,Als Spezialbeschwörung beschwören
+101307010,"Maluth, Weißkrähenritter",name,"Maluth, Weißkrähenritter"
+101307010,"Maluth, Weißkrähenritter",desc,"Du kannst 1 andere Karte von deiner Hand oder deiner Spielfeldseite auf den Friedhof legen; lege diese Karte offen als Permanenten Zauber in die Zauber- & Fallenzone ihres Besitzers und falls du dies tust, beschwöre bis zu 2 „Weißkrähe“-Monster mit unterschiedlichen Namen als Spezialbeschwörung von deinem Deck, außer „Maluth, Weißkrähenritter“. Wenn ein Monster einen Angriff deklariert und diese Karte ein Permanenter Zauber ist: Du kannst 1 „Weißkrähe“-Monsterkarte in deiner Zauber- & Fallenzone wählen; beschwöre sie als Spezialbeschwörung. Du kannst jeden Effekt von „Maluth, Weißkrähenritter“ nur einmal pro Spielzug verwenden."
+101307010,"Maluth, Weißkrähenritter",str1,Als Spezialbeschwörung vom Deck beschwören
+101307010,"Maluth, Weißkrähenritter",str2,Als Spezialbeschwörung beschwören
+101307011,"Ann, Weißkrähenritter",name,"Ann, Weißkrähenritter"
+101307011,"Ann, Weißkrähenritter",desc,"Du kannst diese Karte in deiner Hand vorzeigen; beschwöre 1 „Weißkrähe“-Monster als Spezialbeschwörung von deiner Hand, außer „Ann, Weißkrähenritter“. Während der Main Phase (Schnelleffekt): Du kannst 1 „Weißkrähe“-Monster wählen, das du kontrollierst; lege es offen als Permanenten Zauber in die Zauber- & Fallenzone seines Besitzers und falls du dies tust, beschwöre 1 „Weißkrähe“-Monster als Spezialbeschwörung von deiner Hand oder deinem Friedhof, außer „Ann, Weißkrähenritter“. Du kannst jeden Effekt von „Ann, Weißkrähenritter“ nur einmal pro Spielzug verwenden."
+101307011,"Ann, Weißkrähenritter",str1,Als Spezialbeschwörung von der Hand beschwören
+101307011,"Ann, Weißkrähenritter",str2,Als Spezialbeschwörung beschwören
+101307012,Sündhafte Beute des Weißkrähenwaldes,name,Sündhafte Beute des Weißkrähenwaldes
+101307012,Sündhafte Beute des Weißkrähenwaldes,desc,"Du kannst diese Karte als Spezialbeschwörung (von deiner Hand) beschwören, indem du 1 FEUER Monsterkarte der Stufe 1 von deiner offenen Spielfeldseite oder deinem Friedhof unter das Deck legst. Du kannst „Sündhafte Beute des Weißkrähenwaldes“ auf diese Art nur einmal pro Spielzug als Spezialbeschwörung beschwören. Wenn dein Gegner eine Karte oder einen Effekt aktiviert (Schnelleffekt): Du kannst diese Karte auf die Hand zurückgeben und dann 1 Monster auf dem offenen Spielfeld oder in einem beliebigen Friedhof wählen; lege es offen als Permanenten Zauber in die Zauber- & Fallenzone seines Besitzers. Du kannst diesen Effekt von „Sündhafte Beute des Weißkrähenwaldes“ nur einmal pro Spielzug verwenden."
+101307012,Sündhafte Beute des Weißkrähenwaldes,str2,Platzieren
+101307013,Grosalamander Schraubenziege,name,Grosalamander Schraubenziege
+101307013,Grosalamander Schraubenziege,desc,"Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst deiner Hand 1 „Grosalamander“-Zauber/Falle von deinem Deck oder Friedhof hinzufügen. Falls diese Karte als Material für ein FEUER Linkmonster mit Link-3 oder höher auf den Friedhof gelegt wird: Du kannst 1 FEUER Cyberse-Monster als Spezialbeschwörung von deinem Deck beschwören. Du kannst jeden Effekt von „Grosalamander Schraubenziege“ nur einmal pro Spielzug verwenden, zusätzlich kannst du in dem Spielzug, in dem du einen der Effekte dieser Karte aktivierst, keine Monster als Spezialbeschwörung beschwören, außer FEUER Monstern."
+101307013,Grosalamander Schraubenziege,str1,Der Hand hinzufügen
+101307013,Grosalamander Schraubenziege,str2,Als Spezialbeschwörung beschwören
+101307014,Grosalamander Mopsfledermaus,name,Grosalamander Mopsfledermaus
+101307014,Grosalamander Mopsfledermaus,desc,"Falls du keine Monster kontrollierst oder alle Monster, die du kontrollierst, „Grosalamander“-Monster sind: Du kannst diese Karte als Spezialbeschwörung von deiner Hand beschwören, dann kannst du die Stufe von 1 Monster auf dem Spielfeld um 1 erhöhen oder verringern. Falls du ein FEUER Linkmonster mit Link-3 oder höher als Linkbeschwörung beschwörst, solange sich diese Karte in deinem Friedhof befindet: Du kannst diese Karte verbannen; setze 1 „Grosalamander“-Falle von deinem Deck. Du kannst jeden Effekt von „Grosalamander Mopsfledermaus“ nur einmal pro Spielzug verwenden."
+101307014,Grosalamander Mopsfledermaus,str1,Als Spezialbeschwörung beschwören
+101307014,Grosalamander Mopsfledermaus,str2,Setzen
+101307014,Grosalamander Mopsfledermaus,str3,Stufe ändern?
+101307014,Grosalamander Mopsfledermaus,str4,Erhöhen
+101307014,Grosalamander Mopsfledermaus,str5,Verringern
+101307024,Reindsurm Amurusa,name,Reindsurm Amurusa
+101307024,Reindsurm Amurusa,desc,"Du kannst diese Karte mit „Reindsurm-Eroberung“ als Ritualbeschwörung beschwören. Falls diese Karte als Ritualbeschwörung beschworen wird: Du kannst deiner Hand 2 „Reindsurm“-Monster von deinem Deck hinzufügen, die keine WIND Monster sind. Falls diese Karte auf den Friedhof gelegt wird, außer durch Kampf: Du kannst 1 Insekt-Ritualmonster als Ritualbeschwörung von deiner Hand beschwören, indem du Monster von deiner Hand oder deiner Spielfeldseite als Tribut anbietest und/oder Insekt- und/oder Drache-Monster von deinem Friedhof ins Deck mischst, deren gemeinsame Stufe größer oder gleich seiner Stufe ist. Du kannst jeden Effekt von „Reindsurm Amurusa“ nur einmal pro Spielzug verwenden."
+101307024,Reindsurm Amurusa,str1,Der Hand hinzufügen
+101307024,Reindsurm Amurusa,str2,Als Ritualbeschwörung beschwören
+101307025,Reindsurm Luvian,name,Reindsurm Luvian
+101307025,Reindsurm Luvian,desc,"Du kannst diese Karte mit „Reindsurm-Eroberung“ als Ritualbeschwörung beschwören. Falls diese Karte als Ritualbeschwörung beschworen wird: Du kannst deiner Hand 2 „Reindsurm“-Zauber/Fallen von deinem Deck hinzufügen. Falls diese Karte auf den Friedhof gelegt wird, außer durch Kampf: Du kannst 1 Insekt-Ritualmonster als Ritualbeschwörung von deiner Hand beschwören, indem du Monster von deiner Hand oder deiner Spielfeldseite als Tribut anbietest und/oder Insekt- und/oder Drache-Monster von deinem Friedhof ins Deck mischst, deren gemeinsame Stufe größer oder gleich seiner Stufe ist. Du kannst jeden Effekt von „Reindsurm Luvian“ nur einmal pro Spielzug verwenden."
+101307025,Reindsurm Luvian,str1,Der Hand hinzufügen
+101307025,Reindsurm Luvian,str2,Als Ritualbeschwörung beschwören
+101307026,Reindsurm Carcasas,name,Reindsurm Carcasas
+101307026,Reindsurm Carcasas,desc,"Du kannst diese Karte mit „Reindsurm-Eroberung“ als Ritualbeschwörung beschwören. Falls diese Karte als Ritualbeschwörung beschworen wird: Du kannst 2 „Reindsurm“-Karten von deinem Deck auf den Friedhof legen. Falls diese Karte auf den Friedhof gelegt wird, außer durch Kampf: Du kannst 1 Insekt-Ritualmonster als Ritualbeschwörung von deiner Hand beschwören, indem du Monster von deiner Hand oder deiner Spielfeldseite als Tribut anbietest und/oder Insekt- und/oder Drache-Monster von deinem Friedhof ins Deck mischst, deren gemeinsame Stufe größer oder gleich seiner Stufe ist. Du kannst jeden Effekt von „Reindsurm Carcasas“ nur einmal pro Spielzug verwenden."
+101307026,Reindsurm Carcasas,str1,Auf den Friedhof legen
+101307026,Reindsurm Carcasas,str2,Als Ritualbeschwörung beschwören
+101307027,Reindsurm Gigalovendra,name,Reindsurm Gigalovendra
+101307027,Reindsurm Gigalovendra,desc,"Du kannst diese Karte mit „Reindsurm-Eroberung“ als Ritualbeschwörung beschwören. (Schnelleffekt): Du kannst 2 Karten von deiner Hand auf den Friedhof legen, darunter diese Karte; füge deiner Hand 1 „Reindsurm“-Monster von deinem Deck hinzu, das kein FEUER Monster ist. Falls diese Karte als Ritualbeschwörung beschworen wird oder dein Gegner ein oder mehr Monster als Spezialbeschwörung beschwört: Du kannst bis zu 2 Monster auf dem Spielfeld ins Deck mischen. Falls sich diese Karte und ein WASSER „Reindsurm“-Monster in deinem Friedhof befinden: Du kannst diese Karte deiner Hand hinzufügen. Du kannst jeden Effekt von „Reindsurm Gigalovendra“ nur einmal pro Spielzug verwenden."
+101307027,Reindsurm Gigalovendra,str1,Der Hand hinzufügen
+101307027,Reindsurm Gigalovendra,str2,Ins Deck zurücklegen
+101307027,Reindsurm Gigalovendra,str3,Der Hand hinzufügen
+101307028,Reindsurm Giriakarma,name,Reindsurm Giriakarma
+101307028,Reindsurm Giriakarma,desc,"Du kannst diese Karte mit „Reindsurm-Eroberung“ als Ritualbeschwörung beschwören. Wenn dein Gegner einen Monstereffekt auf dem Spielfeld oder im Friedhof aktiviert, solange du diese als Ritualbeschwörung beschworene Karte kontrollierst (Schnelleffekt): Du kannst die Aktivierung annullieren, dann kannst du je 1 Monster von der Spielfeldseite und vom Friedhof deines Gegners ins Deck mischen, zusätzlich, falls mindestens eines jener Monster ein Drache-Monster war, verdopple die ATK dieser Karte. Falls sich diese Karte und ein LICHT „Reindsurm“-Monster in deinem Friedhof befinden: Du kannst diese Karte deiner Hand hinzufügen. Du kannst jeden Effekt von „Reindsurm Giriakarma“ nur einmal pro Spielzug verwenden."
+101307028,Reindsurm Giriakarma,str1,Aktivierung annullieren
+101307028,Reindsurm Giriakarma,str2,Der Hand hinzufügen
+101307028,Reindsurm Giriakarma,str3,"Monster wählen, die ins Deck zurückgelegt werden?"
 101307030,Der Sonnengott der Finsternis – Der geflügelte Drache von Ra,name,Der Sonnengott der Finsternis – Der geflügelte Drache von Ra
 101307030,Der Sonnengott der Finsternis – Der geflügelte Drache von Ra,desc,"„Der geflügelte Drache von Ra“ + 3 „Sonnengott“-Monster
 
@@ -569,42 +493,36 @@ Bleibt von den Effekten anderer Karten unberührt. Einmal pro Spielzug, während
 
 Kann nicht als Fusionsmaterial verwendet werden. Muss entweder als Fusionsbeschwörung beschworen werden oder als Spezialbeschwörung (von deinem Extra Deck) auf eine Main-Monsterzone deines Gegners beschworen werden, indem du die oben aufgeführten Karten von einem beliebigen Spielfeld auf den Friedhof legst, aber falls du diese Karte mit der zweiten Methode als Spezialbeschwörung beschwörst, kannst du für den Rest dieses Spielzugs nur noch einmal als Spezialbeschwörung beschwören. Du kannst „Der Stahlkäfig des Sonnengotts – Lava-Golem“ auf diese Art nur einmal pro Spielzug als Spezialbeschwörung beschwören, unabhängig von der Methode. Einmal pro Spielzug, während deiner Standby Phase: Du erhältst 1000 Schaden."
 101307031,Der Stahlkäfig des Sonnengotts – Lava-Golem,str2,Schadenseffekt
-101307034,白鸦之森的女主人 迪亚贝尔泽,name,白鸦之森的女主人 迪亚贝尔泽
-101307034,白鸦之森的女主人 迪亚贝尔泽,desc,"融合·同调怪兽＋魔法师族·幻想魔族怪兽
-这个卡名的①的效果1回合只能使用1次。
-①：这张卡特殊召唤的场合才能发动。选自己场上的任意数量怪兽，当作永续魔法卡使用在原本持有者的魔法与陷阱区域以表侧表示放置。那之后，可以让最多有自己场上的魔法·陷阱卡的数量的场上的卡回到手卡。
-②：这张卡的攻击力·守备力，上升场上的魔法·陷阱卡的数量×700。
-③：融合召唤的表侧表示的这张卡不能作为融合素材。"
-101307034,白鸦之森的女主人 迪亚贝尔泽,str1,Platzieren
-101307034,白鸦之森的女主人 迪亚贝尔泽,str3,Die Karte auf die Hand zurückgeben?
-101307037,白鸦骑士 扎尔蒂斯,name,白鸦骑士 扎尔蒂斯
-101307037,白鸦骑士 扎尔蒂斯,desc,"幻想魔族调整＋调整以外的怪兽1只以上
-这个卡名的①②的效果1回合各能使用1次。
-①：这张卡特殊召唤的场合，以场上最多2张魔法·陷阱卡为对象才能发动。那些卡回到手卡。
-②：这张卡被送去墓地的场合，可以根据从何处送去墓地发动以下效果。
-●场上：从卡组把1张「白鸦」陷阱卡在自己场上盖放。
-●额外卡组：从自己墓地把1张「白鸦」卡加入手卡。"
-101307037,白鸦骑士 扎尔蒂斯,str1,Auf die Hand zurückgeben
-101307037,白鸦骑士 扎尔蒂斯,str2,Setzeffekt
-101307037,白鸦骑士 扎尔蒂斯,str3,Rückgewinnungseffekt
-101307038,白鸦骑士 艾特瓦拉斯,name,白鸦骑士 艾特瓦拉斯
-101307038,白鸦骑士 艾特瓦拉斯,desc,"幻想魔族调整＋调整以外的怪兽1只以上
-这个卡名的①②的效果1回合各能使用1次。
-①：这张卡特殊召唤的场合，以自己以及对方场上的卡各1张为对象才能发动。那些卡回到手卡。
-②：这张卡被送去墓地的场合，可以根据从何处送去墓地发动以下效果。
-●场上：以场上1张卡为对象才能发动。那张卡回到卡组。
-●额外卡组：从自己墓地把1只「白鸦」怪兽特殊召唤。"
-101307038,白鸦骑士 艾特瓦拉斯,str1,Auf die Hand zurückgeben
-101307038,白鸦骑士 艾特瓦拉斯,str2,Rückgewinnungseffekt
-101307038,白鸦骑士 艾特瓦拉斯,str3,Als Spezialbeschwörung beschwören
-101307048,驰驱于火炎平原的百兽之王,name,驰驱于火炎平原的百兽之王
-101307048,驰驱于火炎平原的百兽之王,desc,"炎属性效果怪兽3只
-这个卡名在规则上当作「转生炎兽 炽热多头狮」使用。这个卡名的②的效果1回合只能使用1次。
-①：场上的表侧表示怪兽变成炎属性。
-②：这张卡是已用「转生炎兽 炽热多头狮」为素材作连接召唤的场合，自己·对方的主要阶段，以对方场上1张卡为对象才能发动。那张卡回到卡组。那之后，可以把对方场上1只炎属性怪兽的攻击力，变成和自己墓地1只怪兽的攻击力相同。"
-101307048,驰驱于火炎平原的百兽之王,str2,Ins Deck zurücklegen
-101307048,驰驱于火炎平原的百兽之王,str3,Die ATK ändern?
-101307048,驰驱于火炎平原的百兽之王,str4,"Mit ""驰驱于火炎平原的百兽之王"" als Material als Linkbeschwörung beschworen"
+101307034,"Diabellze, Herrin des Weißkrähenwaldes",name,"Diabellze, Herrin des Weißkrähenwaldes"
+101307034,"Diabellze, Herrin des Weißkrähenwaldes",desc,"1 Fusions- oder Synchromonster + 1 Hexer- oder Illusion-Monster
+Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst eine beliebige Anzahl Monster, die du kontrollierst, offen als Permanente Zauber in die Zauber- & Fallenzonen ihrer Besitzer legen, dann kannst du bis zu so viele Karten auf dem Spielfeld auf die Hand zurückgeben wie die Anzahl der Zauber/Fallen, die du kontrollierst. Du kannst diesen Effekt von „Diabellze, Herrin des Weißkrähenwaldes“ nur einmal pro Spielzug verwenden. Erhält für jeden Zauber / jede Falle auf dem Spielfeld 700 ATK/DEF. Diese offene als Fusionsbeschwörung beschworene Karte kann nicht als Fusionsmaterial verwendet werden."
+101307034,"Diabellze, Herrin des Weißkrähenwaldes",str1,Platzieren
+101307034,"Diabellze, Herrin des Weißkrähenwaldes",str3,Die Karte auf die Hand zurückgeben?
+101307037,"Zaltys, Weißkrähenritter",name,"Zaltys, Weißkrähenritter"
+101307037,"Zaltys, Weißkrähenritter",desc,"1 Illusion-Empfänger + 1+ Nicht-Empfänger-Monster
+Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst bis zu 2 Zauber/Fallen auf dem Spielfeld wählen; gib sie auf die Hand zurück. Falls diese Karte auf den Friedhof gelegt wird: Du kannst abhängig davon, von wo sie auf den Friedhof gelegt wurde, den folgenden Effekt aktivieren;
+● Spielfeld: Setze 1 „Weißkrähe“-Falle von deinem Deck.
+● Extra Deck: Füge deiner Hand 1 „Weißkrähe“-Karte von deinem Friedhof hinzu.
+Du kannst jeden Effekt von „Zaltys, Weißkrähenritter“ nur einmal pro Spielzug verwenden."
+101307037,"Zaltys, Weißkrähenritter",str1,Auf die Hand zurückgeben
+101307037,"Zaltys, Weißkrähenritter",str2,Setzeffekt
+101307037,"Zaltys, Weißkrähenritter",str3,Rückgewinnungseffekt
+101307038,"Aitvaras, Weißkrähenritter",name,"Aitvaras, Weißkrähenritter"
+101307038,"Aitvaras, Weißkrähenritter",desc,"1 Illusion-Empfänger + 1+ Nicht-Empfänger-Monster
+Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst 1 Karte, die du kontrollierst, und 1 Karte, die dein Gegner kontrolliert, wählen; gib sie auf die Hand zurück. Falls diese Karte auf den Friedhof gelegt wird: Du kannst abhängig davon, von wo sie auf den Friedhof gelegt wurde, den folgenden Effekt aktivieren;
+● Spielfeld: Wähle 1 Karte auf dem Spielfeld; mische sie ins Deck.
+● Extra Deck: Beschwöre 1 „Weißkrähe“-Monster als Spezialbeschwörung von deinem Friedhof.
+Du kannst jeden Effekt von „Aitvaras, Weißkrähenritter“ nur einmal pro Spielzug verwenden."
+101307038,"Aitvaras, Weißkrähenritter",str1,Auf die Hand zurückgeben
+101307038,"Aitvaras, Weißkrähenritter",str2,Rückgewinnungseffekt
+101307038,"Aitvaras, Weißkrähenritter",str3,Als Spezialbeschwörung beschwören
+101307048,König der Bestien aus dem Tal der Flammen,name,König der Bestien aus dem Tal der Flammen
+101307048,König der Bestien aus dem Tal der Flammen,desc,"3 FEUER Effektmonster
+(Diese Karte wird immer als „Grosalamander Heißleo“ behandelt.)
+Offene Monster auf dem Spielfeld werden zu FEUER Monstern. Während der Main Phase, falls diese Karte mit „Grosalamander Heißleo“ als Material als Linkbeschwörung beschworen wurde (Schnelleffekt): Du kannst 1 Karte wählen, die dein Gegner kontrolliert; mische sie ins Deck, dann kannst du die ATK von 1 FEUER Monster, das dein Gegner kontrolliert, gleich den ATK von 1 Monster in deinem Friedhof werden lassen. Du kannst diesen Effekt von „König der Bestien aus dem Tal der Flammen“ nur einmal pro Spielzug verwenden."
+101307048,König der Bestien aus dem Tal der Flammen,str2,Ins Deck zurücklegen
+101307048,König der Bestien aus dem Tal der Flammen,str3,Die ATK ändern?
+101307048,König der Bestien aus dem Tal der Flammen,str4,Mit „König der Bestien aus dem Tal der Flammen“ als Material als Linkbeschwörung beschworen
 101307051,Der unsterbliche Sonnengott,name,Der unsterbliche Sonnengott
 101307051,Der unsterbliche Sonnengott,desc,"Beschwöre 1 „Der geflügelte Drache von Ra“-Monster als Spezialbeschwörung von deinem Friedhof oder deinen verbannten Karten, ungeachtet seiner Beschwörungsbedingungen, dann, falls du „Der geflügelte Drache von Ra“ durch diesen Effekt als Spezialbeschwörung beschworen hast, kannst du ihn auf den Friedhof legen und falls du dies tust, beschwöre 1 „Der geflügelte Drache von Ra“-Monster als Spezialbeschwörung von deinem Extra Deck. Während der End Phase, lege die durch diesen Effekt als Spezialbeschwörung beschworenen Monster auf den Friedhof. Während deiner Main Phase, falls sich diese Karte in deinem Friedhof befindet: Du kannst 1 „Sonnengott“-Karte abwerfen; füge diese Karte deiner Hand hinzu. Du kannst jeden Effekt von „Der unsterbliche Sonnengott“ nur einmal pro Spielzug verwenden."
 101307051,Der unsterbliche Sonnengott,str1,Als Spezialbeschwörung beschwören
@@ -614,52 +532,37 @@ Kann nicht als Fusionsmaterial verwendet werden. Muss entweder als Fusionsbeschw
 101307052,"Der Sonnengott, der dich in die Dunkelheit lockt",desc,"Aktiviere diese Karte, indem du 1 „Der geflügelte Drache von Ra“-Monster von deiner Hand, deinem Deck oder deiner offenen Spielfeldseite auf den Friedhof legst. Während deiner Main Phase, falls diese Karte in diesem Spielzug aktiviert wurde: Du kannst deiner Hand 1 „Sonnengott“-Monster von deinem Deck hinzufügen. Falls ein oder mehrere Monster durch Kampf zerstört werden: Sein Beherrscher erhält Schaden in Höhe seiner Grund-ATK, dann, falls sich „Der geflügelte Drache von Ra“ in deinem Friedhof befindet, erhältst du 1000 LP. Du kannst jeden Effekt von „Der Sonnengott, der dich in die Dunkelheit lockt“ nur einmal pro Spielzug verwenden."
 101307052,"Der Sonnengott, der dich in die Dunkelheit lockt",str1,Sucheffekt
 101307052,"Der Sonnengott, der dich in die Dunkelheit lockt",str2,Schadenseffekt
-101307055,龙之骸歌,name,龙之骸歌
-101307055,龙之骸歌,desc,"这个卡名的①②的效果1回合各能使用1次。
-①：等级合计直到变成仪式召唤的怪兽的等级合计以上为止，让自己·对方墓地的昆虫族·龙族怪兽回到卡组，从手卡把昆虫族仪式怪兽任意数量仪式召唤。
-②：这张卡在墓地存在的场合，从自己的手卡·场上（表侧表示）把1只昆虫族怪兽送去墓地才能发动。这张卡加入手卡。"
-101307055,龙之骸歌,str1,Aktivieren
-101307055,龙之骸歌,str2,Der Hand hinzufügen
-101307056,无死之龙的鼓动,name,无死之龙的鼓动
-101307056,无死之龙的鼓动,desc,"①：只要自己场上有原本等级是8以上的「轮回虫龙」怪兽存在，或者对方场上或墓地有龙族怪兽存在，自己发动的「轮回虫龙」怪兽的效果不会被无效化。
-②：1回合1次，从自己的手卡·场上（表侧表示）把1只「轮回虫龙」怪兽或龙族怪兽送去墓地才能发动。从卡组把和那只怪兽原本卡名不同，原本等级相同的1只昆虫族怪兽加入手卡。"
-101307056,无死之龙的鼓动,str1,Der Hand hinzufügen
-101307057,翅龙的羽击,name,翅龙的羽击
-101307057,翅龙的羽击,desc,"这个卡名的①②的效果1回合只能有1次使用其中任意1个。
-①：从卡组把包含昆虫族怪兽的2只怪兽送去墓地。这张卡的发动后，直到下个回合的结束时，自己不是昆虫族怪兽不能特殊召唤。
-②：这张卡在墓地存在的状态，自己把昆虫族怪兽仪式召唤的场合，把这张卡除外才能发动。自己场上的全部的「轮回虫龙」怪兽的攻击力·守备力上升800。"
-101307057,翅龙的羽击,str1,Aktivieren
-101307057,翅龙的羽击,str2,ATK/DEF erhöhen
-101307057,翅龙的羽击,str3,"Der Effekt von ""翅龙的羽击"" wird derzeit angewendet."
-101307058,角龙的修炼,name,角龙的修炼
-101307058,角龙的修炼,desc,"这个卡名的①②的效果1回合各能使用1次。
-①：从卡组把2张「轮回虫龙」怪兽加入手卡。那之后，选自己1张手卡送去墓地。那之后，对方场上或墓地有龙族怪兽存在的场合，可以从自己墓地把1只昆虫族怪兽加入手卡。
-②：这张卡在墓地存在的状态，自己把昆虫族怪兽仪式召唤的场合，把这张卡除外才能发动。从卡组把1张「轮回虫龙」场地魔法卡在自己场上表侧表示放置。"
-101307058,角龙的修炼,str1,Aktivieren
-101307058,角龙的修炼,str2,Offen legen
-101307058,角龙的修炼,str3,Der Hand hinzufügen?
-101307059,白鸦的大森林,name,白鸦的大森林
-101307059,白鸦的大森林,desc,"这个卡名的卡在1回合只能发动1张，这个卡名的③的效果1回合只能使用1次。
-①：作为这张卡的发动时的效果处理，可以从卡组把1只「白鸦」怪兽加入手卡。
-②：只要这张卡在场地区域存在，自己场上的「白鸦」怪兽卡不会被效果破坏。
-③：自己结束阶段才能发动。从自己的卡组·墓地把1张「白鸦」陷阱卡在自己场上盖放。"
-101307059,白鸦的大森林,str1,Der Hand hinzufügen?
-101307059,白鸦的大森林,str3,Setzen
-101307062,转生炎兽的神域,name,转生炎兽的神域
-101307062,转生炎兽的神域,desc,"这个卡名在规则上当作「转生炎兽的圣域」使用。这个卡名的①③的效果1回合各能使用1次。
-①：自己把「转生炎兽」连接怪兽连接召唤的场合，可以只用自己场上1只同名「转生炎兽」连接怪兽为素材作连接召唤。
-②：自己场上的「转生炎兽」怪兽不受对方的炎属性怪兽发动的效果的影响。
-③：自己主要阶段才能发动。手卡的「转生炎兽」卡任意数量回到卡组。那之后，自己抽出回去数量。"
-101307062,转生炎兽的神域,str1,"Linkbeschwörung durch den Effekt von ""转生炎兽的神域"""
-101307062,转生炎兽的神域,str2,Karten in deiner Hand austauschen
-101307063,转生炎兽的神剑,name,转生炎兽的神剑
-101307063,转生炎兽的神剑,desc,"这个卡名的①②③的效果1回合各能使用1次。
-①：从自己的手卡·墓地把1只「转生炎兽」怪兽特殊召唤，把这张卡装备。
-②：从卡组把1只「转生炎兽」怪兽送去墓地才能发动。装备怪兽的攻击力，上升送去墓地的怪兽的等级×300。
-③：这张卡在墓地存在的场合才能发动。从自己墓地让装备魔法卡以外的3张「转生炎兽」卡回到卡组，这张卡加入手卡。"
-101307063,转生炎兽的神剑,str1,Aktivieren
-101307063,转生炎兽的神剑,str2,ATK erhöhen
-101307063,转生炎兽的神剑,str3,Auf die Hand zurückgeben
+101307055,Reindsurm-Eroberung,name,Reindsurm-Eroberung
+101307055,Reindsurm-Eroberung,desc,"Diese Karte kann verwendet werden, um eine beliebige Anzahl Insekt-Ritualmonster als Ritualbeschwörung zu beschwören. Du musst außerdem Insekt- und/oder Drache-Monster von den Friedhöfen ins Deck mischen, deren gemeinsame Stufe größer oder gleich der gemeinsamen Stufe der Ritualmonster ist, die du als Ritualbeschwörung von deiner Hand beschwörst. Falls sich diese Karte in deinem Friedhof befindet: Du kannst 1 Insekt-Monster von deiner Hand oder deiner offenen Spielfeldseite auf den Friedhof legen; füge diese Karte deiner Hand hinzu. Du kannst jeden Effekt von „Reindsurm-Eroberung“ nur einmal pro Spielzug verwenden."
+101307055,Reindsurm-Eroberung,str1,Aktivieren
+101307055,Reindsurm-Eroberung,str2,Der Hand hinzufügen
+101307056,Reindsurm-Wiedergeburt,name,Reindsurm-Wiedergeburt
+101307056,Reindsurm-Wiedergeburt,desc,"Solange du ein „Reindsurm“-Monster kontrollierst, dessen Grund-Stufe 8 oder höher ist, oder sich auf der Spielfeldseite oder im Friedhof deines Gegners ein Drache-Monster befindet, können die aktivierten Effekte deiner „Reindsurm“-Monster nicht annulliert werden. Einmal pro Spielzug: Du kannst 1 „Reindsurm“-Monster oder 1 Drache-Monster von deiner Hand oder deiner offenen Spielfeldseite auf den Friedhof legen; füge deiner Hand 1 Insekt-Monster von deinem Deck hinzu, das dieselbe Grund-Stufe, aber einen anderen Grund-Namen als jenes Monster hat."
+101307056,Reindsurm-Wiedergeburt,str1,Der Hand hinzufügen
+101307057,Reindsurm-Flügelschlag,name,Reindsurm-Flügelschlag
+101307057,Reindsurm-Flügelschlag,desc,"Lege 2 Monster von deinem Deck auf den Friedhof, darunter ein Insekt-Monster, zusätzlich kannst du bis zum Ende des nächsten Spielzugs, nachdem diese Karte aufgelöst wurde, keine Monster als Spezialbeschwörung beschwören, außer Insekt-Monstern. Falls du ein oder mehr Insekt-Monster als Ritualbeschwörung beschwörst, solange sich diese Karte in deinem Friedhof befindet: Du kannst diese Karte verbannen; alle „Reindsurm“-Monster, die du derzeit kontrollierst, erhalten 800 ATK/DEF. Du kannst nur 1 Effekt von „Reindsurm-Flügelschlag“ pro Spielzug verwenden und in jenem Spielzug nur einmal."
+101307057,Reindsurm-Flügelschlag,str1,Aktivieren
+101307057,Reindsurm-Flügelschlag,str2,ATK/DEF erhöhen
+101307057,Reindsurm-Flügelschlag,str3,Der Effekt von „Reindsurm-Flügelschlag“ wird derzeit angewendet.
+101307058,Reindsurm-Schulung,name,Reindsurm-Schulung
+101307058,Reindsurm-Schulung,desc,"Füge deiner Hand 2 „Reindsurm“-Monster von deinem Deck hinzu, dann lege 1 Karte von deiner Hand auf den Friedhof, dann, falls sich auf der Spielfeldseite oder im Friedhof deines Gegners ein Drache-Monster befindet, kannst du deiner Hand 1 Insekt-Monster von deinem Friedhof hinzufügen. Falls du ein oder mehr Insekt-Monster als Ritualbeschwörung beschwörst, solange sich diese Karte in deinem Friedhof befindet: Du kannst diese Karte verbannen; lege 1 „Reindsurm“-Spielfeldzauber von deinem Deck offen auf deine Spielfeldseite. Du kannst jeden Effekt von „Reindsurm-Schulung“ nur einmal pro Spielzug verwenden."
+101307058,Reindsurm-Schulung,str1,Aktivieren
+101307058,Reindsurm-Schulung,str2,Offen legen
+101307058,Reindsurm-Schulung,str3,Der Hand hinzufügen?
+101307059,Der tiefe Wald der Weißkrähe,name,Der tiefe Wald der Weißkrähe
+101307059,Der tiefe Wald der Weißkrähe,desc,"Wenn diese Karte aktiviert wird: Du kannst deiner Hand 1 „Weißkrähe“-Monster von deinem Deck hinzufügen. Solange sich diese Karte in der Spielfeldzone befindet, können „Weißkrähe“-Monsterkarten, die du kontrollierst, nicht durch Karteneffekte zerstört werden. Während deiner End Phase: Du kannst 1 „Weißkrähe“-Falle von deinem Deck oder Friedhof setzen. Du kannst diesen Effekt von „Der tiefe Wald der Weißkrähe“ nur einmal pro Spielzug verwenden. Du kannst nur 1 „Der tiefe Wald der Weißkrähe“ pro Spielzug aktivieren."
+101307059,Der tiefe Wald der Weißkrähe,str1,Der Hand hinzufügen?
+101307059,Der tiefe Wald der Weißkrähe,str3,Setzen
+101307062,Grosalamander-Schrein,name,Grosalamander-Schrein
+101307062,Grosalamander-Schrein,desc,"(Diese Karte wird immer als „Grosalamander-Heiligtum“ behandelt.)
+„Grosalamander“-Monster, die du kontrollierst, bleiben von den aktivierten Effekten der FEUER Monster deines Gegners unberührt. Du kannst jeden der folgenden Effekte von „Grosalamander-Schrein“ nur einmal pro Spielzug verwenden. Falls du ein „Grosalamander“-Linkmonster als Linkbeschwörung beschwörst, kannst du 1 „Grosalamander“-Linkmonster mit demselben Namen, das du kontrollierst, als das gesamte Material verwenden. Während deiner Main Phase: Du kannst eine beliebige Anzahl „Grosalamander“-Karten von deiner Hand ins Deck mischen, dann ziehe dieselbe Anzahl Karten."
+101307062,Grosalamander-Schrein,str1,Linkbeschwörung durch den Effekt von „Grosalamander-Schrein“
+101307062,Grosalamander-Schrein,str2,Karten in deiner Hand austauschen
+101307063,Grosalamander-Götterklinge,name,Grosalamander-Götterklinge
+101307063,Grosalamander-Götterklinge,desc,"Beschwöre 1 „Grosalamander“-Monster als Spezialbeschwörung von deiner Hand oder deinem Friedhof und falls du dies tust, rüste es mit dieser Karte aus. Du kannst 1 „Grosalamander“-Monster von deinem Deck auf den Friedhof legen; das ausgerüstete Monster erhält ATK in Höhe der Stufe des auf den Friedhof gelegten Monsters x 300. Falls sich diese Karte in deinem Friedhof befindet: Du kannst 3 „Grosalamander“-Karten von deinem Friedhof ins Deck mischen, außer Ausrüstungszaubern, und falls du dies tust, füge diese Karte deiner Hand hinzu. Du kannst jeden Effekt von „Grosalamander-Götterklinge“ nur einmal pro Spielzug verwenden."
+101307063,Grosalamander-Götterklinge,str1,Aktivieren
+101307063,Grosalamander-Götterklinge,str2,ATK erhöhen
+101307063,Grosalamander-Götterklinge,str3,Auf die Hand zurückgeben
 101307072,Sonnengott-Beherrschung,name,Sonnengott-Beherrschung
 101307072,Sonnengott-Beherrschung,desc,"Falls ein „Der geflügelte Drache von Ra“-Monster auf dem Spielfeld liegt: Führe diese Effekte nacheinander aus.
 
@@ -679,26 +582,21 @@ Du kannst diese Karte von deinem Friedhof verbannen und 1 „Der geflügelte Dra
 Du kannst nur 1 „Der Beschützer des Sonnengotts – Ägyptischer Götterschleim“ pro Spielzug aktivieren."
 101307073,Der Beschützer des Sonnengotts – Ägyptischer Götterschleim,str2,Sucheffekt
 101307073,Der Beschützer des Sonnengotts – Ägyptischer Götterschleim,str3,Als Spezialbeschwörung beschwören?
-101307076,百龙的交战,name,百龙的交战
-101307076,百龙的交战,desc,"这个卡名的①②的效果1回合各能使用1次。
-①：自己场上有「轮回虫龙」怪兽存在，怪兽的效果·魔法·陷阱卡发动时才能发动。那个发动无效。那之后，可以适用以下效果。
-●从自己的卡组·墓地把1只「轮回虫龙」怪兽加入手卡，自己场上1只昆虫族怪兽送去墓地。
-②：自己场上的「轮回虫龙」怪兽被战斗·效果破坏的场合，可以作为代替让墓地的这张卡回到卡组最下面。"
-101307076,百龙的交战,str1,Aktivieren
-101307076,百龙的交战,str3,Der Hand hinzufügen?
-101307077,白鸦魔女的光彩,name,白鸦魔女的光彩
-101307077,白鸦魔女的光彩,desc,"这个卡名的①的效果1回合只能使用1次。
-①：可以从以下效果选择1个发动。
-●从自己的手卡·墓地把1只「白鸦」怪兽特殊召唤。
-●从自己的手卡·额外卡组·场上把各最多1只「白鴉」怪兽作为融合素材，把1只「迪亚贝尔」融合怪兽融合召唤。
-●自己场上有「迪亚贝尔」怪兽存在的场合，以场上1张表侧表示卡为对象才能发动。那张卡的效果直到回合结束时无效。"
-101307077,白鸦魔女的光彩,str2,Effekt aktivieren
-101307077,白鸦魔女的光彩,str3,Als Spezialbeschwörung beschwören
-101307077,白鸦魔女的光彩,str4,Als Fusionsbeschwörung beschwören
-101307077,白鸦魔女的光彩,str5,Effekt annullieren
-101307078,白鸦魔女的幻姿,name,白鸦魔女的幻姿
-101307078,白鸦魔女的幻姿,desc,"这个卡名的卡在1回合只能发动1张。
-①：自己额外卡组·场上的怪兽作为融合素材，把1只幻想魔族融合怪兽融合召唤。这张卡的发动后，直到回合结束时自己不能把幻想魔族以外的手卡·墓地的怪兽的效果发动。
-②：对方让这张卡的发动无效，这张卡被送去墓地的场合才能发动。这张卡在自己场上盖放，对方场上的卡全部回到手卡。"
-101307078,白鸦魔女的幻姿,str1,Aktivieren
-101307078,白鸦魔女的幻姿,str2,Setzen
+101307076,Reindsurm-Begegnung,name,Reindsurm-Begegnung
+101307076,Reindsurm-Begegnung,desc,"Wenn eine Zauber-/Fallenkarte oder ein Monstereffekt aktiviert wird, solange du ein „Reindsurm“-Monster kontrollierst: Annulliere die Aktivierung, dann kannst du deiner Hand 1 „Reindsurm“-Monster von deinem Deck oder Friedhof hinzufügen und falls du dies tust, lege 1 Insekt-Monster, das du kontrollierst, auf den Friedhof. Falls ein oder mehr „Reindsurm“-Monster, die du kontrollierst, durch Kampf oder einen Karteneffekt zerstört würden, kannst du stattdessen diese Karte von deinem Friedhof unter das Deck legen. Du kannst jeden Effekt von „Reindsurm-Begegnung“ nur einmal pro Spielzug verwenden."
+101307076,Reindsurm-Begegnung,str1,Aktivieren
+101307076,Reindsurm-Begegnung,str3,Der Hand hinzufügen?
+101307077,Glanz der Weißkrähenhexe,name,Glanz der Weißkrähenhexe
+101307077,Glanz der Weißkrähenhexe,desc,"Du kannst 1 dieser Effekte aktivieren;
+● Beschwöre 1 „Weißkrähe“-Monster als Spezialbeschwörung von deiner Hand oder deinem Friedhof.
+● Beschwöre 1 „Diabell“-Fusionsmonster als Fusionsbeschwörung von deinem Extra Deck, indem du jeweils bis zu 1 „Weißkrähe“-Monster von deiner Hand, deinem Extra Deck und/oder deiner Spielfeldseite als Material verwendest.
+● Falls du ein „Diabell“-Monster kontrollierst: Wähle 1 offene Karte auf dem Spielfeld; annulliere bis zum Ende dieses Spielzugs ihre Effekte.
+Du kannst diesen Effekt von „Glanz der Weißkrähenhexe“ nur einmal pro Spielzug verwenden."
+101307077,Glanz der Weißkrähenhexe,str2,Effekt aktivieren
+101307077,Glanz der Weißkrähenhexe,str3,Als Spezialbeschwörung beschwören
+101307077,Glanz der Weißkrähenhexe,str4,Als Fusionsbeschwörung beschwören
+101307077,Glanz der Weißkrähenhexe,str5,Effekt annullieren
+101307078,Trugbild der Weißkrähenhexe,name,Trugbild der Weißkrähenhexe
+101307078,Trugbild der Weißkrähenhexe,desc,"Beschwöre 1 Illusion-Fusionsmonster als Fusionsbeschwörung von deinem Extra Deck, indem du Monster von deinem Extra Deck und/oder deiner Spielfeldseite als Material verwendest, zusätzlich kannst du für den Rest dieses Spielzugs, nachdem diese Karte aufgelöst wurde, keine Monstereffekte in der Hand oder im Friedhof aktivieren, außer den Effekten von Illusion-Monstern. Falls die Aktivierung dieser Karte, die sich im Besitz ihres Besitzers befindet, durch einen Karteneffekt eines Gegners annulliert wird und diese Karte auf den Friedhof gelegt wird: Du kannst diese Karte setzen und falls du dies tust, gib alle Karten, die dein Gegner kontrolliert, auf die Hand zurück. Du kannst nur 1 „Trugbild der Weißkrähenhexe“ pro Spielzug aktivieren."
+101307078,Trugbild der Weißkrähenhexe,str1,Aktivieren
+101307078,Trugbild der Weißkrähenhexe,str2,Setzen
