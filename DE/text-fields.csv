@@ -230,10 +230,10 @@ Monster deines Gegners können Monster nicht als Angriffsziel für Angriffe wäh
 100267040,Xenovader△-Evangelium,name,Xenovader△-Evangelium
 100267040,Xenovader△-Evangelium,desc,"Aktiviere diese Karte, indem du insgesamt 5 Karten von deinem Friedhof und/oder von der Oberseite deines Decks verdeckt verbannst. Während deiner Main Phase kannst du zusätzlich zu deiner Normalbeschwörung / deinem Setzen 1 „Xenovader△“-Monster als Normalbeschwörung beschwören. (Du kannst diesen Effekt nur einmal pro Spielzug erhalten.) Während deiner Main Phase: Du kannst 1 „Xenovader△“-Monster, das du kontrollierst und dessen Grund-Stufe 4 oder niedriger ist, verdeckt verbannen und falls du dies tust, beschwöre 1 deiner verdeckt verbannten „Xenovader△“-Monster der Stufe 5 oder höher als Spezialbeschwörung. Du kannst diesen Effekt von „Xenovader△-Evangelium“ nur einmal pro Spielzug verwenden."
 100267040,Xenovader△-Evangelium,str1,"Karten vom Friedhof verbannen, um zu aktivieren?"
-100267040,Xenovader△-Evangelium,str2,Durch den Effekt von „Xenovader△-Evangelium“ beschworen
+100267040,Xenovader△-Evangelium,str2,"Durch den Effekt von ""Xenovader△-Evangelium"" beschworen"
 100267040,Xenovader△-Evangelium,str3,Als Spezialbeschwörung beschwören
-100267040,Xenovader△-Evangelium,str4,Durch die Aktivierung von „Xenovader△-Evangelium“ verdeckt verbannt
-100267040,Xenovader△-Evangelium,str5,Durch den zweiten Effekt von „Xenovader△-Evangelium“ verdeckt verbannt
+100267040,Xenovader△-Evangelium,str4,"Durch die Aktivierung von ""Xenovader△-Evangelium"" verdeckt verbannt"
+100267040,Xenovader△-Evangelium,str5,"Durch Effekt ② von ""Xenovader△-Evangelium"" verdeckt verbannt"
 100267041,Xenovader△ Urteil,name,Xenovader△ Urteil
 100267041,Xenovader△ Urteil,desc,"Falls dein Gegner ein oder mehrere Monster als Normal- oder Spezialbeschwörung beschwört: Du kannst 1 von ihnen wählen; bestimme 1 deiner verdeckt verbannten „Xenovader△“-Monster mit demselben Attribut und füge es entweder deiner Hand hinzu oder beschwöre es als Spezialbeschwörung, zusätzlich kannst du für den Rest dieses Spielzugs mit diesem Effekt von „Xenovader△ Urteil“ nicht dasselbe Attribut noch einmal bestimmen und du kannst keine Karten oder Effekte aktivieren, außer „Xenovader△“-Karten oder -Effekten. Einmal pro Kampf, während der Schadensberechnung, falls dein „Xenovader△“-Monster gegen ein Monster deines Gegners kämpft und du keine Karten in deinem Deck hast: Du kannst bestimmen, dass die ATK jenes Monsters deines Gegners zu 0 werden."
 100267041,Xenovader△ Urteil,str1,Zurückholen
@@ -336,7 +336,7 @@ Falls diese Karte durch einen Karteneffekt zerstört wird: Du kannst 1 „Harpyi
 ● 5 oder höher: Füge deiner Hand 1 Monster der Stufe 5 oder höher von deinem Deck hinzu, dessen Typ, Eigenschaft und/oder Stufe mit dem verbannten Monster übereinstimmen.
 Du kannst nur 1 „Lichtblitz-Versiegelungsschwert“ pro Spielzug aktivieren."
 100268021,Lichtblitz-Versiegelungsschwert,str1,Aktivieren
-100268021,Lichtblitz-Versiegelungsschwert,str2,Durch „Lichtblitz-Versiegelungsschwert“ verbannt
+100268021,Lichtblitz-Versiegelungsschwert,str2,"Durch ""Lichtblitz-Versiegelungsschwert"" verbannt"
 100268021,Lichtblitz-Versiegelungsschwert,str3,Den Effekt anwenden?
 100268022,Erzunterweltler von Gilfer – Dunkler Flammenangriff,name,Erzunterweltler von Gilfer – Dunkler Flammenangriff
 100268022,Erzunterweltler von Gilfer – Dunkler Flammenangriff,desc,"Während der Main Phase (Schnelleffekt): Du kannst diese Karte von deiner Hand auf den Friedhof legen; ziehe 1 Karte, dann wirf 1 Karte ab, zusätzlich verlieren alle Monster, die dein Gegner kontrolliert, in diesem Spielzug 500 ATK. Wenn ein Monster durch einen Kampf zerstört wird, an dem dein Unterweltler-Monster beteiligt ist, solange sich diese Karte in deinem Friedhof befindet: Du kannst diese Karte als Spezialbeschwörung beschwören, aber verbanne sie, wenn sie das Spielfeld verlässt. Du kannst jeden Effekt von „Erzunterweltler von Gilfer – Dunkler Flammenangriff“ nur einmal pro Spielzug verwenden."
@@ -522,7 +522,7 @@ Du kannst jeden Effekt von „Aitvaras, Weißkrähenritter“ nur einmal pro Spi
 Offene Monster auf dem Spielfeld werden zu FEUER Monstern. Während der Main Phase, falls diese Karte mit „Grosalamander Heißleo“ als Material als Linkbeschwörung beschworen wurde (Schnelleffekt): Du kannst 1 Karte wählen, die dein Gegner kontrolliert; mische sie ins Deck, dann kannst du die ATK von 1 FEUER Monster, das dein Gegner kontrolliert, gleich den ATK von 1 Monster in deinem Friedhof werden lassen. Du kannst diesen Effekt von „König der Bestien aus dem Tal der Flammen“ nur einmal pro Spielzug verwenden."
 101307048,König der Bestien aus dem Tal der Flammen,str2,Ins Deck zurücklegen
 101307048,König der Bestien aus dem Tal der Flammen,str3,Die ATK ändern?
-101307048,König der Bestien aus dem Tal der Flammen,str4,Mit „König der Bestien aus dem Tal der Flammen“ als Material als Linkbeschwörung beschworen
+101307048,König der Bestien aus dem Tal der Flammen,str4,"Mit ""König der Bestien aus dem Tal der Flammen"" als Material als Linkbeschwörung beschworen"
 101307051,Der unsterbliche Sonnengott,name,Der unsterbliche Sonnengott
 101307051,Der unsterbliche Sonnengott,desc,"Beschwöre 1 „Der geflügelte Drache von Ra“-Monster als Spezialbeschwörung von deinem Friedhof oder deinen verbannten Karten, ungeachtet seiner Beschwörungsbedingungen, dann, falls du „Der geflügelte Drache von Ra“ durch diesen Effekt als Spezialbeschwörung beschworen hast, kannst du ihn auf den Friedhof legen und falls du dies tust, beschwöre 1 „Der geflügelte Drache von Ra“-Monster als Spezialbeschwörung von deinem Extra Deck. Während der End Phase, lege die durch diesen Effekt als Spezialbeschwörung beschworenen Monster auf den Friedhof. Während deiner Main Phase, falls sich diese Karte in deinem Friedhof befindet: Du kannst 1 „Sonnengott“-Karte abwerfen; füge diese Karte deiner Hand hinzu. Du kannst jeden Effekt von „Der unsterbliche Sonnengott“ nur einmal pro Spielzug verwenden."
 101307051,Der unsterbliche Sonnengott,str1,Als Spezialbeschwörung beschwören
@@ -543,7 +543,7 @@ Offene Monster auf dem Spielfeld werden zu FEUER Monstern. Während der Main Pha
 101307057,Reindsurm-Flügelschlag,desc,"Lege 2 Monster von deinem Deck auf den Friedhof, darunter ein Insekt-Monster, zusätzlich kannst du bis zum Ende des nächsten Spielzugs, nachdem diese Karte aufgelöst wurde, keine Monster als Spezialbeschwörung beschwören, außer Insekt-Monstern. Falls du ein oder mehr Insekt-Monster als Ritualbeschwörung beschwörst, solange sich diese Karte in deinem Friedhof befindet: Du kannst diese Karte verbannen; alle „Reindsurm“-Monster, die du derzeit kontrollierst, erhalten 800 ATK/DEF. Du kannst nur 1 Effekt von „Reindsurm-Flügelschlag“ pro Spielzug verwenden und in jenem Spielzug nur einmal."
 101307057,Reindsurm-Flügelschlag,str1,Aktivieren
 101307057,Reindsurm-Flügelschlag,str2,ATK/DEF erhöhen
-101307057,Reindsurm-Flügelschlag,str3,Der Effekt von „Reindsurm-Flügelschlag“ wird derzeit angewendet.
+101307057,Reindsurm-Flügelschlag,str3,"Der Effekt von ""Reindsurm-Flügelschlag"" wird derzeit angewendet."
 101307058,Reindsurm-Schulung,name,Reindsurm-Schulung
 101307058,Reindsurm-Schulung,desc,"Füge deiner Hand 2 „Reindsurm“-Monster von deinem Deck hinzu, dann lege 1 Karte von deiner Hand auf den Friedhof, dann, falls sich auf der Spielfeldseite oder im Friedhof deines Gegners ein Drache-Monster befindet, kannst du deiner Hand 1 Insekt-Monster von deinem Friedhof hinzufügen. Falls du ein oder mehr Insekt-Monster als Ritualbeschwörung beschwörst, solange sich diese Karte in deinem Friedhof befindet: Du kannst diese Karte verbannen; lege 1 „Reindsurm“-Spielfeldzauber von deinem Deck offen auf deine Spielfeldseite. Du kannst jeden Effekt von „Reindsurm-Schulung“ nur einmal pro Spielzug verwenden."
 101307058,Reindsurm-Schulung,str1,Aktivieren
@@ -556,7 +556,7 @@ Offene Monster auf dem Spielfeld werden zu FEUER Monstern. Während der Main Pha
 101307062,Grosalamander-Schrein,name,Grosalamander-Schrein
 101307062,Grosalamander-Schrein,desc,"(Diese Karte wird immer als „Grosalamander-Heiligtum“ behandelt.)
 „Grosalamander“-Monster, die du kontrollierst, bleiben von den aktivierten Effekten der FEUER Monster deines Gegners unberührt. Du kannst jeden der folgenden Effekte von „Grosalamander-Schrein“ nur einmal pro Spielzug verwenden. Falls du ein „Grosalamander“-Linkmonster als Linkbeschwörung beschwörst, kannst du 1 „Grosalamander“-Linkmonster mit demselben Namen, das du kontrollierst, als das gesamte Material verwenden. Während deiner Main Phase: Du kannst eine beliebige Anzahl „Grosalamander“-Karten von deiner Hand ins Deck mischen, dann ziehe dieselbe Anzahl Karten."
-101307062,Grosalamander-Schrein,str1,Linkbeschwörung durch den Effekt von „Grosalamander-Schrein“
+101307062,Grosalamander-Schrein,str1,"Linkbeschwörung durch den Effekt von ""Grosalamander-Schrein"""
 101307062,Grosalamander-Schrein,str2,Karten in deiner Hand austauschen
 101307063,Grosalamander-Götterklinge,name,Grosalamander-Götterklinge
 101307063,Grosalamander-Götterklinge,desc,"Beschwöre 1 „Grosalamander“-Monster als Spezialbeschwörung von deiner Hand oder deinem Friedhof und falls du dies tust, rüste es mit dieser Karte aus. Du kannst 1 „Grosalamander“-Monster von deinem Deck auf den Friedhof legen; das ausgerüstete Monster erhält ATK in Höhe der Stufe des auf den Friedhof gelegten Monsters x 300. Falls sich diese Karte in deinem Friedhof befindet: Du kannst 3 „Grosalamander“-Karten von deinem Friedhof ins Deck mischen, außer Ausrüstungszaubern, und falls du dies tust, füge diese Karte deiner Hand hinzu. Du kannst jeden Effekt von „Grosalamander-Götterklinge“ nur einmal pro Spielzug verwenden."
