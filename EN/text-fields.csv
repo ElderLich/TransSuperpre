@@ -255,6 +255,10 @@ Cannot be destroyed by card effects, also unaffected by your opponent's activate
 100268008,"Gilford the Lightning, the Warrior of Thunderbolts",desc,"You can Special Summon this card (from your hand) by Tributing 3 monsters, and if you Tributed a monster(s) that is owned by your opponent, your opponent cannot activate cards or effects when this card is Special Summoned this way. If Summoned this way: Your opponent must send all monsters they control to the GY. If this card is sent to the GY: You can activate this effect; during the End Phase of this turn, add 1 Warrior monster from your Deck to your hand. You can only use this effect of ""Gilford the Lightning, the Warrior of Thunderbolts"" once per turn."
 100268008,"Gilford the Lightning, the Warrior of Thunderbolts",str2,Send to the GY
 100268008,"Gilford the Lightning, the Warrior of Thunderbolts",str3,Add to hand
+100268010,"Silent Magician, the Silent Fighter",name,"Silent Magician, the Silent Fighter"
+100268010,"Silent Magician, the Silent Fighter",desc,"Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 1 Level 7 or lower monster (Spellcaster or Warrior). You can only Special Summon ""Silent Magician, the Silent Fighter"" once per turn this way. The first time this card would be destroyed by battle or card effect each turn, it is not destroyed. Twice per turn, each time your opponent draws a card(s): You can draw 1 card, or if your opponent drew by their own card effect, you draw the same number of cards instead. While you have 6 or more cards in your hand, negate all your opponent's activated Spell Cards and effects."
+100268010,"Silent Magician, the Silent Fighter",str1,Draw
+100268010,"Silent Magician, the Silent Fighter",str2,选择抽卡张数
 100268011,"Penalty Game ""GREED, the Illusion of Avarice""",name,"Penalty Game ""GREED, the Illusion of Avarice"""
 100268011,"Penalty Game ""GREED, the Illusion of Avarice""",desc,"If your opponent added a card(s) from the Deck to the hand this turn, except during the Draw Phase: Inflict 400 damage to your opponent for each card in their hand, then if the total number of cards in their hand, field, and GY is 20 or more, you can banish their entire hand. You can only activate 1 ""Penalty Game ""GREED, the Illusion of Avarice"""" per turn."
 100268011,"Penalty Game ""GREED, the Illusion of Avarice""",str1,Activate
@@ -394,16 +398,15 @@ Must be Fusion Summoned. Gains 1500 ATK for each ""Vijam the Cubic Seed"" in you
 101306082,Tigress in Silent Repose,desc,"If this card is Normal or Special Summoned: You can target 1 Spell/Trap your opponent controls; destroy that card when this card leaves the field. If this card is sent from the hand or field to the GY: You can send 1 Spell/Trap you control to the GY; Special Summon this card, but banish it when it leaves the field. You can only use each effect of ""Tigress in Silent Repose"" once per turn."
 101306082,Tigress in Silent Repose,str1,Destroy
 101306082,Tigress in Silent Repose,str2,Special Summon
-101306083,听天投命,name,听天投命
-101306083,听天投命,desc,"自己场上的表侧表示卡被对方的卡的效果破坏的场合：可以进行1只投掷硬币，对里表作猜测。猜中的场合，从自己墓地把1只怪兽特殊召唤。猜错的场合，从自己墓地把1张陷阱卡盖放。
-这张卡被对方的卡的效果破坏的场合：可以从以下效果选择1个发动。
-●从自己墓地把1只怪兽特殊召唤。
-●从自己墓地把1张陷阱卡盖放。
-「听天投命」的每个效果1回合各能使用1次。"
-101306083,听天投命,str1,Activate
-101306083,听天投命,str2,选择发动
-101306083,听天投命,str3,Special Summon
-101306083,听天投命,str4,Set a Trap
+101306083,Just Flip a Coin,name,Just Flip a Coin
+101306083,Just Flip a Coin,desc,"If a face-up card(s) you control is destroyed by an opponent's card effect: You can toss a coin and call it. If you call it right, Special Summon 1 monster from your GY. If you call it wrong, Set 1 Trap from your GY. If this card in your possession is destroyed by an opponent's card effect: You can activate 1 of these effects;
+● Special Summon 1 monster from your GY.
+● Set 1 Trap from your GY.
+You can only use each effect of ""Just Flip a Coin"" once per turn."
+101306083,Just Flip a Coin,str1,Activate
+101306083,Just Flip a Coin,str2,选择发动
+101306083,Just Flip a Coin,str3,Special Summon
+101306083,Just Flip a Coin,str4,Set a Trap
 101306084,"Kumenyo, the Nine-Hued Deer",name,"Kumenyo, the Nine-Hued Deer"
 101306084,"Kumenyo, the Nine-Hued Deer",desc,"2+ Level 4 LIGHT and/or DARK monsters
 During the Main Phase (Quick Effect): You can detach 1 material from this card; attach 1 card from your hand, GY, or banishment to this card, except the detached material. You can only use this effect of ""Kumenyo, the Nine-Hued Deer"" once per turn. Gains the following effects, based on the number of different Monster Types attached to it.
@@ -631,6 +634,10 @@ Face-up monsters on the field become FIRE. During the Main Phase, if this card w
 101307063,Salamangreat Gearblade,str1,Activate
 101307063,Salamangreat Gearblade,str2,Increase ATK
 101307063,Salamangreat Gearblade,str3,Return to the hand
+101307071,Autumn,name,Autumn
+101307071,Autumn,desc,"This card's name becomes ""Summer"" while in the Field Zone. Once per turn: You can place Season Counters on this card equal to the number of cards in your opponent's hand. At the start of the Battle Phase: You can take 1 Field Spell from your hand, Deck, or GY that you can place a Season Counter on, except ""Autumn"", and place it face-up on your field, and if you do, place all Season Counters on this card on that card. If a card(s) in the Field Zone would be destroyed by card effect, you can banish this card from your GY instead."
+101307071,Autumn,str2,Place a counter
+101307071,Autumn,str3,Place in the Field Zone
 101307072,Sun God Domination,name,Sun God Domination
 101307072,Sun God Domination,desc,"If a ""The Winged Dragon of Ra"" monster is on the field: Apply these effects in sequence.
 ● Special Summon 1 monster from each GY to your field.
