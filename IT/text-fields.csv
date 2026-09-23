@@ -352,6 +352,13 @@ Se viene Evocata in questo modo: il tuo avversario deve mandare tutti i mostri c
 Se questa carta viene mandata al Cimitero: puoi attivare questo effetto; durante la End Phase di questo turno, aggiungi 1 mostro Guerriero dal tuo Deck alla tua mano. Puoi utilizzare questo effetto di ""Gilford il Fulmine, il Guerriero dei Lampi"" una sola volta per turno."
 100268008,"Gilford il Fulmine, il Guerriero dei Lampi",str2,Mandare al Cimitero
 100268008,"Gilford il Fulmine, il Guerriero dei Lampi",str3,Aggiungere alla mano
+100268010,"Mago Silente, la Lottatrice Silente",name,"Mago Silente, la Lottatrice Silente"
+100268010,"Mago Silente, la Lottatrice Silente",desc,"Non può essere Evocato Normalmente/Posizionato. Deve essere Evocato Specialmente (dalla tua mano) offrendo come Tributo 1 mostro di Livello 7 o inferiore (Incantatore o Guerriero). Puoi Evocare Specialmente ""Mago Silente, la Lottatrice Silente"" una sola volta per turno in questo modo.
+La prima volta che questa carta sta per essere distrutta in battaglia o dall'effetto di una carta ogni turno, non viene distrutta.
+Due volte per turno, ogni volta che il tuo avversario pesca una o più carte: puoi pescare 1 carta, oppure, se il tuo avversario ha pescato tramite l'effetto di una sua carta, peschi invece lo stesso numero di carte.
+Mentre hai 6 o più carte nella tua mano, annulla tutti gli effetti e le attivazioni delle Carte Magia del tuo avversario."
+100268010,"Mago Silente, la Lottatrice Silente",str1,Pescare
+100268010,"Mago Silente, la Lottatrice Silente",str2,Seleziona il numero di carte da pescare
 100268011,"Gioco di Penalità - AVIDITÀ, l'Illusione dell'Avarizia",name,"Gioco di Penalità - AVIDITÀ, l'Illusione dell'Avarizia"
 100268011,"Gioco di Penalità - AVIDITÀ, l'Illusione dell'Avarizia",desc,"Se il tuo avversario ha aggiunto una o più carte dal Deck alla mano in questo turno, eccetto durante la Draw Phase: infliggi 400 danni al tuo avversario per ogni carta nella sua mano, poi, se il numero totale di carte nella sua mano, sul suo Terreno e nel suo Cimitero è 20 o più, puoi bandire tutta la sua mano.
 Puoi attivare solo 1 ""Gioco di Penalità - AVIDITÀ, l'Illusione dell'Avarizia"" per turno."
@@ -535,119 +542,120 @@ Puoi attivare solo 1 ""Bodhi Cubico"" per turno."
 100272006,Bodhi Cubico,str2,Posizionare un Segnalino
 100272006,Bodhi Cubico,str3,Evocazione tramite Fusione
 100272006,Bodhi Cubico,str4,Mandare la carta al Cimitero?
-101306082,静寂猛虎,name,静寂猛虎
-101306082,静寂猛虎,desc,"这张卡召唤·特殊召唤的场合：可以以对方场上1张魔法·陷阱卡为对象；这张卡从场上离开的场合，那张卡破坏。
-这张卡从手卡·场上被送去墓地的场合：可以从自己场上把1张魔法·陷阱卡送去墓地；这张卡特殊召唤。这个效果特殊召唤的这张卡从场上离开的场合除外。
-「静寂猛虎」的每个效果1回合各能使用1次。"
-101306082,静寂猛虎,str1,Distruggere
-101306082,静寂猛虎,str2,Evocazione Speciale
-101306083,听天投命,name,听天投命
-101306083,听天投命,desc,"自己场上的表侧表示卡被对方的卡的效果破坏的场合：可以进行1只投掷硬币，对里表作猜测。猜中的场合，从自己墓地把1只怪兽特殊召唤。猜错的场合，从自己墓地把1张陷阱卡盖放。
-这张卡被对方的卡的效果破坏的场合：可以从以下效果选择1个发动。
-●从自己墓地把1只怪兽特殊召唤。
-●从自己墓地把1张陷阱卡盖放。
-「听天投命」的每个效果1回合各能使用1次。"
-101306083,听天投命,str1,Attiva
-101306083,听天投命,str2,选择发动
-101306083,听天投命,str3,Evocazione Speciale
-101306083,听天投命,str4,Posiziona una Trappola
-101306084,九色鹿 九面妖,name,九色鹿 九面妖
-101306084,九色鹿 九面妖,desc,"4星光·暗属性怪兽×2只以上
-主要阶段（诱发即时效果）：可以把这张卡1个超量素材取除；取除的素材以外的自己手卡·墓地·除外状态的1张卡作为这张卡的超量素材。「九色鹿 九面妖」的这个效果1回合只能使用1次。
-这张卡根据作为素材中的怪兽种族的种类数量得到以下效果。
-●2种以上：不会被卡的效果破坏。
-●3种以上：自己抽卡阶段的通常抽卡变成2张。"
-101306084,九色鹿 九面妖,str1,Come Materiale Xyz
-101306085,贪玩的呱呱公主,name,贪玩的呱呱公主
-101306085,贪玩的呱呱公主,desc,"场上的魔法·陷阱卡回到手卡的场合（伤害步骤除外）：可以把这张卡从手卡·墓地以表侧表示或者里侧守备表示特殊召唤。这个效果从墓地特殊召唤的这张卡从场上离开的场合除外。
-这张卡在怪兽区域存在的状态，场上的其他卡回到手卡的场合（伤害步骤除外）；可以以自己除外状态的1张通常陷阱卡为对象；那张卡盖放。
-「贪玩的呱呱公主」的每个效果1回合各能使用1次。"
-101306085,贪玩的呱呱公主,str1,Evocazione Speciale
-101306085,贪玩的呱呱公主,str2,Posiziona
-101306086,魔道乌贼 大王,name,魔道乌贼 大王
-101306086,魔道乌贼 大王,desc,"水属性怪兽2只
-可以从自己场上把1张卡送去墓地；自己场上的全部的水属性怪兽的攻击力·守备力在这个回合上升500。
-这张卡在墓地存在的状态，自己场上的水属性连接怪兽被对方的效果破坏的场合（伤害步骤除外）：可以把这张卡除外，以那1只被破坏的怪兽为对象；从自己的手卡·墓地把持有那只怪兽连接标记数量以下等级的1只水属性怪兽特殊召唤。
-「魔道乌贼 大王」的每个效果1回合各能使用1次。"
-101306086,魔道乌贼 大王,str1,Aumenta ATK/DEF
-101306086,魔道乌贼 大王,str2,Evocazione Speciale
-101306087,飞临的蓝锯手,name,飞临的蓝锯手
-101306087,飞临的蓝锯手,desc,"8星以上的暗属性怪兽+战士族怪兽
-这张卡融合召唤的场合：可以把自己墓地·除外状态的1只战士族怪兽，或者对方墓地·除外状态的1只怪兽，当作攻击力·守备力上升500的装备魔法卡使用给这张卡装备。
-对方把魔法·陷阱卡的效果发动时（诱发即时效果）：可以把自己场上1张装备卡送去墓地；那个发动无效。
-「飞临的蓝锯手」的每个效果1回合各能使用1次。"
-101306087,飞临的蓝锯手,str1,Equipaggiare
-101306087,飞临的蓝锯手,str2,Annullare l'attivazione
-101306088,红砷镍半身矿,name,红砷镍半身矿
-101306088,红砷镍半身矿,desc,"这张卡从卡组特殊召唤的场合：可以从卡组把「红砷镍半身矿」以外的1只4星以下的岩石族怪兽加入手卡。
-这张卡作为同调素材被送去墓地的场合：可以（伤害步骤除外）；进行1只岩石族怪兽的召唤。
-「红砷镍半身矿」的每个效果1回合各能使用1次。"
-101306088,红砷镍半身矿,str1,Aggiungere alla mano
-101306088,红砷镍半身矿,str2,Evocare
-101306089,混沌诞生主教,name,混沌诞生主教
-101306089,混沌诞生主教,desc,"自己场上的这张卡作为同调素材的场合，可以把这张卡当作调整以外的怪兽使用。
-这张卡召唤·特殊召唤的场合：从自己的手卡·卡组·墓地把1只「混沌诞生主教」特殊召唤，那只怪兽变成光属性，这个效果的发动后，直到回合结束时自己不是光·暗属性怪兽不能特殊召唤，不是同调怪兽不能从额外卡组特殊召唤。「混沌诞生主教」的这个效果1回合只能使用1次。"
-101306089,混沌诞生主教,str2,Evocazione Speciale
-101306090,城主之具象天使,name,城主之具象天使
-101306090,城主之具象天使,desc,"调整+调整以外的怪兽1只以上
-可以以这张卡相邻纵列1只对方怪兽，或者和这张卡相隔2纵列的对方魔法与陷阱区域1张卡为对象；那张卡除外。
-这张卡当作永续魔法卡被放置在魔法与陷阱区域的场合：可以从卡组把1张「具象天使」卡送去墓地。
-「城主之具象天使」的以上效果1回合各能使用1次。
-这张卡当作永续魔法卡使用中的场合，双方玩家在同一连锁上最多只能发动1次效果。"
-101306090,城主之具象天使,str1,Bandire
-101306090,城主之具象天使,str2,Mandare al Cimitero
-101306091,具象天使的元帅,name,具象天使的元帅
-101306091,具象天使的元帅,desc,"调整+调整以外的怪兽1只以上
-这张卡特殊召唤的场合：发动这个效果；双方玩家可以各从自身额外卡组把1只天使族同调怪兽效果无效特殊召唤，这张卡以及这个效果特殊召唤的怪兽不能作为超量·连接召唤的素材，从场上离开的场合回到额外卡组。
-这张卡成为「具象天使」怪兽的攻击的对象时：那次攻击无效，这张卡的控制权转移给对方。
-「具象天使的元帅」的每个效果1回合各能使用1次。"
-101306091,具象天使的元帅,str1,Attiva
-101306091,具象天使的元帅,str2,Annullare l'attacco
-101306091,具象天使的元帅,str3,L'effetto di {CARD} si sta applicando.
-101306091,具象天使的元帅,str4,Evocazione Speciale?
-101306092,具象天使的战略分值,name,具象天使的战略分值
-101306092,具象天使的战略分值,desc,"从卡组把「具象天使的战略分值」以外的1张「具象天使」魔法·陷阱卡加入手卡，这张卡的发动后，直到回合结束时，自己不是光·暗属性同调怪兽不能从额外卡组特殊召唤。
-可以把这个回合没有送去墓地的这张卡从墓地除外；让自己魔法与陷阱区域的1张原本持有者是自己的「具象天使」怪兽卡回到额外卡组，那之后，可以把那特殊召唤。
-「具象天使的战略分值」的每个效果1回合各能使用1次。"
-101306092,具象天使的战略分值,str1,Aggiungere alla mano
-101306092,具象天使的战略分值,str2,Rimettere nell'Extra Deck
-101306092,具象天使的战略分值,str3,Evocazione Speciale?
-101306093,具象天使的精妙一手,name,具象天使的精妙一手
-101306093,具象天使的精妙一手,desc,"让自己魔法与陷阱区域的1张原本持有者是自己的「具象天使」怪兽卡回到额外卡组，那之后，可以把那特殊召唤。
-可以把自己墓地的这张卡除外，从自己的手卡·场上（表侧表示）把1张「具象天使」卡送去墓地；从自己的额外卡组把1只「具象天使」怪兽特殊召唤。
-「具象天使的精妙一手」的每个效果1回合各能使用1次。"
-101306093,具象天使的精妙一手,str1,Attiva
-101306093,具象天使的精妙一手,str2,Evocazione Speciale
-101306093,具象天使的精妙一手,str3,Evocazione Speciale?
-101306094,具象天使的对峙格位,name,具象天使的对峙格位
-101306094,具象天使的对峙格位,desc,"从额外卡组选同名卡不在自己魔法与陷阱区域存在的2只「具象天使」怪兽，那之内的1只往对方的主要怪兽区域特殊召唤，另1只当作永续魔法卡使用在自己的魔法与陷阱区域以表侧表示放置。
-可以把墓地的这张卡除外；让「具象天使的对峙格位」以外的自己墓地·除外状态最多5张「具象天使」卡回到卡组。
-这张卡发动的回合，自己不是光·暗属性同调怪兽不能从额外卡组特殊召唤。「具象天使的对峙格位」在1回合只能发动1张。"
-101306094,具象天使的对峙格位,str1,Attiva
-101306094,具象天使的对峙格位,str2,Recuperare
-101306095,具象天使的终局之问,name,具象天使的终局之问
-101306095,具象天使的终局之问,desc,"（注：本地暂时无法正常使用）
-
-这张卡根据自己魔法与陷阱区域的「具象天使」怪兽卡的数量得到以下效果。
-●1张以上：1回合1次，对方准备阶段：可以抽1张。
-●2张以上：对方把怪兽特殊召唤之际，使用的区域由自己选择。
-●3张以上：1回合1次， 自己可以把1张「具象天使」陷阱卡在盖放的回合发动。
-●4张以上：1回合1次，对方把怪兽特殊召唤时（伤害步骤除外）；可以把那些怪兽除外。
-●5张：1回合1次：可以从额外卡组把1只「具象天使」怪兽特殊召唤。"
-101306095,具象天使的终局之问,str1,Attiva
-101306095,具象天使的终局之问,str2,Pescare
-101306095,具象天使的终局之问,str4,Attivare applicando l'effetto di {CARD}.
-101306095,具象天使的终局之问,str5,Bandire
-101306095,具象天使的终局之问,str6,Evocazione Speciale
-101306096,具象天使之裁,name,具象天使之裁
-101306096,具象天使之裁,desc,"场上的「具象天使」怪兽卡数量的以下效果适用。
-●1~4：对方场上1张表侧表示卡的效果无效。
-●5张以上：对方场上的卡全部除外。
-可以把墓地的这张卡除外；从自己的手卡·场上（表侧表示）把1张「具象天使」卡送去墓地，那之后，可以从额外卡组把同名卡不在自己魔法与陷阱区域存在的1张「具象天使」怪兽当作永续魔法卡使用在自己的魔法与陷阱区域以表侧表示放置。
-「具象天使之裁」的每个效果1回合各能使用1次。"
-101306096,具象天使之裁,str1,Attiva
-101306096,具象天使之裁,str2,Mandare al Cimitero
-101306096,具象天使之裁,str3,是否放置？
+101306082,Tigressa nella Quiete Silenziosa,name,Tigressa nella Quiete Silenziosa
+101306082,Tigressa nella Quiete Silenziosa,desc,"Se questa carta viene Evocata Normalmente o Specialmente: puoi scegliere come bersaglio 1 Magia/Trappola controllata dal tuo avversario; distruggi quella carta quando questa carta lascia il Terreno.
+Se questa carta viene mandata dalla mano o dal Terreno al Cimitero: puoi mandare 1 Magia/Trappola che controlli al Cimitero; Evoca Specialmente questa carta, ma bandiscila quando lascia il Terreno.
+Puoi utilizzare ciascun effetto di ""Tigressa nella Quiete Silenziosa"" una sola volta per turno."
+101306082,Tigressa nella Quiete Silenziosa,str1,Distruggere
+101306082,Tigressa nella Quiete Silenziosa,str2,Evocazione Speciale
+101306083,Basta Lanciare una Moneta,name,Basta Lanciare una Moneta
+101306083,Basta Lanciare una Moneta,desc,"Se una o più carte scoperte che controlli vengono distrutte dall'effetto di una carta dell'avversario: puoi lanciare una moneta e chiamare testa o croce. Se indovini, Evoca Specialmente 1 mostro dal tuo Cimitero. Se sbagli, Posiziona 1 Trappola dal tuo Cimitero.
+Se questa carta sotto il tuo controllo viene distrutta dall'effetto di una carta dell'avversario: puoi attivare 1 dei seguenti effetti.
+● Evoca Specialmente 1 mostro dal tuo Cimitero.
+● Posiziona 1 Trappola dal tuo Cimitero.
+Puoi utilizzare ciascun effetto di ""Basta Lanciare una Moneta"" una sola volta per turno."
+101306083,Basta Lanciare una Moneta,str1,Attiva
+101306083,Basta Lanciare una Moneta,str2,Seleziona l'attivazione
+101306083,Basta Lanciare una Moneta,str3,Evocazione Speciale
+101306083,Basta Lanciare una Moneta,str4,Posiziona una Trappola
+101306084,"Kumenyo, il Cervo dalle Nove Tonalità",name,"Kumenyo, il Cervo dalle Nove Tonalità"
+101306084,"Kumenyo, il Cervo dalle Nove Tonalità",desc,"2+ mostri LUCE e/o OSCURITÀ di Livello 4
+Durante la Main Phase (Effetto Rapido): puoi staccare 1 materiale da questa carta; attacca a questa carta 1 carta dalla tua mano, Cimitero o dalle tue carte bandite, eccetto il materiale staccato.
+Puoi utilizzare questo effetto di ""Kumenyo, il Cervo dalle Nove Tonalità"" una sola volta per turno.
+Guadagna i seguenti effetti, in base al numero di Tipi di Mostro differenti che le sono attaccati.
+● 2+: Non può essere distrutta dagli effetti delle carte.
+● 3+: Pesca 2 carte invece di 1 per la tua normale pescata durante la tua Draw Phase."
+101306084,"Kumenyo, il Cervo dalle Nove Tonalità",str1,Come Materiale Xyz
+101306085,"Kerolia, Rospa Spensierata",name,"Kerolia, Rospa Spensierata"
+101306085,"Kerolia, Rospa Spensierata",desc,"Se una o più Magie/Trappole sul Terreno vengono fatte ritornare nella mano (eccetto durante il Damage Step): puoi Evocare Specialmente questa carta dal tuo Cimitero (se era lì quando quella carta è stata fatta ritornare) o dalla tua mano (anche se non era lì), in Posizione di Difesa scoperta o coperta, ma se l'hai Evocata dal Cimitero, bandiscila quando lascia il Terreno.
+Se una o più altre carte sul Terreno vengono fatte ritornare nella mano, mentre questa carta è nella Zona Mostri (eccetto durante il Damage Step): puoi scegliere come bersaglio 1 delle tue Trappole Normali bandite; Posizionala.
+Puoi utilizzare ciascun effetto di ""Kerolia, Rospa Spensierata"" una sola volta per turno."
+101306085,"Kerolia, Rospa Spensierata",str1,Evocazione Speciale
+101306085,"Kerolia, Rospa Spensierata",str2,Posiziona
+101306086,"Archidux, lo Stregone Calamaro",name,"Archidux, lo Stregone Calamaro"
+101306086,"Archidux, lo Stregone Calamaro",desc,"2 mostri ACQUA
+Puoi mandare 1 carta che controlli al Cimitero; tutti i mostri ACQUA che controlli guadagnano 500 ATK/DEF fino alla fine di questo turno.
+Se uno o più Mostri Link ACQUA che controlli vengono distrutti dall'effetto di una carta dell'avversario, mentre questa carta è nel tuo Cimitero (eccetto durante il Damage Step): puoi bandire questa carta, poi scegliere come bersaglio 1 di quei mostri distrutti; Evoca Specialmente 1 mostro ACQUA dalla tua mano o Cimitero, con un Livello pari o inferiore alla Classificazione Link di quel mostro.
+Puoi utilizzare ciascun effetto di ""Archidux, lo Stregone Calamaro"" una sola volta per turno."
+101306086,"Archidux, lo Stregone Calamaro",str1,Aumenta ATK/DEF
+101306086,"Archidux, lo Stregone Calamaro",str2,Evocazione Speciale
+101306087,Cularsaw Blu dei Cieli,name,Cularsaw Blu dei Cieli
+101306087,Cularsaw Blu dei Cieli,desc,"1 mostro OSCURITÀ di Livello 8 o superiore + 1 mostro Guerriero
+Se questa carta viene Evocata tramite Fusione: puoi equipaggiare 1 mostro Guerriero dal tuo Cimitero o dalle tue carte bandite, oppure 1 mostro dal Cimitero o dalle carte bandite del tuo avversario, a questa carta come Magia Equipaggiamento che le fa guadagnare 500 ATK/DEF.
+Quando il tuo avversario attiva una Carta Magia/Trappola o un suo effetto (Effetto Rapido): puoi mandare 1 Carta Equipaggiamento che controlli al Cimitero; annulla l'attivazione.
+Puoi utilizzare ciascun effetto di ""Cularsaw Blu dei Cieli"" una sola volta per turno."
+101306087,Cularsaw Blu dei Cieli,str1,Equipaggiare
+101306087,Cularsaw Blu dei Cieli,str2,Annullare l'attivazione
+101306088,Mezza Fetta di Nickelina,name,Mezza Fetta di Nickelina
+101306088,Mezza Fetta di Nickelina,desc,"Se questa carta viene Evocata Specialmente dal Deck: puoi aggiungere 1 mostro Roccia di Livello 4 o inferiore dal tuo Deck alla tua mano, eccetto ""Mezza Fetta di Nickelina"".
+Se questa carta viene mandata al Cimitero come Materiale Synchro, puoi (eccetto durante il Damage Step): subito dopo che questo effetto si è risolto, Evocare Normalmente 1 mostro Roccia.
+Puoi utilizzare ciascun effetto di ""Mezza Fetta di Nickelina"" una sola volta per turno."
+101306088,Mezza Fetta di Nickelina,str1,Aggiungere alla mano
+101306088,Mezza Fetta di Nickelina,str2,Evocare
+101306089,Alfiere Chaospedone,name,Alfiere Chaospedone
+101306089,Alfiere Chaospedone,desc,"Se questa carta che controlli sta per essere utilizzata come Materiale Synchro, puoi considerarla come un mostro non-Tuner.
+Se questa carta viene Evocata Normalmente o Specialmente: puoi Evocare Specialmente 1 ""Alfiere Chaospedone"" dalla tua mano, Deck o Cimitero e, se lo fai, esso diventa LUCE, inoltre, per il resto di questo turno, non puoi Evocare Specialmente, eccetto mostri LUCE o OSCURITÀ, e non puoi Evocare Specialmente dall'Extra Deck, eccetto Mostri Synchro.
+Puoi utilizzare questo effetto di ""Alfiere Chaospedone"" una sola volta per turno."
+101306089,Alfiere Chaospedone,str2,Evocazione Speciale
+101306090,Angelechy Castellano,name,Angelechy Castellano
+101306090,Angelechy Castellano,desc,"1 Tuner + 1+ mostri non-Tuner
+Puoi scegliere come bersaglio 1 mostro dell'avversario nella colonna adiacente a quella di questa carta, oppure 1 carta nella Zona Magie & Trappole del tuo avversario che si trova a 2 colonne di distanza da quella di questa carta; bandisci quella carta.
+Se questa carta viene Posizionata nella Zona Magie & Trappole come Magia Continua: puoi mandare 1 carta ""Angelechy"" dal tuo Deck al Cimitero.
+Puoi utilizzare ciascuno dei precedenti effetti di ""Angelechy Castellano"" una sola volta per turno.
+Mentre questa carta è considerata una Magia Continua, ogni giocatore può attivare solo 1 carta o effetto per Catena."
+101306090,Angelechy Castellano,str1,Bandire
+101306090,Angelechy Castellano,str2,Mandare al Cimitero
+101306091,Angelechy Siniscalco,name,Angelechy Siniscalco
+101306091,Angelechy Siniscalco,desc,"1 Tuner + 1+ mostri non-Tuner
+Se questa carta viene Evocata Specialmente: attiva questo effetto; ogni giocatore può Evocare Specialmente 1 Mostro Synchro Fata dal proprio Extra Deck (ma annulla i suoi effetti), inoltre questa carta e i mostri Evocati Specialmente da questo effetto non possono essere utilizzati come materiale per un'Evocazione Xyz o Link, e falli tornare nell'Extra Deck quando lasciano il Terreno.
+Se un mostro ""Angelechy"" sceglie questa carta come bersaglio per un attacco: annulla quell'attacco e, se lo fai, dai il controllo di questa carta al tuo avversario.
+Puoi utilizzare ciascun effetto di ""Angelechy Siniscalco"" una sola volta per turno."
+101306091,Angelechy Siniscalco,str1,Attiva
+101306091,Angelechy Siniscalco,str2,Annullare l'attacco
+101306091,Angelechy Siniscalco,str3,"L'effetto di ""Angelechy Siniscalco"" si sta applicando."
+101306091,Angelechy Siniscalco,str4,Evocazione Speciale?
+101306092,Mossa Brillante Angelechy,name,Mossa Brillante Angelechy
+101306092,Mossa Brillante Angelechy,desc,"Fai ritornare 1 Carta Mostro ""Angelechy"" di tua proprietà dalla tua Zona Magie & Trappole nell'Extra Deck, poi puoi Evocarla Specialmente.
+Puoi bandire questa carta dal tuo Cimitero, poi manda 1 carta ""Angelechy"" dalla tua mano o dal tuo Terreno scoperta al Cimitero; Evoca Specialmente 1 mostro ""Angelechy"" dal tuo Extra Deck.
+Puoi utilizzare ciascun effetto di ""Mossa Brillante Angelechy"" una sola volta per turno."
+101306092,Mossa Brillante Angelechy,str1,Aggiungere alla mano
+101306092,Mossa Brillante Angelechy,str2,Rimettere nell'Extra Deck
+101306092,Mossa Brillante Angelechy,str3,Evocazione Speciale?
+101306093,Mossa Strategica Angelechy,name,Mossa Strategica Angelechy
+101306093,Mossa Strategica Angelechy,desc,"Aggiungi 1 Magia/Trappola ""Angelechy"" dal tuo Deck alla tua mano, eccetto ""Mossa Strategica Angelechy"", inoltre, per il resto di questo turno dopo che questa carta si è risolta, non puoi Evocare Specialmente dall'Extra Deck, eccetto Mostri Synchro LUCE o OSCURITÀ.
+Se questa carta è nel tuo Cimitero, eccetto nel turno in cui è stata mandata lì: puoi bandirla; fai ritornare 1 Carta Mostro ""Angelechy"" di tua proprietà dalla tua Zona Magie & Trappole nell'Extra Deck, poi puoi Evocarla Specialmente.
+Puoi utilizzare ciascun effetto di ""Mossa Strategica Angelechy"" una sola volta per turno."
+101306093,Mossa Strategica Angelechy,str1,Attiva
+101306093,Mossa Strategica Angelechy,str2,Evocazione Speciale
+101306093,Mossa Strategica Angelechy,str3,Evocazione Speciale?
+101306094,Opposizione Angelechy,name,Opposizione Angelechy
+101306094,Opposizione Angelechy,desc,"Scegli 2 mostri ""Angelechy"" nel tuo Extra Deck, con nomi diversi dalle carte nella tua Zona Magie & Trappole, Evoca Specialmente 1 di essi nella Zona Mostri Main del tuo avversario e metti l'altro nella tua Zona Magie & Trappole come Magia Continua scoperta.
+Puoi bandire questa carta dal tuo Cimitero; fai ritornare nel Deck fino a 5 carte ""Angelechy"" dal tuo Cimitero e/o dalle tue carte bandite, eccetto ""Opposizione Angelechy"".
+Non puoi Evocare Specialmente dall'Extra Deck nel turno in cui attivi questa carta, eccetto Mostri Synchro LUCE o OSCURITÀ.
+Puoi attivare solo 1 ""Opposizione Angelechy"" per turno."
+101306094,Opposizione Angelechy,str1,Attiva
+101306094,Opposizione Angelechy,str2,Recuperare
+101306095,Problema della Fase Finale Angelechy,name,Problema della Fase Finale Angelechy
+101306095,Problema della Fase Finale Angelechy,desc,"Questa carta guadagna i seguenti effetti, in base al numero di Carte Mostro ""Angelechy"" nella tua Zona Magie & Trappole.
+● 1+: Una volta per turno, durante la Standby Phase del tuo avversario: puoi pescare 1 carta.
+● 2+: Quando il tuo avversario sta per Evocare Specialmente uno o più mostri, scegli tu le Zone in cui posizionarli.
+● 3+: Una volta per turno, puoi attivare 1 Carta Trappola ""Angelechy"" nel turno in cui è stata Posizionata.
+● 4+: Una volta per turno, quando il tuo avversario Evoca Specialmente uno o più mostri (eccetto durante il Damage Step): puoi bandire quel mostro o quei mostri.
+● 5: Una volta per turno: puoi Evocare Specialmente 1 mostro ""Angelechy"" dal tuo Extra Deck."
+101306095,Problema della Fase Finale Angelechy,str1,Attiva
+101306095,Problema della Fase Finale Angelechy,str2,Pescare
+101306095,Problema della Fase Finale Angelechy,str4,"Attivare applicando l'effetto di ""Problema della Fase Finale Angelechy""."
+101306095,Problema della Fase Finale Angelechy,str5,Bandire
+101306095,Problema della Fase Finale Angelechy,str6,Evocazione Speciale
+101306096,Verdetto Angelechy,name,Verdetto Angelechy
+101306096,Verdetto Angelechy,desc,"Applica questo effetto in base al numero di Carte Mostro ""Angelechy"" sul Terreno.
+● Da 1 a 4: annulla gli effetti di 1 carta scoperta controllata dal tuo avversario.
+● 5+: bandisci tutte le carte controllate dal tuo avversario.
+Puoi bandire questa carta dal tuo Cimitero; manda 1 carta ""Angelechy"" dalla tua mano o dal tuo Terreno scoperta al Cimitero, poi puoi mettere 1 mostro ""Angelechy"" con un nome diverso dalle carte nella tua Zona Magie & Trappole, dal tuo Extra Deck nella tua Zona Magie & Trappole come Magia Continua scoperta.
+Puoi utilizzare ciascun effetto di ""Verdetto Angelechy"" una sola volta per turno."
+101306096,Verdetto Angelechy,str1,Attiva
+101306096,Verdetto Angelechy,str2,Mandare al Cimitero
+101306096,Verdetto Angelechy,str3,Posizionarla?
 101306281,"Audhumla, Progenitrice dell'Estensione Ghiacciata",name,"Audhumla, Progenitrice dell'Estensione Ghiacciata"
 101306281,"Audhumla, Progenitrice dell'Estensione Ghiacciata",desc,"Se ci sono 4 o più carte sul Terreno: puoi Evocare Specialmente questa carta dalla tua mano.
 Puoi mandare al Cimitero fino a 2 Magie/Trappole che controlli; pesca un numero di carte pari a quelle mandate, poi puoi Evocare Specialmente 1 mostro ACQUA dalla tua mano.
@@ -874,6 +882,13 @@ Puoi utilizzare ogni effetto di ""Gearblade Salamagna"" una sola volta per turno
 101307063,Gearblade Salamagna,str1,Attiva
 101307063,Gearblade Salamagna,str2,Aumentare ATK
 101307063,Gearblade Salamagna,str3,Rimettere in mano
+101307071,Autunno,name,Autunno
+101307071,Autunno,desc,"Il nome di questa carta diventa ""Estate"" mentre è nella Zona Terreno.
+Una volta per turno: puoi mettere su questa carta un numero di Segnalini Stagione pari al numero di carte nella mano del tuo avversario.
+All'inizio della Battle Phase: puoi prendere 1 Magia Terreno dalla tua mano, Deck o Cimitero su cui puoi mettere un Segnalino Stagione, eccetto ""Autunno"", e Posizionarla scoperta sul tuo Terreno e, se lo fai, metti tutti i Segnalini Stagione su questa carta su quella carta.
+Se una o più carte nella Zona Terreno stanno per essere distrutte dall'effetto di una carta, puoi invece bandire questa carta dal tuo Cimitero."
+101307071,Autunno,str2,Posizionare un Segnalino
+101307071,Autunno,str3,Posizionare nella Zona Terreno
 101307072,Dominio della Divinità del Sole,name,Dominio della Divinità del Sole
 101307072,Dominio della Divinità del Sole,desc,"Se un mostro ""Drago Alato di Ra"" è sul Terreno: applica i seguenti effetti in ordine.
 ● Evoca Specialmente 1 mostro da ogni Cimitero sul tuo Terreno.
