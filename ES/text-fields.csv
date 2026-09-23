@@ -310,6 +310,13 @@ Sólo puedes usar este efecto de ""Evangelio de la Fisura de los Tres Reinos"" u
 Una vez durante el cálculo de daño, cuando tu monstruo ""Fisura de los Tres Reinos"" batalla con un monstruo del adversario mientras tienes 0 cartas en tu Deck: puedes cambiar el ATK de ese monstruo del adversario a 0."
 100267041,Juicio de la Fisura de los Tres Reinos,str1,Recuperar
 100267041,Juicio de la Fisura de los Tres Reinos,str2,El ATK se convierte en 0
+100268001,业火的魔神 艾克佐迪亚,name,业火的魔神 艾克佐迪亚
+100268001,业火的魔神 艾克佐迪亚,desc,"①：自己回合把这张卡抽到时，把这张卡给对方出示才能发动。这张卡特殊召唤。
+②：这张卡在自己回合特殊召唤的场合才能发动。这个回合，双方不能把「业火的魔神 艾克佐迪亚」以外的卡的效果发动，自己不能把怪兽召唤·特殊召唤。
+③：这张卡进行战斗的伤害步骤开始时才能发动。对方场上的怪兽全部破坏，给予对方那些原本攻击力合计数值的伤害。"
+100268001,业火的魔神 艾克佐迪亚,str1,Invocación Especial
+100268001,业火的魔神 艾克佐迪亚,str2,Efecto de bloqueo
+100268001,业火的魔神 艾克佐迪亚,str3,Efecto de destrucción
 100268002,Eclosión Perfecta - Polilla Definitiva Perfecta,name,Eclosión Perfecta - Polilla Definitiva Perfecta
 100268002,Eclosión Perfecta - Polilla Definitiva Perfecta,desc,"No puede ser Invocada de Modo Normal/Colocada. Debe ser Invocada de Modo Especial (desde tu mano) teniendo 6 o más monstruos Insecto en tu Cementerio. Sólo puedes Invocar de Modo Especial ""Eclosión Perfecta - Polilla Definitiva Perfecta"" una vez por turno de esta forma. 
 Si esta carta es Invocada de Modo Especial: puedes devolver a la mano tantas cartas que controle tu adversario como sea posible, y después si tienes un Monstruo Normal en tu Cementerio, esta carta gana 300 ATK por cada monstruo Insecto en tu Cementerio. 
@@ -556,6 +563,119 @@ Sólo puedes activar 1 ""Bodhi Cúbico"" por turno."
 100272006,Bodhi Cúbico,str2,Colocar un contador
 100272006,Bodhi Cúbico,str3,Invocación por Fusión
 100272006,Bodhi Cúbico,str4,¿Enviar la carta al Cementerio?
+101306082,静寂猛虎,name,静寂猛虎
+101306082,静寂猛虎,desc,"这张卡召唤·特殊召唤的场合：可以以对方场上1张魔法·陷阱卡为对象；这张卡从场上离开的场合，那张卡破坏。
+这张卡从手卡·场上被送去墓地的场合：可以从自己场上把1张魔法·陷阱卡送去墓地；这张卡特殊召唤。这个效果特殊召唤的这张卡从场上离开的场合除外。
+「静寂猛虎」的每个效果1回合各能使用1次。"
+101306082,静寂猛虎,str1,Destruir
+101306082,静寂猛虎,str2,Invocación Especial
+101306083,听天投命,name,听天投命
+101306083,听天投命,desc,"自己场上的表侧表示卡被对方的卡的效果破坏的场合：可以进行1只投掷硬币，对里表作猜测。猜中的场合，从自己墓地把1只怪兽特殊召唤。猜错的场合，从自己墓地把1张陷阱卡盖放。
+这张卡被对方的卡的效果破坏的场合：可以从以下效果选择1个发动。
+●从自己墓地把1只怪兽特殊召唤。
+●从自己墓地把1张陷阱卡盖放。
+「听天投命」的每个效果1回合各能使用1次。"
+101306083,听天投命,str1,Activar
+101306083,听天投命,str2,选择发动
+101306083,听天投命,str3,Invocación Especial
+101306083,听天投命,str4,Colocar una Trampa
+101306084,九色鹿 九面妖,name,九色鹿 九面妖
+101306084,九色鹿 九面妖,desc,"4星光·暗属性怪兽×2只以上
+主要阶段（诱发即时效果）：可以把这张卡1个超量素材取除；取除的素材以外的自己手卡·墓地·除外状态的1张卡作为这张卡的超量素材。「九色鹿 九面妖」的这个效果1回合只能使用1次。
+这张卡根据作为素材中的怪兽种族的种类数量得到以下效果。
+●2种以上：不会被卡的效果破坏。
+●3种以上：自己抽卡阶段的通常抽卡变成2张。"
+101306084,九色鹿 九面妖,str1,Como Material Xyz
+101306085,贪玩的呱呱公主,name,贪玩的呱呱公主
+101306085,贪玩的呱呱公主,desc,"场上的魔法·陷阱卡回到手卡的场合（伤害步骤除外）：可以把这张卡从手卡·墓地以表侧表示或者里侧守备表示特殊召唤。这个效果从墓地特殊召唤的这张卡从场上离开的场合除外。
+这张卡在怪兽区域存在的状态，场上的其他卡回到手卡的场合（伤害步骤除外）；可以以自己除外状态的1张通常陷阱卡为对象；那张卡盖放。
+「贪玩的呱呱公主」的每个效果1回合各能使用1次。"
+101306085,贪玩的呱呱公主,str1,Invocación Especial
+101306085,贪玩的呱呱公主,str2,Colocar
+101306086,魔道乌贼 大王,name,魔道乌贼 大王
+101306086,魔道乌贼 大王,desc,"水属性怪兽2只
+可以从自己场上把1张卡送去墓地；自己场上的全部的水属性怪兽的攻击力·守备力在这个回合上升500。
+这张卡在墓地存在的状态，自己场上的水属性连接怪兽被对方的效果破坏的场合（伤害步骤除外）：可以把这张卡除外，以那1只被破坏的怪兽为对象；从自己的手卡·墓地把持有那只怪兽连接标记数量以下等级的1只水属性怪兽特殊召唤。
+「魔道乌贼 大王」的每个效果1回合各能使用1次。"
+101306086,魔道乌贼 大王,str1,Aumentar ATK/DEF
+101306086,魔道乌贼 大王,str2,Invocación Especial
+101306087,飞临的蓝锯手,name,飞临的蓝锯手
+101306087,飞临的蓝锯手,desc,"8星以上的暗属性怪兽+战士族怪兽
+这张卡融合召唤的场合：可以把自己墓地·除外状态的1只战士族怪兽，或者对方墓地·除外状态的1只怪兽，当作攻击力·守备力上升500的装备魔法卡使用给这张卡装备。
+对方把魔法·陷阱卡的效果发动时（诱发即时效果）：可以把自己场上1张装备卡送去墓地；那个发动无效。
+「飞临的蓝锯手」的每个效果1回合各能使用1次。"
+101306087,飞临的蓝锯手,str1,Equipar
+101306087,飞临的蓝锯手,str2,Negar la activación
+101306088,红砷镍半身矿,name,红砷镍半身矿
+101306088,红砷镍半身矿,desc,"这张卡从卡组特殊召唤的场合：可以从卡组把「红砷镍半身矿」以外的1只4星以下的岩石族怪兽加入手卡。
+这张卡作为同调素材被送去墓地的场合：可以（伤害步骤除外）；进行1只岩石族怪兽的召唤。
+「红砷镍半身矿」的每个效果1回合各能使用1次。"
+101306088,红砷镍半身矿,str1,Añadir a la mano
+101306088,红砷镍半身矿,str2,Invocar
+101306089,混沌诞生主教,name,混沌诞生主教
+101306089,混沌诞生主教,desc,"自己场上的这张卡作为同调素材的场合，可以把这张卡当作调整以外的怪兽使用。
+这张卡召唤·特殊召唤的场合：从自己的手卡·卡组·墓地把1只「混沌诞生主教」特殊召唤，那只怪兽变成光属性，这个效果的发动后，直到回合结束时自己不是光·暗属性怪兽不能特殊召唤，不是同调怪兽不能从额外卡组特殊召唤。「混沌诞生主教」的这个效果1回合只能使用1次。"
+101306089,混沌诞生主教,str2,Invocación Especial
+101306090,城主之具象天使,name,城主之具象天使
+101306090,城主之具象天使,desc,"调整+调整以外的怪兽1只以上
+可以以这张卡相邻纵列1只对方怪兽，或者和这张卡相隔2纵列的对方魔法与陷阱区域1张卡为对象；那张卡除外。
+这张卡当作永续魔法卡被放置在魔法与陷阱区域的场合：可以从卡组把1张「具象天使」卡送去墓地。
+「城主之具象天使」的以上效果1回合各能使用1次。
+这张卡当作永续魔法卡使用中的场合，双方玩家在同一连锁上最多只能发动1次效果。"
+101306090,城主之具象天使,str1,Desterrar
+101306090,城主之具象天使,str2,Enviar al Cementerio
+101306091,具象天使的元帅,name,具象天使的元帅
+101306091,具象天使的元帅,desc,"调整+调整以外的怪兽1只以上
+这张卡特殊召唤的场合：发动这个效果；双方玩家可以各从自身额外卡组把1只天使族同调怪兽效果无效特殊召唤，这张卡以及这个效果特殊召唤的怪兽不能作为超量·连接召唤的素材，从场上离开的场合回到额外卡组。
+这张卡成为「具象天使」怪兽的攻击的对象时：那次攻击无效，这张卡的控制权转移给对方。
+「具象天使的元帅」的每个效果1回合各能使用1次。"
+101306091,具象天使的元帅,str1,Activar
+101306091,具象天使的元帅,str2,Negar el ataque
+101306091,具象天使的元帅,str3,El efecto de {CARD} se está aplicando.
+101306091,具象天使的元帅,str4,Invocación Especial?
+101306092,具象天使的战略分值,name,具象天使的战略分值
+101306092,具象天使的战略分值,desc,"从卡组把「具象天使的战略分值」以外的1张「具象天使」魔法·陷阱卡加入手卡，这张卡的发动后，直到回合结束时，自己不是光·暗属性同调怪兽不能从额外卡组特殊召唤。
+可以把这个回合没有送去墓地的这张卡从墓地除外；让自己魔法与陷阱区域的1张原本持有者是自己的「具象天使」怪兽卡回到额外卡组，那之后，可以把那特殊召唤。
+「具象天使的战略分值」的每个效果1回合各能使用1次。"
+101306092,具象天使的战略分值,str1,Añadir a la mano
+101306092,具象天使的战略分值,str2,Devolver al Deck Extra
+101306092,具象天使的战略分值,str3,Invocación Especial?
+101306093,具象天使的精妙一手,name,具象天使的精妙一手
+101306093,具象天使的精妙一手,desc,"让自己魔法与陷阱区域的1张原本持有者是自己的「具象天使」怪兽卡回到额外卡组，那之后，可以把那特殊召唤。
+可以把自己墓地的这张卡除外，从自己的手卡·场上（表侧表示）把1张「具象天使」卡送去墓地；从自己的额外卡组把1只「具象天使」怪兽特殊召唤。
+「具象天使的精妙一手」的每个效果1回合各能使用1次。"
+101306093,具象天使的精妙一手,str1,Activar
+101306093,具象天使的精妙一手,str2,Invocación Especial
+101306093,具象天使的精妙一手,str3,Invocación Especial?
+101306094,具象天使的对峙格位,name,具象天使的对峙格位
+101306094,具象天使的对峙格位,desc,"从额外卡组选同名卡不在自己魔法与陷阱区域存在的2只「具象天使」怪兽，那之内的1只往对方的主要怪兽区域特殊召唤，另1只当作永续魔法卡使用在自己的魔法与陷阱区域以表侧表示放置。
+可以把墓地的这张卡除外；让「具象天使的对峙格位」以外的自己墓地·除外状态最多5张「具象天使」卡回到卡组。
+这张卡发动的回合，自己不是光·暗属性同调怪兽不能从额外卡组特殊召唤。「具象天使的对峙格位」在1回合只能发动1张。"
+101306094,具象天使的对峙格位,str1,Activar
+101306094,具象天使的对峙格位,str2,Recuperar
+101306095,具象天使的终局之问,name,具象天使的终局之问
+101306095,具象天使的终局之问,desc,"（注：本地暂时无法正常使用）
+
+这张卡根据自己魔法与陷阱区域的「具象天使」怪兽卡的数量得到以下效果。
+●1张以上：1回合1次，对方准备阶段：可以抽1张。
+●2张以上：对方把怪兽特殊召唤之际，使用的区域由自己选择。
+●3张以上：1回合1次， 自己可以把1张「具象天使」陷阱卡在盖放的回合发动。
+●4张以上：1回合1次，对方把怪兽特殊召唤时（伤害步骤除外）；可以把那些怪兽除外。
+●5张：1回合1次：可以从额外卡组把1只「具象天使」怪兽特殊召唤。"
+101306095,具象天使的终局之问,str1,Activar
+101306095,具象天使的终局之问,str2,Robar
+101306095,具象天使的终局之问,str4,Activar aplicando el efecto de {CARD}.
+101306095,具象天使的终局之问,str5,Desterrar
+101306095,具象天使的终局之问,str6,Invocación Especial
+101306096,具象天使之裁,name,具象天使之裁
+101306096,具象天使之裁,desc,"场上的「具象天使」怪兽卡数量的以下效果适用。
+●1~4：对方场上1张表侧表示卡的效果无效。
+●5张以上：对方场上的卡全部除外。
+可以把墓地的这张卡除外；从自己的手卡·场上（表侧表示）把1张「具象天使」卡送去墓地，那之后，可以从额外卡组把同名卡不在自己魔法与陷阱区域存在的1张「具象天使」怪兽当作永续魔法卡使用在自己的魔法与陷阱区域以表侧表示放置。
+「具象天使之裁」的每个效果1回合各能使用1次。"
+101306096,具象天使之裁,str1,Activar
+101306096,具象天使之裁,str2,Enviar al Cementerio
+101306096,具象天使之裁,str3,是否放置？
 101306281,"Audhumla, Progenitor de la Extensión Helada",name,"Audhumla, Progenitor de la Extensión Helada"
 101306281,"Audhumla, Progenitor de la Extensión Helada",desc,"Si hay 4 o más cartas en el Campo: puedes Invocar esta carta de Modo Especial desde tu mano. 
 Puedes mandar al Cementerio hasta 2 Mágicas/Trampas que controles; roba esa misma cantidad de cartas, y después puedes Invocar de Modo Especial 1 monstruo de AGUA desde tu mano. 
