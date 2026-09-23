@@ -34767,6 +34767,36 @@ def build_translation_pack(lang: str):
             "ja": "相手は捨ててドローする",
             "kr": "상대는 버리고 드로우한다",
         },
+        "选择抽卡张数": {
+            "en": "Select the number of cards to draw",
+            "fr": "Sélectionnez le nombre de cartes à piocher",
+            "de": "Anzahl der zu ziehenden Karten wählen",
+            "es": "Selecciona el número de cartas a robar",
+            "pt": "Selecione o número de cards a comprar",
+            "it": "Seleziona il numero di carte da pescare",
+            "ja": "ドローする枚数を選択",
+            "kr": "드로우할 매수를 선택"
+        },
+        "选择发动": {
+            "en": "Select activation",
+            "fr": "Sélectionner l'activation",
+            "de": "Aktivierung wählen",
+            "es": "Seleccionar activación",
+            "pt": "Selecionar ativação",
+            "it": "Seleziona l'attivazione",
+            "ja": "発動を選択",
+            "kr": "발동을 선택"
+        },
+        "是否放置？": {
+            "en": "Place it?",
+            "fr": "Le placer ?",
+            "de": "Platzieren?",
+            "es": "¿Colocarlo?",
+            "pt": "Colocar?",
+            "it": "Posizionarla?",
+            "ja": "置きますか？",
+            "kr": "놓으시겠습니까?"
+        },
 
     }
     for cn, out in extras.items():
