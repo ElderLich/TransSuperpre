@@ -1,97 +1,109 @@
 [
   {
-    "name": "城主之具象天使",
-    "desc": "调整+调整以外的怪兽1只以上\r\n可以以这张卡相邻纵列1只对方怪兽，或者和这张卡相隔2纵列的对方魔法与陷阱区域1张卡为对象；那张卡除外。\r\n这张卡当作永续魔法卡被放置在魔法与陷阱区域的场合：可以从卡组把1张「具象天使」卡送去墓地。\r\n「城主之具象天使」的以上效果1回合各能使用1次。\r\n这张卡当作永续魔法卡使用中的场合，双方玩家在同一连锁上最多只能发动1次效果。",
+    "name": "Mago Silencioso, el Luchador Silencioso",
+    "desc": "No puede ser Invocado de Modo Normal/Colocado. \r\nDebe ser Invocado de Modo Especial (desde tu mano) Sacrificando 1 monstruo de Nivel 7 o menor (Lanzador de Conjuros o Guerrero). \r\nSólo puedes Invocar de Modo Especial \"Mago Silencioso, el Luchador Silencioso\" una vez por turno de esta forma. \r\nLa primera vez que esta carta fuera a ser destruida en batalla o por efecto de carta cada turno, no es destruida. \r\nDos veces por turno, cada vez que tu adversario roba una o más cartas: puedes robar 1 carta, o si tu adversario robó por el efecto de su propia carta, puedes robar esa misma cantidad de cartas en su lugar.  \r\nNiega todas las Cartas Mágicas y efectos activados de tu adversario mientras tengas 6 o más cartas en tu mano",
+    "overallString": "[Monstruo|Efecto|Invocación Especial] Lanzador de Conjuros/LUZ  [★8] 3500/1000",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268010.jpg?version=19.7"
+  },
+  {
+    "name": "Otoño",
+    "desc": "(El nombre de esta carta se convierte en \"Verano\" mientras está en la Zona del Campo).\t\r\nUna vez por turno: puedes poner Contadores de Estación en esta carta igual al número de cartas en la mano de tu adversario. \r\nAl comienzo de la Battle Phase: puedes tomar 1 Mágica de Campo en la que puedas poner un Contador de Estación desde tu mano, Deck o Cementerio, excepto \"Otoño\", y colocarla boca arriba en tu Campo y, si lo haces, pon todos los Contadores de Estación de esta carta en esa carta.  \r\nSi una carta en una Zona del Campo fuera a ser destruida por efecto de carta, puedes desterrar esta carta en tu Cementerio en su lugar.",
+    "overallString": "[Mágica|Campo]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101307071.jpg?version=19.7"
+  },
+  {
+    "name": "Castellano Angelechy",
+    "desc": "1 Cantante + 1+ monstruos que no sean Cantantes\t\t\r\nPuedes seleccionar 1 monstruo del adversario en la columna adyacente a esta carta, o 1 carta en la Zona de Mágicas y Trampas de tu adversario que esté a 2 columnas de esta carta; destierra esa carta.  \r\nSi esta carta es colocada en la Zona de Mágicas y Trampas como una Mágica Continua: puedes mandar al Cementerio 1 carta \"Angelechy\" desde tu Deck.  \r\nMientras esta carta es tratada como una Mágica Continua, cada jugador sólo puede activar 1 carta o efecto por Cadena. \r\nSólo puedes usar cada uno de los efectos de \"Castellano Angelechy\" una vez por turno.",
     "overallString": "[Monstruo|Efecto|Sincronía] Hada/LUZ  [★7] 2000/2500",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306090.jpg?version=19.7"
   },
   {
-    "name": "具象天使的元帅",
-    "desc": "调整+调整以外的怪兽1只以上\r\n这张卡特殊召唤的场合：发动这个效果；双方玩家可以各从自身额外卡组把1只天使族同调怪兽效果无效特殊召唤，这张卡以及这个效果特殊召唤的怪兽不能作为超量·连接召唤的素材，从场上离开的场合回到额外卡组。\r\n这张卡成为「具象天使」怪兽的攻击的对象时：那次攻击无效，这张卡的控制权转移给对方。\r\n「具象天使的元帅」的每个效果1回合各能使用1次。",
+    "name": "Senescal Angelechy",
+    "desc": "1 Cantante + 1+ monstruos que no sean Cantantes\t\t\r\nSi esta carta es Invocada de Modo Especial: activa este efecto; cada jugador puede Invocar de Modo Especial 1 Monstruo de Sincronía Hada desde su Deck Extra (pero niega sus efectos), y además esta carta, y los monstruos Invocados de Modo Especial por este efecto, no pueden ser usados como material para una Invocación Xyz o Enlace, y se devuelven al Deck Extra cuando dejan el Campo. \r\nSi un monstruo \"Angelechy\" selecciona esta carta para un ataque: niega ese ataque y, si lo haces, da el control de esta carta a tu adversario. \r\nSólo puedes usar cada efecto de \"Senescal Angelechy\" una vez por turno.\r\n",
     "overallString": "[Monstruo|Efecto|Sincronía] Hada/OSCURIDAD  [★10] 3000/0",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306091.jpg?version=19.7"
   },
   {
-    "name": "具象天使的战略分值",
-    "desc": "从卡组把「具象天使的战略分值」以外的1张「具象天使」魔法·陷阱卡加入手卡，这张卡的发动后，直到回合结束时，自己不是光·暗属性同调怪兽不能从额外卡组特殊召唤。\r\n可以把这个回合没有送去墓地的这张卡从墓地除外；让自己魔法与陷阱区域的1张原本持有者是自己的「具象天使」怪兽卡回到额外卡组，那之后，可以把那特殊召唤。\r\n「具象天使的战略分值」的每个效果1回合各能使用1次。",
+    "name": "Puntuación de Estrategia Angelechy",
+    "desc": "Añade a tu mano 1 Mágica/Trampa \"Angelechy\" desde tu Deck, excepto \"Puntuación de Estrategia Angelechy\", y además por el resto de este turno después de que esta carta se resuelva, no puedes Invocar de Modo Especial desde el Deck Extra, excepto Monstruos de Sincronía de LUZ u OSCURIDAD.  \r\nSi esta carta está en tu Cementerio, excepto en el turno en que fue mandada allí: puedes desterrarla; devuelve 1 Carta de Monstruo \"Angelechy\" que poseas desde tu Zona de Mágicas y Trampas al Deck Extra, y después puedes Invocarla de Modo Especial. \r\nSólo puedes usar cada efecto de \"Puntuación de Estrategia Angelechy\" una vez por turno.\r\n",
     "overallString": "[Mágica]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306092.jpg?version=19.7"
   },
   {
-    "name": "具象天使的精妙一手",
-    "desc": "让自己魔法与陷阱区域的1张原本持有者是自己的「具象天使」怪兽卡回到额外卡组，那之后，可以把那特殊召唤。\r\n可以把自己墓地的这张卡除外，从自己的手卡·场上（表侧表示）把1张「具象天使」卡送去墓地；从自己的额外卡组把1只「具象天使」怪兽特殊召唤。\r\n「具象天使的精妙一手」的每个效果1回合各能使用1次。",
+    "name": "Movimiento Brillante Angelechy",
+    "desc": "Devuelve 1 Carta de Monstruo \"Angelechy\" que poseas desde tu Zona de Mágicas y Trampas al Deck Extra, y después puedes Invocarla de Modo Especial.  \r\nPuedes desterrar esta carta en tu Cementerio, y después mandar al Cementerio 1 carta \"Angelechy\" desde tu mano o Campo boca arriba; Invoca de Modo Especial 1 monstruo \"Angelechy\" desde tu Deck Extra. \r\nSólo puedes usar cada efecto de \"Movimiento Brillante Angelechy\" una vez por turno.",
     "overallString": "[Mágica]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306093.jpg?version=19.7"
   },
   {
-    "name": "具象天使的对峙格位",
-    "desc": "从额外卡组选同名卡不在自己魔法与陷阱区域存在的2只「具象天使」怪兽，那之内的1只往对方的主要怪兽区域特殊召唤，另1只当作永续魔法卡使用在自己的魔法与陷阱区域以表侧表示放置。\r\n可以把墓地的这张卡除外；让「具象天使的对峙格位」以外的自己墓地·除外状态最多5张「具象天使」卡回到卡组。\r\n这张卡发动的回合，自己不是光·暗属性同调怪兽不能从额外卡组特殊召唤。「具象天使的对峙格位」在1回合只能发动1张。",
+    "name": "Oposición Angelechy",
+    "desc": "Elige 2 monstruos \"Angelechy\" en tu Deck Extra, con nombres diferentes al de las cartas en tu Zona de Mágicas y Trampas, Invoca de Modo Especial 1 de ellos en la Zona de Monstruos Principal de tu adversario, y coloca el otro en tu Zona de Mágicas y Trampas como una Mágica Continua boca arriba.  \r\nPuedes desterrar esta carta en tu Cementerio; baraja al Deck hasta 5 cartas \"Angelechy\" desde tu Cementerio y/o destierro, excepto \"Oposición Angelechy\".  \r\nNo puedes Invocar de Modo Especial desde el Deck Extra el turno en que activas esta carta, excepto Monstruos de Sincronía de LUZ u OSCURIDAD. \r\nSólo puedes activar 1 \"Oposición Angelechy\" por turno.\r\n",
     "overallString": "[Mágica]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306094.jpg?version=19.7"
   },
   {
-    "name": "具象天使的终局之问",
-    "desc": "（注：本地暂时无法正常使用）\r\n\r\n这张卡根据自己魔法与陷阱区域的「具象天使」怪兽卡的数量得到以下效果。\r\n●1张以上：1回合1次，对方准备阶段：可以抽1张。\r\n●2张以上：对方把怪兽特殊召唤之际，使用的区域由自己选择。\r\n●3张以上：1回合1次， 自己可以把1张「具象天使」陷阱卡在盖放的回合发动。\r\n●4张以上：1回合1次，对方把怪兽特殊召唤时（伤害步骤除外）；可以把那些怪兽除外。\r\n●5张：1回合1次：可以从额外卡组把1只「具象天使」怪兽特殊召唤。",
+    "name": "Problema de Fin de Partida Angelechy",
+    "desc": "Esta carta gana los siguientes efectos, basados en el número de Cartas de Monstruo \"Angelechy\" en tu Zona de Mágicas y Trampas;\r\n● 1+: Una vez por turno, durante la Standby Phase de tu adversario: puedes robar 1 carta.\r\n● 2+: Cuando tu adversario fuera a Invocar de Modo Especial uno o más monstruos, tú eliges la(s) zona(s) para colocarlos.\r\n● 3+: Una vez por turno, puedes activar 1 Carta de Trampa \"Angelechy\" en el turno en que fue Colocada.\r\n● 4+: Una vez por turno, cuando tu adversario Invoca de Modo Especial uno o más monstruos (excepto durante el Damage Step): puedes desterrar ese o esos monstruos.\r\n● 5: Una vez por turno: puedes Invocar de Modo Especial 1 monstruo \"Angelechy\" desde tu Deck Extra.",
     "overallString": "[Mágica|Campo]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306095.jpg?version=19.7"
   },
   {
-    "name": "具象天使之裁",
-    "desc": "场上的「具象天使」怪兽卡数量的以下效果适用。\r\n●1~4：对方场上1张表侧表示卡的效果无效。\r\n●5张以上：对方场上的卡全部除外。\r\n可以把墓地的这张卡除外；从自己的手卡·场上（表侧表示）把1张「具象天使」卡送去墓地，那之后，可以从额外卡组把同名卡不在自己魔法与陷阱区域存在的1张「具象天使」怪兽当作永续魔法卡使用在自己的魔法与陷阱区域以表侧表示放置。\r\n「具象天使之裁」的每个效果1回合各能使用1次。",
+    "name": "Veredicto Angelechy",
+    "desc": "Aplica este efecto basado en el número de Cartas de Monstruo \"Angelechy\" en el Campo;\r\n● 1 a 4: Niega los efectos de 1 carta boca arriba que controle tu adversario.\r\n● 5+: Destierra todas las cartas que controle tu adversario.\t\r\nPuedes desterrar esta carta en tu Cementerio; manda al Cementerio 1 carta \"Angelechy\" desde tu mano o Campo boca arriba, y después puedes Colocar 1 monstruo \"Angelechy\" con un nombre diferente al de las cartas en tu Zona de Mágicas y Trampas, desde tu Deck Extra en tu Zona de Mágicas y Trampas como una Mágica Continua boca arriba. \r\nSólo puedes usar cada efecto de \"Veredicto Angelechy\" una vez por turno.\r\n",
     "overallString": "[Trampa]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306096.jpg?version=19.7"
   },
   {
-    "name": "静寂猛虎",
-    "desc": "这张卡召唤·特殊召唤的场合：可以以对方场上1张魔法·陷阱卡为对象；这张卡从场上离开的场合，那张卡破坏。\r\n这张卡从手卡·场上被送去墓地的场合：可以从自己场上把1张魔法·陷阱卡送去墓地；这张卡特殊召唤。这个效果特殊召唤的这张卡从场上离开的场合除外。\r\n「静寂猛虎」的每个效果1回合各能使用1次。",
+    "name": "Tigresa en Reposo Silencioso",
+    "desc": "Si esta carta es Invocada de Modo Normal o Especial: puedes seleccionar 1 Mágica/Trampa que controle tu adversario; destruye esa carta cuando esta carta deje el Campo. \r\nSi esta carta es mandada de la mano o Campo al Cementerio: puedes mandar al Cementerio 1 Mágica/Trampa que controles; Invoca esta carta de Modo Especial, pero destiérrala cuando deje el Campo. \r\nSólo puedes usar cada efecto de \"Tigresa en Reposo Silencioso\" una vez por turno.",
     "overallString": "[Monstruo|Efecto] Guerrero Bestia/TIERRA  [★3] 1700/200",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306082.jpg?version=19.7"
   },
   {
-    "name": "听天投命",
-    "desc": "自己场上的表侧表示卡被对方的卡的效果破坏的场合：可以进行1只投掷硬币，对里表作猜测。猜中的场合，从自己墓地把1只怪兽特殊召唤。猜错的场合，从自己墓地把1张陷阱卡盖放。\r\n这张卡被对方的卡的效果破坏的场合：可以从以下效果选择1个发动。\r\n●从自己墓地把1只怪兽特殊召唤。\r\n●从自己墓地把1张陷阱卡盖放。\r\n「听天投命」的每个效果1回合各能使用1次。",
+    "name": "Solo Lanza una Moneda",
+    "desc": "Si una o más cartas boca arriba que controles son destruidas por el efecto de una carta del adversario: puedes lanzar una moneda y adivinar cara o cruz. \r\nSi aciertas, Invoca de Modo Especial 1 monstruo desde tu Cementerio. \r\nSi fallas, Coloca 1 Trampa desde tu Cementerio. \r\nSi esta carta en tu posesión es destruida por el efecto de una carta del adversario: puedes activar 1 de estos efectos;\r\n● Invoca de Modo Especial 1 monstruo desde tu Cementerio.\r\n● Coloca 1 Trampa desde tu Cementerio.\t\r\nSólo puedes usar cada efecto de \"Solo Lanza una Moneda\" una vez por turno.",
     "overallString": "[Trampa]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306083.jpg?version=19.7"
   },
   {
-    "name": "九色鹿 九面妖",
-    "desc": "4星光·暗属性怪兽×2只以上\r\n主要阶段（诱发即时效果）：可以把这张卡1个超量素材取除；取除的素材以外的自己手卡·墓地·除外状态的1张卡作为这张卡的超量素材。「九色鹿 九面妖」的这个效果1回合只能使用1次。\r\n这张卡根据作为素材中的怪兽种族的种类数量得到以下效果。\r\n●2种以上：不会被卡的效果破坏。\r\n●3种以上：自己抽卡阶段的通常抽卡变成2张。",
+    "name": "Kumenyo, el Ciervo de Nueve Tonos",
+    "desc": "2+ monstruos de LUZ y/o OSCURIDAD de Nivel 4\t\r\n(Efecto Rápido): Durante la Main Phase: puedes desacoplar 1 material de esta carta; acopla a esta carta 1 carta de tu mano, Cementerio o destierro, excepto el material desacoplado. \r\nSólo puedes usar este efecto de \"Kumenyo, el Ciervo de Nueve Tonos\" una vez por turno. \r\nGana los siguientes efectos, basados en el número de Tipos de Monstruo diferentes acoplados a ella;\r\n● 2+: No puede ser destruida por efectos de cartas.\r\n● 3+: Roba 2 cartas en lugar de 1 para tu robo normal durante tu Draw Phase.",
     "overallString": "[Monstruo|Efecto|Xyz] Lanzador de Conjuros/OSCURIDAD  [☆4] 2500/1800",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306084.jpg?version=19.7"
   },
   {
-    "name": "贪玩的呱呱公主",
-    "desc": "场上的魔法·陷阱卡回到手卡的场合（伤害步骤除外）：可以把这张卡从手卡·墓地以表侧表示或者里侧守备表示特殊召唤。这个效果从墓地特殊召唤的这张卡从场上离开的场合除外。\r\n这张卡在怪兽区域存在的状态，场上的其他卡回到手卡的场合（伤害步骤除外）；可以以自己除外状态的1张通常陷阱卡为对象；那张卡盖放。\r\n「贪玩的呱呱公主」的每个效果1回合各能使用1次。",
+    "name": "Kerolia la Juguetona",
+    "desc": "Si una o más Mágicas/Trampas en el Campo son devueltas a la mano (excepto durante el Damage Step): puedes Invocar esta carta de Modo Especial desde tu Cementerio (si estaba allí cuando esa carta fue devuelta) o mano (aunque no lo estuviera), en Posición de Defensa boca arriba o boca abajo, pero si la Invocaste desde el Cementerio, destiérrala cuando deje el Campo. \r\nSi otra u otras cartas en el Campo son devueltas a la mano, mientras esta carta está en la Zona de Monstruos (excepto durante el Damage Step): puedes seleccionar 1 de tus Trampas Normales desterradas; Colócala. \r\nSólo puedes usar cada efecto de \"Kerolia la Juguetona\" una vez por turno.",
     "overallString": "[Monstruo|Efecto|Cantante] Aqua/AGUA  [★1] 200/200",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306085.jpg?version=19.7"
   },
   {
-    "name": "魔道乌贼 大王",
-    "desc": "水属性怪兽2只\r\n可以从自己场上把1张卡送去墓地；自己场上的全部的水属性怪兽的攻击力·守备力在这个回合上升500。\r\n这张卡在墓地存在的状态，自己场上的水属性连接怪兽被对方的效果破坏的场合（伤害步骤除外）：可以把这张卡除外，以那1只被破坏的怪兽为对象；从自己的手卡·墓地把持有那只怪兽连接标记数量以下等级的1只水属性怪兽特殊召唤。\r\n「魔道乌贼 大王」的每个效果1回合各能使用1次。",
+    "name": "Archidux, el Hechicero Calamar",
+    "desc": "2 monstruos de AGUA\t\t\r\nPuedes mandar al Cementerio 1 carta que controles; todos los monstruos de AGUA que controles ganan 500 DEF este turno.  \r\nSi uno o más Monstruos de Enlace de AGUA que controles son destruidos por el efecto de una carta del adversario, mientras esta carta está en tu Cementerio (excepto durante el Damage Step): puedes desterrar esta carta, y después seleccionar 1 de esos monstruos destruidos; Invoca de Modo Especial 1 monstruo de AGUA desde tu mano o Cementerio, con un Nivel menor o igual al Valor de Enlace de ese monstruo. \r\nSólo puedes usar cada efecto de \"Archidux, el Hechicero Calamar\" una vez por turno.\r\n\r\n",
     "overallString": "[Monstruo|Efecto|Enlace] Aqua/AGUA  [LINK-2] 1500/-  [→][↓]",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306086.jpg?version=19.7"
   },
   {
-    "name": "飞临的蓝锯手",
-    "desc": "8星以上的暗属性怪兽+战士族怪兽\r\n这张卡融合召唤的场合：可以把自己墓地·除外状态的1只战士族怪兽，或者对方墓地·除外状态的1只怪兽，当作攻击力·守备力上升500的装备魔法卡使用给这张卡装备。\r\n对方把魔法·陷阱卡的效果发动时（诱发即时效果）：可以把自己场上1张装备卡送去墓地；那个发动无效。\r\n「飞临的蓝锯手」的每个效果1回合各能使用1次。",
+    "name": "Sierra Circular Azulada del Cielo",
+    "desc": "1 monstruo de OSCURIDAD de Nivel 8 o mayor + 1 monstruo Guerrero\t\r\nSi esta carta es Invocada por Fusión: puedes equipar 1 monstruo Guerrero de tu Cementerio o destierro, o 1 monstruo del Cementerio o destierro de tu adversario, a esta carta como una Carta Mágica de Equipo que le da 500 ATK/DEF.  \r\n(Efecto Rápido): Cuando tu adversario activa una Carta Mágica/Trampa o efecto: puedes mandar al Cementerio 1 Carta de Equipo que controles; niega esa activación. \r\nSólo puedes usar cada efecto de \"Sierra Circular Azulada del Cielo\" una vez por turno.",
     "overallString": "[Monstruo|Efecto|Fusión] Guerrero/OSCURIDAD  [★8] 2800/1800",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306087.jpg?version=19.7"
   },
   {
-    "name": "红砷镍半身矿",
-    "desc": "这张卡从卡组特殊召唤的场合：可以从卡组把「红砷镍半身矿」以外的1只4星以下的岩石族怪兽加入手卡。\r\n这张卡作为同调素材被送去墓地的场合：可以（伤害步骤除外）；进行1只岩石族怪兽的召唤。\r\n「红砷镍半身矿」的每个效果1回合各能使用1次。",
+    "name": "Media Rebanada de Niquelina",
+    "desc": "Si esta carta es Invocada de Modo Especial desde el Deck: puedes añadir a tu mano 1 monstruo Roca de Nivel 4 o menor desde tu Deck, excepto \"Media Rebanada de Niquelina\".  \r\nSi esta carta es mandada al Cementerio como Material de Sincronía, puedes (excepto durante el Damage Step): inmediatamente después de que este efecto se resuelva, Invocar de Modo Normal 1 monstruo Roca.",
     "overallString": "[Monstruo|Efecto] Roca/AGUA  [★4] 0/0",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306088.jpg?version=19.7"
   },
   {
-    "name": "混沌诞生主教",
-    "desc": "自己场上的这张卡作为同调素材的场合，可以把这张卡当作调整以外的怪兽使用。\r\n这张卡召唤·特殊召唤的场合：从自己的手卡·卡组·墓地把1只「混沌诞生主教」特殊召唤，那只怪兽变成光属性，这个效果的发动后，直到回合结束时自己不是光·暗属性怪兽不能特殊召唤，不是同调怪兽不能从额外卡组特殊召唤。「混沌诞生主教」的这个效果1回合只能使用1次。",
+    "name": "Obispo del Engendro del Caos",
+    "desc": "Si esta carta que controlas fuera a ser usada como Material de Sincronía, puedes tratarla como un monstruo que no sea Cantante.  \r\nSi esta carta es Invocada de Modo Normal o Especial: puedes Invocar de Modo Especial 1 \"Obispo del Engendro del Caos\" desde tu mano, Deck o Cementerio y, si lo haces, se convierte en LUZ, y además por el resto de este turno, no puedes Invocar de Modo Especial, excepto monstruos de LUZ u OSCURIDAD, y no puedes Invocar de Modo Especial desde el Deck Extra, excepto Monstruos de Sincronía. \r\nSólo puedes usar el efecto de \"Obispo del Engendro del Caos\" una vez por turno.",
     "overallString": "[Monstruo|Efecto|Cantante] Demonio/OSCURIDAD  [★4] 100/1000",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101306089.jpg?version=19.7"
   },
   {
-    "name": "业火的魔神 艾克佐迪亚",
-    "desc": "①：自己回合把这张卡抽到时，把这张卡给对方出示才能发动。这张卡特殊召唤。\r\n②：这张卡在自己回合特殊召唤的场合才能发动。这个回合，双方不能把「业火的魔神 艾克佐迪亚」以外的卡的效果发动，自己不能把怪兽召唤·特殊召唤。\r\n③：这张卡进行战斗的伤害步骤开始时才能发动。对方场上的怪兽全部破坏，给予对方那些原本攻击力合计数值的伤害。",
+    "name": "Exodia el Aniquilador",
+    "desc": "Cuando robas esta carta durante tu turno: puedes revelarla; Invócala de Modo Especial. \r\nSi esta carta es Invocada de Modo Especial durante tu turno: puedes activar este efecto; por el resto de este turno, ningún jugador puede activar cartas o efectos, excepto \"Exodia el Aniquilador\", y además no puedes Invocar de Modo Normal o Especial (pero puedes Colocar de Modo Normal). \r\nAl comienzo del Damage Step, si esta carta batalla: puedes destruir tantos monstruos que controle tu adversario como sea posible y, si lo haces, inflige daño a tu adversario igual al ATK original total de esos monstruos.",
     "overallString": "[Monstruo|Efecto] Lanzador de Conjuros/OSCURIDAD  [★10] 1000/1000",
     "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/100268001.jpg?version=19.7"
   },
