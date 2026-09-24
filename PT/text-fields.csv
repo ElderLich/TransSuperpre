@@ -1,4 +1,296 @@
 id,name,field,value
+100200292,Elfo de Sangue Puro,name,Elfo de Sangue Puro
+100200292,Elfo de Sangue Puro,desc,"Durante a sua Fase Principal: você pode enviar 1 Magia de Equipamento do seu Deck para o Cemitério, então este card ganha 500 de ATK até o final do turno do seu oponente. Você só pode usar este efeito de ""Elfo de Sangue Puro"" uma vez por turno.
+Quando este card destrói um monstro do oponente por batalha: você pode adicionar à sua mão, ou Invocar por Invocação-Especial 1 monstro Mago de LUZ de Nível 4 ou menor do seu Deck, exceto ""Elfo de Sangue Puro""."
+100200292,Elfo de Sangue Puro,str1,Enviar para o Cemitério
+100200292,Elfo de Sangue Puro,str2,Manipulação do Deck
+100200293,Leão de Ataque,name,Leão de Ataque
+100200293,Leão de Ataque,desc,"Você pode Invocar por Invocação-Tributo este card com a face para cima oferecendo como Tributo 1 monstro Besta-Guerreiro.
+Se este card batalhar com um monstro, qualquer dano que ele causar ao seu oponente é dobrado.
+Se um ou mais monstros Besta-Guerreiro for Invocado por Invocação-Normal ou Especial para o seu campo enquanto este card está no seu Cemitério: você pode adicionar este card à sua mão, então imediatamente após ativar este efeito, você pode Invocar por Invocação-Tributo este card com a face para cima, e se fizer, ele ganha 500 de ATK, também bana-o quando deixar o campo. Você só pode usar este efeito de ""Leão de Ataque"" uma vez por turno."
+100200293,Leão de Ataque,str1,Invocação-Tributo usando 1 monstro Besta-Guerreira
+100200293,Leão de Ataque,str2,Adicionar à mão
+100200293,Leão de Ataque,str3,Invocação Tributo?
+100200294,Conexão Poderosa,name,Conexão Poderosa
+100200294,Conexão Poderosa,desc,"Escolha qualquer número de monstros com a face para cima que você controla (se você escolher 2 ou mais monstros, eles devem ter o mesmo Tipo); eles ganham 500 de ATK para cada monstro escolhido, até o final deste turno.
+Se você ativou ""Armamento da Reencarnação"" neste turno: você pode adicionar este card do seu Cemitério  à sua mão.
+Você só pode usar cada um dos efeitos de ""Conexão Poderosa"" uma vez por turno."
+100200294,Conexão Poderosa,str1,Ativar
+100200294,Conexão Poderosa,str2,Recuperar
+100200297,Armadura Feiticeira Pazoo,name,Armadura Feiticeira Pazoo
+100200297,Armadura Feiticeira Pazoo,desc,"(Este card é sempre considerado um card ""Profecia"".)
+Se este card está na sua mão ou Cemitério: você pode escolher 1 monstro com a face para cima que você controla; equipe este card a ele como uma Magia de Equipamento com os seguintes efeitos. Você só pode usar este efeito de ""Armadura Feiticeira Pazoo"" uma vez por turno.
+● O monstro equipado ganha 2100 de ATK/DEF enquanto seus PV são 4000 ou menor.
+● Quando um card ou efeito ativado pelo seu oponente resolve, se você controla um card com um efeito que requer rolar um dado, você pode negar o efeito ativado, então bana este card."
+100200297,Armadura Feiticeira Pazoo,str1,Equipar
+100200297,Armadura Feiticeira Pazoo,str3,Negar o efeito? (Armadura Feiticeira Pazoo)
+100267001,Profeta Sennet - Nefertari,name,Profeta Sennet - Nefertari
+100267001,Profeta Sennet - Nefertari,desc,"Se este card é Invocado por Invocação-Normal ou Especial: você pode envia-lo para o Cemitério; mostre até 2 Cards de Monstros Normais da sua mão, Deck, campo com a face para cima, e/ou Cemitério, então Baixe aquela quantia de Magias ""Sennet"" do seu Deck.
+Durante o turno do seu oponente (Efeito Rápido): você pode banir este card do seu Cemitério; Equipe 1 Monstro Normal do seu Cemitério à 1 Monstro Ritual que você controla como uma Magia de Equipamento.
+Você só pode usar cada um dos efeitos de ""Profeta Sennet - Nefertari"" uma vez por turno."
+100267001,Profeta Sennet - Nefertari,str1,Baixar
+100267001,Profeta Sennet - Nefertari,str2,Estado
+100267002,Profeta Sennet - Amenhotep,name,Profeta Sennet - Amenhotep
+100267002,Profeta Sennet - Amenhotep,desc,"Se este card é Invocado por Invocação-Normal ou Especial: você pode envia-lo para o Cemitério; mostre até 2 Cards de Monstros Normais da sua mão, Deck, campo com a face para cima, e/ou Cemitério, então Baixe aquela quantia de Armadilhas ""Sennet"" do seu Deck.
+Você pode banir este card do seu Cemitério, então escolha até 3 Monstros Normais no seu Cemitério; embaralhe-os no Deck.
+Você só pode usar cada um dos efeitos de ""Profeta Sennet - Amenhotep"" uma vez por turno."
+100267002,Profeta Sennet - Amenhotep,str1,Baixar
+100267002,Profeta Sennet - Amenhotep,str2,Recuperar
+100267003,Esfinge Sennetnakht,name,Esfinge Sennetnakht
+100267003,Esfinge Sennetnakht,desc,"Você pode Invocar por Invocação-Ritual este card com qualquer card ""Sennet"".
+Este card equipado com uma Magia de Equipamento não é afetado pelos efeitos do seu oponente.
+Você só pode usar cada um dos seguintes efeitos de ""Esfinge Sennetnakht"" uma vez por turno.
+Você pode descartar este card; adicione 1 card ""Sennet"" do seu Deck à sua mão, exceto ""Esfinge Sennetnakht"".
+(Efeito Rápido): você pode enviar 1 Card de Monstro Normal com a face para cima que você controla para o Cemitério; mude quantos monstros seu oponente controlar possível para Posição de Defesa com a face para baixo, então você pode Invocar por Invocação-Especial 1 Monstro Normal do seu Cemitério."
+100267003,Esfinge Sennetnakht,str1,Adicionar à mão
+100267003,Esfinge Sennetnakht,str2,Mudar para Posição de Defesa com a face para baixo
+100267003,Esfinge Sennetnakht,str3,Invocação Especial?
+100267004,Tausennet Wadjet,name,Tausennet Wadjet
+100267004,Tausennet Wadjet,desc,"Você pode Invocar por Invocação-Ritual este card com qualquer card ""Sennet"".
+Este card equipado com uma Magia de Equipamento não pode ser destruído por efeitos.
+Você só pode usar cada um dos seguintes efeitos de ""Tausennet Wadjet"" uma vez por turno.
+Você pode descartar este card; envie 1 card ""Sennet"" do seu Deck para o Cemitério, exceto ""Tausennet Wadjet"".
+(Efeito Rápido): você pode enviar até 3 Cards de Monstro Normais com a face para cima que você controla para o Cemitério, então escolha aquela quantia de cards que seu oponente controla; retorne-as para a mão, então você pode Invocar por Invocação-Especial 1 Monstro Normal do seu Cemitério."
+100267004,Tausennet Wadjet,str1,Enviar para o Cemitério
+100267004,Tausennet Wadjet,str2,Retornar para a mão
+100267004,Tausennet Wadjet,str3,Invocação Especial?
+100267005,Sennetmes Nekhbet,name,Sennetmes Nekhbet
+100267005,Sennetmes Nekhbet,desc,"Você pode Invocar por Invocação-Ritual este card com qualquer card ""Sennet"".
+Este card equipado com uma Magia de Equipamento não pode ser destruído por batalha.
+Você só pode usar cada um dos seguintes efeitos de ""Sennetmes Nekhbet"" uma vez por turno.
+Você pode descartar este card; adicione 1 card ""Sennet"" do seu Cemitério à sua mão, exceto ""Sennetmes Nekhbet"".
+(Efeito Rápido): você pode Invocar por Invocação-Especial 1 Card de Monstro Normal com a face para cima na sua Zona de Magias & Armadilhas, e se fizer, equipe este card que você controla a ele como uma Magia de Equipamento que ganha 2500 de ATK."
+100267005,Sennetmes Nekhbet,str1,Recuperar
+100267005,Sennetmes Nekhbet,str2,Invocação Especial
+100267005,Sennetmes Nekhbet,str3,Invocação Especial?
+100267006,Beresennet Em Heru,name,Beresennet Em Heru
+100267006,Beresennet Em Heru,desc,"Uma vez por turno: você pode Invocar por Invocação-Ritual 1 Monstro Ritual ""Sennet"" da sua mão ou Cemitério, enviando Cards de Monstros Normais com nomes diferentes dentre eles da sua mão, Deck, e/ou campo com a face para cima ao Cemitério cujo Níveis total seja igual ou excedente ao seu Nível, então você pode equipar 1 Monstro Normal do seu Cemitério nele como uma Magia de Equipamento.
+Se você Invocar por Invocação-Especial um ou mais Monstros Normais não-Ficha: você pode comprar 1 card. Você só pode usar este efeito de ""Beresennet Em Heru"" uma vez por turno."
+100267006,Beresennet Em Heru,str1,Invocação Ritual
+100267006,Beresennet Em Heru,str2,Comprar
+100267006,Beresennet Em Heru,str3,Equipar?
+100267007,Sennet Per Akh,name,Sennet Per Akh
+100267007,Sennet Per Akh,desc,"Adicione 1 monstro ""Sennet"" do seu Deck à sua mão.
+Se você descartar um ou mais Monstros Ritual ""Sennet"" enquanto este card está no seu Cemitério: você pode banir este card; Invoque por Invocação-Especial 1 Monstro Fusão de não-Efeito do seu Deck Adicional com ATK menor ou igual a qualquer monstro descartado de um Monstro Normal, mas pelo resto desse turno, ele não pode atacar diretamente, você também não pode ativar efeitos de monstros não-Zumbi.
+Você só pode usar cada um dos efeitos de ""Sennet Per Akh"" uma vez por turno."
+100267007,Sennet Per Akh,str1,Adicionar à mão
+100267007,Sennet Per Akh,str2,Invocação Especial
+100267007,Sennet Per Akh,str3,Tratar como um Card de Monstro Normal
+100267008,"Uma Jornada de Volta à Luz - ""Zenet""",name,"Uma Jornada de Volta à Luz - ""Zenet"""
+100267008,"Uma Jornada de Volta à Luz - ""Zenet""",desc,"Mostre 2 ou 3 Cards de Monstro Normal na sua mão, Deck, com a face para cima no campo, e/ou Cemitério, então aplique o efeito apropriado baseado no número mostrado, então se você mostrou um ou mais cards na sua mão, você pode comprar 1 card.
+● 2: Invoque por Invocação-Especial 1 Monstro Fusão não-Efeito de Nível 8 ou menor do seu Deck Adicional como um Card de Monstro normal.
+● 3: Invoque por Invocação-Especial 1 monstro ""Zenet"" do seu Deck ou 1 Monstro Normal do seu Cemitério.
+Você só pode ativar 1 ""Uma Jornada de Volta à Luz - ""Zenet"""" por turno."
+100267008,"Uma Jornada de Volta à Luz - ""Zenet""",str1,Ativar
+100267008,"Uma Jornada de Volta à Luz - ""Zenet""",str2,Comprar 1 card?
+100267008,"Uma Jornada de Volta à Luz - ""Zenet""",str3,Tratar como um Card de Monstro Normal
+100267009,Am Duasennet,name,Am Duasennet
+100267009,Am Duasennet,desc,"Invoque por Invocação-Ritual 1 Monstro Ritual ""Sennet"" da sua mão ou Cemitério, enviando Cards de Monstros Normais com nomes diferentes dentre eles da sua mão, Deck, e/ou campo com a face para cima ao Cemitério cujo Níveis totais sejam igual ou excedente do seu Nível, então você pode equipar 1 Monstro Normal do seu Cemitério nele como uma Magia de Equipamento.
+Se um ou mais Cards de Monstro Normal que você controla seriam destruídos por batalha ou efeito, em vez disso você pode banir este card do seu Cemitério.
+Você só pode ativar 1 ""Am Duasennet"" por turno."
+100267009,Am Duasennet,str1,Invocação Ritual
+100267009,Am Duasennet,str3,Equipar?
+100267010,Catarata Sennet,name,Catarata Sennet
+100267010,Catarata Sennet,desc,"Escolha Zonas de Monstros Principal do seu oponente igual até o número de Monstros Normais e Monstros Ritual ""Sennet"" que você controla; negue o primeiro efeito de monstro ativado em cada uma daquelas zonas que seriam ativados neste turno.
+Se o total de ATK de todos os Monstros Normais que você controla é mais de 3000: você pode ativar este card do seu Cemitério, então escolha 1 monstro que seu oponente controla; envie-o para o Cemitério.
+Você só pode usar cada efeito de ""Catarata Sennet"" uma vez por turno."
+100267010,Catarata Sennet,str1,Escolha uma zona
+100267010,Catarata Sennet,str2,Enviar para o Cemitério
+100267010,Catarata Sennet,str3,Continuar selecionando?
+100267011,Trovão Sennet,name,Trovão Sennet
+100267011,Trovão Sennet,desc,"Quando seu oponente ativa uma Magia/Armadilha enquanto você controla um Monstro Normal ou Ritual ""Sennet"": negue a ativação, e se fizer, destrua aquele card.
+Se o ATK total de todos os Monstros Normais que você controla é maior de 3000: você pode banir este card do seu Cemitério; Baixe 1 Magia/Armadilha ""Sennet"" do seu Deck ou Cemitério, exceto ""Trovão Sennet"".
+Você só pode usar cada um dos efeitos de ""Trovão Sennet"" uma vez por turno."
+100267011,Trovão Sennet,str1,Negar a ativação e destruir
+100267011,Trovão Sennet,str2,Baixar
+100267016,Raise Moon Veil Cielo,name,Raise Moon Veil Cielo
+100267016,Raise Moon Veil Cielo,desc,"Quando você compra este card: você pode revela-lo; Invoque-o por Invocação-Especial.
+Se este card está na sua mão: você pode colocar 1 outro card da sua mão ou no campo com a face para cima no fundo do Deck; Invoque este card por Invocação-Especial.
+Durante a Fase Principal (Efeito Rápido): você pode comprar 1 card. Você não pode adicionar cards do Deck à mão no turno que você ativa este efeito, exceto por compra-los. Você só pode usar este efeito de ""Raise Moon Veil Cielo"" uma vez por turno."
+100267016,Raise Moon Veil Cielo,str1,Invocação Especial
+100267016,Raise Moon Veil Cielo,str2,Retornar ao Deck e Invocar por Invocação Especial
+100267016,Raise Moon Veil Cielo,str3,Comprar
+100267017,Raise Moon Elegance Carol,name,Raise Moon Elegance Carol
+100267017,Raise Moon Elegance Carol,desc,"Quando você compra este card: você pode revela-lo; Invoque-o por Invocação-Especial.
+Você pode Invocar por Invocação-Normal este card sem oferecer Tributo, mas seu ATK original se torna 700.
+Se este card é Invocado por Invocação-Normal ou Especial da sua mão: você pode comprar 1 card, você também não pode Invocar por Invocação-Especial do Deck Adicional pelo resto deste turno, exceto Monstros Xyz de LUZ. Você não pode adicionar cards do Deck à mão no turno que você ativa este efeito, exceto por compra-lo."
+100267017,Raise Moon Elegance Carol,str1,Invocação Especial
+100267017,Raise Moon Elegance Carol,str2,Invocação Normal sem Tributo
+100267017,Raise Moon Elegance Carol,str3,Comprar
+100267018,Raise Moon Wings Rapi,name,Raise Moon Wings Rapi
+100267018,Raise Moon Wings Rapi,desc,"Quando você compra este card: você pode revela-lo; Invoque-o por Invocação-Especial.
+Se este card é Invocado por Invocação-Normal ou Especial da mão: você pode comprar 1 card, você também não pode Invocar por Invocação-Especial do Deck Adicional pelo resto deste turno, exceto Monstros Xyz de LUZ. Você não pode adicionar cards do Deck à mão no turno que você ativar este efeito, exceto por compra-los.
+Uma vez por turno do oponente, você pode (Efeito Rápido): imediatamente após ativar este efeito, Invoque por Invocação-Xyz 1 monstro Classe 7 de LUZ."
+100267018,Raise Moon Wings Rapi,str1,Invocação Especial
+100267018,Raise Moon Wings Rapi,str2,Comprar
+100267018,Raise Moon Wings Rapi,str3,Invocação Xyz
+100267019,Raise Moon Blade Shayna,name,Raise Moon Blade Shayna
+100267019,Raise Moon Blade Shayna,desc,"Quando você compra este card: você pode revela-lo; Invoque-o por Invocação-Especial.
+Se foi Invocado dessa forma: você pode escolher 1 monstro que seu oponente controla; coloque-o no fundo do Deck.
+Você pode descartar este card; compre 1 card. Você não pode adicionar cards do Deck à mão no turno que você ativa este efeito, exceto por compra-lo. Você só pode usar este efeito de ""Raise Moon Blade Shayna"" uma vez por turno."
+100267019,Raise Moon Blade Shayna,str1,Invocação Especial
+100267019,Raise Moon Blade Shayna,str2,Retornar ao Deck
+100267019,Raise Moon Blade Shayna,str3,Comprar
+100267020,Raise Moon Lamp Croucier,name,Raise Moon Lamp Croucier
+100267020,Raise Moon Lamp Croucier,desc,"Quando você compra este card: você pode revela-lo; Invoque-o por Invocação-Especial.
+Se Invocado dessa forma: você pode escolher 1 Magia/Armadilha que seu oponente controla; coloque-o no fundo do Deck.
+Você pode descartar este card; compre 1 card. Você não pode adicionar cards do Deck à mão no turno que você ativa este efeito, exceto por compra-lo. Você só pode usar este efeito de ""Raise Moon Lamp Croucier"" uma vez por turno."
+100267020,Raise Moon Lamp Croucier,str1,Invocação Especial
+100267020,Raise Moon Lamp Croucier,str2,Retornar ao Deck
+100267020,Raise Moon Lamp Croucier,str3,Comprar
+100267021,Raise Moon Starter Squeeze,name,Raise Moon Starter Squeeze
+100267021,Raise Moon Starter Squeeze,desc,"(Efeito Rápido): você pode descartar este card, então ative 1 desses efeitos (mas você só pode usar cada um desses efeitos de ""Raise Moon Starter Squeeze"" uma vez por turno);
+● Você não pode Invocar por Invocação-Especial do Deck Adicional até o final do próximo turno, exceto Monstros Xyz de Classe 7, também neste turno, cada vez que um ou mais cards é adicionado a mão do seu oponente, exceto por compra-lo, imediatamente compre 1 card.
+● Compre 1 card.
+Você não pode adicionar cards do Deck à mão durante o Duelo que você ativa este efeito, exceto por compra-los."
+100267021,Raise Moon Starter Squeeze,str1,Ativar
+100267021,Raise Moon Starter Squeeze,str2,Compra contínua
+100267021,Raise Moon Starter Squeeze,str3,Compre 1 card(s)
+100267021,Raise Moon Starter Squeeze,str4,"Enquanto o efeito de ""Raise Moon Starter Squeeze"" estiver sendo aplicado, você não pode procurar no seu Deck."
+100267021,Raise Moon Starter Squeeze,str5,"Enquanto o efeito de ""Raise Moon Starter Squeeze"" estiver sendo aplicado, você não pode Invocar por Invocação-Especial."
+100267022,Raise Moon Sky Cielo - No More Bets,name,Raise Moon Sky Cielo - No More Bets
+100267022,Raise Moon Sky Cielo - No More Bets,desc,"2 monstros ""Raise Moon"" de Classe 7
+Não pode ser usado como matéria para Invocação-Fusão, Xyz ou Link.
+Se este card na sua posse é enviado para o Cemitério por um efeito do oponente: você pode comprar 1 card.
+Ganha estes efeitos enquanto está na Zona de Monstro Adicional.
+● Não é afetado por outros efeitos.
+● Quando um card ou efeito ativado pelo seu oponente resolve que inclui um efeito que adiciona um ou mais cards do Deck à mão, você pode alterar aquele efeito para ""Compre 1 card"".
+● Uma vez por turno (Efeito Rápido): você pode desassociar 1 matéria deste card; compre 1 card."
+100267022,Raise Moon Sky Cielo - No More Bets,str2,Alterar o efeito?
+100267022,Raise Moon Sky Cielo - No More Bets,str3,Comprar
+100267022,Raise Moon Sky Cielo - No More Bets,str4,Comprar
+100267023,Raise Moon Hope Squeeze - Jackpot,name,Raise Moon Hope Squeeze - Jackpot
+100267023,Raise Moon Hope Squeeze - Jackpot,desc,"2+ monstros de Nível 7
+Os monstros do seu oponente não pode escolher monstros para atacar, exceto este.
+Se este card é Invocado por Invocação-Xyz, ou um ou mais monstros é Invocado por Invocação-Especial da mão: você pode desassociar qualquer número de matérias deste card; coloque aquela quantidade de cards que seu oponente controla no fundo do Deck em qualquer ordem. Você só pode usar este efeito de ""Raise Moon Hope Squeeze - Jackpot"" uma vez por turno.
+Toda vez que seu oponente faz um ou mais cards dele sair do Deck, exceto por compra-los: você pode associar o card do topo do Deck dele neste card."
+100267023,Raise Moon Hope Squeeze - Jackpot,str2,Retornar ao Deck
+100267023,Raise Moon Hope Squeeze - Jackpot,str3,Associar Matéria Xyz
+100267024,As Estrelas de Raise Moon,name,As Estrelas de Raise Moon
+100267024,As Estrelas de Raise Moon,desc,"Coloque 1 card ""Raise Moon"" do seu Deck no topo do Deck, exceto ""As Estrelas de Raise Moon"", mas pelo resto deste turno, você não pode colocar outro card com o mesmo nome com este efeito deste card, também nenhum jogador pode adicionar cards do Deck à mão depois de ativar este efeito, exceto por compra-los.
+Você pode banir este card do seu Cemitério, então ative 1 desses efeitos;
+● Cada jogador compra 1 card.
+● Se você controla um Monstro Xyz ""Raise Moon"" Mago: compre 1 card."
+100267024,As Estrelas de Raise Moon,str1,Ativar
+100267024,As Estrelas de Raise Moon,str2,Comprar
+100267024,As Estrelas de Raise Moon,str3,Escolha o card a ser colocada no topo do Deck
+100267024,As Estrelas de Raise Moon,str4,Ambos os jogadores compram
+100267024,As Estrelas de Raise Moon,str5,Comprar
+100267025,"""Raise Moon"", a Cidade que Nunca Dorme",name,"""Raise Moon"", a Cidade que Nunca Dorme"
+100267025,"""Raise Moon"", a Cidade que Nunca Dorme",desc,"A primeira vez que cada monstro ""Raise Moon"" de Nível 7 que você controla seria destruído por efeito cada turno, ele não é destruído.
+Uma vez por turno, durante a Fase Final: embaralhe todos os cards ""Raise Moon"" do seu Cemitério e banimento no Deck.
+Uma vez por turno: você pode ativar 1 desses efeitos;
+● Coloque 1 card da sua mão no topo ou fundo do Deck, então compre 1 card.
+● Se você controla um Monstro Xyz ""Raise Moon"" Mago: você pode comprar 1 card."
+100267025,"""Raise Moon"", a Cidade que Nunca Dorme",str1,Ativar
+100267025,"""Raise Moon"", a Cidade que Nunca Dorme",str2,Retornar ao Deck e comprar 1 card
+100267025,"""Raise Moon"", a Cidade que Nunca Dorme",str3,Comprar
+100267025,"""Raise Moon"", a Cidade que Nunca Dorme",str4,Retornar ao Deck
+100267025,"""Raise Moon"", a Cidade que Nunca Dorme",str5,Topo do Deck
+100267025,"""Raise Moon"", a Cidade que Nunca Dorme",str6,Fundo do Deck
+100267026,O Brilho de Raise Moon,name,O Brilho de Raise Moon
+100267026,O Brilho de Raise Moon,desc,"Invoque por Invocação-Especial 1 Monstro Xyz ""Raise Moon"" do seu Deck Adicional, e se fizer, associe-o neste card, então você pode embaralhar todos os cards ""Raise Moon"" do seu Cemitério no Deck.
+Você pode banir este card do seu Cemitério; compre 1 card. Você só pode usar este efeito de ""O Brilho de Raise Moon"" uma vez por turno. Você não pode adicionar cards do Deck à mão durante o Duelo que você ativa qualquer efeito deste card, exceto por compra-los."
+100267026,O Brilho de Raise Moon,str1,Invocação Especial
+100267026,O Brilho de Raise Moon,str2,Comprar
+100267026,O Brilho de Raise Moon,str3,Retornar o card para o Deck?
+100267031,"Gehenna, Xenovasor△ do Vazio",name,"Gehenna, Xenovasor△ do Vazio"
+100267031,"Gehenna, Xenovasor△ do Vazio",desc,"Se este card é Invocado por Invocação-Especial: bana (com a face para baixo) o card do topo do seu Deck.
+Você só pode usar cada um dos seguintes efeitos de ""Gehenna, Xenovasor△ do Vazio"" uma vez por turno.
+Se este card está na sua mão e você não controla monstros: você pode Invocar este card por Invocação-Especial.
+Durante sua Fase Principal: você pode adicionar té 2 dos seus monstros banidos com a face para baixo ""Xenovasor△"" com nomes diferentes da sua mão, exceto ""Gehenna, Xenovasor△ do Vazio"", você também não pode ativar cards ou efeitos pelo resto deste turno, exceto cards ou efeitos ""Xenovasor△""."
+100267031,"Gehenna, Xenovasor△ do Vazio",str1,Invocação Especial
+100267031,"Gehenna, Xenovasor△ do Vazio",str2,Banir
+100267031,"Gehenna, Xenovasor△ do Vazio",str3,Recuperar
+100267031,"Gehenna, Xenovasor△ do Vazio",str4,"Banido com a face para baixo por ""Gehenna, Xenovasor△ do Vazio"""
+100267032,"Sheol, Xenovasor△ do Céu",name,"Sheol, Xenovasor△ do Céu"
+100267032,"Sheol, Xenovasor△ do Céu",desc,"Se este card é Invocado por Invocação-Especial: bana (com a face para baixo) os 2 cards do topo do seu Deck.
+Você só pode usar cada um dos seguintes efeitos de ""Sheol, Xenovasor△ do Céu"" uma vez por turno.
+Se este card está na sua mão e você controla um monstro ""Xenovasor△"": você pode Invocar este card por Invocação-Especial.
+Durante sua Fase Principal: você pode adicionar té 2 Magias/Armadilhas banidos com a face para baixo ""Xenovasor△"" com nomes diferentes da sua mão, você também não pode ativar cards ou efeitos pelo resto deste turno, exceto cards ou efeitos ""Xenovasor△""."
+100267032,"Sheol, Xenovasor△ do Céu",str1,Invocação Especial
+100267032,"Sheol, Xenovasor△ do Céu",str2,Banir
+100267032,"Sheol, Xenovasor△ do Céu",str3,Recuperar
+100267032,"Sheol, Xenovasor△ do Céu",str4,"Banido com a face para baixo por ""Sheol, Xenovasor△ do Céu"""
+100267033,"Tuonela, Xenovasor△ do Azul",name,"Tuonela, Xenovasor△ do Azul"
+100267033,"Tuonela, Xenovasor△ do Azul",desc,"Se este card é Invocado por Invocação-Especial: bana (com a face para baixo) os 3 cards do topo do seu Deck.
+Você só pode usar cada um dos seguintes efeitos de ""Tuonela, Xenovasor△ do Azul"" uma vez por turno.
+Se este card está na sua mão e seu oponente controla mais monstros que você: você pode Invocar este card por Invocação-Especial.
+Durante sua Fase Principal: você pode Invocar por Invocação-Especial 1 dos seus monstros banidos com a face para baixo ""Xenovasor△"" você também não pode ativar cards ou efeitos pelo resto deste turno, exceto cards ou efeitos ""Xenovasor△""."
+100267033,"Tuonela, Xenovasor△ do Azul",str1,Invocação Especial
+100267033,"Tuonela, Xenovasor△ do Azul",str2,Banir
+100267033,"Tuonela, Xenovasor△ do Azul",str3,Invocação Especial
+100267033,"Tuonela, Xenovasor△ do Azul",str4,"Banido com a face para baixo por ""Tuonela, Xenovasor△ do Azul"""
+100267034,"Naraka, Xenovasor△ do Escarlate",name,"Naraka, Xenovasor△ do Escarlate"
+100267034,"Naraka, Xenovasor△ do Escarlate",desc,"Se este card é Invocado por Invocação-Especial: bana (com a face para baixo) os 4 cards do topo do seu Deck.
+Você só pode usar cada um dos seguintes efeitos de ""Naraka, Xenovasor△ do Escarlate"" uma vez por turno.
+Se seu oponente Invocar um ou mais monstros: você pode Invocar este card por Invocação-Especial.
+Durante a Fase Principal do seu oponente (Efeito Rápido): você pode Invocar por Invocação-Especial 1 dos seus monstros banidos com a face para baixo ""Xenovasor△"" de Nível 5 ou maior, você também não pode ativar cards ou efeitos pelo resto deste turno, exceto cards ou efeitos ""Xenovasor△""."
+100267034,"Naraka, Xenovasor△ do Escarlate",str1,Invocação Especial
+100267034,"Naraka, Xenovasor△ do Escarlate",str2,Banir
+100267034,"Naraka, Xenovasor△ do Escarlate",str3,Invocação Especial
+100267034,"Naraka, Xenovasor△ do Escarlate",str4,"Banido com a face para baixo por ""Naraka, Xenovasor△ do Escarlate"""
+100267035,"Yomi, Xenovasor△ Trovão do Céu",name,"Yomi, Xenovasor△ Trovão do Céu"
+100267035,"Yomi, Xenovasor△ Trovão do Céu",desc,"Você pode revelar este card na sua mão; bana-o (com a face para baixo), e se fizer, adicione 1 dos seus cards banidos com a face para baixo ""Xenovasor△"" à sua mão, exceto um monstro de Nível 5. Você só pode usar este efeito de ""Yomi, Xenovasor△ Trovão do Céu"" uma vez por turno.
+Se este card é Invocado por Invocação-Normal ou Especial: bana (com a face para baixo) os 5 cards do topo do seu Deck.
+Uma vez por turno, quando seu oponente ativar um efeito de monstro (Efeito Rápido): você pode embaralhar 1 dos seus monstros banidos com a face para baixo ""Xenovasor△"" com o mesmo Atributo no Deck, e se fizer, negue a ativação.
+"
+100267035,"Yomi, Xenovasor△ Trovão do Céu",str1,Adicionar à mão
+100267035,"Yomi, Xenovasor△ Trovão do Céu",str2,Banir
+100267035,"Yomi, Xenovasor△ Trovão do Céu",str3,Negar a ativação
+100267035,"Yomi, Xenovasor△ Trovão do Céu",str4,"Banido com a face para baixo pelo efeito ① de ""Yomi, Xenovasor△ Trovão do Céu"""
+100267035,"Yomi, Xenovasor△ Trovão do Céu",str5,"Banido com a face para baixo pelo efeito ② de ""Yomi, Xenovasor△ Trovão do Céu"""
+100267036,"Helheim, Xenovasor△ Pico do Sepultamento",name,"Helheim, Xenovasor△ Pico do Sepultamento"
+100267036,"Helheim, Xenovasor△ Pico do Sepultamento",desc,"Durante a Fase Principal (Efeito Rápido): você pode revelar este card na sua mão; bana-o (com a face para baixo), e se fizer, você pode Invocar por Invocação-Especial 1 dos seus cards banidos com a face para baixo ""Xenovasor△"", exceto um monstro de Nível 6. Você só pode usar este efeito de ""Helheim, Xenovasor△ Pico do Sepultamento"" uma vez por turno.
+Se este card é Invocado por Invocação-Normal ou Especial: bana (com a face para baixo) os 6 cards do topo do seu Deck.
+Outros cards ""Xenovasor△"" que você controla não podem ser destruídos por efeitos do seu oponente, seu oponente também não pode escolhe-los com efeitos."
+100267036,"Helheim, Xenovasor△ Pico do Sepultamento",str1,Invocação Especial
+100267036,"Helheim, Xenovasor△ Pico do Sepultamento",str2,Banir
+100267036,"Helheim, Xenovasor△ Pico do Sepultamento",str4,"Banido com a face para baixo pelo efeito ① de ""Helheim, Xenovasor△ Pico do Sepultamento"""
+100267036,"Helheim, Xenovasor△ Pico do Sepultamento",str5,"Banido com a face para baixo pelo efeito ② de ""Helheim, Xenovasor△ Pico do Sepultamento"""
+100267037,"Ploutonion, Xenovasor△ Tempestado Furiosa",name,"Ploutonion, Xenovasor△ Tempestado Furiosa"
+100267037,"Ploutonion, Xenovasor△ Tempestado Furiosa",desc,"(Efeito Rápido): você pode revelar este e outro card ""Xenovasor△"" na sua mão; bana-os (com a face para baixo), e se fizer, compre 2 cards. Você só pode usar este efeito de ""Ploutonion, Xenovasor△ Tempestado Furiosa"" uma vez por turno.
+Se este card é Invocado por Invocação-Normal ou Especial: bana (com a face para baixo) os 7 cards do topo do seu Deck.
+Uma vez por turno (Efeito Rápido): você pode embaralhar 1 dos seus monstros banidos com a face para baixo ""Xenovasor△"" no Deck, então você pode embaralhar 1 monstro que seu oponente controla com o mesmo Atributo no Deck."
+100267037,"Ploutonion, Xenovasor△ Tempestado Furiosa",str1,Comprar
+100267037,"Ploutonion, Xenovasor△ Tempestado Furiosa",str2,Banir
+100267037,"Ploutonion, Xenovasor△ Tempestado Furiosa",str3,Retornar ao Deck
+100267037,"Ploutonion, Xenovasor△ Tempestado Furiosa",str4,"Revelado pelo efeito de ""Ploutonion, Xenovasor△ Tempestado Furiosa"""
+100267037,"Ploutonion, Xenovasor△ Tempestado Furiosa",str5,Retornar o monstro para o Deck?
+100267037,"Ploutonion, Xenovasor△ Tempestado Furiosa",str6,"Banido com a face para baixo pelo efeito ① de ""Ploutonion, Xenovasor△ Tempestado Furiosa"""
+100267037,"Ploutonion, Xenovasor△ Tempestado Furiosa",str7,"Banido com a face para baixo pelo efeito ② de ""Ploutonion, Xenovasor△ Tempestado Furiosa"""
+100267038,"Jahannam, Xenovasor△ Devorador do Vazio",name,"Jahannam, Xenovasor△ Devorador do Vazio"
+100267038,"Jahannam, Xenovasor△ Devorador do Vazio",desc,"Se este card é Invocado por Invocação-Especial ou Normal: bana (com a face para baixo) os 8 cards do topo do seu Deck.
+Ganha estes efeitos baseado no número total de cards banidos com a face para baixo.
+● 10+: Não pode ser destruído por batalha.
+● 20+: Uma vez por turno (Efeito Rápido): você pode escolher 1 card no campo; destrua-o.
+● 30+: Uma vez por turno, durante a Fase Final do seu oponente: você pode adicionar 1 dos seus cards banidos com a face para baixo à sua mão.
+● 40+: Ambos os jogadores pulam suas Fases de Compra."
+100267038,"Jahannam, Xenovasor△ Devorador do Vazio",str1,Banir
+100267038,"Jahannam, Xenovasor△ Devorador do Vazio",str2,Destruir
+100267038,"Jahannam, Xenovasor△ Devorador do Vazio",str3,Recuperar
+100267038,"Jahannam, Xenovasor△ Devorador do Vazio",str4,"Banido com a face para baixo por ""Jahannam, Xenovasor△ Devorador do Vazio"""
+100267039,Valvols - Território Xenovasor△,name,Valvols - Território Xenovasor△
+100267039,Valvols - Território Xenovasor△,desc,"Ative este card banindo (com a face para baixo) 5 cards do seu Cemitério e/ou do topo do seu Deck.
+Durante a sua Fase Principal: você pode adicionar 1 dos seus cards banidos com a face para baixo ""Xenovasor△"" à sua mão, exceto ""Valvols - Território Xenovasor△"". Você só pode usar este efeito de ""Valvols - Território Xenovasor△"" uma vez por turno.
+Enquanto você controlar um monstro ""Xenovasor△"" de Nível 5 ou maior e você não tiver cards no seu Deck, seu oponente não pode ativar cards ou efeitos durante o seu turno."
+100267039,Valvols - Território Xenovasor△,str1,Banir cards do Cemitério para ativar?
+100267039,Valvols - Território Xenovasor△,str2,Adicionar à mão
+100267039,Valvols - Território Xenovasor△,str3,"Banido com a face para baixo por ""Valvols - Território Xenovasor△"""
+100267040,Gospel Xenovasor△,name,Gospel Xenovasor△
+100267040,Gospel Xenovasor△,desc,"Ative este card banindo (com a face para baixo) 5 cards do seu Cemitério e/ou do topo do seu Deck.
+Durante sua Fase Principal, você pode Invocar por Invocação-Normal 1 monstro ""Xenovasor△"", em adição a sua Invocação-Normal/Baixar (você só pode ganhar este efeito uma vez por turno).
+Durante sua Fase Principal: você pode banir (com a face para baixo) 1 monstro ""Xenovasor△"" que você controla cujo Nível original seja 4 ou menor, e se fizer, Invoque por Invocação-Especial 1 dos monstros ""Xenovasor△"" de Nível 5 ou menor banidos com a face para baixo. Você só pode usar este efeito de ""Gospel Xenovasor△"" uma vez por turno."
+100267040,Gospel Xenovasor△,str1,Banir cards do Cemitério para ativar?
+100267040,Gospel Xenovasor△,str2,"Invocar pelo efeito de ""Gospel Xenovasor△"""
+100267040,Gospel Xenovasor△,str3,Invocação Especial
+100267040,Gospel Xenovasor△,str4,"Banido com a face para baixo pela ativação de ""Gospel Xenovasor△"""
+100267040,Gospel Xenovasor△,str5,"Banido com a face para baixo pelo efeito ② de ""Gospel Xenovasor△"""
+100267041,Julgamento Xenovasor△,name,Julgamento Xenovasor△
+100267041,Julgamento Xenovasor△,desc,"Se seu oponente Invocar por Invocação-Especial ou Normal um ou mais monstros: você pode escolher 1 deles; escolha 1 dos seus monstros banidos com a face para baixo ""Xenovasor△"" com o mesmo Atributo, e adicione-o à sua mão ou Invoque-o por Invocação-Especial, também pelo resto deste turno, você não pode escolher o mesmo Atributo novamente com este efeito de ""Julgamento Xenovasor△"", e você também não pode ativar cards ou efeitos, exceto cards ou efeitos ""Xenovasor△"".
+Uma vez por batalha, durante o cálculo de dano, se seu monstro ""Xenovasor△"" batalhar com um monstro do oponente e você não tem cards no seu Deck: você pode tornar o ATK daquele monstro em 0."
+100267041,Julgamento Xenovasor△,str1,Recuperar
+100267041,Julgamento Xenovasor△,str2,ATK torna-se 0
 100268001,"Exodia, o Obliterador",name,"Exodia, o Obliterador"
 100268001,"Exodia, o Obliterador",desc,"Quando você compra este card durante o seu turno: você pode revela-lo; Invoque-o por Invocação-Especial.
 Se este card é Invocado por Invocação-Especial durante seu turno: você pode ativar este efeito; pelo resto deste turno, nenhum jogador pode ativar cards ou efeito, exceto ""Exodia, o Obliterador"", você também não pode Invocar monstros por Invocação-Normal ou Especial.
@@ -57,13 +349,13 @@ Se Invocado desta forma: seu oponente deve enviar todos os monstros que ele cont
 Se este card é enviado para o Cemitério: você pode ativar este efeito; durante a Fase Final deste turno, adicione 1 monstro Guerreiro do seu Deck à sua mão. Você só pode usar este efeito de ""Gilford o Relâmpago, o Guerreiro dos Raios"" uma vez por turno."
 100268008,"Gilford o Relâmpago, o Guerreiro dos Raios",str2,Enviar para o Cemitério
 100268008,"Gilford o Relâmpago, o Guerreiro dos Raios",str3,Adicionar à mão
-100268010,沉默斗者-沉默魔术师,name,沉默斗者-沉默魔术师
-100268010,沉默斗者-沉默魔术师,desc,"这张卡不能通常召唤。「沉默斗者-沉默魔术师」1回合1次，把自己场上的1只7星以下的魔法师族·战士族怪兽解放的场合才能特殊召唤。
-①：这张卡1回合只有1次不会被战斗·效果破坏。
-②：1回合最多2次，每次对方抽卡才能发动。自己抽1张。对方用自身的卡的效果抽卡的场合，作为代替以那个数量让自己抽卡。
-③：只要自己的手卡在6张以上，对方发动的魔法卡的效果无效化。"
-100268010,沉默斗者-沉默魔术师,str1,Comprar
-100268010,沉默斗者-沉默魔术师,str2,Selecione o número de cards a comprar
+100268010,"Mago Silencioso, a Lutadora Silenciosa",name,"Mago Silencioso, a Lutadora Silenciosa"
+100268010,"Mago Silencioso, a Lutadora Silenciosa",desc,"Não pode ser Invocado por Invocação-Normal/Baixado. Deve ser Invocado por Invocação-Especial (da sua mão) ao oferecer como Tributo 1 monstro de Nível 7 ou menor (Mago ou Guerreiro). Você só pode Invocar por Invocação-Especial ""Mago Silencioso, a Lutadora Silenciosa"" uma vez por turno dessa forma.
+A primeira vez que este card seria destruído por batalha ou por efeito cada turno, ele não é destruído.
+Duas vezes por turno, cada vez que seu oponente comprar um ou mais cards: você pode comprar 1 card, ou se seu oponente compreu por um efeito de um card dele, em vez disso você compra a mesma quantia de card.
+Enquanto você tem 6 ou mais cards na sua mão, nege todos os efeitos ativados de Magias e efeitos do seu oponente."
+100268010,"Mago Silencioso, a Lutadora Silenciosa",str1,Comprar
+100268010,"Mago Silencioso, a Lutadora Silenciosa",str2,选择抽卡张数
 100268011,"Jogo de Penalidade ""GREED, a Ilusão da Avareza""",name,"Jogo de Penalidade ""GREED, a Ilusão da Avareza"""
 100268011,"Jogo de Penalidade ""GREED, a Ilusão da Avareza""",desc,"Se seu oponente adicionou um ou mais cards do Deck à mão neste turno, exceto durante a Fase de Compra: cause 400 de dano a ele por cada card na mão dele, então se o número total de cards na mão dele, campo e Cemitério é 20 ou mais, você pode banir toda a mão dele.
 Você só pode ativar 1 ""Jogo de Penalidade ""GREED, a Ilusão da Avareza"""" uma vez por turno."
@@ -248,119 +540,118 @@ Se um ou mais monstros ""Cúbico(a)"" é Invocado por Invocação-Especial para 
 100272006,Cúbico Bodhi,str2,Colocar um marcador
 100272006,Cúbico Bodhi,str3,Invocação Fusão
 100272006,Cúbico Bodhi,str4,Enviar o card para o Cemitério?
-101306082,静寂猛虎,name,静寂猛虎
-101306082,静寂猛虎,desc,"这张卡召唤·特殊召唤的场合：可以以对方场上1张魔法·陷阱卡为对象；这张卡从场上离开的场合，那张卡破坏。
-这张卡从手卡·场上被送去墓地的场合：可以从自己场上把1张魔法·陷阱卡送去墓地；这张卡特殊召唤。这个效果特殊召唤的这张卡从场上离开的场合除外。
-「静寂猛虎」的每个效果1回合各能使用1次。"
-101306082,静寂猛虎,str1,Destruir
-101306082,静寂猛虎,str2,Invocação Especial
-101306083,听天投命,name,听天投命
-101306083,听天投命,desc,"自己场上的表侧表示卡被对方的卡的效果破坏的场合：可以进行1只投掷硬币，对里表作猜测。猜中的场合，从自己墓地把1只怪兽特殊召唤。猜错的场合，从自己墓地把1张陷阱卡盖放。
-这张卡被对方的卡的效果破坏的场合：可以从以下效果选择1个发动。
-●从自己墓地把1只怪兽特殊召唤。
-●从自己墓地把1张陷阱卡盖放。
-「听天投命」的每个效果1回合各能使用1次。"
-101306083,听天投命,str1,Ativar
-101306083,听天投命,str2,Selecionar ativação
-101306083,听天投命,str3,Invocação Especial
-101306083,听天投命,str4,Baixar uma Armadilha
-101306084,九色鹿 九面妖,name,九色鹿 九面妖
-101306084,九色鹿 九面妖,desc,"4星光·暗属性怪兽×2只以上
-主要阶段（诱发即时效果）：可以把这张卡1个超量素材取除；取除的素材以外的自己手卡·墓地·除外状态的1张卡作为这张卡的超量素材。「九色鹿 九面妖」的这个效果1回合只能使用1次。
-这张卡根据作为素材中的怪兽种族的种类数量得到以下效果。
-●2种以上：不会被卡的效果破坏。
-●3种以上：自己抽卡阶段的通常抽卡变成2张。"
-101306084,九色鹿 九面妖,str1,Como Matéria Xyz
-101306085,贪玩的呱呱公主,name,贪玩的呱呱公主
-101306085,贪玩的呱呱公主,desc,"场上的魔法·陷阱卡回到手卡的场合（伤害步骤除外）：可以把这张卡从手卡·墓地以表侧表示或者里侧守备表示特殊召唤。这个效果从墓地特殊召唤的这张卡从场上离开的场合除外。
-这张卡在怪兽区域存在的状态，场上的其他卡回到手卡的场合（伤害步骤除外）；可以以自己除外状态的1张通常陷阱卡为对象；那张卡盖放。
-「贪玩的呱呱公主」的每个效果1回合各能使用1次。"
-101306085,贪玩的呱呱公主,str1,Invocação Especial
-101306085,贪玩的呱呱公主,str2,Baixar
-101306086,魔道乌贼 大王,name,魔道乌贼 大王
-101306086,魔道乌贼 大王,desc,"水属性怪兽2只
-可以从自己场上把1张卡送去墓地；自己场上的全部的水属性怪兽的攻击力·守备力在这个回合上升500。
-这张卡在墓地存在的状态，自己场上的水属性连接怪兽被对方的效果破坏的场合（伤害步骤除外）：可以把这张卡除外，以那1只被破坏的怪兽为对象；从自己的手卡·墓地把持有那只怪兽连接标记数量以下等级的1只水属性怪兽特殊召唤。
-「魔道乌贼 大王」的每个效果1回合各能使用1次。"
-101306086,魔道乌贼 大王,str1,Aumentar ATK/DEF
-101306086,魔道乌贼 大王,str2,Invocação Especial
-101306087,飞临的蓝锯手,name,飞临的蓝锯手
-101306087,飞临的蓝锯手,desc,"8星以上的暗属性怪兽+战士族怪兽
-这张卡融合召唤的场合：可以把自己墓地·除外状态的1只战士族怪兽，或者对方墓地·除外状态的1只怪兽，当作攻击力·守备力上升500的装备魔法卡使用给这张卡装备。
-对方把魔法·陷阱卡的效果发动时（诱发即时效果）：可以把自己场上1张装备卡送去墓地；那个发动无效。
-「飞临的蓝锯手」的每个效果1回合各能使用1次。"
-101306087,飞临的蓝锯手,str1,Equipar
-101306087,飞临的蓝锯手,str2,Negar a ativação
-101306088,红砷镍半身矿,name,红砷镍半身矿
-101306088,红砷镍半身矿,desc,"这张卡从卡组特殊召唤的场合：可以从卡组把「红砷镍半身矿」以外的1只4星以下的岩石族怪兽加入手卡。
-这张卡作为同调素材被送去墓地的场合：可以（伤害步骤除外）；进行1只岩石族怪兽的召唤。
-「红砷镍半身矿」的每个效果1回合各能使用1次。"
-101306088,红砷镍半身矿,str1,Adicionar à mão
-101306088,红砷镍半身矿,str2,Invocar
-101306089,混沌诞生主教,name,混沌诞生主教
-101306089,混沌诞生主教,desc,"自己场上的这张卡作为同调素材的场合，可以把这张卡当作调整以外的怪兽使用。
-这张卡召唤·特殊召唤的场合：从自己的手卡·卡组·墓地把1只「混沌诞生主教」特殊召唤，那只怪兽变成光属性，这个效果的发动后，直到回合结束时自己不是光·暗属性怪兽不能特殊召唤，不是同调怪兽不能从额外卡组特殊召唤。「混沌诞生主教」的这个效果1回合只能使用1次。"
-101306089,混沌诞生主教,str2,Invocação Especial
-101306090,城主之具象天使,name,城主之具象天使
-101306090,城主之具象天使,desc,"调整+调整以外的怪兽1只以上
-可以以这张卡相邻纵列1只对方怪兽，或者和这张卡相隔2纵列的对方魔法与陷阱区域1张卡为对象；那张卡除外。
-这张卡当作永续魔法卡被放置在魔法与陷阱区域的场合：可以从卡组把1张「具象天使」卡送去墓地。
-「城主之具象天使」的以上效果1回合各能使用1次。
-这张卡当作永续魔法卡使用中的场合，双方玩家在同一连锁上最多只能发动1次效果。"
-101306090,城主之具象天使,str1,Banir
-101306090,城主之具象天使,str2,Enviar para o Cemitério
-101306091,具象天使的元帅,name,具象天使的元帅
-101306091,具象天使的元帅,desc,"调整+调整以外的怪兽1只以上
-这张卡特殊召唤的场合：发动这个效果；双方玩家可以各从自身额外卡组把1只天使族同调怪兽效果无效特殊召唤，这张卡以及这个效果特殊召唤的怪兽不能作为超量·连接召唤的素材，从场上离开的场合回到额外卡组。
-这张卡成为「具象天使」怪兽的攻击的对象时：那次攻击无效，这张卡的控制权转移给对方。
-「具象天使的元帅」的每个效果1回合各能使用1次。"
-101306091,具象天使的元帅,str1,Ativar
-101306091,具象天使的元帅,str2,Negar o ataque
-101306091,具象天使的元帅,str3,"O efeito de ""具象天使的元帅"" está sendo aplicado."
-101306091,具象天使的元帅,str4,Invocação Especial?
-101306092,具象天使的战略分值,name,具象天使的战略分值
-101306092,具象天使的战略分值,desc,"从卡组把「具象天使的战略分值」以外的1张「具象天使」魔法·陷阱卡加入手卡，这张卡的发动后，直到回合结束时，自己不是光·暗属性同调怪兽不能从额外卡组特殊召唤。
-可以把这个回合没有送去墓地的这张卡从墓地除外；让自己魔法与陷阱区域的1张原本持有者是自己的「具象天使」怪兽卡回到额外卡组，那之后，可以把那特殊召唤。
-「具象天使的战略分值」的每个效果1回合各能使用1次。"
-101306092,具象天使的战略分值,str1,Adicionar à mão
-101306092,具象天使的战略分值,str2,Retornar ao Deck Adicional
-101306092,具象天使的战略分值,str3,Invocação Especial?
-101306093,具象天使的精妙一手,name,具象天使的精妙一手
-101306093,具象天使的精妙一手,desc,"让自己魔法与陷阱区域的1张原本持有者是自己的「具象天使」怪兽卡回到额外卡组，那之后，可以把那特殊召唤。
-可以把自己墓地的这张卡除外，从自己的手卡·场上（表侧表示）把1张「具象天使」卡送去墓地；从自己的额外卡组把1只「具象天使」怪兽特殊召唤。
-「具象天使的精妙一手」的每个效果1回合各能使用1次。"
-101306093,具象天使的精妙一手,str1,Ativar
-101306093,具象天使的精妙一手,str2,Invocação Especial
-101306093,具象天使的精妙一手,str3,Invocação Especial?
-101306094,具象天使的对峙格位,name,具象天使的对峙格位
-101306094,具象天使的对峙格位,desc,"从额外卡组选同名卡不在自己魔法与陷阱区域存在的2只「具象天使」怪兽，那之内的1只往对方的主要怪兽区域特殊召唤，另1只当作永续魔法卡使用在自己的魔法与陷阱区域以表侧表示放置。
-可以把墓地的这张卡除外；让「具象天使的对峙格位」以外的自己墓地·除外状态最多5张「具象天使」卡回到卡组。
-这张卡发动的回合，自己不是光·暗属性同调怪兽不能从额外卡组特殊召唤。「具象天使的对峙格位」在1回合只能发动1张。"
-101306094,具象天使的对峙格位,str1,Ativar
-101306094,具象天使的对峙格位,str2,Recuperar
-101306095,具象天使的终局之问,name,具象天使的终局之问
-101306095,具象天使的终局之问,desc,"（注：本地暂时无法正常使用）
-
-这张卡根据自己魔法与陷阱区域的「具象天使」怪兽卡的数量得到以下效果。
-●1张以上：1回合1次，对方准备阶段：可以抽1张。
-●2张以上：对方把怪兽特殊召唤之际，使用的区域由自己选择。
-●3张以上：1回合1次， 自己可以把1张「具象天使」陷阱卡在盖放的回合发动。
-●4张以上：1回合1次，对方把怪兽特殊召唤时（伤害步骤除外）；可以把那些怪兽除外。
-●5张：1回合1次：可以从额外卡组把1只「具象天使」怪兽特殊召唤。"
-101306095,具象天使的终局之问,str1,Ativar
-101306095,具象天使的终局之问,str2,Comprar
-101306095,具象天使的终局之问,str4,"Ativar aplicando o efeito de ""具象天使的终局之问""."
-101306095,具象天使的终局之问,str5,Banir
-101306095,具象天使的终局之问,str6,Invocação Especial
-101306096,具象天使之裁,name,具象天使之裁
-101306096,具象天使之裁,desc,"场上的「具象天使」怪兽卡数量的以下效果适用。
-●1~4：对方场上1张表侧表示卡的效果无效。
-●5张以上：对方场上的卡全部除外。
-可以把墓地的这张卡除外；从自己的手卡·场上（表侧表示）把1张「具象天使」卡送去墓地，那之后，可以从额外卡组把同名卡不在自己魔法与陷阱区域存在的1张「具象天使」怪兽当作永续魔法卡使用在自己的魔法与陷阱区域以表侧表示放置。
-「具象天使之裁」的每个效果1回合各能使用1次。"
-101306096,具象天使之裁,str1,Ativar
-101306096,具象天使之裁,str2,Enviar para o Cemitério
-101306096,具象天使之裁,str3,Colocar?
+101306082,Tigresa em Repouso Silencioso,name,Tigresa em Repouso Silencioso
+101306082,Tigresa em Repouso Silencioso,desc,"Se este card é Invocado por Invocação-Normal ou Especial: você pode escolher 1 Magia/Armadilha que seu oponente controla; destrói aquele card quando este card deixar o campo.
+Se este card é enviado da mão ou campo ao Cemitério: você pode enviar 1 Magia/Armadilha que você controla ao Cemitério; Invoque por Inocação-Especial este card, mas bana-o quando deixar o campo.
+Você só pode usar cada um dos efeitos de ""Tigresa em Repouso Silencioso"" uma vez por turno."
+101306082,Tigresa em Repouso Silencioso,str1,Destruir
+101306082,Tigresa em Repouso Silencioso,str2,Invocação Especial
+101306083,Apenas Jogue uma Moeda,name,Apenas Jogue uma Moeda
+101306083,Apenas Jogue uma Moeda,desc,"Se um ou mais cards com a face para cima que você são destruídos por um efeito do oponente: você pode jogar uma moeda. Se você acertar, Invoque por Invocação-Especial 1 monstro do seu Cemitério. Se você errar, Baixe 1 Armadilha do seu Cemitério.
+Se este card em sua posse é destruído por um efeito do oponente: você pode ativar 1 desses efeitos;
+● Invoque por Invocação-Especial 1 monstro do seu Cemitério.
+● Baixe 1 Armadilha do seu Cemitério.
+Você só pode usar cada um dos efeitos de ""Apenas Jogue uma Moeda"" uma vez por turno."
+101306083,Apenas Jogue uma Moeda,str1,Ativar
+101306083,Apenas Jogue uma Moeda,str2,选择发动
+101306083,Apenas Jogue uma Moeda,str3,Invocação Especial
+101306083,Apenas Jogue uma Moeda,str4,Baixar uma Armadilha
+101306084,"Kumenyo, o Cervo de Nove Cores",name,"Kumenyo, o Cervo de Nove Cores"
+101306084,"Kumenyo, o Cervo de Nove Cores",desc,"2+ monstros de Nível 4 LUZ e/ou TREVAS
+Durante a Fase Principal (Efeito Rápido): você pode desassociar 1 matéria deste card; associe 1 card da sua mão, Cemitério, ou banimente neste card, exceto a matéria desassociada. Você só pode usar este efeito de ""Kumenyo, o Cervo de Nove Cores"" uma vez por turno.
+Ganha os seguintes efeitos, baseado no número de diferentes Tipos de Monstros associado nele.
+● 2+: Não pode ser destruído por efeitos.
+● 3+: Compre 2 cards em vez de 1 para a sua compra normal durante sua Fase de Compra."
+101306084,"Kumenyo, o Cervo de Nove Cores",str1,Como Matéria Xyz
+101306085,"Kerolia, a Brincalhona",name,"Kerolia, a Brincalhona"
+101306085,"Kerolia, a Brincalhona",desc,"Se um ou mais Magia/Armadilha(s) no campo são retornados à mão (exceto durante a Etapa de Dano): você pode Invocar por Invocação-Especial este card do seu Cemitério (se ele estava lá quando aquele card foi retornado) ou mão (mesmo se não), com a face para cima ou para baixo em Posição de Defesa, mas se foi Invocado do Cemitério, bana-o quando deixar o campo.
+Se um ou mais outro(s) card no campo é retornado à mão, enquanto este card está na Zona de Monstros (exceto durante a Etapa de Dano): você pode escolher 1 das suas Armadilhas Normal banidas; Baixe-o.
+Você só pode usar cada um dos efeitos de ""Kerolia, a Brincalhona"" uma vez por turno."
+101306085,"Kerolia, a Brincalhona",str1,Invocação Especial
+101306085,"Kerolia, a Brincalhona",str2,Baixar
+101306086,"Archidux, o Feiticeiro Lula",name,"Archidux, o Feiticeiro Lula"
+101306086,"Archidux, o Feiticeiro Lula",desc,"2 monstros ÁGUA
+Você pode enviar 1 card que você controla ao Cemitério; todos os monstro ÁGUA que você controla ganham 500 de ATK/DEF este turno.
+Se um ou mais Monstros Link de ÁGUA que você controla é destruído por um efeito do oponente, enquanto este card está no seu Cemitério (exceto durante a Etapa de Dano): você pode banir este card, então escolha 1 daqueles monstros destruídos; Invoque por Invocação-Especial 1 monstro de ÁGUA da sua mão ou Cemitério, com um Nível menor ou igual a Escala Link daquele monstro.
+Você só pode usar cada um dos efeitos de ""Archidux, o Feiticeiro Lula"" uma vez por turno."
+101306086,"Archidux, o Feiticeiro Lula",str1,Aumentar ATK/DEF
+101306086,"Archidux, o Feiticeiro Lula",str2,Invocação Especial
+101306087,Skyborne Blue Cularsaw,name,Skyborne Blue Cularsaw
+101306087,Skyborne Blue Cularsaw,desc,"1 monstro TREVAS Nível 8 ou maior + 1 monstro Guerreiro
+Se este card é Invocado por Invocação-Fusão: você pode equipar 1 monstro Guerreiro do seu Cemitério ou banimento, ou 1 monstro do Cemitério ou banimento do seu oponente, a este card como uma Magia de Equipamento que da 500 de ATK/DEF.
+Quando seu oponente ativar uma Magia/Armadilha ou efeito (Efeito Rápido): você pode enviar 1 Card de Equipamento que você controla ao Cemitério; negue aquela ativação.
+Você só pode usar cada um dos efeitos de ""Skyborne Blue Cularsaw"" uma vez por turno."
+101306087,Skyborne Blue Cularsaw,str1,Equipar
+101306087,Skyborne Blue Cularsaw,str2,Negar a ativação
+101306088,Meia Fatia de Nickeline,name,Meia Fatia de Nickeline
+101306088,Meia Fatia de Nickeline,desc,"Se este card é Invocado por Invocação-Especial do seu Deck: você pode adicionar 1 monstro Rocha Nível 4 ou menor do seu Deck à sua mão, exceto ""Meia Fatia de Nickeline"".
+Se este card é enviado ao Cemitério como Matéria Synchro, você pode (exceto durante a Etapa de Dano): imediatamente após ativar este efeito, Invocar por Invocação-Normal 1 monstro Rocha.
+Você só pode usar cada um dos efeitos de ""Meia Fatia de Nickeline"" uma vez por turno."
+101306088,Meia Fatia de Nickeline,str1,Adicionar à mão
+101306088,Meia Fatia de Nickeline,str2,Invocar
+101306089,Bispo da Prole do Caos,name,Bispo da Prole do Caos
+101306089,Bispo da Prole do Caos,desc,"Se este card que você controla seria usado como Matéria Sinchro, você pode considera-lo como não-Regulador.
+Se este card é Invocado por Invocação-Normal ou Especial: você pode Invocar por Invocação-Especial 1 ""Bispo da Prole do Caos"" da sua mão, Deck, ou Cemitério, e se fizer, ele se torna LUZ, também pelo resto deste turno, você não pode Invocar por Invocação-Especial, exceto monstro LUZ ou TREVAS, e você não pode Invocar por Invocação-Especial do seu Deck Adicional, exceto monstros Sinchro. Você só pode usar este efeito de ""Bispo da Prole do Caos"" uma vez por turno."
+101306089,Bispo da Prole do Caos,str2,Invocação Especial
+101306090,Castellan de Anjoléquia,name,Castellan de Anjoléquia
+101306090,Castellan de Anjoléquia,desc,"1 Regulador + 1+ não-Reguladores
+Você pode escolher 1 monstro do oponente em uma coluna adjacente a este card, ou 1 card na Zona de Magia & Armadilha do seu oponente que está a 2 colunas de distância deste card; bana aquele card.
+Se este card é colocado na Zona de Magia & Armadilha como uma Magia Contínua: você pode enviar 1 card ""Anjoléquia"" do seu Deck ao Cemitério.
+Você só pode usar cada um dos efeitos anteriores de ""Castellan de Anjoléquia"" uma vez por turno.
+Enquanto este card é considerado como uma Magia Contínua, cada jogar só pode ativar 1 card ou efeito por Corrente."
+101306090,Castellan de Anjoléquia,str1,Banir
+101306090,Castellan de Anjoléquia,str2,Enviar para o Cemitério
+101306091,Seneschal de Anjoléquia,name,Seneschal de Anjoléquia
+101306091,Seneschal de Anjoléquia,desc,"1 Regulador + 1+ não-Reguladores
+Se este card é Invocado por Invocação-Especial: ative este efeito; cada jogador pode Invocar por Invocação-Especial 1 Monstro Sinchro Fada de seu Deck Adicional (mas negue seus efeitos), este card também, e monstros Invocados por Invocação-Especial por este efeito, não podem ser usados como matéria para Invocação-Xyz ou Link, e retorne-os ao Deck Adicional quando deixarem o campo.
+Se um monstro ""Anjoléquia"" escolher este card para um ataque: negue aquele ataque, e se fizer, de controle deste card ao seu oponente.
+Você só pode usar cada um dos efeitos de ""Seneschal de Anjoléquia"" uma vez por turno."
+101306091,Seneschal de Anjoléquia,str1,Ativar
+101306091,Seneschal de Anjoléquia,str2,Negar o ataque
+101306091,Seneschal de Anjoléquia,str3,O efeito de {CARD} está sendo aplicado.
+101306091,Seneschal de Anjoléquia,str4,Invocação Especial?
+101306092,Pontuação de Estratégia de Anjoléquia,name,Pontuação de Estratégia de Anjoléquia
+101306092,Pontuação de Estratégia de Anjoléquia,desc,"Adicione 1 Magia/Armadilha ""Anjoléquia"" do seu Deck à sua mão, exceto ""Pontuação de Estratégia de Anjoléquia"", também pelo resto deste turno após ativar este card, você não pode Invocar por Invocação-Especial do Deck Adicional, exceto Monstros Sinchro de LUZ ou TREVAS.
+Se este card está no seu Cemitério, exceto durante o turno em que foi enviado para lá: você pode bani-lo; retorne 1 Monstro ""Anjoléquia"" que você controla na sua Zona de Magia & Armadilha ao Deck Adicional, então Invoque-o por Invocação-Especial.
+Você só pode usar cada um dos efeitos de ""Pontuação de Estratégia de Anjoléquia"" uma vez por turno."
+101306092,Pontuação de Estratégia de Anjoléquia,str1,Adicionar à mão
+101306092,Pontuação de Estratégia de Anjoléquia,str2,Retornar ao Deck Adicional
+101306092,Pontuação de Estratégia de Anjoléquia,str3,Invocação Especial?
+101306093,Movimento Brilhante de Anjoléquia,name,Movimento Brilhante de Anjoléquia
+101306093,Movimento Brilhante de Anjoléquia,desc,"Retorne 1 Monstro ""Anjoléquia"" que você controla na sua Zona de Magia & Armadilha ao Deck Adicional, então você pode Invoca-lo por Invocação-Especial.
+Você pode banir este card do seu Cemitério, então envie 1 card ""Anjoléquia"" da sua mão ou com a face para cima no campo ao Cemitério; Invoque por Invocação-Especial 1 monstro ""Anjoléquia"" do seu Deck Adicional.
+Você só pode usar cada efeito de ""Movimento Brilhante de Anjoléquia"" uma vez por turno."
+101306093,Movimento Brilhante de Anjoléquia,str1,Ativar
+101306093,Movimento Brilhante de Anjoléquia,str2,Invocação Especial
+101306093,Movimento Brilhante de Anjoléquia,str3,Invocação Especial?
+101306094,Oposição de Anjoléquia,name,Oposição de Anjoléquia
+101306094,Oposição de Anjoléquia,desc,"Escolha 2 monstros ""Anjoléquia"" no seu Deck Adicional, com nomes diferentes dos cards na sua Zona de Magia & Armadilha, Invoque por Invocação-Especial 1 deles na Zona Principal de Monstros do seu oponente, e coloque o outro na sua Zona de Magia & Armadilha com a face para cima como uma Magia Contínua.
+Você pode banir este card do seu Cemitério; embaralhe até 5 cards ""Anjoléquia"" no Deck do seu Cemitério e/ou banimento, exceto ""Oposição de Anjoléquia"".
+Você não pode Invocar por Invocação-Especial do seu Deck Adicional no turno que ativar este card, exceto Monstros Sinchro de LUZ ou TREVAS.
+Você só pode ativar 1 ""Oposição de Anjoléquia"" por turno."
+101306094,Oposição de Anjoléquia,str1,Ativar
+101306094,Oposição de Anjoléquia,str2,Recuperar
+101306095,Problema de Fim de Jogo de Anjoléquia,name,Problema de Fim de Jogo de Anjoléquia
+101306095,Problema de Fim de Jogo de Anjoléquia,desc,"Este card ganha os seguintes efeitos, baseado no número de Monstros ""Anjoléquia"" na sua Zona de Magia & Armadilha.
+● 1+: Uma vez por turno, durante a Fase de Apoio do seu oponente: você pode comprar 1 card.
+● 2+: Quando seu oponente Invocaria por Invocação-Especial um ou mais monstros, você pode escolher a(s) zona(s) para coloca-lo.
+● 3+: Uma vez por turno, você pode ativar 1 Armadilha ""Anjoléquia"" no turno em que foi Baixada.
+● 4+: Uma vez por turno, quando seu oponente Invoca por Invocação-Especial um ou mais monstros (exceto durante a Etapa de Dano): você pode banir aquele(s) monstro(s).
+● 5: Uma vez por turno: você pode Invocar por Invocação-Especial 1 monstro ""Anjoléquia"" do seu Deck Adicional."
+101306095,Problema de Fim de Jogo de Anjoléquia,str1,Ativar
+101306095,Problema de Fim de Jogo de Anjoléquia,str2,Comprar
+101306095,Problema de Fim de Jogo de Anjoléquia,str4,Ativar aplicando o efeito de {CARD}.
+101306095,Problema de Fim de Jogo de Anjoléquia,str5,Banir
+101306095,Problema de Fim de Jogo de Anjoléquia,str6,Invocação Especial
+101306096,Veredito de Anjoléquia,name,Veredito de Anjoléquia
+101306096,Veredito de Anjoléquia,desc,"Aplique este efeito baseado no número de Monstros ""Anjoléquia"" no campo.
+● 1 a 4: Negue os efeitos de 1 card com a face para cima que seu oponente controla.
+● 5+: Bana todos os cards que seu oponente controla.
+Você pode banir este card do seu Cemitério; envie 1 card ""Anjoléquia"" da sua mão ou campo com a face para cima para o Cemitério, então você pode colocar 1 monstro ""Anjoléquia"" com um nome diferente daquele card na sua Zona de Magia & Armadilha, do seu Deck Adicional na sua Zona de Magia & Armadilha com a face para cima como uma Magia Contínua.
+Você só pode usar cada um dos efeitos de ""Veredito de Anjoléquia"" uma vez por turno."
+101306096,Veredito de Anjoléquia,str1,Ativar
+101306096,Veredito de Anjoléquia,str2,Enviar para o Cemitério
+101306096,Veredito de Anjoléquia,str3,是否放置？
 101306281,"Audhumla, Progenitor da Imensidão Congelada",name,"Audhumla, Progenitor da Imensidão Congelada"
 101306281,"Audhumla, Progenitor da Imensidão Congelada",desc,"Se 4 ou mais cards estão no campo: você pode Invocar por Invocação-Especial este card da sua mão.
 Você pode enviar até 2 Magias/Armadilhas que você controla para o Cemitério; compre aquela quantia de cards, então você pode Invocar por Invocação-Especial 1 monstro de  ÁGUA da sua mão.
@@ -588,13 +879,13 @@ Você só pode usar cada efeito de ""Salamagrande Gearblade"" uma vez por turno.
 101307063,Salamagrande Gearblade,str1,Ativar
 101307063,Salamagrande Gearblade,str2,Aumentar ATK
 101307063,Salamagrande Gearblade,str3,Retornar para a mão
-101307071,秋,name,秋
-101307071,秋,desc,"①：这张卡只要在场地区域存在，卡名当作「夏」使用。
-②：1回合1次，可以发动。以对方手卡数量给这张卡放置四季指示物。
-③：自己·对方的战斗阶段开始时才能发动。从自己的手卡·卡组·墓地把「秋」以外的1张可以放置四季指示物的场地魔法卡在自己场上以表侧表示放置（这张卡的四季指示物移给那张卡）。
-④：场地区域的卡被效果破坏的场合，可以作为代替把墓地的这张卡除外。"
-101307071,秋,str2,Colocar um marcador
-101307071,秋,str3,Colocar na Zona do Campo
+101307071,Outono,name,Outono
+101307071,Outono,desc,"O nome deste card se torna ""Verão"" quando está na Zona de Campo.
+Uma vez por turno: você pode colocar um Marcador de Estação neste card igual ao número de cards na mão do seu oponente.
+No início da Fase de Batalha: você pode colocar 1 Magia de Campo da sua mão, Deck, ou Cemitério que você pode colocar um Marcador de Estação, exceto ""Outono"", e coloca-lo com a face para cima no seu campo, e se fizer, coloque todos os Marcadores de Estação deste card naquele card.
+Se um ou mais cards na Zona de Campo seria destruído por um efeito, em vez disso você pode banir este card do seu Cemitério."
+101307071,Outono,str2,Colocar um marcador
+101307071,Outono,str3,Colocar na Zona do Campo
 101307072,Dominação do Deus do Sol,name,Dominação do Deus do Sol
 101307072,Dominação do Deus do Sol,desc,"Se um monstro ""O Dragão Alado de Rá"" está no campo: aplique esses efeitos em sequência.
 ● Invoque por Invocação-Especial 1 monstro de cada Cemitério para o seu campo.
