@@ -2,7 +2,7 @@
 
 Generated from `KR/Workspace/test-release.cdb` so database updates can be reviewed as text diffs.
 
-Cards: `120`
+Cards: `122`
 
 ## Contents
 
@@ -12,4 +12,4 @@ Cards: `120`
 - `datas.csv`: raw CDB `datas` table.
 - `cards/<id>.json`: combined card data and text record.
 
-CDB SHA-256: `cfe5d4bec7229aeada098f80a90b9b8919a8078d09c8fc09ba66a516b25f73a3`
+CDB SHA-256: `3701f0abf2f56275687403d942902b9d3374a63841bcac9e0420a4c5eb7f5d07`
