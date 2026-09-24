@@ -1,314 +1,4 @@
 id,name,field,value
-100200292,Elfe Pur-Sang,name,Elfe Pur-Sang
-100200292,Elfe Pur-Sang,desc,"Durant votre Main Phase : vous pouvez envoyer 1 Magie d'Équipement depuis votre Deck au Cimetière, puis cette carte gagne 500 ATK jusqu'à la fin du tour de votre adversaire.
-Vous ne pouvez utiliser cet effet de ""Elfe Pur-Sang"" qu'une fois par tour.
-Lorsque cette carte détruit un monstre de l'adversaire au combat : vous pouvez ajouter à votre main, ou Invoquer Spécialement, 1 monstre LUMIÈRE Magicien de max. Niveau 4 (""Elfe Pur-Sang"" exclu) depuis votre Deck."
-100200292,Elfe Pur-Sang,str1,Envoyer au Cimetière
-100200292,Elfe Pur-Sang,str2,Manipulation du Deck
-100200293,Lion d'Assaut,name,Lion d'Assaut
-100200293,Lion d'Assaut,desc,"Vous pouvez Invoquer par Sacrifice cette carte face recto en Sacrifiant 1 monstre Bête-Guerrier.
-Si cette carte combat un monstre, les dommages de combat qu'elle inflige à votre adversaire sont doublés.
-Si un ou plusieurs monstres Bête-Guerrier sont Invoqués Normalement ou Spécialement sur votre Terrain tant que cette carte est dans votre Cimetière : vous pouvez ajouter cette carte à votre main, puis immédiatement après la résolution de cet effet, vous pouvez Invoquer par Sacrifice cette carte face recto, et si vous le faites, elle gagne 500 ATK, et aussi, bannissez-la lorsqu'elle quitte le Terrain.
-Vous ne pouvez utiliser cet effet de ""Lion d'Assaut"" qu'une fois par tour."
-100200293,Lion d'Assaut,str1,Invocation Sacrifice en Sacrifiant 1 monstre Bête-Guerrier
-100200293,Lion d'Assaut,str2,Ajouter à la main
-100200293,Lion d'Assaut,str3,Invocation Sacrifice ?
-100200294,Connexion de Puissance,name,Connexion de Puissance
-100200294,Connexion de Puissance,desc,"Ciblez un nombre de votre choix de monstres face recto que vous contrôlez (si vous ciblez min. 2 monstres, ils doivent avoir le même Type) ; ils gagnent 500 ATK pour chaque monstre ciblé, jusqu'à la fin de ce tour.
-Si vous avez activé ""Réincarnation d'Armement"" ce tour : vous pouvez ajouter cette carte depuis votre Cimetière à votre main.
-Vous ne pouvez utiliser chaque effet de ""Connexion de Puissance"" qu'une fois par tour."
-100200294,Connexion de Puissance,str1,Activer
-100200294,Connexion de Puissance,str2,Recycler
-100200297,Pazou le Magicien Blindé,name,Pazou le Magicien Blindé
-100200297,Pazou le Magicien Blindé,desc,"(Cette carte est toujours traitée comme carte ""Prophétie"".)
-Si cette carte est dans votre main ou Cimetière : vous pouvez cibler 1 monstre face recto que vous contrôlez ; équipez-lui cette carte comme Magie d'Équipement avec les effets suivants. Vous ne pouvez utiliser cet effet de ""Pazou le Magicien Blindé"" qu'une fois par tour.
-● Le monstre équipé gagne 2100 ATK/DEF tant que vous avez max. 4000 LP.
-● Lorsqu'une carte ou un effet activé par votre adversaire est résolu, si vous contrôlez une carte avec un effet qui nécessite un lancer de dé, vous pouvez annuler l'effet activé, puis bannissez cette carte."
-100200297,Pazou le Magicien Blindé,str1,Équiper
-100200297,Pazou le Magicien Blindé,str3,Annuler l'effet ? (Pazou le Magicien Blindé)
-100267001,Prophète Sennet - Néfertari,name,Prophète Sennet - Néfertari
-100267001,Prophète Sennet - Néfertari,desc,"Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez l'envoyer au Cimetière ; montrez max. 2 Cartes Monstre Normal depuis votre main, Deck, Terrain face recto et/ou Cimetière, puis Posez autant de Magies ""Sennet"" depuis votre Deck.
-Durant le tour de votre adversaire (Effet Rapide) : vous pouvez bannir cette carte depuis votre Cimetière ; équipez 1 Monstre Normal depuis votre Cimetière à 1 Monstre Rituel que vous contrôlez comme Magie d'Équipement.
-Vous ne pouvez utiliser chaque effet de ""Prophète Sennet - Néfertari"" qu'une fois par tour."
-100267001,Prophète Sennet - Néfertari,str1,Poser
-100267001,Prophète Sennet - Néfertari,str2,État
-100267002,Prophète Sennet - Amenhotep,name,Prophète Sennet - Amenhotep
-100267002,Prophète Sennet - Amenhotep,desc,"Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez l'envoyer au Cimetière ; montrez max. 2 Cartes Monstre Normal depuis votre main, Deck, Terrain face recto et/ou Cimetière, puis Posez autant de Pièges ""Sennet"" depuis votre Deck.
-Vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez max. 3 Monstres Normaux dans votre Cimetière ; mélangez-les dans le Deck.
-Vous ne pouvez utiliser chaque effet de ""Prophète Sennet - Amenhotep"" qu'une fois par tour."
-100267002,Prophète Sennet - Amenhotep,str1,Poser
-100267002,Prophète Sennet - Amenhotep,str2,Recycler
-100267003,Sphinx Sennetnakht,name,Sphinx Sennetnakht
-100267003,Sphinx Sennetnakht,desc,"Vous pouvez Invoquer Rituellement cette carte avec une carte ""Sennet"".
-Cette carte équipée avec une Carte d'Équipement n'est pas affectée par les effets activés de votre adversaire.
-Vous ne pouvez utiliser chacun des effets suivants de ""Sphinx Sennetnakht"" qu'une fois par tour.
-Vous pouvez défausser cette carte ; ajoutez 1 carte ""Sennet"" (""Sphinx Sennetnakht"" exclu) depuis votre Deck à votre main.
-(Effet Rapide) : vous pouvez envoyer 1 Carte Monstre Normal face recto que vous contrôlez au Cimetière ; changez autant de monstres contrôlés par votre adversaire que possible en Position de Défense face verso, puis vous pouvez Invoquer Spécialement 1 Monstre Normal depuis votre Cimetière."
-100267003,Sphinx Sennetnakht,str1,Ajouter à la main
-100267003,Sphinx Sennetnakht,str2,Passer en Position de Défense face verso
-100267003,Sphinx Sennetnakht,str3,Invocation Spéciale?
-100267004,Ouadjet Tausennet,name,Ouadjet Tausennet
-100267004,Ouadjet Tausennet,desc,"Vous pouvez Invoquer Rituellement cette carte avec une carte ""Sennet"".
-Cette carte équipée avec une Carte d'Équipement ne peut pas être détruite par des effets de carte.
-Vous ne pouvez utiliser chacun des effets suivants de ""Ouadjet Tausennet"" qu'une fois par tour.
-Vous pouvez défausser cette carte ; envoyez 1 carte ""Sennet"" (""Ouadjet Tausennet"" exclu) depuis votre Deck au Cimetière.
-(Effet Rapide) : vous pouvez envoyer max. 3 Cartes Monstre Normal face recto que vous contrôlez au Cimetière, puis ciblez autant de cartes contrôlées par votre adversaire ; renvoyez-les à la main, puis vous pouvez Invoquer Spécialement 1 Monstre Normal depuis votre Cimetière."
-100267004,Ouadjet Tausennet,str1,Envoyer au Cimetière
-100267004,Ouadjet Tausennet,str2,Renvoyer à la main
-100267004,Ouadjet Tausennet,str3,Invocation Spéciale?
-100267005,Nekhbet Sennetmes,name,Nekhbet Sennetmes
-100267005,Nekhbet Sennetmes,desc,"Vous pouvez Invoquer Rituellement cette carte avec une carte ""Sennet"".
-Cette carte équipée avec une Carte d'Équipement ne peut pas être détruite au combat.
-Vous ne pouvez utiliser chacun des effets suivants de ""Nekhbet Sennetmes"" qu'une fois par tour.
-Vous pouvez défausser cette carte ; ajoutez 1 carte ""Sennet"" (""Nekhbet Sennetmes"" exclu) depuis votre Cimetière à votre main.
-(Effet Rapide) : vous pouvez Invoquer Spécialement 1 Carte Monstre Normal face recto depuis votre Zone Magie & Piège, et si vous le faites, équipez-lui cette carte que vous contrôlez comme Magie d'Équipement qui lui donne 2500 ATK."
-100267005,Nekhbet Sennetmes,str1,Recycler
-100267005,Nekhbet Sennetmes,str2,Invocation Spéciale
-100267005,Nekhbet Sennetmes,str3,Invocation Spéciale?
-100267006,Em Heru Beresennet,name,Em Heru Beresennet
-100267006,Em Heru Beresennet,desc,"Une fois par tour : vous pouvez Invoquer Rituellement 1 Monstre Rituel ""Sennet"" depuis votre main ou Cimetière, en envoyant des Cartes Monstre Normal de noms différents les unes des autres depuis votre main, Deck et/ou Terrain face recto au Cimetière dont la somme des Niveaux est supérieure ou égale à son Niveau, puis vous pouvez lui équiper 1 Monstre Normal depuis votre Cimetière comme Magie d'Équipement.
-Si vous Invoquez Spécialement un ou plusieurs Monstres Normaux non-Jeton : vous pouvez piocher 1 carte.
-Vous ne pouvez utiliser cet effet de ""Em Heru Beresennet"" qu'une fois par tour."
-100267006,Em Heru Beresennet,str1,Invocation Rituel
-100267006,Em Heru Beresennet,str2,Piocher
-100267006,Em Heru Beresennet,str3,Équiper ?
-100267007,Sennet Per Akh,name,Sennet Per Akh
-100267007,Sennet Per Akh,desc,"Ajoutez 1 monstre ""Sennet"" depuis votre Deck à votre main.
-Si vous défaussez un ou plusieurs Monstres Rituels ""Sennet"" tant que cette carte est dans votre Cimetière : vous pouvez bannir cette carte ; Invoquez Spécialement 1 Monstre Fusion (Monstres à Effet exclus) depuis votre Extra Deck avec une ATK inférieure ou égale à celle d'un des monstres défaussés comme Carte Monstre Normal, mais le reste de ce tour, il ne peut pas attaquer directement, et aussi vous ne pouvez pas activer d'effets de monstre non-Zombie.
-Vous ne pouvez utiliser chaque effet de ""Sennet Per Akh"" qu'une fois par tour."
-100267007,Sennet Per Akh,str1,Ajouter à la main
-100267007,Sennet Per Akh,str2,Invocation Spéciale
-100267007,Sennet Per Akh,str3,Traiter comme une Carte Monstre Normal
-100267008,"Un Voyage de Retour vers la Lumière - ""Zenet""",name,"Un Voyage de Retour vers la Lumière - ""Zenet"""
-100267008,"Un Voyage de Retour vers la Lumière - ""Zenet""",desc,"Montrez 2 ou 3 Cartes Monstre Normal dans votre main, Deck, Terrain face recto et/ou Cimetière, puis appliquez l'effet approprié selon le nombre montré, puis si vous avez montré une ou plusieurs cartes dans la main, vous pouvez piocher 1 carte.
-● 2 : Invoquez Spécialement 1 Monstre Fusion de max. Niveau 8 (Monstres à Effet exclus) depuis votre Extra Deck comme Carte Monstre Normal.
-● 3 : Invoquez Spécialement 1 monstre ""Zenet"" depuis votre Deck ou 1 Monstre Normal depuis votre Cimetière.
-Vous ne pouvez activer qu'1 ""Un Voyage de Retour vers la Lumière - ""Zenet"""" par tour."
-100267008,"Un Voyage de Retour vers la Lumière - ""Zenet""",str1,Activer
-100267008,"Un Voyage de Retour vers la Lumière - ""Zenet""",str2,Piocher 1 carte ?
-100267008,"Un Voyage de Retour vers la Lumière - ""Zenet""",str3,Traiter comme une Carte Monstre Normal
-100267009,Am Duasennet,name,Am Duasennet
-100267009,Am Duasennet,desc,"Invoquez Rituellement 1 Monstre Rituel ""Sennet"" depuis votre main ou Cimetière, en envoyant des Cartes Monstre Normal de noms différents les unes des autres depuis votre main, Deck et/ou Terrain face recto au Cimetière dont la somme des Niveaux est supérieure ou égale à son Niveau, puis vous pouvez lui équiper 1 Monstre Normal depuis votre Cimetière comme Magie d'Équipement.
-Si une ou plusieurs Cartes Monstre Normal que vous contrôlez vont être détruites au combat ou par un effet de carte, vous pouvez bannir cette carte depuis votre Cimetière à la place.
-Vous ne pouvez activer qu'1 ""Am Duasennet"" par tour."
-100267009,Am Duasennet,str1,Invocation Rituel
-100267009,Am Duasennet,str3,Équiper ?
-100267010,Cataracte Sennet,name,Cataracte Sennet
-100267010,Cataracte Sennet,desc,"Choisissez un nombre de Zones Monstre Main de l'adversaire égal au nombre de Monstres Rituels ""Sennet"" et de Monstres Normaux que vous contrôlez ; annulez le premier effet de monstre activé dans chacune de ces zones qui est résolu ce tour.
-Si la somme des ATK de toutes les Cartes Monstre Normal que vous contrôlez est supérieure à 3000 : vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 monstre contrôlé par votre adversaire ; envoyez-le au Cimetière.
-Vous ne pouvez utiliser chaque effet de ""Cataracte Sennet"" qu'une fois par tour."
-100267010,Cataracte Sennet,str1,Sélectionnez une Zone
-100267010,Cataracte Sennet,str2,Envoyer au Cimetière
-100267010,Cataracte Sennet,str3,Continuer la sélection ?
-100267011,Chute de Foudre Sennet,name,Chute de Foudre Sennet
-100267011,Chute de Foudre Sennet,desc,"Lorsque votre adversaire active une Carte Magie/Piège tant que vous contrôlez un Monstre Rituel ""Sennet"" ou un Monstre Normal : annulez l'activation, et si vous le faites, détruisez la carte.
-Si la somme des ATK de toutes les Cartes Monstre Normal que vous contrôlez est supérieure à 3000 : vous pouvez bannir cette carte depuis votre Cimetière ; Posez 1 Magie/Piège ""Sennet"" (""Chute de Foudre Sennet"" exclu) depuis votre Deck ou Cimetière.
-Vous ne pouvez utiliser chaque effet de ""Chute de Foudre Sennet"" qu'une fois par tour."
-100267011,Chute de Foudre Sennet,str1,Annuler l'activation et détruire
-100267011,Chute de Foudre Sennet,str2,Poser
-100267016,"Cielo, Voile de Lune Relancée",name,"Cielo, Voile de Lune Relancée"
-100267016,"Cielo, Voile de Lune Relancée",desc,"Lorsque vous piochez cette carte : vous pouvez la révéler ; Invoquez-la Spécialement.
-Si cette carte est dans votre main : vous pouvez placer 1 autre carte depuis votre main ou Terrain face recto au-dessous du Deck ; Invoquez Spécialement cette carte.
-Durant la Main Phase (Effet Rapide) : vous pouvez piocher 1 carte.
-Vous ne pouvez pas ajouter de cartes depuis le Deck à la main le tour où vous activez cet effet, sauf en les piochant.
-Vous ne pouvez utiliser cet effet de ""Cielo, Voile de Lune Relancée"" qu'une fois par tour."
-100267016,"Cielo, Voile de Lune Relancée",str1,Invocation Spéciale
-100267016,"Cielo, Voile de Lune Relancée",str2,Renvoyer au Deck et Invoquer Spécialement
-100267016,"Cielo, Voile de Lune Relancée",str3,Piocher
-100267017,"Carol, Élégance de Lune Relancée",name,"Carol, Élégance de Lune Relancée"
-100267017,"Carol, Élégance de Lune Relancée",desc,"Lorsque vous piochez cette carte : vous pouvez la révéler ; Invoquez-la Spécialement.
-Vous pouvez Invoquer Normalement cette carte sans Sacrifice, mais son ATK d'origine devient 700.
-Si cette carte est Invoquée Normalement ou Spécialement depuis la main : vous pouvez piocher 1 carte, et aussi, vous ne pouvez pas Invoquer Spécialement depuis l'Extra Deck (Monstres Xyz LUMIÈRE exclus) le reste de ce tour.
-Vous ne pouvez pas ajouter de cartes depuis le Deck à la main le tour où vous activez cet effet, sauf en les piochant."
-100267017,"Carol, Élégance de Lune Relancée",str1,Invocation Spéciale
-100267017,"Carol, Élégance de Lune Relancée",str2,Invocation sans Sacrifice
-100267017,"Carol, Élégance de Lune Relancée",str3,Piocher
-100267018,"Rapi, Ailes de Lune Relancée",name,"Rapi, Ailes de Lune Relancée"
-100267018,"Rapi, Ailes de Lune Relancée",desc,"Lorsque vous piochez cette carte : vous pouvez la révéler ; Invoquez-la Spécialement.
-Si cette carte est Invoquée Normalement ou Spécialement depuis la main : vous pouvez piocher 1 carte, et aussi, vous ne pouvez pas Invoquer Spécialement depuis l'Extra Deck (Monstres Xyz LUMIÈRE exclus) le reste de ce tour.
-Vous ne pouvez pas ajouter de cartes depuis le Deck à la main le tour où vous activez cet effet, sauf en les piochant.
-Une fois par tour de l'adversaire, vous pouvez (Effet Rapide) : immédiatement après la résolution de cet effet, Invoquez par Xyz 1 Monstre Xyz LUMIÈRE de Rang 7."
-100267018,"Rapi, Ailes de Lune Relancée",str1,Invocation Spéciale
-100267018,"Rapi, Ailes de Lune Relancée",str2,Piocher
-100267018,"Rapi, Ailes de Lune Relancée",str3,Invocation Xyz
-100267019,"Shayna, Lame de Lune Relancée",name,"Shayna, Lame de Lune Relancée"
-100267019,"Shayna, Lame de Lune Relancée",desc,"Lorsque vous piochez cette carte : vous pouvez la révéler ; Invoquez-la Spécialement.
-Si elle Invoquée de cette façon : vous pouvez cibler 1 monstre contrôlé par votre adversaire ; placez-le au-dessous du Deck.
-Vous pouvez défausser cette carte ; piochez 1 carte.
-Vous ne pouvez pas ajouter de cartes depuis le Deck à la main le tour où vous activez cet effet, sauf en les piochant.
-Vous ne pouvez utiliser cet effet de ""Shayna, Lame de Lune Relancée"" qu'une fois par tour."
-100267019,"Shayna, Lame de Lune Relancée",str1,Invocation Spéciale
-100267019,"Shayna, Lame de Lune Relancée",str2,Renvoyer au Deck
-100267019,"Shayna, Lame de Lune Relancée",str3,Piocher
-100267020,"Croucier, Lampe de Lune Relancée",name,"Croucier, Lampe de Lune Relancée"
-100267020,"Croucier, Lampe de Lune Relancée",desc,"Lorsque vous piochez cette carte : vous pouvez la révéler ; Invoquez-la Spécialement.
-Si elle Invoquée de cette façon : vous pouvez cibler 1 Magie/Piège contrôlé par votre adversaire ; placez-le au-dessous du Deck.
-Vous pouvez défausser cette carte ; piochez 1 carte.
-Vous ne pouvez pas ajouter de cartes depuis le Deck à la main le tour où vous activez cet effet, sauf en les piochant.
-Vous ne pouvez utiliser cet effet de ""Croucier, Lampe de Lune Relancée"" qu'une fois par tour."
-100267020,"Croucier, Lampe de Lune Relancée",str1,Invocation Spéciale
-100267020,"Croucier, Lampe de Lune Relancée",str2,Renvoyer au Deck
-100267020,"Croucier, Lampe de Lune Relancée",str3,Piocher
-100267021,"Squeeze, Démarreur de Lune Relancée",name,"Squeeze, Démarreur de Lune Relancée"
-100267021,"Squeeze, Démarreur de Lune Relancée",desc,"(Effet Rapide) : vous pouvez défausser cette carte, puis activez 1 de ces effets (mais vous ne pouvez utiliser chacun de ces effets de ""Squeeze, Démarreur de Lune Relancée"" qu'une fois par tour) ;
-● Vous ne pouvez pas Invoquer Spécialement depuis l'Extra Deck (Monstres Xyz de Rang 7 exclus) jusqu'à la fin du prochain tour, et aussi, ce tour, chaque fois qu'une ou plusieurs cartes sont ajoutées à la main de votre adversaire, sauf en les piochant, piochez immédiatement 1 carte.
-● Piochez 1 carte.
-Vous ne pouvez pas ajouter de cartes depuis le Deck à la main durant le Duel où vous activez cet effet, sauf en les piochant."
-100267021,"Squeeze, Démarreur de Lune Relancée",str1,Activer
-100267021,"Squeeze, Démarreur de Lune Relancée",str2,Pioche continue
-100267021,"Squeeze, Démarreur de Lune Relancée",str3,Piochez 1 carte(s)
-100267021,"Squeeze, Démarreur de Lune Relancée",str4,"Vous ne pouvez pas chercher dans votre Deck tant que l'effet de ""Squeeze, Démarreur de Lune Relancée"" est appliqué."
-100267021,"Squeeze, Démarreur de Lune Relancée",str5,"Vous ne pouvez pas Invoquer Spécialement tant que l'effet de ""Squeeze, Démarreur de Lune Relancée"" est appliqué."
-100267022,"Cielo, Ciel de Lune Relancée - Les Jeux Sont Faits",name,"Cielo, Ciel de Lune Relancée - Les Jeux Sont Faits"
-100267022,"Cielo, Ciel de Lune Relancée - Les Jeux Sont Faits",desc,"2 monstres ""Lune Relancée"" de Niveau 7
-Non utilisable comme Matériel pour une Invocation Fusion, Xyz ou Lien.
-Si cette carte en votre possession est envoyée à votre Cimetière par une carte de l'adversaire : vous pouvez piocher 1 carte.
-Gagne ces effets tant qu'elle est dans la Zone Monstre Extra.
-● Non affectée par les effets d'autres cartes.
-● Lorsqu'une carte ou un effet activé par votre adversaire qui inclut un effet qui ajoute une ou plusieurs cartes depuis le Deck à la main est résolu, vous pouvez faire devenir l'effet ""Piochez 1 carte"".
-● Une fois par tour (Effet Rapide) : vous pouvez détacher 1 Matériel de cette carte ; piochez 1 carte."
-100267022,"Cielo, Ciel de Lune Relancée - Les Jeux Sont Faits",str2,Changer l'effet ?
-100267022,"Cielo, Ciel de Lune Relancée - Les Jeux Sont Faits",str3,Piocher
-100267022,"Cielo, Ciel de Lune Relancée - Les Jeux Sont Faits",str4,Piocher
-100267023,"Squeeze, Espoir de Lune Relancée - Jackpot",name,"Squeeze, Espoir de Lune Relancée - Jackpot"
-100267023,"Squeeze, Espoir de Lune Relancée - Jackpot",desc,"2+ monstres de Niveau 7
-Les monstres de votre adversaire ne peuvent pas cibler de monstres (celui-ci exclu) avec une attaque.
-Si cette carte est Invoquée par Xyz, ou un ou plusieurs monstres sont Invoqués Spécialement depuis la main : vous pouvez détacher un nombre de votre choix de Matériels de cette carte ; placez autant de cartes contrôlées par votre adversaire au-dessous du Deck dans l'ordre de votre choix.
-Vous ne pouvez utiliser cet effet de ""Squeeze, Espoir de Lune Relancée - Jackpot"" qu'une fois par tour.
-Chaque fois que votre adversaire fait sortir une ou plusieurs cartes de son Deck, sauf en les piochant : vous pouvez attacher la carte du dessus de son Deck à cette carte."
-100267023,"Squeeze, Espoir de Lune Relancée - Jackpot",str2,Renvoyer au Deck
-100267023,"Squeeze, Espoir de Lune Relancée - Jackpot",str3,Attacher un Matériel Xyz
-100267024,Les Étoiles de Lune Relancée,name,Les Étoiles de Lune Relancée
-100267024,Les Étoiles de Lune Relancée,desc,"Placez 1 carte ""Lune Relancée"" (""Les Étoiles de Lune Relancée"" exclue) depuis votre Deck au-dessus de votre Deck, mais vous ne pouvez pas placer une autre carte du même nom avec cet effet de ""Les Étoiles de Lune Relancée"" ce tour, et aussi, aucun joueur ne peut ajouter de cartes depuis le Deck à la main le reste de ce tour après la résolution de cette carte, sauf en les piochant.
-Vous pouvez bannir cette carte depuis votre Cimetière, puis activez 1 de ces effets ;
-● Chaque joueur pioche 1 carte.
-● Si vous contrôlez un Monstre Xyz ""Lune Relancée"" Magicien : piochez 1 carte."
-100267024,Les Étoiles de Lune Relancée,str1,Activer
-100267024,Les Étoiles de Lune Relancée,str2,Piocher
-100267024,Les Étoiles de Lune Relancée,str3,Sélectionnez la carte à placer au-dessus du Deck
-100267024,Les Étoiles de Lune Relancée,str4,Les deux joueurs piochent
-100267024,Les Étoiles de Lune Relancée,str5,Piocher
-100267025,"""Lune Relancée"" la Ville qui ne Dort Jamais",name,"""Lune Relancée"" la Ville qui ne Dort Jamais"
-100267025,"""Lune Relancée"" la Ville qui ne Dort Jamais",desc,"La première fois que chaque monstre ""Lune Relancée"" de Niveau 7 que vous contrôlez va être détruit par un effet de carte chaque tour, il n'est pas détruit.
-Une fois par tour, durant la End Phase : mélangez toutes les cartes ""Lune Relancée"" dans votre Cimetière et bannissement dans le Deck.
-Une fois par tour : vous pouvez activer 1 de ces effets ;
-● Placez 1 carte depuis votre main au-dessus ou au-dessous du Deck, puis piochez 1 carte.
-● Si vous contrôlez un Monstre Xyz ""Lune Relancée"" Magicien : vous pouvez piocher 1 carte."
-100267025,"""Lune Relancée"" la Ville qui ne Dort Jamais",str1,Activer
-100267025,"""Lune Relancée"" la Ville qui ne Dort Jamais",str2,Renvoyer au Deck et piocher 1 carte
-100267025,"""Lune Relancée"" la Ville qui ne Dort Jamais",str3,Piocher
-100267025,"""Lune Relancée"" la Ville qui ne Dort Jamais",str4,Renvoyer au Deck
-100267025,"""Lune Relancée"" la Ville qui ne Dort Jamais",str5,Au-dessus du Deck
-100267025,"""Lune Relancée"" la Ville qui ne Dort Jamais",str6,Au-dessous du Deck
-100267026,Le Scintillement de Lune Relancée,name,Le Scintillement de Lune Relancée
-100267026,Le Scintillement de Lune Relancée,desc,"Invoquez Spécialement 1 Monstre Xyz ""Lune Relancée"" depuis votre Extra Deck, et si vous le faites, attachez-lui cette carte, puis vous pouvez mélanger toutes les cartes ""Lune Relancée"" depuis votre Cimetière dans le Deck.
-Vous pouvez bannir cette carte depuis votre Cimetière ; piochez 1 carte.
-Vous ne pouvez utiliser cet effet de ""Le Scintillement de Lune Relancée"" qu'une fois par tour.
-Vous ne pouvez pas ajouter de cartes depuis Deck à la main durant le Duel où vous activez un effet de cette carte, sauf en les piochant."
-100267026,Le Scintillement de Lune Relancée,str1,Invocation Spéciale
-100267026,Le Scintillement de Lune Relancée,str2,Piocher
-100267026,Le Scintillement de Lune Relancée,str3,Renvoyer la carte au Deck ?
-100267031,Xénovahisseur△ de la Géhenne Vide,name,Xénovahisseur△ de la Géhenne Vide
-100267031,Xénovahisseur△ de la Géhenne Vide,desc,"Si cette carte est Invoquée Normalement ou Spécialement : bannissez (face verso) la carte du dessus de votre Deck.
-Vous ne pouvez utiliser chacun des effets suivants de ""Xénovahisseur△ de la Géhenne Vide"" qu'une fois par tour.
-Si cette carte est dans votre main et que vous ne contrôlez aucun monstre : vous pouvez Invoquer Spécialement cette carte.
-Durant votre Main Phase : vous pouvez ajouter max. 2 de vos monstres ""Xénovahisseur△"" bannis face verso de noms différents (""Xénovahisseur△ de la Géhenne Vide"" exclu) à votre main, et aussi, vous ne pouvez activer ni de cartes ni d'effets (cartes et effets ""Xénovahisseur△"" exclus) le reste de ce tour."
-100267031,Xénovahisseur△ de la Géhenne Vide,str1,Invocation Spéciale
-100267031,Xénovahisseur△ de la Géhenne Vide,str2,Bannir
-100267031,Xénovahisseur△ de la Géhenne Vide,str3,Recycler
-100267031,Xénovahisseur△ de la Géhenne Vide,str4,"Banni face verso par ""Xénovahisseur△ de la Géhenne Vide"""
-100267032,Xénovahisseur△ du Sheol Céleste,name,Xénovahisseur△ du Sheol Céleste
-100267032,Xénovahisseur△ du Sheol Céleste,desc,"Si cette carte est Invoquée Normalement ou Spécialement : bannissez (face verso) les 2 cartes du dessus de votre Deck.
-Vous ne pouvez utiliser chacun des effets suivants de ""Xénovahisseur△ du Sheol Céleste"" qu'une fois par tour.
-Si cette carte est dans votre main et que vous contrôlez un monstre ""Xénovahisseur△"" : vous pouvez Invoquer Spécialement cette carte.
-Durant votre Main Phase : vous pouvez ajouter max. 2 de vos Magies/Pièges ""Xénovahisseur△"" bannies face verso de noms différents à votre main, et aussi, vous ne pouvez activer ni de cartes ni d'effets (cartes et effets ""Xénovahisseur△"" exclus) le reste de ce tour."
-100267032,Xénovahisseur△ du Sheol Céleste,str1,Invocation Spéciale
-100267032,Xénovahisseur△ du Sheol Céleste,str2,Bannir
-100267032,Xénovahisseur△ du Sheol Céleste,str3,Recycler
-100267032,Xénovahisseur△ du Sheol Céleste,str4,"Banni face verso par ""Xénovahisseur△ du Sheol Céleste"""
-100267033,Xénovahisseur△ du Tuonela Bleu,name,Xénovahisseur△ du Tuonela Bleu
-100267033,Xénovahisseur△ du Tuonela Bleu,desc,"Si cette carte est Invoquée Normalement ou Spécialement : bannissez (face verso) les 3 cartes du dessus de votre Deck.
-Vous ne pouvez utiliser chacun des effets suivants de ""Xénovahisseur△ du Tuonela Bleu"" qu'une fois par tour.
-Si cette carte est dans votre main et que votre adversaire contrôle plus de monstres que vous : vous pouvez Invoquer Spécialement cette carte. 
-Durant votre Main Phase : vous pouvez Invoquer Spécialement 1 de vos monstres ""Xénovahisseur△"" de min. Niveau 5 bannis face verso, et aussi, vous ne pouvez activer ni de cartes ni d'effets (cartes et effets ""Xénovahisseur△"" exclus) le reste de ce tour."
-100267033,Xénovahisseur△ du Tuonela Bleu,str1,Invocation Spéciale
-100267033,Xénovahisseur△ du Tuonela Bleu,str2,Bannir
-100267033,Xénovahisseur△ du Tuonela Bleu,str3,Invocation Spéciale
-100267033,Xénovahisseur△ du Tuonela Bleu,str4,"Banni face verso par ""Xénovahisseur△ du Tuonela Bleu"""
-100267034,Xénovahisseur△ du Naraka Écarlate,name,Xénovahisseur△ du Naraka Écarlate
-100267034,Xénovahisseur△ du Naraka Écarlate,desc,"Si cette carte est Invoquée Normalement ou Spécialement : bannissez (face verso) les 4 cartes du dessus de votre Deck.
-Vous ne pouvez utiliser chacun des effets suivants de ""Xénovahisseur△ du Naraka Écarlate"" qu'une fois par tour.
-Si votre adversaire Invoque Spécialement un ou plusieurs monstres : vous pouvez Invoquer Spécialement cette carte depuis votre main.
-Durant la Main Phase de votre adversaire (Effet Rapide) : vous pouvez Invoquer Spécialement 1 de vos monstres ""Xénovahisseur△"" de min. Niveau 5 bannis face verso, et aussi, vous ne pouvez activer ni de cartes ni d'effets (cartes et effets ""Xénovahisseur△"" exclus) le reste de ce tour."
-100267034,Xénovahisseur△ du Naraka Écarlate,str1,Invocation Spéciale
-100267034,Xénovahisseur△ du Naraka Écarlate,str2,Bannir
-100267034,Xénovahisseur△ du Naraka Écarlate,str3,Invocation Spéciale
-100267034,Xénovahisseur△ du Naraka Écarlate,str4,"Banni face verso par ""Xénovahisseur△ du Naraka Écarlate"""
-100267035,Yomi Xénovahisseur△ du Tonnerre Céleste,name,Yomi Xénovahisseur△ du Tonnerre Céleste
-100267035,Yomi Xénovahisseur△ du Tonnerre Céleste,desc,"Vous pouvez révéler cette carte dans votre main ; bannissez-la (face verso), et si vous le faites, ajoutez 1 de vos cartes ""Xénovahisseur△"" bannies face verso (monstres de Niveau 5 exclus) à votre main.
-Vous ne pouvez utiliser cet effet de ""Yomi Xénovahisseur△ du Tonnerre Céleste"" qu'une fois par tour.
-Si cette carte est Invoquée Normalement ou Spécialement : bannissez (face verso) les 5 cartes du dessus de votre Deck.
-Une fois par tour, lorsque votre adversaire active un effet de monstre (Effet Rapide) : vous pouvez mélanger 1 de vos monstres ""Xénovahisseur△"" bannis face verso du même Attribut dans le Deck, et si vous le faites, annulez l'activation."
-100267035,Yomi Xénovahisseur△ du Tonnerre Céleste,str1,Ajouter à la main
-100267035,Yomi Xénovahisseur△ du Tonnerre Céleste,str2,Bannir
-100267035,Yomi Xénovahisseur△ du Tonnerre Céleste,str3,Annuler l'activation
-100267035,Yomi Xénovahisseur△ du Tonnerre Céleste,str4,"Banni face verso par l'effet ① de ""Yomi Xénovahisseur△ du Tonnerre Céleste"""
-100267035,Yomi Xénovahisseur△ du Tonnerre Céleste,str5,"Banni face verso par l'effet ② de ""Yomi Xénovahisseur△ du Tonnerre Céleste"""
-100267036,Helheim Xénovahisseur△ du Sommet de l'Enterrement,name,Helheim Xénovahisseur△ du Sommet de l'Enterrement
-100267036,Helheim Xénovahisseur△ du Sommet de l'Enterrement,desc,"Durant la Main Phase (Effet Rapide) : vous pouvez révéler cette carte dans votre main ; bannissez-la (face verso), et si vous le faites, Invoquez Spécialement 1 de vos monstres ""Xénovahisseur△"" bannis face verso (monstres de Niveau 6 exclus).
-Vous ne pouvez utiliser cet effet de ""Helheim Xénovahisseur△ du Sommet de l'Enterrement"" qu'une fois par tour.
-Si cette carte est Invoquée Normalement ou Spécialement : bannissez (face verso) les 6 cartes du dessus de votre Deck.
-Les autres cartes ""Xénovahisseur△"" que vous contrôlez ne peuvent être détruites par des effets de carte de votre adversaire, et aussi, votre adversaire ne peut pas les cibler avec des effets de carte."
-100267036,Helheim Xénovahisseur△ du Sommet de l'Enterrement,str1,Invocation Spéciale
-100267036,Helheim Xénovahisseur△ du Sommet de l'Enterrement,str2,Bannir
-100267036,Helheim Xénovahisseur△ du Sommet de l'Enterrement,str4,"Banni face verso par l'effet ① de ""Helheim Xénovahisseur△ du Sommet de l'Enterrement"""
-100267036,Helheim Xénovahisseur△ du Sommet de l'Enterrement,str5,"Banni face verso par l'effet ② de ""Helheim Xénovahisseur△ du Sommet de l'Enterrement"""
-100267037,Ploutonion Xénovahisseur△ de la Tempête Folle,name,Ploutonion Xénovahisseur△ de la Tempête Folle
-100267037,Ploutonion Xénovahisseur△ de la Tempête Folle,desc,"(Effet Rapide) : vous pouvez révéler cette carte et 1 autre carte ""Xénovahisseur△"" dans votre main ; bannissez les deux (face verso), et si vous le faites, piochez 2 cartes.
-Vous ne pouvez utiliser cet effet de ""Ploutonion Xénovahisseur△ de la Tempête Folle"" qu'une fois par tour.
-Si cette carte est Invoquée Normalement ou Spécialement : bannissez (face verso) les 7 cartes du dessus de votre Deck.
-Une fois par tour (Effet Rapide) : vous pouvez mélanger 1 de vos monstres ""Xénovahisseur△"" bannis face verso dans le Deck, puis vous pouvez mélanger 1 monstre contrôlé par votre adversaire du même Attribut dans le Deck."
-100267037,Ploutonion Xénovahisseur△ de la Tempête Folle,str1,Piocher
-100267037,Ploutonion Xénovahisseur△ de la Tempête Folle,str2,Bannir
-100267037,Ploutonion Xénovahisseur△ de la Tempête Folle,str3,Renvoyer au Deck
-100267037,Ploutonion Xénovahisseur△ de la Tempête Folle,str4,"Révélé par l'effet de ""Ploutonion Xénovahisseur△ de la Tempête Folle"""
-100267037,Ploutonion Xénovahisseur△ de la Tempête Folle,str5,Renvoyer le monstre au Deck ?
-100267037,Ploutonion Xénovahisseur△ de la Tempête Folle,str6,"Banni face verso par l'effet ① de ""Ploutonion Xénovahisseur△ de la Tempête Folle"""
-100267037,Ploutonion Xénovahisseur△ de la Tempête Folle,str7,"Banni face verso par l'effet ② de ""Ploutonion Xénovahisseur△ de la Tempête Folle"""
-100267038,Jahannam Xénovahisseur△ Dévorant le Vide,name,Jahannam Xénovahisseur△ Dévorant le Vide
-100267038,Jahannam Xénovahisseur△ Dévorant le Vide,desc,"Si cette carte est Invoquée Normalement ou Spécialement : bannissez (face verso) les 8 cartes du dessus de votre Deck.
-Gagne ces effets selon le nombre total de cartes bannies face verso.
-● 10+ : Non destructible au combat.
-● 20+ : Une fois par tour (Effet Rapide) : vous pouvez cibler 1 carte sur le Terrain ; détruisez-la.
-● 30+ : Une fois par tour, durant la End Phase de votre adversaire : vous pouvez ajouter 1 de vos cartes bannies face verso à votre main.
-● 40+ : Sautez les Draw Phases des deux joueurs."
-100267038,Jahannam Xénovahisseur△ Dévorant le Vide,str1,Bannir
-100267038,Jahannam Xénovahisseur△ Dévorant le Vide,str2,Détruire
-100267038,Jahannam Xénovahisseur△ Dévorant le Vide,str3,Recycler
-100267038,Jahannam Xénovahisseur△ Dévorant le Vide,str4,"Banni face verso par ""Jahannam Xénovahisseur△ Dévorant le Vide"""
-100267039,Territoire Xénovahisseur△ - Valvols,name,Territoire Xénovahisseur△ - Valvols
-100267039,Territoire Xénovahisseur△ - Valvols,desc,"Activez cette carte en bannissant (face verso) 5 cartes depuis votre Cimetière et/ou du dessus de votre Deck.
-Durant votre Main Phase : vous pouvez ajouter 1 de vos cartes ""Xénovahisseur△"" bannies face verso (""Territoire Xénovahisseur△ - Valvols"" exclue) à votre main.
-Vous ne pouvez utiliser cet effet de ""Territoire Xénovahisseur△ - Valvols"" qu'une fois par tour.
-Tant que vous contrôlez un monstre ""Xénovahisseur△"" de min. Niveau 5 et que vous n'avez aucune carte dans votre Deck, votre adversaire ne peut activer ni de cartes ni d'effets durant votre tour."
-100267039,Territoire Xénovahisseur△ - Valvols,str1,Bannir des cartes du Cimetière pour activer ?
-100267039,Territoire Xénovahisseur△ - Valvols,str2,Ajouter à la main
-100267039,Territoire Xénovahisseur△ - Valvols,str3,"Banni face verso par ""Territoire Xénovahisseur△ - Valvols"""
-100267040,Évangile de la Faille Tri-Royaume,name,Évangile de la Faille Tri-Royaume
-100267040,Évangile de la Faille Tri-Royaume,desc,"Activez cette carte en bannissant (face verso) 5 cartes depuis votre Cimetière et/ou du dessus de votre Deck.
-Durant votre Main Phase, vous pouvez Invoquer Normalement 1 monstre ""Faille Tri-Royaume"", en plus de votre Invocation/Pose Normale (vous ne pouvez gagner cet effet qu'une fois par tour).
-Durant votre Main Phase : vous pouvez bannir (face verso) 1 monstre ""Faille Tri-Royaume"" que vous contrôlez dont le Niveau d'origine est max. 4, et si vous le faites, Invoquez Spécialement 1 de vos monstres ""Faille Tri-Royaume"" de min. Niveau 5 bannis face verso.
-Vous ne pouvez utiliser cet effet de ""Évangile de la Faille Tri-Royaume"" qu'une fois par tour."
-100267040,Évangile de la Faille Tri-Royaume,str1,Bannir des cartes du Cimetière pour activer ?
-100267040,Évangile de la Faille Tri-Royaume,str2,"Invoquer par l'effet de ""Évangile de la Faille Tri-Royaume"""
-100267040,Évangile de la Faille Tri-Royaume,str3,Invocation Spéciale
-100267040,Évangile de la Faille Tri-Royaume,str4,"Banni face verso par l'activation de ""Évangile de la Faille Tri-Royaume"""
-100267040,Évangile de la Faille Tri-Royaume,str5,"Banni face verso par l'effet ② de ""Évangile de la Faille Tri-Royaume"""
-100267041,Jugement Xénovahisseur△,name,Jugement Xénovahisseur△
-100267041,Jugement Xénovahisseur△,desc,"Si votre adversaire Invoque Normalement ou Spécialement un ou plusieurs monstres : vous pouvez en cibler 1 ; choisissez 1 de vos monstres ""Xénovahisseur△"" bannis face verso du même Attribut, et soit ajoutez-le à votre main soit Invoquez-le Spécialement, et aussi, le reste de ce tour, vous ne pouvez pas choisir à nouveau le même Attribut avec cet effet de ""Jugement Xénovahisseur△"", et vous ne pouvez activer ni de cartes ni d'effets (cartes et effets ""Xénovahisseur△"" exclus).
-Une fois par combat, durant le calcul des dommages, si votre monstre ""Xénovahisseur△"" combat un monstre de l'adversaire et que vous n'avez aucune carte dans votre Deck : vous pouvez faire devenir 0 l'ATK du monstre de l'adversaire."
-100267041,Jugement Xénovahisseur△,str1,Recycler
-100267041,Jugement Xénovahisseur△,str2,L'ATK devient 0
 100268001,业火的魔神 艾克佐迪亚,name,业火的魔神 艾克佐迪亚
 100268001,业火的魔神 艾克佐迪亚,desc,"①：自己回合把这张卡抽到时，把这张卡给对方出示才能发动。这张卡特殊召唤。
 ②：这张卡在自己回合特殊召唤的场合才能发动。这个回合，双方不能把「业火的魔神 艾克佐迪亚」以外的卡的效果发动，自己不能把怪兽召唤·特殊召唤。
@@ -372,6 +62,13 @@ Si cette carte est envoyée au Cimetière : vous pouvez activer cet effet ; dura
 Vous ne pouvez utiliser cet effet de ""Gilford l'Éclair, le Guerrier des Coups de Tonnerre"" qu'une fois par tour."
 100268008,"Gilford l'Éclair, le Guerrier des Coups de Tonnerre",str2,Envoyer au Cimetière
 100268008,"Gilford l'Éclair, le Guerrier des Coups de Tonnerre",str3,Ajouter à la main
+100268010,沉默斗者-沉默魔术师,name,沉默斗者-沉默魔术师
+100268010,沉默斗者-沉默魔术师,desc,"这张卡不能通常召唤。「沉默斗者-沉默魔术师」1回合1次，把自己场上的1只7星以下的魔法师族·战士族怪兽解放的场合才能特殊召唤。
+①：这张卡1回合只有1次不会被战斗·效果破坏。
+②：1回合最多2次，每次对方抽卡才能发动。自己抽1张。对方用自身的卡的效果抽卡的场合，作为代替以那个数量让自己抽卡。
+③：只要自己的手卡在6张以上，对方发动的魔法卡的效果无效化。"
+100268010,沉默斗者-沉默魔术师,str1,Piocher
+100268010,沉默斗者-沉默魔术师,str2,Sélectionnez le nombre de cartes à piocher
 100268011,"Jeu de la Sanction ""CUPIDITÉ, l'Illusion de l'Avarice""",name,"Jeu de la Sanction ""CUPIDITÉ, l'Illusion de l'Avarice"""
 100268011,"Jeu de la Sanction ""CUPIDITÉ, l'Illusion de l'Avarice""",desc,"Si votre adversaire a ajouté une ou plusieurs cartes depuis le Deck à la main ce tour, sauf durant la Draw Phase : infligez 400 points de dommages à votre adversaire pour chaque carte dans sa main, puis si le nombre total de cartes dans sa main, Terrain et Cimetière est min. 20, vous pouvez bannir toute sa main.
 Vous ne pouvez activer qu'1 ""Jeu de la Sanction ""CUPIDITÉ, l'Illusion de l'Avarice"""" par tour."
@@ -574,7 +271,7 @@ Vous ne pouvez activer qu'1 ""Bodhi Cubique"" par tour."
 ●从自己墓地把1张陷阱卡盖放。
 「听天投命」的每个效果1回合各能使用1次。"
 101306083,听天投命,str1,Activer
-101306083,听天投命,str2,选择发动
+101306083,听天投命,str2,Sélectionner l'activation
 101306083,听天投命,str3,Invocation Spéciale
 101306083,听天投命,str4,Poser un Piège
 101306084,九色鹿 九面妖,name,九色鹿 九面妖
@@ -629,7 +326,7 @@ Vous ne pouvez activer qu'1 ""Bodhi Cubique"" par tour."
 「具象天使的元帅」的每个效果1回合各能使用1次。"
 101306091,具象天使的元帅,str1,Activer
 101306091,具象天使的元帅,str2,Annuler l'attaque
-101306091,具象天使的元帅,str3,L'effet de {CARD} est actuellement appliqué.
+101306091,具象天使的元帅,str3,"L'effet de ""具象天使的元帅"" est actuellement appliqué."
 101306091,具象天使的元帅,str4,Invocation Spéciale?
 101306092,具象天使的战略分值,name,具象天使的战略分值
 101306092,具象天使的战略分值,desc,"从卡组把「具象天使的战略分值」以外的1张「具象天使」魔法·陷阱卡加入手卡，这张卡的发动后，直到回合结束时，自己不是光·暗属性同调怪兽不能从额外卡组特殊召唤。
@@ -662,7 +359,7 @@ Vous ne pouvez activer qu'1 ""Bodhi Cubique"" par tour."
 ●5张：1回合1次：可以从额外卡组把1只「具象天使」怪兽特殊召唤。"
 101306095,具象天使的终局之问,str1,Activer
 101306095,具象天使的终局之问,str2,Piocher
-101306095,具象天使的终局之问,str4,Activer en appliquant l'effet de {CARD}.
+101306095,具象天使的终局之问,str4,"Activer en appliquant l'effet de ""具象天使的终局之问""."
 101306095,具象天使的终局之问,str5,Bannir
 101306095,具象天使的终局之问,str6,Invocation Spéciale
 101306096,具象天使之裁,name,具象天使之裁
@@ -673,7 +370,7 @@ Vous ne pouvez activer qu'1 ""Bodhi Cubique"" par tour."
 「具象天使之裁」的每个效果1回合各能使用1次。"
 101306096,具象天使之裁,str1,Activer
 101306096,具象天使之裁,str2,Envoyer au Cimetière
-101306096,具象天使之裁,str3,是否放置？
+101306096,具象天使之裁,str3,Le placer ?
 101306281,"Audhumla, Progéniteur de l'Étendue Gelée",name,"Audhumla, Progéniteur de l'Étendue Gelée"
 101306281,"Audhumla, Progéniteur de l'Étendue Gelée",desc,"Si min. 4 cartes sont sur le Terrain : vous pouvez Invoquer Spécialement cette carte depuis votre main.
 Vous pouvez envoyer max. 2 Magies/Pièges que vous contrôlez au Cimetière ; piochez autant de cartes, puis vous pouvez Invoquer Spécialement 1 monstre EAU depuis votre main.
@@ -908,6 +605,13 @@ Vous ne pouvez utiliser chaque effet de ""Gearblade Salamangrande"" qu'une fois 
 101307063,Gearblade Salamangrande,str1,Activer
 101307063,Gearblade Salamangrande,str2,Augmenter l'ATK
 101307063,Gearblade Salamangrande,str3,Renvoyer à la main
+101307071,秋,name,秋
+101307071,秋,desc,"①：这张卡只要在场地区域存在，卡名当作「夏」使用。
+②：1回合1次，可以发动。以对方手卡数量给这张卡放置四季指示物。
+③：自己·对方的战斗阶段开始时才能发动。从自己的手卡·卡组·墓地把「秋」以外的1张可以放置四季指示物的场地魔法卡在自己场上以表侧表示放置（这张卡的四季指示物移给那张卡）。
+④：场地区域的卡被效果破坏的场合，可以作为代替把墓地的这张卡除外。"
+101307071,秋,str2,Placer un marqueur
+101307071,秋,str3,Placer dans la Zone Terrain
 101307072,Domination du Dieu du Soleil,name,Domination du Dieu du Soleil
 101307072,Domination du Dieu du Soleil,desc,"Si un monstre ""Le Dragon Ailé de Râ"" est sur le Terrain : appliquez ces effets dans l'ordre.
 ● Invoquez Spécialement 1 monstre depuis chaque Cimetière sur votre Terrain.
