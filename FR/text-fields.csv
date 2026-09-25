@@ -1,11 +1,11 @@
 id,name,field,value
-100268001,业火的魔神 艾克佐迪亚,name,业火的魔神 艾克佐迪亚
-100268001,业火的魔神 艾克佐迪亚,desc,"①：自己回合把这张卡抽到时，把这张卡给对方出示才能发动。这张卡特殊召唤。
-②：这张卡在自己回合特殊召唤的场合才能发动。这个回合，双方不能把「业火的魔神 艾克佐迪亚」以外的卡的效果发动，自己不能把怪兽召唤·特殊召唤。
-③：这张卡进行战斗的伤害步骤开始时才能发动。对方场上的怪兽全部破坏，给予对方那些原本攻击力合计数值的伤害。"
-100268001,业火的魔神 艾克佐迪亚,str1,Invocation Spéciale
-100268001,业火的魔神 艾克佐迪亚,str2,Effet de verrouillage
-100268001,业火的魔神 艾克佐迪亚,str3,Effet de destruction
+100268001,Éxodia le Destructeur,name,Éxodia le Destructeur
+100268001,Éxodia le Destructeur,desc,"Lorsque vous piochez cette carte durant votre tour : vous pouvez la révéler ; Invoquez-la Spécialement.
+Si cette carte est Invoquée Spécialement durant votre tour : vous pouvez activer cet effet ; le reste de ce tour, aucun joueur ne peut activer ni de cartes ni d'effets (""Éxodia le Destructeur"" exclu), et aussi, vous ne pouvez Invoquer ni Normalement ni Spécialement de monstres.
+Au début de la Damage Step, si cette carte combat : vous pouvez détruire autant de monstres contrôlés par votre adversaire que possible, et si vous le faites, infligez à votre adversaire des dommages égaux à la somme des ATK d'origine des monstres détruits."
+100268001,Éxodia le Destructeur,str1,Invocation Spéciale
+100268001,Éxodia le Destructeur,str2,Effet de verrouillage
+100268001,Éxodia le Destructeur,str3,Effet de destruction
 100268002,Éclosion Parfaite - Grand Moth Ultimement Parfait,name,Éclosion Parfaite - Grand Moth Ultimement Parfait
 100268002,Éclosion Parfaite - Grand Moth Ultimement Parfait,desc,"Ni Invocable Normalement ni Posable Normalement.
 Uniquement Invocable Spécialement (depuis votre main) en ayant min. 6 monstres Insecte dans votre Cimetière.
@@ -62,13 +62,15 @@ Si cette carte est envoyée au Cimetière : vous pouvez activer cet effet ; dura
 Vous ne pouvez utiliser cet effet de ""Gilford l'Éclair, le Guerrier des Coups de Tonnerre"" qu'une fois par tour."
 100268008,"Gilford l'Éclair, le Guerrier des Coups de Tonnerre",str2,Envoyer au Cimetière
 100268008,"Gilford l'Éclair, le Guerrier des Coups de Tonnerre",str3,Ajouter à la main
-100268010,沉默斗者-沉默魔术师,name,沉默斗者-沉默魔术师
-100268010,沉默斗者-沉默魔术师,desc,"这张卡不能通常召唤。「沉默斗者-沉默魔术师」1回合1次，把自己场上的1只7星以下的魔法师族·战士族怪兽解放的场合才能特殊召唤。
-①：这张卡1回合只有1次不会被战斗·效果破坏。
-②：1回合最多2次，每次对方抽卡才能发动。自己抽1张。对方用自身的卡的效果抽卡的场合，作为代替以那个数量让自己抽卡。
-③：只要自己的手卡在6张以上，对方发动的魔法卡的效果无效化。"
-100268010,沉默斗者-沉默魔术师,str1,Piocher
-100268010,沉默斗者-沉默魔术师,str2,Sélectionnez le nombre de cartes à piocher
+100268010,"Magicien Silencieux, le Combattant Silencieux",name,"Magicien Silencieux, le Combattant Silencieux"
+100268010,"Magicien Silencieux, le Combattant Silencieux",desc,"Ni Invocable Normalement ni Posable Normalement.
+Uniquement Invocable Spécialement (depuis votre main) en Sacrifiant 1 monstre de max. Niveau 7 (Magicien ou Guerrier).
+Vous ne pouvez Invoquer Spécialement ""Magicien Silencieux, le Combattant Silencieux"" qu'une fois par tour de cette façon.
+La première fois que cette carte va être détruite au combat ou par un effet de carte chaque tour, elle n'est pas détruite.
+Deux fois par tour, chaque fois que votre adversaire pioche une ou plusieurs cartes (sauf durant la Damage Step) : vous pouvez piocher 1 carte, ou si votre adversaire a pioché par son propre effet de carte, vous pouvez piocher le même nombre de cartes à la place.
+Tant que vous avez min. 6 cartes dans votre main, annulez tous les Cartes Magie et effets de Magie activés de votre adversaire."
+100268010,"Magicien Silencieux, le Combattant Silencieux",str1,Piocher
+100268010,"Magicien Silencieux, le Combattant Silencieux",str2,Choisir le nombre de cartes à piocher.
 100268011,"Jeu de la Sanction ""CUPIDITÉ, l'Illusion de l'Avarice""",name,"Jeu de la Sanction ""CUPIDITÉ, l'Illusion de l'Avarice"""
 100268011,"Jeu de la Sanction ""CUPIDITÉ, l'Illusion de l'Avarice""",desc,"Si votre adversaire a ajouté une ou plusieurs cartes depuis le Deck à la main ce tour, sauf durant la Draw Phase : infligez 400 points de dommages à votre adversaire pour chaque carte dans sa main, puis si le nombre total de cartes dans sa main, Terrain et Cimetière est min. 20, vous pouvez bannir toute sa main.
 Vous ne pouvez activer qu'1 ""Jeu de la Sanction ""CUPIDITÉ, l'Illusion de l'Avarice"""" par tour."
@@ -258,119 +260,120 @@ Vous ne pouvez activer qu'1 ""Bodhi Cubique"" par tour."
 100272006,Bodhi Cubique,str2,Placer un marqueur
 100272006,Bodhi Cubique,str3,Invocation Fusion
 100272006,Bodhi Cubique,str4,Envoyer la carte au Cimetière ?
-101306082,静寂猛虎,name,静寂猛虎
-101306082,静寂猛虎,desc,"这张卡召唤·特殊召唤的场合：可以以对方场上1张魔法·陷阱卡为对象；这张卡从场上离开的场合，那张卡破坏。
-这张卡从手卡·场上被送去墓地的场合：可以从自己场上把1张魔法·陷阱卡送去墓地；这张卡特殊召唤。这个效果特殊召唤的这张卡从场上离开的场合除外。
-「静寂猛虎」的每个效果1回合各能使用1次。"
-101306082,静寂猛虎,str1,Détruire
-101306082,静寂猛虎,str2,Invocation Spéciale
-101306083,听天投命,name,听天投命
-101306083,听天投命,desc,"自己场上的表侧表示卡被对方的卡的效果破坏的场合：可以进行1只投掷硬币，对里表作猜测。猜中的场合，从自己墓地把1只怪兽特殊召唤。猜错的场合，从自己墓地把1张陷阱卡盖放。
-这张卡被对方的卡的效果破坏的场合：可以从以下效果选择1个发动。
-●从自己墓地把1只怪兽特殊召唤。
-●从自己墓地把1张陷阱卡盖放。
-「听天投命」的每个效果1回合各能使用1次。"
-101306083,听天投命,str1,Activer
-101306083,听天投命,str2,Sélectionner l'activation
-101306083,听天投命,str3,Invocation Spéciale
-101306083,听天投命,str4,Poser un Piège
-101306084,九色鹿 九面妖,name,九色鹿 九面妖
-101306084,九色鹿 九面妖,desc,"4星光·暗属性怪兽×2只以上
-主要阶段（诱发即时效果）：可以把这张卡1个超量素材取除；取除的素材以外的自己手卡·墓地·除外状态的1张卡作为这张卡的超量素材。「九色鹿 九面妖」的这个效果1回合只能使用1次。
-这张卡根据作为素材中的怪兽种族的种类数量得到以下效果。
-●2种以上：不会被卡的效果破坏。
-●3种以上：自己抽卡阶段的通常抽卡变成2张。"
-101306084,九色鹿 九面妖,str1,Comme Matériel Xyz
-101306085,贪玩的呱呱公主,name,贪玩的呱呱公主
-101306085,贪玩的呱呱公主,desc,"场上的魔法·陷阱卡回到手卡的场合（伤害步骤除外）：可以把这张卡从手卡·墓地以表侧表示或者里侧守备表示特殊召唤。这个效果从墓地特殊召唤的这张卡从场上离开的场合除外。
-这张卡在怪兽区域存在的状态，场上的其他卡回到手卡的场合（伤害步骤除外）；可以以自己除外状态的1张通常陷阱卡为对象；那张卡盖放。
-「贪玩的呱呱公主」的每个效果1回合各能使用1次。"
-101306085,贪玩的呱呱公主,str1,Invocation Spéciale
-101306085,贪玩的呱呱公主,str2,Poser
-101306086,魔道乌贼 大王,name,魔道乌贼 大王
-101306086,魔道乌贼 大王,desc,"水属性怪兽2只
-可以从自己场上把1张卡送去墓地；自己场上的全部的水属性怪兽的攻击力·守备力在这个回合上升500。
-这张卡在墓地存在的状态，自己场上的水属性连接怪兽被对方的效果破坏的场合（伤害步骤除外）：可以把这张卡除外，以那1只被破坏的怪兽为对象；从自己的手卡·墓地把持有那只怪兽连接标记数量以下等级的1只水属性怪兽特殊召唤。
-「魔道乌贼 大王」的每个效果1回合各能使用1次。"
-101306086,魔道乌贼 大王,str1,Augmenter l'ATK/DEF
-101306086,魔道乌贼 大王,str2,Invocation Spéciale
-101306087,飞临的蓝锯手,name,飞临的蓝锯手
-101306087,飞临的蓝锯手,desc,"8星以上的暗属性怪兽+战士族怪兽
-这张卡融合召唤的场合：可以把自己墓地·除外状态的1只战士族怪兽，或者对方墓地·除外状态的1只怪兽，当作攻击力·守备力上升500的装备魔法卡使用给这张卡装备。
-对方把魔法·陷阱卡的效果发动时（诱发即时效果）：可以把自己场上1张装备卡送去墓地；那个发动无效。
-「飞临的蓝锯手」的每个效果1回合各能使用1次。"
-101306087,飞临的蓝锯手,str1,Équiper
-101306087,飞临的蓝锯手,str2,Annuler l'activation
-101306088,红砷镍半身矿,name,红砷镍半身矿
-101306088,红砷镍半身矿,desc,"这张卡从卡组特殊召唤的场合：可以从卡组把「红砷镍半身矿」以外的1只4星以下的岩石族怪兽加入手卡。
-这张卡作为同调素材被送去墓地的场合：可以（伤害步骤除外）；进行1只岩石族怪兽的召唤。
-「红砷镍半身矿」的每个效果1回合各能使用1次。"
-101306088,红砷镍半身矿,str1,Ajouter à la main
-101306088,红砷镍半身矿,str2,Invocation
-101306089,混沌诞生主教,name,混沌诞生主教
-101306089,混沌诞生主教,desc,"自己场上的这张卡作为同调素材的场合，可以把这张卡当作调整以外的怪兽使用。
-这张卡召唤·特殊召唤的场合：从自己的手卡·卡组·墓地把1只「混沌诞生主教」特殊召唤，那只怪兽变成光属性，这个效果的发动后，直到回合结束时自己不是光·暗属性怪兽不能特殊召唤，不是同调怪兽不能从额外卡组特殊召唤。「混沌诞生主教」的这个效果1回合只能使用1次。"
-101306089,混沌诞生主教,str2,Invocation Spéciale
-101306090,城主之具象天使,name,城主之具象天使
-101306090,城主之具象天使,desc,"调整+调整以外的怪兽1只以上
-可以以这张卡相邻纵列1只对方怪兽，或者和这张卡相隔2纵列的对方魔法与陷阱区域1张卡为对象；那张卡除外。
-这张卡当作永续魔法卡被放置在魔法与陷阱区域的场合：可以从卡组把1张「具象天使」卡送去墓地。
-「城主之具象天使」的以上效果1回合各能使用1次。
-这张卡当作永续魔法卡使用中的场合，双方玩家在同一连锁上最多只能发动1次效果。"
-101306090,城主之具象天使,str1,Bannir
-101306090,城主之具象天使,str2,Envoyer au Cimetière
-101306091,具象天使的元帅,name,具象天使的元帅
-101306091,具象天使的元帅,desc,"调整+调整以外的怪兽1只以上
-这张卡特殊召唤的场合：发动这个效果；双方玩家可以各从自身额外卡组把1只天使族同调怪兽效果无效特殊召唤，这张卡以及这个效果特殊召唤的怪兽不能作为超量·连接召唤的素材，从场上离开的场合回到额外卡组。
-这张卡成为「具象天使」怪兽的攻击的对象时：那次攻击无效，这张卡的控制权转移给对方。
-「具象天使的元帅」的每个效果1回合各能使用1次。"
-101306091,具象天使的元帅,str1,Activer
-101306091,具象天使的元帅,str2,Annuler l'attaque
-101306091,具象天使的元帅,str3,"L'effet de ""具象天使的元帅"" est actuellement appliqué."
-101306091,具象天使的元帅,str4,Invocation Spéciale?
-101306092,具象天使的战略分值,name,具象天使的战略分值
-101306092,具象天使的战略分值,desc,"从卡组把「具象天使的战略分值」以外的1张「具象天使」魔法·陷阱卡加入手卡，这张卡的发动后，直到回合结束时，自己不是光·暗属性同调怪兽不能从额外卡组特殊召唤。
-可以把这个回合没有送去墓地的这张卡从墓地除外；让自己魔法与陷阱区域的1张原本持有者是自己的「具象天使」怪兽卡回到额外卡组，那之后，可以把那特殊召唤。
-「具象天使的战略分值」的每个效果1回合各能使用1次。"
-101306092,具象天使的战略分值,str1,Ajouter à la main
-101306092,具象天使的战略分值,str2,Renvoyer à l'Extra Deck
-101306092,具象天使的战略分值,str3,Invocation Spéciale?
-101306093,具象天使的精妙一手,name,具象天使的精妙一手
-101306093,具象天使的精妙一手,desc,"让自己魔法与陷阱区域的1张原本持有者是自己的「具象天使」怪兽卡回到额外卡组，那之后，可以把那特殊召唤。
-可以把自己墓地的这张卡除外，从自己的手卡·场上（表侧表示）把1张「具象天使」卡送去墓地；从自己的额外卡组把1只「具象天使」怪兽特殊召唤。
-「具象天使的精妙一手」的每个效果1回合各能使用1次。"
-101306093,具象天使的精妙一手,str1,Activer
-101306093,具象天使的精妙一手,str2,Invocation Spéciale
-101306093,具象天使的精妙一手,str3,Invocation Spéciale?
-101306094,具象天使的对峙格位,name,具象天使的对峙格位
-101306094,具象天使的对峙格位,desc,"从额外卡组选同名卡不在自己魔法与陷阱区域存在的2只「具象天使」怪兽，那之内的1只往对方的主要怪兽区域特殊召唤，另1只当作永续魔法卡使用在自己的魔法与陷阱区域以表侧表示放置。
-可以把墓地的这张卡除外；让「具象天使的对峙格位」以外的自己墓地·除外状态最多5张「具象天使」卡回到卡组。
-这张卡发动的回合，自己不是光·暗属性同调怪兽不能从额外卡组特殊召唤。「具象天使的对峙格位」在1回合只能发动1张。"
-101306094,具象天使的对峙格位,str1,Activer
-101306094,具象天使的对峙格位,str2,Recycler
-101306095,具象天使的终局之问,name,具象天使的终局之问
-101306095,具象天使的终局之问,desc,"（注：本地暂时无法正常使用）
-
-这张卡根据自己魔法与陷阱区域的「具象天使」怪兽卡的数量得到以下效果。
-●1张以上：1回合1次，对方准备阶段：可以抽1张。
-●2张以上：对方把怪兽特殊召唤之际，使用的区域由自己选择。
-●3张以上：1回合1次， 自己可以把1张「具象天使」陷阱卡在盖放的回合发动。
-●4张以上：1回合1次，对方把怪兽特殊召唤时（伤害步骤除外）；可以把那些怪兽除外。
-●5张：1回合1次：可以从额外卡组把1只「具象天使」怪兽特殊召唤。"
-101306095,具象天使的终局之问,str1,Activer
-101306095,具象天使的终局之问,str2,Piocher
-101306095,具象天使的终局之问,str4,"Activer en appliquant l'effet de ""具象天使的终局之问""."
-101306095,具象天使的终局之问,str5,Bannir
-101306095,具象天使的终局之问,str6,Invocation Spéciale
-101306096,具象天使之裁,name,具象天使之裁
-101306096,具象天使之裁,desc,"场上的「具象天使」怪兽卡数量的以下效果适用。
-●1~4：对方场上1张表侧表示卡的效果无效。
-●5张以上：对方场上的卡全部除外。
-可以把墓地的这张卡除外；从自己的手卡·场上（表侧表示）把1张「具象天使」卡送去墓地，那之后，可以从额外卡组把同名卡不在自己魔法与陷阱区域存在的1张「具象天使」怪兽当作永续魔法卡使用在自己的魔法与陷阱区域以表侧表示放置。
-「具象天使之裁」的每个效果1回合各能使用1次。"
-101306096,具象天使之裁,str1,Activer
-101306096,具象天使之裁,str2,Envoyer au Cimetière
-101306096,具象天使之裁,str3,Le placer ?
+101306082,Tigresse au Repos Silencieux,name,Tigresse au Repos Silencieux
+101306082,Tigresse au Repos Silencieux,desc,"Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez cibler 1 Magie/Piège contrôlée par votre adversaire ; détruisez la carte lorsque cette carte quitte le Terrain.
+Si cette carte est envoyée depuis la main ou Terrain au Cimetière : vous pouvez envoyer 1 Magie/Piège que vous contrôlez au Cimetière ; Invoquez Spécialement cette carte, mais bannissez-la lorsqu'elle quitte le Terrain.
+Vous ne pouvez utiliser chaque effet de ""Tigresse au Repos Silencieux"" qu'une fois par tour."
+101306082,Tigresse au Repos Silencieux,str1,Détruire
+101306082,Tigresse au Repos Silencieux,str2,Invocation Spéciale
+101306083,Pile ou Face ?,name,Pile ou Face ?
+101306083,Pile ou Face ?,desc,"Si une ou plusieurs cartes face recto que vous contrôlez sont détruites par un effet de carte de l'adversaire : vous pouvez jouer à pile ou face. Si vous gagnez, Invoquez Spécialement 1 monstre depuis votre Cimetière.
+Si vous perdez, Posez 1 Piège depuis votre Cimetière.
+Si cette carte en votre possession est détruite par un effet de carte de l'adversaire : vous pouvez activer 1 de ces effets ;
+● Invoquez Spécialement 1 monstre depuis votre Cimetière.
+● Posez 1 Piège depuis votre Cimetière.
+Vous ne pouvez utiliser chaque effet de ""Pile ou Face ?"" qu'une fois par tour."
+101306083,Pile ou Face ?,str1,Activer
+101306083,Pile ou Face ?,str2,Choisissez d'activer
+101306083,Pile ou Face ?,str3,Invocation Spéciale
+101306083,Pile ou Face ?,str4,Poser un Piège
+101306084,"Kumenyo, le Cerf aux Neuf Teintes",name,"Kumenyo, le Cerf aux Neuf Teintes"
+101306084,"Kumenyo, le Cerf aux Neuf Teintes",desc,"2+ monstres LUMIÈRE et/ou TÉNÈBRES de Niveau 4
+Durant la Main Phase (Effet Rapide) : vous pouvez détacher 1 Matériel de cette carte ; attachez 1 carte (le Matériel détaché exclu) depuis votre main, Cimetière ou bannissement à cette carte.
+Vous ne pouvez utiliser cet effet de ""Kumenyo, le Cerf aux Neuf Teintes"" qu'une fois par tour. Gagne les effets suivants, selon le nombre de Types de Monstre différents qui lui sont attachés.
+● 2+ : Non destructible par des effets de carte.
+● 3+ : Durant votre Draw Phase, piochez 2 cartes au lieu d'1 pour votre pioche normale."
+101306084,"Kumenyo, le Cerf aux Neuf Teintes",str1,Comme Matériel Xyz
+101306085,Kerolia la Pleine d'Entrain,name,Kerolia la Pleine d'Entrain
+101306085,Kerolia la Pleine d'Entrain,desc,"Si un ou plusieurs Magies/Pièges sur le Terrain sont renvoyés à la main (sauf durant la Damage Step) : vous pouvez Invoquer Spécialement cette carte depuis votre Cimetière (si elle y était lorsque les cartes ont été renvoyées) ou main (même si elle n'y était pas) en Position de Défense face recto ou face verso, mais si vous l'avez Invoquée depuis le Cimetière, bannissez-la lorsqu'elle quitte le Terrain.
+Si une ou plusieurs autres cartes sur le Terrain sont renvoyées à la main, tant que cette carte est dans la Zone Monstre (sauf durant la Damage Step) : vous pouvez cibler 1 de vos Pièges Normaux bannis ; Posez-le.
+Vous ne pouvez utiliser chaque effet de ""Kerolia la Pleine d'Entrain"" qu'une fois par tour."
+101306085,Kerolia la Pleine d'Entrain,str1,Invocation Spéciale
+101306085,Kerolia la Pleine d'Entrain,str2,Poser
+101306086,"Archidux, le Sorcier Calamar",name,"Archidux, le Sorcier Calamar"
+101306086,"Archidux, le Sorcier Calamar",desc,"2 monstres EAU
+Vous pouvez envoyer 1 carte que vous contrôlez au Cimetière ; ce tour, tous les monstres EAU que vous contrôlez gagnent 500 ATK/DEF.
+Si un ou plusieurs Monstres Lien EAU que vous contrôlez sont détruits par un effet de carte de l'adversaire, tant que cette carte est dans votre Cimetière (sauf durant la Damage Step) : vous pouvez bannir cette carte, puis ciblez 1 de ces monstres détruits ; Invoquez Spécialement 1 monstre EAU depuis votre main ou Cimetière, d'un Niveau inférieur ou égal à la Classification Lien du monstre.
+Vous ne pouvez utiliser chaque effet de ""Archidux, le Sorcier Calamar"" qu'une fois par tour."
+101306086,"Archidux, le Sorcier Calamar",str1,Augmenter l'ATK/DEF
+101306086,"Archidux, le Sorcier Calamar",str2,Invocation Spéciale
+101306087,Cularsaw Bleu du Ciel,name,Cularsaw Bleu du Ciel
+101306087,Cularsaw Bleu du Ciel,desc,"1 monstre TÉNÈBRES de min. Niveau 8 + 1 monstre Guerrier
+Si cette carte est Invoquée par Fusion : vous pouvez équiper 1 monstre Guerrier depuis votre Cimetière ou bannissement, ou 1 monstre depuis le Cimetière ou bannissement de votre adversaire, à cette carte comme Magie d'Équipement qui lui donne 500 ATK/DEF.
+Lorsque votre adversaire active une Carte Magie/Piège ou effet de Magie/Piège (Effet Rapide) : vous pouvez envoyer 1 Carte d'Équipement que vous contrôlez au Cimetière ; annulez l'activation.
+Vous ne pouvez utiliser chaque effet de ""Cularsaw Bleu du Ciel"" qu'une fois par tour."
+101306087,Cularsaw Bleu du Ciel,str1,Équiper
+101306087,Cularsaw Bleu du Ciel,str2,Annuler l'activation
+101306088,Demi-Tranche de Nickéline,name,Demi-Tranche de Nickéline
+101306088,Demi-Tranche de Nickéline,desc,"Si cette carte est Invoquée Spécialement depuis le Deck : vous pouvez ajouter 1 monstre Rocher de max. Niveau 4 (""Tranche de Hall Nickeline"" exclu) depuis votre Deck à votre main.
+Si cette carte est envoyée au Cimetière comme Matériel Synchro, vous pouvez (sauf durant la Damage Step) : immédiatement après la résolution de cet effet, Invoquez Normalement 1 monstre Rocher.
+Vous ne pouvez utiliser chaque effet de ""Demi-Tranche de Nickéline"" qu'une fois par tour."
+101306088,Demi-Tranche de Nickéline,str1,Ajouter à la main
+101306088,Demi-Tranche de Nickéline,str2,Invocation
+101306089,Fou Engendré du Chaos,name,Fou Engendré du Chaos
+101306089,Fou Engendré du Chaos,desc,"Si cette carte que vous contrôlez va être utilisée comme Matériel Synchro, vous pouvez la traiter comme non-Syntoniseur.
+Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez Invoquer Spécialement 1 ""Fou Engendré du Chaos"" depuis votre main, Deck ou Cimetière, et si vous le faites, il devient LUMIÈRE, et aussi, le reste de ce tour, vous ne pouvez pas Invoquer Spécialement (monstres LUMIÈRE ou TÉNÈBRES exclus), et vous ne pouvez pas Invoquer Spécialement (Monstres Synchro exclus) depuis l'Extra Deck.
+Vous ne pouvez utiliser cet effet de ""Fou Engendré du Chaos"" qu'une fois par tour."
+101306089,Fou Engendré du Chaos,str2,Invocation Spéciale
+101306090,Châtelain Angetélité,name,Châtelain Angetélité
+101306090,Châtelain Angetélité,desc,"1 Syntoniseur + 1+ non-Syntoniseur
+Vous pouvez cibler 1 monstre de l'adversaire dans la colonne adjacente à cette carte, ou 1 carte dans la Zone Magie & Piège de votre adversaire qui est située à 2 colonnes de cette carte ; bannissez la carte.
+Si cette carte est placée dans la Zone Magie & Piège comme Magie Continue : vous pouvez envoyer 1 carte ""Angetélité"" depuis votre Deck au Cimetière.
+Vous ne pouvez utiliser chacun des effets précédents de ""Châtelain Angetélité"" qu'une fois par tour.
+Tant que cette carte est traitée comme Magie Continue, chaque joueur ne peut activer qu'1 carte ou effet par Chaîne."
+101306090,Châtelain Angetélité,str1,Bannir
+101306090,Châtelain Angetélité,str2,Envoyer au Cimetière
+101306091,Sénéchal Angetélité,name,Sénéchal Angetélité
+101306091,Sénéchal Angetélité,desc,"1 Syntoniseur + 1+ non-Syntoniseur
+Si cette carte est Invoquée Spécialement : activez cet effet ; chaque joueur peut Invoquer Spécialement 1 Monstre Synchro Elfe depuis son Extra Deck (mais annulez ses effets), et aussi, cette carte et les monstres Invoqués Spécialement par cet effet ne peuvent pas être utilisés comme Matériel pour une Invocation Xyz ou Lien, et renvoyez-les à l'Extra Deck lorsqu'ils quittent le Terrain.
+Si un monstre ""Angetélité"" cible cette carte avec une attaque : annulez l'attaque, et si vous le faites, donnez le contrôle de cette carte à votre adversaire.
+Vous ne pouvez utiliser chaque effet de ""Sénéchal Angetélité"" qu'une fois par tour."
+101306091,Sénéchal Angetélité,str1,Activer
+101306091,Sénéchal Angetélité,str2,Annuler l'attaque
+101306091,Sénéchal Angetélité,str3,L'effet de {CARD} est actuellement appliqué.
+101306091,Sénéchal Angetélité,str4,Invocation Spéciale?
+101306092,Score Stratégique Angetélité,name,Score Stratégique Angetélité
+101306092,Score Stratégique Angetélité,desc,"Ajoutez 1 Magie/Piège ""Angetélité"" (""Score Stratégique Angetélité"" exclu) depuis votre Deck à votre main, et aussi, vous ne pouvez pas Invoquer Spécialement (Monstres Synchro LUMIÈRE ou TÉNÈBRES exclus) depuis l'Extra Deck le reste de ce tour après la résolution de cette carte.
+Si cette carte est dans votre Cimetière, sauf le tour où elle y a été envoyée : vous pouvez la bannir ; renvoyez 1 Carte Monstre ""Angetélité"" que vous possédez depuis votre Zone Magie & Piège à l'Extra Deck, puis vous pouvez l'Invoquer Spécialement.
+Vous ne pouvez utiliser chaque effet de ""Score Stratégique Angetélité"" qu'une fois par tour."
+101306092,Score Stratégique Angetélité,str1,Ajouter à la main
+101306092,Score Stratégique Angetélité,str2,Renvoyer à l'Extra Deck
+101306092,Score Stratégique Angetélité,str3,Invocation Spéciale?
+101306093,Coup Brillant Angetélité,name,Coup Brillant Angetélité
+101306093,Coup Brillant Angetélité,desc,"Renvoyez 1 Carte Monstre ""Angetélité"" que vous possédez depuis votre Zone Magie & Piège dans l'Extra Deck, puis vous pouvez l'Invoquer Spécialement.
+Vous pouvez bannir cette carte depuis votre Cimetière, puis envoyez 1 carte ""Angetélité"" depuis votre main ou Terrain face recto au Cimetière ; Invoquez Spécialement 1 monstre ""Angetélité"" depuis votre Extra Deck.
+Vous ne pouvez utiliser chaque effet de ""Coup Brillant Angetélité"" qu'une fois par tour."
+101306093,Coup Brillant Angetélité,str1,Activer
+101306093,Coup Brillant Angetélité,str2,Invocation Spéciale
+101306093,Coup Brillant Angetélité,str3,Invocation Spéciale?
+101306094,Opposition Angetélité,name,Opposition Angetélité
+101306094,Opposition Angetélité,desc,"Choisissez 2 monstres ""Angetélité"" dans votre Extra Deck de noms différents des cartes dans votre Zone Magie & Piège, Invoquez-en Spécialement 1 dans la Zone Monstre Main de votre adversaire, et placez l'autre dans votre Zone Magie & Piège comme Magie Continue face recto.
+Vous pouvez bannir cette carte depuis votre Cimetière ; mélangez max. 5 cartes ""Angetélité"" (""Opposition Angetélité"" exclu) dans le Deck depuis votre Cimetière et/ou bannissement.
+Vous ne pouvez pas Invoquer Spécialement (Monstres Synchro LUMIÈRE ou TÉNÈBRES exclus) depuis l'Extra Deck le tour où vous activez cette carte.
+Vous ne pouvez activer qu'1 ""Opposition Angetélité"" par tour."
+101306094,Opposition Angetélité,str1,Activer
+101306094,Opposition Angetélité,str2,Recycler
+101306095,Problème de Finale Angetélité,name,Problème de Finale Angetélité
+101306095,Problème de Finale Angetélité,desc,"Cette carte gagne les effets suivants selon le nombre de Cartes Monstre ""Angetélité"" dans votre Zone Magie & Piège.
+● 1+ : Une fois par tour, durant la Standby Phase de votre adversaire : vous pouvez piocher 1 carte.
+● 2+ : Lorsque votre adversaire va Invoquer Spécialement un ou plusieurs monstres, vous choisissez les zones dans lesquelles les placer.
+● 3+ : Une fois par tour, vous pouvez activer 1 Carte Piège ""Angetélité"" le tour où elle a été Posée.
+● 4+ : Une fois par tour, lorsque votre adversaire Invoque Spécialement un ou plusieurs monstres (sauf durant la Damage Step) : vous pouvez bannir ces monstres.
+● 5 : Une fois par tour : vous pouvez Invoquer Spécialement 1 monstre ""Angetélité"" depuis votre Extra Deck."
+101306095,Problème de Finale Angetélité,str1,Activer
+101306095,Problème de Finale Angetélité,str2,Piocher
+101306095,Problème de Finale Angetélité,str4,Activer en appliquant l'effet de {CARD}.
+101306095,Problème de Finale Angetélité,str5,Bannir
+101306095,Problème de Finale Angetélité,str6,Invocation Spéciale
+101306096,Verdict Angetélité,name,Verdict Angetélité
+101306096,Verdict Angetélité,desc,"Appliquez cet effet selon le nombre de Cartes Monstre ""Angetélité"" sur le Terrain.
+● 1 à 4 : Annulez les effets d'1 carte face recto contrôlée par votre adversaire.
+● 5+ : Bannissez toutes les cartes contrôlées par votre adversaire.
+Vous pouvez bannir cette carte depuis votre Cimetière ; envoyez 1 carte ""Angetélité"" depuis votre main ou Terrain face recto au Cimetière, puis vous pouvez placer 1 monstre ""Angetélité"" de nom différent des cartes dans votre Zone Magie & Piège, depuis votre Extra Deck dans votre Zone Magie & Piège comme Magie Continue face recto.
+Vous ne pouvez utiliser chaque effet de ""Verdict Angetélité"" qu'une fois par tour."
+101306096,Verdict Angetélité,str1,Activer
+101306096,Verdict Angetélité,str2,Envoyer au Cimetière
+101306096,Verdict Angetélité,str3,"Placer 1 monstre ""Angetélité"" ?"
 101306281,"Audhumla, Progéniteur de l'Étendue Gelée",name,"Audhumla, Progéniteur de l'Étendue Gelée"
 101306281,"Audhumla, Progéniteur de l'Étendue Gelée",desc,"Si min. 4 cartes sont sur le Terrain : vous pouvez Invoquer Spécialement cette carte depuis votre main.
 Vous pouvez envoyer max. 2 Magies/Pièges que vous contrôlez au Cimetière ; piochez autant de cartes, puis vous pouvez Invoquer Spécialement 1 monstre EAU depuis votre main.
@@ -605,13 +608,13 @@ Vous ne pouvez utiliser chaque effet de ""Gearblade Salamangrande"" qu'une fois 
 101307063,Gearblade Salamangrande,str1,Activer
 101307063,Gearblade Salamangrande,str2,Augmenter l'ATK
 101307063,Gearblade Salamangrande,str3,Renvoyer à la main
-101307071,秋,name,秋
-101307071,秋,desc,"①：这张卡只要在场地区域存在，卡名当作「夏」使用。
-②：1回合1次，可以发动。以对方手卡数量给这张卡放置四季指示物。
-③：自己·对方的战斗阶段开始时才能发动。从自己的手卡·卡组·墓地把「秋」以外的1张可以放置四季指示物的场地魔法卡在自己场上以表侧表示放置（这张卡的四季指示物移给那张卡）。
-④：场地区域的卡被效果破坏的场合，可以作为代替把墓地的这张卡除外。"
-101307071,秋,str2,Placer un marqueur
-101307071,秋,str3,Placer dans la Zone Terrain
+101307071,Automne,name,Automne
+101307071,Automne,desc,"Le nom de cette carte devient ""Été"" tant qu'elle est dans la Zone Terrain.
+Une fois par tour : vous pouvez placer un nombre de Compteurs Saison sur cette carte égal au nombre de cartes dans la main de votre adversaire.
+Au début de la Battle Phase : vous pouvez prendre 1 Magie de Terrain (""Automne"" exclu) depuis votre main, Deck ou Cimetière sur laquelle vous pouvez placer un Compteur Saison, et placez-la face recto sur votre Terrain, et si vous le faites, placez tous les Compteurs Saison sur cette carte sur la carte.
+Si une ou plusieurs cartes dans une Zone Terrain vont être détruites par un effet de carte, vous pouvez bannir cette carte depuis votre Cimetière à la place."
+101307071,Automne,str2,Placer un marqueur
+101307071,Automne,str3,Placer dans la Zone Terrain
 101307072,Domination du Dieu du Soleil,name,Domination du Dieu du Soleil
 101307072,Domination du Dieu du Soleil,desc,"Si un monstre ""Le Dragon Ailé de Râ"" est sur le Terrain : appliquez ces effets dans l'ordre.
 ● Invoquez Spécialement 1 monstre depuis chaque Cimetière sur votre Terrain.
