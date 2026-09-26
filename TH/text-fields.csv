@@ -37,7 +37,7 @@ Cannot be destroyed by card effects, also unaffected by your opponent's activate
 100268008,"Gilford the Lightning, the Warrior of Thunderbolts",str2,Send to the GY
 100268008,"Gilford the Lightning, the Warrior of Thunderbolts",str3,Add to hand
 100268010,"Silent Magician, the Silent Fighter",name,"Silent Magician, the Silent Fighter"
-100268010,"Silent Magician, the Silent Fighter",desc,"Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 1 Level 7 or lower monster (Spellcaster or Warrior). You can only Special Summon ""Silent Magician, the Silent Fighter"" once per turn this way. The first time this card would be destroyed by battle or card effect each turn, it is not destroyed. Twice per turn, each time your opponent draws a card(s): You can draw 1 card, or if your opponent drew by their own card effect, you draw the same number of cards instead. While you have 6 or more cards in your hand, negate all your opponent's activated Spell Cards and effects."
+100268010,"Silent Magician, the Silent Fighter",desc,"Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 1 Level 7 or lower monster (Spellcaster or Warrior). You can only Special Summon ""Silent Magician, the Silent Fighter"" once per turn this way. The first time this card would be destroyed by battle or card effect each turn, it is not destroyed. Twice per turn, each time your opponent draws a card(s) (except during the Damage Step): You can draw 1 card, or if your opponent drew by their own card effect, you draw the same number of cards instead. While you have 6 or more cards in your hand, negate all your opponent's activated Spell Cards and effects."
 100268010,"Silent Magician, the Silent Fighter",str1,Draw
 100268010,"Silent Magician, the Silent Fighter",str2,Select the number of cards to draw
 100268011,"Penalty Game ""GREED, the Illusion of Avarice""",name,"Penalty Game ""GREED, the Illusion of Avarice"""
@@ -60,7 +60,7 @@ Cannot be destroyed by card effects, also unaffected by your opponent's activate
 100268014,Evil Dragon Cards - Metal Dragon,str3,Destroy
 100268014,Evil Dragon Cards - Metal Dragon,str4,Draw a card?
 100268015,Super Critical,name,Super Critical
-100268015,Super Critical,desc,"When this card is activated: You can add 1 card with an effect that requires a die roll from your Deck to your hand. Once per Chain per player, if either player rolls a 1 for a card effect's die roll: They can activate 1 of these effects;
+100268015,Super Critical,desc,"When this card is activated: You can add 1 card with an effect that requires a die roll from your Deck to your hand. Once per Chain per player, if either player rolls a 1 for a card effect's die roll (except during the Damage Step): They can activate 1 of these effects;
 ● They destroy up to 3 monsters their opponent controls.
 ● They destroy 1 monster their opponent controls, and if they do, they negate the effects of 1 monster their opponent controls.
 ● They Special Summon 1 monster from their GY.
@@ -85,7 +85,7 @@ If this card is destroyed by card effect: You can Special Summon 1 ""Harpie"" mo
 100268017,Aroma Strategy,str2,Special Summon
 100268017,Aroma Strategy,str3,Apply the effect?
 100268018,King of Yamimado,name,King of Yamimado
-100268018,King of Yamimado,desc,"While you control a face-down card, this card cannot be destroyed by your opponent's card effects, also your opponent cannot target it with card effects. You can only use each of the following effects of ""King of Yamimado"" once per turn. If this card is in your hand and 2 or more face-down cards, and/or ""Yami"", are on the field: You can Special Summon this card. When a monster on the field with less ATK than this card activates its effect or declares an attack (Quick Effect): You can destroy that monster."
+100268018,King of Yamimado,desc,"While you control a face-down card, this card cannot be destroyed by your opponent's card effects, also your opponent cannot target it with card effects. You can only use each of the following effects of ""King of Yamimado"" once per turn. If this card is in your hand, and ""Yami"" and/or 2 or more face-down cards are on the field: You can Special Summon this card. When a monster on the field with less ATK than this card activates its effect or declares an attack (Quick Effect): You can destroy that monster."
 100268018,King of Yamimado,str1,Special Summon
 100268018,King of Yamimado,str3,Destroy
 100268019,Attribute Rejection,name,Attribute Rejection
@@ -123,7 +123,7 @@ During your Main Phase: You can banish this card from your GY; add 1 ""Spell Car
 100268024,"Spell Card ""Enemy Controller""",str3,Destruction effect
 100268024,"Spell Card ""Enemy Controller""",str4,Tribute Summon
 100268025,Final Journey of the Soul,name,Final Journey of the Soul
-100268025,Final Journey of the Soul,desc,"When your opponent activates a card or effect that includes an effect that Special Summons a Monster Card(s) from the GY: Negate that effect, and if you do, Special Summon 1 monster from your opponent's GY to their field, then send any number of face-up monsters they control to the GY whose total ATK equal 6000 or less. If this card is banished: You can add it to your hand, then immediately after this effect resolves, you can Normal Summon 1 monster from your hand that requires 1 or more Tributes without Tributing. You can only use each effect of ""Final Journey of the Soul"" once per turn."
+100268025,Final Journey of the Soul,desc,"When your opponent activates a card or effect that includes an effect that Special Summons a Monster Card(s) from the GY: Negate that effect, and if you do, Special Summon 1 monster from your opponent's GY to their field, then send any number of face-up monsters they control to the GY whose total ATK equal 6000 or less. If this card is banished: You can add it to your hand, then immediately after this effect resolves (except during the Damage Step), you can Normal Summon 1 monster from your hand that requires 1 or more Tributes without Tributing. You can only use each effect of ""Final Journey of the Soul"" once per turn."
 100268025,Final Journey of the Soul,str1,Activate
 100268025,Final Journey of the Soul,str2,Return to the hand
 100268025,Final Journey of the Soul,str3,Send that monster to the GY?
