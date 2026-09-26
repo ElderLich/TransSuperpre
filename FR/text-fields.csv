@@ -70,7 +70,7 @@ La première fois que cette carte va être détruite au combat ou par un effet d
 Deux fois par tour, chaque fois que votre adversaire pioche une ou plusieurs cartes (sauf durant la Damage Step) : vous pouvez piocher 1 carte, ou si votre adversaire a pioché par son propre effet de carte, vous pouvez piocher le même nombre de cartes à la place.
 Tant que vous avez min. 6 cartes dans votre main, annulez tous les Cartes Magie et effets de Magie activés de votre adversaire."
 100268010,"Magicien Silencieux, le Combattant Silencieux",str1,Piocher
-100268010,"Magicien Silencieux, le Combattant Silencieux",str2,Choisir le nombre de cartes à piocher.
+100268010,"Magicien Silencieux, le Combattant Silencieux",str2,Sélectionnez le nombre de cartes à piocher
 100268011,"Jeu de la Sanction ""CUPIDITÉ, l'Illusion de l'Avarice""",name,"Jeu de la Sanction ""CUPIDITÉ, l'Illusion de l'Avarice"""
 100268011,"Jeu de la Sanction ""CUPIDITÉ, l'Illusion de l'Avarice""",desc,"Si votre adversaire a ajouté une ou plusieurs cartes depuis le Deck à la main ce tour, sauf durant la Draw Phase : infligez 400 points de dommages à votre adversaire pour chaque carte dans sa main, puis si le nombre total de cartes dans sa main, Terrain et Cimetière est min. 20, vous pouvez bannir toute sa main.
 Vous ne pouvez activer qu'1 ""Jeu de la Sanction ""CUPIDITÉ, l'Illusion de l'Avarice"""" par tour."
@@ -274,7 +274,7 @@ Si cette carte en votre possession est détruite par un effet de carte de l'adve
 ● Posez 1 Piège depuis votre Cimetière.
 Vous ne pouvez utiliser chaque effet de ""Pile ou Face ?"" qu'une fois par tour."
 101306083,Pile ou Face ?,str1,Activer
-101306083,Pile ou Face ?,str2,Choisissez d'activer
+101306083,Pile ou Face ?,str2,Sélectionner l'activation
 101306083,Pile ou Face ?,str3,Invocation Spéciale
 101306083,Pile ou Face ?,str4,Poser un Piège
 101306084,"Kumenyo, le Cerf aux Neuf Teintes",name,"Kumenyo, le Cerf aux Neuf Teintes"
@@ -330,7 +330,7 @@ Si un monstre ""Angetélité"" cible cette carte avec une attaque : annulez l'at
 Vous ne pouvez utiliser chaque effet de ""Sénéchal Angetélité"" qu'une fois par tour."
 101306091,Sénéchal Angetélité,str1,Activer
 101306091,Sénéchal Angetélité,str2,Annuler l'attaque
-101306091,Sénéchal Angetélité,str3,L'effet de {CARD} est actuellement appliqué.
+101306091,Sénéchal Angetélité,str3,"L'effet de ""Sénéchal Angetélité"" est actuellement appliqué."
 101306091,Sénéchal Angetélité,str4,Invocation Spéciale?
 101306092,Score Stratégique Angetélité,name,Score Stratégique Angetélité
 101306092,Score Stratégique Angetélité,desc,"Ajoutez 1 Magie/Piège ""Angetélité"" (""Score Stratégique Angetélité"" exclu) depuis votre Deck à votre main, et aussi, vous ne pouvez pas Invoquer Spécialement (Monstres Synchro LUMIÈRE ou TÉNÈBRES exclus) depuis l'Extra Deck le reste de ce tour après la résolution de cette carte.
@@ -362,7 +362,7 @@ Vous ne pouvez activer qu'1 ""Opposition Angetélité"" par tour."
 ● 5 : Une fois par tour : vous pouvez Invoquer Spécialement 1 monstre ""Angetélité"" depuis votre Extra Deck."
 101306095,Problème de Finale Angetélité,str1,Activer
 101306095,Problème de Finale Angetélité,str2,Piocher
-101306095,Problème de Finale Angetélité,str4,Activer en appliquant l'effet de {CARD}.
+101306095,Problème de Finale Angetélité,str4,"Activer en appliquant l'effet de ""Problème de Finale Angetélité""."
 101306095,Problème de Finale Angetélité,str5,Bannir
 101306095,Problème de Finale Angetélité,str6,Invocation Spéciale
 101306096,Verdict Angetélité,name,Verdict Angetélité
@@ -373,7 +373,7 @@ Vous pouvez bannir cette carte depuis votre Cimetière ; envoyez 1 carte ""Anget
 Vous ne pouvez utiliser chaque effet de ""Verdict Angetélité"" qu'une fois par tour."
 101306096,Verdict Angetélité,str1,Activer
 101306096,Verdict Angetélité,str2,Envoyer au Cimetière
-101306096,Verdict Angetélité,str3,"Placer 1 monstre ""Angetélité"" ?"
+101306096,Verdict Angetélité,str3,Le placer ?
 101306281,"Audhumla, Progéniteur de l'Étendue Gelée",name,"Audhumla, Progéniteur de l'Étendue Gelée"
 101306281,"Audhumla, Progéniteur de l'Étendue Gelée",desc,"Si min. 4 cartes sont sur le Terrain : vous pouvez Invoquer Spécialement cette carte depuis votre main.
 Vous pouvez envoyer max. 2 Magies/Pièges que vous contrôlez au Cimetière ; piochez autant de cartes, puis vous pouvez Invoquer Spécialement 1 monstre EAU depuis votre main.
