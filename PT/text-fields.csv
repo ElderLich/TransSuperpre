@@ -261,7 +261,7 @@ Se este card em sua posse é destruído por um efeito do oponente: você pode at
 ● Baixe 1 Armadilha do seu Cemitério.
 Você só pode usar cada um dos efeitos de ""Apenas Jogue uma Moeda"" uma vez por turno."
 101306083,Apenas Jogue uma Moeda,str1,Ativar
-101306083,Apenas Jogue uma Moeda,str2,Selecionar ativação
+101306083,Apenas Jogue uma Moeda,str2,Escolha um efeito para ativar
 101306083,Apenas Jogue uma Moeda,str3,Invocação Especial
 101306083,Apenas Jogue uma Moeda,str4,Baixar uma Armadilha
 101306084,"Kumenyo, o Cervo de Nove Cores",name,"Kumenyo, o Cervo de Nove Cores"
@@ -439,6 +439,16 @@ Você só pode usar cada efeitos de ""Salamagrande Bastella"" uma vez por turno.
 101307014,Salamagrande Bastella,str3,Alterar o Nível?
 101307014,Salamagrande Bastella,str4,Aumentar
 101307014,Salamagrande Bastella,str5,Reduzir
+101307023,返身报恩的鹤秘姬,name,返身报恩的鹤秘姬
+101307023,返身报恩的鹤秘姬,desc,"这个卡名的①②③的效果1回合各能使用1次。
+①：对方结束阶段才能发动。墓地的这张卡回到卡组最上面。
+②：自己·对方的主要阶段才能发动。场上的这张卡回到手卡，双方各自抽1张。那之后，对方可以适用以下效果。
+●自己抽1张，这个主要阶段中，对方手卡全部持续公开。
+③：自己·对方回合，把在手卡公开中的这张卡除外才能发动。对方场上的表侧表示卡全部破坏。"
+101307023,返身报恩的鹤秘姬,str1,Retornar ao Deck
+101307023,返身报恩的鹤秘姬,str2,Comprar
+101307023,返身报恩的鹤秘姬,str3,Destruir
+101307023,返身报恩的鹤秘姬,str4,Comprar mais 1 card?
 101307024,Reindsurm Amurusa,name,Reindsurm Amurusa
 101307024,Reindsurm Amurusa,desc,"Você pode Invocar por Invocação-Ritual este card com ""Conquista Reindsurm"".
 Se este card é Invocado por Invocação-Ritual: você pode adicionar 2 monstros ""Reindsurm"" de não-VENTO do seu Deck à sua mão.
