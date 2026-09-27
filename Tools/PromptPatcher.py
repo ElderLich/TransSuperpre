@@ -855,6 +855,16 @@ def build_translation_pack(lang: str):
 
     # Extra phrases (keep phrase-level; avoid single-word glue)
     extras = {
+        "是否再抽卡？": {
+            "en": "Draw another card?",
+            "fr": "Piocher une autre carte ?",
+            "de": "Eine weitere Karte ziehen?",
+            "es": "¿Robar otra carta?",
+            "pt": "Comprar mais 1 card?",
+            "it": "Pescare un'altra carta?",
+            "ja": "さらに1枚ドローしますか？",
+            "kr": "추가로 1장 드로우하시겠습니까?",
+        },
         "因{CARD}被里侧除外": {
             "en": "Banished face-down by {CARD}",
             "fr": "Banni face verso par {CARD}",
@@ -34775,17 +34785,17 @@ def build_translation_pack(lang: str):
             "pt": "Selecione o número de cards a comprar",
             "it": "Seleziona il numero di carte da pescare",
             "ja": "ドローする枚数を選択",
-            "kr": "드로우할 매수를 선택"
+            "kr": "드로우할 매수를 선택",
         },
         "选择发动": {
-            "en": "Select activation",
-            "fr": "Sélectionner l'activation",
-            "de": "Aktivierung wählen",
-            "es": "Seleccionar activación",
-            "pt": "Selecionar ativação",
-            "it": "Seleziona l'attivazione",
-            "ja": "発動を選択",
-            "kr": "발동을 선택"
+            "en": "Choose an effect to activate",
+            "fr": "Choisir un effet à activer",
+            "de": "Wähle einen Effekt zum Aktivieren",
+            "es": "Elige un efecto para activar",
+            "pt": "Escolha um efeito para ativar",
+            "it": "Scegli un effetto da attivare",
+            "ja": "発動する効果を選ぶ",
+            "kr": "발동할 효과를 선택",
         },
         "是否放置？": {
             "en": "Place it?",
@@ -34793,9 +34803,9 @@ def build_translation_pack(lang: str):
             "de": "Platzieren?",
             "es": "¿Colocarlo?",
             "pt": "Colocar?",
-            "it": "Posizionarla?",
+            "it": "Posizionarlo?",
             "ja": "置きますか？",
-            "kr": "놓으시겠습니까?"
+            "kr": "놓으시겠습니까?",
         },
 
     }
