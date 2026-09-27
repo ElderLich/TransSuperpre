@@ -261,7 +261,7 @@ Se questa carta sotto il tuo controllo viene distrutta dall'effetto di una carta
 ● Posiziona 1 Trappola dal tuo Cimitero.
 Puoi utilizzare ciascun effetto di ""Basta Lanciare una Moneta"" una sola volta per turno."
 101306083,Basta Lanciare una Moneta,str1,Attiva
-101306083,Basta Lanciare una Moneta,str2,Seleziona l'attivazione
+101306083,Basta Lanciare una Moneta,str2,Scegli un effetto da attivare
 101306083,Basta Lanciare una Moneta,str3,Evocazione Speciale
 101306083,Basta Lanciare una Moneta,str4,Posiziona una Trappola
 101306084,"Kumenyo, il Cervo dalle Nove Tonalità",name,"Kumenyo, il Cervo dalle Nove Tonalità"
@@ -361,7 +361,7 @@ Puoi bandire questa carta dal tuo Cimitero; manda 1 carta ""Angelechy"" dalla tu
 Puoi utilizzare ciascun effetto di ""Verdetto Angelechy"" una sola volta per turno."
 101306096,Verdetto Angelechy,str1,Attiva
 101306096,Verdetto Angelechy,str2,Mandare al Cimitero
-101306096,Verdetto Angelechy,str3,Posizionarla?
+101306096,Verdetto Angelechy,str3,Posizionarlo?
 101306281,"Audhumla, Progenitrice dell'Estensione Ghiacciata",name,"Audhumla, Progenitrice dell'Estensione Ghiacciata"
 101306281,"Audhumla, Progenitrice dell'Estensione Ghiacciata",desc,"Se ci sono 4 o più carte sul Terreno: puoi Evocare Specialmente questa carta dalla tua mano.
 Puoi mandare al Cimitero fino a 2 Magie/Trappole che controlli; pesca un numero di carte pari a quelle mandate, poi puoi Evocare Specialmente 1 mostro ACQUA dalla tua mano.
@@ -441,6 +441,16 @@ Puoi utilizzare ogni effetto di ""Salamagna Bastella"" una sola volta per turno.
 101307014,Salamagna Bastella,str3,Cambiare il Livello?
 101307014,Salamagna Bastella,str4,Aumentare
 101307014,Salamagna Bastella,str5,Diminuire
+101307023,返身报恩的鹤秘姬,name,返身报恩的鹤秘姬
+101307023,返身报恩的鹤秘姬,desc,"这个卡名的①②③的效果1回合各能使用1次。
+①：对方结束阶段才能发动。墓地的这张卡回到卡组最上面。
+②：自己·对方的主要阶段才能发动。场上的这张卡回到手卡，双方各自抽1张。那之后，对方可以适用以下效果。
+●自己抽1张，这个主要阶段中，对方手卡全部持续公开。
+③：自己·对方回合，把在手卡公开中的这张卡除外才能发动。对方场上的表侧表示卡全部破坏。"
+101307023,返身报恩的鹤秘姬,str1,Rimettere nel Deck
+101307023,返身报恩的鹤秘姬,str2,Pescare
+101307023,返身报恩的鹤秘姬,str3,Distruggere
+101307023,返身报恩的鹤秘姬,str4,Pescare un'altra carta?
 101307024,Reindsurm Amurusa,name,Reindsurm Amurusa
 101307024,Reindsurm Amurusa,desc,"Puoi Evocare tramite Rituale questa carta con ""Conquista Reindsurm"".
 Se questa carta viene Evocata tramite Rituale: puoi aggiungere 2 mostri ""Reindsurm"" non-VENTO dal tuo Deck alla tua mano.
