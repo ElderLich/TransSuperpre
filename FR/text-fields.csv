@@ -274,7 +274,7 @@ Si cette carte en votre possession est détruite par un effet de carte de l'adve
 ● Posez 1 Piège depuis votre Cimetière.
 Vous ne pouvez utiliser chaque effet de ""Pile ou Face ?"" qu'une fois par tour."
 101306083,Pile ou Face ?,str1,Activer
-101306083,Pile ou Face ?,str2,Sélectionner l'activation
+101306083,Pile ou Face ?,str2,Choisir un effet à activer
 101306083,Pile ou Face ?,str3,Invocation Spéciale
 101306083,Pile ou Face ?,str4,Poser un Piège
 101306084,"Kumenyo, le Cerf aux Neuf Teintes",name,"Kumenyo, le Cerf aux Neuf Teintes"
@@ -456,6 +456,16 @@ Vous ne pouvez utiliser chaque effet de ""Salamangrande Bastelle"" qu'une fois p
 101307014,Salamangrande Bastelle,str3,Changer le Niveau?
 101307014,Salamangrande Bastelle,str4,Augmenter
 101307014,Salamangrande Bastelle,str5,Diminuer
+101307023,返身报恩的鹤秘姬,name,返身报恩的鹤秘姬
+101307023,返身报恩的鹤秘姬,desc,"这个卡名的①②③的效果1回合各能使用1次。
+①：对方结束阶段才能发动。墓地的这张卡回到卡组最上面。
+②：自己·对方的主要阶段才能发动。场上的这张卡回到手卡，双方各自抽1张。那之后，对方可以适用以下效果。
+●自己抽1张，这个主要阶段中，对方手卡全部持续公开。
+③：自己·对方回合，把在手卡公开中的这张卡除外才能发动。对方场上的表侧表示卡全部破坏。"
+101307023,返身报恩的鹤秘姬,str1,Renvoyer au Deck
+101307023,返身报恩的鹤秘姬,str2,Piocher
+101307023,返身报恩的鹤秘姬,str3,Détruire
+101307023,返身报恩的鹤秘姬,str4,Piocher une autre carte ?
 101307024,Amurusa Réindsurm,name,Amurusa Réindsurm
 101307024,Amurusa Réindsurm,desc,"Vous pouvez Invoquer Rituellement cette carte avec ""Conquête Réindsurm"".
 Si cette carte est Invoquée Rituellement : vous pouvez ajouter 2 monstres ""Réindsurm"" non-VENT depuis votre Deck à votre main.
