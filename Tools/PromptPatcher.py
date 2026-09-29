@@ -855,6 +855,16 @@ def build_translation_pack(lang: str):
 
     # Extra phrases (keep phrase-level; avoid single-word glue)
     extras = {
+        "特殊召唤通常怪兽": {
+            "en": "Special Summon a Normal Monster",
+            "fr": "Invoquer Spécialement un Monstre Normal",
+            "de": "Ein Normales Monster als Spezialbeschwörung beschwören",
+            "es": "Invocar de Modo Especial un Monstruo Normal",
+            "pt": "Invocar por Invocação Especial um Monstro Normal",
+            "it": "Evocare Specialmente un Mostro Normale",
+            "ja": "通常モンスターを特殊召喚する",
+            "kr": "일반 몬스터를 특수 소환한다",
+        },
         "是否再抽卡？": {
             "en": "Draw another card?",
             "fr": "Piocher une autre carte ?",
