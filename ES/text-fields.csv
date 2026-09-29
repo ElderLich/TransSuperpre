@@ -1,4 +1,6 @@
 id,name,field,value
+100262301,屋素姆的魔龙王,name,屋素姆的魔龙王
+100262301,屋素姆的魔龙王,desc,从闭锁的地下世界苏醒的异星之龙。它在刚醒时只能发挥出自身原本力量的千分之一，这一点在泽塔次元也是有名的杂学知识。
 100268001,Exodia el Aniquilador,name,Exodia el Aniquilador
 100268001,Exodia el Aniquilador,desc,"Cuando robas esta carta durante tu turno: puedes revelarla; Invócala de Modo Especial. 
 Si esta carta es Invocada de Modo Especial durante tu turno: puedes activar este efecto; por el resto de este turno, ningún jugador puede activar cartas o efectos, excepto ""Exodia el Aniquilador"", y además no puedes Invocar de Modo Normal o Especial (pero puedes Colocar de Modo Normal). 
@@ -521,6 +523,13 @@ Si esta carta y un monstruo ""Reindsurm"" de LUZ están en tu Cementerio: puedes
 101307028,Reindsurm Giriakarma,str1,Negar la activación
 101307028,Reindsurm Giriakarma,str2,Añadir a la mano
 101307028,Reindsurm Giriakarma,str3,¿Seleccionar monstruos para devolverlos al Deck?
+101307029,盟约之标枪甲虫,name,盟约之标枪甲虫
+101307029,盟约之标枪甲虫,desc,"「盟约之标枪甲虫」降临。
+这个卡名的①的效果在决斗中只能使用1次。
+①：自己·对方的主要阶段，把手卡的这张卡给对方出示才能发动。等级合计直到变成仪式召唤的怪兽的等级以上为止，把自己的手卡·场上的怪兽解放，从手卡把1只昆虫族仪式怪兽仪式召唤。
+②：这张卡仪式召唤的场合，以和这张卡相同纵列的1张其他卡为对象才能发动。那张卡破坏，这张卡的攻击力上升600。"
+101307029,盟约之标枪甲虫,str1,Invocación Ritual
+101307029,盟约之标枪甲虫,str2,Efecto de destrucción
 101307030,El Dragón Alado de Ra - El Dios Solar de la Oscuridad,name,El Dragón Alado de Ra - El Dios Solar de la Oscuridad
 101307030,El Dragón Alado de Ra - El Dios Solar de la Oscuridad,desc,"""El Dragón Alado de Ra"" + 3 monstruos ""Dios Solar""	
 No es afectada por efectos de otras cartas. 
