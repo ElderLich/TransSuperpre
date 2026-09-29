@@ -1,4 +1,6 @@
 id,name,field,value
+100262301,屋素姆的魔龙王,name,屋素姆的魔龙王
+100262301,屋素姆的魔龙王,desc,从闭锁的地下世界苏醒的异星之龙。它在刚醒时只能发挥出自身原本力量的千分之一，这一点在泽塔次元也是有名的杂学知识。
 100268001,Exodia l'Obliteratore,name,Exodia l'Obliteratore
 100268001,Exodia l'Obliteratore,desc,"Quando peschi questa carta durante il tuo turno: puoi rivelarla; Evoca Specialmente questa carta.
 Se questa carta viene Evocata Specialmente durante il tuo turno: puoi attivare questo effetto; per il resto di questo turno, nessun giocatore può attivare carte o effetti, eccetto ""Exodia l'Obliteratore"", inoltre non puoi Evocare Normalmente o Specialmente mostri.
@@ -497,6 +499,13 @@ Puoi utilizzare ogni effetto di ""Reindsurm Giriakarma"" una sola volta per turn
 101307028,Reindsurm Giriakarma,str1,Annullare l'attivazione
 101307028,Reindsurm Giriakarma,str2,Aggiungere alla mano
 101307028,Reindsurm Giriakarma,str3,Selezionare mostri da rimettere nel Deck?
+101307029,盟约之标枪甲虫,name,盟约之标枪甲虫
+101307029,盟约之标枪甲虫,desc,"「盟约之标枪甲虫」降临。
+这个卡名的①的效果在决斗中只能使用1次。
+①：自己·对方的主要阶段，把手卡的这张卡给对方出示才能发动。等级合计直到变成仪式召唤的怪兽的等级以上为止，把自己的手卡·场上的怪兽解放，从手卡把1只昆虫族仪式怪兽仪式召唤。
+②：这张卡仪式召唤的场合，以和这张卡相同纵列的1张其他卡为对象才能发动。那张卡破坏，这张卡的攻击力上升600。"
+101307029,盟约之标枪甲虫,str1,Evocazione Rituale
+101307029,盟约之标枪甲虫,str2,Effetto di distruzione
 101307030,La Divinità del Sole e dell'Oscurità - Drago Alato di Ra,name,La Divinità del Sole e dell'Oscurità - Drago Alato di Ra
 101307030,La Divinità del Sole e dell'Oscurità - Drago Alato di Ra,desc,"""Drago Alato di Ra"" + 3 mostri ""Divinità del Sole""
 Immune agli effetti delle altre carte.
