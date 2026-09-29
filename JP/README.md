@@ -12,4 +12,4 @@ Cards: `91`
 - `datas.csv`: raw CDB `datas` table.
 - `cards/<id>.json`: combined card data and text record.
 
-CDB SHA-256: `dad08a253d8249077f0582e6fbc90372f808ee0eb637a4870cdc642fab28f1f0`
+CDB SHA-256: `53c9af6aaddf1421005ca4e0dcb2e0b857c6489522def620671ef256b254939c`
