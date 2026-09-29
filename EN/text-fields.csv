@@ -1,6 +1,6 @@
 id,name,field,value
-100262301,屋素姆的魔龙王,name,屋素姆的魔龙王
-100262301,屋素姆的魔龙王,desc,从闭锁的地下世界苏醒的异星之龙。它在刚醒时只能发挥出自身原本力量的千分之一，这一点在泽塔次元也是有名的杂学知识。
+100262301,The Dark Dragon Lord of Ultum,name,The Dark Dragon Lord of Ultum
+100262301,The Dark Dragon Lord of Ultum,desc,"A dragon from another star that awoke from within a sealed underground world. It's a well-known fact even in Dimension Zeta that when you first wake up, you can only exert one-thousandth of your true strength."
 100268001,Exodia the Obliterator,name,Exodia the Obliterator
 100268001,Exodia the Obliterator,desc,"When you draw this card during your turn: You can reveal it; Special Summon it. If this card is Special Summoned during your turn: You can activate this effect; for the rest of this turn, neither player can activate cards or effects, except ""Exodia the Obliterator"", also you cannot Normal or Special Summon monsters. At the start of the Damage Step, if this card battles: You can destroy as many monsters your opponent controls as possible, and if you do, inflict damage to your opponent equal to the total original ATK of those destroyed monsters."
 100268001,Exodia the Obliterator,str1,Special Summon
@@ -317,7 +317,7 @@ You can banish this card from your GY; send 1 ""Angelechy"" card from your hand 
 101307014,Salamangreat Bastella,str4,Increase
 101307014,Salamangreat Bastella,str5,Decrease
 101307020,Bunnillin: Mocha MOD,name,Bunnillin: Mocha MOD
-101307020,Bunnillin: Mocha MOD,desc,"You can send 1 Normal Monster with 2000 or less ATK from your Deck to the GY; Special Summon this card from your hand. If this card is Normal or Special Summoned: You can place 1 ""Bunnillin"" Continuous Spell/Trap from your Deck or GY face-up on your field. If your oppoennt Special Summons an Effect Monster(s), while this card is in the Monster Zone: You can Tribute this card; Special Summon 1 Normal Monster from your GY. You can only use each effect of ""Bunnillin: Mocha MOD"" once per turn."
+101307020,Bunnillin: Mocha MOD,desc,"You can send 1 Normal Monster with 2000 or less ATK from your Deck to the GY; Special Summon this card from your hand. If this card is Normal or Special Summoned: You can place 1 ""Bunnillin"" Continuous Spell/Trap from your Deck or GY face-up on your field. If your opponent Special Summons an Effect Monster(s), while this card is in the Monster Zone: You can Tribute this card; Special Summon 1 Normal Monster from your GY. You can only use each effect of ""Bunnillin: Mocha MOD"" once per turn."
 101307020,Bunnillin: Mocha MOD,str1,Special Summon
 101307020,Bunnillin: Mocha MOD,str2,Place
 101307020,Bunnillin: Mocha MOD,str3,Special Summon a Normal Monster
@@ -349,13 +349,10 @@ You can banish this card from your GY; send 1 ""Angelechy"" card from your hand 
 101307028,Reindsurm Giriakarma,str1,Negate the activation
 101307028,Reindsurm Giriakarma,str2,Add to hand
 101307028,Reindsurm Giriakarma,str3,Select monsters to return to the Deck?
-101307029,盟约之标枪甲虫,name,盟约之标枪甲虫
-101307029,盟约之标枪甲虫,desc,"「盟约之标枪甲虫」降临。
-这个卡名的①的效果在决斗中只能使用1次。
-①：自己·对方的主要阶段，把手卡的这张卡给对方出示才能发动。等级合计直到变成仪式召唤的怪兽的等级以上为止，把自己的手卡·场上的怪兽解放，从手卡把1只昆虫族仪式怪兽仪式召唤。
-②：这张卡仪式召唤的场合，以和这张卡相同纵列的1张其他卡为对象才能发动。那张卡破坏，这张卡的攻击力上升600。"
-101307029,盟约之标枪甲虫,str1,Ritual Summon
-101307029,盟约之标枪甲虫,str2,Destruction effect
+101307029,Javelin Beetle of the Alliance,name,Javelin Beetle of the Alliance
+101307029,Javelin Beetle of the Alliance,desc,"You can Ritual Summon this card with ""Javelin Beetle of the Alliance"". During the Main Phase (Quick Effect): You can reveal this card in your hand; Ritual Summon 1 Insect Ritual Monster from your hand, by Tributing monsters from your hand or field whose total Levels equal or exceed its Level. You can only use this effect of ""Javelin Beetle of the Alliance"" once per Duel. If this card is Ritual Summoned: You can target 1 other card in this card's column; destroy it, and if you do, this card gains 600 ATK."
+101307029,Javelin Beetle of the Alliance,str1,Ritual Summon
+101307029,Javelin Beetle of the Alliance,str2,Destruction effect
 101307030,"The Winged Dragon of Ra, Sun God of Darkness",name,"The Winged Dragon of Ra, Sun God of Darkness"
 101307030,"The Winged Dragon of Ra, Sun God of Darkness",desc,"""The Winged Dragon of Ra"" + 3 ""Sun God"" monsters
 Unaffected by other cards' effects. Once per turn, during the Main Phase (Quick Effect): You can discard any number of ""Sun God"" cards, then choose that many of your opponent's occupied Main Monster Zones; your opponent must send the monsters in those zones to the GY. When an attack is declared involving this card: You can pay LP so that you only have 1 left; this card gains ATK/DEF equal to the amount of LP paid and the total ATK of all ""Sun God"" monsters currently in your GY."
