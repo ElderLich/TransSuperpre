@@ -18,12 +18,11 @@ import zipfile
 from dataclasses import dataclass
 from pathlib import Path
 
+from shared_downloads import JSON_URL_DEFAULT, YPK_URL_DEFAULT, DownloadError, download_file as download_verified_file
 from shared_mappings import load_locale_mappings_csv, save_locale_mappings_csv
 
 ROOT = Path(__file__).resolve().parents[2]
 
-YPK_URL_DEFAULT = "https://cdn02.moecube.com:444/ygopro-super-pre/archive/ygopro-super-pre.ypk"
-JSON_URL_DEFAULT = "https://cdn02.moecube.com:444/ygopro-super-pre/data/test-release.json"
 CARDS_CDB_URL_TEMPLATE = "https://raw.githubusercontent.com/ElderLich/ygopro-database-elder/master/locales/{locale}/cards.cdb"
 
 
@@ -452,12 +451,10 @@ def require_file(path: Path, label: str) -> Path:
 
 
 def download_file(url: str, target: Path) -> None:
-    log(f"Downloading {url}")
-    request = urllib.request.Request(url, headers={"User-Agent": f"TransSuperpre-{CONFIG.lang.upper()}-AutoPR/1.0"})
-    target.parent.mkdir(parents=True, exist_ok=True)
-    with urllib.request.urlopen(request, timeout=300) as response, target.open("wb") as handle:
-        shutil.copyfileobj(response, handle)
-    log(f"Downloaded {target}")
+    try:
+        download_verified_file(url, target, user_agent=f"TransSuperpre-{CONFIG.lang.upper()}-AutoPR/1.0", log_fn=log)
+    except DownloadError as exc:
+        fail(str(exc))
 
 
 def fetch_json(url: str) -> list[dict]:

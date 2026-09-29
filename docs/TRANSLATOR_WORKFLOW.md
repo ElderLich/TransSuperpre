@@ -142,6 +142,16 @@ removes stale CDB rows that no longer exist upstream, removes local
 `raw2/test-update.cdb` if it exists, applies `Shared/Mappings.csv`, and copies
 the shared mapping file to local `<LANG>/Mappings.csv`.
 
+All languages download upstream packages through the unversioned
+`https://cdntx2.moecube.com/ygopro-super-pre/archive/ygopro-super-pre.ypk`
+URL, which redirects to the current release. Downloads retry up to three times,
+check the advertised file size, and validate the `.ypk` ZIP checksums and required
+files before extraction. An incomplete or invalid download produces a clear
+error instead of being reported as successful. Existing download targets are
+replaced only after validation. Local `AutoPR.py` wrappers use these download
+helpers from the configured repository, so updating the repository also updates
+their download behavior.
+
 Upload option `2` copies these files into the GitHub repo and pushes them:
 
 ```text

@@ -17,6 +17,7 @@ import urllib.request
 import zipfile
 from pathlib import Path
 
+from shared_downloads import JSON_URL_DEFAULT, YPK_URL_DEFAULT, DownloadError, download_file as download_verified_file
 from shared_mappings import load_locale_mappings_csv
 
 ROOT = Path(__file__).resolve().parents[2]
@@ -28,7 +29,7 @@ MAPPINGS_PATH = Path(os.environ.get("ES_AUTOPR_MAPPINGS_PATH", ROOT / "Shared" /
 
 YPK_URL = os.environ.get(
     "ES_AUTOPR_YPK_URL",
-    "https://cdn02.moecube.com:444/ygopro-super-pre/archive/ygopro-super-pre.ypk",
+    YPK_URL_DEFAULT,
 )
 CARDS_CDB_URL = os.environ.get(
     "ES_AUTOPR_CARDS_CDB_URL",
@@ -36,7 +37,7 @@ CARDS_CDB_URL = os.environ.get(
 )
 JSON_URL = os.environ.get(
     "ES_AUTOPR_JSON_URL",
-    "https://cdn02.moecube.com:444/ygopro-super-pre/data/test-release.json",
+    JSON_URL_DEFAULT,
 )
 
 CARD_TOKEN = "{CARD}"
@@ -88,12 +89,10 @@ def require_file(path: Path, label: str) -> Path:
 
 
 def download_file(url: str, target: Path) -> None:
-    log(f"Downloading {url}")
-    request = urllib.request.Request(url, headers={"User-Agent": "TransSuperpre-ES-AutoPR/1.0"})
-    target.parent.mkdir(parents=True, exist_ok=True)
-    with urllib.request.urlopen(request, timeout=300) as response, target.open("wb") as handle:
-        shutil.copyfileobj(response, handle)
-    log(f"Downloaded {target}")
+    try:
+        download_verified_file(url, target, user_agent="TransSuperpre-ES-AutoPR/1.0", log_fn=log)
+    except DownloadError as exc:
+        fail(str(exc))
 
 
 def fetch_json(url: str) -> list[dict]:

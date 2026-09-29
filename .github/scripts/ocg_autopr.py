@@ -19,6 +19,7 @@ import zipfile
 from dataclasses import dataclass
 from pathlib import Path
 
+from shared_downloads import JSON_URL_DEFAULT, YPK_URL_DEFAULT, DownloadError, download_file as download_verified_file
 from shared_mappings import load_locale_mappings_csv
 
 ROOT = Path(__file__).resolve().parents[2]
@@ -29,10 +30,6 @@ SELF_TOKEN = "self"
 
 STRINGS_ENTRY_RE = re.compile(r"^(?P<indent>\s*)!(?P<directive>[^\s#]+)\s+(?P<code>\S+)(?:\s+(?P<name>.*\S))?\s*$")
 PLACEHOLDER_TOKEN_RE = re.compile(r"\(\s*\{CARD\}\s*\)|（\s*\{CARD\}\s*）|\{CARD\}")
-
-YPK_URL_DEFAULT = "https://cdn02.moecube.com:444/ygopro-super-pre/archive/ygopro-super-pre.ypk"
-JSON_URL_DEFAULT = "https://cdn02.moecube.com:444/ygopro-super-pre/data/test-release.json"
-
 
 JP_REPLACEMENT_MAP = {
     "/神": "/神",
@@ -317,11 +314,10 @@ def request(url: str) -> urllib.request.Request:
 
 
 def download_file(url: str, target: Path) -> None:
-    log(f"Downloading {url}")
-    target.parent.mkdir(parents=True, exist_ok=True)
-    with urllib.request.urlopen(request(url), timeout=300) as response, target.open("wb") as handle:
-        shutil.copyfileobj(response, handle)
-    log(f"Downloaded {target}")
+    try:
+        download_verified_file(url, target, user_agent=f"TransSuperpre-{CONFIG.folder}-AutoPR/1.0", log_fn=log)
+    except DownloadError as exc:
+        fail(str(exc))
 
 
 def fetch_json(url: str) -> list[dict]:
