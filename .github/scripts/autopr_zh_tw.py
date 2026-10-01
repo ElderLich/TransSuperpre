@@ -23,6 +23,8 @@ import urllib.request
 import zipfile
 from pathlib import Path
 
+from shared_downloads import JSON_URL_DEFAULT, YPK_URL_DEFAULT, DownloadError, download_file as download_verified_file
+
 ROOT = Path(__file__).resolve().parents[2]
 OUTPUT_DIR = Path(os.environ.get("TW_AUTOPR_OUTPUT_DIR", ROOT / "ZH-TW")).resolve()
 BASE_FILES_DIR = Path(os.environ.get("TW_AUTOPR_BASE_FILES_DIR", OUTPUT_DIR / "Base Files")).resolve()
@@ -31,11 +33,11 @@ CARDEDITOR_EXPANSIONS_DIR = Path(
 ).resolve()
 YPK_URL = os.environ.get(
     "TW_AUTOPR_YPK_URL",
-    "https://cdn02.moecube.com:444/ygopro-super-pre/archive/ygopro-super-pre.ypk",
+    YPK_URL_DEFAULT,
 )
 JSON_URL = os.environ.get(
     "TW_AUTOPR_JSON_URL",
-    "https://cdn02.moecube.com:444/ygopro-super-pre/data/test-release.json",
+    JSON_URL_DEFAULT,
 )
 CARDS_CDB_URL = os.environ.get(
     "TW_AUTOPR_CARDS_CDB_URL",
@@ -150,12 +152,10 @@ def require_file(path: Path, label: str) -> Path:
 
 
 def download_file(url: str, target: Path) -> None:
-    log(f"Downloading {url}")
-    request = urllib.request.Request(url, headers={"User-Agent": "TransSuperpre-AutoPR/1.0"})
-    with urllib.request.urlopen(request, timeout=300) as response:
-        with target.open("wb") as output:
-            shutil.copyfileobj(response, output)
-    log(f"Downloaded base package to {target}")
+    try:
+        download_verified_file(url, target, user_agent="TransSuperpre-AutoPR/1.0", log_fn=log)
+    except DownloadError as exc:
+        fail(str(exc))
 
 
 def fetch_json(url: str) -> list[dict]:

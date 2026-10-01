@@ -9,6 +9,7 @@ on:
       - main
     paths:
       - ".github/scripts/shared_mappings.py"
+      - ".github/scripts/shared_downloads.py"
       - ".github/scripts/tcg_autopr.py"
       - ".github/workflows/de-workspace-sync.yml"
 
