@@ -5,11 +5,67 @@
     "lang": "fr",
     "range_start_after_id": 0,
     "range_end_id": 101307080,
-    "timestamp": "20261001_152616",
-    "rows_in_report": 0,
-    "unique_cn_strings": 0,
-    "total_cn_cells": 0
+    "timestamp": "20261002_144328",
+    "rows_in_report": 1,
+    "unique_cn_strings": 3,
+    "total_cn_cells": 3
   },
-  "unique_strings": [],
-  "cards": []
+  "unique_strings": [
+    {
+      "string": "除外5张",
+      "count": 1,
+      "is_new": true
+    },
+    {
+      "string": "除外10张",
+      "count": 1,
+      "is_new": true
+    },
+    {
+      "string": "除外15张",
+      "count": 1,
+      "is_new": true
+    }
+  ],
+  "cards": [
+    {
+      "id": 101307069,
+      "name": "魔兽的昂进",
+      "desc": "这个卡名的①的效果1回合只能使用1次。\r\n①：从自己卡组上面把以下数量的卡以里侧除外，以场上1只表侧表示怪兽为对象才能发动。作为对象的怪兽适用那个效果。\r\n●5张：攻击力·守备力变成0。\r\n●10张：效果无效。\r\n●15张：以里侧除外。",
+      "str1": "Activer",
+      "str2": "除外5张",
+      "str3": "除外10张",
+      "str4": "除外15张",
+      "str5": "",
+      "str6": "",
+      "str7": "",
+      "str8": "",
+      "str9": "",
+      "str10": "",
+      "str11": "",
+      "str12": "",
+      "str13": "",
+      "str14": "",
+      "str15": "",
+      "str16": "",
+      "flagged_cells": [
+        {
+          "col": "str2",
+          "value": "除外5张",
+          "normalized": "除外5张"
+        },
+        {
+          "col": "str3",
+          "value": "除外10张",
+          "normalized": "除外10张"
+        },
+        {
+          "col": "str4",
+          "value": "除外15张",
+          "normalized": "除外15张"
+        }
+      ],
+      "desc_preview": "这个卡名的①的效果1回合只能使用1次。\r\n①：从自己卡组上面把以下数量的卡以里侧除外，以场上1只表侧表示怪兽为对象才能发动。作为对象的怪兽适用那个效果。\r\n●5张：攻击力·守备力变成0。\r\n●10张：效果无效。\r\n●15张：以里侧除外。"
+    }
+  ]
 }
