@@ -16,6 +16,6 @@ It exists so database updates can be reviewed as normal Git text diffs.
 ## Source
 
 - Source path: `ZH-TW/Base Files/test-release.cdb`
-- Source commit: `bcfbabf4012f6dfb14c51a16b65bd3786424da67`
+- Source commit: `892f3c6fe8f42f8b902b0f6db748420e2b9eb3a0`
 - CDB SHA-256: `27d34fd4403ead9dd54969bc6137aa04aa9f4459cc7c4db3486f8b5c16501847`
 - Cards: `92`
