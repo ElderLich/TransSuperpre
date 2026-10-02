@@ -181,7 +181,7 @@ Muss als Fusionsbeschwörung beschworen werden. Erhält für jeden „Vijam der 
 100272006,Kubisches Erwachen,str4,Die Karte auf den Friedhof legen?
 100273001,"Buster-Klingenkämpfer, der die Grenzen überschreitet",name,"Buster-Klingenkämpfer, der die Grenzen überschreitet"
 100273001,"Buster-Klingenkämpfer, der die Grenzen überschreitet",desc,"Falls sich diese Karte in deiner Hand oder deinem Friedhof befindet: Du kannst 1 Zauber abwerfen; beschwöre diese Karte als Spezialbeschwörung und falls du dies tust, wird der Name dieser Karte zu „Buster-Klingenkämpfer“, zusätzlich verbanne sie, wenn sie das Spielfeld verlässt. Du kannst diesen Effekt von „Buster-Klingenkämpfer, der die Grenzen überschreitet“ nur einmal pro Spielzug verwenden. Erhält für jedes Monster in Angriffsposition, das dein Gegner kontrolliert, 500 ATK. Wenn diese Karte ein Monster durch Kampf zerstört: Du kannst 1 Karte abwerfen; beschwöre jenes Monster als Spezialbeschwörung auf deine Spielfeldseite."
-100273001,"Buster-Klingenkämpfer, der die Grenzen überschreitet",str1,Diese Karte als Spezialbeschwörung beschwören
+100273001,"Buster-Klingenkämpfer, der die Grenzen überschreitet",str1,Diese Karte als Spezialbeschwörung beschören
 100273001,"Buster-Klingenkämpfer, der die Grenzen überschreitet",str2,Als Spezialbeschwörung beschwören
 101306082,Tigerin in stiller Ruhe,name,Tigerin in stiller Ruhe
 101306082,Tigerin in stiller Ruhe,desc,"Falls diese Karte als Normal- oder Spezialbeschwörung beschworen wird: Du kannst 1 Zauber/Falle wählen, den oder die dein Gegner kontrolliert; zerstöre jene Karte, wenn diese Karte das Spielfeld verlässt. Falls diese Karte von der Hand oder dem Spielfeld auf den Friedhof gelegt wird: Du kannst 1 Zauber/Falle, den oder die du kontrollierst, auf den Friedhof legen; beschwöre diese Karte als Spezialbeschwörung, aber verbanne sie, wenn sie das Spielfeld verlässt. Du kannst jeden Effekt von „Tigerin in stiller Ruhe“ nur einmal pro Spielzug verwenden."
@@ -457,6 +457,16 @@ Offene Monster auf dem Spielfeld werden zu FEUER Monstern. Während der Main Pha
 101307068,Die Pyramide von Kepher,desc,"Lege 1 Zombie-Ritualmonster von deinem Deck auf den Friedhof; lege 1 Spielfeldzauber von deinem Deck oder Friedhof offen auf deine Spielfeldseite, zusätzlich kannst du für den Rest dieses Spielzugs, nachdem diese Karte aufgelöst wurde, keine Monstereffekte aktivieren, außer den Effekten von Zombie-Monstern. Falls dein Gegner ein Effektmonster kontrolliert: Du kannst diese Karte von deinem Friedhof verbannen und dann 1 Ritualmonster in deinem Friedhof wählen; füge es deiner Hand hinzu. Du kannst jeden Effekt von „Die Pyramide von Kepher“ nur einmal pro Spielzug verwenden."
 101307068,Die Pyramide von Kepher,str1,Aktivieren
 101307068,Die Pyramide von Kepher,str2,Zurückholen
+101307069,魔兽的昂进,name,魔兽的昂进
+101307069,魔兽的昂进,desc,"这个卡名的①的效果1回合只能使用1次。
+①：从自己卡组上面把以下数量的卡以里侧除外，以场上1只表侧表示怪兽为对象才能发动。作为对象的怪兽适用那个效果。
+●5张：攻击力·守备力变成0。
+●10张：效果无效。
+●15张：以里侧除外。"
+101307069,魔兽的昂进,str1,Aktivieren
+101307069,魔兽的昂进,str2,除外5张
+101307069,魔兽的昂进,str3,除外10张
+101307069,魔兽的昂进,str4,除外15张
 101307071,Herbst,name,Herbst
 101307071,Herbst,desc,"Der Name dieser Karte wird zu „Sommer“, solange sie sich in der Spielfeldzone befindet. Einmal pro Spielzug: Du kannst Jahreszeiten-Zählmarken in Höhe der Anzahl der Karten in der Hand deines Gegners auf diese Karte legen. Am Beginn der Battle Phase: Du kannst 1 Spielfeldzauber von deiner Hand, deinem Deck oder deinem Friedhof nehmen, auf den du eine Jahreszeiten-Zählmarke legen kannst, außer „Herbst“, und ihn offen auf deine Spielfeldseite legen und falls du dies tust, lege alle Jahreszeiten-Zählmarken von dieser Karte auf jene Karte. Falls eine oder mehr Karten in der Spielfeldzone durch einen Karteneffekt zerstört würden, kannst du stattdessen diese Karte von deinem Friedhof verbannen."
 101307071,Herbst,str2,Zählmarke platzieren
