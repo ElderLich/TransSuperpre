@@ -641,6 +641,16 @@ Se il tuo avversario controlla un Mostro con Effetto: puoi bandire questa carta 
 Puoi utilizzare ciascun effetto di ""La Piramide di Kepher"" una sola volta per turno."
 101307068,La Piramide di Kepher,str1,Attiva
 101307068,La Piramide di Kepher,str2,Recuperare
+101307069,魔兽的昂进,name,魔兽的昂进
+101307069,魔兽的昂进,desc,"这个卡名的①的效果1回合只能使用1次。
+①：从自己卡组上面把以下数量的卡以里侧除外，以场上1只表侧表示怪兽为对象才能发动。作为对象的怪兽适用那个效果。
+●5张：攻击力·守备力变成0。
+●10张：效果无效。
+●15张：以里侧除外。"
+101307069,魔兽的昂进,str1,Attiva
+101307069,魔兽的昂进,str2,除外5张
+101307069,魔兽的昂进,str3,除外10张
+101307069,魔兽的昂进,str4,除外15张
 101307071,Autunno,name,Autunno
 101307071,Autunno,desc,"Il nome di questa carta diventa ""Estate"" mentre è nella Zona Terreno.
 Una volta per turno: puoi mettere su questa carta un numero di Segnalini Stagione pari al numero di carte nella mano del tuo avversario.
