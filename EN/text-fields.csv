@@ -452,6 +452,16 @@ Face-up monsters on the field become FIRE. During the Main Phase, if this card w
 101307068,The Pyramid of Kepher,desc,"Send 1 Zombie Ritual Monster from your Deck to the GY; place 1 Field Spell from your Deck or GY face-up on your field, also you cannot activate non-Zombie monster effects for the rest of this turn after this card resolves. If your opponent controls an Effect Monster: You can banish this card from your GY, then target 1 Ritual Monster in your GY; add it to your hand. You can only use each effect of ""The Pyramid of Kepher"" once per turn."
 101307068,The Pyramid of Kepher,str1,Activate
 101307068,The Pyramid of Kepher,str2,Recycle
+101307069,魔兽的昂进,name,魔兽的昂进
+101307069,魔兽的昂进,desc,"这个卡名的①的效果1回合只能使用1次。
+①：从自己卡组上面把以下数量的卡以里侧除外，以场上1只表侧表示怪兽为对象才能发动。作为对象的怪兽适用那个效果。
+●5张：攻击力·守备力变成0。
+●10张：效果无效。
+●15张：以里侧除外。"
+101307069,魔兽的昂进,str1,Activate
+101307069,魔兽的昂进,str2,除外5张
+101307069,魔兽的昂进,str3,除外10张
+101307069,魔兽的昂进,str4,除外15张
 101307071,Autumn,name,Autumn
 101307071,Autumn,desc,"This card's name becomes ""Summer"" while in the Field Zone. Once per turn: You can place Season Counters on this card equal to the number of cards in your opponent's hand. At the start of the Battle Phase: You can take 1 Field Spell from your hand, Deck, or GY that you can place a Season Counter on, except ""Autumn"", and place it face-up on your field, and if you do, place all Season Counters on this card on that card. If a card(s) in the Field Zone would be destroyed by card effect, you can banish this card from your GY instead."
 101307071,Autumn,str2,Place a counter
