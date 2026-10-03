@@ -402,6 +402,11 @@ Falls diese Karte in Angriffsposition als Spezialbeschwörung beschworen wird: �
 ● Einmal pro Spielzug, während der End Phase: Jeder Spieler erhält 500 LP für jedes Monster in Verteidigungsposition, das er kontrolliert."
 101307040,Lethargisaurus,str1,In Verteidigungsposition ändern
 101307040,Lethargisaurus,str2,LP erhalten
+101307044,"Karin, die himmlische Weise der höchsten Höhen",name,"Karin, die himmlische Weise der höchsten Höhen"
+101307044,"Karin, die himmlische Weise der höchsten Höhen",desc,"2 Monster der Stufe 7
+Wenn dein Gegner eine Karte oder einen Effekt aktiviert, die oder der einen Effekt enthält, der ein oder mehr Monster als Spezialbeschwörung vom Deck beschwört (Schnelleffekt): Du kannst 1 Material von dieser Karte abhängen; dein Gegner zieht 1 Karte, dann annulliere jenen aktivierten Effekt und falls du dies tust, zerstöre jene Karte. Während deiner Main Phase 2: Du kannst 1 Monster der Stufe 7 in deinem Friedhof wählen; du erhältst Schaden in Höhe seiner ATK und falls du dies tust, gib sowohl jenes Monster als auch diese Karte auf dem Spielfeld auf die Hand oder ins Extra Deck zurück. Du kannst jeden Effekt von „Karin, die himmlische Weise der höchsten Höhen“ nur einmal pro Spielzug verwenden."
+101307044,"Karin, die himmlische Weise der höchsten Höhen",str1,Effekt annullieren
+101307044,"Karin, die himmlische Weise der höchsten Höhen",str2,Zurückholen
 101307048,König der Bestien aus dem Tal der Flammen,name,König der Bestien aus dem Tal der Flammen
 101307048,König der Bestien aus dem Tal der Flammen,desc,"3 FEUER Effektmonster
 (Diese Karte wird immer als „Grosalamander Heißleo“ behandelt.)
@@ -457,16 +462,16 @@ Offene Monster auf dem Spielfeld werden zu FEUER Monstern. Während der Main Pha
 101307068,Die Pyramide von Kepher,desc,"Lege 1 Zombie-Ritualmonster von deinem Deck auf den Friedhof; lege 1 Spielfeldzauber von deinem Deck oder Friedhof offen auf deine Spielfeldseite, zusätzlich kannst du für den Rest dieses Spielzugs, nachdem diese Karte aufgelöst wurde, keine Monstereffekte aktivieren, außer den Effekten von Zombie-Monstern. Falls dein Gegner ein Effektmonster kontrolliert: Du kannst diese Karte von deinem Friedhof verbannen und dann 1 Ritualmonster in deinem Friedhof wählen; füge es deiner Hand hinzu. Du kannst jeden Effekt von „Die Pyramide von Kepher“ nur einmal pro Spielzug verwenden."
 101307068,Die Pyramide von Kepher,str1,Aktivieren
 101307068,Die Pyramide von Kepher,str2,Zurückholen
-101307069,魔兽的昂进,name,魔兽的昂进
-101307069,魔兽的昂进,desc,"这个卡名的①的效果1回合只能使用1次。
-①：从自己卡组上面把以下数量的卡以里侧除外，以场上1只表侧表示怪兽为对象才能发动。作为对象的怪兽适用那个效果。
-●5张：攻击力·守备力变成0。
-●10张：效果无效。
-●15张：以里侧除外。"
-101307069,魔兽的昂进,str1,Aktivieren
-101307069,魔兽的昂进,str2,除外5张
-101307069,魔兽的昂进,str3,除外10张
-101307069,魔兽的昂进,str4,除外15张
+101307069,Card Crawl,name,Card Crawl
+101307069,Card Crawl,desc,"Du kannst 5, 10 oder 15 Karten verdeckt von der Oberseite deines Decks verbannen und dann 1 offenes Monster auf dem Spielfeld wählen; wende den entsprechenden Effekt auf es an.
+● 5: Seine ATK/DEF werden zu 0.
+● 10: Annulliere seine Effekte.
+● 15: Verbanne es verdeckt.
+Du kannst diesen Effekt von „Card Crawl“ nur einmal pro Spielzug verwenden."
+101307069,Card Crawl,str1,Aktivieren
+101307069,Card Crawl,str2,5 Karten verbannen
+101307069,Card Crawl,str3,10 Karten verbannen
+101307069,Card Crawl,str4,15 Karten verbannen
 101307071,Herbst,name,Herbst
 101307071,Herbst,desc,"Der Name dieser Karte wird zu „Sommer“, solange sie sich in der Spielfeldzone befindet. Einmal pro Spielzug: Du kannst Jahreszeiten-Zählmarken in Höhe der Anzahl der Karten in der Hand deines Gegners auf diese Karte legen. Am Beginn der Battle Phase: Du kannst 1 Spielfeldzauber von deiner Hand, deinem Deck oder deinem Friedhof nehmen, auf den du eine Jahreszeiten-Zählmarke legen kannst, außer „Herbst“, und ihn offen auf deine Spielfeldseite legen und falls du dies tust, lege alle Jahreszeiten-Zählmarken von dieser Karte auf jene Karte. Falls eine oder mehr Karten in der Spielfeldzone durch einen Karteneffekt zerstört würden, kannst du stattdessen diese Karte von deinem Friedhof verbannen."
 101307071,Herbst,str2,Zählmarke platzieren
