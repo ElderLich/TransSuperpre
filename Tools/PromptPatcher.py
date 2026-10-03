@@ -855,6 +855,36 @@ def build_translation_pack(lang: str):
 
     # Extra phrases (keep phrase-level; avoid single-word glue)
     extras = {
+        "除外5张": {
+            "en": "Banish 5 cards",
+            "fr": "Bannir 5 cartes",
+            "de": "5 Karten verbannen",
+            "es": "Desterrar 5 cartas",
+            "pt": "Banir 5 cards",
+            "it": "Bandire 5 carte",
+            "ja": "5枚除外する",
+            "kr": "5장 제외한다",
+        },
+        "除外10张": {
+            "en": "Banish 10 cards",
+            "fr": "Bannir 10 cartes",
+            "de": "10 Karten verbannen",
+            "es": "Desterrar 10 cartas",
+            "pt": "Banir 10 cards",
+            "it": "Bandire 10 carte",
+            "ja": "10枚除外する",
+            "kr": "10장 제외한다",
+        },
+        "除外15张": {
+            "en": "Banish 15 cards",
+            "fr": "Bannir 15 cartes",
+            "de": "15 Karten verbannen",
+            "es": "Desterrar 15 cartas",
+            "pt": "Banir 15 cards",
+            "it": "Bandire 15 carte",
+            "ja": "15枚除外する",
+            "kr": "15장 제외한다",
+        },
         "特殊召唤通常怪兽": {
             "en": "Special Summon a Normal Monster",
             "fr": "Invoquer Spécialement un Monstre Normal",
