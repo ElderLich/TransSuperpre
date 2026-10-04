@@ -556,6 +556,13 @@ Se este card é Invocado por Invocação-Especial em Posição de Ataque: mude-o
 ● Uma vez por turno, durante a Fase Final: cada jogador ganha 500 PV para cada monstro em Posição de Defesa que ele controla."
 101307040,Lethargisaurus,str1,Mudar para Posição de Defesa
 101307040,Lethargisaurus,str2,Ganhar PV
+101307044,高岭之天仙 火轮,name,高岭之天仙 火轮
+101307044,高岭之天仙 火轮,desc,"7星怪兽×2
+这个卡名的①②的效果1回合各能使用1次。
+①：包含从卡组把怪兽特殊召唤的效果的，卡的效果由对方发动时，把这张卡1个超量素材取除才能发动。对方抽1张。那之后，那个发动的效果无效并破坏。
+②：自己主要阶段2，以自己墓地1只7星怪兽为对象才能发动。自己受到那只怪兽的攻击力数值的伤害，那只怪兽和场上的这张卡回到手卡·额外卡组。"
+101307044,高岭之天仙 火轮,str1,Negar o efeito
+101307044,高岭之天仙 火轮,str2,Recuperar
 101307048,O Rei das Bestas que Emergem do Vale das Chamas,name,O Rei das Bestas que Emergem do Vale das Chamas
 101307048,O Rei das Bestas que Emergem do Vale das Chamas,desc,"3 Monstros de Efeito de FOGO
 (Este card é sempre considerado como ""Salamagrande Leardor"".)
@@ -646,9 +653,9 @@ Você só pode usar cada um dos efeitos de ""A Pirâmide de Kepher"" uma vez por
 ●10张：效果无效。
 ●15张：以里侧除外。"
 101307069,魔兽的昂进,str1,Ativar
-101307069,魔兽的昂进,str2,除外5张
-101307069,魔兽的昂进,str3,除外10张
-101307069,魔兽的昂进,str4,除外15张
+101307069,魔兽的昂进,str2,Banir 5 cards
+101307069,魔兽的昂进,str3,Banir 10 cards
+101307069,魔兽的昂进,str4,Banir 15 cards
 101307071,Outono,name,Outono
 101307071,Outono,desc,"O nome deste card se torna ""Verão"" quando está na Zona de Campo.
 Uma vez por turno: você pode colocar um Marcador de Estação neste card igual ao número de cards na mão do seu oponente.
