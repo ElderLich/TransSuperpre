@@ -578,6 +578,13 @@ Vous ne pouvez utiliser chaque effet ""Aitvaras le Chevalier du Corbeau Blanc"" 
 ●自己·对方的结束阶段发动。双方各自回复自身场上的守备表示怪兽的数量×500的基本分。"
 101307040,达懒斯龙,str1,Passer en Position de Défense
 101307040,达懒斯龙,str2,Gagner des LP
+101307044,高岭之天仙 火轮,name,高岭之天仙 火轮
+101307044,高岭之天仙 火轮,desc,"7星怪兽×2
+这个卡名的①②的效果1回合各能使用1次。
+①：包含从卡组把怪兽特殊召唤的效果的，卡的效果由对方发动时，把这张卡1个超量素材取除才能发动。对方抽1张。那之后，那个发动的效果无效并破坏。
+②：自己主要阶段2，以自己墓地1只7星怪兽为对象才能发动。自己受到那只怪兽的攻击力数值的伤害，那只怪兽和场上的这张卡回到手卡·额外卡组。"
+101307044,高岭之天仙 火轮,str1,Annuler l'effet
+101307044,高岭之天仙 火轮,str2,Recycler
 101307048,Le Roi des Bêtes Surgissant de la Vallée des Flammes,name,Le Roi des Bêtes Surgissant de la Vallée des Flammes
 101307048,Le Roi des Bêtes Surgissant de la Vallée des Flammes,desc,"3 Monstres à Effet FEU
 (Cette carte est toujours traitée comme ""Salamangrande Chaleurléo"".)
@@ -671,9 +678,9 @@ Vous ne pouvez utiliser chaque effet de ""Gearblade Salamangrande"" qu'une fois 
 ●10张：效果无效。
 ●15张：以里侧除外。"
 101307069,魔兽的昂进,str1,Activer
-101307069,魔兽的昂进,str2,除外5张
-101307069,魔兽的昂进,str3,除外10张
-101307069,魔兽的昂进,str4,除外15张
+101307069,魔兽的昂进,str2,Bannir 5 cartes
+101307069,魔兽的昂进,str3,Bannir 10 cartes
+101307069,魔兽的昂进,str4,Bannir 15 cartes
 101307071,Automne,name,Automne
 101307071,Automne,desc,"Le nom de cette carte devient ""Été"" tant qu'elle est dans la Zone Terrain.
 Une fois par tour : vous pouvez placer un nombre de Compteurs Saison sur cette carte égal au nombre de cartes dans la main de votre adversaire.
