@@ -400,6 +400,11 @@ If this card is Special Summoned in Attack Position: Change it to Defense Positi
 ● Once per turn, during the End Phase: Each player gains 500 LP for each Defense Position monster they control."
 101307040,Lethargisaurus,str1,Change to Defense Position
 101307040,Lethargisaurus,str2,Gain LP
+101307044,Karin the Celestial Sage of the Highest Heights,name,Karin the Celestial Sage of the Highest Heights
+101307044,Karin the Celestial Sage of the Highest Heights,desc,"2 Level 7 monsters
+When your opponent activates a card or effect that includes an effect that Special Summons a monster(s) from the Deck (Quick Effect): You can detach 1 material from this card; your opponent draws 1 card, then negate that activated effect, and if you do, destroy that card. During your Main Phase 2: You can target 1 Level 7 monster in your GY; take damage equal to its ATK, and if you do, return both it and this card on the field to the hand/Extra Deck. You can only use each effect of ""Karin the Celestial Sage of the Highest Heights"" once per turn."
+101307044,Karin the Celestial Sage of the Highest Heights,str1,Negate the effect
+101307044,Karin the Celestial Sage of the Highest Heights,str2,Recycle
 101307048,"King of Beasts, Risen from the Valley of Flames",name,"King of Beasts, Risen from the Valley of Flames"
 101307048,"King of Beasts, Risen from the Valley of Flames",desc,"3 FIRE Effect Monsters
 (This card is always treated as ""Salamangreat Heatleo"".)
@@ -455,16 +460,16 @@ Face-up monsters on the field become FIRE. During the Main Phase, if this card w
 101307068,The Pyramid of Kepher,desc,"Send 1 Zombie Ritual Monster from your Deck to the GY; place 1 Field Spell from your Deck or GY face-up on your field, also you cannot activate non-Zombie monster effects for the rest of this turn after this card resolves. If your opponent controls an Effect Monster: You can banish this card from your GY, then target 1 Ritual Monster in your GY; add it to your hand. You can only use each effect of ""The Pyramid of Kepher"" once per turn."
 101307068,The Pyramid of Kepher,str1,Activate
 101307068,The Pyramid of Kepher,str2,Recycle
-101307069,魔兽的昂进,name,魔兽的昂进
-101307069,魔兽的昂进,desc,"这个卡名的①的效果1回合只能使用1次。
-①：从自己卡组上面把以下数量的卡以里侧除外，以场上1只表侧表示怪兽为对象才能发动。作为对象的怪兽适用那个效果。
-●5张：攻击力·守备力变成0。
-●10张：效果无效。
-●15张：以里侧除外。"
-101307069,魔兽的昂进,str1,Activate
-101307069,魔兽的昂进,str2,除外5张
-101307069,魔兽的昂进,str3,除外10张
-101307069,魔兽的昂进,str4,除外15张
+101307069,Card Crawl,name,Card Crawl
+101307069,Card Crawl,desc,"You can banish (face-down) the top 5, 10, or 15 cards of your Deck, then target 1 face-up monster on the field; apply the appropriate effect to it.
+● 5: Its ATK/DEF become 0.
+● 10: Negate its effects.
+● 15: Banish it (face-down).
+You can only use this effect of ""Card Crawl"" once per turn."
+101307069,Card Crawl,str1,Activate
+101307069,Card Crawl,str2,Banish 5 cards
+101307069,Card Crawl,str3,Banish 10 cards
+101307069,Card Crawl,str4,Banish 15 cards
 101307071,Autumn,name,Autumn
 101307071,Autumn,desc,"This card's name becomes ""Summer"" while in the Field Zone. Once per turn: You can place Season Counters on this card equal to the number of cards in your opponent's hand. At the start of the Battle Phase: You can take 1 Field Spell from your hand, Deck, or GY that you can place a Season Counter on, except ""Autumn"", and place it face-up on your field, and if you do, place all Season Counters on this card on that card. If a card(s) in the Field Zone would be destroyed by card effect, you can banish this card from your GY instead."
 101307071,Autumn,str2,Place a counter
