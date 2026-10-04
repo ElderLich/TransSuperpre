@@ -1,6 +1,7 @@
 id,name,field,value
-100262301,屋素姆的魔龙王,name,屋素姆的魔龙王
-100262301,屋素姆的魔龙王,desc,从闭锁的地下世界苏醒的异星之龙。它在刚醒时只能发挥出自身原本力量的千分之一，这一点在泽塔次元也是有名的杂学知识。
+100262301,Le Seigneur Dragon Sombre d'Ultum,name,Le Seigneur Dragon Sombre d'Ultum
+100262301,Le Seigneur Dragon Sombre d'Ultum,desc,"Un dragon venu d'une autre étoile qui s'est éveillé d'un monde souterrain scellé.
+C'est un fait bien connu même dans la Dimension Zeta que, au moment du réveil, on ne peut déployer qu'un millième de sa véritable puissance."
 100268001,Éxodia le Destructeur,name,Éxodia le Destructeur
 100268001,Éxodia le Destructeur,desc,"Lorsque vous piochez cette carte durant votre tour : vous pouvez la révéler ; Invoquez-la Spécialement.
 Si cette carte est Invoquée Spécialement durant votre tour : vous pouvez activer cet effet ; le reste de ce tour, aucun joueur ne peut activer ni de cartes ni d'effets (""Éxodia le Destructeur"" exclu), et aussi, vous ne pouvez Invoquer ni Normalement ni Spécialement de monstres.
@@ -262,13 +263,13 @@ Vous ne pouvez activer qu'1 ""Bodhi Cubique"" par tour."
 100272006,Bodhi Cubique,str2,Placer un marqueur
 100272006,Bodhi Cubique,str3,Invocation Fusion
 100272006,Bodhi Cubique,str4,Envoyer la carte au Cimetière ?
-100273001,超越极限者-破坏之剑士,name,超越极限者-破坏之剑士
-100273001,超越极限者-破坏之剑士,desc,"这个卡名的①的效果1回合只能使用1次。
-①：这张卡在手卡·墓地存在的场合，从手卡丢弃1张魔法卡才能发动。这张卡特殊召唤。这个效果特殊召唤的这张卡，卡名当作「破坏之剑士」，从场上离开的场合除外。
-②：这张卡的攻击力上升对方场上的攻击表示怪兽的数量×500。
-③：这张卡用战斗破坏怪兽时，丢弃1张手卡才能发动。那只怪兽在自己场上特殊召唤。"
-100273001,超越极限者-破坏之剑士,str1,Invoquer Spécialement cette carte
-100273001,超越极限者-破坏之剑士,str2,Invocation Spéciale
+100273001,"Buster Blader, Celui Qui Dépasse les Limites",name,"Buster Blader, Celui Qui Dépasse les Limites"
+100273001,"Buster Blader, Celui Qui Dépasse les Limites",desc,"Si cette carte est dans votre main ou Cimetière : vous pouvez défausser 1 Magie ; Invoquez Spécialement cette carte, et si vous le faites, son nom devient ""Buster Blader"", et aussi, bannissez-la lorsqu'elle quitte le Terrain.
+Vous ne pouvez utiliser cet effet de ""Buster Blader, Celui Qui Dépasse les Limites"" qu'une fois par tour.
+Gagne 500 ATK pour chaque monstre en Position d'Attaque contrôlé par votre adversaire.
+Lorsque cette carte détruit un monstre au combat : vous pouvez défausser 1 carte ; Invoquez Spécialement le monstre sur votre Terrain."
+100273001,"Buster Blader, Celui Qui Dépasse les Limites",str1,Invoquer Spécialement cette carte
+100273001,"Buster Blader, Celui Qui Dépasse les Limites",str2,Invocation Spéciale
 101306082,Tigresse au Repos Silencieux,name,Tigresse au Repos Silencieux
 101306082,Tigresse au Repos Silencieux,desc,"Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez cibler 1 Magie/Piège contrôlée par votre adversaire ; détruisez la carte lorsque cette carte quitte le Terrain.
 Si cette carte est envoyée depuis la main ou Terrain au Cimetière : vous pouvez envoyer 1 Magie/Piège que vous contrôlez au Cimetière ; Invoquez Spécialement cette carte, mais bannissez-la lorsqu'elle quitte le Terrain.
@@ -465,24 +466,23 @@ Vous ne pouvez utiliser chaque effet de ""Salamangrande Bastelle"" qu'une fois p
 101307014,Salamangrande Bastelle,str3,Changer le Niveau?
 101307014,Salamangrande Bastelle,str4,Augmenter
 101307014,Salamangrande Bastelle,str5,Diminuer
-101307020,香草白兔冰：摩卡模组,name,香草白兔冰：摩卡模组
-101307020,香草白兔冰：摩卡模组,desc,"这个卡名的①②③的效果1回合各能使用1次。
-①：从卡组把1只攻击力2000以下的通常怪兽送去墓地才能发动。这张卡从手卡特殊召唤。
-②：这张卡召唤·特殊召唤的场合才能发动。从自己的卡组·墓地把1张「香草白兔冰」永续魔法·永续陷阱卡在自己场上以表侧表示放置。
-③：这张卡在怪兽区域存在的状态，对方把效果怪兽特殊召唤的场合，把这张卡解放才能发动。从自己墓地把1只通常怪兽特殊召唤。"
-101307020,香草白兔冰：摩卡模组,str1,Invocation Spéciale
-101307020,香草白兔冰：摩卡模组,str2,Placer
-101307020,香草白兔冰：摩卡模组,str3,Invoquer Spécialement un Monstre Normal
-101307023,返身报恩的鹤秘姬,name,返身报恩的鹤秘姬
-101307023,返身报恩的鹤秘姬,desc,"这个卡名的①②③的效果1回合各能使用1次。
-①：对方结束阶段才能发动。墓地的这张卡回到卡组最上面。
-②：自己·对方的主要阶段才能发动。场上的这张卡回到手卡，双方各自抽1张。那之后，对方可以适用以下效果。
-●自己抽1张，这个主要阶段中，对方手卡全部持续公开。
-③：自己·对方回合，把在手卡公开中的这张卡除外才能发动。对方场上的表侧表示卡全部破坏。"
-101307023,返身报恩的鹤秘姬,str1,Renvoyer au Deck
-101307023,返身报恩的鹤秘姬,str2,Piocher
-101307023,返身报恩的鹤秘姬,str3,Détruire
-101307023,返身报恩的鹤秘姬,str4,Piocher une autre carte ?
+101307020,Lapilline : MOD Moka,name,Lapilline : MOD Moka
+101307020,Lapilline : MOD Moka,desc,"Vous pouvez envoyer 1 Monstre Normal avec max. 2000 ATK depuis votre Deck au Cimetière ; Invoquez Spécialement cette carte depuis votre main.
+Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez placer face recto 1 Magie/Piège Continu ""Lapilline"" depuis votre Deck ou Cimetière sur votre Terrain.
+Si votre adversaire Invoque Spécialement un ou plusieurs Monstres à Effet, tant que cette carte est dans la Zone Monstre : vous pouvez Sacrifier cette carte ; Invoquez Spécialement 1 Monstre Normal depuis votre Cimetière.
+Vous ne pouvez utiliser chaque effet de ""Lapilline : MOD Moka"" qu'une fois par tour."
+101307020,Lapilline : MOD Moka,str1,Invocation Spéciale
+101307020,Lapilline : MOD Moka,str2,Placer
+101307020,Lapilline : MOD Moka,str3,Invoquer Spécialement un Monstre Normal
+101307023,La Princesse Grue Secrète Qui Rend Une Faveur,name,La Princesse Grue Secrète Qui Rend Une Faveur
+101307023,La Princesse Grue Secrète Qui Rend Une Faveur,desc,"Durant la End Phase de votre adversaire : vous pouvez placer cette carte depuis votre Cimetière au-dessus du Deck.
+Durant la Main Phase (Effet Rapide) : vous pouvez renvoyer cette carte depuis le Terrain à la main, et si vous le faites, chaque joueur pioche 1 carte, puis votre adversaire peut piocher 1 carte, et s'il le fait, vous devez garder votre main révélée durant cette Main Phase.
+(Effet Rapide) : vous pouvez bannir cette carte révélée depuis votre main ; détruisez toutes les cartes face recto contrôlées par votre adversaire. 
+Vous ne pouvez utiliser chaque effet de ""La Princesse Grue Secrète Qui Rend Une Faveur"" qu'une fois par tour."
+101307023,La Princesse Grue Secrète Qui Rend Une Faveur,str1,Renvoyer au Deck
+101307023,La Princesse Grue Secrète Qui Rend Une Faveur,str2,Piocher
+101307023,La Princesse Grue Secrète Qui Rend Une Faveur,str3,Détruire
+101307023,La Princesse Grue Secrète Qui Rend Une Faveur,str4,Piocher une autre carte ?
 101307024,Amurusa Réindsurm,name,Amurusa Réindsurm
 101307024,Amurusa Réindsurm,desc,"Vous pouvez Invoquer Rituellement cette carte avec ""Conquête Réindsurm"".
 Si cette carte est Invoquée Rituellement : vous pouvez ajouter 2 monstres ""Réindsurm"" non-VENT depuis votre Deck à votre main.
@@ -521,13 +521,13 @@ Vous ne pouvez utiliser chaque effet de ""Giriakarma Réindsurm"" qu'une fois pa
 101307028,Giriakarma Réindsurm,str1,Annuler l'activation
 101307028,Giriakarma Réindsurm,str2,Ajouter à la main
 101307028,Giriakarma Réindsurm,str3,Sélectionner des monstres à renvoyer au Deck ?
-101307029,盟约之标枪甲虫,name,盟约之标枪甲虫
-101307029,盟约之标枪甲虫,desc,"「盟约之标枪甲虫」降临。
-这个卡名的①的效果在决斗中只能使用1次。
-①：自己·对方的主要阶段，把手卡的这张卡给对方出示才能发动。等级合计直到变成仪式召唤的怪兽的等级以上为止，把自己的手卡·场上的怪兽解放，从手卡把1只昆虫族仪式怪兽仪式召唤。
-②：这张卡仪式召唤的场合，以和这张卡相同纵列的1张其他卡为对象才能发动。那张卡破坏，这张卡的攻击力上升600。"
-101307029,盟约之标枪甲虫,str1,Invocation Rituel
-101307029,盟约之标枪甲虫,str2,Effet de destruction
+101307029,Scarabée Javelot de l'Alliance,name,Scarabée Javelot de l'Alliance
+101307029,Scarabée Javelot de l'Alliance,desc,"Vous pouvez Invoquer Rituellement cette carte avec ""Scarabée Javelot de l'Alliance"".
+Durant la Main Phase (Effet Rapide) : vous pouvez révéler cette carte dans votre main ; Invoquez Rituellement 1 Monstre Rituel Insecte depuis votre main, en Sacrifiant des monstres depuis votre main ou Terrain dont la somme des Niveaux est supérieure ou égale à son Niveau.
+Vous ne pouvez utiliser cet effet de ""Scarabée Javelot de l'Alliance"" qu'une fois par Duel.
+Si cette carte est Invoquée Rituellement : vous pouvez cibler 1 autre carte dans la colonne de cette carte ; détruisez-la, et si vous le faites, cette carte gagne 600 ATK."
+101307029,Scarabée Javelot de l'Alliance,str1,Invocation Rituel
+101307029,Scarabée Javelot de l'Alliance,str2,Effet de destruction
 101307030,Dieu du Soleil des Ténèbres - Le Dragon Ailé de Râ,name,Dieu du Soleil des Ténèbres - Le Dragon Ailé de Râ
 101307030,Dieu du Soleil des Ténèbres - Le Dragon Ailé de Râ,desc,"""Le Dragon Ailé de Râ"" + 3 monstres ""Dieu du Soleil""
 Non affectée par les effets d'autres cartes.
@@ -569,22 +569,22 @@ Vous ne pouvez utiliser chaque effet ""Aitvaras le Chevalier du Corbeau Blanc"" 
 101307038,Aitvaras le Chevalier du Corbeau Blanc,str1,Renvoyer à la main
 101307038,Aitvaras le Chevalier du Corbeau Blanc,str2,Effet de récupération
 101307038,Aitvaras le Chevalier du Corbeau Blanc,str3,Invocation Spéciale
-101307040,达懒斯龙,name,达懒斯龙
-101307040,达懒斯龙,desc,"守备表示调整+调整以外的守备表示怪兽1只以上
-①：这张卡以攻击表示特殊召唤的场合发动。这张卡变成守备表示。
-②：守备表示的这张卡得到以下效果。
-●场上的表侧表示怪兽变成守备表示。
-●双方不能对应自身的卡的效果的发动把卡的效果发动。
-●自己·对方的结束阶段发动。双方各自回复自身场上的守备表示怪兽的数量×500的基本分。"
-101307040,达懒斯龙,str1,Passer en Position de Défense
-101307040,达懒斯龙,str2,Gagner des LP
-101307044,高岭之天仙 火轮,name,高岭之天仙 火轮
-101307044,高岭之天仙 火轮,desc,"7星怪兽×2
-这个卡名的①②的效果1回合各能使用1次。
-①：包含从卡组把怪兽特殊召唤的效果的，卡的效果由对方发动时，把这张卡1个超量素材取除才能发动。对方抽1张。那之后，那个发动的效果无效并破坏。
-②：自己主要阶段2，以自己墓地1只7星怪兽为对象才能发动。自己受到那只怪兽的攻击力数值的伤害，那只怪兽和场上的这张卡回到手卡·额外卡组。"
-101307044,高岭之天仙 火轮,str1,Annuler l'effet
-101307044,高岭之天仙 火轮,str2,Recycler
+101307040,Léthargisaure,name,Léthargisaure
+101307040,Léthargisaure,desc,"1 Syntoniseur en Position de Défense + 1+ non-Syntoniseur en Position de Défense
+Si cette carte est Invoquée Spécialement en Position d'Attaque : changez-la en Position de Défense.
+Cette carte en Position de Défense gagne ces effets.
+● Changez tous les monstres face recto sur le Terrain en Position de Défense.
+● Aucun joueur ne peut activer ni de cartes ni d'effets en réponse à l'activation de ses propres cartes ou effets.
+● Une fois par tour, durant la End Phase : chaque joueur gagne 500 LP pour chaque monstre en Position de Défense qu'il contrôle."
+101307040,Léthargisaure,str1,Passer en Position de Défense
+101307040,Léthargisaure,str2,Gagner des LP
+101307044,Karin la Sage Céleste des Plus Hauts Sommets,name,Karin la Sage Céleste des Plus Hauts Sommets
+101307044,Karin la Sage Céleste des Plus Hauts Sommets,desc,"2 monstres de Niveau 7
+Lorsque votre adversaire active une carte ou un effet qui inclut un effet qui Invoque Spécialement un ou plusieurs monstres depuis le Deck (Effet Rapide) : vous pouvez détacher 1 Matériel de cette carte ; votre adversaire pioche 1 carte, puis annulez l'effet activé, et si vous le faites, détruisez la carte.
+Durant votre Main Phase 2 : vous pouvez cibler 1 monstre de Niveau 7 dans votre Cimetière ; recevez des dommages égaux à son ATK, et si vous le faites, renvoyez-le ainsi que cette carte sur le Terrain à la main/Extra Deck.
+Vous ne pouvez utiliser chaque effet de ""Karin la Sage Céleste des Plus Hauts Sommets"" qu'une fois par tour."
+101307044,Karin la Sage Céleste des Plus Hauts Sommets,str1,Annuler l'effet
+101307044,Karin la Sage Céleste des Plus Hauts Sommets,str2,Recycler
 101307048,Le Roi des Bêtes Surgissant de la Vallée des Flammes,name,Le Roi des Bêtes Surgissant de la Vallée des Flammes
 101307048,Le Roi des Bêtes Surgissant de la Vallée des Flammes,desc,"3 Monstres à Effet FEU
 (Cette carte est toujours traitée comme ""Salamangrande Chaleurléo"".)
@@ -658,29 +658,29 @@ Vous ne pouvez utiliser chaque effet de ""Gearblade Salamangrande"" qu'une fois 
 101307063,Gearblade Salamangrande,str1,Activer
 101307063,Gearblade Salamangrande,str2,Augmenter l'ATK
 101307063,Gearblade Salamangrande,str3,Renvoyer à la main
-101307066,香草白兔冰的精粹,name,香草白兔冰的精粹
-101307066,香草白兔冰的精粹,desc,"这个卡名的②③的效果1回合各能使用1次。
-①：只要自己场上有衍生物以外的通常怪兽2只以上存在，自己抽卡阶段的通常抽卡变成2张。
-②：从对方卡组有卡被送去墓地的场合才能发动。从手卡·卡组把1只通常怪兽特殊召唤。
-③：5星以上而原本攻击力和原本守备力是2000以下的通常怪兽，特殊召唤的场合或者攻击宣言时，以对方场上1张卡为对象才能发动。那张卡破坏。 "
-101307066,香草白兔冰的精粹,str2,Invocation Spéciale
-101307066,香草白兔冰的精粹,str3,Détruire
-101307068,凯帕之金字塔,name,凯帕之金字塔
-101307068,凯帕之金字塔,desc,"这个卡名的①②的效果1回合各能使用1次。
-①：从卡组把1只不死族仪式怪兽送去墓地才能发动。从自己的卡组·墓地把1张场地魔法卡在自己场上以表侧表示放置。这张卡的发动后，直到回合结束时自己不能把不死族以外的怪兽的效果发动。
-②：对方场上有效果怪兽存在的场合，把墓地的这张卡除外，以自己墓地1只仪式怪兽为对象才能发动。那只怪兽加入手卡。"
-101307068,凯帕之金字塔,str1,Activer
-101307068,凯帕之金字塔,str2,Recycler
-101307069,魔兽的昂进,name,魔兽的昂进
-101307069,魔兽的昂进,desc,"这个卡名的①的效果1回合只能使用1次。
-①：从自己卡组上面把以下数量的卡以里侧除外，以场上1只表侧表示怪兽为对象才能发动。作为对象的怪兽适用那个效果。
-●5张：攻击力·守备力变成0。
-●10张：效果无效。
-●15张：以里侧除外。"
-101307069,魔兽的昂进,str1,Activer
-101307069,魔兽的昂进,str2,Bannir 5 cartes
-101307069,魔兽的昂进,str3,Bannir 10 cartes
-101307069,魔兽的昂进,str4,Bannir 15 cartes
+101307066,Extrait de Lapilline,name,Extrait de Lapilline
+101307066,Extrait de Lapilline,desc,"Tant que vous contrôlez min. 2 Monstres Normaux non-Jeton, piochez 2 cartes au lieu d'1 comme pioche normale durant votre Draw Phase.
+Vous ne pouvez utiliser chacun des effets suivants de ""Extrait de Lapilline"" qu'une fois par tour.
+Si une ou plusieurs cartes sont envoyées depuis le Deck de votre adversaire au Cimetière : vous pouvez Invoquer Spécialement 1 Monstre Normal depuis votre main ou Deck.
+Si un ou plusieurs Monstres Normaux de min. Niveau 5 avec max. 2000 ATK/DEF d'origine sont Invoqués Spécialement ou déclarent une attaque : vous pouvez cibler 1 carte contrôlée par votre adversaire ; détruisez-la."
+101307066,Extrait de Lapilline,str2,Invocation Spéciale
+101307066,Extrait de Lapilline,str3,Détruire
+101307068,La Pyramide de Kheper,name,La Pyramide de Kheper
+101307068,La Pyramide de Kheper,desc,"Envoyez 1 Monstre Rituel Zombie depuis votre Deck au Cimetière ; placez face recto 1 Magie de Terrain depuis votre Deck ou Cimetière sur votre Terrain, et aussi, vous ne pouvez pas activer d'effets de monstre non-Zombie le reste de ce tour après la résolution de cette carte.
+Si votre adversaire contrôle un Monstre à Effet : vous pouvez bannir cette carte depuis votre Cimetière, puis ciblez 1 Monstre Rituel dans votre Cimetière ; ajoutez-le à votre main.
+Vous ne pouvez utiliser chaque effet de ""La Pyramide de Kheper"" qu'une fois par tour."
+101307068,La Pyramide de Kheper,str1,Activer
+101307068,La Pyramide de Kheper,str2,Recycler
+101307069,Reptation de Carte,name,Reptation de Carte
+101307069,Reptation de Carte,desc,"Vous pouvez bannir (face verso) les 5, 10 ou 15 cartes du dessus de votre Deck, puis ciblez 1 monstre face recto sur le Terrain ; appliquez-lui l'effet approprié.
+● 5 : Son ATK/DEF deviennent 0.
+● 10 : Annulez ses effets.
+● 15 : Bannissez-le (face verso).
+Vous ne pouvez utiliser cet effet de ""Reptation de Carte"" qu'une fois par tour."
+101307069,Reptation de Carte,str1,Activer
+101307069,Reptation de Carte,str2,Bannir 5 cartes
+101307069,Reptation de Carte,str3,Bannir 10 cartes
+101307069,Reptation de Carte,str4,Bannir 15 cartes
 101307071,Automne,name,Automne
 101307071,Automne,desc,"Le nom de cette carte devient ""Été"" tant qu'elle est dans la Zone Terrain.
 Une fois par tour : vous pouvez placer un nombre de Compteurs Saison sur cette carte égal au nombre de cartes dans la main de votre adversaire.
@@ -725,10 +725,10 @@ Si l'activation de cette carte en possession de son propriétaire a été annul�
 Vous ne pouvez activer qu'1 ""Illusion de la Sorcière du Corbeau Blanc"" par tour."
 101307078,Illusion de la Sorcière du Corbeau Blanc,str1,Activer
 101307078,Illusion de la Sorcière du Corbeau Blanc,str2,Poser
-101307080,软软香草白兔冰,name,软软香草白兔冰
-101307080,软软香草白兔冰,desc,"这个卡名的②③的效果1回合各能使用1次。
-①：只要自己场上有衍生物以外的通常怪兽2只以上存在，自己场上的通常怪兽的攻击力上升1000。
-②：以种族·属性·等级不同的自己墓地的2只通常怪兽为对象才能发动。那些怪兽特殊召唤。
-③：5星以上而原本攻击力和原本守备力是2000以下的通常怪兽，特殊召唤的场合或者攻击宣言时才能发动。从自己墓地把1张卡加入手卡。"
-101307080,软软香草白兔冰,str2,Invocation Spéciale
-101307080,软软香草白兔冰,str3,Recycler
+101307080,Glace à la Lapilline,name,Glace à la Lapilline
+101307080,Glace à la Lapilline,desc,"Tant que vous contrôlez min. 2 Monstres Normaux non-Jeton, les Monstres Normaux que vous contrôlez gagnent 1000 ATK.
+Vous ne pouvez utiliser chacun des effets suivants de ""Glace à la Lapilline"" qu'une fois par tour.
+Vous pouvez cibler 2 Monstres Normaux de Types, Attributs et Niveaux différents dans votre Cimetière ; Invoquez-les Spécialement.
+Si un ou plusieurs Monstres Normaux de min. Niveau 5 avec max. 2000 ATK/DEF d'origine sont Invoqués Spécialement ou déclarent une attaque : vous pouvez ajouter 1 carte depuis votre Cimetière à votre main."
+101307080,Glace à la Lapilline,str2,Invocation Spéciale
+101307080,Glace à la Lapilline,str3,Recycler
