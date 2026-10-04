@@ -559,6 +559,13 @@ Questa carta in Posizione di Difesa guadagna i seguenti effetti.
 ● Una volta per turno, durante l'End Phase: ogni giocatore guadagna 500 LP per ogni mostro in Posizione di Difesa che controlla."
 101307040,Dillydallasauro,str1,Cambia in Posizione di Difesa
 101307040,Dillydallasauro,str2,Guadagna LP
+101307044,高岭之天仙 火轮,name,高岭之天仙 火轮
+101307044,高岭之天仙 火轮,desc,"7星怪兽×2
+这个卡名的①②的效果1回合各能使用1次。
+①：包含从卡组把怪兽特殊召唤的效果的，卡的效果由对方发动时，把这张卡1个超量素材取除才能发动。对方抽1张。那之后，那个发动的效果无效并破坏。
+②：自己主要阶段2，以自己墓地1只7星怪兽为对象才能发动。自己受到那只怪兽的攻击力数值的伤害，那只怪兽和场上的这张卡回到手卡·额外卡组。"
+101307044,高岭之天仙 火轮,str1,Annullare l'effetto
+101307044,高岭之天仙 火轮,str2,Recuperare
 101307048,Re delle Bestie che Sorge dalla Valle delle Fiamme,name,Re delle Bestie che Sorge dalla Valle delle Fiamme
 101307048,Re delle Bestie che Sorge dalla Valle delle Fiamme,desc,"3 mostri con Effetto FUOCO
 (Questa carta viene sempre considerata come ""Salamagna Leocaldo"".)
@@ -648,9 +655,9 @@ Puoi utilizzare ciascun effetto di ""La Piramide di Kepher"" una sola volta per 
 ●10张：效果无效。
 ●15张：以里侧除外。"
 101307069,魔兽的昂进,str1,Attiva
-101307069,魔兽的昂进,str2,除外5张
-101307069,魔兽的昂进,str3,除外10张
-101307069,魔兽的昂进,str4,除外15张
+101307069,魔兽的昂进,str2,Bandire 5 carte
+101307069,魔兽的昂进,str3,Bandire 10 carte
+101307069,魔兽的昂进,str4,Bandire 15 carte
 101307071,Autunno,name,Autunno
 101307071,Autunno,desc,"Il nome di questa carta diventa ""Estate"" mentre è nella Zona Terreno.
 Una volta per turno: puoi mettere su questa carta un numero di Segnalini Stagione pari al numero di carte nella mano del tuo avversario.
