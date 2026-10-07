@@ -1,4 +1,8 @@
 id,name,desc,str1,str2,str3,str4,str5,str6,str7,str8,str9,str10,str11,str12,str13,str14,str15,str16
+100200298,反击魔法「攻击无力化」,"①：自己·对方的战斗阶段，可以从以下效果选择1个发动。
+●对方场上的怪兽的数量比自己场上多的场合，对方怪兽的攻击宣言时才能发动。那次攻击无效。那之后，战斗阶段结束。
+●对方把怪兽的效果发动时才能发动。那个发动无效并破坏。
+②：自己抽卡阶段通常抽卡时，把墓地的这张卡除外才能发动。从手卡把1只怪兽特殊召唤。",Attiva,Evocazione Speciale,Annullare l'attacco,Annullare l'effetto,,,,,,,,,,,,
 100262301,Il Signore Drago Oscuro di Ultum,"Un drago proveniente da un altro astro, risvegliatosi all'interno di un mondo sotterraneo sigillato. È un fatto ben noto persino nella Dimensione Zeta che appena risvegliati si possa esercitare solo un millesimo della propria vera forza.",,,,,,,,,,,,,,,,
 100268001,Exodia l'Obliteratore,"Quando peschi questa carta durante il tuo turno: puoi rivelarla; Evoca Specialmente questa carta.
 Se questa carta viene Evocata Specialmente durante il tuo turno: puoi attivare questo effetto; per il resto di questo turno, nessun giocatore può attivare carte o effetti, eccetto ""Exodia l'Obliteratore"", inoltre non puoi Evocare Normalmente o Specialmente mostri.
@@ -90,7 +94,7 @@ Durante la tua Main Phase: puoi bandire questa carta dal tuo Cimitero; aggiungi 
 Puoi utilizzare solo 1 effetto di ""Carta Magia ""Controlla-Avversario"""" per turno, e solo una volta in quel turno.",Attiva,Aggiungere alla mano,Effetto di distruzione,Evocazione tramite Tributo,,,,,,,,,,,,
 100268025,Viaggio Finale dell'Anima,"Quando il tuo avversario attiva una carta o un effetto che include un effetto che Evoca Specialmente una o più Carte Mostro dal Cimitero: annulla quell'effetto e, se lo fai, Evoca Specialmente 1 mostro dal Cimitero del tuo avversario sul suo Terreno, poi manda al Cimitero un qualsiasi numero di mostri scoperti che controlla il cui ATK totale è pari o inferiore a 6000.
 Se questa carta viene bandita: puoi aggiungerla alla tua mano, poi, immediatamente dopo che questo effetto si è risolto, puoi Evocare Normalmente 1 mostro dalla tua mano che richiede 1 o più Tributi senza offrire Tributi.
-Puoi utilizzare ogni effetto di ""Viaggio Finale dell'Anima"" una sola volta per turno.",Attiva,Rimettere in mano,Mandare quel mostro al Cimitero?,Evocare senza Tributare?,,,,,,,,,,,,
+Puoi utilizzare ogni effetto di ""Viaggio Finale dell'Anima"" una sola volta per turno.",Attiva,Rimettere in mano,不用解放来召唤（对灵魂的引导）,Evocare senza Tributare?,,,,,,,,,,,,
 100268201,Paladino Oscuro - Onde Soniche,"""Mago Nero"" + 1 mostro di Livello 7 o superiore
 Deve essere Evocato tramite Fusione.
 Guadagna 500 ATK per ogni altro mostro sul Terreno.
@@ -232,6 +236,9 @@ Puoi utilizzare ogni effetto di ""Salamagna Bastella"" una sola volta per turno.
 Se questa carta viene Evocata Normalmente o Specialmente: puoi mettere 1 Magia/Trappola Continua ""Bunnillin"" dal tuo Deck o Cimitero scoperta sul tuo Terreno.
 Se il tuo avversario Evoca Specialmente uno o più Mostri con Effetto, mentre questa carta è sul Terreno: puoi offrire questa carta come Tributo; Evoca Specialmente 1 Mostro Normale dal tuo Cimitero.
 Puoi utilizzare ciascun effetto di ""Bunnillin Mocha MOD"" una sola volta per turno.",Evocazione Speciale,Posiziona,Evocare Specialmente un Mostro Normale,,,,,,,,,,,,,
+101307021,灾祸的根绝者,"这个卡名的①②的效果1回合各能使用1次。
+①：这张卡在手卡存在，不能通常召唤的怪兽在对方场上（表侧表示）·墓地·除外状态有4只以上存在的场合，对方只把怪兽1只特殊召唤之际才能发动（自己场上没有怪兽存在的场合，这个发动和这个效果不会被无效化）。那次特殊召唤无效，那只怪兽破坏，这张卡特殊召唤。
+②：把场上的这张卡送去墓地才能发动。场上1只怪兽的攻击力变成一半。",Annulla l'Evocazione Speciale,,,,,,,,,,,,,,,
 101307023,Principessa Gru Segreta che Ricambia il Favore,"Durante l'End Phase del tuo avversario: puoi mettere questa carta dal tuo Cimitero in cima al Deck.
 Durante la Main Phase (Effetto Rapido): puoi far ritornare questa carta dal Terreno alla mano e, se lo fai, ogni giocatore pesca 1 carta, poi il tuo avversario può pescare 1 carta e, se lo fa, devi tenere la tua mano rivelata durante questa Main Phase.
 (Effetto Rapido): puoi bandire questa carta rivelata dalla tua mano; distruggi tutte le carte scoperte controllate dal tuo avversario.
