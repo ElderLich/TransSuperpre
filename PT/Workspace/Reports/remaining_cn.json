@@ -5,11 +5,47 @@
     "lang": "pt",
     "range_start_after_id": 0,
     "range_end_id": 101307080,
-    "timestamp": "20261006_151848",
-    "rows_in_report": 0,
-    "unique_cn_strings": 0,
-    "total_cn_cells": 0
+    "timestamp": "20261007_153833",
+    "rows_in_report": 1,
+    "unique_cn_strings": 1,
+    "total_cn_cells": 1
   },
-  "unique_strings": [],
-  "cards": []
+  "unique_strings": [
+    {
+      "string": "不用解放来召唤（对灵魂的引导）",
+      "count": 1,
+      "is_new": true
+    }
+  ],
+  "cards": [
+    {
+      "id": 100268025,
+      "name": "Jornada Final da Alma",
+      "desc": "Quando seu oponente ativa um card ou efeito que inclui um efeito que Invoca por Invocação-Especial um ou mais Monstros do Cemitério: negue aquele efeito, e se fizer, Invoque por Invocação-Especial 1 monstro do Cemitério do seu oponente para o campo dele, então envie qualquer número de monstros com a face para cima que ele controla para o Cemitério cujo total de ATK seja 6000 ou menor.\r\nSe este card é banido: você pode adiciona-lo à sua mão, então imediatamente após ativar este efeito, você pode Invocar por Invocação-Normal 1 monstro da sua mão que requer 1 ou mais Tributos sem oferecer Tributo.\r\nVocê só pode usar cada efeito de \"Jornada Final da Alma\" uma vez por turno.",
+      "str1": "Ativar",
+      "str2": "Retornar para a mão",
+      "str3": "不用解放来召唤（对灵魂的引导）",
+      "str4": "Invocar sem oferecer Tributo?",
+      "str5": "",
+      "str6": "",
+      "str7": "",
+      "str8": "",
+      "str9": "",
+      "str10": "",
+      "str11": "",
+      "str12": "",
+      "str13": "",
+      "str14": "",
+      "str15": "",
+      "str16": "",
+      "flagged_cells": [
+        {
+          "col": "str3",
+          "value": "不用解放来召唤（对灵魂的引导）",
+          "normalized": "不用解放来召唤({CARD})"
+        }
+      ],
+      "desc_preview": "Quando seu oponente ativa um card ou efeito que inclui um efeito que Invoca por Invocação-Especial um ou mais Monstros do Cemitério: negue aquele efeito, e se fizer, Invoque por Invocação-Especial 1 monstro do Cemitério do seu oponente para o campo dele, então envie qualquer número de monstros com a face para cima que ele controla para o Cemitério cujo total de ATK seja 6000 ou menor.\r\nSe este card é banido: você pode adiciona-lo à sua mão, então imediatamente após ativar este efeito, você pode Invocar por Invocação-Normal 1 monstro da sua mão que requer 1 ou mais Tributos sem oferecer Tributo.\r\nVocê só pode usar cada efeito de \"Jornada Final da Alma\" uma vez por turno."
+    }
+  ]
 }
