@@ -1,4 +1,8 @@
 id,name,desc,str1,str2,str3,str4,str5,str6,str7,str8,str9,str10,str11,str12,str13,str14,str15,str16
+100200298,反击魔法「攻击无力化」,"①：自己·对方的战斗阶段，可以从以下效果选择1个发动。
+●对方场上的怪兽的数量比自己场上多的场合，对方怪兽的攻击宣言时才能发动。那次攻击无效。那之后，战斗阶段结束。
+●对方把怪兽的效果发动时才能发动。那个发动无效并破坏。
+②：自己抽卡阶段通常抽卡时，把墓地的这张卡除外才能发动。从手卡把1只怪兽特殊召唤。",Activer,Invocation Spéciale,Annuler l'attaque,Annuler l'effet,,,,,,,,,,,,
 100262301,Le Seigneur Dragon Sombre d'Ultum,"Un dragon venu d'une autre étoile qui s'est éveillé d'un monde souterrain scellé.
 C'est un fait bien connu même dans la Dimension Zeta que, au moment du réveil, on ne peut déployer qu'un millième de sa véritable puissance.",,,,,,,,,,,,,,,,
 100268001,Éxodia le Destructeur,"Lorsque vous piochez cette carte durant votre tour : vous pouvez la révéler ; Invoquez-la Spécialement.
@@ -99,7 +103,7 @@ Durant votre Main Phase : vous pouvez bannir cette carte depuis votre Cimetière
 Vous ne pouvez utiliser qu'1 effet de ""Carte Magie ""Contrôleur d'Ennemi"""" par tour, et uniquement une fois le tour.",Activer,Ajouter à la main,Effet de destruction,Invocation Sacrifice,,,,,,,,,,,,
 100268025,Dernier Voyage de l'Âme,"Lorsque votre adversaire active une carte ou un effet qui inclut un effet qui Invoque Spécialement une ou plusieurs Cartes Monstre depuis le Cimetière : annulez l'effet, et si vous le faites, Invoquez Spécialement 1 monstre depuis le Cimetière de votre adversaire sur son Terrain, puis envoyez un nombre de votre choix de monstres face recto qu'il contrôle au Cimetière dont la somme des ATK est max. 6000.
 Si cette carte est bannie : vous pouvez l'ajouter à votre main, puis immédiatement après la résolution de cet effet, vous pouvez Invoquer Normalement 1 monstre depuis votre main qui nécessite min. 1 Sacrifice sans Sacrifices.
-Vous ne pouvez utiliser chaque effet de ""Dernier Voyage de l'Âme"" qu'une fois par tour.",Activer,Renvoyer à la main,Envoyer ce monstre au Cimetière ?,Invoquer sans Sacrifice ?,,,,,,,,,,,,
+Vous ne pouvez utiliser chaque effet de ""Dernier Voyage de l'Âme"" qu'une fois par tour.",Activer,Renvoyer à la main,不用解放来召唤（对灵魂的引导）,Invoquer sans Sacrifice ?,,,,,,,,,,,,
 100268201,Paladin des Ténèbres - Ondulatoire,"""Magicien Sombre"" + 1 monstre de min. Niveau 7
 Uniquement Invocable par Fusion.
 Gagne 500 ATK pour tous les autres monstres sur le Terrain.
@@ -249,6 +253,9 @@ Vous ne pouvez utiliser chaque effet de ""Salamangrande Bastelle"" qu'une fois p
 Si cette carte est Invoquée Normalement ou Spécialement : vous pouvez placer face recto 1 Magie/Piège Continu ""Lapilline"" depuis votre Deck ou Cimetière sur votre Terrain.
 Si votre adversaire Invoque Spécialement un ou plusieurs Monstres à Effet, tant que cette carte est dans la Zone Monstre : vous pouvez Sacrifier cette carte ; Invoquez Spécialement 1 Monstre Normal depuis votre Cimetière.
 Vous ne pouvez utiliser chaque effet de ""Lapilline : MOD Moka"" qu'une fois par tour.",Invocation Spéciale,Placer,Invoquer Spécialement un Monstre Normal,,,,,,,,,,,,,
+101307021,灾祸的根绝者,"这个卡名的①②的效果1回合各能使用1次。
+①：这张卡在手卡存在，不能通常召唤的怪兽在对方场上（表侧表示）·墓地·除外状态有4只以上存在的场合，对方只把怪兽1只特殊召唤之际才能发动（自己场上没有怪兽存在的场合，这个发动和这个效果不会被无效化）。那次特殊召唤无效，那只怪兽破坏，这张卡特殊召唤。
+②：把场上的这张卡送去墓地才能发动。场上1只怪兽的攻击力变成一半。",Annuler l'Invocation Spéciale,,,,,,,,,,,,,,,
 101307023,La Princesse Grue Secrète Qui Rend Une Faveur,"Durant la End Phase de votre adversaire : vous pouvez placer cette carte depuis votre Cimetière au-dessus du Deck.
 Durant la Main Phase (Effet Rapide) : vous pouvez renvoyer cette carte depuis le Terrain à la main, et si vous le faites, chaque joueur pioche 1 carte, puis votre adversaire peut piocher 1 carte, et s'il le fait, vous devez garder votre main révélée durant cette Main Phase.
 (Effet Rapide) : vous pouvez bannir cette carte révélée depuis votre main ; détruisez toutes les cartes face recto contrôlées par votre adversaire. 

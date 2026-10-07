@@ -1,4 +1,13 @@
 id,name,field,value
+100200298,反击魔法「攻击无力化」,name,反击魔法「攻击无力化」
+100200298,反击魔法「攻击无力化」,desc,"①：自己·对方的战斗阶段，可以从以下效果选择1个发动。
+●对方场上的怪兽的数量比自己场上多的场合，对方怪兽的攻击宣言时才能发动。那次攻击无效。那之后，战斗阶段结束。
+●对方把怪兽的效果发动时才能发动。那个发动无效并破坏。
+②：自己抽卡阶段通常抽卡时，把墓地的这张卡除外才能发动。从手卡把1只怪兽特殊召唤。"
+100200298,反击魔法「攻击无力化」,str1,Activer
+100200298,反击魔法「攻击无力化」,str2,Invocation Spéciale
+100200298,反击魔法「攻击无力化」,str3,Annuler l'attaque
+100200298,反击魔法「攻击无力化」,str4,Annuler l'effet
 100262301,Le Seigneur Dragon Sombre d'Ultum,name,Le Seigneur Dragon Sombre d'Ultum
 100262301,Le Seigneur Dragon Sombre d'Ultum,desc,"Un dragon venu d'une autre étoile qui s'est éveillé d'un monde souterrain scellé.
 C'est un fait bien connu même dans la Dimension Zeta que, au moment du réveil, on ne peut déployer qu'un millième de sa véritable puissance."
@@ -190,7 +199,7 @@ Si cette carte est bannie : vous pouvez l'ajouter à votre main, puis immédiate
 Vous ne pouvez utiliser chaque effet de ""Dernier Voyage de l'Âme"" qu'une fois par tour."
 100268025,Dernier Voyage de l'Âme,str1,Activer
 100268025,Dernier Voyage de l'Âme,str2,Renvoyer à la main
-100268025,Dernier Voyage de l'Âme,str3,Envoyer ce monstre au Cimetière ?
+100268025,Dernier Voyage de l'Âme,str3,不用解放来召唤（对灵魂的引导）
 100268025,Dernier Voyage de l'Âme,str4,Invoquer sans Sacrifice ?
 100268201,Paladin des Ténèbres - Ondulatoire,name,Paladin des Ténèbres - Ondulatoire
 100268201,Paladin des Ténèbres - Ondulatoire,desc,"""Magicien Sombre"" + 1 monstre de min. Niveau 7
@@ -474,6 +483,11 @@ Vous ne pouvez utiliser chaque effet de ""Lapilline : MOD Moka"" qu'une fois par
 101307020,Lapilline : MOD Moka,str1,Invocation Spéciale
 101307020,Lapilline : MOD Moka,str2,Placer
 101307020,Lapilline : MOD Moka,str3,Invoquer Spécialement un Monstre Normal
+101307021,灾祸的根绝者,name,灾祸的根绝者
+101307021,灾祸的根绝者,desc,"这个卡名的①②的效果1回合各能使用1次。
+①：这张卡在手卡存在，不能通常召唤的怪兽在对方场上（表侧表示）·墓地·除外状态有4只以上存在的场合，对方只把怪兽1只特殊召唤之际才能发动（自己场上没有怪兽存在的场合，这个发动和这个效果不会被无效化）。那次特殊召唤无效，那只怪兽破坏，这张卡特殊召唤。
+②：把场上的这张卡送去墓地才能发动。场上1只怪兽的攻击力变成一半。"
+101307021,灾祸的根绝者,str1,Annuler l'Invocation Spéciale
 101307023,La Princesse Grue Secrète Qui Rend Une Faveur,name,La Princesse Grue Secrète Qui Rend Une Faveur
 101307023,La Princesse Grue Secrète Qui Rend Une Faveur,desc,"Durant la End Phase de votre adversaire : vous pouvez placer cette carte depuis votre Cimetière au-dessus du Deck.
 Durant la Main Phase (Effet Rapide) : vous pouvez renvoyer cette carte depuis le Terrain à la main, et si vous le faites, chaque joueur pioche 1 carte, puis votre adversaire peut piocher 1 carte, et s'il le fait, vous devez garder votre main révélée durant cette Main Phase.
