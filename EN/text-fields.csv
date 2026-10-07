@@ -1,4 +1,13 @@
 id,name,field,value
+100200298,反击魔法「攻击无力化」,name,反击魔法「攻击无力化」
+100200298,反击魔法「攻击无力化」,desc,"①：自己·对方的战斗阶段，可以从以下效果选择1个发动。
+●对方场上的怪兽的数量比自己场上多的场合，对方怪兽的攻击宣言时才能发动。那次攻击无效。那之后，战斗阶段结束。
+●对方把怪兽的效果发动时才能发动。那个发动无效并破坏。
+②：自己抽卡阶段通常抽卡时，把墓地的这张卡除外才能发动。从手卡把1只怪兽特殊召唤。"
+100200298,反击魔法「攻击无力化」,str1,Activate
+100200298,反击魔法「攻击无力化」,str2,Special Summon
+100200298,反击魔法「攻击无力化」,str3,Negate the attack
+100200298,反击魔法「攻击无力化」,str4,Negate the effect
 100262301,The Dark Dragon Lord of Ultum,name,The Dark Dragon Lord of Ultum
 100262301,The Dark Dragon Lord of Ultum,desc,"A dragon from another star that awoke from within a sealed underground world. It's a well-known fact even in Dimension Zeta that when you first wake up, you can only exert one-thousandth of your true strength."
 100268001,Exodia the Obliterator,name,Exodia the Obliterator
@@ -128,7 +137,7 @@ During your Main Phase: You can banish this card from your GY; add 1 ""Spell Car
 100268025,Final Journey of the Soul,desc,"When your opponent activates a card or effect that includes an effect that Special Summons a Monster Card(s) from the GY: Negate that effect, and if you do, Special Summon 1 monster from your opponent's GY to their field, then send any number of face-up monsters they control to the GY whose total ATK equal 6000 or less. If this card is banished: You can add it to your hand, then immediately after this effect resolves (except during the Damage Step), you can Normal Summon 1 monster from your hand that requires 1 or more Tributes without Tributing. You can only use each effect of ""Final Journey of the Soul"" once per turn."
 100268025,Final Journey of the Soul,str1,Activate
 100268025,Final Journey of the Soul,str2,Return to the hand
-100268025,Final Journey of the Soul,str3,Send that monster to the GY?
+100268025,Final Journey of the Soul,str3,不用解放来召唤（对灵魂的引导）
 100268025,Final Journey of the Soul,str4,Summon without Tributing?
 100268201,Dark Paladin - Wave-Motion,name,Dark Paladin - Wave-Motion
 100268201,Dark Paladin - Wave-Motion,desc,"""Dark Magician"" + 1 Level 7 or higher monster
@@ -325,6 +334,11 @@ You can banish this card from your GY; send 1 ""Angelechy"" card from your hand 
 101307020,Bunnillin: Mocha MOD,str1,Special Summon
 101307020,Bunnillin: Mocha MOD,str2,Place
 101307020,Bunnillin: Mocha MOD,str3,Special Summon a Normal Monster
+101307021,灾祸的根绝者,name,灾祸的根绝者
+101307021,灾祸的根绝者,desc,"这个卡名的①②的效果1回合各能使用1次。
+①：这张卡在手卡存在，不能通常召唤的怪兽在对方场上（表侧表示）·墓地·除外状态有4只以上存在的场合，对方只把怪兽1只特殊召唤之际才能发动（自己场上没有怪兽存在的场合，这个发动和这个效果不会被无效化）。那次特殊召唤无效，那只怪兽破坏，这张卡特殊召唤。
+②：把场上的这张卡送去墓地才能发动。场上1只怪兽的攻击力变成一半。"
+101307021,灾祸的根绝者,str1,Negate the Special Summon
 101307023,The Secret Crane Princess Who Returns A Favor,name,The Secret Crane Princess Who Returns A Favor
 101307023,The Secret Crane Princess Who Returns A Favor,desc,"During your opponent's End Phase: You can place this card from your GY on top of the Deck. During the Main Phase (Quick Effect): You can return this card from the field to the hand, and if you do, each player draws 1 card, then your opponent can draw 1 card, and if they do, you must keep your hand revealed during this Main Phase. (Quick Effect): You can banish this revealed card from your hand; destroy all face-up cards your opponent controls. You can only use each effect of ""The Secret Crane Princess Who Returns A Favor"" once per turn."
 101307023,The Secret Crane Princess Who Returns A Favor,str1,Return to the Deck
