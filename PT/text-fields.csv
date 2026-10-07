@@ -1,4 +1,13 @@
 id,name,field,value
+100200298,反击魔法「攻击无力化」,name,反击魔法「攻击无力化」
+100200298,反击魔法「攻击无力化」,desc,"①：自己·对方的战斗阶段，可以从以下效果选择1个发动。
+●对方场上的怪兽的数量比自己场上多的场合，对方怪兽的攻击宣言时才能发动。那次攻击无效。那之后，战斗阶段结束。
+●对方把怪兽的效果发动时才能发动。那个发动无效并破坏。
+②：自己抽卡阶段通常抽卡时，把墓地的这张卡除外才能发动。从手卡把1只怪兽特殊召唤。"
+100200298,反击魔法「攻击无力化」,str1,Ativar
+100200298,反击魔法「攻击无力化」,str2,Invocação Especial
+100200298,反击魔法「攻击无力化」,str3,Negar o ataque
+100200298,反击魔法「攻击无力化」,str4,Negar o efeito
 100262301,O Senhor Dragão Sombrio de Ultum,name,O Senhor Dragão Sombrio de Ultum
 100262301,O Senhor Dragão Sombrio de Ultum,desc,"Um dragão de outra estrela que despertou do interior selado de um mundo. É um fato bem conhecido mesmo na Dimensão Zeta quando você foi despertado, você só pode exercer um-milésimo do seu verdadeiro poder."
 100268001,"Exodia, o Obliterador",name,"Exodia, o Obliterador"
@@ -180,7 +189,7 @@ Se este card é banido: você pode adiciona-lo à sua mão, então imediatamente
 Você só pode usar cada efeito de ""Jornada Final da Alma"" uma vez por turno."
 100268025,Jornada Final da Alma,str1,Ativar
 100268025,Jornada Final da Alma,str2,Retornar para a mão
-100268025,Jornada Final da Alma,str3,Enviar aquele monstro para o Cemitério?
+100268025,Jornada Final da Alma,str3,不用解放来召唤（对灵魂的引导）
 100268025,Jornada Final da Alma,str4,Invocar sem oferecer Tributo?
 100268201,Paladino Negro - Onda Oscilante,name,Paladino Negro - Onda Oscilante
 100268201,Paladino Negro - Onda Oscilante,desc,"""Mago Negro"" + 1 monstro Nível 7 ou maior
@@ -455,6 +464,11 @@ Você só pode usar cada um dos efeitos de ""Bunnillin: Mocha MOD"" uma vez por 
 101307020,Bunnillin: Mocha MOD,str1,Invocação Especial
 101307020,Bunnillin: Mocha MOD,str2,Colocar
 101307020,Bunnillin: Mocha MOD,str3,Invocar por Invocação Especial um Monstro Normal
+101307021,灾祸的根绝者,name,灾祸的根绝者
+101307021,灾祸的根绝者,desc,"这个卡名的①②的效果1回合各能使用1次。
+①：这张卡在手卡存在，不能通常召唤的怪兽在对方场上（表侧表示）·墓地·除外状态有4只以上存在的场合，对方只把怪兽1只特殊召唤之际才能发动（自己场上没有怪兽存在的场合，这个发动和这个效果不会被无效化）。那次特殊召唤无效，那只怪兽破坏，这张卡特殊召唤。
+②：把场上的这张卡送去墓地才能发动。场上1只怪兽的攻击力变成一半。"
+101307021,灾祸的根绝者,str1,Negar a Invocação Especial
 101307023,A Princesa Garça Secreta que Retribui um Favor,name,A Princesa Garça Secreta que Retribui um Favor
 101307023,A Princesa Garça Secreta que Retribui um Favor,desc,"Durante a Fase Final do seu oponente: você pode colocar este card do seu Cemitério no topo do Deck.
 Durante a Fase Principal (Efeito Rápido): você pode retornar este card do seu campo para a mão, e se fizer, cada jogar compra 1 card, então seu oponente pode comprar 1 card, e se ele fizer, você deve manter suas mão revelada durante a Fase Principal.
