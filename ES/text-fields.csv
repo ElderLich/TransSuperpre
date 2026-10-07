@@ -1,4 +1,13 @@
 id,name,field,value
+100200298,反击魔法「攻击无力化」,name,反击魔法「攻击无力化」
+100200298,反击魔法「攻击无力化」,desc,"①：自己·对方的战斗阶段，可以从以下效果选择1个发动。
+●对方场上的怪兽的数量比自己场上多的场合，对方怪兽的攻击宣言时才能发动。那次攻击无效。那之后，战斗阶段结束。
+●对方把怪兽的效果发动时才能发动。那个发动无效并破坏。
+②：自己抽卡阶段通常抽卡时，把墓地的这张卡除外才能发动。从手卡把1只怪兽特殊召唤。"
+100200298,反击魔法「攻击无力化」,str1,Activar
+100200298,反击魔法「攻击无力化」,str2,Invocación Especial
+100200298,反击魔法「攻击无力化」,str3,Negar el ataque
+100200298,反击魔法「攻击无力化」,str4,Negar el efecto
 100262301,El Señor Dragón Oscuro de Ultum,name,El Señor Dragón Oscuro de Ultum
 100262301,El Señor Dragón Oscuro de Ultum,desc,"Un dragón de otra estrella que despertó de un mundo subterráneo sellado. Es un hecho bien conocido que incluso en la Dimensión Zeta, cuando despiertas por primera vez, solo puedes ejercer 1/1000 de tu verdadera fuerza."
 100268001,Exodia el Obliterar,name,Exodia el Obliterar
@@ -188,7 +197,7 @@ Si esta carta es desterrada: puedes añadirla a tu mano, y después inmediatamen
 Sólo puedes usar cada uno de los efectos de ""Viaje Final del Alma"" una vez por turno."
 100268025,Viaje Final del Alma,str1,Activar
 100268025,Viaje Final del Alma,str2,Devolver a la mano
-100268025,Viaje Final del Alma,str3,¿Enviar ese monstruo al Cementerio?
+100268025,Viaje Final del Alma,str3,不用解放来召唤（对灵魂的引导）
 100268025,Viaje Final del Alma,str4,¿Invocar sin Sacrificar?
 100268201,Paladín Oscuro - Onda de Movimiento,name,Paladín Oscuro - Onda de Movimiento
 100268201,Paladín Oscuro - Onda de Movimiento,desc,"""Mago Oscuro"" + 1 monstruo de Nivel 7 o mayor	
@@ -481,6 +490,11 @@ Si tu adversario Invoca de Modo Especial uno o más Monstruos de Efecto mientras
 101307020,Bunnillin: Mocha MOD,str1,Invocación Especial
 101307020,Bunnillin: Mocha MOD,str2,Colocar
 101307020,Bunnillin: Mocha MOD,str3,Invocar de Modo Especial un Monstruo Normal
+101307021,灾祸的根绝者,name,灾祸的根绝者
+101307021,灾祸的根绝者,desc,"这个卡名的①②的效果1回合各能使用1次。
+①：这张卡在手卡存在，不能通常召唤的怪兽在对方场上（表侧表示）·墓地·除外状态有4只以上存在的场合，对方只把怪兽1只特殊召唤之际才能发动（自己场上没有怪兽存在的场合，这个发动和这个效果不会被无效化）。那次特殊召唤无效，那只怪兽破坏，这张卡特殊召唤。
+②：把场上的这张卡送去墓地才能发动。场上1只怪兽的攻击力变成一半。"
+101307021,灾祸的根绝者,str1,Negar la Invocación Especial
 101307023,La Princesa Grulla Secreta que Devuelve un Favor,name,La Princesa Grulla Secreta que Devuelve un Favor
 101307023,La Princesa Grulla Secreta que Devuelve un Favor,desc,"Durante la End Phase de tu adversario: puedes colocar esta carta desde tu Cementerio en la parte superior del Deck.
  

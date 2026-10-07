@@ -1,4 +1,8 @@
 id,name,desc,str1,str2,str3,str4,str5,str6,str7,str8,str9,str10,str11,str12,str13,str14,str15,str16
+100200298,反击魔法「攻击无力化」,"①：自己·对方的战斗阶段，可以从以下效果选择1个发动。
+●对方场上的怪兽的数量比自己场上多的场合，对方怪兽的攻击宣言时才能发动。那次攻击无效。那之后，战斗阶段结束。
+●对方把怪兽的效果发动时才能发动。那个发动无效并破坏。
+②：自己抽卡阶段通常抽卡时，把墓地的这张卡除外才能发动。从手卡把1只怪兽特殊召唤。",Activar,Invocación Especial,Negar el ataque,Negar el efecto,,,,,,,,,,,,
 100262301,El Señor Dragón Oscuro de Ultum,"Un dragón de otra estrella que despertó de un mundo subterráneo sellado. Es un hecho bien conocido que incluso en la Dimensión Zeta, cuando despiertas por primera vez, solo puedes ejercer 1/1000 de tu verdadera fuerza.",,,,,,,,,,,,,,,,
 100268001,Exodia el Obliterar,"Cuando robas esta carta durante tu turno: puedes revelarla; Invócala de Modo Especial. 
 Si esta carta es Invocada de Modo Especial durante tu turno: puedes activar este efecto; por el resto de este turno, ningún jugador puede activar cartas o efectos, excepto ""Exodia el Obliterar"", y además no puedes Invocar de Modo Normal o Especial (pero puedes Colocar de Modo Normal). 
@@ -97,7 +101,7 @@ Durante tu Main Phase: puedes desterrar esta carta en tu Cementerio; añade a tu
 Sólo puedes usar 1 efecto de los efectos de ""Carta Mágica ""Controlador Enemigo"""" por turno, y sólo una vez ese turno.",Activar,Añadir a la mano,Efecto de destrucción,Invocación por Sacrificio,,,,,,,,,,,,
 100268025,Viaje Final del Alma,"Cuando tu adversario activa una carta o efecto que incluya un efecto para Invocar de Modo Especial una o más Cartas de Monstruo desde el Cementerio: niega ese efecto y, si lo haces, Invoca de Modo Especial 1 monstruo del Cementerio de tu adversario a su Campo, y después manda al Cementerio cualquier número de monstruos boca arriba que controle cuyo ATK total sea 6000 o menos. 
 Si esta carta es desterrada: puedes añadirla a tu mano, y después inmediatamente después de que este efecto se resuelva, puedes Invocar de Modo Normal 1 monstruo desde tu mano que requiera 1 o más Sacrificios sin Sacrificar. 
-Sólo puedes usar cada uno de los efectos de ""Viaje Final del Alma"" una vez por turno.",Activar,Devolver a la mano,¿Enviar ese monstruo al Cementerio?,¿Invocar sin Sacrificar?,,,,,,,,,,,,
+Sólo puedes usar cada uno de los efectos de ""Viaje Final del Alma"" una vez por turno.",Activar,Devolver a la mano,不用解放来召唤（对灵魂的引导）,¿Invocar sin Sacrificar?,,,,,,,,,,,,
 100268201,Paladín Oscuro - Onda de Movimiento,"""Mago Oscuro"" + 1 monstruo de Nivel 7 o mayor	
 Debe ser Invocado por Fusión. 
 Gana 500 ATK por cada otro monstruo en el Campo. 
@@ -256,6 +260,9 @@ Sólo puedes usar los efectos de ""Salamangrande Bastera"" una vez por turno cad
 101307020,Bunnillin: Mocha MOD,"Puedes mandar al Cementerio 1 Monstruo Normal con 2000 ATK o menos desde tu Deck; Invoca esta carta de Modo Especial desde tu mano. 
 Si esta carta es Invocada de Modo Normal o Especial: puedes colocar 1 Mágica/Trampa Continua ""Bunnillin"" desde tu Deck o Cementerio boca arriba en tu Campo. 
 Si tu adversario Invoca de Modo Especial uno o más Monstruos de Efecto mientras este monstruo está en el Campo: puedes Sacrificar esta carta; Invoca de Modo Especial 1 Monstruo Normal desde tu Cementerio.",Invocación Especial,Colocar,Invocar de Modo Especial un Monstruo Normal,,,,,,,,,,,,,
+101307021,灾祸的根绝者,"这个卡名的①②的效果1回合各能使用1次。
+①：这张卡在手卡存在，不能通常召唤的怪兽在对方场上（表侧表示）·墓地·除外状态有4只以上存在的场合，对方只把怪兽1只特殊召唤之际才能发动（自己场上没有怪兽存在的场合，这个发动和这个效果不会被无效化）。那次特殊召唤无效，那只怪兽破坏，这张卡特殊召唤。
+②：把场上的这张卡送去墓地才能发动。场上1只怪兽的攻击力变成一半。",Negar la Invocación Especial,,,,,,,,,,,,,,,
 101307023,La Princesa Grulla Secreta que Devuelve un Favor,"Durante la End Phase de tu adversario: puedes colocar esta carta desde tu Cementerio en la parte superior del Deck.
  
 (Efecto Rápido): Durante la Main Phase: puedes devolver esta carta del Campo a la mano y, si lo haces, cada jugador roba 1 carta, y después tu adversario puede robar 1 carta y, si lo hace, debes mantener tu mano revelada por el resto de esta fase.
