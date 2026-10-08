@@ -326,7 +326,10 @@ def build_parser() -> argparse.ArgumentParser:
     upload.add_argument("--dry-run", action="store_true", help="Show what would be copied")
     upload.set_defaults(func=command_upload)
 
-    refresh = subparsers.add_parser("refresh", help="Download latest .ypk and merge it into local raw2")
+    refresh = subparsers.add_parser(
+        "refresh",
+        help="Pull latest main, then download the latest .ypk and merge it into local raw2",
+    )
     refresh.add_argument("--lang", choices=sorted(LANGS), required=True)
     refresh.add_argument("--source-dir", default="raw2", help="Local source folder inside the locale folder")
     refresh.add_argument("--pull-first", action="store_true", help="Run git pull --ff-only before refreshing")
@@ -336,7 +339,7 @@ def build_parser() -> argparse.ArgumentParser:
         dest="pull_first",
         help="Do not pull before refreshing",
     )
-    refresh.set_defaults(func=command_refresh, pull_first=False)
+    refresh.set_defaults(func=command_refresh, pull_first=True)
 
     pull = subparsers.add_parser("pull", help="Fast-forward local TransSuperpre main, then optionally copy <lang>/Workspace to local raw2")
     pull.add_argument("--lang", choices=sorted(LANGS), help="Language Workspace to copy back into the local folder")
