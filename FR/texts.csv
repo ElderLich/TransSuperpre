@@ -103,7 +103,7 @@ Durant votre Main Phase : vous pouvez bannir cette carte depuis votre Cimetière
 Vous ne pouvez utiliser qu'1 effet de ""Carte Magie ""Contrôleur d'Ennemi"""" par tour, et uniquement une fois le tour.",Activer,Ajouter à la main,Effet de destruction,Invocation Sacrifice,,,,,,,,,,,,
 100268025,Dernier Voyage de l'Âme,"Lorsque votre adversaire active une carte ou un effet qui inclut un effet qui Invoque Spécialement une ou plusieurs Cartes Monstre depuis le Cimetière : annulez l'effet, et si vous le faites, Invoquez Spécialement 1 monstre depuis le Cimetière de votre adversaire sur son Terrain, puis envoyez un nombre de votre choix de monstres face recto qu'il contrôle au Cimetière dont la somme des ATK est max. 6000.
 Si cette carte est bannie : vous pouvez l'ajouter à votre main, puis immédiatement après la résolution de cet effet, vous pouvez Invoquer Normalement 1 monstre depuis votre main qui nécessite min. 1 Sacrifice sans Sacrifices.
-Vous ne pouvez utiliser chaque effet de ""Dernier Voyage de l'Âme"" qu'une fois par tour.",Activer,Renvoyer à la main,不用解放来召唤（对灵魂的引导）,Invoquer sans Sacrifice ?,,,,,,,,,,,,
+Vous ne pouvez utiliser chaque effet de ""Dernier Voyage de l'Âme"" qu'une fois par tour.",Activer,Renvoyer à la main,Invoquer Normalement sans Sacrifice (Dernier Voyage de l'Âme),Invoquer sans Sacrifice ?,,,,,,,,,,,,
 100268201,Paladin des Ténèbres - Ondulatoire,"""Magicien Sombre"" + 1 monstre de min. Niveau 7
 Uniquement Invocable par Fusion.
 Gagne 500 ATK pour tous les autres monstres sur le Terrain.
@@ -298,6 +298,16 @@ Si cette carte est Invoquée Spécialement : vous pouvez placer un nombre de vot
 Vous ne pouvez utiliser cet effet de ""Diabellze la Maîtresse de la Forêt du Corbeau Blanc"" qu'une fois par tour.
 Gagne 700 ATK/DEF pour chaque Magie/Piège sur le Terrain.
 Cette carte Invoquée par Fusion face recto ne peut pas être utilisée comme Matériel Fusion.",Placer,,Renvoyer la carte à la main ?,,,,,,,,,,,,,
+101307035,终天狱神Ω比托利姆,"Échelle Pendule = 11
+[ Effet Pendule ]
+①：从额外卡组有怪兽特殊召唤的场合才能发动。这张卡回到额外卡组。那之后，可以把包含自己场上的「狱神」怪兽的，自己·对方场上的怪兽作为融合素材，把1只融合怪兽融合召唤。
+----------------------------------------
+[ Effet de Monstre ]
+从额外卡组特殊召唤的攻击力3000以上的怪兽×3
+这张卡用融合召唤才能从额外卡组特殊召唤。
+①：这张卡只要在怪兽区域存在，不受「狱神」卡以外的卡的效果影响。
+②：对方把怪兽的效果发动时，若和那只怪兽相同种族的怪兽在对方场上有2只以上存在，从卡组上面把3张卡以里侧除外才能发动。那个发动无效并以里侧除外。
+③：自己准备阶段发动。这张卡在自己的灵摆区域放置。",Effet de Fusion,Annuler l'activation,Placer dans la Zone Pendule,Invocation Fusion ?,,,,,,,,,,,,
 101307037,Zaltys le Chevalier du Corbeau Blanc,"1 Syntoniseur Illusion + 1+ non-Syntoniseur
 Si cette carte est Invoquée Spécialement : vous pouvez cibler max. 2 Magies/Pièges sur le Terrain ; renvoyez-les à la main.
 Si cette carte est envoyée au Cimetière : vous pouvez activer cet effet selon d'où elle a été envoyée ;
@@ -350,6 +360,9 @@ Les Cartes Monstre ""Corbeau Blanc"" que vous contrôlez ne peuvent pas être d�
 Durant votre End Phase : vous pouvez Poser 1 Piège ""Corbeau Blanc"" depuis votre Deck ou Cimetière.
 Vous ne pouvez utiliser cet effet de ""La Forêt Profonde du Corbeau Blanc"" qu'une fois par tour.
 Vous ne pouvez activer qu'1 ""La Forêt Profonde du Corbeau Blanc"" par tour.",Ajouter à la main?,,Poser,,,,,,,,,,,,,
+101307060,狱神封门-共灭之剑-,"这个卡名的①②的效果1回合各能使用1次。
+①：从手卡丢弃1张「狱神」卡才能发动。从额外卡组把1只「狱神」灵摆怪兽在自己的灵摆区域放置。这个效果把融合怪兽放置的场合，可以再从卡组把1只「狱神」灵摆怪兽在自己的灵摆区域放置。
+②：自己场上有「狱神」怪兽存在的场合，把墓地的这张卡除外，以场上1只表侧表示怪兽为对象才能发动。那只怪兽的攻击力上升1500，这个回合不能攻击。",Placer un Monstre Pendule,Augmenter l'ATK,En placer un autre ?,,,,,,,,,,,,,
 101307062,Mausolée Salamangrande,"(Cette carte est toujours traitée comme ""Sanctuaire Salamangrande"".)
 Les monstres ""Salamangrande"" que vous contrôlez ne sont pas affectés par les effets activés des monstres FEU de votre adversaire.
 Vous ne pouvez utiliser chacun des effets suivants de ""Mausolée Salamangrande"" qu'une fois par tour.
@@ -395,6 +408,9 @@ Vous ne pouvez utiliser cet effet de ""Splendeur de la Sorcière du Corbeau Blan
 101307078,Illusion de la Sorcière du Corbeau Blanc,"Invoquez par Fusion 1 Monstre Fusion Illusion depuis votre Extra Deck, en utilisant des monstres depuis votre Extra Deck et/ou Terrain, et aussi, vous ne pouvez pas activer d'effets de monstre (monstres Illusion exclus) dans la main ou Cimetière le reste de ce tour après la résolution de cette carte.
 Si l'activation de cette carte en possession de son propriétaire a été annulée par un effet de carte de votre adversaire et envoyée à votre Cimetière : vous pouvez Poser cette carte, et si vous le faites, renvoyez toutes les cartes contrôlées par votre adversaire à la main.
 Vous ne pouvez activer qu'1 ""Illusion de la Sorcière du Corbeau Blanc"" par tour.",Activer,Poser,,,,,,,,,,,,,,
+101307079,向无预幻世托付的约定,"这个卡名在规则上也当作「狱神」卡使用。这个卡名的①②的效果1回合各能使用1次。
+①：从自己的手卡·场上（表侧表示）把1只「米底乌斯」怪兽除外才能发动。从额外卡组特殊召唤的场上的怪兽全部除外。那之后，可以从自己墓地把1只「神艺」怪兽特殊召唤。
+②：自己场上的怪兽的种族是3种类以上的场合，把墓地的这张卡除外才能发动。自己除外状态的1只「米底乌斯」怪兽特殊召唤。",Effet de bannissement,Invocation Spéciale,Invocation Spéciale?,,,,,,,,,,,,,
 101307080,Glace à la Lapilline,"Tant que vous contrôlez min. 2 Monstres Normaux non-Jeton, les Monstres Normaux que vous contrôlez gagnent 1000 ATK.
 Vous ne pouvez utiliser chacun des effets suivants de ""Glace à la Lapilline"" qu'une fois par tour.
 Vous pouvez cibler 2 Monstres Normaux de Types, Attributs et Niveaux différents dans votre Cimetière ; Invoquez-les Spécialement.
