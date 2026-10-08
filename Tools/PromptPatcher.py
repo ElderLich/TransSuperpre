@@ -855,6 +855,16 @@ def build_translation_pack(lang: str):
 
     # Extra phrases (keep phrase-level; avoid single-word glue)
     extras = {
+        "不用解放来召唤({CARD})": {
+            "en": "Normal Summon without Tributing ({CARD})",
+            "fr": "Invoquer Normalement sans Sacrifice ({CARD})",
+            "de": "Normalbeschwörung ohne Tribut ({CARD})",
+            "es": "Invocar de Modo Normal sin Sacrificios ({CARD})",
+            "pt": "Invocar por Invocação Normal sem Tributos ({CARD})",
+            "it": "Evocare Normalmente senza Tributi ({CARD})",
+            "ja": "リリースせずに召喚する（{CARD}）",
+            "kr": "릴리스 없이 일반 소환한다 ({CARD})",
+        },
         "除外5张": {
             "en": "Banish 5 cards",
             "fr": "Bannir 5 cartes",
