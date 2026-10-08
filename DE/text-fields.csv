@@ -1,13 +1,13 @@
 id,name,field,value
-100200298,反击魔法「攻击无力化」,name,反击魔法「攻击无力化」
-100200298,反击魔法「攻击无力化」,desc,"①：自己·对方的战斗阶段，可以从以下效果选择1个发动。
-●对方场上的怪兽的数量比自己场上多的场合，对方怪兽的攻击宣言时才能发动。那次攻击无效。那之后，战斗阶段结束。
-●对方把怪兽的效果发动时才能发动。那个发动无效并破坏。
-②：自己抽卡阶段通常抽卡时，把墓地的这张卡除外才能发动。从手卡把1只怪兽特殊召唤。"
-100200298,反击魔法「攻击无力化」,str1,Aktivieren
-100200298,反击魔法「攻击无力化」,str2,Als Spezialbeschwörung beschwören
-100200298,反击魔法「攻击无力化」,str3,Angriff annullieren
-100200298,反击魔法「攻击无力化」,str4,Effekt annullieren
+100200298,Konterzauber „Angriff annullieren“,name,Konterzauber „Angriff annullieren“
+100200298,Konterzauber „Angriff annullieren“,desc,"Während der Battle Phase: Aktiviere 1 dieser Effekte.
+● Wenn ein Monster deines Gegners einen Angriff deklariert, solange dein Gegner mehr Monster kontrolliert als du: Annulliere den Angriff, dann beende die Battle Phase.
+● Wenn dein Gegner einen Monstereffekt aktiviert: Annulliere jenen Effekt und falls du dies tust, zerstöre jene Karte.
+Während deiner Draw Phase, wenn du eine Karte für dein normales Ziehen ziehst: Du kannst diese Karte von deinem Friedhof verbannen; beschwöre 1 Monster als Spezialbeschwörung von deiner Hand."
+100200298,Konterzauber „Angriff annullieren“,str1,Aktivieren
+100200298,Konterzauber „Angriff annullieren“,str2,Als Spezialbeschwörung beschwören
+100200298,Konterzauber „Angriff annullieren“,str3,Angriff annullieren
+100200298,Konterzauber „Angriff annullieren“,str4,Effekt annullieren
 100262301,Der finstere Drachenherrscher von Ultum,name,Der finstere Drachenherrscher von Ultum
 100262301,Der finstere Drachenherrscher von Ultum,desc,"Ein Drache von einem anderen Stern, der aus einer versiegelten Unterwelt erwachte. Dass er unmittelbar nach dem Erwachen nur ein Tausendstel seiner wahren Stärke entfalten kann, ist selbst in der Dimension Zeta weithin bekannt."
 100268001,"Exodia, der Vernichter",name,"Exodia, der Vernichter"
@@ -141,7 +141,7 @@ Während deiner Main Phase: Du kannst diese Karte von deinem Friedhof verbannen;
 100268025,Letzte Reise der Seele,desc,"Wenn dein Gegner eine Karte oder einen Effekt aktiviert, die oder der einen Effekt enthält, der ein oder mehr Monster als Spezialbeschwörung vom Friedhof beschwört: Du kannst jenen Effekt annullieren und falls du dies tust, beschwöre 1 Monster als Spezialbeschwörung vom Friedhof deines Gegners auf seine Spielfeldseite, dann kannst du eine beliebige Anzahl offener Monster, die er kontrolliert und deren gemeinsame ATK höchstens 6000 betragen, auf den Friedhof legen. Falls diese Karte verbannt wird: Du kannst sie deiner Hand hinzufügen, dann, sofort nachdem dieser Effekt aufgelöst wurde, kannst du 1 Monster von deiner Hand, das 1 oder mehr Tribute erfordert, als Normalbeschwörung beschwören, ohne Tribut anzubieten. Du kannst jeden Effekt von „Letzte Reise der Seele“ nur einmal pro Spielzug verwenden."
 100268025,Letzte Reise der Seele,str1,Aktivieren
 100268025,Letzte Reise der Seele,str2,Auf die Hand zurückgeben
-100268025,Letzte Reise der Seele,str3,不用解放来召唤（对灵魂的引导）
+100268025,Letzte Reise der Seele,str3,Normalbeschwörung ohne Tribut ({CARD})
 100268025,Letzte Reise der Seele,str4,Ohne Tribut beschwören?
 100268201,Dunkler Paladin – Wellenbewegung,name,Dunkler Paladin – Wellenbewegung
 100268201,Dunkler Paladin – Wellenbewegung,desc,"„Dunkler Magier“ + 1 Monster der Stufe 7 oder höher
@@ -337,11 +337,9 @@ Du kannst diese Karte von deinem Friedhof verbannen; lege 1 „Angelechy“-Kart
 101307020,Bunnillin: Mokka-MOD,str1,Als Spezialbeschwörung beschwören
 101307020,Bunnillin: Mokka-MOD,str2,Platzieren
 101307020,Bunnillin: Mokka-MOD,str3,Ein Normales Monster als Spezialbeschwörung beschwören
-101307021,灾祸的根绝者,name,灾祸的根绝者
-101307021,灾祸的根绝者,desc,"这个卡名的①②的效果1回合各能使用1次。
-①：这张卡在手卡存在，不能通常召唤的怪兽在对方场上（表侧表示）·墓地·除外状态有4只以上存在的场合，对方只把怪兽1只特殊召唤之际才能发动（自己场上没有怪兽存在的场合，这个发动和这个效果不会被无效化）。那次特殊召唤无效，那只怪兽破坏，这张卡特殊召唤。
-②：把场上的这张卡送去墓地才能发动。场上1只怪兽的攻击力变成一半。"
-101307021,灾祸的根绝者,str1,Spezialbeschwörung annullieren
+101307021,Häretischer Auslöscher,name,Häretischer Auslöscher
+101307021,Häretischer Auslöscher,desc,"Wenn dein Gegner genau 1 Monster als Spezialbeschwörung beschwören würde, solange sich diese Karte in deiner Hand befindet und dein Gegner 4 oder mehr Monster, die nicht als Normalbeschwörung beschworen/gesetzt werden können, offen auf seiner Spielfeldseite, in seinem Friedhof und/oder unter seinen verbannten Karten hat (Schnelleffekt): Du kannst die Beschwörung annullieren und falls du dies tust, zerstöre jenes Monster und falls du das tust, beschwöre diese Karte als Spezialbeschwörung (solange du keine Monster kontrollierst, können diese Aktivierung und dieser Effekt nicht annulliert werden). Du kannst diese Karte vom Spielfeld auf den Friedhof legen; halbiere die ATK von 1 Monster auf dem Spielfeld. Du kannst jeden Effekt von „Häretischer Auslöscher“ nur einmal pro Spielzug verwenden."
+101307021,Häretischer Auslöscher,str1,Spezialbeschwörung annullieren
 101307023,"Die geheime Kranichprinzessin, die einen Gefallen erwidert",name,"Die geheime Kranichprinzessin, die einen Gefallen erwidert"
 101307023,"Die geheime Kranichprinzessin, die einen Gefallen erwidert",desc,"Während der End Phase deines Gegners: Du kannst diese Karte von deinem Friedhof auf dein Deck legen. Während der Main Phase (Schnelleffekt): Du kannst diese Karte vom Spielfeld auf die Hand zurückgeben und falls du dies tust, zieht jeder Spieler 1 Karte, dann kann dein Gegner 1 Karte ziehen und falls er dies tut, musst du deine Hand während dieser Main Phase vorgezeigt lassen. (Schnelleffekt): Du kannst diese vorgezeigte Karte von deiner Hand verbannen; zerstöre alle offenen Karten, die dein Gegner kontrolliert. Du kannst jeden Effekt von „Die geheime Kranichprinzessin, die einen Gefallen erwidert“ nur einmal pro Spielzug verwenden."
 101307023,"Die geheime Kranichprinzessin, die einen Gefallen erwidert",str1,Ins Deck zurücklegen
