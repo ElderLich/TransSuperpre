@@ -5,37 +5,27 @@
     "lang": "it",
     "range_start_after_id": 0,
     "range_end_id": 101307080,
-    "timestamp": "20261003_132735",
+    "timestamp": "20261007_153637",
     "rows_in_report": 1,
-    "unique_cn_strings": 3,
-    "total_cn_cells": 3
+    "unique_cn_strings": 1,
+    "total_cn_cells": 1
   },
   "unique_strings": [
     {
-      "string": "除外5张",
-      "count": 1,
-      "is_new": true
-    },
-    {
-      "string": "除外10张",
-      "count": 1,
-      "is_new": true
-    },
-    {
-      "string": "除外15张",
+      "string": "不用解放来召唤（对灵魂的引导）",
       "count": 1,
       "is_new": true
     }
   ],
   "cards": [
     {
-      "id": 101307069,
-      "name": "魔兽的昂进",
-      "desc": "这个卡名的①的效果1回合只能使用1次。\r\n①：从自己卡组上面把以下数量的卡以里侧除外，以场上1只表侧表示怪兽为对象才能发动。作为对象的怪兽适用那个效果。\r\n●5张：攻击力·守备力变成0。\r\n●10张：效果无效。\r\n●15张：以里侧除外。",
+      "id": 100268025,
+      "name": "Viaggio Finale dell'Anima",
+      "desc": "Quando il tuo avversario attiva una carta o un effetto che include un effetto che Evoca Specialmente una o più Carte Mostro dal Cimitero: annulla quell'effetto e, se lo fai, Evoca Specialmente 1 mostro dal Cimitero del tuo avversario sul suo Terreno, poi manda al Cimitero un qualsiasi numero di mostri scoperti che controlla il cui ATK totale è pari o inferiore a 6000.\r\nSe questa carta viene bandita: puoi aggiungerla alla tua mano, poi, immediatamente dopo che questo effetto si è risolto, puoi Evocare Normalmente 1 mostro dalla tua mano che richiede 1 o più Tributi senza offrire Tributi.\r\nPuoi utilizzare ogni effetto di \"Viaggio Finale dell'Anima\" una sola volta per turno.",
       "str1": "Attiva",
-      "str2": "除外5张",
-      "str3": "除外10张",
-      "str4": "除外15张",
+      "str2": "Rimettere in mano",
+      "str3": "不用解放来召唤（对灵魂的引导）",
+      "str4": "Evocare senza Tributare?",
       "str5": "",
       "str6": "",
       "str7": "",
@@ -50,22 +40,12 @@
       "str16": "",
       "flagged_cells": [
         {
-          "col": "str2",
-          "value": "除外5张",
-          "normalized": "除外5张"
-        },
-        {
           "col": "str3",
-          "value": "除外10张",
-          "normalized": "除外10张"
-        },
-        {
-          "col": "str4",
-          "value": "除外15张",
-          "normalized": "除外15张"
+          "value": "不用解放来召唤（对灵魂的引导）",
+          "normalized": "不用解放来召唤({CARD})"
         }
       ],
-      "desc_preview": "这个卡名的①的效果1回合只能使用1次。\r\n①：从自己卡组上面把以下数量的卡以里侧除外，以场上1只表侧表示怪兽为对象才能发动。作为对象的怪兽适用那个效果。\r\n●5张：攻击力·守备力变成0。\r\n●10张：效果无效。\r\n●15张：以里侧除外。"
+      "desc_preview": "Quando il tuo avversario attiva una carta o un effetto che include un effetto che Evoca Specialmente una o più Carte Mostro dal Cimitero: annulla quell'effetto e, se lo fai, Evoca Specialmente 1 mostro dal Cimitero del tuo avversario sul suo Terreno, poi manda al Cimitero un qualsiasi numero di mostri scoperti che controlla il cui ATK totale è pari o inferiore a 6000.\r\nSe questa carta viene bandita: puoi aggiungerla alla tua mano, poi, immediatamente dopo che questo effetto si è risolto, puoi Evocare Normalmente 1 mostro dalla tua mano che richiede 1 o più Tributi senza offrire Tributi.\r\nPuoi utilizzare ogni effetto di \"Viaggio Finale dell'Anima\" una sola volta per turno."
     }
   ]
 }

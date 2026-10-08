@@ -5,37 +5,27 @@
     "lang": "fr",
     "range_start_after_id": 0,
     "range_end_id": 101307080,
-    "timestamp": "20261003_132142",
+    "timestamp": "20261007_153251",
     "rows_in_report": 1,
-    "unique_cn_strings": 3,
-    "total_cn_cells": 3
+    "unique_cn_strings": 1,
+    "total_cn_cells": 1
   },
   "unique_strings": [
     {
-      "string": "除外5张",
-      "count": 1,
-      "is_new": true
-    },
-    {
-      "string": "除外10张",
-      "count": 1,
-      "is_new": true
-    },
-    {
-      "string": "除外15张",
+      "string": "不用解放来召唤（对灵魂的引导）",
       "count": 1,
       "is_new": true
     }
   ],
   "cards": [
     {
-      "id": 101307069,
-      "name": "魔兽的昂进",
-      "desc": "这个卡名的①的效果1回合只能使用1次。\r\n①：从自己卡组上面把以下数量的卡以里侧除外，以场上1只表侧表示怪兽为对象才能发动。作为对象的怪兽适用那个效果。\r\n●5张：攻击力·守备力变成0。\r\n●10张：效果无效。\r\n●15张：以里侧除外。",
+      "id": 100268025,
+      "name": "Dernier Voyage de l'Âme",
+      "desc": "Lorsque votre adversaire active une carte ou un effet qui inclut un effet qui Invoque Spécialement une ou plusieurs Cartes Monstre depuis le Cimetière : annulez l'effet, et si vous le faites, Invoquez Spécialement 1 monstre depuis le Cimetière de votre adversaire sur son Terrain, puis envoyez un nombre de votre choix de monstres face recto qu'il contrôle au Cimetière dont la somme des ATK est max. 6000.\r\nSi cette carte est bannie : vous pouvez l'ajouter à votre main, puis immédiatement après la résolution de cet effet, vous pouvez Invoquer Normalement 1 monstre depuis votre main qui nécessite min. 1 Sacrifice sans Sacrifices.\r\nVous ne pouvez utiliser chaque effet de \"Dernier Voyage de l'Âme\" qu'une fois par tour.",
       "str1": "Activer",
-      "str2": "除外5张",
-      "str3": "除外10张",
-      "str4": "除外15张",
+      "str2": "Renvoyer à la main",
+      "str3": "不用解放来召唤（对灵魂的引导）",
+      "str4": "Invoquer sans Sacrifice ?",
       "str5": "",
       "str6": "",
       "str7": "",
@@ -50,22 +40,12 @@
       "str16": "",
       "flagged_cells": [
         {
-          "col": "str2",
-          "value": "除外5张",
-          "normalized": "除外5张"
-        },
-        {
           "col": "str3",
-          "value": "除外10张",
-          "normalized": "除外10张"
-        },
-        {
-          "col": "str4",
-          "value": "除外15张",
-          "normalized": "除外15张"
+          "value": "不用解放来召唤（对灵魂的引导）",
+          "normalized": "不用解放来召唤({CARD})"
         }
       ],
-      "desc_preview": "这个卡名的①的效果1回合只能使用1次。\r\n①：从自己卡组上面把以下数量的卡以里侧除外，以场上1只表侧表示怪兽为对象才能发动。作为对象的怪兽适用那个效果。\r\n●5张：攻击力·守备力变成0。\r\n●10张：效果无效。\r\n●15张：以里侧除外。"
+      "desc_preview": "Lorsque votre adversaire active une carte ou un effet qui inclut un effet qui Invoque Spécialement une ou plusieurs Cartes Monstre depuis le Cimetière : annulez l'effet, et si vous le faites, Invoquez Spécialement 1 monstre depuis le Cimetière de votre adversaire sur son Terrain, puis envoyez un nombre de votre choix de monstres face recto qu'il contrôle au Cimetière dont la somme des ATK est max. 6000.\r\nSi cette carte est bannie : vous pouvez l'ajouter à votre main, puis immédiatement après la résolution de cet effet, vous pouvez Invoquer Normalement 1 monstre depuis votre main qui nécessite min. 1 Sacrifice sans Sacrifices.\r\nVous ne pouvez utiliser chaque effet de \"Dernier Voyage de l'Âme\" qu'une fois par tour."
     }
   ]
 }

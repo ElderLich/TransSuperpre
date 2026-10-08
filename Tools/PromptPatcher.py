@@ -855,6 +855,16 @@ def build_translation_pack(lang: str):
 
     # Extra phrases (keep phrase-level; avoid single-word glue)
     extras = {
+        "不用解放来召唤({CARD})": {
+            "en": "Normal Summon without Tributing ({CARD})",
+            "fr": "Invoquer Normalement sans Sacrifice ({CARD})",
+            "de": "Normalbeschwörung ohne Tribut ({CARD})",
+            "es": "Invocar de Modo Normal sin Sacrificios ({CARD})",
+            "pt": "Invocar por Invocação Normal sem Tributos ({CARD})",
+            "it": "Evocare Normalmente senza Tributi ({CARD})",
+            "ja": "リリースせずに召喚する（{CARD}）",
+            "kr": "릴리스 없이 일반 소환한다 ({CARD})",
+        },
         "除外5张": {
             "en": "Banish 5 cards",
             "fr": "Bannir 5 cartes",
@@ -8364,6 +8374,26 @@ def build_translation_pack(lang: str):
             "it": "Posizionare una Carta Pendulum",
             "ja": "ペンデュラムカードを置く",
             "kr": "펜듈럼 카드를 놓는다",
+        },
+        "放置灵摆": {
+            "en": "Place a Pendulum Monster",
+            "fr": "Placer un Monstre Pendule",
+            "de": "Ein Pendelmonster platzieren",
+            "es": "Colocar un Monstruo Péndulo",
+            "pt": "Colocar um Monstro Pêndulo",
+            "it": "Posizionare un Mostro Pendulum",
+            "ja": "ペンデュラムモンスターを置く",
+            "kr": "펜듈럼 몬스터를 놓는다",
+        },
+        "是否再放置?": {
+            "en": "Place another one?",
+            "fr": "En placer un autre ?",
+            "de": "Ein weiteres platzieren?",
+            "es": "¿Colocar otro?",
+            "pt": "Colocar outro?",
+            "it": "Posizionarne un altro?",
+            "ja": "さらに置きますか？",
+            "kr": "한 장 더 놓겠습니까?",
         },
         "无效对方怪兽": {
             "en": "Negate an opponent's monster",
