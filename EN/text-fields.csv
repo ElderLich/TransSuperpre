@@ -137,7 +137,7 @@ During your Main Phase: You can banish this card from your GY; add 1 ""Spell Car
 100268025,Final Journey of the Soul,desc,"When your opponent activates a card or effect that includes an effect that Special Summons a Monster Card(s) from the GY: Negate that effect, and if you do, Special Summon 1 monster from your opponent's GY to their field, then send any number of face-up monsters they control to the GY whose total ATK equal 6000 or less. If this card is banished: You can add it to your hand, then immediately after this effect resolves (except during the Damage Step), you can Normal Summon 1 monster from your hand that requires 1 or more Tributes without Tributing. You can only use each effect of ""Final Journey of the Soul"" once per turn."
 100268025,Final Journey of the Soul,str1,Activate
 100268025,Final Journey of the Soul,str2,Return to the hand
-100268025,Final Journey of the Soul,str3,Normal Summon without Tributing ({CARD})
+100268025,Final Journey of the Soul,str3,Normal Summon without Tributing (Final Journey of the Soul)
 100268025,Final Journey of the Soul,str4,Summon without Tributing?
 100268201,Dark Paladin - Wave-Motion,name,Dark Paladin - Wave-Motion
 100268201,Dark Paladin - Wave-Motion,desc,"""Dark Magician"" + 1 Level 7 or higher monster
@@ -383,6 +383,17 @@ Cannot be used as Fusion Material. Must be either Fusion Summoned, or Special Su
 If this card is Special Summoned: You can place any number of monsters you control face-up in their owners' Spell & Trap Zones as Continuous Spells, then you can return cards on the field to the hand up to the number of Spells/Traps you control. You can only use this effect of ""Diabellze, Heiress of the Winter Raven's Forest"" once per turn. Gains 700 ATK/DEF for each Spell/Trap on the field. This face-up Fusion Summoned card cannot be used as Fusion Material."
 101307034,"Diabellze, Heiress of the Winter Raven's Forest",str1,Place
 101307034,"Diabellze, Heiress of the Winter Raven's Forest",str3,Return the card to the hand?
+101307035,Omega Vidolium the Power Patron of Heaven's End,name,Omega Vidolium the Power Patron of Heaven's End
+101307035,Omega Vidolium the Power Patron of Heaven's End,desc,"[ Pendulum Effect ]
+If a monster(s) is Special Summoned from the Extra Deck: You can return this card to the Extra Deck, then you can Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from either field, including a ""Power Patron"" monster you control.
+----------------------------------------
+[ Monster Effect ]
+3 monsters Special Summoned from the Extra Deck with 3000 or more ATK
+Must first be Fusion Summoned. Unaffected by card effects, except ""Power Patron"" cards'. When your opponent activates a monster effect while they control 2 or more monsters with the same Type as that monster (Quick Effect): You can banish (face-down) the top 3 cards of your Deck; negate the activation, and if you do, banish that monster face-down. Once per turn, during your Standby Phase: Place this card in your Pendulum Zone."
+101307035,Omega Vidolium the Power Patron of Heaven's End,str1,Fusion effect
+101307035,Omega Vidolium the Power Patron of Heaven's End,str2,Negate the activation
+101307035,Omega Vidolium the Power Patron of Heaven's End,str3,Place in the Pendulum Zone
+101307035,Omega Vidolium the Power Patron of Heaven's End,str4,Fusion Summon?
 101307037,"Zaltys, Knight of the Winter Raven",name,"Zaltys, Knight of the Winter Raven"
 101307037,"Zaltys, Knight of the Winter Raven",desc,"1 Illusion Tuner + 1+ non-Tuners
 If this card is Special Summoned: You can target up to 2 Spells/Traps on the field; return them to the hand. If this card is sent to the GY: You can activate this effect based on where it was sent from;
@@ -451,6 +462,11 @@ Face-up monsters on the field become FIRE. During the Main Phase, if this card w
 101307059,Deep Forest of the Winter Raven,desc,"When this card is activated: You can add 1 ""Winter Raven"" monster from your Deck to your hand. ""Winter Raven"" Monster Cards you control cannot be destroyed by card effects. During your End Phase: You can Set 1 ""Winter Raven"" Trap from your Deck or GY. You can only use this effect of ""Deep Forest of the Winter Raven"" once per turn. You can only activate 1 ""Deep Forest of the Winter Raven"" per turn."
 101307059,Deep Forest of the Winter Raven,str1,Add to hand?
 101307059,Deep Forest of the Winter Raven,str3,Set
+101307060,Power Patron Portal Plugging -Sword of Mutual Destruction-,name,Power Patron Portal Plugging -Sword of Mutual Destruction-
+101307060,Power Patron Portal Plugging -Sword of Mutual Destruction-,desc,"Discard 1 ""Power Patron"" card; place 1 ""Power Patron"" Pendulum Monster from your Extra Deck in your Pendulum Zone, then if it is a Fusion Monster, you can place 1 ""Power Patron"" Pendulum Monster from your Deck in your Pendulum Zone. If you control a ""Power Patron"" monster: You can banish this card from your GY, then target 1 face-up monster on the field; it gains 1500 ATK, also it cannot attack this turn. You can only use each effect of ""Power Patron Portal Plugging -Sword of Mutual Destruction-"" once per turn."
+101307060,Power Patron Portal Plugging -Sword of Mutual Destruction-,str1,Place a Pendulum Monster
+101307060,Power Patron Portal Plugging -Sword of Mutual Destruction-,str2,Increase ATK
+101307060,Power Patron Portal Plugging -Sword of Mutual Destruction-,str3,Place another one?
 101307062,Salamangreat Shrine,name,Salamangreat Shrine
 101307062,Salamangreat Shrine,desc,"(This card is always treated as ""Salamangreat Sanctuary"".)
 ""Salamangreat"" monsters you control are unaffected by your opponent's activated FIRE monsters' effects. You can only use each of the following effects of ""Salamangreat Shrine"" once per turn. If you Link Summon a ""Salamangreat"" Link Monster, you can use 1 ""Salamangreat"" Link Monster you control with its same name as the entire material. During your Main Phase: You can shuffle any number of ""Salamangreat"" cards from your hand into the Deck, then draw the same number of cards."
@@ -515,6 +531,12 @@ You can only use this effect of ""Splendor of the Winter Raven Witch"" once per 
 101307078,Illusion of the Winter Raven Witch,desc,"Fusion Summon 1 Illusion Fusion Monster from your Extra Deck, using monsters from your Extra Deck and/or field, also you cannot activate monster effects in the hand or GY for the rest of this turn after this card resolves, except Illusion monsters'. If the activation of this card in its owner's possession was negated by an opponent's card effect and sent to your GY: You can Set this card, and if you do, return all cards your opponent controls to the hand. You can only activate 1 ""llusion of the Winter Raven Witch"" per turn."
 101307078,Illusion of the Winter Raven Witch,str1,Activate
 101307078,Illusion of the Winter Raven Witch,str2,Set
+101307079,Theorealize Ephemeral Lull,name,Theorealize Ephemeral Lull
+101307079,Theorealize Ephemeral Lull,desc,"(This card is always treated as a ""Power Patron"" card.)
+Banish 1 ""Medius"" monster from your hand or face-up field; banish as many monsters on the field as possible that were Special Summoned from the Extra Deck, then you can Special Summon 1 ""Artmage"" monster from your GY. If you have 3 or more different Monster Types on your field: You can banish this card from your GY; Special Summon 1 of your banished ""Medius"" monsters. You can only use each effect of ""Theorealize Ephemeral Lull"" once per turn."
+101307079,Theorealize Ephemeral Lull,str1,Banish effect
+101307079,Theorealize Ephemeral Lull,str2,Special Summon
+101307079,Theorealize Ephemeral Lull,str3,Special Summon?
 101307080,Bunnillin Soft,name,Bunnillin Soft
 101307080,Bunnillin Soft,desc,"While you control 2 or more non-Token Normal Monsters, Normal Monsters you control gain 1000 ATK. You can only use each of the following effects of ""Bunnillin Soft"" once per turn. You can target 2 Normal Monsters in your GY with different Types, Attributes, and Levels; Special Summon them. If a Level 5 or higher Normal Monster(s) with 2000 or less original ATK/DEF is Special Summoned or declares an attack: You can add 1 card from your GY to your hand."
 101307080,Bunnillin Soft,str2,Special Summon
