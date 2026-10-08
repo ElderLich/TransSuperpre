@@ -1,13 +1,13 @@
 id,name,field,value
-100200298,反击魔法「攻击无力化」,name,反击魔法「攻击无力化」
-100200298,反击魔法「攻击无力化」,desc,"①：自己·对方的战斗阶段，可以从以下效果选择1个发动。
-●对方场上的怪兽的数量比自己场上多的场合，对方怪兽的攻击宣言时才能发动。那次攻击无效。那之后，战斗阶段结束。
-●对方把怪兽的效果发动时才能发动。那个发动无效并破坏。
-②：自己抽卡阶段通常抽卡时，把墓地的这张卡除外才能发动。从手卡把1只怪兽特殊召唤。"
-100200298,反击魔法「攻击无力化」,str1,Attiva
-100200298,反击魔法「攻击无力化」,str2,Evocazione Speciale
-100200298,反击魔法「攻击无力化」,str3,Annullare l'attacco
-100200298,反击魔法「攻击无力化」,str4,Annullare l'effetto
+100200298,"Contro-Magia ""Annulla Attacco""",name,"Contro-Magia ""Annulla Attacco"""
+100200298,"Contro-Magia ""Annulla Attacco""",desc,"Durante la Battle Phase: attiva 1 di questi effetti;
+● Quando un mostro dell'avversario dichiara un attacco mentre controlla più mostri di te: annulla l'attacco, poi termina la Battle Phase.
+● Quando il tuo avversario attiva l'effetto di un mostro: annulla quell'effetto e, se lo fai, distruggi quel mostro.
+Quando peschi per la tua normale pescata nella tua Draw Phase: puoi bandire questa carta dal tuo Cimitero; Evoca Specialmente 1 mostro dalla tua mano."
+100200298,"Contro-Magia ""Annulla Attacco""",str1,Attiva
+100200298,"Contro-Magia ""Annulla Attacco""",str2,Evocazione Speciale
+100200298,"Contro-Magia ""Annulla Attacco""",str3,Annullare l'attacco
+100200298,"Contro-Magia ""Annulla Attacco""",str4,Annullare l'effetto
 100262301,Il Signore Drago Oscuro di Ultum,name,Il Signore Drago Oscuro di Ultum
 100262301,Il Signore Drago Oscuro di Ultum,desc,"Un drago proveniente da un altro astro, risvegliatosi all'interno di un mondo sotterraneo sigillato. È un fatto ben noto persino nella Dimensione Zeta che appena risvegliati si possa esercitare solo un millesimo della propria vera forza."
 100268001,Exodia l'Obliteratore,name,Exodia l'Obliteratore
@@ -466,11 +466,11 @@ Puoi utilizzare ciascun effetto di ""Bunnillin Mocha MOD"" una sola volta per tu
 101307020,Bunnillin Mocha MOD,str1,Evocazione Speciale
 101307020,Bunnillin Mocha MOD,str2,Posiziona
 101307020,Bunnillin Mocha MOD,str3,Evocare Specialmente un Mostro Normale
-101307021,灾祸的根绝者,name,灾祸的根绝者
-101307021,灾祸的根绝者,desc,"这个卡名的①②的效果1回合各能使用1次。
-①：这张卡在手卡存在，不能通常召唤的怪兽在对方场上（表侧表示）·墓地·除外状态有4只以上存在的场合，对方只把怪兽1只特殊召唤之际才能发动（自己场上没有怪兽存在的场合，这个发动和这个效果不会被无效化）。那次特殊召唤无效，那只怪兽破坏，这张卡特殊召唤。
-②：把场上的这张卡送去墓地才能发动。场上1只怪兽的攻击力变成一半。"
-101307021,灾祸的根绝者,str1,Annulla l'Evocazione Speciale
+101307021,Eradicatore Eretico,name,Eradicatore Eretico
+101307021,Eradicatore Eretico,desc,"Quando il tuo avversario sta per Evocare Specialmente esattamente 1 mostro, mentre questa carta è nella tua mano e il tuo avversario ha 4 o più mostri che non possono essere Evocati Normalmente/Posizionati nel suo Terreno scoperto, Cimitero e/o carte bandite (Effetto Rapido): puoi annullare l'Evocazione e, se lo fai, distruggi quel mostro e, se fai ciò, Evoca Specialmente questa carta (mentre non controlli nessun mostro, questo effetto e la sua attivazione non possono essere annullati).
+Puoi mandare questa carta dal Terreno al Cimitero; dimezza l'ATK di 1 mostro sul Terreno.
+Puoi utilizzare ciascun effetto di ""Eradicatore Eretico"" una sola volta per turno."
+101307021,Eradicatore Eretico,str1,Annulla l'Evocazione Speciale
 101307023,Principessa Gru Segreta che Ricambia il Favore,name,Principessa Gru Segreta che Ricambia il Favore
 101307023,Principessa Gru Segreta che Ricambia il Favore,desc,"Durante l'End Phase del tuo avversario: puoi mettere questa carta dal tuo Cimitero in cima al Deck.
 Durante la Main Phase (Effetto Rapido): puoi far ritornare questa carta dal Terreno alla mano e, se lo fai, ogni giocatore pesca 1 carta, poi il tuo avversario può pescare 1 carta e, se lo fa, devi tenere la tua mano rivelata durante questa Main Phase.
@@ -545,21 +545,21 @@ Guadagna 700 ATK/DEF per ogni Magia/Trappola sul Terreno.
 Questa carta scoperta Evocata tramite Fusione non può essere utilizzata come Materiale da Fusione."
 101307034,"Diabellze, Padrona della Foresta del Corvo Bianco",str1,Posiziona
 101307034,"Diabellze, Padrona della Foresta del Corvo Bianco",str3,Far ritornare la carta in mano?
-101307035,终天狱神Ω比托利姆,name,终天狱神Ω比托利姆
-101307035,终天狱神Ω比托利姆,desc,"Valore Pendulum = 11
+101307035,Omega Vidolium il Patrono Potente della Fine del Cielo,name,Omega Vidolium il Patrono Potente della Fine del Cielo
+101307035,Omega Vidolium il Patrono Potente della Fine del Cielo,desc,"Valore Pendulum = 11
 [ Effetto Pendulum ]
-①：从额外卡组有怪兽特殊召唤的场合才能发动。这张卡回到额外卡组。那之后，可以把包含自己场上的「狱神」怪兽的，自己·对方场上的怪兽作为融合素材，把1只融合怪兽融合召唤。
+Se uno o più mostri vengono Evocati Specialmente dall'Extra Deck: puoi far ritornare questa carta nell'Extra Deck, poi puoi Evocare tramite Fusione 1 Mostro Fusione dal tuo Extra Deck, utilizzando mostri da entrambi i Terreni, compreso un mostro ""Patrono Potente"" che controlli.
 ----------------------------------------
 [ Effetto di un Mostro ]
-从额外卡组特殊召唤的攻击力3000以上的怪兽×3
-这张卡用融合召唤才能从额外卡组特殊召唤。
-①：这张卡只要在怪兽区域存在，不受「狱神」卡以外的卡的效果影响。
-②：对方把怪兽的效果发动时，若和那只怪兽相同种族的怪兽在对方场上有2只以上存在，从卡组上面把3张卡以里侧除外才能发动。那个发动无效并以里侧除外。
-③：自己准备阶段发动。这张卡在自己的灵摆区域放置。"
-101307035,终天狱神Ω比托利姆,str1,Effetto di Fusione
-101307035,终天狱神Ω比托利姆,str2,Annullare l'attivazione
-101307035,终天狱神Ω比托利姆,str3,Posizionare nella Zona Pendulum
-101307035,终天狱神Ω比托利姆,str4,Evocazione tramite Fusione?
+3 mostri Evocati Specialmente dall'Extra Deck con 3000 o più ATK
+Deve prima essere Evocato tramite Fusione.
+Questa carta è immune agli effetti delle carte, eccetto quelli delle carte ""Patrono Potente"".
+Quando il tuo avversario attiva l'effetto di un mostro mentre controlla 2 o più mostri dello stesso Tipo di quel mostro (Effetto Rapido): puoi bandire coperte le 3 carte in cima al tuo Deck; annulla l'attivazione e, se lo fai, bandisci quel mostro coperto.
+Una volta per turno, durante la tua Standby Phase: Posiziona questa carta nella tua Zona Pendulum."
+101307035,Omega Vidolium il Patrono Potente della Fine del Cielo,str1,Effetto di Fusione
+101307035,Omega Vidolium il Patrono Potente della Fine del Cielo,str2,Annullare l'attivazione
+101307035,Omega Vidolium il Patrono Potente della Fine del Cielo,str3,Posizionare nella Zona Pendulum
+101307035,Omega Vidolium il Patrono Potente della Fine del Cielo,str4,Evocazione tramite Fusione?
 101307037,"Zaltys, il Cavaliere del Corvo Bianco",name,"Zaltys, il Cavaliere del Corvo Bianco"
 101307037,"Zaltys, il Cavaliere del Corvo Bianco",desc,"1 Tuner Illusione + 1+ mostri non-Tuner
 Se questa carta viene Evocata Specialmente: puoi scegliere come bersaglio fino a 2 Magie/Trappole sul Terreno; falle ritornare nella mano.
@@ -588,13 +588,13 @@ Questa carta in Posizione di Difesa guadagna i seguenti effetti.
 ● Una volta per turno, durante l'End Phase: ogni giocatore guadagna 500 LP per ogni mostro in Posizione di Difesa che controlla."
 101307040,Dillydallasauro,str1,Cambia in Posizione di Difesa
 101307040,Dillydallasauro,str2,Guadagna LP
-101307044,高岭之天仙 火轮,name,高岭之天仙 火轮
-101307044,高岭之天仙 火轮,desc,"7星怪兽×2
-这个卡名的①②的效果1回合各能使用1次。
-①：包含从卡组把怪兽特殊召唤的效果的，卡的效果由对方发动时，把这张卡1个超量素材取除才能发动。对方抽1张。那之后，那个发动的效果无效并破坏。
-②：自己主要阶段2，以自己墓地1只7星怪兽为对象才能发动。自己受到那只怪兽的攻击力数值的伤害，那只怪兽和场上的这张卡回到手卡·额外卡组。"
-101307044,高岭之天仙 火轮,str1,Annullare l'effetto
-101307044,高岭之天仙 火轮,str2,Recuperare
+101307044,Karin la Saggia Celestiale delle Vette più Alte,name,Karin la Saggia Celestiale delle Vette più Alte
+101307044,Karin la Saggia Celestiale delle Vette più Alte,desc,"2 mostri di Livello 7
+Quando il tuo avversario attiva una carta o un effetto che include un effetto che Evoca Specialmente uno o più mostri dal Deck (Effetto Rapido): puoi staccare 1 materiale da questa carta; il tuo avversario pesca 1 carta, poi annulla quell'effetto attivato e, se lo fai, distruggi quella carta.
+Durante la tua Main Phase 2: puoi scegliere come bersaglio 1 mostro di Livello 7 nel tuo Cimitero; subisci danno pari al suo ATK e, se lo fai, fai ritornare quel mostro nella tua mano e questa carta sul Terreno nell'Extra Deck.
+Puoi utilizzare ciascun effetto di ""Karin la Saggia Celestiale delle Vette più Alte"" una sola volta per turno."
+101307044,Karin la Saggia Celestiale delle Vette più Alte,str1,Annullare l'effetto
+101307044,Karin la Saggia Celestiale delle Vette più Alte,str2,Recuperare
 101307048,Re delle Bestie che Sorge dalla Valle delle Fiamme,name,Re delle Bestie che Sorge dalla Valle delle Fiamme
 101307048,Re delle Bestie che Sorge dalla Valle delle Fiamme,desc,"3 mostri con Effetto FUOCO
 (Questa carta viene sempre considerata come ""Salamagna Leocaldo"".)
@@ -648,13 +648,13 @@ Durante la tua End Phase: puoi Posizionare 1 Trappola ""Corvo Bianco"" dal tuo D
 Puoi attivare solo 1 ""La Foresta Profonda del Corvo Bianco"" per turno."
 101307059,La Foresta Profonda del Corvo Bianco,str1,Aggiungere alla mano?
 101307059,La Foresta Profonda del Corvo Bianco,str3,Posiziona
-101307060,狱神封门-共灭之剑-,name,狱神封门-共灭之剑-
-101307060,狱神封门-共灭之剑-,desc,"这个卡名的①②的效果1回合各能使用1次。
-①：从手卡丢弃1张「狱神」卡才能发动。从额外卡组把1只「狱神」灵摆怪兽在自己的灵摆区域放置。这个效果把融合怪兽放置的场合，可以再从卡组把1只「狱神」灵摆怪兽在自己的灵摆区域放置。
-②：自己场上有「狱神」怪兽存在的场合，把墓地的这张卡除外，以场上1只表侧表示怪兽为对象才能发动。那只怪兽的攻击力上升1500，这个回合不能攻击。"
-101307060,狱神封门-共灭之剑-,str1,Posizionare un Mostro Pendulum
-101307060,狱神封门-共灭之剑-,str2,Aumentare ATK
-101307060,狱神封门-共灭之剑-,str3,Posizionarne un altro?
+101307060,Ostruzione del Portale del Patrono Potente -Spada della Distruzione Reciproca-,name,Ostruzione del Portale del Patrono Potente -Spada della Distruzione Reciproca-
+101307060,Ostruzione del Portale del Patrono Potente -Spada della Distruzione Reciproca-,desc,"Scarta 1 carta ""Patrono Potente""; metti 1 Mostro Pendulum ""Patrono Potente"" dal tuo Extra Deck nella tua Zona Pendulum, poi, se è un Mostro Fusione, puoi mettere 1 Mostro Pendulum ""Patrono Potente"" dal tuo Deck nella tua Zona Pendulum.
+Se controlli un mostro ""Patrono Potente"": puoi bandire questa carta dal tuo Cimitero, poi scegliere come bersaglio 1 mostro scoperto sul Terreno; esso guadagna 1500 ATK, inoltre non può attaccare in questo turno.
+Puoi utilizzare ciascun effetto di ""Ostruzione del Portale del Patrono Potente -Spada della Distruzione Reciproca-"" una sola volta per turno."
+101307060,Ostruzione del Portale del Patrono Potente -Spada della Distruzione Reciproca-,str1,Posizionare un Mostro Pendulum
+101307060,Ostruzione del Portale del Patrono Potente -Spada della Distruzione Reciproca-,str2,Aumentare ATK
+101307060,Ostruzione del Portale del Patrono Potente -Spada della Distruzione Reciproca-,str3,Posizionarne un altro?
 101307062,Sacrario Salamagna,name,Sacrario Salamagna
 101307062,Sacrario Salamagna,desc,"(Questa carta viene sempre considerata come ""Santuario Salamagna"".)
 I mostri ""Salamagna"" che controlli sono immuni agli effetti attivati dei mostri FUOCO del tuo avversario.
@@ -684,16 +684,16 @@ Se il tuo avversario controlla un Mostro con Effetto: puoi bandire questa carta 
 Puoi utilizzare ciascun effetto di ""La Piramide di Kepher"" una sola volta per turno."
 101307068,La Piramide di Kepher,str1,Attiva
 101307068,La Piramide di Kepher,str2,Recuperare
-101307069,魔兽的昂进,name,魔兽的昂进
-101307069,魔兽的昂进,desc,"这个卡名的①的效果1回合只能使用1次。
-①：从自己卡组上面把以下数量的卡以里侧除外，以场上1只表侧表示怪兽为对象才能发动。作为对象的怪兽适用那个效果。
-●5张：攻击力·守备力变成0。
-●10张：效果无效。
-●15张：以里侧除外。"
-101307069,魔兽的昂进,str1,Attiva
-101307069,魔兽的昂进,str2,Bandire 5 carte
-101307069,魔兽的昂进,str3,Bandire 10 carte
-101307069,魔兽的昂进,str4,Bandire 15 carte
+101307069,Scorrimento di Carte,name,Scorrimento di Carte
+101307069,Scorrimento di Carte,desc,"Puoi bandire a faccia in giù le 5, 10 o 15 carte in cima al tuo Deck, poi scegliere come bersaglio 1 mostro scoperto sul Terreno; applica ad esso l'effetto appropriato.
+● 5: il suo ATK/DEF diventano 0.
+● 10: annulla i suoi effetti.
+● 15: bandiscilo a faccia in giù.
+Puoi utilizzare questo effetto di ""Scorrimento di Carte"" una sola volta per turno."
+101307069,Scorrimento di Carte,str1,Attiva
+101307069,Scorrimento di Carte,str2,Bandire 5 carte
+101307069,Scorrimento di Carte,str3,Bandire 10 carte
+101307069,Scorrimento di Carte,str4,Bandire 15 carte
 101307071,Autunno,name,Autunno
 101307071,Autunno,desc,"Il nome di questa carta diventa ""Estate"" mentre è nella Zona Terreno.
 Una volta per turno: puoi mettere su questa carta un numero di Segnalini Stagione pari al numero di carte nella mano del tuo avversario.
@@ -738,13 +738,14 @@ Se l'attivazione di questa carta sotto il controllo del suo proprietario viene a
 Puoi attivare solo 1 ""Illusione della Strega del Corvo Bianco"" per turno."
 101307078,Illusione della Strega del Corvo Bianco,str1,Attiva
 101307078,Illusione della Strega del Corvo Bianco,str2,Posiziona
-101307079,向无预幻世托付的约定,name,向无预幻世托付的约定
-101307079,向无预幻世托付的约定,desc,"这个卡名在规则上也当作「狱神」卡使用。这个卡名的①②的效果1回合各能使用1次。
-①：从自己的手卡·场上（表侧表示）把1只「米底乌斯」怪兽除外才能发动。从额外卡组特殊召唤的场上的怪兽全部除外。那之后，可以从自己墓地把1只「神艺」怪兽特殊召唤。
-②：自己场上的怪兽的种族是3种类以上的场合，把墓地的这张卡除外才能发动。自己除外状态的1只「米底乌斯」怪兽特殊召唤。"
-101307079,向无预幻世托付的约定,str1,Effetto di bandire
-101307079,向无预幻世托付的约定,str2,Evocazione Speciale
-101307079,向无预幻世托付的约定,str3,Evocazione Speciale?
+101307079,Teorealizzare Quiete Effimera,name,Teorealizzare Quiete Effimera
+101307079,Teorealizzare Quiete Effimera,desc,"(Questa carta viene sempre considerata una carta ""Patrono Potente"".)
+Bandisci 1 mostro ""Medius"" dalla tua mano o dal Terreno scoperto; bandisci dal Terreno il maggior numero possibile di mostri che sono stati Evocati Specialmente dall'Extra Deck, poi puoi Evocare Specialmente 1 mostro ""Artmage"" dal tuo Cimitero.
+Se controlli 3 o più Tipi di Mostro diversi: puoi bandire questa carta dal tuo Cimitero; Evoca Specialmente 1 dei tuoi mostri ""Medius"" banditi.
+Puoi utilizzare ciascun effetto di ""Teorealizzare Quiete Effimera"" una sola volta per turno."
+101307079,Teorealizzare Quiete Effimera,str1,Effetto di bandire
+101307079,Teorealizzare Quiete Effimera,str2,Evocazione Speciale
+101307079,Teorealizzare Quiete Effimera,str3,Evocazione Speciale?
 101307080,Morbidezza Bunnillin,name,Morbidezza Bunnillin
 101307080,Morbidezza Bunnillin,desc,"Mentre controlli 2 o più Mostri Normali non-Segna-Mostro, i Mostri Normali che controlli guadagnano 1000 ATK.
 Puoi utilizzare ciascuno dei seguenti effetti di ""Morbidezza Bunnillin"" una sola volta per turno.
