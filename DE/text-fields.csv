@@ -141,7 +141,7 @@ Während deiner Main Phase: Du kannst diese Karte von deinem Friedhof verbannen;
 100268025,Letzte Reise der Seele,desc,"Wenn dein Gegner eine Karte oder einen Effekt aktiviert, die oder der einen Effekt enthält, der ein oder mehr Monster als Spezialbeschwörung vom Friedhof beschwört: Du kannst jenen Effekt annullieren und falls du dies tust, beschwöre 1 Monster als Spezialbeschwörung vom Friedhof deines Gegners auf seine Spielfeldseite, dann kannst du eine beliebige Anzahl offener Monster, die er kontrolliert und deren gemeinsame ATK höchstens 6000 betragen, auf den Friedhof legen. Falls diese Karte verbannt wird: Du kannst sie deiner Hand hinzufügen, dann, sofort nachdem dieser Effekt aufgelöst wurde, kannst du 1 Monster von deiner Hand, das 1 oder mehr Tribute erfordert, als Normalbeschwörung beschwören, ohne Tribut anzubieten. Du kannst jeden Effekt von „Letzte Reise der Seele“ nur einmal pro Spielzug verwenden."
 100268025,Letzte Reise der Seele,str1,Aktivieren
 100268025,Letzte Reise der Seele,str2,Auf die Hand zurückgeben
-100268025,Letzte Reise der Seele,str3,Normalbeschwörung ohne Tribut ({CARD})
+100268025,Letzte Reise der Seele,str3,Normalbeschwörung ohne Tribut (Letzte Reise der Seele)
 100268025,Letzte Reise der Seele,str4,Ohne Tribut beschwören?
 100268201,Dunkler Paladin – Wellenbewegung,name,Dunkler Paladin – Wellenbewegung
 100268201,Dunkler Paladin – Wellenbewegung,desc,"„Dunkler Magier“ + 1 Monster der Stufe 7 oder höher
@@ -388,6 +388,17 @@ Kann nicht als Fusionsmaterial verwendet werden. Muss entweder als Fusionsbeschw
 Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst eine beliebige Anzahl Monster, die du kontrollierst, offen als Permanente Zauber in die Zauber- & Fallenzonen ihrer Besitzer legen, dann kannst du bis zu so viele Karten auf dem Spielfeld auf die Hand zurückgeben wie die Anzahl der Zauber/Fallen, die du kontrollierst. Du kannst diesen Effekt von „Diabellze, Herrin des Weißkrähenwaldes“ nur einmal pro Spielzug verwenden. Erhält für jeden Zauber / jede Falle auf dem Spielfeld 700 ATK/DEF. Diese offene als Fusionsbeschwörung beschworene Karte kann nicht als Fusionsmaterial verwendet werden."
 101307034,"Diabellze, Herrin des Weißkrähenwaldes",str1,Platzieren
 101307034,"Diabellze, Herrin des Weißkrähenwaldes",str3,Die Karte auf die Hand zurückgeben?
+101307035,Omega Vidolium der Machtpatron des Himmelsendes,name,Omega Vidolium der Machtpatron des Himmelsendes
+101307035,Omega Vidolium der Machtpatron des Himmelsendes,desc,"[ Pendeleffekt ]
+Falls ein oder mehr Monster als Spezialbeschwörung vom Extra Deck beschworen werden: Du kannst diese Karte ins Extra Deck zurücklegen, dann kannst du 1 Fusionsmonster als Fusionsbeschwörung von deinem Extra Deck beschwören, indem du Monster von deiner oder der Spielfeldseite deines Gegners als Material verwendest, darunter ein „Machtpatron“-Monster, das du kontrollierst.
+----------------------------------------
+[ Monstereffekt ]
+3 als Spezialbeschwörung vom Extra Deck beschworene Monster mit 3000 oder mehr ATK
+Muss erst als Fusionsbeschwörung beschworen werden. Bleibt von Karteneffekten unberührt, außer von Effekten von „Machtpatron“-Karten. Wenn dein Gegner einen Monstereffekt aktiviert, solange er 2 oder mehr Monster mit demselben Typ wie jenes Monster kontrolliert (Schnelleffekt): Du kannst die obersten 3 Karten deines Decks verdeckt verbannen; annulliere die Aktivierung und falls du dies tust, verbanne jenes Monster verdeckt. Einmal pro Spielzug, während deiner Standby Phase: Lege diese Karte in deine Pendelzone."
+101307035,Omega Vidolium der Machtpatron des Himmelsendes,str1,Fusionseffekt
+101307035,Omega Vidolium der Machtpatron des Himmelsendes,str2,Aktivierung annullieren
+101307035,Omega Vidolium der Machtpatron des Himmelsendes,str3,In die Pendelzone legen
+101307035,Omega Vidolium der Machtpatron des Himmelsendes,str4,Als Fusionsbeschwörung beschwören?
 101307037,"Zaltys, Weißkrähenritter",name,"Zaltys, Weißkrähenritter"
 101307037,"Zaltys, Weißkrähenritter",desc,"1 Illusion-Empfänger + 1+ Nicht-Empfänger-Monster
 Falls diese Karte als Spezialbeschwörung beschworen wird: Du kannst bis zu 2 Zauber/Fallen auf dem Spielfeld wählen; gib sie auf die Hand zurück. Falls diese Karte auf den Friedhof gelegt wird: Du kannst abhängig davon, von wo sie auf den Friedhof gelegt wurde, den folgenden Effekt aktivieren;
@@ -456,6 +467,11 @@ Offene Monster auf dem Spielfeld werden zu FEUER Monstern. Während der Main Pha
 101307059,Der tiefe Wald der Weißkrähe,desc,"Wenn diese Karte aktiviert wird: Du kannst deiner Hand 1 „Weißkrähe“-Monster von deinem Deck hinzufügen. Solange sich diese Karte in der Spielfeldzone befindet, können „Weißkrähe“-Monsterkarten, die du kontrollierst, nicht durch Karteneffekte zerstört werden. Während deiner End Phase: Du kannst 1 „Weißkrähe“-Falle von deinem Deck oder Friedhof setzen. Du kannst diesen Effekt von „Der tiefe Wald der Weißkrähe“ nur einmal pro Spielzug verwenden. Du kannst nur 1 „Der tiefe Wald der Weißkrähe“ pro Spielzug aktivieren."
 101307059,Der tiefe Wald der Weißkrähe,str1,Der Hand hinzufügen?
 101307059,Der tiefe Wald der Weißkrähe,str3,Setzen
+101307060,Machtpatron-Portalversiegelung - Schwert der gegenseitigen Vernichtung -,name,Machtpatron-Portalversiegelung - Schwert der gegenseitigen Vernichtung -
+101307060,Machtpatron-Portalversiegelung - Schwert der gegenseitigen Vernichtung -,desc,"Wirf 1 „Machtpatron“-Karte ab; lege 1 „Machtpatron“-Pendelmonster von deinem Extra Deck in deine Pendelzone, dann, falls es ein Fusionsmonster ist, kannst du 1 „Machtpatron“-Pendelmonster von deinem Deck in deine Pendelzone legen. Falls du ein „Machtpatron“-Monster kontrollierst: Du kannst diese Karte von deinem Friedhof verbannen und dann 1 offenes Monster auf dem Spielfeld wählen; es erhält 1500 ATK, zusätzlich kann es in diesem Spielzug nicht angreifen. Du kannst jeden Effekt von „Machtpatron-Portalversiegelung - Schwert der gegenseitigen Vernichtung -“ nur einmal pro Spielzug verwenden."
+101307060,Machtpatron-Portalversiegelung - Schwert der gegenseitigen Vernichtung -,str1,Ein Pendelmonster platzieren
+101307060,Machtpatron-Portalversiegelung - Schwert der gegenseitigen Vernichtung -,str2,ATK erhöhen
+101307060,Machtpatron-Portalversiegelung - Schwert der gegenseitigen Vernichtung -,str3,Ein weiteres platzieren?
 101307062,Grosalamander-Schrein,name,Grosalamander-Schrein
 101307062,Grosalamander-Schrein,desc,"(Diese Karte wird immer als „Grosalamander-Heiligtum“ behandelt.)
 „Grosalamander“-Monster, die du kontrollierst, bleiben von den aktivierten Effekten der FEUER Monster deines Gegners unberührt. Du kannst jeden der folgenden Effekte von „Grosalamander-Schrein“ nur einmal pro Spielzug verwenden. Falls du ein „Grosalamander“-Linkmonster als Linkbeschwörung beschwörst, kannst du 1 „Grosalamander“-Linkmonster mit demselben Namen, das du kontrollierst, als das gesamte Material verwenden. Während deiner Main Phase: Du kannst eine beliebige Anzahl „Grosalamander“-Karten von deiner Hand ins Deck mischen, dann ziehe dieselbe Anzahl Karten."
@@ -525,6 +541,12 @@ Du kannst diesen Effekt von „Glanz der Weißkrähenhexe“ nur einmal pro Spie
 101307078,Trugbild der Weißkrähenhexe,desc,"Beschwöre 1 Illusion-Fusionsmonster als Fusionsbeschwörung von deinem Extra Deck, indem du Monster von deinem Extra Deck und/oder deiner Spielfeldseite als Material verwendest, zusätzlich kannst du für den Rest dieses Spielzugs, nachdem diese Karte aufgelöst wurde, keine Monstereffekte in der Hand oder im Friedhof aktivieren, außer den Effekten von Illusion-Monstern. Falls die Aktivierung dieser Karte, die sich im Besitz ihres Besitzers befindet, durch einen Karteneffekt eines Gegners annulliert wird und diese Karte auf den Friedhof gelegt wird: Du kannst diese Karte setzen und falls du dies tust, gib alle Karten, die dein Gegner kontrolliert, auf die Hand zurück. Du kannst nur 1 „Trugbild der Weißkrähenhexe“ pro Spielzug aktivieren."
 101307078,Trugbild der Weißkrähenhexe,str1,Aktivieren
 101307078,Trugbild der Weißkrähenhexe,str2,Setzen
+101307079,Theorealisieren der vergänglichen Ruhe,name,Theorealisieren der vergänglichen Ruhe
+101307079,Theorealisieren der vergänglichen Ruhe,desc,"(Diese Karte wird immer als „Machtpatron“-Karte behandelt.)
+Verbanne 1 „Medius“-Monster von deiner Hand oder offen von deiner Spielfeldseite; verbanne so viele Monster auf dem Spielfeld wie möglich, die als Spezialbeschwörung vom Extra Deck beschworen wurden, dann kannst du 1 „Kunstmagus“-Monster als Spezialbeschwörung von deinem Friedhof beschwören. Falls sich Monster mit 3 oder mehr unterschiedlichen Typen auf deiner Spielfeldseite befinden: Du kannst diese Karte von deinem Friedhof verbannen; beschwöre 1 deiner verbannten „Medius“-Monster als Spezialbeschwörung. Du kannst jeden Effekt von „Theorealisieren der vergänglichen Ruhe“ nur einmal pro Spielzug verwenden."
+101307079,Theorealisieren der vergänglichen Ruhe,str1,Verbannungseffekt
+101307079,Theorealisieren der vergänglichen Ruhe,str2,Als Spezialbeschwörung beschwören
+101307079,Theorealisieren der vergänglichen Ruhe,str3,Als Spezialbeschwörung beschwören?
 101307080,Bunnillin Soft,name,Bunnillin Soft
 101307080,Bunnillin Soft,desc,"Solange du 2 oder mehr Normale Monster, außer Spielmarken, kontrollierst, erhalten Normale Monster, die du kontrollierst, 1000 ATK. Du kannst jeden der folgenden Effekte von „Bunnillin Soft“ nur einmal pro Spielzug verwenden. Du kannst 2 Normale Monster mit unterschiedlichen Typen, Eigenschaften und Stufen in deinem Friedhof wählen; beschwöre sie als Spezialbeschwörung. Falls ein oder mehr Normale Monster der Stufe 5 oder höher mit jeweils 2000 oder weniger Grund-ATK und Grund-DEF als Spezialbeschwörung beschworen werden oder einen Angriff deklarieren: Du kannst deiner Hand 1 Karte von deinem Friedhof hinzufügen."
 101307080,Bunnillin Soft,str2,Als Spezialbeschwörung beschwören
