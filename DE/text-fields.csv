@@ -430,6 +430,33 @@ Falls diese Karte in Angriffsposition als Spezialbeschwörung beschworen wird: �
 Wenn dein Gegner eine Karte oder einen Effekt aktiviert, die oder der einen Effekt enthält, der ein oder mehr Monster als Spezialbeschwörung vom Deck beschwört (Schnelleffekt): Du kannst 1 Material von dieser Karte abhängen; dein Gegner zieht 1 Karte, dann annulliere jenen aktivierten Effekt und falls du dies tust, zerstöre jene Karte. Während deiner Main Phase 2: Du kannst 1 Monster der Stufe 7 in deinem Friedhof wählen; du erhältst Schaden in Höhe seiner ATK und falls du dies tust, gib sowohl jenes Monster als auch diese Karte auf dem Spielfeld auf die Hand oder ins Extra Deck zurück. Du kannst jeden Effekt von „Karin, die himmlische Weise der höchsten Höhen“ nur einmal pro Spielzug verwenden."
 101307044,"Karin, die himmlische Weise der höchsten Höhen",str1,Effekt annullieren
 101307044,"Karin, die himmlische Weise der höchsten Höhen",str2,Zurückholen
+101307045,无垢牵绊 神艺学徒,name,无垢牵绊 神艺学徒
+101307045,无垢牵绊 神艺学徒,desc,"包含「无垢大艺术」、「神艺」怪兽之内任意种的怪兽2只以上
+这个卡名的②的效果1回合只能使用1次。
+①：对方不能把自己场上的连接状态的怪兽作为效果的对象。
+②：自己主要阶段才能发动。从卡组选1只「无垢大艺术」、「神艺」、「终刻」、「耀圣」怪兽，加入手卡或特殊召唤。那之后，自己场上的怪兽的种族是3种类以上的场合，可以把自己墓地·除外状态的1只怪兽特殊召唤。"
+101307045,无垢牵绊 神艺学徒,str2,Der Hand hinzufügen
+101307045,无垢牵绊 神艺学徒,str3,Als Spezialbeschwörung beschwören?
+101307046,无垢血盟 终刻龙卫,name,无垢血盟 终刻龙卫
+101307046,无垢血盟 终刻龙卫,desc,"包含「无垢大艺术」、「终刻」怪兽之内任意种的怪兽2只
+这个卡名的②③的效果1回合各能使用1次。
+①：连接状态的自己怪兽战斗破坏的怪兽不去墓地而除外。
+②：自己主要阶段才能发动。选自己场上1张卡，破坏或除外。那之后，可以让自己·对方墓地的卡合计最多2张回到卡组。
+③：把墓地的这张卡除外才能发动。从手卡把1只「终刻」怪兽特殊召唤。"
+101307046,无垢血盟 终刻龙卫,str2,破坏除外
+101307046,无垢血盟 终刻龙卫,str3,Als Spezialbeschwörung beschwören
+101307046,无垢血盟 终刻龙卫,str4,是否要除外？
+101307046,无垢血盟 终刻龙卫,str5,Die Karte ins Deck zurücklegen?
+101307047,无垢协奏 耀圣诗团,name,无垢协奏 耀圣诗团
+101307047,无垢协奏 耀圣诗团,desc,"包含「无垢大艺术」、「耀圣」怪兽之内任意种的怪兽2只
+这个卡名的②③的效果1回合各能使用1次。
+①：自己场上的连接状态的怪兽的攻击力，上升场上的怪兽的种族种类×300。
+②：自己主要阶段才能发动。选自己场上1张卡，送去墓地或除外。那之后，可以让场上1只怪兽回到手卡。
+③：把墓地的这张卡除外才能发动。从手卡把1只「耀圣」怪兽特殊召唤。"
+101307047,无垢协奏 耀圣诗团,str2,送墓或除外
+101307047,无垢协奏 耀圣诗团,str3,Als Spezialbeschwörung beschwören
+101307047,无垢协奏 耀圣诗团,str4,是否要除外？
+101307047,无垢协奏 耀圣诗团,str5,Das Monster auf die Hand zurückgeben?
 101307048,König der Bestien aus dem Tal der Flammen,name,König der Bestien aus dem Tal der Flammen
 101307048,König der Bestien aus dem Tal der Flammen,desc,"3 FEUER Effektmonster
 (Diese Karte wird immer als „Grosalamander Heißleo“ behandelt.)
@@ -472,6 +499,12 @@ Offene Monster auf dem Spielfeld werden zu FEUER Monstern. Während der Main Pha
 101307060,Machtpatron-Portalversiegelung - Schwert der gegenseitigen Vernichtung -,str1,Ein Pendelmonster platzieren
 101307060,Machtpatron-Portalversiegelung - Schwert der gegenseitigen Vernichtung -,str2,ATK erhöhen
 101307060,Machtpatron-Portalversiegelung - Schwert der gegenseitigen Vernichtung -,str3,Ein weiteres platzieren?
+101307061,神幻学都 无垢大艺术学园,name,神幻学都 无垢大艺术学园
+101307061,神幻学都 无垢大艺术学园,desc,"这个卡名在规则上也当作「神艺」卡使用。
+①：自己发动的「米底乌斯」怪兽的效果不会被无效化。
+②：自己墓地有「狱神」怪兽存在的场合，从自己墓地把1只融合·同调·超量·怪兽除外，宣言1个「无垢大艺术」连接怪兽的卡名才能发动（这个回合，不能为让这个卡名的这个效果的发动而宣言相同卡名）。宣言的1只怪兽从额外卡组特殊召唤。这个效果特殊召唤的怪兽不能作为连接素材。"
+101307061,神幻学都 无垢大艺术学园,str1,Aktivieren
+101307061,神幻学都 无垢大艺术学园,str2,Der Effekt von {CARD} wird derzeit angewendet.
 101307062,Grosalamander-Schrein,name,Grosalamander-Schrein
 101307062,Grosalamander-Schrein,desc,"(Diese Karte wird immer als „Grosalamander-Heiligtum“ behandelt.)
 „Grosalamander“-Monster, die du kontrollierst, bleiben von den aktivierten Effekten der FEUER Monster deines Gegners unberührt. Du kannst jeden der folgenden Effekte von „Grosalamander-Schrein“ nur einmal pro Spielzug verwenden. Falls du ein „Grosalamander“-Linkmonster als Linkbeschwörung beschwörst, kannst du 1 „Grosalamander“-Linkmonster mit demselben Namen, das du kontrollierst, als das gesamte Material verwenden. Während deiner Main Phase: Du kannst eine beliebige Anzahl „Grosalamander“-Karten von deiner Hand ins Deck mischen, dann ziehe dieselbe Anzahl Karten."
