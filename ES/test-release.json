@@ -1,5 +1,29 @@
 [
   {
+    "name": "Ars Magna Artmagia",
+    "desc": "2+ monstruos, incluyendo un monstruo \"Ars Magna\" o \"Artmagia\"\t\nTu adversario no puede seleccionar tus monstruos enlazados con efectos de cartas. \nDurante tu Main Phase: puedes añadir a tu mano, o Invocar de Modo Especial, 1 monstruo \"Ars Magna\", \"Artmagia\", \"DoomZ\" o \"Elfnota\" desde tu Deck, y después si tienes 3 o más Tipos de Monstruo diferentes en tu Campo, puedes Invocar de Modo Especial 1 monstruo desde tu Cementerio o destierro. \nSólo puedes usar este efecto de \"Ars Magna Artmagia\" una vez por turno",
+    "overallString": "[Monstruo|Efecto|Enlace] Hada/LUZ  [LINK-4] 2500/-  [↑][←][→][↓]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101307045.jpg?version=19.7"
+  },
+  {
+    "name": "Ars Magna DoomZ",
+    "desc": "2 monstruos, incluyendo un monstruo \"Ars Magna\" o \"DoomZ\"\t\nCualquier monstruo destruido en batalla con tu monstruo enlazado es desterrado. \nDurante tu Main Phase: puedes destruir, o desterrar, 1 carta que controles, y después puedes barajar al Deck hasta 2 cartas de cualquier Cementerio. \nSólo puedes usar estos efectos de \"Ars Magna DoomZ\" una vez por turno cada uno. \nPuedes desterrar esta carta en tu Cementerio; Invoca de Modo Especial 1 monstruo \"DoomZ\" desde tu mano.",
+    "overallString": "[Monstruo|Efecto|Enlace] Dragón/LUZ  [LINK-2] 1500/-  [←][↙]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101307046.jpg?version=19.7"
+  },
+  {
+    "name": "Ars Magna Elfnota",
+    "desc": "2 monstruos, incluyendo un monstruo \"Ars Magna\" o \"Elfnota\"\t\nTus monstruos enlazados ganan 300 ATK por cada Tipo de Monstruo diferente en el Campo. \nSólo puedes usar los siguientes efectos de \"Ars Magna Elfnota\" una vez por turno cada uno. \nDurante tu Main Phase: puedes mandar al Cementerio, o desterrar, 1 carta que controles, y después puedes devolver 1 monstruo en el Campo a la mano. \nPuedes desterrar esta carta en tu Cementerio; Invoca de Modo Especial 1 monstruo \"Elfnota\" desde tu mano.",
+    "overallString": "[Monstruo|Efecto|Enlace] Lanzador de Conjuros/LUZ  [LINK-2] 1500/-  [→][↘]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101307047.jpg?version=19.7"
+  },
+  {
+    "name": "Ars Magna Acrópolis de Apariciones Arcanas Académicas",
+    "desc": "(Esta carta se trata siempre como una carta \"Artmagia\").\nLos efectos activados de tus monstruos \"Medius\" no pueden ser negados. \nSi tienes un monstruo \"Modelo de Poder\" en tu Cementerio: puedes desterrar 1 Monstruo de Fusión, Sincronía o Xyz de tu Cementerio, y declarar 1 nombre de Carta de Monstruo de Enlace \"Ars Magna\" que no haya sido declarado para \"Ars Magna Acrópolis de Apariciones Arcanas Académicas\" este turno; Invoca de Modo Especial 1 monstruo con ese nombre desde tu Deck Extra, pero no puede ser usado como Material de Enlace.",
+    "overallString": "[Mágica|Campo]",
+    "picUrl": "https://cdntx.moecube.com/ygopro-super-pre/data/pics/101307061.jpg?version=19.7"
+  },
+  {
     "name": "Omega Vidolium, el Modelo de Poder del Fin Celestial",
     "desc": "←◊11 Escala 11◊→\r\n【Efecto de Péndulo】\r\nSi un monstruo es Invocado de Modo Especial desde el Deck Extra: puedes devolver esta carta al Deck Extra, y después puedes Invocar por Fusión 1 Monstruo de Fusión usando monstruos en cualquier Campo, incluyendo un monstruo \"Modelo de Poder\" que controles.\r\n━━━━━━━━━━━━━━━━━━━━━━━\r\n【Efecto de Monstruo】\r\n3 monstruos Invocados de Modo Especial desde el Deck Extra con 3000 ATK o más\t\r\nDebe ser primero Invocado por Fusión. \r\nNo es afectada por efectos de cartas que no sean \"Modelo de Poder\". \r\n(Efecto Rápido): Cuando tu adversario activa un efecto de monstruo mientras controla 2 o más monstruos del mismo Tipo que ese monstruo: puedes desterrar 3 cartas de la parte superior de tu Deck boca abajo; niega esa activación y, si lo haces, destiérrala boca abajo. \r\nDurante tu Fase de Standby: Coloca esta carta en tu Zona de Péndulo.",
     "overallString": "[Monstruo|Efecto|Fusión|Péndulo] Dragón/OSCURIDAD  [★12] 4000/4000  11/11",
